@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type CSSProperties } from "react";
 import {
   createRecommendation,
   getHardwareCatalog,
@@ -13,6 +13,21 @@ import {
   type Recommendation,
   type TaskStatus,
 } from "./lib/api";
+import {
+  appendTurn,
+  buildContextMessages,
+  createTurn,
+  patchTurn,
+  toggleTurn,
+  type ConversationTurn,
+} from "./lib/conversation";
+import {
+  DEFAULT_SIDEBAR_WIDTH,
+  MIN_SIDEBAR_WIDTH,
+  SIDEBAR_STORAGE_KEY,
+  clampSidebarWidth,
+  readStoredSidebarWidth,
+} from "./lib/sidebarLayout";
 
 const AGENT_NAMES = [
   "SupervisorAgent",
@@ -75,14 +90,18 @@ type HistoryEntry = {
 };
 
 function App() {
-  const [prompt, setPrompt] = useState("");
+  const [draft, setDraft] = useState("");
+  const [turns, setTurns] = useState<ConversationTurn[]>([]);
+  const [selectedTurnId, setSelectedTurnId] = useState<string | null>(null);
   const [online, setOnline] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [taskStatus, setTaskStatus] = useState<TaskStatus | null>(null);
-  const [recommendation, setRecommendation] = useState<Recommendation | null>(null);
-  const [answerChunks, setAnswerChunks] = useState<AnswerChunk[]>([]);
-  const [error, setError] = useState("");
   const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [sidebarWidth, setSidebarWidth] = useState(() =>
+    readStoredSidebarWidth(
+      localStorage.getItem(SIDEBAR_STORAGE_KEY),
+      window.innerWidth,
+    )
+  );
   const [traceOpen, setTraceOpen] = useState(() => window.innerWidth > 1030);
   const [catalog, setCatalog] = useState<HardwareCatalog | null>(null);
   const [category, setCategory] = useState("");
@@ -94,6 +113,7 @@ function App() {
     }
   });
   const endRef = useRef<HTMLDivElement>(null);
+  const sidebarDragCleanup = useRef<(() => void) | null>(null);
 
   useEffect(() => {
     getHealth().then(setOnline);
@@ -105,8 +125,24 @@ function App() {
   }, [history]);
 
   useEffect(() => {
-    if (loading || recommendation) endRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [taskStatus?.progress, answerChunks.length, loading, recommendation]);
+    localStorage.setItem(SIDEBAR_STORAGE_KEY, String(sidebarWidth));
+  }, [sidebarWidth]);
+
+  useEffect(() => {
+    const onResize = () => {
+      setSidebarWidth((width) => clampSidebarWidth(width, window.innerWidth));
+    };
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
+
+  useEffect(() => () => sidebarDragCleanup.current?.(), []);
+
+  useEffect(() => {
+    if (loading || turns.length) {
+      endRef.current?.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [loading, turns]);
 
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
@@ -125,24 +161,24 @@ function App() {
   }
 
   function newConversation() {
-    setPrompt("");
-    setTaskStatus(null);
-    setRecommendation(null);
-    setAnswerChunks([]);
-    setError("");
+    setDraft("");
+    setTurns([]);
+    setSelectedTurnId(null);
     setSidebarOpen(false);
   }
 
   async function submit() {
-    const text = prompt.trim();
+    const text = draft.trim();
     if (loading || text.length < 2) return;
+    const turn = createTurn(text);
+    const contextMessages = buildContextMessages(turns);
+    setTurns((items) => appendTurn(items, turn));
+    setSelectedTurnId(turn.id);
+    setDraft("");
     setLoading(true);
-    setError("");
-    setTaskStatus(null);
-    setRecommendation(null);
-    setAnswerChunks([]);
     try {
-      const created = await createRecommendation(text);
+      const created = await createRecommendation(text, contextMessages);
+      setTurns((items) => patchTurn(items, turn.id, { taskId: created.task_id }));
       const entry: HistoryEntry = {
         taskId: created.task_id,
         prompt: text,
@@ -152,47 +188,129 @@ function App() {
       setHistory((items) => [entry, ...items.filter((item) => item.taskId !== entry.taskId)]);
       await streamRecommendation(created.task_id, {
         onStatus: (status) => {
-          setTaskStatus(status);
+          setTurns((items) => items.map((item) =>
+            item.id === turn.id
+              ? {
+                  ...item,
+                  status: status.status,
+                  responseKind: status.response_kind,
+                  assistantMessage: status.assistant_message || item.assistantMessage,
+                  taskStatus: status,
+                  agentRuns: status.agent_runs,
+                  error:
+                    status.response_kind === "error"
+                      ? status.degraded_reason || "智能体暂时无法完成任务，请稍后重试。"
+                      : item.error,
+                  recommendation:
+                    status.response_kind === "error"
+                      ? null
+                      : item.recommendation,
+                }
+              : item
+          ));
           setHistory((items) =>
             items.map((item) => item.taskId === status.task_id ? { ...item, status: status.status } : item),
           );
         },
-        onAnswer: (chunk) => setAnswerChunks((items) => [...items, chunk]),
-        onResult: setRecommendation,
+        onAnswer: (chunk) => {
+          setTurns((items) => items.map((item) =>
+            item.id === turn.id
+              ? {
+                  ...item,
+                  answerChunks: [...item.answerChunks, chunk],
+                  assistantMessage:
+                    chunk.kind === "message" && typeof chunk.content === "string"
+                      ? chunk.content
+                      : item.assistantMessage,
+                }
+              : item
+          ));
+        },
+        onResult: (result) => {
+          setTurns((items) => items.map((item) =>
+            item.id === turn.id
+              ? item.responseKind && item.responseKind !== "recommendation"
+                ? {
+                    ...item,
+                    status: result.status,
+                    agentRuns: result.agent_runs,
+                  }
+                : {
+                    ...item,
+                    status: result.status,
+                    responseKind: "recommendation",
+                    recommendation: result,
+                    agentRuns: result.agent_runs,
+                  }
+              : item
+          ));
+        },
       });
     } catch (reason) {
-      setError(reason instanceof Error ? reason.message : "任务执行失败");
+      setTurns((items) => patchTurn(items, turn.id, {
+        status: "failed",
+        responseKind: "error",
+        error: reason instanceof Error ? reason.message : "任务执行失败",
+      }));
     } finally {
       setLoading(false);
     }
   }
 
   async function openHistory(item: HistoryEntry) {
-    setPrompt(item.prompt);
     setSidebarOpen(false);
-    setError("");
-    setAnswerChunks([]);
     try {
       const status = await getRecommendationStatus(item.taskId);
-      setTaskStatus(status);
-      if (status.status === "completed" || status.status === "degraded") {
-        setRecommendation(await getRecommendation(item.taskId));
-      } else {
-        setRecommendation(null);
+      let loadedRecommendation: Recommendation | null = null;
+      if (
+        status.response_kind === "recommendation"
+        && (status.status === "completed" || status.status === "degraded")
+      ) {
+        loadedRecommendation = await getRecommendation(item.taskId);
       }
+      const loadedTurn: ConversationTurn = {
+        ...createTurn(item.prompt, `history-${item.taskId}`, item.createdAt),
+        taskId: item.taskId,
+        status: status.status,
+        responseKind: status.response_kind,
+        assistantMessage: status.assistant_message,
+        taskStatus: status,
+        agentRuns: status.agent_runs,
+        recommendation: loadedRecommendation,
+        error:
+          status.response_kind === "error"
+            ? status.degraded_reason || "智能体暂时无法完成任务，请稍后重试。"
+            : "",
+      };
+      setTurns([loadedTurn]);
+      setSelectedTurnId(loadedTurn.id);
+      setDraft("");
     } catch (reason) {
-      setError(reason instanceof Error ? reason.message : "无法读取历史任务");
+      const failedTurn = {
+        ...createTurn(item.prompt, `history-${item.taskId}`, item.createdAt),
+        taskId: item.taskId,
+        status: "failed" as const,
+        responseKind: "error" as const,
+        error: reason instanceof Error ? reason.message : "无法读取历史任务",
+      };
+      setTurns([failedTurn]);
+      setSelectedTurnId(failedTurn.id);
     }
   }
 
-  const runs = taskStatus?.agent_runs ?? recommendation?.agent_runs ?? emptyRuns;
-  const hasConversation = Boolean(taskStatus || recommendation || loading || error);
-  const clarification = taskStatus?.status === "needs_clarification"
-    ? taskStatus.follow_up_questions.join(" ")
-    : "";
+  const selectedTurn =
+    turns.find((turn) => turn.id === selectedTurnId)
+    ?? turns[turns.length - 1]
+    ?? null;
+  const runs = selectedTurn?.agentRuns.length ? selectedTurn.agentRuns : emptyRuns;
+  const taskStatus = selectedTurn?.taskStatus ?? null;
+  const hasConversation = turns.length > 0;
+  const frameStyle = {
+    "--sidebar-width": `${sidebarWidth}px`,
+  } as CSSProperties;
 
   return (
-    <div className="app-frame">
+    <div className="app-frame" style={frameStyle}>
       <button className="mobile-menu" onClick={() => setSidebarOpen(true)} aria-label="打开侧栏">
         <MenuIcon />
       </button>
@@ -207,12 +325,59 @@ function App() {
         onHistory={openHistory}
         onCategory={selectCategory}
       />
+      <div
+        className="sidebar-resizer"
+        role="separator"
+        aria-label="调整侧栏宽度"
+        aria-orientation="vertical"
+        aria-valuemin={MIN_SIDEBAR_WIDTH}
+        aria-valuemax={clampSidebarWidth(Number.MAX_SAFE_INTEGER, window.innerWidth)}
+        aria-valuenow={sidebarWidth}
+        tabIndex={0}
+        onPointerDown={(event) => {
+          event.currentTarget.focus();
+          event.preventDefault();
+          sidebarDragCleanup.current?.();
+          document.body.classList.add("resizing-sidebar");
+          const onMove = (moveEvent: PointerEvent) => {
+            setSidebarWidth(
+              clampSidebarWidth(moveEvent.clientX, window.innerWidth),
+            );
+          };
+          const stopDragging = () => {
+            window.removeEventListener("pointermove", onMove);
+            window.removeEventListener("pointerup", stopDragging);
+            window.removeEventListener("pointercancel", stopDragging);
+            document.body.classList.remove("resizing-sidebar");
+            sidebarDragCleanup.current = null;
+          };
+          sidebarDragCleanup.current = stopDragging;
+          window.addEventListener("pointermove", onMove);
+          window.addEventListener("pointerup", stopDragging);
+          window.addEventListener("pointercancel", stopDragging);
+        }}
+        onKeyDown={(event) => {
+          if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") return;
+          event.preventDefault();
+          const delta = event.key === "ArrowRight" ? 12 : -12;
+          setSidebarWidth((width) =>
+            clampSidebarWidth(width + delta, window.innerWidth)
+          );
+        }}
+        onDoubleClick={() => {
+          setSidebarWidth(
+            clampSidebarWidth(DEFAULT_SIDEBAR_WIDTH, window.innerWidth),
+          );
+        }}
+      >
+        <span />
+      </div>
 
       <main className={"conversation " + (traceOpen ? "with-trace" : "") }>
         <header className="conversation-bar">
           <div>
             <span className="crumb">BUILDROOM / CONFIGURATION DESK</span>
-            <strong>{hasConversation ? "装机方案任务" : "新的装机对话"}</strong>
+            <strong>{hasConversation ? "装机方案对话" : "新的装机对话"}</strong>
           </div>
           <button className={traceOpen ? "active" : ""} onClick={() => setTraceOpen((value) => !value)}>
             <TraceIcon /> Agent 轨迹
@@ -221,56 +386,24 @@ function App() {
 
         <section className={hasConversation ? "chat-stream active" : "chat-stream welcome"}>
           {!hasConversation && (
-            <Welcome prompt={prompt} setPrompt={setPrompt} onSubmit={submit} loading={loading} />
+            <Welcome prompt={draft} setPrompt={setDraft} onSubmit={submit} loading={loading} />
           )}
 
-          {hasConversation && (
-            <>
-              <article className="message user-message">
-                <div className="message-avatar user-avatar">你</div>
-                <div className="message-body">
-                  <span className="message-role">你的需求</span>
-                  <p>{prompt}</p>
-                </div>
-              </article>
-
-              <article className="message assistant-message">
-                <AgentAvatar />
-                <div className="message-body">
-                  <div className="assistant-heading">
-                    <div><span className="message-role">Buildroom 装机智能体</span><small>8-Agent · DeepSeek · RAG</small></div>
-                    {taskStatus && <ProgressPill progress={taskStatus.progress} status={taskStatus.status} />}
-                  </div>
-
-                  {loading && !answerChunks.length && (
-                    <div className="working-copy">
-                      <i />
-                      <div>
-                        <strong>{taskStatus?.current_agent ? agentLabels[taskStatus.current_agent] : "正在建立任务"}</strong>
-                        <p>{currentRunSummary(runs)}</p>
-                      </div>
-                    </div>
-                  )}
-
-                  {answerChunks.length > 0 && !recommendation && (
-                    <div className="streaming-answer">
-                      {answerChunks.map((chunk, index) => <StreamChunk key={index} chunk={chunk} />)}
-                      {loading && <span className="stream-caret" />}
-                    </div>
-                  )}
-
-                  {clarification && <NoticeCard title="需要补充信息" text={clarification} />}
-                  {error && <NoticeCard title="任务未完成" text={error} danger />}
-                  {recommendation && <BuildResult result={recommendation} />}
-                </div>
-              </article>
-            </>
-          )}
+          {turns.map((turn, index) => (
+            <ConversationTurnCard
+              key={turn.id}
+              turn={turn}
+              index={index}
+              active={turn.id === selectedTurn?.id}
+              onSelect={() => setSelectedTurnId(turn.id)}
+              onToggle={() => setTurns((items) => toggleTurn(items, turn.id))}
+            />
+          ))}
           <div ref={endRef} />
         </section>
 
         {hasConversation && (
-          <Composer value={prompt} setValue={setPrompt} onSubmit={submit} loading={loading} />
+          <Composer value={draft} setValue={setDraft} onSubmit={submit} loading={loading} />
         )}
       </main>
 
@@ -278,6 +411,104 @@ function App() {
         <TracePanel runs={runs} status={taskStatus} onClose={() => setTraceOpen(false)} />
       )}
     </div>
+  );
+}
+
+function ConversationTurnCard({
+  turn,
+  index,
+  active,
+  onSelect,
+  onToggle,
+}: {
+  turn: ConversationTurn;
+  index: number;
+  active: boolean;
+  onSelect: () => void;
+  onToggle: () => void;
+}) {
+  const running = turn.status === "queued" || turn.status === "running";
+  const runs = turn.agentRuns.length ? turn.agentRuns : emptyRuns;
+  const showAssistantMessage = Boolean(turn.assistantMessage) && !running;
+  const showStream = turn.answerChunks.length > 0 && !showAssistantMessage && !turn.recommendation;
+
+  return (
+    <details className={`conversation-turn ${active ? "active" : ""}`} open={turn.expanded}>
+      <summary
+        onClick={(event) => {
+          event.preventDefault();
+          onSelect();
+          onToggle();
+        }}
+      >
+        <span className="turn-number">{String(index + 1).padStart(2, "0")}</span>
+        <span className="turn-title">
+          <strong>{turn.prompt}</strong>
+          <small>{formatDate(turn.createdAt)} · {statusLabel(turn.status)}</small>
+        </span>
+        <span className="turn-state">{turn.expanded ? "收起" : "展开"}</span>
+      </summary>
+      <div className="turn-content">
+        <article className="message user-message">
+          <div className="message-avatar user-avatar">你</div>
+          <div className="message-body">
+            <span className="message-role">你的需求</span>
+            <p>{turn.prompt}</p>
+          </div>
+        </article>
+
+        <article className="message assistant-message">
+          <AgentAvatar />
+          <div className="message-body">
+            <div className="assistant-heading">
+              <div>
+                <span className="message-role">Buildroom 装机智能体</span>
+                <small>8-Agent · DeepSeek · RAG</small>
+              </div>
+              {turn.taskStatus && (
+                <ProgressPill
+                  progress={turn.taskStatus.progress}
+                  status={turn.taskStatus.status}
+                />
+              )}
+            </div>
+
+            {running && !turn.answerChunks.length && (
+              <div className="working-copy">
+                <i />
+                <div>
+                  <strong>
+                    {turn.taskStatus?.current_agent
+                      ? agentLabels[turn.taskStatus.current_agent]
+                      : "正在建立任务"}
+                  </strong>
+                  <p>{currentRunSummary(runs)}</p>
+                </div>
+              </div>
+            )}
+
+            {showStream && (
+              <div className="streaming-answer">
+                {turn.answerChunks.map((chunk, chunkIndex) => (
+                  <StreamChunk key={chunkIndex} chunk={chunk} />
+                ))}
+                {running && <span className="stream-caret" />}
+              </div>
+            )}
+
+            {showAssistantMessage && (
+              <div className={`assistant-copy ${turn.responseKind}`}>
+                {turn.assistantMessage.split("\n").map((line, lineIndex) =>
+                  line.trim() ? <p key={lineIndex}>{line}</p> : null
+                )}
+              </div>
+            )}
+            {turn.error && <NoticeCard title="任务未完成" text={turn.error} danger />}
+            {turn.recommendation && <BuildResult result={turn.recommendation} />}
+          </div>
+        </article>
+      </div>
+    </details>
   );
 }
 

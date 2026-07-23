@@ -1,5 +1,4 @@
-import assert from "node:assert/strict";
-import test from "node:test";
+import { expect, test } from "vitest";
 
 import { pollUntilTerminal } from "../src/lib/polling.ts";
 
@@ -14,6 +13,6 @@ test("keeps polling when a valid agent task needs more than 180 checks", async (
     { maxAttempts: 600 },
   );
 
-  assert.equal(result.status, "completed");
-  assert.equal(calls, 181);
+  expect(result.status).toBe("completed");
+  expect(calls).toBe(181);
 });

@@ -56,6 +56,8 @@ export type TaskStatus = {
   progress: number;
   current_agent: string | null;
   degraded_reason: string | null;
+  response_kind: "recommendation" | "clarification" | "casual" | "off_topic" | "error" | "";
+  assistant_message: string;
   follow_up_questions: string[];
   agent_runs: AgentRun[];
   ai_usage?: TokenUsage;
@@ -131,7 +133,12 @@ export type HardwareCatalog = {
   total: number;
 };
 
-export type AnswerChunk = { kind: "summary" | "part" | "rationale" | "complete"; content: unknown };
+export type AnswerChunk = { kind: "message" | "summary" | "part" | "rationale" | "complete"; content: unknown };
+
+export type ContextMessage = {
+  role: "user" | "assistant";
+  content: string;
+};
 
 type Envelope<T> = { code: number; message: string; data: T };
 
@@ -144,12 +151,15 @@ async function readEnvelope<T>(response: Response): Promise<T> {
   return ((await response.json()) as Envelope<T>).data;
 }
 
-export async function createRecommendation(text: string): Promise<{ task_id: string; status: "queued" }> {
+export async function createRecommendation(
+  text: string,
+  contextMessages: ContextMessage[] = [],
+): Promise<{ task_id: string; status: "queued" }> {
   return readEnvelope(
     await fetch(API_BASE + "/recommendations", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text }),
+      body: JSON.stringify({ text, context_messages: contextMessages }),
     }),
   );
 }
