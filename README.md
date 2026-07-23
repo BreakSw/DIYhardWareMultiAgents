@@ -2,6 +2,21 @@
 
 本地优先的电脑装机推荐工作台。后端使用 Python 3.13、FastAPI、LangChain 和 LangGraph，前端使用 React + Vite。
 
+<p align="center">
+  <img alt="Python 3.13" src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.110%2B-009688?logo=fastapi&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-Agent-1C3C3C?logo=langchain&logoColor=white">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Multi--Agent-0F766E">
+  <img alt="React" src="https://img.shields.io/badge/React-18%2B-61DAFB?logo=react&logoColor=black">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-Frontend-646CFF?logo=vite&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://github.com/BreakSw/DIYhardWareMultiAgents/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/BreakSw/DIYhardWareMultiAgents?style=social"></a>
+  <a href="https://github.com/BreakSw/DIYhardWareMultiAgents/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/BreakSw/DIYhardWareMultiAgents?style=social"></a>
+  <a href="https://github.com/BreakSw/DIYhardWareMultiAgents/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/BreakSw/DIYhardWareMultiAgents"></a>
+</p>
+
 ## 当前基础功能
 
 - 六个独立 Agent：监督调度、需求解析、搜索与知识、硬件选型、兼容与价格、报告整理。
