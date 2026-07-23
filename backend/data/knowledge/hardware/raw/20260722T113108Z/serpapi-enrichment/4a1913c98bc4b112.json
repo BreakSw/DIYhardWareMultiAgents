@@ -1,0 +1,874 @@
+{
+  "search_metadata": {
+    "id": "6a60aa5e19c5f6de6030dcc5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/W0yiDwrLQUfiLT_qoFEWGg/6a60aa5e19c5f6de6030dcc5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/W0yiDwrLQUfiLT_qoFEWGg/6a60aa5e19c5f6de6030dcc5.json_with_pixel_position",
+    "created_at": "2026-07-22 11:32:46 UTC",
+    "processed_at": "2026-07-22 11:32:46 UTC",
+    "google_url": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&oq=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/W0yiDwrLQUfiLT_qoFEWGg/6a60aa5e19c5f6de6030dcc5.html",
+    "total_time_taken": 3.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "MSI MEG X870E GODLIKE MAX Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "MSI MEG X870E GODLIKE MAX Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "total_results": 420,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "MSI MEG X870E GODLIKE Review",
+      "link": "https://www.youtube.com/watch?v=ySKR2I5om80",
+      "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/4-I8hXTKddSOySGAScq6JfcrWXQOPW3plsHmJduyXck.jpeg",
+      "channel": "iVadim",
+      "duration": "12:06",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Meet the MSI MEG X870E GODLIKE",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/4-I8hXTKddSOySGAScq6JWR-EVBoK7GiAs1IaLWbTW9WqIkbxcDLRgLypahtUg81.jpeg"
+        },
+        {
+          "time": "01:02",
+          "title": "You don't see this with other motherboards",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=62",
+          "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/4-I8hXTKddSOySGAScq6JS6PlPDbfkFq1JDAxsueiwBsj4-LsmlgO9nuNJkGJSnZ.jpeg"
+        },
+        {
+          "time": "02:01",
+          "title": "So many port!",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=121",
+          "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/4-I8hXTKddSOySGAScq6JRlAeGrQuTqN_oHhL3Fe4v__zHo1prB77jpGyNcNJEMf.jpeg"
+        },
+        {
+          "time": "03:01",
+          "title": "No tools needed to install SSDs",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=181",
+          "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/4-I8hXTKddSOySGAScq6JVkPVsn_8GN3ENol0LQxnTR8piChSIP18jiNzBDwJl2f.jpeg"
+        },
+        {
+          "time": "03:32",
+          "title": "There's more!",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=212",
+          "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/4-I8hXTKddSOySGAScq6Jcd0AF6j7Ivya1vSDdRXPJ-jm2b98cfE-f_y8V_z5psQ.jpeg"
+        },
+        {
+          "time": "04:52",
+          "title": "What it looks like in a PC",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=292",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbAjDeyfw3Ub45Xe6Eic8u_gUJIgqNmeivxxgc_5zb2Q&s="
+        },
+        {
+          "time": "07:21",
+          "title": "Stats LCD Screen and more",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=441",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfBCUjbeni18YutF5CISPeqgGLAC7nbmxGZ-iJWvPzig&s="
+        },
+        {
+          "time": "10:27",
+          "title": "BIOS has a lot to offer",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=627",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpdQkMAVXr0hQpTe1NYodTkbQJq7k7-tOMHqwZ_G3pnA&s="
+        },
+        {
+          "time": "11:25",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=ySKR2I5om80&t=685",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLDUPbY8-ykdt6JrQs6u85k-hwuRWYbPA5R1GiHFJnBw&s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Unboxing the MSI MEG X870E GODLIKE MAX Motherboard",
+      "link": "https://www.youtube.com/shorts/tu5Z5wu2odw",
+      "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/vzwlZgx1sZyo-ECECa8462y3q7ysnrLH6AGOdCmdo5I.jpeg",
+      "channel": "AMD Gaming",
+      "duration": "1:01",
+      "platform": "YouTube",
+      "date": "6 days ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSFNMrlwudAH1SHmMzrJrnS1lSjwhuVi3qzDw"
+    },
+    {
+      "position": 3,
+      "title": "Unboxing MSI MEG X870E GODLIKE Motherboard",
+      "link": "https://www.youtube.com/watch?v=v6ieqCz3Rjw",
+      "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/vxp12ymoT5NPPxtC9Hqt5t4wBVXnZAAsKEcDR4d6pLA.jpeg",
+      "channel": "iVadim UNBOX",
+      "duration": "18:13",
+      "platform": "YouTube",
+      "date": "1 month ago"
+    },
+    {
+      "position": 4,
+      "title": "MSI MEG X870E Godlike X - You know you want one",
+      "link": "https://www.youtube.com/watch?v=miQzfPMgzL8",
+      "thumbnail": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/PkgCp_1vNi6IXd983kLZDKWjwtK8JqokRUNlD4bFs1E.jpeg",
+      "channel": "KitGuruTech",
+      "duration": "20:28",
+      "platform": "YouTube",
+      "date": "Dec 14, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRRNxfh6fiZ5e3npBJpOIZnnlAkvaJBI1lTDA",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Start",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3xGuAOuC9CckZkKqECk4K3eTxih0CH8Y3tcTr-6Jdew&s="
+        },
+        {
+          "time": "00:56",
+          "title": "The Godlike X / Pricing",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=56",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQgwPP3X72LeYtMbuZCATHizIkARnW8e-IQUJ-K9qyjg&s="
+        },
+        {
+          "time": "01:50",
+          "title": "Unboxing / Accessories",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0oTEerHMUehDEN1c0c7gCihaunUFu5eu55taRLrhdVQ&s="
+        },
+        {
+          "time": "05:56",
+          "title": "M.2 Slots",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=356",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHpYWb-5oTTSl3UAzn2N0Ti6X5bhd_xTcqeRP8Ah_PuA&s="
+        },
+        {
+          "time": "06:10",
+          "title": "Mystery Box",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=370",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJU3SnFvubR3sbEcVauJRSsqTuF6PCCOuUiZQFZAsMdQ&s="
+        },
+        {
+          "time": "06:34",
+          "title": "Another accessory box",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=394",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz5NUhKTWm_ojl_kGuEP6F8BiC6QlqTyWCMCKyRAKpYw&s="
+        },
+        {
+          "time": "06:52",
+          "title": "Xpander card",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=412",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzLntVpsISNDog6k7utBl1Lez5HOqQXLve86vAwWRGog&s="
+        },
+        {
+          "time": "07:14",
+          "title": "Some thoughts",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=434",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDkHzOddPANeG9geqSU1vZuBy4rkb7xkGyvTnAf0Hzlg&s="
+        },
+        {
+          "time": "07:32",
+          "title": "Dynamic Dashboard III / EZ Bridge",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=452",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6OCENEQsSpjnVBytb7vXl9t3xnbUoYkUqKk-I21WbRA&s="
+        },
+        {
+          "time": "09:55",
+          "title": "Removing heatsinks / expansion slots",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=595",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlioe9bQb8Okk1vMBeb5-vGS2gPH0Ab7ERX52MHfsHmg&s="
+        },
+        {
+          "time": "11:19",
+          "title": "Some technical details",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=679",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3u0y6fytM87-7TrgbnKyyR8U2Zs4zXRhEE_ExGdzjSQ&s="
+        },
+        {
+          "time": "11:45",
+          "title": "Rear I/O and Ports",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=705",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSAiEWeG3DVYGH5xV0kPUwzJMUo6Sd3gE37UHpZiV9-Q&s="
+        },
+        {
+          "time": "12:34",
+          "title": "Tuning Controller",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=754",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvFYp4BA8RXfUdLpOS_SqdJGbV2JMFcTfWUvx-hfgR7g&s="
+        },
+        {
+          "time": "13:47",
+          "title": "Building a system with the Godlike X",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=827",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdSdpUgAtmX4LCyb7NSw7z2J1weUXLpNrUSDhvSuwpQA&s="
+        },
+        {
+          "time": "14:49",
+          "title": "BIOS",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=889",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiFjrjBp6-xTMGbQKEDIjwqcMBEGKYgHLlo5z_tggM8Q&s="
+        },
+        {
+          "time": "15:24",
+          "title": "Geekbench 6 Multi Core",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=924",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiisxlZ6bZznpv4iJUmKHV3a54kmzirApquzSp78oqIA&s="
+        },
+        {
+          "time": "15:53",
+          "title": "Geekbench 6 Single Core",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=953",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGFWtjk0W9bOEYISk8R6MLrUKaQTWlaJ8ZB7C-hEftqQ&s="
+        },
+        {
+          "time": "16:05",
+          "title": "Cinebench R23 Multicore",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=965",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTSVCE_Qcmh6iH0KMEqSTCfxdmuAcNGI6sKwV_Y3Ohag&s="
+        },
+        {
+          "time": "16:11",
+          "title": "AIDA64 Memory Bandwidth",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=971",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTSVCE_Qcmh6iH0KMEqSTCfxdmuAcNGI6sKwV_Y3Ohag&s="
+        },
+        {
+          "time": "16:47",
+          "title": "Far Cry 6 (1080p)",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=1007",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ27p-O08f3kCIsESUu3sys2I3K2-8GCj5-6Fn7_X639w&s="
+        },
+        {
+          "time": "17:07",
+          "title": "Far Cry 6 (1440p)",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=1027",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmuhaY5M99eIxrh8Ap5IRlgrYXWeuPJQf2WHignxb4WQ&s="
+        },
+        {
+          "time": "17:22",
+          "title": "Assassins Creed Mirage (1080p)",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=1042",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4_knUWBuf8s-vMV_D4EF01OqIXJhX13G8h6pEROR6nA&s="
+        },
+        {
+          "time": "17:36",
+          "title": "Assassins Creed Mirage (1440p)",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=1056",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4_knUWBuf8s-vMV_D4EF01OqIXJhX13G8h6pEROR6nA&s="
+        },
+        {
+          "time": "17:50",
+          "title": "Closing Thoughts",
+          "link": "https://www.youtube.com/watch?v=miQzfPMgzL8&t=1070",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3hWDv9dflLUSlNpAFqmBQoD49bmXWJC-U_2vO4hTAIA&s="
+        }
+      ]
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQTsqnktP7v15u2o3joSY0Ly94PUMqNC2HxR_jcJSnkmOb22j14_jh5LJPCbYkhZLRUaCzT9VguffJBhkiB71QzNIkvqX7FcB0tPWECQUg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "price": "$1,299.99",
+      "extracted_price": 1299.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "_GaRQXicTZLPjqNGEMaV5_Glu6GBzm1mTDOQAQ-4GzCXUfPHxtBAG2OP7ZfIK0Se3Uib4-5KueY1Nk8TFOWQQ0lV9St9qk_6fr1X-z83Qu3E4aVdBU08nuxXkje399D_osahPBXTvvyGILaARnTLnEvXNAuYXwoxCTnsZkqAYSBLtwzNhMQgACPja12JUu77arXdVuNyKOYz08DEMAlCBsFQR8hC-I99J3bVv_grgoQA3SSGRXTdsjDSPsby-Nvnw6karz8yf-0ufNtZpJYJ7IWzWr64v9gL_yFd-MNUV2M-iLFcdP_v0dtRDtNx0YnLW1d1w3h92-ULVeyr_8BxKNpq-rybV-V3aEIMELD02Q4hBjLn4aObH8Omoc_-LANpEABATONDnad7vft0Osnqr_tO3k_Hey3vVf_7INR5W_z904c9Fk9P5-Ix5ErFywgwB0LmYBQD4paAoxBNhxTRWyWVs-6yNO5jx2-iFQdemKN6DGihMxbeAlizTV8HvHnciMSd-LMEgeYJDocpRe07A7G-bqKAIw6CJtLy51pmMU3KFp-TptwHkrxvEnWKUXYIEb36NHA3gKY5utAX5mkCkClCExTQBWFLBs5LJTjX_efiWt6inkFVx1zxuHX1nOM-Xra4vAVqvYZD1V62YarGrJfn4Al2ZeLqkQzq5FnBPPGiKH10c6lmPXoouuwU23DDmvaaIkJzJ2Zr5upVTBu2LBuhea8Vd3HpEG9FH8PE1i-pJtdcejijURBFbpok9D1D9MKc6ZV1Kin6mPKl3IteaZwD4bbULjQXZ9KL4lmDreHKB1JUttr6qSdWVG1LUGLGacRa-9PlOG5_gAeKp_UK-_a29LPjMn06evvBsC4skfqDdn3NHn6GpqXP0SYmmGP7D4dxE8w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_GaRQXicTZLPjqNGEMaV5_Glu6GBzm1mTDOQAQ-4GzCXUfPHxtBAG2OP7ZfIK0Se3Uib4-5KueY1Nk8TFOWQQ0lV9St9qk_6fr1X-z83Qu3E4aVdBU08nuxXkje399D_osahPBXTvvyGILaARnTLnEvXNAuYXwoxCTnsZkqAYSBLtwzNhMQgACPja12JUu77arXdVuNyKOYz08DEMAlCBsFQR8hC-I99J3bVv_grgoQA3SSGRXTdsjDSPsby-Nvnw6karz8yf-0ufNtZpJYJ7IWzWr64v9gL_yFd-MNUV2M-iLFcdP_v0dtRDtNx0YnLW1d1w3h92-ULVeyr_8BxKNpq-rybV-V3aEIMELD02Q4hBjLn4aObH8Omoc_-LANpEABATONDnad7vft0Osnqr_tO3k_Hey3vVf_7INR5W_z904c9Fk9P5-Ix5ErFywgwB0LmYBQD4paAoxBNhxTRWyWVs-6yNO5jx2-iFQdemKN6DGihMxbeAlizTV8HvHnciMSd-LMEgeYJDocpRe07A7G-bqKAIw6CJtLy51pmMU3KFp-TptwHkrxvEnWKUXYIEb36NHA3gKY5utAX5mkCkClCExTQBWFLBs5LJTjX_efiWt6inkFVx1zxuHX1nOM-Xra4vAVqvYZD1V62YarGrJfn4Al2ZeLqkQzq5FnBPPGiKH10c6lmPXoouuwU23DDmvaaIkJzJ2Zr5upVTBu2LBuhea8Vd3HpEG9FH8PE1i-pJtdcejijURBFbpok9D1D9MKc6ZV1Kin6mPKl3IteaZwD4bbULjQXZ9KL4lmDreHKB1JUttr6qSdWVG1LUGLGacRa-9PlOG5_gAeKp_UK-_a29LPjMn06evvBsC4skfqDdn3NHn6GpqXP0SYmmGP7D4dxE8w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRwxA2FOTB1fuG0FygN03aW7IqQy7lgzrPCUcaWuLi1OiXoZJuHnoksvt6D-RJLLoCdhHHPFORSagPFo6bR4zB13jYVBccKRHsB9zmuPr_9NOgOIIJyojvB",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "MSI MEG X870E GODLIKE Motherboard",
+      "rating": 4.4,
+      "reviews": 16,
+      "price": "$849.99",
+      "extracted_price": 849.99,
+      "original_price": "$1,100",
+      "extracted_original_price": 1100,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "22% OFF"
+      ],
+      "immersive_product_page_token": "uYPXsnicbZNLrqtGEIalrCG78IR-8Mrs2EDbnNNgN9A8JhamsbHNy4Cfyh6yB597I90Mb66UabZxspqQKINIyaCkUn1S_f9fUv30zPe_xWm7S09vR9c58O5sLvXN4XFd0S9t14hzNuzFNwB0jDWMgKpBGUIMdEX7kqVDWja7vfgVq5KGNVXVsDRCHaoK-lrkqSj3de5ut3lnNNlefNWQBsC4AslYwrI-1i_7Kt3lf9NvACMdaQpSZUlVkYqgDqT3TvQfcDlbY1VHiqIDJClQ1UYzUP1xyVxj_f_s8-mcd_ePhHqLCTXJJNJUyZwQ13hbvJoT-hJNaDMUebdp0k5Mqn_3cN2XzdBPqvS2rvKq6e7r3WbSZvv8H9A32TEfPu_G0V_J_6P9Xo1RZVXBCpQVhADUdG2M_N5ehmex-3Q-l_nvz135PPfPonzm9c9N2l622R_ffW82V2PWX2eroG25wSSP65Uwy2nM7YvgxZYjE2WHaRs_GGCwkbLIcR1_SoIwuydg-kYNcfLqF5lHrUl9IWdWgyJU2gw4TXoUS4-wS-DvcGhNSVg7gNY8jqvbJTsWKQ0tOw1lJwllJTD5KgbFI66trRPIe8-YNmll9Y55S8IDbzkUjghYmAT86hrsGM5XVwaLlkf2KfQA9-CN-dx-ZYFl0LDHlNiLoOI35oFXOrcvDJoPYdEhD3ZyEvI6lorWh8ksnWdDDG0rugPiErEMgH52qoRuiHOmIENUsm0a8VMa2ooXiSLnVEpDvnBCi6THAHhEvGWm01LSDzxK8KYWJEasdkaPAckgCxlOylHLtF1qsmETypRJBc5AGfimzvihtDfExElllS5v7ivUVpvIIhurLGnFQu9oTz10lMODNTjIemR1Icc-d1eQuYFkIjcwPQuURUZEkQW3zpfkE69twPiLHFetIoDlkL09ZXPn7o7X8-bBg4e9FNzBzJcY9Xx2TGrh5nXJUlKQvOTo063vth_SiyUPnqtm5LYWoBekpkp5b13vVhiLRWe8etcfxsfCKtB1VcIQ_Qm2AkWU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uYPXsnicbZNLrqtGEIalrCG78IR-8Mrs2EDbnNNgN9A8JhamsbHNy4Cfyh6yB597I90Mb66UabZxspqQKINIyaCkUn1S_f9fUv30zPe_xWm7S09vR9c58O5sLvXN4XFd0S9t14hzNuzFNwB0jDWMgKpBGUIMdEX7kqVDWja7vfgVq5KGNVXVsDRCHaoK-lrkqSj3de5ut3lnNNlefNWQBsC4AslYwrI-1i_7Kt3lf9NvACMdaQpSZUlVkYqgDqT3TvQfcDlbY1VHiqIDJClQ1UYzUP1xyVxj_f_s8-mcd_ePhHqLCTXJJNJUyZwQ13hbvJoT-hJNaDMUebdp0k5Mqn_3cN2XzdBPqvS2rvKq6e7r3WbSZvv8H9A32TEfPu_G0V_J_6P9Xo1RZVXBCpQVhADUdG2M_N5ehmex-3Q-l_nvz135PPfPonzm9c9N2l622R_ffW82V2PWX2eroG25wSSP65Uwy2nM7YvgxZYjE2WHaRs_GGCwkbLIcR1_SoIwuydg-kYNcfLqF5lHrUl9IWdWgyJU2gw4TXoUS4-wS-DvcGhNSVg7gNY8jqvbJTsWKQ0tOw1lJwllJTD5KgbFI66trRPIe8-YNmll9Y55S8IDbzkUjghYmAT86hrsGM5XVwaLlkf2KfQA9-CN-dx-ZYFl0LDHlNiLoOI35oFXOrcvDJoPYdEhD3ZyEvI6lorWh8ksnWdDDG0rugPiErEMgH52qoRuiHOmIENUsm0a8VMa2ooXiSLnVEpDvnBCi6THAHhEvGWm01LSDzxK8KYWJEasdkaPAckgCxlOylHLtF1qsmETypRJBc5AGfimzvihtDfExElllS5v7ivUVpvIIhurLGnFQu9oTz10lMODNTjIemR1Icc-d1eQuYFkIjcwPQuURUZEkQW3zpfkE69twPiLHFetIoDlkL09ZXPn7o7X8-bBg4e9FNzBzJcY9Xx2TGrh5nXJUlKQvOTo063vth_SiyUPnqtm5LYWoBekpkp5b13vVhiLRWe8etcfxsfCKtB1VcIQ_Qm2AkWU"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQHm-ODDqO4wLAMXdHrXSkg41yRAY4X6JIgCwlq6OWwSoZBnubsjcPdT7DipMsYwGe9U4efJuVOJn8zpUBgg_4voeJ7FAvHstIa3A3mcrGreEXJ4GzJORX9DA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - LINK TECH",
+      "title": "MSI MEG X870E GODLIKE MAX, E-ATX - Supports AMD Ryzen 9000/8000/7000 Processors, AM5 - Dynamic Dashboard III, EZ Slide M.2, 64MB BIOS ROM, 110A SPS, M",
+      "price": "$1,619.99",
+      "extracted_price": 1619.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "zonMfXicbU_LbptAAFS_h8su2Mb0FgLYOF4orwVzsfDuGgzLI4CN8U_0FyInqZQe20Ov_Y30a5qoPfRQjTQazWikmc9XdvixSZo0uV8XtpXj9qh_Unb5ZXDQS9PW9Ej6A_2uzBRpJkpgLkmyIr5hDl9I0ie8Tg_04VvGEsoPFbP3e9ZqNfl_4-uhTFL2J54rMxlM4VxSJAiBMpFk8bGl3cPz_ZG142uMPFNA-kKI5jLQhYWtrc07XUA3kYDqPmPtrk5aKpT_anHb8brvhDI5b0tW1u24TXdCQw7sb9DVpGD9c_pm0YfH8p2aU3_N0qfjkbOf15Rfj90141dWfamT5rQnvz7kej3c3naD6gRNgzUXeGE3UqBPMeeT2DcBLaYnjLP1GrtHBNORaXj0JEf0xXjqguxC8rhAuXP2Arz2DEt3C8r9Ep3xgm7IEokO6CCurM0aZ9CqCPANbDBuwTA0_F0IMearJY7QxQrNaQybTQz5sOPKlGn6EIF472LFRBd1JCESEThDL1cjb-miXdA3oa_2OIiXjkSGWDT8eGnchkajOgVfBiLHTqRCKzAKLBUTomEeSNRJItcMgFVsMF6FObaQRiRXi0WvNLpgscIstO4Idk96RuNNpFabyEAJUOyExyMNsGOHq3tWUdd364MTuG__eRmEih_mhRQbVCV6NrgVLt730IWbO9CwaeFadHg6d-3-FdwY096zZbI4byns6KJCMz42tnfONNNstTtv-Ajl-USGiiKDiSj9BqE89qo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zonMfXicbU_LbptAAFS_h8su2Mb0FgLYOF4orwVzsfDuGgzLI4CN8U_0FyInqZQe20Ov_Y30a5qoPfRQjTQazWikmc9XdvixSZo0uV8XtpXj9qh_Unb5ZXDQS9PW9Ej6A_2uzBRpJkpgLkmyIr5hDl9I0ie8Tg_04VvGEsoPFbP3e9ZqNfl_4-uhTFL2J54rMxlM4VxSJAiBMpFk8bGl3cPz_ZG142uMPFNA-kKI5jLQhYWtrc07XUA3kYDqPmPtrk5aKpT_anHb8brvhDI5b0tW1u24TXdCQw7sb9DVpGD9c_pm0YfH8p2aU3_N0qfjkbOf15Rfj90141dWfamT5rQnvz7kej3c3naD6gRNgzUXeGE3UqBPMeeT2DcBLaYnjLP1GrtHBNORaXj0JEf0xXjqguxC8rhAuXP2Arz2DEt3C8r9Ep3xgm7IEokO6CCurM0aZ9CqCPANbDBuwTA0_F0IMearJY7QxQrNaQybTQz5sOPKlGn6EIF472LFRBd1JCESEThDL1cjb-miXdA3oa_2OIiXjkSGWDT8eGnchkajOgVfBiLHTqRCKzAKLBUTomEeSNRJItcMgFVsMF6FObaQRiRXi0WvNLpgscIstO4Idk96RuNNpFabyEAJUOyExyMNsGOHq3tWUdd364MTuG__eRmEih_mhRQbVCV6NrgVLt730IWbO9CwaeFadHg6d-3-FdwY096zZbI4byns6KJCMz42tnfONNNstTtv-Ajl-USGiiKDiSj9BqE89qo"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT66hZId78VB5YIgSfq0jjVrKSzq4VBp0mJeuCGqDEandX1JDahjwmo3XOTtt4aFPrR_ghRGr9iXYIOWzZ1XCFvVXTrpYXXuWZXcAEdkLOgmnAlnhEYPggz",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSszEkUOjnvn_96LLdtDlvMqM_zHQKn-qXz48g4ezIjuG9VexSIaGBYUqfM-jG02rpelucSF61h39mgcfZ__9JvMl7lJ8-fLRY",
+      "source": "Techinn.com",
+      "title": "MSI MEG X870E Godlike Motherboard",
+      "rating": 4.4,
+      "reviews": 48,
+      "price": "$1,308.99",
+      "extracted_price": 1308.99,
+      "original_price": "$1,722",
+      "extracted_original_price": 1722,
+      "extensions": [
+        "24% OFF"
+      ],
+      "immersive_product_page_token": "RiJL8nicdVPLjqNGFJXyDfkLb6oKikd27cZg0zzaQBWGjQUU7bIpDA14DNb8Q_7BPRNpspyMlG1-o_M1IaMsskh25-pc6Zx7ju7P9_L4e5K1h-zVqXzvRLvL6lnPT7fr1v3Sdg27FMORfYNA0yVdQbKmIVmCGkJY-1JkQyaaw5F91VSoYxXJQMJYlqGuwK-8zJg4nkv_5aXsjKY4st8kDDBWMYIqhpqOsYK0X491dii_09-gIkEEAMCKJOuaPm_J4K1j_bv8_LiHUJM0BSuqgpCqSPMg44_PgW_s_4f8_Hopu-k9dcPNwl1Zi52mgtXC8g1n87RauA-7hdsMvOzyJuvYov43RvteNEO_qLNxX5d10037Q75oi2P5D9E3RVUOnw_td9v_If5Wz6FgVZHnE7GqKxrWEZDlt_bDcOeHT5eLKP-4H8T90t-5uJfnX5qs_fBS_PnDj6vmajz218ctaVtqBCAEHKQVs91bWjOYOtnN3maQKQzBKYEChxHfJJXtl6Qd3UqW3Co9U0FpVAtBYmpmBkuCG8-C2EuS2DRdqCdBPZICBa8ubSvP0rfpuT06kX1lsY3Jyu4zy9xSQygZIDIztzc_DvqceC078ZAaBNHTA8yJud5OkBdxhYKayy7ZTMWKL5147ANhXzwgnggMaAao5RD-nKGRs92DHEaUp1FwCkX6mNz-Rl4UiDbI1t45PKUxi4VFAPOIxDsPtg6h9iYFXrONh9GFJs-Jzl3J9JkVxKSmIkfm2o0Hx6vSNbWGLF_bTQ6COLgFdh6lgIn0FK2g8AmEpdhcC9o2xc50wrnI7MSsooJ-UQ8BA8PaBekuvy0JnR1ERnDd7sw-3NFjLMxTGZPJRS6kEkEe4gld9dMOtlNYDestqobZczVrPju0Ck0oeGExXpCxiwB-pWd7TuIBJ3WrMGh61tFeBmtv8uM0DFdsGVmNnJtizsm2Uqnd0HoE4dm8JhFzogkuP4199_IOHkw8hL5aWOOewZ5ZZ1cRU-uHIzc2m854Cq8_QVWT51fUVSAj6S-c7UmT",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RiJL8nicdVPLjqNGFJXyDfkLb6oKikd27cZg0zzaQBWGjQUU7bIpDA14DNb8Q_7BPRNpspyMlG1-o_M1IaMsskh25-pc6Zx7ju7P9_L4e5K1h-zVqXzvRLvL6lnPT7fr1v3Sdg27FMORfYNA0yVdQbKmIVmCGkJY-1JkQyaaw5F91VSoYxXJQMJYlqGuwK-8zJg4nkv_5aXsjKY4st8kDDBWMYIqhpqOsYK0X491dii_09-gIkEEAMCKJOuaPm_J4K1j_bv8_LiHUJM0BSuqgpCqSPMg44_PgW_s_4f8_Hopu-k9dcPNwl1Zi52mgtXC8g1n87RauA-7hdsMvOzyJuvYov43RvteNEO_qLNxX5d10037Q75oi2P5D9E3RVUOnw_td9v_If5Wz6FgVZHnE7GqKxrWEZDlt_bDcOeHT5eLKP-4H8T90t-5uJfnX5qs_fBS_PnDj6vmajz218ctaVtqBCAEHKQVs91bWjOYOtnN3maQKQzBKYEChxHfJJXtl6Qd3UqW3Co9U0FpVAtBYmpmBkuCG8-C2EuS2DRdqCdBPZICBa8ubSvP0rfpuT06kX1lsY3Jyu4zy9xSQygZIDIztzc_DvqceC078ZAaBNHTA8yJud5OkBdxhYKayy7ZTMWKL5147ANhXzwgnggMaAao5RD-nKGRs92DHEaUp1FwCkX6mNz-Rl4UiDbI1t45PKUxi4VFAPOIxDsPtg6h9iYFXrONh9GFJs-Jzl3J9JkVxKSmIkfm2o0Hx6vSNbWGLF_bTQ6COLgFdh6lgIn0FK2g8AmEpdhcC9o2xc50wrnI7MSsooJ-UQ8BA8PaBekuvy0JnR1ERnDd7sw-3NFjLMxTGZPJRS6kEkEe4gld9dMOtlNYDestqobZczVrPju0Ck0oeGExXpCxiwB-pWd7TuIBJ3WrMGh61tFeBmtv8uM0DFdsGVmNnJtizsm2Uqnd0HoE4dm8JhFzogkuP4199_IOHkw8hL5aWOOewZ5ZZ1cRU-uHIzc2m854Cq8_QVWT51fUVSAj6S-c7UmT"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSC2PlmDIAhQWvIx4tbQljtpnLYLWELsbHlEx90_5pMjCJTY9nm8reB-RXuHjB5-RQdjWWG2S8MigbgOIjHxXspYf1jh-wQ39a7de-BefBdowztq9Y6GUhfqg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "MSI MAG X870E GAMING MAX WIFI ATX Gaming Motherboard",
+      "price": "$229.99",
+      "extracted_price": 229.99,
+      "original_price": "$260",
+      "extracted_original_price": 260,
+      "extensions": [
+        "11% OFF"
+      ],
+      "immersive_product_page_token": "dXbWOnicTZJPjptIGMWV83hDFVWmyC5p_jTuBsdAFZhNC6qwoakCGnAb-xJzhZE7iZQsk5FmO9fInGZYZDGr7-n76UlPT--PW1n_vc_7Y_7y2GyDZzac7E9m8Xw97_xv_dCJE59q8ZOYSDNMjHQCTUPTsaHhbzyfctkdF4oxMjWgmQASDUAdGYD8qMpcyLott4dDOVgdr8VfgEBdJ8RA0ESQGIuJmN9rlR_L3xyZOsFwYTrGWIdIN9HbIMY_v7ycyuHyK_Mjb-Xb7iolhmav3K316D3YK_9DuvK7qSqHossHsVL_1_BplN00rlQ-P6lSdcPl6Visel6Xv8HY8aacvhyXl_gJCEaEkOWsdW2NMDLgm6rFD2ys0RoSc8mPyNKEZr71r9OtOn4-nWT5z-0ob6fxVslb2X7t8v71wP9992YP_O7ulX_c0b5nVqhFjaRx2--DZvMSKTnz--4ioEB-ssE87VUUywcO5XoPmFPEQbRjrM7vs1E44lI4FchcuQva6kEwZ-JtUMW0Z7EKDgGsTpEuA6HEhVqbkEMTctnDx6SCicruGBO4aBzXp_05t4L7MGZ7qmdVSRlOUqEyFV5iEFyKa7UXip3z-6re1WDmIIRl4s8-lSOFjgqu4SZpcMMc81pcvYnZ3hymH1-2Tjb42pRwLbSLVNZBHDIK8VxAdiotae2kDXZtf-eDjfKTALNmYiJlzyL2tawBQCw8acx1ljLG9epatEctoxhkWsgEk7iwGrT08bifvTRJnHMGnTl2p0-x6hPeModass7bXqdUy73Gsbnu4UxuRsqyJIiDjDYbmkL_mijshnQTla6GwmSKObU_z-Nw-KV9cPAUbQ3uzk8CjMJt_bW89NtorizPG6yH6PweGGSZtbmMH0H9P2vBGIo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dXbWOnicTZJPjptIGMWV83hDFVWmyC5p_jTuBsdAFZhNC6qwoakCGnAb-xJzhZE7iZQsk5FmO9fInGZYZDGr7-n76UlPT--PW1n_vc_7Y_7y2GyDZzac7E9m8Xw97_xv_dCJE59q8ZOYSDNMjHQCTUPTsaHhbzyfctkdF4oxMjWgmQASDUAdGYD8qMpcyLott4dDOVgdr8VfgEBdJ8RA0ESQGIuJmN9rlR_L3xyZOsFwYTrGWIdIN9HbIMY_v7ycyuHyK_Mjb-Xb7iolhmav3K316D3YK_9DuvK7qSqHossHsVL_1_BplN00rlQ-P6lSdcPl6Visel6Xv8HY8aacvhyXl_gJCEaEkOWsdW2NMDLgm6rFD2ys0RoSc8mPyNKEZr71r9OtOn4-nWT5z-0ob6fxVslb2X7t8v71wP9992YP_O7ulX_c0b5nVqhFjaRx2--DZvMSKTnz--4ioEB-ssE87VUUywcO5XoPmFPEQbRjrM7vs1E44lI4FchcuQva6kEwZ-JtUMW0Z7EKDgGsTpEuA6HEhVqbkEMTctnDx6SCicruGBO4aBzXp_05t4L7MGZ7qmdVSRlOUqEyFV5iEFyKa7UXip3z-6re1WDmIIRl4s8-lSOFjgqu4SZpcMMc81pcvYnZ3hymH1-2Tjb42pRwLbSLVNZBHDIK8VxAdiotae2kDXZtf-eDjfKTALNmYiJlzyL2tawBQCw8acx1ljLG9epatEctoxhkWsgEk7iwGrT08bifvTRJnHMGnTl2p0-x6hPeModass7bXqdUy73Gsbnu4UxuRsqyJIiDjDYbmkL_mijshnQTla6GwmSKObU_z-Nw-KV9cPAUbQ3uzk8CjMJt_bW89NtorizPG6yH6PweGGSZtbmMH0H9P2vBGIo"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTYAdH6aJZkNN467UC7coRnuSTg3pcxnHUKfbcwWDLDZzWqxjrFNqGWRuYP7s_lGSkIUlp9VA3d-ECsnJHf5w35e0iEWcWg-A",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRIIFFE6SDc5oilxTo6iLDjMsHUrLMnm2ZqDWAmdzip0hy6GK331NUGJmJ-UaCPohryqSlETaORJXtTLfP19fDb7b70IbBvHCih7D0",
+      "source": "Connection",
+      "title": "Msi Meg X870E Godlike Max",
+      "price": "$1,528.90",
+      "extracted_price": 1528.9,
+      "immersive_product_page_token": "HaWRinicbY1NbptAAIXV87AZ_kzoLrYHbGJMzJgBZmMNDOYfxmAH7Ev0CpGTVEqX7aLbXiM9TVO1iy66efr0Pj29T9ck_x5SntLDqnTWBe5O8F6PisuwsV9517JTfMzZN1kTVWUCJFWXgKIokiiD15geadWmOXv8miWUVXmTOPt90s3b-P-LL3lN0-SP1jVZ03RRVoGkTSRdnSjgqWP948vhlHTnN2KjpWBDUwhuNAAF05mvlndQsG8DwW6PWdJFLe2YUP_L0q6v2mMv1HTc1UndduddGgk8zpO_om_jMjm-pO8Ve3yqfwd_OF6z9Pl0qpIf17S6nvprVl2T5nNL-cM-_vmhgO0wm_XDdONxjucuQMXU9MwR4Vr3MSyH0CczW7byLQwl5rkh8lzIAmIxky_chSEzmI2rgA2OYZixZNzHJfNQQUJigoEAaxGW2HQWbBIF3oWY2N_UvMBmZYQNB6QgGZa5FQIVOdiFxHPtpHH30YVZtiSKYYUVD6pnGmScNdYhuFgj8cc-gi6P_bWEAyPclussAONImvCCFlnhzI2GIlGKFu3Zhka3NdWMmKkcVgZeS-MMbUOZYOO0nlsT3-9HWhloFfAH-v7NylTxRL7BjUFgxkgYTJswMGwKdIdW5Mw8vHF865A0zN26bb7x3EtcVLVXikUCsYLgKEeAL71tKUfmaER4imiznqz8EZPheey7_Ru4NdQjcrTYHHdM7JnZ2JPqzB00ZvPlspvfoeGjqN0omqjrGlAk-RfufPi2",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HaWRinicbY1NbptAAIXV87AZ_kzoLrYHbGJMzJgBZmMNDOYfxmAH7Ev0CpGTVEqX7aLbXiM9TVO1iy66efr0Pj29T9ck_x5SntLDqnTWBe5O8F6PisuwsV9517JTfMzZN1kTVWUCJFWXgKIokiiD15geadWmOXv8miWUVXmTOPt90s3b-P-LL3lN0-SP1jVZ03RRVoGkTSRdnSjgqWP948vhlHTnN2KjpWBDUwhuNAAF05mvlndQsG8DwW6PWdJFLe2YUP_L0q6v2mMv1HTc1UndduddGgk8zpO_om_jMjm-pO8Ve3yqfwd_OF6z9Pl0qpIf17S6nvprVl2T5nNL-cM-_vmhgO0wm_XDdONxjucuQMXU9MwR4Vr3MSyH0CczW7byLQwl5rkh8lzIAmIxky_chSEzmI2rgA2OYZixZNzHJfNQQUJigoEAaxGW2HQWbBIF3oWY2N_UvMBmZYQNB6QgGZa5FQIVOdiFxHPtpHH30YVZtiSKYYUVD6pnGmScNdYhuFgj8cc-gi6P_bWEAyPclussAONImvCCFlnhzI2GIlGKFu3Zhka3NdWMmKkcVgZeS-MMbUOZYOO0nlsT3-9HWhloFfAH-v7NylTxRL7BjUFgxkgYTJswMGwKdIdW5Mw8vHF865A0zN26bb7x3EtcVLVXikUCsYLgKEeAL71tKUfmaER4imiznqz8EZPheey7_Ru4NdQjcrTYHHdM7JnZ2JPqzB00ZvPlspvfoeGjqN0omqjrGlAk-RfufPi2"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTraYLadQUDtl2GRbmnN9ZvvN-9JZquO7XyNfSyWuLrkVOK5o8PDq1l-ZjQynNgvHXVdYBYz1zBslB_bm7mGnKy2z8SlxRfHJl5i69DS1JUovIR4Zefz9qEpBY",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "MSI MAG X870E Gaming Plus Max WIFI ATX Motherboard",
+      "price": "$239.99",
+      "extracted_price": 239.99,
+      "original_price": "$290",
+      "extracted_original_price": 290,
+      "delivery": "Free delivery",
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "UW3VxHicTc9JbttIAAVQ5DzasAZO2VniYCkhLRaHorgxilWUSLE4mBRlSpfIFRpy0kCyTAL0tq-RPk0bRhbZfeAt_v-fbkX1z471B_b0sX7wj8kw2VszP16fA-9rP3Ri4qdK_ASaZhhAwaaGDAABNDHWv3J2YrI7vLEOVAA1A5kGUhHQNRN8LwsmZNUWD_t9MVgdr8QPTVOhYZiqoivAUFUTK9q3qmGH4o1_AggVDSIMkQ6xghVkKOBlEONfX56mYrj8yrxwvfBsd5EaumIv3Afr4_qDvfDu0oXXncpiyDs2iEXzZ4aPo-xO46Jh82NTNN1weTzki55XxW8YO14Xpy-H_m0BwKauQYywAVVVB9jQ4EtTie-qrmENqhpCAGP8-sB86c-nW3n4PE2y-Pd2kLdpvJXyVrR_d6w_7_l_717sga9WZ74M4r5PLKKE0myFQ_aBDGZie8_FfVLtjjXKjmJiVtaER-IU7VKNqTkIUFoCHLBQ5kkAx2KuWtMVuNDYaTIpkijy66D2myjp5zxWZ5aUH7z7HmcWGXna3xNJapH2OEXJRVCAaOSsfDovw7Q_561vhzRDUSNs9toRJhsvQALkLjmGtthmLT9FSj-FRzF61oZm1HsmimgYnP0w3URhwq9eGqMI-DAGZuRRUu7S5PxqA4GJz2g50Mi-ktbHAQouDCXLPJLbPHZ2QS1X_pHDoK0Blc46gIBkrl-RBivcjQG_JlPkbtyc9tddskyLSNIYkZJcxVM2r1NKnecMOnPknrZR01PeJk5syYq1PYpjha1rx-ZorWZyfSksUSZ1pnF7MxLXQYQKO0fEYY6UcZy4PuKf53HY_1LuHPUUPqievRdeNlrpatxUnWbMEZX4Dl222d17oBtYB6apKxjC_wGyRBdH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UW3VxHicTc9JbttIAAVQ5DzasAZO2VniYCkhLRaHorgxilWUSLE4mBRlSpfIFRpy0kCyTAL0tq-RPk0bRhbZfeAt_v-fbkX1z471B_b0sX7wj8kw2VszP16fA-9rP3Ri4qdK_ASaZhhAwaaGDAABNDHWv3J2YrI7vLEOVAA1A5kGUhHQNRN8LwsmZNUWD_t9MVgdr8QPTVOhYZiqoivAUFUTK9q3qmGH4o1_AggVDSIMkQ6xghVkKOBlEONfX56mYrj8yrxwvfBsd5EaumIv3Afr4_qDvfDu0oXXncpiyDs2iEXzZ4aPo-xO46Jh82NTNN1weTzki55XxW8YO14Xpy-H_m0BwKauQYywAVVVB9jQ4EtTie-qrmENqhpCAGP8-sB86c-nW3n4PE2y-Pd2kLdpvJXyVrR_d6w_7_l_717sga9WZ74M4r5PLKKE0myFQ_aBDGZie8_FfVLtjjXKjmJiVtaER-IU7VKNqTkIUFoCHLBQ5kkAx2KuWtMVuNDYaTIpkijy66D2myjp5zxWZ5aUH7z7HmcWGXna3xNJapH2OEXJRVCAaOSsfDovw7Q_561vhzRDUSNs9toRJhsvQALkLjmGtthmLT9FSj-FRzF61oZm1HsmimgYnP0w3URhwq9eGqMI-DAGZuRRUu7S5PxqA4GJz2g50Mi-ktbHAQouDCXLPJLbPHZ2QS1X_pHDoK0Blc46gIBkrl-RBivcjQG_JlPkbtyc9tddskyLSNIYkZJcxVM2r1NKnecMOnPknrZR01PeJk5syYq1PYpjha1rx-ZorWZyfSksUSZ1pnF7MxLXQYQKO0fEYY6UcZy4PuKf53HY_1LuHPUUPqievRdeNlrpatxUnWbMEZX4Dl222d17oBtYB6apKxjC_wGyRBdH"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRyVr6vgrwyz8Td3LcPibQyOUWK0vgJBv0IOexfFbjO0nCEwG7ckH4EXsqTf9dVBvCQFfcn0DgmQyCX8rnOPWUrOgd0HmjWznwQIKOpnXQ8Vw8ZNYN_o0Wy",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSUG8g60f6WQXmhtM3zE4DiYTcb0LgK7I6UL_MZJBFGuQ8YFSaAjfWct49Qx-5Xidkb23BeQP0EB2jmX_Uftb2FiwkfBBYxYko",
+      "source": "MemoryC.com",
+      "title": "MSI MAG X870E Gaming Max Motherboard",
+      "rating": 4.2,
+      "reviews": 5,
+      "price": "$339.50",
+      "extracted_price": 339.5,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "5J_ukXicdZLNjqNGFIWlPEPewhsKKKCyazcUtrsBG6jiZ2NhCpufwtCA22DNO-Qd3DORZpYzI2Wb1-g8TcgoiyyS3ZG-o3PPvbq_3rPi9yhpT8nLc-XYJe0uxhYdytt1Z31uu4Zd0qFg34EIZSiroqohSYUKlEVV_pwmQ8KbU8G-IVWQkIQ0QZYR_Jurwtc8SxgvzplzPGad3qSzTZ0tEpodIpIFADVNRV-KOjllP_B3IIgQqkhTZXkWAIkaEt861r_L28c90MAcOzNJFCUEZQUg9GHrOvr-f-Cnl0vWTe-x5a0XlmEuQk0VjIXp6M_rJ2NhPYQLqxnyrDs0SccW9b-1uO95M_SLOhn3dVY33bQ_HRZtWmT_gL5Jq2z4dGp_1P6P4W91wb5CVZEVUZsRUiDUFCC_ta_DPT99vFx49sf9xO-X_p7ze3b-rUna12P6508_G81Vf-yvjzvStlR3BS_c0BTjZ0r4JbzFR3JzgWOyLQF2kIrxlJZ8Tav1kK1Y7-px5ZnkGtDNKuGuxIw4oEL7Epvp5Ji8tii_OTgWrKqHboifLJ4KRK_kXQHorsSBX7sgw7SIQ45ZdRoowSXT1zK9uaVrpDAUXCMWN40nLRu3pG0SIBj5uefPma5p3xIaKymxfUfPrynAIg12E1vF2DcauBOH7aHMiWW2cRTQwg0wZxWoGFkLwYpNPmW2VwOL3HAZE1k8GCPP6s2rL9nRrqS3RBwEn-eYrZY6qcfCrlAU8BxmJL64Iu_SM6-ZYV0dI5Is2rpOMG5oTZVYaLeHR9B5tQazswHnPedubWCFuZ4YYMtq7O58GsU3_rQDZCBg-eKYg07DZeuZdPRMFPgrFqUBdW09L6PzfOs6H4m5KQ_hw-AF7RidczsIwORSJqfg5GHA89RkeUrGzhfgCz1vgEsfYFS3CgPYNovN0l3ZkxPEnn1u8YHjMPLA1Qo4ybg2JRWzST3gHUEJNW3p49h3x3fhAcPBc9TUHPcM9Mw8WwqfWscbc3297vQn7_oLUDVZnf9PFWRR-gtjB0tI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5J_ukXicdZLNjqNGFIWlPEPewhsKKKCyazcUtrsBG6jiZ2NhCpufwtCA22DNO-Qd3DORZpYzI2Wb1-g8TcgoiyyS3ZG-o3PPvbq_3rPi9yhpT8nLc-XYJe0uxhYdytt1Z31uu4Zd0qFg34EIZSiroqohSYUKlEVV_pwmQ8KbU8G-IVWQkIQ0QZYR_Jurwtc8SxgvzplzPGad3qSzTZ0tEpodIpIFADVNRV-KOjllP_B3IIgQqkhTZXkWAIkaEt861r_L28c90MAcOzNJFCUEZQUg9GHrOvr-f-Cnl0vWTe-x5a0XlmEuQk0VjIXp6M_rJ2NhPYQLqxnyrDs0SccW9b-1uO95M_SLOhn3dVY33bQ_HRZtWmT_gL5Jq2z4dGp_1P6P4W91wb5CVZEVUZsRUiDUFCC_ta_DPT99vFx49sf9xO-X_p7ze3b-rUna12P6508_G81Vf-yvjzvStlR3BS_c0BTjZ0r4JbzFR3JzgWOyLQF2kIrxlJZ8Tav1kK1Y7-px5ZnkGtDNKuGuxIw4oEL7Epvp5Ji8tii_OTgWrKqHboifLJ4KRK_kXQHorsSBX7sgw7SIQ45ZdRoowSXT1zK9uaVrpDAUXCMWN40nLRu3pG0SIBj5uefPma5p3xIaKymxfUfPrynAIg12E1vF2DcauBOH7aHMiWW2cRTQwg0wZxWoGFkLwYpNPmW2VwOL3HAZE1k8GCPP6s2rL9nRrqS3RBwEn-eYrZY6qcfCrlAU8BxmJL64Iu_SM6-ZYV0dI5Is2rpOMG5oTZVYaLeHR9B5tQazswHnPedubWCFuZ4YYMtq7O58GsU3_rQDZCBg-eKYg07DZeuZdPRMFPgrFqUBdW09L6PzfOs6H4m5KQ_hw-AF7RidczsIwORSJqfg5GHA89RkeUrGzhfgCz1vgEsfYFS3CgPYNovN0l3ZkxPEnn1u8YHjMPLA1Qo4ybg2JRWzST3gHUEJNW3p49h3x3fhAcPBc9TUHPcM9Mw8WwqfWscbc3297vQn7_oLUDVZnf9PFWRR-gtjB0tI"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the difference between MSI X870E Godlike and Godlike Max?",
+      "type": "ai_overview",
+      "page_token": "XJulQXicHdBbcoIwGEDh6Wb6WEHUDs44nVIC1UqY_JBEeelgAkYJF1sql7fupavqaur0LOB7ON8_-lQVv3dX1bbN53Iy6bru4VjXR509iLqcpJ9DJSYi1fqQimK5eFyYT7lYoa-183JZO4Q2DXPBiIpGC253gIoBT4mJR9YLqnTG6hndwetuSnoWS55RWIexRyJkG7zCvkDgh3yeRBqZGYec-bM2RCpP0IYwH0rwbJKi2SjPZM6K_iJ9dkuVnLexcJ2B-r0ZFV4O3r6XZzynhcy3vF1g3zBBP4_SUEnKlXOzahwzi4zePrUUHLj9Ad7awqY9lWf2Fr1CcHB1y1AwcGRWSMlkv3Oq_c4LUsMOU50MkjIS8s0lqyTEUJ8IhVGcdUljPYDrjYHlBElF-wNvcKDxNrE2oyjAYK6ay-4-F9eVdf__c_Wel-2y-aiPfxwRg2o",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XJulQXicHdBbcoIwGEDh6Wb6WEHUDs44nVIC1UqY_JBEeelgAkYJF1sql7fupavqaur0LOB7ON8_-lQVv3dX1bbN53Iy6bru4VjXR509iLqcpJ9DJSYi1fqQimK5eFyYT7lYoa-183JZO4Q2DXPBiIpGC253gIoBT4mJR9YLqnTG6hndwetuSnoWS55RWIexRyJkG7zCvkDgh3yeRBqZGYec-bM2RCpP0IYwH0rwbJKi2SjPZM6K_iJ9dkuVnLexcJ2B-r0ZFV4O3r6XZzynhcy3vF1g3zBBP4_SUEnKlXOzahwzi4zePrUUHLj9Ad7awqY9lWf2Fr1CcHB1y1AwcGRWSMlkv3Oq_c4LUsMOU50MkjIS8s0lqyTEUJ8IhVGcdUljPYDrjYHlBElF-wNvcKDxNrE2oyjAYK6ay-4-F9eVdf__c_Wel-2y-aiPfxwRg2o",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIE1TSSBYODcwRSBHb2RsaWtlIGFuZCBHb2RsaWtlIE1heD8iLCJsayI6ImM1TlN5QzNPVktpd01EZElWVWpQVDhuSnpFNVZLQ3VHTTNNVEt3QSIsImJzIjoiYzRXUU8wX0VNQkNFaGVoY1VhSUkwSWlheC1FR3Vvam5rU0xTU1JTaDljV2JlTVhGUHNWUmt2dFpfRU1jWVFLSWdtNjFPenZmem9wYTNCWkdkV0NQemhBMFZ4VzFaRXZDbXJxQnlDSl95ZkI2YzcxNHhOTHBEYjhSbE5Wem5hc3hsYWNKR3M4WWc0cFF4MG52NTdKUm95Q3hLTXp1aXpPWnpsTVhPdTNhcVZiRE85QzRKZXU1cDFSZUpaZkQ5ODZFLUc5SDlPTGgyUTJCYUhkb0lPRTNydk5RTFlIdFRNNVh5eGpwWGdVVGl5Sjd5bjU2cHZJaU9adDR6YmFPc2NwUDVjQVZ3X3doaUR0eG5QbG9XcnB3aXc1djFEQmNtM095T2oxODM1Y255VkdJRXUxLWF4QTBCM3NmIiwiaWQiOiJmY19ZYXBnYXFMa09OalZydUVQOWJqendRTV85In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIE1TSSBYODcwRSBHb2RsaWtlIGFuZCBHb2RsaWtlIE1heD8iLCJsayI6ImM1TlN5QzNPVktpd01EZElWVWpQVDhuSnpFNVZLQ3VHTTNNVEt3QSIsImJzIjoiYzRXUU8wX0VNQkNFaGVoY1VhSUkwSWlheC1FR3Vvam5rU0xTU1JTaDljV2JlTVhGUHNWUmt2dFpfRU1jWVFLSWdtNjFPenZmem9wYTNCWkdkV0NQemhBMFZ4VzFaRXZDbXJxQnlDSl95ZkI2YzcxNHhOTHBEYjhSbE5Wem5hc3hsYWNKR3M4WWc0cFF4MG52NTdKUm95Q3hLTXp1aXpPWnpsTVhPdTNhcVZiRE85QzRKZXU1cDFSZUpaZkQ5ODZFLUc5SDlPTGgyUTJCYUhkb0lPRTNydk5RTFlIdFRNNVh5eGpwWGdVVGl5Sjd5bjU2cHZJaU9adDR6YmFPc2NwUDVjQVZ3X3doaUR0eG5QbG9XcnB3aXc1djFEQmNtM095T2oxODM1Y255VkdJRXUxLWF4QTBCM3NmIiwiaWQiOiJmY19ZYXBnYXFMa09OalZydUVQOWJqendRTV85In0%3D"
+    },
+    {
+      "question": "Why is the MSI godlike motherboard so expensive?",
+      "type": "ai_overview",
+      "page_token": "xytjrnicHdBLjpswAABQ9TKznGCYpJ1IUTUUnMgtID62wZvK2CR8DDiBhphdr9Az9FQ9TUdzhPd-_1XN0P379KeeZz3tN5tlWZ4v43hR1bMY-w2fzCA2gitVctHtd5934OtZHPy7cL_dhBtjrYmXWKkNosALewLhriDu-oPOhh9JWFF2L6w5IiC5CVvHokMWxWyHqSZRXk84kzYm7ov02Sl30IQtpDFGcWB_sVn2BtIh_E4hnOOWQdmHV2GrIezxIzixY0q0qTqxLTrQxKtYkxVZuCVJkSemdEhKWxVgR0XpQH6x49YrQQ1DAL1KaV8OyMutuUnbN0PJZZGQXd8tJuhhETTWFh_jR5a5sDy5U-nDNstHwxyoefcK_VqyIneHIocBt14jrpiRmMQRRddqkEmWjE2Mk1W0qse0PnP_xWQYYoFRnhHx4B1KaF4D3iNAVLDK5eks7gfn6eP68PPcz3t9Gy__ASkYjfU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xytjrnicHdBLjpswAABQ9TKznGCYpJ1IUTUUnMgtID62wZvK2CR8DDiBhphdr9Az9FQ9TUdzhPd-_1XN0P379KeeZz3tN5tlWZ4v43hR1bMY-w2fzCA2gitVctHtd5934OtZHPy7cL_dhBtjrYmXWKkNosALewLhriDu-oPOhh9JWFF2L6w5IiC5CVvHokMWxWyHqSZRXk84kzYm7ov02Sl30IQtpDFGcWB_sVn2BtIh_E4hnOOWQdmHV2GrIezxIzixY0q0qTqxLTrQxKtYkxVZuCVJkSemdEhKWxVgR0XpQH6x49YrQQ1DAL1KaV8OyMutuUnbN0PJZZGQXd8tJuhhETTWFh_jR5a5sDy5U-nDNstHwxyoefcK_VqyIneHIocBt14jrpiRmMQRRddqkEmWjE2Mk1W0qse0PnP_xWQYYoFRnhHx4B1KaF4D3iNAVLDK5eks7gfn6eP68PPcz3t9Gy__ASkYjfU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiV2h5IGlzIHRoZSBNU0kgZ29kbGlrZSBtb3RoZXJib2FyZCBzbyBleHBlbnNpdmU/IiwibGsiOiJjNVBTTDgtb1ZNZ3NWaWpKU0ZYSUxjNVVTTTlQeWNuTUJyTHpnU0pGU2ZtSlJTa0t4ZmtLcVJVRnFYbkZtV1dwQUEiLCJicyI6ImM0V1FPMF9FTUJDRWhlaGNVYUlJMElpYXgtRUd1b2pua1NMU1NSU2g5Y1diZU1YRlBzVlJrdnRaX0VNY1lRS0lnbTYxT3p2ZnpvcGEzQlpHZFdDUHpoQTBWeFcxWkV2Q21ycUJ5Q0pfeWZCNmM3MTR4TkxwRGI4UmxOVnpuYXN4bGFjSkdzOFlnNHBReDBudjU3SlJveUN4S016dWl6T1p6bE1YT3UzYXFWYkRPOUM0SmV1NXAxUmVKWmZEOTg2RS1HOUg5T0xoMlEyQmFIZG9JT0UzcnZOUUxZSHRUTTVYeXhqcFhnVVRpeUo3eW41NnB2SWlPWnQ0emJhT3NjcFA1Y0FWd193aGlEdHhuUGxvV3Jwd2l3NXYxREJjbTNPeU9qMTgzNWNueVZHSUV1MS1heEEwQjNzZiIsImlkIjoiZmNfWWFwZ2FxTGtPTmpWcnVFUDlianp3UU1fOSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiV2h5IGlzIHRoZSBNU0kgZ29kbGlrZSBtb3RoZXJib2FyZCBzbyBleHBlbnNpdmU%2FIiwibGsiOiJjNVBTTDgtb1ZNZ3NWaWpKU0ZYSUxjNVVTTTlQeWNuTUJyTHpnU0pGU2ZtSlJTa0t4ZmtLcVJVRnFYbkZtV1dwQUEiLCJicyI6ImM0V1FPMF9FTUJDRWhlaGNVYUlJMElpYXgtRUd1b2pua1NMU1NSU2g5Y1diZU1YRlBzVlJrdnRaX0VNY1lRS0lnbTYxT3p2ZnpvcGEzQlpHZFdDUHpoQTBWeFcxWkV2Q21ycUJ5Q0pfeWZCNmM3MTR4TkxwRGI4UmxOVnpuYXN4bGFjSkdzOFlnNHBReDBudjU3SlJveUN4S016dWl6T1p6bE1YT3UzYXFWYkRPOUM0SmV1NXAxUmVKWmZEOTg2RS1HOUg5T0xoMlEyQmFIZG9JT0UzcnZOUUxZSHRUTTVYeXhqcFhnVVRpeUo3eW41NnB2SWlPWnQ0emJhT3NjcFA1Y0FWd193aGlEdHhuUGxvV3Jwd2l3NXYxREJjbTNPeU9qMTgzNWNueVZHSUV1MS1heEEwQjNzZiIsImlkIjoiZmNfWWFwZ2FxTGtPTmpWcnVFUDlianp3UU1fOSJ9"
+    },
+    {
+      "question": "How many m 2 slots are in the MSI MPG X870E Carbon WIFI motherboard?",
+      "type": "ai_overview",
+      "page_token": "JTQ2InicHdHNbpswAABg7WV6bOwQOiVSNJVik6QChsHG8WUyNj-JDTgNKk1ue5ed90B9mk57ge_y_f5jT4P5_Pa3myZ33SwW8zw_tuPY2vpRjf1CXm-DWihpbSWV2Tx9f4I_GrVF4_zycp2DjDrHQgIKtD7F2IaZERdlHKGWghirD4GDQ43Wr6Ikdw1cyL0ur3EX1LzbVx4T9fAMVGmnZGdJDoOAlG6V9CzNjKVpqBuFkPfPMCTsmoqzQ8aFoTxeyV3QFBHz87OWijmW8RhQo50exM-aE6_qcZozfaA4mOte0LhcLeuerRLYwQT4rzlcG3FnvsDPU7XTt3ggKI_0mUXuTfEgzXr_UsEWSvQBcgQZNR3QUQc1gteUqyU770HiYcTOh5n03U4u21vCtY86LY48GI4cxxKsU2nFTVOWpeXhUg-aFGQ8ZZTc1dn2FLp3ynBYFBjKCN4JE_vknhxz42KKpl1l1kDMD41633oP_x-2v5p-2ri3sf0CrCSVhg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JTQ2InicHdHNbpswAABg7WV6bOwQOiVSNJVik6QChsHG8WUyNj-JDTgNKk1ue5ed90B9mk57ge_y_f5jT4P5_Pa3myZ33SwW8zw_tuPY2vpRjf1CXm-DWihpbSWV2Tx9f4I_GrVF4_zycp2DjDrHQgIKtD7F2IaZERdlHKGWghirD4GDQ43Wr6Ikdw1cyL0ur3EX1LzbVx4T9fAMVGmnZGdJDoOAlG6V9CzNjKVpqBuFkPfPMCTsmoqzQ8aFoTxeyV3QFBHz87OWijmW8RhQo50exM-aE6_qcZozfaA4mOte0LhcLeuerRLYwQT4rzlcG3FnvsDPU7XTt3ggKI_0mUXuTfEgzXr_UsEWSvQBcgQZNR3QUQc1gteUqyU770HiYcTOh5n03U4u21vCtY86LY48GI4cxxKsU2nFTVOWpeXhUg-aFGQ8ZZTc1dn2FLp3ynBYFBjKCN4JE_vknhxz42KKpl1l1kDMD41633oP_x-2v5p-2ri3sf0CrCSVhg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiSG93IG1hbnkgbSAyIHNsb3RzIGFyZSBpbiB0aGUgTVNJIE1QRyBYODcwRSBDYXJib24gV0lGSSBtb3RoZXJib2FyZD8iLCJsayI6IkdpeHRjMmtnYlhCbklIZzROekJsSUdOaGNtSnZiaUIzYVdacElHaHZkeUJ0WVc1NUlHMGdNaUJ6Ykc5MGN3IiwiYnMiOiJjNFdRTzBfRU1CQ0VoZWhjVWFJSTBJaWF4LUVHdW9qbmtTTFNTUlNoOWNXYmVNWEZQc1ZSa3Z0Wl9FTWNZUUtJZ202MU96dmZ6b3BhM0JaR2RXQ1B6aEEwVnhXMVpFdkNtcnFCeUNKX3lmQjZjNzE0eE5McERiOFJsTlZ6bmFzeGxhY0pHczhZZzRwUXgwbnY1N0pSb3lDeEtNenVpek9aemxNWE91M2FxVmJETzlDNEpldTVwMVJlSlpmRDk4NkUtRzlIOU9MaDJRMkJhSGRvSU9FM3J2TlFMWUh0VE01WHl4anBYZ1VUaXlKN3luNTZwdklpT1p0NHpiYU9zY3BQNWNBVndfd2hpRHR4blBsb1dycHdpdzV2MURCY20zT3lPajE4MzVjbnlWR0lFdTEtYXhBMEIzc2YiLCJpZCI6ImZjX1lhcGdhcUxrT05qVnJ1RVA5Ymp6d1FNXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiSG93IG1hbnkgbSAyIHNsb3RzIGFyZSBpbiB0aGUgTVNJIE1QRyBYODcwRSBDYXJib24gV0lGSSBtb3RoZXJib2FyZD8iLCJsayI6IkdpeHRjMmtnYlhCbklIZzROekJsSUdOaGNtSnZiaUIzYVdacElHaHZkeUJ0WVc1NUlHMGdNaUJ6Ykc5MGN3IiwiYnMiOiJjNFdRTzBfRU1CQ0VoZWhjVWFJSTBJaWF4LUVHdW9qbmtTTFNTUlNoOWNXYmVNWEZQc1ZSa3Z0Wl9FTWNZUUtJZ202MU96dmZ6b3BhM0JaR2RXQ1B6aEEwVnhXMVpFdkNtcnFCeUNKX3lmQjZjNzE0eE5McERiOFJsTlZ6bmFzeGxhY0pHczhZZzRwUXgwbnY1N0pSb3lDeEtNenVpek9aemxNWE91M2FxVmJETzlDNEpldTVwMVJlSlpmRDk4NkUtRzlIOU9MaDJRMkJhSGRvSU9FM3J2TlFMWUh0VE01WHl4anBYZ1VUaXlKN3luNTZwdklpT1p0NHpiYU9zY3BQNWNBVndfd2hpRHR4blBsb1dycHdpdzV2MURCY20zT3lPajE4MzVjbnlWR0lFdTEtYXhBMEIzc2YiLCJpZCI6ImZjX1lhcGdhcUxrT05qVnJ1RVA5Ymp6d1FNXzkifQ%3D%3D"
+    },
+    {
+      "question": "Is X870E considered high-end?",
+      "type": "featured_snippet",
+      "snippet": "When comparing X870 vs B850 chipset differences, the X870E offers full PCIe 5.0 GPU + storage support, stronger VRM configurations, better overclocking headroom, and more high-speed connectivity lanes — making it the superior choice for high-end gaming builds.",
+      "title": "Why X870E Motherboards Are the Best Choice for Gaming Performance",
+      "date": "Mar 13, 2026",
+      "link": "https://box.co.uk/blog/what-makes-x870e-motherboards-best-gaming-choice",
+      "displayed_link": "https://box.co.uk › blog › what-makes-x870e-motherboa...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB6UlEQVR4AX1TA6wdURSc2ooa1EbcqEGtZe3drR2WYW0zqqLatm0bQW3zcyZ73_f_J5mce3DnnsyehYsgchDMSIDxZAuh1wRDiyGLeQi6uggfECnEfQdhF8gYJPFSKpEsmIY04lgbdK8AmoW-Fi_8J67Y6DuLfVcV2wg6QM0MtrVHUCdG78YO-s53SEqsAFCI_iz7bnrwSsfTDC3N3G3mziQI1iKbTS7MhlOsfbZgleeLP4hJWTt4Zwrrv_MhgLSZSyR1QK8arH9yEM3LUV_Au18KIAi3Et_bISzDZp3fuOhTVzUbUT3G73hvcy6C7uhexI4V_8f8auXaoXcDkrwTIXMX5UUgogwCBh3pnzJ-SaQQNx30qQRjFvrVlqgkOibPWi3IEgRMtJRwRvHnbPynvZhMQbkDnXiep3NCZPbMIew8NdASSeX4U0b9SDZAU9kIR6nO_AjtD72fr4iG5ClxUbqwbyPxizsykv4n_VLtSL4E5qW9EqsFWhSVHmaVuaXBhaboXgq0AggmFzbb9pBBYZHwvM8Q7NZUBREUYlPEWgpJFpppJhBJ6jX5CZAZxsdMrIoRCoeNSM989K7MegsX0V_GMzQN92SN9sRC2FwET0SSAz_ZvL4delU1j0wjDnLs4op9-OXMHzkmHXg29cfpW3lcAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiSXMgWDg3MEUgY29uc2lkZXJlZCBoaWdoLWVuZD8iLCJsayI6IkdoeHBjeUI0T0Rjd1pTQmpiMjV6YVdSbGNtVmtJR2hwWjJnZ1pXNWsiLCJicyI6ImM0V1FPMF9FTUJDRWhlaGNVYUlJMElpYXgtRUd1b2pua1NMU1NSU2g5Y1diZU1YRlBzVlJrdnRaX0VNY1lRS0lnbTYxT3p2ZnpvcGEzQlpHZFdDUHpoQTBWeFcxWkV2Q21ycUJ5Q0pfeWZCNmM3MTR4TkxwRGI4UmxOVnpuYXN4bGFjSkdzOFlnNHBReDBudjU3SlJveUN4S016dWl6T1p6bE1YT3UzYXFWYkRPOUM0SmV1NXAxUmVKWmZEOTg2RS1HOUg5T0xoMlEyQmFIZG9JT0UzcnZOUUxZSHRUTTVYeXhqcFhnVVRpeUo3eW41NnB2SWlPWnQ0emJhT3NjcFA1Y0FWd193aGlEdHhuUGxvV3Jwd2l3NXYxREJjbTNPeU9qMTgzNWNueVZHSUV1MS1heEEwQjNzZiIsImlkIjoiZmNfWWFwZ2FxTGtPTmpWcnVFUDlianp3UU1fOSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmMyeExlV1kxZEVOMlVUQTJiSEJDVEhOemNuWlpTbU5YYjE5TWVGUlNURFZ5VTJ0SmRYRnpTMXBtVGtWalJETmZaVXRGVjBVNGEyeE9ZVkpzUlZkbldGSjBkbkJMVFdKNk5VRmpSR3BoVFdkMlNqUkxNa3N3VlhwUFp4SVhXV0Z3WjJGeFRHdFBUbXBXY25WRlVEbGlhbnAzVVUwYUlrRkVjM0k1WmxSelZIQTBSVXBHY2xrdFIyUTBPVU5oV1daclppMHlWMDUxV2xFIiwiZmN2IjoiMyIsImVpIjoiWWFwZ2FxTGtPTmpWcnVFUDlianp3UU0iLCJxYyI6ImMtT0t5aTNPVk1oTlRWZW9zREEzU0ZWSXowX0p5Y3hPVmNoTnJGREl6U19KU0MxS3lrOHNTa0ZsRzhVWDUtU1hGSU1VeGVlbTV1WVhWY2FuSnlrVUpHZW1RaVdLODVPelUwc0VHR3FmdXBqWUF3QSIsInF1ZXN0aW9uIjoiSXMgWDg3MEUgY29uc2lkZXJlZCBoaWdoLWVuZD8iLCJsayI6IkdoeHBjeUI0T0Rjd1pTQmpiMjV6YVdSbGNtVmtJR2hwWjJnZ1pXNWsiLCJicyI6ImM0V1FPMF9FTUJDRWhlaGNVYUlJMElpYXgtRUd1b2pua1NMU1NSU2g5Y1diZU1YRlBzVlJrdnRaX0VNY1lRS0lnbTYxT3p2ZnpvcGEzQlpHZFdDUHpoQTBWeFcxWkV2Q21ycUJ5Q0pfeWZCNmM3MTR4TkxwRGI4UmxOVnpuYXN4bGFjSkdzOFlnNHBReDBudjU3SlJveUN4S016dWl6T1p6bE1YT3UzYXFWYkRPOUM0SmV1NXAxUmVKWmZEOTg2RS1HOUg5T0xoMlEyQmFIZG9JT0UzcnZOUUxZSHRUTTVYeXhqcFhnVVRpeUo3eW41NnB2SWlPWnQ0emJhT3NjcFA1Y0FWd193aGlEdHhuUGxvV3Jwd2l3NXYxREJjbTNPeU9qMTgzNWNueVZHSUV1MS1heEEwQjNzZiIsImlkIjoiZmNfWWFwZ2FxTGtPTmpWcnVFUDlianp3UU1fOSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "j-A82XicxVXdcqpIEH6AfY7lxiioGCSnqFMDYhwNUfw3NxbyM6jgKINBz915l32qfZozgBpINNmzVVs7VTDT0z3N19P90T__8pab9d9_fHPDcEseWDaKohLCGHl2ycQ-a5DjxmQd7JHAdL8TvA9Me2lJphtg32ZcT7I3DPKkPWGOr1KVMYnEMfZSmhlbZOye1t3n1TjYqz1xsfoR6RqTuJPmC4PYK_q1w4qwc5a-1n9WG1QokZK9KXlhbdDZF_fHZ1iqcGWx1GUNnxqA_3booB-_dKBSQf2gblDNVw6AAsAAyG9b6rs5HlEiyXJsDABMp2tDTg1VqCR2c02sx55O98B_gkSGeZnE-NPv9GOYH6O7tgUuEY9y0tVxRYnSqXnCFGVUt2KWc0mmJ3UN9GLQF4PTDLN49Xh7lmgbuNECVQXiT6DSy-nM5AMECKJPzOidKJ26fApMa0zoQdZCtBA5dhHQqcwuTddMFgGJ61MZihx-fBJm9XZ7UAvcce1-isOBsRtvzJUjGjprLqidhw3LtubunPueyOVKucaJVaF-lxDDJBdmkCwzXA_z7fEg6qz40lNJLmdogc5xZUcM_GqA6tn0Xc7TSJMTepqgl7NqdDGqwNxBZbWmBQ3k03fqcXnLUYYBZ9_KNVrkBQ0ktEhwKOl80mXKRX7LfbaIIHj_e1Bz2uQoAoe3bQiyBannC3itg_blPnOe6e8B9pXU_wilJg1kg1zIav4CVAoV6gCll3ROyQnUMeObYnDjxSreHMi6StmfXkcaeuo2JhTKJ7sP8qOJZKTo6sc8_IOhfE6KBPqZAO_qOcuD1nAatgyh2HKKkW77pAs9Jyw6PbWr6dfrHvuL32gJ5v_OjKRhjC4N4yMz9C-YkTQM_XbDOAnRmRlKjKMjK7eYIcMrDUP70DCuMMOFeWbcbhgXZsRbXzBD_4wZegrlCjOaV5gxuMGMtGFkmKETmGsY59X5p_HGjN9vGMq_aRgJT-x0yneP_Qrd7CLNKtb4Z6fdmnY7Tq9cHnqC65brm-JjGXzZRRw_fPANy7ubL60HudIOj9bdnG7gB9tidpI2gAVNfSxM6wKnFh67jSfYUQsamBY0HLp2sMBGYBX87LoyJx4OScE3DnPf9nFwnKNFYWsu7ZOCYHNth4zvBVjijJrV7Nbhiz8cj2xzLeL-rtJx-Laz2HGjTX9R7CBrPUT9Yq3qcZvmZNystYWJd7D1Rm28FPbqdFvdHYDAWRwIXuzOWhxzMnjem62mqC7Vonrfrjq77Z73jrUKhDsCjENUGZKpKAD_x6rYn_TGDj8IVvfhrMtrFkpwEWkSyOLwdRz2ejzjB6ZEi5VH4FkHEySbQJlRciP6YPpEtLgYYhpzm7xK9dpC5O8XfKVWcQRHFBgfhcetJHIM2QRS-RdvajFC",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j-A82XicxVXdcqpIEH6AfY7lxiioGCSnqFMDYhwNUfw3NxbyM6jgKINBz915l32qfZozgBpINNmzVVs7VTDT0z3N19P90T__8pab9d9_fHPDcEseWDaKohLCGHl2ycQ-a5DjxmQd7JHAdL8TvA9Me2lJphtg32ZcT7I3DPKkPWGOr1KVMYnEMfZSmhlbZOye1t3n1TjYqz1xsfoR6RqTuJPmC4PYK_q1w4qwc5a-1n9WG1QokZK9KXlhbdDZF_fHZ1iqcGWx1GUNnxqA_3booB-_dKBSQf2gblDNVw6AAsAAyG9b6rs5HlEiyXJsDABMp2tDTg1VqCR2c02sx55O98B_gkSGeZnE-NPv9GOYH6O7tgUuEY9y0tVxRYnSqXnCFGVUt2KWc0mmJ3UN9GLQF4PTDLN49Xh7lmgbuNECVQXiT6DSy-nM5AMECKJPzOidKJ26fApMa0zoQdZCtBA5dhHQqcwuTddMFgGJ61MZihx-fBJm9XZ7UAvcce1-isOBsRtvzJUjGjprLqidhw3LtubunPueyOVKucaJVaF-lxDDJBdmkCwzXA_z7fEg6qz40lNJLmdogc5xZUcM_GqA6tn0Xc7TSJMTepqgl7NqdDGqwNxBZbWmBQ3k03fqcXnLUYYBZ9_KNVrkBQ0ktEhwKOl80mXKRX7LfbaIIHj_e1Bz2uQoAoe3bQiyBannC3itg_blPnOe6e8B9pXU_wilJg1kg1zIav4CVAoV6gCll3ROyQnUMeObYnDjxSreHMi6StmfXkcaeuo2JhTKJ7sP8qOJZKTo6sc8_IOhfE6KBPqZAO_qOcuD1nAatgyh2HKKkW77pAs9Jyw6PbWr6dfrHvuL32gJ5v_OjKRhjC4N4yMz9C-YkTQM_XbDOAnRmRlKjKMjK7eYIcMrDUP70DCuMMOFeWbcbhgXZsRbXzBD_4wZegrlCjOaV5gxuMGMtGFkmKETmGsY59X5p_HGjN9vGMq_aRgJT-x0yneP_Qrd7CLNKtb4Z6fdmnY7Tq9cHnqC65brm-JjGXzZRRw_fPANy7ubL60HudIOj9bdnG7gB9tidpI2gAVNfSxM6wKnFh67jSfYUQsamBY0HLp2sMBGYBX87LoyJx4OScE3DnPf9nFwnKNFYWsu7ZOCYHNth4zvBVjijJrV7Nbhiz8cj2xzLeL-rtJx-Laz2HGjTX9R7CBrPUT9Yq3qcZvmZNystYWJd7D1Rm28FPbqdFvdHYDAWRwIXuzOWhxzMnjem62mqC7Vonrfrjq77Z73jrUKhDsCjENUGZKpKAD_x6rYn_TGDj8IVvfhrMtrFkpwEWkSyOLwdRz2ejzjB6ZEi5VH4FkHEySbQJlRciP6YPpEtLgYYhpzm7xK9dpC5O8XfKVWcQRHFBgfhcetJHIM2QRS-RdvajFC"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "MEG X870E GODLIKE | Gaming Motherboards",
+      "link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQFnoECDYQAQ",
+      "displayed_link": "https://www.msi.com › Motherboard › MEG-X870E-GO...",
+      "favicon": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/chW7ahZL2CeG9BU7CUx6Xxaexo4QhPrRKYHeMrkdsB4.png",
+      "snippet": "The MEG X870E GODLIKE AMD AM5 gaming motherboard features cutting-edge connectivity, including Wi-Fi 7, 10G LAN, high-speed USB and DDR5, PCIe 5.0, ...",
+      "snippet_highlighted_words": [
+        "MEG X870E GODLIKE AMD AM5 gaming motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MEG X870E GODLIKE AMD AM5 gaming motherboard features cutting-edge connectivity, including Wi-Fi 7, 10G LAN, high-speed USB and DDR5, PCIe 5.0, ...",
+          "source_info_link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE",
+          "icon": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/chW7ahZL2CeG9BU7CUx6X3IVykydBz2FxEpnJalBNTWUt7zX6ia82UA19jhWkJfb.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE",
+      "source": "MSI"
+    },
+    {
+      "position": 2,
+      "title": "MEG X870E GODLIKE X EDITION | Gaming Motherboards",
+      "link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE-X-EDITION",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE-X-EDITION&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQFnoECDUQAQ",
+      "displayed_link": "https://www.msi.com › Motherboard › MEG-X870E-GO...",
+      "favicon": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/chW7ahZL2CeG9BU7CUx6X-msZxnFiWFOe4Qn-gftQAU.png",
+      "snippet": "Each GODLIKE X EDITION motherboard carries a uniquely engraved M.2 Shield Frozr, numbered 0001 to 1000 to emphasize its exclusivity.",
+      "snippet_highlighted_words": [
+        "GODLIKE",
+        "motherboard"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0
+          },
+          "extensions": [
+            "5.0",
+            "Review by MSI"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Each GODLIKE X EDITION motherboard carries a uniquely engraved M.2 Shield Frozr, numbered 0001 to 1000 to emphasize its exclusivity.",
+          "source_info_link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE-X-EDITION",
+          "icon": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/chW7ahZL2CeG9BU7CUx6X1RrfPOVC5Rj18IsoSMWGzIySu96J6-jav3_7BI4KOzf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE-X-EDITION&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE-X-EDITION",
+      "source": "MSI",
+      "read_more_link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE-X-EDITION"
+    },
+    {
+      "position": 3,
+      "title": "Questions regarding the X870E Godlike in preparation for ...",
+      "link": "https://www.reddit.com/r/MSI_Gaming/comments/1hal718/questions_regarding_the_x870e_godlike_in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1hal718%2Fquestions_regarding_the_x870e_godlike_in%2F&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQFnoECFkQAQ",
+      "displayed_link": "5 comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Can the motherboard support DDR5 64GB at lets say 7000M/Ts without taking up PCIE / CPU lanes. Similar to question 2, and primary regarding the ...",
+      "snippet_highlighted_words": [
+        "motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Can the motherboard support DDR5 64GB at lets say 7000M/Ts without taking up PCIE / CPU lanes. Similar to question 2, and primary regarding the ...",
+          "source_info_link": "https://www.reddit.com/r/MSI_Gaming/comments/1hal718/questions_regarding_the_x870e_godlike_in/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1hal718%2Fquestions_regarding_the_x870e_godlike_in%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1hal718%2Fquestions_regarding_the_x870e_godlike_in%2F",
+      "source": "Reddit · r/MSI_Gaming",
+      "read_more_link": "https://www.reddit.com/r/MSI_Gaming/comments/1hal718/questions_regarding_the_x870e_godlike_in/"
+    },
+    {
+      "position": 4,
+      "title": "MSI X870E MEG GODLIKE MAX AMD AM5 eATX ...",
+      "link": "https://www.microcenter.com/product/708783/msi-x870e-meg-godlike-max-amd-am5-eatx-motherboard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F708783%2Fmsi-x870e-meg-godlike-max-amd-am5-eatx-motherboard&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQFnoECDwQAQ",
+      "displayed_link": "https://www.microcenter.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "Supplemental PCIe Power, Memory Slots 4 x 288pin DIMM Memory Channel Support Dual Channel Max Memory Supported 256GB Maximum Memory Supported Per Slot 64GB",
+      "snippet_highlighted_words": [
+        "Slots",
+        "Max",
+        "Maximum"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Supplemental PCIe Power, Memory Slots 4 x 288pin DIMM Memory Channel Support Dual Channel Max Memory Supported 256GB Maximum Memory Supported Per Slot 64GB",
+          "source_info_link": "https://www.microcenter.com/product/708783/msi-x870e-meg-godlike-max-amd-am5-eatx-motherboard",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F708783%2Fmsi-x870e-meg-godlike-max-amd-am5-eatx-motherboard&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F708783%2Fmsi-x870e-meg-godlike-max-amd-am5-eatx-motherboard",
+      "source": "Micro Center"
+    },
+    {
+      "position": 5,
+      "title": "MSI MEG X870E GODLIKE MAX, E-ATX - Supports AMD ...",
+      "link": "https://www.newegg.com/msi-meg-x870e-godlike-max-motherboard-amd-x870e-am5/p/N82E16813144745?srsltid=AfmBOoqMEi1eYCTd44f5sIg6DsLaeBQQ-vy6uKgmiRvCcYKBmx1MGdXt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fmsi-meg-x870e-godlike-max-motherboard-amd-x870e-am5%2Fp%2FN82E16813144745%3Fsrsltid%3DAfmBOoqMEi1eYCTd44f5sIg6DsLaeBQQ-vy6uKgmiRvCcYKBmx1MGdXt&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQFnoECDEQAQ",
+      "displayed_link": "https://www.newegg.com › ... › MSI",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Supports AMD Ryzen 9000/8000/7000 Processors, M.2 & PCIe 5.0, USB4, Wi-Fi 7, 10G + 5G LAN0.00. PCIe 5.0, DDR5 8400+MT/s $1,499.99. Motherboard $599.99$599.99",
+      "snippet_highlighted_words": [
+        "Motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Supports AMD Ryzen 9000/8000/7000 Processors, M.2 & PCIe 5.0, USB4, Wi-Fi 7, 10G + 5G LAN0.00. PCIe 5.0, DDR5 8400+MT/s $1,499.99. Motherboard $599.99$599.99",
+          "source_info_link": "https://www.newegg.com/msi-meg-x870e-godlike-max-motherboard-amd-x870e-am5/p/N82E16813144745?srsltid=AfmBOoqMEi1eYCTd44f5sIg6DsLaeBQQ-vy6uKgmiRvCcYKBmx1MGdXt",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fmsi-meg-x870e-godlike-max-motherboard-amd-x870e-am5%2Fp%2FN82E16813144745%3Fsrsltid%3DAfmBOoqMEi1eYCTd44f5sIg6DsLaeBQQ-vy6uKgmiRvCcYKBmx1MGdXt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fmsi-meg-x870e-godlike-max-motherboard-amd-x870e-am5%2Fp%2FN82E16813144745%3Fsrsltid%3DAfmBOoqMEi1eYCTd44f5sIg6DsLaeBQQ-vy6uKgmiRvCcYKBmx1MGdXt",
+      "source": "Newegg"
+    },
+    {
+      "position": 6,
+      "title": "MSI X870E GODLIKE X EDITION : r/MSI_Gaming",
+      "link": "https://www.reddit.com/r/MSI_Gaming/comments/1pmkoh7/msi_x870e_godlike_x_edition/",
+      "displayed_link": "20+ comments · 7 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4h_pS4eKb2U5ur1BJh0AEAmjjlHjZSLJuyiGzVIhU1cVJf1fQ8oWuog&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Given the price of RAM, this motherboard actually looks reasonable. Extra crispy clean budget edition. X870E MAX series motherboards – The ...",
+      "duration": "2:59",
+      "about_this_result": {
+        "source": {
+          "description": "Given the price of RAM, this motherboard actually looks reasonable. Extra crispy clean budget edition. X870E MAX series motherboards – The ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1pmkoh7%2Fmsi_x870e_godlike_x_edition%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1pmkoh7%2Fmsi_x870e_godlike_x_edition%2F",
+      "source": "Reddit · r/MSI_Gaming"
+    },
+    {
+      "position": 7,
+      "title": "MEG X870E GODLIKE | Gaming Motherboards｜Best ...",
+      "link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE/Specification",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE%2FSpecification&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQFnoECDIQAQ",
+      "displayed_link": "https://www.msi.com › Motherboard › Specification",
+      "favicon": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/chW7ahZL2CeG9BU7CUx6X7SN1k14zjGL-YtIt2BUk5o.png",
+      "snippet": "The MEG X870E GODLIKE AMD AM5 gaming motherboard features. Maximum Memory Capacity 256GB Memory . Slot 2x PCI-E x16 slot. Supports up to PCIe 5.0 … when ...",
+      "snippet_highlighted_words": [
+        "Maximum Memory Capacity 256GB Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MEG X870E GODLIKE AMD AM5 gaming motherboard features. Maximum Memory Capacity 256GB Memory . Slot 2x PCI-E x16 slot. Supports up to PCIe 5.0 … when ...",
+          "source_info_link": "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE/Specification",
+          "icon": "https://serpapi.com/searches/6a60aa5e19c5f6de6030dcc5/images/chW7ahZL2CeG9BU7CUx6X12wjMO37MikQXJFmSHE0AiOMQZ50gVFE--S6f3ZS4KQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE%2FSpecification&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMEG-X870E-GODLIKE%2FSpecification",
+      "source": "MSI"
+    },
+    {
+      "position": 8,
+      "title": "MSI MEG X870E GODLIKE + 9950X3D : How To Set Up the ...",
+      "link": "https://www.youtube.com/watch?v=3q5uFwhg54Y",
+      "displayed_link": "76.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wuw4yqHof9NGyRlwZLZzQ1F51iXFuvlXQPKIjYHFcMU98_lgp20xxA&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Installing and setting up the AMD Ryzen 9 9950X3D on the MSI MEG X870E Godlike motherboard for an ultimate PC Build Here's a guide on how ...",
+      "duration": "32:51",
+      "about_this_result": {
+        "source": {
+          "description": "Installing and setting up the AMD Ryzen 9 9950X3D on the MSI MEG X870E Godlike motherboard for an ultimate PC Build Here's a guide on how ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3q5uFwhg54Y&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3q5uFwhg54Y",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTOVpKAbt0PmpUmEIVgKrRFYfvvK5y29JGKTg",
+      "source": "YouTube · FIRE WOLF TECH"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "MSI X870E GODLIKE MAX",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=MSI+X870E+GODLIKE+MAX&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+X870E+GODLIKE+MAX"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI X870E GODLIKE manual",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=MSI+X870E+GODLIKE+manual&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+X870E+GODLIKE+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MEG X870E GODLIKE price",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=MSI+MEG+X870E+GODLIKE+price&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+price"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MEG X870E GODLIKE X EDITION",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=MSI+MEG+X870E+GODLIKE+X+EDITION&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+X+EDITION"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI X870E GODLIKE motherboard",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=MSI+X870E+GODLIKE+motherboard&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+X870E+GODLIKE+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "Msi meg godlike motherboard",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Msi+meg+godlike+motherboard&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Msi+meg+godlike+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI X870E Godlike review",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=MSI+X870E+Godlike+review&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+X870E+Godlike+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Msi x870e godlike ram compatibility",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Msi+x870e+godlike+ram+compatibility&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Msi+x870e+godlike+ram+compatibility"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?q=cpu+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIUCAESA0NQVToLCMOdxAEQ08d3MAdYsrEgYAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAF6BAgdEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?q=ram+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIUCAESA1JBTToLCMOdxAEQ0sd3MAdYsrEgYAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAJ6BAgdEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?q=pci+express+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIbCAESC1BDSSBFeHByZXNzOgoI6-csEO_nLDAAWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAN6BAgdEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?q=atx+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAESA0FUWDoKCJufKxCgxyswAliysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAR6BAgdEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "2 Memory Slots",
+      "link": "https://www.google.com/search?q=2+memory+slots+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIeCAESDjIgTWVtb3J5IFNsb3RzOgoIlatJEJerSTAAWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAV6BAgdEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+memory+slots+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?q=usb+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIUCAESA1VTQjoLCJ2tOxDo5PcBMABYsrEgYAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAZ6BAgdEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "AMD",
+      "link": "https://www.google.com/search?q=amd+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAESA0FNRDoKCJqtOxCcrTswAliysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAd6BAgdEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GBIqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAh6BAgdEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "256 GB Max RAM",
+      "link": "https://www.google.com/search?q=256+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABwQBEAAAAAAABwQBgBKlptc2kgbWVnIHg4NzBlIGdvZGxpa2UgbWF4IG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyPAgBEg4yNTYgR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAAcEARAAAAAAAAcEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAl6BAgdEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=256+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?q=4+memory+slots+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIeCAESDjQgTWVtb3J5IFNsb3RzOgoIlatJEJirSTAAWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAp6BAgdEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+sale&hl=en&gl=us&shoprs=EgRKAhgBGAYqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAYSB09uIHNhbGUYAiIESgIYAViysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAt6BAgdEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+sale"
+    },
+    {
+      "query": "Get it by Fri",
+      "link": "https://www.google.com/search?q=msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=Eg2aAQoKCBACOAFABUgBGBQqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDImCBQSDUdldCBpdCBieSBGcmkiDZoBCgoIEAI4AUAFSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKAx6BAgdEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?q=gaming+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIWCAESBkdhbWluZzoKCKetOxCorTswA1iysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKA16BAgdEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?q=ethernet+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIYCAESCEV0aGVybmV0OgoIna07EKCtOzAAWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKA56BAgdEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Extended ATX",
+      "link": "https://www.google.com/search?q=extended+atx+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIcCAESDEV4dGVuZGVkIEFUWDoKCJufKxCfxyswAliysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKA96BAgdEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=extended+atx+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?q=hdmi+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIVCAESBEhETUk6CwidrTsQsJrrATAAWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBB6BAgdEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GBIqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBF6BQgdEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "128 GB Max RAM",
+      "link": "https://www.google.com/search?q=128+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABgQBEAAAAAAABgQBgBKlptc2kgbWVnIHg4NzBlIGdvZGxpa2UgbWF4IG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyPAgBEg4xMjggR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAAYEARAAAAAAAAYEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBJ6BQgdEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=128+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GBIqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIPCBISC1JlcGxhY2VtZW50YAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBN6BQgdEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GBIqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBR6BQgdEIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "64 GB Max RAM",
+      "link": "https://www.google.com/search?q=64+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABQQBEAAAAAAABQQBgBKlptc2kgbWVnIHg4NzBlIGdvZGxpa2UgbWF4IG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyOwgBEg02NCBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAABQQBEAAAAAAABQQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBV6BQgdEIQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "192 GB Max RAM",
+      "link": "https://www.google.com/search?q=192+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABoQBEAAAAAAABoQBgBKlptc2kgbWVnIHg4NzBlIGdvZGxpa2UgbWF4IG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyPAgBEg4xOTIgR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAAaEARAAAAAAAAaEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBZ6BQgdEIUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=192+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+for+sale&hl=en&gl=us&shoprs=GBIqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBd6BQgdEIYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+for+sale"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?q=ddr+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAESA0REUjoKCLDHKxCxxyswAFiysSBgAQ&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBh6BQgdEIcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "5 GB Max RAM",
+      "link": "https://www.google.com/search?q=5+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAAAUQBEAAAAAAAAUQBgBKlptc2kgbWVnIHg4NzBlIGdvZGxpa2UgbWF4IG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyOggBEgw1IEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAABRAEQAAAAAAABRAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBl6BQgdEIgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5+gb+max+ram+msi+meg+x870e+godlike+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Socket LGA2011",
+      "link": "https://www.google.com/search?q=socket+lga2011+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&hl=en&gl=us&shoprs=GAEqWm1zaSBtZWcgeDg3MGUgZ29kbGlrZSBtYXggbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIeCAESDlNvY2tldCBMR0EyMDExOgoIh8QrEJjHKzAAWLKxIGAB&sa=X&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQip4GKBp6BQgdEIkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=socket+lga2011+msi+meg+x870e+godlike+max+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=10&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8NMDegQITBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=10&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAE",
+      "3": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=20&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAG",
+      "4": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=30&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAI",
+      "5": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=40&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAK",
+      "6": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=50&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAM",
+      "7": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=60&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAO",
+      "8": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=70&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAQ",
+      "9": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=80&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAS",
+      "10": "https://www.google.com/search?q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=YapgaqLkONjVruEP9bjzwQM&start=90&sa=N&sstk=AU9db-Auo9JOa1Rbx9B1F84zqXnaA-5XxvR5KAgA3Te2ay4ijYR1rmDwFeucWOhWVeQZCAqHPnpJ4njfuYm0ozbL61AUbtgwy9NRLw&ved=2ahUKEwjimNP-l-aVAxXYqisGHXXcPDgQ8tMDegQITBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MEG+X870E+GODLIKE+MAX+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=90"
+    }
+  }
+}

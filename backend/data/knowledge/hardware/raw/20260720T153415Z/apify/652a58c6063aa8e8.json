@@ -1,0 +1,7 @@
+{
+  "provider": "apify",
+  "status": "failed",
+  "data": {},
+  "error": "HTTPStatusError",
+  "latency_ms": 360
+}

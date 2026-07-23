@@ -1,0 +1,8 @@
+{
+  "provider": "zyte",
+  "status": "failed",
+  "data": {},
+  "error": "HTTPStatusError",
+  "status_code": 400,
+  "latency_ms": 942
+}

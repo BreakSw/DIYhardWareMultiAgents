@@ -1,0 +1,1122 @@
+{
+  "batch_id": "20260720T155640Z",
+  "status": "completed",
+  "market": "US",
+  "categories": [
+    "cpu",
+    "gpu"
+  ],
+  "discovered_count": 29,
+  "accepted_count": 7,
+  "rejected_count": 22,
+  "provider_calls": [
+    {
+      "provider": "ecb",
+      "status": "completed",
+      "published_at": "2026-07-20"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "cpu",
+      "result_count": 15
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 10903,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 3547,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 3585,
+      "error": "HTTPStatusError",
+      "status_code": 400
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 1038,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 1489,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 2980,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "latency_ms": 2925,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "latency_ms": 6456,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "iBUYPOWER Slate Gaming Desktop PC",
+      "latency_ms": 1147,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "iBUYPOWER Slate Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "iBUYPOWER Slate Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "iBUYPOWER Slate Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "iBUYPOWER Slate Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Ryzen 5 5600 MPK 12 units",
+      "latency_ms": 1578,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Ryzen 5 5600 MPK 12 units",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Ryzen 5 5600 MPK 12 units",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Ryzen 5 5600 MPK 12 units",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Ryzen 5 5600 MPK 12 units",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i5-11600K Processor",
+      "latency_ms": 1493,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-11600K Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-11600K Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-11600K Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-11600K Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D2 16-Core Processor",
+      "latency_ms": 4407,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D2 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D2 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D2 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D2 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core 4.3GHz Processor",
+      "latency_ms": 2318,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core 4.3GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core 4.3GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core 4.3GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core 4.3GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Xeon Gold 5215L 2.5GHz Ten Core Processor",
+      "latency_ms": 1673,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Xeon Gold 5215L 2.5GHz Ten Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Xeon Gold 5215L 2.5GHz Ten Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Xeon Gold 5215L 2.5GHz Ten Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Xeon Gold 5215L 2.5GHz Ten Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 5 5600X 6-Core 3.7GHz Processor",
+      "latency_ms": 6521,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 5 5600X 6-Core 3.7GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 5 5600X 6-Core 3.7GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 5 5600X 6-Core 3.7GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 5 5600X 6-Core 3.7GHz Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i7-12700K Desktop Processor",
+      "latency_ms": 3123,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i7-12700K Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i7-12700K Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i7-12700K Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i7-12700K Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 5900XT Desktop Processor",
+      "latency_ms": 3027,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 5900XT Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 5900XT Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 5900XT Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 5900XT Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9900X 12-Core Processor",
+      "latency_ms": 5575,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9900X 12-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9900X 12-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9900X 12-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9900X 12-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "gpu",
+      "result_count": 15
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "ASUS ROG G700 Gaming Desktop",
+      "latency_ms": 1521,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS ROG G700 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS ROG G700 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS ROG G700 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS ROG G700 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "latency_ms": 1941,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6",
+      "latency_ms": 1208,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "latency_ms": 3321,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Yeston Sakura Atlantis Overclocked Graphics Card",
+      "latency_ms": 6278,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Yeston Sakura Atlantis Overclocked Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Yeston Sakura Atlantis Overclocked Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Yeston Sakura Atlantis Overclocked Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Yeston Sakura Atlantis Overclocked Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "MSI GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 Graphics Card",
+      "latency_ms": 4444,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "MSI GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "MSI GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "MSI GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "MSI GeForce RTX 3060 Ventus 2X OC 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Gjx 2026 New Graphics Card with Cooling Dual Fans Desktop Pc Hd 4G Gaming Memory Card,For Gaming,Video Editing,3D Rendering,And High-Performance",
+      "latency_ms": 1747,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gjx 2026 New Graphics Card with Cooling Dual Fans Desktop Pc Hd 4G Gaming Memory Card,For Gaming,Video Editing,3D Rendering,And High-Performance",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gjx 2026 New Graphics Card with Cooling Dual Fans Desktop Pc Hd 4G Gaming Memory Card,For Gaming,Video Editing,3D Rendering,And High-Performance",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gjx 2026 New Graphics Card with Cooling Dual Fans Desktop Pc Hd 4G Gaming Memory Card,For Gaming,Video Editing,3D Rendering,And High-Performance",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gjx 2026 New Graphics Card with Cooling Dual Fans Desktop Pc Hd 4G Gaming Memory Card,For Gaming,Video Editing,3D Rendering,And High-Performance",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "latency_ms": 7876,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Acer Nitro 65 Gaming Desktop",
+      "latency_ms": 8832,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Acer Nitro 65 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Acer Nitro 65 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Acer Nitro 65 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Acer Nitro 65 Gaming Desktop",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Graphics Card",
+      "latency_ms": 7228,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "latency_ms": 2474,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Graphics Card",
+      "latency_ms": 2715,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "iBUYPOWER Trace Gaming Desktop PC",
+      "latency_ms": 1400,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "iBUYPOWER Trace Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "iBUYPOWER Trace Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "iBUYPOWER Trace Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "iBUYPOWER Trace Gaming Desktop PC",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Sapphire Nitro+ Radeon RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card",
+      "latency_ms": 1145,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire Nitro+ Radeon RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire Nitro+ Radeon RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire Nitro+ Radeon RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire Nitro+ Radeon RX 9070 XT Gaming OC 16GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+      "latency_ms": 2952,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    }
+  ],
+  "provider_status": {
+    "ecb": "completed",
+    "serpapi": "completed",
+    "serpapi-details": "completed",
+    "firecrawl": "failed",
+    "zyte": "failed",
+    "brightdata": "failed",
+    "apify": "failed"
+  },
+  "created_at": "2026-07-20T15:56:40.343110+00:00"
+}

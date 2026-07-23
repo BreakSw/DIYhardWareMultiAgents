@@ -1,0 +1,702 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a37ff3b7a154f6fa3d8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Hubwu0eY1Z-YW_BwySA5ZQ/6a5f7a37ff3b7a154f6fa3d8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Hubwu0eY1Z-YW_BwySA5ZQ/6a5f7a37ff3b7a154f6fa3d8.json_with_pixel_position",
+    "created_at": "2026-07-21 13:55:03 UTC",
+    "processed_at": "2026-07-21 13:55:03 UTC",
+    "google_url": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&oq=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Hubwu0eY1Z-YW_BwySA5ZQ/6a5f7a37ff3b7a154f6fa3d8.html",
+    "total_time_taken": 2.66
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Yeston Sakura Atlantis Overclocked Graphics Card gpu vram_gb",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Yeston Sakura Atlantis Overclocked Graphics Card gpu vram_gb",
+    "total_results": 363,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Wild Design: Yeston RX 9070 XT \"Waifu\" Sakura Sugar ...",
+      "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/MJ4Su77ZEC0cXIUmswYcDsRumXBYQ-kg2KTIy6aftUw.jpeg",
+      "channel": "Gamers Nexus",
+      "duration": "26:34",
+      "platform": "YouTube",
+      "date": "Mar 22, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTAWDKKWyGx2KuA4St0unsLtK9_6cLWl8VILQ",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Yeston RX 9070 XT Sakura Sugar Atlantis OC",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/MJ4Su77ZEC0cXIUmswYcDhgUk6wIxZ4QJ5aQRh0BMAWW1iwE7c0r0KYprTALAzo6.jpeg"
+        },
+        {
+          "time": "03:56",
+          "title": "The Marketing",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=236",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/MJ4Su77ZEC0cXIUmswYcDvh-RTwZWuBhueguI1-l7SEU7d0-vKJqEBacwDkplVOm.jpeg"
+        },
+        {
+          "time": "06:17",
+          "title": "Tear Down",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=377",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/MJ4Su77ZEC0cXIUmswYcDk0SThqlyeX0zLla0CPC3vTtmgu-HHdRZJlnx3tcfBCg.jpeg"
+        },
+        {
+          "time": "09:27",
+          "title": "Cooling Solution",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=567",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/MJ4Su77ZEC0cXIUmswYcDrosAixwXZJ9LCGaiL9thqn5Q4zs3Yme9KjZblj8rnO-.jpeg"
+        },
+        {
+          "time": "13:00",
+          "title": "Finding the Smell",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=780",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/MJ4Su77ZEC0cXIUmswYcDuacvT3B6o8wFprowd18dhdApyf_cn5xt327TOujF9XF.jpeg"
+        },
+        {
+          "time": "14:42",
+          "title": "GN Team Smells the Module",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=882",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScDmVmHhyduxaKBbZ9VcXShh8qFk6Hg9IEa2yeM3by1g&s="
+        },
+        {
+          "time": "18:12",
+          "title": "Thermal Benchmarks",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=1092",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJGloKEja4qZi-QBe1OgXISQ2jINeMoaAWz0wvlsWQkQ&s="
+        },
+        {
+          "time": "19:47",
+          "title": "Fan Speed vs Thermals",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=1187",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkpSdiFRw_iwIpyui55ToyRELzZNl8av2hYz9BhRCLfw&s="
+        },
+        {
+          "time": "21:03",
+          "title": "Acoustic Testing and Frequency Spectrum",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=1263",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNza--3XyLuy6Q7Lk4Yx7O8Pmx8nfRtNjRO50A03_2XQ&s="
+        },
+        {
+          "time": "22:45",
+          "title": "Gaming Benchmarks",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=1365",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToKaxAwk5ftDf0QVH3JG4nZdkbLzyD3MSNkCW4U21nLQ&s="
+        },
+        {
+          "time": "24:28",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=Bs1O21ibuKM&t=1468",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBwMuDE4Mce0UyxYfkIjuo7GjL985qaW4LdMefzsJjqw&s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Is the Yeston Atlantis 9070XT the Best GPU?",
+      "link": "https://www.tiktok.com/@peachietech/video/7604033115786317070",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/cNQvdxYNjnHsOFTp4CLzBip_frcMu-WW2dT0ukQ15Xc.jpeg",
+      "channel": "peachietech",
+      "duration": "2:40",
+      "platform": "TikTok",
+      "date": "Feb 7, 2026"
+    },
+    {
+      "position": 3,
+      "title": "is this the prettiest gpu you can buy right now? it was definitely ...",
+      "link": "https://www.instagram.com/reel/DUdm-RzD2Oj/",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/ilFuo7_--ZgyqdX4C43vbstNK-DvZz6Cz1FetnmtLC0.jpeg",
+      "channel": "peachietech 🍑",
+      "duration": "2:40",
+      "platform": "Instagram",
+      "date": "Feb 7, 2026"
+    },
+    {
+      "position": 4,
+      "title": "Yeston Reveals Sakura Atlantis Graphics Card",
+      "link": "https://www.youtube.com/watch?v=bhnc3VTXj_s",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a37ff3b7a154f6fa3d8/images/lL4trB9bQAfCPoWZVdUIB6TXd7bmCIddbDYZ4c1yuxQ.jpeg",
+      "channel": "Tech's",
+      "duration": "1:47",
+      "platform": "YouTube",
+      "date": "Apr 28, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRrLgaxUMROxMLxWqaHmIComhargGBbuZqJkg"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQIW-L8tuS4Cd4aLVKzQs8Lf3n151yrkeIKuA2gWLcbXxOo51AjumGgvV50tO6CA1uR7jUDCI4QXYeeHcP_PapcDCJfncGcgeCcs6wA7gUuaZaVH2aM-1KmKg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTdEnpF2yJagPqPgvcmGFKVETNCH_gO_-fi4PfRinI44DR9tggRNhphSCxIaRE7F6l90mbk_cMzdWZ1bixR_0ZX5yARHIMF6uQ",
+      "source": "YestonStore",
+      "title": "Yeston Sakura Atlantis Overclocked Graphics Card",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$749.00",
+      "extracted_price": 749.0,
+      "immersive_product_page_token": "eFbwC3icdZHLjqNGFIaV57FaqgLKFFE27UvhZtqAgSouG6ugyobmYgaDx1jzDnmFyD0z0swyiZRtXqPzJFmGzDrZnu_85z_nPz_fZfGHs2kPvHs_bPaXuHSf3AcsH-rd-mvbncSQ9YX4TcNIV5GhQaBqWNEAgsrXjPe8Oh3_pbqBVR2oQJ9DAFSszNGvueSiKhrpHA6yW52yqW3SYU3HCoaGMZ_rioHwt6LmR_kd_w6Rqhg6MqbyXIVzYGCsvHbi_Ka5yz3UsKEDoE9yTUdYBQrGH13PWe3_B35-P8hufPspluf-1Mx8Xg4dnz32FW_64jxzLrLLqlNWSjEzO97mRXaeLXknZsd2mF06Xu-P6edj-32x_xj_Whfil9f20t_z46dhqOSf92N1H873vLrL5suJt5dD9tcPf68v2XLZZcsdbVu28oCvJCQJbDsJPD-J2tCL2Gl7q5AfWBFXxSjXgmXUc0PixTHEY7pJyDaqXD8UGqutit_o9Zky14NtzsIepQF5l9bGdQfgyNdsCIjR2BHZxWWlUJqAuGkbEfb-1hQBHSELyYJyiorAZGZYkgMPFpYfkUYu4TsawssOsidZWR0zjWvQZMr2RrZOkJ99RVx8aNlx3a7tsHrZRaebs7KhjKzWK6HLN22d1UbNCFETVYQpIQefLYowRGZ6Yw4vk42g1ipWT31KvOVzYCe-Ka5x_eEWN0lE2eSx7s8U5APbVBv2EiOHJCvHFKOovJZCNuWX1wlrbS9cT7lMvqawBMkvKcVINswLlDwJyitJC-gmwH4OI6L5G9bIqETBSz6m1W7cRtYHHi2ekzr3BEWIKXYioswnwHjKzCTPGgJ9Yihh2O989tg7Ju3T6SizsBbexh6dMPFSYiwktevQnP6hVB0v-4au6OgDBrIXUTOVeZ-u5-7wBh4J6n0Hucb-mSloJ6xIud4SecDNQ28M5n44_gh1rM01BQIN4_k_TsUzKQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eFbwC3icdZHLjqNGFIaV57FaqgLKFFE27UvhZtqAgSouG6ugyobmYgaDx1jzDnmFyD0z0swyiZRtXqPzJFmGzDrZnu_85z_nPz_fZfGHs2kPvHs_bPaXuHSf3AcsH-rd-mvbncSQ9YX4TcNIV5GhQaBqWNEAgsrXjPe8Oh3_pbqBVR2oQJ9DAFSszNGvueSiKhrpHA6yW52yqW3SYU3HCoaGMZ_rioHwt6LmR_kd_w6Rqhg6MqbyXIVzYGCsvHbi_Ka5yz3UsKEDoE9yTUdYBQrGH13PWe3_B35-P8hufPspluf-1Mx8Xg4dnz32FW_64jxzLrLLqlNWSjEzO97mRXaeLXknZsd2mF06Xu-P6edj-32x_xj_Whfil9f20t_z46dhqOSf92N1H873vLrL5suJt5dD9tcPf68v2XLZZcsdbVu28oCvJCQJbDsJPD-J2tCL2Gl7q5AfWBFXxSjXgmXUc0PixTHEY7pJyDaqXD8UGqutit_o9Zky14NtzsIepQF5l9bGdQfgyNdsCIjR2BHZxWWlUJqAuGkbEfb-1hQBHSELyYJyiorAZGZYkgMPFpYfkUYu4TsawssOsidZWR0zjWvQZMr2RrZOkJ99RVx8aNlx3a7tsHrZRaebs7KhjKzWK6HLN22d1UbNCFETVYQpIQefLYowRGZ6Yw4vk42g1ipWT31KvOVzYCe-Ka5x_eEWN0lE2eSx7s8U5APbVBv2EiOHJCvHFKOovJZCNuWX1wlrbS9cT7lMvqawBMkvKcVINswLlDwJyitJC-gmwH4OI6L5G9bIqETBSz6m1W7cRtYHHi2ekzr3BEWIKXYioswnwHjKzCTPGgJ9Yihh2O989tg7Ju3T6SizsBbexh6dMPFSYiwktevQnP6hVB0v-4au6OgDBrIXUTOVeZ-u5-7wBh4J6n0Hucb-mSloJ6xIud4SecDNQ28M5n44_gh1rM01BQIN4_k_TsUzKQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQIW-L8tuS4Cd4aLVKzQs8Lf3n151yrkeIKuA2gWLcbXxOo51AjumGgvV50tO6CA1uR7jUDCI4QXYeeHcP_PapcDCJfncGcgeCcs6wA7gUuaZaVH2aM-1KmKg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTdEnpF2yJagPqPgvcmGFKVETNCH_gO_-fi4PfRinI44DR9tggRNhphSCxIaRE7F6l90mbk_cMzdWZ1bixR_0ZX5yARHIMF6uQ",
+      "source": "YestonStore",
+      "title": "Yeston Atlantis Radeon RX 9070 16G GDDR6 256bit 4nm Desktop computer PC Video Graphics Cards support PCI-Express 5.0 3*DP+1*HDMI-compatible ARGB graph",
+      "price": "$699.00",
+      "extracted_price": 699.0,
+      "immersive_product_page_token": "MXdd2nicPZLNbptAFIXV57EizTBgoOomtgFDAoS_AbOJxsMYsAdMMBDbL9FXiJykUrpsK3Xb10ifprSLSldXujqf7pGOzucLK3-6y2ZD2od-eT-sdnfm3ZXCripPe2vafdbTrsy-qzKUAVQAGmdcUFWmb5R0hO_zMvsBAYKyrEyRLAIZjaKAxG8FIxkva-ZuNqxd7OlfTkJIkKaCgEZo5KE6Fb-WFcnZf11QZUlVpfEXnAJVUYTnNjs8vT70rD29f1qxQ7evJwHZ9S2ZXHec1F15mLgDaynf0x3LJkZLmqKkh8mctNkkb_rJ0JLqPl-_5s0_DyBLoioqiqpOkToeElSeqzJ7em6G7lLkL33P2a9Lzi_94VLwC6u_7EkzbOjvD89aS-fzgc68qGnwwgdBaPUp4hbRrFO4LUT7bOEYm2JQYcNe8McMNHOvOt7Ekbq0E_vM4pQ7cbrz8L5bC1BYxRBRw-x8hEVf8G1WQuTERe9UFK65AlytGDxe-Bnyexo1M_ucrkh0tNcgI3TXDZkhpWlltXY9G8ISHJkmbW8T3fMhj1OUPpClf4OxFbBlZocA26GxAnirEwxn3DVsaO-sBUv0Yq1nJ1bh5SrWfWY4brhI55SrZZSkRXTmjhvBIDhzQLUsXAM18CppESQFSWs8RFgTcQzObnxEq7pw6a6xcQxbHzSxvXRwgPnRPkEvTiyTwoYHtXPwBWgQnN4GvpmEoHhMK_1EE2wmKE0JnFnRHIhpALsoioi50zWKTGlMzk4gLl19VtM6P95iK_IXlkiErs80lZNKg06kvRwP7eYdXOtSF7hSvze3m21cSr1gXQlVZwzavYqSrVNdf4SyIk5FAYKxC_IfQl4HrQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MXdd2nicPZLNbptAFIXV57EizTBgoOomtgFDAoS_AbOJxsMYsAdMMBDbL9FXiJykUrpsK3Xb10ifprSLSldXujqf7pGOzucLK3-6y2ZD2od-eT-sdnfm3ZXCripPe2vafdbTrsy-qzKUAVQAGmdcUFWmb5R0hO_zMvsBAYKyrEyRLAIZjaKAxG8FIxkva-ZuNqxd7OlfTkJIkKaCgEZo5KE6Fb-WFcnZf11QZUlVpfEXnAJVUYTnNjs8vT70rD29f1qxQ7evJwHZ9S2ZXHec1F15mLgDaynf0x3LJkZLmqKkh8mctNkkb_rJ0JLqPl-_5s0_DyBLoioqiqpOkToeElSeqzJ7em6G7lLkL33P2a9Lzi_94VLwC6u_7EkzbOjvD89aS-fzgc68qGnwwgdBaPUp4hbRrFO4LUT7bOEYm2JQYcNe8McMNHOvOt7Ekbq0E_vM4pQ7cbrz8L5bC1BYxRBRw-x8hEVf8G1WQuTERe9UFK65AlytGDxe-Bnyexo1M_ucrkh0tNcgI3TXDZkhpWlltXY9G8ISHJkmbW8T3fMhj1OUPpClf4OxFbBlZocA26GxAnirEwxn3DVsaO-sBUv0Yq1nJ1bh5SrWfWY4brhI55SrZZSkRXTmjhvBIDhzQLUsXAM18CppESQFSWs8RFgTcQzObnxEq7pw6a6xcQxbHzSxvXRwgPnRPkEvTiyTwoYHtXPwBWgQnN4GvpmEoHhMK_1EE2wmKE0JnFnRHIhpALsoioi50zWKTGlMzk4gLl19VtM6P95iK_IXlkiErs80lZNKg06kvRwP7eYdXOtSF7hSvze3m21cSr1gXQlVZwzavYqSrVNdf4SyIk5FAYKxC_IfQl4HrQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSZbg99oDrTp7qz5VV43FCoyZIAjFMkJquC9OdngY_YfQkkJFrknPbiazF0MpwNZgYSLJQZlqhkL37LmgQckAORWbztSvd3MaCGuMhEhj62AkZCefxpwrtf",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTdEnpF2yJagPqPgvcmGFKVETNCH_gO_-fi4PfRinI44DR9tggRNhphSCxIaRE7F6l90mbk_cMzdWZ1bixR_0ZX5yARHIMF6uQ",
+      "source": "YestonStore",
+      "title": "Yeston Sakura Radeon RX 9060 XT 16G GDDR6 Video Card",
+      "rating": 1.0,
+      "reviews": 1,
+      "price": "$479.00",
+      "extracted_price": 479.0,
+      "immersive_product_page_token": "zldognicbZDLjqNGAEWV77FaqiooA1E2fkE33camoHhtrHIV5uHiYQweu5V_yC9E7plIM8uZkbLNb3S-JMuQrGd9pHvuvb_d0-LPzWN7YN1peNxd4uP2afugpw-Vu_rcdo0YeF-Ib1BVIJgioEyxoWEDwSn8zFnPZJMV4is2IERQnSpIU4Fh6KrxNU-ZkEWdbg6HtFs2vBDfoa7oxtTQVIg1BPDUUFT0pahYlv7PvylAVfEINEOBUJvqGlLfOnF-R9vFDusK0A2oj2ZNHSW6Bn7dks1y92P26TSk3e39lzg990098dhx6Nhk1ktW98V5srmkHZcNP6ZiYnWszQt-nixYJyZZO0wuHat22f5T1v7X6gfpb1Uhfn9rL_09zz4Og0z_umfyPpzvubyn9R8Nay8H_vdP_6wufLHo-MKlbRssCfCU-FUEgev59tKH0iRAem40DwnN6zW9eutImi7KrqwkXVpdixhdn_b-Gsf0fHOsdghL2RIrgxRJxKPVq6_kcB32wDPFlVDYccW2XkKq8oB_cALSuDI_iaOU6VKc_Cq5rCtz41NnS0C-9V8l5tVZdV7JNgC9Orpv6dEx_cgmrj-HEcgtX6HXOEyaPcVrUSWE186zoFx1SlPuK0jHXQoFuB49BbfamkbB1ltA1TkmZVqa9t5K1ATFeOyy2VOSh6Ftc9MAvCSQUHnxYH7wo7njHrHzQs2EKfmJmvPIleIDq0XAVjinStISZMy9QO89ak_diDyziAx-mD87kN78Y4aoTF6Co3njMKnGz4YYxDi0DEwrkbMy8WIkFsKycx6OIilOtF4rSWkTpwySPaCeCYwnbiU5r03omQYKw971glm_sWi_D0zTKuw5eXRumzDxmTm7xYqTj7ufmT8_pVa72VsNDhcwTqMMi6VQPl7P3eEdzEzcexs8NE_loQwLPCD7AVW9dVntDCUqnWr2M9R0daoiCFRd1_4FOI4wYA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zldognicbZDLjqNGAEWV77FaqiooA1E2fkE33camoHhtrHIV5uHiYQweu5V_yC9E7plIM8uZkbLNb3S-JMuQrGd9pHvuvb_d0-LPzWN7YN1peNxd4uP2afugpw-Vu_rcdo0YeF-Ib1BVIJgioEyxoWEDwSn8zFnPZJMV4is2IERQnSpIU4Fh6KrxNU-ZkEWdbg6HtFs2vBDfoa7oxtTQVIg1BPDUUFT0pahYlv7PvylAVfEINEOBUJvqGlLfOnF-R9vFDusK0A2oj2ZNHSW6Bn7dks1y92P26TSk3e39lzg990098dhx6Nhk1ktW98V5srmkHZcNP6ZiYnWszQt-nixYJyZZO0wuHat22f5T1v7X6gfpb1Uhfn9rL_09zz4Og0z_umfyPpzvubyn9R8Nay8H_vdP_6wufLHo-MKlbRssCfCU-FUEgev59tKH0iRAem40DwnN6zW9eutImi7KrqwkXVpdixhdn_b-Gsf0fHOsdghL2RIrgxRJxKPVq6_kcB32wDPFlVDYccW2XkKq8oB_cALSuDI_iaOU6VKc_Cq5rCtz41NnS0C-9V8l5tVZdV7JNgC9Orpv6dEx_cgmrj-HEcgtX6HXOEyaPcVrUSWE186zoFx1SlPuK0jHXQoFuB49BbfamkbB1ltA1TkmZVqa9t5K1ATFeOyy2VOSh6Ftc9MAvCSQUHnxYH7wo7njHrHzQs2EKfmJmvPIleIDq0XAVjinStISZMy9QO89ak_diDyziAx-mD87kN78Y4aoTF6Co3njMKnGz4YYxDi0DEwrkbMy8WIkFsKycx6OIilOtF4rSWkTpwySPaCeCYwnbiU5r03omQYKw971glm_sWi_D0zTKuw5eXRumzDxmTm7xYqTj7ufmT8_pVa72VsNDhcwTqMMi6VQPl7P3eEdzEzcexs8NE_loQwLPCD7AVW9dVntDCUqnWr2M9R0daoiCFRd1_4FOI4wYA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRPVdkJWHNpBv9o_oPoBtMzyY_UZYweLNh6IjZf3TG14Vpgr685p7I835WULhsHASgCDPAcPx7uYHOzSmutogVTmnpqfPUpziqyEuGfohH5MQLfIKKiEnK9",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTdEnpF2yJagPqPgvcmGFKVETNCH_gO_-fi4PfRinI44DR9tggRNhphSCxIaRE7F6l90mbk_cMzdWZ1bixR_0ZX5yARHIMF6uQ",
+      "source": "YestonStore",
+      "title": "Yeston Sakura Nvidia GeForce RTX 5070 Graphics Card",
+      "price": "$749.00",
+      "extracted_price": 749.0,
+      "immersive_product_page_token": "sKXpvXicHVLLbtpAAFS_B0Var99VLwG8YBcMfq2NL9HiNfixthc_gOQHeuwvRCSplB7TSr32N9KvKe1l5jAjzYw0Xy9p_ms15zvSHob53XFTrs31jZbeVI7xytuGDkmf0x-KoogalEVNl0UVyFCRpNeE9IQ1-5z-FGRZF4AqSBqEAtChqAD1LUsJZXmdrna7tJ02yT-fosuyJqoSVKCiXglo2ve8Ivv0v_6mSbIEBajLkiKIiq5o6lNLu8eXw5C29--fNmnXN_XII-XQktFtz0jd591odUzbhDVJmdLRrCU8y5NuNCEtHe35MDq2pLrbb1_2_Jrw-FT9A37sL9n-eRhY-vuyZ5ehu2TsktbfGsKPu-TPhy_GwZxMBnPsBJzjqQv8WY-WPgv9yC7iMuvpDJW47M84QhkOz46LTSEJWe8Ep5Mf0iC6F7qkNKVYRENcW53HMsXHSNzizCdG32wYa70aKWE9fnBq14oZ3pAHe01gVnkzxF14lhxAF2Hhmssafd4C3OCAHpfTsUAiZAehvghCS0jqDUwZ4xTbcweidukbIgnACUO5cSJUbufYw1NEKGDr0GeOGzVSPOMPCeIoqUxoQ6vdGtmBQul07Vk7oX4K5tzfALZ0Q-FMMe1Sg4PFdR8tkJ0GaPCi8Y5G1hAXY4NO2cnD2MKYHxzXjHyQneIK3ScRNiMxjokwtoIJkGJP6IMgIGaJjEQ05Zghw8GZks6uG1lc4FLYJCB2fMM1qWiPtwFdJKXxfO7a3Tu4RXLvreShMYtdEebyAK0bWPWzo3Gni1FhV7cfBVWTlOt5gKRp6l_iZPtI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sKXpvXicHVLLbtpAAFS_B0Var99VLwG8YBcMfq2NL9HiNfixthc_gOQHeuwvRCSplB7TSr32N9KvKe1l5jAjzYw0Xy9p_ms15zvSHob53XFTrs31jZbeVI7xytuGDkmf0x-KoogalEVNl0UVyFCRpNeE9IQ1-5z-FGRZF4AqSBqEAtChqAD1LUsJZXmdrna7tJ02yT-fosuyJqoSVKCiXglo2ve8Ivv0v_6mSbIEBajLkiKIiq5o6lNLu8eXw5C29--fNmnXN_XII-XQktFtz0jd591odUzbhDVJmdLRrCU8y5NuNCEtHe35MDq2pLrbb1_2_Jrw-FT9A37sL9n-eRhY-vuyZ5ehu2TsktbfGsKPu-TPhy_GwZxMBnPsBJzjqQv8WY-WPgv9yC7iMuvpDJW47M84QhkOz46LTSEJWe8Ep5Mf0iC6F7qkNKVYRENcW53HMsXHSNzizCdG32wYa70aKWE9fnBq14oZ3pAHe01gVnkzxF14lhxAF2Hhmssafd4C3OCAHpfTsUAiZAehvghCS0jqDUwZ4xTbcweidukbIgnACUO5cSJUbufYw1NEKGDr0GeOGzVSPOMPCeIoqUxoQ6vdGtmBQul07Vk7oX4K5tzfALZ0Q-FMMe1Sg4PFdR8tkJ0GaPCi8Y5G1hAXY4NO2cnD2MKYHxzXjHyQneIK3ScRNiMxjokwtoIJkGJP6IMgIGaJjEQ05Zghw8GZks6uG1lc4FLYJCB2fMM1qWiPtwFdJKXxfO7a3Tu4RXLvreShMYtdEebyAK0bWPWzo3Gni1FhV7cfBVWTlOt5gKRp6l_iZPtI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRY_R3Ia8i2StN7FVj1mv_P-tWOPzVFbBy9zqu5sPheNiYo_7uIU-I2fy4ICY5MRsJPjk5803cElNOdkKhYp8BUdmwJbpddeMhisw0FMaqXsn-R2ygWwfB-Uw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - CyberNova",
+      "title": "Yeston Sakura Atlantis Radeon RX 9070 XT 16G Gddr6 256bit 4nm Desktop Graphics Card-3x DisplayPort, 1x HDMI",
+      "price": "$769.75",
+      "extracted_price": 769.75,
+      "delivery": "Free delivery by Thu",
+      "immersive_product_page_token": "crcOdXicLY1NbptAAIXV81iRmB8wVN3EGAKODWZgwJ5NNAEMNsOPMbg4F-iyV4icpFK6bCt122ukp6kjdfOkp_fpfV_P6fa3azUb3u576-64Lpb28kpNr0rPeG3aOunjbpv8AlgeA4jGGCtIBbKsqBi_xrzjos62yU-AVEXToCQBTYEq0iQV_8hTnohtlbqbTdpO6_j9RVGwrCoygpoMVQ0DoMLv25Jn6f99jOSLQ0MAj4F6AS7lqU0Ojy_7Pm1Pb5_W6aGrq5HPi77lo-tO8KrbHkbuMW1jUcdFmoxuWt7k2_gw0nmbjLKmHx1bXt5l9y9Zc3E8PpXv0Ry7c549971I_5wzce4P51yc0-pbzZvjJv774Yuxt3W9tycebZpwSiRfCmtCxY7AsFxAMSMRlgM460hoY2bOvAVs0BrlwoMeckpp4MZsHkvMDEK2CUBTcyN_CMrhGJhssX5gGw_lnETdbRw6Fglzz6XDZFGS1i9IxXZklpSZlFAnolM2EJHgVIT7BJh-DEzoWiJMjA6HSOwSUyt4qS0cGlJaaihdTfapAXQmhDGPktt5MNF5xagTFphWk9qNNJ8ZGEdW8xBSreS0uV2XOY6NYZ-YDN9DZ-pE8i1BNvKnJl-EzXJR5R5dCc-xMhggdiJI3PgrERGTgNhoDB5pS68qBjbYq0DKP7PSPMWr0F4hxjiYzKguYeaDjlLK7cI0YmTLTMyWsWXABSATFjWQmGzgkEiRRUyvNGWnclr3Jn4eDu3mTbo25c535fkVzlJ9bnr-zj5FHXHHGpZ6vQ2A9xGMVaxgCCSsquo_-Hb3ag",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=crcOdXicLY1NbptAAIXV81iRmB8wVN3EGAKODWZgwJ5NNAEMNsOPMbg4F-iyV4icpFK6bCt122ukp6kjdfOkp_fpfV_P6fa3azUb3u576-64Lpb28kpNr0rPeG3aOunjbpv8AlgeA4jGGCtIBbKsqBi_xrzjos62yU-AVEXToCQBTYEq0iQV_8hTnohtlbqbTdpO6_j9RVGwrCoygpoMVQ0DoMLv25Jn6f99jOSLQ0MAj4F6AS7lqU0Ojy_7Pm1Pb5_W6aGrq5HPi77lo-tO8KrbHkbuMW1jUcdFmoxuWt7k2_gw0nmbjLKmHx1bXt5l9y9Zc3E8PpXv0Ry7c549971I_5wzce4P51yc0-pbzZvjJv774Yuxt3W9tycebZpwSiRfCmtCxY7AsFxAMSMRlgM460hoY2bOvAVs0BrlwoMeckpp4MZsHkvMDEK2CUBTcyN_CMrhGJhssX5gGw_lnETdbRw6Fglzz6XDZFGS1i9IxXZklpSZlFAnolM2EJHgVIT7BJh-DEzoWiJMjA6HSOwSUyt4qS0cGlJaaihdTfapAXQmhDGPktt5MNF5xagTFphWk9qNNJ8ZGEdW8xBSreS0uV2XOY6NYZ-YDN9DZ-pE8i1BNvKnJl-EzXJR5R5dCc-xMhggdiJI3PgrERGTgNhoDB5pS68qBjbYq0DKP7PSPMWr0F4hxjiYzKguYeaDjlLK7cI0YmTLTMyWsWXABSATFjWQmGzgkEiRRUyvNGWnclr3Jn4eDu3mTbo25c535fkVzlJ9bnr-zj5FHXHHGpZ6vQ2A9xGMVaxgCCSsquo_-Hb3ag"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcStF3TqscHhQGE_XFvMQReh6ZHXVZZwrP-S-NJcLhkGTGhYiik1kDlui6inHgkZgR-XrPiCMnw-UW__PJ-9Y2UsIa31fKam8wqMBZ1zAUu1yD1B9lAvjFL3Ug",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTdEnpF2yJagPqPgvcmGFKVETNCH_gO_-fi4PfRinI44DR9tggRNhphSCxIaRE7F6l90mbk_cMzdWZ1bixR_0ZX5yARHIMF6uQ",
+      "source": "YestonStore",
+      "title": "Yeston Sakura Radeon RX 9070 XT 16GB GDDR6 RDNA 4 4nm Triple Fan ARGB Desktop Graphics Card",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$799.00",
+      "extracted_price": 799.0,
+      "immersive_product_page_token": "xXesw3icbZNBjqNGAEWV81gtVRVgIMqmbShs0hSmgCrDpgVF2cYuMAPYsa3cIVeI3DMjzSyTkbLNNTonyTLdWc_6fz29xf-_3WX9V7joNkX_4bR4PmeH1XL1YMmHJnK_dP2xOomxrv6EJoRwCoCtWza0DWSbxhdRjIU6buvqGzQtHSEALAigaUMLmBD9sZNFpepWhpuN7J2jeKdopvkGQsC0bQgsG0Dra90UW_l__A0alqlpOtKmbw3LtCA0zJe-Gl7Rav48nSJbh9qbBkAa1GzT1H9d0dB5_n726cNJ9tfXnzI5jMd2EheHU19MHkdVtGM9TMKz7IU6ioOsJl5fdLtaDJN50VeTbXeanPuied6Wn7bdu_V36C9NXf3-0p3H-2778XRS8u_7Vt1Pw32n7rL9fCy680b888O_7lnM572YR2nXMYeCuK0ugUMI02buGumaVDSJWuLFSGXVgtK8oYNUah-uWUGcWSawBYWmfglxHqWQzkrlwuIArwKMywrtMHMCI7mRMXShilt8y_aUEY3spTNziEpvdDGLpTc-8YPfMq6OGccz0UAcetWsTIQeH0aSOFUaJ0tAmOKlg9eFNmtkmjclqs65x4I8pRHjPihujGQJ9vIGroIa7vMb1QKP8YhVQ9CoY-HhImPdECt8STxGxN5PMtTxFJOzdMg5U4FBvTyKIfHE2l8k3D6lb6NJG0Nf3_K-RAZJeLcUi11MePXzU3rZrcEl501-SxPfpciOmNtdcmQh4dpTessZUTYlKaE0tf2MV2nJx54n1MsOeJm3NKi8yxCwR8T2OMuUvUpgvgkwdst0d0uVfwlcTMv9NsbAXgov34kWwxjbiPMxitnjGHrpWDKMvdqf0QW5hjxPGacGO9ggPeCs4KRNPBzlCFwZ85ey7ThZ-9rHy9BvXsEjNsY4NJ4e9K2cP-Eo3i-vfKShaevgNO8TGP34fp2pjiDQLcv6D0fxLeY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xXesw3icbZNBjqNGAEWV81gtVRVgIMqmbShs0hSmgCrDpgVF2cYuMAPYsa3cIVeI3DMjzSyTkbLNNTonyTLdWc_6fz29xf-_3WX9V7joNkX_4bR4PmeH1XL1YMmHJnK_dP2xOomxrv6EJoRwCoCtWza0DWSbxhdRjIU6buvqGzQtHSEALAigaUMLmBD9sZNFpepWhpuN7J2jeKdopvkGQsC0bQgsG0Dra90UW_l__A0alqlpOtKmbw3LtCA0zJe-Gl7Rav48nSJbh9qbBkAa1GzT1H9d0dB5_n726cNJ9tfXnzI5jMd2EheHU19MHkdVtGM9TMKz7IU6ioOsJl5fdLtaDJN50VeTbXeanPuied6Wn7bdu_V36C9NXf3-0p3H-2778XRS8u_7Vt1Pw32n7rL9fCy680b888O_7lnM572YR2nXMYeCuK0ugUMI02buGumaVDSJWuLFSGXVgtK8oYNUah-uWUGcWSawBYWmfglxHqWQzkrlwuIArwKMywrtMHMCI7mRMXShilt8y_aUEY3spTNziEpvdDGLpTc-8YPfMq6OGccz0UAcetWsTIQeH0aSOFUaJ0tAmOKlg9eFNmtkmjclqs65x4I8pRHjPihujGQJ9vIGroIa7vMb1QKP8YhVQ9CoY-HhImPdECt8STxGxN5PMtTxFJOzdMg5U4FBvTyKIfHE2l8k3D6lb6NJG0Nf3_K-RAZJeLcUi11MePXzU3rZrcEl501-SxPfpciOmNtdcmQh4dpTessZUTYlKaE0tf2MV2nJx54n1MsOeJm3NKi8yxCwR8T2OMuUvUpgvgkwdst0d0uVfwlcTMv9NsbAXgov34kWwxjbiPMxitnjGHrpWDKMvdqf0QW5hjxPGacGO9ggPeCs4KRNPBzlCFwZ85ey7ThZ-9rHy9BvXsEjNsY4NJ4e9K2cP-Eo3i-vfKShaevgNO8TGP34fp2pjiDQLcv6D0fxLeY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQSU64qPOKXgVFSMg3313Etd9bfEwN5QovtEOc99LyCAfdv7mW3cUoeFKrEu6JsEg3iaumvr548NtDN5N2aSx7ivQGrtWvc71s3oH0qzSJltsq28R_k2B5h",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - squaredpartner",
+      "title": "Yeston Amd Radeon Rx9070 Sakura 16g Atlantis Oc Gddr6 Graphics Card",
+      "price": "$1,075.00",
+      "extracted_price": 1075.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "7fpUg3icbZJJbtswAEXR8xgBSA0eim4ix1KkxHJFiZTETUCL1GBRsqzBQy7QZa8QOEmBdJkuuu010tM07bqbv_l4-G_xv55F8XN13aSs3Q3Xd_u4_Gx_vpiKi8pbvDTtlg9JX_BXVQG6qihjfTIF-gyAsfaSsJ7JbVbwh9dcMC6LWqzSVLRX2-S_wPeiYpn41_6A6lgBKpxMoKLD6USfzLTHlncPz7tBtKe3T7Ho-m098lk5tGx02UtW90U3Wu1Fm8htUgo-slrW5EXSjeas5aOsGUb7llV32fo5a94nHh6rv9Hs-3OePQ2DFL_OmTwP3TmXZ1F_27Jmnya_P3xZ7Oz5fLANDzcNuUIgMJ2QhKWGI66EC5TGVa55eKaiDdF8gqAXmjK0aBHUzoGrBuJqfoMXC8h8iFAIwDoijjD5AZOF6kb5wStzP4moxnwA4sg4onu5w4rrE5BpAYYHbC71teQpCRsF15dQYGdJgdskdQk96TgJXPYM5n18bxzdmijc4h2WBPKNUywth8Yy3y7NDK4Jd5HV7IKgPAbAffcwUt-ialJ6h3VtAxTlkIazeUyc3rckcXHXe6Xu09BcxWpjItXoRGCeggA1ceXektoMqCWHIMRKjPExIDSi5qz17pGkRzsKQH6glXlKImJHKqUMGg6eA436sMcYM7s0F4lq61SiHkHDuw3zPqmOSy4NiDfkxotiQIkZkCBPUZU8Hbs2fQOXpt77K_32QsvE_Nb0_I19Cnu0ej8IGOZtAL2PcDLVxpoCgTadTv8AxbDz-w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7fpUg3icbZJJbtswAEXR8xgBSA0eim4ix1KkxHJFiZTETUCL1GBRsqzBQy7QZa8QOEmBdJkuuu010tM07bqbv_l4-G_xv55F8XN13aSs3Q3Xd_u4_Gx_vpiKi8pbvDTtlg9JX_BXVQG6qihjfTIF-gyAsfaSsJ7JbVbwh9dcMC6LWqzSVLRX2-S_wPeiYpn41_6A6lgBKpxMoKLD6USfzLTHlncPz7tBtKe3T7Ho-m098lk5tGx02UtW90U3Wu1Fm8htUgo-slrW5EXSjeas5aOsGUb7llV32fo5a94nHh6rv9Hs-3OePQ2DFL_OmTwP3TmXZ1F_27Jmnya_P3xZ7Oz5fLANDzcNuUIgMJ2QhKWGI66EC5TGVa55eKaiDdF8gqAXmjK0aBHUzoGrBuJqfoMXC8h8iFAIwDoijjD5AZOF6kb5wStzP4moxnwA4sg4onu5w4rrE5BpAYYHbC71teQpCRsF15dQYGdJgdskdQk96TgJXPYM5n18bxzdmijc4h2WBPKNUywth8Yy3y7NDK4Jd5HV7IKgPAbAffcwUt-ialJ6h3VtAxTlkIazeUyc3rckcXHXe6Xu09BcxWpjItXoRGCeggA1ceXektoMqCWHIMRKjPExIDSi5qz17pGkRzsKQH6glXlKImJHKqUMGg6eA436sMcYM7s0F4lq61SiHkHDuw3zPqmOSy4NiDfkxotiQIkZkCBPUZU8Hbs2fQOXpt77K_32QsvE_Nb0_I19Cnu0ej8IGOZtAL2PcDLVxpoCgTadTv8AxbDz-w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ5GXmlzLsUzWsl4Vag2B98QTB-p-hqD-tuOR5zCY1kIwQVTx8Ze7R1Mzoi2g8QI_4VBi0zrPho2aSlDXZtQtc6ugmDFb2E6qedqSXCn-PXIE9JC7qaQStYWQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTdEnpF2yJagPqPgvcmGFKVETNCH_gO_-fi4PfRinI44DR9tggRNhphSCxIaRE7F6l90mbk_cMzdWZ1bixR_0ZX5yARHIMF6uQ",
+      "source": "YestonStore",
+      "title": "Yeston Sakura Radeon RX 9070 16G GDDR6 256bit 4nm Desktop computer PC Video Graphics Cards support PCI-Express 5.0 3*DP+1*HDMI-compatible ARGB graphic",
+      "price": "$679.00",
+      "extracted_price": 679.0,
+      "immersive_product_page_token": "TnyHnHicHZFNbptAAEbV81iRZoDhp-om2AZjxTgMDIPZRGNmDIYBYwyOnQt02StUTlMpXTaVuu012tPU7fo96XvS9-kitj-Xs3bDuv0weziuqnvv_sYUN3UwfW27HR-yfsvfdACginSoAt0wDUNXde01Yz2Tu3zLf0AdGAgZpqorKgSmCpBqfC8E43LbiOVmI7rJLvvnKUCzDP1KTUvXDQVawPq2rVku_vM3C5iKZiLFMq7YvKqG-tzxw-eX_SC68-8PK3Hod80oZNXQsdFtL1nTbw-j5VF0mdxlleAjt2Ntsc0OozHr-Chvh9GxY_VDvn7J2_8TEGq6pkJLuwYgFUKoP9db_vm5PfaXIv8yDFL8uuTyMhwuhbyI5uuOtcdN9ufdx-neG48Hzw5I28YTDMIay6hG-1DGLnaLKIXOlEU24tIpCbGa9RnaCwLLVOn3cdW3i0iiBFoVTrjLyvjAJsWU1q2MK3mMJnIRULwM67QNagf69HTvy6IlT3KWVsEplnzCapgS4DBKTgqRDuKNHbPG1jIKA05QHUhrjl0cZOC0WCdyQeMcCtmWxHVo5HqPOJLuHZFyBSsUVbKkJe6zJ3_O4jRJXefM3RMRjV1ExAMpmbeU9jEtHX3V8MCvT8SfBj1PbISfbFU4qY-pH_oEd5hCTKKFGs_8Iqw4WJW-XMPVU0TnSoC9JALFY1o75yyJvURNUwbtORkDLQ1hTwhhXuVMM9VDqQzUteLMSGljHnFvUWIk3Nb3k5RyWgAs7XART7-cDt3mN7h1UB8u0d2NlovxnROEpXemPV4algaGcRfB4D00zOvXCgSaaZp_Af62_nw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TnyHnHicHZFNbptAAEbV81iRZoDhp-om2AZjxTgMDIPZRGNmDIYBYwyOnQt02StUTlMpXTaVuu012tPU7fo96XvS9-kitj-Xs3bDuv0weziuqnvv_sYUN3UwfW27HR-yfsvfdACginSoAt0wDUNXde01Yz2Tu3zLf0AdGAgZpqorKgSmCpBqfC8E43LbiOVmI7rJLvvnKUCzDP1KTUvXDQVawPq2rVku_vM3C5iKZiLFMq7YvKqG-tzxw-eX_SC68-8PK3Hod80oZNXQsdFtL1nTbw-j5VF0mdxlleAjt2Ntsc0OozHr-Chvh9GxY_VDvn7J2_8TEGq6pkJLuwYgFUKoP9db_vm5PfaXIv8yDFL8uuTyMhwuhbyI5uuOtcdN9ufdx-neG48Hzw5I28YTDMIay6hG-1DGLnaLKIXOlEU24tIpCbGa9RnaCwLLVOn3cdW3i0iiBFoVTrjLyvjAJsWU1q2MK3mMJnIRULwM67QNagf69HTvy6IlT3KWVsEplnzCapgS4DBKTgqRDuKNHbPG1jIKA05QHUhrjl0cZOC0WCdyQeMcCtmWxHVo5HqPOJLuHZFyBSsUVbKkJe6zJ3_O4jRJXefM3RMRjV1ExAMpmbeU9jEtHX3V8MCvT8SfBj1PbISfbFU4qY-pH_oEd5hCTKKFGs_8Iqw4WJW-XMPVU0TnSoC9JALFY1o75yyJvURNUwbtORkDLQ1hTwhhXuVMM9VDqQzUteLMSGljHnFvUWIk3Nb3k5RyWgAs7XART7-cDt3mN7h1UB8u0d2NlovxnROEpXemPV4algaGcRfB4D00zOvXCgSaaZp_Af62_nw"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is Yeston a good GPU?",
+      "type": "ai_overview",
+      "page_token": "PAZN3XicHZBRboIwAECzy_g5qAYXTcyyDooywQFtwf4sUMFiCxQlIv7tLjvVTjOzC7y8975_VNXI36dU9L2-LA1jGIbnY9seVfHM29rILmPDDZ4plWdcLucvc_Ba8pVzGeB7O8CQaE3tyIwBtDHSHwFQJ1zf1pGrLZIITKg6B4rNuXRG3CCU3SOSEauL7WjHp3RbJOzkK-9-qG9lkUKRp84tlxoyQEGQoOogAcJUdFlKTXpSTYEcM6m9NUnZNUoRDpTqsaulDyhkqbBzyYdAedWeiE1QWyBQjkmUN-4TD_lKdFyKTyq1tyVhjMzFhrtM8AaBGC2mSdKHMX3rdy7pc4qQW3kwWgfjLmEPZ9CFmGWPXhnfoYellT2Yjt-IMzUPGzKL4KTk19Vs8n9s9VXW_VKf2-Mfb9N51w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PAZN3XicHZBRboIwAECzy_g5qAYXTcyyDooywQFtwf4sUMFiCxQlIv7tLjvVTjOzC7y8975_VNXI36dU9L2-LA1jGIbnY9seVfHM29rILmPDDZ4plWdcLucvc_Ba8pVzGeB7O8CQaE3tyIwBtDHSHwFQJ1zf1pGrLZIITKg6B4rNuXRG3CCU3SOSEauL7WjHp3RbJOzkK-9-qG9lkUKRp84tlxoyQEGQoOogAcJUdFlKTXpSTYEcM6m9NUnZNUoRDpTqsaulDyhkqbBzyYdAedWeiE1QWyBQjkmUN-4TD_lKdFyKTyq1tyVhjMzFhrtM8AaBGC2mSdKHMX3rdy7pc4qQW3kwWgfjLmEPZ9CFmGWPXhnfoYellT2Yjt-IMzUPGzKL4KTk19Vs8n9s9VXW_VKf2-Mfb9N51w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9FdEllR1Z4UlVoVFlYRkpjRm80WDJFMlMyZ3lORTV0TkRBNFgxTnJUamxSU2paME0yZHFRMjlUU2t3ME0ycEhVbXBWWlVaV09IRXlkMjV4WlVSb1QwcFRhemRvWWxKYWEwMVNlVFo2WWxWSE1XRTJVWGg0VFhORGR4SVhUMGh3Wm1GeWNYVklYM1paYTFCSlVDMDRaUzF0VVVVYUlrRkVjM0k1WmxSdVdYaEphRVJRWmxnM1ptRnZaRmh3VjFWNVZFbFBTalkwVm1jIiwiZmN2IjoiMyIsImVpIjoiT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUUiLCJxYyI6IkNqeDVaWE4wYjI0Z2MyRnJkWEpoSUdGMGJHRnVkR2x6SUc5MlpYSmpiRzlqYTJWa0lHZHlZWEJvYVdOeklHTmhjbVFnWjNCMUlIWnlZVzFmWjJJUUFIMzh5d29fIiwicXVlc3Rpb24iOiJJcyBZZXN0b24gYSBnb29kIEdQVT8iLCJsayI6IkdoUnBjeUI1WlhOMGIyNGdZU0JuYjI5a0lHZHdkUSIsImJzIjoiYy1QUzV4TDFMRmFJVEMwdXljOVRTRlJJejg5UFVYQVBDTFUzRXBNU3lTeFdxRVNSU0M4bzVRcmtVZ05xS01sSWhXbXlOREEzVUlnSWdhaEl5eTlTU0VfTXpjeEx0emRTbDFMTmhLaXNSRkpaVVlLdWtndm9odkNNeEJLRnBLTEV2QlNGVEpoendHNG9SNUdBR0NUQUNBQSIsImlkIjoiZmNfT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUVfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9FdEllR1Z4UlVoVFlYRkpjRm80WDJFMlMyZ3lORTV0TkRBNFgxTnJUamxSU2paME0yZHFRMjlUU2t3ME0ycEhVbXBWWlVaV09IRXlkMjV4WlVSb1QwcFRhemRvWWxKYWEwMVNlVFo2WWxWSE1XRTJVWGg0VFhORGR4SVhUMGh3Wm1GeWNYVklYM1paYTFCSlVDMDRaUzF0VVVVYUlrRkVjM0k1WmxSdVdYaEphRVJRWmxnM1ptRnZaRmh3VjFWNVZFbFBTalkwVm1jIiwiZmN2IjoiMyIsImVpIjoiT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUUiLCJxYyI6IkNqeDVaWE4wYjI0Z2MyRnJkWEpoSUdGMGJHRnVkR2x6SUc5MlpYSmpiRzlqYTJWa0lHZHlZWEJvYVdOeklHTmhjbVFnWjNCMUlIWnlZVzFmWjJJUUFIMzh5d29fIiwicXVlc3Rpb24iOiJJcyBZZXN0b24gYSBnb29kIEdQVT8iLCJsayI6IkdoUnBjeUI1WlhOMGIyNGdZU0JuYjI5a0lHZHdkUSIsImJzIjoiYy1QUzV4TDFMRmFJVEMwdXljOVRTRlJJejg5UFVYQVBDTFUzRXBNU3lTeFdxRVNSU0M4bzVRcmtVZ05xS01sSWhXbXlOREEzVUlnSWdhaEl5eTlTU0VfTXpjeEx0emRTbDFMTmhLaXNSRkpaVVlLdWtndm9odkNNeEJLRnBLTEV2QlNGVEpoendHNG9SNUdBR0NUQUNBQSIsImlkIjoiZmNfT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUVfNiJ9"
+    },
+    {
+      "question": "Is the Yeston 9070 XT good for gaming?",
+      "type": "ai_overview",
+      "page_token": "WJZl3nicHZBLbqNAFAA1l_EypsHOaCxZkQg0DsMn9A93b0ZMNx-bh8ExMSa73GVONaeJlW2VVIv6_AeHU_v_x7UZx-GyWS6naXqo-76G8kH33bK4zCe91AXA30K3m8efj-ip0lv__cV9Pr-4GR8G4RGL5r6dMvgo8-SYWMBoYM6K144ShhtWz7rjjmxXM2XgRrxfK-TK8iSRwAoTy7DiVM_8YDl3t0qDkAgxzLEv0hi7z3vbvOojpobFtyzvbeH5k-zQpezCc-KEkdol76lIrLj9dS2Z2u2d8Hdsj7vSw5m0xsns8ZUGilEfyVIApEHDqWcGceeSIyRtEcljUhGANhJwiDEmfmNe6c7t5D68Gd5UBuCN-5BFrIEoR4SQ_pBx8qGP0AmcrAuvXrE2BG4RrEGdjQXzvc_yfKAqqJGZFpW-bp3F98_tn6obN8NbX38B-LWDcA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WJZl3nicHZBLbqNAFAA1l_EypsHOaCxZkQg0DsMn9A93b0ZMNx-bh8ExMSa73GVONaeJlW2VVIv6_AeHU_v_x7UZx-GyWS6naXqo-76G8kH33bK4zCe91AXA30K3m8efj-ip0lv__cV9Pr-4GR8G4RGL5r6dMvgo8-SYWMBoYM6K144ShhtWz7rjjmxXM2XgRrxfK-TK8iSRwAoTy7DiVM_8YDl3t0qDkAgxzLEv0hi7z3vbvOojpobFtyzvbeH5k-zQpezCc-KEkdol76lIrLj9dS2Z2u2d8Hdsj7vSw5m0xsns8ZUGilEfyVIApEHDqWcGceeSIyRtEcljUhGANhJwiDEmfmNe6c7t5D68Gd5UBuCN-5BFrIEoR4SQ_pBx8qGP0AmcrAuvXrE2BG4RrEGdjQXzvc_yfKAqqJGZFpW-bp3F98_tn6obN8NbX38B-LWDcA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9FdEllR1Z4UlVoVFlYRkpjRm80WDJFMlMyZ3lORTV0TkRBNFgxTnJUamxSU2paME0yZHFRMjlUU2t3ME0ycEhVbXBWWlVaV09IRXlkMjV4WlVSb1QwcFRhemRvWWxKYWEwMVNlVFo2WWxWSE1XRTJVWGg0VFhORGR4SVhUMGh3Wm1GeWNYVklYM1paYTFCSlVDMDRaUzF0VVVVYUlrRkVjM0k1WmxSdVdYaEphRVJRWmxnM1ptRnZaRmh3VjFWNVZFbFBTalkwVm1jIiwiZmN2IjoiMyIsImVpIjoiT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUUiLCJxYyI6IkNqeDVaWE4wYjI0Z2MyRnJkWEpoSUdGMGJHRnVkR2x6SUc5MlpYSmpiRzlqYTJWa0lHZHlZWEJvYVdOeklHTmhjbVFnWjNCMUlIWnlZVzFmWjJJUUFIMzh5d29fIiwicXVlc3Rpb24iOiJJcyB0aGUgWWVzdG9uIDkwNzAgWFQgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiR2lWcGN5QjBhR1VnZVdWemRHOXVJRGt3TnpBZ2VIUWdaMjl2WkNCbWIzSWdaMkZ0YVc1biIsImJzIjoiYy1QUzV4TDFMRmFJVEMwdXljOVRTRlJJejg5UFVYQVBDTFUzRXBNU3lTeFdxRVNSU0M4bzVRcmtVZ05xS01sSWhXbXlOREEzVUlnSWdhaEl5eTlTU0VfTXpjeEx0emRTbDFMTmhLaXNSRkpaVVlLdWtndm9odkNNeEJLRnBLTEV2QlNGVEpoendHNG9SNUdBR0NUQUNBQSIsImlkIjoiZmNfT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUVfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9FdEllR1Z4UlVoVFlYRkpjRm80WDJFMlMyZ3lORTV0TkRBNFgxTnJUamxSU2paME0yZHFRMjlUU2t3ME0ycEhVbXBWWlVaV09IRXlkMjV4WlVSb1QwcFRhemRvWWxKYWEwMVNlVFo2WWxWSE1XRTJVWGg0VFhORGR4SVhUMGh3Wm1GeWNYVklYM1paYTFCSlVDMDRaUzF0VVVVYUlrRkVjM0k1WmxSdVdYaEphRVJRWmxnM1ptRnZaRmh3VjFWNVZFbFBTalkwVm1jIiwiZmN2IjoiMyIsImVpIjoiT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUUiLCJxYyI6IkNqeDVaWE4wYjI0Z2MyRnJkWEpoSUdGMGJHRnVkR2x6SUc5MlpYSmpiRzlqYTJWa0lHZHlZWEJvYVdOeklHTmhjbVFnWjNCMUlIWnlZVzFmWjJJUUFIMzh5d29fIiwicXVlc3Rpb24iOiJJcyB0aGUgWWVzdG9uIDkwNzAgWFQgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiR2lWcGN5QjBhR1VnZVdWemRHOXVJRGt3TnpBZ2VIUWdaMjl2WkNCbWIzSWdaMkZ0YVc1biIsImJzIjoiYy1QUzV4TDFMRmFJVEMwdXljOVRTRlJJejg5UFVYQVBDTFUzRXBNU3lTeFdxRVNSU0M4bzVRcmtVZ05xS01sSWhXbXlOREEzVUlnSWdhaEl5eTlTU0VfTXpjeEx0emRTbDFMTmhLaXNSRkpaVVlLdWtndm9odkNNeEJLRnBLTEV2QlNGVEpoendHNG9SNUdBR0NUQUNBQSIsImlkIjoiZmNfT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUVfNiJ9"
+    },
+    {
+      "question": "What brand is Yeston?",
+      "type": "ai_overview",
+      "page_token": "J71cPXicHdBdboIwAADg7DI-agubGyZmGWKLLGBsoYW-LLWoVX4nnYBvu8tOtdMs2XeE7_unPNfF70OqjWm7xWzW9_301DSn8jBVTTWT3VirmZJluZeqWMyf5_D1qJbrrndXTe_ukrZlHgH0wkLKsp6mbkOAyfIVtHL-YqV2YhJA7AOFTQycgcYbKwNGShytSTVkzGqrLNWfgpHV1hdf3BM3WpKCp2zYozbJR-hHRTAqL-e5z6L07layJN0uRrUo2BADGHBf4x1Dl5wzTKC-hpaOwsqxE5s9KpvVDD-9yzPcUru8RxehZSFgsm4oAs5GYaFVjSBFjsW52VH2ZrY4MXuGED4HLvGjccsF2UMShL4m1NOhXG-gLKOzuoibwmY4eBpkd0QmR3Vb2pP_seXHsTKL9tqc_gDx7ngO",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J71cPXicHdBdboIwAADg7DI-agubGyZmGWKLLGBsoYW-LLWoVX4nnYBvu8tOtdMs2XeE7_unPNfF70OqjWm7xWzW9_301DSn8jBVTTWT3VirmZJluZeqWMyf5_D1qJbrrndXTe_ukrZlHgH0wkLKsp6mbkOAyfIVtHL-YqV2YhJA7AOFTQycgcYbKwNGShytSTVkzGqrLNWfgpHV1hdf3BM3WpKCp2zYozbJR-hHRTAqL-e5z6L07layJN0uRrUo2BADGHBf4x1Dl5wzTKC-hpaOwsqxE5s9KpvVDD-9yzPcUru8RxehZSFgsm4oAs5GYaFVjSBFjsW52VH2ZrY4MXuGED4HLvGjccsF2UMShL4m1NOhXG-gLKOzuoibwmY4eBpkd0QmR3Vb2pP_seXHsTKL9tqc_gDx7ngO",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9FdEllR1Z4UlVoVFlYRkpjRm80WDJFMlMyZ3lORTV0TkRBNFgxTnJUamxSU2paME0yZHFRMjlUU2t3ME0ycEhVbXBWWlVaV09IRXlkMjV4WlVSb1QwcFRhemRvWWxKYWEwMVNlVFo2WWxWSE1XRTJVWGg0VFhORGR4SVhUMGh3Wm1GeWNYVklYM1paYTFCSlVDMDRaUzF0VVVVYUlrRkVjM0k1WmxSdVdYaEphRVJRWmxnM1ptRnZaRmh3VjFWNVZFbFBTalkwVm1jIiwiZmN2IjoiMyIsImVpIjoiT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUUiLCJxYyI6IkNqeDVaWE4wYjI0Z2MyRnJkWEpoSUdGMGJHRnVkR2x6SUc5MlpYSmpiRzlqYTJWa0lHZHlZWEJvYVdOeklHTmhjbVFnWjNCMUlIWnlZVzFmWjJJUUFIMzh5d29fIiwicXVlc3Rpb24iOiJXaGF0IGJyYW5kIGlzIFllc3Rvbj8iLCJsayI6IkdoUjNhR0YwSUdKeVlXNWtJR2x6SUhsbGMzUnZiZyIsImJzIjoiYy1QUzV4TDFMRmFJVEMwdXljOVRTRlJJejg5UFVYQVBDTFUzRXBNU3lTeFdxRVNSU0M4bzVRcmtVZ05xS01sSWhXbXlOREEzVUlnSWdhaEl5eTlTU0VfTXpjeEx0emRTbDFMTmhLaXNSRkpaVVlLdWtndm9odkNNeEJLRnBLTEV2QlNGVEpoendHNG9SNUdBR0NUQUNBQSIsImlkIjoiZmNfT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUVfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9FdEllR1Z4UlVoVFlYRkpjRm80WDJFMlMyZ3lORTV0TkRBNFgxTnJUamxSU2paME0yZHFRMjlUU2t3ME0ycEhVbXBWWlVaV09IRXlkMjV4WlVSb1QwcFRhemRvWWxKYWEwMVNlVFo2WWxWSE1XRTJVWGg0VFhORGR4SVhUMGh3Wm1GeWNYVklYM1paYTFCSlVDMDRaUzF0VVVVYUlrRkVjM0k1WmxSdVdYaEphRVJRWmxnM1ptRnZaRmh3VjFWNVZFbFBTalkwVm1jIiwiZmN2IjoiMyIsImVpIjoiT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUUiLCJxYyI6IkNqeDVaWE4wYjI0Z2MyRnJkWEpoSUdGMGJHRnVkR2x6SUc5MlpYSmpiRzlqYTJWa0lHZHlZWEJvYVdOeklHTmhjbVFnWjNCMUlIWnlZVzFmWjJJUUFIMzh5d29fIiwicXVlc3Rpb24iOiJXaGF0IGJyYW5kIGlzIFllc3Rvbj8iLCJsayI6IkdoUjNhR0YwSUdKeVlXNWtJR2x6SUhsbGMzUnZiZyIsImJzIjoiYy1QUzV4TDFMRmFJVEMwdXljOVRTRlJJejg5UFVYQVBDTFUzRXBNU3lTeFdxRVNSU0M4bzVRcmtVZ05xS01sSWhXbXlOREEzVUlnSWdhaEl5eTlTU0VfTXpjeEx0emRTbDFMTmhLaXNSRkpaVVlLdWtndm9odkNNeEJLRnBLTEV2QlNGVEpoendHNG9SNUdBR0NUQUNBQSIsImlkIjoiZmNfT0hwZmFycXVIX3ZZa1BJUC04ZS1tUUVfNiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "SZti7HicxZbrkqo4EIAfYJ9gH2D546h4x6miTiWoI16OMjrOeP5QEGJAwDAEZTz_9l32qfZpNqI4MKNOna3a2q6SpHPp7pD-aP_8y3M27t-__W5HUcDuy-U4jkuEUuLhEqJ-2WD7DSqvqMdCZH9jdBsi7FgyskPqY4F48pYJtifjjbDfyTUBMVkUsCNP-sHKCF-3fX23dKfqtCjhoq91hcScrJsGw2vu7W3NynqZP9w_ah2ulFgJb0pta4qxGU5wm5SqYqVdmpQNny8A_60Q4BweBKhcUT9NK4BoXxkA3cNTSdcpZzPdzLI40SDk04kj5ao9kjROF3CDU7hp2AyAh-MguhXIIK_2DltUDR4iUpVjoB_l0tFg2mpZ7aJcmIQnu-nR6zd9HURV83a4366eDGl5L2rWiHYYXibdiQZwJwZ2TIY3YlUo6DyQmUYu3XJWAmBPUz8mEPlFlS3C81AsmyFvKmUH2SjphOyQnsq8LdL-I-3BuDf7sQ6DZgfMx_PF0-s-2D5zt2Vk8nUeNSxs6bYufkv0SrXSENu1lnSXcIHYGQyWA-PJ88xJfzTWaGlUgpUMFeT8VjLCB-HjxdesnQ71aQNMXzHpJp19OkXTDqSHze8bex0VxgCkaNYPudYhnzOaB3OBikTOaIxBQkUSnHJsT4ayWUHIeUMmj_of_GUjgKl5ReXspWMPudW5iBX-2twzJOO8Kc3uHtMPzk5LJrCe4xtoGU05HlEjEOaPoh5PUM-s40M8KZdA-8H1ASHnj1GyST0FdPb7HlSePn4FRHnq3uT1mtzi5iQEpOn_IZuzFHSfhzaIp7jYHwTryvilazqoObRwO97Fl7Oe-uYv1AP0v3ORVAuaVosLXNhfcJFUC3K9WpySKE65SNYNoXKVCzdp89Wi_6FaXOJikOfierV45-IQym0u4C0u4DUu-Af_ExfaFS7SapHhwv1QLY5G02rxzsWvVwvj31WLBBN8bPKlY7sm10tI36WrlvjUHNiSrlPF77z1ekUTLEbP2pclZOVH975heXe6Y93D6iDaW3c6H6D32BJe5SVmEd0UZoa7DY0CiDxjEzmsMNnhEHkUudgqPIRGYDuIFRQjtAok2BZ2oeHrxBR8L6SyaDTcATRGw0YTV354SmdUd-hq1WELXC9q4K32Kumz3XzckVrNqFKPFqOf0mO7uirOHoypNxp2XqIFnBuo91Oat9ZbtaYEK2c-CdbLcXM58Oyhbb4Q0Hp5gc_Pblwbt-O5L64kB7RetWW8X7yNVghtMVuLLVYFFeCSJC4mz6trVaoHqkpdwQ-RzHmqu-C7xv8yQQQUnj8K4T_KfzG_KIEhQ8dsJ1et9qrdaImGKTUMqYkFn0T7QG6LAtuEcuUf1KQt3w",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SZti7HicxZbrkqo4EIAfYJ9gH2D546h4x6miTiWoI16OMjrOeP5QEGJAwDAEZTz_9l32qfZpNqI4MKNOna3a2q6SpHPp7pD-aP_8y3M27t-__W5HUcDuy-U4jkuEUuLhEqJ-2WD7DSqvqMdCZH9jdBsi7FgyskPqY4F48pYJtifjjbDfyTUBMVkUsCNP-sHKCF-3fX23dKfqtCjhoq91hcScrJsGw2vu7W3NynqZP9w_ah2ulFgJb0pta4qxGU5wm5SqYqVdmpQNny8A_60Q4BweBKhcUT9NK4BoXxkA3cNTSdcpZzPdzLI40SDk04kj5ao9kjROF3CDU7hp2AyAh-MguhXIIK_2DltUDR4iUpVjoB_l0tFg2mpZ7aJcmIQnu-nR6zd9HURV83a4366eDGl5L2rWiHYYXibdiQZwJwZ2TIY3YlUo6DyQmUYu3XJWAmBPUz8mEPlFlS3C81AsmyFvKmUH2SjphOyQnsq8LdL-I-3BuDf7sQ6DZgfMx_PF0-s-2D5zt2Vk8nUeNSxs6bYufkv0SrXSENu1lnSXcIHYGQyWA-PJ88xJfzTWaGlUgpUMFeT8VjLCB-HjxdesnQ71aQNMXzHpJp19OkXTDqSHze8bex0VxgCkaNYPudYhnzOaB3OBikTOaIxBQkUSnHJsT4ayWUHIeUMmj_of_GUjgKl5ReXspWMPudW5iBX-2twzJOO8Kc3uHtMPzk5LJrCe4xtoGU05HlEjEOaPoh5PUM-s40M8KZdA-8H1ASHnj1GyST0FdPb7HlSePn4FRHnq3uT1mtzi5iQEpOn_IZuzFHSfhzaIp7jYHwTryvilazqoObRwO97Fl7Oe-uYv1AP0v3ORVAuaVosLXNhfcJFUC3K9WpySKE65SNYNoXKVCzdp89Wi_6FaXOJikOfierV45-IQym0u4C0u4DUu-Af_ExfaFS7SapHhwv1QLY5G02rxzsWvVwvj31WLBBN8bPKlY7sm10tI36WrlvjUHNiSrlPF77z1ekUTLEbP2pclZOVH975heXe6Y93D6iDaW3c6H6D32BJe5SVmEd0UZoa7DY0CiDxjEzmsMNnhEHkUudgqPIRGYDuIFRQjtAok2BZ2oeHrxBR8L6SyaDTcATRGw0YTV354SmdUd-hq1WELXC9q4K32Kumz3XzckVrNqFKPFqOf0mO7uirOHoypNxp2XqIFnBuo91Oat9ZbtaYEK2c-CdbLcXM58Oyhbb4Q0Hp5gc_Pblwbt-O5L64kB7RetWW8X7yNVghtMVuLLVYFFeCSJC4mz6trVaoHqkpdwQ-RzHmqu-C7xv8yQQQUnj8K4T_KfzG_KIEhQ8dsJ1et9qrdaImGKTUMqYkFn0T7QG6LAtuEcuUf1KQt3w"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "(Limited-time promotion)Yeston Sakura Atlantis Radeon ...",
+      "link": "https://yestonstore.com/products/yeston-sakura-atlantis-radeon-rx-9070-xt-16g-gddr6-256bit-4nm-video-cards-desktop-computer-pc-graphics-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fyestonstore.com%2Fproducts%2Fyeston-sakura-atlantis-radeon-rx-9070-xt-16g-gddr6-256bit-4nm-video-cards-desktop-computer-pc-graphics-card&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQFnoECDYQAQ",
+      "displayed_link": "https://yestonstore.com › products › yeston-sakura-atlan...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiodHx8kKDQ4JCYxJx8fJT0lMS4sOkAuLys1OD8sPTQ5Lz0BCgoKDQwNGA8PGjclHx83Kys1Kys4LisrLTcrKystKy0tKzU3KysrKysrKy0rKysrKysrKys3KysrKysrNysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBAf_xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQFExUiUcHw_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL_xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQISMVH_2gAMAwEAAhEDEQA_AO4oWKTuEcb8DHLd1pqiO5xlgf4ZcTW6A-0VhbjehYPVIhiTHKMyA2wN_qV3TdU3qYvJG1wbZHvFHSE1mNr8R8BGOuApJIksb5AQG1wAmmg__9k.jpeg",
+      "snippet": "Regular price $749.00 USD Regular price $949.00. Video Memory Frequency: 2518MHz Video Memory Speed: 20Gbps Video Memory 16G/256bit/GDDR6",
+      "snippet_highlighted_words": [
+        "Video Memory Frequency: 2518MHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Regular price $749.00 USD Regular price $949.00. Video Memory Frequency: 2518MHz Video Memory Speed: 20Gbps Video Memory 16G/256bit/GDDR6",
+          "source_info_link": "https://yestonstore.com/products/yeston-sakura-atlantis-radeon-rx-9070-xt-16g-gddr6-256bit-4nm-video-cards-desktop-computer-pc-graphics-card",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiodHx8kKDQ4JCYxJx8fJT0lMS4sOkAuLys1OD8sPTQ5Lz0BCgoKDQwNGA8PGjclHx83Kys1Kys4LisrLTcrKystKy0tKzU3KysrKysrKy0rKysrKysrKys3KysrKysrNysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBAf_xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQFExUiUcHw_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL_xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQISMVH_2gAMAwEAAhEDEQA_AO4oWKTuEcb8DHLd1pqiO5xlgf4ZcTW6A-0VhbjehYPVIhiTHKMyA2wN_qV3TdU3qYvJG1wbZHvFHSE1mNr8R8BGOuApJIksb5AQG1wAmmg__9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fyestonstore.com%2Fproducts%2Fyeston-sakura-atlantis-radeon-rx-9070-xt-16g-gddr6-256bit-4nm-video-cards-desktop-computer-pc-graphics-card&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fyestonstore.com%2Fproducts%2Fyeston-sakura-atlantis-radeon-rx-9070-xt-16g-gddr6-256bit-4nm-video-cards-desktop-computer-pc-graphics-card",
+      "source": "Yeston Official Store"
+    },
+    {
+      "position": 2,
+      "title": "YESTON unveils Radeon RX 9070 XT SAKURA & ...",
+      "link": "https://www.reddit.com/r/Amd/comments/1j1uu2f/yeston_unveils_radeon_rx_9070_xt_sakura_sakura/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1j1uu2f%2Fyeston_unveils_radeon_rx_9070_xt_sakura_sakura%2F&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQFnoECDIQAQ",
+      "displayed_link": "40+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Yeston has finally unveiled its Radeon RX 9070 lineup. The Atlantis card looks so cool. Sakura Atlantis from AliExpress.",
+      "snippet_highlighted_words": [
+        "Yeston",
+        "Atlantis card",
+        "Sakura Atlantis"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Yeston has finally unveiled its Radeon RX 9070 lineup. The Atlantis card looks so cool. Sakura Atlantis from AliExpress.",
+          "source_info_link": "https://www.reddit.com/r/Amd/comments/1j1uu2f/yeston_unveils_radeon_rx_9070_xt_sakura_sakura/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1j1uu2f%2Fyeston_unveils_radeon_rx_9070_xt_sakura_sakura%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1j1uu2f%2Fyeston_unveils_radeon_rx_9070_xt_sakura_sakura%2F",
+      "source": "Reddit · r/Amd"
+    },
+    {
+      "position": 3,
+      "title": "Yeston Sakura Atlantis RX 9070 OC Review: New RDNA 4 ...",
+      "link": "https://yestonstore.com/blogs/graphics-card-review/yeston-sakura-atlantis-rx-9070-oc-review-new-rdna-4-architecture-marine-themed-aesthetics-and-gaming-prowess-nbsp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fyestonstore.com%2Fblogs%2Fgraphics-card-review%2Fyeston-sakura-atlantis-rx-9070-oc-review-new-rdna-4-architecture-marine-themed-aesthetics-and-gaming-prowess-nbsp&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQFnoECDMQAQ",
+      "displayed_link": "https://yestonstore.com › blogs › graphics-card-review",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiodHx8kKDQ4JCYxJx8fJT0lMS4sOkAuLys1OD8sPTQ5Lz0BCgoKDQwNGA8PGjclHx83Kys1Kys4LisrLTcrKystKy0tKzU3KysrKysrKy0rKysrKysrKys3KysrKysrNysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBAf_xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQFExUiUcHw_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL_xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQISMVH_2gAMAwEAAhEDEQA_AO4oWKTuEcb8DHLd1pqiO5xlgf4ZcTW6A-0VhbjehYPVIhiTHKMyA2wN_qV3TdU3qYvJG1wbZHvFHSE1mNr8R8BGOuApJIksb5AQG1wAmmg__9k.jpeg",
+      "date": "Mar 26, 2025",
+      "snippet": "At 2K resolution, The Yeston Sakura Atlantis RX 9070 OC maintains a 19% average performance advantage over the RX 7900 GRE in conventional ...",
+      "snippet_highlighted_words": [
+        "Yeston Sakura Atlantis"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "At 2K resolution, The Yeston Sakura Atlantis RX 9070 OC maintains a 19% average performance advantage over the RX 7900 GRE in conventional ...",
+          "source_info_link": "https://yestonstore.com/blogs/graphics-card-review/yeston-sakura-atlantis-rx-9070-oc-review-new-rdna-4-architecture-marine-themed-aesthetics-and-gaming-prowess-nbsp",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiodHx8kKDQ4JCYxJx8fJT0lMS4sOkAuLys1OD8sPTQ5Lz0BCgoKDQwNGA8PGjclHx83Kys1Kys4LisrLTcrKystKy0tKzU3KysrKysrKy0rKysrKysrKys3KysrKysrNysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBAf_xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQFExUiUcHw_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL_xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQISMVH_2gAMAwEAAhEDEQA_AO4oWKTuEcb8DHLd1pqiO5xlgf4ZcTW6A-0VhbjehYPVIhiTHKMyA2wN_qV3TdU3qYvJG1wbZHvFHSE1mNr8R8BGOuApJIksb5AQG1wAmmg__9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fyestonstore.com%2Fblogs%2Fgraphics-card-review%2Fyeston-sakura-atlantis-rx-9070-oc-review-new-rdna-4-architecture-marine-themed-aesthetics-and-gaming-prowess-nbsp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fyestonstore.com%2Fblogs%2Fgraphics-card-review%2Fyeston-sakura-atlantis-rx-9070-oc-review-new-rdna-4-architecture-marine-themed-aesthetics-and-gaming-prowess-nbsp",
+      "source": "Yeston Official Store"
+    },
+    {
+      "position": 4,
+      "title": "Yeston Sakura Atlantis Radeon RX 9070 XT 16G GDDR6 ...",
+      "link": "https://www.amazon.com/Yeston-Video-Graphics-Card-9070/dp/B0FZBJNWLL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FYeston-Video-Graphics-Card-9070%2Fdp%2FB0FZBJNWLL&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQFnoECDcQAQ",
+      "displayed_link": "https://www.amazon.com › Yeston-Video-Graphics-Card...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Yeston Sakura Atlantis Radeon RX 9070 XT 16G GDDR6. Video Memory Frequency: 2518MHz Video Memory Speed: 20Gbps Video Memory Capacity and Specifications: 16G ...",
+      "snippet_highlighted_words": [
+        "Yeston Sakura Atlantis Radeon RX 9070 XT 16G GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Yeston Sakura Atlantis Radeon RX 9070 XT 16G GDDR6. Video Memory Frequency: 2518MHz Video Memory Speed: 20Gbps Video Memory Capacity and Specifications: 16G ...",
+          "source_info_link": "https://www.amazon.com/Yeston-Video-Graphics-Card-9070/dp/B0FZBJNWLL",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FYeston-Video-Graphics-Card-9070%2Fdp%2FB0FZBJNWLL&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FYeston-Video-Graphics-Card-9070%2Fdp%2FB0FZBJNWLL",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "Atlantis – YestonStore",
+      "link": "https://yestonstore.com/collections/atlantis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fyestonstore.com%2Fcollections%2Fatlantis&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQFnoECDUQAQ",
+      "displayed_link": "https://yestonstore.com › collections › atlantis",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiodHx8kKDQ4JCYxJx8fJT0lMS4sOkAuLys1OD8sPTQ5Lz0BCgoKDQwNGA8PGjclHx83Kys1Kys4LisrLTcrKystKy0tKzU3KysrKysrKy0rKysrKysrKys3KysrKysrNysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBAf_xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQFExUiUcHw_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL_xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQISMVH_2gAMAwEAAhEDEQA_AO4oWKTuEcb8DHLd1pqiO5xlgf4ZcTW6A-0VhbjehYPVIhiTHKMyA2wN_qV3TdU3qYvJG1wbZHvFHSE1mNr8R8BGOuApJIksb5AQG1wAmmg__9k.jpeg",
+      "snippet": "Sold out. (Promotion)Yeston Sakura Atlantis Nvidia GeForce RTX 5070 Ti Graphics Card GDDR7 16G 256bit Gaming GPU. Regular price $1,149.00 USD. Regular price ...",
+      "snippet_highlighted_words": [
+        "Yeston Sakura Atlantis Nvidia",
+        "Graphics Card",
+        "GPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sold out. (Promotion)Yeston Sakura Atlantis Nvidia GeForce RTX 5070 Ti Graphics Card GDDR7 16G 256bit Gaming GPU. Regular price $1,149.00 USD. Regular price ...",
+          "source_info_link": "https://yestonstore.com/collections/atlantis",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiodHx8kKDQ4JCYxJx8fJT0lMS4sOkAuLys1OD8sPTQ5Lz0BCgoKDQwNGA8PGjclHx83Kys1Kys4LisrLTcrKystKy0tKzU3KysrKysrKy0rKysrKysrKys3KysrKysrNysrK__AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBAf_xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDERIhMQQFExUiUcHw_8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL_xAAZEQEAAgMAAAAAAAAAAAAAAAAAAQISMVH_2gAMAwEAAhEDEQA_AO4oWKTuEcb8DHLd1pqiO5xlgf4ZcTW6A-0VhbjehYPVIhiTHKMyA2wN_qV3TdU3qYvJG1wbZHvFHSE1mNr8R8BGOuApJIksb5AQG1wAmmg__9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fyestonstore.com%2Fcollections%2Fatlantis&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fyestonstore.com%2Fcollections%2Fatlantis",
+      "source": "Yeston Official Store",
+      "read_more_link": "https://yestonstore.com/collections/atlantis"
+    },
+    {
+      "position": 6,
+      "title": "Yeston AMD Radeon RX 9070 XT Sakura Atlantis ...",
+      "link": "https://www.microcenter.com/product/700765/yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F700765%2Fyeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQFnoECDEQAQ",
+      "displayed_link": "https://www.microcenter.com › ... › Graphics Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card 4.8 out of 5 stars, average rating value. Read 10 Reviews.",
+      "snippet_highlighted_words": [
+        "Yeston",
+        "Sakura Atlantis Overclocked",
+        "Graphics Card"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card 4.8 out of 5 stars, average rating value. Read 10 Reviews.",
+          "source_info_link": "https://www.microcenter.com/product/700765/yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F700765%2Fyeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F700765%2Fyeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card",
+      "source": "Micro Center",
+      "read_more_link": "https://www.microcenter.com/product/700765/yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Yeston 9070 XT Sakura",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+9070+XT+Sakura&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+9070+XT+Sakura"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston sakura atlantis 9070 xt",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+sakura+atlantis+9070+xt&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+sakura+atlantis+9070+xt"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston GPU",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+GPU&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+GPU"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston Sakura Atlantis 5080",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+Sakura+Atlantis+5080&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+5080"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston Sakura Radeon RX 9070 XT 16G",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+Sakura+Radeon+RX+9070+XT+16G&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Radeon+RX+9070+XT+16G"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston 9070 Sakura",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+9070+Sakura&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+9070+Sakura"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston 9070 XT Mercury Nova",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+9070+XT+Mercury+Nova&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+9070+XT+Mercury+Nova"
+    },
+    {
+      "block_position": 1,
+      "query": "Yeston Sakura 9060xt",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Yeston+Sakura+9060xt&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+9060xt"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=reviews+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GBIqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAF6BAgaEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=price+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GBIqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAJ6BAgaEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb+for+sale&shoprs=GBIqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAN6BAgaEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb+for+sale"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb+sale&shoprs=EgRKAhgBGAYqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjITCAYSB09uIHNhbGUYAiIESgIYAVi1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAR6BAgaEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=buy+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GBIqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIHCBISA0J1eWAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAV6BAgaEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=Eg2aAQoKCBACOAFABEgBGBQqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjImCBQSDUdldCBpdCBieSBUaHUiDZoBCgoIEAI4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAZ6BAgaEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Over 16 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=over+16+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhEqDwjJnGISCQkAAAAAAAAwQBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IyLwgBEgpPdmVyIDE2IEdCIhEqDwjJnGISCQkAAAAAAAAwQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAd6BAgaEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+16+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=hdmi+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIUCAESBEhETUk6CgjTkSsQ15ErMABYtbEgYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAh6BAgaEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=new+Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&shoprs=GAoqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIHCAoSA05ld1i1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAl6BAgaEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=used+Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&shoprs=GAoqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIICAoSBFVzZWRYtbEgYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAp6BAgaEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb"
+    },
+    {
+      "query": "12 – 16 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=12+gb+to+16+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhoqGAjJnGISEgkAAAAAAAAoQBEAAAAAAAAwQBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IySggBEgwxMiDigJMgMTYgR0IiGioYCMmcYhISCQAAAAAAAChAEQAAAAAAADBAKhIKDjEyIEdCIHRvIDE2IEdCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAt6BAgaEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=12+gb+to+16+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=pci+express+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIbCAESC1BDSSBFeHByZXNzOgoInOksEKDpLDAAWLWxIGAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKAx6BAgaEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "8 – 12 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=8+gb+to+12+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhoqGAjJnGISEgkAAAAAAAAgQBEAAAAAAAAoQBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IySAgBEgs4IOKAkyAxMiBHQiIaKhgIyZxiEhIJAAAAAAAAIEARAAAAAAAAKEAqEQoNOCBHQiB0byAxMiBHQhgBOggIyZxiEAAwBli1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKA16BAgaEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=8+gb+to+12+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Under 8 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=under+8+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhEqDwjJnGISCREAAAAAAAAgQBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IyLwgBEgpVbmRlciA4IEdCIhEqDwjJnGISCREAAAAAAAAgQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKA56BAgaEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+8+gb+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Graphics Card",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=graphics+card+yeston+sakura+atlantis+overclocked+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIfCAESDUdyYXBoaWNzIENhcmQ6DAipwsUBEKrCxQEwAli1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKA96BAgaEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=graphics+card+yeston+sakura+atlantis+overclocked+gpu+vram_gb"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=displayport+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIbCAESC0Rpc3BsYXlQb3J0OgoI05ErENiRKzAAWLWxIGAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBB6BAgaEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "DVI",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=dvi+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjITCAESA0RWSToKCNORKxDVkSswAFi1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBF6BAgaEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dvi+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "GDDR6",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gddr6+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIWCAESBUdERFI2OgsIg9Q6EJ3y6gEwAFi1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBJ6BAgaEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gddr6+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Under $700",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb+under+%24700&shoprs=Eg0SCxEAAACAk9zEQRgBGAUqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIjCAUSClVuZGVyICQ3MDAYAiINEgsRAAAAgJPcxEEYASoCGAFYtbEgYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBN6BQgaEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb+under+%24700"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=replacement+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GBIqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIPCBISC1JlcGxhY2VtZW50YAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBR6BQgaEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=desktop+computers+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAkqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIVCAkSEURlc2t0b3AgQ29tcHV0ZXJzYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBV6BQgaEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Under 3 in long",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=under+3+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhEqDwjLnGISCREAAAAAAABRQBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IyNAgBEg9VbmRlciAzIGluIGxvbmciESoPCMucYhIJEQAAAAAAAFFAKgIYAToICMucYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBZ6BQgaEIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+3+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "8 – 13 in long",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=8+in+long+to+13+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhoqGAjLnGISEgkAAAAAAABpQBEAAAAAAKB0QBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IyVwgBEhA4IOKAkyAxMyBpbiBsb25nIhoqGAjLnGISEgkAAAAAAABpQBEAAAAAAKB0QCobChc4IGluIGxvbmcgdG8gMTMgaW4gbG9uZxgBOggIy5xiEAAwBli1sSBgAQ&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBd6BQgaEIQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=8+in+long+to+13+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "3 – 8 in long",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=3+in+long+to+8+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhoqGAjLnGISEgkAAAAAAABRQBEAAAAAAABpQBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IyVQgBEg8zIOKAkyA4IGluIGxvbmciGioYCMucYhISCQAAAAAAAFFAEQAAAAAAAGlAKhoKFjMgaW4gbG9uZyB0byA4IGluIGxvbmcYAToICMucYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBh6BQgaEIUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3+in+long+to+8+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=white+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=GAEqPHllc3RvbiBzYWt1cmEgYXRsYW50aXMgb3ZlcmNsb2NrZWQgZ3JhcGhpY3MgY2FyZCBncHUgdnJhbV9nYjIVCAESBVdoaXRlOgoIzcloENLJaDAAWLWxIGAB&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBl6BQgaEIYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    },
+    {
+      "query": "Over 13 in long",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=over+13+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb&shoprs=EhEqDwjLnGISCQkAAAAAAKB0QBgBKjx5ZXN0b24gc2FrdXJhIGF0bGFudGlzIG92ZXJjbG9ja2VkIGdyYXBoaWNzIGNhcmQgZ3B1IHZyYW1fZ2IyNAgBEg9PdmVyIDEzIGluIGxvbmciESoPCMucYhIJCQAAAAAAoHRAKgIYAToICMucYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQip4GKBp6BQgaEIcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+13+in+long+yeston+sakura+atlantis+overclocked+graphics+card+gpu+vram_gb"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Yeston RX 9070 XT \"Waifu\" Sakura Sugar Atlantis GPU Review & ...",
+      "link": "https://www.reddit.com/r/hardware/comments/1jhiluf/gamers_nexus_wild_design_yeston_rx_9070_xt_waifu/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/hardware",
+        "40+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/hardware/comments/1jhiluf/gamers_nexus_wild_design_yeston_rx_9070_xt_waifu/"
+        }
+      ]
+    },
+    {
+      "title": "Yeston Radeon RX 9070 XT Sakura Atlantis pictured some more",
+      "link": "https://www.reddit.com/r/Amd/comments/1i7asag/yeston_radeon_rx_9070_xt_sakura_atlantis_pictured/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/Amd",
+        "60+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/Amd/comments/1i7asag/yeston_radeon_rx_9070_xt_sakura_atlantis_pictured/"
+        }
+      ]
+    },
+    {
+      "title": "Yeston Launches Radeon RX 9070 Series Sakura & Sakura Atlantis Models",
+      "link": "https://www.techpowerup.com/forums/threads/yeston-launches-radeon-rx-9070-series-sakura-sakura-atlantis-models.333599/",
+      "date": "1 year ago",
+      "source": "TechPowerUp",
+      "answers": [
+        {
+          "link": "https://www.techpowerup.com/forums/threads/yeston-launches-radeon-rx-9070-series-sakura-sakura-atlantis-models.333599/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=10&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8NMDegQIThAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=10&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAE",
+      "3": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=20&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAG",
+      "4": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=30&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAI",
+      "5": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=40&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAK",
+      "6": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=50&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAM",
+      "7": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=60&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAO",
+      "8": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=70&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAQ",
+      "9": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=80&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAS",
+      "10": "https://www.google.com/search?q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=OHpfarquH_vYkPIP-8e-mQE&start=90&sa=N&sstk=AU9db-BsEQVCQlMSUi4T3Fk-I3lxCVl5NkD0OtderQXQG_p9iX0K68JJ9rMmKnSFxhKCL2NOxDY9JyS-h6P7R87yXITHWOA9TUFHuA&ved=2ahUKEwi6qsP19eOVAxV7LEQIHfujLxMQ8tMDegQIThAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Yeston+Sakura+Atlantis+Overclocked+Graphics+Card+gpu+vram_gb&start=90"
+    }
+  }
+}

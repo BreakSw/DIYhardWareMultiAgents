@@ -1,0 +1,36 @@
+{
+  "batch_id": "20260720T152137Z",
+  "status": "completed",
+  "market": "US",
+  "categories": [
+    "cpu",
+    "gpu"
+  ],
+  "discovered_count": 0,
+  "accepted_count": 0,
+  "rejected_count": 0,
+  "provider_calls": [
+    {
+      "provider": "ecb",
+      "status": "completed",
+      "published_at": "2026-07-20"
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "cpu",
+      "error": "ConnectError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "gpu",
+      "error": "ConnectError"
+    }
+  ],
+  "provider_status": {
+    "ecb": "completed",
+    "serpapi": "failed"
+  },
+  "created_at": "2026-07-20T15:21:37.957868+00:00"
+}

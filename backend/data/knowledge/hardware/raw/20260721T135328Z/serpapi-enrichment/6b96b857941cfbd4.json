@@ -1,0 +1,550 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a14a4817ca227822d41",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oD-IXIDAwKwmaerUA94o2Q/6a5f7a14a4817ca227822d41.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/oD-IXIDAwKwmaerUA94o2Q/6a5f7a14a4817ca227822d41.json_with_pixel_position",
+    "created_at": "2026-07-21 13:54:28 UTC",
+    "processed_at": "2026-07-21 13:54:28 UTC",
+    "google_url": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&oq=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/oD-IXIDAwKwmaerUA94o2Q/6a5f7a14a4817ca227822d41.html",
+    "total_time_taken": 3.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "iBUYPOWER Slate Gaming Desktop PC cpu base_clock boost_clock memory_types pcie_version socket tdp_w threads",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "iBUYPOWER Slate Gaming Desktop PC cpu base_clock boost_clock memory_types pcie_version socket tdp_w threads",
+    "total_results": 393,
+    "time_taken_displayed": 0.9,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "iBuyPower Slate Mesh Review 2026 – Worth Buying?",
+      "link": "https://www.youtube.com/watch?v=i8Q38Jqeiw0",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a14a4817ca227822d41/images/xebdTVhUJKlx_fc5rZq8eRItp6CtQ3ugbBmOCIAl6m0.jpeg",
+      "channel": "Smart Shopper",
+      "duration": "5:01",
+      "platform": "YouTube",
+      "date": "Feb 1, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRMYgtzKD0Qw3cPgVWUq91a6nlYRrd23eIhxQ"
+    },
+    {
+      "position": 2,
+      "title": "iBUYPOWER Slate Mesh Review - Watch BEFORE You BUY!",
+      "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a14a4817ca227822d41/images/kJw5g3VLxQ2Jq9hjTD5_1v4vwVKPprJt1UnvSTpPZZ8.jpeg",
+      "channel": "Just!N Tech",
+      "duration": "10:24",
+      "platform": "YouTube",
+      "date": "Oct 21, 2025",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=0"
+        },
+        {
+          "time": "01:19",
+          "title": "Unboxing",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=79"
+        },
+        {
+          "time": "02:06",
+          "title": "Design & Internals",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=126"
+        },
+        {
+          "time": "03:57",
+          "title": "Ports",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=237"
+        },
+        {
+          "time": "04:05",
+          "title": "Software",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=245"
+        },
+        {
+          "time": "04:48",
+          "title": "Fan Noise",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=288"
+        },
+        {
+          "time": "05:08",
+          "title": "Thermals",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=308"
+        },
+        {
+          "time": "06:07",
+          "title": "Performance & Gaming Benchmarks",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=367"
+        },
+        {
+          "time": "07:26",
+          "title": "Pricing & Price to Performance Ratio",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=446"
+        },
+        {
+          "time": "08:05",
+          "title": "Recommendations for Every Budget",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=485"
+        },
+        {
+          "time": "09:29",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=569"
+        },
+        {
+          "time": "09:45",
+          "title": "Where to Buy",
+          "link": "https://www.youtube.com/watch?v=n_Ju2mO859E&vl=en&t=585"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "iBUYPOWER Slate Gaming PC RTX 5060 In Depth Review ...",
+      "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a14a4817ca227822d41/images/hZXPCwiBzeXkjjtDZSLOBQ-HQiX96gPMxEDpUFaOvfk.jpeg",
+      "channel": "Brandon Veza",
+      "duration": "9:57",
+      "platform": "YouTube",
+      "date": "Dec 14, 2025",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgsbLUEUvYIoYUPmLGKKL0WBiLYGPeJ2scaGOaHvHGrw&s="
+        },
+        {
+          "time": "00:24",
+          "title": "Spec Summary",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=24",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVcja0_XfNIk_2dqfSHocMEA60stJQfvHuJXosh63F9g&s="
+        },
+        {
+          "time": "01:00",
+          "title": "What to Expect",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=60",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrVk4HCsZ9r6TaFj8bzNZv-ijfRexrgSdE-0BokKON6A&s="
+        },
+        {
+          "time": "02:47",
+          "title": "Windows / Bloatware",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=167",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV5kGXuWfvP7AMntyl9R8fIYcuVpoYSb8kjvF9Guqlkg&s="
+        },
+        {
+          "time": "04:16",
+          "title": "CPU Performance Test",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=256",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4PAEdjKH7ERsOCjLTyai_C_T1sZ5LN7sCEhLe7JaHdw&s="
+        },
+        {
+          "time": "04:48",
+          "title": "GPU Performance Test",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=288",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVvFmJ1WvNZi2RYi_rUOqOeZdlBjC94U-nTX4ZuuAoZw&s="
+        },
+        {
+          "time": "05:46",
+          "title": "SSD Performance Test",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=346",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9yCTR2D7z5duxz6DIQ_-OiQa0r--hRhEcDfsTZKivPQ&s="
+        },
+        {
+          "time": "06:57",
+          "title": "RAM Performance",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=417",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKDpMKPkavk52dGVmt2GffOeD0Ike9KAeS8tkC1a-TIg&s="
+        },
+        {
+          "time": "07:34",
+          "title": "PC Noise / Loudness",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=454",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd9RDc9bazvhbDTNEGTMG3TG0vflJ8iF_F58ux6OcJOw&s="
+        },
+        {
+          "time": "07:55",
+          "title": "Future Hardware Upgrades",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=475",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx1hCgA8ohOJ_30gFPosip4EcZRGsxBemiHnCipDzptQ&s="
+        },
+        {
+          "time": "09:30",
+          "title": "Outro",
+          "link": "https://www.youtube.com/watch?v=yZiY78Iumog&vl=en-US&t=570",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYP5VZbXWCM8EqoAoUe9Fw200_cPFiyqja7zHYHsl_uA&s="
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "iBUYPOWER Slate Gaming PC Desktop Computer Intel ...",
+      "link": "https://www.youtube.com/watch?v=rhluAOeg6u0",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a14a4817ca227822d41/images/l6kx6kBUVvxGd_4mSg4_nEjQadIDHCcsUZZ-Ij8oAL4.jpeg",
+      "channel": "Matangi55",
+      "duration": "6:55",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "Get an honest review of the iBUYPOWER Slate Gaming PC, covering its Intel Core i7, Nvidia GeForce RTX 5068 GPU, 16GB RAM, and 1TB SSD."
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the iBuyPower slate good?",
+      "type": "ai_overview",
+      "page_token": "w5aZfXicHdBfboIwHADg7DI-KqSp20zMMsSiblT501Z-L0spCrMVOlFB33aXnWqnWbLvCN_3j_ms9e-DqM5n205Go67rhmXTlGY3VM1xJNtbrUZKGpNLpSfjx7H7slfTedt6s6bzImYt92Mn9WGT36uZ8OOT3EZ9wo2v_KKHwNS5wJfdggKdkwSY8ZN7hENk2wyVWPHYpSTsE-2aIghv1Hl2w4AfBAEtxeotOoARx7iNWL-WxIosXWHGqQTG3Nw3Mde4FxrbXUDdBHkppLwqeNODa2qKzHUXgMyJnTHNRXZ86gqGnUiAk_PXhGi4qACqYmFXifE26y3cQuLVsM1wxuZyqclcoSUGE1sQGHJSIkbI8p05KDT0a73gPKwpDbdVkCA12KvrFA3-w6Yf--N5Yk9N-QdFbXgj",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w5aZfXicHdBfboIwHADg7DI-KqSp20zMMsSiblT501Z-L0spCrMVOlFB33aXnWqnWbLvCN_3j_ms9e-DqM5n205Go67rhmXTlGY3VM1xJNtbrUZKGpNLpSfjx7H7slfTedt6s6bzImYt92Mn9WGT36uZ8OOT3EZ9wo2v_KKHwNS5wJfdggKdkwSY8ZN7hENk2wyVWPHYpSTsE-2aIghv1Hl2w4AfBAEtxeotOoARx7iNWL-WxIosXWHGqQTG3Nw3Mde4FxrbXUDdBHkppLwqeNODa2qKzHUXgMyJnTHNRXZ86gqGnUiAk_PXhGi4qACqYmFXifE26y3cQuLVsM1wxuZyqclcoSUGE1sQGHJSIkbI8p05KDT0a73gPKwpDbdVkCA12KvrFA3-w6Yf--N5Yk9N-QdFbXgj",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IklzIHRoZSBpQnV5UG93ZXIgc2xhdGUgZ29vZD8iLCJsayI6IkdodHBjeUIwYUdVZ2FXSjFlWEJ2ZDJWeUlITnNZWFJsSUdkdmIyUSIsImJzIjoiYzJYTXNRNkNNQlNGNGJqZXlkRlV3UHNBNnNCdUdzVEZqVVFUNTF0b2JCTk1rWlpnMzlaSFVSTXdwTXpuZkQ4Y0lEcGJkRXFpUG5hLU1MMXMwZGJrSk42TnFYZ2FzN1VlZHRINUp0aUJRM3hUSHFtZC1pSzNhQTBLLXZxRVJmMTQtQWVhY2p4QURwdHNobjlwZkhaVWEtZDVpaXlaOC1rRkJPeE9KbWlVNWlHeDEwNmhmTG1XOEpKZE15eEoxTkx5MVR0SjkyeGJtU0FhR2t1T0JyTmNmQUEiLCJpZCI6ImZjX0ZucGZhdHpJSlBPOXZyMFBnZXY5YUFfMTAifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IklzIHRoZSBpQnV5UG93ZXIgc2xhdGUgZ29vZD8iLCJsayI6IkdodHBjeUIwYUdVZ2FXSjFlWEJ2ZDJWeUlITnNZWFJsSUdkdmIyUSIsImJzIjoiYzJYTXNRNkNNQlNGNGJqZXlkRlV3UHNBNnNCdUdzVEZqVVFUNTF0b2JCTk1rWlpnMzlaSFVSTXdwTXpuZkQ4Y0lEcGJkRXFpUG5hLU1MMXMwZGJrSk42TnFYZ2FzN1VlZHRINUp0aUJRM3hUSHFtZC1pSzNhQTBLLXZxRVJmMTQtQWVhY2p4QURwdHNobjlwZkhaVWEtZDVpaXlaOC1rRkJPeE9KbWlVNWlHeDEwNmhmTG1XOEpKZE15eEoxTkx5MVR0SjkyeGJtU0FhR2t1T0JyTmNmQUEiLCJpZCI6ImZjX0ZucGZhdHpJSlBPOXZyMFBnZXY5YUFfMTAifQ%3D%3D"
+    },
+    {
+      "question": "Why are iBuyPower PCs so bad?",
+      "type": "ai_overview",
+      "page_token": "QHEwEnicHdBLboJAAADQ9DIu5Sc2NTFNkY-SgpX5wWwaGJQRhmEUKsVd79JT9TRteoC3eV_f4iybnwfCh0H1K00bx3FedV0ljnPWtVreT5JpLBeiyFmzWj4ujecTW3t972y60TkgpbCb6MDAdl6XOkzjvLCcjhB7ADKBYOuQQsZL0DKTSGpjz14U8GVIdd8qEb9ANFpYJAdEjDv1xYXUJaeuwFQPTejj1z_bsnu8gZ6uky0_xIQOeZt4mVnp0HhaxOQTxzpXe2_geVtOWLIJ1A4ujfAWGSo7EHqOAhUgU9zKRvgJjnlmDi4JGPAb-sECysutCoFw3vYpnSLfkTTN7Ax5-a7xPWbtbCqiCRDsZjCWGVJThGiNEEe0Ha0jDK8kKDeJxWYndltbs_-w9fupHVbq2lW_lL14pA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QHEwEnicHdBLboJAAADQ9DIu5Sc2NTFNkY-SgpX5wWwaGJQRhmEUKsVd79JT9TRteoC3eV_f4iybnwfCh0H1K00bx3FedV0ljnPWtVreT5JpLBeiyFmzWj4ujecTW3t972y60TkgpbCb6MDAdl6XOkzjvLCcjhB7ADKBYOuQQsZL0DKTSGpjz14U8GVIdd8qEb9ANFpYJAdEjDv1xYXUJaeuwFQPTejj1z_bsnu8gZ6uky0_xIQOeZt4mVnp0HhaxOQTxzpXe2_geVtOWLIJ1A4ujfAWGSo7EHqOAhUgU9zKRvgJjnlmDi4JGPAb-sECysutCoFw3vYpnSLfkTTN7Ax5-a7xPWbtbCqiCRDsZjCWGVJThGiNEEe0Ha0jDK8kKDeJxWYndltbs_-w9fupHVbq2lW_lL14pA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IldoeSBhcmUgaUJ1eVBvd2VyIFBDcyBzbyBiYWQ/IiwibGsiOiJHaHgzYUhrZ1lYSmxJR2xpZFhsd2IzZGxjaUJ3WTNNZ2MyOGdZbUZrIiwiYnMiOiJjMlhNc1E2Q01CU0Y0YmpleWRGVXdQc0E2c0J1R3NURmpVUVQ1MXRvYkJOTWtaWmczOVpIVVJNd3BNem5mRDhjSURwYmRFcWlQbmEtTUwxczBkYmtKTjZOcVhnYXM3VWVkdEg1SnRpQlEzeFRIcW1kLWlLM2FBMEstdnFFUmYxNC1BZWFjanhBRHB0c2huOXBmSFpVYS1kNWlpeVo4LWtGQk94T0ptaVU1aUd4MTA2aGZMbVc4SkpkTXl4SjFOTHkxVHRKOTJ4Ym1TQWFHa3VPQnJOY2ZBQSIsImlkIjoiZmNfRm5wZmF0eklKUE85dnIwUGdldjlhQV8xMCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IldoeSBhcmUgaUJ1eVBvd2VyIFBDcyBzbyBiYWQ%2FIiwibGsiOiJHaHgzYUhrZ1lYSmxJR2xpZFhsd2IzZGxjaUJ3WTNNZ2MyOGdZbUZrIiwiYnMiOiJjMlhNc1E2Q01CU0Y0YmpleWRGVXdQc0E2c0J1R3NURmpVUVQ1MXRvYkJOTWtaWmczOVpIVVJNd3BNem5mRDhjSURwYmRFcWlQbmEtTUwxczBkYmtKTjZOcVhnYXM3VWVkdEg1SnRpQlEzeFRIcW1kLWlLM2FBMEstdnFFUmYxNC1BZWFjanhBRHB0c2huOXBmSFpVYS1kNWlpeVo4LWtGQk94T0ptaVU1aUd4MTA2aGZMbVc4SkpkTXl4SjFOTHkxVHRKOTJ4Ym1TQWFHa3VPQnJOY2ZBQSIsImlkIjoiZmNfRm5wZmF0eklKUE85dnIwUGdldjlhQV8xMCJ9"
+    },
+    {
+      "question": "Are iBuyPower PCs good quality?",
+      "type": "ai_overview",
+      "page_token": "gi3WGnicHdDbboIwAADQ7Gd8VG66aWKWIRRks4TSi_ZlgQJe2gKbiOjb_mVfta_Zsi84yfn6Vsda_jx0h65rz4vJ5Hq9jvdNs1flWDR6kp1vtZiITKk8E3Ixe5yZz5VY-hffXX2s3YS0LfWQgcF8BTHQWzuSRKOIgeRW-BwR5gyFbg1ou5SGgKf3dZfVrsoCsIpDcCkxuHNVgGKrrtADFJrCyAEaoDT90oO09CHmWqXc3htMOsNOJ0bsvXRcQpjLaU8wapgHe6qfpoQMMTqBEwxR9WfBlDUOknPOqbDfWNsiMtwxGV5zOVjC4BduTPsU8CbFxVDUyqE2PGCJAuZFtX_gQV67erdFs5S0Cb4rS5zchFvUihlwg2PkohDeYsbTxI7CjX2gdGVeSumYiPAKBptbagFTEIQwU2hUiX5pj_43l--V7hbtZ7P_BaRJgTA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gi3WGnicHdDbboIwAADQ7Gd8VG66aWKWIRRks4TSi_ZlgQJe2gKbiOjb_mVfta_Zsi84yfn6Vsda_jx0h65rz4vJ5Hq9jvdNs1flWDR6kp1vtZiITKk8E3Ixe5yZz5VY-hffXX2s3YS0LfWQgcF8BTHQWzuSRKOIgeRW-BwR5gyFbg1ou5SGgKf3dZfVrsoCsIpDcCkxuHNVgGKrrtADFJrCyAEaoDT90oO09CHmWqXc3htMOsNOJ0bsvXRcQpjLaU8wapgHe6qfpoQMMTqBEwxR9WfBlDUOknPOqbDfWNsiMtwxGV5zOVjC4BduTPsU8CbFxVDUyqE2PGCJAuZFtX_gQV67erdFs5S0Cb4rS5zchFvUihlwg2PkohDeYsbTxI7CjX2gdGVeSumYiPAKBptbagFTEIQwU2hUiX5pj_43l--V7hbtZ7P_BaRJgTA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IkFyZSBpQnV5UG93ZXIgUENzIGdvb2QgcXVhbGl0eT8iLCJsayI6IkdoNWhjbVVnYVdKMWVYQnZkMlZ5SUhCamN5Qm5iMjlrSUhGMVlXeHBkSGsiLCJicyI6ImMyWE1zUTZDTUJTRjRiamV5ZEZVd1BzQTZzQnVHc1RGalVRVDUxdG9iQk5Na1paZzM5WkhVUk13cE16bmZEOGNJRHBiZEVxaVBuYS1NTDFzMGRia0pONk5xWGdhczdVZWR0SDVKdGlCUTN4VEhxbWQtaUszYUEwSy12cUVSZjE0LUFlYWNqeEFEcHRzaG45cGZIWlVhLWQ1aWl5Wjgta0ZCT3hPSm1pVTVpR3gxMDZoZkxtVzhKSmRNeXhKMU5MeTFUdEo5MnhibVNBYUdrdU9Cck5jZkFBIiwiaWQiOiJmY19GbnBmYXR6SUpQTzl2cjBQZ2V2OWFBXzEwIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IkFyZSBpQnV5UG93ZXIgUENzIGdvb2QgcXVhbGl0eT8iLCJsayI6IkdoNWhjbVVnYVdKMWVYQnZkMlZ5SUhCamN5Qm5iMjlrSUhGMVlXeHBkSGsiLCJicyI6ImMyWE1zUTZDTUJTRjRiamV5ZEZVd1BzQTZzQnVHc1RGalVRVDUxdG9iQk5Na1paZzM5WkhVUk13cE16bmZEOGNJRHBiZEVxaVBuYS1NTDFzMGRia0pONk5xWGdhczdVZWR0SDVKdGlCUTN4VEhxbWQtaUszYUEwSy12cUVSZjE0LUFlYWNqeEFEcHRzaG45cGZIWlVhLWQ1aWl5Wjgta0ZCT3hPSm1pVTVpR3gxMDZoZkxtVzhKSmRNeXhKMU5MeTFUdEo5MnhibVNBYUdrdU9Cck5jZkFBIiwiaWQiOiJmY19GbnBmYXR6SUpQTzl2cjBQZ2V2OWFBXzEwIn0%3D"
+    },
+    {
+      "question": "Do iBuyPower PCs come with extra SATA cables?",
+      "type": "featured_snippet",
+      "snippet": "The extra cables on your Cyberpower PC are likely spare or unused cables for potential upgrades or additional components, such as PCI-E cables for graphics cards or SATA cables for storage devices. \"Those cables are extra. It's a good sign. You might have enough wattage to power a bigger card.\"",
+      "title": "What are the extra wires for in ibuypower gaming desktop?",
+      "date": "Nov 27, 2025",
+      "link": "https://www.facebook.com/groups/372119787729533/posts/1210051133936390/",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEVHcEzy9P8AUf8ASv8HZ_8IZv8IZ_8IZ_8Haf8IZ_8HZv____8AWf8AXv8AU_-Vrv8AYv92mf-5yP_W3v8ASv8AQv8nbv-7HldHAAAACnRSTlMA7NmTk_zaoh7UuAxLUQAAAIZJREFUGJVFj9sCwyAIQ9mmqIi3rt3_f-qItW2e4KAJEJmiY-_ZRVoKshTOPqEuVVUl3XNtOeev4k2cc_QAEsnNBy9rx-gijhig2lyL9cLk8eMwcGix0gOULU9tBYAfAA-GaR8Iae0nMEVs3w3ssLDYuRhS6r18ekC6jlsgXOfGj236Ps__A7wiCPnj1HgsAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IkRvIGlCdXlQb3dlciBQQ3MgY29tZSB3aXRoIGV4dHJhIFNBVEEgY2FibGVzPyIsImxrIjoiR2l4a2J5QnBZblY1Y0c5M1pYSWdjR056SUdOdmJXVWdkMmwwYUNCbGVIUnlZU0J6WVhSaElHTmhZbXhsY3ciLCJicyI6ImMyWE1zUTZDTUJTRjRiamV5ZEZVd1BzQTZzQnVHc1RGalVRVDUxdG9iQk5Na1paZzM5WkhVUk13cE16bmZEOGNJRHBiZEVxaVBuYS1NTDFzMGRia0pONk5xWGdhczdVZWR0SDVKdGlCUTN4VEhxbWQtaUszYUEwSy12cUVSZjE0LUFlYWNqeEFEcHRzaG45cGZIWlVhLWQ1aWl5Wjgta0ZCT3hPSm1pVTVpR3gxMDZoZkxtVzhKSmRNeXhKMU5MeTFUdEo5MnhibVNBYUdrdU9Cck5jZkFBIiwiaWQiOiJmY19GbnBmYXR6SUpQTzl2cjBQZ2V2OWFBXzEwIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTGFGZzJRVWw2Ym1SVVdITlNSV2h2Y2xkQ1VHUlJTVFZXUkRobVRESkNZa2xwUkhOT1NFRk5iRGRHY3pNM1NHRlRkMFJvZEZCTFYyZGFTemhzTkRCdmQzUTRSWFpWTlRaTVJ6bFBWalpIZW5jM1FsTjZZbFZXTFZobFp4SVdSbTV3Wm1GMGVrbEtVRTg1ZG5Jd1VHZGxkamxoUVJvaVFVUnpjamxtVWxSTWNHMXRSVFpqWlZkeWVuRTBWVmR3YnpGRE9GaHZXbXBoWnciLCJmY3YiOiIzIiwiZWkiOiJGbnBmYXR6SUpQTzl2cjBQZ2V2OWFBIiwicWMiOiJjeTNLeXczQ01CQkZVZGl5b29UWENhVllfandGeTNGbTVKa1FlVUVIdEVndlpNSHVTdWZlV2szN1ZEazRZR3QwWW9tOWJnc0tyYmtvTkNQcmpoU05JYS1TRzVLSS1iODd1NHdaZkNydFhDdkRpOE9xYkxDVDZmQ2k0WUFfQjJPeC0tWDlfVndmUHciLCJxdWVzdGlvbiI6IkRvIGlCdXlQb3dlciBQQ3MgY29tZSB3aXRoIGV4dHJhIFNBVEEgY2FibGVzPyIsImxrIjoiR2l4a2J5QnBZblY1Y0c5M1pYSWdjR056SUdOdmJXVWdkMmwwYUNCbGVIUnlZU0J6WVhSaElHTmhZbXhsY3ciLCJicyI6ImMyWE1zUTZDTUJTRjRiamV5ZEZVd1BzQTZzQnVHc1RGalVRVDUxdG9iQk5Na1paZzM5WkhVUk13cE16bmZEOGNJRHBiZEVxaVBuYS1NTDFzMGRia0pONk5xWGdhczdVZWR0SDVKdGlCUTN4VEhxbWQtaUszYUEwSy12cUVSZjE0LUFlYWNqeEFEcHRzaG45cGZIWlVhLWQ1aWl5Wjgta0ZCT3hPSm1pVTVpR3gxMDZoZkxtVzhKSmRNeXhKMU5MeTFUdEo5MnhibVNBYUdrdU9Cck5jZkFBIiwiaWQiOiJmY19GbnBmYXR6SUpQTzl2cjBQZ2V2OWFBXzEwIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "a7NKg3icxZbvcqo4FMAfYJ9j-WKvYtW2dIa5kyAq_kFot7d_vjAQ0oACQYJS77d9l32qfZoNKBZatXN3ZmfPjISTnJycJOfH8c-_Aj9a_v2b4qVpzG5brSzLmoRSEuAmomHLZtsItV5pwBLkffcCGUcCCeQ1ExhdJwj7roy8hIZY2G7kjoCYLArYlwdR_GqnP7WxMZc2iWgQvJFsIBTeZMuxGV7wxd4WrGW1-GP5e6fPlSZr4qgpuQbGTjLHEmleim2pOW_ZITcA_60Q4OcPAjSuaJ-GFUDMrxwANX8q73alG7VilhUahNxjYaGc9EeKxlcBd2jAqOcxAIa7TnQukHFdHeRTNBPmm9CUXaAf5djWYNmaVe2oHBmEe7_l1rtn18pF0-p--LqqVXSZ9VW0qhMz734uXucmwP0MeBmZnIlVoaA_JPcmOXbLVYmBZ5TrOEDkF9VyCc9DseUkvGm3fOSh4iVheXoqf0giHQ5Aoo0et1SPRro7j9-MntvX4Wqop6SFHG4XUNvFruVZ4vdCb1-2e6LUub65KLhA7AAGq4HxEATOfDSdmbQ5bcJ2hQpyOJWK5J13R4-5PLwjE_ZHTHaXti2HaPkCqcknv08c9DWYAVCi2c1zrU8-ZzT3fYSKQg5ozEBBRRGcsmv3jqpZQchhQiWPRh_Wq0YAS_eKxtkr-4Y161rECj-25QGSWd2V6am79IP3e5M57Nb4BmZFU3ZbNAmE9a1oux10K3b5xRCeyuYL18eEHD5GxSRtH9Bh3feg6vTxKyDKg3qW11Nyjpu9EFCm_4dsrlGwtt2nDAzxTDQlFWw7TvTM3MX0qWOZx7Oehs4v1AP0v3NRVAtaVosjXHhfcFFUC3K6WuyTKCu5KOwmUDnJxbJo69Vi9KFaHONiXOfidLV45yIP5TwX8BwX8BQX_IP_iQvzBBdltahwsfxQLeDhVPOudy5-vVrY_65aFJjgXVMvHesFOVlCVHyNHuLH-85qdp92GE1-qNp4RqXpBH1dQl7D9Da03eDC8t1beDlOt-6FxTvoLXaFlezDh2dj_qjeNe4DO8WNoR36EWn0MVumNG4YSgPF60ZOpIUCipYNh1KW7t9DHNJka6XbGLNGjHxsbXDCfBo1GB_GaSN1YytrpF6CbZcJYZBQWbS764f5t7H7wv8LrkK0gs_WdLwx7RGcrDAY6-tnN3WUhQ3jmTdWRimeOqGxtSdX2961c7XpX6F1904EkdF-Mu3H5fDN7GXufHC5IW7m6L00_DnR38jiTh28SaMfk0E_WH1LumkwM9QXbQHG3bbljHR9E94NpayIicla6Hb635YbQ18KYYJkno1dAnQTPBKIgMJTTSH8R_kv43cqMGRbmG3kS1d6lXrXou3c9OybKyyEhB-GLIkCixK5_Q_adT_m",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=a7NKg3icxZbvcqo4FMAfYJ9j-WKvYtW2dIa5kyAq_kFot7d_vjAQ0oACQYJS77d9l32qfZoNKBZatXN3ZmfPjISTnJycJOfH8c-_Aj9a_v2b4qVpzG5brSzLmoRSEuAmomHLZtsItV5pwBLkffcCGUcCCeQ1ExhdJwj7roy8hIZY2G7kjoCYLArYlwdR_GqnP7WxMZc2iWgQvJFsIBTeZMuxGV7wxd4WrGW1-GP5e6fPlSZr4qgpuQbGTjLHEmleim2pOW_ZITcA_60Q4OcPAjSuaJ-GFUDMrxwANX8q73alG7VilhUahNxjYaGc9EeKxlcBd2jAqOcxAIa7TnQukHFdHeRTNBPmm9CUXaAf5djWYNmaVe2oHBmEe7_l1rtn18pF0-p--LqqVXSZ9VW0qhMz734uXucmwP0MeBmZnIlVoaA_JPcmOXbLVYmBZ5TrOEDkF9VyCc9DseUkvGm3fOSh4iVheXoqf0giHQ5Aoo0et1SPRro7j9-MntvX4Wqop6SFHG4XUNvFruVZ4vdCb1-2e6LUub65KLhA7AAGq4HxEATOfDSdmbQ5bcJ2hQpyOJWK5J13R4-5PLwjE_ZHTHaXti2HaPkCqcknv08c9DWYAVCi2c1zrU8-ZzT3fYSKQg5ozEBBRRGcsmv3jqpZQchhQiWPRh_Wq0YAS_eKxtkr-4Y161rECj-25QGSWd2V6am79IP3e5M57Nb4BmZFU3ZbNAmE9a1oux10K3b5xRCeyuYL18eEHD5GxSRtH9Bh3feg6vTxKyDKg3qW11Nyjpu9EFCm_4dsrlGwtt2nDAzxTDQlFWw7TvTM3MX0qWOZx7Oehs4v1AP0v3NRVAtaVosjXHhfcFFUC3K6WuyTKCu5KOwmUDnJxbJo69Vi9KFaHONiXOfidLV45yIP5TwX8BwX8BQX_IP_iQvzBBdltahwsfxQLeDhVPOudy5-vVrY_65aFJjgXVMvHesFOVlCVHyNHuLH-85qdp92GE1-qNp4RqXpBH1dQl7D9Da03eDC8t1beDlOt-6FxTvoLXaFlezDh2dj_qjeNe4DO8WNoR36EWn0MVumNG4YSgPF60ZOpIUCipYNh1KW7t9DHNJka6XbGLNGjHxsbXDCfBo1GB_GaSN1YytrpF6CbZcJYZBQWbS764f5t7H7wv8LrkK0gs_WdLwx7RGcrDAY6-tnN3WUhQ3jmTdWRimeOqGxtSdX2961c7XpX6F1904EkdF-Mu3H5fDN7GXufHC5IW7m6L00_DnR38jiTh28SaMfk0E_WH1LumkwM9QXbQHG3bbljHR9E94NpayIicla6Hb635YbQ18KYYJkno1dAnQTPBKIgMJTTSH8R_kv43cqMGRbmG3kS1d6lXrXou3c9OybKyyEhB-GLIkCixK5_Q_adT_m"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Intel Core S Super Gaming PC",
+      "link": "https://www.ibuypower.com/store/intel-core-s-super-gaming-pc?srsltid=AfmBOooKLTZMxKJT6f02MyF49M53fCLnQzdViv1fGnRG51t53lFREjLl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ibuypower.com%2Fstore%2Fintel-core-s-super-gaming-pc%3Fsrsltid%3DAfmBOooKLTZMxKJT6f02MyF49M53fCLnQzdViv1fGnRG51t53lFREjLl&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0QFnoECCMQAQ",
+      "displayed_link": "https://www.ibuypower.com › store › intel-core-s-super-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAz0lEQVR4AWIYZmCzgiqAEHoGqAAAAjCca2rJTe1j1tyW9rhvb2rLtrFkc8ncsm3bdtef3Ru-m842yEMN6tCBLjTA7K8iC0SgHfJqHiV4gHxyhmlEwvitwTDucY1biBJb8IP2W4M-OCEWOnDBAkSJcTiqEBTQh--ns9wgfzhEBZLgpUJQhy5UPzVw_-X2QiShDbvw_P5Md2i9aoDgCpkowzUE90iHAqafG9hiHmsQjCALd5BvGmAHje9bJECQgxAEoBk5mMUGVlGGx2lBdI0CAJlbykZKYyK2AAAAAElFTkSuQmCC.png",
+      "snippet": "GeForce RTX 5060 Ti - 16GB Edit Memory: 32GB DDR5-6000MHz RAM. Supply: 750 Watt - High Power 80 PLUS Gold. Processor (8X 3.70GHz + 16X … multi-tasking, and ...",
+      "snippet_highlighted_words": [
+        "Processor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "GeForce RTX 5060 Ti - 16GB Edit Memory: 32GB DDR5-6000MHz RAM. Supply: 750 Watt - High Power 80 PLUS Gold. Processor (8X 3.70GHz + 16X … multi-tasking, and ...",
+          "source_info_link": "https://www.ibuypower.com/store/intel-core-s-super-gaming-pc?srsltid=AfmBOooKLTZMxKJT6f02MyF49M53fCLnQzdViv1fGnRG51t53lFREjLl",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAz0lEQVR4AWIYZmCzgiqAEHoGqAAAAjCca2rJTe1j1tyW9rhvb2rLtrFkc8ncsm3bdtef3Ru-m842yEMN6tCBLjTA7K8iC0SgHfJqHiV4gHxyhmlEwvitwTDucY1biBJb8IP2W4M-OCEWOnDBAkSJcTiqEBTQh--ns9wgfzhEBZLgpUJQhy5UPzVw_-X2QiShDbvw_P5Md2i9aoDgCpkowzUE90iHAqafG9hiHmsQjCALd5BvGmAHje9bJECQgxAEoBk5mMUGVlGGx2lBdI0CAJlbykZKYyK2AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ibuypower.com%2Fstore%2Fintel-core-s-super-gaming-pc%3Fsrsltid%3DAfmBOooKLTZMxKJT6f02MyF49M53fCLnQzdViv1fGnRG51t53lFREjLl&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ibuypower.com%2Fstore%2Fintel-core-s-super-gaming-pc%3Fsrsltid%3DAfmBOooKLTZMxKJT6f02MyF49M53fCLnQzdViv1fGnRG51t53lFREjLl",
+      "source": "iBUYPOWER"
+    },
+    {
+      "position": 2,
+      "title": "iBUYPOWER Slate 9 Review! 7800X3D + 9070XT",
+      "link": "https://www.youtube.com/watch?v=ZAe04G80BH8&vl=en",
+      "displayed_link": "20.7K+ views · 10 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQv1mY2FPKwuVFH7J7_zT9jNPOj7NQnCQYLi7lcVITPiNjJ2m8WGWdqtw&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Is the iBUYPOWER Slate 9 worth almost $2000? (product link https://geni.us/iBUYPOWER-Slate9) This PC comes with a 7800X3D CPU and 9070XT GPU ...",
+      "duration": "12:29",
+      "about_this_result": {
+        "source": {
+          "description": "Is the iBUYPOWER Slate 9 worth almost $2000? (product link https://geni.us/\niBUYPOWER-Slate9) This PC comes with a 7800X3D CPU and 9070XT GPU ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZAe04G80BH8&vl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZAe04G80BH8%26vl%3Den",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT_ItYgpXIjIPxkEMGubU2-swssK_L4wUruiA",
+      "source": "YouTube · Just!N Tech"
+    },
+    {
+      "position": 3,
+      "title": "iBUYPOWER SlateMesh 8 Gaming Desktop",
+      "link": "https://www.reddit.com/r/iBUYPOWER/comments/1gpkgjv/ibuypower_slatemesh_8_gaming_desktop/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FiBUYPOWER%2Fcomments%2F1gpkgjv%2Fibuypower_slatemesh_8_gaming_desktop%2F&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0QFnoECCQQAQ",
+      "displayed_link": "30+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "[Prebuilt] iBUYPOWER - Slate Gaming Desktop PC - Ryzen 7 9800X3D, Radeon RX 9070XT 16GB, 32GB DDR5 RAM, 2TB NVMe SSD - $1649.99 @ Best Buy.",
+      "snippet_highlighted_words": [
+        "iBUYPOWER - Slate Gaming Desktop PC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Prebuilt] iBUYPOWER - Slate Gaming Desktop PC - Ryzen 7 9800X3D, Radeon RX 9070XT 16GB, 32GB DDR5 RAM, 2TB NVMe SSD - $1649.99 @ Best Buy.",
+          "source_info_link": "https://www.reddit.com/r/iBUYPOWER/comments/1gpkgjv/ibuypower_slatemesh_8_gaming_desktop/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FiBUYPOWER%2Fcomments%2F1gpkgjv%2Fibuypower_slatemesh_8_gaming_desktop%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FiBUYPOWER%2Fcomments%2F1gpkgjv%2Fibuypower_slatemesh_8_gaming_desktop%2F",
+      "source": "Reddit · r/iBUYPOWER",
+      "read_more_link": "https://www.reddit.com/r/iBUYPOWER/comments/1gpkgjv/ibuypower_slatemesh_8_gaming_desktop/"
+    },
+    {
+      "position": 4,
+      "title": "iBUYPOWER® Custom Gaming PCs and PC Builder ...",
+      "link": "https://www.ibuypower.com/?srsltid=AfmBOoq67OYPpcNTTtsg0eDOHw94R3cEYGShs8Twzd7kLLq3MXEUsdEQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ibuypower.com%2F%3Fsrsltid%3DAfmBOoq67OYPpcNTTtsg0eDOHw94R3cEYGShs8Twzd7kLLq3MXEUsdEQ&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0QFnoECB8QAQ",
+      "displayed_link": "https://www.ibuypower.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAz0lEQVR4AWIYZmCzgiqAEHoGqAAAAjCca2rJTe1j1tyW9rhvb2rLtrFkc8ncsm3bdtef3Ru-m842yEMN6tCBLjTA7K8iC0SgHfJqHiV4gHxyhmlEwvitwTDucY1biBJb8IP2W4M-OCEWOnDBAkSJcTiqEBTQh--ns9wgfzhEBZLgpUJQhy5UPzVw_-X2QiShDbvw_P5Md2i9aoDgCpkowzUE90iHAqafG9hiHmsQjCALd5BvGmAHje9bJECQgxAEoBk5mMUGVlGGx2lBdI0CAJlbykZKYyK2AAAAAElFTkSuQmCC.png",
+      "snippet": "The RTX 5060, DDR5 RAM, and Intel i5-14400F make it feel fast and smooth, especially for gaming. Setup was super easy, basically plug and play, no headaches.",
+      "snippet_highlighted_words": [
+        "gaming",
+        "plug"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The RTX 5060, DDR5 RAM, and Intel i5-14400F make it feel fast and smooth, especially for gaming. Setup was super easy, basically plug and play, no headaches.",
+          "source_info_link": "https://www.ibuypower.com/?srsltid=AfmBOoq67OYPpcNTTtsg0eDOHw94R3cEYGShs8Twzd7kLLq3MXEUsdEQ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAz0lEQVR4AWIYZmCzgiqAEHoGqAAAAjCca2rJTe1j1tyW9rhvb2rLtrFkc8ncsm3bdtef3Ru-m842yEMN6tCBLjTA7K8iC0SgHfJqHiV4gHxyhmlEwvitwTDucY1biBJb8IP2W4M-OCEWOnDBAkSJcTiqEBTQh--ns9wgfzhEBZLgpUJQhy5UPzVw_-X2QiShDbvw_P5Md2i9aoDgCpkowzUE90iHAqafG9hiHmsQjCALd5BvGmAHje9bJECQgxAEoBk5mMUGVlGGx2lBdI0CAJlbykZKYyK2AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ibuypower.com%2F%3Fsrsltid%3DAfmBOoq67OYPpcNTTtsg0eDOHw94R3cEYGShs8Twzd7kLLq3MXEUsdEQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ibuypower.com%2F%3Fsrsltid%3DAfmBOoq67OYPpcNTTtsg0eDOHw94R3cEYGShs8Twzd7kLLq3MXEUsdEQ",
+      "source": "iBUYPOWER",
+      "read_more_link": "https://www.ibuypower.com/?srsltid=AfmBOoq67OYPpcNTTtsg0eDOHw94R3cEYGShs8Twzd7kLLq3MXEUsdEQ"
+    },
+    {
+      "position": 5,
+      "title": "iBUYPOWER Slate MESH Gaming PC Desktop Computer ...",
+      "link": "https://www.amazon.com/iBUYPOWER-Desktop-Computer-Keyboard-SMI7N4601/dp/B0D6BYQ23R",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FiBUYPOWER-Desktop-Computer-Keyboard-SMI7N4601%2Fdp%2FB0D6BYQ23R&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0QFnoECCEQAQ",
+      "displayed_link": "https://www.amazon.com › iBUYPOWER-Desktop-Com...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "iBUYPOWER Slate MESH Gaming PC Desktop Computer Intel Core i7 14700F CPU, NVIDIA GeForce RTX 4060 8GB GPU, 32GB DDR5 RGB 5200MHz RAM, 1TB SSD, ...",
+      "snippet_highlighted_words": [
+        "iBUYPOWER Slate MESH Gaming PC Desktop Computer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "iBUYPOWER Slate MESH Gaming PC Desktop Computer Intel Core i7 14700F CPU, NVIDIA GeForce RTX 4060 8GB GPU, 32GB DDR5 RGB 5200MHz RAM, 1TB SSD, ...",
+          "source_info_link": "https://www.amazon.com/iBUYPOWER-Desktop-Computer-Keyboard-SMI7N4601/dp/B0D6BYQ23R",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FiBUYPOWER-Desktop-Computer-Keyboard-SMI7N4601%2Fdp%2FB0D6BYQ23R&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FiBUYPOWER-Desktop-Computer-Keyboard-SMI7N4601%2Fdp%2FB0D6BYQ23R",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/iBUYPOWER-Desktop-Computer-Keyboard-SMI7N4601/dp/B0D6BYQ23R"
+    },
+    {
+      "position": 6,
+      "title": "iBUYPOWER - Slate Gaming Desktop PC - PC Per Dollar",
+      "link": "https://pcperdollar.com/product/ibuypower-slate-gaming-desktop-pc/cmqhjj3rd02ij9lq4i6nk1jy4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fpcperdollar.com%2Fproduct%2Fibuypower-slate-gaming-desktop-pc%2Fcmqhjj3rd02ij9lq4i6nk1jy4&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0QFnoECCAQAQ",
+      "displayed_link": "https://pcperdollar.com › product › ibuypower-slate-ga...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEX____19_75-v4APehGde2jtvRghe4cX-slY-tuj_C4x_fe5fsMWuohYesAV-o9b-wWXepUfu6dsfQsZusAUunF0fgAVeoATenW3voAT-lXgO5KeO1ykvDK1fl3lfAAVOoARuiIovKvwPbp7fwFjGzqAAAAvklEQVR4Ac3RRQLDQAgF0N8YNIW4u9z_jLX1kG771jj4QzcP1_wAF7wwIr7HsDxEiJWS1DPyE9WEVTjL4VSIll4V1Q21HVwikhh9jmGcZrjkKvUnwDSRjpcBccOUUg5bkLG-Y0IPBi9viFmlqWGpI9J3zHtNUx8sDVN0ETAgFF6dj57jAt81K66cr9qknz8B3soNXErVEtWAPcvu7kOtTKxpJNw-jFs3_KbUHjAcurL2QwfbWY24tv0K2EP8nxedrQqdHr5rRgAAAABJRU5ErkJggg.png",
+      "snippet": "iBUYPOWER - Slate Gaming Desktop PC ; CPU. Core Ultra 5 225F ; Memory. 16GB DDR5 ; Storage. 1TB SSD ; Sticker price. $1,250 ; Build it for. $959. $291 cheaper to ...",
+      "snippet_highlighted_words": [
+        "iBUYPOWER - Slate Gaming Desktop PC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "iBUYPOWER - Slate Gaming Desktop PC ; CPU. Core Ultra 5 225F ; Memory. 16GB DDR5 ; Storage. 1TB SSD ; Sticker price. $1,250 ; Build it for. $959. $291 cheaper to ...",
+          "source_info_link": "https://pcperdollar.com/product/ibuypower-slate-gaming-desktop-pc/cmqhjj3rd02ij9lq4i6nk1jy4",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEX____19_75-v4APehGde2jtvRghe4cX-slY-tuj_C4x_fe5fsMWuohYesAV-o9b-wWXepUfu6dsfQsZusAUunF0fgAVeoATenW3voAT-lXgO5KeO1ykvDK1fl3lfAAVOoARuiIovKvwPbp7fwFjGzqAAAAvklEQVR4Ac3RRQLDQAgF0N8YNIW4u9z_jLX1kG771jj4QzcP1_wAF7wwIr7HsDxEiJWS1DPyE9WEVTjL4VSIll4V1Q21HVwikhh9jmGcZrjkKvUnwDSRjpcBccOUUg5bkLG-Y0IPBi9viFmlqWGpI9J3zHtNUx8sDVN0ETAgFF6dj57jAt81K66cr9qknz8B3soNXErVEtWAPcvu7kOtTKxpJNw-jFs3_KbUHjAcurL2QwfbWY24tv0K2EP8nxedrQqdHr5rRgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fpcperdollar.com%2Fproduct%2Fibuypower-slate-gaming-desktop-pc%2Fcmqhjj3rd02ij9lq4i6nk1jy4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpcperdollar.com%2Fproduct%2Fibuypower-slate-gaming-desktop-pc%2Fcmqhjj3rd02ij9lq4i6nk1jy4",
+      "source": "pcperdollar.com",
+      "read_more_link": "https://pcperdollar.com/product/ibuypower-slate-gaming-desktop-pc/cmqhjj3rd02ij9lq4i6nk1jy4"
+    },
+    {
+      "position": 7,
+      "title": "Questions and Answers: iBUYPOWER Slate MESH ...",
+      "link": "https://www.bestbuy.com/site/questions/ibuypower-slate-mesh-gaming-desktop-pc-intel-core-i7-14700f-nvidia-geforce-rtx-4060-8gb-32gb-ddr5-ram-1tb-nvme-ssd-black/6576690",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fquestions%2Fibuypower-slate-mesh-gaming-desktop-pc-intel-core-i7-14700f-nvidia-geforce-rtx-4060-8gb-32gb-ddr5-ram-1tb-nvme-ssd-black%2F6576690&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0QFnoECCIQAQ",
+      "displayed_link": "https://www.bestbuy.com › site › questions › ibuypower-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "This iBUYPOWER PC is equipped with an Intel Core i7 14700F processor. NVIDIA GeForce RTX 4060 8GB graphics card.",
+      "snippet_highlighted_words": [
+        "Intel Core i7 14700F processor"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "reviews": 1464
+          },
+          "extensions": [
+            "4.7(1,464)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This iBUYPOWER PC is equipped with an Intel Core i7 14700F processor. NVIDIA GeForce RTX 4060 8GB graphics card.",
+          "source_info_link": "https://www.bestbuy.com/site/questions/ibuypower-slate-mesh-gaming-desktop-pc-intel-core-i7-14700f-nvidia-geforce-rtx-4060-8gb-32gb-ddr5-ram-1tb-nvme-ssd-black/6576690",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fquestions%2Fibuypower-slate-mesh-gaming-desktop-pc-intel-core-i7-14700f-nvidia-geforce-rtx-4060-8gb-32gb-ddr5-ram-1tb-nvme-ssd-black%2F6576690&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fquestions%2Fibuypower-slate-mesh-gaming-desktop-pc-intel-core-i7-14700f-nvidia-geforce-rtx-4060-8gb-32gb-ddr5-ram-1tb-nvme-ssd-black%2F6576690",
+      "source": "Best Buy"
+    },
+    {
+      "position": 8,
+      "title": "My First Gaming PC, ibuypower (Slate 4)",
+      "link": "https://www.youtube.com/watch?v=VZc_4wDr1W8",
+      "displayed_link": "4.3K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsMnjHlZkN_2p79rER_4dvwXSsIJQLjboF1GU7-SX3PdsWhIjscDciSQ&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "This is my first gaming PC it is an ibuypower slate 4 (C01000iV2), it comes with an intel i7 10700F processor, RTX 2060 gpu, 16GB of ram, ...",
+      "duration": "6:03",
+      "about_this_result": {
+        "source": {
+          "description": "This is my first gaming PC it is an ibuypower slate 4 (C01000iV2), it comes with an intel i7 10700F processor, RTX 2060 gpu, 16GB of ram, ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVZc_4wDr1W8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVZc_4wDr1W8",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR0-2-3fDGe4ESJh_2J9r7wlSYmW3vD5FFm4Q",
+      "source": "YouTube · HTP jay"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "iBUYPOWER Slate Mesh gaming desktop PC",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=iBUYPOWER+Slate+Mesh+gaming+desktop+PC&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Mesh+gaming+desktop+PC"
+    },
+    {
+      "block_position": 1,
+      "query": "iBUYPOWER ESA7R77XT01 gaming PC desktop Review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=iBUYPOWER+ESA7R77XT01+gaming+PC+desktop+Review&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+ESA7R77XT01+gaming+PC+desktop+Review"
+    },
+    {
+      "block_position": 1,
+      "query": "iBUYPOWER Element gaming PC Desktop review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=iBUYPOWER+Element+gaming+PC+Desktop+review&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Element+gaming+PC+Desktop+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Ibuypower slate 8 mesh gaming desktop pc review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Ibuypower+slate+8+mesh+gaming+desktop+pc+review&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ibuypower+slate+8+mesh+gaming+desktop+pc+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Ibuypower slate gaming pc setup",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Ibuypower+slate+gaming+pc+setup&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ibuypower+slate+gaming+pc+setup"
+    },
+    {
+      "block_position": 1,
+      "query": "iBUYPOWER Slate 8 Mesh Pro ARGB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=iBUYPOWER+Slate+8+Mesh+Pro+ARGB&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+8+Mesh+Pro+ARGB"
+    },
+    {
+      "block_position": 1,
+      "query": "Ibuypower download",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Ibuypower+download&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ibuypower+download"
+    },
+    {
+      "block_position": 1,
+      "query": "Ibuypower slate gaming desktop pc amd ryzen 7 9800x3d",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Ibuypower+slate+gaming+desktop+pc+amd+ryzen+7+9800x3d&sa=X&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ibuypower+slate+gaming+desktop+pc+amd+ryzen+7+9800x3d"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=10&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8NMDegQINhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=10&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=20&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAG",
+      "4": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=30&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAI",
+      "5": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=40&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAK",
+      "6": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=50&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAM",
+      "7": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=60&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAO",
+      "8": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=70&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAQ",
+      "9": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=80&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAS",
+      "10": "https://www.google.com/search?q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=FnpfatzIJPO9vr0Pgev9aA&start=90&sa=N&sstk=AU9db-AIEA47AibzuUoguQYjeZhfFOemVevzvzsr-ykLWsq1alE0BEUhFXmmvaiOVlDU7Rt_koCvbt6jcRFXyCMKlbGNadcCUW1t0g&ved=2ahUKEwjcq63l9eOVAxXznq8BHYF1Hw0Q8tMDegQINhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iBUYPOWER+Slate+Gaming+Desktop+PC+cpu+base_clock+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=90"
+    }
+  }
+}

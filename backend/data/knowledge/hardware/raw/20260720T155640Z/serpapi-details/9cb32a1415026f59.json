@@ -1,0 +1,444 @@
+{
+  "search_metadata": {
+    "id": "6a5e456bf735819dfedbbda2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cJqtrtvz8fHQLd0UzoF3Eg/6a5e456bf735819dfedbbda2.json",
+    "created_at": "2026-07-20 15:57:31 UTC",
+    "processed_at": "2026-07-20 15:57:31 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=RUVeaqbGMK6TwbkPuPqB6A4&q=latest+current+generation+desktop+PC+cpu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A9979274114906021026%2Ccatalogid%3A8814092274072887916%2Cgpcid%3A2036275798564782890%2CheadlineOfferDocid%3A6292548641983396304%2Crds%3APC_2036275798564782890%7CPROD_PC_2036275798564782890%2CimageDocid%3A8458002972313520275%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+cpu+component+released+2025+2026+new%2Cmid%3A576462892668852422%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0SW9jaFNmOEFEZU5FbDFNU2pTY1FLb1M0OXBoSW9HVzBRRHg2QkxQeV9jZkdsbTB1UEZ4RVV2ckhqdk1OVVl4bjl1dDZlZEpUakhtQi1qOThCRHBlekd4Nkhxam1RRkRJNDJuRERCR3k3MzZRcElnVkVsOU9fekFweHljSXFvRGdZcHQzSnh5SFBqaUI1VGVreFAwOERXcXp6MHRucV9uQkhmUUp2MktVaHpac0tMaTVSMEZOSllQX00xdGFaRTdUbG1pUjZFdE5RREM2c2VDYk1xeUlxZi1zaE1CYzFVOXZiSzllMnh3dmcwLXBPdXJ1c1puV3BZdXlpTy13SjVuX0VEZ1l5UjNsdTMyVUgzVVJxY3pEbGJZT1JuWkp5MDJqMEw5SVB2RWNkbXVjSUhrYWJTQWlIVHJLdkwtY3dXSnk1MXVhc1YSF1JVVmVhcWJHTUs2VHdia1B1UHFCNkE0GiJBRHNyOWZRakNidXFFZGxQNE5zaDdTUlVHTG42ZEFiamNn%2Cxsrf%3AAF5tSO5W9QN-5e9Qk20dakxeUVgrzU6kMA%3A1784563014108%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/cJqtrtvz8fHQLd0UzoF3Eg/6a5e456bf735819dfedbbda2.html",
+    "prettify_html_file": "https://serpapi.com/searches/cJqtrtvz8fHQLd0UzoF3Eg/6a5e456bf735819dfedbbda2.prettify",
+    "total_time_taken": 0.9
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "KqyLTnicbVTJjqNWFI1ayj6LfEDvSyXxHnNatcBMLmzATA_MxgLeM8aMBmMolK-pHqTOsrPINr_Rvci3xKVscxdX9-oc6R7d6Z-ffnklxV9ugEhySXVzw_lTWu7G3WXFSczXrm_xmF0L_Kco8iLkGQAYkeIoCCjIfc2Sa1K1-R0VBMBQIrwTKB4KAi8C7tuJJLgqGmIfj6RX2uxO46AIWUbgGCAKNC1yNMX8UdRJTv6DBYYVKAqKPKQBzUIK8uzHHg_f4U4-QIrm7jkvCizH8AIUROr3nWsrh__HPl9G0r98f66SKxmuD9nY96S5PuSkIX1yLdrmAZOhvLbdw05-yLrxIWvrrm3eOD2pSDIQ_HAXwL457qEh0-e8e5P4P6U-1gX-xvIcw90zyHGCwEIGwo_d7fp6yj-NY0X-fs2r13F4PVWvpPnSJt3tmP1496vaToo8TLITdB1SXMoLxXOiWbWtamocsFqqaFYAO38PtG0KTMqOVu2ds0bLynXXOXTK2SFIPMclHlJ_BQI1ZlyEYFaeLrgENkIVk54rgJW4itUuSMrT1SnAxfZPsrteVaTEjFWe5qQGrlu6hqUYo6u6skuXtLnEbqZWDSrRYAfikZTaRNbV2Yu0m6vjOFs7i9ecWE9bXZLgGSAd9USTJlt1oyzqOHPtjhkSR6c81UHQQbO8omTdJRl1NRMfeaYa215VORFFzVjXEtfHQaqDLjjHGlZZ11VNmEGk7Eswk6Ca4wIsiQrk_aIhO4oLb6kqsznRuM6mbbTa4cgAGehGRK9iHFWd_wJo74zGiEJqDCo2OFsD9s0XFOQLQsa8pzs11Y3YB8YYlh1rKsbFVCfWQyvohlaZRujsBad-Hxq-E1bPaG1scTld9zSOvKYEZoROGdh7GjAQqu9xaKz9YIBojYsE3Gex1mSrVCm9MFbu2nqxw9hNSqvAkabF-uxYKrskCvaDCq19nYGxqhVJbTWf5qE_fqckjb16NhuKjvXIEtEpIYWT8t4JlPdLwJWm9Bvg7_dyPyHAAEr4krVtWZAf734-HDxyX3fy6Pnu7kmy6nhK6IMBTZ9Jn33vvBWN7rBeDh49xzZtSnV6YQTeq_mdJOJNtvUWEG-TZys4R8es0afl2dvLsXlImXyzA6QLr45K9b7t0rcbZ1vOh_eSKj9J2EBqcpWMXq_1k7sJjMM4nMTRNW8TDI-7aVCsQdqI7mxx81ZWwtLbHnmd14Phw3sFPUlT2F0r1dGZ4KKaDPbiuZ5fXjhVzJVHq_EoT04Ph0fAOtKbfXhvPStPLE0_SaIjH5VUvHGWftkKEqmx8dg2au7FTtnKeNZJr_ruMoVWEs5LJoQrg9uzfExhfjjUxmpTt3DrCufp_oK09mZVeRv6defHE4MqLMzxzpn7xCOMZq3We5ZZbgcyJgfXOx_s5ELZ8V4_rm0ejlpfuqHd3NKhraXGi3LEhKPQ0ovEG5CLpEizJovae0Hs7x1VhZ0un7fLrE7jVs83lLeCjhUxF7Zlnc25vkhVtksd_tYXpShrHLusRm-vV8juSmPGO6-1Rl89aRwX5XVQrwolTqotqTfxwADpX1RY8JQ"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSB0GceY111uPeXXxb6tr3MapYaIUTabHj_-Wfu1xssPRTc2XUc1aoBoL70XBz9O-2SavQ6XyaSrhKljCWZjmCn3tefXy81",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTjqOmmgx5uTnGyexjpivmUQqtsHXXRPhTgOQfEW3qR8z4OxE-72DJSivdVhrFWIIkJedSRJqTHUs5VpiYtxW_T32YVMzqARUNjPMrsAhRcp6oVX6eQjzRRcw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQZbIp7lptEwuRhHvzZQpnwQlKvff4cy19s_9p7JM6K0iWeHbI6SN-L8d8euI6fUDlxjZFgt32RrGa_NBBuG0gBaGrZo3mv4cva80xwUO612HvDdmazNCjO",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRiAWVADBxyInMkjTznC9Zz9oPtQedI5OOCkoibxfP7I9jDbtQAKIwu1egrIxgFwF496VwxO8K49tlqHspIzWQkM5yPZ0Yqjh3wUy2y6joilVopkLaTxMt4RQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSEk9H1aKjJsl_OVH_CS_fc5K_bgDH5Z6s77OAucR7i0qnWdDkfOsVSiQDDf9CPswKJ2zKLYkCag6-kl78tENb8k7BGR9jZjynansl8p-LX1vYgBR-upHCzBA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR5IzjJYg97K9uZS35DHTDyqqcR0lwC3-ZOVhj4MUItPZR_t0u2hzhgtyK0OM5s1iuUP4VhYhmf_jJcdKBAZRmMcT3Tjpe6_yrdQd19dRScft8iEjXTV_eMKRgM",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSoH0TQBvJqnGO4FT3TNhlGxTflviopDrSw3g_jYAe5Xo1GEz09C1-AvRZkpuGKsQ7p7ewqQdEfnwtcYXN8IxHJBn6dXjbDGhc-WXwfzIsCjY_DdMs8v8a6mr8",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTqaP4R6oTEEVkb-OTtlVTWzqF12JuKjSQeaW5LG9Sen2CbKDsKUuSmrv5avIB-C5SkIgoH72DwrHW8GR-JBPakUGtim5RY",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQQpng8G1BhIFR-1DcqCzwYqqySYBSZnfAEM42gj2XsCZWk47OLB3unDXzicu4Fx0EbAP_T-zb9NiBJU5ts9C1bqP8nQdUkiyIciQSZFSIjPmUF4a_cZ0Tejg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRZqabQ4CaitPEJBIJ7_nVmG_H3TUWCc-pzq7i2f3OIddNkI2XchyMXPrNkwrUcK6srD0pjosRoGw87YkNkO5k9rA3EmgPYPO9qvlO-lQExOUGVuUu47maPVQ"
+    ],
+    "title": "Intel Core i5-11600K Processor",
+    "brand": "Intel",
+    "reviews": 104,
+    "rating": 4.8,
+    "price_range": "$178-$256",
+    "stores": [
+      {
+        "name": "Newegg.com - C.N.E Technology",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/intel-core-i5-11th-gen-core-i5-11600k-rocket-lake-lga-1200-desktop-cpu-processor/p/N82E16819118235?item=9SIBZW0KFS7560&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-intel-_-9SIBZW0KFS7560&source=region&negg_topt=0&srsltid=AfmBOooB0XXtn23DZwJFEZ1PgFq5OgUQoYn4evIfAc3bSAyQhDrRJwPdHoU",
+        "title": "Intel Core i5-11600K - Core i5 11th Gen Rocket Lake 6-Core 3.9 GHz LGA 1200 125W Intel UHD Graphics 750 Desktop CPU Processor - BX8070811600K",
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery"
+        ],
+        "price": "$178.00",
+        "extracted_price": 178.0,
+        "shipping": "Free",
+        "total": "$178.00",
+        "extracted_total": 178.0
+      },
+      {
+        "name": "eBay",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.ebay.com/itm/236728994943?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "title": "Intel Core I5 Gen 11 I5-11600k 3.90ghz Rocket Lake Srknu Fclga1200",
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $5"
+        ],
+        "price": "$255.93",
+        "extracted_price": 255.93,
+        "shipping": "+ $5.00",
+        "shipping_extracted": 5.0,
+        "total": "$260.93",
+        "extracted_total": 260.93
+      },
+      {
+        "name": "eBay",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.ebay.com/itm/318090420561?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "title": "Intel Core I5 Gen 11 I5-11600k 3.90ghz Rocket Lake Srknu Fclga1200",
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $5"
+        ],
+        "price": "$255.88",
+        "extracted_price": 255.88,
+        "shipping": "+ $5.00",
+        "shipping_extracted": 5.0,
+        "total": "$260.88",
+        "extracted_total": 260.88
+      }
+    ],
+    "stores_next_page_token": "BXsL3nica15aklmSk7rPM68kNUfBOb8oVSHTVNfQ0MzAwFshoCg_ObW4OL9oCRBnMi_OzcvnAgDRPBIX",
+    "about_the_product": {
+      "description": "Intelligent performance. Optimize PC performance for the experience you've been waiting for with built-in AI instructions in Intel Core processors. Stream, browse, edit, video chat, or just take care of business at home. Whatever you're doing, rely on Intel Core processors for the performance you need. Collaboration. Enhance your collaboration experience with support for AI features including neural noise cancellation and background blur. The Wi-Fi connectivity with Intel Wi-Fi 6 (Gig +) ensures a responsive and reliable connection for immersive connectivity. Intel Wi-Fi 6 (Gig+). Intel Wi-Fi 6 (Gig+) enabled PCs and wireless networks deliver a generational advance in Wi-Fi performance, traffic management, improved latency, interference avoidance and enhanced security for best-in-class connectivity. Make your computer an entertainment center. Get an amazing entertainment hub - stream 4K UHD videos, power virtual reality, and play the most demanding games. With 4x more pixels on screen than traditional HD, you can enjoy sharp, lifelike visuals, complex shading, and fast frame rates - all with virtually no stuttering, buffering, or lags. And be ready for revolutionary immersive experiences yet to come.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "Intel"
+        },
+        {
+          "title": "Number of Cores",
+          "value": "6-core"
+        },
+        {
+          "title": "Supports Overclocking",
+          "value": "Yes"
+        },
+        {
+          "title": "Clock Speed",
+          "value": "3.9 GHz"
+        },
+        {
+          "title": "Cache Memory",
+          "value": "12 MB cache memory"
+        },
+        {
+          "title": "TDP",
+          "value": "125 watts"
+        }
+      ]
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 1
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 3
+      },
+      {
+        "stars": 4,
+        "amount": 11
+      },
+      {
+        "stars": 5,
+        "amount": 89
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTmBW6vyeUrGFn4LdsFkacK4goMM4AgqZhQ1iEtniAQBbDfk9tRVqKS7ZBx7bTLQTMBbZL7av5alZH3fQWkGyBtymoDvhPm",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQzObpwcHO6dH0L4EoLHp7rUt2bTcGHkPUdcwOSPNeU6XUyJaSwbLpjVMMR9RAXzpfRyM60XRBUgYMjSxvPeLsa6ckUjPOEeg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTMDOZzaVz9oStLykih91qjdPHQSfvBsQ7wA2Yb8lz0pghYm-7n7a8wIbrrlWVDAwMGQkc7jCZlHxXYW1pxiKYL8SmQKF6G_A",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTiX1WRIASR4SIrTMAaw1nf05ZsR4LDRn2d5Zz2Q-fhc661YqYJnf6vLlGXnh_QWFxMlePCJO4ZpnD-xEtiW1RGKAFWf-a1",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSR37fWyC9KSzCTvi_Z2KXSkydmSSkyLJUJDXVle8AZ_tH5s8ZG6-uKJydRcJjw8Noo9bYIT2pzq-kGLwZtZ67TZGeZ1N9i",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQZ310WtK6llVtbhIJzdS1SoDA67AtTKdlA_e9o7FtGnYuphQSSr7YP88QMEmbgZa-OrNaTyPYeuVNzqFErUdzLxPOP6zDY-w",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRIIk3WF4QkWZuEMM6pNSDI4MDpXLf9ggglzYmGd-rRrBVZXGD1RwN9ZcQlmwKyUzIEkSaQdPXw45pTx5IQ0W5OEc5_ZPtg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQnQF62vl1lB4XHKKg53IiR2QVd9r2BP5Q1wYweaIINiAClJ5I1mNh6-ZpO_Z7See4XsRFG6fH9Tcn8XEuMQR0bIbHxDH_u"
+    ],
+    "user_reviews": [
+      {
+        "title": "Upgraded my motherboard so I could use this CPU for 4K gaming. Its £100 more than the i5 9400F I ...",
+        "text": "Upgraded my motherboard so I could use this CPU for 4K gaming. Its £100 more than the i5 9400F I had but the difference in performance is quite extreme. Without changing any GPU (2080 Super) settings, the GPU runs much cooler and quieter at 2K with ultra settings and 4K with high settings at 60fps with HDR. No overclocking necessary so far. It is worth the investment for a decent gaming experience. No more judder or stutter. Its also more than sufficient for 4K video editing with this GPU. Very happy with this CPU and glad I did my research this time.",
+        "user_name": "B.B.",
+        "source": "homeessentialsdirect.com",
+        "rating": 5,
+        "date": "4 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3_qtrkGe-n6KHvH5jOin8CnUYVK50DLVR5kS0UuRVwGW9zOoBwidESd4CLcNKOsmMHRQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "The 11600K CPU I got was actually a very weak one. I overclocked it to 5.0ghz, but its voltage ca...",
+        "text": "The 11600K CPU I got was actually a very weak one. I overclocked it to 5.0ghz, but its voltage came up to a staggering 1.48V, which is very unusual in past generations of cpus such as Gen 9 or gen 10 (10600K is about 1.35V and can be overclocked to 5.0ghz But 10600k can be overclocked to 5.1 or even 5.2) if you are a person who wants to overclocked and use this CPU with full core you have to be prepared for it to have very exaggerated voltage and power consumption. I used full core 5.0 and played with bf5. Power consumption was 130w at 2k resolution and temperature was 76 degrees and heat sink was msi 280R has an average power consumption of 180W in FPU( disabled AVX512) which is an amazing temperature core power consumption compared to 10600K(10600k in all core5.0ghz almost 140w) In general, if you happen to have a nice radiator and you don't care about temperature and voltage you can buy 11600K or 11700K or if you care about single-core performance 11600K is a good choice but if you are a player who likes extreme temperature it is recommended to buy a 10th generation CPU Or wait for generation 12 cpus",
+        "user_name": "r.",
+        "source": "homeessentialsdirect.com",
+        "rating": 5,
+        "date": "4 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0A2Nph_GvXCpcOKp37aAGIB_B7NwrqQ80OsJoOsGGrsX9GQPl2BrNtldzgUzKpj4km9No=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "I5 11600k runs great on Air cooling",
+        "text": "The i5 11600k is a great competitor for the Ryzen 5 5600x. Runs 36c at idle and high 72c on full load using Cooler Masters Hyper 212 black edition. This processor would be perfect if the price is in $ 200sh to 210. Thanks Adorama for another one happy ?? customer.",
+        "user_name": "ANIETO",
+        "source": "adorama.com",
+        "rating": 4,
+        "date": "5 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1ZyijTXEawNQtS-HJ-BnApXNY9AaHbf79xkdaiKmtfyqFnZtHaPhPrz0cEczOKIAVZrg=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTmBW6vyeUrGFn4LdsFkacK4goMM4AgqZhQ1iEtniAQBbDfk9tRVqKS7ZBx7bTLQTMBbZL7av5alZH3fQWkGyBtymoDvhPm",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQzObpwcHO6dH0L4EoLHp7rUt2bTcGHkPUdcwOSPNeU6XUyJaSwbLpjVMMR9RAXzpfRyM60XRBUgYMjSxvPeLsa6ckUjPOEeg",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTMDOZzaVz9oStLykih91qjdPHQSfvBsQ7wA2Yb8lz0pghYm-7n7a8wIbrrlWVDAwMGQkc7jCZlHxXYW1pxiKYL8SmQKF6G_A"
+        ]
+      },
+      {
+        "text": "Item received in good condition",
+        "user_name": "bulvox",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "5 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2wKi0DcKD7YpTlSRbBiaua05IhiJWtvWHBo-dMKxHH9oc79QzH0EzAqOREwrTj8xOGUA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTiX1WRIASR4SIrTMAaw1nf05ZsR4LDRn2d5Zz2Q-fhc661YqYJnf6vLlGXnh_QWFxMlePCJO4ZpnD-xEtiW1RGKAFWf-a1"
+        ]
+      },
+      {
+        "text": "Excelente compra,vendedor postou a compra no mesmo dia nos correios, preço do processador muito em conta,voltarei a comprar nessa loja tranquilamente! obrigado!",
+        "user_name": "fabriciodeazevedo",
+        "source": "shopee.com.br",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1xp_dDvW3FXbHiID4-a1bGgilwidPjpL7w75fAAxuYiKfZR8gpL14HRCnYZFI7kgNBPw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSR37fWyC9KSzCTvi_Z2KXSkydmSSkyLJUJDXVle8AZ_tH5s8ZG6-uKJydRcJjw8Noo9bYIT2pzq-kGLwZtZ67TZGeZ1N9i"
+        ]
+      },
+      {
+        "text": "ความคุ้มค่า:ได้สินค้าที่คุ้มค่าตามราคา\nประสิทธิภาพ:ได้ประสิทธิภาพตามสเปคที่กำกับไว้\n\nเป็นอีกร้านที่มีสินค้าหลากหลายแบบให้เลือกช๊อปในราคาที่เป็นมิตรมากๆ",
+        "user_name": "korjack",
+        "source": "shopee.co.th",
+        "rating": 5,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2RaTN5izwnfzS3tzUnzp1Bhbu8UZh4u0oijkDHLBEtxsneg55o9czphdMjStT1Kq5_fg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQZ310WtK6llVtbhIJzdS1SoDA67AtTKdlA_e9o7FtGnYuphQSSr7YP88QMEmbgZa-OrNaTyPYeuVNzqFErUdzLxPOP6zDY-w"
+        ]
+      },
+      {
+        "text": "Vou instalar pra verificar o funcionamento ainda.",
+        "user_name": "wavasilva",
+        "source": "shopee.com.br",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0h4LduJyt3KyfQKGE65Wq2lZPTNF6Xw3S4PDN7WKYVKGzXnZN-mXqd1CiQUeMiCfCpDA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRIIk3WF4QkWZuEMM6pNSDI4MDpXLf9ggglzYmGd-rRrBVZXGD1RwN9ZcQlmwKyUzIEkSaQdPXw45pTx5IQ0W5OEc5_ZPtg",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQnQF62vl1lB4XHKKg53IiR2QVd9r2BP5Q1wYweaIINiAClJ5I1mNh6-ZpO_Z7See4XsRFG6fH9Tcn8XEuMQR0bIbHxDH_u"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Intel Core i5-11600K CPU Review & Benchmarks: Gaming ...",
+        "link": "https://www.youtube.com/watch?v=lbch8LW-Bz0",
+        "source": "YouTube",
+        "channel": "Gamers Nexus",
+        "duration": "26:47",
+        "thumbnail": "https://i.ytimg.com/vi/lbch8LW-Bz0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kaL9NlLsZTwIWDhsDugHfpZ1tsXg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSeSkYEdx67OgXh4gEr_ycEj8p594-tdJakgQ"
+      },
+      {
+        "title": "Intel Core i5 11600K Desktop CPU Review",
+        "link": "https://www.youtube.com/watch?v=VMdU77n_CPU",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "6:25",
+        "thumbnail": "https://i.ytimg.com/vi/VMdU77n_CPU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n1bwUUErPXFbAhe3rJTDLfBgXd-Q"
+      },
+      {
+        "title": "Intel i5 11600k - Most Underrated Creator CPU 2021 [Creators ...",
+        "link": "https://www.youtube.com/watch?v=iJxwDukWL-Y",
+        "source": "YouTube",
+        "channel": "Tech Notice",
+        "duration": "11:12",
+        "thumbnail": "https://i.ytimg.com/vi/iJxwDukWL-Y/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mdd1PI-wsu_kiwK2ZwG7vw9mG6eQ"
+      },
+      {
+        "title": "Why exactly THIS CPU turns out to be GOOD. -- Intel Core i5-11600K",
+        "link": "https://www.youtube.com/watch?v=hcINzD_j_GA",
+        "source": "YouTube",
+        "channel": "Nicolas11x12 English",
+        "duration": "15:32",
+        "thumbnail": "https://i.ytimg.com/vi/hcINzD_j_GA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kf8u2Kg2yY7U3UOjuIHV_k21HFxw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRYF8zA6eJL61w84OE750vSc_IqNxamk9DPcg"
+      },
+      {
+        "title": "Intel Core i5 11600K Desktop CPU Review #shorts",
+        "link": "https://www.youtube.com/shorts/_k4-GTc2mjU",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "0:39",
+        "thumbnail": "https://i.ytimg.com/vi/_k4-GTc2mjU/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3nC5q4yk3TeF22QsDCyq6I40AMo8Q",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRNZe8RRkljfNlHcxl6UkIObA6K-t-a_6x4DQ"
+      },
+      {
+        "title": "I5 11600k Review, I absolutely love this 11th gen CPU from Intel",
+        "link": "https://www.youtube.com/watch?v=69NINrTRPfo",
+        "source": "YouTube",
+        "channel": "PC H/W and Tech Unboxings 🔥",
+        "duration": "7:01",
+        "thumbnail": "https://i.ytimg.com/vi/69NINrTRPfo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ngWG8UfaHzXYTn6Smgzh6wahp8Ew",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSCzX0FSmbPrNGhejmGH-FevK0rPj9oIONHbg"
+      },
+      {
+        "title": "Unlock Powerful Performance with the 11th Gen Intel Core i5 ...",
+        "link": "https://www.youtube.com/watch?v=8THpH0tCz0c",
+        "source": "YouTube",
+        "channel": "Tinh Tran Thi",
+        "duration": "2:49",
+        "thumbnail": "https://i.ytimg.com/vi/8THpH0tCz0c/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m5xyQc4gLmRzRFdKsH00H6vjz78g"
+      },
+      {
+        "title": "i5 11600k Stock vs Overclock",
+        "link": "https://www.youtube.com/watch?v=PBZXDB5qwN0",
+        "source": "YouTube",
+        "channel": "Odin Hardware",
+        "duration": "7:06",
+        "thumbnail": "https://i.ytimg.com/vi/PBZXDB5qwN0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3my6PMc60Y4XwfZVcA0S7-6bsN5NA"
+      },
+      {
+        "title": "[GN] Intel Core i5-11600K CPU Review & Benchmarks: Gaming ...",
+        "link": "https://www.reddit.com/r/intel/comments/mgfi5y/gn_intel_core_i511600k_cpu_review_benchmarks/",
+        "source": "Reddit",
+        "channel": "Gamers Nexus",
+        "duration": "26:47",
+        "thumbnail": "https://i.ytimg.com/vi/lbch8LW-Bz0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kaL9NlLsZTwIWDhsDugHfpZ1tsXg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSeSkYEdx67OgXh4gEr_ycEj8p594-tdJakgQ"
+      },
+      {
+        "title": "Core i5 11600K + RTX 3060 Ti vs BATTLEFIELD 6 REDSEC",
+        "link": "https://www.youtube.com/watch?v=o6UOoJIXZME",
+        "source": "YouTube",
+        "channel": "Viper Benchmarks",
+        "duration": "16:25",
+        "thumbnail": "https://i.ytimg.com/vi/o6UOoJIXZME/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kMciRPreLCE5k3q9MUAlDHkp0ZOQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRBSCKoobsJlpPSiB2ZUxPAYhkgi-LtZLUe-A"
+      },
+      {
+        "title": "DON’T BUY Intel Core i5-11600K BEFORE WATCHING THIS VIDEO ...",
+        "link": "https://www.youtube.com/watch?v=0Vd3bYRO108",
+        "source": "YouTube",
+        "channel": "Critical Reviews",
+        "duration": "1:51",
+        "thumbnail": "https://i.ytimg.com/vi/0Vd3bYRO108/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ms39jQqkT_m8kjyKmXJiSDk-NJCA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRfpjDRceUHrELSGA9IPixTZIIdOpVk-lzeRw"
+      },
+      {
+        "title": "Core i5 11600k vs Ryzen 5 5600x - 8 Games Benchmark Test",
+        "link": "https://www.youtube.com/watch?v=Xgt3j-rxFeA",
+        "source": "YouTube",
+        "channel": "Benchmark Lab",
+        "duration": "3:50",
+        "thumbnail": "https://i.ytimg.com/vi/Xgt3j-rxFeA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kgpGn66dwPrZM83vJdQIWCyU_lsg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcS9h2Y9bD85tj4KQ2zLSvz_8yHGh2BvnUGqAA"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Intel Core Ultra 5 250K Plus CPU Motherboard Combo",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS7kSegVyhdPXtot5pVsoR7bgPGq2ANbMoQoGa3-WwS8ZP_IdghCsjwwrtr7wcTUAmi0yZXnx3y9hy-zitDbXGlvHrtegayJKRHTjnB993JFn13NY6K6eYB",
+        "price": "$209.99",
+        "extracted_price": 209.99,
+        "original_price": "$244",
+        "extracted_original_price": 244,
+        "reviews": 2,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eJZ-5HicbVRJruM2EA36BFkkR-iV8QGSoiQrO8sabFnzQFncGBroUZNtyZKNnOZ3EqCz7CyyzTW6FzlLbGTbJMDNq_eqCvVY__7w4zs7_O1HhKXnTLdWQjhkJ7d3z7Iww5_bS1P0eXco_pIkUUIihhBLQAAIAiR8ztMuLZvdCxWgCHiIMDflISfyCAhf9iwtykPNnO2WXZQmf4ZhfooAkAQOTzmBkyAQ8J-HKt2x_2FhCuFLSBKwIAoAYow_XYrrV-TONxJAIkB4CiB6ymNOEMRfXd9RNt_Hfj_37HL_uizTjl27Sd5fLqzuJjtWs0vaHZp6UrDrqWvaiTuf5G0_yZuqbepXzIWVLL2yYoIA4l-PMKnZ8PuufZX4nVSfqkPxhRefNSP-2RSHnxdN0af21r3vd--78r2_vu_Ld1b_0aTtbZt_-_CT2gzK_DrMvahtieKDAME7ibSEKXRJlTKkVSmziCZmBGAWF_MIQd26Q80kmhbVhUrA_haWdGXrdpPphWPG8J6rS2zHUUc037Rjvw609uCXESwg2ZrrEgdIQqFS0Ah0HHnsa3tR8hGXjKm25Anx7lHsqwlXtGbom2Fk1Cn07-FC1ikp0liRtYLzzfShxVllr2JygoWmLUlcOFZFdB90LuVU7MRwm6mjHMflqjiNvldSN4isR1xH2IzaNSkbmCJNs6PiFsXtxeIMl9UGdBb-w1bbZVz6qyi6DlZNMIvpkSBjlVUNoiAZvRM1LI4s8mjkssj21rC9ETjjkvWetxa2nClyEtV7Eq13Y1pqgC7kbXLaLz00HoKYrgOVVkktpxT5QVj7crj2Bkr2HamgFQTgnml04ahwmevl0YcUxGsLhXUzOM9enIjvA9Km8al0LWBfCQKBhtSBVGSfIXD3QXuIjsTJoNzHpUQtTXvoB0P2F_bdiWnkIUrtuBXy0q7po7DZmh6CtTbmag6YJmNSttxv4_Wy_QpmGt8FDja6cL_nS3UIxccyETFDJHf7RfCmDL9AcYqfVnt-OAlIf-RNczqwbx9-3mwC9jQ6ewtC3_3IKTO7okPKbQxkhThbhsHRlIx2s3hsAm6kDmfNquyMp2JQie5MKla5GTwgNdOlHR3X27zWh8cySObU2mR4t3Iha-POU8EldHzudhMc2_vIyZOZOn_lKgyipt3MuOiVvn8O0dj0173U-9ZtQPHWHa6KfZ2tJH-0hdGcK_EpMLeiLurR9SWikJfGELddqXo6js6qhYuAjtV4vwuqtFPe7DoAwTzbbN4g781e58Wzl8qTyHPciy55862SSTfB1s_mdMaqwnhranUXUO_UzItRZxc19B9DbKfx-MinsWwICS9SUIjXTWXIq6fRTH96HJ7LSGtudrlr4rBqQzo851NMR-p64yUNGNZseZHw-HHbsD7d-MFx46Rn4NBE3y4cEfXa5eTHTn3Lrk01q4P1juC4nzbcYyYaSFjP1po92CAJIhomnqqiVp8fzceoDr2p71YgkJFnr_GZb3hvdazOszJ3M0-8XQ4naa4J_EPug0QvidOejLFwg8buQ3WvCcJ6V0WVfFBoWpqsWtErhrPnGtr-8x_X3vBs"
+      },
+      {
+        "title": "Intel Core i7-11700 Processor",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRpvHaIZEHSCfi7DzsE2ZcwPhvztYywV25Sbz5C9IOm6NG5tDUiV0F5ctJaCPIyg4OynZR_BMat6vrWOYMTtdAZiCZSpGJCNGig_rXpHFko",
+        "price": "$285.00",
+        "extracted_price": 285.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bqkJ93icHVRJsqNGELV9Am98hF4pfgRFMXqHxCAhqRAUFIKNAlGlkUkMgs9pHP-7O6K97HaEt75G98JnsdS5yEW-fC-rMjLzv59-fWPnf7yAsOS2t9ZLye_31023uU0lTfhc1SXt0vZMv6qqrPKyAICgchLHA46XPqdJm2Tl8YHyEPIKVGVJlkVJhJysgC8nltDsXDDncGC1XqZn-jcAMhShwKmcCgDP8Q_P_XXOkyP7gX-FgsyLIs9LAEIJCKKggPeaNn98vHWsfv22yJKWNe0k7eqaFe3kyApWJ-25LCaUNde2rCab2SStukla5lVZPHNqlrGkYXTyKCc-nTQpWP_xWP14D6cqCq-ooioICicDBUj8e36mX0RZEqQHIKsqlGQOqup7dW_fTse3Y_bWNW-n7I0Vn8qkuh_S7z-_G3U6m93TqRtUFdE9Dl9sIeIzEOhE9HI7oq9AZFcCXGK8RiHl1obQ08CWHrEhmIEzuxDH8bPt3jSbPYy5MM9CZLVX38rO9KkZBAOCtoMAHVgWO64_9dKRBDTLkuBCIr-IUeLb9yRHrpvZJL14AL0CkhLkUv20QFsTkjzWXd9LAnLigoJwKFT6CKITtloumZ88D06xN8_sABAzDZvRHc2VO5JlWEwzBOwFDtowhRVmpllSkz76asKAeHxiZBiPqI4zskp8Gga5idKCXsk2dmJyOtAQtXR0B-x7vJ9nfGzEdcS3K29LFrFJlknmQhKoHIYeDCA9kyJe-d5iG_nTMA7N-9635zi3MQrEe2CJyRZc-2C7ThZX00jhQowzz4-hF6WceY5HJAUQ6d4cXeOCLF3ozR-amy2f_jk09eEbp5liix3Bbv3TScyM3pfHRSQLjCfpppvjF73_HciKIEqQE8FjTD-lZXk9s--__LbbYfYYPPby-MjmA9Q1lMd9Anc2v_aF_cLHl5VqV7v5uMNwiB241vL9TVBknMsbTaXLdIVHEK-SBQou20NaWP24wNEsXu_2wnG5AawKW9fgat_x4P0uOcj9AKcTzZg9a1GbGEmr2bWVWydvGdi7rjmpnbe-93x42PSNjhptqXoDkobVTA-veHWQLdkKmqeITp4afVi1meFaQnAz1gLF8ZAPr6-SoR71F1RgDs_2u90LEF3taU8eWugPogjhk666s4O-V-8Ssm4rRWM5tV_Kwjji2L2WMzpYrDZ8b-xDlITDmCrh1JYiUY45Kje73J4u85Jfecqlf2y6Wd5RdixDP6_8uBdIRpUh3rhDnWAmmGg6j0RhvO9Yl-w8fNk5yY1z4sg6zB2Z78z66oVOcd83Za4VeHskQtgpJRw12ealrbY1UY-4CAexH7mGwVfW7LIaB6PvVtZxyeEp76KtcBNL0V1e8puWpZu9K9_r81WdmZI4TjscWRlxqqs90A0uUecbJ1OStsc8yKdnPU6yFcuXcSMA7XEVDv_-D1CiwSk"
+      },
+      {
+        "title": "Intel Core i5-10600KF 4.1 GHz 6-core 12-thread LGA1200 Socket OEM",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQiZEdWndonA0H9txUrNmCqg5oL_Y-4CwXqphDMt5a4cmKfUH5udi0Ncsh-fW8a7svD6PNjm0o8nRXzdqBwAUiLfmom5D76XkNEtchCmISS",
+        "price": "$67.25",
+        "extracted_price": 67.25,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NalAM3icdVRJrttGEA18giySI3glfIDdbE7ZkeKgT4lNqTlJ3AicJIqzOIgUkdN8xwacpRMg21zDXuQskbxOalGLqn7vFQpd758ffnxLLn8Rx02Ca6gZa9Yew3w7bK8SK6LPTVvHQ9Rf4j8EgRMghwBAAsVSEFCQ_RwFfVDU50v8hX8UWUBxgKdpwAk8A7-kSRAXlyoxT6eklevowYEQQ9MCRyPAIgbyAFLg90sZnJPv7T8BD4CAIMXTgAEcTfMcDT-0cfcVbZdHwNIC4DgOcIgS0FNDYH_dElM-_k_z43VI2vvX1yLok65fREPbJlW_OCdV0gb9pa4WcdLlfd0ststF1AyLqC6bunq-aZMiCbokXkAKMs_ELqpk_Hhuvk_5H1ofyscOGI5FLOQFnqJ4hud4gf7Q3Pq39Px2Lt6G7i0t3pLqUx00t1P07d1PSj3Ky25c7pymcWVC2Uohu_lI22WThyu_t6Az4tnpgxL3ljMit2y60CuIl4_3zT5GnhfnMRBU01ZxIhOEPVcyoGu7HtEe9WtcpGu3FEasRjC-AMMvjMmmmok48dUrpzSii5u9Kmqbio0INlmonEcsG6MDmi6gfJR4KY1nV7LywneguiWQXKK9v7PtoidVuseZpHt7nbIURrK9HO0eKsR156BUV5GnVq7mTzGQiEMVs3EHla_GJtawZEO1srLCcalCsx1jCvOGMpXn_PzdW5FrkJEpyVTZUfVDXJ37QFV7rOqS5bn3AES95b4iYxZnVyXIldPAyEToA5JuXFIlK7fFmboPV80mBg0y3dh1PPXuZDoJ9n63h3gf2X532Evwsc8soPMJe3i2YJ-FOX8PvQM8ZLHrKukQrfw6dH0m0CIqKrF9KPTAqRrPyfzSf-AjO7dUqIxu6aYhpO6Eai5O5pohkAavEHxDVWftoktkhe-m5xPiMLWpqdvYc-ioSh1nCXaYmu7RSieOxwOSpdJvU9eevlKiyvSWifTeTlOmUEabm18PHEqgG22HlfUij78AjkcMS1MMECjhU1TX-SX59u7n49FKHj89ebFssn1PyyIu_TGgjzo0bBS-2la2EfTmuJqPFj35Jm2IZXhFPGeV3FYU4nW0sWbgb4JX7GT7U1Rp4_xqHZa-cQzReb0FSeP1O4VqbZPQtxtr4t17WlqIyvKpFeuuEvSi3mqllpK1ox-HLhUGYtxG6J22YyfjTlwLZMLstFnKXm5tTpzGaU73JJHdJ8foNX2h7DTkXBUDxZY_ldP9zirCWX7BlUVZy_B4fAHMTnzGE4df5QfwYSxPuLBbnuRQuLFYu254MSlj_aWulLPl7_J6GU9a0io2mUcPB940R7wn6eyB4Xwq5rpjqUvrsoYbwmfjw5DU-oaLc-09DtL2H_dXxPzkb3dTG1gJUrG0OjBovh2TITgSKzuawZUy_YN2WpkcHNQ2J55Z3cKuLsXK2p9d5A18Tc8ip0N2L-5VPGLqYDm-fdgpCmy0ZbaZJ2UcNtp5TVkS3OE9ujI1s1tn5VUsom24427tJReWKsvM0mAdtMI1m1yf4q1V48FWUpVl9-fSKaWL7AfFJinXfoeA-LCh09__An5g9gM"
+      },
+      {
+        "title": "Intel Core i5-9600 3.1 GHz 9 MB Smart Cache",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQtQFisTioOympAhm77Q5xlBv0ZYxNUayOQEzGotlzai-BoEaXjBj86zVzUP1AAalvrtL3XaOcHG03lcTvvx97kO6g4pz7d69DAlGw5qgI",
+        "price": "$96.34",
+        "extracted_price": 96.34,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_lCE_nicHVTLrqNGEE3yBdnkE2ZlXal5NSY7sIFrbLcNTQNmYwHdfvE0D4P5mtG9mZEmy8lI2eY3Zhb5ltgpqWpTdc6pUlX3vz_9-sbOfzvEY9E1NtdL6PZxuu22Vw2q4peqLmmXtGf6l6LICi-LHCcqAAKeAzz8kkRtlJXHM_3GTQVRhpwgAlEQpxBMAeS-nlhEs3PBNocDq-dl8mCRRR7K8hQKnAIlHogKBH-e8-jI_k9_4-BDBigyfDgQIC9wgvRe0-bjp2vH6vv3RRa1rGknSVfXrGgnR1awOmrPZTGhrEnbsppsZ5Ok6iZJmVdl8aypWcaihtEJD3jpGeCkYP2nY_XsR3pMBKHMPfWgIkpTIL_nZ_pVkqEIeQkKCuRFRQCc8F7d2rfT8e2YvXXN2yl7Y8XnMqpuh-THz-96ncxmt0SzSVV5cwfgQL-vXWPDcmeNvAqTTOnIxdOcEQEHGHaUo02st-uYoBpdNDcOVM73uQa9JveEcHNXSFucOWBdGMjNaedcstzljZIWdEnHY0-BtAw4r3HG05nM6RCaJ-jx1WxHLI1dvDs1nTzUjTzOTifsGj4LnDIEAGyC7Ep9Z9z4SkPMQcB6CuhFq11yuuLRsWNgXKmJhl1hNBHvOZS3Kk_w7NhwEDaUARGD2PlJX_ucS310wWPmJMZDN22X67njeaQ6JK4lRly2ZkZ42AHQ08DZhQQ5xG8Psa6L5JK1hISLKDAWnr4QkrQBsS-KkY9Q9Ko51LXseFgEO1fzQ9-4xa71inMLIyLdiClFAZf2JFhHi9TQE2EhhZkTuMBaMNIaceHxNhgGO8sGpLeR557qODhlLqf_MTT14TtQDanFG-jJvFVz_O6a39V5HZJ0mfRV-LrFmvo7J0_Fx-aBxCkc-JyUZXpmP375bb_H7HF37AW7zvaDMFdRHvaRsLf4tSvGCxdfVopV7V_HPRaGcCOs1Ty-ilMZ5_JWVegyWeGRC1fRApFLcEgKsx8XeDcL1_tYPC63HKv81tZB7W4c4XaDG2R_ELSJqs-eWtTy9KhVrdrMzZOzJNa-a05K56xvPe8ftn0zR426VJwBwWE1m_spXh1kUzZJ8ySZe0-O3q_aTLdNkVz1tUhxOOTD_Q515Th_QQUGeBbv9y-cZKtPe-LQYv4ASoLwhCv27DCPlRtE5nU1VVlOrZey0I84tNNyRgeT1brrjL2PIn8Yk6mvWXAnySGgcrPPLW2Zl_zKmV76x0s3yhvKjqXv5pUb9qKX0ekQbu2hjjATDaS97iRxvO1ZF-0dfNlvoivYhDvz8LqR-c6oU8ffFLe4KXO1wMHRE_1uWgqjKls8DNTAQD0CO0xCd2frOl-Zs8tqHPS-W5nHJcAab6NAvEqlZC8v-VXNkm1sy7f6nCozA0qj1uGdmXmbKrUGusUl6lz9ZEAYHHOSa-d5GGUrli_DRuTUx69w-Oc_kJLDAQ"
+      },
+      {
+        "title": "Intel Core i5-12600K Processor",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRxG1AfLeAAARAPNW12U58sVs2KbdZdcqtZ-v9Ql9Yl6PjGTIiz04ZHvSnSVOKDT_YUMI3Cb0ORpyEnxwa8nNi8BVr2zDQXb6IbfkRKmdmcqYwpVLMUczud",
+        "price": "$283.19",
+        "extracted_price": 283.19,
+        "reviews": 10,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=smCX63icbVTLrqtGFm3lC3qQ_oSMrCtVFe_MsHn4YBsMBQXUxOJRfvE0BoNRf825nUjJMInU0_6Nm0F_S9s9Tg1qsvbaa21pr_3fv_39k13-7QWEJbfU3G1Ef0yL_bC_LUWV_6XtmnzI-kv-u6JICpJ4CHkFiABBgMRfsqRPyuZ0yX-DL1DheMgJoiLIHETyb2eW5OWlZs7xyDqtyV5VgshBUVI4Dik8BJIiy79equTE_o_-AYEgIonjAeJlUVFEBUDua5ffv6H96vASFOW3iAx44eVCUMA_956jHf4a--k2sO757aNMenbvF9nQdazuFydWsy7pL029yNm96Jt2sV8tsnZYZE3VNvW7pmMlS-4sXyCAhPcnLmo2_nRqXx5__wupr9V7MknkRSQr6DX-azxeUr62j_7zfPo8lZ_D_fNcfrL65yZpH8fsz---15tRW93HlRu0LdE84Bt24pi0YvWyzcw-zrTi6RjGLQDCmlUkISYv0BDuIwBtH9mIAhiy63IdR_Yjj-wir6wLCcmGaOfAh9ZHQtrWvlKb1acpQRCxyAppseNSZFxpbdywacy7mqwT0AB7nTdsXUIWGLtALx0nWj6xGUAb9DD19RFDfWTFqU9NyyLcB0w4CnPj5XVNYEyUzjPOLQumEVdlHAQy9OsPDuvFtI3KByYK3tWWQ9EJYd1-kvK82V0tLSldmKyNh7Nezjn0mp2vg5jEIJ69wtYnMZhtmho0DIp8smfL8a9uvw2mmcIz8TH08jpDLqdySTU-86AcE6S0HqLEiyzXK_PBDQUuCchAkSXmRakFfikGoOUz07jtonYfQ2LEtbFOr8bghMa0C7xLqBm3pLRHxyx9r-h5t-rvBChtNHvmzrAcFhllBCjNimkZQxkbSB9JRc4pAk8PtJfgSpwULoewVOjOMGbzYi29tf10QurZAUHJTM9p0Va4Oj9yqBDP8ERSCGGC4URJufzXdO-O34BqCD12RCIhq4MovlVPVetoUGyysaXrPV6qP0JJ5l9RAgJUIPg5a5riwv787h-HA2avRWdfsO_tf-A01a7omHAHC-18Pv3w8XWrWO1hPR8wN1GH26lVeuNlCVfSXlXyTbbFM6Tb5MMOrtExq81x_sDxiu4OKX_a7CFrw97VQec7Hvd4iI7t_sAtF6q-emvlFtGTXrU6szLP3iawDsP9rAze7jGi8Lgf75p9VzeKN9nitF1pYYG3R8mUzOD-bqKRd48xbPtSd00-uOk7Psd0qqbnU9SVk_bFrjHAq_Rw-AIFV32_N8_-0F7EV-LedMVdHbVUeYi2edvKKqty60tT6ydM3aJZ5ZPJOt335jG0k3CaMzlcWmIsSBTk0v1QWctN1aCtJ1_H1zUymoddnprQr1qfjjwpc3mie3fqEsx4w34lT-Dnx4ENycHD14OT3IBDY_O4diQ0GF3hhU79SO9NpdY4OhE-HOSGm1XJQmKkRoY92iDGAfVjV9dRa66u23nSx2FrnjYAL5FrR_xNaAR3c61uapntU1d6dJdCWRmiMC8HHJslcdrCmvI9buzB18-GKEanKqiWF40m5ZZVG3rnofo6Q8f__A_1QfJE"
+      },
+      {
+        "title": "Intel Core i9-11900K 3.50GHZ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ0eDbCA7JESnNzXDU3qH2j0RGo4NogA53VE_B5RV6efejVB25un7kExguoNG5lYBKmyP-F5sfE8R2UeuS414T8woCV8GPQAEXOu_yJP-OnJfCENcLw4aJ2",
+        "price": "$425.89",
+        "extracted_price": 425.89,
+        "reviews": 143,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BOl1BnicdVTJrqNGFI36C7JIPqFX1pOKYjLZgRnew6YwM9TGYigbzGgMhofyNa_TLXWWnUjZ5je6F_mW2FGWyVnU5txz7rmqq_vXd9-_keIP2_NJfEk0Y8u5U1Lux_1F4kTmc9e32ZgORfabIPAC5BmKYgTAAUgByH1O4yGu2tODpXkacgzg7ljzFLPmhC85ibOqaIh5PJJebtMi-51iBWF9B7umOMiz3N0M_lrU8Yn8ywMIoMDwrADAGoJHMfzQZ9evzH5zoCgBrHma4oV7FiCwUOC4n_e2KR_-h_x4GUn_-vWligdyHVbp2PekGVYn0pA-Hoq2WWXkWg5tt9pvVmk3rtK27trmUdOTisRXkq3uedjHw60aMn08df-k_I9eH-oi-8LyHMPBtbAGwprj-fuUH7rb8Jaf3k7V23h9y6s30nxq4-52TL-9-0FpJ3lznTaW13W-bAOnzC4-RFzqdaWpVRqS86sR-ADRKEcBxQQFdfa0rMggtbhqVuLQYFOFwljNJ6MGNKln3VOq10CWBrssIQnbhVT5s6l5MGly2j3nMFxyywW6mj5nY-QNc1zbVqoJsn2u7t8_IAP4ahxkPapUBrl5QUp8jhapRI19Q3LW-l63zdS8jEq98QKkGjIeM20YHc_3fDcrDKWbrCCvYxpFXqAvO99YMtUuE8WnPF-idj4egnNWuL70YmsDsJvMJiXaJwuOHA_TnqIXjpdjrGQWerYGo8q5-Jx31tkvDR-jIHwBpMkRqfMugv6QBtlM6gE4NOIMr8NRgPOEsitPRTAEXXnPVBohMt0QM2kwG3bQgpjq6AwIbariyqorLqKtOaFVcxfmc6IiDqlSF1cn2tZ03QN-aCh561MGi8pBTRu9iWuhT1RhwhA4KlQmv_bzBIJXG3SFd_bNhJLGoBKwoaqLVuiS_YxezQA73lmPHD-lkQbmxNUNtPjAgsIZQ4rxQkQ7MqJ_ma_98SsQVXZwTM7nod5TMLrUr6LcY6_cplOHn_eOJP5E8WuG5WjAUgIFPqVtWxbk27sfDweH3DedPDmuvX9PyyKq8RTTBx0aLpO8uM55J-jd4Xk5OPSMTdoQ6-TCrHmn5veikG3TnbNQeBe_IO8cHtNGm5YXJ9pg45Awp-2eIl0wWAroXdOmbzfORNZ7WlqJyubRK9N9JR5EvddqLbe3nn4Yr7kw2sZtgsFxP11ldBW3gj0jbt5t5KB0dkde4zXv-jCR_YfHFHRDpVga410Ug8kcPNfz6yunCCf5CTUOcDbJ4fBEsZb4wEOHXuS7kKXph1ywNkc5EW4c0i67tUjqTH9qG-XkYKtsN9mskV5x7WUKUBzMS7oOJJ2LWB6DjL8eal3a1i3c2evzdD9IantD1akN3Lpz8cT4Vbae8d6a-9ghjIqk54hlltuBjPHBds4HM74AE0fa8dnk4aj2pR2YzS25trXYOOHJZ4Jx3dKLyOuQC8VQRRMCj6V3I0tRYKdtzrtlVqZxp522wJGghULmwrastT3XF7FK94nF3_qiFDYqxy7S6ERa5Ztdqc_Z3mnR6Cq5ynHhqfZqqZBxXO1IvcVXhhLvZ-j4599Io_Vt"
+      },
+      {
+        "title": "Intel Core i5-14600KF Desktop Processor",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTrVyMeYXiNx58dAbqxRzVTv2dL1IUOflDO5qOyD0J2ct-X4c3KMpj1V0zBK0LN0HqOJj4ly8Ql0yUHoUdv9Mqp34SR1ntpCSLOzfKDlOHx",
+        "price": "$248.44",
+        "extracted_price": 248.44,
+        "reviews": 490,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dhwbgXicbVTLrts2FCzyBV20n5CVcQGSelndydbjWrYp60FJ5kaQJfqplyXLkoV-zU0TIF0mBbrtbySLfkvlrsMFNzNnhkMMzr8__fzGTn87xGfxdWesl6LX7S6bdnOdiQr_uarLtE1up_SrLEsykngIeRmIAEGAxM9JfIuz8nBK_4IQjAgHoSxBEfBAlJHw5cjiNDsVzNrvWa2WyZOHEJwiDogQClBCAoTS9M9THh_Y__hXiZPRFHAAIHmEeVGWwYc6bb6hzTyajlxJEjk4HRlo9JDE3zeOpUY_xj5eW1Y_vi2y-Maa2yRp65oVt8mBFayOb6eymKSsudzKarKZT5KqnSRlXpXFk1OzjMUNSycIIOF5iZOCdR8P1fOJP7D6kJ_SL4Ik8iKSpvKYkOOnvCh8qO63t-Ph7ZC9tc3bMXtjxacyru775Pu7X7SyU-dNN7dJVfmqA1xgP5hKIPNpsTZM3-fMPCa96hWzuX2CcaxmmF3MWUoSwb8cB5rJBgkEF5_1hgJquxf4GujUWfuLgZ2Pvn3JSh_6y6RI19iFIPCPThwIrzsDr-wLtjyUcEGQARo6Ih5m9-RVR6ywuR1a9FjDwAv6jTv4hQ3wI-Z8tArNFYZysC58NRz0lhYZivVZ4xR0G_j2w0MEuGOoFFAvKWhN_GxOuazxNb9wsrQnYdo44eKRBtTAiO_di3l3itRyLlXnnI-lnZtLx9OGJNA6YsALCwTdKSrfDvUNRuWQqLgaOSHR_Cw965VFZIf6uPP8bO-iaosL_5QgDezCrMBnkxCPCuPf3TGXeWt0s7ZAz7cBNOOicl1NpinoBWJkHvHMLCGZjY1EwKH5IOdD5xJnZY_5E-3oE4I9UtDVqGvFPn5dBzrZwdktDhaujrTOz_3jDoGHA6oTOfvWiLVBJtO1rg_GyZw5r_hhBdQhwKkdPe3HDCrVYGZzeo-H49wKBJJCud0GjvNH39T7b0DRhZtr8XL5kp2rF0I24ck-PzRrto8Utg8otH8bO8gLIgcEKEP4KSnLy4l9f_drFLlsLDp7cT1n855TFZzTLuYiE609frfw3PNKNqvodYhcrqcWt1by3ZWfSm4ubRQ5XSYrd4B0FS8wOYf7pDC6YeFu53Qd7fjDcgNZFdxsDdSe5XD3u2hh-z03myja_OmVmr4W3xSzNnLj6CyJGbXNUW6d9b1DwX7TNSpulKXs9FjsV3M1uLirvWRIBmmeIqr_1OiC6pZptsGTq7bmU5f2ef94iJp8UF9w4QJ3vouiFyjYyvM85_BCHQcFjnuOy_Z8r-7ku4iN62qqsDw1X8pCO7jUvpTztDdYrXnO0AU4DvohmQYzU9wKEgWp1ES5OVvmJVo503M3LiO9vOPsUAZeXnm048fWTXu6sfs6dhmv49nrVuCHe8TaOHLcc2TFV2DRrbF_tSTU6vXFCazivmvKXCnc8ODzQTstuUGRTCSGSqjjDoOtS6i3tTUNVcb8vBp6rWtXxmEJ3BmycchfhVKwl-f8qmTJZmdL9_p0kee6KAyz1t0amW9VF7NPN26JW0876qIYHnKSz04qjbMVy5e04aEyrqH9P_8BCWHzuA"
+      },
+      {
+        "title": "CPU c I5-7600 3.50GHz Quad-Core 6MB SmartCache Up to 4.10GHz HD Graphics 630 I5 7600 DDR4-2400 DDR3L 1600 FCforLGA1151",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSMmOZfp447dnXZgCSCgzse9jQPYjRBwtRJS0TltDu0VgGqcJOM80w0bdrpxmu6TichpxN3tlXkiRY90XtGC80UXDNrYk49xaDisRTzTbWFVmZeCUBglDtjEQ",
+        "price": "$172.90",
+        "extracted_price": 172.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=E-BN-HicLZTLrqNGEIaTPEE2eYSsrCPRDc0lOzAXGxswd8zGArqNba7mYmOeJjqTGWmynImUbV5jZpFniS2lFr2p_6u_StXd__7w8zs5_-34AUmuqWZsWO-eFrtxd5VYkfncdg0es-GMvwoCJ0COAYARKJaCgILs5ywZkrLJz_gvQCNGEHiWhhDSAuBoCNgvJ5Lg8lwT63gkndxkLx0C1FMkQJ6DPKKEJ4b-PFdJTv7PQ0RTTxeOgxTPMQz7lH3ocP_7x-tIuse3dZkMpB8W2dh1pB4WOalJlwznpl5g0hdD0y52y0XWjousqdqmfmk6UpKkJ3gBKYheB7uoyf1j3j4NvwIAOcSzECDEUxyPGAg_VGf8BXEsw0KEXs0KAEGO_dDehvdT_p6X72P_firfSf2pSdrbMfv-4wely5bLWybZftsGskN5Cqr8B7hgP9CdMPDiKNACupg8xZndlVM5pRlmFUWRM5BwVWoBaIAzm7JdGoyxwqrhY5aEqmt4-pxozuwHzs4s9AuppW1cio9kNsH-Ems-FPbxqi2xjLcRLIDlT9AKHdOh-oepmbVdn9owOCVBZMxhMdmBEutpJZwjWkFOWa5xOKyTy-nsVWrhF4NmVuraK7DiU2B0LsqLec6jy6ZftrgUakNVZy_0UVjoa0cVbknYT4mKvVApqJTKqZgaVq7K04aiBuHqBK1IedizWXoFcBMFIVPTi1B2XLsUopS2UQzxKoYF48nxEAalnNKltPeHk--so70nhXGo3lJPX7mV7po-uvkaSiJQ3P3ISNaFqmT0GsWlSjl0QWdVjLIqcLGiz6FmMIkfrIIKa4Eqrb06-2Pqu-M3SlTR4FqM0LyVl_bN93fR2b48FEs6HkRyDGNg_wY4nnkunkJAAOBT1jTFmXz_6ZfDwSXPe0feXM_Z_UrLolnF94Q-6NDwmHTtuZetoLeH1Xxw6Sm2aEOs0ivDc27F7UQBb7KtO4N4m6xN_xIds1q7z2t3v4yNQ8rkmx0gbTjYCtV5lkPfbqxl2r_S0kJUli8vrAdKMoh6p1Xaydn4-mHsT8LoGLc7DI-7ey-bvbgRnMlkp-1SDgt3e-Q0TvP7VxE5eNW4h-1QKrbG-FfFYLAbT9X0eLCKkMtvZu1S7jI9HN4AssVXvDhzLT9BRNMvXLCXRzkVbqypXbe8SCqsvzW1kruxXTRLPGmkUzxnvodmEk5zxoeSzu4RF1OY6w-VLm2qBm4d_nJ_vnS1uZll3oRe1XrxnQlKzE_xzp66xCWMakqrPWLm24GMycFxLwcruVJWvNeOK4uDo9oVTmjVt7RvKrF2ozxgwpFv6FnkdMhGYqSad5Pau37s7W1Fga22vGznSbmPWy3fUK4EbTNirqhB9uZSXcUy26U2d-vOhbBUWTRLo7vXysBqC33CO7cxR085qSwb5ZVfSWc5TsotqTZxzwDx-Ssc__kPEfrA-w"
+      },
+      {
+        "title": "Intel Core i5-10600K Box",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTYwODF-2P8UR55TpWv8A8LDBjnXZH_ErofeQMnLDWM-CIFXz2ZW3VSMCgz3Qn0gYiCmgIEH_fCZXA6apZrNAB8aGGuXW23Spk4X1CHs8rE",
+        "price": "$149.00",
+        "extracted_price": 149.0,
+        "original_price": "$199",
+        "extracted_original_price": 199,
+        "reviews": 131,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-ocENnicbVTJrqNGFI36C7JIPiEr60lFMWcHZvDDBkwV8wYx2ZjZGBseyte8TkdKlp1I2eY3uhf5luCsuxa1Oeeec-_R1f33u-_f88vfyHHz-Jqo-p6xp6Q63o9XkRGo3_uhy-7peMn-5HmWhyxFEBQPGAAJAJnf03iM6-68ohAABpIsTxEcQfIEpCnyc5HHWX1pc_N0ygepS1caR4JVhoc8RzM8CwDHMX9cmvic_w__RVAkBWke8DTHcxzHUyygPg7Z7Qs8biOeoxiKY2nAkvTqxBGA_-WITCn6Nvbpes-Hty-vdTzmt3GT3ochb8fNOW_zIR4vXbvJ8ls1dv3muN2k_X2Tdk3ftU_OkNd5fMuzDQSQfn7Mps2nT-f-OcI3rD42l-wzzTIUA7nneBQBmRX82D_G9-L8fq7f77f3on7P29-6uH-c0q8ffpC7Sdrepq3l9L0rIYBdi7TaQsaV0ccAedYiXnOZ9xPIT6brUsFiLXFZzIakg2xXwIMdLkYjA2wHJFqyne1nSu4US9bwDCJFOaiNky33tt64klNqWtgQsl25fSwTp1AtpFCtSd2pA08epbRCYwAnYErGygNEZrtyWhZ-thMNyyEquypqQ1JK1PB-AHtn7Zk2JGRZVd2FZHbVfbF2JeVh73roSgIdNxpMVG7BpCi6ZABib5xQVZC4SUcdzijw0WATFbT9frDKgIrJdE4XZOESKRZIl9DLDmFD7yyHeks8HvlgDDFZUKmnzSnBzamr055bvKZLOubVLBtusBw85AdAqXwozz4obM9VVLdC1xjUoi4Vt9Bbc3gjGOTwMy5dS8dE6e561bORiHYojonQddo-MNpuQaS7T-RiMj1ixKXRhkSP9TVnC2hD3tBhCF03sS2sQHlyG7dIIHhDoL84pWsmhHj3aj7UFWVRL9qqbbyZXogwWZG2X-xcX2kSRdnqi05lcjjG0DDythsTELa_zrfh9AUICj1ik-K7l7rsXxzn6F-s8k02xVMk5CcvJKyfCZajaIYENMETxG9p11WX_OuHH6MI5-ui5y_YRsefSEkwmnCKyUiDuk0lrzYuD7zWR7slwuQcmqQuNMl1XWbcsEeBz_bpAS9EeIhfDaf0T2mrTssrDrahHiXUeX8k8t4bLRkMtonIx4MxDesnUtwI8vbplWmuHI-CNqiNWqC9o0X3W8Hfkf6YoHc6TjfJuAl7Hs0GMx-2klfhw4lVWdW5PUUk96kxef1Yy5ZKOVd5zQeHczO_vTEyf5ZejBYDvE2i6IWgLeH5nnXGq7QW0iT5LOet7UlK-AdjqNcDJ-RNpr10rXzGoVV122xW80G20TJ5RuzNS8p5osYENBuCjL1FjSbumw4eEFdO6zVSuodRnzvPbno7nCi3zrg5PFrzEOOcUgxxF9DU8ojyexwhXEZmfAVmGKinncnCuzJUyDPbR3LrGqHF_tmlvDvXkYvAapDxBV8xJgME2AntwJJl2Kvb8rDM8nQ_qOc9wCK0DJ-60h1t7cvmKtTpMbHYx3Cp-K3C0It4x4Fau2ZfaXN2xJ1xt-VCYRj_3DiNeJHCuD7kzT68UYSwnqHTP_8B0Oby7Q"
+      },
+      {
+        "title": "Intel Core i5 12th Gen Processor",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRxW1bHwmQr5LdjSFnuCobG2xQ7g2X9nJkQtPRTOICDI4puT1_8Be9tCQ4HNnAEHMfGNxN8vECV0pGTXDbiV_gwXcVj598dh2JKv4e8pQ4iJifEsukBT3Np",
+        "price": "$130.00",
+        "extracted_price": 130.0,
+        "reviews": 3,
+        "rating": 4.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kwoXzHicdVTLrqNGEI3mC7JIPmFW1kg0T5MdmIeNTWPehg3i0cYY2mAehovyNXcyI02WM5GyzW_MLPItwZNllFp0L06dc6pKpfr7hx9fUfGn5XoovieqvmedMSmPw_EusgL9qWnrbEj7IvvC8xxPcjQANE-wBAkIkv2Uxn1c1fmCUoBgKEAyHM8QAHAsYNjPFxRnVXFDxvmMWqlOi-yPhbwGBMVTFMECgl4k1-zvBY5z9B3_wrE8YBme4JbgCZ5lKf59m3Vf6eMmAvSaBBxHUcvP0QzHkez616NlSNH_gB_uA2pfvu6quEddv0qHtkW3fpWjG2rjvqhvqwx1ZV83q-NmlTbDKq1xU9-eOS2qUNyhbEUSJPN82NUNjR_y5t8m_uv1HhfZZ4ZjaZZkWIoGLMUwFM29bx796yV_zavXoXu9VK_o9rGOm8c5_fbmJ7kepU03bky3aTzJIhw1FKEbUsjbMemtGhyFJwz5Qh5OUERVtrUx72VKPfsycAw5xMipDqFbk7bazZYSOpmq1XrpMr7cm8EcSkkFqcAGcYrNPsO9nuKwjUFW2QRBpjKvJ9iyYn836SqzSYDCZg6kwtk7ZUD0HT-jEqBJ6S2k07k6LtqD7TVLjXDSlUZMfK-ytx6ZuvwDnURWd-A-veYkqqqNTUyPlJzEwMl793QZfc8DOm7o1Al6wwvVmFCmWPUeMaFRhlSOCW4Yl3Qpp-LPup_J_tW7Lt34qQ8gxH3nlvyQ4ss1KU0qmDXfU8KLLimxC5o6dTINleXoAqiHJyhnnochns6mY7GOzJRpuX7x3JAwtlB1r8oyN0WKfSUMfHg2_NCBxOXozNpJfwG-WymnUKrMENPkkldliugEzkWx5HwKXKgjVZmXmnfmSQlM15IDMrcVUh497F0SknixiKZwr56RAHHwKz7UFWVWC020tvDlu5cLikW_0CuIkcJvU6BZDs4s6IPWUqxttrWs36auPX8lBIXpbYOezb2wtvf8Vn9I81REEzCr-jD0hpv_Arg1vawawQAekB_Tui4L9O3Nz1Fko2XT0TvbsY5vKUmAOBxjKtJI3aGTnWNfD7zWRNs5sqkpNChdwMmdXnM25o4Cn-3Tgz2D8BDvoHs9ndObOs47O9iEepTQ-f4IUOP3pky0jmFRjwdrQPMtJa4EefP0yjRPjntBa1WsXqy9q0VDd-EHS3-MpH8-jp0EO2HPWxNkp8NG8kv7cOZUTnW7p4jkPTVGv-kr2VRp9y7rdGaHE55eXliZz6V38GYT9iaJoneAMYVnPHlwJy1EhqKedN7cnKWEf7BQvR_WAsKZ9q6-ybkdmmW9ySYVtbJjzaMPY3-a07UvamzAcCGRcV2ENXGPa_Jgra_jco-U-gGrvPYd3DjhSHtVtp7Cozm1sY1oBYrbgKHnR4SGOLLsa2TEd8IIA_W8NThyUNrS8o3bI-lqLNzsU-7R_rCuqVngNJI9CScFjpAIbDd0AlOWyUbdXA_zJI_DQc33hC2SJjzRd6ZmzP0V34UqPSYm92iLkt8oLDOLgx2olWc0pTZlR7uGgyNfFJY95djFYiGFcXVAeB92NBCWM3T-6x-fmvOl"
+      },
+      {
+        "title": "Intel Core i5-14600KF Desktop Processor",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQQJ9ijqWKL2tAlM837Y-yH4Fv218kJ7g3s74KEuPUeLw5A8YoBw5qnOcro4oinap6lEiWkmFZ9iC-egZQYzSF8t1N-njAUGBmv2W-1Oob6xUn7PwM475_GNg",
+        "price": "$257.80",
+        "extracted_price": 257.8,
+        "reviews": 494,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yswTzHicbVTLrqNGEI3mC7JIPiEra6Ru3mTH2xcbMDQ0NhsLaGwwT_MwXCtfcycz0mQ5iZRtfmNmkW-JrWynFrWoqnOqdKpU__7w41tW_O0FOIuviWFtOH9Oyt20u8qcxHzu-pZM6ViQP0WRFymegZARAQcoCCjucxqPcdWeC_IXZEWRZWhAAyjytMDQNMN8ybOYVEWTOadT1qtt-mDhRVaEQAACBxkKMuwD90dRx-fs_zQtgkfwwcVQvEAzvEhzH3oyfKV2ypGCUBAYKECeowBHixRD_7bzHPX4_dzH65T1r19fqnjMhnGVTn2fNePqnDVZH49F26xINpRj2612yirtplXa1l3bPGv6rMriISMrClDs03GrJps_nrvniN9p9aEuyBeW5xiOEkThoQ0PeZ7nPnS38S0_v52rt2l4y6u3rPnUxt3tlH5795PWzqoyzIobdB1WPYBwF9nGkh_oCge6NB8aPfAqTMUhlPdUpz0WFKICAk_1GGvf0cFFLlNoUrYRWVFZuUmJK29t-4nWvVjwDFDNbjzKjPCdHDBle1bJLASKvRWYMAEa8Pcd5_o5E1aVHWDcHgJ9iEPbcYJxcoGYe7rJeHdPjzCO_QafUDBGEW13BFY370IubkP0hLZLVGog1PQ8oruAAKw4Bg6Jb4IEmCUu89kCopJdyC1qpDFdyyDF-BCDTnbWdhvhLozrpfD2GJHQQ7hedjjQIGnse6B3ql9WBvH1TarLG29fMnFFioMf5QS0Y1oTI6qiMKZEBRvQdkE3uBUpfa2aQr8CoeEpadV5EYIyMeYZV-bWwXbrBawR1R146AmQLrv-2n0NdU8N6rzHdOftKWEM9zIMC6gkgIyWFlAu1HML4g5VJHD38hLWD_38FOmUNuMa5wkFXj3QFcEFOwmUp7ASI0vX70Zhyo-dvDph5GEq2gQhmUiVz0iXRuKXIy6Xmvj5-rCPXl26an5fhv70FUg6OyKHubsbSUAbcW3d1PtSHBfoVu12Gp3g_CvkBYblaMBCEVKf0rYti-zbu5-PR5Q9Dj17j3xv9wutSnYdzTF9NCnLZ5IXH122otkd1_cjopfIoS2pTq6MwKOa30ki2aRbdIfRNn6xg8v-lDbGfH9BByWyjglz3uxg1oWjq4Hedzz6duMc2_2FlleSpjx7ERNr8SiZvVEbubcJzOM05OLkWbeZCk-7eVDtQdqI3mJzy1ZRwxJtT7zBG8HwJFHxk2MOu7HSXIMJrprFEBQt9fL6ymniWX1vNwggJTke30PWlZ72xNkv6gPI0vQTLrrKSU3EG2cb160gZTUx37eNdkaRW7YKWYys13zvPod2HC73VAhlkzuwfAQIPxxrU97ULbX1hMv8eEZ6e7Orcxv6dedHM4MrIizRzl36GGWMbsvrA8vcb8dsio8euhyd-Aqc6GCc1g5PTXpfeqHT3JKhraUG7c-YCSehpe8Sb1LcXtrr9myDAwoi_-BqGtUZymV7X7R52hrnDUAy5dp75sq2rLu51FepSneJy9_6ohQVnWPv8oQORoWdrjQXskOtPflarnPc_lwHtVyoUVxts3oTDQyUHm_o9M9_5JPzMA"
+      },
+      {
+        "title": "Intel Core i5-7600T 2.8 GHz 6 MB Smart Cache",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSada_a3znzVuTar2RVoSzpVTrDmWCn50hDexs9Js-qN1M1utQh5qVfxuHe0kbh9tr0PWqloCcwMnNnL36K-8lQBRV-naOS2fUlZZE1KGJjilOZXRc4dPJTGQ",
+        "price": "$53.55",
+        "extracted_price": 53.55,
+        "original_price": "$60",
+        "extracted_original_price": 60,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CCQ3AnicJVRJruM2EE1ygmxyhF4ZH-AgashOsmTZsiVbogZLG0OTJ43W_H2a4P90A51ld4Bsc43uRc4SO-GiQNTjq3oPRfKfH35-Sy9_WY6bhrdI1desPUbZrt_dJFZkPtdNlfRxd0m-CgInII6BkBEACxAEiP0ch12YV6cHihiBFxBBAs9hDAEWGO7LOQ2T_FKm2-MxbeQqviR_Qo5gRFiIMeF4hCGPEfPHpQhP6X_4V44gJBCegUQQMHjsWO69SdrfPt76tHn9tsrDLm27Wdw3TVp2s1Napk3YXapylqRt1lX1bDefxXU_i6uirsrnmSbN07BNkxkCiDwDOyvT8eOp_l8PyzIQQA6AhymAEc8L78Ul-UI4lmERDwSOgwBwBJL3eujezqe3U_7Wt2_n_C0tP1VhPRzj7z--K008nw-xZDp17coWoFl-8YrcT9ygtwpLjjMHGdBH1FngWJlay6upUSRspHTnENZVgkakK7lCHcEKFeeeoECJkZDrKmGtzNjHXjAm7llL1GxKXSunubVxcZDpKtT80rgFjnvdqqsu8NwmQEJvAVK5joXDzAWxJ-xpblxcNyA6IFKCtDCB1s1EydWRLS3KziDKg7lbnvPYzYF5PRdOLlkWzu8JdFfR0vL8fU0M1-3Mfd7ZWXuPFUE2sU7Sq3u2lmcpzBeSLUvuQysIkLa1nPM6UGvwcK3rmXBx8NPF4pGbWLuUWF0hToyIkyAe06W2CQvzNS6MMlaVVxsnvm2t9r4teYG3GCJbW9JCo4ZDBkcl4R5mo7PXw1W2UGK8IkGuZXap7fS9EVqlRGwHehGsfeq5Y-TBzIdJZ0Hl96ltjt-AuCAd3TJ3cy3ydC0s9UG-T5fDBM282vTd1jn9CjmeISwGBAoQfYqrKruk33_65XCg6ePipS_UtnYfsCwaRTCG-KAh3WailU2vG0GrD8v7geIp2GJdLKIbw3O04HaikKzjDb3DYBOuDOe6P8alOt5X1J8H-iFiTusdTGuvMxXQ2FsLDwO7NcwPWJqJyvzZK9FcJexErVEL9WytHe3Qt-fHnPVhRN5xN7ay0YprwZoMdtrMZS-jmyOncqrTPovI7rPG6NVdrpgq49wUnUloMBXT6yurCCf5xSgpoPPocHiBxBSf68kzVvKDSDB-0gVzfpQjYWAN9bbhxbRItJeqVE40MLNqnkxq2ii2dR89I_Sme8x7ksb6hAtAwrWHQpPWRYU2Fn8dHy99UQ1Gfqo8u6jtYGTcPOGnYGdOTUhTZmFIS58w9-GQ9uHBotfDNryBbeCrx-WWQ_2iySxvWw5RWxViSfcnl_F6vsJ3kdMQuxf3C2M0gE-dwPZNRUG1Or9u7pMy9hv1tAZUQqaxZ26kIub6WtzEPN5FJjc0l0yYL1hyl3rqq7m7rTNtSna0MnpbOS9Ydn8qnEK6yEGYb9JiHbQMFB-_wvHvfwE0XcBC"
+      }
+    ]
+  }
+}

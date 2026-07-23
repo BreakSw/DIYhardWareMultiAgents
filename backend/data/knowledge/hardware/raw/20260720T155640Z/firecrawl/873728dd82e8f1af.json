@@ -1,0 +1,8 @@
+{
+  "provider": "firecrawl",
+  "status": "failed",
+  "data": {},
+  "error": "HTTPStatusError",
+  "status_code": 401,
+  "latency_ms": 3547
+}

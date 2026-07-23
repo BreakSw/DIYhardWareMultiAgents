@@ -1,0 +1,734 @@
+{
+  "search_metadata": {
+    "id": "6a5f7bc1e827070fcbd87a28",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/DkqGXyYmaZdHCrdkXyFwDA/6a5f7bc1e827070fcbd87a28.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/DkqGXyYmaZdHCrdkXyFwDA/6a5f7bc1e827070fcbd87a28.json_with_pixel_position",
+    "created_at": "2026-07-21 14:01:37 UTC",
+    "processed_at": "2026-07-21 14:01:37 UTC",
+    "google_url": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&oq=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/DkqGXyYmaZdHCrdkXyFwDA/6a5f7bc1e827070fcbd87a28.html",
+    "total_time_taken": 1.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "NZXT H6 Flow RGB Compact Dual-Chamber Mid-Tower Airflow Case case drive_bays max_cooler_height_mm max_gpu_length_mm psu_form_factor supported_motherboard_form_factors supported_radiators",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "NZXT H6 Flow RGB Compact Dual-Chamber Mid-Tower Airflow Case case drive_bays max_cooler_height_mm max_gpu_length_mm psu_form_factor supported_motherboard_form_factors supported_radiators",
+    "total_results": 486,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "This PC Case is Amazing! NZXT H6 Flow Review",
+      "link": "https://www.youtube.com/watch?v=H9Dcz0k2xiY",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/CWxkCWVonUUVPNezh7-_f5DwSA7L-HK9bIPgypDiIi4.jpeg",
+      "channel": "ECPU",
+      "duration": "8:08",
+      "platform": "YouTube",
+      "date": "May 9, 2024",
+      "snippet": "The NZXT H6 Flow is a compact dual-chamber mid-tower case with an unusual shape that offers good performance and build quality for the price."
+    },
+    {
+      "position": 2,
+      "title": "NZXT's New $200 Case Is Actually Worth It - NZXT H6 RGB+ ...",
+      "link": "https://www.youtube.com/watch?v=V_3BmJ7K6Dw",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/tGNtv5QTz3l122d53pMmANAWRuNwYTibUvGnmDCumq0.jpeg",
+      "channel": "ImWateringPSUs",
+      "duration": "6:35",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "The NZXT H6 Flow Plus RGB case is $99, or $200 with 7 premium RGB fans. It supports ATX motherboards & up to 10 120mm fans.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTTJrVn2Kpu1hM6wPTPoBLLqm2HUktN5oiQ8w"
+    },
+    {
+      "position": 3,
+      "title": "The New H6: NZXT's Best PC Case Yet? | RTX 5080 Gaming ...",
+      "link": "https://www.youtube.com/watch?v=qWb5ImFFeJk",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/MEmbUq7sNQSnCCBGVJU5hy22ABKqDqO-gGPQe2Z0LcA.jpeg",
+      "channel": "Mr Matt Lee",
+      "duration": "15:56",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "The new H6 is a solid mid-tower option for an aesthetic-driven theme without compromising airflow, supporting up to 10 120mm fans.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQPOZH-0J9wuO4kq_oxXcmTDekh1EkgMtabDA"
+    },
+    {
+      "position": 4,
+      "title": "NZXT H6 Flow RGB - An EPIC move by NZXT!",
+      "link": "https://www.youtube.com/watch?v=mEmrbKOBoU4",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/Pb5KHp_WMX89ysetrd0mQxwjl3zHCphagQDw7DNa5r0.jpeg",
+      "channel": "LevelUP Gaming & Tech",
+      "duration": "12:55",
+      "platform": "YouTube",
+      "date": "Dec 10, 2023"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR29KZy1cLR6P1GpmCY379dhxbinncMXCxMhGdg0ymSyHlvvineSyLBUKziPkPJcropWxYFou_DFnbMaMe2H9qAfUAYeccXf5_7ga-KSbTl",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "NZXT H6 Flow RGB Compact Dual-Chamber Mid-Tower Airflow Case",
+      "rating": 4.7,
+      "reviews": 383,
+      "price": "$109.99",
+      "extracted_price": 109.99,
+      "original_price": "$135",
+      "extracted_original_price": 135,
+      "location": "Nearby, 9 mi",
+      "delivery": "Free delivery by Sat",
+      "extensions": [
+        "18% OFF"
+      ],
+      "immersive_product_page_token": "p3gixnicdZPLjqNGFIalPEPewmqJ4k52jXHZTRsYoChsNqigMEVTXJqL3bbmHfIO7plIk-UkUqSs8hqdp4l7lMUsks3R0f__0tH5js7P16L649ROBzIuE-g-psO8-tDncyjen770Q0fnfKrob4oqiKquiroCVBXIuqzoX3IyEd6VFf0qGYoqCZoi66IhCJqsCF9ZQSiv2sI7HIrB6vKK_g5kQRNlQZd0TZN1TdZ0Uf61akhZ_OursmjIkizKQACirIiCKr0OdHyTPyxTIImCLuiGoGhAlQygaZr08UPgWen_mJ-f52I4v_3pJju02KgLyLvTIlibi2XX9CSfFtZM-N2SkSYrhoVT0TvUnW7dfTUc3qNLMhaL_L3QoToWaUbO46IhL2nedbwYUlZUJZvSpvkmlv2c8qItJ_au9OOcHrqhSQ-3Qd2wGOe-74apoGnTTawYso4M9PvE-F1kILQi79rnsv-G5T-We21u1BVNlW8X0TUJyAowFEN_7Y_TlZWf5pkXf11Lfp3HK-PXov2lI_3xkP_9w4-r7mQtx9PSj_oeW4EQ1nwfttQKYucUrpM2bzkjEB9zEQpepCAHmJYXu4-hhZ-KNmB-a58yEXZ0R6swsi8-sGtf5Ha2g4901YHsEij-BQ5-xM9UhBuKoRXUyVhw2wx40mUX9uw-BXOIgkPGGY-a8UyF05kgbu4kU_IFuKJxD3HMH2JsbxE06wwHDz4KIAJsiDfsSER7HwFHcHEy-BgSv3FxvmFjAM2Ns2NegPAR1UZLLOyHHCqkMUhh2WGyoyCDq8mPXzCKmI9i5mxjt41ae5vEfRciZnuwPGdNLsTrlYTOYONc7qUQ0QBBWKE4OPogqbx4gqR52foRPufYhdsIbvHafQ6eYOhEbnRj0Dsre-nH_RxFytGDsCushwsRWZNL-EAsvnKEEuxjiJEViTE3Jsz55F5yeR_Blj6Z6hbbk2e5LznCsQOYhSKDO9xsi3oMoURnuk5YLrgkqJXtTrJBgM3TXsLIqaG0rm6sN-7Zi5Mwjnu8j5U1xjCIaqMOG18Kpf4RrXoV1cpl30Dz08s4HN6Ee6hMoafUy8YLzDtaPtPZPnfKbBTjyoqq7tH_CWi6fPtS2bi9r_APbUpxEQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=p3gixnicdZPLjqNGFIalPEPewmqJ4k52jXHZTRsYoChsNqigMEVTXJqL3bbmHfIO7plIk-UkUqSs8hqdp4l7lMUsks3R0f__0tH5js7P16L649ROBzIuE-g-psO8-tDncyjen770Q0fnfKrob4oqiKquiroCVBXIuqzoX3IyEd6VFf0qGYoqCZoi66IhCJqsCF9ZQSiv2sI7HIrB6vKK_g5kQRNlQZd0TZN1TdZ0Uf61akhZ_OursmjIkizKQACirIiCKr0OdHyTPyxTIImCLuiGoGhAlQygaZr08UPgWen_mJ-f52I4v_3pJju02KgLyLvTIlibi2XX9CSfFtZM-N2SkSYrhoVT0TvUnW7dfTUc3qNLMhaL_L3QoToWaUbO46IhL2nedbwYUlZUJZvSpvkmlv2c8qItJ_au9OOcHrqhSQ-3Qd2wGOe-74apoGnTTawYso4M9PvE-F1kILQi79rnsv-G5T-We21u1BVNlW8X0TUJyAowFEN_7Y_TlZWf5pkXf11Lfp3HK-PXov2lI_3xkP_9w4-r7mQtx9PSj_oeW4EQ1nwfttQKYucUrpM2bzkjEB9zEQpepCAHmJYXu4-hhZ-KNmB-a58yEXZ0R6swsi8-sGtf5Ha2g4901YHsEij-BQ5-xM9UhBuKoRXUyVhw2wx40mUX9uw-BXOIgkPGGY-a8UyF05kgbu4kU_IFuKJxD3HMH2JsbxE06wwHDz4KIAJsiDfsSER7HwFHcHEy-BgSv3FxvmFjAM2Ns2NegPAR1UZLLOyHHCqkMUhh2WGyoyCDq8mPXzCKmI9i5mxjt41ae5vEfRciZnuwPGdNLsTrlYTOYONc7qUQ0QBBWKE4OPogqbx4gqR52foRPufYhdsIbvHafQ6eYOhEbnRj0Dsre-nH_RxFytGDsCushwsRWZNL-EAsvnKEEuxjiJEViTE3Jsz55F5yeR_Blj6Z6hbbk2e5LznCsQOYhSKDO9xsi3oMoURnuk5YLrgkqJXtTrJBgM3TXsLIqaG0rm6sN-7Zi5Mwjnu8j5U1xjCIaqMOG18Kpf4RrXoV1cpl30Dz08s4HN6Ee6hMoafUy8YLzDtaPtPZPnfKbBTjyoqq7tH_CWi6fPtS2bi9r_APbUpxEQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQLDlCmDyLCsBGX6zjL_K8ywn8-v1FOvcJITPRtwaJsdo9RknaF5PbQs7K5ngxztUQ9tiEOjNeHKRcBOqbwTqKn-3g5wlnwi8WLgwhKo1AX",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "NZXT H6 Flow Compact Dual-Chamber Mid-Tower Case",
+      "rating": 4.8,
+      "reviews": 436,
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "original_price": "$110",
+      "extracted_original_price": 110,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "27% OFF"
+      ],
+      "immersive_product_page_token": "t2V-KXicbZBLjuM2EIaBnCG3MAYgRT2z86MptbsttymKsrURKFEyZUsWR49W25g75A7umQCT5WQRIKtco3OauJPNAMmmUPj-D1Wo-vmal7-Pp77g3TzG_kPSDndPKhsCbTp-VW0jhqwvxW8IAF2H0II2gki3HRPZXzPe86rZ31IdOcgykWUbJrAc6FiG803mXFTlKV8XRd4umuymQdO6aaZhA2C_D9NN-GtZ833-b2xqjqMBDSGoAeu2z9Kd11Z0b-BpnljQufmGbiAL6Ial2-anJ7JeJP8bffk45O357Q8_3tKJZ05w1YwT4s4m86ZWPOsni4FXH-aS12neTlal-ECb8dZNy7Z4V-e8yyfZexFt-ZwnKT93k5q_JFnTVHmbyLzcyz6p63_gXg1JlZ_2vXwnqhuSomnrpLgtatpJNyjVtH0ukrrpZd6mDW_F90b3ndJyUfJ39mWvbh_59t_TXusbNixTNzXbsU1oa5oJdfSqnvur3H8ehir_87qvrkN3ldU1P_3ScPVcZH_98ONdMy7m3TjfhEqxBQHUO2oCqnsGqzir-wd6wSCAAgWnqttRFhGIK8LUKYhGyEP9HFJSB2h54G41jyKsx970EqD4zLY-CzS828Iq5BfskojJFG3Q2m10SmeQRrq-CbuRYnze1UzFSN2toGQcVx7X-q3AmzM5sMcVw8fH0D9sto0mDoTlB-mxg_QZ2J2zy1LuGB4I8l-iIwzSSnJ_IT_GWx8HR3HgYV_vwL2RerJIKxbER9XmNF6SyjE5IjqtjQNjZE1qA4WYxDx8oQEglGuiJ0huBM50sZDruO56Uk3HzCOrKHRoyu6BQMwISvgQHPE8AGJLWVzwLVlnCO8EFYwj1fioqhma7bI7LPlRMuouVexiHGtwyTXJV5fZk-_NSEBJxS4bkLovdR6uADvJWkCmQux4MfTnGSQgdJ1nHsINZ06UensQXphH4QaEp2OAkRiEG8sM-JwcjcctWkLCZuMOMbo6YuSWyxnx_PM6imnoKn8FDHMLfEU0Vm4uYkfgnREvsn518I209snnl64t3sAUG32wNkkemrjpKciXxfPCWI9kakZguZdy_xO0bN3UNd2xLR3-DWfTa3s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=t2V-KXicbZBLjuM2EIaBnCG3MAYgRT2z86MptbsttymKsrURKFEyZUsWR49W25g75A7umQCT5WQRIKtco3OauJPNAMmmUPj-D1Wo-vmal7-Pp77g3TzG_kPSDndPKhsCbTp-VW0jhqwvxW8IAF2H0II2gki3HRPZXzPe86rZ31IdOcgykWUbJrAc6FiG803mXFTlKV8XRd4umuymQdO6aaZhA2C_D9NN-GtZ833-b2xqjqMBDSGoAeu2z9Kd11Z0b-BpnljQufmGbiAL6Ial2-anJ7JeJP8bffk45O357Q8_3tKJZ05w1YwT4s4m86ZWPOsni4FXH-aS12neTlal-ECb8dZNy7Z4V-e8yyfZexFt-ZwnKT93k5q_JFnTVHmbyLzcyz6p63_gXg1JlZ_2vXwnqhuSomnrpLgtatpJNyjVtH0ukrrpZd6mDW_F90b3ndJyUfJ39mWvbh_59t_TXusbNixTNzXbsU1oa5oJdfSqnvur3H8ehir_87qvrkN3ldU1P_3ScPVcZH_98ONdMy7m3TjfhEqxBQHUO2oCqnsGqzir-wd6wSCAAgWnqttRFhGIK8LUKYhGyEP9HFJSB2h54G41jyKsx970EqD4zLY-CzS828Iq5BfskojJFG3Q2m10SmeQRrq-CbuRYnze1UzFSN2toGQcVx7X-q3AmzM5sMcVw8fH0D9sto0mDoTlB-mxg_QZ2J2zy1LuGB4I8l-iIwzSSnJ_IT_GWx8HR3HgYV_vwL2RerJIKxbER9XmNF6SyjE5IjqtjQNjZE1qA4WYxDx8oQEglGuiJ0huBM50sZDruO56Uk3HzCOrKHRoyu6BQMwISvgQHPE8AGJLWVzwLVlnCO8EFYwj1fioqhma7bI7LPlRMuouVexiHGtwyTXJV5fZk-_NSEBJxS4bkLovdR6uADvJWkCmQux4MfTnGSQgdJ1nHsINZ06UensQXphH4QaEp2OAkRiEG8sM-JwcjcctWkLCZuMOMbo6YuSWyxnx_PM6imnoKn8FDHMLfEU0Vm4uYkfgnREvsn518I209snnl64t3sAUG32wNkkemrjpKciXxfPCWI9kakZguZdy_xO0bN3UNd2xLR3-DWfTa3s"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQOwK-_QhQJyDqm0v6YTFBZXzfD2WBpMLbGckxQSjcRtFoE8FWJoE8Xw4rcrscENLVJawDmKT2Swsp6poOPFkYylOtLugfGhcRuwQSqDxbvqCEYJeAEjwPsYw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEQW_yRieGx0wa0b5H93w1faX-2fG1r3UvQ3Z59pbjI-T7x32FC15AgIgWHOUbE5L7UNa6aTKwkek6ycGOJSAel9h8",
+      "source": "eBay",
+      "title": "NZXT H6 Flow ATX Case",
+      "rating": 4.8,
+      "reviews": 136,
+      "price": "$129.25",
+      "extracted_price": 129.25,
+      "immersive_product_page_token": "_MQy5HicbZLNjqM4FIWleYZ5i6glY_MTZlckJFVUQQoHbMImcjAJJDZQ_BQJ6neYd0h1j9Sz7B5ppFnNa9Q8zZBe9aI31vW5x-fqfvLv1zT_uy_aPWtm8cJ73Nad_Vwl3Rre9V-quuRd0ub8L8WABgSmbt4KFU1V0zS-JKxlojzk_JuhQw2ZOkSGqmjQ0Kea-TVLGRd5ka72-7Sel8ktRUGmAkxkmJphmGhMg-DPXLJD-r3_TTHHh4qmmhqEYKrp47C3mjfv8Hm2Ha_mFKKppumqMdU1QwMfn_Fqvv157_NLl9aX93-8OAom9_pkIcp-gpfWZFbKiiXtZN4x8WGWMblL64mb8w9B2Y_VXV7vb9YZa9JJcjt4nb-m2x27NBPJztukLEVab7M0P2TtVsrv4qHqtiItDm12U6qm2-7LWm7346CynjRdVZV1m_KtLNssrXclq_mPjuYHS814zm7a50N1Y_KT3d5kzr9qhq6O1HWEADKRamjGW_XaXrPDp64T6b_Xg7h2zTUT17T4o2TV6z7575df7bKfz5p-5odVReYYrI_iZUe1I414wI5Wv4OOnRTx42pukUCY1SrUXggqkQ8XDzRy1iHCORHugEPnPrRLsA68p3CJ5-Ro6T5oLXwiNl_2gC5Dlc5xn0bekVHzhVAXBGEbb0hGiTSjDSLFRpjIHzYXJn3NFeEFS0UPqehDRbiJyB5Tcafg8FyxyBoiGLeebWvhybmnhVVxCvonWrUk8FAc3CnrI_HDKIYBxRkW2UsC4pk_ZHItKweDysZ22PtHxw8uCiBUa2h4goQQEChVsQbnp01BskBMlQ3kwW7ZrhIibLIIlZHBk3eyYRrxbMxZceLJcY_eBe05gGd_Z8cgsQlMiOOkgavi08OFKYvlbnAGBlzk2R5KT1zxBe8DanpUVjWXThPBBvlSzGhkNZujh12pPFBKwMj9OHqGUBzQRsRzV-KBQaUhVJw3p-yRD-F6gXjHl3GWAI_hk_YUIUfBxOpHpoF7WqBl7lj43rusaIyxJJgXPqLzhcrHfx8XQnj2YnAjfFkvMhkKjD6dm3r_Du4WWrteac_HZ48p1hwR44hCI88KeL7X7YMyHH5TjKmqq1A1p4YK_wdN_G8y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_MQy5HicbZLNjqM4FIWleYZ5i6glY_MTZlckJFVUQQoHbMImcjAJJDZQ_BQJ6neYd0h1j9Sz7B5ppFnNa9Q8zZBe9aI31vW5x-fqfvLv1zT_uy_aPWtm8cJ73Nad_Vwl3Rre9V-quuRd0ub8L8WABgSmbt4KFU1V0zS-JKxlojzk_JuhQw2ZOkSGqmjQ0Kea-TVLGRd5ka72-7Sel8ktRUGmAkxkmJphmGhMg-DPXLJD-r3_TTHHh4qmmhqEYKrp47C3mjfv8Hm2Ha_mFKKppumqMdU1QwMfn_Fqvv157_NLl9aX93-8OAom9_pkIcp-gpfWZFbKiiXtZN4x8WGWMblL64mb8w9B2Y_VXV7vb9YZa9JJcjt4nb-m2x27NBPJztukLEVab7M0P2TtVsrv4qHqtiItDm12U6qm2-7LWm7346CynjRdVZV1m_KtLNssrXclq_mPjuYHS814zm7a50N1Y_KT3d5kzr9qhq6O1HWEADKRamjGW_XaXrPDp64T6b_Xg7h2zTUT17T4o2TV6z7575df7bKfz5p-5odVReYYrI_iZUe1I414wI5Wv4OOnRTx42pukUCY1SrUXggqkQ8XDzRy1iHCORHugEPnPrRLsA68p3CJ5-Ro6T5oLXwiNl_2gC5Dlc5xn0bekVHzhVAXBGEbb0hGiTSjDSLFRpjIHzYXJn3NFeEFS0UPqehDRbiJyB5Tcafg8FyxyBoiGLeebWvhybmnhVVxCvonWrUk8FAc3CnrI_HDKIYBxRkW2UsC4pk_ZHItKweDysZ22PtHxw8uCiBUa2h4goQQEChVsQbnp01BskBMlQ3kwW7ZrhIibLIIlZHBk3eyYRrxbMxZceLJcY_eBe05gGd_Z8cgsQlMiOOkgavi08OFKYvlbnAGBlzk2R5KT1zxBe8DanpUVjWXThPBBvlSzGhkNZujh12pPFBKwMj9OHqGUBzQRsRzV-KBQaUhVJw3p-yRD-F6gXjHl3GWAI_hk_YUIUfBxOpHpoF7WqBl7lj43rusaIyxJJgXPqLzhcrHfx8XQnj2YnAjfFkvMhkKjD6dm3r_Du4WWrteac_HZ48p1hwR44hCI88KeL7X7YMyHH5TjKmqq1A1p4YK_wdN_G8y"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTLH4TE2BSRyBtJ98dmWwYG_RDYanG4aBkiZiM2h8rp5kqdKdrJ1szVu4_CpemGH9LP11VZIioMpR1-d-Se-suxXMAT7Wh_Og3OONi-Cpd-rBg3OEOf8uaE",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "NZXT H6 Compact Dual-Chamber ATX PC Case",
+      "price": "$111.49",
+      "extracted_price": 111.49,
+      "immersive_product_page_token": "eWKNUHicTVPdztpGEFWfB0Xa9fqP3n1gFnBlg8Feg2_Qsuu_j7W9WdtgeIm8QsSXVEovk0qVetXXSJ-mEPUiczEanXNmRjOa-XBPy78udZfRdppg_7eD6mdryfqt9nL5IlXDe9aV_E-o6balIYQAQDoEtmkh8wujHRVNXvJvGhgbAABjbCEbGQaCSP9apJSLsk5XWZYqp2HPKlA3oKlrj3zbRgiaCGl_lBXN0_95ZOkm1Me2bY6h9bCxNX5TvP34-X2fquv3v_1kF44W5giL5jLazCejaVNJyrqR01PxblrQ6piqkVfyd2FzeUQvpcqe0ilt0xF7Oq7Kc3o40ms7quhwYE0jUnUo0jIvukNV_QBz2R9EWudd8URk2x-yRlWH7NGoUaO2l7JRXcoPVdMVqTo2VPGfFe1PEkV5SZ_Y51z-mNAaa9C2NaQZmoGA9liX-VaV_OObPHf3Iv_U9yL9556Le9_eC3FP698bKs8Z-_eXt5li0-mZTYJISuJswDYqxLGWMNBkTQHXIkG8MDbMCBTuXmDDDwlgVbeOFqIlkVj489mN1ZMrF-N1gjjxTv77qHZhcsOuh3nDgHsNTgYi2J9xTLLNbuOFITPYayISQLoNSBqC3T50sAprWWzD4kYqP-Mg0TcO37LZfghu7iKaN0aI_c6LoIorvNoTGftOUnhz6EQEtyxOYhoPw7HmMK6GCz8NGhHcoRo-b3aTeYA2k2Qn15Hj7oJKrlh86WgF9A3x4A66jhfiPTsl0y3xnTDG3cpxHwxvt4vlNdROXTQv0A6IYI9I4SN-5iEfggiuwtOgAoKDhLx0yetS9yfLHdcMkFT4FkA5D09dxmqCo8Xk9bGda7BjdHnCM4aWRiJ8J7jh3o87MxAcBWhmhLdTFwK59G6i5DNXbSv2aWhV9h28YKPbroz169qncOIgYr2iyCqLWhsW5iyHt_xXaNn64xMet27p2n8ZxTpo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eWKNUHicTVPdztpGEFWfB0Xa9fqP3n1gFnBlg8Feg2_Qsuu_j7W9WdtgeIm8QsSXVEovk0qVetXXSJ-mEPUiczEanXNmRjOa-XBPy78udZfRdppg_7eD6mdryfqt9nL5IlXDe9aV_E-o6balIYQAQDoEtmkh8wujHRVNXvJvGhgbAABjbCEbGQaCSP9apJSLsk5XWZYqp2HPKlA3oKlrj3zbRgiaCGl_lBXN0_95ZOkm1Me2bY6h9bCxNX5TvP34-X2fquv3v_1kF44W5giL5jLazCejaVNJyrqR01PxblrQ6piqkVfyd2FzeUQvpcqe0ilt0xF7Oq7Kc3o40ms7quhwYE0jUnUo0jIvukNV_QBz2R9EWudd8URk2x-yRlWH7NGoUaO2l7JRXcoPVdMVqTo2VPGfFe1PEkV5SZ_Y51z-mNAaa9C2NaQZmoGA9liX-VaV_OObPHf3Iv_U9yL9556Le9_eC3FP698bKs8Z-_eXt5li0-mZTYJISuJswDYqxLGWMNBkTQHXIkG8MDbMCBTuXmDDDwlgVbeOFqIlkVj489mN1ZMrF-N1gjjxTv77qHZhcsOuh3nDgHsNTgYi2J9xTLLNbuOFITPYayISQLoNSBqC3T50sAprWWzD4kYqP-Mg0TcO37LZfghu7iKaN0aI_c6LoIorvNoTGftOUnhz6EQEtyxOYhoPw7HmMK6GCz8NGhHcoRo-b3aTeYA2k2Qn15Hj7oJKrlh86WgF9A3x4A66jhfiPTsl0y3xnTDG3cpxHwxvt4vlNdROXTQv0A6IYI9I4SN-5iEfggiuwtOgAoKDhLx0yetS9yfLHdcMkFT4FkA5D09dxmqCo8Xk9bGda7BjdHnCM4aWRiJ8J7jh3o87MxAcBWhmhLdTFwK59G6i5DNXbSv2aWhV9h28YKPbroz169qncOIgYr2iyCqLWhsW5iyHt_xXaNn64xMet27p2n8ZxTpo"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSMVjhPBJu0SblDLRF8KxsE_lhFESoxVeQtDOMS8-mCd94F6XczAKZ8ucHVHyjgkIA46MyPM92kz9i4iv2VUGwVhYo_1ZnXBYubCAzkmb4j3dOLxsq8N_Rv2Q",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0QufSxRCR7BarODfQcIM59TCOzG0fJUlU8Yr-IWF3tImH-9y9mGIrnBUVnv6cHPd3NOB2D4kNrcsc1flE5QBAFS3jARIF",
+      "source": "Paradox Customs",
+      "title": "@George Coleman's NZXT H6 Flow RGB",
+      "price": "$2,840.00",
+      "extracted_price": 2840.0,
+      "immersive_product_page_token": "R3xEqnicdY_LrqNGEIaV50Ej0WCMye7YBp-L3DaNaTAb1KYbmkvTpIFj7JfIKxx5ZiJNllGkSLOa15g8TY6jLGaTRf0qffWVSvXrjZV_ndshJ_0q8eBLqkZ332VjYDycv3RK0jEbSvonWOiObYK5ac-dhTMDhmWaXzIykEYWJX37gzNCm7Jluzxnai2z_1n5vRSkYP_NdctwbB3Y-txYGAvLNmf2R0X7t8-_jExdvn-FSXzQHuea18izhjZLbSVFR7JBW4-k-bDiRJyY0rYl_XCQ5_fuoVT5XV2RnmnZPagqX1l6IpdeE2RKMykbplLOyoIPqRD_wqIb04a1xcDvpOvHNJdKpPn7Iam0fuw6qQZGUyEHztRJEkV_NPofFEVoSe7sc9G9f_j2Udyjex1uvPg0jg37diua29jfeHNj7W-SdK959vdPlSvPq1V_Xvph1-E10gMAS2JYUdLwippSD-vE9GMK0RrFmXi6HPXmabtpltnmadrWXkiahxnSecnWaAlXgG9dV4cH6IeAlscS7A9tYVFvuTqCTD9EEyaPcCLY2yeAHzHeDqe4sA4uto4VGjIBcLBJAmwUA4u8GgGMSc2fj_VkYhPpPvA81D67sU7zsLZeIeCbwITRNoKYCad9r8QHvCc4nJI13ELPCbE71X6UDCfPefErHAVxco1auNuKzk0i6yXZdBMCnNALeArrbpcBqrKYY5dT89QicYzhOqqTXQCcCw2xn20gCK_PSzrJ0g_RNasaEV49HVVefmqQiFqkUwMZWMDdsaZxYEgjqhKXnj9Nvcq_6w-eNQQ7a1_tIQHLtYntygztkrfG9Dh3C3Atfgb2YjafGTNnYc-MfwCq1h43",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=R3xEqnicdY_LrqNGEIaV50Ej0WCMye7YBp-L3DaNaTAb1KYbmkvTpIFj7JfIKxx5ZiJNllGkSLOa15g8TY6jLGaTRf0qffWVSvXrjZV_ndshJ_0q8eBLqkZ332VjYDycv3RK0jEbSvonWOiObYK5ac-dhTMDhmWaXzIykEYWJX37gzNCm7Jluzxnai2z_1n5vRSkYP_NdctwbB3Y-txYGAvLNmf2R0X7t8-_jExdvn-FSXzQHuea18izhjZLbSVFR7JBW4-k-bDiRJyY0rYl_XCQ5_fuoVT5XV2RnmnZPagqX1l6IpdeE2RKMykbplLOyoIPqRD_wqIb04a1xcDvpOvHNJdKpPn7Iam0fuw6qQZGUyEHztRJEkV_NPofFEVoSe7sc9G9f_j2Udyjex1uvPg0jg37diua29jfeHNj7W-SdK959vdPlSvPq1V_Xvph1-E10gMAS2JYUdLwippSD-vE9GMK0RrFmXi6HPXmabtpltnmadrWXkiahxnSecnWaAlXgG9dV4cH6IeAlscS7A9tYVFvuTqCTD9EEyaPcCLY2yeAHzHeDqe4sA4uto4VGjIBcLBJAmwUA4u8GgGMSc2fj_VkYhPpPvA81D67sU7zsLZeIeCbwITRNoKYCad9r8QHvCc4nJI13ELPCbE71X6UDCfPefErHAVxco1auNuKzk0i6yXZdBMCnNALeArrbpcBqrKYY5dT89QicYzhOqqTXQCcCw2xn20gCK_PSzrJ0g_RNasaEV49HVVefmqQiFqkUwMZWMDdsaZxYEgjqhKXnj9Nvcq_6w-eNQQ7a1_tIQHLtYntygztkrfG9Dh3C3Atfgb2YjafGTNnYc-MfwCq1h43"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQDzFlJ2vEHwL0GKTbvX1ea2GBvoAxJXREVkVQIcDVvg9DDIKiRZWEufiYJ11LINQQLVHcN6IX8fux9j_I9iKSwqP-SJRSPupnYSdGFT-nHE1B9kEUsmmUD",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "Nzxt H6 Flow RGB, Tower housing",
+      "rating": 4.7,
+      "reviews": 383,
+      "price": "$1,446.32",
+      "extracted_price": 1446.32,
+      "immersive_product_page_token": "Bf-2tXicdVPLrptIEFW-x4pE07Yx2V3bYExibDfQ4N6ghm4edrfh8rj4ovzD_ELkJCMly8xII81qfuOO8jGxs8omm1LpnFN1pFOqP668-Kc_tyltFsR03kZ1Z-yqpHPVh_5LVZesS9qC_Q1UXQMK1HRtpqgKhNPZTP-S0JaKMivYh285p0wUZ75NU14vy-Q3I18LSTP-k_9LHeszRdMgBOp4qkMNTrSPNWtexrtFBKCqzJSZrkw0MIU60G669zu0XUa_IT8_drx-fvnXIaE3sqYjU5T9CK3mo0UpK5q0o2VHxetFTmXM69GmYK-9sr91D0Wd3qUL2vBRci-sLp54FNPnZiTpJUrKUvA6ynmR5W0k5U8wq7pI8HPW5nekarooLWsZpTejsh41XVWVdctZJMs253Vc0pr9qmh-kdSUFfSOfc6qWyofPsp7qZ7aa5596jrB_7tm4to111xc-fnPklZPafL_q-9Gt14sHteLvV9VeIkU1yc2kjamA94fJNpt1L2KTvqKAltlJ9ZjaC-3eN5zv-ljoQsemoD5CFAJfPdIEAF4jqBtxorYbQOR74VeB4EN8JkdqXAOvtGGrqH3iajs5NSoLp6DRGEkCPR0E-YbdGpLHK6BZyJJDKHuJV5iiBriiWI_2NLDOkA-WwdykjpiTjk2Vw50hvjsHH110mxCY3xQ2ZnfvLhF3tIA41gYz9jAm42w37mYXPyBTJiK9m7gHGMvAfHRdg83bmuJwVHN2jWdA4Ws3hrV4CuXqROyS6hcJLdsyiy8QFZeHPw1JIUyuEDHyM87avhK4o97FJISB8iipjF4AQgP0rl4KwdjMLe9gAD3dEF0pfsuriTG5EBU8Iilo2xOhmtC1rEVyRPFoeg0eRdCG6Bb1geIvc3JhKvCniPLed4GBN3uoeCgH7ZWBqlsgHPbHx8fVC9EU3JyrL2Ynz9dmjp9UR7MSetuJ7vjzqFgvoRYO0JfK_KzerGmRgaG7A3QZuPp-P5J2lj9AQ2TT4g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Bf-2tXicdVPLrptIEFW-x4pE07Yx2V3bYExibDfQ4N6ghm4edrfh8rj4ovzD_ELkJCMly8xII81qfuOO8jGxs8omm1LpnFN1pFOqP668-Kc_tyltFsR03kZ1Z-yqpHPVh_5LVZesS9qC_Q1UXQMK1HRtpqgKhNPZTP-S0JaKMivYh285p0wUZ75NU14vy-Q3I18LSTP-k_9LHeszRdMgBOp4qkMNTrSPNWtexrtFBKCqzJSZrkw0MIU60G669zu0XUa_IT8_drx-fvnXIaE3sqYjU5T9CK3mo0UpK5q0o2VHxetFTmXM69GmYK-9sr91D0Wd3qUL2vBRci-sLp54FNPnZiTpJUrKUvA6ynmR5W0k5U8wq7pI8HPW5nekarooLWsZpTejsh41XVWVdctZJMs253Vc0pr9qmh-kdSUFfSOfc6qWyofPsp7qZ7aa5596jrB_7tm4to111xc-fnPklZPafL_q-9Gt14sHteLvV9VeIkU1yc2kjamA94fJNpt1L2KTvqKAltlJ9ZjaC-3eN5zv-ljoQsemoD5CFAJfPdIEAF4jqBtxorYbQOR74VeB4EN8JkdqXAOvtGGrqH3iajs5NSoLp6DRGEkCPR0E-YbdGpLHK6BZyJJDKHuJV5iiBriiWI_2NLDOkA-WwdykjpiTjk2Vw50hvjsHH110mxCY3xQ2ZnfvLhF3tIA41gYz9jAm42w37mYXPyBTJiK9m7gHGMvAfHRdg83bmuJwVHN2jWdA4Ws3hrV4CuXqROyS6hcJLdsyiy8QFZeHPw1JIUyuEDHyM87avhK4o97FJISB8iipjF4AQgP0rl4KwdjMLe9gAD3dEF0pfsuriTG5EBU8Iilo2xOhmtC1rEVyRPFoeg0eRdCG6Bb1geIvc3JhKvCniPLed4GBN3uoeCgH7ZWBqlsgHPbHx8fVC9EU3JyrL2Ynz9dmjp9UR7MSetuJ7vjzqFgvoRYO0JfK_KzerGmRgaG7A3QZuPp-P5J2lj9AQ2TT4g"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSyLzYgtbnSjdqlvijChHZgqc_rmYXWLT6nzU-Iylq2y6qyTc-hKRVHJ-MCwb9CPWk5LB__h8Ptdomvopv029tD-__pz0wXnA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTt0gUo50KGjAhf0kC5fOBsQ5-vDJR7c6uGVeSfu9koB7yXhpEZP6nLF12pIJDrbjvzF-tslOzj00cyGJnxA1psrNilibojUcj9eg",
+      "source": "Teknikproffset.eu",
+      "title": "NZXT H6 Flow ATX Semi-tower Box",
+      "rating": 4.8,
+      "reviews": 231,
+      "price": "$167.82",
+      "extracted_price": 167.82,
+      "immersive_product_page_token": "dDRy53icdZDLruJGEIalPEPeAo3U7vY1O8A2HAYMvnVDb5BxN7Rx-zK-HAPKO-QdODORJsvJSJGyymucPE04k81IUTal0v9_par6f7nz7I-h7I5JO6Wu937f9M6mTvsQjofPdVOxPu0y9lVBhqZqCEAINIQUU0e69jlNukRWp4z9rmkImoquGpqlGA8KQOWL4AmTWcnXxyNv7CrN2BdTN03L0nQAoK4ZqqWD37IiOfFv7lcFKlAzTEs3gGKZUNERUF8a1r6qm-legVDVHkOGoj2O0FRDUfWfN8Ha3v-P-elDz5vr658e3UajuT5yZTWMgtlkNK2KOkm7kd0n8t1UJMWBN6NVxt5F1fDoxllzfEOnSctH6VthTfbM94fk2o6K5LJPq0ryZi94dhLdvii-iae630tenjrxptRtvz9WTbE_PhZVzajt67pqOs72RdUJ3hyqpGHfE-13SJOwLHnTPp3qf2P573MvxSNNzdBVHZqWqQNoWSZSrJf6ubuL08e-l_yv-0ne-_Yu5J2Xv1ZJ_XxM__7hR6ca7Gk7TP24rrEdgLCc2BHCy8PMu6Tz_BblpurFNfaKxTmeC-A5dBNvKfQUH-BZ_T4EjDJZu2Fu2Z7idixyBYlbGKOgSWbizFCQ-YVwtrcVChV522GrxjH10xtdUFdQ_-zqyZaFMfJwVAgaQ1Ed8stsB9wmdKwhwAGIyskyiihZz9k2uXmC4snOL-s6iKshdMe3lSvyKMZr7EqHETnZge4Sxpq9muMLd-jiICVauX7nw8vSw9YTz6uBzoW3hT5KzmMtInJYFbshdhc5J4Egs9omZQp8LK4pFLtIwRvP8VEaxTB1tILmknICIMsxiW5PYO3Uw-6cX8KSES_2dO5Y5ap0WywnM58EFbXFNSJPNyrrmOWXgp3lkkhPHORYjUFHUuLNSZRfQ_fpyu3JLCTaIkRBkgKLRFuJYinkoVzYq5xiQgTySnbzkfzgw6Dw0FPoItazGRUp8JIg15ZbtFACPBl2CEer3EWzbDEJ5t51TWiUlmJF5w7kUpypvSCrMyYUyyJ2JVluF653Y8HHS9scX8HY1bpwrW3OGy9RJjbCxhnFRiZKeJnrzkm5nX5SDFPVVahapqHCfwBH93A9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dDRy53icdZDLruJGEIalPEPeAo3U7vY1O8A2HAYMvnVDb5BxN7Rx-zK-HAPKO-QdODORJsvJSJGyymucPE04k81IUTal0v9_par6f7nz7I-h7I5JO6Wu937f9M6mTvsQjofPdVOxPu0y9lVBhqZqCEAINIQUU0e69jlNukRWp4z9rmkImoquGpqlGA8KQOWL4AmTWcnXxyNv7CrN2BdTN03L0nQAoK4ZqqWD37IiOfFv7lcFKlAzTEs3gGKZUNERUF8a1r6qm-legVDVHkOGoj2O0FRDUfWfN8Ha3v-P-elDz5vr658e3UajuT5yZTWMgtlkNK2KOkm7kd0n8t1UJMWBN6NVxt5F1fDoxllzfEOnSctH6VthTfbM94fk2o6K5LJPq0ryZi94dhLdvii-iae630tenjrxptRtvz9WTbE_PhZVzajt67pqOs72RdUJ3hyqpGHfE-13SJOwLHnTPp3qf2P573MvxSNNzdBVHZqWqQNoWSZSrJf6ubuL08e-l_yv-0ne-_Yu5J2Xv1ZJ_XxM__7hR6ca7Gk7TP24rrEdgLCc2BHCy8PMu6Tz_BblpurFNfaKxTmeC-A5dBNvKfQUH-BZ_T4EjDJZu2Fu2Z7idixyBYlbGKOgSWbizFCQ-YVwtrcVChV522GrxjH10xtdUFdQ_-zqyZaFMfJwVAgaQ1Ed8stsB9wmdKwhwAGIyskyiihZz9k2uXmC4snOL-s6iKshdMe3lSvyKMZr7EqHETnZge4Sxpq9muMLd-jiICVauX7nw8vSw9YTz6uBzoW3hT5KzmMtInJYFbshdhc5J4Egs9omZQp8LK4pFLtIwRvP8VEaxTB1tILmknICIMsxiW5PYO3Uw-6cX8KSES_2dO5Y5ap0WywnM58EFbXFNSJPNyrrmOWXgp3lkkhPHORYjUFHUuLNSZRfQ_fpyu3JLCTaIkRBkgKLRFuJYinkoVzYq5xiQgTySnbzkfzgw6Dw0FPoItazGRUp8JIg15ZbtFACPBl2CEer3EWzbDEJ5t51TWiUlmJF5w7kUpypvSCrMyYUyyJ2JVluF653Y8HHS9scX8HY1bpwrW3OGy9RJjbCxhnFRiZKeJnrzkm5nX5SDFPVVahapqHCfwBH93A9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSuLBjlzMt5vp9ZQRAABN_C_tXBdZzFCzjPCQx6bUF-dCU3r5qMwiDnJPqG5kDsEX8yRL20YwjCptOKIEoBIF2ofyQpz80zqgJnZdoY8xOT",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQtMbVpOUVjwbyAS6S0QA7uGiVOBT-1Ppv8Hl-afythqX6tlehsEhg3qnuUCZo4eEdgcenE5BNanbUn99OpR2g4deklWQ",
+      "source": "Jawa.gg",
+      "title": "NZXT H6 Flow - Black - New",
+      "price": "$165.99",
+      "extracted_price": 165.99,
+      "immersive_product_page_token": "VStu6XicbY_NjqNGFEaV50EjUfzZnV3bgB27XR4KA4YNKqoKQ1NFkQIa2y-RV2h5ZiJNlpmRImWV15g8TdqzmkU2nz6de66u7m83Vv81tUOJ-2Xmw22uRu99R8bQeJw-d0rSkQw1_eLMdGA7pmkbs5nxAIBhOZ8JHjCXp5q-_lkxTHndsn1ZMuVK8v8bf9QCn9j38VegW6Y5B45jGo4DnLlt2bMPivavn34dmbp8-xtmx4O2djSfy0lDq4W2lKLDZNDcEfN3ywqLgiltV9N3Bzm9tcdalXd1iXumkXtQVb-wvMCXXhP4nBMpOVN5xepTNeRCfIenbsw5a09DdSddP-alVCIv3w5JpfVj10k1MJoLOVRMFRIr-qPR_6AoTGt8Z59O3duHrx_EPbqX4VadPo4jZ__cTvw29reK31j7u8TdS0n-_enZk9Ny2U-LIOq62EV6eN20iZeCcA23tAkAbDbbQtCnaM0vBEB1MNAx0icLr3Yg5cgJ2gikAt77IrgSm8Sb54TDy9EY0qfIHp6OCCGfbyDPxMFDKBVVREz_EjfQilvYB-Ah3Zmo3a8rN_Lsp8KNW9yAVcazY-Tyc8o3EfSr91HTnInYJESfg4THcSj8nhg8YS2q8TXQdxydYRwM1BucNNQn6FYwbjbTYYWMwssudE3rxKVJeuWKCDsmOqyJF4-olXra2P3OzJx97PMYwHPSbFyvombRIpEeoZs02T4EDxcaxQFZQRBdNwt6lnUQoSt55iLSqzPyaB2ukEMbUNEWvQQml2zdpQcBFPZ5mk0fz70qv-mPvj2E-9kv20TfRku5bXSxNrMi9NvsqhZloYKfwWxuOZZhPcxnlvkfO74gjA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VStu6XicbY_NjqNGFEaV50EjUfzZnV3bgB27XR4KA4YNKqoKQ1NFkQIa2y-RV2h5ZiJNlpmRImWV15g8TdqzmkU2nz6de66u7m83Vv81tUOJ-2Xmw22uRu99R8bQeJw-d0rSkQw1_eLMdGA7pmkbs5nxAIBhOZ8JHjCXp5q-_lkxTHndsn1ZMuVK8v8bf9QCn9j38VegW6Y5B45jGo4DnLlt2bMPivavn34dmbp8-xtmx4O2djSfy0lDq4W2lKLDZNDcEfN3ywqLgiltV9N3Bzm9tcdalXd1iXumkXtQVb-wvMCXXhP4nBMpOVN5xepTNeRCfIenbsw5a09DdSddP-alVCIv3w5JpfVj10k1MJoLOVRMFRIr-qPR_6AoTGt8Z59O3duHrx_EPbqX4VadPo4jZ__cTvw29reK31j7u8TdS0n-_enZk9Ny2U-LIOq62EV6eN20iZeCcA23tAkAbDbbQtCnaM0vBEB1MNAx0icLr3Yg5cgJ2gikAt77IrgSm8Sb54TDy9EY0qfIHp6OCCGfbyDPxMFDKBVVREz_EjfQilvYB-Ah3Zmo3a8rN_Lsp8KNW9yAVcazY-Tyc8o3EfSr91HTnInYJESfg4THcSj8nhg8YS2q8TXQdxydYRwM1BucNNQn6FYwbjbTYYWMwssudE3rxKVJeuWKCDsmOqyJF4-olXra2P3OzJx97PMYwHPSbFyvombRIpEeoZs02T4EDxcaxQFZQRBdNwt6lnUQoSt55iLSqzPyaB2ukEMbUNEWvQQml2zdpQcBFPZ5mk0fz70qv-mPvj2E-9kv20TfRku5bXSxNrMi9NvsqhZloYKfwWxuOZZhPcxnlvkfO74gjA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSNXeoVoI9dLQ0m6__GZWh6D8EkkDTqUFL3nwoj0Nvu81zw_u5W_Qs3nUQPWFuuV3rqVbUrzXd4eDC0YWRnEqm12wsyEQFSOSWNL5eRvjR9",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "H6 Flow | Cc-h61fb-01 | Compact Dual-chamber Mid-tower Airflow Case |",
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "5jYAr3icdY_NjptIFEaV50GRqsC427NrbGMHBxwKKBs2qKCKH5uiqgto27xEXqHlTiJllqNIkWY1r5E8TdqjWWQzm09X5ztXV_fjldXfT21fkG6e2N4mVcPyg8yHQH84fZVK0CHva_oNGiYwp7pxPzMnxsyY6Lqpf81JTxpR1vT5r4oR2tQt2xYFUwuR_8_KnzUnJfuvN8HEMKEOXksA73QIwf2Lot3z58eBqcuPv71kH2rrqWY34qShlaXNBZck77XFQJq384rwjCnNrenbUJxep4daFTd1Tjqm5begqn5iaUYuncbJOc2FaJhKK1aXVZ9y_i8s5ZA2rC376kZkN6SFUDwtXg8JpXWDlEL1jKZc9BVTmSCK_m50vymK0Jrc2OdSvn74_MJvIZ_6a1V-GoaG_XMtm-vQXavmytovgsinIv_55rAUp_m8O1l-JCVeIBCM1YHo8jEGzoYdrMgL0RzbNnAxNSlunHDV4GzVk200c1xOjzGMzoGeqAg7scdNgg3HCKB0yCGJ3aiEHp4ZPpD8fWhBevBqP6wW3rIqEEh2SG8QPc4i2jiXgDvvw-gs4tGOs7Vn44ZOSUi9fJePbO0d8arnOML7AJgkNpCNAFr7IdqF4RHsGou4B2x4-DiGB4_TRbXe7uwtidA0sf2JCxuPYHlx23gMDLsKodVmHFcxxjxsZey39h4tEEE6enT31bsYO8GyokbWIh7vvcXumGwDOLvQCPv5yoPR6Fj0LGo_QmN-aHikm74bQCMCqAhX0CO8j7PRKdyj7Pzd8hztLej7n86dKn6AB9vsg-3du80ObKK52BwBXxtJFthtMiqryJT_B7y7n0wn-mR2fzcxfgESsh7I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5jYAr3icdY_NjptIFEaV50GRqsC427NrbGMHBxwKKBs2qKCKH5uiqgto27xEXqHlTiJllqNIkWY1r5E8TdqjWWQzm09X5ztXV_fjldXfT21fkG6e2N4mVcPyg8yHQH84fZVK0CHva_oNGiYwp7pxPzMnxsyY6Lqpf81JTxpR1vT5r4oR2tQt2xYFUwuR_8_KnzUnJfuvN8HEMKEOXksA73QIwf2Lot3z58eBqcuPv71kH2rrqWY34qShlaXNBZck77XFQJq384rwjCnNrenbUJxep4daFTd1Tjqm5begqn5iaUYuncbJOc2FaJhKK1aXVZ9y_i8s5ZA2rC376kZkN6SFUDwtXg8JpXWDlEL1jKZc9BVTmSCK_m50vymK0Jrc2OdSvn74_MJvIZ_6a1V-GoaG_XMtm-vQXavmytovgsinIv_55rAUp_m8O1l-JCVeIBCM1YHo8jEGzoYdrMgL0RzbNnAxNSlunHDV4GzVk200c1xOjzGMzoGeqAg7scdNgg3HCKB0yCGJ3aiEHp4ZPpD8fWhBevBqP6wW3rIqEEh2SG8QPc4i2jiXgDvvw-gs4tGOs7Vn44ZOSUi9fJePbO0d8arnOML7AJgkNpCNAFr7IdqF4RHsGou4B2x4-DiGB4_TRbXe7uwtidA0sf2JCxuPYHlx23gMDLsKodVmHFcxxjxsZey39h4tEEE6enT31bsYO8GyokbWIh7vvcXumGwDOLvQCPv5yoPR6Fj0LGo_QmN-aHikm74bQCMCqAhX0CO8j7PRKdyj7Pzd8hztLej7n86dKn6AB9vsg-3du80ObKK52BwBXxtJFthtMiqryJT_B7y7n0wn-mR2fzcxfgESsh7I"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQeSdsViFzTQsf-shK8eeAiCMUQGe7F7C5dsoIXh0BbpTZFGmvcDG9OS37rBvwYbmssWLTLpiFz1b7M2pAlnKziMmVM6CtHbt7V-0XnuqJPoyZcFKARGSS8",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRG_vWJZwHtFgrDkuAMJcfrn6rPCTDlymu2INxq4SI-N4wgUZcnjOaJKpLulcCAsQlmCvMT4HS0pR3tVBFT5Nj-d11_aplobrBm9Q",
+      "source": "desertcart.com.sa",
+      "title": "NZXT H6 Flow RGB | CC-H61FB-R1 | Compact Dual-Chamber Mid-Tower Airflow Case | Includes 3 x 120mm RGB Fans | Panoramic Glass Panels | High-Performance",
+      "rating": 4.7,
+      "reviews": 383,
+      "price": "$1,268.57",
+      "extracted_price": 1268.57,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "KVwjDnicdZHBjqNGEIaV57FWAhoM5GZjGg9rsA1Ng7mgdncbsGlgMIyxlXfIK6y8u5E2x91DpJzyGhPlYeJJLntI6vCr9P9fqaSqn--8_O1S9wdytlLov8-6wd60dAiV2eVL2zVsoH3JvunAnE4NIBuaZKqSJE114wslPamavGQfvhacsKqs-fpw4N2iof898WspSM7_jafm1NBUYGiaLCuGBB71sWPnV3VjZTJQJEMyTEnT5SkwZV3XwU-bYL3I_if8_Dzw7vr6u58maLKcTmDVXCaBM59YjWgJ7SeLgVTvrIKIPe8mXsneoeby6GZld3hDLXLmE_omrCtfeLYn1_NEkDGjTVPxLit4mRd9JsQ_Zt4OWcXrvC_enPY8ZIemE9nhsajpJuehbZuu5ywTTV_wbt-Qjn1PnL9DOsJK8uZ9ztvHVT58FG_SvvT3Iv80DBX_455X9-F8L6o7r39pSPtyoH_-8Jc9PFnW85O1jdoWLwIpBK6Iak8JbmkfIv-4i2CYgEgOkqrZ224UY7bxF7jikG3jyhujk_nM7QtAiqawOB1SZ1xt61zbCfeZO4EVRzt5F_clXdALklywrz2wr3wJKzDh0Cy8uEdE-IfAgSevrsQesg2V53WAtlIY-x6yTS-GVNrLbUGUNuHIBZE9PqWRaaUJPmJYCH-JGz_ZqkRKw0jxSwxn10BAdytyNY38Ah_d91hu1ykqqq3iBviELU-BNpZNO4jcaG0bt0TpSSjlYI1TFIhx8B13DBXWUTBTKUrTMJlddrcKrRB8SZew28dj6EVtEYvtjcqsDGvWENjusAO36MYsLsYjE1qytuQjXVYkOslOBA3JvxWQnXzoScFTEI8rvGArGtMrcWgIARuYkxZU8klw0lYJcOUAzy87gJF3gsAp3Xmw9K_rOA1iOF9HAq8QShuGbICO7MFU0I8fXzipfST6-afx3B1epRnU-nCtbY4bn8jzBcD6EUR6WdTKuJzauXzLf5R1Q52qimoauqr8DfXaT9o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KVwjDnicdZHBjqNGEIaV57FWAhoM5GZjGg9rsA1Ng7mgdncbsGlgMIyxlXfIK6y8u5E2x91DpJzyGhPlYeJJLntI6vCr9P9fqaSqn--8_O1S9wdytlLov8-6wd60dAiV2eVL2zVsoH3JvunAnE4NIBuaZKqSJE114wslPamavGQfvhacsKqs-fpw4N2iof898WspSM7_jafm1NBUYGiaLCuGBB71sWPnV3VjZTJQJEMyTEnT5SkwZV3XwU-bYL3I_if8_Dzw7vr6u58maLKcTmDVXCaBM59YjWgJ7SeLgVTvrIKIPe8mXsneoeby6GZld3hDLXLmE_omrCtfeLYn1_NEkDGjTVPxLit4mRd9JsQ_Zt4OWcXrvC_enPY8ZIemE9nhsajpJuehbZuu5ywTTV_wbt-Qjn1PnL9DOsJK8uZ9ztvHVT58FG_SvvT3Iv80DBX_455X9-F8L6o7r39pSPtyoH_-8Jc9PFnW85O1jdoWLwIpBK6Iak8JbmkfIv-4i2CYgEgOkqrZ224UY7bxF7jikG3jyhujk_nM7QtAiqawOB1SZ1xt61zbCfeZO4EVRzt5F_clXdALklywrz2wr3wJKzDh0Cy8uEdE-IfAgSevrsQesg2V53WAtlIY-x6yTS-GVNrLbUGUNuHIBZE9PqWRaaUJPmJYCH-JGz_ZqkRKw0jxSwxn10BAdytyNY38Ah_d91hu1ykqqq3iBviELU-BNpZNO4jcaG0bt0TpSSjlYI1TFIhx8B13DBXWUTBTKUrTMJlddrcKrRB8SZew28dj6EVtEYvtjcqsDGvWENjusAO36MYsLsYjE1qytuQjXVYkOslOBA3JvxWQnXzoScFTEI8rvGArGtMrcWgIARuYkxZU8klw0lYJcOUAzy87gJF3gsAp3Xmw9K_rOA1iOF9HAq8QShuGbICO7MFU0I8fXzipfST6-afx3B1epRnU-nCtbY4bn8jzBcD6EUR6WdTKuJzauXzLf5R1Q52qimoauqr8DfXaT9o"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcROpEAYT_C7UYdLJF5cRPPp9XnAgdhWb0UCwelq-cApAGGmHFi1mRlkmTr90BI-XhzPhgVqaoMq1JzTO4G4I8hvqQZZNNqz1GChTIwyOw4",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - saak26",
+      "title": "Nzxt H6 Flow Rgb Mid-tower Airflow Case With 3 Rgb Fans, Panoramic",
+      "price": "$179.23",
+      "extracted_price": 179.23,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "0hcoRnicbZDPbptAEMbV50GRFgO26S02YIfUuKzZxeaCFnb5Yy8sWSCO_RJ9hchpK6XHtlKlnvoa6dPUzimHSqNPo998n0Yzn06s_LWvu4y008jxbmPZ2x-btF8NrvfPjRS0T7uS_lDBSB2A8WhggqFugHOB55R0hIu8pI_fC0YoL2u2zDImLZH-P_GtrEjOXsc_VWM0BpqhmpqpjgEwVdNQnyRtH7_c9UweXn570TpQ5kPF4WKvwNlEmYqqIWmnWD3hV9OCVAmTyqKkV4HYn7vrUmYX65S0TEkvQmV5z-KEHFqlIg9xKgRnMi5YmRddXFWvMG_6mLM674oLado-zoSs4uy8SEil7ZtGyI7RuBJdwWQiiKRvHe0biyS0JBf2JW_OFz4-VRdp7rtTkX_ue87-nHJ-6ttTwU-s_ipIc5-lf99tbbGfTtv9xEdNgy0IVqo5_LDG4RJFHGlI9xxs0JBWBBhwGaJ9NG-qZD7JFmHnsZlJaGjrBLjuOdunW28YWDiLtImBnCiAaxdvQkeSLd3QI21pZc6j0IVpTcNw624gwqvVzL2liN8unEhHKoUrywUJ6jCs3Qc_2OhBXUBiYUhCu0PBDrD5pAy3HoQ1bmGFj8RybgJUzBdrBzG8OyY2MFLgub7qzZKZ6nuzoqNzvkgHRptwD3sD10isifRDYFC1gf6uyJaIdysUTaFa8Gi3OWAbqXZBtaSG1WbtWeEuWp7_cqAI--nMU9HRndAHUfoIHtMtrxDiBB6AFtipFm2dFT26Nwl2MdQKiAfuR1TvNN___NDK7AVcO0a3Whq7abWEkyua39HePQijN1lrW6gUt_57dTTWh_pAN8cjHfwDpbMdww",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0hcoRnicbZDPbptAEMbV50GRFgO26S02YIfUuKzZxeaCFnb5Yy8sWSCO_RJ9hchpK6XHtlKlnvoa6dPUzimHSqNPo998n0Yzn06s_LWvu4y008jxbmPZ2x-btF8NrvfPjRS0T7uS_lDBSB2A8WhggqFugHOB55R0hIu8pI_fC0YoL2u2zDImLZH-P_GtrEjOXsc_VWM0BpqhmpqpjgEwVdNQnyRtH7_c9UweXn570TpQ5kPF4WKvwNlEmYqqIWmnWD3hV9OCVAmTyqKkV4HYn7vrUmYX65S0TEkvQmV5z-KEHFqlIg9xKgRnMi5YmRddXFWvMG_6mLM674oLado-zoSs4uy8SEil7ZtGyI7RuBJdwWQiiKRvHe0biyS0JBf2JW_OFz4-VRdp7rtTkX_ue87-nHJ-6ttTwU-s_ipIc5-lf99tbbGfTtv9xEdNgy0IVqo5_LDG4RJFHGlI9xxs0JBWBBhwGaJ9NG-qZD7JFmHnsZlJaGjrBLjuOdunW28YWDiLtImBnCiAaxdvQkeSLd3QI21pZc6j0IVpTcNw624gwqvVzL2liN8unEhHKoUrywUJ6jCs3Qc_2OhBXUBiYUhCu0PBDrD5pAy3HoQ1bmGFj8RybgJUzBdrBzG8OyY2MFLgub7qzZKZ6nuzoqNzvkgHRptwD3sD10isifRDYFC1gf6uyJaIdysUTaFa8Gi3OWAbqXZBtaSG1WbtWeEuWp7_cqAI--nMU9HRndAHUfoIHtMtrxDiBB6AFtipFm2dFT26Nwl2MdQKiAfuR1TvNN___NDK7AVcO0a3Whq7abWEkyua39HePQijN1lrW6gUt_57dTTWh_pAN8cjHfwDpbMdww"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQrTUoSzKLjis7a5a_yRDXbHz8h6V-x9I_OdbnMK08OBZMiiN1rwDdBgC0GWhDWfzBs5heKRATJ51ziC_QQ0QHih_hHMaSOW2e0QV6rKmy-3sERlU6Uqnlm",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "NZXT H6 Flow RGB ATX Mid-Tower Case",
+      "rating": 4.8,
+      "reviews": 238,
+      "price": "$1,449.01",
+      "extracted_price": 1449.01,
+      "immersive_product_page_token": "G8Y_XnicdVRJjuNGEAT8Bv9CGIBV3H2TxEXNaVLNUnGri1BilUQ2i8twaVGC_-A_qGcMjI9jAwZ88jfGr7HavszBviQSEZHIzAAyf7rx8vdzMx7psCZO8H7fT_ZTl087uDx_7vqWTflYst-AbgBdViQFGsCAuikZkvw5pyMV7alkX4AmGbIGFBmauqIAXZe_FJwyUTZ8ezzy3mrzkv2qyJJkKLqqKUCSTdWEpvFLWdMT_5c2VFNRINA1BaqSASVTU197NnxVntZ7oJkavNfppqFIAMg6BOaPT2hr7f-H_PRh4v3l6x8BSfFioy0c0Z4XyF0t1m3d0XxcWBMV79YFrQ-8X_gle4fb8z1blv3xTbqmA1_kb4H15QvfH-hlWNR03udtK3i_L3h5KsZ9Xf8DnrppL3hzGos3pBum_bHt6_3x3qjtF8PUdW0_crav27Hg_aGlPftWMXwj6Skr6Rv26dTlb87_x3Kv9d1z9W6UBg1TVVTDMDRdg6_dy3grTh-nSfA_bydxm4ZbIW68-bml3csx_-u77-32bK2H8zqMui62kITtYkxEHPg1sfJnWyUVU8NazCF2IH52ErZx1odIlWhsXkkFMlaZUo6DD1ETaMidN7sNq3DtNREU3tbpOh-vZpqKp2Qj0hAUfZwEF-Ki2rcFCLB3RHahZsCb89S-knr0HxNHQUKQwAVTenVm5vozqxhOInQmkVOFiQmSxiFZJBBrxEix98hxYW3TB8hr0EebbjgAEnO7WyMXoW3izQfHvkRX7zG3WEqelzKTu9i_rkbfEU0QeSSXPBTDQgtctSGxmGn0AIlwBLFVTGUUEGgouPIsVo_xwfUuuVupgUUGmoRKjlnD0qUU2ebqgJdwFzlZBtEU2Ib0mJI5hEhlbnwJI_Cye87G2H64ZqCrMlxk93lRGHcNwQHxr16D3WKNSmBxm0Rbt3gI4DDGoqhRlcGonkXgdBkVHiZOBPzI7FmzmlI53Dkym5hLilwKKKrUx1T2AIpX50yOsV85slt6K7QJLtuE7A5QWBlm7_mmVf2E1GE0VnHj0dxGkm-DXQTH5uM89Mev0tJRx91WQzzSnHbEEveOL5a6PaOllkjeqShOP9y_gHK_TsU0dAX8DaJFby4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=G8Y_XnicdVRJjuNGEAT8Bv9CGIBV3H2TxEXNaVLNUnGri1BilUQ2i8twaVGC_-A_qGcMjI9jAwZ88jfGr7HavszBviQSEZHIzAAyf7rx8vdzMx7psCZO8H7fT_ZTl087uDx_7vqWTflYst-AbgBdViQFGsCAuikZkvw5pyMV7alkX4AmGbIGFBmauqIAXZe_FJwyUTZ8ezzy3mrzkv2qyJJkKLqqKUCSTdWEpvFLWdMT_5c2VFNRINA1BaqSASVTU197NnxVntZ7oJkavNfppqFIAMg6BOaPT2hr7f-H_PRh4v3l6x8BSfFioy0c0Z4XyF0t1m3d0XxcWBMV79YFrQ-8X_gle4fb8z1blv3xTbqmA1_kb4H15QvfH-hlWNR03udtK3i_L3h5KsZ9Xf8DnrppL3hzGos3pBum_bHt6_3x3qjtF8PUdW0_crav27Hg_aGlPftWMXwj6Skr6Rv26dTlb87_x3Kv9d1z9W6UBg1TVVTDMDRdg6_dy3grTh-nSfA_bydxm4ZbIW68-bml3csx_-u77-32bK2H8zqMui62kITtYkxEHPg1sfJnWyUVU8NazCF2IH52ErZx1odIlWhsXkkFMlaZUo6DD1ETaMidN7sNq3DtNREU3tbpOh-vZpqKp2Qj0hAUfZwEF-Ki2rcFCLB3RHahZsCb89S-knr0HxNHQUKQwAVTenVm5vozqxhOInQmkVOFiQmSxiFZJBBrxEix98hxYW3TB8hr0EebbjgAEnO7WyMXoW3izQfHvkRX7zG3WEqelzKTu9i_rkbfEU0QeSSXPBTDQgtctSGxmGn0AIlwBLFVTGUUEGgouPIsVo_xwfUuuVupgUUGmoRKjlnD0qUU2ebqgJdwFzlZBtEU2Ib0mJI5hEhlbnwJI_Cye87G2H64ZqCrMlxk93lRGHcNwQHxr16D3WKNSmBxm0Rbt3gI4DDGoqhRlcGonkXgdBkVHiZOBPzI7FmzmlI53Dkym5hLilwKKKrUx1T2AIpX50yOsV85slt6K7QJLtuE7A5QWBlm7_mmVf2E1GE0VnHj0dxGkm-DXQTH5uM89Mev0tJRx91WQzzSnHbEEveOL5a6PaOllkjeqShOP9y_gHK_TsU0dAX8DaJFby4"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRo0SxElgJ1UBRwDTr0OXSSGegTlus5sufMYKkIwW9nvipTONBUpb2q4TG_ANtBAS3RJWWhDAL8Qev8Q1-ic11TkoyKDthxE3C3s0syNcL7",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - rune_store",
+      "title": "H6 Flow Rgb Mid-tower Airflow Case With 3 Rgb Fans, Panoramic Glass",
+      "price": "$161.99",
+      "extracted_price": 161.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "lsPJ43icbY_LjtpIFIY1z2NFonzhMjvwBUI3RVP4ArWxCldhG7tclbLdNrxEXqFF0pF6lpNII80qr5E8zUBWWczm19F3vqOj_-OV5f90VXMktY09-BCr1n2SSbvVp92bVIK2SZPTr2PTHAwMYExGwLSMsWVY4C0hDSlFmtOXvzNGaJlXbH08MuWI5P8v_so5Sdmv9TcwMIbDMQCWBcbDiT4ybvFJ0frl9UPL1PnHvxDvfG0x1LxSdBqazzRbcEmSRnNaUr6zM8IPTGmrnL7zRXebprk63lWb1ExL7kFV_sziAznXGid9nAhRMhVnLE-zJub8F0xlG5esSpvsTmTdxkeheHy8PRJKq1sphWoYjbloMqYOgij6u1H_pihCc3Jnr6m8NXz5xO8hn5trln5u25J9v6blta2vWXll1RdB5PMx-fnHyRWdbdfdbBNIGTposL2EG8wBIi5qo3nmJlHzAXHZRgHyfT2bUZDoQSGaw6B_RBxFUej12N30aDftcLWEJLD2qKTOwfMKOocWnC_X68C6rHQMQ45PxG0eQv-9vi-y2q8KHV1wtw0LE_rIpdFkiYHoUUF1POglK6WNigwRQMXmDJ6ZSx9DJ3tIdKxvo9Q8XLIczcs9jhr1GCxXEEA78UvIqpkP58gPFqGz3sk2NOQJc7SlznvzEHgqKeBiVUiHlOkABbdGJd6E0WQXhhCzcmqsvb3uZtQ4VIjvd9CJCrzegsmZBuEmmUMQXJYz2ot8E6BLcip56K0Myifi0U8ayvEQGnhPFtgLThTTRfi0PwMbd5_7Wh1_DKae1WzX1tPpCRIwc4xwdDKCUZ5Ver8Yuim4pH-C0dgcmro5GY9M_T9rsSAI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lsPJ43icbY_LjtpIFIY1z2NFonzhMjvwBUI3RVP4ArWxCldhG7tclbLdNrxEXqFF0pF6lpNII80qr5E8zUBWWczm19F3vqOj_-OV5f90VXMktY09-BCr1n2SSbvVp92bVIK2SZPTr2PTHAwMYExGwLSMsWVY4C0hDSlFmtOXvzNGaJlXbH08MuWI5P8v_so5Sdmv9TcwMIbDMQCWBcbDiT4ybvFJ0frl9UPL1PnHvxDvfG0x1LxSdBqazzRbcEmSRnNaUr6zM8IPTGmrnL7zRXebprk63lWb1ExL7kFV_sziAznXGid9nAhRMhVnLE-zJub8F0xlG5esSpvsTmTdxkeheHy8PRJKq1sphWoYjbloMqYOgij6u1H_pihCc3Jnr6m8NXz5xO8hn5trln5u25J9v6blta2vWXll1RdB5PMx-fnHyRWdbdfdbBNIGTposL2EG8wBIi5qo3nmJlHzAXHZRgHyfT2bUZDoQSGaw6B_RBxFUej12N30aDftcLWEJLD2qKTOwfMKOocWnC_X68C6rHQMQ45PxG0eQv-9vi-y2q8KHV1wtw0LE_rIpdFkiYHoUUF1POglK6WNigwRQMXmDJ6ZSx9DJ3tIdKxvo9Q8XLIczcs9jhr1GCxXEEA78UvIqpkP58gPFqGz3sk2NOQJc7SlznvzEHgqKeBiVUiHlOkABbdGJd6E0WQXhhCzcmqsvb3uZtQ4VIjvd9CJCrzegsmZBuEmmUMQXJYz2ot8E6BLcip56K0Myifi0U8ayvEQGnhPFtgLThTTRfi0PwMbd5_7Wh1_DKae1WzX1tPpCRIwc4xwdDKCUZ5Ver8Yuim4pH-C0dgcmro5GY9M_T9rsSAI"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQRgbvYrd9mncC1D6wkKI8D2WPBPyY5C9uU8FeFjnzDIuN9qdOBYSytM0fOGlw8SqCn1vbLmqKErV59noWw_4gh0wlolsU2s37eRH3ZNDUYtp3iRPjT6mJ4yg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTSRiIhbJHZAuJuyUKy_Bt18Mgy2RaXwIpQIWmJQbA3tXWJy66QqGg3Jro8WqeZsOFdrz5lX3cY3cokEqxbW1WWt1l3Sekf_281Ge1ajA",
+      "source": "desertcart.co.za",
+      "title": "H6 Flow RGB | CC-H61FW-R1 | Compact Dual-Chamber Mid-Tower Airflow Case | Includes 3 x 120mm RGB Fans | Panoramic Glass Panels | High-Performance Airf",
+      "rating": 4.7,
+      "reviews": 383,
+      "price": "$909.83",
+      "extracted_price": 909.83,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "3GwQ9HicdZPJjttGEIaR5xEMdHMVcxuRIiV52JKaZFPDC9FkcxOby3DRQvgd8gqGbAdwjkmAADnlNSbIw0TyyYfk8qHw_3-hCgXUT7ek-ONcDynt9cBE78NuXO7aeHSEp_PXtmvYGA8F-20-n2uCBNU7FKjMZUUSvsZ0oLzJCvbx1zyhjBd1sk3TpDOa-L87fikqmiXf7N-hJIqiJCiKJMG5CmVZ0eRPHevfpJ0eQlEAczDXgKxCRdSgqqrihx3eGuH_mF9ex6S7vv2JgoM7WykzkzfnGbYWM72pWhoPM2Ok_J2e0ypKupldsHduc75XT0WXPqI67ZNZ_ADrilMSRvTazyp6CeOm4UkX5kmR5UNYVd_ErB1DntTZkD-Uth_DtOmqML0ParpZP7Zt0w0JC6tmyJMuamjHvk_030U6ygr60L5k7f0sHz9VD7Sn4ZZnn8eRJ3_dMn4b-1vOb0n9c0PbUxr__cM_y3Gt669rfe-1LTEwcMBGd0qmOBW_bq1LvweDgg2S70l7OICL5PjcR9UAGEEKm7Biu3zBjMUeLVv5xR_AAcApMsoBGQuAjpyz6lK4K8aJ4F0px2hfaUIM4JEd-Mpb5icCSZ5YZMIiUShkCwcEdeJp68AwRxu2mBnBGPl8bS9zF3nm4PncZEuOHF-6uAeycafASEwyeWIbeK65o5aGnSNRotV62rrBxfbxq082MK4xDkpuYt_sfQsW9nFBkPACvFLj9z2n6Bg4qN6YtJRb5GHLNk0rOHDZJsEagXKKALawJ-9sshCcZa67tSfsfXaKYK4gF0-BiSHz0RJZFxj5LI0E7LI691k56PEUPEd8ffbEUkysDBAgm9EBrZlgXl1PS_ewdR1v6ZgiG5kV5DFAFJfy80HcQEwW5xeRuHZpilaxWeAVum79wKMe6dARC2TFNq5oAhtszs-uLQcCbqgYvEdCXn--9F36Bp5MeXC28u64QxQuDJGoR9FTi7wWLitlmcEp-xGqc-n-V5I2VyXhX88mTlE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3GwQ9HicdZPJjttGEIaR5xEMdHMVcxuRIiV52JKaZFPDC9FkcxOby3DRQvgd8gqGbAdwjkmAADnlNSbIw0TyyYfk8qHw_3-hCgXUT7ek-ONcDynt9cBE78NuXO7aeHSEp_PXtmvYGA8F-20-n2uCBNU7FKjMZUUSvsZ0oLzJCvbx1zyhjBd1sk3TpDOa-L87fikqmiXf7N-hJIqiJCiKJMG5CmVZ0eRPHevfpJ0eQlEAczDXgKxCRdSgqqrihx3eGuH_mF9ex6S7vv2JgoM7WykzkzfnGbYWM72pWhoPM2Ok_J2e0ypKupldsHduc75XT0WXPqI67ZNZ_ADrilMSRvTazyp6CeOm4UkX5kmR5UNYVd_ErB1DntTZkD-Uth_DtOmqML0ParpZP7Zt0w0JC6tmyJMuamjHvk_030U6ygr60L5k7f0sHz9VD7Sn4ZZnn8eRJ3_dMn4b-1vOb0n9c0PbUxr__cM_y3Gt669rfe-1LTEwcMBGd0qmOBW_bq1LvweDgg2S70l7OICL5PjcR9UAGEEKm7Biu3zBjMUeLVv5xR_AAcApMsoBGQuAjpyz6lK4K8aJ4F0px2hfaUIM4JEd-Mpb5icCSZ5YZMIiUShkCwcEdeJp68AwRxu2mBnBGPl8bS9zF3nm4PncZEuOHF-6uAeycafASEwyeWIbeK65o5aGnSNRotV62rrBxfbxq082MK4xDkpuYt_sfQsW9nFBkPACvFLj9z2n6Bg4qN6YtJRb5GHLNk0rOHDZJsEagXKKALawJ-9sshCcZa67tSfsfXaKYK4gF0-BiSHz0RJZFxj5LI0E7LI691k56PEUPEd8ffbEUkysDBAgm9EBrZlgXl1PS_ewdR1v6ZgiG5kV5DFAFJfy80HcQEwW5xeRuHZpilaxWeAVum79wKMe6dARC2TFNq5oAhtszs-uLQcCbqgYvEdCXn--9F36Bp5MeXC28u64QxQuDJGoR9FTi7wWLitlmcEp-xGqc-n-V5I2VyXhX88mTlE"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTB0NHBgPsKs6foJ9tJxlUfWNJilqKnXopOX7mkzjXxQ8rPOeOXwGE5nR81ysXWJRafRn7yUi8DjBA-XNKRisGaUscypRQoMDii3xFBGqTR",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - biasioshop",
+      "title": "H6 Flow | Cc-h61fw-01 | Compact Dual-chamber Mid-tower Airflow Case |",
+      "price": "$130.99",
+      "extracted_price": 130.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "XOf7J3icbY9LjtNAFEXFeqyWXP7ENrNO_OkOnUqXv4knVsVVsZ1U2Y4_HSebYAutdIMEQxggMWIbsBocmDDgDa6e7j1PT_f9hRbfjmW3xe0stuG7pOmtxzrtPen2-KluKtKnXUG-quOIIgCiock60Ceqpn9KcYdZlRXk-UtOMWFFSZfbLW3MKv3_xeeC44z-jXWgTDRJnABF1EVdm4ja5KUh7fOHQ0-b08_vMF75wt1EsFl1FFxnKswqXuO0E8wes5tZjvmGNsKiIDd-dRy326LZXtEZbqmQXoU0xRNNNvjUChwPSVpVjDZJToss7xLO_5hZ3SeMllmXX5267ZNt1fBkOz6qGqHt67pqOkoSXnU5bTYVbsi_RPsP0mBS4Kv3IavHgs8v_Cr1U3fJs9e-Z_THJWOXvr3k7ELLjxWun7bprzc7qzrOZu1xioK6Dk1X9G0DYmswF456H-zBYb3vZG-XS1BsgWdPz9AkPvThPQIwCKN2iEMDpSZj2CZBeM73G7tep5ExYMtGEYMm3jFOGIHLu_lhZA--J6pemBdj-OCZeRTb04cwAuLmTLjv6GAt79U1Y0XgMORbUIlWLgxXLlhwOAQRW6NVOF864AmJ6OT56xON9ifC44ML4gOShnvqGEoYGPFyhRRckn1Yzn3PIXEKoEN2C2khGoxalhxZ6QkBW15IezXiQ4Qdw3elubUpIY_lmls5kTely9craEb7eOkB4zQ2RKkDQXCeT8lQFShwz-nYL7wjBfIZiIKjuj5PS6-MQ7SCbGOFLeKumFoZCNDr0Dbbn-KtrXbeUn3cPUIMpqYcajs50Iq8lIa7yQies7dA05WJIimGrinSbzhOHZo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XOf7J3icbY9LjtNAFEXFeqyWXP7ENrNO_OkOnUqXv4knVsVVsZ1U2Y4_HSebYAutdIMEQxggMWIbsBocmDDgDa6e7j1PT_f9hRbfjmW3xe0stuG7pOmtxzrtPen2-KluKtKnXUG-quOIIgCiock60Ceqpn9KcYdZlRXk-UtOMWFFSZfbLW3MKv3_xeeC44z-jXWgTDRJnABF1EVdm4ja5KUh7fOHQ0-b08_vMF75wt1EsFl1FFxnKswqXuO0E8wes5tZjvmGNsKiIDd-dRy326LZXtEZbqmQXoU0xRNNNvjUChwPSVpVjDZJToss7xLO_5hZ3SeMllmXX5267ZNt1fBkOz6qGqHt67pqOkoSXnU5bTYVbsi_RPsP0mBS4Kv3IavHgs8v_Cr1U3fJs9e-Z_THJWOXvr3k7ELLjxWun7bprzc7qzrOZu1xioK6Dk1X9G0DYmswF456H-zBYb3vZG-XS1BsgWdPz9AkPvThPQIwCKN2iEMDpSZj2CZBeM73G7tep5ExYMtGEYMm3jFOGIHLu_lhZA--J6pemBdj-OCZeRTb04cwAuLmTLjv6GAt79U1Y0XgMORbUIlWLgxXLlhwOAQRW6NVOF864AmJ6OT56xON9ifC44ML4gOShnvqGEoYGPFyhRRckn1Yzn3PIXEKoEN2C2khGoxalhxZ6QkBW15IezXiQ4Qdw3elubUpIY_lmls5kTely9craEb7eOkB4zQ2RKkDQXCeT8lQFShwz-nYL7wjBfIZiIKjuj5PS6-MQ7SCbGOFLeKumFoZCNDr0Dbbn-KtrXbeUn3cPUIMpqYcajs50Iq8lIa7yQies7dA05WJIimGrinSbzhOHZo"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "oPdNqXicxZXrbqs4EIAfYJ9j-ZPThNyaUAkdGciF3Gmaps0fxMUxJBBTG0Lzcx9i32Cfap9mDQkptEmqs9JqRwLj8Xg8tudj_vjLc3fbv3_70wnDgD5UKnEclxHGyINlC_sVgx52VmWNPUos5yfyxIhyFEfEgq4tWg7BPuQcT4Q77rAX65xFRZ6DrhjvwrVB5VV3MtRJ1JkFVjSvgZhL3Ym6aVC4Yau9b2hFr7DX9ve6wjplWoa7smDPIDTJFAqoXOOrQnlaMXxmAP5bQcBNXgiorKN-GZYB0r5zADrJW_6wy9x0cmZx2pMk5jG1kK_6Q2njdgBzOJN2TYcC0DsqrVuBDIrdbjJF1aRkE6p8DPSzXNqalLVavndRLgxKJ7_Z1hs310pEVYt-2LodPVVpxVXUvBMtUb-mn1MNQCUGToyGN2KVMVB6aK6hS7eclwA4s2wdE_Dsoio2YnnIV0zCmmrFtRwr_SA0SU_5SeBxrwuI2l8e8GTXn9jT4H3WtJWJ9NabhKhimczOw4YNbd3R-Z9pv1qrNnmh3mr_SLmw6BkMWgBj4XnmtD8aa7g8KkvVHBXofCo5SZSPF485O7wLE05HjI6XdsiGcPYhYY1N_pjYVVQpBiBDs5HkmoK-ZjTzfYGKVM5ojEFKRRqcfGxPjvJZgdB5Qi6P-p_Wy0cgZe5llbGX6XoF60LEMju27RmScdGV5nSO6SfNTyZTqVHgG2i5nnzcooYkqbgV9biDRs4uuRjEUllbsf4AofPPKJ2kngI6r_sRVJE-dgVIXnRu8npNbnFzEgSy9P-UzQUKIsN-iUEPjnlN6IBD3dy9Unszeqnr2uWsx775C_XA-t-5SKsFzqrFBS6cb7hIqwW6Xi1OSRRnXKR2Q0m-ysU2bYvVov-pWlziYlDk4nq1-OAiCeU2F9ItLqRrXLAf_hcutCtcZNUix8X2U7WQzqeaqD64-PVqYfy7apFiAo9NsXREG3S1hHRgy1oEy3n9bTwP6xST5446GGNhNLS-LyFrP3zwDdv7obv2g1QbhAf7h84U-AHa3Js4Wb08lfr3pa6H49JjTyrJ2A8MKywpkeHdyY7hm5CUxq5994Rj9gVcsk5MZcZoyUpeNnH3kDF7oCXfeNctjD1IdAe6yAl130-VKIh0D-5Q6CSagEb6GhNfX7OFMCnRKAgwCdkGfBw6kJjYIHbeguZMiGG7RqLjfI9gkTfu3YUb68pLfXQX1GjYD-HK81utmYBfbTvS9-vX6ODtyX5YfY8m_LytRKB3P-tuujvNHoUvKzRtx8-WCxp4i5z5faA8K-vt8wC6rvZenXutqTdRFv5y_CjNO51m_Ooi_k5Z75-Dlfm4bU2NQTyv9djInTDcbJppVFQcLduLxZIsNgLifGKJLL0bCEw0sEQMPpnlrozYg9kTsyThqGXokO7Fmi2shWaLN8x202jfQ85H4SEQBZ6jOyJW_wGzOGC1",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oPdNqXicxZXrbqs4EIAfYJ9j-ZPThNyaUAkdGciF3Gmaps0fxMUxJBBTG0Lzcx9i32Cfap9mDQkptEmqs9JqRwLj8Xg8tudj_vjLc3fbv3_70wnDgD5UKnEclxHGyINlC_sVgx52VmWNPUos5yfyxIhyFEfEgq4tWg7BPuQcT4Q77rAX65xFRZ6DrhjvwrVB5VV3MtRJ1JkFVjSvgZhL3Ym6aVC4Yau9b2hFr7DX9ve6wjplWoa7smDPIDTJFAqoXOOrQnlaMXxmAP5bQcBNXgiorKN-GZYB0r5zADrJW_6wy9x0cmZx2pMk5jG1kK_6Q2njdgBzOJN2TYcC0DsqrVuBDIrdbjJF1aRkE6p8DPSzXNqalLVavndRLgxKJ7_Z1hs310pEVYt-2LodPVVpxVXUvBMtUb-mn1MNQCUGToyGN2KVMVB6aK6hS7eclwA4s2wdE_Dsoio2YnnIV0zCmmrFtRwr_SA0SU_5SeBxrwuI2l8e8GTXn9jT4H3WtJWJ9NabhKhimczOw4YNbd3R-Z9pv1qrNnmh3mr_SLmw6BkMWgBj4XnmtD8aa7g8KkvVHBXofCo5SZSPF485O7wLE05HjI6XdsiGcPYhYY1N_pjYVVQpBiBDs5HkmoK-ZjTzfYGKVM5ojEFKRRqcfGxPjvJZgdB5Qi6P-p_Wy0cgZe5llbGX6XoF60LEMju27RmScdGV5nSO6SfNTyZTqVHgG2i5nnzcooYkqbgV9biDRs4uuRjEUllbsf4AofPPKJ2kngI6r_sRVJE-dgVIXnRu8npNbnFzEgSy9P-UzQUKIsN-iUEPjnlN6IBD3dy9Unszeqnr2uWsx775C_XA-t-5SKsFzqrFBS6cb7hIqwW6Xi1OSRRnXKR2Q0m-ysU2bYvVov-pWlziYlDk4nq1-OAiCeU2F9ItLqRrXLAf_hcutCtcZNUix8X2U7WQzqeaqD64-PVqYfy7apFiAo9NsXREG3S1hHRgy1oEy3n9bTwP6xST5446GGNhNLS-LyFrP3zwDdv7obv2g1QbhAf7h84U-AHa3Js4Wb08lfr3pa6H49JjTyrJ2A8MKywpkeHdyY7hm5CUxq5994Rj9gVcsk5MZcZoyUpeNnH3kDF7oCXfeNctjD1IdAe6yAl130-VKIh0D-5Q6CSagEb6GhNfX7OFMCnRKAgwCdkGfBw6kJjYIHbeguZMiGG7RqLjfI9gkTfu3YUb68pLfXQX1GjYD-HK81utmYBfbTvS9-vX6ODtyX5YfY8m_LytRKB3P-tuujvNHoUvKzRtx8-WCxp4i5z5faA8K-vt8wC6rvZenXutqTdRFv5y_CjNO51m_Ooi_k5Z75-Dlfm4bU2NQTyv9djInTDcbJppVFQcLduLxZIsNgLifGKJLL0bCEw0sEQMPpnlrozYg9kTsyThqGXokO7Fmi2shWaLN8x202jfQ85H4SEQBZ6jOyJW_wGzOGC1"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "H6 Flow RGB | Gaming PC Cases",
+      "link": "https://nzxt.com/products/h6-flow-rgb?srsltid=AfmBOopjUb2nWmG94r2ZgrtrO5ZHrS26i2mehBclNsN1dDlsyOoU-ORm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6-flow-rgb%3Fsrsltid%3DAfmBOopjUb2nWmG94r2ZgrtrO5ZHrS26i2mehBclNsN1dDlsyOoU-ORm&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDUQAQ",
+      "displayed_link": "https://nzxt.com › products › h6-flow-rgb",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "The NZXT H6 Flow RGB is a premium gaming PC case with vibrant RGB lighting, spacious GPU support, efficient cooling, and multiple illuminated fans.",
+      "snippet_highlighted_words": [
+        "premium gaming PC case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The NZXT H6 Flow RGB is a premium gaming PC case with vibrant RGB lighting, spacious GPU support, efficient cooling, and multiple illuminated fans.",
+          "source_info_link": "https://nzxt.com/products/h6-flow-rgb?srsltid=AfmBOopjUb2nWmG94r2ZgrtrO5ZHrS26i2mehBclNsN1dDlsyOoU-ORm",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6-flow-rgb%3Fsrsltid%3DAfmBOopjUb2nWmG94r2ZgrtrO5ZHrS26i2mehBclNsN1dDlsyOoU-ORm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6-flow-rgb%3Fsrsltid%3DAfmBOopjUb2nWmG94r2ZgrtrO5ZHrS26i2mehBclNsN1dDlsyOoU-ORm",
+      "source": "NZXT",
+      "read_more_link": "https://nzxt.com/products/h6-flow-rgb?srsltid=AfmBOopjUb2nWmG94r2ZgrtrO5ZHrS26i2mehBclNsN1dDlsyOoU-ORm"
+    },
+    {
+      "position": 2,
+      "title": "H6 Flow | Gaming PC Cases",
+      "link": "https://nzxt.com/products/h6-flow?srsltid=AfmBOoqfYVtNIaVyEKiE6yFh5UO3SiW3o-MVW4VK-y0CK0fg9O2qCxGJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6-flow%3Fsrsltid%3DAfmBOoqfYVtNIaVyEKiE6yFh5UO3SiW3o-MVW4VK-y0CK0fg9O2qCxGJ&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDIQAQ",
+      "displayed_link": "https://nzxt.com › products › h6-flow",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "The NZXT H6 Flow is a white, modern computer case featuring a panoramic glass side panel, interior mounting slots, three front cooling fans for GPU cooling, ...",
+      "snippet_highlighted_words": [
+        "NZXT H6 Flow",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The NZXT H6 Flow is a white, modern computer case featuring a panoramic glass side panel, interior mounting slots, three front cooling fans for GPU cooling, ...",
+          "source_info_link": "https://nzxt.com/products/h6-flow?srsltid=AfmBOoqfYVtNIaVyEKiE6yFh5UO3SiW3o-MVW4VK-y0CK0fg9O2qCxGJ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6-flow%3Fsrsltid%3DAfmBOoqfYVtNIaVyEKiE6yFh5UO3SiW3o-MVW4VK-y0CK0fg9O2qCxGJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6-flow%3Fsrsltid%3DAfmBOoqfYVtNIaVyEKiE6yFh5UO3SiW3o-MVW4VK-y0CK0fg9O2qCxGJ",
+      "source": "NZXT",
+      "read_more_link": "https://nzxt.com/products/h6-flow?srsltid=AfmBOoqfYVtNIaVyEKiE6yFh5UO3SiW3o-MVW4VK-y0CK0fg9O2qCxGJ"
+    },
+    {
+      "position": 3,
+      "title": "NZXT H6 Flow RGB Mid-Tower Airflow Case with 3 ...",
+      "link": "https://www.amazon.com/NZXT-CC-H61FB-R1-Dual-Chamber-High-Performance-Management/dp/B0C89F1V5S",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FNZXT-CC-H61FB-R1-Dual-Chamber-High-Performance-Management%2Fdp%2FB0C89F1V5S&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDMQAQ",
+      "displayed_link": "https://www.amazon.com › NZXT-CC-H61FB-R1-Dual-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Compact dual-chamber design improves overall thermal performance and creates a clean, uncrowded aesthetic. Includes three pre-installed 120mm RGB fans ...",
+      "snippet_highlighted_words": [
+        "Compact dual",
+        "chamber",
+        "RGB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compact dual-chamber design improves overall thermal performance and creates a clean, uncrowded aesthetic. Includes three pre-installed 120mm RGB fans ...",
+          "source_info_link": "https://www.amazon.com/NZXT-CC-H61FB-R1-Dual-Chamber-High-Performance-Management/dp/B0C89F1V5S",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FNZXT-CC-H61FB-R1-Dual-Chamber-High-Performance-Management%2Fdp%2FB0C89F1V5S&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FNZXT-CC-H61FB-R1-Dual-Chamber-High-Performance-Management%2Fdp%2FB0C89F1V5S",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/NZXT-CC-H61FB-R1-Dual-Chamber-High-Performance-Management/dp/B0C89F1V5S"
+    },
+    {
+      "position": 4,
+      "title": "r/NZXT - H6 flow is amazing",
+      "link": "https://www.reddit.com/r/NZXT/comments/18hw3if/h6_flow_is_amazing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FNZXT%2Fcomments%2F18hw3if%2Fh6_flow_is_amazing%2F&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDYQAQ",
+      "displayed_link": "100+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "NZXT H6 Flow case reviews and opinions. This is a dual-chamber case, its a really nice case, roomy and plenty of air flow. Just a 360mm AIO on ...",
+      "snippet_highlighted_words": [
+        "NZXT H6 Flow case",
+        "dual",
+        "chamber case",
+        "case",
+        "air flow"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NZXT H6 Flow case reviews and opinions. This is a dual-chamber case, its a really nice case, roomy and plenty of air flow. Just a 360mm AIO on ...",
+          "source_info_link": "https://www.reddit.com/r/NZXT/comments/18hw3if/h6_flow_is_amazing/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FNZXT%2Fcomments%2F18hw3if%2Fh6_flow_is_amazing%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FNZXT%2Fcomments%2F18hw3if%2Fh6_flow_is_amazing%2F",
+      "source": "Reddit · r/NZXT"
+    },
+    {
+      "position": 5,
+      "title": "NZXT just FIXED Dual Chamber Cases! A look at the new ...",
+      "link": "https://www.reddit.com/r/pcmasterrace/comments/17m742e/nzxt_just_fixed_dual_chamber_cases_a_look_at_the/",
+      "displayed_link": "3 comments · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4g_9Uso16PmtPPnS4zzNmW7fKS97FfCbZqF3qzcAFT7tjFyVq9wp0sg&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "[Case] NZXT H6 Flow (Non-RGB) ATX Mid-Tower PC Case White Version - Free Shipping ($109.99-$35 = $74.99). 39. 14. Best AIO for the Nzxt H6 Flow.",
+      "duration": "10:04",
+      "about_this_result": {
+        "source": {
+          "description": "[Case] NZXT H6 Flow (Non-RGB) ATX Mid-Tower PC Case White Version - Free Shipping ($109.99-$35 = $74.99). 39. 14. Best AIO for the Nzxt H6 Flow.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fpcmasterrace%2Fcomments%2F17m742e%2Fnzxt_just_fixed_dual_chamber_cases_a_look_at_the%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fpcmasterrace%2Fcomments%2F17m742e%2Fnzxt_just_fixed_dual_chamber_cases_a_look_at_the%2F",
+      "source": "Reddit · r/pcmasterrace"
+    },
+    {
+      "position": 6,
+      "title": "NZXT H6 | Compact Dual-Chamber ATX Airflow Case",
+      "link": "https://nzxt.com/products/h6?srsltid=AfmBOooLKwpStY7qskajYJ05n3z-WE1UATAMjejJ0TAY6uCjhuE_9VMU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6%3Fsrsltid%3DAfmBOooLKwpStY7qskajYJ05n3z-WE1UATAMjejJ0TAY6uCjhuE_9VMU&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDQQAQ",
+      "displayed_link": "https://nzxt.com › products › h6",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "The H6 is a compact mid-tower PC case built. Support for up to 10 x 120 mm fans, radiators up to 360 mm,",
+      "snippet_highlighted_words": [
+        "H6",
+        "compact mid",
+        "tower",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The H6 is a compact mid-tower PC case built. Support for up to 10 x 120 mm fans, radiators up to 360 mm,",
+          "source_info_link": "https://nzxt.com/products/h6?srsltid=AfmBOooLKwpStY7qskajYJ05n3z-WE1UATAMjejJ0TAY6uCjhuE_9VMU",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6%3Fsrsltid%3DAfmBOooLKwpStY7qskajYJ05n3z-WE1UATAMjejJ0TAY6uCjhuE_9VMU&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh6%3Fsrsltid%3DAfmBOooLKwpStY7qskajYJ05n3z-WE1UATAMjejJ0TAY6uCjhuE_9VMU",
+      "source": "NZXT"
+    },
+    {
+      "position": 7,
+      "title": "NZXT H6 Flow RGB Review",
+      "link": "https://www.techpowerup.com/review/nzxt-h6-flow-rgb/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fnzxt-h6-flow-rgb%2F&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDEQAQ",
+      "displayed_link": "https://www.techpowerup.com › review › nzxt-h6-flow...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "date": "Jun 4, 2024",
+      "snippet": "The H6 Flow is NZXT&#39;s most compact dual-chamber chassis, Weight: 9.4 kg Slots: 7 Drive Bays: Dimensions: 435 x 287 x 415 mm",
+      "snippet_highlighted_words": [
+        "H6 Flow",
+        "compact dual",
+        "chamber",
+        "Drive Bays"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0
+          },
+          "extensions": [
+            "4.0",
+            "Review by Darksaber (TPU)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The H6 Flow is NZXT&#39;s most compact dual-chamber chassis, Weight: 9.4 kg Slots: 7 Drive Bays: Dimensions: 435 x 287 x 415 mm",
+          "source_info_link": "https://www.techpowerup.com/review/nzxt-h6-flow-rgb/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fnzxt-h6-flow-rgb%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fnzxt-h6-flow-rgb%2F",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 8,
+      "title": "H6 Flow RGB ATX Mid-Tower PC Case with Dual Chamber",
+      "link": "https://www.bestbuy.com/product/nzxt-h6-flow-rgb-atx-mid-tower-pc-case-with-dual-chamber-black/J3GWJHQ7HS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-h6-flow-rgb-atx-mid-tower-pc-case-with-dual-chamber-black%2FJ3GWJHQ7HS&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQFnoECDAQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Computer Cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "The angled front-right corner with 3x 120mm fans targets heat-prone components. Supports 2x 140mm fans beneath the GPU for optimall cooling while perforated ...",
+      "about_this_result": {
+        "source": {
+          "description": "The angled front-right corner with 3x 120mm fans targets heat-prone components. Supports 2x 140mm fans beneath the GPU for optimall cooling while perforated ...",
+          "source_info_link": "https://www.bestbuy.com/product/nzxt-h6-flow-rgb-atx-mid-tower-pc-case-with-dual-chamber-black/J3GWJHQ7HS",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-h6-flow-rgb-atx-mid-tower-pc-case-with-dual-chamber-black%2FJ3GWJHQ7HS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-h6-flow-rgb-atx-mid-tower-pc-case-with-dual-chamber-black%2FJ3GWJHQ7HS",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/product/nzxt-h6-flow-rgb-atx-mid-tower-pc-case-with-dual-chamber-black/J3GWJHQ7HS"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NZXT H6 Flow RGB Fan setup",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+Flow+RGB+Fan+setup&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Fan+setup"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H6 Flow dimensions",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+Flow+dimensions&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+dimensions"
+    },
+    {
+      "block_position": 1,
+      "query": "Nzxt h6 flow 2026",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Nzxt+h6+flow+2026&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nzxt+h6+flow+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H6 Flow manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+Flow+manual&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H6 Flow RGB Mid Tower Airflow case",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+Flow+RGB+Mid+Tower+Airflow+case&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Mid+Tower+Airflow+case"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H6 Flow dimensions in cm",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+Flow+dimensions+in+cm&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+dimensions+in+cm"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H6 flow motherboard Compatibility",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+flow+motherboard+Compatibility&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+flow+motherboard+Compatibility"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H6 Flow RGB ATX Mid Tower PC case with dual-chamber Black",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+H6+Flow+RGB+ATX+Mid+Tower+PC+case+with+dual-chamber+Black&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+ATX+Mid+Tower+PC+case+with+dual-chamber+Black"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&q=reviews+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYEiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAF6BAgdECY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?gl=us&q=ebay+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIICAISBGVCYXlYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAJ6BAgdECc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA1klEQVQ4je2QsQrCMBCGLy7i0AMHBXHolk0QhYBLVgWd7gHEtygugltWHX2HrKVzxz5BsmUo4tjFOS4qmFrQVfwhy5e7j58D7z2EzxjDiUgjYoWIFRFpYwx_N9uCINZaLqXMhRCFcy52zsVCiEJKmVtreThfMxKRVkolIVdKJUSkQ14TIGKVZdk85GmaLhCxCjnz3sN5OvOPRsPJ6aXhdTm-NwVgDODQ6T3_tvMLq92gKYy95x8LmvIX_I6g1e-V3y5G7UH5FHT3u803kqg9KFej4xoA4AZnTaLHZTruywAAAABJRU5ErkJggg.png"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&q=new+NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYCiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIHCAoSA05ld1ivsSBgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAN6BAgdECk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&q=used+NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYCiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIICAoSBFVzZWRYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAR6BAgdECo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYEiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAV6BAgdECs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+sale&hl=en&shoprs=CAESBEoCGAEYBiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczITCAYSB09uIHNhbGUYAiIESgIYAVivsSBgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAZ6BAgdECw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+sale"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+sale&hl=en&shoprs=CAEYEiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAd6BAgdEC0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+sale"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&q=nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczImCBQSDUdldCBpdCBieSBUaHUiDZoBCgoIEAI4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAh6BAgdEC4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&q=black+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYASq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIXCAESBUJsYWNrOgwIsc3-ARCyzf4BMABYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAl6BAgdEC8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&q=buy+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYEiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAp6BAgdEDA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&q=white+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYASq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIXCAESBVdoaXRlOgwIsc3-ARCzzf4BMABYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAt6BAgdEDE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Under $450",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+under+%24450&hl=en&shoprs=CAESDRILEQAAAIB00rpBGAEYBSq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIjCAUSClVuZGVyICQ0NTAYAiINEgsRAAAAgHTSukEYASoCGAFYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKAx6BAgdEDI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+under+%24450"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?gl=us&q=replacement+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYEiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIPCBISC1JlcGxhY2VtZW50YAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKA16BAgdEDM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Gaming Desktop Computer Cases",
+      "link": "https://www.google.com/search?gl=us&q=gaming+desktop+computer+cases+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYCSq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIhCAkSHUdhbWluZyBEZXNrdG9wIENvbXB1dGVyIENhc2VzYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKA56BAgdEDQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+desktop+computer+cases+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Desktop Computer Cases",
+      "link": "https://www.google.com/search?gl=us&q=desktop+computer+cases+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYCSq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIaCAkSFkRlc2t0b3AgQ29tcHV0ZXIgQ2FzZXNgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKA96BAgdEDU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computer+cases+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?gl=us&q=best+buy+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIMCAISCEJlc3QgQnV5WK-xIGAB&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBB6BAgdEDY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "For Gaming",
+      "link": "https://www.google.com/search?gl=us&q=nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+gaming&hl=en&shoprs=CAEYASq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIcCAESCkZvciBHYW1pbmcYAjoKCMTTdxDF03cwA1ivsSBgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBF6BAgdEDg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+gaming"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+free+shipping&hl=en&shoprs=CAESBFICEAEYGSq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBJ6BAgdEDk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+free+shipping"
+    },
+    {
+      "query": "Adorama",
+      "link": "https://www.google.com/search?gl=us&q=adorama+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczILCAISB0Fkb3JhbWFYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBN6BAgdEDo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=adorama+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQodioVvsAAAAEHRSTlMAeiaNN2fNmvCtR7kYVA_cRkZyngAAAUxJREFUOI19U4muwyAMKyEJ1yj-_699gdKydeuLJk2Vc9hO2LYVNZRoUXLefsQrAaDmmRkE2e94wBHOg3YiKukD3iPOKJyJOQaP18LpRGsModmILEWl8lW_yuElqNMmzok6mgmrP6DJklJJTlKh8MnPIknOkiCiwTUWJ0PfBfslyeWas2nqatOJ82LNCA6w2mIfP_CeoWTc2WjWe_85RQ2giHpRvFsLrTki5E0n_3tCQknBm-PTBLknCBLYFz05fm04m-_SQvonATuq4nlE7CsS90wyEuwK9FkmrLeReDRqnJcmGlb7b6ubIsAMH46gfi-r2NItoVP7sW7f59uPj7ucNJWug7GeQfkFckfB-8kNQeM8eUnrjjg_x7jDt96WrsO35rG34fnfCah7fxjz4czrk-PjDV9MSzttCXdrx-OFL0PQvXyGaev69aP4D5O5HPV8SgrrAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?gl=us&q=walmart+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczILCAISB1dhbG1hcnRYr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBR6BAgdEDw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/W9cfSC7is-C0iXmeQoF89VlYjlpiCewZUJZpStpedkQ.png"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?gl=us&q=target+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIKCAISBlRhcmdldFivsSBgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBV6BAgdED4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=target+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "B&H Photo-Video-Audio",
+      "link": "https://www.google.com/search?gl=us&q=b%26h+photo-video-audio+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIZCAISFUImSCBQaG90by1WaWRlby1BdWRpb1ivsSBgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBZ6BAgdEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=b%26h+photo-video-audio+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEVHcEy_Kya_Kyb6vkO_Kya_KSW_Kya_KiW9JSTAKya_Kya_KybTVS-_Kyb4uUHwoj69HSS_Kya_Kya_KybNUSzUYTHokzv0sUC_KybBHyW9JEW_Kya8HSS-JCX_yEX_0kf8wkTQWi7XbDLmkDn0rT-6DiPJSSvdejTihjfGNykJR_A2AAAAGnRSTlMA3Vb6BXm0chLQwbseXeA2pDvt_dBkDtjm_awGBdsAAAEBSURBVDiN3ZNbU4MwEIXDLbFyVVp1JtnNDWj7__-gm3R0wgC-6YPnhZPlm92TBBj7FxLfal9omQdXBceqWGUy0VCyOpqK3peP2goYa8ajEQeAlOUBkNX1azTtAUAz21FKUGKAIyAfJbhJF_YrJFuN4JxG3BG9MRbimvNNSLhqO9_1Ta1ip4DTbrY_ABIMOmMW2AIjz3PxIZVDRAsA2w4hdQvWIE4SrIXsmZQCYd_DUhjntZ9xUoKV5eaowyYUeD1RzN27UF7TcJg0ncQuQB2cgpmCXvc7AGXw7maMwSX9Hk6JugKL9_O56y4ByGKNPSVq-r5v6NG8hct61P74D_glfQKFrTTPrxrDNgAAAABJRU5ErkJggg.png"
+    },
+    {
+      "query": "Newegg Business",
+      "link": "https://www.google.com/search?gl=us&q=newegg+business+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczITCAISD05ld2VnZyBCdXNpbmVzc1ivsSBgAQ&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBd6BAgdEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=newegg+business+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/W9cfSC7is-C0iXmeQoF89ZzE5d_w-Va6exxDLDpu5KM.png"
+    },
+    {
+      "query": "Newegg.com",
+      "link": "https://www.google.com/search?gl=us&q=newegg.com+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&shoprs=CAEYAiq6AW56eHQgaDYgZmxvdyByZ2IgY29tcGFjdCBkdWFsIGNoYW1iZXIgbWlkIHRvd2VyIGFpcmZsb3cgY2FzZSBjYXNlIGRyaXZlX2JheXMgbWF4X2Nvb2xlcl9oZWlnaHRfbW0gbWF4X2dwdV9sZW5ndGhfbW0gcHN1X2Zvcm1fZmFjdG9yIHN1cHBvcnRlZF9tb3RoZXJib2FyZF9mb3JtX2ZhY3RvcnMgc3VwcG9ydGVkX3JhZGlhdG9yczIOCAISCk5ld2VnZy5jb21Yr7EgYAE&sa=X&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQip4GKBh6BAgdEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=newegg.com+nzxt+h6+flow+rgb+compact+dual+chamber+mid+tower+airflow+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bc1e827070fcbd87a28/images/W9cfSC7is-C0iXmeQoF89aTsqMgxPb94EMyQXdfa7Bg.png"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=10&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8NMDegQIaRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=10&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAE",
+      "3": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=20&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAG",
+      "4": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=30&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAI",
+      "5": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=40&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAK",
+      "6": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=50&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAM",
+      "7": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=60&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAO",
+      "8": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=70&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAQ",
+      "9": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=80&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAS",
+      "10": "https://www.google.com/search?q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=wntfasCZFNK_ruEPpcuS2Aw&start=90&sa=N&sstk=AU9db-DZHDnX6oFZZW86-oVI6Nm8Fy3U1l2KOyEbNdFy3ZIpr4Dgngc4W1iY9NFfDtwJSySIcx-1n_wyajjwelf3VVZwd34rzTF2jA&ved=2ahUKEwjAgqix9-OVAxXSnysGHaWlBMsQ8tMDegQIaRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H6+Flow+RGB+Compact+Dual-Chamber+Mid-Tower+Airflow+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=90"
+    }
+  }
+}

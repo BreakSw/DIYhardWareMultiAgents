@@ -1,0 +1,547 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a6cae678c4b29fdf296",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BAKaEXY66b04z8yWnevFzQ/6a5f7a6cae678c4b29fdf296.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BAKaEXY66b04z8yWnevFzQ/6a5f7a6cae678c4b29fdf296.json_with_pixel_position",
+    "created_at": "2026-07-21 13:55:56 UTC",
+    "processed_at": "2026-07-21 13:55:56 UTC",
+    "google_url": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&oq=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BAKaEXY66b04z8yWnevFzQ/6a5f7a6cae678c4b29fdf296.html",
+    "total_time_taken": 5.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ASRock Z690 Taichi Razer Edition Motherboard motherboard m2_slots",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ASRock Z690 Taichi Razer Edition Motherboard motherboard m2_slots",
+    "total_results": 653,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Z690 Taichi Razer Edition",
+      "link": "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/Specification.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asrock.com%2Fmb%2FIntel%2FZ690%2520Taichi%2520Razer%2520Edition%2FSpecification.asp&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECBgQAQ",
+      "displayed_link": "https://www.asrock.com › ... › Z690 Taichi Razer Edition",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABkklEQVR4AY2SQ6AcQRCGu6pHsW3btm3bySXmNbq_S3zKKcYlOMV5tm3bxmJ6a71P4-n_KzcwxjZeHgTIkAMiA_3JGaB4IgJwp3Vkr29lQ6dpUkHypBVFPrP53ooZexRZY07HhReTdUzy9H1k7Z0tC88wj6M8t6n_aBXd6L49B21ddJaIpuaGyppShwUwHUa3vPeuuKTKXXTVYGi583jXy-8P7TxS8s50v95D1s89RrJ35NeUvKiuvSQnAxAFO_dk_4qriiQKNZlMH_48VntwLoMjJXsEogf1HbFm1iGSguJ_ZhUldOuFgA6eMLT3e9_yaxJXSPv054naFeQu3NnAQgMSPbTf6BXT9pEQkxaQmB3ctY8kGgjgMABK3jKHfctvSFwm4fO_J3JXVLsIySUlao9ODxswYenkXbSalhcTmvy7W29ONKBHBOCwf9kNUTu5__9U0VDrLrIXNuBcg2XlmNcI3aa2wtBSb2Q6hKzXIFnrISJQlY11hpoSg-WbDZ6oCQ8nH4-yb0nKxE7bx0rrXtuTzcAGVCvy0AQGAAAAAElFTkSuQmCC.png",
+      "snippet": "Z690 Taichi Razer Edition · Supports 14th, 13th & 12th Gen Intel® Core™ Processors (LGA1700) · 20 Phase SPS Dr. · 4 x DDR5 DIMMs · 2 PCIe 5.0 x16, 1 PCIe 4.0 x16, 1 ...",
+      "snippet_highlighted_words": [
+        "Z690 Taichi Razer Edition"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Z690 Taichi Razer Edition · Supports 14th, 13th & 12th Gen Intel® Core™ Processors (LGA1700) · 20 Phase SPS Dr. · 4 x DDR5 DIMMs · 2 PCIe 5.0 x16, 1 PCIe 4.0 x16, 1 ...",
+          "source_info_link": "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/Specification.asp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABkklEQVR4AY2SQ6AcQRCGu6pHsW3btm3bySXmNbq_S3zKKcYlOMV5tm3bxmJ6a71P4-n_KzcwxjZeHgTIkAMiA_3JGaB4IgJwp3Vkr29lQ6dpUkHypBVFPrP53ooZexRZY07HhReTdUzy9H1k7Z0tC88wj6M8t6n_aBXd6L49B21ddJaIpuaGyppShwUwHUa3vPeuuKTKXXTVYGi583jXy-8P7TxS8s50v95D1s89RrJ35NeUvKiuvSQnAxAFO_dk_4qriiQKNZlMH_48VntwLoMjJXsEogf1HbFm1iGSguJ_ZhUldOuFgA6eMLT3e9_yaxJXSPv054naFeQu3NnAQgMSPbTf6BXT9pEQkxaQmB3ctY8kGgjgMABK3jKHfctvSFwm4fO_J3JXVLsIySUlao9ODxswYenkXbSalhcTmvy7W29ONKBHBOCwf9kNUTu5__9U0VDrLrIXNuBcg2XlmNcI3aa2wtBSb2Q6hKzXIFnrISJQlY11hpoSg-WbDZ6oCQ8nH4-yb0nKxE7bx0rrXtuTzcAGVCvy0AQGAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asrock.com%2Fmb%2FIntel%2FZ690+Taichi+Razer+Edition%2FSpecification.asp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asrock.com%2Fmb%2FIntel%2FZ690%2520Taichi%2520Razer%2520Edition%2FSpecification.asp",
+      "source": "ASRock",
+      "read_more_link": "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/Specification.asp"
+    },
+    {
+      "position": 2,
+      "title": "ASRock x Razer",
+      "link": "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asrock.com%2Fmb%2FIntel%2FZ690%2520Taichi%2520Razer%2520Edition%2F&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECB8QAQ",
+      "displayed_link": "https://www.asrock.com › Z690 Taichi Razer Edition",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABkklEQVR4AY2SQ6AcQRCGu6pHsW3btm3bySXmNbq_S3zKKcYlOMV5tm3bxmJ6a71P4-n_KzcwxjZeHgTIkAMiA_3JGaB4IgJwp3Vkr29lQ6dpUkHypBVFPrP53ooZexRZY07HhReTdUzy9H1k7Z0tC88wj6M8t6n_aBXd6L49B21ddJaIpuaGyppShwUwHUa3vPeuuKTKXXTVYGi583jXy-8P7TxS8s50v95D1s89RrJ35NeUvKiuvSQnAxAFO_dk_4qriiQKNZlMH_48VntwLoMjJXsEogf1HbFm1iGSguJ_ZhUldOuFgA6eMLT3e9_yaxJXSPv054naFeQu3NnAQgMSPbTf6BXT9pEQkxaQmB3ctY8kGgjgMABK3jKHfctvSFwm4fO_J3JXVLsIySUlao9ODxswYenkXbSalhcTmvy7W29ONKBHBOCwf9kNUTu5__9U0VDrLrIXNuBcg2XlmNcI3aa2wtBSb2Q6hKzXIFnrISJQlY11hpoSg-WbDZ6oCQ8nH4-yb0nKxE7bx0rrXtuTzcAGVCvy0AQGAAAAAElFTkSuQmCC.png",
+      "snippet": "The reinforced DIMM slot is surfaced mounted onto the motherboard to give better physical strength as well as a more stable memory signal, with this superior ...",
+      "snippet_highlighted_words": [
+        "motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The reinforced DIMM slot is surfaced mounted onto the motherboard to give better physical strength as well as a more stable memory signal, with this superior ...",
+          "source_info_link": "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABkklEQVR4AY2SQ6AcQRCGu6pHsW3btm3bySXmNbq_S3zKKcYlOMV5tm3bxmJ6a71P4-n_KzcwxjZeHgTIkAMiA_3JGaB4IgJwp3Vkr29lQ6dpUkHypBVFPrP53ooZexRZY07HhReTdUzy9H1k7Z0tC88wj6M8t6n_aBXd6L49B21ddJaIpuaGyppShwUwHUa3vPeuuKTKXXTVYGi583jXy-8P7TxS8s50v95D1s89RrJ35NeUvKiuvSQnAxAFO_dk_4qriiQKNZlMH_48VntwLoMjJXsEogf1HbFm1iGSguJ_ZhUldOuFgA6eMLT3e9_yaxJXSPv054naFeQu3NnAQgMSPbTf6BXT9pEQkxaQmB3ctY8kGgjgMABK3jKHfctvSFwm4fO_J3JXVLsIySUlao9ODxswYenkXbSalhcTmvy7W29ONKBHBOCwf9kNUTu5__9U0VDrLrIXNuBcg2XlmNcI3aa2wtBSb2Q6hKzXIFnrISJQlY11hpoSg-WbDZ6oCQ8nH4-yb0nKxE7bx0rrXtuTzcAGVCvy0AQGAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asrock.com%2Fmb%2FIntel%2FZ690+Taichi+Razer+Edition%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asrock.com%2Fmb%2FIntel%2FZ690%2520Taichi%2520Razer%2520Edition%2F",
+      "source": "ASRock",
+      "read_more_link": "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/"
+    },
+    {
+      "position": 3,
+      "title": "[Motherboard] ASRock Z690 Taichi Razer Edition ATX",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/15wyq18/motherboard_asrock_z690_taichi_razer_edition_atx/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F15wyq18%2Fmotherboard_asrock_z690_taichi_razer_edition_atx%2F&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECCUQAQ",
+      "displayed_link": "30+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "chi Razer Edition ATX - $249.99 (Originally $589.99) Beautiful implementation of RGB, power/reset switch, and an error display.",
+      "snippet_highlighted_words": [
+        "Razer Edition"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "chi Razer Edition ATX - $249.99 (Originally $589.99) Beautiful implementation of RGB, power/reset switch, and an error display.",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/15wyq18/motherboard_asrock_z690_taichi_razer_edition_atx/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F15wyq18%2Fmotherboard_asrock_z690_taichi_razer_edition_atx%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F15wyq18%2Fmotherboard_asrock_z690_taichi_razer_edition_atx%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 4,
+      "title": "ASRock Z690 Taichi Razer Motherboard With RGB",
+      "link": "https://maingear.com/products/asrock-z690-taichi-razer?srsltid=AfmBOoo65uDQMpRqMuBwo-dq-GgDAEtDEz96rnozCrQRfOMeedmxg1T9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fmaingear.com%2Fproducts%2Fasrock-z690-taichi-razer%3Fsrsltid%3DAfmBOoo65uDQMpRqMuBwo-dq-GgDAEtDEz96rnozCrQRfOMeedmxg1T9&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECCYQAQ",
+      "displayed_link": "https://maingear.com › Outlet Store",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEVGyPUuxPT___86xvUawfQtxPRFyPUCv_OdaIh0AAAAVElEQVR4AWOgFRCEAwifUQkOBCgQEDZRUnI2RRIwS1RSEktGFmBVUgoYYAGEw9CdbggTYBAUV1IqDVdSKhSEBRkrUA6oLoABpwAjREAAOZjBmGYAAGGMIG2gcl8IAAAAAElFTkSuQmCC.png",
+      "snippet": "ASRock Z690 Taichi Razer motherboard with Razer Chroma RGB, supports Intel 12th–14th Gen and DDR5 6400+, HDMI and 2x Thunderbolt Type-C, ATX; re-certified ...",
+      "snippet_highlighted_words": [
+        "ASRock Z690 Taichi Razer motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASRock Z690 Taichi Razer motherboard with Razer Chroma RGB, supports Intel 12th–14th Gen and DDR5 6400+, HDMI and 2x Thunderbolt Type-C, ATX; re-certified ...",
+          "source_info_link": "https://maingear.com/products/asrock-z690-taichi-razer?srsltid=AfmBOoo65uDQMpRqMuBwo-dq-GgDAEtDEz96rnozCrQRfOMeedmxg1T9",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEVGyPUuxPT___86xvUawfQtxPRFyPUCv_OdaIh0AAAAVElEQVR4AWOgFRCEAwifUQkOBCgQEDZRUnI2RRIwS1RSEktGFmBVUgoYYAGEw9CdbggTYBAUV1IqDVdSKhSEBRkrUA6oLoABpwAjREAAOZjBmGYAAGGMIG2gcl8IAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fmaingear.com%2Fproducts%2Fasrock-z690-taichi-razer%3Fsrsltid%3DAfmBOoo65uDQMpRqMuBwo-dq-GgDAEtDEz96rnozCrQRfOMeedmxg1T9&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmaingear.com%2Fproducts%2Fasrock-z690-taichi-razer%3Fsrsltid%3DAfmBOoo65uDQMpRqMuBwo-dq-GgDAEtDEz96rnozCrQRfOMeedmxg1T9",
+      "source": "maingear"
+    },
+    {
+      "position": 5,
+      "title": "ASRock Z690 Taichi Razer Edition motherboard – Unboxing",
+      "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y",
+      "displayed_link": "6K+ views · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a6cae678c4b29fdf296/images/LIThnHCmlNupSH5eE8bbVtYpp83gynmWRaQi6W9u1XI.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "ASRock Z690 Taichi Razer Edition motherboard – Unboxing. The Enthusiast Motherboard Designed for RAZER fans",
+      "duration": "12:05",
+      "key_moments": [
+        {
+          "time": "00:15",
+          "title": "Inside the Box",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=15",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVrketLQgTcs5o67PndskoK0vc5i7m12lEzHhptFxJXQ&s="
+        },
+        {
+          "time": "04:32",
+          "title": "The Manual",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=272",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ90Mxv8Lv5txPhSv7q1SfYsQB-fX_L7BDLcPerrbxWQ&s="
+        },
+        {
+          "time": "04:50",
+          "title": "Specs",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=290",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMHYbMLlUjwxTFb_S8ZIIDyYqurVeHJbooVh2pxPFf9g&s="
+        },
+        {
+          "time": "05:26",
+          "title": "Ports",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=326",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvcYiNTBCxgESKoKuMuiNonSwbTX6j29GusjFx9Smimg&s="
+        },
+        {
+          "time": "07:56",
+          "title": "M 2 Connections",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=476",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQvIdVjL3cA_pAi00P5kxq66JDeHkhv0BRgO3w_yRRGA&s="
+        },
+        {
+          "time": "09:33",
+          "title": "Heatsink",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=573",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb5cyJwh5SbE26183LcwQX9WPhGLrTcYBuuIF9isb70A&s="
+        },
+        {
+          "time": "10:21",
+          "title": "Usb Ports",
+          "link": "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=621",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdp8m_cH7kVRSH2jL4ZDqUWsruQC61oVNZyl4OUnbxug&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASRock Z690 Taichi Razer Edition motherboard – Unboxing. The Enthusiast Motherboard Designed for RAZER fans",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRgsTBcGzg6Y&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRgsTBcGzg6Y",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTBjLpiWvvEISVTXzuNarKdMpTkJyDCvnxxLA",
+      "source": "YouTube · Stuff Mike Bought"
+    },
+    {
+      "position": 6,
+      "title": "ASRock Z690 Taichi Razer Edition Review",
+      "link": "https://www.tomshardware.com/reviews/asrock-z690-taichi-razer-edition",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fasrock-z690-taichi-razer-edition&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECCMQAQ",
+      "displayed_link": "https://www.tomshardware.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png",
+      "date": "Jun 2, 2022",
+      "snippet": "At over $600, the ASRock Z690 Taichi Razer Edition is a pricey alternative to the Taichi that includes more RGBs and native integration with the Razer Synapse ...",
+      "snippet_highlighted_words": [
+        "ASRock Z690 Taichi Razer Edition"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.5
+          },
+          "extensions": [
+            "3.5",
+            "Review by Joe Shields"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "At over $600, the ASRock Z690 Taichi Razer Edition is a pricey alternative to the Taichi that includes more RGBs and native integration with the Razer Synapse ...",
+          "source_info_link": "https://www.tomshardware.com/reviews/asrock-z690-taichi-razer-edition",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fasrock-z690-taichi-razer-edition&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fasrock-z690-taichi-razer-edition",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://www.tomshardware.com/reviews/asrock-z690-taichi-razer-edition"
+    },
+    {
+      "position": 7,
+      "title": "Help Please. Z690 Taichi Razer Edition Not Booting : r/ASRock",
+      "link": "https://www.reddit.com/r/ASRock/comments/vxtc7t/help_please_z690_taichi_razer_edition_not_booting/",
+      "displayed_link": "10+ comments · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGvUYkIOa0cjmQ-cBvrqusYKr_INLcEF-915fBOuQpu2fJVa-kOZegXA&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Try booting with just one memory stick installed, swapping them as necessary. The low code numbers have a lot to do with memory as seen here.",
+      "duration": "0:09",
+      "about_this_result": {
+        "source": {
+          "description": "Try booting with just one memory stick installed, swapping them as necessary. The low code numbers have a lot to do with memory as seen here.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FASRock%2Fcomments%2Fvxtc7t%2Fhelp_please_z690_taichi_razer_edition_not_booting%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FASRock%2Fcomments%2Fvxtc7t%2Fhelp_please_z690_taichi_razer_edition_not_booting%2F",
+      "source": "Reddit · r/ASRock"
+    },
+    {
+      "position": 8,
+      "title": "Z690 Taichi Razer Edition",
+      "link": "https://download.asrock.com/Manual/Z690%20Taichi%20Razer%20Edition.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fdownload.asrock.com%2FManual%2FZ690%2520Taichi%2520Razer%2520Edition.pdf&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECCIQAQ",
+      "displayed_link": "https://download.asrock.com › Manual › Z690 Tai...",
+      "snippet": "There are 4 PCI Express slots on the motherboard. PCIe slots: PCIE1 (PCIe 5.0 x16 slot) PCIE2 (PCIe 5.0 x16 slot) is used for PCIe x8",
+      "snippet_highlighted_words": [
+        "There are 4 PCI Express slots on the motherboard"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 130
+          },
+          "extensions": [
+            "130 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "There are 4 PCI Express slots on the motherboard. PCIe slots: PCIE1 (PCIe 5.0 x16 slot) PCIE2 (PCIe 5.0 x16 slot) is used for PCIe x8",
+          "source_info_link": "https://download.asrock.com/Manual/Z690%20Taichi%20Razer%20Edition.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fdownload.asrock.com%2FManual%2FZ690+Taichi+Razer+Edition.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdownload.asrock.com%2FManual%2FZ690%2520Taichi%2520Razer%2520Edition.pdf",
+      "source": "ASRock"
+    },
+    {
+      "position": 9,
+      "title": "motherboards Fit for ASROCK Z690 Taichi Razer Edition ...",
+      "link": "https://www.amazon.com/motherboards-Motherboard-I7-14700-I9-13900-I5-13400/dp/B0G9GDJ6JM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2Fmotherboards-Motherboard-I7-14700-I9-13900-I5-13400%2Fdp%2FB0G9GDJ6JM&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQFnoECCAQAQ",
+      "displayed_link": "https://www.amazon.com › motherboards-Motherboard-I...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Buy motherboards Fit for ASROCK Z690 Taichi Razer Edition Motherboard LGA 1700 Intel M.2 ATX DDR5 192GB Support I7-14700 I9-13900 I5-13400 I5-12500: ...",
+      "snippet_highlighted_words": [
+        "ASROCK Z690 Taichi Razer Edition Motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy motherboards Fit for ASROCK Z690 Taichi Razer Edition Motherboard LGA 1700 Intel M.2 ATX DDR5 192GB Support I7-14700 I9-13900 I5-13400 I5-12500: ...",
+          "source_info_link": "https://www.amazon.com/motherboards-Motherboard-I7-14700-I9-13900-I5-13400/dp/B0G9GDJ6JM",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2Fmotherboards-Motherboard-I7-14700-I9-13900-I5-13400%2Fdp%2FB0G9GDJ6JM&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2Fmotherboards-Motherboard-I7-14700-I9-13900-I5-13400%2Fdp%2FB0G9GDJ6JM",
+      "source": "Amazon.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Asrock z690 taichi razer edition review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Asrock+z690+taichi+razer+edition+review&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAgdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Asrock+z690+taichi+razer+edition+review"
+    },
+    {
+      "block_position": 1,
+      "query": "ASRock Z690 taichi manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ASRock+Z690+taichi+manual&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+taichi+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "ASRock Razer motherboard",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ASRock+Razer+motherboard&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Razer+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "Asrock z690 taichi drivers",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Asrock+z690+taichi+drivers&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Asrock+z690+taichi+drivers"
+    },
+    {
+      "block_position": 1,
+      "query": "ASRock X570 Taichi Razer Edition manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ASRock+X570+Taichi+Razer+Edition+manual&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+X570+Taichi+Razer+Edition+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "Does Razer make motherboards",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Does+Razer+make+motherboards&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAgnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+Razer+make+motherboards"
+    },
+    {
+      "block_position": 1,
+      "query": "Asrock razer chroma",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Asrock+razer+chroma&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAgkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Asrock+razer+chroma"
+    },
+    {
+      "block_position": 1,
+      "query": "Razer motherboard b550",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Razer+motherboard+b550&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ1QJ6BAghEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Razer+motherboard+b550"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?q=cpu+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFAgBEgNDUFU6CwjDncQBENPHdzAHWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAB6BAgXEAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?q=ram+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFAgBEgNSQU06CwjDncQBENLHdzAHWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAF6BAgXEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?q=atx+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyEwgBEgNBVFg6CgibnysQoMcrMAJYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAJ6BAgXEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?q=usb+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFAgBEgNVU0I6CwidrTsQ6OT3ATAAWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAN6BAgXEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYEipBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAR6BAgXEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "2 Memory Slots",
+      "link": "https://www.google.com/search?q=2+memory+slots+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyHggBEg4yIE1lbW9yeSBTbG90czoKCJWrSRCXq0kwAFiysSBgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAV6BAgXEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+memory+slots+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "DDR4",
+      "link": "https://www.google.com/search?q=ddr4+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFAgBEgRERFI0OgoIsMcrEPaHNTAAWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAZ6BAgXEAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr4+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYEipBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAd6BAgXEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "AMD",
+      "link": "https://www.google.com/search?q=amd+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyEwgBEgNBTUQ6CgiarTsQnK07MAJYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAh6BAgXEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBipBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyEwgGEgdPbiBzYWxlGAIiBEoCGAFYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAl6BAgXEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots+sale"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?q=pci+express+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyGwgBEgtQQ0kgRXhwcmVzczoKCOvnLBDv5ywwAFiysSBgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAp6BAgXEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYEipBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAt6BAgXEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?q=gaming+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFggBEgZHYW1pbmc6CginrTsQqK07MANYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKAx6BAgXEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?q=ethernet+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyGAgBEghFdGhlcm5ldDoKCJ2tOxCgrTswAFiysSBgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKA16BAgXEA8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFwgBEgVXaGl0ZToMCNiM9QEQoYv1ATALWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKA56BAgXEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?q=4+memory+slots+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyHggBEg40IE1lbW9yeSBTbG90czoKCJWrSRCYq0kwAFiysSBgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKA96BAgXEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYEipBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyDwgSEgtSZXBsYWNlbWVudGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBB6BAgXEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?q=hdmi+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFQgBEgRIRE1JOgsIna07ELCa6wEwAFiysSBgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBF6BAgXEBM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots+for+sale&hl=en&gl=us&shoprs=CAEYEipBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBJ6BAgXEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots+for+sale"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBN6BAgXEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Micro ATX",
+      "link": "https://www.google.com/search?q=micro+atx+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyGQgBEglNaWNybyBBVFg6CgibnysQnscrMAJYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBR6BAgXEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=micro+atx+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?q=gray+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFggBEgRHcmF5OgwI2Iz1ARDqivUBMAtYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBV6BAgXEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "NVIDIA",
+      "link": "https://www.google.com/search?q=nvidia+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFggBEgZOVklESUE6CgiarTsQqq87MAJYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBZ6BAgXEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nvidia+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Under $300",
+      "link": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots+under+%24300&hl=en&gl=us&shoprs=CAESDRILEQAAAACj4bFBGAEYBSpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyIwgFEgpVbmRlciAkMzAwGAIiDRILEQAAAACj4bFBGAEqAhgBWLKxIGAB&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBd6BAgXEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots+under+%24300"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?q=ddr+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyEwgBEgNERFI6CgiwxysQsccrMABYsrEgYAE&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBh6BAgXEBo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Intel",
+      "link": "https://www.google.com/search?q=intel+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots&hl=en&gl=us&shoprs=CAEYASpBYXNyb2NrIHo2OTAgdGFpY2hpIHJhemVyIGVkaXRpb24gbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMyFQgBEgVJbnRlbDoKCJqtOxCbrTswAliysSBgAQ&sa=X&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQip4GKBl6BAgXEBs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+asrock+z690+taichi+razer+edition+motherboard+motherboard+m2_slots"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=10&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=10&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=20&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=30&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=40&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=50&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=60&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=70&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=80&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=cXpfaoCxLbnRkPIPluLk2Qs&start=90&sa=N&sstk=AU9db-CmkZOcGlIo1RuNfLCoOlrK7kcZlEQ2c4DGO1szQ1GXMLH8AHeiKUHoderbL4y7QDeAFQPwRLf04IL9ANCBy5C8m-1CshbWCw&ved=2ahUKEwjAreiQ9uOVAxW5KEQIHRYxObsQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASRock+Z690+Taichi+Razer+Edition+Motherboard+motherboard+m2_slots&start=90"
+    }
+  }
+}

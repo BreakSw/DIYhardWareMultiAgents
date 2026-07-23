@@ -1,0 +1,751 @@
+[
+  {
+    "category": "case",
+    "brand": "ARCTIC",
+    "model": "ARCTIC Xtender Premium E-ATX PC Case",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "E-ATX (285 mm wide)",
+      "max_gpu_length_mm": "337",
+      "max_cooler_height_mm": "171",
+      "supported_radiators": "240 mm, 280 mm, 360 mm, 420 mm",
+      "psu_form_factor": "ATX",
+      "drive_bays": "1x 2.5\" (in the removable drive cage), 2x 3.5\", 3x 2.5\" (behind the motherboard tray)"
+    },
+    "price": {
+      "reference_usd": "252.24",
+      "reference_cny": "1706.89",
+      "offers": [
+        {
+          "merchant": "arctic.de",
+          "url": "https://www.arctic.de/us/Xtender-Black-Mirror-Glass/ACPCC00018A",
+          "price_usd": "145.18",
+          "availability": "unknown",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com - HyperCore",
+          "url": "https://www.newegg.com/p/3C6-005Y-02NS3?item=9SIC4B5KVA2030&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-2+in+1+accessories-_-arctic-_-9SIC4B5KVA2030&source=region&negg_topt=0&srsltid=AfmBOoqMwDfav2_UXkjZwJn2I7uCxGckFtSg1AJe06kBaqoiFOMj3Vguib8",
+          "price_usd": "326.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - trippodoshop",
+          "url": "https://www.ebay.com/itm/198472284744?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopsso4LD3XofQ2TzOAbWZo3zmT7kdiTgv-jOmdMBIy8p8W0nGzsXWI",
+          "price_usd": "252.24",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.arctic.de/en/Xtender-Black-Tinted-Glass/ACPCC00015A"
+    ],
+    "fetched_at": "2026-07-20T16:03:46.428426+00:00",
+    "content_hash": "510b7788d090c84f89e2cfdf0cc3e607e4ee8b6c9951d46f37228e62be006d38",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "case",
+    "brand": "CORSAIR",
+    "model": "CORSAIR 3500X RS-R ARGB Mid-Tower PC Case",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "119.99",
+      "reference_cny": "811.86",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww/p/N82E16811139244?item=N82E16811139244&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-corsair-_-11139244&source=region&negg_topt=0",
+          "price_usd": "79.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/corsair-3500x-rs-r-argb-atx-mid-tower-pc-case-black/J39TSCSJL4/sku/6645432?utm_source=feed",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/706243/3500X_RS-R_ARGB_Tempered_Glass_ATX_Mid-Tower_Computer_Case_-_Black_(NAUTILUS_RS_AIO_Pre-Installed)",
+          "price_usd": "189.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww/p/N82E16811139244?item=N82E16811139244&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-corsair-_-11139244&source=region&negg_topt=0",
+      "https://www.corsair.com/us/en/explorer/diy-builder/cases/3500x-mid-tower-case/?srsltid=AfmBOorGupZiRt9DciNtjIBasrajxSIEG1vl6hF0ylOV_4FuFNJR7aGi",
+      "https://www.corsair.com/us/en/explorer/diy-builder/cases/corsair-3500x-now-available-with-reverse-fans/?srsltid=AfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB",
+      "https://www.youtube.com/watch?v=hhOBM7zuV-k",
+      "https://www.reddit.com/r/buildapcsales/comments/1qq06tr/case_corsair_3500x_rsr_argb_midtower_pc_case_3x/",
+      "https://www.corsair.com/us/en/explorer/products/19503/?srsltid=AfmBOopv2J1XZ8kQwPtrattgUp-iZcIy4z1tEUkIp8WsvBfJzgnoofrj",
+      "https://www.amazon.com/CORSAIR-3500X-RS-R-ARGB-Mid-Tower/dp/B0FJ2ZBK8J",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=0",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=54",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=188",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=220",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=315",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=343",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=510",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=728",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=796",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=894",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1028",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1087",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1267",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1386",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1630",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1786",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1872",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2105",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2215",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2251",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2303",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2367",
+      "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2460",
+      "https://www.bestbuy.com/product/corsair-3500x-rs-r-argb-atx-mid-tower-pc-case-white/J39TSCSJYC",
+      "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww/p/N82E16811139244?srsltid=AfmBOoo0FpuPRakf82ss-deMuzH5DxsBMiuNGwCBZkGdM4PdIvkk1ZmL"
+    ],
+    "fetched_at": "2026-07-21T14:01:21.309387+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "drive_bays",
+        "max_cooler_height_mm",
+        "max_gpu_length_mm",
+        "psu_form_factor",
+        "supported_motherboard_form_factors",
+        "supported_radiators"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "drive_bays",
+      "max_cooler_height_mm",
+      "max_gpu_length_mm",
+      "psu_form_factor",
+      "supported_motherboard_form_factors",
+      "supported_radiators"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "bd74bc38eb9287f44e67ee8bac6b1e73e3b3ab53c6569b98e9dc850263e98bde",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "60"
+    }
+  },
+  {
+    "category": "case",
+    "brand": "CORSAIR",
+    "model": "CORSAIR 9000D RGB AIRFLOW Super Full-Tower PC Case",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "519.99",
+      "reference_cny": "3518.29",
+      "offers": [
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/688888/corsair-icue-link-9000d-rgb-airflow-tempered-glass-eatx-full-tower-computer-case-black",
+          "price_usd": "519.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Corsair.com",
+          "url": "https://www.corsair.com/us/en/p/pc-cases/CC-9011273-WW/9000d-rgb-airflow-super-full-tower-pc-case-cc-9011273-ww?srsltid=AfmBOoq1XtCjyGr4UoOABNvz763E5g78NazHeAjru7ZCAViCEL7JCCGAVcM",
+          "price_usd": "519.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1876094-REG/corsair_cc_9011273_ww_9000d_rgb_airflow_super.html?kw=CO9000DAFBK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoqy2vWgJrnTI1Mx2y32qXPa7KMn69UKgvcmOgT0UVizaGVWnSLpiPg",
+          "price_usd": "519.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.corsair.com/us/en/p/pc-cases/cc-9011273-ww/9000d-rgb-airflow-super-full-tower-pc-case-cc-9011273-ww"
+    ],
+    "fetched_at": "2026-07-20T16:04:07.743225+00:00",
+    "content_hash": "68d084dc75054c4fd3875df0c8838990fc137e0a648a6076873330a8893dccf5",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "drive_bays",
+        "max_cooler_height_mm",
+        "max_gpu_length_mm",
+        "psu_form_factor",
+        "supported_motherboard_form_factors",
+        "supported_radiators"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "drive_bays",
+      "max_cooler_height_mm",
+      "max_gpu_length_mm",
+      "psu_form_factor",
+      "supported_motherboard_form_factors",
+      "supported_radiators"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "13"
+    }
+  },
+  {
+    "category": "case",
+    "brand": "Cooler Master",
+    "model": "Cooler Master HAF 700 EVO Full Tower Grey",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "E-ATX",
+      "max_gpu_length_mm": "490",
+      "max_cooler_height_mm": "166",
+      "supported_radiators": "420mm (front)",
+      "psu_form_factor": "ATX",
+      "drive_bays": "12x 2.5 or 3.5-inch"
+    },
+    "price": {
+      "reference_usd": "499.99",
+      "reference_cny": "3382.97",
+      "offers": [
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/647435/cooler-master-haf-700-evo-tempered-glass-eatx-full-tower-computer-case-black",
+          "price_usd": "499.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - ksmtop",
+          "url": "https://www.ebay.com/itm/267545915519?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorWPl13Q2N285D2VyF-8KScLR0_V6UFwxGXcr2ligvOt5Acs6wt2CE",
+          "price_usd": "876.9",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Provantage",
+          "url": "http://www.provantage.com/cooler-h700e-ignn-s00~7COOL19R.htm?source=googleps&srsltid=AfmBOooG9OVVxHi8W1IcCbKDHeCXHc7GymFTOVMAuGisCtjfKLD2dKipUzQ",
+          "price_usd": "457.61",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.microcenter.com/product/647435/cooler-master-haf-700-evo-tempered-glass-eatx-full-tower-computer-case-black"
+    ],
+    "fetched_at": "2026-07-21T14:01:28.621246+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "c8796b257a0b3195263cc40908ca696d8e9803a8b50e9ff1ae80a2ae30b9e0a4",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "62"
+    }
+  },
+  {
+    "category": "case",
+    "brand": "Cooler Master",
+    "model": "Cooler Master MasterBox Q300L",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "Micro-ATX",
+      "max_gpu_length_mm": "3.6E+2",
+      "max_cooler_height_mm": "157",
+      "supported_radiators": "120 mm (Rear)",
+      "psu_form_factor": "ATX",
+      "drive_bays": "2 (2.5\" bays)"
+    },
+    "price": {
+      "reference_usd": "39.99",
+      "reference_cny": "270.61",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/cooler-master-micro-atx-tower-masterbox-q300l-steel-plastic-computer-case-black/p/N82E16811119331?item=N82E16811119331&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-cooler+master-_-11119331&source=region&negg_topt=0",
+          "price_usd": "39.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/503389/masterbox_q300l_microatx_mini_tower_computer_case_-_black?bvstate=pg%3A4%2Fct%3Ar&storeid=125",
+          "price_usd": "39.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1424717-REG/cooler_master_mcb_q300l_kann_s00_masterbox_q300l_mini_tower.html?kw=COBQ300LKN00&ap=y&smp=Y&BI=E7249&srsltid=AfmBOord_A4NzWSJSUsIRpZ-HnGG0OGtToouoEfi1zJSBB65DHmexrTnuAE",
+          "price_usd": "39.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://legacy.coolermaster.com/en-us/products/masterbox-q300l/"
+    ],
+    "fetched_at": "2026-07-20T16:04:11.345939+00:00",
+    "content_hash": "e387c408e51a5559a763058c5fc72111c576079ed62fd08ef838e787176b1e36",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "case",
+    "brand": "Fractal Design",
+    "model": "Fractal Design Torrent",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "E-ATX",
+      "max_gpu_length_mm": "461",
+      "max_cooler_height_mm": "188",
+      "supported_radiators": "Up to 420mm, 140 mm (rear), 120 mm (rear), 360x180 mm (front), Up to 420mm (Front)",
+      "psu_form_factor": "ATX",
+      "drive_bays": "2 (3.5\" bays)"
+    },
+    "price": {
+      "reference_usd": "249.99",
+      "reference_cny": "1691.67",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1683502-REG/fractal_design_fd_c_tor1a_04_torrent_rgb_e_atx_tg.html?kw=FRFDCTOR1A04&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoppS6Tl1po9INYpNig3EWEGBOOYBkTRwkxj2FTWk7w4ca6HBsVA3to",
+          "price_usd": "249.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/646359/fractal-design-torrent-tempered-glass-atx-mid-tower-computer-case-black?bvstate=pg%3A2%2Fct%3Ar&showfullsite=true&storeid=071",
+          "price_usd": "249.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-tempered-glass-computer-case-black-fd-c-tor1a-04/p/N82E16811352146?item=N82E16811352146&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-fractal+design-_-11352146&source=region&negg_topt=0",
+          "price_usd": "249.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.fractal-design.com/products/cases/torrent/"
+    ],
+    "fetched_at": "2026-07-20T16:04:09.382666+00:00",
+    "content_hash": "dc060027923c0dae794426541502aa198cc4e97bc19e9307c4d60e7ca0c24686",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "case",
+    "brand": "HYTE",
+    "model": "HYTE Y70 ATX Mid-Tower Case",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "200.99",
+      "reference_cny": "1359.91",
+      "offers": [
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/HYTE-Y70-CS-HYTE-Y70-BW-Dual-Chamber-Mid-Tower-ATX-Case-with-PCIe-4-0-Express-Riser-Cable-Included-White-Black/5333230720?wmlspartner=wlpa&selectedSellerId=0",
+          "price_usd": "200.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/atx-mid-tower-abs-steel-tempered-glass-computer-case-white-black-cs-hyte-y70-bw/p/N82E16811737015?item=N82E16811737015&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-hyte-_-11737015&source=region&negg_topt=0",
+          "price_usd": "200.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "HYTE",
+          "url": "https://hyte.com/store/y70/CS-HYTE-Y70-BW?srsltid=AfmBOopjZMor4a4masWh-zWgjDz6vdv8qaSkXHVaRKckpjUgcTRNNhPWw2g",
+          "price_usd": "219.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.walmart.com/ip/HYTE-Y70-CS-HYTE-Y70-BW-Dual-Chamber-Mid-Tower-ATX-Case-with-PCIe-4-0-Express-Riser-Cable-Included-White-Black/5333230720?wmlspartner=wlpa&selectedSellerId=0"
+    ],
+    "fetched_at": "2026-07-20T16:03:49.634355+00:00",
+    "content_hash": "c7cd63c3183ba14963b328706d408c8089f2b3bb753e5ef17a941281018abc42",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "drive_bays",
+        "max_cooler_height_mm",
+        "max_gpu_length_mm",
+        "psu_form_factor",
+        "supported_motherboard_form_factors",
+        "supported_radiators"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "drive_bays",
+      "max_cooler_height_mm",
+      "max_gpu_length_mm",
+      "psu_form_factor",
+      "supported_motherboard_form_factors",
+      "supported_radiators"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "10"
+    }
+  },
+  {
+    "category": "case",
+    "brand": "LIAN LI",
+    "model": "Lian Li O11 Vision ATX Mid Tower Case o11v",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "ATX, Micro-ATX",
+      "max_gpu_length_mm": "455",
+      "max_cooler_height_mm": "6.85''",
+      "supported_radiators": "120mm (Rear)",
+      "psu_form_factor": "ATX",
+      "drive_bays": "3 (internal 2.5'' bays)"
+    },
+    "price": {
+      "reference_usd": "114.99",
+      "reference_cny": "778.13",
+      "offers": [
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-2AM-000Z-000B8&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-cases+%28computer+cases+-+atx+form%29-_-lian+li-_-9B2AM000Z000B8&source=region&negg_topt=0&srsltid=AfmBOop2WZtVFE0vIwg55JilU2d1Yaw57s7w0tBRstiWyBkyR-_1Q6v90Lc",
+          "price_usd": "114.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/lian-li-atx-micro-atx-mid-tower-steel-aluminum-4-0mm-tempered-glass-3-0mm-tempered-glass-cases-black-o11vx/p/2AM-000Z-000B8?item=2AM-000Z-000B8&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-lian+li-_-2AM000Z000B8&source=region&negg_topt=0",
+          "price_usd": "114.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/lian-li-o11-vision-black-aluminum-steel-tempered-glass-atx-mid-tower-computer-case-o11vx-black/J39TC2K4ZQ/sku/11076691?ref=212&loc=marketplace",
+          "price_usd": "146.24",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://lian-li.com/product/o11-vision/"
+    ],
+    "fetched_at": "2026-07-20T16:03:34.454916+00:00",
+    "content_hash": "ace84b832016ae2918b2516895b06763d8559480f26ff35f01baf5ff5f0bf0a4",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "case",
+    "brand": "NZXT",
+    "model": "NZXT H9 Flow Mid-Tower Case",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "ATX, Micro-ATX, Mini-ITX",
+      "max_gpu_length_mm": "459",
+      "max_cooler_height_mm": "165",
+      "supported_radiators": "Up to 420 mm (top), Up to 120 mm (rear), Up to 360 mm (bottom), Up to 420 mm (front-right)",
+      "drive_bays": "4+2 (2.5\")"
+    },
+    "price": {
+      "reference_usd": "139.99",
+      "reference_cny": "947.18",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/nzxt-h9-flow-2025-atx-mid-tower-dual-chamber-pc-case-black/J3GWJHQ8RL/sku/6629592?utm_source=feed",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/nzxt-mid-tower-tinted-tempered-glass-case-black-cm-h92fb-r1/p/N82E16811146372?item=N82E16811146372&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-nzxt-_-11146372&source=region&negg_topt=0",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1935177-REG/nzxt_cm_h92fb_01_h9_flow_dual_chamber_mid_tower.html?kw=NZCMH92FB01&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooye4ubpZgcARm5CxYMmPzjv7TW-LZzA7hrQgmKQdhBh-F_Kb5LyZM",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://nzxt.com/products/h9-flow"
+    ],
+    "fetched_at": "2026-07-20T16:04:03.465682+00:00",
+    "content_hash": "6e43da39f1382069ee24eb0675c016bd2f58b8bdd5724e8b466d18dd561b68cc",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "psu_form_factor"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "psu_form_factor"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "12"
+    }
+  },
+  {
+    "category": "case",
+    "brand": "Phanteks",
+    "model": "Phanteks NV7 Case",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "supported_motherboard_form_factors": "ATX, Micro-ATX, Mini-ITX",
+      "max_gpu_length_mm": "4.5E+2",
+      "max_cooler_height_mm": "185",
+      "supported_radiators": "Up to 360mm (Top), Up to 240mm (Rear), Up to 360mm (Side)",
+      "psu_form_factor": "ATX",
+      "drive_bays": "2 (internal 3.5\"), 6 (internal 2.5\")"
+    },
+    "price": {
+      "reference_usd": "199.99",
+      "reference_cny": "1353.32",
+      "offers": [
+        {
+          "merchant": "Phanteks",
+          "url": "https://www.phanteks.store/products/phanteks-nv7-white?variant=40124697018423&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooUSmWfJLVLWZ6bDgjI8tDvmJJVqXj-XnaJzKbuSFLH_xpautyuDSQ",
+          "price_usd": "199.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/phanteks-atx-full-tower-nv7-series-steel-chassis-tempered-glass-computer-case-white-nv723tg-dmw01/p/N82E16811854123?item=N82E16811854123&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-phanteks-_-11854123&source=region&negg_topt=0",
+          "price_usd": "189.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/phanteks-nv7-full-tower-chassis-high-airflow-rgb-lighting-tempered-glass-12-fan-positions-matte-white-matte-white/J3Z8XVHYS5/sku/12527691?ref=212&loc=marketplace",
+          "price_usd": "274.34",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://phanteks.com/product/nv7-black/"
+    ],
+    "fetched_at": "2026-07-20T16:03:34.831583+00:00",
+    "content_hash": "c8a301b302cbaa37ce00142aeed7b01ed4205e67c53559acecbd82a117484f6f",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  }
+]

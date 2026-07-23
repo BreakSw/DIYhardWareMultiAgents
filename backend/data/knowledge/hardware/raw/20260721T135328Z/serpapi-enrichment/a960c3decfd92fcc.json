@@ -1,0 +1,889 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a7686e9fabacd73ad57",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/U8aBQK6WeZJraxm5YcPXbQ/6a5f7a7686e9fabacd73ad57.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/U8aBQK6WeZJraxm5YcPXbQ/6a5f7a7686e9fabacd73ad57.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:06 UTC",
+    "processed_at": "2026-07-21 13:56:06 UTC",
+    "google_url": "https://www.google.com/search?q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&oq=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/U8aBQK6WeZJraxm5YcPXbQ/6a5f7a7686e9fabacd73ad57.html",
+    "total_time_taken": 2.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Gigabyte B760M DS3H WIFI6E GEN5 Gaming Desktop Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Gigabyte B760M DS3H WIFI6E GEN5 Gaming Desktop Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "total_results": 455,
+    "time_taken_displayed": 0.57,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5odWv9MbyC4gO9U-sqOGvhg.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Gigabyte B760M DS3H WIFI6E GEN5 Gaming Desktop Motherboard",
+      "rating": 5.0,
+      "reviews": 4,
+      "price": "$127.49",
+      "extracted_price": 127.49,
+      "original_price": "$161",
+      "extracted_original_price": 161,
+      "extensions": [
+        "21% OFF"
+      ],
+      "immersive_product_page_token": "sDi6zXicdZLNjqNGFIWlPEPewhuqisImO2MobNqG5q8wbCygyoamMDTQbYPmHfIO7plIM8uZkbLNa3SeJs7PIlKU3T36dK7uPTo_33j5K1-3x7Svu02yytrBfVTbZ6txq89t17CXfCjZV1la4AVW0UIFyhzPoaR-ztMhFc2pZN8AlLCEMIISUGVFRYosfy14ykR55s7xyDu9yUv2HSCMFQkrCpwDLM_vjjn-Utbpif_Fv90pxhCoEp5LsnwXqvzWsf5dflwdAFIhUjGQJXUxl-9WCMGHR8_RD_8DPz2_8G58b8zylGbjwGfaXJF2M91H61m0IRvFmJmGjWdmWpfn00znfTU07WzXDAXvsibt2Kz-9wwPvWiGflan10PN66YbD6ds1uYl_wf0TV7x4dOp_fvV_170Vt9zxHNFViBWEILKQvozrLf2dbgVp48vL4L_djuJ20t_K8SNn39p0vb1mP_-w49Gc9FX_WXlhm1LdU_yRRLlOi0Cerrkk0hyVGC3toYUEc3zJehN5OiJfKCBV_s0eQhNV95Jw8M2stHOBCMzmRKHtk0lGlBkTL7wTF61bQYqtA2EGdGkYRMLqEioY7b2NqDbwAev3lPRO_s2ydbUzqNiTKGt2UJL8xE0uclsF9hnD9k0N647R7cvd7VPagp2a61KYFEka7ZhgTfEobfZQzYGe7LPUdtFQlsHupWwsBgCWmhB6JXcaF8piQdXFE8pWV52VSi5yMDhk6UEJrh4k-VRoV0pUMV-uu-EVhDvBcyie3MjizqkeI6rQUS08G3kde4IEh5haBON-kSt_b3n8n3hpNNyykLcp5R23hRfwwrvsmpwWEUe6NnqWED6TFgrRoudXanEBgmIUTLGgZhiUVwY1fxdRC5JiH0vAnQb4Q1bF9uwjq_2mmx8EqJ0MnwC6SY3kyKHYPRpq8dnTQrpEudr8pAB0pmlpXlre3SiJAxCNsYQuCmx0swgTQZDHE8E20I4wZPVxHVy_njtu-O7tCR48B0MNpPWLfOJGRvOr_2yXWpoBbDuLU8_gflCVmQIFPVexz8ABMVQWg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sDi6zXicdZLNjqNGFIWlPEPewhuqisImO2MobNqG5q8wbCygyoamMDTQbYPmHfIO7plIM8uZkbLNa3SeJs7PIlKU3T36dK7uPTo_33j5K1-3x7Svu02yytrBfVTbZ6txq89t17CXfCjZV1la4AVW0UIFyhzPoaR-ztMhFc2pZN8AlLCEMIISUGVFRYosfy14ykR55s7xyDu9yUv2HSCMFQkrCpwDLM_vjjn-Utbpif_Fv90pxhCoEp5LsnwXqvzWsf5dflwdAFIhUjGQJXUxl-9WCMGHR8_RD_8DPz2_8G58b8zylGbjwGfaXJF2M91H61m0IRvFmJmGjWdmWpfn00znfTU07WzXDAXvsibt2Kz-9wwPvWiGflan10PN66YbD6ds1uYl_wf0TV7x4dOp_fvV_170Vt9zxHNFViBWEILKQvozrLf2dbgVp48vL4L_djuJ20t_K8SNn39p0vb1mP_-w49Gc9FX_WXlhm1LdU_yRRLlOi0Cerrkk0hyVGC3toYUEc3zJehN5OiJfKCBV_s0eQhNV95Jw8M2stHOBCMzmRKHtk0lGlBkTL7wTF61bQYqtA2EGdGkYRMLqEioY7b2NqDbwAev3lPRO_s2ydbUzqNiTKGt2UJL8xE0uclsF9hnD9k0N647R7cvd7VPagp2a61KYFEka7ZhgTfEobfZQzYGe7LPUdtFQlsHupWwsBgCWmhB6JXcaF8piQdXFE8pWV52VSi5yMDhk6UEJrh4k-VRoV0pUMV-uu-EVhDvBcyie3MjizqkeI6rQUS08G3kde4IEh5haBON-kSt_b3n8n3hpNNyykLcp5R23hRfwwrvsmpwWEUe6NnqWED6TFgrRoudXanEBgmIUTLGgZhiUVwY1fxdRC5JiH0vAnQb4Q1bF9uwjq_2mmx8EqJ0MnwC6SY3kyKHYPRpq8dnTQrpEudr8pAB0pmlpXlre3SiJAxCNsYQuCmx0swgTQZDHE8E20I4wZPVxHVy_njtu-O7tCR48B0MNpPWLfOJGRvOr_2yXWpoBbDuLU8_gflCVmQIFPVexz8ABMVQWg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5s4wdt-zG7YyCicXPb_IoiU.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "rating": 4.7,
+      "reviews": 15,
+      "price": "$148.49",
+      "extracted_price": 148.49,
+      "original_price": "$173",
+      "extracted_original_price": 173,
+      "extensions": [
+        "14% OFF"
+      ],
+      "immersive_product_page_token": "wXgNPnicbY9LjqRGFEUlr8G7SFmKgCAAz5qEgKSKqOITAcWkxCcSSL4NVOVH3oP3kNVtqT1sW_LU2yivxmnLAw969qRz33vn_nwVzR_CmfbZ0s-7dJtPq_-oTx_d0W-_TPNYvhRrU_4OVVWTVU1TMEYIAawDHX4psjXrxqopf9MkXZckScG6qgBN0yQIvtYiK7tmEA_7vZjNsbjFsCxjiKCGVQR19ZaF6q9Nn1XiX3x7IisIqSpEKsQQyApQ5Le5XN6lx-3z7bx8W5AURcO6hHSA0E-PwYP5_G32-eOLmM_vo91UWX5excZQMfA2Zig7m3hHdtja2BZVNnbWN0O1McXSruO08ca1FnM-ZnO56f8_S89LN67Lps9Oz73ox_n8XOWbqWjEf2AZi1asn6vpn6LfEHrrm_KromKEJU2XsKrDW00Vv02v67WuPr28dOLPa9VdX5Zr3V3F8MuYTa_74q_vvrfGo7ldjlufTRM3AxAyCrwYssxxL_7g3ouBGszcnQszbfOkxlFSm2Lo5EAmmIHTKbaPiA9d7MUkpH19Ry_BEzX9lXGCSlCT0NnB0KltSjyYM74wxpTAmtrQShHrlUjY6xrBNOMRXVPHpblJfdoXMLcml_VrQi8Uh6ZhZ7E-Cdbx0OR35YFPHgzs6GA4IiIOG1Ijhbr9BNPHlATbzOQgSEoYWBoI5PpAedfn7JRkZn1MuTvTKHWF4977sOyYxI0wBHKatHLWU_YEOpLF49nv6cpjxcq5bkRdbXpttQYkTe7j2r6PjLuo686xk8KMB9iTqnNJXBS2K4lDOHndrQ8hTsTQyuVgHwCSlQf3UXR8ZAlNn9rTEjtGe3PGNKntaBhPJSAKTSolu7QgHabQI9Mlv9Qoai3IEw_4jKDcXgB1XEscujhu644PqVtcipBIfFfYaV1I8BzyyXwaDMD4B6VwyF0OyWw3rhE49PwQpwG3p1dmuoPf-ccHG51SoJPY4nEkueTmpmQRDT6dlnn_Dj4QZQ0fsFSJH1b7gOJTlNNmbCOxy-7Vk8nF8UeoaggjCWIdIulv_iVNBw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wXgNPnicbY9LjqRGFEUlr8G7SFmKgCAAz5qEgKSKqOITAcWkxCcSSL4NVOVH3oP3kNVtqT1sW_LU2yivxmnLAw969qRz33vn_nwVzR_CmfbZ0s-7dJtPq_-oTx_d0W-_TPNYvhRrU_4OVVWTVU1TMEYIAawDHX4psjXrxqopf9MkXZckScG6qgBN0yQIvtYiK7tmEA_7vZjNsbjFsCxjiKCGVQR19ZaF6q9Nn1XiX3x7IisIqSpEKsQQyApQ5Le5XN6lx-3z7bx8W5AURcO6hHSA0E-PwYP5_G32-eOLmM_vo91UWX5excZQMfA2Zig7m3hHdtja2BZVNnbWN0O1McXSruO08ca1FnM-ZnO56f8_S89LN67Lps9Oz73ox_n8XOWbqWjEf2AZi1asn6vpn6LfEHrrm_KromKEJU2XsKrDW00Vv02v67WuPr28dOLPa9VdX5Zr3V3F8MuYTa_74q_vvrfGo7ldjlufTRM3AxAyCrwYssxxL_7g3ouBGszcnQszbfOkxlFSm2Lo5EAmmIHTKbaPiA9d7MUkpH19Ry_BEzX9lXGCSlCT0NnB0KltSjyYM74wxpTAmtrQShHrlUjY6xrBNOMRXVPHpblJfdoXMLcml_VrQi8Uh6ZhZ7E-Cdbx0OR35YFPHgzs6GA4IiIOG1Ijhbr9BNPHlATbzOQgSEoYWBoI5PpAedfn7JRkZn1MuTvTKHWF4977sOyYxI0wBHKatHLWU_YEOpLF49nv6cpjxcq5bkRdbXpttQYkTe7j2r6PjLuo686xk8KMB9iTqnNJXBS2K4lDOHndrQ8hTsTQyuVgHwCSlQf3UXR8ZAlNn9rTEjtGe3PGNKntaBhPJSAKTSolu7QgHabQI9Mlv9Qoai3IEw_4jKDcXgB1XEscujhu644PqVtcipBIfFfYaV1I8BzyyXwaDMD4B6VwyF0OyWw3rhE49PwQpwG3p1dmuoPf-ccHG51SoJPY4nEkueTmpmQRDT6dlnn_Dj4QZQ0fsFSJH1b7gOJTlNNmbCOxy-7Vk8nF8UeoaggjCWIdIulv_iVNBw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5rUb3MCXl8VxMfR3I42XSqE.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5nxqxx4ksp1MIyCK9Wiovc5HjKZhULK-dAkwkLOilVEW.png",
+      "source": "Newegg.com - Slava computers",
+      "title": "Gigabyte B760M DS3H GEN5 Motherboard",
+      "rating": 4.8,
+      "reviews": 56,
+      "price": "$223.90",
+      "extracted_price": 223.9,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "bhiNOnicdZJJjuNGEEUBn8G3EAzkwNG7ojhILJESh0yK3AgcskSKyaFIqjTAd_AdVN0G2suGAW99jfJpTBu98MKOVQAP8RE_fvz8YNXvbNW_pGMzrJNl1k_eTu1f7c6rv_RDV5zzqSp-g1CCWBZUpKpYFZEsAyx-ydMp5d2xKr5iQVagjESAsIgEhAXha8nSglct2768sEHv8r9FkIIVAFQFCZIsyhiIUPm1atIj-8bxXBICQBEVpCiSgiXpfSjGD2G3PEAJiKIgQYiBrIhQkhEUftr5W_3wP_Dz65kNt4_Oqo5pdpvYQpMl4Cz0AK8W0dpcS8bCMlxxYaVN1R4XOhvrqesXTjeVbMi6dCgWzb97dBh5N42LJr0eGtZ0w-1wzBZ9XrFvYOzymk2fj_0_Xv5jo_dmPpUoS4KERAlJUABQnul7_zY9yuOn85mzPx5H_jiPj5I_WPtLl_ZvL_mf331vdBd9OV6WHul7qvsgqPu3kPDRMWDqcgJJ66KgKbZzkCaB9pRGXKKcrlNgV3vsCeH-CThmYhAwjR7sUEKglnFqeG1yJ_NMFiUOra8140VIW3-ThvGUtIWXQu3s6ImXgzVMEbjEtR9mbRm7xB5jrp6du58wnSc-KXgItdiHpeFHImHcXREzSZhx1f3W97ZWuQxO2t6DfLeJpte88UsXlwJF5kityaKYjyyAbwRNp8ziSdHAi8f7SxGNaEOolVnQSEy-IdDnm8jcUcvX4r2GI-63jiVq7FQGWevcPerb-cmFG6q6BNvYaWnqgmuX393ZXy0GrZsEpndJkA-iWWxrHC8uTsIMuF4cTZiG9o7phRA1MQiId8ssV4-sGHpRf0op3eR3DUaRaTBD5MQkKGv9IYn8obAmHBhw2qMyKOpi56xsRBsBhsQ1HNRHrukFJqLr3ErKHMFbQHs9bjVA6JOYr8znDJqDVdmav3Jv2yghjNgW4R1ilFuzx11RczdcmZvtij7ntXolqGg_Xcfh5QM8meIUbKVwc9m361clOcWl8kM-xzf_LQVl-Pz0I5QVQRIQlFQo4L8AP2JOJg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bhiNOnicdZJJjuNGEEUBn8G3EAzkwNG7ojhILJESh0yK3AgcskSKyaFIqjTAd_AdVN0G2suGAW99jfJpTBu98MKOVQAP8RE_fvz8YNXvbNW_pGMzrJNl1k_eTu1f7c6rv_RDV5zzqSp-g1CCWBZUpKpYFZEsAyx-ydMp5d2xKr5iQVagjESAsIgEhAXha8nSglct2768sEHv8r9FkIIVAFQFCZIsyhiIUPm1atIj-8bxXBICQBEVpCiSgiXpfSjGD2G3PEAJiKIgQYiBrIhQkhEUftr5W_3wP_Dz65kNt4_Oqo5pdpvYQpMl4Cz0AK8W0dpcS8bCMlxxYaVN1R4XOhvrqesXTjeVbMi6dCgWzb97dBh5N42LJr0eGtZ0w-1wzBZ9XrFvYOzymk2fj_0_Xv5jo_dmPpUoS4KERAlJUABQnul7_zY9yuOn85mzPx5H_jiPj5I_WPtLl_ZvL_mf331vdBd9OV6WHul7qvsgqPu3kPDRMWDqcgJJ66KgKbZzkCaB9pRGXKKcrlNgV3vsCeH-CThmYhAwjR7sUEKglnFqeG1yJ_NMFiUOra8140VIW3-ThvGUtIWXQu3s6ImXgzVMEbjEtR9mbRm7xB5jrp6du58wnSc-KXgItdiHpeFHImHcXREzSZhx1f3W97ZWuQxO2t6DfLeJpte88UsXlwJF5kityaKYjyyAbwRNp8ziSdHAi8f7SxGNaEOolVnQSEy-IdDnm8jcUcvX4r2GI-63jiVq7FQGWevcPerb-cmFG6q6BNvYaWnqgmuX393ZXy0GrZsEpndJkA-iWWxrHC8uTsIMuF4cTZiG9o7phRA1MQiId8ssV4-sGHpRf0op3eR3DUaRaTBD5MQkKGv9IYn8obAmHBhw2qMyKOpi56xsRBsBhsQ1HNRHrukFJqLr3ErKHMFbQHs9bjVA6JOYr8znDJqDVdmav3Jv2yghjNgW4R1ilFuzx11RczdcmZvtij7ntXolqGg_Xcfh5QM8meIUbKVwc9m361clOcWl8kM-xzf_LQVl-Pz0I5QVQRIQlFQo4L8AP2JOJg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5qFxQ5bgqG9EdqaCDmA1_F4.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB40lEQVQ4jcWTy2tTYRDFf3Pvl9ybtmnaKsZckyISVBIUAwoVFLoUxEX_AcGtGxH_AaGCC19rcSGoC0FwqxsXrhSDINZKtS-p6cJUQvOoedz73c9FWzXGrLpwtjNzZs6ZM2KMYSdh7agbUAS-QUXAb9NvGVEKLLs3EfgoXSmzfmOaTnEB7H8VaaxUAuf6NVarNVJehrE9HgCmuYHyF2f5cfMVoAADhH8hGKBC6-ISxbl5XFXk4OEchYlJwKAIQ8BGsJCMQp1MIW5ksw9Ah1gjQzRHdmPLApZlMTvzDic2QC57CIVsz_GJXz7L4Lkp_OV5RGwQMDpApffjpLN4Kyuslb8RjTp8_jjDgfQ46s9l7b1Jag_uszH9Aoj8opB8c5v48CiTZ6Z49vQRjUaDVqtJvVrpBugNC7FA3NhvPUS6KroAdLnM8PkLxE6fAixq9x7SebLM9ytXGbh7h7ef5mjU64gIjhMjnhhDbYslRGjcek7r9XvEjYIOCT6sISj0ywrrpS-slko4yqbdbpE_WsB1Y6hNg2gMgvnapvN4sYsCgHRk6yAarSF35Bj5wgRsVFHRbJ7YpRN0ikuI6nW2CUJsL8GgN87xoVFSXoZdyX1bighiAt9gK4zf7iul2H2srAPkv3_jT43-qluUW7yqAAAAAElFTkSuQmCC.png",
+      "source": "Grooves-Inc.com",
+      "title": "Gigabyte B760M DS3H WIFI6E GEN5 Motherboard",
+      "rating": 4.8,
+      "reviews": 61,
+      "price": "$137.06",
+      "extracted_price": 137.06,
+      "original_price": "$150",
+      "extracted_original_price": 150,
+      "extensions": [
+        "8% OFF"
+      ],
+      "immersive_product_page_token": "qTLuoXicbZLLrqNGEIalPEPeworU3dAYsjs2Bt_A5tZAbyxoMI1pLgfw-KJ5h7yDz0ykyXKyyDavcfI08SRZZDGrKun7S1X1V_3yyMs_8mV3TIa6X9F52o3OXute161Tfen6Njuzscx-V4EMlCnQpkBVkYygBvAXloyJaIsnhVjCqoxUjBGWkYyRBL_yPMlE2eS74zHv9ZY9ZUhSEJIlCWhPBZClKZR_K-ukyP_FioYBkDRJwWA6RRhqGnzrs-Ed7ecHDcmKqmEsKf-UqRrUPu7dnX74Pvv8es7723trlkWS3sZ8MpsqwJronrSchCtjpSwm5sLGEzOpy6aY6PlQjW03sdqR533aJn02qf-fo8Mg2nGY1Mn1UOd1298ORTrpWJn_B4aWVfn4uei-LfKdgd7qMvuKp4qsfHPoGWTt6cL0rfswPnjx6XwW-Z-PQjzOw4OLR9782ibdhyP764cfF-1Fnw-XuRN0HdFd4JsD8hfXyDZ4Ejcc-0TFqRB3EgIY11nJwnXk-OsmDTG3zDXxT1mcSNnSDwVPkZYwD27syk1cPb5lMPPchXZ1giykS5vHlXUjC23PGuey9bkV6O7onYRv3Y2NLdmQCboMzBiwUyG7iFgpum682oKZTrcsoGJnFHKyGGsbusKutcAKbULIWol91wnQSJ59r3GQNTFcXIKI2rTq9NDkG4JIk0TcdmtxCn0Gg8jdBnBm0hDv7XtGA52v4nr0qejCpAT32Lc3aWU7EbpAG9nSlvA5AcbZ8YlHT-4mvlODQg48nb6ySutSY7ZyQ4F3JjecqOudAMKsCVC-uJL4LhSnEYlHWpBVZJ9EpHSFobiAwVCszaxmUn5ypLxxxmBZoBgIbt_X1yygliuRihgU56Y4p5Av7Ltd0tq6WpBSj8wAE9rOiQrPQGTFTMoZgjePdHrczEBAXjBbGpsUGr1Zrmfu0r7tQur5Eb06Fe18gz3vU90TkBEvoDQOREwDY7CqbvbpOvTHd_Bi4NHbKf72EjWrV5WeYq7-xOKRPt-WAO5vXn6GU_X5awgqGpSlvwHLyE-e",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qTLuoXicbZLLrqNGEIalPEPeworU3dAYsjs2Bt_A5tZAbyxoMI1pLgfw-KJ5h7yDz0ykyXKyyDavcfI08SRZZDGrKun7S1X1V_3yyMs_8mV3TIa6X9F52o3OXute161Tfen6Njuzscx-V4EMlCnQpkBVkYygBvAXloyJaIsnhVjCqoxUjBGWkYyRBL_yPMlE2eS74zHv9ZY9ZUhSEJIlCWhPBZClKZR_K-ukyP_FioYBkDRJwWA6RRhqGnzrs-Ed7ecHDcmKqmEsKf-UqRrUPu7dnX74Pvv8es7723trlkWS3sZ8MpsqwJronrSchCtjpSwm5sLGEzOpy6aY6PlQjW03sdqR533aJn02qf-fo8Mg2nGY1Mn1UOd1298ORTrpWJn_B4aWVfn4uei-LfKdgd7qMvuKp4qsfHPoGWTt6cL0rfswPnjx6XwW-Z-PQjzOw4OLR9782ibdhyP764cfF-1Fnw-XuRN0HdFd4JsD8hfXyDZ4Ejcc-0TFqRB3EgIY11nJwnXk-OsmDTG3zDXxT1mcSNnSDwVPkZYwD27syk1cPb5lMPPchXZ1giykS5vHlXUjC23PGuey9bkV6O7onYRv3Y2NLdmQCboMzBiwUyG7iFgpum682oKZTrcsoGJnFHKyGGsbusKutcAKbULIWol91wnQSJ59r3GQNTFcXIKI2rTq9NDkG4JIk0TcdmtxCn0Gg8jdBnBm0hDv7XtGA52v4nr0qejCpAT32Lc3aWU7EbpAG9nSlvA5AcbZ8YlHT-4mvlODQg48nb6ySutSY7ZyQ4F3JjecqOudAMKsCVC-uJL4LhSnEYlHWpBVZJ9EpHSFobiAwVCszaxmUn5ypLxxxmBZoBgIbt_X1yygliuRihgU56Y4p5Av7Ltd0tq6WpBSj8wAE9rOiQrPQGTFTMoZgjePdHrczEBAXjBbGpsUGr1Zrmfu0r7tQur5Eb06Fe18gz3vU90TkBEvoDQOREwDY7CqbvbpOvTHd_Bi4NHbKf72EjWrV5WeYq7-xOKRPt-WAO5vXn6GU_X5awgqGpSlvwHLyE-e"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5pJxdvSJRbk9FTrgJOgtyH4.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5gjzyZlnRRKl-yH075EHY-BVIelorcwFCEpO34pQGU6D.png",
+      "source": "Newegg.com - AetherWide",
+      "title": "GIGABYTE B760M DS3H WIFI6E GEN5 Intel LGA 1700 mATX Motherboard, Supports Intel Core 14th/13th/12th Gen, DDR5, 6+2+1 Power Phase, 2X M.2, PCIe 5.0, US",
+      "rating": 5.0,
+      "reviews": 4,
+      "price": "$212.99",
+      "extracted_price": 212.99,
+      "immersive_product_page_token": "vOPAy3icdZJNjts4EIUx5xEGIKkf29m1bVGyu622JZGSuTEkkpbUon5alttSY-4wVwicZIDMMggw27lGD-YwcYAsskktHgr1VeEBD_XnVRb_SLc9JqeqW7FF2va77ax9Xje78nPbNeLM-0J8hcYE3Wqqoxk0wcy0ENA_86RPVJMV4v2XXCZCFbV8PB5lt2z4L07-Lqokkz84MCwwnVgmQLo1gxNkWdMPnTi9GdvFAeozpM9MaIDZdGIA3UQI_rH1H5eHX8BPz2fZjW-NU2RJOvZSm08ssNGWge5q0QqvLFtzbM_UnKQq6kxbylPZN622afpcdmmTdEKrfu7R4aSa_qRVyXCoZNV04yFLtZYX8gc4NbyU_afsNhLvP1TfpX3pr3n28XxW8t9rpq7n0zVXV1n_1STty5H_99v_9nm1WDyvFjvStnTpgwCoiLvt0lMzEgMYC5if92A3BpjNmeNDUVO009mLKAeLYvEUxnudlJQIe6gZETC1PY8rW-dVj9NwvSP29CJdj4aRX_No_Ro6eU30OYkqMZdhZqQIH_cw90glHkTJWKiLSrrqwX-dj5yKIwfDOUAepa-ikSQzI0ckPFbPkdpcUjqLSOlFYdnek_juwpw23LjeJcRs7cUq9gi1JcauCFlLI2ymyNuJqqWS0DJQmblT1A6eKEyBguwJb_cgLxjwKKmgtVkq14_zcaO8tSB9GNXYeyB5lURw41Wmm-BbEvV6Ezq4FxSzoMYuDdcuwwKxSrzuFVME74d9jE0e-kBUMLh53Paykcf04kdTyJzBIURsRb1HPrEDjOiKOyznCI4BbZf7eg4IvTO5i-9TiDunWM991xsfIxZwB0a0JsCn6iJiVaZue-9jZRDM4S3zkZXt_ONw6o5v4A6bffBooUz-3jtPRjSEqVc0ZShXycNkWFJ5eQcnU8MyELx9vYG-AcacMxY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vOPAy3icdZJNjts4EIUx5xEGIKkf29m1bVGyu622JZGSuTEkkpbUon5alttSY-4wVwicZIDMMggw27lGD-YwcYAsskktHgr1VeEBD_XnVRb_SLc9JqeqW7FF2va77ax9Xje78nPbNeLM-0J8hcYE3Wqqoxk0wcy0ENA_86RPVJMV4v2XXCZCFbV8PB5lt2z4L07-Lqokkz84MCwwnVgmQLo1gxNkWdMPnTi9GdvFAeozpM9MaIDZdGIA3UQI_rH1H5eHX8BPz2fZjW-NU2RJOvZSm08ssNGWge5q0QqvLFtzbM_UnKQq6kxbylPZN622afpcdmmTdEKrfu7R4aSa_qRVyXCoZNV04yFLtZYX8gc4NbyU_afsNhLvP1TfpX3pr3n28XxW8t9rpq7n0zVXV1n_1STty5H_99v_9nm1WDyvFjvStnTpgwCoiLvt0lMzEgMYC5if92A3BpjNmeNDUVO009mLKAeLYvEUxnudlJQIe6gZETC1PY8rW-dVj9NwvSP29CJdj4aRX_No_Ro6eU30OYkqMZdhZqQIH_cw90glHkTJWKiLSrrqwX-dj5yKIwfDOUAepa-ikSQzI0ckPFbPkdpcUjqLSOlFYdnek_juwpw23LjeJcRs7cUq9gi1JcauCFlLI2ymyNuJqqWS0DJQmblT1A6eKEyBguwJb_cgLxjwKKmgtVkq14_zcaO8tSB9GNXYeyB5lURw41Wmm-BbEvV6Ezq4FxSzoMYuDdcuwwKxSrzuFVME74d9jE0e-kBUMLh53Paykcf04kdTyJzBIURsRb1HPrEDjOiKOyznCI4BbZf7eg4IvTO5i-9TiDunWM991xsfIxZwB0a0JsCn6iJiVaZue-9jZRDM4S3zkZXt_ONw6o5v4A6bffBooUz-3jtPRjSEqVc0ZShXycNkWFJ5eQcnU8MyELx9vYG-AcacMxY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5luFFw7xzCL2K5bfJThjVJ0.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Gigabyte B760M DS3H AX DDR4 Motherboard",
+      "rating": 3.7,
+      "reviews": 3,
+      "price": "$140.99",
+      "extracted_price": 140.99,
+      "immersive_product_page_token": "GHr0H3icdZPLjqtGEIalPEPewpu-cDHZDYYGe4b20OZiejMCGtuY5jKAx9g675B38JwT6WR5EinbvMbkaeIoWWSR7Er1fSVVlfT_eCvK3wq326VD3S_5IutG_9noXletX33t-lac8rEUv8w1TdcB1DHWsYaBqgH0NU_HVLb7O0UKmOtYAWg-19Acqgir3w5FKmTZFOvdruitNr9rigoQVOY6VCCaKwrUMP65rNN98TfW5sDAEGCkqzpSDWToynsvhg_lefECgYKQAXUI_hKwZtynPz2ztfXyP_DL66noLx-tU-7T7DIWM1PXgDezNtidxUuy1OyZY1N15qR12exnVjFUY9vNvHY8FH3Wpr2Y1f-u0csg23GY1en0Uhd1219e9tmsy8viHzC0eVWMX_b3lvj1vzZ6r0vxTdU15f4iYw6gCoGmQ_zevY23w_7z6SSL3297eTsNt4O8Fc1Pbdq97fI_vvvebs_WYjgv_LDrIouBwPHPqUUdBhSFS9IIhzxnWA5hbTSb5hBmUthP22T0KwhDl5bCkiklhs2J4DxatTwwq2grJhYSd70llOMK-XW0CK6mzezVjjV0y-woCIhIQosQHgiPh_QxQeqUkXxMAg-FltSypsN5IxbCElQ4UvNjaXphh2I30lgQaR5SyxAwxUPkGDvjG6uIndnTIg8NJ4fmmYHOTZvVUsTynISq5l-9S4rUhpND7cFDmjnkFDnd0iP3e6vJ3F7pSqBoCmJ15W0TELpsGQc-Lmy6ym0YZrGt0uP-6hHD9Y7yLNzuklSHUsDqkiHW0yY6peQBxqTrYsIec0nl05ZL1shjEPA0iO27B58SKEBcT1MOoEetvRI1RE1tfhKI0zQmC45YtI5ZkNvizGtyiavVWxFFj16znOIjd6IovEaErwMorszimo-TDUHRMnf4IUfwsok6K2lMEEYPau6SxwyS3ilXJnPpZR1zljWy9REzKWJ0i4hFXRbmR5MHljlQl-Mk5vjzNPS7D_BA1HGz1qeGGY2r2K_5lUu5olhNimqtp37_8APU54qmIKgZ99z9CTWcTMI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GHr0H3icdZPLjqtGEIalPEPewpu-cDHZDYYGe4b20OZiejMCGtuY5jKAx9g675B38JwT6WR5EinbvMbkaeIoWWSR7Er1fSVVlfT_eCvK3wq326VD3S_5IutG_9noXletX33t-lac8rEUv8w1TdcB1DHWsYaBqgH0NU_HVLb7O0UKmOtYAWg-19Acqgir3w5FKmTZFOvdruitNr9rigoQVOY6VCCaKwrUMP65rNN98TfW5sDAEGCkqzpSDWToynsvhg_lefECgYKQAXUI_hKwZtynPz2ztfXyP_DL66noLx-tU-7T7DIWM1PXgDezNtidxUuy1OyZY1N15qR12exnVjFUY9vNvHY8FH3Wpr2Y1f-u0csg23GY1en0Uhd1219e9tmsy8viHzC0eVWMX_b3lvj1vzZ6r0vxTdU15f4iYw6gCoGmQ_zevY23w_7z6SSL3297eTsNt4O8Fc1Pbdq97fI_vvvebs_WYjgv_LDrIouBwPHPqUUdBhSFS9IIhzxnWA5hbTSb5hBmUthP22T0KwhDl5bCkiklhs2J4DxatTwwq2grJhYSd70llOMK-XW0CK6mzezVjjV0y-woCIhIQosQHgiPh_QxQeqUkXxMAg-FltSypsN5IxbCElQ4UvNjaXphh2I30lgQaR5SyxAwxUPkGDvjG6uIndnTIg8NJ4fmmYHOTZvVUsTynISq5l-9S4rUhpND7cFDmjnkFDnd0iP3e6vJ3F7pSqBoCmJ15W0TELpsGQc-Lmy6ym0YZrGt0uP-6hHD9Y7yLNzuklSHUsDqkiHW0yY6peQBxqTrYsIec0nl05ZL1shjEPA0iO27B58SKEBcT1MOoEetvRI1RE1tfhKI0zQmC45YtI5ZkNvizGtyiavVWxFFj16znOIjd6IovEaErwMorszimo-TDUHRMnf4IUfwsok6K2lMEEYPau6SxwyS3ilXJnPpZR1zljWy9REzKWJ0i4hFXRbmR5MHljlQl-Mk5vjzNPS7D_BA1HGz1qeGGY2r2K_5lUu5olhNimqtp37_8APU54qmIKgZ99z9CTWcTMI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5v-8zw7CpLIUS_kYlwao0-w.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACoElEQVRYhe2XX0hTURzHP5vD62az3GDgnYUvbSZo5IKiMBBjKfi3egrEsCiCQJF88MGHEHrowSIfJCFJtCgQTYoIyST0JXAqErI_VCA6QZwL52bzXz2s3Ta3lRBtPez7dM7vnHO_n9_v3nMuR3ausZzWF_Y0oAgQiI_8wFhbteGbbDzHkAZ8AAriZB7UDHBCTiDzeJvz07NITvzKHk2CPIHmACQBkgBJAEW0YIpSif76VbSlZlRGAwD--QVcw29xPnqM3-mU5qbnGtGWmgGQCwKy1FRpbNvjYXPZxeqEBa_VtjcAQRTJf96HkK0Pj2frEevr0FVXMnvtBh7LVADgSC4HG27-MVOfzY698VYESMQryOt-KJkv9Q8wXVbJdFklS_0DAWJNJnldnaQolYE5g0NMnC7GY5kMM_vcehtndw87Xh8AKqOBgv5nCKIYG0BTUiyV3GOZxNHcgtdqw2u14WhukUwUmkx0F2qkdX6nk61VT0h_kcW-p3xpu8PHuvpfZukqsmovxQbIOG6S2q7hkd3FCYvtO5ofMR5NHssU_vkFqR9MMCpAPLS9thYbwGd3SG2tuSRicWjM5_i0J0NNSXHYB-0efR82HrYLXG-GOdTUgJCtR20qxPigHWdPLwBiXS1qUyEAO14fy69eS-sEUUSRoQ7pZ6GrqWL_qZPoLp4PM18aHAoDkI3nGMqBl8GA2nSMvK5OFJrMqBnteH3YGppYGRkFQFdTxeH2u7-twtaKm8XeJ8zd79g9VBEBEMxIvHIZrfmsVL6tFTcr70aZu9cRcRAdOFMEQIpKKR1G3zc22HR_ZdViwTdrZXt9PRpbdIBQBfd7jAf8rSqiHsWh-kfGkhL-M0oCJAH-CwB_Av39cmCMwEUx3poBxmSJvp7_AESH4gVz4YdaAAAAAElFTkSuQmCC.png",
+      "source": "atelier21.org",
+      "title": "Gigabyte B760M GAMING PLUS Motherboard",
+      "rating": 4.9,
+      "reviews": 173,
+      "price": "$74.00",
+      "extracted_price": 74.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "pjylmXicdZPLjqNGGIWlPEPewpu6cM2ubShjZ4CmoKpMbVpcqo0bMBhw21h5h7xD90ykyXISKdu8Rudp0jPKIotk9x990tE5-nV-flGHP5TXP2ZjO2zkKu-n6N7uT9suqj_3Q1eei-lQ_g4hgpqGsGVgG-umZRvI-FxkU9Z0-6_YsAEEEGGATQsgaGFsfqlUVjaHowofH9XgdMWh_M1C7xYWtIFpaQbEBobmr4c226tv-N0GahhqNoaGpptIs3XLfh3K8U27Xz1AbOsYGyY0NUN7FwYE-Kd7GjoP_wM_nc5qmN-69WGf5fOkFkvTAP7CibG3EBuyMdzF2g30xTprD8f9wlFjPXX9wu-mSg15lw3lov33jR7GppvGRZtdH1rVdsP8sM8XfXFQ_4CxK2o1fdr337r8R6LX9lB-0U1DM5AFbNuygKFrQHvtn6eXav_xfG7Uny_75uU8vlTNizr-0mX982Px13ffu93FWY2XVcT6njsUxIAK6nFHMrtKuJx9Us2BV40x34IIBUCJJkx4ICQpUwb3t4R0MAWT57OKUbee5LpypJAj3TFQYp7mjIrCpVnxtLnmsA8lL2e1W-J8TdoyofdZC0XJlyJZb40kiS6CbCNZE84A7wrXncub9MRTocWM0qjmO-aQsy_6OPT4SjIeRtwFadukCfIvfhI8yZbUzN0iKbhQte0JcjdRFDwXTIL8KboEnGwyNJ1Kr3R8vrx-EHYgazrnkN0iXuACyG3mEN-Hy6ZEFfEFJ-pIQznDixBbKFp7l-yKa1G7NwqqTc6lw1lzilum5btmI2HVxUnlp6BAvO6RaqeRYVqn9cR9NzgXR75hNQ12gOmRgPcpozhJJODudpPVQRK6l1vEUhSD5ixvkqskOH5gFo5rmwpR9oxZiN3orkCVke7ef-HsY4L4pljLqkBwjnnvpMclYPxOLzzyYw7JsD5sl9QL5lDION3RqyD24JPmlBF-2uFaT5-aOsNlrFZwDgmhH6_j8PgG7og-xaF5PVL76GnuqbjJptkGWE9VHZpZNNz9AL_OTUPvK4Ua_BtbfE8Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pjylmXicdZPLjqNGGIWlPEPewpu6cM2ubShjZ4CmoKpMbVpcqo0bMBhw21h5h7xD90ykyXISKdu8Rudp0jPKIotk9x990tE5-nV-flGHP5TXP2ZjO2zkKu-n6N7uT9suqj_3Q1eei-lQ_g4hgpqGsGVgG-umZRvI-FxkU9Z0-6_YsAEEEGGATQsgaGFsfqlUVjaHowofH9XgdMWh_M1C7xYWtIFpaQbEBobmr4c226tv-N0GahhqNoaGpptIs3XLfh3K8U27Xz1AbOsYGyY0NUN7FwYE-Kd7GjoP_wM_nc5qmN-69WGf5fOkFkvTAP7CibG3EBuyMdzF2g30xTprD8f9wlFjPXX9wu-mSg15lw3lov33jR7GppvGRZtdH1rVdsP8sM8XfXFQ_4CxK2o1fdr337r8R6LX9lB-0U1DM5AFbNuygKFrQHvtn6eXav_xfG7Uny_75uU8vlTNizr-0mX982Px13ffu93FWY2XVcT6njsUxIAK6nFHMrtKuJx9Us2BV40x34IIBUCJJkx4ICQpUwb3t4R0MAWT57OKUbee5LpypJAj3TFQYp7mjIrCpVnxtLnmsA8lL2e1W-J8TdoyofdZC0XJlyJZb40kiS6CbCNZE84A7wrXncub9MRTocWM0qjmO-aQsy_6OPT4SjIeRtwFadukCfIvfhI8yZbUzN0iKbhQte0JcjdRFDwXTIL8KboEnGwyNJ1Kr3R8vrx-EHYgazrnkN0iXuACyG3mEN-Hy6ZEFfEFJ-pIQznDixBbKFp7l-yKa1G7NwqqTc6lw1lzilum5btmI2HVxUnlp6BAvO6RaqeRYVqn9cR9NzgXR75hNQ12gOmRgPcpozhJJODudpPVQRK6l1vEUhSD5ixvkqskOH5gFo5rmwpR9oxZiN3orkCVke7ef-HsY4L4pljLqkBwjnnvpMclYPxOLzzyYw7JsD5sl9QL5lDION3RqyD24JPmlBF-2uFaT5-aOsNlrFZwDgmhH6_j8PgG7og-xaF5PVL76GnuqbjJptkGWE9VHZpZNNz9AL_OTUPvK4Ua_BtbfE8Y"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5ny_eydMVqX-Sotv1Um5kOg.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7a7686e9fabacd73ad57/images/9LjDZ6bzOtrV5S_dE05k5iLWUEnEYTPeeDuiNq65q3LVyyG23OM4ZsOYOHA2oabS.png",
+      "source": "Newegg.com - Speed Electronics",
+      "title": "Gigabyte B760M DS3H UD DDR5 Motherboard",
+      "rating": 4.8,
+      "reviews": 12,
+      "price": "$110.44",
+      "extracted_price": 110.44,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "5oYV4HicbZPLjqNGFIalPEPewopUFwpDdm1j8KUpt8tQhdlYmMKAKS4N-Kq8Q97BPRNpspyJlG1eo_M0cUdZZDE6myN9v875f-mcX-9J_mcybfZRV7azcLxr-tWL2bzO61XxpWlreYz7XH4zdAMDhE0DAt000KO0L3HUR6pOHxQSPASAYM2EGtaJaWL4NUsiqfIqWe73SWvVcS7_gMDQsEY0UzOGWBsSAhD5PS-jNPmXfyPYeCzQkQE1E6GHDoC3Vnbv6GW81SAwNYgAJIapY4QAAb-8sKW1_T77_HpM2ut77eRptLv2yWA01IE7sNZ4OhAze6ZPBs6EkoETlXmVDqykK_q6Gbh1nyXtro5aOSj_36Ntp-q-G5TRZVsmZd1et-lu0MR58h_o6rhI-s9p8xHkO4beylx-JUNde8QzDR08KIAmfmtO_T1LPx2PKvnrnqr7sbtn6p5Uv9VRc9rHf__w46Q-W-PuPF75TcMtBtbK3nslHVHEJsynZ69Ur16QXgNkl9KeY3ooALeyoyv6Vz9oGOdSuD5dxtMwdPHs7OJQRIVZibLo-W0GVlVYeIDPPWcFPWEfRQlRKLqbG9j9KljdpCdnSZACryRn6Zh8d5gfPUzbVcXERsWYKcaSgl-po_ToxvJoyse-z2vmFGdhyTEtGN4gcJEH6Xglm3PbIAE0W-HEZOWrBbPpzbtCvJuqdVy5Fy76G0XZyp02N45gEdpN56Jz75fZM3My-0O7rprTBs-DcAxPNLCXEob5BrGFe1NNDHri-ZNrqFSRHDLdfXhnHs3WdnikE0KiQAHm0EJ6M8IF7SPBps9CHTacd9HEtkKenbmTAeHIJRfkEiM1f8y4hIqPhLh4tFTWxrcZUyGUBXG5NVfrg3xhdooCzPONyBaR05_Wk2YvIc_c8ry2EZ_FTpjFCF7XvLE21Qj4_InEU3uxg3br5PMRm9LrUoS-KyjdeeGJ2Q11EdUEN12_Gu0p5EtZwtw7cPbp0rX7d_Bkk3691L3nc1DNXo3wsMmMn-JNHz7OloPMWzz9DIeGpmsI6h-v-Q8uvlA6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5oYV4HicbZPLjqNGFIalPEPewopUFwpDdm1j8KUpt8tQhdlYmMKAKS4N-Kq8Q97BPRNpspyJlG1eo_M0cUdZZDE6myN9v875f-mcX-9J_mcybfZRV7azcLxr-tWL2bzO61XxpWlreYz7XH4zdAMDhE0DAt000KO0L3HUR6pOHxQSPASAYM2EGtaJaWL4NUsiqfIqWe73SWvVcS7_gMDQsEY0UzOGWBsSAhD5PS-jNPmXfyPYeCzQkQE1E6GHDoC3Vnbv6GW81SAwNYgAJIapY4QAAb-8sKW1_T77_HpM2ut77eRptLv2yWA01IE7sNZ4OhAze6ZPBs6EkoETlXmVDqykK_q6Gbh1nyXtro5aOSj_36Ntp-q-G5TRZVsmZd1et-lu0MR58h_o6rhI-s9p8xHkO4beylx-JUNde8QzDR08KIAmfmtO_T1LPx2PKvnrnqr7sbtn6p5Uv9VRc9rHf__w46Q-W-PuPF75TcMtBtbK3nslHVHEJsynZ69Ur16QXgNkl9KeY3ooALeyoyv6Vz9oGOdSuD5dxtMwdPHs7OJQRIVZibLo-W0GVlVYeIDPPWcFPWEfRQlRKLqbG9j9KljdpCdnSZACryRn6Zh8d5gfPUzbVcXERsWYKcaSgl-po_ToxvJoyse-z2vmFGdhyTEtGN4gcJEH6Xglm3PbIAE0W-HEZOWrBbPpzbtCvJuqdVy5Fy76G0XZyp02N45gEdpN56Jz75fZM3My-0O7rprTBs-DcAxPNLCXEob5BrGFe1NNDHri-ZNrqFSRHDLdfXhnHs3WdnikE0KiQAHm0EJ6M8IF7SPBps9CHTacd9HEtkKenbmTAeHIJRfkEiM1f8y4hIqPhLh4tFTWxrcZUyGUBXG5NVfrg3xhdooCzPONyBaR05_Wk2YvIc_c8ry2EZ_FTpjFCF7XvLE21Qj4_InEU3uxg3br5PMRm9LrUoS-KyjdeeGJ2Q11EdUEN12_Gu0p5EtZwtw7cPbp0rX7d_Bkk3691L3nc1DNXo3wsMmMn-JNHz7OloPMWzz9DIeGpmsI6h-v-Q8uvlA6"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRIYVnQzx5s7W43w2cgLpq7XGXY3V5P901eceIqFgOL5czpiQ-wCiPrWJJpyyGq8D7DMPN4gN3EorG7Bww3qzTeElwZIwzwPsA4TDOZ21FACbRrw3hRhj8r",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Speed Electronics",
+      "title": "Gigabyte B760M DS3H DDR4 Motherboard",
+      "rating": 4.8,
+      "reviews": 297,
+      "price": "$169.00",
+      "extracted_price": 169.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "NRMc_XicbZJLjttGAESBnCG30Ka7-RE7O1EkRSrDltT8iOyNQLGbn-F3KGokEb5D7qCxA9hL20C2ucbkNBGMLAIku0K9TaGqfruL8g9h91lyagaHLY_9uNvi_mXd7arP_dDxczqW_JsiAVlDcwUAjDRZwRJGn9NkTOouf1AVYQyRAhCCSNVkiDH-WoiE12UrNlkmBqNLS_4dalDDGKhQ0ZAKVAmgOf5SNkkufvBvmibLAEAFSRJUFQ1KUH4b-OkdbZcH9WFiTZ3PMdDmGgSaNP-wpRvj8P_s08tZDLf3blXmyfE2ipk-V4E7MzzJnu0dy1HN2cokymyVNGWbzwxxqsaun7ndWIjh2CUDnzX_1uhwqrvxNGuS66ERTTfcDvlx1qel-AecurQS46e8T3_08Z9Ab03JvypzVVaRhqGmqUDGCKlv_et4L_KP53Mt_rzn9f18uhf1XbS_d0n_mqV__fSz2V2M5emy3AV9HxoUeK15IeC68-wU-miNfNMK48C5RMBSucEyVtFLJIXX9LkIQ4u8suDhh3rgG8QOGhKzKZ-81spIRDc8wE8B5JnfFsFTxHw6xfLGIp0r0S1vq4u3oioLuBIDpT5CZ0prUrBnXrG9c41b1kSojkmIM9awLgWcksh65k0fBcGYHVc1iEO2cw3LFhbWY5_anp2DBHD3yc_lOCycXUhA2pAlCelWeEDhe2sKpAqKdt3HDW0JLChB4dqdckShDjgqnmLIrL2VSske-hTll8TgGa9Z4K-ur7uaE9dOFR_QKgnI4JUwdicyuKAnbtTJESoGugrk0KKRB4i6bxRHRGzrRjoJ66KKg3rtm9XVN3fAq03ktv2QAlNyQfjCjDXlz3rpoRjEU309BnhNpD7b77ntW_rkrxzkN1wh1rrymnCkTeGwypVZpXkWCp10xYoUwZsX9kbc6iAIF0pqW78eoTWsyrVObXLb7FnAnuti40Fb1PgcTbW7e9wntQrD3V8HYhZGUEH94_U0ZO9gYSmjt1Eew-jDIp246QhxPS36hS4toWLQRf4LnGuyKiOoYiiDvwHTWUyz",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NRMc_XicbZJLjttGAESBnCG30Ka7-RE7O1EkRSrDltT8iOyNQLGbn-F3KGokEb5D7qCxA9hL20C2ucbkNBGMLAIku0K9TaGqfruL8g9h91lyagaHLY_9uNvi_mXd7arP_dDxczqW_JsiAVlDcwUAjDRZwRJGn9NkTOouf1AVYQyRAhCCSNVkiDH-WoiE12UrNlkmBqNLS_4dalDDGKhQ0ZAKVAmgOf5SNkkufvBvmibLAEAFSRJUFQ1KUH4b-OkdbZcH9WFiTZ3PMdDmGgSaNP-wpRvj8P_s08tZDLf3blXmyfE2ipk-V4E7MzzJnu0dy1HN2cokymyVNGWbzwxxqsaun7ndWIjh2CUDnzX_1uhwqrvxNGuS66ERTTfcDvlx1qel-AecurQS46e8T3_08Z9Ab03JvypzVVaRhqGmqUDGCKlv_et4L_KP53Mt_rzn9f18uhf1XbS_d0n_mqV__fSz2V2M5emy3AV9HxoUeK15IeC68-wU-miNfNMK48C5RMBSucEyVtFLJIXX9LkIQ4u8suDhh3rgG8QOGhKzKZ-81spIRDc8wE8B5JnfFsFTxHw6xfLGIp0r0S1vq4u3oioLuBIDpT5CZ0prUrBnXrG9c41b1kSojkmIM9awLgWcksh65k0fBcGYHVc1iEO2cw3LFhbWY5_anp2DBHD3yc_lOCycXUhA2pAlCelWeEDhe2sKpAqKdt3HDW0JLChB4dqdckShDjgqnmLIrL2VSske-hTll8TgGa9Z4K-ur7uaE9dOFR_QKgnI4JUwdicyuKAnbtTJESoGugrk0KKRB4i6bxRHRGzrRjoJ66KKg3rtm9XVN3fAq03ktv2QAlNyQfjCjDXlz3rpoRjEU309BnhNpD7b77ntW_rkrxzkN1wh1rrymnCkTeGwypVZpXkWCp10xYoUwZsX9kbc6iAIF0pqW78eoTWsyrVObXLb7FnAnuti40Fb1PgcTbW7e9wntQrD3V8HYhZGUEH94_U0ZO9gYSmjt1Eew-jDIp246QhxPS36hS4toWLQRf4LnGuyKiOoYiiDvwHTWUyz"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQSabxOFlZbSGNkemnwdC3vhuN__hRCYBsUlZCyEMTnXv9V5YNYjyOMJYubUVohGaoys9MxEqFiCDLSwnu5l8ksiuXXCEDnZp1JRCqFN4qour8j04-fWZI",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5aaGfMW97qGRkQ4iOwtu7aFJPFmjpvS09yQqDJ0zw8gfYTCKQaeyWJMoIfVbncuYERBN5YgM-SOh1v7GCawAXYZl1nwtkzGA",
+      "source": "Pondesk",
+      "title": "Gigabyte B760M H DDR4 Motherboard",
+      "rating": 4.9,
+      "reviews": 96,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "original_price": "Usually $118",
+      "extracted_original_price": 118,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "5HLLXnicbZNLbuNGFEWBrCG70KSqWPxlZooqUmyzZP6KVE0Mfkokxa9J2paE7CF7kLsDdIadAJlmG85qIiMZZNCzC5yH9-69wPvlKuo_hT0e0rmbtnydjYv3oI9PzuA1X8dpKJ7zpS7-gIqGNAgUFUEJqDrWNKB-zdMlbYfyA2tA0TRJxbqqaljRoAzVb5VIi7buxe5wEJM55HXxO7wRJClYARpSoa5jXf-t7tJS_It1IH9slxQgA0lVVIjkt6mY39HD-hFjVYOqIkNJ0WQJ4Zv4-cHfmY_fZ1-ensV0fh-sukyz8yJWhqoAd2UGkr2Kt2SrbFbWhsorK-3qvlyZYm6WYVy5w1KJKRvSqVh1_9focW6HZV516emxE90wnR_LbDXmtfgPzEPeiOVLOX4E-Y6ht64uvsnqLTtSAQZIV7EEsfQ2vizXqvz8_NyKv65le32er1V7Ff2vQzq-HPK_f_hxM7ya6_l17UXjyEwfBAhD99KuI2tGaQfOyYXaWYRlrzVmQTay3xQnbm6gm1DEJU7pkb2GG9K6Ee-45DfMGrt9WNihtYAoKe7TCwkzi-HCNOzMchLB7s5pc7pNl6fsGIGYGU-R5UDRUIce_TnuSZ3HGgogi-8ZS_KWb91mwWE8A9EQ5CLasp7O-aWy7-PCTCG_3O4OLCGd3zs3n47tJ9WYtcQPanjhEezCttjmli7xyCGZpRviWOA4JpxuqinrjQtvee9LDQjjZXHZ2IbHRs4l9loAZ-JHmmaN9pqZxpggSOjR4D5aGkb0fbZxtgGAck5K4MYL21l-TTsy7xLmBRv5aY_AyWv8c2RxRzBjzxonvk-44vfc8Xqy5i19CZFcM3N72aPKofZY7aXqTBn10giy4EI_7cFezhoe7IjeRq1BQgse4qToQ-ukZIm75B0OCGK3fLzKETwHbDT3vQEidifnNvmUQTJZtWP4Nj3vYh7wY4nFsZJ84NfehT-IkC5e6-HAdmXXZrusL6TPp3k6vIM7Ii_BTj31vt7bePOU34pqHSrJe9Hs1NSb7n6CHw-JEVR0iOE_QgROFA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5HLLXnicbZNLbuNGFEWBrCG70KSqWPxlZooqUmyzZP6KVE0Mfkokxa9J2paE7CF7kLsDdIadAJlmG85qIiMZZNCzC5yH9-69wPvlKuo_hT0e0rmbtnydjYv3oI9PzuA1X8dpKJ7zpS7-gIqGNAgUFUEJqDrWNKB-zdMlbYfyA2tA0TRJxbqqaljRoAzVb5VIi7buxe5wEJM55HXxO7wRJClYARpSoa5jXf-t7tJS_It1IH9slxQgA0lVVIjkt6mY39HD-hFjVYOqIkNJ0WQJ4Zv4-cHfmY_fZ1-ensV0fh-sukyz8yJWhqoAd2UGkr2Kt2SrbFbWhsorK-3qvlyZYm6WYVy5w1KJKRvSqVh1_9focW6HZV516emxE90wnR_LbDXmtfgPzEPeiOVLOX4E-Y6ht64uvsnqLTtSAQZIV7EEsfQ2vizXqvz8_NyKv65le32er1V7Ff2vQzq-HPK_f_hxM7ya6_l17UXjyEwfBAhD99KuI2tGaQfOyYXaWYRlrzVmQTay3xQnbm6gm1DEJU7pkb2GG9K6Ee-45DfMGrt9WNihtYAoKe7TCwkzi-HCNOzMchLB7s5pc7pNl6fsGIGYGU-R5UDRUIce_TnuSZ3HGgogi-8ZS_KWb91mwWE8A9EQ5CLasp7O-aWy7-PCTCG_3O4OLCGd3zs3n47tJ9WYtcQPanjhEezCttjmli7xyCGZpRviWOA4JpxuqinrjQtvee9LDQjjZXHZ2IbHRs4l9loAZ-JHmmaN9pqZxpggSOjR4D5aGkb0fbZxtgGAck5K4MYL21l-TTsy7xLmBRv5aY_AyWv8c2RxRzBjzxonvk-44vfc8Xqy5i19CZFcM3N72aPKofZY7aXqTBn10giy4EI_7cFezhoe7IjeRq1BQgse4qToQ-ukZIm75B0OCGK3fLzKETwHbDT3vQEidifnNvmUQTJZtWP4Nj3vYh7wY4nFsZJ84NfehT-IkC5e6-HAdmXXZrusL6TPp3k6vIM7Ii_BTj31vt7bePOU34pqHSrJe9Hs1NSb7n6CHw-JEVR0iOE_QgROFA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQJMQp1G9oFszyqmTtUC_84eEFQS0ccTk-pSUn4_Y5RQTl88JajDedqXJ5Z2OPifJ2mBK2CnDvTn5NPo53XRIeWgV4QoP7hsVrCxH80_fQ_RnMuOLerAWQBRw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ6U5z0g-Y_gx_msO_pJeZ16KpSFcKMjwHUb5h-oq1RpOnXPEZ4jxVa-aYoGVka-gxNb_jszcxHijYccpp98fiq4gt3V93fumARvltn0wE",
+      "source": "Newegg Business",
+      "title": "Gigabyte B760MC C Motherboard",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "delivery": "Free delivery",
+      "extensions": [
+        "50% OFF"
+      ],
+      "immersive_product_page_token": "7D4eOXicTZLNjqNGFIWV50GRqILCkF27MQZnoOMyP3ZtWkVVGXDxUwb8xwtkmVcYuWciTZadSNnmNSZPE0-URXZX9zv36Bzp_nIX1Z_CV3s6NH1AnnM1rn9y1HHVreUX1Xf8xMaK_wHAzLGBgUxbBwacWabjWF8YHWndFRV_N8HMBIY5e4hswwImgu-loLyuWvGy34ve7dg3E6Q7jo5sZKKZjRACENq_VQ0txL_8d4gME1qW_s1BtywH2vZbz4ePn48n0d--dsuqoPltFNp8Zumh5m4MX8sCL7AW2nIRIW1Jm6otNFcMcuyUFnZjKfq8oz3Xmv_P8HWou3HQGnp9bUTT9bfXItcUq8R_YOiYFOPn4rHi7wgYziOY-ahtINsBtvPWVPzjmzqP97L4dDrV4q97Ud9Pw72s76L9taPqvGd_f_fz4hg8P5-C-TpRKnWxvpmezLieU74cI5wgsIG7a7hc3LI47cQiuZBW7VmaUgqvCTHwyGEBY8kVl6DiB3zNNuDCD8yIZZolbkqEHw3Yne_CJX_chzc8lVvup1MM0zpqS581GG8WaIizFESHcAprdmHSq9YGdnHq9cRTVb5U51BHY9aUKo5LiN26z2Msd2ndsglneRwpOqUTkYDQWm2FXHX0EO2pN29ftl6waUo_n-pwF_Nup6Mhd8mwBfNLpI84fAaILxDMfS9dH4hFErIKW28usvKcTJ5MIdlGFejjZTSwjB_xtIrWONiSpLyQxpvy7WqVyahiPsaJW19Yos5JNtBAegtmBIjUnsxc8uHFJ8EmGdD68GRkkighORUSg0jn5zRjn65Dv_-qP3lo3LxY8YfLtg2ONjnsSvt7thvJ4y1SvYx_fPoBzGzTMiGwHGAa_wCEhhS4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7D4eOXicTZLNjqNGFIWV50GRqILCkF27MQZnoOMyP3ZtWkVVGXDxUwb8xwtkmVcYuWciTZadSNnmNSZPE0-URXZX9zv36Bzp_nIX1Z_CV3s6NH1AnnM1rn9y1HHVreUX1Xf8xMaK_wHAzLGBgUxbBwacWabjWF8YHWndFRV_N8HMBIY5e4hswwImgu-loLyuWvGy34ve7dg3E6Q7jo5sZKKZjRACENq_VQ0txL_8d4gME1qW_s1BtywH2vZbz4ePn48n0d--dsuqoPltFNp8Zumh5m4MX8sCL7AW2nIRIW1Jm6otNFcMcuyUFnZjKfq8oz3Xmv_P8HWou3HQGnp9bUTT9bfXItcUq8R_YOiYFOPn4rHi7wgYziOY-ahtINsBtvPWVPzjmzqP97L4dDrV4q97Ud9Pw72s76L9taPqvGd_f_fz4hg8P5-C-TpRKnWxvpmezLieU74cI5wgsIG7a7hc3LI47cQiuZBW7VmaUgqvCTHwyGEBY8kVl6DiB3zNNuDCD8yIZZolbkqEHw3Yne_CJX_chzc8lVvup1MM0zpqS581GG8WaIizFESHcAprdmHSq9YGdnHq9cRTVb5U51BHY9aUKo5LiN26z2Msd2ndsglneRwpOqUTkYDQWm2FXHX0EO2pN29ftl6waUo_n-pwF_Nup6Mhd8mwBfNLpI84fAaILxDMfS9dH4hFErIKW28usvKcTJ5MIdlGFejjZTSwjB_xtIrWONiSpLyQxpvy7WqVyahiPsaJW19Yos5JNtBAegtmBIjUnsxc8uHFJ8EmGdD68GRkkighORUSg0jn5zRjn65Dv_-qP3lo3LxY8YfLtg2ONjnsSvt7thvJ4y1SvYx_fPoBzGzTMiGwHGAa_wCEhhS4"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSHh6U-TOQWA9izSDr394GD8jFVAsdHVeFrVDAsayh8oY4-6fAPvP7voTExoA4Ccv51dA3RLBvLHDh74jneaa9BoaRJ13lJycogasZZmF6b7MGRiAM_lzs2",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "GIGABYTE B760 DS3H WIFI6E GEN5 Motherboard",
+      "rating": 4.8,
+      "reviews": 55,
+      "price": "$124.77",
+      "extracted_price": 124.77,
+      "original_price": "$139",
+      "extracted_original_price": 139,
+      "extensions": [
+        "9% OFF"
+      ],
+      "immersive_product_page_token": "XH16unicddBLbuNGEAZgIGfILYQA_eAzO0tkU5JNSiLZ3SY3RpNsiRRfPSRlW8LcIXeQZwJMlpMA2eYazmmiDLLIItkV6vtRqKqfrrL6XS7VXoztsEoXmZp2W1t9WPe7-osa-uKUT1XxqwmBDgxkIs0ykGFAE5hfcjGJpj_c1EKaqVkII2gBBDC46ddSiqKpOrnZ7-Xg9PnfMWxaEOomAMDGUL9Nwb9UrTjIb_wbxDaABoYAI1PXsQVv8behGN-17eIJQmTpEAGEgW0jw7KhhT9uw43z9D_4-cNJDuf33qsOIjtPcjY3DeDPnAgvZ3xFVoY789xAn3mirbrDzJFjPfVq5vdTKYesF0Mxa_9do6ex6adx1orXp1a2_XB-OmQzlVfyHxj7vJbT54P6dst_bPTWVsVX3TQ0A1kaMoBmY-tmb-p5upaHT6dTI_-4HprrabyWzVV2P_dCPe_zP7_73u1fnMX4sthRpZgTgoiqNOzKRVavzqyjOKnLPkaMixo--F7xnKCGblg_ZZ4eyjolG5re7-oy3GHmCa5hvlStbMKGusUk2_L-8UIQ8zSt4LpD2-ASk0D5KBhErVgcs-ecl0e_C8qkYyhhxRi2yUtwbEbmMehzsqB86iJOMK0bg5IDiLBqotq-D2CzTZB9DNh8TS9pL7kFMxjMcxSeArdcpdQCsoWNOBYXQeFJMEWYky4eWHoSQJ13rGwobZYJWj_7bD1tHsmLOLpnP_anqFPzkLoardV99Bhu_TjB7MI05pCTICWX3TzJKav8Nn2gyE6yjvSZS7zA1b30SPVbf83ddO57wZHX5TqG5cmPiz3vipahIGDd3RRf7kDqrV93iGxjj7gMN4w7ZRI3YVu0FMs21DZOM_JjoTGudgUaNb4khnQoSuL8LOpiFwAbBK4b3T68yr20zBE8R0w5STcHlN3p-ZLcZ5AMXrWeh8vgvOFpGC9V9IibS8jVY0zJB17BVcr1KScB50dixB3rPr2Ow_4d3BF9ijYGOsgfJu-o8dc4C6q-juVKPJivDpMvP0LT0gwNQcOGGvoLPJhQEw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XH16unicddBLbuNGEAZgIGfILYQA_eAzO0tkU5JNSiLZ3SY3RpNsiRRfPSRlW8LcIXeQZwJMlpMA2eYazmmiDLLIItkV6vtRqKqfrrL6XS7VXoztsEoXmZp2W1t9WPe7-osa-uKUT1XxqwmBDgxkIs0ykGFAE5hfcjGJpj_c1EKaqVkII2gBBDC46ddSiqKpOrnZ7-Xg9PnfMWxaEOomAMDGUL9Nwb9UrTjIb_wbxDaABoYAI1PXsQVv8behGN-17eIJQmTpEAGEgW0jw7KhhT9uw43z9D_4-cNJDuf33qsOIjtPcjY3DeDPnAgvZ3xFVoY789xAn3mirbrDzJFjPfVq5vdTKYesF0Mxa_9do6ex6adx1orXp1a2_XB-OmQzlVfyHxj7vJbT54P6dst_bPTWVsVX3TQ0A1kaMoBmY-tmb-p5upaHT6dTI_-4HprrabyWzVV2P_dCPe_zP7_73u1fnMX4sthRpZgTgoiqNOzKRVavzqyjOKnLPkaMixo--F7xnKCGblg_ZZ4eyjolG5re7-oy3GHmCa5hvlStbMKGusUk2_L-8UIQ8zSt4LpD2-ASk0D5KBhErVgcs-ecl0e_C8qkYyhhxRi2yUtwbEbmMehzsqB86iJOMK0bg5IDiLBqotq-D2CzTZB9DNh8TS9pL7kFMxjMcxSeArdcpdQCsoWNOBYXQeFJMEWYky4eWHoSQJ13rGwobZYJWj_7bD1tHsmLOLpnP_anqFPzkLoardV99Bhu_TjB7MI05pCTICWX3TzJKav8Nn2gyE6yjvSZS7zA1b30SPVbf83ddO57wZHX5TqG5cmPiz3vipahIGDd3RRf7kDqrV93iGxjj7gMN4w7ZRI3YVu0FMs21DZOM_JjoTGudgUaNb4khnQoSuL8LOpiFwAbBK4b3T68yr20zBE8R0w5STcHlN3p-ZLcZ5AMXrWeh8vgvOFpGC9V9IibS8jVY0zJB17BVcr1KScB50dixB3rPr2Ow_4d3BF9ijYGOsgfJu-o8dc4C6q-juVKPJivDpMvP0LT0gwNQcOGGvoLPJhQEw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTNzaIcTietPrF7F9QX_TWoGnRJBP57QrIE65WJ-BhT0jN7pAMe0QhiGpv875MTjmSuJqRbL33ZcZ3aq0wEZQf6VabhwliUNHTnQQhprUrGx0hF_61A3wkQyA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Yongrui electronic Commerce Co., Limited",
+      "title": "Gigabyte B760M GAMING Micro ATX Motherboard Dual Channel DDR5 2x DIMMs XMP Memory 2x PCIe 4.0 x4 M.2 Connectors",
+      "rating": 5.0,
+      "reviews": 7,
+      "price": "$154.20",
+      "extracted_price": 154.2,
+      "immersive_product_page_token": "PC82wXicdZLbjqNGEIalPEPewlqpDzSH3I0HGpsxzXBqDDcjDBiwm8MAnrFR3iHv4NmNtLncXSm3eY3J08RZ5SIXiVQq_dJXKv1_qX65FvXvxarfp2MzrJP7XT-5j1r_bHXu8XM_dPkpm-r8q6JqMoYSIhJRACIEYO1zlk6p6Mo6_wbxjci3LgMFyzcBMflSFWku6rZw9vti0Lvs7zkZARWoKsEAIoiRIknqb3WTlsV3_lVCmKgyALdSJYw1JGtvQz6-S4_3T1DRoIKgpmCiKLc9QMPSz4-eoz_9D_z0fCqGy3tn1mW6u0zFYqnIwF7oPl4tojVdy8bCNBhZmGlTt-VCL8bj1PULu5uqYth16ZAvmn9r9DSKbhoXTXp-aoqmGy5P5W7RZ3XxDxi77FhMn8r-e9T_cPTW1PkXosiSjFQNabeIRCFIe-tfpmtVfjydRPHHtRTX03itxLVof-3S_mWf_fnDj0b3qt-Pr_du2Pdc94AP6NmeaWwHuRwKMdrGNLvCJWwWh3SbTOyQjyH2ErYStXtIDn6btJttDD3cc6851yFkY0bXJMcujLZLK9Atj-v5OTz2lWN6Thbm3c7IfTsQzDGZSMJ4YlTIwWxNrK0ix0xarxWPvuGSJKKENSXKBDMLk9u5zhwP8oAFdMUMMQVAg3nb7zllcYzoxm0ZC0E8JWDiPsoPDrVcx5g4axja6RbfhJT6R83yYUZSupRtLLwskiQXUJ1DTY6aDKerRPIa_uBG1j7APMgMS_I5H5M2u_h61XuN4IVgKAi9i8stO256yw6WgxvyR3-bXHZHukra8tVvYmKv-IM9L0VxKM-RaaMwrGAYWZMNjyS-pUjmqrf1xPGM_hhDJrvR-SUBcLYpW_sRDDkOwW7ODduo5sRU53xFL5tQhXak-TGkS4_TaXcofYr4OjOTKkPw4vNej9slCPkdyVb0YQfpYNbW0luxixMlQQwgyY_nxjG802ab-HFI58AQL1FTnm_enBBN-ON5HPbv4I6SyXfkYPO6bdfPanKIK_VDdjvv7W85qIKHu5-gokqyhKCsQQn_BakDTmU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PC82wXicdZLbjqNGEIalPEPewlqpDzSH3I0HGpsxzXBqDDcjDBiwm8MAnrFR3iHv4NmNtLncXSm3eY3J08RZ5SIXiVQq_dJXKv1_qX65FvXvxarfp2MzrJP7XT-5j1r_bHXu8XM_dPkpm-r8q6JqMoYSIhJRACIEYO1zlk6p6Mo6_wbxjci3LgMFyzcBMflSFWku6rZw9vti0Lvs7zkZARWoKsEAIoiRIknqb3WTlsV3_lVCmKgyALdSJYw1JGtvQz6-S4_3T1DRoIKgpmCiKLc9QMPSz4-eoz_9D_z0fCqGy3tn1mW6u0zFYqnIwF7oPl4tojVdy8bCNBhZmGlTt-VCL8bj1PULu5uqYth16ZAvmn9r9DSKbhoXTXp-aoqmGy5P5W7RZ3XxDxi77FhMn8r-e9T_cPTW1PkXosiSjFQNabeIRCFIe-tfpmtVfjydRPHHtRTX03itxLVof-3S_mWf_fnDj0b3qt-Pr_du2Pdc94AP6NmeaWwHuRwKMdrGNLvCJWwWh3SbTOyQjyH2ErYStXtIDn6btJttDD3cc6851yFkY0bXJMcujLZLK9Atj-v5OTz2lWN6Thbm3c7IfTsQzDGZSMJ4YlTIwWxNrK0ix0xarxWPvuGSJKKENSXKBDMLk9u5zhwP8oAFdMUMMQVAg3nb7zllcYzoxm0ZC0E8JWDiPsoPDrVcx5g4axja6RbfhJT6R83yYUZSupRtLLwskiQXUJ1DTY6aDKerRPIa_uBG1j7APMgMS_I5H5M2u_h61XuN4IVgKAi9i8stO256yw6WgxvyR3-bXHZHukra8tVvYmKv-IM9L0VxKM-RaaMwrGAYWZMNjyS-pUjmqrf1xPGM_hhDJrvR-SUBcLYpW_sRDDkOwW7ODduo5sRU53xFL5tQhXak-TGkS4_TaXcofYr4OjOTKkPw4vNej9slCPkdyVb0YQfpYNbW0luxixMlQQwgyY_nxjG802ab-HFI58AQL1FTnm_enBBN-ON5HPbv4I6SyXfkYPO6bdfPanKIK_VDdjvv7W85qIKHu5-gokqyhKCsQQn_BakDTmU"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRmJxihdPFkILUrcHO-TWQDkLXNU8aW20Lgp1dFcmbN2bjzrtPSHUDda999ke_gETuj3C2xq8g9_9X0W0HZTB-NFFWaYK7wndZg8SqYr9xBIfYg14Y1MrRz",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSszEkUOjnvn_96LLdtDlvMqM_zHQKn-qXz48g4ezIjuG9VexSIaGBYUqfM-jG02rpelucSF61h39mgcfZ__9JvMl7lJ8-fLRY",
+      "source": "Techinn.com",
+      "title": "Gigabyte B760M D3HP DDR4 Motherboard",
+      "rating": 4.8,
+      "reviews": 55,
+      "price": "$90.99",
+      "extracted_price": 90.99,
+      "original_price": "$112",
+      "extracted_original_price": 112,
+      "extensions": [
+        "18% OFF"
+      ],
+      "immersive_product_page_token": "I0l6h3icbZNLjuM2EIaBnCG3MAKQ1Du7liVaVrfktiRSFjcNWpQt29SjJfkhY-6QO7hnAkyWkwDZ5hqd08QdZJHFoDaF-v4C6gf--uVW7P4svHbD-6qbs-m6HZbPVvvqN8vD17ZrxDEfduIPCBA0DEVDOkKmBVRFUbWvOR-4bLYfGEJdUQxoaLpqIlM3FWB9Kwsu5K4uFptN0TlN_qFDBlQ0iICpqbqlmBDoxm-7im-Lf_nvmgVVS7E0xdAUVQXIhMZbJ_p39Dx9MRRLNQ3zfoEJNQQMSzc-PUcL5-X77MvrsejG92a22_L1OBQT29BBMHFixZukczzX3cnMDbXJjFe7ejtxiv4wNO0kaIay6NYN78Sk-n-PXnrZDP2k4peXqqiabnzZridtviv-A32TH4rhy7b9MPKdg96qnfimGbp6n1nGvTRg3S2-tafhVm4_H4-y-Ou2lbdjfyvlrah_bXh72uR___Cj25ydaX-eLknbUicCccqihSd9AW0_R0TN0mYMavmcUuyHSVkvqeg40DZ8lY90n51jbA8UClugaEpgO2ZXv0yJVQpsKwXFSyKtltc04060IWA7hkpZERS6EfZTAeQ-IO2Qu8N0sRJZvLIdXlFCrrbHHBGExL0QKOsMHJQ1LaOIMpW5EtJ9OcQuPjGA3QQMfnjXRgem8XTQn8j5siBWH7jUS2JIwxpfw33URuhyyt0LZiklievPo1Q4AaBeVvmn5cEnyTWSQco2-R6PiySaJqvIiVFbhalscgIRg8E1rSRO8X2P-loo7VJQV1sCGMaUHblngxBBL_CESypmF5I9UgCVmPiYAwlCwBShSJl4TI0P7Cm-lkHs2feQ5yOb9YBj_8z2uIrd_Bp5ZbCUmbb2GA5W4RCDtmVO2XEoNtmBKVHl70OKn0kdeYQeYozoPJ-xMkdwjGnrZLUNCH3Qcg8_riHuZjvfjrxwXKSMcC98TdItilyxTN0MpTMWJ4l0U8-GwjnAtSftz5e-27yDB6wN8UJPns6rev5qsn1Wmj_l2cDusaWgTB4ffoaGqeoqgvr9t5R_AD3ZTeI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=I0l6h3icbZNLjuM2EIaBnCG3MAKQ1Du7liVaVrfktiRSFjcNWpQt29SjJfkhY-6QO7hnAkyWkwDZ5hqd08QdZJHFoDaF-v4C6gf--uVW7P4svHbD-6qbs-m6HZbPVvvqN8vD17ZrxDEfduIPCBA0DEVDOkKmBVRFUbWvOR-4bLYfGEJdUQxoaLpqIlM3FWB9Kwsu5K4uFptN0TlN_qFDBlQ0iICpqbqlmBDoxm-7im-Lf_nvmgVVS7E0xdAUVQXIhMZbJ_p39Dx9MRRLNQ3zfoEJNQQMSzc-PUcL5-X77MvrsejG92a22_L1OBQT29BBMHFixZukczzX3cnMDbXJjFe7ejtxiv4wNO0kaIay6NYN78Sk-n-PXnrZDP2k4peXqqiabnzZridtviv-A32TH4rhy7b9MPKdg96qnfimGbp6n1nGvTRg3S2-tafhVm4_H4-y-Ou2lbdjfyvlrah_bXh72uR___Cj25ydaX-eLknbUicCccqihSd9AW0_R0TN0mYMavmcUuyHSVkvqeg40DZ8lY90n51jbA8UClugaEpgO2ZXv0yJVQpsKwXFSyKtltc04060IWA7hkpZERS6EfZTAeQ-IO2Qu8N0sRJZvLIdXlFCrrbHHBGExL0QKOsMHJQ1LaOIMpW5EtJ9OcQuPjGA3QQMfnjXRgem8XTQn8j5siBWH7jUS2JIwxpfw33URuhyyt0LZiklievPo1Q4AaBeVvmn5cEnyTWSQco2-R6PiySaJqvIiVFbhalscgIRg8E1rSRO8X2P-loo7VJQV1sCGMaUHblngxBBL_CESypmF5I9UgCVmPiYAwlCwBShSJl4TI0P7Cm-lkHs2feQ5yOb9YBj_8z2uIrd_Bp5ZbCUmbb2GA5W4RCDtmVO2XEoNtmBKVHl70OKn0kdeYQeYozoPJ-xMkdwjGnrZLUNCH3Qcg8_riHuZjvfjrxwXKSMcC98TdItilyxTN0MpTMWJ4l0U8-GwjnAtSftz5e-27yDB6wN8UJPns6rev5qsn1Wmj_l2cDusaWgTB4ffoaGqeoqgvr9t5R_AD3ZTeI"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR6e0aDRsFIV9ucyTg-Ikb3d9pFW0PUhM2QTq2ega-0wNNV2pbaIuOlkM8NyyvuxspT5emsTQs0idHfM7CGerv2tDjr2RFMAwfiHbJ7CFI6PJ7M_RhfJ7i6pA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Speed Electronics",
+      "title": "Gigabyte B760M Gaming X WIFI6E DDR4 GEN5 mATX Motherboard Intel B760 LGA1700",
+      "rating": 4.7,
+      "reviews": 13,
+      "price": "$209.00",
+      "extracted_price": 209.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "TRsBSHicbdNNjqNGFABgKWfILayRiip-szPGgHEbmgIKuzatgsLmHxpjG1u5Q-7gnok0Wc5EyjbX6JwmnlEWWYxUiyd9T3o_evXbPSv-yux-z47NsKKLpB_9Z61_dTq_-twPHT-lY8H_FKCoAFnSHk-RRVUTBQQ-p2xkdXf4zooCAUKqKD5IVIEgoi95xnhdtJm332eD0aXf8gQoQU1TkYKQJiuKjETlj6Jhh-y7f9WApKqKoEmaICoQIgSVt4Ef3-Hz4kXQRAhVWQOiKD_qSABpvz5jz3j5sX16PWXD9b2zigNLrmM20xUZbGZGgOxZvDJX8nJmLV1pZrGmaA8zIztWY9fPNt2YZ0PSsYHPmv_H8OVYd-Nx1rDppcmabri-HJJZnxbZf3Ds0iobPx36b4P8oKG3puBfpMf2ZKhqUFaghB6I3vrzeM8PH0-nOvv7fqjvp-M9r-9Z-3vH-vM-_eenn5fdxVgcLws_6ntiYBBaOQ6qqU2Bs3QrGnCTtz7YTFs4-ckS6xnB-yh0xw3hOr5h0YdjmTXjK7_pYGPhE62cNW7ydUrmVwqJHJm66cPLtDH0S2A61x3gFNdkHcYSyMo6j6rLjUEaBE1NohCfE8MxQsscGHIXJO6fPLubku0cZWX-lAo9YqhDsTGHflRLGHEnbuuVH2utF00gaU0P15vRDfUzNt0FDc1FBPKCmf0Ttv2LSzQaIX5hoB4Dk5S0rMaYzAXXrpsUaKUrdMiznIJbdJtV9fMW8IW37BEOHRoZlURrcuaWaWCLn9kNVywidQRpH5d8xUsdBrDfBSENqIVdEpnlDrqA2ssptGvXJfQcbnmVhOaJC7lJDH0IFkKIrfycbWlOAMfUdBC3hDyJJ3FXTYtNMzF2MwMGnSja1ie-rRu_5B4n1IpMtyVCv_YsMTAhWaUWzVMoXAPSG7tWBxGZS6ltrhPBHKzC0bHtXr2YYlJijO28YoFwYxZnmy1tPbt_jcAUM4jXHOno43Qc9u9gbkpj4Mnh02Xbrl5VWu5y9UO6G-njbAnIw_X8F0FRRVmEgvz4U-hfNoBP7g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TRsBSHicbdNNjqNGFABgKWfILayRiip-szPGgHEbmgIKuzatgsLmHxpjG1u5Q-7gnok0Wc5EyjbX6JwmnlEWWYxUiyd9T3o_evXbPSv-yux-z47NsKKLpB_9Z61_dTq_-twPHT-lY8H_FKCoAFnSHk-RRVUTBQQ-p2xkdXf4zooCAUKqKD5IVIEgoi95xnhdtJm332eD0aXf8gQoQU1TkYKQJiuKjETlj6Jhh-y7f9WApKqKoEmaICoQIgSVt4Ef3-Hz4kXQRAhVWQOiKD_qSABpvz5jz3j5sX16PWXD9b2zigNLrmM20xUZbGZGgOxZvDJX8nJmLV1pZrGmaA8zIztWY9fPNt2YZ0PSsYHPmv_H8OVYd-Nx1rDppcmabri-HJJZnxbZf3Ds0iobPx36b4P8oKG3puBfpMf2ZKhqUFaghB6I3vrzeM8PH0-nOvv7fqjvp-M9r-9Z-3vH-vM-_eenn5fdxVgcLws_6ntiYBBaOQ6qqU2Bs3QrGnCTtz7YTFs4-ckS6xnB-yh0xw3hOr5h0YdjmTXjK7_pYGPhE62cNW7ydUrmVwqJHJm66cPLtDH0S2A61x3gFNdkHcYSyMo6j6rLjUEaBE1NohCfE8MxQsscGHIXJO6fPLubku0cZWX-lAo9YqhDsTGHflRLGHEnbuuVH2utF00gaU0P15vRDfUzNt0FDc1FBPKCmf0Ttv2LSzQaIX5hoB4Dk5S0rMaYzAXXrpsUaKUrdMiznIJbdJtV9fMW8IW37BEOHRoZlURrcuaWaWCLn9kNVywidQRpH5d8xUsdBrDfBSENqIVdEpnlDrqA2ssptGvXJfQcbnmVhOaJC7lJDH0IFkKIrfycbWlOAMfUdBC3hDyJJ3FXTYtNMzF2MwMGnSja1ie-rRu_5B4n1IpMtyVCv_YsMTAhWaUWzVMoXAPSG7tWBxGZS6ltrhPBHKzC0bHtXr2YYlJijO28YoFwYxZnmy1tPbt_jcAUM4jXHOno43Qc9u9gbkpj4Mnh02Xbrl5VWu5y9UO6G-njbAnIw_X8F0FRRVmEgvz4U-hfNoBP7g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTmMPa2O0UvY5JURLyjl1JxNw-fKiE85G7dEH0K3_WSqr14OVl_Gar3DcjieZMko9SvKeEXDleQ-F6wTi7HuGdVcNwFk9AwB3r-mv8No75t8ZlCXO1VKX12",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Speed Electronics",
+      "title": "GIGABYTE B760M POWER LGA 1700 Intel B760 M-ATX Motherboard With DDR4*2, 2* M.2, PCIe 4.0, USB 3.2 Gen 1 , 2.5GbE LAN, Q-Flash Plus(OEM , Industrial pa",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$109.12",
+      "extracted_price": 109.12,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "azTPtnicbcvNrptGAAVg9XnYzACDL93ZhuEnBS5_A8zGwsPYYAaDAecaK-_QV4icpFKyS7votq9xqz5M06qLLrI5Ojqfzs8P3vzO7eFQTt3o0O1-mMNnfbi4fdh-Hsa-urK5qX5TZFVWwBNQgaZoQFd0JH9m5VyK_thU73-teVmJ5syDw4GPRs--__jSdOWR_8tfoSqrKw19QwWpCEHtw1hNr_LzdqfLAKhPOoIIaZqs6QrU3z1HgbH7vn26XPm4vPZWcyz3y8ylzUoDnmTEii1lDnY0U7JMH0lW2TXno2TwqZ37QfL6uebjvi_HSur-3-XdJPp5krrytut414_L7riXBtbw_2DqWcvnT8dvU_X-Q_dPDG_nR338eL0K_sfjKB7X6VGLBz__0pfD2wP784e_zKuz3V6cbZgOAzEiELdznOT1hW0BStPb4mc0iU-iyUyR-1jPeV6g1K5ar6VWkg5TlIag6FAfJfXZNyrFs1DNTP20N6NbauAbBZPsyRXIBImZWKvUxnNqu5ccRomfODeabMby7vbE9gdC1nNCMPbvGy9JaZLYdRACvc8yZFUnHzO76itwa7zcf1PZVVIowt8r7sBPouaZOFCZRhQW97Cb258yOiZtZcWwNnzoqZGISi-P6qp127S9OQzUTqmQxcd04wn9QlrdoCm2_RSCtIvaMK9slrlWcnKXwKIvAXafY5Pcow6OzN54ft7KoRJZLN_QDJv3QqQvVe76nuzMiUzaAuBTlBGDJhgyGXmBSWkhRFqkqPXu1NrfcR8b5BwQ_cSxayfEjLFMHGbRmslwiclgFOcNSMkaMRu_2UM8Wo27iWx_CTIa-4J4rH25h2cGeS4WljNEO-8ly2gQynD2E6J8vE3j4RWsMZrjYHU7R_rZVs0Lu1MhXF9BBW-DVRmO6x_h6knVVBlqOlTh3_pxMAs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=azTPtnicbcvNrptGAAVg9XnYzACDL93ZhuEnBS5_A8zGwsPYYAaDAecaK-_QV4icpFKyS7votq9xqz5M06qLLrI5Ojqfzs8P3vzO7eFQTt3o0O1-mMNnfbi4fdh-Hsa-urK5qX5TZFVWwBNQgaZoQFd0JH9m5VyK_thU73-teVmJ5syDw4GPRs--__jSdOWR_8tfoSqrKw19QwWpCEHtw1hNr_LzdqfLAKhPOoIIaZqs6QrU3z1HgbH7vn26XPm4vPZWcyz3y8ylzUoDnmTEii1lDnY0U7JMH0lW2TXno2TwqZ37QfL6uebjvi_HSur-3-XdJPp5krrytut414_L7riXBtbw_2DqWcvnT8dvU_X-Q_dPDG_nR338eL0K_sfjKB7X6VGLBz__0pfD2wP784e_zKuz3V6cbZgOAzEiELdznOT1hW0BStPb4mc0iU-iyUyR-1jPeV6g1K5ar6VWkg5TlIag6FAfJfXZNyrFs1DNTP20N6NbauAbBZPsyRXIBImZWKvUxnNqu5ccRomfODeabMby7vbE9gdC1nNCMPbvGy9JaZLYdRACvc8yZFUnHzO76itwa7zcf1PZVVIowt8r7sBPouaZOFCZRhQW97Cb258yOiZtZcWwNnzoqZGISi-P6qp127S9OQzUTqmQxcd04wn9QlrdoCm2_RSCtIvaMK9slrlWcnKXwKIvAXafY5Pcow6OzN54ft7KoRJZLN_QDJv3QqQvVe76nuzMiUzaAuBTlBGDJhgyGXmBSWkhRFqkqPXu1NrfcR8b5BwQ_cSxayfEjLFMHGbRmslwiclgFOcNSMkaMRu_2UM8Wo27iWx_CTIa-4J4rH25h2cGeS4WljNEO-8ly2gQynD2E6J8vE3j4RWsMZrjYHU7R_rZVs0Lu1MhXF9BBW-DVRmO6x_h6knVVBlqOlTh3_pxMAs"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSLl3lZg5uJceDf7XtDyINxTdutaN-2YGd5_H-qVgwBrZgq3Zuqu3xc9SmQOf6MVqdeXhoLajNo-ocHifbhhQL7baJUgGZ5kArviSWM2Q2jC_GeW9YThgJJ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "Gigabyte B760m E Motherboard",
+      "rating": 4.9,
+      "reviews": 18,
+      "price": "$81.69",
+      "extracted_price": 81.69,
+      "original_price": "$103",
+      "extracted_original_price": 103,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "e-KPTXicbZBLkqNGEIYjfAbfQpt6UDy8kwQIaQRqAVUINh1A0aCmeDSgRiLmDr6DesYR4-XYEd76Gu3TmHHMwovZZeaXkX_-_6_37PxXZrVPcV9122idtMPxQWtfds2x_NJ2Db-kw5n_CVUoY02SVA3LEAMVYUS-pPEQiyb_hoGiSESTkUxUFSsyRBr5WmQxF-c6Ozw9ZZ3epN_2ZKAhFUMgIRVipECiyL-fqzjPvnNFUQmUINHmDSxpigzwW8f7d_SwfoSyQhQNaUBVJSJLBAHt44N70B9_zD6_XLLu9t5sznmc3IZssZqv2Qvdw9Yi2Jpb2VhsDIcsNnF1rvOFnvXl0LQLuxmKrEuauOOL6v81euxFM_SLKr4-VlnVdLfHPFm06Tn7DvomLbPhcz6P-B8_eOitOvOvs2FJRiqYQ8CqCmajb-3rcC_yT5eLyP6-5-J-6e-FuGf1b03cvj6l__z0s9GM-rof10fatkx3gVcOBaPESmvRnQBbx4awwpqNTuna-8CldtX6tkFAqu-CeGOPkX4cI7YzUsE_hNR89kQ--bXbHytCbUOSPKBdYpM1ke4eYhhevdIdPdbu-bN4TXQ6MgRGiqNrhJvJ0e2BgaFIEbzZjEqs4vts09rHk6CcmvsIR4F94k1ima9RCZGLhiYEO9lGA9wHsy7bYU7hLqlN3Rb89eALnARb4gRchIhevVM70SmqGeI1Cxw_Fq3J0ECcqhhtzNqARlWM2D4BLeE-XweCH9NZI6rb0nmmU1YJOYYM2DQkIR1RFhQnDxZbl7Kbj4vheHLr1NQc3xKjA1Lg4V1BzWKi-qwV8HUC4DMDbh-Wzu5grioOXD81nNoxBouVJQyedwd7s3uw_ejgVy5zppXv08LyRXS0N85AazeIkPAiZoaR6U7cMgeKbM9EbJtuov9ym7PVw3oFKFuS1DI_JNDsNufdyrWc2yGIPIrZwanz0QOtiCeBA8N8oXMfwnDiJdy6m7b-dO27p3ewNMngHQjcTqtumU7c2GbZtV-2yxVeQ6K7y_wXqKiSLCEoa1AC_wJZXVCe",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e-KPTXicbZBLkqNGEIYjfAbfQpt6UDy8kwQIaQRqAVUINh1A0aCmeDSgRiLmDr6DesYR4-XYEd76Gu3TmHHMwovZZeaXkX_-_6_37PxXZrVPcV9122idtMPxQWtfds2x_NJ2Db-kw5n_CVUoY02SVA3LEAMVYUS-pPEQiyb_hoGiSESTkUxUFSsyRBr5WmQxF-c6Ozw9ZZ3epN_2ZKAhFUMgIRVipECiyL-fqzjPvnNFUQmUINHmDSxpigzwW8f7d_SwfoSyQhQNaUBVJSJLBAHt44N70B9_zD6_XLLu9t5sznmc3IZssZqv2Qvdw9Yi2Jpb2VhsDIcsNnF1rvOFnvXl0LQLuxmKrEuauOOL6v81euxFM_SLKr4-VlnVdLfHPFm06Tn7DvomLbPhcz6P-B8_eOitOvOvs2FJRiqYQ8CqCmajb-3rcC_yT5eLyP6-5-J-6e-FuGf1b03cvj6l__z0s9GM-rof10fatkx3gVcOBaPESmvRnQBbx4awwpqNTuna-8CldtX6tkFAqu-CeGOPkX4cI7YzUsE_hNR89kQ--bXbHytCbUOSPKBdYpM1ke4eYhhevdIdPdbu-bN4TXQ6MgRGiqNrhJvJ0e2BgaFIEbzZjEqs4vts09rHk6CcmvsIR4F94k1ima9RCZGLhiYEO9lGA9wHsy7bYU7hLqlN3Rb89eALnARb4gRchIhevVM70SmqGeI1Cxw_Fq3J0ECcqhhtzNqARlWM2D4BLeE-XweCH9NZI6rb0nmmU1YJOYYM2DQkIR1RFhQnDxZbl7Kbj4vheHLr1NQc3xKjA1Lg4V1BzWKi-qwV8HUC4DMDbh-Wzu5grioOXD81nNoxBouVJQyedwd7s3uw_ejgVy5zppXv08LyRXS0N85AazeIkPAiZoaR6U7cMgeKbM9EbJtuov9ym7PVw3oFKFuS1DI_JNDsNufdyrWc2yGIPIrZwanz0QOtiCeBA8N8oXMfwnDiJdy6m7b-dO27p3ewNMngHQjcTqtumU7c2GbZtV-2yxVeQ6K7y_wXqKiSLCEoa1AC_wJZXVCe"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQkCtbsqtXvQPOq03H1CphfQyvRtRqZKym6V1mMUv86Dr4Rq6Jr-cIiqKlqG4aioEr5r1T6w98YLHgWhP0GvrH19fF3lolGIqLq0PPYRReyBBP345-6_x7T",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - SIMPLIZED",
+      "title": "Gigabyte B760M DS3H AX Motherboard",
+      "rating": 4.5,
+      "reviews": 22,
+      "price": "$259.99",
+      "extracted_price": 259.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "zy3V3nicdZDLjqNGFIalPEPewopUBcUtu7G52HQDdgEF1MYCqmww1wbsxta8Q97BPRNpspyMlG1eo_M0sUZZZJHsjvQdfef_zy93Xv7B1_0hHZthQ1dZP-22Wv9id7vqSz907JxPJfsdQlWSNFGGSAKKAhSkCV_ydErr7liyb1BCmqQBUdVkWVAfCzJUvxY8ZXXZcu9w4IPe5Q-LDICqKhpQVEFUkQYQEH8rm_TIv-NvUEGiBlSEkAqQKsGHEL4NbHxH29UePs5rSH4IZARFBKEAxI9b7On7_4GfX858uL53VnlMs-vEF0tFBs5C98X1ItqYG9lYWIYrLay0KdvjQudjNXX9wummgg9Zlw5s0fx7FvZj3U3joknnfcObbrjuj9miz0v-Dxi7vOLT52P_vct_JHprSvZVUmT0eBISZE0QIYIIvPWX6V4cP53PNf_zfqzv5_Fe1Hfe_tql_eWQ__XDj0b3qq_G19Uu7HuiY-ATe4vjXvbbQnSsoo9MImLSF7m4k7CIa8eHXRrYSV6ZxAEsyoTJT5ta8hsXeiabA4vK-FRcnRMDvk4xXbNLFBmTa9W35GT6eUCstC5oTsgtj9DkR9MqDyXMGo241Rw7UUHJabljsK4cfdk9B7UTtITGov0c3-ghO-EXJ2TIi8xnLPZufKt3HrGbsGV6atExCvEhAfOUBsvUb3HFrGlkAhx4iDduUCeeha0A4GsSGTM16y2p3R0zSUcfHgzdgdww3DXk4ohm40bwnBn9mcf2Jdfd0rfcCxHYw0dkTvqTR9wntjaNlJg4awqSAEkP4-JGa_vJgcynJu5IRdvsZMwBqUVu9C_xrXjiJwcltxwkp82VRGTCMascwb1F0VFiAAe-ydrUkCrXxMvMoiIG9pyItufpJGQNjjNQIwrcNImJv2s3vimQTW7RIhfg1Se9nrRLEJIPUr42nzJoDlZpL_HavXoR9X2Dzn44yS7ACTOK3iPVK127Sa7bIY2pzFu7_TSPw-EdfDClyfdk4ch_mqwTiuYgc8uuCvgmfVZmnfDXn6GiIhkJUNYgEv4GDoVSJw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zy3V3nicdZDLjqNGFIalPEPewopUBcUtu7G52HQDdgEF1MYCqmww1wbsxta8Q97BPRNpspyMlG1eo_M0sUZZZJHsjvQdfef_zy93Xv7B1_0hHZthQ1dZP-22Wv9id7vqSz907JxPJfsdQlWSNFGGSAKKAhSkCV_ydErr7liyb1BCmqQBUdVkWVAfCzJUvxY8ZXXZcu9w4IPe5Q-LDICqKhpQVEFUkQYQEH8rm_TIv-NvUEGiBlSEkAqQKsGHEL4NbHxH29UePs5rSH4IZARFBKEAxI9b7On7_4GfX858uL53VnlMs-vEF0tFBs5C98X1ItqYG9lYWIYrLay0KdvjQudjNXX9wummgg9Zlw5s0fx7FvZj3U3joknnfcObbrjuj9miz0v-Dxi7vOLT52P_vct_JHprSvZVUmT0eBISZE0QIYIIvPWX6V4cP53PNf_zfqzv5_Fe1Hfe_tql_eWQ__XDj0b3qq_G19Uu7HuiY-ATe4vjXvbbQnSsoo9MImLSF7m4k7CIa8eHXRrYSV6ZxAEsyoTJT5ta8hsXeiabA4vK-FRcnRMDvk4xXbNLFBmTa9W35GT6eUCstC5oTsgtj9DkR9MqDyXMGo241Rw7UUHJabljsK4cfdk9B7UTtITGov0c3-ghO-EXJ2TIi8xnLPZufKt3HrGbsGV6atExCvEhAfOUBsvUb3HFrGlkAhx4iDduUCeeha0A4GsSGTM16y2p3R0zSUcfHgzdgdww3DXk4ohm40bwnBn9mcf2Jdfd0rfcCxHYw0dkTvqTR9wntjaNlJg4awqSAEkP4-JGa_vJgcynJu5IRdvsZMwBqUVu9C_xrXjiJwcltxwkp82VRGTCMascwb1F0VFiAAe-ydrUkCrXxMvMoiIG9pyItufpJGQNjjNQIwrcNImJv2s3vimQTW7RIhfg1Se9nrRLEJIPUr42nzJoDlZpL_HavXoR9X2Dzn44yS7ACTOK3iPVK127Sa7bIY2pzFu7_TSPw-EdfDClyfdk4ch_mqwTiuYgc8uuCvgmfVZmnfDXn6GiIhkJUNYgEv4GDoVSJw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRz6oswArFePiZYkxgOOclT83eCCMxTrpQFjOxRv0yHOw1XgfBHh0bfXFyGPUxpQaS6lVXiYc9IJMvDuZz4sW_hn_Vj8mahJ5c38XoEQe2xcgPJ3hPORELJuQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Zienroylein",
+      "title": "Gigabyte B760M Gaming DDR4 Motherboard",
+      "rating": 4.8,
+      "reviews": 21,
+      "price": "$207.10",
+      "extracted_price": 207.1,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "OfmyNXicdZNLbuNGEIaBnCG3EAZodrNJKjvLVPNhs2U2ySbZG6PVpERZfJmiTNnIHXIHeSbAZDkYINtcwzlNCCSLLJJdVX0FVP0_qn65loffS7ffyVMzeOJ224_hw7J_9rvw-LUfuuKsxkPxXTMtrCEMsIkthA0AlgB-VXKUdbc_FN8MBJZL3TIQtqClIxMb36pSFvWhLTe7XTnYnZq7dKAbEAOka8jSNTxnvx0auS__pgbUNN2cB1nI1CyEIHwfitOH_nD7qGlLZFlLHZgWxBAZOrDwzw9sYz_-D_zyfC6H14_OOezl9nUsFyvTAMHCjpC7SD3iGeuFs6Z44cjm0O4Xdnk6jl2_CLqxKodtJ4di0fw7ho-nuhtPi0ZeHpuy6YbXx_120atD-Q84depYjl_2c2k26z82em9midg0ZgdM09ShaZnANI33_mW8VvvP53Nd_nHd19fz6VrV17L9tZP9y079-cOP626yb0_TbZj0PbcZiID3FnEWJoR6oq5ytuZxuiYtPZJdiLy3_I3nCohBgh6ougCBzTB3ckSfbiaJKpikFtgmyymC1TmGSxzzcNrCy0tgF26RTDMnm9SuM-XUsXBYeJ-xdeBMo2x9I41FyDKWiawSQRJq3K0Ybdk9b2qdtf0ubPeXIBEvkqxcUTO_cIpNjvwuhv49jcVTDsgtW_tT0LKoyKo6b9kpcPlFaAWJ7RWIW9YEULQR4qNyPV2Q9UQhHrbOslGwjmVCSZ6IIUz9N_lUd3Fb2zmcJtXQOm2VlpDqWLhHHNv8kjhkTNcXpJJLG4K9Hmp-UoAQRAl7jlrqcLsiIgvHIGFukNSVeqJVfiykAFolm9GWfBWJlNHUIZS7rJFvNxNPaaAS2peZcMNUx_cJBtRllQQeVA0GhSsy5tADfaobGodjAcUqdb2IQO4pR1QKaq8R7-28XYGE32DlkrutRgbn4K-YS183qYgoEtn2yINYW4Wc-HeFQyCbhQiXsZj4uXR99PlyGnYf4IbgMdoY8f2Utd6zNftbWZ9UPor5bjmo4rubn-Z_0g0dasZS09FfpNJM9g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OfmyNXicdZNLbuNGEIaBnCG3EAZodrNJKjvLVPNhs2U2ySbZG6PVpERZfJmiTNnIHXIHeSbAZDkYINtcwzlNCCSLLJJdVX0FVP0_qn65loffS7ffyVMzeOJ224_hw7J_9rvw-LUfuuKsxkPxXTMtrCEMsIkthA0AlgB-VXKUdbc_FN8MBJZL3TIQtqClIxMb36pSFvWhLTe7XTnYnZq7dKAbEAOka8jSNTxnvx0auS__pgbUNN2cB1nI1CyEIHwfitOH_nD7qGlLZFlLHZgWxBAZOrDwzw9sYz_-D_zyfC6H14_OOezl9nUsFyvTAMHCjpC7SD3iGeuFs6Z44cjm0O4Xdnk6jl2_CLqxKodtJ4di0fw7ho-nuhtPi0ZeHpuy6YbXx_120atD-Q84depYjl_2c2k26z82em9midg0ZgdM09ShaZnANI33_mW8VvvP53Nd_nHd19fz6VrV17L9tZP9y079-cOP626yb0_TbZj0PbcZiID3FnEWJoR6oq5ytuZxuiYtPZJdiLy3_I3nCohBgh6ougCBzTB3ckSfbiaJKpikFtgmyymC1TmGSxzzcNrCy0tgF26RTDMnm9SuM-XUsXBYeJ-xdeBMo2x9I41FyDKWiawSQRJq3K0Ybdk9b2qdtf0ubPeXIBEvkqxcUTO_cIpNjvwuhv49jcVTDsgtW_tT0LKoyKo6b9kpcPlFaAWJ7RWIW9YEULQR4qNyPV2Q9UQhHrbOslGwjmVCSZ6IIUz9N_lUd3Fb2zmcJtXQOm2VlpDqWLhHHNv8kjhkTNcXpJJLG4K9Hmp-UoAQRAl7jlrqcLsiIgvHIGFukNSVeqJVfiykAFolm9GWfBWJlNHUIZS7rJFvNxNPaaAS2peZcMNUx_cJBtRllQQeVA0GhSsy5tADfaobGodjAcUqdb2IQO4pR1QKaq8R7-28XYGE32DlkrutRgbn4K-YS183qYgoEtn2yINYW4Wc-HeFQyCbhQiXsZj4uXR99PlyGnYf4IbgMdoY8f2Utd6zNftbWZ9UPor5bjmo4rubn-Z_0g0dasZS09FfpNJM9g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ8aY66WPVcTyAvwetZv5YgqevcYwM-o6x3wNPFqsxAfsE2lui8SefKo5IGezRlD6ZWsPW01BoMJxdeIGgWbcgKduhFJg0TfX7-fxXXv3qPCxWQI09Z3KDr",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR8XGAyEtQkldFwXbLzXdCEL-xGUl4tLOsSqpNmmrAjQPevRD36kT-0rhcT3yuP7KzJvKb5aZaUev_yPjQh7_QneeeJfj-nCRDXZNfPHDgsxA",
+      "source": "Star Promotion",
+      "title": "GIGABYTE B760M DS3H DDR5 Intel 12th/13th/14th Gen",
+      "rating": 4.9,
+      "reviews": 59,
+      "price": "$139.00",
+      "extracted_price": 139.0,
+      "immersive_product_page_token": "f1fA6nicdZJPjqNGGMWV86BIVcWfNtnZBmxoU9hAFVAbC1PYYBcujHE3WLlDrjDyzESaLEcjZZtrdJTDpCPNIpuRnp4-vZ-e9C3eb4-y_rNctvv82nQum-_afrM224snN6cvbSf5rehr_g1CADQAdBMaumqY5rvUL0Xe50Ieav7ha1XmXNTnMtjvy86SxQ8qf9RNfii_cwQ0XQOmbkx0hMwJMkztY8evb9p6voVoYqKJOjHNJ1M3NaTpAP66DgNr-wP4-XIru_FNLupDvhv7Upk9GcBXrEhdKonruIatLGysK4u8qc8HxSqvp162ii_7qux2Mu-40vz_RturkP1VafJh25SN7MbtYae0RV1-B1dZnMr-8-E94h8-Nv9Z-9I_qsOn202Ufz0O4nG7PirxKM-_y7x92Rd___SPfXPn84s735C2pVYIIujJxO6rGGVjCtwxsSEJ0RXEdzajR6YnFs0CovW7E8tXhN6pGsa7lMooJmrksM1GzVSiOkNGwztB7TIG_OgjnGCa6cXC2eCT3uJjhVNk6uxY6REZ8iKd6isyPDPiyMjhKx8ILyLtEKs49x1GExvc8dG7hVS-Zk01YtSLGFV7kgwvIfUuoYrXud2HVGA1vYsbPrIgWLaGnzogB0ANKXPff5_7Fp3FkKAI-T2xNmNAw7Z06ItP8YonpoyBR6ldeUywMUUs4KdBxClLoxRruRCbFOF7ZDleAVoYpFPIl3igtphRKHty9lYceJekgVVEQi0DdO-j_hLYmPFUSAx0ixKBfbV6ZTZjNOXnTK2ymOhZrHINL4rIQdQtFqwqEBwj2lrZeQYInerF0nneQadb1N4sXOIxSFi0a1iHLcfhFmsi28uwRRA78rUPXRQmAnNYnT8N127_BqaO3keBEa9e07N7mbBjVk1-LrKevS-Lgip-nv4CnyaaoSFomFBT_wUh8i9G",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f1fA6nicdZJPjqNGGMWV86BIVcWfNtnZBmxoU9hAFVAbC1PYYBcujHE3WLlDrjDyzESaLEcjZZtrdJTDpCPNIpuRnp4-vZ-e9C3eb4-y_rNctvv82nQum-_afrM224snN6cvbSf5rehr_g1CADQAdBMaumqY5rvUL0Xe50Ieav7ha1XmXNTnMtjvy86SxQ8qf9RNfii_cwQ0XQOmbkx0hMwJMkztY8evb9p6voVoYqKJOjHNJ1M3NaTpAP66DgNr-wP4-XIru_FNLupDvhv7Upk9GcBXrEhdKonruIatLGysK4u8qc8HxSqvp162ii_7qux2Mu-40vz_RturkP1VafJh25SN7MbtYae0RV1-B1dZnMr-8-E94h8-Nv9Z-9I_qsOn202Ufz0O4nG7PirxKM-_y7x92Rd___SPfXPn84s735C2pVYIIujJxO6rGGVjCtwxsSEJ0RXEdzajR6YnFs0CovW7E8tXhN6pGsa7lMooJmrksM1GzVSiOkNGwztB7TIG_OgjnGCa6cXC2eCT3uJjhVNk6uxY6REZ8iKd6isyPDPiyMjhKx8ILyLtEKs49x1GExvc8dG7hVS-Zk01YtSLGFV7kgwvIfUuoYrXud2HVGA1vYsbPrIgWLaGnzogB0ANKXPff5_7Fp3FkKAI-T2xNmNAw7Z06ItP8YonpoyBR6ldeUywMUUs4KdBxClLoxRruRCbFOF7ZDleAVoYpFPIl3igtphRKHty9lYceJekgVVEQi0DdO-j_hLYmPFUSAx0ixKBfbV6ZTZjNOXnTK2ymOhZrHINL4rIQdQtFqwqEBwj2lrZeQYInerF0nneQadb1N4sXOIxSFi0a1iHLcfhFmsi28uwRRA78rUPXRQmAnNYnT8N127_BqaO3keBEa9e07N7mbBjVk1-LrKevS-Lgip-nv4CnyaaoSFomFBT_wUh8i9G"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRoM7qay50upiM-W2XB5KRLT_7It2Z2YAehq5f8njBGFibu1eNg-bVSz2jWLArzJgrdsQUZKWQYGFEuJazHXhl7WXJJhEeUt3vaNwo9zoYwVXj_NKhKnudC",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "Gigabyte B760 DS3H GEN5 Motherboard",
+      "rating": 4.7,
+      "reviews": 3,
+      "price": "$114.70",
+      "extracted_price": 114.7,
+      "original_price": "$137",
+      "extracted_original_price": 137,
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "0gwy83icbZHNjqNGFIWlPEPewopEFRRQ2bUNBaYb3JSpArOxMJSB5rcB_2reIe_gnok0s5wZKdu8Rudp4kRZZDF3daVzdfSdc3-7ifIPYff7ZGyGZbzY9ZP_jPtXp_Orz_3QZYd0KrNvmgahqmuahJEk6bKuYfg5Taak7vIy-w5kICNNh6qGdE3HCkYQfS1EktVlK1b7vRiMLr27QAhkVb57IBkBqANdwV_KJsnFv_J3oMnwPkiXkYRUDeqSKr8N2fgOnxdbBLGm6PcLhKCqSBIG2odnujK2P9Y-vR7EcHnvrDJPdpdJzOaaKrkzYy3bs3BJlqo5s0wPzaykKdt8Zoixmrp-5nZTIYZdlwzZrPn_Drdj3U3jrEnO20Y03XDZ5rtZn5biP2Hs0kpMn_L-n6A_AHpryuwr0lRFhbqqaLKmYFXSwVt_nG5F_vFwqMWft7y-HcZbUd9E-3uX9Md9-tdPP5vdyViMp4XP-p4bVAqMB5ha1AsaclhHpNxwbCXQU5mEp13jn9ZWPQVSwf2wHnhAHlOCZUFowm1uexWOeOCYmdTbwqSGaHS4lqYgsxwlbnpV1NTz18BxzZivZf4qeHxNIe7CqgCbl3rkgDAviIvEjAMGz8-ule09SToJq3f8a2HsovrstxVkVQopIE9BlLWrqPY9Up3Ddm5saucUhNTPWH9lzFsE8nIKGbJEwMMwoGBnFcgN8avHwMYPJxRdGdwxtNpUXp00jhRcYzUBNPJs5_jEULSJHq4Uns_3zLUn9y4PchRA_hLbmedDfHmKaMMtSt2qOHOrH4WJl27V3VliO5LipdvOFU4ydOd6ZWR-5CFnvJqOlE1RTDIrk4npWfjKwhgIE_QuJIyHDgkYfcqaE3TJvNxFPfPbIhEh3sRtdoivRXfvCYUvdZtEdJ5YyzWBfJlacZFCcFnz3ti0c4nxB5Ta5HEHyGCVzpza3mUVxvQpcOQw8GJO6nlW18f7_zZJA16okSupXdRB6LUfz-Owf5ceCJrWK0V33eQR-nibEKf8JV9sT3TRGr65Bw-_Ak1XVAUCFQNF-Rv4VU1I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0gwy83icbZHNjqNGFIWlPEPewopEFRRQ2bUNBaYb3JSpArOxMJSB5rcB_2reIe_gnok0s5wZKdu8Rudp4kRZZDF3daVzdfSdc3-7ifIPYff7ZGyGZbzY9ZP_jPtXp_Orz_3QZYd0KrNvmgahqmuahJEk6bKuYfg5Taak7vIy-w5kICNNh6qGdE3HCkYQfS1EktVlK1b7vRiMLr27QAhkVb57IBkBqANdwV_KJsnFv_J3oMnwPkiXkYRUDeqSKr8N2fgOnxdbBLGm6PcLhKCqSBIG2odnujK2P9Y-vR7EcHnvrDJPdpdJzOaaKrkzYy3bs3BJlqo5s0wPzaykKdt8Zoixmrp-5nZTIYZdlwzZrPn_Drdj3U3jrEnO20Y03XDZ5rtZn5biP2Hs0kpMn_L-n6A_AHpryuwr0lRFhbqqaLKmYFXSwVt_nG5F_vFwqMWft7y-HcZbUd9E-3uX9Md9-tdPP5vdyViMp4XP-p4bVAqMB5ha1AsaclhHpNxwbCXQU5mEp13jn9ZWPQVSwf2wHnhAHlOCZUFowm1uexWOeOCYmdTbwqSGaHS4lqYgsxwlbnpV1NTz18BxzZivZf4qeHxNIe7CqgCbl3rkgDAviIvEjAMGz8-ule09SToJq3f8a2HsovrstxVkVQopIE9BlLWrqPY9Up3Ddm5saucUhNTPWH9lzFsE8nIKGbJEwMMwoGBnFcgN8avHwMYPJxRdGdwxtNpUXp00jhRcYzUBNPJs5_jEULSJHq4Uns_3zLUn9y4PchRA_hLbmedDfHmKaMMtSt2qOHOrH4WJl27V3VliO5LipdvOFU4ydOd6ZWR-5CFnvJqOlE1RTDIrk4npWfjKwhgIE_QuJIyHDgkYfcqaE3TJvNxFPfPbIhEh3sRtdoivRXfvCYUvdZtEdJ5YyzWBfJlacZFCcFnz3ti0c4nxB5Ta5HEHyGCVzpza3mUVxvQpcOQw8GJO6nlW18f7_zZJA16okSupXdRB6LUfz-Owf5ceCJrWK0V33eQR-nibEKf8JV9sT3TRGr65Bw-_Ak1XVAUCFQNF-Rv4VU1I"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS9W_06_oAn0iHFMsnkHAOoeZ8RENVJPIkRPgeJjewMhL0B8xAFTyDLsUt0gAxen-stpZ8ciDbjC87bpszt4FX0h9jtqXXBVq8OjecDDN9LgMzB89x84rCP",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSszEkUOjnvn_96LLdtDlvMqM_zHQKn-qXz48g4ezIjuG9VexSIaGBYUqfM-jG02rpelucSF61h39mgcfZ__9JvMl7lJ8-fLRY",
+      "source": "Techinn.com",
+      "title": "Gigabyte B760 DS3H DDR4 Motherboard",
+      "rating": 4.6,
+      "reviews": 71,
+      "price": "$115.99",
+      "extracted_price": 115.99,
+      "original_price": "$168",
+      "extracted_original_price": 168,
+      "extensions": [
+        "30% OFF"
+      ],
+      "immersive_product_page_token": "TSpNLXicdVNNrqNGEJZyhtzCitTd0Biys42NwQ_83ECD2VhAY4Obn36An8GaO-QOfjORJsuZSNnmGi-niWeURRZJbapU36f66pOqfrlnxR_ZWhzjrmrNaJGIfvesiRer2fHPom3YJe0L9hVNVQnKWMYYAUVTHgl9TuM-LptTwX6HiqYqGoZIAhBMlSnGEv6SZzErizrbHo9ZqzfpN56kPDiyrKpTFUlTTdYU5beiik_Zd_yrpKiaJKlQfQhICtKmKnhrWfcuPy8O8NH9Fqr6ID0GAazgD89kqx_-B_z0csna8b0xilOcjH02mU8VYE90V1pPAnNlKsuJsXTwxIiroj5N9KzjfSMmdtPnWZs0ccsm1b9rdOjKpu8mVTwcqqxq2vFwSiYiLbJ_gK5JedZ_OonvVv9jo7eqYF_wVJEVpEKswqkkQYjxm3jt7_np4-VSZn_eT-X90t3z8p7VvzaxeD2mf_3w47K56ovuutj5QlCdANcfCurla5dro8PFNYRaH4VkkXn8GvNScg2xiQxap7QM6Tm_2iNUHKDegqXju1CYniTmCSd1DJ3BBfRsg2izRzvsG8zwljuUwpxmfr7zQD8wKp52NZXjqpT8m-XvAjqSgC2SCkoZzZ9Sn0U2KhvHNyWvJKO7JCgxhBn5rEpD87oH5MKqBobSqt8GJ0x0ek1AabPKAZ7Hb9HKIiQUesLLlbPOzeRsuXEBIyekFkXslRodJisxOJC1CaAG4zJKQuIRj-29GyUpZFVA81sclG3i9zwJom7HBzvxsUWNYdwFjpXV0SWuRZt5y9E_MxzwYQx0snbpDMQVaYOa5oEvji5PkUPNYUsFJ0be7Ctm04dvW2qwcyvHpGRObESBjbQ1WQ51EFq16zPD5itqg3Jp6w5xdWtNzg5KkbV56Bw9aPYJ4u4KUTM1ojxFcHSp0Pf1HPh0htP1apPAVWsU1pysnXEbRB5DuKI8Kp68E2BQHWgYKYE-k2MOkb0Wl4BH849D1x7fwWyFe3ereE_XsDZf1Oi8z9Wf0n0fPe6WgtzbzH6GU1VWZPT4UihLfwPirlLA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TSpNLXicdVNNrqNGEJZyhtzCitTd0Biys42NwQ_83ECD2VhAY4Obn36An8GaO-QOfjORJsuZSNnmGi-niWeURRZJbapU36f66pOqfrlnxR_ZWhzjrmrNaJGIfvesiRer2fHPom3YJe0L9hVNVQnKWMYYAUVTHgl9TuM-LptTwX6HiqYqGoZIAhBMlSnGEv6SZzErizrbHo9ZqzfpN56kPDiyrKpTFUlTTdYU5beiik_Zd_yrpKiaJKlQfQhICtKmKnhrWfcuPy8O8NH9Fqr6ID0GAazgD89kqx_-B_z0csna8b0xilOcjH02mU8VYE90V1pPAnNlKsuJsXTwxIiroj5N9KzjfSMmdtPnWZs0ccsm1b9rdOjKpu8mVTwcqqxq2vFwSiYiLbJ_gK5JedZ_OonvVv9jo7eqYF_wVJEVpEKswqkkQYjxm3jt7_np4-VSZn_eT-X90t3z8p7VvzaxeD2mf_3w47K56ovuutj5QlCdANcfCurla5dro8PFNYRaH4VkkXn8GvNScg2xiQxap7QM6Tm_2iNUHKDegqXju1CYniTmCSd1DJ3BBfRsg2izRzvsG8zwljuUwpxmfr7zQD8wKp52NZXjqpT8m-XvAjqSgC2SCkoZzZ9Sn0U2KhvHNyWvJKO7JCgxhBn5rEpD87oH5MKqBobSqt8GJ0x0ek1AabPKAZ7Hb9HKIiQUesLLlbPOzeRsuXEBIyekFkXslRodJisxOJC1CaAG4zJKQuIRj-29GyUpZFVA81sclG3i9zwJom7HBzvxsUWNYdwFjpXV0SWuRZt5y9E_MxzwYQx0snbpDMQVaYOa5oEvji5PkUPNYUsFJ0be7Ctm04dvW2qwcyvHpGRObESBjbQ1WQ51EFq16zPD5itqg3Jp6w5xdWtNzg5KkbV56Bw9aPYJ4u4KUTM1ojxFcHSp0Pf1HPh0htP1apPAVWsU1pysnXEbRB5DuKI8Kp68E2BQHWgYKYE-k2MOkb0Wl4BH849D1x7fwWyFe3ereE_XsDZf1Oi8z9Wf0n0fPe6WgtzbzH6GU1VWZPT4UihLfwPirlLA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQQQo7_j4Y3RzZtLI_p8GNPI0jd2vJherY_Fc4y_Q3kma0GzsHQGD_Qk0YxvhjX2ZMsWAugEHsBXY_2xXW24Oyn5fTC7GLEcTk4GyLy9_h5oTYhk0mzETzL",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Speed Electronics",
+      "title": "GIGABYTE B760M DS3H DDR5 LGA 1700 Intel B760 Micro ATX Motherboard,with Integrated Realtek 7.1 channel audio chip,2.5GbE network card, PCI-E 4.0, PCI-",
+      "rating": 4.0,
+      "reviews": 1,
+      "price": "$200.96",
+      "extracted_price": 200.96,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "35we6XicdZPNrqNGEIWV52HTzZ8hO2NoMBMauzFwzcZqmjZg_toY39go75BXGHlmIk2WM5GyzWvcKA8TJ8oii2RTOqqvSucsqn588PpX7okjvXTjOlvlYtpuTHH2h23zWYxDcWVTXfwC9YWhAk1RgW5AoKuGYaifGZ1oO5R18f5LxWnR1j0Pj0c-2gP7n5Wf646W_G_-1YBwARTdkKGuqhoEpgk_jMXlTd6sDroimwsN6oamKCrUDE1d_LAhoX34b_bpfOXj_W1w65Lm94lL1kIHgWRHiiela7TWHcl1sCa5tKv7UrL5pZkGIQXDVPExH-hYSN2_tXy4tMN0kTp6O3S8G8b7ocwlwWr-D7gMrOHTp_LZKt5_6P4q4nV6VOXH67Xlvz3K9nG9PKr2wfufBipej-z3b_5wruvV6rxebWMhEpuAnXMLEyD2EQo06oohta1VbGf6DpFNdLLQ7oSn1DW_j1I_jLokjOLnrOv7pN_L8QnHZAVpAIo7m6tr6hIauQBix0yJvZ4IyOhWEXEO8AmnA9jPFsKeFcSNCuN5ecdessEJVgtlUJM-ufP4dk5Quwo80iYzuUfd1FK3JXSXJRG4eUyeMtyxmSmlksUooh3W2cmvMTAAP1UKVXybdZMIILnFL8TFiUWyZg8iaE1BXzmBYwbBjGzawDBSrImdijhTCnXfV-c8hnYct-62EYi9MIg7caUKptlMUNBp6JmL7lM_y10hZy7Wi7jd7Oc2LRJfiTq4jhszoB1y6AlvduDp1QVzfkJ2ZDuQ2sU73Ahr91LRzCPfbWVfMORESE7WzM0qJsN7lAh731sgTpYa89C7HKLRrX2LePgephmhbdFQ2bwkoJGzfgmZ9_R-qRLeVuE29V8LZCkfb5fx-AaWSJuicHHridl7qnNmc9a2Pla0PW_CBd2Oy2_h8yt09Xn0JlThnyZ3L4Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=35we6XicdZPNrqNGEIWV52HTzZ8hO2NoMBMauzFwzcZqmjZg_toY39go75BXGHlmIk2WM5GyzWvcKA8TJ8oii2RTOqqvSucsqn588PpX7okjvXTjOlvlYtpuTHH2h23zWYxDcWVTXfwC9YWhAk1RgW5AoKuGYaifGZ1oO5R18f5LxWnR1j0Pj0c-2gP7n5Wf646W_G_-1YBwARTdkKGuqhoEpgk_jMXlTd6sDroimwsN6oamKCrUDE1d_LAhoX34b_bpfOXj_W1w65Lm94lL1kIHgWRHiiela7TWHcl1sCa5tKv7UrL5pZkGIQXDVPExH-hYSN2_tXy4tMN0kTp6O3S8G8b7ocwlwWr-D7gMrOHTp_LZKt5_6P4q4nV6VOXH67Xlvz3K9nG9PKr2wfufBipej-z3b_5wruvV6rxebWMhEpuAnXMLEyD2EQo06oohta1VbGf6DpFNdLLQ7oSn1DW_j1I_jLokjOLnrOv7pN_L8QnHZAVpAIo7m6tr6hIauQBix0yJvZ4IyOhWEXEO8AmnA9jPFsKeFcSNCuN5ecdessEJVgtlUJM-ufP4dk5Quwo80iYzuUfd1FK3JXSXJRG4eUyeMtyxmSmlksUooh3W2cmvMTAAP1UKVXybdZMIILnFL8TFiUWyZg8iaE1BXzmBYwbBjGzawDBSrImdijhTCnXfV-c8hnYct-62EYi9MIg7caUKptlMUNBp6JmL7lM_y10hZy7Wi7jd7Oc2LRJfiTq4jhszoB1y6AlvduDp1QVzfkJ2ZDuQ2sU73Ahr91LRzCPfbWVfMORESE7WzM0qJsN7lAh731sgTpYa89C7HKLRrX2LePgephmhbdFQ2bwkoJGzfgmZ9_R-qRLeVuE29V8LZCkfb5fx-AaWSJuicHHridl7qnNmc9a2Pla0PW_CBd2Oy2_h8yt09Xn0JlThnyZ3L4Q"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSU40X5XaRQo-swBSkHg9irUo4J8_WskPrD8Nf2F1ZFKuPKemyexZSmV2FMC18rGuS036jxfPx9-3xckH2Hb3xVzF7gjyqeIypsMAjfiEcNzBRS7B5dLP6l",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Corn Electronics",
+      "title": "GIGABYTE B760M GAMING PLUS WiFi Motherboard",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$213.99",
+      "extracted_price": 213.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "Wkkji3icdZPPjqNGEMalPEPeworU3XTzJ7exocHMGAx0N2suFoa2sQHTA3hsj_IOeQfPbqTNcRUp17zG5GniXe0hh-RSVapfHb76SvXrTe7_lJ7a5kPbz7PZRo3R0lLPfhfVn1Xfladi3Jd_QEg0wzBNzTTv0bIgAfhzkY950-2-Yc3STAR1ixjE0DRAIPlSybxs9kcZbreyt7vi6xw2MTYw0RDUDKzrOrTw7_s238nvHJkQYWjomnZPxERE1976cnjHy9kaalA3MdGtuwaIAUSGDn5ZxqG9_h_46fkk--t75-53-eY6ysn03lxM7ETzJumcznVn4joBmbh5uz_uJrYc6rFTk0U3VrLfdHlfTtp_12g9NN04TNr8sm5l2_XX9W4zUcVefgdDV9Ry_LRT33b5D0Vv7b78Qgwd68i0kK5b-O6cjt7Uy3irdh9Pp0b-dds1t9Nwq5qbPP7W5eplW_z9w49Od7Znw3kWcaWEHYNE7C7ZobSD1iQJo_2GlcskJThw_HPoQsi8oIudxl6IALPDAgiXqIUDqwyssADZUyia60pT08BVcAGtOEZlJ7kPIzQQDoKDdIRI-bjMnIZzGPgRb0TslaHgjhYcyi0DFAggDjGjXAjrMXSVJlmzTWi2ZW6FGLRWAZoDwatZUI8gu0InOwgmUvoiG_HEayWY93BNGh8lmr9inrITFJAIkVMJwOuGWnbq-JcsrV7ksZrLlo4ZH3DsFSPnNM5ZccmdCKeHIEjrYFmA7FmklcdSFQfcYtkrH5N0RVZ1eYkatSqE2ibCX26of07pdJB1BKUIog2jr6JtxIJDb8FLyGrqhm72QaTjOaTTeUwpEZw83r2EGczauDUvDMRnfhAwdBqUu9apoH4csOkqA5d8cZh2eepnT6mfxA7NC9dflI0YIrRKKBLzws2qAsFrIpS9Ok4BFw-k8OjjBtLe3fvT2AuuYZqx_INaynbkRV2DknYwut9bNM0048RnNKhkC48fL0O_fQcPlIxJqKOd_Gl0Dzi9sE2w72om5_mTcbGFPP8MDRPr-Ot_Qoz-ATJbTPo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Wkkji3icdZPPjqNGEMalPEPeworU3XTzJ7exocHMGAx0N2suFoa2sQHTA3hsj_IOeQfPbqTNcRUp17zG5GniXe0hh-RSVapfHb76SvXrTe7_lJ7a5kPbz7PZRo3R0lLPfhfVn1Xfladi3Jd_QEg0wzBNzTTv0bIgAfhzkY950-2-Yc3STAR1ixjE0DRAIPlSybxs9kcZbreyt7vi6xw2MTYw0RDUDKzrOrTw7_s238nvHJkQYWjomnZPxERE1976cnjHy9kaalA3MdGtuwaIAUSGDn5ZxqG9_h_46fkk--t75-53-eY6ysn03lxM7ETzJumcznVn4joBmbh5uz_uJrYc6rFTk0U3VrLfdHlfTtp_12g9NN04TNr8sm5l2_XX9W4zUcVefgdDV9Ry_LRT33b5D0Vv7b78Qgwd68i0kK5b-O6cjt7Uy3irdh9Pp0b-dds1t9Nwq5qbPP7W5eplW_z9w49Od7Znw3kWcaWEHYNE7C7ZobSD1iQJo_2GlcskJThw_HPoQsi8oIudxl6IALPDAgiXqIUDqwyssADZUyia60pT08BVcAGtOEZlJ7kPIzQQDoKDdIRI-bjMnIZzGPgRb0TslaHgjhYcyi0DFAggDjGjXAjrMXSVJlmzTWi2ZW6FGLRWAZoDwatZUI8gu0InOwgmUvoiG_HEayWY93BNGh8lmr9inrITFJAIkVMJwOuGWnbq-JcsrV7ksZrLlo4ZH3DsFSPnNM5ZccmdCKeHIEjrYFmA7FmklcdSFQfcYtkrH5N0RVZ1eYkatSqE2ibCX26of07pdJB1BKUIog2jr6JtxIJDb8FLyGrqhm72QaTjOaTTeUwpEZw83r2EGczauDUvDMRnfhAwdBqUu9apoH4csOkqA5d8cZh2eepnT6mfxA7NC9dflI0YIrRKKBLzws2qAsFrIpS9Ok4BFw-k8OjjBtLe3fvT2AuuYZqx_INaynbkRV2DknYwut9bNM0048RnNKhkC48fL0O_fQcPlIxJqKOd_Gl0Dzi9sE2w72om5_mTcbGFPP8MDRPr-Ot_Qoz-ATJbTPo"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Do Gigabyte motherboards have two SSD slots?",
+      "type": "featured_snippet",
+      "snippet": "GIGABYTE Motherboards are built with dual M. 2 slots. With a PCIe NVMe + SATA dual-mode design, users can build a RAID storage system with two NVMe M. 2 SSDs or a SATA Mode M.",
+      "title": "aorus connectivity - GIGABYTE H370 / B360 / H310 Motherboards",
+      "link": "https://www.gigabyte.com/Microsite/494/features_connectivity.html",
+      "displayed_link": "https://www.gigabyte.com › features_connectivity",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAuklEQVR4AWNwL_ChCGMK9FzTAeICIG7CgXmR1SNrNAfit0D8nwCWxzAAKBgLU0CyASABLIpWALELyFXoGMPLIMVommNJCkQ0f19HVwC12QWGMbyA7nQ0A9Dlr5PsArhc360DID4xYeCCrACm-SWD9LrnDAr_nzEoIuNuBpAGLLHQBE1Q8jCbQQagaS5ETgfXMQ1BOBuLAYXYUuJ1rAGKaUAhzrwAzQNv4ZoxDSjEkZkIY6BmVVy5kSIMAPYMhrgvwQEDAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJEbyBHaWdhYnl0ZSBtb3RoZXJib2FyZHMgaGF2ZSB0d28gU1NEIHNsb3RzPyIsImxrIjoiR2lsa2J5Qm5hV2RoWW5sMFpTQnRiM1JvWlhKaWIyRnlaSE1nYUdGMlpTQXlJSE56WkNCemJHOTBjdyIsImJzIjoiYy1PSzQ5Snh5VmR3ejB4UFRLb3NTVlhJelNfSlNDMUt5azhzU2lsV3lFZ3NTMVVvS2M5WENBNTJVU2pPeVM4cHRwZFlKV2VrTGFXWmtxLVFqbHVMa1VKeGNRcEVBMWNmSTVlelMzNXFzUUpRRWNJYUozTXpBd1dYWUdNUEJjZVFDQVVmZDBkRGN3T2dnRXVRS2JKeEVOUENNOTB5N1NXV09obTVTRG1sd0V5QzI1NEVNaW1sMkRoREliR2tRaUVuUFJGc1VrcEtFUmFUeWpQVE1ybGl1TFN3dThjWDZxQUlaR3RfbDBHOGk4M2FYS2k5RlVpbUozTHBobWRrSm1kZ0RWR0Y0dEtDZ3Z5aWttS0lUNE1jZmUwbDdzY1o2VXBwbDRQMVlBdFNtQjZJbDRvU2N3VVlBUSIsImlkIjoiZmNfZUhwZmFzbXJJWkNicHRRUDlwcUpvUWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJEbyBHaWdhYnl0ZSBtb3RoZXJib2FyZHMgaGF2ZSB0d28gU1NEIHNsb3RzPyIsImxrIjoiR2lsa2J5Qm5hV2RoWW5sMFpTQnRiM1JvWlhKaWIyRnlaSE1nYUdGMlpTQXlJSE56WkNCemJHOTBjdyIsImJzIjoiYy1PSzQ5Snh5VmR3ejB4UFRLb3NTVlhJelNfSlNDMUt5azhzU2lsV3lFZ3NTMVVvS2M5WENBNTJVU2pPeVM4cHRwZFlKV2VrTGFXWmtxLVFqbHVMa1VKeGNRcEVBMWNmSTVlelMzNXFzUUpRRWNJYUozTXpBd1dYWUdNUEJjZVFDQVVmZDBkRGN3T2dnRXVRS2JKeEVOUENNOTB5N1NXV09obTVTRG1sd0V5QzI1NEVNaW1sMkRoREliR2tRaUVuUFJGc1VrcEtFUmFUeWpQVE1ybGl1TFN3dThjWDZxQUlaR3RfbDBHOGk4M2FYS2k5RlVpbUozTHBobWRrSm1kZ0RWR0Y0dEtDZ3Z5aWttS0lUNE1jZmUwbDdzY1o2VXBwbDRQMVlBdFNtQjZJbDRvU2N3VVlBUSIsImlkIjoiZmNfZUhwZmFzbXJJWkNicHRRUDlwcUpvUWtfMSJ9"
+    },
+    {
+      "question": "Does the Gigabyte B760 DS3H ATX LGA1700 DDR5 motherboard have WiFi?",
+      "type": "featured_snippet",
+      "snippet": "GIGABYTE B760M DS3H AX (LGA 1700/ Intel/ B760/ M-ATX/ DDR5/ 2* M. 2/ PCIe 4.0/ USB 3.2 Gen 2 Type-C/WiFi 6E/ 2.5GbE LAN/Q-Flash Plus/PCIe EZ-Latch/Motherboard)",
+      "title": "GIGABYTE B760M DS3H AX (LGA 1700/ Intel/ B760/ M-ATX/ DDR5/ 2 ...",
+      "link": "https://www.amazon.sa/-/en/GIGABYTE-B760M-DS3H-AX-Motherboard/dp/B0BSP61QZC",
+      "displayed_link": "https://www.amazon.sa › GIGABYTE-B760M-DS3H-AX...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAZklEQVR4AWMAgf9JDAlAfA2I_xODoWoTkDX_JxMnMOC3mbBLGEAMSvBgMaDTgSjFcLUbG0A0mgE39oMkCBkA0wxXy4AuCQQgGoIRikEWwPggjDcMEBoQGKc3h0E0UpyUKc5MFGdnAM0hZb0NilFOAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJEb2VzIHRoZSBHaWdhYnl0ZSBCNzYwIERTM0ggQVRYIExHQTE3MDAgRERSNSBtb3RoZXJib2FyZCBoYXZlIFdpRmk/IiwibGsiOiJHa0prYjJWeklIUm9aU0JuYVdkaFlubDBaU0JpTnpZd0lHUnpNMmdnWVhSNElHeG5ZVEUzTURBZ1pHUnlOU0J0YjNSb1pYSmliMkZ5WkNCb1lYWmxJSGRwWm1rIiwiYnMiOiJjLU9LNDlKeHlWZHd6MHhQVEtvc1NWWEl6U19KU0MxS3lrOHNTaWxXeUVnc1MxVW9LYzlYQ0E1MlVTak95UzhwdHBkWUpXZWtMYVdaa3EtUWpsdUxrVUp4Y1FwRUExY2ZJNWV6UzM1cXNRSlFFY0lhSjNNekF3V1hZR01QQmNlUUNBVWZkMGREY3dPZ2dFdVFLYkp4RU5QQ005MHk3U1dXT2htNVNEbWx3RXlDMjU0RU1pbWwyRGhESWJHa1FpRW5QUkZzVWtwS0VSYVR5alBUTXJsaXVMU3d1OGNYNnFBSVpHdF9sMEc4aTgzYVhLaTlGVWltSjNMcGhtZGtKbWRnRFZHRjR0S0Nndnlpa21LSVQ0TWNmZTBsN3NjWjZVcHBsNFAxWUF0U21CNklsNG9TY3dVWUFRIiwiaWQiOiJmY19lSHBmYXNtcklaQ2JwdFFQOXBxSm9Ra18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJEb2VzIHRoZSBHaWdhYnl0ZSBCNzYwIERTM0ggQVRYIExHQTE3MDAgRERSNSBtb3RoZXJib2FyZCBoYXZlIFdpRmk%2FIiwibGsiOiJHa0prYjJWeklIUm9aU0JuYVdkaFlubDBaU0JpTnpZd0lHUnpNMmdnWVhSNElHeG5ZVEUzTURBZ1pHUnlOU0J0YjNSb1pYSmliMkZ5WkNCb1lYWmxJSGRwWm1rIiwiYnMiOiJjLU9LNDlKeHlWZHd6MHhQVEtvc1NWWEl6U19KU0MxS3lrOHNTaWxXeUVnc1MxVW9LYzlYQ0E1MlVTak95UzhwdHBkWUpXZWtMYVdaa3EtUWpsdUxrVUp4Y1FwRUExY2ZJNWV6UzM1cXNRSlFFY0lhSjNNekF3V1hZR01QQmNlUUNBVWZkMGREY3dPZ2dFdVFLYkp4RU5QQ005MHk3U1dXT2htNVNEbWx3RXlDMjU0RU1pbWwyRGhESWJHa1FpRW5QUkZzVWtwS0VSYVR5alBUTXJsaXVMU3d1OGNYNnFBSVpHdF9sMEc4aTgzYVhLaTlGVWltSjNMcGhtZGtKbWRnRFZHRjR0S0Nndnlpa21LSVQ0TWNmZTBsN3NjWjZVcHBsNFAxWUF0U21CNklsNG9TY3dVWUFRIiwiaWQiOiJmY19lSHBmYXNtcklaQ2JwdFFQOXBxSm9Ra18xIn0%3D"
+    },
+    {
+      "question": "Does the Gigabyte B760M DS3H AX have WiFi?",
+      "type": "featured_snippet",
+      "snippet": "The M. 2 Thermal Guard prevents throttling and bottlenecks from high speed M. 2 SSDs as it helps to dissipate heat before it becomes an issue. GIGABYTE Motherboards enable the ultimate connection experience with blazing data-transfer speeds through the next generation network, storage and Wi-Fi connectivity.",
+      "title": "B760M DS3H AX DDR4 (Rev. 1.x) Motherboard - GIGABYTE Global",
+      "link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-AX-DDR4-rev-1x",
+      "displayed_link": "https://www.gigabyte.com › Motherboard › B760M-DS3...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAuklEQVR4AWNwL_ChCGMK9FzTAeICIG7CgXmR1SNrNAfit0D8nwCWxzAAKBgLU0CyASABLIpWALELyFXoGMPLIMVommNJCkQ0f19HVwC12QWGMbyA7nQ0A9Dlr5PsArhc360DID4xYeCCrACm-SWD9LrnDAr_nzEoIuNuBpAGLLHQBE1Q8jCbQQagaS5ETgfXMQ1BOBuLAYXYUuJ1rAGKaUAhzrwAzQNv4ZoxDSjEkZkIY6BmVVy5kSIMAPYMhrgvwQEDAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJEb2VzIHRoZSBHaWdhYnl0ZSBCNzYwTSBEUzNIIEFYIGhhdmUgV2lGaT8iLCJsayI6IkdpbGtiMlZ6SUhSb1pTQm5hV2RoWW5sMFpTQmlOell3YlNCa2N6Tm9JR0Y0SUdoaGRtVWdkMmxtYVEiLCJicyI6ImMtT0s0OUp4eVZkd3oweFBUS29zU1ZYSXpTX0pTQzFLeWs4c1NpbFd5RWdzUzFVb0tjOVhDQTUyVVNqT3lTOHB0cGRZSldla0xhV1prcS1Ramx1TGtVSnhjUXBFQTFjZkk1ZXpTMzVxc1FKUUVjSWFKM016QXdXWFlHTVBCY2VRQ0FVZmQwZERjd09nZ0V1UUtiSnhFTlBDTTkweTdTV1dPaG01U0RtbHdFeUMyNTRFTWltbDJEaERJYkdrUWlFblBSRnNVa3BLRVJhVHlqUFRNcmxpdUxTd3U4Y1g2cUFJWkd0X2wwRzhpODNhWEtpOUZVaW1KM0xwaG1ka0ptZGdEVkdGNHRLQ2d2eWlrbUtJVDRNY2ZlMGw3c2NaNlVwcGw0UDFZQXRTbUI2SWw0b1Njd1VZQVEiLCJpZCI6ImZjX2VIcGZhc21ySVpDYnB0UVA5cHFKb1FrXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJEb2VzIHRoZSBHaWdhYnl0ZSBCNzYwTSBEUzNIIEFYIGhhdmUgV2lGaT8iLCJsayI6IkdpbGtiMlZ6SUhSb1pTQm5hV2RoWW5sMFpTQmlOell3YlNCa2N6Tm9JR0Y0SUdoaGRtVWdkMmxtYVEiLCJicyI6ImMtT0s0OUp4eVZkd3oweFBUS29zU1ZYSXpTX0pTQzFLeWs4c1NpbFd5RWdzUzFVb0tjOVhDQTUyVVNqT3lTOHB0cGRZSldla0xhV1prcS1Ramx1TGtVSnhjUXBFQTFjZkk1ZXpTMzVxc1FKUUVjSWFKM016QXdXWFlHTVBCY2VRQ0FVZmQwZERjd09nZ0V1UUtiSnhFTlBDTTkweTdTV1dPaG01U0RtbHdFeUMyNTRFTWltbDJEaERJYkdrUWlFblBSRnNVa3BLRVJhVHlqUFRNcmxpdUxTd3U4Y1g2cUFJWkd0X2wwRzhpODNhWEtpOUZVaW1KM0xwaG1ka0ptZGdEVkdGNHRLQ2d2eWlrbUtJVDRNY2ZlMGw3c2NaNlVwcGw0UDFZQXRTbUI2SWw0b1Njd1VZQVEiLCJpZCI6ImZjX2VIcGZhc21ySVpDYnB0UVA5cHFKb1FrXzEifQ%3D%3D"
+    },
+    {
+      "question": "Which Gigabyte motherboard supports DDR5 RAM?",
+      "type": "featured_snippet",
+      "snippet": "Gigabyte ‎B760m H Ddr5.",
+      "title": "Gigabyte B760M H DDR5 - Amazon.in",
+      "link": "https://www.amazon.in/GIGABYTE-Micro-B760M-Motherboard-Digital/dp/B0DLGTPN81",
+      "displayed_link": "https://www.amazon.in › GIGABYTE-Micro-B760M-Mo...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAZklEQVR4AWMAgf9JDAlAfA2I_xODoWoTkDX_JxMnMOC3mbBLGEAMSvBgMaDTgSjFcLUbG0A0mgE39oMkCBkA0wxXy4AuCQQgGoIRikEWwPggjDcMEBoQGKc3h0E0UpyUKc5MFGdnAM0hZb0NilFOAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJXaGljaCBHaWdhYnl0ZSBtb3RoZXJib2FyZCBzdXBwb3J0cyBERFI1IFJBTT8iLCJsayI6IkdpdDNhR2xqYUNCbmFXZGhZbmwwWlNCdGIzUm9aWEppYjJGeVpDQnpkWEJ3YjNKMElHUmtjalVnY21GdCIsImJzIjoiYy1PSzQ5Snh5VmR3ejB4UFRLb3NTVlhJelNfSlNDMUt5azhzU2lsV3lFZ3NTMVVvS2M5WENBNTJVU2pPeVM4cHRwZFlKV2VrTGFXWmtxLVFqbHVMa1VKeGNRcEVBMWNmSTVlelMzNXFzUUpRRWNJYUozTXpBd1dYWUdNUEJjZVFDQVVmZDBkRGN3T2dnRXVRS2JKeEVOUENNOTB5N1NXV09obTVTRG1sd0V5QzI1NEVNaW1sMkRoREliR2tRaUVuUFJGc1VrcEtFUmFUeWpQVE1ybGl1TFN3dThjWDZxQUlaR3RfbDBHOGk4M2FYS2k5RlVpbUozTHBobWRrSm1kZ0RWR0Y0dEtDZ3Z5aWttS0lUNE1jZmUwbDdzY1o2VXBwbDRQMVlBdFNtQjZJbDRvU2N3VVlBUSIsImlkIjoiZmNfZUhwZmFzbXJJWkNicHRRUDlwcUpvUWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk9VWkthbEZ4Ukd4dVptb3lTRlpXVmt4UExYUXdSa1pQVUdGS1EwSktSelJoVWpsQmQxUm5VVkpDVVRSaWEyRTBla3h0WkVFMU5qVndialZxWTB0emVFNW9kMnh6VlRodlZFUlRXRTlZT1RWT2NXbzBWVE4wTVVsMGR4SVhaVWh3Wm1GemJYSkpXa05pY0hSUlVEbHdjVXB2VVdzYUlrRkVjM0k1WmxKWk1XMU5ibTFVVFU0NU0wbFNWMEpMYjI5TWJHRndjMGhzY1ZFIiwiZmN2IjoiMyIsImVpIjoiZUhwZmFzbXJJWkNicHRRUDlwcUpvUWsiLCJxYyI6ImMxWEpzUTNDUUF3RlVHb3FSdmdqSUJDaG9FQmlrZE5kempoV2NCeWRMVUVLaG1hRE5Hbm9udlQyeHNLNUxFRW8xLTZvcUg0ZThKYW5kQVNtNlFMT0toT2prbzloTTlSaW9GWXN0X3J2VV9LWGhVUHpKeW1wdFNWeHdkd0xiZUhXanhTSDNmZjN1TjFYIiwicXVlc3Rpb24iOiJXaGljaCBHaWdhYnl0ZSBtb3RoZXJib2FyZCBzdXBwb3J0cyBERFI1IFJBTT8iLCJsayI6IkdpdDNhR2xqYUNCbmFXZGhZbmwwWlNCdGIzUm9aWEppYjJGeVpDQnpkWEJ3YjNKMElHUmtjalVnY21GdCIsImJzIjoiYy1PSzQ5Snh5VmR3ejB4UFRLb3NTVlhJelNfSlNDMUt5azhzU2lsV3lFZ3NTMVVvS2M5WENBNTJVU2pPeVM4cHRwZFlKV2VrTGFXWmtxLVFqbHVMa1VKeGNRcEVBMWNmSTVlelMzNXFzUUpRRWNJYUozTXpBd1dYWUdNUEJjZVFDQVVmZDBkRGN3T2dnRXVRS2JKeEVOUENNOTB5N1NXV09obTVTRG1sd0V5QzI1NEVNaW1sMkRoREliR2tRaUVuUFJGc1VrcEtFUmFUeWpQVE1ybGl1TFN3dThjWDZxQUlaR3RfbDBHOGk4M2FYS2k5RlVpbUozTHBobWRrSm1kZ0RWR0Y0dEtDZ3Z5aWttS0lUNE1jZmUwbDdzY1o2VXBwbDRQMVlBdFNtQjZJbDRvU2N3VVlBUSIsImlkIjoiZmNfZUhwZmFzbXJJWkNicHRRUDlwcUpvUWtfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "B760M DS3H WIFI6E GEN5 Motherboard",
+      "link": "https://www.gigabyte.com/us/Motherboard/B760M-DS3H-WIFI6E-GEN5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.gigabyte.com%2Fus%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECBYQAQ",
+      "displayed_link": "https://www.gigabyte.com › ... › Motherboard",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png",
+      "snippet": "GIGABYTE's one-piece stainless-steel shielding design reinforces the PCIe Slots, providing the extra strength required to support heavy graphics cards. 1.7X.",
+      "snippet_highlighted_words": [
+        "GIGABYTE's one-piece stainless-steel shielding design reinforces the PCIe Slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "GIGABYTE's one-piece stainless-steel shielding design reinforces the PCIe Slots, providing the extra strength required to support heavy graphics cards. 1.7X.",
+          "source_info_link": "https://www.gigabyte.com/us/Motherboard/B760M-DS3H-WIFI6E-GEN5",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.gigabyte.com%2Fus%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gigabyte.com%2Fus%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5",
+      "source": "Gigabyte",
+      "read_more_link": "https://www.gigabyte.com/us/Motherboard/B760M-DS3H-WIFI6E-GEN5"
+    },
+    {
+      "position": 2,
+      "title": "B760M DS3H WIFI6E GEN5 Motherboard Specifications",
+      "link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/sp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5%2Fsp&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECB0QAQ",
+      "displayed_link": "https://www.gigabyte.com › Motherboard › B760M-DS...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png",
+      "snippet": "CPU. LGA1700 socket: Support for the 14th, 13th, and 12th Generation Intel® Core™, Pentium® Gold and Celeron® Processors · Chipset. Intel® B760 Express Chipset.",
+      "snippet_highlighted_words": [
+        "LGA1700 socket"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CPU. LGA1700 socket: Support for the 14th, 13th, and 12th Generation Intel® Core™, Pentium® Gold and Celeron® Processors · Chipset. Intel® B760 Express Chipset.",
+          "source_info_link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/sp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5%2Fsp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5%2Fsp",
+      "source": "Gigabyte",
+      "read_more_link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/sp"
+    },
+    {
+      "position": 3,
+      "title": "GIGABYTE B760M DS3H WIFI6E GEN5 Intel LGA 1700 ...",
+      "link": "https://www.amazon.com/GIGABYTE-B760M-DS3H-WIFI6E-GEN5/dp/B0FPRQ3SPD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FGIGABYTE-B760M-DS3H-WIFI6E-GEN5%2Fdp%2FB0FPRQ3SPD&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECC4QAQ",
+      "displayed_link": "https://www.amazon.com › GIGABYTE-B760M-DS3H-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Intel LGA 1700 Socket: Ready to support 14th, 13th, and 12th Gen Intel Core Processors. Enhanced Power Solution: Hybrid Digital 6+2+1 Power Phase with premium ...",
+      "snippet_highlighted_words": [
+        "Intel LGA 1700 Socket"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Intel LGA 1700 Socket: Ready to support 14th, 13th, and 12th Gen Intel Core Processors. Enhanced Power Solution: Hybrid Digital 6+2+1 Power Phase with premium ...",
+          "source_info_link": "https://www.amazon.com/GIGABYTE-B760M-DS3H-WIFI6E-GEN5/dp/B0FPRQ3SPD",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FGIGABYTE-B760M-DS3H-WIFI6E-GEN5%2Fdp%2FB0FPRQ3SPD&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FGIGABYTE-B760M-DS3H-WIFI6E-GEN5%2Fdp%2FB0FPRQ3SPD",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/GIGABYTE-B760M-DS3H-WIFI6E-GEN5/dp/B0FPRQ3SPD"
+    },
+    {
+      "position": 4,
+      "title": "B760M DS3H WIFI6E GEN5 Motherboard Support",
+      "link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/support",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5%2Fsupport&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECCwQAQ",
+      "displayed_link": "https://www.gigabyte.com › Motherboard › support",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png",
+      "snippet": "B760M DS3H WIFI6E GEN5 ; Chipset · Intel INF installation. 10.1.19899.8597, Windows 10 64bit Windows 11 64bit, 3.36 MB ; LAN · Realtek LAN Driver. 11.29.50.0202 ...",
+      "snippet_highlighted_words": [
+        "B760M DS3H WIFI6E GEN5"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "B760M DS3H WIFI6E GEN5 ; Chipset · Intel INF installation. 10.1.19899.8597, Windows 10 64bit Windows 11 64bit, 3.36 MB ; LAN · Realtek LAN Driver. 11.29.50.0202 ...",
+          "source_info_link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/support",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5%2Fsupport&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FB760M-DS3H-WIFI6E-GEN5%2Fsupport",
+      "source": "Gigabyte",
+      "read_more_link": "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/support"
+    },
+    {
+      "position": 5,
+      "title": "Gigabyte B760M DS3H DDR4 Review - An Amazing Value ...",
+      "link": "https://www.youtube.com/watch?v=lPifsn8u-Fk",
+      "displayed_link": "49.6K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQ8kADgpBn8Ci7Du_bZ8oDpNYx0MGLO2b93ix8T07s3e0pJQ7vkmGrww&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "This is a fantastic full featured board for the money. The 14th gen CPU support dual P Express nvme slots and the four Ram Slots make it very flexible.",
+      "duration": "6:17",
+      "about_this_result": {
+        "source": {
+          "description": "This is a fantastic full featured board for the money. The 14th gen CPU support dual P Express nvme slots and the four Ram Slots make it very flexible.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlPifsn8u-Fk&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlPifsn8u-Fk",
+      "source": "YouTube · BarTech TV"
+    },
+    {
+      "position": 6,
+      "title": "GIGABYTE B760M DS3H WIFI6E GEN5 LGA 1700 Intel ...",
+      "link": "https://www.newegg.com/gigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813145591?srsltid=AfmBOooBNKhMO2a4HyQblDYwcGOympvzgZpjDHhL-fy7SuIPDDWLgIwW",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fgigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700%2Fp%2FN82E16813145591%3Fsrsltid%3DAfmBOooBNKhMO2a4HyQblDYwcGOympvzgZpjDHhL-fy7SuIPDDWLgIwW&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECDMQAQ",
+      "displayed_link": "https://www.newegg.com › ... › GIGABYTE",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "date": "Sep 8, 2025",
+      "snippet": "Featuring Intel LGA 1700 socket, DDR5 support, PCIe 5.0, USB-C,&nbsp;... the maximum memory supported by the. RGB $288.15 - Intel $171.99",
+      "snippet_highlighted_words": [
+        "socket"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Featuring Intel LGA 1700 socket, DDR5 support, PCIe 5.0, USB-C,&nbsp;... the maximum memory supported by the. RGB $288.15 - Intel $171.99",
+          "source_info_link": "https://www.newegg.com/gigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813145591?srsltid=AfmBOooBNKhMO2a4HyQblDYwcGOympvzgZpjDHhL-fy7SuIPDDWLgIwW",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fgigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700%2Fp%2FN82E16813145591%3Fsrsltid%3DAfmBOooBNKhMO2a4HyQblDYwcGOympvzgZpjDHhL-fy7SuIPDDWLgIwW&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fgigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700%2Fp%2FN82E16813145591%3Fsrsltid%3DAfmBOooBNKhMO2a4HyQblDYwcGOympvzgZpjDHhL-fy7SuIPDDWLgIwW",
+      "source": "Newegg"
+    },
+    {
+      "position": 7,
+      "title": "GIGABYTE B760M DS3H WIFI6E GEN5 LGA 1700 DDR5 ...",
+      "link": "https://www.bestbuy.com/product/gigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan/J3ZW9X73ZG/sku/11945474",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fgigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan%2FJ3ZW9X73ZG%2Fsku%2F11945474&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECC0QAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Intel B760 M-ATX Motherboard with DDR5, M.2, PCIe 5.0, USB. Supports 14th and 13th Gen Intel Core Series Processors. Compatible: Dual Channel DDR5, 4 DIMMs ...",
+      "snippet_highlighted_words": [
+        "Intel B760 M-ATX Motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Intel B760 M-ATX Motherboard with DDR5, M.2, PCIe 5.0, USB. Supports 14th and 13th Gen Intel Core Series Processors. Compatible: Dual Channel DDR5, 4 DIMMs ...",
+          "source_info_link": "https://www.bestbuy.com/product/gigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan/J3ZW9X73ZG/sku/11945474",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fgigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan%2FJ3ZW9X73ZG%2Fsku%2F11945474&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fgigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan%2FJ3ZW9X73ZG%2Fsku%2F11945474",
+      "source": "Best Buy"
+    },
+    {
+      "position": 8,
+      "title": "Best B760 Motherboard in 2026 B760M DS3H vs B760M ...",
+      "link": "https://www.youtube.com/watch?v=E4fOee5BXes",
+      "displayed_link": "7.3K+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuw3QaywrAzkxdQoQUvPK8jJ1JLBiewsb7OxcnU7XjPmeMIWOsbyGHKg&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Confused between Gigabyte B760M DS3H and Gigabyte B760M Gaming WiFi 6E Gen5? In this video, we do a detailed motherboard comparison in 2026 ...",
+      "duration": "5:27",
+      "about_this_result": {
+        "source": {
+          "description": "Confused between Gigabyte B760M DS3H and Gigabyte B760M Gaming WiFi 6E Gen5? In this video, we do a detailed motherboard comparison in 2026 ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE4fOee5BXes&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE4fOee5BXes",
+      "source": "YouTube · NCL Computer"
+    },
+    {
+      "position": 9,
+      "title": "B760M DS3H WIFI6E DDR4 GEN5 ( ...",
+      "link": "https://download.gigabyte.com/FileList/Manual/mb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf?v=53222a4b50827543d4487d6925a34117",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fdownload.gigabyte.com%2FFileList%2FManual%2Fmb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf%3Fv%3D53222a4b50827543d4487d6925a34117&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQFnoECCsQAQ",
+      "displayed_link": "https://download.gigabyte.com › FileList › Manual",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABCUlEQVR4Ac3SAUQDcRTH8ZMQkkDn7k7o7lwASGYAgBkIZBJgEgYYIAQCQCZJgAESAoFMgMyQQAKQmQFmZrx9sT_PczNj2J-P49793vPO39usEwRBjDv00McQA2WM6qJwFQPIEmdF4TLGEOULL3hV3lGy4SN8qOAItVX2bmCqGtwUfLM1t40dW3yAKCem3sQvfvAdhuGpbXAPUcoLBkzjOD4vWuEKE9WgZeqPTBXf91tZlj3led7m2U7T9A3X7id2IErT7crzOYqiWpIklwSFkNPFgZtSgRj_6DK94nGYXFfhDvbtKrcQo-7qTHcNPm1YN7nAH8TeBUIN9LC37F7s4ti-J1jCobfuMwP1pYBNH4UjBgAAAABJRU5ErkJggg.png",
+      "snippet": "The motherboard contains numerous delicate electronic circuits and components which can become damaged as a result of electrostatic discharge (ESD). Prior to ...",
+      "snippet_highlighted_words": [
+        "motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The motherboard contains numerous delicate electronic circuits and components which can become damaged as a result of electrostatic discharge (ESD). Prior to ...",
+          "source_info_link": "https://download.gigabyte.com/FileList/Manual/mb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf?v=53222a4b50827543d4487d6925a34117",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABCUlEQVR4Ac3SAUQDcRTH8ZMQkkDn7k7o7lwASGYAgBkIZBJgEgYYIAQCQCZJgAESAoFMgMyQQAKQmQFmZrx9sT_PczNj2J-P49793vPO39usEwRBjDv00McQA2WM6qJwFQPIEmdF4TLGEOULL3hV3lGy4SN8qOAItVX2bmCqGtwUfLM1t40dW3yAKCem3sQvfvAdhuGpbXAPUcoLBkzjOD4vWuEKE9WgZeqPTBXf91tZlj3led7m2U7T9A3X7id2IErT7crzOYqiWpIklwSFkNPFgZtSgRj_6DK94nGYXFfhDvbtKrcQo-7qTHcNPm1YN7nAH8TeBUIN9LC37F7s4ti-J1jCobfuMwP1pYBNH4UjBgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fdownload.gigabyte.com%2FFileList%2FManual%2Fmb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf%3Fv%3D53222a4b50827543d4487d6925a34117&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdownload.gigabyte.com%2FFileList%2FManual%2Fmb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf%3Fv%3D53222a4b50827543d4487d6925a34117",
+      "source": "Gigabyte",
+      "read_more_link": "https://download.gigabyte.com/FileList/Manual/mb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf?v=53222a4b50827543d4487d6925a34117"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "GIGABYTE B760M DS3H AX DDR5 RAM support",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=GIGABYTE+B760M+DS3H+AX+DDR5+RAM+support&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GIGABYTE+B760M+DS3H+AX+DDR5+RAM+support"
+    },
+    {
+      "block_position": 1,
+      "query": "GIGABYTE B760M DS3H DDR5",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=GIGABYTE+B760M+DS3H+DDR5&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GIGABYTE+B760M+DS3H+DDR5"
+    },
+    {
+      "block_position": 1,
+      "query": "GIGABYTE B760M DS3H Gen5 motherboard",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=GIGABYTE+B760M+DS3H+Gen5+motherboard&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GIGABYTE+B760M+DS3H+Gen5+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "Gigabyte B760M DS3H DDR5 manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Gigabyte+B760M+DS3H+DDR5+manual&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+DDR5+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "Gigabyte b760m ds3h wifi6e GEN5 drivers",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Gigabyte+b760m+ds3h+wifi6e+GEN5+drivers&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+b760m+ds3h+wifi6e+GEN5+drivers"
+    },
+    {
+      "block_position": 1,
+      "query": "GIGABYTE B760M DS3H DDR4",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=GIGABYTE+B760M+DS3H+DDR4&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GIGABYTE+B760M+DS3H+DDR4"
+    },
+    {
+      "block_position": 1,
+      "query": "GIGABYTE B760 DS3H AC",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=GIGABYTE+B760+DS3H+AC&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GIGABYTE+B760+DS3H+AC"
+    },
+    {
+      "block_position": 1,
+      "query": "Gigabyte B760M ds3h ax DDR5 wifi Driver",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Gigabyte+B760M+ds3h+ax+DDR5+wifi+Driver&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+ds3h+ax+DDR5+wifi+Driver"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=cpu+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhQIARIDQ1BVOgsIw53EARDTx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAF6BAgpEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhQIARIDUkFNOgsIw53EARDSx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAJ6BAgpEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=usb+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhQIARIDVVNCOgsIna07EOjk9wEwAFiysSBgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAN6BAgpEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "DDR4",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ddr4+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhQIARIERERSNDoKCLDHKxD2hzUwAFiysSBgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAR6BAgpEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr4+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=pci+express+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhsIARILUENJIEV4cHJlc3M6Cgjr5ywQ7-csMABYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAV6BAgpEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Micro ATX",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=micro+atx+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhkIARIJTWljcm8gQVRYOgoIm58rEJ7HKzACWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAZ6BAgpEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=micro+atx+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "2 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=2+memory+slots+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0Mh4IARIOMiBNZW1vcnkgU2xvdHM6CgiVq0kQl6tJMABYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAd6BAgpEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+memory+slots+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=atx+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhMIARIDQVRYOgoIm58rEKDHKzACWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAh6BAgpEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+sale&shoprs=CAESBEoCGAEYBipvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhMIBhIHT24gc2FsZRgCIgRKAhgBWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAl6BAgpEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+sale"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=hdmi+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhUIARIESERNSToLCJ2tOxCwmusBMABYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAp6BAgpEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ethernet+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhgIARIIRXRoZXJuZXQ6CgidrTsQoK07MABYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAt6BAgpEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "128 – 192 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=128+gb+max+ram+to+192+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAESGioYCOi_PRISCQAAAAAAAGBAEQAAAAAAAGhAGAEqb2dpZ2FieXRlIGI3NjBtIGRzM2ggd2lmaTZlIGdlbjUgZ2FtaW5nIGRlc2t0b3AgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDJmCAESFjEyOCDigJMgMTkyIEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAGBAEQAAAAAAAGhAKiQKIDEyOCBHQiBNYXggUkFNIHRvIDE5MiBHQiBNYXggUkFNGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKAx6BAgpEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=128+gb+max+ram+to+192+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=4+memory+slots+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0Mh4IARIONCBNZW1vcnkgU2xvdHM6CgiVq0kQmKtJMABYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKA16BAgpEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "192 – 256 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=192+gb+max+ram+to+256+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAESGioYCOi_PRISCQAAAAAAAGhAEQAAAAAAAHBAGAEqb2dpZ2FieXRlIGI3NjBtIGRzM2ggd2lmaTZlIGdlbjUgZ2FtaW5nIGRlc2t0b3AgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDJmCAESFjE5MiDigJMgMjU2IEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAGhAEQAAAAAAAHBAKiQKIDE5MiBHQiBNYXggUkFNIHRvIDI1NiBHQiBNYXggUkFNGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKA56BAgpEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=192+gb+max+ram+to+256+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Over 256 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=over+256+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAESESoPCOi_PRIJCQAAAAAAAHBAGAEqb2dpZ2FieXRlIGI3NjBtIGRzM2ggd2lmaTZlIGdlbjUgZ2FtaW5nIGRlc2t0b3AgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDI4CAESE092ZXIgMjU2IEdCIE1heCBSQU0iESoPCOi_PRIJCQAAAAAAAHBAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKA96BAgpEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+256+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Intel",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=intel+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhUIARIFSW50ZWw6CgiarTsQm607MAJYsrEgYAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBB6BAgpEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ddr+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhMIARIDRERSOgoIsMcrELHHKzAAWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBF6BAgpEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Under 128 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=under+128+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAESESoPCOi_PRIJEQAAAAAAAGBAGAEqb2dpZ2FieXRlIGI3NjBtIGRzM2ggd2lmaTZlIGdlbjUgZ2FtaW5nIGRlc2t0b3AgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDI5CAESFFVuZGVyIDEyOCBHQiBNYXggUkFNIhEqDwjovz0SCREAAAAAAABgQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBJ6BAgpEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+128+gb+max+ram+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "AORUS Gaming",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=aorus+gaming+gigabyte+b760m+ds3h+wifi6e+gen5+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhwIARIMQU9SVVMgR2FtaW5nOgoIiMh_EInIfzAEWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBN6BAgpEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=aorus+gaming+gigabyte+b760m+ds3h+wifi6e+gen5+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=displayport+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhwIARILRGlzcGxheVBvcnQ6CwidrTsQsZrrATAAWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBR6BAgpEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=size+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYEipvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MggIEhIEU2l6ZWAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBV6BAgpEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=size+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=buy+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYEipvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBZ6BAgpEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=price+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYEipvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBd6BAgpEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "PCI",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=pci+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhMIARIDUENJOgoI6-csEO3nLDAAWLKxIGAB&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBh6BAgpEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "VGA",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=vga+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&shoprs=CAEYASpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MhQIARIDVkdBOgsIna07EK-a6wEwAFiysSBgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBl6BAgpEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vga+gigabyte+b760m+ds3h+wifi6e+gen5+gaming+desktop+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Under $100",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+under+%24100&shoprs=CAESDRILEQAAAACE15dBGAEYBSpvZ2lnYWJ5dGUgYjc2MG0gZHMzaCB3aWZpNmUgZ2VuNSBnYW1pbmcgZGVza3RvcCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMgc29ja2V0MiMIBRIKVW5kZXIgJDEwMBgCIg0SCxEAAAAAhNeXQRgBKgIYAViysSBgAQ&sa=X&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQip4GKBp6BAgpEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+under+%24100"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=eHpfasmrIZCbptQP9pqJoQk&start=10&sa=N&sstk=AU9db-Ckraon_HRHHrL5_XTGTg_blYz9NJi0pOPePlbqF6qi0LO2w9kGQWAGEI6zcythTIP9h1_uWncFz2-Qryc0CQ4rgeMOM42mng&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ8NMDegQIPhAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=eHpfasmrIZCbptQP9pqJoQk&start=10&sa=N&sstk=AU9db-Ckraon_HRHHrL5_XTGTg_blYz9NJi0pOPePlbqF6qi0LO2w9kGQWAGEI6zcythTIP9h1_uWncFz2-Qryc0CQ4rgeMOM42mng&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=eHpfasmrIZCbptQP9pqJoQk&start=20&sa=N&sstk=AU9db-Ckraon_HRHHrL5_XTGTg_blYz9NJi0pOPePlbqF6qi0LO2w9kGQWAGEI6zcythTIP9h1_uWncFz2-Qryc0CQ4rgeMOM42mng&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=eHpfasmrIZCbptQP9pqJoQk&start=30&sa=N&sstk=AU9db-Ckraon_HRHHrL5_XTGTg_blYz9NJi0pOPePlbqF6qi0LO2w9kGQWAGEI6zcythTIP9h1_uWncFz2-Qryc0CQ4rgeMOM42mng&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=eHpfasmrIZCbptQP9pqJoQk&start=40&sa=N&sstk=AU9db-Ckraon_HRHHrL5_XTGTg_blYz9NJi0pOPePlbqF6qi0LO2w9kGQWAGEI6zcythTIP9h1_uWncFz2-Qryc0CQ4rgeMOM42mng&ved=2ahUKEwjJx4eU9uOVAxWQjYkEHXZNIpQQ8tMDegQIPhAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+B760M+DS3H+WIFI6E+GEN5+Gaming+Desktop+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=40"
+    }
+  }
+}

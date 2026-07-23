@@ -1,0 +1,8 @@
+{
+  "provider": "apify",
+  "status": "failed",
+  "data": {},
+  "error": "ConnectError",
+  "status_code": null,
+  "latency_ms": 3011
+}

@@ -1,0 +1,889 @@
+{
+  "search_metadata": {
+    "id": "6a5f7bd31fad36cc8d5800ed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wqlyAeIBRoEhB6Ls3Rw5vw/6a5f7bd31fad36cc8d5800ed.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/wqlyAeIBRoEhB6Ls3Rw5vw/6a5f7bd31fad36cc8d5800ed.json_with_pixel_position",
+    "created_at": "2026-07-21 14:01:55 UTC",
+    "processed_at": "2026-07-21 14:01:55 UTC",
+    "google_url": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&oq=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/wqlyAeIBRoEhB6Ls3Rw5vw/6a5f7bd31fad36cc8d5800ed.html",
+    "total_time_taken": 2.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "HYTE Y70 Touch Infinite ATX Mid Tower Gaming PC Case case drive_bays max_cooler_height_mm max_gpu_length_mm psu_form_factor supported_motherboard_form_factors supported_radiators",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "HYTE Y70 Touch Infinite ATX Mid Tower Gaming PC Case case drive_bays max_cooler_height_mm max_gpu_length_mm psu_form_factor supported_motherboard_form_factors supported_radiators",
+    "total_results": 475,
+    "time_taken_displayed": 0.83,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEMJenqzazPCtNx_MdwH8UOg.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "HYTE Y70 Touch Infinite ATX Mid Tower Gaming PC Case",
+      "rating": 4.4,
+      "reviews": 20,
+      "price": "$349.99",
+      "extracted_price": 349.99,
+      "original_price": "$400",
+      "extracted_original_price": 400,
+      "extensions": [
+        "12% OFF"
+      ],
+      "immersive_product_page_token": "PrlW93icdZNLbuNGEIaBnCG3EAbobr7E7Cy-NLRJmq-myI1AsSk2qW6SplrWA7lD7iDPBJhsAjgBss01nNNE9moWyaYW3_ejgCpU_XKt27-AJLbloVW9ezNvPzWPw7YPPoXg2zgN5FCJlvyhyDLUNE2HKoIamku6Dr9VpSjZ0LxbpEAZyJqEblpHCporr7QuCWv7Othu68kcqpb8rmu6JM01BOS5pijgt5aXTf2h_oRA1zRJ0rQ5ABqAsqzL6GUi-zf50VhDVQWajubzW3MNACSrmvzzYxSY6_-RX58O9XR-e13miTXLNTBLhkNFZ5_7bdu3op7dJauZ15IbPtbTzCl52zezR2NmlPt6Vr0XMrXP9XpTnvczXp7W1TCwelrTum2oWHP-AZvxsGZ13wj6Tsb9Yb0dJr7elpUYptn-MI7DJGqy5oOg9bQZyol8n9h_F5lK0pbv7GszfqzjP4Z64S15VTRVVtFcR6oGdAlIKnoZn8WVNl8OB1b_fW3Y9bC_Unat-1-HcnzeVv_88KM1HE1jfzTCdByxGYGYjzTFiz5KqOcv6Spd-XKRQSeJoZHvXFwuQ1A4JKgzN9ngIkm7ogs7ZtTmAocSTjecOrVJRS4Np4wxNUoBIp0f-xfXjC3C4hVZRf3oxoi6keU_FqgSAbbvawM-lQC6Jd8dNxZDUYa7h4wu8rSgmSO2ceKqJfT3HiYD5hSGF2x5pm2EsBEFJkGUiTKH5MnLXIT5eC443UX8ZIU4iqsztGOz6H0uzAi5D7GEgzSN7tPl4pRccqWwomUKhFkgF2PHu3jMH3CH728XIkc9LlKLGjV3LxVgxyx1z7EBl5UVTQTSqbIZWwF4zPFO8aAN8o6UlUSc1Na7EA1StYsWG96gwIJxnPkc9xEtgOtsGAs8trAqfgr9VHzOAXNWF3cqUlvF2D6HXJEfYgg3HT7e9mxWXWT7qR5lZhR7O8I2lhhSRsycV7F9ubsQp6Ak26EkFVaW7UQBF88FVx4fsHV0WncRLf1zkBUJgQuR8dHwGF3ErLAKbrc59tvYxEOwxHHImPTltJ-2b-DOVkQcaPMNRkeCLWJsz6mcOGI4kG68b80u_Alqc1mVbx-uqor0Lzz1a7s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PrlW93icdZNLbuNGEIaBnCG3EAbobr7E7Cy-NLRJmq-myI1AsSk2qW6SplrWA7lD7iDPBJhsAjgBss01nNNE9moWyaYW3_ejgCpU_XKt27-AJLbloVW9ezNvPzWPw7YPPoXg2zgN5FCJlvyhyDLUNE2HKoIamku6Dr9VpSjZ0LxbpEAZyJqEblpHCporr7QuCWv7Othu68kcqpb8rmu6JM01BOS5pijgt5aXTf2h_oRA1zRJ0rQ5ABqAsqzL6GUi-zf50VhDVQWajubzW3MNACSrmvzzYxSY6_-RX58O9XR-e13miTXLNTBLhkNFZ5_7bdu3op7dJauZ15IbPtbTzCl52zezR2NmlPt6Vr0XMrXP9XpTnvczXp7W1TCwelrTum2oWHP-AZvxsGZ13wj6Tsb9Yb0dJr7elpUYptn-MI7DJGqy5oOg9bQZyol8n9h_F5lK0pbv7GszfqzjP4Z64S15VTRVVtFcR6oGdAlIKnoZn8WVNl8OB1b_fW3Y9bC_Unat-1-HcnzeVv_88KM1HE1jfzTCdByxGYGYjzTFiz5KqOcv6Spd-XKRQSeJoZHvXFwuQ1A4JKgzN9ngIkm7ogs7ZtTmAocSTjecOrVJRS4Np4wxNUoBIp0f-xfXjC3C4hVZRf3oxoi6keU_FqgSAbbvawM-lQC6Jd8dNxZDUYa7h4wu8rSgmSO2ceKqJfT3HiYD5hSGF2x5pm2EsBEFJkGUiTKH5MnLXIT5eC443UX8ZIU4iqsztGOz6H0uzAi5D7GEgzSN7tPl4pRccqWwomUKhFkgF2PHu3jMH3CH728XIkc9LlKLGjV3LxVgxyx1z7EBl5UVTQTSqbIZWwF4zPFO8aAN8o6UlUSc1Na7EA1StYsWG96gwIJxnPkc9xEtgOtsGAs8trAqfgr9VHzOAXNWF3cqUlvF2D6HXJEfYgg3HT7e9mxWXWT7qR5lZhR7O8I2lhhSRsycV7F9ubsQp6Ak26EkFVaW7UQBF88FVx4fsHV0WncRLf1zkBUJgQuR8dHwGF3ErLAKbrc59tvYxEOwxHHImPTltJ-2b-DOVkQcaPMNRkeCLWJsz6mcOGI4kG68b80u_Alqc1mVbx-uqor0Lzz1a7s"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEHExwvY6yEmkLSGoxofZpHU.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAASElEQVQ4jWPsOWb_n4ECwESJZgYGBgYWGKPE6iAjKRphLqeeC9BNJhZQ3wUwQGyYUOyCgTcAZxgQGxvUdwGxoU-1lMg44LkRALwcE9n9gHKOAAAAAElFTkSuQmCC.png",
+      "source": "Central Computers",
+      "title": "HYTE Y70 Touch Infinite Mid-Tower Case",
+      "rating": 4.7,
+      "reviews": 38,
+      "price": "$319.99",
+      "extracted_price": 319.99,
+      "immersive_product_page_token": "VNUTo3icbVPLjqNGFJXyDfkLNBJFucDOrm3ANm1j86gCs7EKCgOmeDQPP1D-If_gnok0WfZEyja_0fma0FEWsxiVdEs69-iec66qfnvE2V8i7E60z-Tts3rIPiX76lTuPlni17qpWB91GfsTKFCG4kyaATiV0ExGoiJ9jWhHeZVk7NtEkRFSJEWBkoQUiMAEvKUxZTwr493pFDdqFX1MERECaDqbTZXJTJlMJ_IE_ZEVNIn_7wNJhHAmihCACRIRlKbSa8Pad2m_OMoKHPWVCZiODkY_cDL9dW_v1OOPe19e-ri5v7-tDq4mHBRRcKs-SoV1ecrKrIuFJ9cXthkb4WvcCEtaZGUi7BfCgraxEH0U1mSX-BjSeysU9HaMqorHzTGNsyTtjkXxH5jU_ZHHZdKlH0jd9sdT1RTHE426qhHavq6rpovZsai6NG7Cijbse0b7HaWhLKMf2JekHpfx7QeZXouMvSFFnsgSkiGECoBoitBrfekeafK573n89yPhj759pPwRl79XtL6con9--lmrruqivS4sXNdEtUVXCzbUY4AU9TwuzACrVhf4cx-X6eBIV4DBfONActkO84Mv6rJVINGV1uiADSkozHOYawPTbQ1r_O5gUmw5ceyB6FZhZl7BPLbSeegFhIodxICBUJuppmukxE-uTm4-h66dR8t8sLlRh4Q87zTDDc_cCAbzvl2S8WZnU0SHQLs58dISYy14IdzemKrN7SKVQ63OnSJNd2SOaAagU9ZWqOvr2NO5zWd7G5r3yOtKZ5XK_pC-MDhXtzyglm-M_mbZFptzx7sBhtmFntPaKU0aYgwIMPdjTmmDjcIm-eBpqUdXJo7EuiNLfW2rRMIet5wl14h4AxExfZp3242rIeqzUb-92ri9Et8uTanzxonE09l5q90a94xFD09FSzK9nVYD5uPBcw3fhwn0eHAgJZ8ziUtYDS425_iAWW75rA8Hcz9yHX14GtgySJmXSy7uNM_LuwDML0GB9huiXZeZMbdX5n3nBY6b8_WhMF62pX6zV-PxiHsY8ptVBnC3rCVHM-DnW9uc3sUnHXXODinO5anDTLFEPIqq67tevVw3DTgO11-A8vFVx1coy2jyL0GPbW0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VNUTo3icbVPLjqNGFJXyDfkLNBJFucDOrm3ANm1j86gCs7EKCgOmeDQPP1D-If_gnok0WfZEyja_0fma0FEWsxiVdEs69-iec66qfnvE2V8i7E60z-Tts3rIPiX76lTuPlni17qpWB91GfsTKFCG4kyaATiV0ExGoiJ9jWhHeZVk7NtEkRFSJEWBkoQUiMAEvKUxZTwr493pFDdqFX1MERECaDqbTZXJTJlMJ_IE_ZEVNIn_7wNJhHAmihCACRIRlKbSa8Pad2m_OMoKHPWVCZiODkY_cDL9dW_v1OOPe19e-ri5v7-tDq4mHBRRcKs-SoV1ecrKrIuFJ9cXthkb4WvcCEtaZGUi7BfCgraxEH0U1mSX-BjSeysU9HaMqorHzTGNsyTtjkXxH5jU_ZHHZdKlH0jd9sdT1RTHE426qhHavq6rpovZsai6NG7Cijbse0b7HaWhLKMf2JekHpfx7QeZXouMvSFFnsgSkiGECoBoitBrfekeafK573n89yPhj759pPwRl79XtL6con9--lmrruqivS4sXNdEtUVXCzbUY4AU9TwuzACrVhf4cx-X6eBIV4DBfONActkO84Mv6rJVINGV1uiADSkozHOYawPTbQ1r_O5gUmw5ceyB6FZhZl7BPLbSeegFhIodxICBUJuppmukxE-uTm4-h66dR8t8sLlRh4Q87zTDDc_cCAbzvl2S8WZnU0SHQLs58dISYy14IdzemKrN7SKVQ63OnSJNd2SOaAagU9ZWqOvr2NO5zWd7G5r3yOtKZ5XK_pC-MDhXtzyglm-M_mbZFptzx7sBhtmFntPaKU0aYgwIMPdjTmmDjcIm-eBpqUdXJo7EuiNLfW2rRMIet5wl14h4AxExfZp3242rIeqzUb-92ri9Et8uTanzxonE09l5q90a94xFD09FSzK9nVYD5uPBcw3fhwn0eHAgJZ8ziUtYDS425_iAWW75rA8Hcz9yHX14GtgySJmXSy7uNM_LuwDML0GB9huiXZeZMbdX5n3nBY6b8_WhMF62pX6zV-PxiHsY8ptVBnC3rCVHM-DnW9uc3sUnHXXODinO5anDTLFEPIqq67tevVw3DTgO11-A8vFVx1coy2jyL0GPbW0"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOELT5d8Yp5DbgRAFFSm8ibw4.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEOiaoLRfIVpjMhCBFizx34xdGPwxoQzfgq82hWb6UG3J.png",
+      "source": "HYTE",
+      "title": "HYTE Y70 Touch Infinite Dual Chamber Mid-Tower ATX Computer Case",
+      "rating": 4.7,
+      "reviews": 107,
+      "price": "$219.99",
+      "extracted_price": 219.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "h_anIHicbZJLjttGFEWBrCG7EAwUi19l1hJFtmSRFD9VlDgRiqzip_ltqiRRhPeQPajtAPawHSDTbKOzmrA98sCTN7jnDN67eH_eWfEPEHlKzoVifdQPxYds16aN88EFX7u-peeEF_S7CERRhhAqigI1CUwDfE0IJ1WbTVQBc1VTJU0VtLkqqJI6B685I7QqGuakKev1Npk0WZMnLMyhqgAoK0CS1G9FTTL2A_8tiKII1fkkiMpclURNE8FLT09vcLc8SoI610RFERRZEqEGFQl82nmOfvw1-_J8Zv3t7fXxEKxmBxXMgvac5LN1kxZNwdnsIdjPrIJO8ZX1M5PURZPNdsvZkpzYLHkftC8u7BiT22lWk-GYtG3F-mPOiiznx7r-EWbd-VixJuP5e9Kdzse07etjShLe9rPTuevanjN6rFuesz5uSU9_Nk4_KT2hBXnPvmTde1e_uOmlLuirrCrS1P4cKupUjzCV9NJd-D3PPp_PFfv3nlX38-meV3fW_NWS7pIm__32-6q96svTdemirsO6B_xw_kz2lW7tjSYx8RoBj2-xvbFLV8JmtHRhvotQhON9N1IwCMiwnTDUbmisdnEoX6wSiSTkq8iw-MTCAK1Hb5-vg9qVAyNCTmjUfpMMbpObQeNZ0bjwoxpfAjAvmKlx1KxBACOdNRhQwFOKNgqt0Wg3FUBmJxEf3KJq4wRPiyGovEMCM3EPXTjtvWChdPNG6ruA-wTQLi4PMoa5tw0ymT3aOAryfovz1Ef0FJe2Yj1Vuocx8kALsZnrcdUtiEDxQfTSpB4stmrBfjyM7GlBAn3xcRt2Vwt3OTEWboQN8VDajrOPXA9QCa_sOqq8NCjlwQfccUx5sIRSxqYLov0mtEuaOvuqspAts2AFMYispLT5IcCDrXttArBpQ5sn8Hr1V5ut_Wi4MdrUbmU4ziM-xKExOmZOcMiluNxgR_dcDAQjqCzfGB9GakY5DUsYIL4Kw5JHwuIS1fJui1dXs9gsvEf75oRRgMr1ED8dxCB4AKSy87iqTM_AZxQOOTIodJDcfB5OffoGHgyZ-46s-pcHjqjqAuTuqb6-Ge3zddsLx_H6h6BqkiJBWVCmX_wfWOBrgQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=h_anIHicbZJLjttGFEWBrCG7EAwUi19l1hJFtmSRFD9VlDgRiqzip_ltqiRRhPeQPajtAPawHSDTbKOzmrA98sCTN7jnDN67eH_eWfEPEHlKzoVifdQPxYds16aN88EFX7u-peeEF_S7CERRhhAqigI1CUwDfE0IJ1WbTVQBc1VTJU0VtLkqqJI6B685I7QqGuakKev1Npk0WZMnLMyhqgAoK0CS1G9FTTL2A_8tiKII1fkkiMpclURNE8FLT09vcLc8SoI610RFERRZEqEGFQl82nmOfvw1-_J8Zv3t7fXxEKxmBxXMgvac5LN1kxZNwdnsIdjPrIJO8ZX1M5PURZPNdsvZkpzYLHkftC8u7BiT22lWk-GYtG3F-mPOiiznx7r-EWbd-VixJuP5e9Kdzse07etjShLe9rPTuevanjN6rFuesz5uSU9_Nk4_KT2hBXnPvmTde1e_uOmlLuirrCrS1P4cKupUjzCV9NJd-D3PPp_PFfv3nlX38-meV3fW_NWS7pIm__32-6q96svTdemirsO6B_xw_kz2lW7tjSYx8RoBj2-xvbFLV8JmtHRhvotQhON9N1IwCMiwnTDUbmisdnEoX6wSiSTkq8iw-MTCAK1Hb5-vg9qVAyNCTmjUfpMMbpObQeNZ0bjwoxpfAjAvmKlx1KxBACOdNRhQwFOKNgqt0Wg3FUBmJxEf3KJq4wRPiyGovEMCM3EPXTjtvWChdPNG6ruA-wTQLi4PMoa5tw0ymT3aOAryfovz1Ef0FJe2Yj1Vuocx8kALsZnrcdUtiEDxQfTSpB4stmrBfjyM7GlBAn3xcRt2Vwt3OTEWboQN8VDajrOPXA9QCa_sOqq8NCjlwQfccUx5sIRSxqYLov0mtEuaOvuqspAts2AFMYispLT5IcCDrXttArBpQ5sn8Hr1V5ut_Wi4MdrUbmU4ziM-xKExOmZOcMiluNxgR_dcDAQjqCzfGB9GakY5DUsYIL4Kw5JHwuIS1fJui1dXs9gsvEf75oRRgMr1ED8dxCB4AKSy87iqTM_AZxQOOTIodJDcfB5OffoGHgyZ-46s-pcHjqjqAuTuqb6-Ge3zddsLx_H6h6BqkiJBWVCmX_wfWOBrgQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEEOl06vPDGMCs3hXLw66ASM.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "HYTE Y70 Touch Infinite ATX Mid-Tower Case",
+      "rating": 5.0,
+      "reviews": 6,
+      "price": "$399.99",
+      "extracted_price": 399.99,
+      "immersive_product_page_token": "Hw9YU3icbZJLjttGEIaR8xAGmo-mxOxGEimOMmqJr26xN0SLzZfUfAxFSpSQO-QKgcYOYC_HBrLNNSYnyTIcrwwkVUAtvr8K-KtQv92T4k-gdinrC339yyIsPmTbOq02HxzwuWlr3sddwb_JU6BPANBlaKiGASHUgfI5Zh0TdVbwVwgNQzc0Q9WgNkpTCF7zhHFRVMkmTZN2UccF_yqP82MasgYn-hiyOvlSlCxLvsvfZKhPFF2bGLo6NQCUDahNXlp-egPbeaQpqgamI9XliaKOHuRft-5mEf2v9Om5T9rr26sd-qYUToDk132cS49VWlRFl0gP_k5aF3zEl6SVlqwsqkzazqU5OyVS_F54W5yTaM-uJ6lkQxTXtUjaKE-KLO-isvwOs6aPRFJlXf5OmlMfpXVbRimLu7qVTn3T1G2X8Kisuzxp9zVr-Y8dpx9aWsYL9s4-Zc14itf_rvRSFvz3l-bc3fPsY9-L5K97Ju796Z6Le1L9UbPmnMZ___SPeY7n8zaeO0HT4IULvDIeKBhMeqSQLLBNTFgFZEgxFts9aQg9NkpsY7ZWxIoErk_KFdypjoYP7mFD4ODimf60E1e0tBApqYZxDvzD-saVZgjlBu-AS90lL5lsYbpEqqc615DIRbKzQuSj54C4s73ieg6xIF52Cy9AXmzSCpf46uz4KTFXMCSZ4oJaRdiy42B49oCrMaVxHWxdsU-PLhFFTAyVLcQjFUhFgbX17eOAhOWQoIa4ehh4iZr94WHwVESTinYO6QQzZW2zxEoo09vacq29HdzYja72Nj1QeWbty-HCALo5co6e8Gwe3PhTvEMsrjBC5FF1SsNaH_PeCfILPohlCOjSF7NTbOZ0788OtGoGpORXt8Jnjt0yHGf9pWg4cBtv93ilRLsgU6y44GLtyakjaI2I6zEy9azbw40vac7JUfGDziTk2I2ezrSE2ydsXpbFauba6LohNMAkVrknX_FtrRJzCMkut7Fw7bgEyvrmUryzqo_DqU3fwIMFO2-jeVmOppECAosZ67LoA_bUk0tvK4vLz_JkqumaMv6WDuG_snNflw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Hw9YU3icbZJLjttGEIaR8xAGmo-mxOxGEimOMmqJr26xN0SLzZfUfAxFSpSQO-QKgcYOYC_HBrLNNSYnyTIcrwwkVUAtvr8K-KtQv92T4k-gdinrC339yyIsPmTbOq02HxzwuWlr3sddwb_JU6BPANBlaKiGASHUgfI5Zh0TdVbwVwgNQzc0Q9WgNkpTCF7zhHFRVMkmTZN2UccF_yqP82MasgYn-hiyOvlSlCxLvsvfZKhPFF2bGLo6NQCUDahNXlp-egPbeaQpqgamI9XliaKOHuRft-5mEf2v9Om5T9rr26sd-qYUToDk132cS49VWlRFl0gP_k5aF3zEl6SVlqwsqkzazqU5OyVS_F54W5yTaM-uJ6lkQxTXtUjaKE-KLO-isvwOs6aPRFJlXf5OmlMfpXVbRimLu7qVTn3T1G2X8Kisuzxp9zVr-Y8dpx9aWsYL9s4-Zc14itf_rvRSFvz3l-bc3fPsY9-L5K97Ju796Z6Le1L9UbPmnMZ___SPeY7n8zaeO0HT4IULvDIeKBhMeqSQLLBNTFgFZEgxFts9aQg9NkpsY7ZWxIoErk_KFdypjoYP7mFD4ODimf60E1e0tBApqYZxDvzD-saVZgjlBu-AS90lL5lsYbpEqqc615DIRbKzQuSj54C4s73ieg6xIF52Cy9AXmzSCpf46uz4KTFXMCSZ4oJaRdiy42B49oCrMaVxHWxdsU-PLhFFTAyVLcQjFUhFgbX17eOAhOWQoIa4ehh4iZr94WHwVESTinYO6QQzZW2zxEoo09vacq29HdzYja72Nj1QeWbty-HCALo5co6e8Gwe3PhTvEMsrjBC5FF1SsNaH_PeCfILPohlCOjSF7NTbOZ0788OtGoGpORXt8Jnjt0yHGf9pWg4cBtv93ilRLsgU6y44GLtyakjaI2I6zEy9azbw40vac7JUfGDziTk2I2ezrSE2ydsXpbFauba6LohNMAkVrknX_FtrRJzCMkut7Fw7bgEyvrmUryzqo_DqU3fwIMFO2-jeVmOppECAosZ67LoA_bUk0tvK4vLz_JkqumaMv6WDuG_snNflw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEKtuNfIwuoCYTC428Mh21vU.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEEhNyfd2edowBYfR8bVsR1GgMkWfJfNte9d6LcDLLjAq.png",
+      "source": "Quiet PC",
+      "title": "HYTE Y70 Touch Infinite ATX Chassis",
+      "rating": 4.7,
+      "reviews": 139,
+      "price": "$382.10",
+      "extracted_price": 382.1,
+      "immersive_product_page_token": "ZEJHVHicdZPLbuM2FIaBPkPfwhiA1M1Sd4ktyXEi2aJE0tLGoEXdrGt0iRxh3qHv4MwUmFlmBui2r5E-TZXpZoCiG4L8_g88hwTO79co-xOIfcyGTLHu1372IdnXcbX74IAvTVvzIewz_k1TNKguoSJLKlgCCFQofglZz4o6yfh3qAgaVEQNQEGGs6UpsvyaRowXWRXt4jhq13X47s25oMiatISaCGRFEyXwNStZEv3Iv8nKEmhAASLQJGk5n6D80vLuTdqvjnONGQNBkUQoqECBIgAf92i3Pv5P-PlxiNrnt9eN7-kLfwkWXj2E6eKuirMq66PFjXdYWBmf8Ri1C5OVWZUs9qvFinXRInxfeJs9RccTe-4WJbscw7ouovaYRlmS9sey_AGTZjgWUZX06TtpuuEY1215jFnY1-2iG5qmbvuIH8u6T6P2VLOW_2x0Pykt4xl7Z5-TJvz3V__zqJcy46_yUpEUQZWXoqpq2rwDL81Tf02TT8NQRH9dk-I6dNe0uEbVHzVrnuLw719-1etxverGlYObhqwRcIWm8DyOXIwEds4vtpFugtKYQqh1ITFGe7OND9D2uLhdEao9ogo1RAA9NfsHIqA8zAPZ8cgF50Ua5ePk59sz0-crD0V88gIjPHCRn-3iALZ5YDqQ63ejXRGPTIHCp-J-Z_Z7UhipLRYNEjrZwr1jnxPg0Qbu6NblE9IRzMdQ70SP-NIDMQSXdoAJly2hxr2L8YjPRRroQcOEAEemD8KSrFwTGg6ZFarJpxJmltnTE_YvgadPPiweo7wZOHAEB6uyM_cSrXUxrIzSIpq-29xdLJE_-t5N7xXa2j4kAp6Ms4eNJ4fClecRy9VTEeXavQubR9tDNcHg4njJ5NC025mkokZw4Gt0b9G098u5F8qbkKoS11HJTC5ah21FTeQzzAny7Ph0Rn5YNqVXEZFM6dau0sABAUAHXcBlX7jnYH0yUsqL0DWmm4mbQcppLni41ynN-wDePgWlvH8g-mhm21u0sZ93NHAxQGZgFBY68BFRjglG5m59J2EM4x3lAdP57adL18Zv4MaQe3cnuUlqq0cBYINpVpkNmD0MdBw2wnr8DS5VSZHm6Vbm0f4HYTxsmg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZEJHVHicdZPLbuM2FIaBPkPfwhiA1M1Sd4ktyXEi2aJE0tLGoEXdrGt0iRxh3qHv4MwUmFlmBui2r5E-TZXpZoCiG4L8_g88hwTO79co-xOIfcyGTLHu1372IdnXcbX74IAvTVvzIewz_k1TNKguoSJLKlgCCFQofglZz4o6yfh3qAgaVEQNQEGGs6UpsvyaRowXWRXt4jhq13X47s25oMiatISaCGRFEyXwNStZEv3Iv8nKEmhAASLQJGk5n6D80vLuTdqvjnONGQNBkUQoqECBIgAf92i3Pv5P-PlxiNrnt9eN7-kLfwkWXj2E6eKuirMq66PFjXdYWBmf8Ri1C5OVWZUs9qvFinXRInxfeJs9RccTe-4WJbscw7ouovaYRlmS9sey_AGTZjgWUZX06TtpuuEY1215jFnY1-2iG5qmbvuIH8u6T6P2VLOW_2x0Pykt4xl7Z5-TJvz3V__zqJcy46_yUpEUQZWXoqpq2rwDL81Tf02TT8NQRH9dk-I6dNe0uEbVHzVrnuLw719-1etxverGlYObhqwRcIWm8DyOXIwEds4vtpFugtKYQqh1ITFGe7OND9D2uLhdEao9ogo1RAA9NfsHIqA8zAPZ8cgF50Ua5ePk59sz0-crD0V88gIjPHCRn-3iALZ5YDqQ63ejXRGPTIHCp-J-Z_Z7UhipLRYNEjrZwr1jnxPg0Qbu6NblE9IRzMdQ70SP-NIDMQSXdoAJly2hxr2L8YjPRRroQcOEAEemD8KSrFwTGg6ZFarJpxJmltnTE_YvgadPPiweo7wZOHAEB6uyM_cSrXUxrIzSIpq-29xdLJE_-t5N7xXa2j4kAp6Ms4eNJ4fClecRy9VTEeXavQubR9tDNcHg4njJ5NC025mkokZw4Gt0b9G098u5F8qbkKoS11HJTC5ah21FTeQzzAny7Ph0Rn5YNqVXEZFM6dau0sABAUAHXcBlX7jnYH0yUsqL0DWmm4mbQcppLni41ynN-wDePgWlvH8g-mhm21u0sZ93NHAxQGZgFBY68BFRjglG5m59J2EM4x3lAdP57adL18Zv4MaQe3cnuUlqq0cBYINpVpkNmD0MdBw2wnr8DS5VSZHm6Vbm0f4HYTxsmg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEO6eXs5q0X2A7yCO_2f60xw.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "HYTE Y70 Mid-Tower ATX Case",
+      "rating": 4.9,
+      "reviews": 185,
+      "price": "$205.99",
+      "extracted_price": 205.99,
+      "original_price": "$220",
+      "extracted_original_price": 220,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "6% OFF"
+      ],
+      "immersive_product_page_token": "QqBoh3icbZNLbuNGEIaBnCG3IAZgN9_Z2RJJmTab4qPZJDcCxebLaj7MhygJuUPuIM8EmCw9AbLNNZzTRJ7VLGZTi-__q4D6UfXHNa__4YWpSOdath_Xcf2p3HZF63xy-a_90NE5m2r6TQKCwItQEFVFFlRJ02Tpa5ZOKevKmwoEWQMKryiSIvA8ryoa_1blKWV1mztFkQ_rLqvp30BSZFmSFahAIMqyIt7a_qqbtMy_6980RVNv8yGvAgglUQZAeh3o-A63qx2AoiQpqiyrUJCByiua-PvWc9a7n2tfXuZ8OL-_beJA52KF54JuziruoS3qtp5y7i6IOLumN7zkA2emTd2W3HbFrdIx57KPQof6mO_26XnkmvS0y7qO5cOuyuuymnZN8x2W_bxjeVtO1Qfpx3lXdEOzK9Js6gZunPu-G6ac7ppuqvJh36UD_dEx_mAZUlqnH-xL2X9k8ZOdXpuavt0iFGWoCqKgqKIIAa-89sfpWpWf55nl_15Ldp3Ha8Wueftnl_bHIvvvl1_1blmvxmXl4r4P1x7vAzQgjGrCNI8KlpQY7Jjr1HHMhSfECFx84IkpnWmIT0joxKABJAD2OcQhCCL6gmBiIBM9-SZeQpzxLgwThMMj2liRvUZDaLATwWGd4KmnhmHHl6S2Te8Q8ejFhR6OoA1ckPjYBwkJqGjzDxIyy0uIq22iT25qhjEC_RhCY9gHJUjN_kifk0eXuWL87Hk-oSgBVUKaEyNm-JKaJ4nqhuTyRodNEMURM2LorTzmicHGw_aGghhbMCQIBy3msYlGD2gbunahs753EKmeEgLswLBw2gDXJ-LlifQvPtEXFxpHN_KeKGEWMb3HuLEkj6AJA-uYrcASbAw9w9ohulg-YmhND2EcRN6M9ZD50Ascs7v4hgbsNhl8HRxiwpY8MkYXnuTcrPTgkohOaLV7cI_2zDJ9GDJquEtOPDdvJCnbsK3XPvjG5e5CzaSi5AADPOmEHKYE3B-TRto-hfpi1ta9t0FnhyT4pvc-tBp0y8Ij4cHGrPDYfR8fFpBBNu5ZInw-jUPxzt8Z0uQ7iroP4UJDna6KMxYDc-pm-tw_1utn9zdwuzRZhBK4Pa_wP3ibaNo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=QqBoh3icbZNLbuNGEIaBnCG3IAZgN9_Z2RJJmTab4qPZJDcCxebLaj7MhygJuUPuIM8EmCw9AbLNNZzTRJ7VLGZTi-__q4D6UfXHNa__4YWpSOdath_Xcf2p3HZF63xy-a_90NE5m2r6TQKCwItQEFVFFlRJ02Tpa5ZOKevKmwoEWQMKryiSIvA8ryoa_1blKWV1mztFkQ_rLqvp30BSZFmSFahAIMqyIt7a_qqbtMy_6980RVNv8yGvAgglUQZAeh3o-A63qx2AoiQpqiyrUJCByiua-PvWc9a7n2tfXuZ8OL-_beJA52KF54JuziruoS3qtp5y7i6IOLumN7zkA2emTd2W3HbFrdIx57KPQof6mO_26XnkmvS0y7qO5cOuyuuymnZN8x2W_bxjeVtO1Qfpx3lXdEOzK9Js6gZunPu-G6ac7ppuqvJh36UD_dEx_mAZUlqnH-xL2X9k8ZOdXpuavt0iFGWoCqKgqKIIAa-89sfpWpWf55nl_15Ldp3Ha8Wueftnl_bHIvvvl1_1blmvxmXl4r4P1x7vAzQgjGrCNI8KlpQY7Jjr1HHMhSfECFx84IkpnWmIT0joxKABJAD2OcQhCCL6gmBiIBM9-SZeQpzxLgwThMMj2liRvUZDaLATwWGd4KmnhmHHl6S2Te8Q8ejFhR6OoA1ckPjYBwkJqGjzDxIyy0uIq22iT25qhjEC_RhCY9gHJUjN_kifk0eXuWL87Hk-oSgBVUKaEyNm-JKaJ4nqhuTyRodNEMURM2LorTzmicHGw_aGghhbMCQIBy3msYlGD2gbunahs753EKmeEgLswLBw2gDXJ-LlifQvPtEXFxpHN_KeKGEWMb3HuLEkj6AJA-uYrcASbAw9w9ohulg-YmhND2EcRN6M9ZD50Ascs7v4hgbsNhl8HRxiwpY8MkYXnuTcrPTgkohOaLV7cI_2zDJ9GDJquEtOPDdvJCnbsK3XPvjG5e5CzaSi5AADPOmEHKYE3B-TRto-hfpi1ta9t0FnhyT4pvc-tBp0y8Ij4cHGrPDYfR8fFpBBNu5ZInw-jUPxzt8Z0uQ7iroP4UJDna6KMxYDc-pm-tw_1utn9zdwuzRZhBK4Pa_wP3ibaNo"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEPpjv-H1DSTVth-FqE66ZqA.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEFUteHSv0H6cDsTa6E_tXCosBlvop_SyhIKfhRUwauzP.png",
+      "source": "Newegg.com",
+      "title": "HYTE Y70 ATX Mid-Tower Case",
+      "rating": 4.9,
+      "reviews": 185,
+      "price": "$201.99",
+      "extracted_price": 201.99,
+      "original_price": "$220",
+      "extracted_original_price": 220,
+      "delivery": "Free delivery",
+      "extensions": [
+        "8% OFF"
+      ],
+      "immersive_product_page_token": "vG__rnicbZDLjqNGGIWV50EjVRVVYLJrX8CmDdhAFTYbVAYMNMWlubS70bxDXiFyz0SaLDuRss1rdJ4ky7hnNYv8i3_xfUdncX65psVfQB7OfCwU6355LD5lu-ZcO5_24FvbNckYD0XyJ1RlWb0dAApUFTSDClG-xXzgosk-tIwJhljVFKKpBMAZ0LS3POWJKOrUOZ_TbtnERfKHBjFS8UxBKsIzoBIi49-Limfpd_0GAQH4Vq5hgAmUVaC9dkn_jnaLCCJMiDpTlBmSlVu_quHPO9dZRv_vvj6Oaffy_rY--ivpqALJb8Y4lzb1uaiLIZXu_INkFckNX9JOMnhV1Jm0W0gL3qdS_PGSrnhKoxN_6aWKP0dx04i0i_K0yPIhqqrvMGvHSKR1NuQfpO3H6Nx0VXTm8dB0Uj-2bdMNaRJVzZCn3anhXfJjov8h0vGk4B_sa9bGH4uSGQIqlm97zlSkyBhB9bUqkl9f26fhmmdfxlGkf18zcR37ay6uaf1bw9unc_zPT_-unuLFoosXe9q2bOkCj4nep_GzrduGv9bFqSzJMRjs1IP3lOkwqeKLLzThwvAxrG3TYto9L82tTd2Nd9D3rHZ5WAJiLbPBZkzQtb4KPdhRaFpHpD3GAAA_sLElC4OvRWjd8ltKpnASRUy13K0Yd9hG9gNNdw7zwAm0yfETyqEl80k8-mJD2IPwWa1f9sI1YiMmtGzPSen2njz3LajjRDdbx9AOHtV2bLJNj2m277sgWdm9V4qtfwhLhtw9n3IrWIDJZhtsr9u9G-jMk3MvDcizWwklBhinTBvTlbDiyYXHymQJyiafhYaHzIe4PMonPX-kdc6ZnDsMseZ0aCcXkS07NIhVprmHc-7pdpeu5ybVmeHT5OjJQqcwp_aD-XBEMLAr4tqHpLOQuT_V-iI0WhgH0HADsQk9gO3VytOnuykxwjwJSuTTYRUE5RDC-VNYkd2WrS5GYc7dtf3iBKFv6W5-pG11Ouxli-bbLX0OHN31w1XixSy8bKlwvzz33fkd3Olk8BzsZbk9ixCgOtesqhgp347BZVyj5eVnqM6wghGBikLIfykrXHM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vG__rnicbZDLjqNGGIWV50EjVRVVYLJrX8CmDdhAFTYbVAYMNMWlubS70bxDXiFyz0SaLDuRss1rdJ4ky7hnNYv8i3_xfUdncX65psVfQB7OfCwU6355LD5lu-ZcO5_24FvbNckYD0XyJ1RlWb0dAApUFTSDClG-xXzgosk-tIwJhljVFKKpBMAZ0LS3POWJKOrUOZ_TbtnERfKHBjFS8UxBKsIzoBIi49-Limfpd_0GAQH4Vq5hgAmUVaC9dkn_jnaLCCJMiDpTlBmSlVu_quHPO9dZRv_vvj6Oaffy_rY--ivpqALJb8Y4lzb1uaiLIZXu_INkFckNX9JOMnhV1Jm0W0gL3qdS_PGSrnhKoxN_6aWKP0dx04i0i_K0yPIhqqrvMGvHSKR1NuQfpO3H6Nx0VXTm8dB0Uj-2bdMNaRJVzZCn3anhXfJjov8h0vGk4B_sa9bGH4uSGQIqlm97zlSkyBhB9bUqkl9f26fhmmdfxlGkf18zcR37ay6uaf1bw9unc_zPT_-unuLFoosXe9q2bOkCj4nep_GzrduGv9bFqSzJMRjs1IP3lOkwqeKLLzThwvAxrG3TYto9L82tTd2Nd9D3rHZ5WAJiLbPBZkzQtb4KPdhRaFpHpD3GAAA_sLElC4OvRWjd8ltKpnASRUy13K0Yd9hG9gNNdw7zwAm0yfETyqEl80k8-mJD2IPwWa1f9sI1YiMmtGzPSen2njz3LajjRDdbx9AOHtV2bLJNj2m277sgWdm9V4qtfwhLhtw9n3IrWIDJZhtsr9u9G-jMk3MvDcizWwklBhinTBvTlbDiyYXHymQJyiafhYaHzIe4PMonPX-kdc6ZnDsMseZ0aCcXkS07NIhVprmHc-7pdpeu5ybVmeHT5OjJQqcwp_aD-XBEMLAr4tqHpLOQuT_V-iI0WhgH0HADsQk9gO3VytOnuykxwjwJSuTTYRUE5RDC-VNYkd2WrS5GYc7dtf3iBKFv6W5-pG11Ouxli-bbLX0OHN31w1XixSy8bKlwvzz33fkd3Olk8BzsZbk9ixCgOtesqhgp347BZVyj5eVnqM6wghGBikLIfykrXHM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEFFTgpCBvYQ5wI7v53er4F4.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEF_KzLz0Whl994QomlNZZ7z4-CEMqgnb3b8y5MRRlQyt.png",
+      "source": "HYTE",
+      "title": "Y70 Touch Infinite - Our New PC Case with LCD Screen - Black Cherry",
+      "rating": 4.7,
+      "reviews": 38,
+      "price": "$399.99",
+      "extracted_price": 399.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "e_HVgnicbZLLjptIFIY1z4MiUWBsM7vGgN2eNpiCogwbVK4qLk1xaS7GtuYd5hUiJxkps0wizXZeo0fzMOPOKots_sX3f-csjs4fN178LatDSsZivvvNjIp32b5Ja_edJ39uu4aNdCjYV6Ar6nK2nM2Api91GehA_UzJQESTFez9l5wTJoqau2nKO7OhP5_4q6hIxr_X34CszJeKpmlAW-pA1nQwVz90rH9V9qtkvlB1RV_MwPKugIWqzpa_76FrJj_vPr2MvLu8ftlEgSVFC1kKmpHm0mOdFnUxcOkhOEi7gt3xxDtpTaqizqT9SlqRnkv0LVhXnHhyJJdeqsg5oU0jeJfkvMjyIamq7zBrx0TwOhvyN9L2Y5I2XZWkhA5NJ_Vj2zbdwFlSNUPOu2NDOvaj0f-gdIQV5I19ytr7Md5_qN6iPQ23PPs4joL_c8vEbexvubjx-s-GtKeU_vvLf9b4uFq9PK481LahCWX_apeBLCYebE3X3D4GZrwmNT07AcSwdNKdbMncZBFDtoef4zpCAAdXe_JKreGhsI7WpAaYzpBoMVLhsxdGl13NIKqZ4lVtTu1Gue_0HeFc0cGJOWLEf4ZKFFIlrB3hbzzA1wNGpX71wtxlG9h6Quy43V48wYbdsw1IbagQWWcaPAAeMtvZ2GEY5NcgyCNkDeeDasCD2vZeqM_jgz0cgA2jCgSodgxuRQoWhsarSDta8hVZcIprT2Z2HO_AneGzyyy4QXgocSWKAIWVJ7ZedHUMVvbKEwIgRqzDWAhuiemoOE0s2txX8w4hOkFLw9CMW6LargPil7ACpX-ADl0zz6_al2PghK697UNZF3wDCZXbntrCQMDy7evDla3jnOFSCdBgYVwOMTBOcaXtn0JrWhdbA26ci4vjgFq6e6xsY1eGiCq6iqz8hMvtCEU8ILSNUejUH899l77KD7Y2-O7Mz3JnmSgysom-q4oRkacRT-NGMadfwWI5m8_uzz-fa9r_-pxPIA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e_HVgnicbZLLjptIFIY1z4MiUWBsM7vGgN2eNpiCogwbVK4qLk1xaS7GtuYd5hUiJxkps0wizXZeo0fzMOPOKots_sX3f-csjs4fN178LatDSsZivvvNjIp32b5Ja_edJ39uu4aNdCjYV6Ar6nK2nM2Api91GehA_UzJQESTFez9l5wTJoqau2nKO7OhP5_4q6hIxr_X34CszJeKpmlAW-pA1nQwVz90rH9V9qtkvlB1RV_MwPKugIWqzpa_76FrJj_vPr2MvLu8ftlEgSVFC1kKmpHm0mOdFnUxcOkhOEi7gt3xxDtpTaqizqT9SlqRnkv0LVhXnHhyJJdeqsg5oU0jeJfkvMjyIamq7zBrx0TwOhvyN9L2Y5I2XZWkhA5NJ_Vj2zbdwFlSNUPOu2NDOvaj0f-gdIQV5I19ytr7Md5_qN6iPQ23PPs4joL_c8vEbexvubjx-s-GtKeU_vvLf9b4uFq9PK481LahCWX_apeBLCYebE3X3D4GZrwmNT07AcSwdNKdbMncZBFDtoef4zpCAAdXe_JKreGhsI7WpAaYzpBoMVLhsxdGl13NIKqZ4lVtTu1Gue_0HeFc0cGJOWLEf4ZKFFIlrB3hbzzA1wNGpX71wtxlG9h6Quy43V48wYbdsw1IbagQWWcaPAAeMtvZ2GEY5NcgyCNkDeeDasCD2vZeqM_jgz0cgA2jCgSodgxuRQoWhsarSDta8hVZcIprT2Z2HO_AneGzyyy4QXgocSWKAIWVJ7ZedHUMVvbKEwIgRqzDWAhuiemoOE0s2txX8w4hOkFLw9CMW6LargPil7ACpX-ADl0zz6_al2PghK697UNZF3wDCZXbntrCQMDy7evDla3jnOFSCdBgYVwOMTBOcaXtn0JrWhdbA26ci4vjgFq6e6xsY1eGiCq6iqz8hMvtCEU8ILSNUejUH899l77KD7Y2-O7Mz3JnmSgysom-q4oRkacRT-NGMadfwWI5m8_uzz-fa9r_-pxPIA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEJ5qUbmNeVXflZjbV5lIzHo.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEDPtLyoIRPk5cbv2uDsLMTdEY19bkUUc1C_kHgsJJr5m.png",
+      "source": "Paradox Customs",
+      "title": "HYTE Y70 Touch Dual Chamber Mid-Tower ATX Case",
+      "rating": 4.4,
+      "reviews": 10,
+      "price": "$480.00",
+      "extracted_price": 480.0,
+      "original_price": "Usually $551",
+      "extracted_original_price": 551,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "0l_c_nicbZDLjqNGFIaV50EjVRVg7OxsA3a7Tbm5Q21QmSoDzbWh8E3zDnmFyD0TabKcWcw2r9F5kizjTjazmM1ZfN-v8-uc3268-A5kcaBjMbEe9bj4kD21h2b3wQZfur5lYyoK9k3WZEWdygpAE3UClKkmq19SKmjVZnc7kdUpVCGcaQjIMprNwOxrzimriobvDgfe6216jyFthhAACGlwpiKI0BT9WdQ04_9rdYKmUwUCAMF91exepL32bHhDT8tEmcB7gwplpCgq0KYaRB-fnJ2e_Nx9fhl5f3n7uo49Q4o1IHntmObSQ3MomkJwae5FklWwOz7xXlrRumgy6WkpLenApfR9sL448mRPL4NU03OStm3F-yTnRZaLpK7_g1k3JhVvMpG_k24Yk0Pb18mBpqLtpWHsurYXnCV1K3Le71vasx8Tww-RnrKCvrPPWff-i5_c9FoX7PfX7ihuefZpHCv-1y2rbuNwy6sbb_5oaXc8pH__8o9xTJfLPl3aftcFugPcazD4BvTiMMh5YK72lTPSCj-wZxbFIS7oSrgpgAgjOPi-2eCIYOLncQQrA682K3atDtiAWxxhNQamtS-JvIuqjqzsK6u64x45sVWyYhvllV9acqAT1fEWj_ZzjLgBa1KKFwItwZqNHerm0S_VK3XhLghnW2yIbdyUIAbqQ1wGFkPBmYaVFVbdmhsBStHGsqMq3nq48VEGqJ_j2DeDuGQXq1lMqEcct2LPRDcX4bo8x-Umdy8w3EbsJW7mwjXxOfDsk2VAk0Bb7EI87Ne2gsNKeKUCqbzYBHp8Dg1fTiunDoMFJsDchmV3SkMDOM8mIVcSpSWMnJL0LhCj-8wKr-xKqtswDU2aBvl1X-GAGFhnoX_GTfDoGwx5pem6YIaIPge8Vmvfxw124UOAOpvUqWte51e2IjkLS-T5wgjDUhC4OJJafdoGxmlVbBbOGl92IfH3MBidAlJLZqO1tlGA8NFqbLGvoc9DVbUbc_HpPPSHNzA3VeHuVM09zoXPNBv4dsT0h4vZvpy2PUyup1-hNlUmClLhZKIq_wLJ6F6X",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0l_c_nicbZDLjqNGFIaV50EjVRVg7OxsA3a7Tbm5Q21QmSoDzbWh8E3zDnmFyD0TabKcWcw2r9F5kizjTjazmM1ZfN-v8-uc3268-A5kcaBjMbEe9bj4kD21h2b3wQZfur5lYyoK9k3WZEWdygpAE3UClKkmq19SKmjVZnc7kdUpVCGcaQjIMprNwOxrzimriobvDgfe6216jyFthhAACGlwpiKI0BT9WdQ04_9rdYKmUwUCAMF91exepL32bHhDT8tEmcB7gwplpCgq0KYaRB-fnJ2e_Nx9fhl5f3n7uo49Q4o1IHntmObSQ3MomkJwae5FklWwOz7xXlrRumgy6WkpLenApfR9sL448mRPL4NU03OStm3F-yTnRZaLpK7_g1k3JhVvMpG_k24Yk0Pb18mBpqLtpWHsurYXnCV1K3Le71vasx8Tww-RnrKCvrPPWff-i5_c9FoX7PfX7ihuefZpHCv-1y2rbuNwy6sbb_5oaXc8pH__8o9xTJfLPl3aftcFugPcazD4BvTiMMh5YK72lTPSCj-wZxbFIS7oSrgpgAgjOPi-2eCIYOLncQQrA682K3atDtiAWxxhNQamtS-JvIuqjqzsK6u64x45sVWyYhvllV9acqAT1fEWj_ZzjLgBa1KKFwItwZqNHerm0S_VK3XhLghnW2yIbdyUIAbqQ1wGFkPBmYaVFVbdmhsBStHGsqMq3nq48VEGqJ_j2DeDuGQXq1lMqEcct2LPRDcX4bo8x-Umdy8w3EbsJW7mwjXxOfDsk2VAk0Bb7EI87Ne2gsNKeKUCqbzYBHp8Dg1fTiunDoMFJsDchmV3SkMDOM8mIVcSpSWMnJL0LhCj-8wKr-xKqtswDU2aBvl1X-GAGFhnoX_GTfDoGwx5pem6YIaIPge8Vmvfxw124UOAOpvUqWte51e2IjkLS-T5wgjDUhC4OJJafdoGxmlVbBbOGl92IfH3MBidAlJLZqO1tlGA8NFqbLGvoc9DVbUbc_HpPPSHNzA3VeHuVM09zoXPNBv4dsT0h4vZvpy2PUyup1-hNlUmClLhZKIq_wLJ6F6X"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEHlgxfDkUfGFMLO3vLj1pZY.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/WugKCaRWloFC2zbHFCbOEIvbIVoMvMrnT6fekzXcJVitdQgUx8hQAiHURot65_8e.png",
+      "source": "HYTE",
+      "title": "Y70 - Our New ATX PC Case - Black Cherry",
+      "rating": 4.9,
+      "reviews": 179,
+      "price": "$219.99",
+      "extracted_price": 219.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "tF4smnicdZDJrptIFIbVz4MiFaPt3tlmsLk2mIKigA0CqhjCeBk8oLxDv0LkJC2ll-mWetuvcVt5mPhmlUWy-Rff_59zdP4_7rT4F_BjGk2FdHyS_eJNdmrTxnxjgc9d35IpGQvyD8uCFRBYwK4kwC5YIK548XMSjVHVZgV5_yWnEamKhpppSnu5TX4x8ldRRxn97v_NLpeSJCxXS8ADwHGSwIsfejK8cKdtyHKCKC4e_pLjJXYJFivh3Qmacvhz79PzRPvby5ed7yiMvwCM005JzuybtGiKkTJrx2OOBXngC-0ZLaqLJmNOW2YbDZRJXoX0xZmGcXQbmDq6hknbVrQPc1pk-RjW9XeYdVNY0SYb81fSDVOYtn0dplEytj0zTF3X9iMlYd2OOe3jNurJj4nhh0gfkSJ6ZZ-y7tHF-w_1q3Tn8Z5nH6epov_ds-o-Dfe8utPmzzbqzmny_29flWm_3T7vtxbqOleGwOauNXYCDfLdIa5JZM95A0t9oDv94mi574Lh5iORT2ZVM7Ba4ibg490mhZxq-IjUCLGSB1aDz2dz_JaYSNNNVFkCVfTcxW6VePnRBiK0ysAItAtvlNcTxWphK_BiqmTvavkUK8OcqK4e4M4lXn6OHAIhX4IDhn1QwsbcubozB28DXk_t0u0ir2SPO9X38cBaTq456lKIleMMkdqZOJdiLechco9QVj2EB84BxhWWnWIgw01UHbs7dTYwUQ44cCAOUqshneFVAN7YDZWDp8f_zbHRnwJZt2ygC0hhq0c3eweNA_W6xsaVac36wQdGF6uIs92VHCuVaPAbw9g9bnlQjmeoH0FVRoqhWlzCJztdh6i7kTLoTTV4Ikix1Xk9Ey3ICS65x24F43IM2M05qMXTwVUuWqFv4M64mTiwI7RqCNI9JK85mw8aXFbPuM43CI8lurHw0SX_8Tr06QtYq-Jom-LCPq9HRBYWQJZH5P1NbZ8vh54N58vv7GIpSAInspIkCt8AOCpNlA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tF4smnicdZDJrptIFIbVz4MiFaPt3tlmsLk2mIKigA0CqhjCeBk8oLxDv0LkJC2ll-mWetuvcVt5mPhmlUWy-Rff_59zdP4_7rT4F_BjGk2FdHyS_eJNdmrTxnxjgc9d35IpGQvyD8uCFRBYwK4kwC5YIK548XMSjVHVZgV5_yWnEamKhpppSnu5TX4x8ldRRxn97v_NLpeSJCxXS8ADwHGSwIsfejK8cKdtyHKCKC4e_pLjJXYJFivh3Qmacvhz79PzRPvby5ed7yiMvwCM005JzuybtGiKkTJrx2OOBXngC-0ZLaqLJmNOW2YbDZRJXoX0xZmGcXQbmDq6hknbVrQPc1pk-RjW9XeYdVNY0SYb81fSDVOYtn0dplEytj0zTF3X9iMlYd2OOe3jNurJj4nhh0gfkSJ6ZZ-y7tHF-w_1q3Tn8Z5nH6epov_ds-o-Dfe8utPmzzbqzmny_29flWm_3T7vtxbqOleGwOauNXYCDfLdIa5JZM95A0t9oDv94mi574Lh5iORT2ZVM7Ba4ibg490mhZxq-IjUCLGSB1aDz2dz_JaYSNNNVFkCVfTcxW6VePnRBiK0ysAItAtvlNcTxWphK_BiqmTvavkUK8OcqK4e4M4lXn6OHAIhX4IDhn1QwsbcubozB28DXk_t0u0ir2SPO9X38cBaTq456lKIleMMkdqZOJdiLechco9QVj2EB84BxhWWnWIgw01UHbs7dTYwUQ44cCAOUqshneFVAN7YDZWDp8f_zbHRnwJZt2ygC0hhq0c3eweNA_W6xsaVac36wQdGF6uIs92VHCuVaPAbw9g9bnlQjmeoH0FVRoqhWlzCJztdh6i7kTLoTTV4Ikix1Xk9Ey3ICS65x24F43IM2M05qMXTwVUuWqFv4M64mTiwI7RqCNI9JK85mw8aXFbPuM43CI8lurHw0SX_8Tr06QtYq-Jom-LCPq9HRBYWQJZH5P1NbZ8vh54N58vv7GIpSAInspIkCt8AOCpNlA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSla8Q1k060_lsaQrfmLBISNS3CSjqw-YzZ5o_tF0n_By-6Ro4R-snRsHDSx3x6rrpbg2-J2ib6XGWzvblEO-tBvUwHoLrYcxv7uTsTByHKCssJ9z1NcWzy",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSmmd7tCZz7Ghml59O3EMVSzyjUqLWxGilYLAyJnzcA0zSQ6LKMrfIRzxk6s1bKEWi2ljBtuyiqm5X4Y-kxqFJBxA",
+      "source": "HYTE",
+      "title": "Y70 - Our New ATX PC Case - Snow White",
+      "rating": 4.9,
+      "reviews": 185,
+      "price": "$219.99",
+      "extracted_price": 219.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "O4nEA3icbZBJjttGGIWR8xAGqjiK2TUpDmo3KXEqStwQRVZxaI5NFTUQuUOuYMh2AGfZWWSba3SQw0TtlRfevMX33sOP__1-o_XfQGAFnmvZ-bg-1B_K3VD02w8e-DZOA5lzVpNXKAuQX0kqEGUJKKKiiN9yzHA7lDX59FpRTNq6p9uioNN6yH9a-LPucEm_u38pqqwIQJYBL6mCBHhFUD9P5PjG7_QU8qIkKStZXvGCDFdAUcXfdv52nf7c-_oy0-n69mofQoM7KIALhzmvuE1f1H3NKPcQ7jmnJnd8phNn4a7uS26nczo-Ui5_FzLVJ5pm-HrkOnxJ82Fo6ZRWtC4rlnbdd1iOc9rSvmTVOxmPc1oMU5cWOGfDxB3ncRwmRknaDayiUzbgifyYOP4QmTCp8Tv7Wo73LT597t5lPLFbVX6Z55b-cyvb23y8Ve2N9n8MeDwV-b-__GfMG11_2eheNI5o7YOgARe_Jc9B5Fy9xrdCYxQdC-7cxlviqApou7lEnSG5xsV0IvFMey2IDAioARfH1LZxqxle8xj4VtI59qNAbEPCoXn2e2SR_UZ0G9QEDdJj5AHSDFcnRi-xqc64IdDpBn5raxDx1R27sxvAJgNuRxqzCKwNQzq85kDlKcoX3LuPhy7ZRuHm6nZnMeuGS977dbS4Huo93rXbMO5GPbdbew8ckBmm4y-56BsqJIYkO4IGI2CyrGO6g9QFwyR0r7BIoDuSdkRJWCV51Iregl6ykNgHqPIR0k6J5fKRVQW4aU_3n93DovlxI-Gn2A32cAAHAMcn5GrOHtmkb86ulZyfQgdEe3IJDLY4a21KYnYMAau83rgcBHSKeHUd2XlgLg8LsZKKxA0fRsyI44Yl8H6zk3ZPyDhb9aPm2-51Gyehv9-cvaZt_fv4Qe9PSXuQMnCJszWRA0M1Y8vsv1yOU_EGHkyJBVtllSH-TJBB9OIaiaHFhpk8jx_r9bP3K1RWoizyEpRlSfgf30JMJg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=O4nEA3icbZBJjttGGIWR8xAGqjiK2TUpDmo3KXEqStwQRVZxaI5NFTUQuUOuYMh2AGfZWWSba3SQw0TtlRfevMX33sOP__1-o_XfQGAFnmvZ-bg-1B_K3VD02w8e-DZOA5lzVpNXKAuQX0kqEGUJKKKiiN9yzHA7lDX59FpRTNq6p9uioNN6yH9a-LPucEm_u38pqqwIQJYBL6mCBHhFUD9P5PjG7_QU8qIkKStZXvGCDFdAUcXfdv52nf7c-_oy0-n69mofQoM7KIALhzmvuE1f1H3NKPcQ7jmnJnd8phNn4a7uS26nczo-Ui5_FzLVJ5pm-HrkOnxJ82Fo6ZRWtC4rlnbdd1iOc9rSvmTVOxmPc1oMU5cWOGfDxB3ncRwmRknaDayiUzbgifyYOP4QmTCp8Tv7Wo73LT597t5lPLFbVX6Z55b-cyvb23y8Ve2N9n8MeDwV-b-__GfMG11_2eheNI5o7YOgARe_Jc9B5Fy9xrdCYxQdC-7cxlviqApou7lEnSG5xsV0IvFMey2IDAioARfH1LZxqxle8xj4VtI59qNAbEPCoXn2e2SR_UZ0G9QEDdJj5AHSDFcnRi-xqc64IdDpBn5raxDx1R27sxvAJgNuRxqzCKwNQzq85kDlKcoX3LuPhy7ZRuHm6nZnMeuGS977dbS4Huo93rXbMO5GPbdbew8ckBmm4y-56BsqJIYkO4IGI2CyrGO6g9QFwyR0r7BIoDuSdkRJWCV51Iregl6ykNgHqPIR0k6J5fKRVQW4aU_3n93DovlxI-Gn2A32cAAHAMcn5GrOHtmkb86ulZyfQgdEe3IJDLY4a21KYnYMAau83rgcBHSKeHUd2XlgLg8LsZKKxA0fRsyI44Yl8H6zk3ZPyDhb9aPm2-51Gyehv9-cvaZt_fv4Qe9PSXuQMnCJszWRA0M1Y8vsv1yOU_EGHkyJBVtllSH-TJBB9OIaiaHFhpk8jx_r9bP3K1RWoizyEpRlSfgf30JMJg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ5gRUZpW4WOlIeBDwydxd7_N7xm5CqR1C_jBNvlX1I--_UyC790pURW2IBqAQSZKdMA8-nHDwX-pba82znZcp1TGKkFAM48fQG6AvEwCiR29_B-wVgatJGmQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSmmd7tCZz7Ghml59O3EMVSzyjUqLWxGilYLAyJnzcA0zSQ6LKMrfIRzxk6s1bKEWi2ljBtuyiqm5X4Y-kxqFJBxA",
+      "source": "HYTE",
+      "title": "Y70 - Our New ATX PC Case - Panda",
+      "rating": 4.5,
+      "reviews": 8,
+      "price": "$219.99",
+      "extracted_price": 219.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "m0ObGHicdZPLrqNGEIaV50Ej0dxssvOtsTkHbNrQbbNBmG5oTHMxBhtbeYe8wsgzE2myHEXKNq9xojxMfKIsZpFs_sX3_1VSVal-frD8d1nt0rjPDedlvs8_ZJs6rdYfPPlr09a0T7qc_gZkUwcjVVGN8UgbmYpsAuNrEnexqLOcfvzGWUxFXrF1mrJ2Xif_U_JrXsYZ-9dXVVUZmQCYqmGONHU8VuVPLT2_yZtZpCmqJo9lHRhgpKiqaYKfNmg9j_7T-nLqWXt7-7bc-wtpP5Ilv-4TLq2qNK_yjkkTfyc5OX3iK2slKy7zKpM2M2kWn5mUvAtt8wuLDvHtLJXxECV1LVgbcZZnvIvK8h-YNX0kWJV1_J005z5K67aM0jjp6lY6901Ttx2jUVl3nLWHOm7p94nzd5E2pnn8zr5kzXMVHz-V79JcugfPPve9YH88MvHozw8uHqz6pY6bS5r8-cNfi341m51WMy9oGjxH8rZooF9Bm2Iekqpx9764BDCcOkWgHmTd2pZ2G1iDjI9itSf6gOBURxA72x3nB1wP24IDNA89R0ZKaFENk85lVucFgQhJ2aQkaAYfeopXYHy44xuBoY4LV0PEUz05AR4Ol0FFV76PNLfsTqEQF-847VmBOSHFPSRgoIRrDhY2K_ELtQbhyLR153SxXtK1r0B9u4MDVWmJAN4RyGWvHJpnV9UtxQz5buzDCTgE-uAouHKCwXgl3HCJSJlvGxRjgRYu8QteJfPkura6wLfss1cECgb2Cfl7jcLpCS9pvl6GbXKHMIT8Flim7C4nGoZIiXeiCiu-QTsUhv60cwPXda3w9Eo8jRztfeIj_VDCDltmigRWtiQDB7zYwvvkTq2QU1IoftAtnvN2IZhewlLfvOLF1crtKVq6tzUJAx_wFAFbpwICB6AVLemWPW9FVWHjwrwmOUCfh3ObvskTqHfb9Wh8wMqV4gWdpbdA862u7umxecnnR-9HMBprhqY8H8DQ1b8BENhNxg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=m0ObGHicdZPLrqNGEIaV50Ej0dxssvOtsTkHbNrQbbNBmG5oTHMxBhtbeYe8wsgzE2myHEXKNq9xojxMfKIsZpFs_sX3_1VSVal-frD8d1nt0rjPDedlvs8_ZJs6rdYfPPlr09a0T7qc_gZkUwcjVVGN8UgbmYpsAuNrEnexqLOcfvzGWUxFXrF1mrJ2Xif_U_JrXsYZ-9dXVVUZmQCYqmGONHU8VuVPLT2_yZtZpCmqJo9lHRhgpKiqaYKfNmg9j_7T-nLqWXt7-7bc-wtpP5Ilv-4TLq2qNK_yjkkTfyc5OX3iK2slKy7zKpM2M2kWn5mUvAtt8wuLDvHtLJXxECV1LVgbcZZnvIvK8h-YNX0kWJV1_J005z5K67aM0jjp6lY6901Ttx2jUVl3nLWHOm7p94nzd5E2pnn8zr5kzXMVHz-V79JcugfPPve9YH88MvHozw8uHqz6pY6bS5r8-cNfi341m51WMy9oGjxH8rZooF9Bm2Iekqpx9764BDCcOkWgHmTd2pZ2G1iDjI9itSf6gOBURxA72x3nB1wP24IDNA89R0ZKaFENk85lVucFgQhJ2aQkaAYfeopXYHy44xuBoY4LV0PEUz05AR4Ol0FFV76PNLfsTqEQF-847VmBOSHFPSRgoIRrDhY2K_ELtQbhyLR153SxXtK1r0B9u4MDVWmJAN4RyGWvHJpnV9UtxQz5buzDCTgE-uAouHKCwXgl3HCJSJlvGxRjgRYu8QteJfPkura6wLfss1cECgb2Cfl7jcLpCS9pvl6GbXKHMIT8Flim7C4nGoZIiXeiCiu-QTsUhv60cwPXda3w9Eo8jRztfeIj_VDCDltmigRWtiQDB7zYwvvkTq2QU1IoftAtnvN2IZhewlLfvOLF1crtKVq6tzUJAx_wFAFbpwICB6AVLemWPW9FVWHjwrwmOUCfh3ObvskTqHfb9Wh8wMqV4gWdpbdA862u7umxecnnR-9HMBprhqY8H8DQ1b8BENhNxg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRg19UlvemIHvP-mPi9EyIFYBoEi3fP89D1KJelOoYXQIfEdZxzyg6BQxLZyYIXXkNenGsG_CzmRgneC179DoXMZNOR4Lku9JSbPK8HA1xj",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSzgvOPH2HBzc2Lnr2fk_p1Qa3-2zbnI7M5TCmMd_LZrpXGQ0O-EX4n0FBi-8UA4or42vL8nTNRQ6zXqenNSDaSnME",
+      "source": "Seven Twenty One",
+      "title": "HYTE Y70 Touch Mid-Tower ATX Case",
+      "rating": 4.4,
+      "reviews": 9,
+      "price": "$242.20",
+      "extracted_price": 242.2,
+      "immersive_product_page_token": "VH91o3icdZDNbqNIFIWleYZ5C6ulKoofM7vYBhMS7ICrCsPGKlPFjykMwdjYqN9h3sHpHql7GbXU23mNzNOMk1UvZjZXut85R7r3_HkVxU-AupQdC917mEXFp-ypTvfLTz741rQ1PyZdwX9ACDR9jBSkmgrSkaojZHxLWMdknb3LSAM6RKZmGjoEhgGMMXjNBeOy2Itlmop2VicFf1XHwDQBUlTDQDo0DaB8LyqWiQ_1B1RuSV0fjzVNA4qharf1peWHN_VpurkdoJhjwzCRAlR1rN3SyuenYDnb_I_49fko2svbqxNhaxQZYITrY5KP7vdpsS86MbrD65FX8BvuRTuas6rYZ6On6WjKDmKUvA_eFiex2bLLYVSx8yapaynaTS6KLO82VfUBs-a4kWKfdfk7aQ7HTVq31SZlSVe3o8Oxaeq2E3xT1V0u2m3NWv6r4_CLpWW8YO_sa9Z81PEfT71UtxY1Q1d1RdMVU1MVxTRU9aU5ddc8-3I8SvH3NZPX4-Gay6vY_1Wz5pQm__z2u1X3s-mhn_qkaegsAKuBWzGRg-e4A55CtpjzJcZxuA21aGu5UbyCZ-rQVFR9HwyL3cqydwGyPb_ilO4nJCC9yjHNyd7dPRIV-bRhXGmkcOz51pIOrvqBrxvi0YnrOfaZAzsPceCwnf2wtLm1JNRf7SZhsovnyYyWuAxib_A0Jr0LhtRJKEGM5L2weMMscx3PYY6r-y6szHVIbC2qNJwg-sgRd8M1P0UFUH3AayGbnjtu7UvakXUJfHJ2EwtGlMQOkbLhTnTZlhBG0qVksKU3l_cY5rpHDn2458_EidNAoTHfBX2wmzx4aIKIwxfbMH-kOCdRdYYMu1NRltCnEy9B-QTvSxiFWRdY0FoNdyiS5MzDrqAhQAnh3QLY57jk-hrIM6ExvfXrB7s8onaGQjsbPBmsPStmgeIOgXJQAyR3ws4jgimkw4Qtsafiubeyh7uBz-Och6WCSWeFYdnFcHKKK-3pkVr9vHAngbO4LMOY-CsAMJILsZYMD2UfVzz2qobdelc8q-y3JJ58OR_a9A3c2Vq3WmrG6nTXEW74gPhrPru_2PVz_9jCzdD_AY2xqquKBnVdU_8FdNVuKA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VH91o3icdZDNbqNIFIWleYZ5C6ulKoofM7vYBhMS7ICrCsPGKlPFjykMwdjYqN9h3sHpHql7GbXU23mNzNOMk1UvZjZXut85R7r3_HkVxU-AupQdC917mEXFp-ypTvfLTz741rQ1PyZdwX9ACDR9jBSkmgrSkaojZHxLWMdknb3LSAM6RKZmGjoEhgGMMXjNBeOy2Itlmop2VicFf1XHwDQBUlTDQDo0DaB8LyqWiQ_1B1RuSV0fjzVNA4qharf1peWHN_VpurkdoJhjwzCRAlR1rN3SyuenYDnb_I_49fko2svbqxNhaxQZYITrY5KP7vdpsS86MbrD65FX8BvuRTuas6rYZ6On6WjKDmKUvA_eFiex2bLLYVSx8yapaynaTS6KLO82VfUBs-a4kWKfdfk7aQ7HTVq31SZlSVe3o8Oxaeq2E3xT1V0u2m3NWv6r4_CLpWW8YO_sa9Z81PEfT71UtxY1Q1d1RdMVU1MVxTRU9aU5ddc8-3I8SvH3NZPX4-Gay6vY_1Wz5pQm__z2u1X3s-mhn_qkaegsAKuBWzGRg-e4A55CtpjzJcZxuA21aGu5UbyCZ-rQVFR9HwyL3cqydwGyPb_ilO4nJCC9yjHNyd7dPRIV-bRhXGmkcOz51pIOrvqBrxvi0YnrOfaZAzsPceCwnf2wtLm1JNRf7SZhsovnyYyWuAxib_A0Jr0LhtRJKEGM5L2weMMscx3PYY6r-y6szHVIbC2qNJwg-sgRd8M1P0UFUH3AayGbnjtu7UvakXUJfHJ2EwtGlMQOkbLhTnTZlhBG0qVksKU3l_cY5rpHDn2458_EidNAoTHfBX2wmzx4aIKIwxfbMH-kOCdRdYYMu1NRltCnEy9B-QTvSxiFWRdY0FoNdyiS5MzDrqAhQAnh3QLY57jk-hrIM6ExvfXrB7s8onaGQjsbPBmsPStmgeIOgXJQAyR3ws4jgimkw4Qtsafiubeyh7uBz-Och6WCSWeFYdnFcHKKK-3pkVr9vHAngbO4LMOY-CsAMJILsZYMD2UfVzz2qobdelc8q-y3JJ58OR_a9A3c2Vq3WmrG6nTXEW74gPhrPru_2PVz_9jCzdD_AY2xqquKBnVdU_8FdNVuKA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSdKUu_1j6sVjxVOrV7QsTqVRdq9NEcup-6zi55z6CcfBfCd2dr_rRUfiaWaO0ef-pvTuFB57xmZX1ZRAu5z142U4EJO0F5LfcRW9eEUXqpGdQGTkX6_ji0",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTCaqA_uaHokoZgqnhKsIpvRfMvzW4delcMFBnwF9_x_AUOMYSmsZEodqKM7u102WJ3ORJHW6Fzq6kJCwMxshXQx3pOSQ",
+      "source": "kolorytm.pl",
+      "title": "HYTE Y70 Standard Mid-Tower ATX Case - Black",
+      "rating": 4.9,
+      "reviews": 179,
+      "price": "$89.00",
+      "extracted_price": 89.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "UmD0aHicdZA5juNGAEXh8xADVHGT5Ky5aelmSSKLxSUhKFaRxZ1NkRLV8B18hYFmxsA4HBhw6mu04cO423AwgZ384L3_k__znRW_A2nMkqlQ7UcjLD7khy5r9x-O4Gs_dHRKx4L-BiUFrFRVheJKUQFYSLIof02TMam7vKAfv3GW0Lpo2T7L2GB06f9Mfi2aJGf_-jemrhZAhEASZVmCUFE_DfT8Kh70GIqyoiyWqroUJRUuwWIl_3Rw9kb83-7L88SG2-u3TYhNIVwAAXdTyoVtmxVtMTLhAQeCXdA3fGWDsE6aos2Fgy7oyZkJ6XvQobiw-JTczkKTzHHadTUbYs6KnI9x0_wD836Ka9bmI38n_XmKs25o4ixJx24QzlPfd8PIaNx0I2fDqUsG-n3j_F1lSGiRvLMvef92xsdPzXv0l_HO88_TVLM_7nl9n853Xt9Z-0uX9Jcs_fOHv8xpq-vPW_3o9T0xHOAGvHA8dDtWypH4qyKBVE9aS8MESc5mC6M10gk5zszSRBTUaij2BiHaJax6HJJuTCHXnnxFxuVOtTGfko316Bq1farQFpd8z0ykUZPIdmDNCCItEJ0qEe3RtgjGhnYj6-3INvYcltozbnodV_OU1rvyJM6Ba8LmZKBNWEcHvKYG9pcS86By9OeSYCQir775xJptUGfE4g0W5RE1Tu-tTdFr6BUblHsBF7G1QzakICKVYgcecIydfaygRQDdYc-5nMBc2eA6p5KGWRVePamOEJgHUlqzX9bjsXFCstnBkxTdbH9V0jWf7LYaXahFiJiSK9V2CKCJLI5Qy_uwJgfPT6-sQi0Cqye34RevdPR0o5Xei8MJrF7evGu9PLzQdcSpX4nYG03fr8YIapeoUQ5PxLyui53mbNBt70euH-x0Wsk3WqHOkZwzap1HFyALW1pgbxwtsVbS5_k8ZK_gwVJGd79Ynoh4pcSkenbzZLweu4mW_WNhlMcf4WIpq7KoQFVVpL8BqNlMnw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UmD0aHicdZA5juNGAEXh8xADVHGT5Ky5aelmSSKLxSUhKFaRxZ1NkRLV8B18hYFmxsA4HBhw6mu04cO423AwgZ384L3_k__znRW_A2nMkqlQ7UcjLD7khy5r9x-O4Gs_dHRKx4L-BiUFrFRVheJKUQFYSLIof02TMam7vKAfv3GW0Lpo2T7L2GB06f9Mfi2aJGf_-jemrhZAhEASZVmCUFE_DfT8Kh70GIqyoiyWqroUJRUuwWIl_3Rw9kb83-7L88SG2-u3TYhNIVwAAXdTyoVtmxVtMTLhAQeCXdA3fGWDsE6aos2Fgy7oyZkJ6XvQobiw-JTczkKTzHHadTUbYs6KnI9x0_wD836Ka9bmI38n_XmKs25o4ixJx24QzlPfd8PIaNx0I2fDqUsG-n3j_F1lSGiRvLMvef92xsdPzXv0l_HO88_TVLM_7nl9n853Xt9Z-0uX9Jcs_fOHv8xpq-vPW_3o9T0xHOAGvHA8dDtWypH4qyKBVE9aS8MESc5mC6M10gk5zszSRBTUaij2BiHaJax6HJJuTCHXnnxFxuVOtTGfko316Bq1farQFpd8z0ykUZPIdmDNCCItEJ0qEe3RtgjGhnYj6-3INvYcltozbnodV_OU1rvyJM6Ba8LmZKBNWEcHvKYG9pcS86By9OeSYCQir775xJptUGfE4g0W5RE1Tu-tTdFr6BUblHsBF7G1QzakICKVYgcecIydfaygRQDdYc-5nMBc2eA6p5KGWRVePamOEJgHUlqzX9bjsXFCstnBkxTdbH9V0jWf7LYaXahFiJiSK9V2CKCJLI5Qy_uwJgfPT6-sQi0Cqye34RevdPR0o5Xei8MJrF7evGu9PLzQdcSpX4nYG03fr8YIapeoUQ5PxLyui53mbNBt70euH-x0Wsk3WqHOkZwzap1HFyALW1pgbxwtsVbS5_k8ZK_gwVJGd79Ynoh4pcSkenbzZLweu4mW_WNhlMcf4WIpq7KoQFVVpL8BqNlMnw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQdjxFVKJB9Mtu7LlUdq95b3fD4WfoOJT0E1Wg42VKJ9oQrB0b04u527DayA6cIf9qgZI3EtAMkg6RR-h-NjgtYHNew17zinUJdoTeGPWX3",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+      "source": "B&H Photo-Video-Audio",
+      "title": "HYTE Y70 Persona 3 Reload ATX Mid-Tower Case",
+      "rating": 4.8,
+      "reviews": 6,
+      "price": "$286.99",
+      "extracted_price": 286.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "3tgFdnicdZNJbuNWEIaBnCG3EBp4AwcxO4uTLLUoc3ocNgLJx0l8HMTBooTcIXeQuwN0lu4A2eYazmkie9WLZFOL7_sXVYWq325p-RfAYxZNpbDbKkH5KX9qs2b_yQTfur6lUzKW9DsUIUSCJIpLAUMOIQGL35JojFib3y0vitxdSAjjJUYII8y_FmlEWdmk-yxLe6VNSvonfI9AcSktJVHCHC-IgvRHWUd5-uG_80jgERYARhIniQABILz0dHjjnuQDhDx3V3AJlhKEHAQcWv76ZO2Vw__Ir6cp7S9vr-vAUReBCBZOOyXF4rHJyqYc08WD4y92Jb3jc9ov9Kgum3zxJC_kaEgXyXuhffmcHuLoMizqaD4kbcvS_lCkZV6Mh7r-gHk3HVja5GPxTrphOmRtXx-yKBnbfjFMXdf2Y0oPdTsWaR-3UU9_TAw_RPqIltE7-5p3H9v6j6Fe6pK-8qLACYi_AwGJgiBJ8KV7Hm9F_mWaWPr3LWe3abgV7JY2v7dR95wl__z0s9qeFXk4y6bbdUSxgA34lQuN7U6roKup2Gk6Ia1HGDcr11proe1stsQlJKlJFqIAhEfj6F6LY6LQz67fnZImuMaesaN-F4Q1r5owDK01KWy8mwNGotA3Z8crhAhbp_i4cgx91qhetMkxmW28MU2_q2xPUnZq6FhVCAyPcK7HjBB320QfZRNYvlONulNRHLjVTBv6HFaF4zVdnTShG6PNo6OzdXh1R1eHjgsegQ-ZbONQoYA8xi6bCGFTBAgfwNVmvzaGnT4PXn2eiU_N6Eo9qu_ORLXcWF-eY58JwZEV5pGGBGgnE-fIa0Ky98KMVlZg-J1MleQSQ2sibNOmurZ1tc63q_FkqIVMalZTldr-9eHiEcsxmSYHPmGJagGKNr4DtMogxZXacB2hQrGcigtlyEhlMHLdbLwanpNruHXYA941jA88c048FlE9B5QQLoKurV0frlQPC-pVyHFH1fOqMYSr5_v-nz4T9ayXm5W1Ni73nq0AzCe63vGmC4cY8XPgjnzMOttWCQwwa-IjWX2Zhz57Aw8aP9p7cRkTdKZEpXJ2cTlHH9uJHrttqRzNX-5Pywnc_eYEgcf_Athqbig",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3tgFdnicdZNJbuNWEIaBnCG3EBp4AwcxO4uTLLUoc3ocNgLJx0l8HMTBooTcIXeQuwN0lu4A2eYazmkie9WLZFOL7_sXVYWq325p-RfAYxZNpbDbKkH5KX9qs2b_yQTfur6lUzKW9DsUIUSCJIpLAUMOIQGL35JojFib3y0vitxdSAjjJUYII8y_FmlEWdmk-yxLe6VNSvonfI9AcSktJVHCHC-IgvRHWUd5-uG_80jgERYARhIniQABILz0dHjjnuQDhDx3V3AJlhKEHAQcWv76ZO2Vw__Ir6cp7S9vr-vAUReBCBZOOyXF4rHJyqYc08WD4y92Jb3jc9ov9Kgum3zxJC_kaEgXyXuhffmcHuLoMizqaD4kbcvS_lCkZV6Mh7r-gHk3HVja5GPxTrphOmRtXx-yKBnbfjFMXdf2Y0oPdTsWaR-3UU9_TAw_RPqIltE7-5p3H9v6j6Fe6pK-8qLACYi_AwGJgiBJ8KV7Hm9F_mWaWPr3LWe3abgV7JY2v7dR95wl__z0s9qeFXk4y6bbdUSxgA34lQuN7U6roKup2Gk6Ia1HGDcr11proe1stsQlJKlJFqIAhEfj6F6LY6LQz67fnZImuMaesaN-F4Q1r5owDK01KWy8mwNGotA3Z8crhAhbp_i4cgx91qhetMkxmW28MU2_q2xPUnZq6FhVCAyPcK7HjBB320QfZRNYvlONulNRHLjVTBv6HFaF4zVdnTShG6PNo6OzdXh1R1eHjgsegQ-ZbONQoYA8xi6bCGFTBAgfwNVmvzaGnT4PXn2eiU_N6Eo9qu_ORLXcWF-eY58JwZEV5pGGBGgnE-fIa0Ky98KMVlZg-J1MleQSQ2sibNOmurZ1tc63q_FkqIVMalZTldr-9eHiEcsxmSYHPmGJagGKNr4DtMogxZXacB2hQrGcigtlyEhlMHLdbLwanpNruHXYA941jA88c048FlE9B5QQLoKurV0frlQPC-pVyHFH1fOqMYSr5_v-nz4T9ayXm5W1Ni73nq0AzCe63vGmC4cY8XPgjnzMOttWCQwwa-IjWX2Zhz57Aw8aP9p7cRkTdKZEpXJ2cTlHH9uJHrttqRzNX-5Pywnc_eYEgcf_Athqbig"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the HYTE Y70 Touch Infinite worth it?",
+      "type": "ai_overview",
+      "page_token": "ueuOi3icHZDdboIwGECzl9nlbMG5aWKWgOggowuFftXeLNCqaFvoFGV6t3fZU-1p9nN3rk5OzueX2TX6--Zcd507TgaDvu_vtm27Nes72dpBebw0ciBLY6pS6snoYYSfNnIaneIgfI-DjDkHM4ryHCOu3QgskAoLklkX8z3M1wu1LJEwwHEmERwqq0KyD4aZ-WU-vpQR0cqKMwCECruriMavGVLRyk8_co6uaqmAMOanSHVq0YXlPlnKRd0oL8Gpri2dwWtamBhsfBG679ZNEBdW7DiDYTWnJTDimPeIua2TSrce0eNoZYd-hU3CnsmKRYAoFx6D4M8dSg_zHH00US371Kd2tQRHNH6hc-NeuMoqT5yKC6Zp0O4yRq9ybyzznC-RWYCda1EkRV7QWcnqE-HtfWXr325sRH-7keepf_v_c_q2sd3EHdrtD_2VgyQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ueuOi3icHZDdboIwGECzl9nlbMG5aWKWgOggowuFftXeLNCqaFvoFGV6t3fZU-1p9nN3rk5OzueX2TX6--Zcd507TgaDvu_vtm27Nes72dpBebw0ciBLY6pS6snoYYSfNnIaneIgfI-DjDkHM4ryHCOu3QgskAoLklkX8z3M1wu1LJEwwHEmERwqq0KyD4aZ-WU-vpQR0cqKMwCECruriMavGVLRyk8_co6uaqmAMOanSHVq0YXlPlnKRd0oL8Gpri2dwWtamBhsfBG679ZNEBdW7DiDYTWnJTDimPeIua2TSrce0eNoZYd-hU3CnsmKRYAoFx6D4M8dSg_zHH00US371Kd2tQRHNH6hc-NeuMoqT5yKC6Zp0O4yRq9ybyzznC-RWYCda1EkRV7QWcnqE-HtfWXr325sRH-7keepf_v_c_q2sd3EHdrtD_2VgyQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IklzIHRoZSBIWVRFIFk3MCBUb3VjaCBJbmZpbml0ZSB3b3J0aCBpdD8iLCJsayI6ImM1TlN6aXhXeUtnc1NWV29ORGRRS01rdlRjNVF5TXhMeTh6TEJBcVY1eGVWQUxrbEFBIiwiYnMiOiJjM1hPc1F1Q1FCVEhjVnB2cVZhbkIySGFKaEkwT2drNUNrWTRYdnJPZTFCMzRaMkpfMzJhV1NTMFBqNThmNC1sekU4TVdJbHd6TE1ZOGtNQW1XNEtDWWtTcE1naXRMcTJFc2hHb2V0c3lJRHMtbVBYT190eU5IY3NaZHNwT2RCdnN0SzZCS0ZycVBpTlZCV0ZudVBTS0dmUm1XUXhDODZTVzNqcmtvVEFHbFdCY0VIYklxcHhxdHNId0ZVNVRFYmgybG5LNmZnd1E1eWRtRDlsekIwTDRsZmdGOTNZMzJjTGJqQUtkNDdYX3JXZmR3ZTdXandCIiwiaWQiOiJmY18wM3RmYXVpNk1LRFlpLWdQb2ZuTy1RMF84In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IklzIHRoZSBIWVRFIFk3MCBUb3VjaCBJbmZpbml0ZSB3b3J0aCBpdD8iLCJsayI6ImM1TlN6aXhXeUtnc1NWV29ORGRRS01rdlRjNVF5TXhMeTh6TEJBcVY1eGVWQUxrbEFBIiwiYnMiOiJjM1hPc1F1Q1FCVEhjVnB2cVZhbkIySGFKaEkwT2drNUNrWTRYdnJPZTFCMzRaMkpfMzJhV1NTMFBqNThmNC1sekU4TVdJbHd6TE1ZOGtNQW1XNEtDWWtTcE1naXRMcTJFc2hHb2V0c3lJRHMtbVBYT190eU5IY3NaZHNwT2RCdnN0SzZCS0ZycVBpTlZCV0ZudVBTS0dmUm1XUXhDODZTVzNqcmtvVEFHbFdCY0VIYklxcHhxdHNId0ZVNVRFYmgybG5LNmZnd1E1eWRtRDlsekIwTDRsZmdGOTNZMzJjTGJqQUtkNDdYX3JXZmR3ZTdXandCIiwiaWQiOiJmY18wM3RmYXVpNk1LRFlpLWdQb2ZuTy1RMF84In0%3D"
+    },
+    {
+      "question": "Is the Hyte Y70 Touch good for gaming?",
+      "type": "ai_overview",
+      "page_token": "iQqM13icHdBfboIwHADg7DJ7nBR0f0zMEgadGujSyq9gXxZoVYSW1qlDedtddqqdZstu8OX7-tb7rv25-axPJ3ecjkZ939_trN3pzZ20ZlQer50cyVLrqpTt9P7hHj1v5Sw-L8KXwyKk4ByPmLca2As0usma8LjKcZAUzia5vmRRPBQeOWQgxhITvDG9rzycCK5aoetL6bFeRrpdF3yf43VQgUpEwT2Zr_0icBPVqTEvBHvLiSEt-DxgRwZsrDQhJFhSZmJEu_CaImUrjs8cP_YAxJXNMl-37gADi1Z4-VZ2NSWvExConlfxYpKip1MVjy-buR0gxjqPdESB7LkvlhRQF9eyTwNm_lyOtChhWLskV7TyxTm7IpaGdk-BDbLRBoIwXWk-gM8Oah6WEGsrsDDMPKIMi0ua7SaU3m7l5yy4_f-cvW_Naeo-7O4XZu6DJg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iQqM13icHdBfboIwHADg7DJ7nBR0f0zMEgadGujSyq9gXxZoVYSW1qlDedtddqqdZstu8OX7-tb7rv25-axPJ3ecjkZ939_trN3pzZ20ZlQer50cyVLrqpTt9P7hHj1v5Sw-L8KXwyKk4ByPmLca2As0usma8LjKcZAUzia5vmRRPBQeOWQgxhITvDG9rzycCK5aoetL6bFeRrpdF3yf43VQgUpEwT2Zr_0icBPVqTEvBHvLiSEt-DxgRwZsrDQhJFhSZmJEu_CaImUrjs8cP_YAxJXNMl-37gADi1Z4-VZ2NSWvExConlfxYpKip1MVjy-buR0gxjqPdESB7LkvlhRQF9eyTwNm_lyOtChhWLskV7TyxTm7IpaGdk-BDbLRBoIwXWk-gM8Oah6WEGsrsDDMPKIMi0ua7SaU3m7l5yy4_f-cvW_Naeo-7O4XZu6DJg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IklzIHRoZSBIeXRlIFk3MCBUb3VjaCBnb29kIGZvciBnYW1pbmc/IiwibGsiOiJHaVZwY3lCMGFHVWdhSGwwWlNCNU56QWdkRzkxWTJnZ1oyOXZaQ0JtYjNJZ1oyRnRhVzVuIiwiYnMiOiJjM1hPc1F1Q1FCVEhjVnB2cVZhbkIySGFKaEkwT2drNUNrWTRYdnJPZTFCMzRaMkpfMzJhV1NTMFBqNThmNC1sekU4TVdJbHd6TE1ZOGtNQW1XNEtDWWtTcE1naXRMcTJFc2hHb2V0c3lJRHMtbVBYT190eU5IY3NaZHNwT2RCdnN0SzZCS0ZycVBpTlZCV0ZudVBTS0dmUm1XUXhDODZTVzNqcmtvVEFHbFdCY0VIYklxcHhxdHNId0ZVNVRFYmgybG5LNmZnd1E1eWRtRDlsekIwTDRsZmdGOTNZMzJjTGJqQUtkNDdYX3JXZmR3ZTdXandCIiwiaWQiOiJmY18wM3RmYXVpNk1LRFlpLWdQb2ZuTy1RMF84In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IklzIHRoZSBIeXRlIFk3MCBUb3VjaCBnb29kIGZvciBnYW1pbmc%2FIiwibGsiOiJHaVZwY3lCMGFHVWdhSGwwWlNCNU56QWdkRzkxWTJnZ1oyOXZaQ0JtYjNJZ1oyRnRhVzVuIiwiYnMiOiJjM1hPc1F1Q1FCVEhjVnB2cVZhbkIySGFKaEkwT2drNUNrWTRYdnJPZTFCMzRaMkpfMzJhV1NTMFBqNThmNC1sekU4TVdJbHd6TE1ZOGtNQW1XNEtDWWtTcE1naXRMcTJFc2hHb2V0c3lJRHMtbVBYT190eU5IY3NaZHNwT2RCdnN0SzZCS0ZycVBpTlZCV0ZudVBTS0dmUm1XUXhDODZTVzNqcmtvVEFHbFdCY0VIYklxcHhxdHNId0ZVNVRFYmgybG5LNmZnd1E1eWRtRDlsekIwTDRsZmdGOTNZMzJjTGJqQUtkNDdYX3JXZmR3ZTdXandCIiwiaWQiOiJmY18wM3RmYXVpNk1LRFlpLWdQb2ZuTy1RMF84In0%3D"
+    },
+    {
+      "question": "What is the difference between Hyte y40 and Y70?",
+      "type": "ai_overview",
+      "page_token": "6WFB83icHdBRkpMwGADg8TL7uCVgq-1MxxkWaEUIJiSB5sWhCS2UPxC37FJ48wqewVN5Gmf8jvD9-gNt3_398LsZR3vfrVbTND1fh-EK9bMazKq6z71aqQrgXKlut_m0QV8uah--K__lVfmEWysC6uQGGDv6jAVNrl5QWHpfZ-qsIS1skkL3YCBcxXSmSzUmAn5WQBYCeqPcdaYi-JaVfpsf6E0IO6Rm68jbdWJdjFMEQAA-CldGuUtZeqC4mpGLb9qtuZbUxJl0yMg7FCuReroYUWE0PnmCEEZ7VjwCusQND6VH-8icPMzPAZW0RZuEf54Ej-OEA9Xh_aEL-b2O_LXutkMdSp4v0ooD8hjSIgukg1lMKmeNw0ZNqUfNqRQWdyihEdik0OTsyjc2I5r6Q0s4XdQNDO_9FvNmoKUIiyPta1BuVsBULjCeF3yU0XYm5Omi3vfe0__r_Y-LGXf2dbj-Awd8jOE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6WFB83icHdBRkpMwGADg8TL7uCVgq-1MxxkWaEUIJiSB5sWhCS2UPxC37FJ48wqewVN5Gmf8jvD9-gNt3_398LsZR3vfrVbTND1fh-EK9bMazKq6z71aqQrgXKlut_m0QV8uah--K__lVfmEWysC6uQGGDv6jAVNrl5QWHpfZ-qsIS1skkL3YCBcxXSmSzUmAn5WQBYCeqPcdaYi-JaVfpsf6E0IO6Rm68jbdWJdjFMEQAA-CldGuUtZeqC4mpGLb9qtuZbUxJl0yMg7FCuReroYUWE0PnmCEEZ7VjwCusQND6VH-8icPMzPAZW0RZuEf54Ej-OEA9Xh_aEL-b2O_LXutkMdSp4v0ooD8hjSIgukg1lMKmeNw0ZNqUfNqRQWdyihEdik0OTsyjc2I5r6Q0s4XdQNDO_9FvNmoKUIiyPta1BuVsBULjCeF3yU0XYm5Omi3vfe0__r_Y-LGXf2dbj-Awd8jOE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBIeXRlIHk0MCBhbmQgWTcwPyIsImxrIjoiR2c5b2VYUmxJSGswTUNCMmN5QjVOekEiLCJicyI6ImMzWE9zUXVDUUJUSGNWcHZxVmFuQjJIYUpoSTBPZ2s1Q2tZNFh2ck9lMUIzNFoySl8zMmFXU1MwUGo1OGY0LWx6RThNV0lsd3pMTVk4a01BbVc0S0NZa1NwTWdpdExxMkVzaEdvZXRzeUlEcy1tUFhPX3R5Tkhjc1pkc3BPZEJ2c3RLNkJLRnJxUGlOVkJXRm51UFNLR2ZSbVdReEM4NlNXM2pya29UQUdsV0JjRUhiSXFweHF0c0h3RlU1VEViaDJsbks2Zmd3UTV5ZG1EOWx6QjBMNGxmZ0Y5M1kzMmNMYmpBS2Q0N1hfcldmZHdlN1dqd0IiLCJpZCI6ImZjXzAzdGZhdWk2TUtEWWktZ1BvZm5PLVEwXzgifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBIeXRlIHk0MCBhbmQgWTcwPyIsImxrIjoiR2c5b2VYUmxJSGswTUNCMmN5QjVOekEiLCJicyI6ImMzWE9zUXVDUUJUSGNWcHZxVmFuQjJIYUpoSTBPZ2s1Q2tZNFh2ck9lMUIzNFoySl8zMmFXU1MwUGo1OGY0LWx6RThNV0lsd3pMTVk4a01BbVc0S0NZa1NwTWdpdExxMkVzaEdvZXRzeUlEcy1tUFhPX3R5Tkhjc1pkc3BPZEJ2c3RLNkJLRnJxUGlOVkJXRm51UFNLR2ZSbVdReEM4NlNXM2pya29UQUdsV0JjRUhiSXFweHF0c0h3RlU1VEViaDJsbks2Zmd3UTV5ZG1EOWx6QjBMNGxmZ0Y5M1kzMmNMYmpBS2Q0N1hfcldmZHdlN1dqd0IiLCJpZCI6ImZjXzAzdGZhdWk2TUtEWWktZ1BvZm5PLVEwXzgifQ%3D%3D"
+    },
+    {
+      "question": "What is special about the Hyte Y70 case?",
+      "type": "ai_overview",
+      "page_token": "7dD_ZnicHdDNboIwAADg7GU8Kj-GJSZmCUhVFBylLZTLAq1abSl1ooi3vcueak-zZbfv_H19q5OWPy930XXmOptM-r4fH9v2qPZj1jaT6jpoNmGVUnXF5Mx79ey3A5uHt7UfXNZ-io0hC2ghwAksynumpLULxYYj6ULgp4yQAdsA78B6yADPY4u01CIr5iR3cgZbdhZ4j0CDNDgkNrPypQhSRJbIba0cmyHV0CUrn2SuiatCdGkDQZY_1tmqdBJtdtRRJs65ZgAOXEdBYdmwXkLNiCGZHV2oU0aUgIbKR4eU8KAECWmiCDkPn-M_h9azROIdPROPnvl0v7QLFpY6FKyPXdjQgphE2lsIlNnmPK2d8oYGG8Z-e0oxfLKzarA0G4rwFCI_gAtR5NpI6iZl_YyKCqdDDkzG-9GB3efu6P9z_nFoupn5bI-_5muDqQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7dD_ZnicHdDNboIwAADg7GU8Kj-GJSZmCUhVFBylLZTLAq1abSl1ooi3vcueak-zZbfv_H19q5OWPy930XXmOptM-r4fH9v2qPZj1jaT6jpoNmGVUnXF5Mx79ey3A5uHt7UfXNZ-io0hC2ghwAksynumpLULxYYj6ULgp4yQAdsA78B6yADPY4u01CIr5iR3cgZbdhZ4j0CDNDgkNrPypQhSRJbIba0cmyHV0CUrn2SuiatCdGkDQZY_1tmqdBJtdtRRJs65ZgAOXEdBYdmwXkLNiCGZHV2oU0aUgIbKR4eU8KAECWmiCDkPn-M_h9azROIdPROPnvl0v7QLFpY6FKyPXdjQgphE2lsIlNnmPK2d8oYGG8Z-e0oxfLKzarA0G4rwFCI_gAtR5NpI6iZl_YyKCqdDDkzG-9GB3efu6P9z_nFoupn5bI-_5muDqQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgc3BlY2lhbCBhYm91dCB0aGUgSHl0ZSBZNzAgY2FzZT8iLCJsayI6IkdpZDNhR0YwSUdseklITndaV05wWVd3Z1lXSnZkWFFnZEdobElHaDVkR1VnZVRjd0lHTmhjMlUiLCJicyI6ImMzWE9zUXVDUUJUSGNWcHZxVmFuQjJIYUpoSTBPZ2s1Q2tZNFh2ck9lMUIzNFoySl8zMmFXU1MwUGo1OGY0LWx6RThNV0lsd3pMTVk4a01BbVc0S0NZa1NwTWdpdExxMkVzaEdvZXRzeUlEcy1tUFhPX3R5Tkhjc1pkc3BPZEJ2c3RLNkJLRnJxUGlOVkJXRm51UFNLR2ZSbVdReEM4NlNXM2pya29UQUdsV0JjRUhiSXFweHF0c0h3RlU1VEViaDJsbks2Zmd3UTV5ZG1EOWx6QjBMNGxmZ0Y5M1kzMmNMYmpBS2Q0N1hfcldmZHdlN1dqd0IiLCJpZCI6ImZjXzAzdGZhdWk2TUtEWWktZ1BvZm5PLVEwXzgifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRETk1TbDkwVkZwUE1qZDBialJhVFcxZk9WVXRlWFk0UWt4dFdUZHBjbDlLVEcxbU1FdFVSRUpFUzBGTVVUUmlSV3hUVUcxYVlWZG9VRVZHWlhGUGJVZDNZV1IzZDA5cmJXeG5iRGwwV1ZwT2VXd3dVMmhYV1hsc2R4SVhNRE4wWm1GMWFUWk5TMFJaYVMxblVHOW1iazh0VVRBYUlrRkVjM0k1WmxOamRGbG5iV1JrZW5SNFFWTkJiVXBDZDB3NVYwRTBZVkIyY0ZFIiwiZmN2IjoiMyIsImVpIjoiMDN0ZmF1aTZNS0RZaS1nUG9mbk8tUTAiLCJxYyI6ImMwM0tQUTdDTUF4QVlWaVoyRmw4QkNRR1JvNWl1WW1iV0dwLTVEalFEbHlLazNBa1dsaFkzdkRwSFY3N3VCakRjajJEbGU0aVNCNGx5MHBrTXlUeEt6OVlJVkNTSEtBNmNOVDRGNjl5Wnh4b2FaQm9SbGZLeElxUkpVVERsTDRZYXNlSmM3QzRTVzBkeDZJSlIzSldGRnF2dGFpeHgxUXNzZzZGMVA4ZjdXOVI4a0tiSFhmUDktbHktd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgc3BlY2lhbCBhYm91dCB0aGUgSHl0ZSBZNzAgY2FzZT8iLCJsayI6IkdpZDNhR0YwSUdseklITndaV05wWVd3Z1lXSnZkWFFnZEdobElHaDVkR1VnZVRjd0lHTmhjMlUiLCJicyI6ImMzWE9zUXVDUUJUSGNWcHZxVmFuQjJIYUpoSTBPZ2s1Q2tZNFh2ck9lMUIzNFoySl8zMmFXU1MwUGo1OGY0LWx6RThNV0lsd3pMTVk4a01BbVc0S0NZa1NwTWdpdExxMkVzaEdvZXRzeUlEcy1tUFhPX3R5Tkhjc1pkc3BPZEJ2c3RLNkJLRnJxUGlOVkJXRm51UFNLR2ZSbVdReEM4NlNXM2pya29UQUdsV0JjRUhiSXFweHF0c0h3RlU1VEViaDJsbks2Zmd3UTV5ZG1EOWx6QjBMNGxmZ0Y5M1kzMmNMYmpBS2Q0N1hfcldmZHdlN1dqd0IiLCJpZCI6ImZjXzAzdGZhdWk2TUtEWWktZ1BvZm5PLVEwXzgifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Y70 Touch Infinite - Our New PC Case with LCD Screen",
+      "link": "https://hyte.com/store/y70/cs-hyte-y70tti-ww?srsltid=AfmBOoo-EIPqEd2R_u0UcKfe2rWP0k-kNyqY3swng6PUkOJJ3-q5e7Rc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fhyte.com%2Fstore%2Fy70%2Fcs-hyte-y70tti-ww%3Fsrsltid%3DAfmBOoo-EIPqEd2R_u0UcKfe2rWP0k-kNyqY3swng6PUkOJJ3-q5e7Rc&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98QFnoECBgQAQ",
+      "displayed_link": "https://hyte.com › store › y70 › cs-hyte-y70tti-ww",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAzUlEQVR4AaVTxRXCMABFl-gInDh3AHwTdJmcOdEL7kzADNiJFXBN8-uuee-3Sb7EE8VOzYTvIpdnIAwnhpsC1Ak4q95ozCoiGCjDB39LHX8BWtVnNIOgAbGBxxhAJGLC0e8gi7_dZOcEeNU1f0D8tg1Kr2f8TSEeHK-NjvT_vktR8Ecb_T4cQcDJUdRLaFNG3SXghICbU4A05f9bB4o94OYdgOIT4L2ECee7hNibGP8YlYskRLlI1qu8iXqVre_h42O2PyYjsC6P58xb9SIqIayAaumPLAAAAABJRU5ErkJggg.png",
+      "snippet": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case massive 4 slot vertical graphics. MSRP $399.99 $199.99 + $150 Exterior Dimensions 470 x 320 ...",
+      "snippet_highlighted_words": [
+        "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case massive 4 slot vertical graphics. MSRP $399.99 $199.99 + $150 Exterior Dimensions 470 x 320 ...",
+          "source_info_link": "https://hyte.com/store/y70/cs-hyte-y70tti-ww?srsltid=AfmBOoo-EIPqEd2R_u0UcKfe2rWP0k-kNyqY3swng6PUkOJJ3-q5e7Rc",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAzUlEQVR4AaVTxRXCMABFl-gInDh3AHwTdJmcOdEL7kzADNiJFXBN8-uuee-3Sb7EE8VOzYTvIpdnIAwnhpsC1Ak4q95ozCoiGCjDB39LHX8BWtVnNIOgAbGBxxhAJGLC0e8gi7_dZOcEeNU1f0D8tg1Kr2f8TSEeHK-NjvT_vktR8Ecb_T4cQcDJUdRLaFNG3SXghICbU4A05f9bB4o94OYdgOIT4L2ECee7hNibGP8YlYskRLlI1qu8iXqVre_h42O2PyYjsC6P58xb9SIqIayAaumPLAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fhyte.com%2Fstore%2Fy70%2Fcs-hyte-y70tti-ww%3Fsrsltid%3DAfmBOoo-EIPqEd2R_u0UcKfe2rWP0k-kNyqY3swng6PUkOJJ3-q5e7Rc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhyte.com%2Fstore%2Fy70%2Fcs-hyte-y70tti-ww%3Fsrsltid%3DAfmBOoo-EIPqEd2R_u0UcKfe2rWP0k-kNyqY3swng6PUkOJJ3-q5e7Rc",
+      "source": "HYTE"
+    },
+    {
+      "position": 2,
+      "title": "HYTE Y70 Touch Infinite Modern Aesthetic Gaming PC Case",
+      "link": "https://www.amazon.com/HYTE-Infinite-Aesthetic-Integrated-Touchscreen/dp/B0DKJKGPYZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FHYTE-Infinite-Aesthetic-Integrated-Touchscreen%2Fdp%2FB0DKJKGPYZ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98QFnoECBkQAQ",
+      "displayed_link": "https://www.amazon.com › HYTE-Infinite-Aesthetic-Inte...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "HYTE Y70 Touch Infinite gaming PC case includes a mesmerizing 14.9” integrated LCD touchscreen with a 682 x 2560 (2.5K) resolution, 60Hz refresh rate, 10-point ...",
+      "snippet_highlighted_words": [
+        "HYTE Y70 Touch Infinite gaming PC case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "HYTE Y70 Touch Infinite gaming PC case includes a mesmerizing 14.9” integrated LCD touchscreen with a 682 x 2560 (2.5K) resolution, 60Hz refresh rate, 10-point ...",
+          "source_info_link": "https://www.amazon.com/HYTE-Infinite-Aesthetic-Integrated-Touchscreen/dp/B0DKJKGPYZ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FHYTE-Infinite-Aesthetic-Integrated-Touchscreen%2Fdp%2FB0DKJKGPYZ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FHYTE-Infinite-Aesthetic-Integrated-Touchscreen%2Fdp%2FB0DKJKGPYZ",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 3,
+      "title": "Hyte Y70 Touch Infinite | Should You Upgrade Your PC Case ...",
+      "link": "https://www.youtube.com/watch?v=tM_71XpDYT8",
+      "displayed_link": "6.4K+ views · 2 months ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/e3cgs_jD-HK6vraWJ24jAHuZB4hwUNpac-yQMVoevys.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case that delivers next gen gaming experiences with massive 4 slot vertical ...",
+      "duration": "8:51",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro Music",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFTKkDSzShOZhzzHa8mnh1avPH6r1BCkpbw8Klwd9WCw&s="
+        },
+        {
+          "time": "00:12",
+          "title": "Welcome to My Channel",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=12",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPLMXIBwP9n6gz7g5BkzC94Clq0hmCJFmAs-qs4UnPrg&s="
+        },
+        {
+          "time": "00:52",
+          "title": "My PC Case is the Hyte Y70 3rd Gen",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=52",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8hCwXiWF8o3DujCmO07z-c5qkK6DK2ciIPWNMl_kzkw&s="
+        },
+        {
+          "time": "01:20",
+          "title": "Pricing of Hyte Y70 3rd Gen",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=80",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqYffnKC7xNCd_w0J-eeqXEScK1Rpkn2XRakabLiS35w&s="
+        },
+        {
+          "time": "01:33",
+          "title": "Hyte Y70 3rd Gen Features",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=93",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGiPfb4yiPFFGRQRJP_qtAHjToGuUjj7tNnqUrSuJMcg&s="
+        },
+        {
+          "time": "03:24",
+          "title": "Vertical GPU Installation",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=204",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrgSFPZ3zsGXGj-rkAZ2Wzq3zH-ab5tuxwoNWeS1HR6Q&s="
+        },
+        {
+          "time": "03:45",
+          "title": "Hyte Y70 is Using Hyper Riser 4.0 PCIE",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=225",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjkAInJZ1GDnyrxd8z-xbwXgQYcv9sTJ4KppAdlhkaDw&s="
+        },
+        {
+          "time": "04:10",
+          "title": "Hyte Y70 Hyper Riser 5.0 PCIE",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=250",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ0MNv5w8Wak0-b5Iy0ZGUjrF3iSvN-K7RvTT40WX82g&s="
+        },
+        {
+          "time": "04:23",
+          "title": "4.0 PCIE vs 5.0 PCIE Riser Cable",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=263",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCser43hBT9mhbdQ8AukEsHh24aC1J8UEHNfc95DzioA&s="
+        },
+        {
+          "time": "04:44",
+          "title": "Upgrading and Unboxing the Hyper Riser 5.0 PCIE",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=284",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXD56SwXIqEzJa6nBkR8e3yVaZewzzkIaFhbPyATqO-Q&s="
+        },
+        {
+          "time": "05:14",
+          "title": "Specifications of my RTX 5090 Build",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=314",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMHKt_nr5FUehq9WWemn1FSFzx7SnV85DuS4VtoNkRuA&s="
+        },
+        {
+          "time": "05:40",
+          "title": "Installation of the Hyper Riser 5.0 PCIE",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=340",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMa35VjbUIvODyhrlkvg9Tf1Caw5smby1yzmBtmPaiRQ&s="
+        },
+        {
+          "time": "07:31",
+          "title": "My Final Thoughts and Conclusions",
+          "link": "https://www.youtube.com/watch?v=tM_71XpDYT8&t=451",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3g34JQOOGWNwPEUyya0q13JNyWESmcOBWkhoV5nvIhg&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case that delivers next gen gaming experiences with massive 4 slot vertical ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtM_71XpDYT8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtM_71XpDYT8",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRcWZJltTrpLX__wpkCnVxBjhzDUarYhmFuCA",
+      "source": "YouTube · Game Tech Place"
+    },
+    {
+      "position": 4,
+      "title": "HYTE Y70 Touch Infinite White Step-by-Step Guide on How ...",
+      "link": "https://www.youtube.com/watch?v=0YlhZONxR0I",
+      "displayed_link": "801.4K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bd31fad36cc8d5800ed/images/e3cgs_jD-HK6vraWJ24jAH-Ob19NGgYSrdYr_Bk9GTY.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Here&#39;s how to build a Gaming PC using the Snow White HYTE Y70 Touch Infinite case, AMD Ryzen 9 9950X3D, and AORUS. Complete Step-by-Step ...",
+      "duration": "1:35:04",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=0"
+        },
+        {
+          "time": "04:13",
+          "title": "Motherboard Prep",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=253"
+        },
+        {
+          "time": "06:18",
+          "title": "RAM Install",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=378"
+        },
+        {
+          "time": "09:38",
+          "title": "SSD Install",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=578"
+        },
+        {
+          "time": "16:05",
+          "title": "Motherboard Install",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=965"
+        },
+        {
+          "time": "20:30",
+          "title": "PC Panel Connectors Install",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=1230"
+        },
+        {
+          "time": "24:24",
+          "title": "Bottom Reverse Blade",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=1464"
+        },
+        {
+          "time": "31:37",
+          "title": "Top or Side Fans",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=1897"
+        },
+        {
+          "time": "33:14",
+          "title": "TOP Standard Blade Fans",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=1994"
+        },
+        {
+          "time": "36:25",
+          "title": "AIO Side Mount Options",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=2185"
+        },
+        {
+          "time": "39:54",
+          "title": "AIO Pump CPU Install",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=2394"
+        },
+        {
+          "time": "43:17",
+          "title": "PSU Prep / Install",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=2597"
+        },
+        {
+          "time": "48:55",
+          "title": "Nexus NP50 Portal",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=2935"
+        },
+        {
+          "time": "51:11",
+          "title": "Internal USB Headers",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=3071"
+        },
+        {
+          "time": "55:26",
+          "title": "Noodle LN60",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=3326"
+        },
+        {
+          "time": "01:00:27",
+          "title": "PSU CPU Motherboard Connector",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=3627"
+        },
+        {
+          "time": "01:02:49",
+          "title": "PSU Connecting 24-Pin & CPU to PSU",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=3769"
+        },
+        {
+          "time": "01:05:45",
+          "title": "HYTE Vertical GPU Riser",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=3945"
+        },
+        {
+          "time": "01:09:57",
+          "title": "GPU Install RTX 5090",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=4197"
+        },
+        {
+          "time": "01:12:57",
+          "title": "GPU 12VHPWR Connector",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=4377"
+        },
+        {
+          "time": "01:15:38",
+          "title": "GPU to PSU Connection",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=4538"
+        },
+        {
+          "time": "01:17:13",
+          "title": "AORUS Master FAN",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=4633"
+        },
+        {
+          "time": "01:21:07",
+          "title": "POWER ON",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=4867"
+        },
+        {
+          "time": "01:28:59",
+          "title": "Kanali",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=5339"
+        },
+        {
+          "time": "01:32:57",
+          "title": "B-ROLL",
+          "link": "https://www.youtube.com/watch?v=0YlhZONxR0I&t=5577"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here&#39;s how to build a Gaming PC using the Snow White HYTE Y70 Touch Infinite case, AMD Ryzen 9 9950X3D, and AORUS. Complete Step-by-Step ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0YlhZONxR0I&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0YlhZONxR0I",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRJcKDL5soC2wSpDvnDhJt8jS5N9TdM7OE-1w",
+      "source": "YouTube · FIRE WOLF TECH"
+    },
+    {
+      "position": 5,
+      "title": "HYTE Y70 Touch Infinite ATX Mid Tower Case the best and ...",
+      "link": "https://www.reddit.com/r/PcBuild/comments/1hmf9sr/hyte_y70_touch_infinite_atx_mid_tower_case_the/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPcBuild%2Fcomments%2F1hmf9sr%2Fhyte_y70_touch_infinite_atx_mid_tower_case_the%2F&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98QFnoECDYQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "HYTE Y70 Touch Infinite ATX Mid Tower Case the best and largest case for a gaming PC? IF NOT wondering what you would recommend this is the build I ...",
+      "about_this_result": {
+        "source": {
+          "description": "This case has: Ginormous cooling capacity with support for up to a 360mm radiator on the side (125mm thick) and adjustable top (68mm thick) of ...",
+          "source_info_link": "https://www.reddit.com/r/PcBuild/comments/1hmf9sr/hyte_y70_touch_infinite_atx_mid_tower_case_the/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FPcBuild%2Fcomments%2F1hmf9sr%2Fhyte_y70_touch_infinite_atx_mid_tower_case_the%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FPcBuild%2Fcomments%2F1hmf9sr%2Fhyte_y70_touch_infinite_atx_mid_tower_case_the%2F",
+      "source": "Reddit · r/PcBuild"
+    },
+    {
+      "position": 6,
+      "title": "HYTE Y70 touch infinite Modern Aesthetic Tempered Glass ...",
+      "link": "https://www.microcenter.com/product/686258/hyte-y70-touch-infinite-modern-aesthetic-tempered-glass-atx-mid-tower-computer-case-pitch-black",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F686258%2Fhyte-y70-touch-infinite-modern-aesthetic-tempered-glass-atx-mid-tower-computer-case-pitch-black&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98QFnoECDMQAQ",
+      "displayed_link": "https://www.microcenter.com › ... › Computer Cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case that delivers next gen gaming experiences with massive 4 slot vertical graphics",
+      "snippet_highlighted_words": [
+        "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case that delivers next gen gaming experiences with massive 4 slot vertical graphics",
+          "source_info_link": "https://www.microcenter.com/product/686258/hyte-y70-touch-infinite-modern-aesthetic-tempered-glass-atx-mid-tower-computer-case-pitch-black",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F686258%2Fhyte-y70-touch-infinite-modern-aesthetic-tempered-glass-atx-mid-tower-computer-case-pitch-black&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F686258%2Fhyte-y70-touch-infinite-modern-aesthetic-tempered-glass-atx-mid-tower-computer-case-pitch-black",
+      "source": "Micro Center"
+    },
+    {
+      "position": 7,
+      "title": "why the HYTE Y70 Touch is PC CASE PERFECTION",
+      "link": "https://www.youtube.com/watch?v=1CNYECXpMOs",
+      "displayed_link": "11.8K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb3eSU0K9oKzYOJaJdqeaT1lhSpPlTdJiLPRwMYaF73qo2uY03F05Jcg&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "The gorgeous high-resolution touch screen, the unique air vents, massive cable covers and oversize Velcro ties are some stand (CPU reviews)",
+      "duration": "12:03",
+      "about_this_result": {
+        "source": {
+          "description": "The gorgeous high-resolution touch screen, the unique air vents, massive cable covers and oversize Velcro ties are some stand (CPU reviews)",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1CNYECXpMOs&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1CNYECXpMOs",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTnyVdbZLmLGKXK0pTztKRiim82Xu3ZL43M1w",
+      "source": "YouTube · CrazyTechLab"
+    },
+    {
+      "position": 8,
+      "title": "Y70 - Our New ATX PC Case - Snow White",
+      "link": "https://hyte.com/store/y70/cs-hyte-y70-ww?srsltid=AfmBOop98IqlR_hu7GOcnL4uzR5sMo3ME0IGk_eoz_siSLPUXBQOwHiJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fhyte.com%2Fstore%2Fy70%2Fcs-hyte-y70-ww%3Fsrsltid%3DAfmBOop98IqlR_hu7GOcnL4uzR5sMo3ME0IGk_eoz_siSLPUXBQOwHiJ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98QFnoECDIQAQ",
+      "displayed_link": "https://hyte.com › store › y70 › cs-hyte-y70-ww",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAzUlEQVR4AaVTxRXCMABFl-gInDh3AHwTdJmcOdEL7kzADNiJFXBN8-uuee-3Sb7EE8VOzYTvIpdnIAwnhpsC1Ak4q95ozCoiGCjDB39LHX8BWtVnNIOgAbGBxxhAJGLC0e8gi7_dZOcEeNU1f0D8tg1Kr2f8TSEeHK-NjvT_vktR8Ecb_T4cQcDJUdRLaFNG3SXghICbU4A05f9bB4o94OYdgOIT4L2ECee7hNibGP8YlYskRLlI1qu8iXqVre_h42O2PyYjsC6P58xb9SIqIayAaumPLAAAAABJRU5ErkJggg.png",
+      "snippet": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case massive 4 slot vertical graphics. MSRP $399.99 $199.99 + $150 Exterior Dimensions 470 x 320 ...",
+      "snippet_highlighted_words": [
+        "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Y70 is an upgraded dual chamber ATX mid tower modern aesthetic case massive 4 slot vertical graphics. MSRP $399.99 $199.99 + $150 Exterior Dimensions 470 x 320 ...",
+          "source_info_link": "https://hyte.com/store/y70/cs-hyte-y70-ww?srsltid=AfmBOop98IqlR_hu7GOcnL4uzR5sMo3ME0IGk_eoz_siSLPUXBQOwHiJ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAzUlEQVR4AaVTxRXCMABFl-gInDh3AHwTdJmcOdEL7kzADNiJFXBN8-uuee-3Sb7EE8VOzYTvIpdnIAwnhpsC1Ak4q95ozCoiGCjDB39LHX8BWtVnNIOgAbGBxxhAJGLC0e8gi7_dZOcEeNU1f0D8tg1Kr2f8TSEeHK-NjvT_vktR8Ecb_T4cQcDJUdRLaFNG3SXghICbU4A05f9bB4o94OYdgOIT4L2ECee7hNibGP8YlYskRLlI1qu8iXqVre_h42O2PyYjsC6P58xb9SIqIayAaumPLAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fhyte.com%2Fstore%2Fy70%2Fcs-hyte-y70-ww%3Fsrsltid%3DAfmBOop98IqlR_hu7GOcnL4uzR5sMo3ME0IGk_eoz_siSLPUXBQOwHiJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhyte.com%2Fstore%2Fy70%2Fcs-hyte-y70-ww%3Fsrsltid%3DAfmBOop98IqlR_hu7GOcnL4uzR5sMo3ME0IGk_eoz_siSLPUXBQOwHiJ",
+      "source": "HYTE"
+    },
+    {
+      "position": 9,
+      "title": "[KitGuruTech] Hyte Y70 Touch - the BEST LCD case yet : r ...",
+      "link": "https://www.reddit.com/r/hardware/comments/18jfvh2/kitgurutech_hyte_y70_touch_the_best_lcd_case_yet/",
+      "displayed_link": "4 comments · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShQlxsplyiFErz81GsUtTGATA6dvtv6ooUHPEXUp9wWaubUPLXiLziFg&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "HYTE Y70 Touch Infinite ATX Mid Tower Case the best and largest case for a gaming PC? 1. 0. $5000 White ARGB Hyte Y70 Build · r/buildapc. • 1mo ...",
+      "duration": "23:50",
+      "about_this_result": {
+        "source": {
+          "description": "HYTE Y70 Touch Infinite ATX Mid Tower Case the best and largest case for a gaming PC? 1. 0. $5000 White ARGB Hyte Y70 Build · r/buildapc. • 1mo ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fhardware%2Fcomments%2F18jfvh2%2Fkitgurutech_hyte_y70_touch_the_best_lcd_case_yet%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fhardware%2Fcomments%2F18jfvh2%2Fkitgurutech_hyte_y70_touch_the_best_lcd_case_yet%2F",
+      "source": "Reddit · r/hardware"
+    },
+    {
+      "position": 10,
+      "title": "This PC Case is INCREDIBLE! Hyte Y70 Touch!",
+      "link": "https://www.youtube.com/watch?v=ZLobha62K_M",
+      "displayed_link": "13.5K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIiGT7jjKonsWsDSF73xmoTDgkyOR-ycVD_tYmV2EvDZuQxvzAutsE9Q&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "... GAMING WIFI ATX AM5 Memory: TEAMG Delta RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Storage: Kingston KC3000 2TB M.2 PCIe 4.0 X4 NVME SSD Video ...",
+      "duration": "11:29",
+      "about_this_result": {
+        "source": {
+          "description": "... GAMING WIFI ATX AM5 Memory: TEAMG Delta RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Storage: Kingston KC3000 2TB M.2 PCIe 4.0 X4 NVME SSD Video ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZLobha62K_M&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZLobha62K_M",
+      "source": "YouTube · Stince Built"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "HYTE Y70 Touch price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=HYTE+Y70+Touch+price&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyte Y70 Touch build",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Hyte+Y70+Touch+build&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hyte+Y70+Touch+build"
+    },
+    {
+      "block_position": 1,
+      "query": "HYTE Y70 touch infinite manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=HYTE+Y70+touch+infinite+manual&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+touch+infinite+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyte Y70 Touch discontinued",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Hyte+Y70+Touch+discontinued&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hyte+Y70+Touch+discontinued"
+    },
+    {
+      "block_position": 1,
+      "query": "HYTE Y70 screen",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=HYTE+Y70+screen&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+screen"
+    },
+    {
+      "block_position": 1,
+      "query": "HYTE Y70 Touch Infinite black",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=HYTE+Y70+Touch+Infinite+black&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+black"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyte Y70 build",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Hyte+Y70+build&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hyte+Y70+build"
+    },
+    {
+      "block_position": 1,
+      "query": "Y70 touch infinite Display Upgrade",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Y70+touch+infinite+Display+Upgrade&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Y70+touch+infinite+Display+Upgrade"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYEiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAF6BAgXEBw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYEiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAJ6BAgXEB0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+sale&gl=us&shoprs=CAESBEoCGAEYBiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY9_IgYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAN6BAgXEB4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+sale"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYEiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAR6BAgXEB8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAV6BAgXECA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?hl=en&q=white+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYASqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyFwgBEgVXaGl0ZToMCLHN_gEQs83-ATAAWPfyIGAB&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAZ6BAgXECE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYASqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyFwgBEgVCbGFjazoMCLHN_gEQss3-ATAAWPfyIGAB&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAd6BAgXECI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Desktop Computer Cases",
+      "link": "https://www.google.com/search?hl=en&q=desktop+computer+cases+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYCSqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyGggJEhZEZXNrdG9wIENvbXB1dGVyIENhc2VzYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAh6BAgXECM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computer+cases+hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+sale&gl=us&shoprs=CAEYEiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAl6BAgXECQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+sale"
+    },
+    {
+      "query": "Under $500",
+      "link": "https://www.google.com/search?hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+under+%24500&gl=us&shoprs=CAESDRILEQAAAABlzb1BGAEYBSqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyIwgFEgpVbmRlciAkNTAwGAIiDRILEQAAAABlzb1BGAEqAhgBWPfyIGAB&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAp6BAgXECU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+under+%24500"
+    },
+    {
+      "query": "For Gaming",
+      "link": "https://www.google.com/search?hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for&gl=us&shoprs=CAEYASqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyHAgBEgpGb3IgR2FtaW5nGAI6CgjE03cQxdN3MANY9_IgYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAt6BAgXECY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+free+shipping&gl=us&shoprs=CAESBFICEAEYGSqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKAx6BAgXECc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+free+shipping"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYCiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyBwgKEgNOZXdY9_IgYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKA16BAgXECg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&q=used+HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAEYCiqyAWh5dGUgeTcwIHRvdWNoIGluZmluaXRlIGF0eCBtaWQgdG93ZXIgZ2FtaW5nIHBjIGNhc2UgY2FzZSBkcml2ZV9iYXlzIG1heF9jb29sZXJfaGVpZ2h0X21tIG1heF9ncHVfbGVuZ3RoX21tIHBzdV9mb3JtX2ZhY3RvciBzdXBwb3J0ZWRfbW90aGVyYm9hcmRfZm9ybV9mYWN0b3JzIHN1cHBvcnRlZF9yYWRpYXRvcnMyCAgKEgRVc2VkWPfyIGAB&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKA56BAgXECk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&shoprs=CAESAmoAGBYqsgFoeXRlIHk3MCB0b3VjaCBpbmZpbml0ZSBhdHggbWlkIHRvd2VyIGdhbWluZyBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAE&sa=X&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Qip4GKA96BAgXECo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hyte+y70+touch+infinite+atx+mid+tower+gaming+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=10&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8NMDegQIYRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=10&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAE",
+      "3": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=20&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAG",
+      "4": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=30&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAI",
+      "5": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=40&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAK",
+      "6": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=50&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAM",
+      "7": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=60&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAO",
+      "8": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=70&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAQ",
+      "9": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=80&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAS",
+      "10": "https://www.google.com/search?q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=03tfaui6MKDYi-gPofnO-Q0&start=90&sa=N&sstk=AU9db-Ce_hdJrqyFwBRCFKCS4ZP24yDRtERsUtUf_SvvazCmQ_Jt9_fVjymstGnuEHkpvKxrFJBLX9F-PWYo_Dt_zLwncHpjLENSBQ&ved=2ahUKEwio8NG59-OVAxUg7AIHHaG8M98Q8tMDegQIYRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=HYTE+Y70+Touch+Infinite+ATX+Mid+Tower+Gaming+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=90"
+    }
+  }
+}

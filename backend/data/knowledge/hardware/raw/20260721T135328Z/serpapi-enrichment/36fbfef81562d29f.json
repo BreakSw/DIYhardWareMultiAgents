@@ -1,0 +1,625 @@
+{
+  "search_metadata": {
+    "id": "6a5f7abc5a5e964dc4a90a73",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rdn2x0fvC47vGaepojmE3Q/6a5f7abc5a5e964dc4a90a73.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/rdn2x0fvC47vGaepojmE3Q/6a5f7abc5a5e964dc4a90a73.json_with_pixel_position",
+    "created_at": "2026-07-21 13:57:16 UTC",
+    "processed_at": "2026-07-21 13:57:16 UTC",
+    "google_url": "https://www.google.com/search?q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count&oq=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/rdn2x0fvC47vGaepojmE3Q/6a5f7abc5a5e964dc4a90a73.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "V-color Manta XSky Ddr5 32gb 6000MHz SK Hynix IC RGB Gaming Desktop Memory Module Black tmxsa memory module_count",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "V-color Manta XSky Ddr5 32gb 6000MHz SK Hynix IC RGB Gaming Desktop Memory Module Black tmxsa memory module_count",
+    "total_results": 7,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSRXFvaCYNyajmTT2qOOhkvZSTMFe6xlYFlh41EA-olffH_rRMjyJ3e-bzgdoS1zaQltdrXqFwDh1wVeInJJOvFVhAhP8xoqpxpD5c8ghrXiwPL8IVCLrI",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "V-color Manta XSky Ddr5 32gb 6000MHz SK Hynix IC RGB Gaming Desktop Memory Module Black tmxsa",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$389.99",
+      "extracted_price": 389.99,
+      "original_price": "$449",
+      "extracted_original_price": 449,
+      "delivery": "Free delivery",
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "iwmUonicdZJLjttGFEWBrCG7IAwUq_jNrCmpqGY3SYmf4mfSKLIoiWLxI4n6kPAesge1HcAe2gYyzTY6qwndmSaz93CB8-69eL_fi_LPS9xtaNdssIsysFqsoHXohvXpS3ds2TnvS_ZDVBEAQNNkXZYgkhGQNPAlpz3l7bZk3zUJaSJAQEeqJsqqqKnqt11BGS-bwt1siuO8zUv2TdEh1HRVRqKi6qqiyvBrWdNt8a7-EGWkIFVEE1qa7kmqpMHXIzu9SavZi6hBHSL0ky8BoEBdU8SPK8-dv_yP-PlwLo7D24F8yFveHgWbNj0VYr8ahDk7ygKC20xQplD2chT8J2E5NOVNeJwJnmkIJq3LZivMi1PVt51gF3V7HAR7aoMXgsFpXgl9fTtRof5Xqd-Vl7w9N_3nbfee5j88vdZTCbKqSNM6tTkNuqKK8LW79Pfd9tN5Yvx13_L7-XTf8XvR_NHS7rLJ__7l10V7nc9O19k67Doy94APOM2gw0lgPPkBRznxenu0XB8bMtk7zxRZFdk_XG2THQKRiHacPlNTP3gBtgLzFvpzvskWhIZ7bxWGBEaRd2UBM8Jl-vRMdJrAxUCJ09rYaiLsraKZaAXcUHK-BkWlwQxZoxfpcbgkdR4sriy2NnSRmhlmthtYq9zE53XVWySUpYizji2TkUJtJJyQoLGGJBTHMPRcN-pXyR47DgAjId6QA7LLx0oMYgNlMD2Ec8Nl_OHqVBNb9AiLOGELcPNIOyaE7zPE1usmlQqCS3vEckJ2KKt17GMnigEjFLR9UrEDwSFgInm0Y4-SmPk5z0Ee9buwzq8Z50kS6qtUTC_riO0yUI0RxzgeHYWZ6eAuE0Tr2xMz-8eQdxXb89hBFg7gSfICS_JE_RSO3ImW-Y3EPIiwkTi82zPCLikgDQmcJFpsfYzSJDfTXW7KtVdpY7I31h55GPwGXyf_o1lahrd0BjdKfdcEkETcyKFl0TGRUrRzgmCBgmoreWEfpkBuPt1Ox80beMBy77tqNj5tzgiXt8Pmg8tgfNWcG46HGknb30RVkxQJwp_PqPwDVmJPmQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iwmUonicdZJLjttGFEWBrCG7IAwUq_jNrCmpqGY3SYmf4mfSKLIoiWLxI4n6kPAesge1HcAe2gYyzTY6qwndmSaz93CB8-69eL_fi_LPS9xtaNdssIsysFqsoHXohvXpS3ds2TnvS_ZDVBEAQNNkXZYgkhGQNPAlpz3l7bZk3zUJaSJAQEeqJsqqqKnqt11BGS-bwt1siuO8zUv2TdEh1HRVRqKi6qqiyvBrWdNt8a7-EGWkIFVEE1qa7kmqpMHXIzu9SavZi6hBHSL0ky8BoEBdU8SPK8-dv_yP-PlwLo7D24F8yFveHgWbNj0VYr8ahDk7ygKC20xQplD2chT8J2E5NOVNeJwJnmkIJq3LZivMi1PVt51gF3V7HAR7aoMXgsFpXgl9fTtRof5Xqd-Vl7w9N_3nbfee5j88vdZTCbKqSNM6tTkNuqKK8LW79Pfd9tN5Yvx13_L7-XTf8XvR_NHS7rLJ__7l10V7nc9O19k67Doy94APOM2gw0lgPPkBRznxenu0XB8bMtk7zxRZFdk_XG2THQKRiHacPlNTP3gBtgLzFvpzvskWhIZ7bxWGBEaRd2UBM8Jl-vRMdJrAxUCJ09rYaiLsraKZaAXcUHK-BkWlwQxZoxfpcbgkdR4sriy2NnSRmhlmthtYq9zE53XVWySUpYizji2TkUJtJJyQoLGGJBTHMPRcN-pXyR47DgAjId6QA7LLx0oMYgNlMD2Ec8Nl_OHqVBNb9AiLOGELcPNIOyaE7zPE1usmlQqCS3vEckJ2KKt17GMnigEjFLR9UrEDwSFgInm0Y4-SmPk5z0Ee9buwzq8Z50kS6qtUTC_riO0yUI0RxzgeHYWZ6eAuE0Tr2xMz-8eQdxXb89hBFg7gSfICS_JE_RSO3ImW-Y3EPIiwkTi82zPCLikgDQmcJFpsfYzSJDfTXW7KtVdpY7I31h55GPwGXyf_o1lahrd0BjdKfdcEkETcyKFl0TGRUrRzgmCBgmoreWEfpkBuPt1Ox80beMBy77tqNj5tzgiXt8Pmg8tgfNWcG46HGknb30RVkxQJwp_PqPwDVmJPmQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRh-kcLVdqPfX1OrFqVFxI6tD_rAk6117EqblY3AXeXJzqRD9iRqmNZTXzmSpUoQk9OAJ736h9bfsgd-K69S5ixKItYpAeZ3NQ6e-X_CWXDLsezkg7lWHY0rg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "V-color Manta XSky Ddr5 32gb 6400MHz Cl32 1.4v SK Hynix IC Gaming Desktop Upgrade Memory Module Black",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$439.99",
+      "extracted_price": 439.99,
+      "immersive_product_page_token": "_efse3icdZPLjqNWEIalPEPeAo10Llyza8zFxg1uDlezaXGzwRzg2MY2RvMOeQf3TKTJcrLINq_ReZrQM-vsSvVV_fr_kur3R1n_fY3ZLmXdztjgDLzoL8g6srt7_sZOfXHJh7r4S5EVCYhIAFBBssiLvCR9y9Mhpf1-phgjRRREQUFQAEBSREn4XpVpQeuu3Ox25Unr8x9jmJ8lZB5hyItIRlj4s27TffkTixIvyQpAvISQgqGCRfntVJzf-ZfFK5SRguZ9SYY8mI0osgg_v5CN9vo_8OvxUp7u78fwU97T_sTZaTekXOw1d04rTgKH0T7jRACAvZw4b80t7109cqsFR0yVM9O27vacVp6boWecXbb96c7Z8zFoyak0zRtuaMdzyrU_SfuDvOb9pRu-7tlHGIR4KCmyIIlYkTH6KN_auvg-Nz6iKwLPiyKPgILf2HV4VPsvl1nin8eePi7nR0UfZfdHn7LrLv_3l1_1_qYtzreFGzAWagR4OPGdpoii2NI9X11EVCWJHsAA8Dhp2CpE8LnQq2YTsbs_WWpOq_Q5kkG6dMe8I9SDjM9adyrgk-D7ztU_EL7UinXR0nVOnUM8JWPYFLYNFOhDBqOmOvuNfY-BtXIQBcEyuAXRmM5-XKLfxmypTwVQxm1ElsRXoTNRwaXySIATRdRpXSR0xDBeQurAzGR2orNbpCfAPhRHmzrEj4wtQTzvHUKUhCzeTuqB6GTIcc6nZnLZ4nkkGlkCrDoImjHRHFx2IXMjIXCD0XBMeCVtcdkYqpeZihE0W5hF1SkzQpSaCrWjpLXN2Td0rgViqY_Dla3tAcH25PsVCLrKS3R6mnUqOwy954gugs7CRKMemQyQBdZgG0aQBkYTTGrtdUwLI6K6h-QaLI0u9AsUQ7IuYjaUy9AuDcvaguJKzETdaE5IupVn4GSbm0mVm0JLGnnaHlSXhE93rzNuZWhMZm2pZOncN1Hi56DYeVN1JJQ1mT5aWdyPkUaffTOJiy5HgU7Jl_F82r2DJ0MYvI2UTevdBRv1eNx92sxmbrIzGvG9xfz-NyjJ88Mi9PEf4n8J9075",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_efse3icdZPLjqNWEIalPEPeAo10Llyza8zFxg1uDlezaXGzwRzg2MY2RvMOeQf3TKTJcrLINq_ReZrQM-vsSvVV_fr_kur3R1n_fY3ZLmXdztjgDLzoL8g6srt7_sZOfXHJh7r4S5EVCYhIAFBBssiLvCR9y9Mhpf1-phgjRRREQUFQAEBSREn4XpVpQeuu3Ox25Unr8x9jmJ8lZB5hyItIRlj4s27TffkTixIvyQpAvISQgqGCRfntVJzf-ZfFK5SRguZ9SYY8mI0osgg_v5CN9vo_8OvxUp7u78fwU97T_sTZaTekXOw1d04rTgKH0T7jRACAvZw4b80t7109cqsFR0yVM9O27vacVp6boWecXbb96c7Z8zFoyak0zRtuaMdzyrU_SfuDvOb9pRu-7tlHGIR4KCmyIIlYkTH6KN_auvg-Nz6iKwLPiyKPgILf2HV4VPsvl1nin8eePi7nR0UfZfdHn7LrLv_3l1_1_qYtzreFGzAWagR4OPGdpoii2NI9X11EVCWJHsAA8Dhp2CpE8LnQq2YTsbs_WWpOq_Q5kkG6dMe8I9SDjM9adyrgk-D7ztU_EL7UinXR0nVOnUM8JWPYFLYNFOhDBqOmOvuNfY-BtXIQBcEyuAXRmM5-XKLfxmypTwVQxm1ElsRXoTNRwaXySIATRdRpXSR0xDBeQurAzGR2orNbpCfAPhRHmzrEj4wtQTzvHUKUhCzeTuqB6GTIcc6nZnLZ4nkkGlkCrDoImjHRHFx2IXMjIXCD0XBMeCVtcdkYqpeZihE0W5hF1SkzQpSaCrWjpLXN2Td0rgViqY_Dla3tAcH25PsVCLrKS3R6mnUqOwy954gugs7CRKMemQyQBdZgG0aQBkYTTGrtdUwLI6K6h-QaLI0u9AsUQ7IuYjaUy9AuDcvaguJKzETdaE5IupVn4GSbm0mVm0JLGnnaHlSXhE93rzNuZWhMZm2pZOncN1Hi56DYeVN1JJQ1mT5aWdyPkUaffTOJiy5HgU7Jl_F82r2DJ0MYvI2UTevdBRv1eNx92sxmbrIzGvG9xfz-NyjJ88Mi9PEf4n8J9075"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRMgOtCt2jkEFOakD0xAOTG2oi4EoxxJFTq3NK-b9Es133Iq7eF9vb9W6Jp21kQL14tok4hRfhP5bpxsR31jocGKW0FRNUylBUADdqg_LsH0aHfNFkXab90zg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "V-Color Manta XSky 32GB DDR5 6000MHz CL36 Memory",
+      "price": "$409.99",
+      "extracted_price": 409.99,
+      "immersive_product_page_token": "XKZbBHicJY_LzptGAIXV50GV5sIAzs42DDZ_gBgYjNlEY27GXI3BBl6gy75C5D-plC6TSN32NdKnqZOc7afz6Zw_H0n-zy1oU97WKbXxEbzT3iHj0k676-e2a-Ih6vP4KyQIkWdEWQIiwQgT_DniPS-bLI-_QSjDBYREIlCSJFlZELT4ckp4XOZ1Yqdp0qlN9LTIQMJIlBRRWYhIXAAskr_zimfJT_wNEgBFCQIZiEARCQEIyK9dfP3w6TIk3fT94v8eNWXTCSavey4EbjEJatwRAaPsKEgAAHMzC-6LsJnqfBS2a8HRV4LOq7zOBDW5Fn3TCmZSNd0kmM9nZSKsSh4VQl-NVy5Uv0j1k7yPmqHuP2Xtj90QiBACRZJlRZGIAjBCr1Uef3htb_3jlH0cnoV_H1n5GK6PU_lI6r8a3t7S6L_f_tAu2_V62K52rG191QEuoPi4BrNZWNjVr-MOWV1cU34snXNCDdfdhBeP9bewPgWJdoJWuZz3bGHxNZzsDaURsnI-wbMHT4MFDNcrjfR4doZQtVpr40yHSut30EhjNQSsjuGBjZQH1t3Dzpk9xQfUSr5m1WZhvHhzeGUqI9GmmfY6uJtUI0cWF35xB46_khhY2F4x8piB0dd30NZDuq9pEFW-ZO8P6G3gDPaebNl5RZw9Hfw9uVt16cW6kSZqmAbggA-Fed-VhuXQFjCv9D0AJlbQ4licsM1iYzeHo4PovK9aydYsz_eNSzhug7g83cOK3o9VqHuzlZt0RZlqvETBirDA5NuCahHekrA0J05pl9CFGuoZdmcfOTjsrTm2vIKKple-eEz7OF679DtYUtK7tjwul612luzZfG9oUL1Z4HzeUZwll-UbKCuiJCKEZQXK_wNAtw74",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XKZbBHicJY_LzptGAIXV50GV5sIAzs42DDZ_gBgYjNlEY27GXI3BBl6gy75C5D-plC6TSN32NdKnqZOc7afz6Zw_H0n-zy1oU97WKbXxEbzT3iHj0k676-e2a-Ih6vP4KyQIkWdEWQIiwQgT_DniPS-bLI-_QSjDBYREIlCSJFlZELT4ckp4XOZ1Yqdp0qlN9LTIQMJIlBRRWYhIXAAskr_zimfJT_wNEgBFCQIZiEARCQEIyK9dfP3w6TIk3fT94v8eNWXTCSavey4EbjEJatwRAaPsKEgAAHMzC-6LsJnqfBS2a8HRV4LOq7zOBDW5Fn3TCmZSNd0kmM9nZSKsSh4VQl-NVy5Uv0j1k7yPmqHuP2Xtj90QiBACRZJlRZGIAjBCr1Uef3htb_3jlH0cnoV_H1n5GK6PU_lI6r8a3t7S6L_f_tAu2_V62K52rG191QEuoPi4BrNZWNjVr-MOWV1cU34snXNCDdfdhBeP9bewPgWJdoJWuZz3bGHxNZzsDaURsnI-wbMHT4MFDNcrjfR4doZQtVpr40yHSut30EhjNQSsjuGBjZQH1t3Dzpk9xQfUSr5m1WZhvHhzeGUqI9GmmfY6uJtUI0cWF35xB46_khhY2F4x8piB0dd30NZDuq9pEFW-ZO8P6G3gDPaebNl5RZw9Hfw9uVt16cW6kSZqmAbggA-Fed-VhuXQFjCv9D0AJlbQ4licsM1iYzeHo4PovK9aydYsz_eNSzhug7g83cOK3o9VqHuzlZt0RZlqvETBirDA5NuCahHekrA0J05pl9CFGuoZdmcfOTjsrTm2vIKKple-eEz7OF679DtYUtK7tjwul612luzZfG9oUL1Z4HzeUZwll-UbKCuiJCKEZQXK_wNAtw74"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTkiWNdsyIVcDUlS6aoaavwu2HPAasacoeHZPu-Ij0KJp1_W38_gUzT1d_fdGimg02gI1VqiE0m8s4zG41lqZ6reFiSOTZkoa0k3U2GHNjDOPYw3F7gzvrM",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLmA5xX97YEyUeWttyp0GZJoClgBhChGvNVAgVZG1iY4w1WterJxcgj1K9DQWQeWmoxdOF-_ORNeOMQysiGBy38MCwRDT4jB0",
+      "source": "Mercari",
+      "title": "Hynix V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL36 1.25V SK Original IC RG - Electronics",
+      "price": "$485.00",
+      "extracted_price": 485.0,
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "5j-ULHicbdLLbptAGAVg9XlQpZnhYrs72zBg14C5DZdNhAEDZrgYsI15ib5C5CSV0mVUqdu-Rvo0TdJtN__m05HOkf5vtyT_dfaafdhUe6yzO7CVtmh9bK5G99y0dXyK-jx-mc3QlEOIZafCjEcchJPnKOxDWqd5fP-SJWFM8yrR9_ukFevov4EfeRmmyYf-hAKcQR5CMOE4gUcI8DP-oY27-6fjKWmvr0fyOapp3TJqWPUh41nFlRHjlmdYlO4YAQCgKiNjfWWUa5UPzGrJmPKCkcMyr1JGTLqirxtGTcq6vTLq2waaMAsaRgXTl0MXMuU_KT_kLqpPVf-UNm_F7h_K99Oc-1uWPp7e9PctpbdTd8voLam-12Fz3kd_Ph2k-rJcdpeF4TQNEU1glTFnQ7z3rzDXHZL7cD7uUCzsqoD1UWYYVezuQIFsOjsnckZ3oCdRiZchIq42rk2VmF99mgFCNN31FpxRmdsQ4k1QzGpLxlsTwZEogeDIjaU62dFiV71qk5NzwKLjaX0kB2LiFrymaFfLHTYWmx1jR1N9GjgbDwuRO8CgWnGq27eOBFDs-tApgqOG19gmpLMlaJqgGW12Qa1xLW28tRxSDQUlYG2bFjsw1D40tZA0nVFAPR41gwB80l0smDBTHDeQLBbLUhYjV1mUvrc4BUWwVdHq4kjEUItmiBRqRkOdG445RgdaEhxIdgmxB-veEVcwouvMIeroF5kSFqYTY3IILo9D1-5fwRzzvaVPhvm8kQ6CPqp3awmKZw0cDgZm0-Q4_wInU054_7nJFE7-Aoxl_LQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5j-ULHicbdLLbptAGAVg9XlQpZnhYrs72zBg14C5DZdNhAEDZrgYsI15ib5C5CSV0mVUqdu-Rvo0TdJtN__m05HOkf5vtyT_dfaafdhUe6yzO7CVtmh9bK5G99y0dXyK-jx-mc3QlEOIZafCjEcchJPnKOxDWqd5fP-SJWFM8yrR9_ukFevov4EfeRmmyYf-hAKcQR5CMOE4gUcI8DP-oY27-6fjKWmvr0fyOapp3TJqWPUh41nFlRHjlmdYlO4YAQCgKiNjfWWUa5UPzGrJmPKCkcMyr1JGTLqirxtGTcq6vTLq2waaMAsaRgXTl0MXMuU_KT_kLqpPVf-UNm_F7h_K99Oc-1uWPp7e9PctpbdTd8voLam-12Fz3kd_Ph2k-rJcdpeF4TQNEU1glTFnQ7z3rzDXHZL7cD7uUCzsqoD1UWYYVezuQIFsOjsnckZ3oCdRiZchIq42rk2VmF99mgFCNN31FpxRmdsQ4k1QzGpLxlsTwZEogeDIjaU62dFiV71qk5NzwKLjaX0kB2LiFrymaFfLHTYWmx1jR1N9GjgbDwuRO8CgWnGq27eOBFDs-tApgqOG19gmpLMlaJqgGW12Qa1xLW28tRxSDQUlYG2bFjsw1D40tZA0nVFAPR41gwB80l0smDBTHDeQLBbLUhYjV1mUvrc4BUWwVdHq4kjEUItmiBRqRkOdG445RgdaEhxIdgmxB-veEVcwouvMIeroF5kSFqYTY3IILo9D1-5fwRzzvaVPhvm8kQ6CPqp3awmKZw0cDgZm0-Q4_wInU054_7nJFE7-Aoxl_LQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSztB0AipyZgvAkqlXqO9vyGL0YMUb_ZaB-6g-DelhvqLJbApbEBQcjMnig0YHmpAU_p4NM2Mu7EUueZoyQHrX7VtaQnCDNgeMNNONRYOxWEqAn-pwGR7i2",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "V-Color Manta XFinity RGB DDR5 32GB Memory",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$392.99",
+      "extracted_price": 392.99,
+      "original_price": "$420",
+      "extracted_original_price": 420,
+      "delivery": "Free delivery",
+      "extensions": [
+        "6% OFF"
+      ],
+      "immersive_product_page_token": "U3d1EXicbZPLjqNGFIaV50GRqigoIDvbXGyPgaZwFZdNCwM2l-LSGLuxNe-QV4jcM5Emy5lI2eY1Ok-SZdDMNsvzf__ROf-Rzq-PvPzrGvbHpG-PposO4Ml4Ercv_c07f-mHLrukY5l9w4osAowlEWtQkzQAsfYlTcaEd6fvVELqzCQkS6qqKlgGX4s8yXjZ5u7xmA96l842iJEqyhKQkSSqMtQQkv4om-SU_8ASlFUERRmpWBMVIGFVexuy87v4tHqWIBYxVACEmowVpMmi-vGJuPrz_7PPL5d8uL2_sJ_TjneDYCftmAihX98EPRtkAYmng4ABAPb6LvgfhPWtLSdhsxKItRSspCnbk6Dn53rsesHOm264CfZ8Cp4LS56ktTA20zkRmh-k-U6e0-7Sjp9P_RzlT6hgCUOsYARkDatI0hB8a8rst7f-Oj6K06fL3PH348Qfl_Oj4I-8_b1L-usx_eenf41ruloN6cqjfc90AnzQTaTJ7nvKdWpNL3bNwz3ke0Y9mDX0bu8NkFPZckBvp1V8cX3oBfU46xs5atiUNBpnsIeutUW7IIJJEBMvdDYHizmR6ODMGIto7wyZQYo0IEd3HR8J8wC7cx6v49AWi4FZkATGGDJjq4dz7TH-5IsaOdTk9SCadqrb46Ex0MGYwj1liNSn12zPl2nllL5pTymVaUS3ulOzld_AIGPLyA6za9xwnJZgzNtlmNfgNbxBJ-OafUD9ENR9mSLTjNd8bQMnjqrTlJrMtSG_uYEZ7KhZuKy3I0pFh7OWNH0RVctdYmRrCg24C-QuaLc8tsgmrrUtawzJpfE-17PJZ9p1F5IuhvxO2bbbse2HOMxMT4xjx3Q2XlhUDh1rm6lyFFLRn31JRYJ8TXwKl0FQLXwTxVFqxUVqyQ2p1fs82yNscfNb8zVn5t0qt0uyduZdY7Kv2C1ixd7nVI7FDHlVtop1x3Z1zj2qdQmF6NN0Ho7vYGHKo-8q02LRGxV27_bz1oD61QFV5ZnolL8sfoGKKs2vKCJFhcp_pvBCOQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=U3d1EXicbZPLjqNGFIaV50GRqigoIDvbXGyPgaZwFZdNCwM2l-LSGLuxNe-QV4jcM5Emy5lI2eY1Ok-SZdDMNsvzf__ROf-Rzq-PvPzrGvbHpG-PposO4Ml4Ercv_c07f-mHLrukY5l9w4osAowlEWtQkzQAsfYlTcaEd6fvVELqzCQkS6qqKlgGX4s8yXjZ5u7xmA96l842iJEqyhKQkSSqMtQQkv4om-SU_8ASlFUERRmpWBMVIGFVexuy87v4tHqWIBYxVACEmowVpMmi-vGJuPrz_7PPL5d8uL2_sJ_TjneDYCftmAihX98EPRtkAYmng4ABAPb6LvgfhPWtLSdhsxKItRSspCnbk6Dn53rsesHOm264CfZ8Cp4LS56ktTA20zkRmh-k-U6e0-7Sjp9P_RzlT6hgCUOsYARkDatI0hB8a8rst7f-Oj6K06fL3PH348Qfl_Oj4I-8_b1L-usx_eenf41ruloN6cqjfc90AnzQTaTJ7nvKdWpNL3bNwz3ke0Y9mDX0bu8NkFPZckBvp1V8cX3oBfU46xs5atiUNBpnsIeutUW7IIJJEBMvdDYHizmR6ODMGIto7wyZQYo0IEd3HR8J8wC7cx6v49AWi4FZkATGGDJjq4dz7TH-5IsaOdTk9SCadqrb46Ex0MGYwj1liNSn12zPl2nllL5pTymVaUS3ulOzld_AIGPLyA6za9xwnJZgzNtlmNfgNbxBJ-OafUD9ENR9mSLTjNd8bQMnjqrTlJrMtSG_uYEZ7KhZuKy3I0pFh7OWNH0RVctdYmRrCg24C-QuaLc8tsgmrrUtawzJpfE-17PJZ9p1F5IuhvxO2bbbse2HOMxMT4xjx3Q2XlhUDh1rm6lyFFLRn31JRYJ8TXwKl0FQLXwTxVFqxUVqyQ2p1fs82yNscfNb8zVn5t0qt0uyduZdY7Kv2C1ixd7nVI7FDHlVtop1x3Z1zj2qdQmF6NN0Ho7vYGHKo-8q02LRGxV27_bz1oD61QFV5ZnolL8sfoGKKs2vKCJFhcp_pvBCOQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQLekikIHxtMk5ID_BWoKCb7Zh_RKzgEtICGAguP9geFwIWjMOZW6bmaNiKGTADMo8ukJAQefK-m_iv2X1kD45q98pWwNxf4lXvqg2zE9rjUfkuingPMWlN",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "V-color Oled XFinity+ Ddr5 32GB RGB Desktop Memory",
+      "price": "$439.99",
+      "extracted_price": 439.99,
+      "immersive_product_page_token": "noDFU3icJY_LjptIGIU1z4NGqgvFJTvTULTdpmhzKWg2ERTYYK5tY7fhJeYVRu5kpMwyiTTbeY3kaeLubP_v6Jz_--taVP-d42GbDt2WujgDj9YjWj0P0-b4ZTj0-UmMVf4dQoCBomJN1oimYKBhCL6IdEybfveGiYwJwjrUkKYRoGoAkq9lkeZN1RXudlsczF685ZCGFAVpCtJlokKiEKj8W7Xprnjn3wi-HW4AaboMb0MEwtdDfvz78_OpOEw_nvmfom_6g-Sk3ZhKsV9PkpkfiITRLpMUAIBzP0v-g3Q_ddVFWt5Jnm1IdtpW3U4yi2M99oPkFG1_mCTnptYUktGkopbG9nJMpfY3ad_JR9GfuvHzbnj_m2AEFKirWIFAlnWoE_LaVvlXoiryzUeFQJUVTVEwfB3O47XcfTrdOv6_7prr6Xgtm2vR_dOnw3krfv7xah3E3d1ZGJtwGLjpAT_mgWsPYRBTkiM6OzasBWTIh_mazbwM92XKg7JmccmFHWLfvlxEq4EobLbrMJzyILeilnUZIq0bJYRFXiTM0uSwmQPTqLOO732LYXHv4HVIjCz2aoHgixuuXN6V1SY27iJbu3DOfG7BI0N0k6HyZR3qj1lYzlm9nHJbnwJO7byjxxguIJ9zhwHO8lC315xGGaaPAmpyMBt91l6sgG-A1-qBj-SJ0dXZscdbNjfjOX9g9806istQ7I2SdUscNY3rzcn2CcEgA2LOAO2ZWcuFnbw5mCFf2cXeM1Kem0E7PjFzCb0wuXWtEn9fYsdYxnlTviQtfcnaxA5mVjnUoKG5ehCxQcLYSZc1tQRekqShfdF6PqdDn9hkDGATsJCYyZz4Xlz2T-1Kzjrx6XI8bH-ABSWj76qXxWKw9oo7Ox9XFjTPDOz3G4p3xfPiA1Q1WZERwqoG1V9LvRvY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=noDFU3icJY_LjptIGIU1z4NGqgvFJTvTULTdpmhzKWg2ERTYYK5tY7fhJeYVRu5kpMwyiTTbeY3kaeLubP_v6Jz_--taVP-d42GbDt2WujgDj9YjWj0P0-b4ZTj0-UmMVf4dQoCBomJN1oimYKBhCL6IdEybfveGiYwJwjrUkKYRoGoAkq9lkeZN1RXudlsczF685ZCGFAVpCtJlokKiEKj8W7Xprnjn3wi-HW4AaboMb0MEwtdDfvz78_OpOEw_nvmfom_6g-Sk3ZhKsV9PkpkfiITRLpMUAIBzP0v-g3Q_ddVFWt5Jnm1IdtpW3U4yi2M99oPkFG1_mCTnptYUktGkopbG9nJMpfY3ad_JR9GfuvHzbnj_m2AEFKirWIFAlnWoE_LaVvlXoiryzUeFQJUVTVEwfB3O47XcfTrdOv6_7prr6Xgtm2vR_dOnw3krfv7xah3E3d1ZGJtwGLjpAT_mgWsPYRBTkiM6OzasBWTIh_mazbwM92XKg7JmccmFHWLfvlxEq4EobLbrMJzyILeilnUZIq0bJYRFXiTM0uSwmQPTqLOO732LYXHv4HVIjCz2aoHgixuuXN6V1SY27iJbu3DOfG7BI0N0k6HyZR3qj1lYzlm9nHJbnwJO7byjxxguIJ9zhwHO8lC315xGGaaPAmpyMBt91l6sgG-A1-qBj-SJ0dXZscdbNjfjOX9g9806istQ7I2SdUscNY3rzcn2CcEgA2LOAO2ZWcuFnbw5mCFf2cXeM1Kem0E7PjFzCb0wuXWtEn9fYsdYxnlTviQtfcnaxA5mVjnUoKG5ehCxQcLYSZc1tQRekqShfdF6PqdDn9hkDGATsJCYyZz4Xlz2T-1Kzjrx6XI8bH-ABSWj76qXxWKw9oo7Ox9XFjTPDOz3G4p3xfPiA1Q1WZERwqoG1V9LvRvY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSZMCKL9zBTsH8LQAHtna4iiH0DinBW9_QUJoj7nb20B9roD-uBAvFKvjYtimuhKJYZE1dWiEqaOIPIhqHDyJUBfQzsuon3QMGpk5XcP0vYmogWMj8zuygB",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - ksmtop",
+      "title": "V-Color Manta XSky RGB 32GB DDR5 6000MHz Dual Channel Kit",
+      "rating": 5.0,
+      "reviews": 5,
+      "price": "$687.90",
+      "extracted_price": 687.9,
+      "immersive_product_page_token": "ZAJ-zHicdZPLjqNWFEWV70GR7oNnZo3xhcLFpXhdDJMS5mEoLpjCuIxR_0N-IXJ1R-oMuyNlmt-ofEmGcXUyzfSsfba0j_b5-Vo2f7xshyob-oq4eAce1g_Ifh4u3vHLMB6KUz41xTdFFoEkS1jSFKSIQFaR_CXPpowf9k3xO4QalCQRiSqWJKTKQJGVr3WZFbzpS7eqytE45O86UYPKu4mGIRYhVhGAvzVdti__41BDAGuKhiCEiqpiCLTXsTi-iQ-rRyiLWIYYyYoKVUWTNQyUjw--azz-D_z8fCrHy9sz-zE_8MMoOFk_ZcI2aC-CUYySgNF-J8gAAMdahGAjWJe-mYW7leCbumBmXdPvBaM8ttNhEJyyO4wXwbndg5eCzrO8FaZuPmZC9y_pvpPH_HDqp8_74XuaWw5FljURQVFURVHBCL12TfHL6_AyXev9p9Nt48_rnl9Px2vNr2X_6yEbXqr8rx_-Xr_kq9WYr7xoGJjhgwDrusf9sAD0WLQTdAz7xGJW73qqp0hah1tupTy97BDb5LGGggZaEWFOZKauw2qcxPbM1lLtt_ZLZNL7jPmbJK59GjIaQZsHoV55qH4IQFFRSFiC7CFAiRRgKka43uy47TPLE6nhL8FC9PRJJzmap7SNEGtTqWgHlwKKPDwseci9IprPOWSJ1xJ9F5NttpC7OEpj11pDB_Eqg3pL1_UxjKX70iQ3HbPinsf-UpxDwO0ylioKOAo62pRsOLFoniNLr7aYDLe5TzvtnsZ0FZP8nHCbMVS07ppvd4u-8jsP7QwWOf0QhFYx5ogk1CTn1PB52vvH-3A9RZBhJ_S9ktt3MScBi4nLorslQ6xPQ-pEARA9ZKdhmEsFqLceSuPI0KckJkYBDyiI6oku-4DgNMnNtM5NqfNbdUmedM9nHy5BT84lI4vZ2Lpv0Ysb31y7ZEmZBjOTH8MIujFPF79nlkso20VcpGDuP83HsXoDH4g0Ba7Um5ski_fnbB5P8tMmUJP1ejZPRErPP93-Q5RFhPB74_8BGXBBdw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZAJ-zHicdZPLjqNWFEWV70GR7oNnZo3xhcLFpXhdDJMS5mEoLpjCuIxR_0N-IXJ1R-oMuyNlmt-ofEmGcXUyzfSsfba0j_b5-Vo2f7xshyob-oq4eAce1g_Ifh4u3vHLMB6KUz41xTdFFoEkS1jSFKSIQFaR_CXPpowf9k3xO4QalCQRiSqWJKTKQJGVr3WZFbzpS7eqytE45O86UYPKu4mGIRYhVhGAvzVdti__41BDAGuKhiCEiqpiCLTXsTi-iQ-rRyiLWIYYyYoKVUWTNQyUjw--azz-D_z8fCrHy9sz-zE_8MMoOFk_ZcI2aC-CUYySgNF-J8gAAMdahGAjWJe-mYW7leCbumBmXdPvBaM8ttNhEJyyO4wXwbndg5eCzrO8FaZuPmZC9y_pvpPH_HDqp8_74XuaWw5FljURQVFURVHBCL12TfHL6_AyXev9p9Nt48_rnl9Px2vNr2X_6yEbXqr8rx_-Xr_kq9WYr7xoGJjhgwDrusf9sAD0WLQTdAz7xGJW73qqp0hah1tupTy97BDb5LGGggZaEWFOZKauw2qcxPbM1lLtt_ZLZNL7jPmbJK59GjIaQZsHoV55qH4IQFFRSFiC7CFAiRRgKka43uy47TPLE6nhL8FC9PRJJzmap7SNEGtTqWgHlwKKPDwseci9IprPOWSJ1xJ9F5NttpC7OEpj11pDB_Eqg3pL1_UxjKX70iQ3HbPinsf-UpxDwO0ylioKOAo62pRsOLFoniNLr7aYDLe5TzvtnsZ0FZP8nHCbMVS07ppvd4u-8jsP7QwWOf0QhFYx5ogk1CTn1PB52vvH-3A9RZBhJ_S9ktt3MScBi4nLorslQ6xPQ-pEARA9ZKdhmEsFqLceSuPI0KckJkYBDyiI6oku-4DgNMnNtM5NqfNbdUmedM9nHy5BT84lI4vZ2Lpv0Ysb31y7ZEmZBjOTH8MIujFPF79nlkso20VcpGDuP83HsXoDH4g0Ba7Um5ski_fnbB5P8tMmUJP1ejZPRErPP93-Q5RFhPB74_8BGXBBdw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR_jjjZUcWzEgmlEY7l7_NidXzxBvGH4Bsv1Oj7Fqy0Mmj1zdvSMmdDGMJa8GywsoA6flqUvDZnO2W_Sq9JA7mtFgCe5mCwcxjetMKx0dEeYzSgD3AZs-EA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQtMbVpOUVjwbyAS6S0QA7uGiVOBT-1Ppv8Hl-afythqX6tlehsEhg3qnuUCZo4eEdgcenE5BNanbUn99OpR2g4deklWQ",
+      "source": "Jawa.gg",
+      "title": "V-Color Manta XFinity RGB 32GB (2x16GB) DDR5-6000 CL30 EXPO/XMP - Brand New Sealed",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$382.05",
+      "extracted_price": 382.05,
+      "immersive_product_page_token": "44SAY3icbc9PjqNGGAVw5TwoUlGADdkNNn_sbnCbosrAplWGMmAKKBtoA8odcoWRZybSZJksss01Osph4mS2s3mb3_uk7_1yZ-Wfb5E4UdGc7J1yBC_WC9xexLTvvoprmw1pX2Z_GDoAQJOXqmFACA1DX2pfU9pT3uZl9vH3gtGMlw3bnU7sum7T71_8VtY0Z99Yh4q2VAxVV3XDAPJCVY1P16x7hy-rV1VewIW8BLJsaItHSYP6zy_Bbv36fftyGdh1er-QH9OWt1fJo01PpQhVk7TOrpqkwPwoLR7feO4soSfJnZpylDYrKXBMyaF12eTSmnVV3wrJY3V7nSTvsZszyeQ0raS-Hjsq1d-k_l9e03Zo-i-5eEz5-Kn-L8Rbfy_yz8ND_7rn_D5094LfWfNrS8XbKf37h3-sYbNaXTarPRaCrAOAcC77iu2hQ6sGtm_Gs7l9joo9I5sp5HaFgVbu4Tj4fLthRHRUMStiG_POyQGxEp_xFjC3cGLcnxACaowDGMCeYGdcBFC9sXPRUWiLPeytQ2RGnkUOhyYGISla4hjYx0blKXbAqsSlwOfpuRgOlVgRqI-Za_c-TOQQFk8JFxar7bOvJF0Y4gmDrEVNoiRIdmM4VkeSCUzs-Ig1P4T6jG1ySddFgSLyHIH9HABueti4okq8HWEfx8C6MZeb2SFpPbK5JXVwO0IfI7hNaBjLO1JNAdQQXpM5i4SCqv7kO9mFuC3I3G0cELGNAVc92ShRFah7Ho907Q_-2e-OPMMMyxfqcg_hDdzP2zDApIwjv4ujAhE7WCTEQraSxKmTFKmj1UGlz_HZ3Afkw4Qa-8aIPTvl1gxcf9odEuzVwewfhAjr8ZmFxGYVCVMl4wQD6Fe8omHSfB676-kdfLC1Hu20xnmK6SG_0fE6LM5PSI8ta3QGW0tuP8lLXV2oECpLXdb_BYj-MVs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=44SAY3icbc9PjqNGGAVw5TwoUlGADdkNNn_sbnCbosrAplWGMmAKKBtoA8odcoWRZybSZJksss01Osph4mS2s3mb3_uk7_1yZ-Wfb5E4UdGc7J1yBC_WC9xexLTvvoprmw1pX2Z_GDoAQJOXqmFACA1DX2pfU9pT3uZl9vH3gtGMlw3bnU7sum7T71_8VtY0Z99Yh4q2VAxVV3XDAPJCVY1P16x7hy-rV1VewIW8BLJsaItHSYP6zy_Bbv36fftyGdh1er-QH9OWt1fJo01PpQhVk7TOrpqkwPwoLR7feO4soSfJnZpylDYrKXBMyaF12eTSmnVV3wrJY3V7nSTvsZszyeQ0raS-Hjsq1d-k_l9e03Zo-i-5eEz5-Kn-L8Rbfy_yz8ND_7rn_D5094LfWfNrS8XbKf37h3-sYbNaXTarPRaCrAOAcC77iu2hQ6sGtm_Gs7l9joo9I5sp5HaFgVbu4Tj4fLthRHRUMStiG_POyQGxEp_xFjC3cGLcnxACaowDGMCeYGdcBFC9sXPRUWiLPeytQ2RGnkUOhyYGISla4hjYx0blKXbAqsSlwOfpuRgOlVgRqI-Za_c-TOQQFk8JFxar7bOvJF0Y4gmDrEVNoiRIdmM4VkeSCUzs-Ig1P4T6jG1ySddFgSLyHIH9HABueti4okq8HWEfx8C6MZeb2SFpPbK5JXVwO0IfI7hNaBjLO1JNAdQQXpM5i4SCqv7kO9mFuC3I3G0cELGNAVc92ShRFah7Ho907Q_-2e-OPMMMyxfqcg_hDdzP2zDApIwjv4ujAhE7WCTEQraSxKmTFKmj1UGlz_HZ3Afkw4Qa-8aIPTvl1gxcf9odEuzVwewfhAjr8ZmFxGYVCVMl4wQD6Fe8omHSfB676-kdfLC1Hu20xnmK6SG_0fE6LM5PSI8ta3QGW0tuP8lLXV2oECpLXdb_BYj-MVs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSTUKQWHVMyMd0IYeWtRJup88K1A4WLJG-lYqCF4uMUvK5hZGz0s9r6SkpGAawbHLKk1kYO2SISdU9MG-23xzGMK_oWRvGrgQfFRW27MuIEP_q33zuBcn9jTA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - v-color official store",
+      "title": "V-COLOR Manta XFinity RGB 32GB DDR5 6000MHz XMP 3.0 AMD EXPO CL36",
+      "price": "$509.99",
+      "extracted_price": 509.99,
+      "immersive_product_page_token": "NkuWkXicJdLLjqNGGAVg5XlQpKqCMuXs2jaFsRsYcylwbaLiYqApLo1xG_MCs8wrjDwzkSbLZKRs8xqTp4lnsvk331mcI_2_3fPq77e4P4m-PVFXTcA74x3avfa3w_lLP3TZJR2r7CvUdaIjAnWIkI6XSCOYfEnFKGRXfGeoLzFY6FhDGBFdhQAu_yxzkcmqzd3TKR82XVplfxEClksEl7q-IBogRCfaH1UjivwHf4UIaxoiC6AhqC0IgVgDH4fs_OHz6yUfbt9e2c9pJ7tBsUU7CiX265uyyQasqKhIlAUAwN7Oir9Xtre2mhRrrXjmSjFFU7WFssnP9dj1ip033XBT7Mc0mSsrKdJaGZvpLJTmf2l-yK9pd2nHz0X_KPbhY_P99G_jvSw-XR76z72Q98v5Xsp73v7eif7tlP7703vj1VqvL9bqEPY923jAZ6yxoQdj5AUpGG1m1DeXEugZ1OVwWTHmxVksVbvlcdRmNw566zlmjFNPeDBEMZhkEDonITlNWmn48xPOgiecbNmBAcmzqKyjQDap2ZuHCq6dhm5CuCsDyE1mnLEPrijZFuoBTG-u2XMRF4BHlCeBF7uBhw7IAjbttBQa0FezMAV9lweOxSP8kpsptmfv6Km0TIHn5FvPtWcqE0SDnC5fjmrZpbVTCTODidwBf5bPHLCYv3DmtF6XytXeB7wM5mwdxrKMagkys8NJkO0DlT0HzFPFXO74ZMWZLK-8odek4WYwO5VNVzTc7PZpvMJhbAurpkaqWphLb80euTDwpigujw7lcxJlmhsXKq-xwyWrmZl-ms7D6Rt4onj0Xdya-6OIiquYhsviZe-To2FM5oVifv0FPj5woSGk6gSS_wD2nwrE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NkuWkXicJdLLjqNGGAVg5XlQpKqCMuXs2jaFsRsYcylwbaLiYqApLo1xG_MCs8wrjDwzkSbLZKRs8xqTp4lnsvk331mcI_2_3fPq77e4P4m-PVFXTcA74x3avfa3w_lLP3TZJR2r7CvUdaIjAnWIkI6XSCOYfEnFKGRXfGeoLzFY6FhDGBFdhQAu_yxzkcmqzd3TKR82XVplfxEClksEl7q-IBogRCfaH1UjivwHf4UIaxoiC6AhqC0IgVgDH4fs_OHz6yUfbt9e2c9pJ7tBsUU7CiX265uyyQasqKhIlAUAwN7Oir9Xtre2mhRrrXjmSjFFU7WFssnP9dj1ip033XBT7Mc0mSsrKdJaGZvpLJTmf2l-yK9pd2nHz0X_KPbhY_P99G_jvSw-XR76z72Q98v5Xsp73v7eif7tlP7703vj1VqvL9bqEPY923jAZ6yxoQdj5AUpGG1m1DeXEugZ1OVwWTHmxVksVbvlcdRmNw566zlmjFNPeDBEMZhkEDonITlNWmn48xPOgiecbNmBAcmzqKyjQDap2ZuHCq6dhm5CuCsDyE1mnLEPrijZFuoBTG-u2XMRF4BHlCeBF7uBhw7IAjbttBQa0FezMAV9lweOxSP8kpsptmfv6Km0TIHn5FvPtWcqE0SDnC5fjmrZpbVTCTODidwBf5bPHLCYv3DmtF6XytXeB7wM5mwdxrKMagkys8NJkO0DlT0HzFPFXO74ZMWZLK-8odek4WYwO5VNVzTc7PZpvMJhbAurpkaqWphLb80euTDwpigujw7lcxJlmhsXKq-xwyWrmZl-ms7D6Rt4onj0Xdya-6OIiquYhsviZe-To2FM5oVifv0FPj5woSGk6gSS_wD2nwrE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQxZ6-wFOYzIF90HnP90PBhDSAtAs3o-bjLj1AXxk_KJJKVkzXItXmCCXRRdr9sSztOgBGS6p0z5x0fYOjy6j_QGtckWdTMbDA-OwjCL9RO-h0A45t4aPT-ng",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - supplybinllc",
+      "title": "V-color Manta Xsky Ddr5 32gb 6200mhz Cl36 Rgb Gaming Ram (2x16gb) For",
+      "rating": 5.0,
+      "reviews": 5,
+      "price": "$399.99",
+      "extracted_price": 399.99,
+      "immersive_product_page_token": "6poJo3icddLLrts2EAZg9HmEAqQoyVZ3lnXxUSLSulESNwe0KFu2KJu-HtnIO_QVAicpkC6bAN32NU7Rh4mTbtvNbL6ZwfzA_Hpv1n9eSrXkarv0CVqAuTfXw726xsfP6rAT5_q0Fl8sNDaANYa6res6HMORAT7X_MTlbrUW7_9oGy7ketuQ5bI5uLv6vyd-X_d81fzgrxDZJoAjG5oQAQRGumkbHw7i-GrMp8_QMpAFkW6NxnA8si370fBunhD3-X_w0_7cHK6ve_pzvZO7gxbx7YlrZdpdNVccTA3pq4VmAQCi2U1L32iz63Y9aE9TLQkcLeD9ervS3ObYnXZKi5p-d7hq0SO6bDRH8rrTTv1w5Fr_r_Q_5LnenbenTyv1SPP-Q_-9qMvp3q4-nh_6130l7-fjvZX3ZvvbjqvLsv77p3-889N0un-axrlS1E1A2ikskCwKD-rUAwh3cpMg5eT62Ei2LOCZOKe5uggkptyfnBZZiIjP_BiFVe2xlwgy_20mSVpSxYN2LqgKcxlfq34FiBuakUcxLYajyNvjAklCAljGYJjlfVgyt3V553cppfscJV5dSkwKvM47eKky2fJOSZ6zeb1xEgzCLsvaIoJ2lAB8qEHysgBMkpkzZ0gMGWzNCCS4CKBJaDjDQWJUG-ZnU0hioNLaxTTtzPni5kOSG0PWsyK7sflCD0tK7YrM_Jy6kjQla7NyAnkx4GLDnrIsN1gBh7gw_bjE6HF_mxbiTTQLW1xgV5Q4few0MPQrnLOygsJjnl0yaifpDC-pTM5YqkTQynib227ej2_Cg5gVdeojVtUBa-vA7JNufKs2TpzQyTXd-i8N9W_BOnSSGb6SgqXsFsOiS65RbhIupcWDGtWBWFZIqjRgUtwc5-NwPCxfwcQ3TykZDZOJ8jYWuUXPoQfdCwabTeyjVbOf_AJHY8MydB09Pnj0DTi2LXA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6poJo3icddLLrts2EAZg9HmEAqQoyVZ3lnXxUSLSulESNwe0KFu2KJu-HtnIO_QVAicpkC6bAN32NU7Rh4mTbtvNbL6ZwfzA_Hpv1n9eSrXkarv0CVqAuTfXw726xsfP6rAT5_q0Fl8sNDaANYa6res6HMORAT7X_MTlbrUW7_9oGy7ketuQ5bI5uLv6vyd-X_d81fzgrxDZJoAjG5oQAQRGumkbHw7i-GrMp8_QMpAFkW6NxnA8si370fBunhD3-X_w0_7cHK6ve_pzvZO7gxbx7YlrZdpdNVccTA3pq4VmAQCi2U1L32iz63Y9aE9TLQkcLeD9ervS3ObYnXZKi5p-d7hq0SO6bDRH8rrTTv1w5Fr_r_Q_5LnenbenTyv1SPP-Q_-9qMvp3q4-nh_6130l7-fjvZX3ZvvbjqvLsv77p3-889N0un-axrlS1E1A2ikskCwKD-rUAwh3cpMg5eT62Ei2LOCZOKe5uggkptyfnBZZiIjP_BiFVe2xlwgy_20mSVpSxYN2LqgKcxlfq34FiBuakUcxLYajyNvjAklCAljGYJjlfVgyt3V553cppfscJV5dSkwKvM47eKky2fJOSZ6zeb1xEgzCLsvaIoJ2lAB8qEHysgBMkpkzZ0gMGWzNCCS4CKBJaDjDQWJUG-ZnU0hioNLaxTTtzPni5kOSG0PWsyK7sflCD0tK7YrM_Jy6kjQla7NyAnkx4GLDnrIsN1gBh7gw_bjE6HF_mxbiTTQLW1xgV5Q4few0MPQrnLOygsJjnl0yaifpDC-pTM5YqkTQynib227ej2_Cg5gVdeojVtUBa-vA7JNufKs2TpzQyTXd-i8N9W_BOnSSGb6SgqXsFsOiS65RbhIupcWDGtWBWFZIqjRgUtwc5-NwPCxfwcQ3TykZDZOJ8jYWuUXPoQfdCwabTeyjVbOf_AJHY8MydB09Pnj0DTi2LXA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is V color manta xsky DDR5 ram good?",
+      "type": "featured_snippet",
+      "snippet": "Overall Review: V-Color is legit, and they got fantastic RAM kits that are priced lower than their competition. I was hesitant at first because I never purchased RAM from them before.",
+      "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 1.25V SK ...",
+      "link": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000V1",
+      "displayed_link": "https://www.newegg.com › v-color-32gb-2-x-16gb-ddr5...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABa0lEQVR4AY2TA4xeQRSFb20jblzbtm0zbFQjqKK6QW2GZVTG9Rrx2rZ9dr-8ZP71bpLzeM93MTO24tjaNqVdNlRXbBZq_K910x27px-jq_V3thQ-xtOXrtJDe9MqACMm5R-VCs9796wDUtpGKXGi9KubiGkCkFlXve6TSqCKL9XpplT-DPEMyINQybNOwtPQ_GkYAWT1TFXvpJoviGcgVOIAtOkDPLBUJU0mgEBnbiCgmSek0AXSo-7SOhvhmQ_ZaYV1lZKmtQ_AfG518bUgyonsxYAAuBYwNWkhep9Eq-ctBa9RhlgaADGjmAHDcgPEiBpkp_yDdskDbLLFDuBV4SBUAgi53sl-1oTZV8GbDlJYUwjtIJ6d-Wonl93NACKbAwhy7SD0fwBmBoc5sslWhij6ohVAGBDPfKNCMu-3jBbPgrZbIEGsCAbEM1mpkP_EtQhw--GwVSNM3Mmq5bazpUPX8klkuGZd2zrqteWPRsN6MFLFAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMyWTNjME5hTm1NNVQxWlRhbGRxWlZWSFRUZEpjMnBPZEdaaFlVazBTM2hoYlc5SFluZGhPVFU1TTBkSVFXazVZa3RUTkZKblZGRlVjbGMzTjNZemFWZHNhVFZpV0hoTllWTkpNM1pYV0hSRFoyWnBNa3hsZG1ST1p4SVhkbGh3Wm1Gd2JtWkdUek5pTUZCRlVESktjWEI1VVhNYUlrRkVjM0k1WmxSNWNraHhiWFk0Um5ReWRXbFpabXAyUkhWVFVIRXlXVnBtTUdjIiwiZmN2IjoiMyIsImVpIjoidlhwZmFwbmZGTzNiMFBFUDJKcXB5UXMiLCJxYyI6ImMxWEpRUTdDSUJBRlVOZGRlWVNmZUFGaW8xdVAwa3lCVUFMREtGQURKbDZncC14UjZ0YnRlOFByRFMxUk1waFNKYlFTT296Sk40eFhOLU91bE9MbGd4S3c5T1FidkViLXVTUDJ5Y0hZRXFvOHdaWWxkN0NZTlZyTWtYUkE1VmJvZnlZdGE2cm4wM2ZmTG84RCIsInF1ZXN0aW9uIjoiSXMgViBjb2xvciBtYW50YSB4c2t5IEREUjUgcmFtIGdvb2Q/IiwibGsiOiJHaU5wY3lCMklHTnZiRzl5SUcxaGJuUmhJSGh6YTNrZ1pHUnlOU0J5WVcwZ1oyOXZaQSIsImJzIjoiYy1NSzRGTHhMRllJVTBqT3o4a3ZVc2hOekN0SlZLZ296cTVVY0hFSk1sVW9Tc3hWU01fUFQ3R1htRlZ1cENxbG5GbXNVSWFwTkNXbENLR1V5NEZMeGlPX1hDRzNORGxESVNVelJjSFl5TjBKWWxweWZuR0p2Y1FjWlNOWktla01WQ1hwU1JCVFFFcTRncmhVNFNZQWJUUTJVa2pQVEU5TXFpeEpMVmJJVDRPWUZlVG9heTh4WGNwSVRVb2xBNDlhbU5NRUdBRSIsImlkIjoiZmNfdlhwZmFwbmZGTzNiMFBFUDJKcXB5UXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMyWTNjME5hTm1NNVQxWlRhbGRxWlZWSFRUZEpjMnBPZEdaaFlVazBTM2hoYlc5SFluZGhPVFU1TTBkSVFXazVZa3RUTkZKblZGRlVjbGMzTjNZemFWZHNhVFZpV0hoTllWTkpNM1pYV0hSRFoyWnBNa3hsZG1ST1p4SVhkbGh3Wm1Gd2JtWkdUek5pTUZCRlVESktjWEI1VVhNYUlrRkVjM0k1WmxSNWNraHhiWFk0Um5ReWRXbFpabXAyUkhWVFVIRXlXVnBtTUdjIiwiZmN2IjoiMyIsImVpIjoidlhwZmFwbmZGTzNiMFBFUDJKcXB5UXMiLCJxYyI6ImMxWEpRUTdDSUJBRlVOZGRlWVNmZUFGaW8xdVAwa3lCVUFMREtGQURKbDZncC14UjZ0YnRlOFByRFMxUk1waFNKYlFTT296Sk40eFhOLU91bE9MbGd4S3c5T1FidkViLXVTUDJ5Y0hZRXFvOHdaWWxkN0NZTlZyTWtYUkE1VmJvZnlZdGE2cm4wM2ZmTG84RCIsInF1ZXN0aW9uIjoiSXMgViBjb2xvciBtYW50YSB4c2t5IEREUjUgcmFtIGdvb2Q%2FIiwibGsiOiJHaU5wY3lCMklHTnZiRzl5SUcxaGJuUmhJSGh6YTNrZ1pHUnlOU0J5WVcwZ1oyOXZaQSIsImJzIjoiYy1NSzRGTHhMRllJVTBqT3o4a3ZVc2hOekN0SlZLZ296cTVVY0hFSk1sVW9Tc3hWU01fUFQ3R1htRlZ1cENxbG5GbXNVSWFwTkNXbENLR1V5NEZMeGlPX1hDRzNORGxESVNVelJjSFl5TjBKWWxweWZuR0p2Y1FjWlNOWktla01WQ1hwU1JCVFFFcTRncmhVNFNZQWJUUTJVa2pQVEU5TXFpeEpMVmJJVDRPWUZlVG9heTh4WGNwSVRVb2xBNDlhbU5NRUdBRSIsImlkIjoiZmNfdlhwZmFwbmZGTzNiMFBFUDJKcXB5UXNfMSJ9"
+    },
+    {
+      "question": "How much did 32GB DDR5 cost?",
+      "type": "featured_snippet",
+      "snippet": "30 Days",
+      "table": [
+        [
+          "Average",
+          "$528"
+        ],
+        [
+          "Lowest",
+          "$524"
+        ],
+        [
+          "Highest",
+          "$535"
+        ],
+        [
+          "Volatility",
+          "0.6% (Stable)"
+        ],
+        [
+          "Trend",
+          "Neutral"
+        ]
+      ],
+      "formatted": [
+        {
+          "average": "Lowest",
+          "528": "$524"
+        },
+        {
+          "average": "Highest",
+          "528": "$535"
+        },
+        {
+          "average": "Volatility",
+          "528": "0.6% (Stable)"
+        },
+        {
+          "average": "Trend",
+          "528": "Neutral"
+        }
+      ],
+      "title": "Hardware Price Trends - 32GB DDR5 Memory - Pangoly",
+      "link": "https://pangoly.com/en/price-trends/ram/32gb-ddr5",
+      "displayed_link": "https://pangoly.com › price-trends › ram › 32gb-ddr5",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEVHcEz_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_XwsfBYZcAAAAEXRSTlMAByaRv29ifUo3q4bYGFed7SvBmEkAAACXSURBVHgBYgADQM3TYcAACMKCCIis_n9td5S9afGWhT9023FR5Z-LrkaYqnjy136XyNGKdgEwqIm4CIIkv9hmKSLCdeYggQvAIuPRrXoMvTDihcFcrzEIpY_uw8yQ7g3bxDXK_QpXPwJnoAODRevj4AUjyGIC1gL0JSu8E6yrXFLwgqSSxrS62O-YDuZY_Yr_UVfP-d76BNr9BZQzLRtIAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMyWTNjME5hTm1NNVQxWlRhbGRxWlZWSFRUZEpjMnBPZEdaaFlVazBTM2hoYlc5SFluZGhPVFU1TTBkSVFXazVZa3RUTkZKblZGRlVjbGMzTjNZemFWZHNhVFZpV0hoTllWTkpNM1pYV0hSRFoyWnBNa3hsZG1ST1p4SVhkbGh3Wm1Gd2JtWkdUek5pTUZCRlVESktjWEI1VVhNYUlrRkVjM0k1WmxSNWNraHhiWFk0Um5ReWRXbFpabXAyUkhWVFVIRXlXVnBtTUdjIiwiZmN2IjoiMyIsImVpIjoidlhwZmFwbmZGTzNiMFBFUDJKcXB5UXMiLCJxYyI6ImMxWEpRUTdDSUJBRlVOZGRlWVNmZUFGaW8xdVAwa3lCVUFMREtGQURKbDZncC14UjZ0YnRlOFByRFMxUk1waFNKYlFTT296Sk40eFhOLU91bE9MbGd4S3c5T1FidkViLXVTUDJ5Y0hZRXFvOHdaWWxkN0NZTlZyTWtYUkE1VmJvZnlZdGE2cm4wM2ZmTG84RCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZGlkIDMyR0IgRERSNSBjb3N0PyIsImxrIjoiR2h0b2IzY2diWFZqYUNCa2FXUWdNekpuWWlCa1pISTFJR052YzNRIiwiYnMiOiJjLU1LNEZMeExGWUlVMGpPejhrdlVzaE56Q3RKVktnb3pxNVVjSEVKTWxVb1NzeFZTTV9QVDdHWG1GVnVwQ3FsbkZtc1VJYXBOQ1dsQ0tHVXk0Rkx4aU9fWENHM05EbERJU1V6UmNIWXlOMEpZbHB5Zm5HSnZjUWNaU05aS2VrTVZDWHBTUkJUUUVxNGdyaFU0U1lBYlRRMlVralBURTlNcWl4SkxWYklUNE9ZRmVUb2F5OHhYY3BJVFVvbEE0OWFtTk1FR0FFIiwiaWQiOiJmY192WHBmYXBuZkZPM2IwUEVQMkpxcHlRc18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMyWTNjME5hTm1NNVQxWlRhbGRxWlZWSFRUZEpjMnBPZEdaaFlVazBTM2hoYlc5SFluZGhPVFU1TTBkSVFXazVZa3RUTkZKblZGRlVjbGMzTjNZemFWZHNhVFZpV0hoTllWTkpNM1pYV0hSRFoyWnBNa3hsZG1ST1p4SVhkbGh3Wm1Gd2JtWkdUek5pTUZCRlVESktjWEI1VVhNYUlrRkVjM0k1WmxSNWNraHhiWFk0Um5ReWRXbFpabXAyUkhWVFVIRXlXVnBtTUdjIiwiZmN2IjoiMyIsImVpIjoidlhwZmFwbmZGTzNiMFBFUDJKcXB5UXMiLCJxYyI6ImMxWEpRUTdDSUJBRlVOZGRlWVNmZUFGaW8xdVAwa3lCVUFMREtGQURKbDZncC14UjZ0YnRlOFByRFMxUk1waFNKYlFTT296Sk40eFhOLU91bE9MbGd4S3c5T1FidkViLXVTUDJ5Y0hZRXFvOHdaWWxkN0NZTlZyTWtYUkE1VmJvZnlZdGE2cm4wM2ZmTG84RCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZGlkIDMyR0IgRERSNSBjb3N0PyIsImxrIjoiR2h0b2IzY2diWFZqYUNCa2FXUWdNekpuWWlCa1pISTFJR052YzNRIiwiYnMiOiJjLU1LNEZMeExGWUlVMGpPejhrdlVzaE56Q3RKVktnb3pxNVVjSEVKTWxVb1NzeFZTTV9QVDdHWG1GVnVwQ3FsbkZtc1VJYXBOQ1dsQ0tHVXk0Rkx4aU9fWENHM05EbERJU1V6UmNIWXlOMEpZbHB5Zm5HSnZjUWNaU05aS2VrTVZDWHBTUkJUUUVxNGdyaFU0U1lBYlRRMlVralBURTlNcWl4SkxWYklUNE9ZRmVUb2F5OHhYY3BJVFVvbEE0OWFtTk1FR0FFIiwiaWQiOiJmY192WHBmYXBuZkZPM2IwUEVQMkpxcHlRc18xIn0%3D"
+    },
+    {
+      "question": "How much is 32 gigabytes of DDR5 RAM?",
+      "type": "featured_snippet",
+      "snippet": "The going rate for 32GB of DDR5 RAM — the cheapest you can expect to pay — has hovered around $320 for some time, climbing past $350 in recent weeks. Price tracking courtesy of PCPartPicker now reveals the cheapest 32GB DDR5 RAM you can buy is $375.",
+      "title": "32GB of DDR5 now costs $375 minimum — AI shortage continues ...",
+      "date": "Jun 3, 2026",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "displayed_link": "https://www.tomshardware.com › pc-components › ddr5",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACTUlEQVR4AY1Rg7IdQRScu0-xbVuFmF8R27ZtfUdspxTbyeba3Mo1d_did0_OzLNfV_XodPeINAabzdYuIAj9BEHob7fb29-4cUNHWoJ_weCIpCgey0jSSzGTMYuiaMnI8pukJJ4JZdJj7z5_3nDQu7dvuWgstjCTTlvjHz-DcOY8-LbvBv-eAxB9_BQiDx5B8NoNVywWW_Wb_1NcLyASiSxAczR09TrYZs4Dy5hJYB40AkwDh4NtykywjJ0E3o1bATXJaDS6utLHkvx-_9CSVmUnClZ7l7zRRDod3Ed0ZWUkceEyITodzveSvNFMuDZt6LxDSUnJUXybL3369DGwlHA4vC-VSkFCECAZDEJakiAVi0Hw3gMIPXoCqUQCaD2VTNKeEU98mpm_ffvWCo_0JIGiBAoqGff6wLVoObhWroV4QGBrqGFM4hg9rw0GQ_viDh06tAeAPkhCkAh2bC2fJ4ogEF1xMRtz0KaqDuV9r1atWnXiNE0DJKlHpUBwQKBi3IAGKDn8lrSqqr5aRQCiFRQCiopUcFw_AD2CKIoJbubMmTlFUV7VLAKSmlBFCIawMIBaAeh5PWnSpAxHEJIk3ceFP1TEhEgaADRARTM9Aasx0t2tsizfpF4WMHLkSE8ulzuOhWCliJqIprIQFqZpleZYNps9OXz4cGtlAMPbt28fY-p6PAlPH4caGADKQ9CNNTOaN1mt1pukMRiNxgFOl2unm-cf2c9e-Gk_fe6Xm__71Ol27zOZTENIS_HOaCzjZakbL4nd3xsMrRrT_Qcy9DCLFTd3ZwAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMyWTNjME5hTm1NNVQxWlRhbGRxWlZWSFRUZEpjMnBPZEdaaFlVazBTM2hoYlc5SFluZGhPVFU1TTBkSVFXazVZa3RUTkZKblZGRlVjbGMzTjNZemFWZHNhVFZpV0hoTllWTkpNM1pYV0hSRFoyWnBNa3hsZG1ST1p4SVhkbGh3Wm1Gd2JtWkdUek5pTUZCRlVESktjWEI1VVhNYUlrRkVjM0k1WmxSNWNraHhiWFk0Um5ReWRXbFpabXAyUkhWVFVIRXlXVnBtTUdjIiwiZmN2IjoiMyIsImVpIjoidlhwZmFwbmZGTzNiMFBFUDJKcXB5UXMiLCJxYyI6ImMxWEpRUTdDSUJBRlVOZGRlWVNmZUFGaW8xdVAwa3lCVUFMREtGQURKbDZncC14UjZ0YnRlOFByRFMxUk1waFNKYlFTT296Sk40eFhOLU91bE9MbGd4S3c5T1FidkViLXVTUDJ5Y0hZRXFvOHdaWWxkN0NZTlZyTWtYUkE1VmJvZnlZdGE2cm4wM2ZmTG84RCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgMzIgZ2lnYWJ5dGVzIG9mIEREUjUgUkFNPyIsImxrIjoiR2lSb2IzY2diWFZqYUNCcGN5QXpNaUJuYVdkaFlubDBaWE1nYjJZZ1pHUnlOU0J5WVcwIiwiYnMiOiJjLU1LNEZMeExGWUlVMGpPejhrdlVzaE56Q3RKVktnb3pxNVVjSEVKTWxVb1NzeFZTTV9QVDdHWG1GVnVwQ3FsbkZtc1VJYXBOQ1dsQ0tHVXk0Rkx4aU9fWENHM05EbERJU1V6UmNIWXlOMEpZbHB5Zm5HSnZjUWNaU05aS2VrTVZDWHBTUkJUUUVxNGdyaFU0U1lBYlRRMlVralBURTlNcWl4SkxWYklUNE9ZRmVUb2F5OHhYY3BJVFVvbEE0OWFtTk1FR0FFIiwiaWQiOiJmY192WHBmYXBuZkZPM2IwUEVQMkpxcHlRc18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMyWTNjME5hTm1NNVQxWlRhbGRxWlZWSFRUZEpjMnBPZEdaaFlVazBTM2hoYlc5SFluZGhPVFU1TTBkSVFXazVZa3RUTkZKblZGRlVjbGMzTjNZemFWZHNhVFZpV0hoTllWTkpNM1pYV0hSRFoyWnBNa3hsZG1ST1p4SVhkbGh3Wm1Gd2JtWkdUek5pTUZCRlVESktjWEI1VVhNYUlrRkVjM0k1WmxSNWNraHhiWFk0Um5ReWRXbFpabXAyUkhWVFVIRXlXVnBtTUdjIiwiZmN2IjoiMyIsImVpIjoidlhwZmFwbmZGTzNiMFBFUDJKcXB5UXMiLCJxYyI6ImMxWEpRUTdDSUJBRlVOZGRlWVNmZUFGaW8xdVAwa3lCVUFMREtGQURKbDZncC14UjZ0YnRlOFByRFMxUk1waFNKYlFTT296Sk40eFhOLU91bE9MbGd4S3c5T1FidkViLXVTUDJ5Y0hZRXFvOHdaWWxkN0NZTlZyTWtYUkE1VmJvZnlZdGE2cm4wM2ZmTG84RCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgMzIgZ2lnYWJ5dGVzIG9mIEREUjUgUkFNPyIsImxrIjoiR2lSb2IzY2diWFZqYUNCcGN5QXpNaUJuYVdkaFlubDBaWE1nYjJZZ1pHUnlOU0J5WVcwIiwiYnMiOiJjLU1LNEZMeExGWUlVMGpPejhrdlVzaE56Q3RKVktnb3pxNVVjSEVKTWxVb1NzeFZTTV9QVDdHWG1GVnVwQ3FsbkZtc1VJYXBOQ1dsQ0tHVXk0Rkx4aU9fWENHM05EbERJU1V6UmNIWXlOMEpZbHB5Zm5HSnZjUWNaU05aS2VrTVZDWHBTUkJUUUVxNGdyaFU0U1lBYlRRMlVralBURTlNcWl4SkxWYklUNE9ZRmVUb2F5OHhYY3BJVFVvbEE0OWFtTk1FR0FFIiwiaWQiOiJmY192WHBmYXBuZkZPM2IwUEVQMkpxcHlRc18xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "BgjzGnicxVXdkqo4EH6AfY7lhjOKijpOFXUqQVR0UDKjjnpj8WdQfsKAyjB35132qfZpNqIoOurU2aqt7SpI0unudIf--H795S595-8_WvZ6HURPxWIcxwVMCHatgkG8ohYlvlFcEDcKDfun7QqWz2BX2ERMshUqjBEJHGMthe0kWGiBv2gNKjqnSmq5-x4kKGJSd2Gua5G1otE_VlFxXqQv589Kky4KUcHyCw1TtSw9HFgNXChzpUZhUNQ8agD-W8FguXthINOF_GVbBBh9FwBIu7d4ssvCSDmzOF1BSCOmFuLNeDgdlhKgAVXoV-0IgPZeadxLpHu-bO1cZAR3RcjiPtFLuVYazEaUX12VK5vwEDcrnb971k5k-TwOPVeapyp0foqcD4J26mk6HSBgNWNgx7h3J1eRgGYbDxG-9pXzEgBbzc7RAUc_VNHEtA-5oh7SoVRcGraRTsJo157isMERSRtzaLZ1Jkh9kDzSAp2Xl24j9lfyDBUNndq5RDMtc27PuZ_pulQuVblGpf74I8WFER2BEZ0BY-S6-qDzrCBSeC7AUg4V-HgrOaFK-HL1mtGhqC8OMLtiLKWTJNsi2QSSnfPJsdWUYQxABk1-12tN_LWjaTJXUJHKERoKSFGRJifux0OgfFdgfHTI9VHn4rx8BjALL8oUe5mufTJA4jkGRXptzhEkynkoZEv79oOvB5MB5I9FpGehHNrFfYkIQ3heiryvgM_ZURVtyilAM7ruYnz8GaVO8iGh47mnpM7RJ1G35Ui6i9dbcg83B8Ega_-Lbs6joK1vF7VNbd6f1BWstxv1qqhFXqen8XVwveuJp_8GHxj_Oy5StiAZW1zBhf0NLlK2wLfZ4tBEcYaL1K4HxZu4cNLxnC06F2xxDRfdc1yc2AJdsMUJF7tU7uMC3sMFvIUL-sP_ggt0AxcZW-Rw4VywBTze6k51wsXvs4X-79gihYm1H86pY7PCNymkPVQWi7Vai5O-jWtjpyW9j-NJc2QEIfiWQhbe-snTTPfHfGk-wXJ3nZg_5lRBniyTeRfGDwZxScgqmr_W2Mmrk7BNM6yylTLW2RrHcUrnk33tsZ3EX36wssi-tCHb1rylj9mmFTlrErCK5ZEwYRViblyLha5mOOza-4g01tvveOnO3CAbf814bkgETqutEdFFJdrWPK5fmvGiUW23lxglirpxJjZ5HQ8-p6_BqCEm_LQn2mQrT57HCD6_ey1bnnXVyaamLEZtXQ31QWtSqdTxsDddmH0T9Dutt3gE-XA2gKrW3z60VtLDeFpTnTCwhn6VzOGIn8jGqv5Rx_1t733oGiDNKxJabxX1Q_4MxJhn6C1FllBivNAQaH_yGPQReMPQACJtPhHTh9Anpl-ZiQxtbkVboWw2Fo1qndP0x6r2WLMYD6-TQOBLTOSHQukf7E48gQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BgjzGnicxVXdkqo4EH6AfY7lhjOKijpOFXUqQVR0UDKjjnpj8WdQfsKAyjB35132qfZpNqIoOurU2aqt7SpI0unudIf--H795S595-8_WvZ6HURPxWIcxwVMCHatgkG8ohYlvlFcEDcKDfun7QqWz2BX2ERMshUqjBEJHGMthe0kWGiBv2gNKjqnSmq5-x4kKGJSd2Gua5G1otE_VlFxXqQv589Kky4KUcHyCw1TtSw9HFgNXChzpUZhUNQ8agD-W8FguXthINOF_GVbBBh9FwBIu7d4ssvCSDmzOF1BSCOmFuLNeDgdlhKgAVXoV-0IgPZeadxLpHu-bO1cZAR3RcjiPtFLuVYazEaUX12VK5vwEDcrnb971k5k-TwOPVeapyp0foqcD4J26mk6HSBgNWNgx7h3J1eRgGYbDxG-9pXzEgBbzc7RAUc_VNHEtA-5oh7SoVRcGraRTsJo157isMERSRtzaLZ1Jkh9kDzSAp2Xl24j9lfyDBUNndq5RDMtc27PuZ_pulQuVblGpf74I8WFER2BEZ0BY-S6-qDzrCBSeC7AUg4V-HgrOaFK-HL1mtGhqC8OMLtiLKWTJNsi2QSSnfPJsdWUYQxABk1-12tN_LWjaTJXUJHKERoKSFGRJifux0OgfFdgfHTI9VHn4rx8BjALL8oUe5mufTJA4jkGRXptzhEkynkoZEv79oOvB5MB5I9FpGehHNrFfYkIQ3heiryvgM_ZURVtyilAM7ruYnz8GaVO8iGh47mnpM7RJ1G35Ui6i9dbcg83B8Ega_-Lbs6joK1vF7VNbd6f1BWstxv1qqhFXqen8XVwveuJp_8GHxj_Oy5StiAZW1zBhf0NLlK2wLfZ4tBEcYaL1K4HxZu4cNLxnC06F2xxDRfdc1yc2AJdsMUJF7tU7uMC3sMFvIUL-sP_ggt0AxcZW-Rw4VywBTze6k51wsXvs4X-79gihYm1H86pY7PCNymkPVQWi7Vai5O-jWtjpyW9j-NJc2QEIfiWQhbe-snTTPfHfGk-wXJ3nZg_5lRBniyTeRfGDwZxScgqmr_W2Mmrk7BNM6yylTLW2RrHcUrnk33tsZ3EX36wssi-tCHb1rylj9mmFTlrErCK5ZEwYRViblyLha5mOOza-4g01tvveOnO3CAbf814bkgETqutEdFFJdrWPK5fmvGiUW23lxglirpxJjZ5HQ8-p6_BqCEm_LQn2mQrT57HCD6_ey1bnnXVyaamLEZtXQ31QWtSqdTxsDddmH0T9Dutt3gE-XA2gKrW3z60VtLDeFpTnTCwhn6VzOGIn8jGqv5Rx_1t733oGiDNKxJabxX1Q_4MxJhn6C1FllBivNAQaH_yGPQReMPQACJtPhHTh9Anpl-ZiQxtbkVboWw2Fo1qndP0x6r2WLMYD6-TQOBLTOSHQukf7E48gQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz ...",
+      "link": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000T5?srsltid=AfmBOoqpqIix5777XLO57SHNKw12Js7ziKG8-cTdCXo4gFvHbV0ckiW4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fv-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory%2Fp%2F0RN-00MB-000T5%3Fsrsltid%3DAfmBOoqpqIix5777XLO57SHNKw12Js7ziKG8-cTdCXo4gFvHbV0ckiW4&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECBkQAQ",
+      "displayed_link": "https://www.newegg.com › ... › V-color",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD. From $419.99 4 New. Capacity 32GB (2 x 16GB) ...",
+      "snippet_highlighted_words": [
+        "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD. From $419.99 4 New. Capacity 32GB (2 x 16GB) ...",
+          "source_info_link": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000T5?srsltid=AfmBOoqpqIix5777XLO57SHNKw12Js7ziKG8-cTdCXo4gFvHbV0ckiW4",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fv-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory%2Fp%2F0RN-00MB-000T5%3Fsrsltid%3DAfmBOoqpqIix5777XLO57SHNKw12Js7ziKG8-cTdCXo4gFvHbV0ckiW4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fv-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory%2Fp%2F0RN-00MB-000T5%3Fsrsltid%3DAfmBOoqpqIix5777XLO57SHNKw12Js7ziKG8-cTdCXo4gFvHbV0ckiW4",
+      "source": "Newegg"
+    },
+    {
+      "position": 2,
+      "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz ...",
+      "link": "https://www.walmart.com/ip/V-COLOR-Manta-XSky-DDR5-32GB-2x16GB-6000MHz-CL30-1-25V-SK-Hynix-Original-IC-RGB-Gaming-Desktop-Upgrade-Memory-Module-for-AMD-EXPO-TMXSAL1660830KWK/17309559643",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.walmart.com%2Fip%2FV-COLOR-Manta-XSky-DDR5-32GB-2x16GB-6000MHz-CL30-1-25V-SK-Hynix-Original-IC-RGB-Gaming-Desktop-Upgrade-Memory-Module-for-AMD-EXPO-TMXSAL1660830KWK%2F17309559643&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECDMQAQ",
+      "displayed_link": "https://www.walmart.com › ... › All PC Gaming",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz_wRz_wR7_wh__wh__wBn_wh__wiD_wR7_wh__wh7_wh7_wR__wh__wR3_wh__wh7_wh__wh5JC3qUAAAAE3RSTlMADS92-AfR_8e5YYeZnhflTOw_6JuIewAAAKFJREFUeAG1koURA0EIANHn7bT_YsPEjXj2XFF4GSTC8JBFODrTwWzATw5h9EOImMwmuGIWW7aT1SxtJ4vJDFvyZP6CfMa2vUXbjbw9xGROmRGqSAWcizkJYQul5itZsjIrLuKLlgj2YF_8uHRwevGjpSOcUOJhzeDkdWBSuEJ1P24fvXwYfxsrFJvy3Amx-2LHByGLg_2HHGIxhgglQniVDZyEB_jjfAsrAAAAAElFTkSuQmCC.png",
+      "snippet": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30. RGB Gaming Desktop Upgrade Memory Module Black, for AMD. K Current price is USD$419.99$41999. Black desktop ...",
+      "snippet_highlighted_words": [
+        "V",
+        "COLOR Manta XSky DDR5 32GB",
+        "6000MHz",
+        "RGB Gaming Desktop",
+        "Memory Module Black",
+        "Black desktop"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30. RGB Gaming Desktop Upgrade Memory Module Black, for AMD. K Current price is USD$419.99$41999. Black desktop ...",
+          "source_info_link": "https://www.walmart.com/ip/V-COLOR-Manta-XSky-DDR5-32GB-2x16GB-6000MHz-CL30-1-25V-SK-Hynix-Original-IC-RGB-Gaming-Desktop-Upgrade-Memory-Module-for-AMD-EXPO-TMXSAL1660830KWK/17309559643",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz_wRz_wR7_wh__wh__wBn_wh__wiD_wR7_wh__wh7_wh7_wR__wh__wR3_wh__wh7_wh__wh5JC3qUAAAAE3RSTlMADS92-AfR_8e5YYeZnhflTOw_6JuIewAAAKFJREFUeAG1koURA0EIANHn7bT_YsPEjXj2XFF4GSTC8JBFODrTwWzATw5h9EOImMwmuGIWW7aT1SxtJ4vJDFvyZP6CfMa2vUXbjbw9xGROmRGqSAWcizkJYQul5itZsjIrLuKLlgj2YF_8uHRwevGjpSOcUOJhzeDkdWBSuEJ1P24fvXwYfxsrFJvy3Amx-2LHByGLg_2HHGIxhgglQniVDZyEB_jjfAsrAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.walmart.com%2Fip%2FV-COLOR-Manta-XSky-DDR5-32GB-2x16GB-6000MHz-CL30-1-25V-SK-Hynix-Original-IC-RGB-Gaming-Desktop-Upgrade-Memory-Module-for-AMD-EXPO-TMXSAL1660830KWK%2F17309559643&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.walmart.com%2Fip%2FV-COLOR-Manta-XSky-DDR5-32GB-2x16GB-6000MHz-CL30-1-25V-SK-Hynix-Original-IC-RGB-Gaming-Desktop-Upgrade-Memory-Module-for-AMD-EXPO-TMXSAL1660830KWK%2F17309559643",
+      "source": "Walmart"
+    },
+    {
+      "position": 3,
+      "title": "DDR5 | Manta XSky",
+      "link": "https://v-color.net/collections/ddr5-manta-xsky?srsltid=AfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fv-color.net%2Fcollections%2Fddr5-manta-xsky%3Fsrsltid%3DAfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECDYQAQ",
+      "displayed_link": "https://v-color.net › collections › ddr5-manta-xsky",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA8FBMVEXjZGnXAAvYDBjWAADvsrj7x1n4tSX4tir4tx3zyMbYBRTaHSjrtLjXAADfW2X95Kr70HTnhJDpiIutvtnaAADXAAX-7Nb3sgv_6r3WvLNgntPqY2L5vz752Myi0LEObrjnqq782Yzroqntc3tPuHwAZ7a7w9rZIDL-6sfeSVbXAA_ltLIAmUEAabZvqNbnVlb848m40rsOd7_8zGlswo_KydvkdYEHolEAmkT849LE0L3zqqr6wEaBzKAAZrb83prql6CGueHlSkvSzsHjPD6V1rIyrWj____fzsf64uTaztrhVFqfxOPoyMQxhcW028K0ZLWMAAABTElEQVR4AWXRgwLDMBRA0dScbdu27f__m6XJy7z6pLdCiOPJTxAlWSE_VRPIEd1Apo0iZ3eoxGSny0aHu5HHS1H3-QMEA0FDJ0dsIRSOsK4WlQnGoKrHUSIJXZsrZaEspSn6MlmUy7NuoWh1VUepTAdXqqhWb7BuTLaqTaiWW1WUaL-66Y6syFFTgLvvYsz1oFsuBQOKnOpTtCUHQ5T46I4CSqAID-IdVzEm2hMboDiV8euBzIzgnHV9mUWgs6QopAcEa6t1GW6wGGAP4t1Uhxg_u1pgBA-y3VHEXYaulAjV5R7w3TUOyEcf5IgNI-kKcOrJB6PiL5yf2Xu4cPApsy-sXaHLw8p2wwaYuLMuD9XHB-agCz9bv_uJrAuoWcSwdqfvAap6qwr43-XQjCF0t--uzRx8YS387uq-MTZA6L6Qu-w-ELo6oJDcAz4BknpBIyKXPtIAAAAASUVORK5CYII.png",
+      "snippet": "Product type · Manta XSky · XSky (2 products); Manta XSky RGB ; Memory capacity · 32GB (2x16GB) · (2x16GB) (3 products); 64GB (2x32GB) ; Color · Black · (8 products)",
+      "snippet_highlighted_words": [
+        "Manta XSky",
+        "XSky",
+        "Manta XSky RGB",
+        "Memory",
+        "32GB",
+        "Color",
+        "Black"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Product type · Manta XSky · XSky (2 products); Manta XSky RGB ; Memory capacity · 32GB (2x16GB) · (2x16GB) (3 products); 64GB (2x32GB) ; Color · Black · (8 products)",
+          "source_info_link": "https://v-color.net/collections/ddr5-manta-xsky?srsltid=AfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA8FBMVEXjZGnXAAvYDBjWAADvsrj7x1n4tSX4tir4tx3zyMbYBRTaHSjrtLjXAADfW2X95Kr70HTnhJDpiIutvtnaAADXAAX-7Nb3sgv_6r3WvLNgntPqY2L5vz752Myi0LEObrjnqq782Yzroqntc3tPuHwAZ7a7w9rZIDL-6sfeSVbXAA_ltLIAmUEAabZvqNbnVlb848m40rsOd7_8zGlswo_KydvkdYEHolEAmkT849LE0L3zqqr6wEaBzKAAZrb83prql6CGueHlSkvSzsHjPD6V1rIyrWj____fzsf64uTaztrhVFqfxOPoyMQxhcW028K0ZLWMAAABTElEQVR4AWXRgwLDMBRA0dScbdu27f__m6XJy7z6pLdCiOPJTxAlWSE_VRPIEd1Apo0iZ3eoxGSny0aHu5HHS1H3-QMEA0FDJ0dsIRSOsK4WlQnGoKrHUSIJXZsrZaEspSn6MlmUy7NuoWh1VUepTAdXqqhWb7BuTLaqTaiWW1WUaL-66Y6syFFTgLvvYsz1oFsuBQOKnOpTtCUHQ5T46I4CSqAID-IdVzEm2hMboDiV8euBzIzgnHV9mUWgs6QopAcEa6t1GW6wGGAP4t1Uhxg_u1pgBA-y3VHEXYaulAjV5R7w3TUOyEcf5IgNI-kKcOrJB6PiL5yf2Xu4cPApsy-sXaHLw8p2wwaYuLMuD9XHB-agCz9bv_uJrAuoWcSwdqfvAap6qwr43-XQjCF0t--uzRx8YS387uq-MTZA6L6Qu-w-ELo6oJDcAz4BknpBIyKXPtIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fv-color.net%2Fcollections%2Fddr5-manta-xsky%3Fsrsltid%3DAfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fv-color.net%2Fcollections%2Fddr5-manta-xsky%3Fsrsltid%3DAfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF",
+      "source": "v-color Technology Inc.",
+      "read_more_link": "https://v-color.net/collections/ddr5-manta-xsky?srsltid=AfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF"
+    },
+    {
+      "position": 4,
+      "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz ...",
+      "link": "https://www.ebay.com/itm/298421323307?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F298421323307%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28%26google_free_listing_action%3Dview_item&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECDgQAQ",
+      "displayed_link": "https://www.ebay.com › itm",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+      "snippet": "Model. Brand: V-Color. Series: Manta XSky. Part Number: TMXSAL1660830WWK. Details. Capacity: 32GB (2 x 16GB). Speed: DDR5 6000 (PC5 48000).",
+      "snippet_highlighted_words": [
+        "V",
+        "Color",
+        "Manta XSky",
+        "32GB",
+        "DDR5"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Model. Brand: V-Color. Series: Manta XSky. Part Number: TMXSAL1660830WWK. Details. Capacity: 32GB (2 x 16GB). Speed: DDR5 6000 (PC5 48000).",
+          "source_info_link": "https://www.ebay.com/itm/298421323307?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F298421323307%3Fchn%3Dps&mkevt=1&mkcid=28&google_free_listing_action=view_item&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F298421323307%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28%26google_free_listing_action%3Dview_item",
+      "source": "eBay",
+      "read_more_link": "https://www.ebay.com/itm/298421323307?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+    },
+    {
+      "position": 5,
+      "title": "V color Manta XSky DDR5 32GB 6000MHz CL26 RGB ...",
+      "link": "https://www.bestbuy.com/product/v-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black/J3ZK8ZSSP6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fv-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black%2FJ3ZK8ZSSP6&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECDcQAQ",
+      "displayed_link": "https://www.bestbuy.com › product › v-color-manta-xsk...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "V-color - Manta XSky DDR5 32GB 6000MHz CL26 RGB Gaming Memory for AMD - Black ; or. $37.50/mo. suggested payments with 12-Month Financing. Show me how ; Pickup.",
+      "snippet_highlighted_words": [
+        "V-color - Manta XSky DDR5 32GB 6000MHz CL26 RGB Gaming Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "V-color - Manta XSky DDR5 32GB 6000MHz CL26 RGB Gaming Memory for AMD - Black ; or. $37.50/mo. suggested payments with 12-Month Financing. Show me how ; Pickup.",
+          "source_info_link": "https://www.bestbuy.com/product/v-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black/J3ZK8ZSSP6",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fv-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black%2FJ3ZK8ZSSP6&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fv-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black%2FJ3ZK8ZSSP6",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/product/v-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black/J3ZK8ZSSP6"
+    },
+    {
+      "position": 6,
+      "title": "DDR5 | [Manta] XSky RGB | 32GB (16GBx2) | AMD EXPO",
+      "link": "https://v-color.net/products/amd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory?srsltid=AfmBOoowY5dgJw1tRzAqcOxu1RzPKB-bI8gC2_SHGSOq-b3XdW_Max4y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fv-color.net%2Fproducts%2Famd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory%3Fsrsltid%3DAfmBOoowY5dgJw1tRzAqcOxu1RzPKB-bI8gC2_SHGSOq-b3XdW_Max4y&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECDUQAQ",
+      "displayed_link": "https://v-color.net › products › amd-ddr5-32gb-dual-xs...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA8FBMVEXjZGnXAAvYDBjWAADvsrj7x1n4tSX4tir4tx3zyMbYBRTaHSjrtLjXAADfW2X95Kr70HTnhJDpiIutvtnaAADXAAX-7Nb3sgv_6r3WvLNgntPqY2L5vz752Myi0LEObrjnqq782Yzroqntc3tPuHwAZ7a7w9rZIDL-6sfeSVbXAA_ltLIAmUEAabZvqNbnVlb848m40rsOd7_8zGlswo_KydvkdYEHolEAmkT849LE0L3zqqr6wEaBzKAAZrb83prql6CGueHlSkvSzsHjPD6V1rIyrWj____fzsf64uTaztrhVFqfxOPoyMQxhcW028K0ZLWMAAABTElEQVR4AWXRgwLDMBRA0dScbdu27f__m6XJy7z6pLdCiOPJTxAlWSE_VRPIEd1Apo0iZ3eoxGSny0aHu5HHS1H3-QMEA0FDJ0dsIRSOsK4WlQnGoKrHUSIJXZsrZaEspSn6MlmUy7NuoWh1VUepTAdXqqhWb7BuTLaqTaiWW1WUaL-66Y6syFFTgLvvYsz1oFsuBQOKnOpTtCUHQ5T46I4CSqAID-IdVzEm2hMboDiV8euBzIzgnHV9mUWgs6QopAcEa6t1GW6wGGAP4t1Uhxg_u1pgBA-y3VHEXYaulAjV5R7w3TUOyEcf5IgNI-kKcOrJB6PiL5yf2Xu4cPApsy-sXaHLw8p2wwaYuLMuD9XHB-agCz9bv_uJrAuoWcSwdqfvAap6qwr43-XQjCF0t--uzRx8YS387uq-MTZA6L6Qu-w-ELo6oJDcAz4BknpBIyKXPtIAAAAASUVORK5CYII.png",
+      "snippet": "Compatible with the AMD Ryzen 7000 Desktop CPUs and AM5 motherboards. XSky RGB | 32GB (16GBx2) Memory Capacity: 32GB (2x16GB) Memory Frequency: 6000MHz【CL36】 ...",
+      "snippet_highlighted_words": [
+        "Desktop",
+        "XSky RGB",
+        "32GB",
+        "Memory",
+        "32GB",
+        "Memory",
+        "6000MHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compatible with the AMD Ryzen 7000 Desktop CPUs and AM5 motherboards. XSky RGB | 32GB (16GBx2) Memory Capacity: 32GB (2x16GB) Memory Frequency: 6000MHz\n【CL36】 ...",
+          "source_info_link": "https://v-color.net/products/amd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory?srsltid=AfmBOoowY5dgJw1tRzAqcOxu1RzPKB-bI8gC2_SHGSOq-b3XdW_Max4y",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA8FBMVEXjZGnXAAvYDBjWAADvsrj7x1n4tSX4tir4tx3zyMbYBRTaHSjrtLjXAADfW2X95Kr70HTnhJDpiIutvtnaAADXAAX-7Nb3sgv_6r3WvLNgntPqY2L5vz752Myi0LEObrjnqq782Yzroqntc3tPuHwAZ7a7w9rZIDL-6sfeSVbXAA_ltLIAmUEAabZvqNbnVlb848m40rsOd7_8zGlswo_KydvkdYEHolEAmkT849LE0L3zqqr6wEaBzKAAZrb83prql6CGueHlSkvSzsHjPD6V1rIyrWj____fzsf64uTaztrhVFqfxOPoyMQxhcW028K0ZLWMAAABTElEQVR4AWXRgwLDMBRA0dScbdu27f__m6XJy7z6pLdCiOPJTxAlWSE_VRPIEd1Apo0iZ3eoxGSny0aHu5HHS1H3-QMEA0FDJ0dsIRSOsK4WlQnGoKrHUSIJXZsrZaEspSn6MlmUy7NuoWh1VUepTAdXqqhWb7BuTLaqTaiWW1WUaL-66Y6syFFTgLvvYsz1oFsuBQOKnOpTtCUHQ5T46I4CSqAID-IdVzEm2hMboDiV8euBzIzgnHV9mUWgs6QopAcEa6t1GW6wGGAP4t1Uhxg_u1pgBA-y3VHEXYaulAjV5R7w3TUOyEcf5IgNI-kKcOrJB6PiL5yf2Xu4cPApsy-sXaHLw8p2wwaYuLMuD9XHB-agCz9bv_uJrAuoWcSwdqfvAap6qwr43-XQjCF0t--uzRx8YS387uq-MTZA6L6Qu-w-ELo6oJDcAz4BknpBIyKXPtIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fv-color.net%2Fproducts%2Famd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory%3Fsrsltid%3DAfmBOoowY5dgJw1tRzAqcOxu1RzPKB-bI8gC2_SHGSOq-b3XdW_Max4y&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fv-color.net%2Fproducts%2Famd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory%3Fsrsltid%3DAfmBOoowY5dgJw1tRzAqcOxu1RzPKB-bI8gC2_SHGSOq-b3XdW_Max4y",
+      "source": "v-color Technology Inc."
+    },
+    {
+      "position": 7,
+      "title": "V-Color Manta XSky DDR5 RGB Filler Solution - 2X Modules",
+      "link": "https://www.amazon.com/V-Color-Manta-XSky-Filler-Solution/dp/B0G39PJBLQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FV-Color-Manta-XSky-Filler-Solution%2Fdp%2FB0G39PJBLQ&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQFnoECDQQAQ",
+      "displayed_link": "https://www.amazon.com › V-Color-Manta-XSky-Filler-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Designed to deliver an immersive RGB lighting experience, featuring 16 ultra-BroadBeam LEDs, SK Hynix ICs. Support Intel XMP 3.0",
+      "snippet_highlighted_words": [
+        "RGB",
+        "SK Hynix ICs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Designed to deliver an immersive RGB lighting experience, featuring 16 ultra-BroadBeam LEDs, SK Hynix ICs. Support Intel XMP 3.0",
+          "source_info_link": "https://www.amazon.com/V-Color-Manta-XSky-Filler-Solution/dp/B0G39PJBLQ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FV-Color-Manta-XSky-Filler-Solution%2Fdp%2FB0G39PJBLQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FV-Color-Manta-XSky-Filler-Solution%2Fdp%2FB0G39PJBLQ",
+      "source": "Amazon.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "V-color Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-color+Manta+XSky+DDR5+32GB+%282x16GB%29+6000MHz+CL30&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-color+Manta+XSky+DDR5+32GB+%282x16GB%29+6000MHz+CL30"
+    },
+    {
+      "block_position": 1,
+      "query": "V-COLOR Manta XSky DDR5 32GB reddit",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-COLOR+Manta+XSky+DDR5+32GB+reddit&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-COLOR+Manta+XSky+DDR5+32GB+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "V-Color Manta XSky DDR5 32GB review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-Color+Manta+XSky+DDR5+32GB+review&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-Color+Manta+XSky+DDR5+32GB+review"
+    },
+    {
+      "block_position": 1,
+      "query": "V-color Manta XSky DDR5 32GB 2x16GB 6000MHz CL30 review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-color+Manta+XSky+DDR5+32GB+2x16GB+6000MHz+CL30+review&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-color+Manta+XSky+DDR5+32GB+2x16GB+6000MHz+CL30+review"
+    },
+    {
+      "block_position": 1,
+      "query": "V-Color Manta XSky review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-Color+Manta+XSky+review&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-Color+Manta+XSky+review"
+    },
+    {
+      "block_position": 1,
+      "query": "V color manta xsky 32gb 6000mhz cl30",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V+color+manta+xsky+32gb+6000mhz+cl30&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V+color+manta+xsky+32gb+6000mhz+cl30"
+    },
+    {
+      "block_position": 1,
+      "query": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6400MHz CL32 1.4V SK Hynix IC RGB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-COLOR+Manta+XSky+DDR5+32GB+%282x16GB%29+6400MHz+CL32+1.4V+SK+Hynix+IC+RGB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-COLOR+Manta+XSky+DDR5+32GB+%282x16GB%29+6400MHz+CL32+1.4V+SK+Hynix+IC+RGB"
+    },
+    {
+      "block_position": 1,
+      "query": "V-color Manta XSky reddit",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=V-color+Manta+XSky+reddit&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-color+Manta+XSky+reddit"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Unbuffered",
+      "link": "https://www.google.com/search?hl=en&q=unbuffered+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyGggBEgpVbmJ1ZmZlcmVkOgoIhsIsEIfCLDAAWLexIGAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAF6BAgYEDQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=unbuffered+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Two",
+      "link": "https://www.google.com/search?hl=en&q=two+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyFQgBEgNUd286DAjBho4DENqFjgMwAFi3sSBgAQ&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAJ6BAgYEDU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=two+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQAVIASoEEAEYAWAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAN6BAgYEDY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?hl=en&q=four+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyFggBEgRGb3VyOgwIwYaOAxDCho4DMABYt7EgYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAR6BAgYEDc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=four+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count+sale&gl=us&shoprs=CAESBEoCGAEYBipxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyEwgGEgdPbiBzYWxlGAIiBEoCGAFYt7EgYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAV6BAgYEDg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count+sale"
+    },
+    {
+      "query": "One",
+      "link": "https://www.google.com/search?hl=en&q=one+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyFQgBEgNPbmU6DAjBho4DEPOGjgMwAFi3sSBgAQ&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAZ6BAgYEDk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=one+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYEipxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAd6BAgYEDo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count+for+sale&gl=us&shoprs=CAEYEipxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAh6BAgYEDs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count+for+sale"
+    },
+    {
+      "query": "ECC",
+      "link": "https://www.google.com/search?hl=en&q=ecc+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyEwgBEgNFQ0M6CgjcwSwQ3cEsMANYt7EgYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAl6BAgYEDw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ecc+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "With Heat Spreader",
+      "link": "https://www.google.com/search?hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count+with+heat+spreader&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyJAgBEhJXaXRoIEhlYXQgU3ByZWFkZXIYAjoKCPDXLBDx1ywwA1i3sSBgAQ&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAp6BAgYED0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count+with+heat+spreader"
+    },
+    {
+      "query": "Registered",
+      "link": "https://www.google.com/search?hl=en&q=registered+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyGggBEgpSZWdpc3RlcmVkOgoIhsIsEInCLDAAWLexIGAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAt6BAgYED4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=registered+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Under $150",
+      "link": "https://www.google.com/search?hl=en&q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count+under+%24150&gl=us&shoprs=CAESDRILEQAAAACj4aFBGAEYBSpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyIwgFEgpVbmRlciAkMTUwGAIiDRILEQAAAACj4aFBGAEqAhgBWLexIGAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKAx6BAgYED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count+under+%24150"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?hl=en&q=ddr+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyEwgBEgNERFI6CgjdwCwQ3sAsMAJYt7EgYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKA16BAgYEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?hl=en&q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count+free+shipping&gl=us&shoprs=CAESBFICEAEYGSpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKA56BAgYEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count+free+shipping"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count&gl=us&shoprs=CAEYCipxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyBwgKEgNOZXdYt7EgYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKA96BAgYEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&q=used+V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count&gl=us&shoprs=CAEYCipxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyCAgKEgRVc2VkWLexIGAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKBB6BAgYEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "DDR4",
+      "link": "https://www.google.com/search?hl=en&q=ddr4+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAEYASpxdiBjb2xvciBtYW50YSB4c2t5IGRkcjUgMzJnYiA2MDAwbWh6IHNrIGh5bml4IGljIHJnYiBnYW1pbmcgZGVza3RvcCBtZW1vcnkgbW9kdWxlIGJsYWNrIHRteHNhIG1lbW9yeSBtb2R1bGVfY291bnQyFAgBEgRERFI0OgoI3cAsEObyLjACWLexIGAB&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKBF6BAgYEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr4+v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count&gl=us&shoprs=CAESAmoAGBYqcXYgY29sb3IgbWFudGEgeHNreSBkZHI1IDMyZ2IgNjAwMG1oeiBzayBoeW5peCBpYyByZ2IgZ2FtaW5nIGRlc2t0b3AgbWVtb3J5IG1vZHVsZSBibGFjayB0bXhzYSBtZW1vcnkgbW9kdWxlX2NvdW50MhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAE&sa=X&ved=2ahUKEwjZse609uOVAxXtLTQIHVhNKrkQip4GKBJ6BAgYEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=v+color+manta+xsky+ddr5+32gb+6000mhz+sk+hynix+ic+rgb+gaming+desktop+memory+module+black+tmxsa+memory+module_count"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 7 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=V-color+Manta+XSky+Ddr5+32gb+6000MHz+SK+Hynix+IC+RGB+Gaming+Desktop+Memory+Module+Black+tmxsa+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

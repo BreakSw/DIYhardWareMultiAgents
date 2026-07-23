@@ -1,0 +1,775 @@
+[
+  {
+    "category": "storage",
+    "brand": "Crucial",
+    "model": "Crucial P3 Plus 2TB PCIe 4.0 3D NAND NVMe M.2 SSD CT2000P3PSSD8",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "capacity_gb": "2000",
+      "form_factor": "M.2",
+      "interface": "PCIe 4.0",
+      "protocol": "NVMe"
+    },
+    "price": {
+      "reference_usd": "313.45",
+      "reference_cny": "2120.82",
+      "offers": [
+        {
+          "merchant": "Newegg",
+          "url": "https://www.newegg.com/p/pl?N=100&d=crucial+p3+plus+2tb",
+          "price_usd": "313.45",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/p/pl?N=100&d=crucial+p3+plus+2tb"
+    ],
+    "fetched_at": "2026-07-22T11:45:50.629825+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "endurance_tbw",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "endurance_tbw",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260722T114500Z\\managed-search\\storage.json"
+    },
+    "content_hash": "40439791a980de9c547cd43489dad7dcbd944301b7cf41c4fa7ad32c5fa43230"
+  },
+  {
+    "category": "storage",
+    "brand": "Crucial",
+    "model": "Crucial P510 PCIe NVMe SSD M.2",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "capacity_gb": "1000",
+      "form_factor": "M.2 2280",
+      "interface": "NVMe (PCIe Gen 5 x4), PCIe Gen5 NVMe",
+      "protocol": "NVMe"
+    },
+    "price": {
+      "reference_usd": "364.99",
+      "reference_cny": "2469.55",
+      "offers": [
+        {
+          "merchant": "Beach Audio",
+          "url": "https://www.beachaudio.com/crucial-technology-ct2000p510ssd8-01-crucial-p510-2tb-gen5-nvme-ssd-up-to-10-000-mb-s/?srsltid=AfmBOoo6BW_hUM0tgWUKuLXZJpK2E4YWJi3wQfHRtYso2R_7HY7dQlK4nDg",
+          "price_usd": "382.02",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/crucial-p510-2tb-gen5-nvme-ssd-pcie-5-0-m-2-up-to-11000-mb-s-with-heatsink-ps5-compatible/JX8PSKCR76/sku/12639016?ref=212&loc=marketplace",
+          "price_usd": "364.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Adorama",
+          "url": "https://www.adorama.com/crucial-p510-2tb-nvme-pcie-gen5-m2-2280-ssd-heatsink/p/ct200p51ssd5?srsltid=AfmBOoouAKeEyqnZpZEwokOsryAngAa2p4BsSp_IaD_qvArej1UfcK6fgbs",
+          "price_usd": "364.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.crucial.com/ssd/p510/ct1000p510ssd8",
+      "https://www.crucial.com/ssd/p510/ct1000p510ssd8?srsltid=AfmBOoquiGlwG3eHHkBtMY_MfaAG_bhsFwYwL5BnYiXljDtSX8ElzuxK",
+      "https://www.storagereview.com/review/crucial-p510-review-gen5-performance-at-a-gen4-price",
+      "https://www.reddit.com/r/buildapcsales/comments/1qb29hh/ssd_crucial_p510_2tb_internal_ssd_pcie_gen_5_x4/",
+      "https://www.youtube.com/watch?v=CoS7qKH6yow",
+      "https://www.crucial.com/ssd/p510/ct2000p510ssd8?srsltid=AfmBOoojqwM-V98wFh7DoSQFhRCh7ipN_iX-ZO89KYfsHbFw0WGrh-FO",
+      "https://www.amazon.com/Crucial-Internal-Compatible-Desktop-Software/dp/B0DZ5ZK225",
+      "https://www.thessdreview.com/our-reviews/nvme/crucial-p510-gen5-2tb-ssd-review/",
+      "https://forums.guru3d.com/threads/review-micron-crucial-p510-phison-e31t-pcie-gen-5-0-nvme-ssd-10gb-s.456753/",
+      "https://www.crucial.com/support/ssd-support/p510-support?srsltid=AfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B"
+    ],
+    "fetched_at": "2026-07-21T13:59:06.972776+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "endurance_tbw",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "endurance_tbw",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "4ad8a0a8febaca87e930f00b4e6d83000b52395d8221cafa641ce74a5c911cb3",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "46"
+    }
+  },
+  {
+    "category": "storage",
+    "brand": "Crucial",
+    "model": "Crucial T705 PCIe Gen5 NVMe M.2 SSD",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "capacity_gb": "1000",
+      "form_factor": "M.2",
+      "interface": "PCIe Gen5, NVMe",
+      "protocol": "NVMe"
+    },
+    "price": {
+      "reference_usd": "416.76",
+      "reference_cny": "2819.83",
+      "offers": [
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.centralcomputer.com/crucial-ct2000t705ssd3-t705-2-tb-solid-state-drivem-2-2280-internal-pci-express-nvme-pci-express-5-0-x4-1200tbw.html?srsltid=AfmBOopB8L5Wlr_pob3fbrGrSgAvm7mRi39Fx1NNFweHHHcDzDGtxUiVxEs",
+          "price_usd": "349.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "EXcaliberPC.com",
+          "url": "https://www.excaliberpc.com/814087/2tb-crucial-t705-ssd-pcie.html?srsltid=AfmBOopYAqDVu49JoS7XLjacNTJY8tjL1REvmYtBWigaCkbFELRaWQ_xVyo",
+          "price_usd": "799.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - Seller",
+          "url": "https://www.walmart.com/ip/Crucial-T705-2TB-PCIe-Gen5-NVMe-M-2-SSD-Up-to-14-500-MB-s-Game-Ready-Internal-Solid-State-Drive-PC-1mo-Adobe-CC-CT2000T705SSD3/5355886548?wmlspartner=wlpa&selectedSellerId=103150483",
+          "price_usd": "416.76",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.crucial.com/ssd/t705/ct1000t705ssd3",
+      "https://www.amazon.com/Crucial-Compatible-Hardcore-High-Speed-Storage/dp/B0CTRV9CVP",
+      "https://www.crucial.com/ssd/t705/ct1000t705ssd3?srsltid=AfmBOorWA86oxjT5Wm0e5wFbNc74xE179OxdrdID5UAkHhw_9kQXrLQK",
+      "https://www.crucial.com/ssd/t705/ct2000t705ssd3?srsltid=AfmBOoq6E8E3fnMSuPdoWDUghBEvt57A5fWx4wl_umc9W7KtqvMCaui6",
+      "https://www.reddit.com/r/buildapc/comments/1mm36oy/bought_a_crucial_t705_are_pcie_50_ssds_just_a/",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=0",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=20",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=130",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=195",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=225",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=240",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=280",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=315",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=345",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=400",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=425",
+      "https://www.youtube.com/watch?v=6YtjLjVjCRE&t=470",
+      "https://www.crucial.com/ssd/t705/ct1000t705ssd5?srsltid=AfmBOopARXxofpZyuorSBpL0rhi6NVOCN3WtIkeXu3asA5JbatckdQ_E",
+      "https://www.youtube.com/watch?v=IXaiSSO1Yfk",
+      "https://www.reddit.com/r/NewMaxx/comments/1jjqamc/faster_than_a_9100_pro_crucial_t705_gen5_nvme_ssd/",
+      "https://www.newegg.com/crucial-2tb-t705-nvme/p/N82E16820156401?srsltid=AfmBOop0JWufDMm1xcyZ3a7iKYaohR52ecF9KkyBHkNF-H0mWYprzCUF"
+    ],
+    "fetched_at": "2026-07-21T13:57:50.006760+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "endurance_tbw",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "endurance_tbw",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "c4539f1fb65477dbc004967218ca8264ab3bd2e4fa45f378e888284b8feb95db",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "37"
+    }
+  },
+  {
+    "category": "storage",
+    "brand": "KIOXIA",
+    "model": "KIOXIA KCM6FVUL3T20 DELL 78DH9 3.2TB SSD 2.5 U.3 Gen4 MU By DiscTech.com",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "capacity_gb": "3200"
+    },
+    "price": {
+      "reference_usd": "2849.05",
+      "reference_cny": "19276.87",
+      "offers": [
+        {
+          "merchant": "DiscTech.com",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=productid%3A15514601792708289955%2CheadlineOfferDocid%3A15514601792708289955%2CimageDocid%3A16275844387380696448%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "2849.05",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=productid%3A15514601792708289955%2CheadlineOfferDocid%3A15514601792708289955%2CimageDocid%3A16275844387380696448%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-21T13:57:46.995051+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "endurance_tbw",
+        "form_factor",
+        "interface",
+        "protocol",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "endurance_tbw",
+      "form_factor",
+      "interface",
+      "protocol",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260721T135328Z\\serpapi\\storage.json"
+    },
+    "content_hash": "8ce3a9e80ee3f59c6b1f7e1fd602f4f6ac202c1b30d1243bab970a887b64ad36"
+  },
+  {
+    "category": "storage",
+    "brand": "Lexar",
+    "model": "Lexar Professional NM1090 PRO PCIe 5.0 M.2 Internal SSD",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "form_factor": "M.2",
+      "interface": "PCIe 5.0"
+    },
+    "price": {
+      "reference_usd": "359.99",
+      "reference_cny": "2435.72",
+      "offers": [
+        {
+          "merchant": "Walmart - Adorama Camera",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A3679156450805556901%2Cproductid%3A12618689984704017187%2CheadlineOfferDocid%3A4844133389077070292%2CimageDocid%3A10386459165904667917%2Crds%3APC_18013606253291951299%7CPROD_PC_18013606253291951299%2Cgpcid%3A18013606253291951299%2Cmid%3A576462897990505277%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "359.99",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A3679156450805556901%2Cproductid%3A12618689984704017187%2CheadlineOfferDocid%3A4844133389077070292%2CimageDocid%3A10386459165904667917%2Crds%3APC_18013606253291951299%7CPROD_PC_18013606253291951299%2Cgpcid%3A18013606253291951299%2Cmid%3A576462897990505277%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-21T13:57:46.995051+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "capacity_gb",
+        "endurance_tbw",
+        "protocol",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "capacity_gb",
+      "endurance_tbw",
+      "protocol",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260721T135328Z\\serpapi\\storage.json"
+    },
+    "content_hash": "875bc14412ea88075110c2539765c7bc96d1dc70403a302b861c7b23f04f719f"
+  },
+  {
+    "category": "storage",
+    "brand": "Samsung",
+    "model": "Samsung 9100 PRO PCIe 2 SSD",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "capacity_gb": "1000",
+      "form_factor": "M.2",
+      "interface": "PCIe 5.0",
+      "protocol": "NVMe"
+    },
+    "price": {
+      "reference_usd": "484.995",
+      "reference_cny": "3281.51",
+      "offers": [
+        {
+          "merchant": "ServerSupply.com",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A13020900039308476232%2Cproductid%3A10584825738166660227%2CheadlineOfferDocid%3A14528636377738117863%2CimageDocid%3A6277159117027780379%2Crds%3APC_14341183374405353843%7CPROD_PC_14341183374405353843%2Cgpcid%3A14046894947366811585%2Cmid%3A576462530375014659%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "570.0",
+          "availability": "unknown",
+          "provider": "serpapi"
+        },
+        {
+          "merchant": "ServerSupply.com",
+          "url": "https://www.serversupply.com/SSD/PCI-E5.0/2TB/SAMSUNG/MZ-VAP2T0B_408218.htm?srsltid=AfmBOoqUeOhQZZ-KTW9FwDdpYDdvbS08VsZaBKYqbVcCW7TF7gnrQUjJ2H4",
+          "price_usd": "600.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/samsung-9100-pro-2tb-internal-ssd-pcie-gen-5x4-nvme-speeds-up-to-14700-mb-s/J3ZYG24547/sku/6618928?utm_source=feed",
+          "price_usd": "399.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "CDW",
+          "url": "https://www.cdw.com/product/samsung-9100-pro-mz-vap2t0-ssd-2-tb-pci-express-5.0-x4-nvme/8326153?cm_ven=acquirgy&cm_cat=google&cm_pla=NA-NA-Samsung_TN&cm_ite=8326153",
+          "price_usd": "399.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Instacart",
+          "url": "https://www.instacart.com/products/76119657-samsung--9100-pro-2tb-internal-ssd-pcie-gen-5x4-nvme-speeds-up-to-14700-mbs?retailerSlug=best-buy&unauth-refresh=1",
+          "price_usd": "399.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "EXcaliberPC.com",
+          "url": "https://www.excaliberpc.com/812263/2tb-samsung-9100-pro-ssd.html?srsltid=AfmBOoo4dz4qw29K9ICVk9CD_X9-tkTZJY_4rWvykjBWqqioiHj-gPmue80",
+          "price_usd": "799.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap1t0b-am/",
+      "https://news.samsung.com/us/samsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance",
+      "https://www.microcenter.com/site/content/samsung-9100pro-ssd.aspx",
+      "https://www.youtube.com/watch?v=FbQULD-luVw",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=0",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=30",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=121",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=163",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=246",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=363",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=568",
+      "https://www.youtube.com/watch?v=FbQULD-luVw&t=643",
+      "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_NVMe_SSD_9100_PRO_Datasheet_Rev.1.0.pdf",
+      "https://www.amazon.com/Samsung-Computing-Workstations-VAP2T0B-AM/dp/B0DX2DPJZ5",
+      "https://www.techpowerup.com/ssd-specs/samsung-9100-pro-2-tb.d2319",
+      "https://www.reddit.com/r/hardware/comments/1ixzt9z/samsung_announces_the_9100_pro_series_ssds_with/",
+      "https://www.newegg.com/samsung-1tb-9100-pro-nvme-2-0/p/N82E16820147902?srsltid=AfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ"
+    ],
+    "fetched_at": "2026-07-21T13:58:37.789275+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "endurance_tbw",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "endurance_tbw",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "7d3dc7833ac8aef37dd483b6ad026a85033066270c22e6ff0364188e807b1197",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "43"
+    }
+  },
+  {
+    "category": "storage",
+    "brand": "Samsung",
+    "model": "Samsung 990 PRO 2 SSD",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "481.67",
+      "reference_cny": "3259.01",
+      "offers": [
+        {
+          "merchant": "Orange Hardwares",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A1681557331619465494%2Cproductid%3A15400812525712933552%2CheadlineOfferDocid%3A6302611850946102467%2CimageDocid%3A10889201484900153880%2Crds%3APC_1771359071691708116%7CPROD_PC_1771359071691708116%2Cgpcid%3A1771359071691708116%2Cmid%3A576462751670899455%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "481.67",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A1681557331619465494%2Cproductid%3A15400812525712933552%2CheadlineOfferDocid%3A6302611850946102467%2CimageDocid%3A10889201484900153880%2Crds%3APC_1771359071691708116%7CPROD_PC_1771359071691708116%2Cgpcid%3A1771359071691708116%2Cmid%3A576462751670899455%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-21T13:57:46.995051+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "capacity_gb",
+        "endurance_tbw",
+        "form_factor",
+        "interface",
+        "protocol",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "capacity_gb",
+      "endurance_tbw",
+      "form_factor",
+      "interface",
+      "protocol",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260721T135328Z\\serpapi\\storage.json"
+    },
+    "content_hash": "50633cdb3b8db029c76486817a9dc28e82fc32c7510ccd8475abbdb4ea4026d3"
+  },
+  {
+    "category": "storage",
+    "brand": "Solidigm",
+    "model": "Solidigm D5-P5336 Solid State Drive sbfpf",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "25095.22",
+      "reference_cny": "169796.04",
+      "offers": [
+        {
+          "merchant": "NextWarehouse.com",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A10345138256477691048%2Cproductid%3A4346467717947156512%2CheadlineOfferDocid%3A5735174795295894950%2CimageDocid%3A13749613252289915798%2Crds%3APC_14472223754303158398%7CPROD_PC_14472223754303158398%2Cgpcid%3A14472223754303158398%2Cmid%3A576462778636629406%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "25095.22",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A10345138256477691048%2Cproductid%3A4346467717947156512%2CheadlineOfferDocid%3A5735174795295894950%2CimageDocid%3A13749613252289915798%2Crds%3APC_14472223754303158398%7CPROD_PC_14472223754303158398%2Cgpcid%3A14472223754303158398%2Cmid%3A576462778636629406%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-21T13:57:46.995051+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "capacity_gb",
+        "endurance_tbw",
+        "form_factor",
+        "interface",
+        "protocol",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "capacity_gb",
+      "endurance_tbw",
+      "form_factor",
+      "interface",
+      "protocol",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260721T135328Z\\serpapi\\storage.json"
+    },
+    "content_hash": "75d79cd5f47c7dfbc59e1ca00f31696d1d0fbb1670ed96fb755247b9448a28e8"
+  },
+  {
+    "category": "storage",
+    "brand": "WD",
+    "model": "WD Elements Desktop Hard Drive WDBWLG",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "1389.99",
+      "reference_cny": "9404.77",
+      "offers": [
+        {
+          "merchant": "WD Store",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A2946240768286161268%2Cproductid%3A10422171800852842893%2CheadlineOfferDocid%3A12898510236518057388%2CimageDocid%3A1089132346963169084%2Crds%3APC_16971079144206862009%7CPROD_PC_16971079144206862009%2Cgpcid%3A16971079144206862009%2Cmid%3A576462492423700679%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "1389.99",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&prds=catalogid%3A2946240768286161268%2Cproductid%3A10422171800852842893%2CheadlineOfferDocid%3A12898510236518057388%2CimageDocid%3A1089132346963169084%2Crds%3APC_16971079144206862009%7CPROD_PC_16971079144206862009%2Cgpcid%3A16971079144206862009%2Cmid%3A576462492423700679%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-21T13:57:46.995051+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "capacity_gb",
+        "endurance_tbw",
+        "form_factor",
+        "interface",
+        "protocol",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "capacity_gb",
+      "endurance_tbw",
+      "form_factor",
+      "interface",
+      "protocol",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260721T135328Z\\serpapi\\storage.json"
+    },
+    "content_hash": "48e0e69ae5e196517b8e2f939b06c1f46c0aaf9b5080b7ad06a15636e9a84c20"
+  },
+  {
+    "category": "storage",
+    "brand": "Western Digital",
+    "model": "WD My Book Desktop Hard Drive WDBBGB",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "capacity_gb": "4000",
+      "form_factor": "Desktop",
+      "interface": "USB 3.0, USB 3.2 Gen 1"
+    },
+    "price": {
+      "reference_usd": "1213.74",
+      "reference_cny": "8212.25",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/wd-my-book-24tb-black/p/N82E16822234577?item=N82E16822234577&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-hard+drives+-+desktop+external-_-western+digital-_-22234577&source=region&negg_topt=0",
+          "price_usd": "1089.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "WD Store",
+          "url": "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd?sku=WDBBGB0240HBK-NESN",
+          "price_usd": "1319.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Target",
+          "url": "https://www.target.com/p/wd-my-book-24tb-3-5-desktop-hard-drive-wdbbgb0240hbknesn/-/A-1008951485?TCID=OGS&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=56-2&srsltid=AfmBOoqxvvmCZlOfq2NSiSebU09zk7vGZoM-MpRjuaKyjVZkSMxFurJcqlA",
+          "price_usd": "1213.74",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=0",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=105",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=144",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=192",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=330",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=371",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=493",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=607",
+      "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=685",
+      "https://www.westerndigital.com/en-kz/products/external-drives/wd-my-book-usb-3-0-hdd?sku=WDBBGB0040HBK-NESN",
+      "https://www.dell.com/en-us/shop/wd-my-book-8tb-usb-30-desktop-hard-drive-with-password-protection-and-auto-backup-software/apd/a9281557/storage-drives-media",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=0",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=48",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=111",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=180",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=245",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=323",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=433",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=475",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=499",
+      "https://www.youtube.com/watch?v=tRmYNtyg69s&t=623",
+      "https://files.bbystatic.com/4qJasjMWMcrQHIcoQoPHLg%3D%3D/05939ca5-3e61-437a-aef9-79364c718538",
+      "https://www.amazon.com/Western-Digital-Desktop-External-Drive/dp/B01LQQHL4E",
+      "https://documents.westerndigital.com/content/dam/doc-library/en_gb/assets/public/wd/product/external-storage/my_book/my-book-new/my-book-new-user-manual.pdf",
+      "https://gzhls.at/blob/ldb/7/1/3/a/5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf"
+    ],
+    "fetched_at": "2026-07-21T13:58:24.607810+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "endurance_tbw",
+        "protocol",
+        "sequential_read_mb_s",
+        "sequential_write_mb_s"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "endurance_tbw",
+      "protocol",
+      "sequential_read_mb_s",
+      "sequential_write_mb_s"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "eb35ffc2e7c6effe80d1e10da2e4b53c90c04fcfccb430a94e2e35b0a2cf33a4",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "40"
+    }
+  }
+]

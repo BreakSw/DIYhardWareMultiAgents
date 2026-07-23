@@ -1,0 +1,739 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b495e349411356dd2b4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/al9OwZrPzRYlSvUdiecR5g/6a5f7b495e349411356dd2b4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/al9OwZrPzRYlSvUdiecR5g/6a5f7b495e349411356dd2b4.json_with_pixel_position",
+    "created_at": "2026-07-21 13:59:37 UTC",
+    "processed_at": "2026-07-21 13:59:37 UTC",
+    "google_url": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&oq=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/al9OwZrPzRYlSvUdiecR5g/6a5f7b495e349411356dd2b4.html",
+    "total_time_taken": 7.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "NZXT 850W ATX 3.1 80 Plus Gold Fully Modular Power Supply psu atx_version pcie_connectors",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "NZXT 850W ATX 3.1 80 Plus Gold Fully Modular Power Supply psu atx_version pcie_connectors",
+    "total_results": 649,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRlueIeqt0RQGaC7i9s_NWPuGUuYfm4SX8iVZwgksu58xzcacDb3z9Pmsp_7BQu5Y_UBFYQpuK0TMiqSvJFB3R4qHPJrZFXdfO9MNtkrzzwF1MYJi_BBBUe",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "NZXT 850W ATX 3.1 80 Plus Gold Fully Modular Power Supply",
+      "rating": 4.6,
+      "reviews": 66,
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "original_price": "$145",
+      "extracted_original_price": 145,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "kfzqTHicbZPNjqNGFIWlPEPeAk1URfE7O9u4wO422EAVPxuLrsIGUxgGQ2OjvEPewT0TabKciZRtXqPzNHGyns1dnE_3nnMW97d7Xv5FnP6Q9XGOPxwWraFsgbmPqh372nYNH1hf8u-KppgGlKFuyoqpGBDK-leW9Zlojg-qGjKCigIUCExT0wyAwLciz7goz7l3OOSd1bCS_wll1dR1DZhI10wTqghp6I-yzo75__y7hmSEEFCBqauaiRQdmW8dv7zL28Ve1XRVAeZjz4AKeNxQlV-3vmftf8y-fBry7vaeuGkcSoYKImkWxhL6BUoGkLZiuEh2I7iEByFu0ubRUmSdtG3GvJOCoW0fYnsZpKy_7l_z7lI2Z6llZb5nzfmcs77pLl-O7X-Rf2D9Vpf8m6priiarGjR01TB1RTXe2tf-Xhw_D4PI_74fxX243Atxz8-_N1n7emD__PTzshmtxWVc7EjbUssHwcRrUq-H0D5OGaUVx2IVyHwd1qTnsolC4q-yaSWnIhn9itoEM4UISndVj7NlNbqknTYOz1joO2QSr9lyKXsRu_lnP04orilsrrmTosjCYlfTJnLmKIngyQsTEMaU-IR-yp22IhVfe7Z6TmtxCmgLwiVfEby5bRzRuzY950tckwlvd7W6fSZFGSD_GkbikNUQ5ZYbpDdYcugWLEoeuml5kfnE67bmk7_yLaokk1_5QIzPAaT8NEPM8YvnCK_SMEEMYxzSzRicGPQIHTdhquZiPQVV64XUPO1O7kCq1M9rHO-q1k5QarO6B-kC7iI8TxnCFo-u_QZwOxV-4Ds-yMB17S1p7E_FIa0ahZzwgk0EeKSIwwpChtzuJXaLoOILBl3PtaHysuzlELQTjYsdd-YHusSb1KIWk9cdv8ExpVjjNAkwpKuHU8FxIfwS1js0U1w8Gz1qxhnEJ7tcz33HvXlRSty4QG6tCuKskwC4hFXt8iWCY4DF9GL3IkMp-ny9dId3MMNqH3jaYf6sD09xFd_kJyc5q0_DOD_JLQk-zD5C3Xh8qYweU0f_AvkARo0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kfzqTHicbZPNjqNGFIWlPEPeAk1URfE7O9u4wO422EAVPxuLrsIGUxgGQ2OjvEPewT0TabKciZRtXqPzNHGyns1dnE_3nnMW97d7Xv5FnP6Q9XGOPxwWraFsgbmPqh372nYNH1hf8u-KppgGlKFuyoqpGBDK-leW9Zlojg-qGjKCigIUCExT0wyAwLciz7goz7l3OOSd1bCS_wll1dR1DZhI10wTqghp6I-yzo75__y7hmSEEFCBqauaiRQdmW8dv7zL28Ve1XRVAeZjz4AKeNxQlV-3vmftf8y-fBry7vaeuGkcSoYKImkWxhL6BUoGkLZiuEh2I7iEByFu0ubRUmSdtG3GvJOCoW0fYnsZpKy_7l_z7lI2Z6llZb5nzfmcs77pLl-O7X-Rf2D9Vpf8m6priiarGjR01TB1RTXe2tf-Xhw_D4PI_74fxX243Atxz8-_N1n7emD__PTzshmtxWVc7EjbUssHwcRrUq-H0D5OGaUVx2IVyHwd1qTnsolC4q-yaSWnIhn9itoEM4UISndVj7NlNbqknTYOz1joO2QSr9lyKXsRu_lnP04orilsrrmTosjCYlfTJnLmKIngyQsTEMaU-IR-yp22IhVfe7Z6TmtxCmgLwiVfEby5bRzRuzY950tckwlvd7W6fSZFGSD_GkbikNUQ5ZYbpDdYcugWLEoeuml5kfnE67bmk7_yLaokk1_5QIzPAaT8NEPM8YvnCK_SMEEMYxzSzRicGPQIHTdhquZiPQVV64XUPO1O7kCq1M9rHO-q1k5QarO6B-kC7iI8TxnCFo-u_QZwOxV-4Ds-yMB17S1p7E_FIa0ahZzwgk0EeKSIwwpChtzuJXaLoOILBl3PtaHysuzlELQTjYsdd-YHusSb1KIWk9cdv8ExpVjjNAkwpKuHU8FxIfwS1js0U1w8Gz1qxhnEJ7tcz33HvXlRSty4QG6tCuKskwC4hFXt8iWCY4DF9GL3IkMp-ny9dId3MMNqH3jaYf6sD09xFd_kJyc5q0_DOD_JLQk-zD5C3Xh8qYweU0f_AvkARo0"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRyuXAIF3Fny5dtQOSZWx0H9sTqOqN3VCZGorotnjpc4tmcmyAUi9Bopbccz4rO3h4o0JyMoc8BQqLvQIrASGYwmrRVsQrX_2wCk2bFIV4t9wylX10f-JvMDg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "NZXT Gold Core 850W ATX 3.1 Fully Modular Power Supply",
+      "rating": 4.9,
+      "reviews": 16,
+      "price": "$109.99",
+      "extracted_price": 109.99,
+      "original_price": "$140",
+      "extracted_original_price": 140,
+      "delivery": "Free delivery",
+      "extensions": [
+        "21% OFF"
+      ],
+      "immersive_product_page_token": "OnO_o3icbVNZjttGEAVyhtyCcNDd3POnhRRHI7akJpvbj0BxESk2yTaX0YLcIXfQ2AHsT9tAfnONyWnCybdRqCrgFepVvQLqz0dW_k2tIY-HIDM_5AuuSTugH_xqn3zhXZuOyVCmPyAUEZRkqEoIqlCUFElRviTxELP2VKbfVWnCdE1ToQokBSkSkr8VWZyyssm2eZ51yzZ5Z0GSIqJ3Q6KiqqI8-deyjk_Z__VvmjgRaBKasqQpU1Beu7R_Q7vFQdem2bqiaRqAQNV0Eel_7Mh2efh57fPHMetubyGOAlfQZOALMzcQxN-goAFhx8ZeWLUsFcyRsZtgTypZ3Am79pJ1gjNyPoG8H4V4uB5esq4v20bgSZkdkrZpsmRou_7zaQLS7z8Z_VpPSmR1uhDSdEnXdQAnMcorfxkexenTOLLsn8eJPcb-UbBH1vzVxvwlT_795VejvSwX_WWxp5x7SwIckaztwBs9g9n7O6kSX5cdy7wSOtwSOM8Tc90T6tkhawF1vZo23uIo4gCLxf1IOSIGbmkl5xEqjMjgc2zhIG3YQCA-2yud7hEMyLLYZCt4d1ZD60B95zSEHIF5i1h7jRCHFBXdvqZydjarjK7j4xJX-E6AWw-hX19ufh25DuSiDbhLjaFOLd7gOwYOI7F9JyFFGNs-djYBmVPQy-RctHFVSZGfbpIVM7crUvjmWsbAu4T-ENqrwaS1IWfWDLlsPnebVLH9J-BXnuwGbOn6xYsrFogERUkgmfrY3fY1QJlXEqtgW08PHTiTAhEjG5hLQvFHx7hubE-fdA4BBXy0G8ydKs09Y4hoYO4jsVjYlhceqwo4BusI0jm22J5Y6S5jUZSauhKjVIyojKNzYRwpu3luQWPKN7TmnX2PfFxHQ0wvjgm9p3QVFalZMFLCei_OJGzOLtNeQQzN86pcz4mFb1s_csIAk4gyyXdTYptP0Gb6xTlTgBlvfXe-3riYfLr2Xf4GZqY8OFsln2_U8Tmoght6tsJGfh4v8zPi1Pkw-_39c6bHE6eoiv8Bz5lEmA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OnO_o3icbVNZjttGEAVyhtyCcNDd3POnhRRHI7akJpvbj0BxESk2yTaX0YLcIXfQ2AHsT9tAfnONyWnCybdRqCrgFepVvQLqz0dW_k2tIY-HIDM_5AuuSTugH_xqn3zhXZuOyVCmPyAUEZRkqEoIqlCUFElRviTxELP2VKbfVWnCdE1ToQokBSkSkr8VWZyyssm2eZ51yzZ5Z0GSIqJ3Q6KiqqI8-deyjk_Z__VvmjgRaBKasqQpU1Beu7R_Q7vFQdem2bqiaRqAQNV0Eel_7Mh2efh57fPHMetubyGOAlfQZOALMzcQxN-goAFhx8ZeWLUsFcyRsZtgTypZ3Am79pJ1gjNyPoG8H4V4uB5esq4v20bgSZkdkrZpsmRou_7zaQLS7z8Z_VpPSmR1uhDSdEnXdQAnMcorfxkexenTOLLsn8eJPcb-UbBH1vzVxvwlT_795VejvSwX_WWxp5x7SwIckaztwBs9g9n7O6kSX5cdy7wSOtwSOM8Tc90T6tkhawF1vZo23uIo4gCLxf1IOSIGbmkl5xEqjMjgc2zhIG3YQCA-2yud7hEMyLLYZCt4d1ZD60B95zSEHIF5i1h7jRCHFBXdvqZydjarjK7j4xJX-E6AWw-hX19ufh25DuSiDbhLjaFOLd7gOwYOI7F9JyFFGNs-djYBmVPQy-RctHFVSZGfbpIVM7crUvjmWsbAu4T-ENqrwaS1IWfWDLlsPnebVLH9J-BXnuwGbOn6xYsrFogERUkgmfrY3fY1QJlXEqtgW08PHTiTAhEjG5hLQvFHx7hubE-fdA4BBXy0G8ydKs09Y4hoYO4jsVjYlhceqwo4BusI0jm22J5Y6S5jUZSauhKjVIyojKNzYRwpu3luQWPKN7TmnX2PfFxHQ0wvjgm9p3QVFalZMFLCei_OJGzOLtNeQQzN86pcz4mFb1s_csIAk4gyyXdTYptP0Gb6xTlTgBlvfXe-3riYfLr2Xf4GZqY8OFsln2_U8Tmoght6tsJGfh4v8zPi1Pkw-_39c6bHE6eoiv8Bz5lEmA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSJNgfErDgNcky6JQEa7_Z7MSU-hkTU0NOP74lpb2WAlp8Ke0UnCpL1UYns1tvnKU7GXUedKh1XK35LM_K-dPCLfo-vBxJiBxCMT4--P24yb38WD0ey9eoU3g",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - NZXT",
+      "title": "NZXT ATX Gaming Power Supply Fully Modular Design",
+      "rating": 4.2,
+      "reviews": 26,
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "6ApyznicdZDNjqNGFIWlPEPeAk1UBcVfdsb82dMGuygom00LV2GDKUO1we0f5R3yDu6ZSDPLSaRs8xqdpwmjbJPNXZxz7zn67q-Psv4zDYddMaxL_8NuKi20BPYzbVbsizx1_MyGmv8BddO2DF0HFrJsBAwbGeoXVgyF6PbfbRNpCFqGoakqNAzd1jT7W1UWXNRtGe925cntWM1_N4BpAcvQDPQ9YTww4df6WOzLf22k6ZpuAWDrYCxRNRWabyfev6Pl9BlqpmqZEGpQhyawALRs8MsSx-7z_5ifX87l6fa-ifI1USwdUGVC1or2E1QsoCzFuVeCTnDFPwtxUxYjqChOyrK7lCclOUs5irI_K8VwfX4tT33dtYpkdfnMurYt2dCd-s_7URjZ_6P77Vjzb7o5YqpINUdgFVoQ2G_ydXhU-0_nsyj_euzF49w_KvEo29-6Qr7u2N8__Oh1F3faX6arVMrMxSCB0ZB63sBp_rQh-ROD8pWnPCbEaWm4urAgx2mYNXljXSMoi20AX9Jwf029KsWhcNl9NqzUecI12awyDFMvI3HKwUqr2jSb3ZLjNV41tkxaOX-i_UCopa4IrzPN06Nmjgqf-9khoywYDJpipwjyGjeSFMIhG01gSvVN7PIlSaCOoeNRryLbe7agLieJK2hZw6QYM3GY7wrqHzCMfNbAl6wVlAGBMMxkdvA7LGwnaZ2KBA1a-AIwzXGiNEO5X2nczf2RTeD7HjFNYpbyKQPZbJs5YeZLwpqKJikDa2jr1Bc9V6_6wrtWJRUoEh5aNPkRQxxv0s2dtVW9JfMLb-Z94vpgA3CxCDKQUmGknv2aqkPAj367GncxqGKy3oPIs28LCqebNJdJOEPbbHHZrJ1bDrMlobkcfz2swUDIIRqKJk18mM14kFfcrwSu4XGlTVDkTy5xZq8L6B-Ceu7gMLrFNCflFN6L5nLfqlFD2hwvWiGJZwcJ1ecb6ntcOM6na3_avYOJrw9JbG7NUjsmk1DkuvuRbXm3rsOkc7qPePIzNC1kIFUbp4n-AZa5RJg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6ApyznicdZDNjqNGFIWlPEPeAk1UBcVfdsb82dMGuygom00LV2GDKUO1we0f5R3yDu6ZSDPLSaRs8xqdpwmjbJPNXZxz7zn67q-Psv4zDYddMaxL_8NuKi20BPYzbVbsizx1_MyGmv8BddO2DF0HFrJsBAwbGeoXVgyF6PbfbRNpCFqGoakqNAzd1jT7W1UWXNRtGe925cntWM1_N4BpAcvQDPQ9YTww4df6WOzLf22k6ZpuAWDrYCxRNRWabyfev6Pl9BlqpmqZEGpQhyawALRs8MsSx-7z_5ifX87l6fa-ifI1USwdUGVC1or2E1QsoCzFuVeCTnDFPwtxUxYjqChOyrK7lCclOUs5irI_K8VwfX4tT33dtYpkdfnMurYt2dCd-s_7URjZ_6P77Vjzb7o5YqpINUdgFVoQ2G_ydXhU-0_nsyj_euzF49w_KvEo29-6Qr7u2N8__Oh1F3faX6arVMrMxSCB0ZB63sBp_rQh-ROD8pWnPCbEaWm4urAgx2mYNXljXSMoi20AX9Jwf029KsWhcNl9NqzUecI12awyDFMvI3HKwUqr2jSb3ZLjNV41tkxaOX-i_UCopa4IrzPN06Nmjgqf-9khoywYDJpipwjyGjeSFMIhG01gSvVN7PIlSaCOoeNRryLbe7agLieJK2hZw6QYM3GY7wrqHzCMfNbAl6wVlAGBMMxkdvA7LGwnaZ2KBA1a-AIwzXGiNEO5X2nczf2RTeD7HjFNYpbyKQPZbJs5YeZLwpqKJikDa2jr1Bc9V6_6wrtWJRUoEh5aNPkRQxxv0s2dtVW9JfMLb-Z94vpgA3CxCDKQUmGknv2aqkPAj367GncxqGKy3oPIs28LCqebNJdJOEPbbHHZrJ1bDrMlobkcfz2swUDIIRqKJk18mM14kFfcrwSu4XGlTVDkTy5xZq8L6B-Ceu7gMLrFNCflFN6L5nLfqlFD2hwvWiGJZwcJ1ecb6ntcOM6na3_avYOJrw9JbG7NUjsmk1DkuvuRbXm3rsOkc7qPePIzNC1kIFUbp4n-AZa5RJg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTbCZmd4LdsiX6I7SFGF5cgdME3Y-RHR6IMMw8HyF6aMapiUovEIRX3dWggcZYz3_jv7v1cjTziu-RPsaGN8JYJm8bR7308JPwd75-t7bE0cPnv6T6NDq1k",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "NZXT C850 SFX Gold 850W ATX 3.1 Power Supply",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "original_price": "$200",
+      "extracted_original_price": 200,
+      "delivery": "Free delivery",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "OmzNlHicHVPbjqNGEFW-ByVq-sIlb_YAZtgBj5tLM_0yYui2wTSXxTDL-CfyC5FnN9LmcRMpr_mNzdcErVQ6D3WOTp0qqX67yfqf1J-OxZRL7-fj3WDhR2A_s-ZQfh3GXszlVIu_oI0NjJBl6QhCiwAL469lMRWqP60sNpBOCIFrGRbSTQLNb5UshKo7uT8e5ej05SozsWUACwEDItuwsY2g-WfdFif5g_5bx5BYOrbMFZEFELEAeR_F5fcvH2c5vn1_inieaOtwpm2SXEO_6JoFtEc1X7Rdr4TmzUq9aeEaWRWj9th_kqMWz8OwNofLrBXT8vwqx0vdd9pQ1vK57LtOllM_Xr6chh8BDAwxwLYNoA0QNtedjPe2Ft-IaWADWjbGBjFN09bJ-_A63arT53lW8t_bSd3my61SN9n90RfD67H876d3dyzv7l7L7SEdhsyhIEaV8cB4z1KPHtgwFKl9ZXnwsYADjlwLHVS4pCw4J0lEQjCw0m2uSb51Y3_zxr2qDduJyN0UFkkQcJ9WJQvm6EzzDNhe5EacdvQTZSd8aIJ9obyYO8Fj0iyO9MUlBpFT5l4UIk9lOVdhl16LlFABwZJBsTzByGO5xykKWJlnAc2C1VeET0BfeFc9SLYc9umypTWAK6-nns1Sl8ZJS_O9Q2FS69vEz5RQG0ybLH5J-Z7lXC993tDz_RJ16RKyxRDt4iVXelg1E0X8gZ-3RqZHKAJ0f8iDLtfVEGbceWntbezTs2i81Y9fJfO8hN7nWVoB3nqA7bLdekundE4gdTYk18WYsrC4bzy3RPeEq8BJMvqUtJmKQYXkTvhRQzLRikYye1t0KQxd9_NyGY_fwcYjU7w3X0yJ2njjK06cD-WL6PPaj_tt_4FuftVNa30AiFY08f8HbxHN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OmzNlHicHVPbjqNGEFW-ByVq-sIlb_YAZtgBj5tLM_0yYui2wTSXxTDL-CfyC5FnN9LmcRMpr_mNzdcErVQ6D3WOTp0qqX67yfqf1J-OxZRL7-fj3WDhR2A_s-ZQfh3GXszlVIu_oI0NjJBl6QhCiwAL469lMRWqP60sNpBOCIFrGRbSTQLNb5UshKo7uT8e5ej05SozsWUACwEDItuwsY2g-WfdFif5g_5bx5BYOrbMFZEFELEAeR_F5fcvH2c5vn1_inieaOtwpm2SXEO_6JoFtEc1X7Rdr4TmzUq9aeEaWRWj9th_kqMWz8OwNofLrBXT8vwqx0vdd9pQ1vK57LtOllM_Xr6chh8BDAwxwLYNoA0QNtedjPe2Ft-IaWADWjbGBjFN09bJ-_A63arT53lW8t_bSd3my61SN9n90RfD67H876d3dyzv7l7L7SEdhsyhIEaV8cB4z1KPHtgwFKl9ZXnwsYADjlwLHVS4pCw4J0lEQjCw0m2uSb51Y3_zxr2qDduJyN0UFkkQcJ9WJQvm6EzzDNhe5EacdvQTZSd8aIJ9obyYO8Fj0iyO9MUlBpFT5l4UIk9lOVdhl16LlFABwZJBsTzByGO5xykKWJlnAc2C1VeET0BfeFc9SLYc9umypTWAK6-nns1Sl8ZJS_O9Q2FS69vEz5RQG0ybLH5J-Z7lXC993tDz_RJ16RKyxRDt4iVXelg1E0X8gZ-3RqZHKAJ0f8iDLtfVEGbceWntbezTs2i81Y9fJfO8hN7nWVoB3nqA7bLdekundE4gdTYk18WYsrC4bzy3RPeEq8BJMvqUtJmKQYXkTvhRQzLRikYye1t0KQxd9_NyGY_fwcYjU7w3X0yJ2njjK06cD-WL6PPaj_tt_4FuftVNa30AiFY08f8HbxHN"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcStgEONWjUSqVMsin2WrWAP1fbrTcCWMvDevaKnj1O0GX0Zren83NNvIqLRjSUegyIEbBnkoWT2hc4RIVJGnd6yUDb354re8_Y5ODB5O2F8D3_ZxhKdDBIpsg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - pigpig tech",
+      "title": "NZXT C850 PSU 2022",
+      "rating": 4.9,
+      "reviews": 21,
+      "price": "$218.99",
+      "extracted_price": 218.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "ea6OrnicdZNNjqtGFIWV9aBE1A9_mdnGmHYb3FBQQE0sXIUNTRlojLtt9PaQLUTu9yK9DJNImWYbnZVkGBJlmun5pPOdO7g_3Ivq99gdDvmQFs63h0Vn4ifV2iV1wL92fSsufKjEb8BAmmYhC2sAAB0aAEL9K8-HXLbHSvxqmgYGBsAaxpaqQWQi45eyyIWsmmJ7OBS93fJ_WgAwITRMC-oYWNjECIKfq1N-LP7jEGNzqtcnFwbYQhqA7704f-CnxQ5AA0GsTqEBTBNNSlX_9BRu7d3_wC8vl6K_fWQ-SyPF1NREmUWpgr4DiqkqT_JyVlatFIpzkfKmeNOlMu-Vp_at6BVy6bop7M4XJR-uu9eiP1dto3S8Kna8bZqCD21__nLs_l2tQxPp0AKGpmHL1JEOjPdTJX58716He3n8fLnI4o_7Ud4v53sp70XzU5t3rwf-5zd_LV_5YtHzRRB3HbVDlQDnFqnS95o5y2S33bst8hOZE9DhYKRIqGEe2yLnNai8JHhjsvM3lI4Eaoi75carvVuQAJWB8iUY5YOo34BH2WtBu16MQk8mQXBikxXcsmhNuM1c2nRbz14_8KRcFtESkJTVxUoEmzge89hKCcjURDqxvwo1T87HJB70fAUiHmU4seurB-aEpzWOxwccxSHIqUWZHUC_XicxXINNEvqUhrQgIM0adiaUldFqjbymG_d2BvfPLI-WV2_ahmPIGj_uNpHtxERSlkJBubPWmFtfEzn3chCmMZinXF1rBKzfEncebJfHkcP1IjqBIZ9IWIPHkPpoE0scpv6Bj7ItZHhmNguEKrYZcrRNol59maFMFRGJ8RAg9rx3y_l-ZDZtWL91M0wSSXw100L7SBxAH8SKlcIpZViBU4Bm2Hdmb1tqpTlwnlfVeh66_m2bsIi48iVW_Ug09OarpUZUv82epe3VV8xXoIxo13y-nvvDhzpztIFsjb1RoBOZuZJp9iPfizatXNLO28dw9j0wTKzj6aWwbuC_AU4zN08",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ea6OrnicdZNNjqtGFIWV9aBE1A9_mdnGmHYb3FBQQE0sXIUNTRlojLtt9PaQLUTu9yK9DJNImWYbnZVkGBJlmun5pPOdO7g_3Ivq99gdDvmQFs63h0Vn4ifV2iV1wL92fSsufKjEb8BAmmYhC2sAAB0aAEL9K8-HXLbHSvxqmgYGBsAaxpaqQWQi45eyyIWsmmJ7OBS93fJ_WgAwITRMC-oYWNjECIKfq1N-LP7jEGNzqtcnFwbYQhqA7704f-CnxQ5AA0GsTqEBTBNNSlX_9BRu7d3_wC8vl6K_fWQ-SyPF1NREmUWpgr4DiqkqT_JyVlatFIpzkfKmeNOlMu-Vp_at6BVy6bop7M4XJR-uu9eiP1dto3S8Kna8bZqCD21__nLs_l2tQxPp0AKGpmHL1JEOjPdTJX58716He3n8fLnI4o_7Ud4v53sp70XzU5t3rwf-5zd_LV_5YtHzRRB3HbVDlQDnFqnS95o5y2S33bst8hOZE9DhYKRIqGEe2yLnNai8JHhjsvM3lI4Eaoi75carvVuQAJWB8iUY5YOo34BH2WtBu16MQk8mQXBikxXcsmhNuM1c2nRbz14_8KRcFtESkJTVxUoEmzge89hKCcjURDqxvwo1T87HJB70fAUiHmU4seurB-aEpzWOxwccxSHIqUWZHUC_XicxXINNEvqUhrQgIM0adiaUldFqjbymG_d2BvfPLI-WV2_ahmPIGj_uNpHtxERSlkJBubPWmFtfEzn3chCmMZinXF1rBKzfEncebJfHkcP1IjqBIZ9IWIPHkPpoE0scpv6Bj7ItZHhmNguEKrYZcrRNol59maFMFRGJ8RAg9rx3y_l-ZDZtWL91M0wSSXw100L7SBxAH8SKlcIpZViBU4Bm2Hdmb1tqpTlwnlfVeh66_m2bsIi48iVW_Ug09OarpUZUv82epe3VV8xXoIxo13y-nvvDhzpztIFsjb1RoBOZuZJp9iPfizatXNLO28dw9j0wTKzj6aWwbuC_AU4zN08"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR6TdxyPurpdprANYxPmatuaeWMhjrXVrHHo0JKE4VKPz12EH09VF-YI84ACOBNYQa2bfaxIDlb8CWi6oFuJSrZhYrRU0WviCvB7sq45dUCGT99XGgAEvzZ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSszEkUOjnvn_96LLdtDlvMqM_zHQKn-qXz48g4ezIjuG9VexSIaGBYUqfM-jG02rpelucSF61h39mgcfZ__9JvMl7lJ8-fLRY",
+      "source": "Techinn.com",
+      "title": "NZXT C1000 Gold 1000W ATX Power Supply",
+      "rating": 4.7,
+      "reviews": 57,
+      "price": "$137.49",
+      "extracted_price": 137.49,
+      "original_price": "$172",
+      "extracted_original_price": 172,
+      "extensions": [
+        "19% OFF"
+      ],
+      "immersive_product_page_token": "EPcHE3icdZNLkqNGEIYjfAbfghhHPQCBd40EQrgBCagCsVHwkkAUoppHgxS-g--gnnHEzHLGEd76Gu3TWJ61vchcfH9m_vEv8rd7Uf1JzOGYDFFhfDguuSJugXoI6132mXdtPmZDlf8BIVJVWUH4URAABcry4nOWDAlrT1X-DWMA0AOpKpZkhICIFl_LIslZdSnc47HoVm327xVZREAGChLBAiEZ4cfgl6pJTsV3_RsEWJFViBYyVoGKsITFty7v38Xt8gABlBaKLIpYxVDCUFag-uvWc1eH_xE_vYxFd33fO3EUCIoEQuEpiAT8ExQUIGzZ2AvrluWCMTJ2FexHUJZ0wradik7wR84fkPejkAzz4bXo-qq9CDyrikPWXi5FNrRd_-nEv4f6D--3psq_SgtZlJGiLjCSwIMj9Y2_Dvfy9HEcWfHX_cTuY38v2b24_N4m_PWY_f3Dj3o7rZb9tNwRzunKA8HKc2zdOhY-mBKii044mIRZU3LWrznYoyJwNoTGzA8dkpvaLUb1sAussw-g9UxjkK7i51g3VvlFu1DG_DSiuzDKG4cyK77UIFt7mNaenemOVzDv2WmgtrtpRw_NfYR0MQf5GPtASpihuZFVFasd3tONaJMe23UrJoB3PikdQvktCPI-DGeeIn1KdWOTMtbZoUWDZn5JQ0_yazJlUJ9skxkuYUMK1b1NLJxEMYvDCcbGaXoms5nXdCJEv9qGJmeRBVzdconJ9d35NBNDizxQ9rR2nAg74h45ZhBaLzHVh7Ch1F6r1yDIsB8aZXY73TyTT76hYWJQSM9WGJ9PKGm85Y6xwL6Uc66Xv8Q3JoUNmNOabzO4kTxmvMQNfyGm4af1DItIn33GX_f1HJDa0YL16RahIXTO2S1Zl2Ogq753sW65yUFYAd-AdJOv4zI3SuZVsNnhJ9ExniaXqlECjfO6sjTPdK5uGHvpI1Nx9p4JGo400lwvHG6-Tjdx0-Mgou5jx_s4993xHTwZ0uC7olIRczMSVTnI6z1NS4l1fO2amWJPP8OFIj5-DD_6QvoHNBFIAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EPcHE3icdZNLkqNGEIYjfAbfghhHPQCBd40EQrgBCagCsVHwkkAUoppHgxS-g--gnnHEzHLGEd76Gu3TWJ61vchcfH9m_vEv8rd7Uf1JzOGYDFFhfDguuSJugXoI6132mXdtPmZDlf8BIVJVWUH4URAABcry4nOWDAlrT1X-DWMA0AOpKpZkhICIFl_LIslZdSnc47HoVm327xVZREAGChLBAiEZ4cfgl6pJTsV3_RsEWJFViBYyVoGKsITFty7v38Xt8gABlBaKLIpYxVDCUFag-uvWc1eH_xE_vYxFd33fO3EUCIoEQuEpiAT8ExQUIGzZ2AvrluWCMTJ2FexHUJZ0wradik7wR84fkPejkAzz4bXo-qq9CDyrikPWXi5FNrRd_-nEv4f6D--3psq_SgtZlJGiLjCSwIMj9Y2_Dvfy9HEcWfHX_cTuY38v2b24_N4m_PWY_f3Dj3o7rZb9tNwRzunKA8HKc2zdOhY-mBKii044mIRZU3LWrznYoyJwNoTGzA8dkpvaLUb1sAussw-g9UxjkK7i51g3VvlFu1DG_DSiuzDKG4cyK77UIFt7mNaenemOVzDv2WmgtrtpRw_NfYR0MQf5GPtASpihuZFVFasd3tONaJMe23UrJoB3PikdQvktCPI-DGeeIn1KdWOTMtbZoUWDZn5JQ0_yazJlUJ9skxkuYUMK1b1NLJxEMYvDCcbGaXoms5nXdCJEv9qGJmeRBVzdconJ9d35NBNDizxQ9rR2nAg74h45ZhBaLzHVh7Ch1F6r1yDIsB8aZXY73TyTT76hYWJQSM9WGJ9PKGm85Y6xwL6Uc66Xv8Q3JoUNmNOabzO4kTxmvMQNfyGm4af1DItIn33GX_f1HJDa0YL16RahIXTO2S1Zl2Ogq753sW65yUFYAd-AdJOv4zI3SuZVsNnhJ9ExniaXqlECjfO6sjTPdK5uGHvpI1Nx9p4JGo400lwvHG6-Tjdx0-Mgou5jx_s4993xHTwZ0uC7olIRczMSVTnI6z1NS4l1fO2amWJPP8OFIj5-DD_6QvoHNBFIAQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSqApg1pL7oBQFVruwJrYoYhNYkuaam-RRqBPthac7lnBQPgs1z1hr7raZ2iMKp4ASsKEoSV7tgm2lTMec0yajQ3GMX4l9woOUWKMn6VVJlycgk-NwnNJ_wwQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJ6fDrT0ypU-AgN6m_IDkeXpis5Rxx134J6khuFQDw4iF446PLbYgVDJ-_AyFv6CBlum8MpgorV1fZCL_zXxZg_zRMF5u_",
+      "source": "ibuypower.com",
+      "title": "NZXT C850 Fully Modular ATX Power Supply - 850 Watts, ATX 3.1 - Black",
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "FDLuVnicbY5LjptAAESV86BEfBobshvbfOyExgaaBjYWptuGofmEj8G-RK4w8sxEmiyTSNnmGpPThGSdTZVUpVK9zzea_URmd4y7gOpvj8taAVte3eN8l7zUTUX6pMvIdwWA-UwVJVkE0uRzgVdekriLWXXKyMO3lMaEZSW1j0farKrk_4uvWRGf6L_6hyAIcyCqACiAl2V-NpcBeGxI-_D8qafN5TWEUeBxisxj7s4LOOmdwCk8t2V9yxkVI5zeM3bhrImPxQ23rQbacG5f11NYtz0Xd-P-TJs2q0quTjK6T6qypElXNe3zaQrIw2PxV-pzd0tPT33P6K_bid369payGy2_VHF9Pia_39xr1bBctsNih-raXzm8p40aNSLsi_JgYX1BDe3iYPjBu9f42CBnT_NlJKY2DHQLl3pOmIN3eX3BSOWJNu0NJ4z5zt1dYU7EzoqxIvv86Dols5OlsPUE0jj5-MESmJgwfYO9tAuukX3gq87Vne3hynq32KSHHACkkcAXu2znkwvFKR-X-seYwXNkqGasO6bPqyku_DqRmGZJdU7ztIDSpiesHg6rSIqlDYQeHD2Wnn0M9UOhVn6hSNQMAZQWlofWV9f0FzSIhhA7PspZ5d0ziFdrSUuJ75pOEQZOGKGwi3I42CtnZ63YcWJywrHKdsi5JvesQKImIAzXuNAbVN6NNkou058NTcg8X8c26jZkeBrb5vjK3-ly59pAyZC57pGq7GdG6B9SmTW1YZuJYg3vhbkCZkCUJp3LfwCbn_be",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FDLuVnicbY5LjptAAESV86BEfBobshvbfOyExgaaBjYWptuGofmEj8G-RK4w8sxEmiyTSNnmGpPThGSdTZVUpVK9zzea_URmd4y7gOpvj8taAVte3eN8l7zUTUX6pMvIdwWA-UwVJVkE0uRzgVdekriLWXXKyMO3lMaEZSW1j0farKrk_4uvWRGf6L_6hyAIcyCqACiAl2V-NpcBeGxI-_D8qafN5TWEUeBxisxj7s4LOOmdwCk8t2V9yxkVI5zeM3bhrImPxQ23rQbacG5f11NYtz0Xd-P-TJs2q0quTjK6T6qypElXNe3zaQrIw2PxV-pzd0tPT33P6K_bid369payGy2_VHF9Pia_39xr1bBctsNih-raXzm8p40aNSLsi_JgYX1BDe3iYPjBu9f42CBnT_NlJKY2DHQLl3pOmIN3eX3BSOWJNu0NJ4z5zt1dYU7EzoqxIvv86Dols5OlsPUE0jj5-MESmJgwfYO9tAuukX3gq87Vne3hynq32KSHHACkkcAXu2znkwvFKR-X-seYwXNkqGasO6bPqyku_DqRmGZJdU7ztIDSpiesHg6rSIqlDYQeHD2Wnn0M9UOhVn6hSNQMAZQWlofWV9f0FzSIhhA7PspZ5d0ziFdrSUuJ75pOEQZOGKGwi3I42CtnZ63YcWJywrHKdsi5JvesQKImIAzXuNAbVN6NNkou058NTcg8X8c26jZkeBrb5vjK3-ly59pAyZC57pGq7GdG6B9SmTW1YZuJYg3vhbkCZkCUJp3LfwCbn_be"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSMJlLAJI-rRz0y3oXa9uLVl8SBgdnDKBKc1P7CQUZnrySHV5gXGv2-Oji1kuyW9rlo016CYJqbM1hS-Rzw8WKpk35njEFdr3zqZ0Qo9KMP54Qg2fFsTjuT",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ3iFjCP-SQyB0N_qyZjdCKhCSntVK59e0f_UAL5hdTttp2l6eFqpgyWB1uBcxx5kLFuchlAAjg9QyUvpmJ1Ac6-lrexIjHITT7hATF1w",
+      "source": "Compu Devices",
+      "title": "NZXT C850 Gold 2022 ATX 3.0 Adapter Cable",
+      "rating": 4.4,
+      "reviews": 18,
+      "price": "$244.99",
+      "extracted_price": 244.99,
+      "original_price": "$258",
+      "extracted_original_price": 258,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "GvV4JHicbVNNrqNGGJRyhtwCTUTTNNCzs58NPM8ApvlpzMbCNDaYBnow2Dwrd8gd_GYiTZYzkbLNNV5OEyJll2y-RVXpK31V-n55FNUfkT0csyEpzHfHJ2GoWxnvae3nX0XfsTEfKvZdUxUV67qODd1AugGBrH7NsyHj3alivwNVVjQdYygruqbPUgMa38oiY7xqC-94LPpVl_-jA1jBKlYg0rGqyJoKFPhb1WSn4l8e6kDBsjyvwLoiA2Ag9Nqzy5uyfdprsqHIyMDyjKoYYkOGP2-Jt9r_P_fl01j0L287N01CyUAylRZhIsGfgGTI0paPF8nqOJPMkfMXyZnv5Fkvbbtb0UvBKMQMissoZcO0vxb9pepaSeRVsc-7ti3yoesvX04zMCfzX-vXpmLfkK6pmoI0CIEOVQAAehXX4VGePo8jL_58nPhjvDxK_ijaX7tMXI_5Xz_8uO5uq6fL7cmPhIhXRA5CkzLrNlDTzRyZWWmMN96Keb6Capr48GOUmlm7ufltqqVn_sFdmzBVoruzJpDYS-jaZRRaxGJgs9s1rCbrWGQKAgdlM2Y1564tvNTkIIvKJ1YjXjTTJ7pKYdDckAMWSkCHD0UsAIlxGbeLeyCblNa429XT1r-X99g-TZHFVcckPGuYmVPW0hpdQ2twAst9dml0S5saEJMsE3kNUxg_h6tN6q0jFJlM7Grh7CibDnanMo6vNC4FqafWT5bRAYhLnLhd0cZBemYZqWMe11gjdtk5DZp9Nx8J3dTx2pmCJB2cmomIxkufAiesS8IaXDG-dJkyuXkkWi8uX6JwMxLIz1nEw0SZnDDZvORnUhUWqJz7sjw0U5LKODysN9fUXMCgNV3PjlDQumIHlmv3vox31D0HFN0OvIa7qFPnDvqoKSE7l70v-4EJ4ue5qZKZJScVaHy4UF1zcfNinGTAPFvVZkls98WjKcnDFFI6hX6Tnr0VoQdbuKlFEKnB3WlNkdag_Txd-uObvDDREHiqUUX28xhhY69Zu_hQIt4Ly7Nzw7m9B7qhzo8K56mjvwFtcUcY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GvV4JHicbVNNrqNGGJRyhtwCTUTTNNCzs58NPM8ApvlpzMbCNDaYBnow2Dwrd8gd_GYiTZYzkbLNNV5OEyJll2y-RVXpK31V-n55FNUfkT0csyEpzHfHJ2GoWxnvae3nX0XfsTEfKvZdUxUV67qODd1AugGBrH7NsyHj3alivwNVVjQdYygruqbPUgMa38oiY7xqC-94LPpVl_-jA1jBKlYg0rGqyJoKFPhb1WSn4l8e6kDBsjyvwLoiA2Ag9Nqzy5uyfdprsqHIyMDyjKoYYkOGP2-Jt9r_P_fl01j0L287N01CyUAylRZhIsGfgGTI0paPF8nqOJPMkfMXyZnv5Fkvbbtb0UvBKMQMissoZcO0vxb9pepaSeRVsc-7ti3yoesvX04zMCfzX-vXpmLfkK6pmoI0CIEOVQAAehXX4VGePo8jL_58nPhjvDxK_ijaX7tMXI_5Xz_8uO5uq6fL7cmPhIhXRA5CkzLrNlDTzRyZWWmMN96Keb6Capr48GOUmlm7ufltqqVn_sFdmzBVoruzJpDYS-jaZRRaxGJgs9s1rCbrWGQKAgdlM2Y1564tvNTkIIvKJ1YjXjTTJ7pKYdDckAMWSkCHD0UsAIlxGbeLeyCblNa429XT1r-X99g-TZHFVcckPGuYmVPW0hpdQ2twAst9dml0S5saEJMsE3kNUxg_h6tN6q0jFJlM7Grh7CibDnanMo6vNC4FqafWT5bRAYhLnLhd0cZBemYZqWMe11gjdtk5DZp9Nx8J3dTx2pmCJB2cmomIxkufAiesS8IaXDG-dJkyuXkkWi8uX6JwMxLIz1nEw0SZnDDZvORnUhUWqJz7sjw0U5LKODysN9fUXMCgNV3PjlDQumIHlmv3vox31D0HFN0OvIa7qFPnDvqoKSE7l70v-4EJ4ue5qZKZJScVaHy4UF1zcfNinGTAPFvVZkls98WjKcnDFFI6hX6Tnr0VoQdbuKlFEKnB3WlNkdag_Txd-uObvDDREHiqUUX28xhhY69Zu_hQIt4Ly7Nzw7m9B7qhzo8K56mjvwFtcUcY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTh4xrWw_6s42MURQwk63bn_2YonKaFRs6Jd4UzWF1IVhvSLl2tXrJWkkPYHGrLPH6S35-GihU8JWMerK3Lhzze9EtnAXatZU3Hcr9pav0MSBW7TC2i6cN9aQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTR_d6XtjFPJoygv2y3EV3JhJxM5p3eNG-p9cfN4u3MZUC1hgLVnkLSe5rwWgjZiNzAIRofEYchNEV76rVPaP3W5w",
+      "source": "G3xt Tech Store and Repairs",
+      "title": "NZXT C850 Gold Core PSU",
+      "price": "$1,450.00",
+      "extracted_price": 1450.0,
+      "immersive_product_page_token": "f9BnbHicHY_NjptIAIS1z4MSdUN3G_Y2_gH_AcZAN3AZ4QYb7AZ6MIztvECO-wqRJ7PS5JhEyjWvkX2aJbnUoapU-uqfe17-COfdPu2i3Hy3n0gdbYDxyE4ef5Ntk_W8K7NvKtEhJgCqSEeIGEQ34BtPu1Q0hzL7DtFIh7oBCBpBQ8NopAL0tcjTTJR17u73eTtt-LAy9AwMIBl6iKgEYah_Kav0kP-Jv0ONwGEHE9XQiYYwQgC8tNn50-tTn7e3X7GTRIGiY8CUhyBStPdQ0YGyEf1ZsRqRKWYvxE2xB2aRtsqmueSt4vdSDqY890raXR-f8_ZcNrUieZk_8qauc9417fn1IH_zkQEejAxDg8NFYBCEtJeqzD69yOfuXhw-973If94P4t6f74W45_W_TSqf9_y_vz7OnhaTSb8Ye6GUdLoFwVQQdwJwWDuQa3KTAKPd0azjE-iHTMyjD6LbVTThKl44UQE9Ieb2hximYrmKoVjmdWK5EQ34TN68EF-danv0mLQpE11G5XrHFtAOoXSZZDZbnvixiBMALrZldKmFWSgkyU7L0hf6dc24GgD7EgvqJMxBOS0SHi43tmVWu6qDvkhIDMyYCcN1LfqUmk7rQ1kGDK8ds-kcFl-YGLc2wHbCYEVnxdq1hO0HdJqHy2QH6XHL8MrTzDqZbxsfZLegzsg6okcvWE6CSI69ytPSqXCH72qqCpmftlVyXUQ0LEBSmYBZ1FqzZMqnBxBOH3AEszZkdro4mTOuLXAiTLqbCZXNEhqAxZVFCbTVWIsA7jKzeN4BOklr_vl6bve_wIOJO98l-_F61K-iU3RTV_O4xqv-Mj6qMvTfPfwNRzoiSNUGHWn_A8z4BUs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f9BnbHicHY_NjptIAIS1z4MSdUN3G_Y2_gH_AcZAN3AZ4QYb7AZ6MIztvECO-wqRJ7PS5JhEyjWvkX2aJbnUoapU-uqfe17-COfdPu2i3Hy3n0gdbYDxyE4ef5Ntk_W8K7NvKtEhJgCqSEeIGEQ34BtPu1Q0hzL7DtFIh7oBCBpBQ8NopAL0tcjTTJR17u73eTtt-LAy9AwMIBl6iKgEYah_Kav0kP-Jv0ONwGEHE9XQiYYwQgC8tNn50-tTn7e3X7GTRIGiY8CUhyBStPdQ0YGyEf1ZsRqRKWYvxE2xB2aRtsqmueSt4vdSDqY890raXR-f8_ZcNrUieZk_8qauc9417fn1IH_zkQEejAxDg8NFYBCEtJeqzD69yOfuXhw-973If94P4t6f74W45_W_TSqf9_y_vz7OnhaTSb8Ye6GUdLoFwVQQdwJwWDuQa3KTAKPd0azjE-iHTMyjD6LbVTThKl44UQE9Ieb2hximYrmKoVjmdWK5EQ34TN68EF-danv0mLQpE11G5XrHFtAOoXSZZDZbnvixiBMALrZldKmFWSgkyU7L0hf6dc24GgD7EgvqJMxBOS0SHi43tmVWu6qDvkhIDMyYCcN1LfqUmk7rQ1kGDK8ds-kcFl-YGLc2wHbCYEVnxdq1hO0HdJqHy2QH6XHL8MrTzDqZbxsfZLegzsg6okcvWE6CSI69ytPSqXCH72qqCpmftlVyXUQ0LEBSmYBZ1FqzZMqnBxBOH3AEszZkdro4mTOuLXAiTLqbCZXNEhqAxZVFCbTVWIsA7jKzeN4BOklr_vl6bve_wIOJO98l-_F61K-iU3RTV_O4xqv-Mj6qMvTfPfwNRzoiSNUGHWn_A8z4BUs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSCZ-lwhA3PTDGkFbFKGftplOiDRt3ZUoDblt5qy1-ADnVPp8Bn8Fr1de3EJncqm5ZthR9_ed4MHSZA8n-JOSzTBWg923GbbyG0JVYNZu6wg8PU7dO0Pf44",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "NZXT C850 Gold Core Power Supply",
+      "rating": 4.8,
+      "reviews": 6,
+      "price": "$131.68",
+      "extracted_price": 131.68,
+      "original_price": "$152",
+      "extracted_original_price": 152,
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "vjIDS3icdZBLjqNWFIalrCG7QB3dJ4-e-UW53GVs4HJ5TCzgYoO5PMqA7ULZQ_bg6o7UGXZHyjTbqKwm7honkyP95_-PPv3nt1tW_OUt-33cB5n5YT9rdbIFxs4v7fRre2rEkPaF-BPqUDMoJiqmFGnwLoD-NY37WDaHdxsDFQMDUZ3qRMcIQ_Qtz2Ihizrb7PfZad6kP3Iq1RCkgBiIkHtQVQn-o6jiQ_buf1cJRAbG2NB_AAG8g15Ponsj29kO0vshRRhrULvndGBg-uvW2cx3_2N-eR6y08tbaEUBU3QKfGXCAgX_AhUdKFs5dMpDI4ViDlK-KOt7UxmflG1zyU6KO7Ttfdl2gxL31905O3VFUyttWmS7tKnrLO2bU_fl0L6X-g_2a1WIb_QuVaQbhGhA0w2I6Gt77m_54fMwyOzv20Hehu6Wy1tW_97E7Xmf_vPTz4vmMp91l5nttS2fO8BFJeFVSxPmDAz1s7UHnxImq40nZhYWF5c7RVTJIKn6s2_q1PJbKywdEPo2TGtrjI-Pl6j0oHWUvecdMAMAp0tnFdWrkAGbiMrqPQA7LkUgAt4xFEUJEmPI02vITI_N4EmYDbBkvkqRbJgUXRw4Z3ecupZ_9Rkz29SnIZvzeOPplyefjwKVNOOiiet2HS1El_lyvuHO1AXtsx9Ex0jmzwnmyCvNMAwcz6-jgQcrU8CGstKobdSbyYOUnk-og6Abl3BMPWOMsSSutMI18kCKc_AUyM36eBiduVze_5I7WNJsmXd-xed2nUccRzO2OIxJmTdi5KrgUZ1Im8RctCl4hJm52kZVqyYVubp4cRW1CFwsbJtF6-Ro-lyWL15pPFq4ZS6gozBXF76IFk4t7cRbTZl3XfjS2WbcWcbQUmMz77kfuibkj-IhyoWZS6eAlY0nxDInlw03ghiax4diNXWW1svGj1zGObXwqghZStesxG4ltn7Np7yMsL9YqdYDdz5fu9P-DUxM2rsbLdEyXLmTpYzo_FOaiCYolm4zbT45k49Q04lKEL5PjfwLbSZHNg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vjIDS3icdZBLjqNWFIalrCG7QB3dJ4-e-UW53GVs4HJ5TCzgYoO5PMqA7ULZQ_bg6o7UGXZHyjTbqKwm7honkyP95_-PPv3nt1tW_OUt-33cB5n5YT9rdbIFxs4v7fRre2rEkPaF-BPqUDMoJiqmFGnwLoD-NY37WDaHdxsDFQMDUZ3qRMcIQ_Qtz2Ihizrb7PfZad6kP3Iq1RCkgBiIkHtQVQn-o6jiQ_buf1cJRAbG2NB_AAG8g15Ponsj29kO0vshRRhrULvndGBg-uvW2cx3_2N-eR6y08tbaEUBU3QKfGXCAgX_AhUdKFs5dMpDI4ViDlK-KOt7UxmflG1zyU6KO7Ttfdl2gxL31905O3VFUyttWmS7tKnrLO2bU_fl0L6X-g_2a1WIb_QuVaQbhGhA0w2I6Gt77m_54fMwyOzv20Hehu6Wy1tW_97E7Xmf_vPTz4vmMp91l5nttS2fO8BFJeFVSxPmDAz1s7UHnxImq40nZhYWF5c7RVTJIKn6s2_q1PJbKywdEPo2TGtrjI-Pl6j0oHWUvecdMAMAp0tnFdWrkAGbiMrqPQA7LkUgAt4xFEUJEmPI02vITI_N4EmYDbBkvkqRbJgUXRw4Z3ecupZ_9Rkz29SnIZvzeOPplyefjwKVNOOiiet2HS1El_lyvuHO1AXtsx9Ex0jmzwnmyCvNMAwcz6-jgQcrU8CGstKobdSbyYOUnk-og6Abl3BMPWOMsSSutMI18kCKc_AUyM36eBiduVze_5I7WNJsmXd-xed2nUccRzO2OIxJmTdi5KrgUZ1Im8RctCl4hJm52kZVqyYVubp4cRW1CFwsbJtF6-Ro-lyWL15pPFq4ZS6gozBXF76IFk4t7cRbTZl3XfjS2WbcWcbQUmMz77kfuibkj-IhyoWZS6eAlY0nxDInlw03ghiax4diNXWW1svGj1zGObXwqghZStesxG4ltn7Np7yMsL9YqdYDdz5fu9P-DUxM2rsbLdEyXLmTpYzo_FOaiCYolm4zbT45k49Q04lKEL5PjfwLbSZHNg"
+    }
+  ],
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "C850 Gold ATX 3.1",
+      "link": "https://nzxt.com/products/c850-gold-atx?srsltid=AfmBOooPdSvfEBg_zWAU0UjxBjc1J9eDNKBN7xWS0IxDUdHWG8WpQCc9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fc850-gold-atx%3Fsrsltid%3DAfmBOooPdSvfEBg_zWAU0UjxBjc1J9eDNKBN7xWS0IxDUdHWG8WpQCc9&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECBwQAQ",
+      "displayed_link": "https://nzxt.com › products › c850-gold-atx",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLMRnGjI661Jr7bvNt5cpbG0.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "3.1 850W power supply with 80 PLUS Gold efficiency, fully modular cables, and quiet operation for gaming PCs. Sale price$144.99 … 12V-2x6 connector pumps up to ...",
+      "snippet_highlighted_words": [
+        "3.1 850W power supply",
+        "80 PLUS Gold",
+        "fully modular",
+        "connector"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "3.1 850W power supply with 80 PLUS Gold efficiency, fully modular cables, and quiet operation for gaming PCs. Sale price$144.99 … 12V-2x6 connector pumps up to ...",
+          "source_info_link": "https://nzxt.com/products/c850-gold-atx?srsltid=AfmBOooPdSvfEBg_zWAU0UjxBjc1J9eDNKBN7xWS0IxDUdHWG8WpQCc9",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fc850-gold-atx%3Fsrsltid%3DAfmBOooPdSvfEBg_zWAU0UjxBjc1J9eDNKBN7xWS0IxDUdHWG8WpQCc9&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fc850-gold-atx%3Fsrsltid%3DAfmBOooPdSvfEBg_zWAU0UjxBjc1J9eDNKBN7xWS0IxDUdHWG8WpQCc9",
+      "source": "NZXT"
+    },
+    {
+      "position": 2,
+      "title": "NZXT C850 Gold ATX 3.1 - Fully Modular Low-Noise PC ...",
+      "link": "https://www.amazon.com/NZXT-C850-Gold-ATX-3-1/dp/B0D1VDTX8B",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FNZXT-C850-Gold-ATX-3-1%2Fdp%2FB0D1VDTX8B&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECBgQAQ",
+      "displayed_link": "https://www.amazon.com › NZXT-C850-Gold-ATX-3-1",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLPQfqxeflCL3yFt9zg39fSM.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Fully Modular Low-Noise PC Gaming Power Supply - 850 Watts - 80 Plus Gold - 12V-2x6 Connector - Zero Fan Mode - 100% Japanese Capacitors - Black",
+      "snippet_highlighted_words": [
+        "Fully Modular Low-Noise PC Gaming Power Supply"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fully Modular Low-Noise PC Gaming Power Supply - 850 Watts - 80 Plus Gold - 12V-2x6 Connector - Zero Fan Mode - 100% Japanese Capacitors - Black",
+          "source_info_link": "https://www.amazon.com/NZXT-C850-Gold-ATX-3-1/dp/B0D1VDTX8B",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FNZXT-C850-Gold-ATX-3-1%2Fdp%2FB0D1VDTX8B&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FNZXT-C850-Gold-ATX-3-1%2Fdp%2FB0D1VDTX8B",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/NZXT-C850-Gold-ATX-3-1/dp/B0D1VDTX8B"
+    },
+    {
+      "position": 3,
+      "title": "C850 Gold Core PSU | 850 Watt Gold Power Supply Unit",
+      "link": "https://nzxt.com/products/c850-gold-core?srsltid=AfmBOor-CzBgxPc86ElqcgogO_uxYnpuJumSPkK9ZoX7in2yfRz5rale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fc850-gold-core%3Fsrsltid%3DAfmBOor-CzBgxPc86ElqcgogO_uxYnpuJumSPkK9ZoX7in2yfRz5rale&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECEsQAQ",
+      "displayed_link": "https://nzxt.com › products › c850-gold-core",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLAAlmG3IeOTQjl8bRHpOC78.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "NZXT Gold Core is an ATX 3.1, fully modular PSU with 80 PLUS Gold and Cybenetics Platinum efficiency, A+/A++ noise rating, and a 12V-2x6 PCIe 5.1 connector.",
+      "snippet_highlighted_words": [
+        "ATX 3.1, fully modular PSU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NZXT Gold Core is an ATX 3.1, fully modular PSU with 80 PLUS Gold and Cybenetics Platinum efficiency, A+/A++ noise rating, and a 12V-2x6 PCIe 5.1 connector.",
+          "source_info_link": "https://nzxt.com/products/c850-gold-core?srsltid=AfmBOor-CzBgxPc86ElqcgogO_uxYnpuJumSPkK9ZoX7in2yfRz5rale",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fc850-gold-core%3Fsrsltid%3DAfmBOor-CzBgxPc86ElqcgogO_uxYnpuJumSPkK9ZoX7in2yfRz5rale&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fc850-gold-core%3Fsrsltid%3DAfmBOor-CzBgxPc86ElqcgogO_uxYnpuJumSPkK9ZoX7in2yfRz5rale",
+      "source": "NZXT"
+    },
+    {
+      "position": 4,
+      "title": "NZXT Gold Core 850W ATX 3.1 / PCIE 5.1 80 Plus ...",
+      "link": "https://www.bestbuy.com/product/nzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black/J3GWJHQLHH",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black%2FJ3GWJHQLHH&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECDoQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Power Supplies",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLK_5Cv4XJ1aXwBPn5cGrp3c.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "The NZXT C850 Gold Core is an ATX 3.1, fully modular PSU with 80 PLUS Gold and Cybenetics Platinum efficiency, A++ noise rating, and a 600W 12V-2x6 PCIe 5.1 ...",
+      "snippet_highlighted_words": [
+        "NZXT",
+        "ATX 3.1",
+        "fully modular PSU",
+        "80 PLUS Gold"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The NZXT C850 Gold Core is an ATX 3.1, fully modular PSU with 80 PLUS Gold and Cybenetics Platinum efficiency, A++ noise rating, and a 600W 12V-2x6 PCIe 5.1 ...",
+          "source_info_link": "https://www.bestbuy.com/product/nzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black/J3GWJHQLHH",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black%2FJ3GWJHQLHH&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black%2FJ3GWJHQLHH",
+      "missing": [
+        "atx_version"
+      ],
+      "must_include": {
+        "word": "atx_version",
+        "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+%22atx_version%22+pcie_connectors&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQIUBAB"
+      },
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/product/nzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black/J3GWJHQLHH"
+    },
+    {
+      "position": 5,
+      "title": "NZXT C850 Gold ATX 3.1 850W Power Supply - LABS Test Report",
+      "link": "https://www.youtube.com/watch?v=ef0Xwp99C9o",
+      "displayed_link": "25.5K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLLqTOh609iJPdTwtqbwVj1M.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "The NZXT C850 Gold ATX 3.1 is an 850W fully modular ATX 3.1 power supply with an additional hybrid fan mode. Priced at $149.99 USD MSRP,",
+      "duration": "3:56",
+      "about_this_result": {
+        "source": {
+          "description": "The NZXT C850 Gold ATX 3.1 is an 850W fully modular ATX 3.1 power supply with an additional hybrid fan mode. Priced at $149.99 USD MSRP,",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Def0Xwp99C9o&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Def0Xwp99C9o",
+      "missing": [
+        "pcie_connectors"
+      ],
+      "must_include": {
+        "word": "pcie_connectors",
+        "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+%22pcie_connectors%22&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQINBAS"
+      },
+      "source": "YouTube · PSU Circuit"
+    },
+    {
+      "position": 6,
+      "title": "NZXT ATX 3.1 850 Watt 80 Plus Gold Fully Modular Power ...",
+      "link": "https://www.newegg.com/nzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us/p/N82E16817116050?srsltid=AfmBOooFe7kcxzZ-w2z1omngDPZNzcdSmfoNZBLPEeRbrBT-Gc5uljdp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fnzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us%2Fp%2FN82E16817116050%3Fsrsltid%3DAfmBOooFe7kcxzZ-w2z1omngDPZNzcdSmfoNZBLPEeRbrBT-Gc5uljdp&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECFEQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Power Supplies › NZXT",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJByNUCF4qRBTSgKW_Y6Aal1PAAwJjRmUUn9YQM18&usqp=CAE&s=10",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "NZXT ATX 3.1 850W. ATX 3.1 & PCIe 5.1 Ready, 12 Years Warranty $238.99$238.99 … delivers up to 600 watts of power to NVIDIA GeForce RTX 50 Series GPUs.",
+      "snippet_highlighted_words": [
+        "NZXT ATX 3.1 850W",
+        "ATX 3.1",
+        "power"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NZXT ATX 3.1 850W. ATX 3.1 & PCIe 5.1 Ready, 12 Years Warranty $238.99$238.99 … delivers up to 600 watts of power to NVIDIA GeForce RTX 50 Series GPUs.",
+          "source_info_link": "https://www.newegg.com/nzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us/p/N82E16817116050?srsltid=AfmBOooFe7kcxzZ-w2z1omngDPZNzcdSmfoNZBLPEeRbrBT-Gc5uljdp",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fnzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us%2Fp%2FN82E16817116050%3Fsrsltid%3DAfmBOooFe7kcxzZ-w2z1omngDPZNzcdSmfoNZBLPEeRbrBT-Gc5uljdp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fnzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us%2Fp%2FN82E16817116050%3Fsrsltid%3DAfmBOooFe7kcxzZ-w2z1omngDPZNzcdSmfoNZBLPEeRbrBT-Gc5uljdp",
+      "missing": [
+        "atx_version"
+      ],
+      "must_include": {
+        "word": "atx_version",
+        "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+%22atx_version%22+pcie_connectors&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQIWhAB"
+      },
+      "source": "Newegg"
+    },
+    {
+      "position": 7,
+      "title": "NZXT C850 Gold | LTT Labs",
+      "link": "https://www.lttlabs.com/products/power-supplies/nzxt-c850-gold-atx-3-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.lttlabs.com%2Fproducts%2Fpower-supplies%2Fnzxt-c850-gold-atx-3-1&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECDkQAQ",
+      "displayed_link": "https://www.lttlabs.com › products › power-supplies › n...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGgSKqsltv0cesppcjZ-G2DngySaX3iosNrF5tIPRuD_OATt4AASq7&usqp=CAE&s=10",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEzoXkjsaT_oX0fvcDjqZEPubznqYkXrZkLubzrnXUnrZkLpYUbjUVTpYUboXUrkVFHlVFLlVFHiTVffSVneR1rQVQvIAAAAFXRSTlMAdl1A_hfPLbSPC_7tx4X_oP_o__Om2fBNAAAA90lEQVR4AY3NB3IFIQwDUNGLqVvuf9XgwB-y6Z7OExL-f0L-SEpr8QMZq62D1P4bC1pLDvgIoZ4ktQ4cIAWVKHwkp7U1HBCInkbApbwo-lcjUIgK4GsdAcljqzE5KCKerHUEWu95vNrIjRLRUuLGmkeg80H71RiIBDdy4GA6T2gJTbMR3MiBSe9oKKART6bKgf6yC4wFlLiRA6txIk1sSKMx5k3n_cLaUA_Ivu2-GYWpEzOOD98myoWdcRPfeJYbH3RnpFoH9okPE0Bstfdj4Mm4qYFvcO89u4HXbjQsi7lu4D31Ugs2322P7Vv8HPuG59gPrPDvewOMLxfDLZDUgQAAAABJRU5ErkJggg.png",
+      "date": "Aug 30, 2024",
+      "snippet": "The NZXT C850 Gold ATX 3.1 is an 850W fully modular ATX 3.1 power supply with an additional hybrid fan mode. Priced at $149.99 USD MSRP.",
+      "snippet_highlighted_words": [
+        "850W fully modular ATX 3.1 power supply"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The NZXT C850 Gold ATX 3.1 is an 850W fully modular ATX 3.1 power supply with an additional hybrid fan mode. Priced at $149.99 USD MSRP.",
+          "source_info_link": "https://www.lttlabs.com/products/power-supplies/nzxt-c850-gold-atx-3-1",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEzoXkjsaT_oX0fvcDjqZEPubznqYkXrZkLubzrnXUnrZkLpYUbjUVTpYUboXUrkVFHlVFLlVFHiTVffSVneR1rQVQvIAAAAFXRSTlMAdl1A_hfPLbSPC_7tx4X_oP_o__Om2fBNAAAA90lEQVR4AY3NB3IFIQwDUNGLqVvuf9XgwB-y6Z7OExL-f0L-SEpr8QMZq62D1P4bC1pLDvgIoZ4ktQ4cIAWVKHwkp7U1HBCInkbApbwo-lcjUIgK4GsdAcljqzE5KCKerHUEWu95vNrIjRLRUuLGmkeg80H71RiIBDdy4GA6T2gJTbMR3MiBSe9oKKART6bKgf6yC4wFlLiRA6txIk1sSKMx5k3n_cLaUA_Ivu2-GYWpEzOOD98myoWdcRPfeJYbH3RnpFoH9okPE0Bstfdj4Mm4qYFvcO89u4HXbjQsi7lu4D31Ugs2322P7Vv8HPuG59gPrPDvewOMLxfDLZDUgQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.lttlabs.com%2Fproducts%2Fpower-supplies%2Fnzxt-c850-gold-atx-3-1&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.lttlabs.com%2Fproducts%2Fpower-supplies%2Fnzxt-c850-gold-atx-3-1",
+      "missing": [
+        "pcie_connectors"
+      ],
+      "must_include": {
+        "word": "pcie_connectors",
+        "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+%22pcie_connectors%22&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQISRAB"
+      },
+      "source": "LTT Labs",
+      "read_more_link": "https://www.lttlabs.com/products/power-supplies/nzxt-c850-gold-atx-3-1"
+    },
+    {
+      "position": 8,
+      "title": "NZXT C850 ATX 3.1 PSU (White) Review",
+      "link": "https://www.kitguru.net/components/power-supplies/zardon/nzxt-c850-atx-3-1-psu-white-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.kitguru.net%2Fcomponents%2Fpower-supplies%2Fzardon%2Fnzxt-c850-atx-3-1-psu-white-review%2F&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQFnoECEEQAQ",
+      "displayed_link": "https://www.kitguru.net › Component › Power Supplies",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMoM8GOuk0ETFZkgFjSwxyWIIsY6xKwx_RPHlcTTnUu8gpZr8bgVlGbWI&s=",
+      "favicon": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLFgMWM131NABpWozH44hhUM.jpeg",
+      "date": "Sep 3, 2024",
+      "snippet": "These units are fully modular, ATX 3.1 compatible and they ship with high grade Japanese capacitors. NZXT are backing them with a 10 year warranty.",
+      "snippet_highlighted_words": [
+        "fully modular, ATX 3.1 compatible"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These units are fully modular, ATX 3.1 compatible and they ship with high grade Japanese capacitors. NZXT are backing them with a 10 year warranty.",
+          "source_info_link": "https://www.kitguru.net/components/power-supplies/zardon/nzxt-c850-atx-3-1-psu-white-review/",
+          "icon": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/IvhLLJoJRMqU2ok8n7akLMQRd3SfSX2yKd9dNpua9_Ad-4u2eGh4pDeJTOqIsBjg.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.kitguru.net%2Fcomponents%2Fpower-supplies%2Fzardon%2Fnzxt-c850-atx-3-1-psu-white-review%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kitguru.net%2Fcomponents%2Fpower-supplies%2Fzardon%2Fnzxt-c850-atx-3-1-psu-white-review%2F",
+      "missing": [
+        "atx_version"
+      ],
+      "must_include": {
+        "word": "atx_version",
+        "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+%22atx_version%22+pcie_connectors&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQITxAB"
+      },
+      "source": "KitGuru",
+      "read_more_link": "https://www.kitguru.net/components/power-supplies/zardon/nzxt-c850-atx-3-1-psu-white-review/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NZXT C850 Gold ATX 3.1 Review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+Gold+ATX+3.1+Review&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+Gold+ATX+3.1+Review"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT C850 review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+review&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+review"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT C850 Gold Manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+Gold+Manual&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+Gold+Manual"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT C850 Gold ATX 3.1 White",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+Gold+ATX+3.1+White&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+Gold+ATX+3.1+White"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT C850 cables",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+cables&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+cables"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT C850 Gold ATX 3.1 reddit",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+Gold+ATX+3.1+reddit&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+Gold+ATX+3.1+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Nzxt c850 gold atx 3.1 cables",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Nzxt+c850+gold+atx+3.1+cables&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nzxt+c850+gold+atx+3.1+cables"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT C850 White",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+C850+White&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+C850+White"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&q=reviews+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYEipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAF6BAgXEC4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+sale&hl=en&shoprs=CAESBEoCGAEYBipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFYiasgYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAJ6BAgXEC8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+sale"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+nearby&hl=en&shoprs=CAEYAypZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyDAgDEgZOZWFyYnkYAliJqyBgAQ&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAN6BAgXEDA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+nearby"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&q=nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAR6BAgXEDE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Under $100",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+under+%24100&hl=en&shoprs=CAESDRILEQAAAACE15dBGAEYBSpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyIwgFEgpVbmRlciAkMTAwGAIiDRILEQAAAACE15dBGAEqAhgBWImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAV6BAgXEDI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+under+%24100"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&q=new+NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYCipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyBwgKEgNOZXdYiasgYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAZ6BAgXEDM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&q=used+NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYCipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCAgKEgRVc2VkWImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAd6BAgXEDQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYEipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAh6BAgXEDU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors+for+sale&hl=en&shoprs=CAEYEipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAl6BAgXEDY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors+for+sale"
+    },
+    {
+      "query": "Motherboards",
+      "link": "https://www.google.com/search?gl=us&q=motherboards+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYCSpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyEAgJEgxNb3RoZXJib2FyZHNgAQ&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAp6BAgXEDc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=motherboards+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?gl=us&q=replacement+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYEipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyDwgSEgtSZXBsYWNlbWVudGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAt6BAgXEDg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&q=black+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYASpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKAx6BAgXEDk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&q=white+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYASpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyFwgBEgVXaGl0ZToMCNiM9QEQoYv1ATALWImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKA16BAgXEDo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Silver",
+      "link": "https://www.google.com/search?gl=us&q=silver+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYASpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyGAgBEgZTaWx2ZXI6DAjYjPUBEIro2QMwC1iJqyBgAQ&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKA56BAgXEDs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=silver+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?gl=us&q=gray+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYASpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyFggBEgRHcmF5OgwI2Iz1ARDqivUBMAtYiasgYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKA96BAgXEDw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Adorama",
+      "link": "https://www.google.com/search?gl=us&q=adorama+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCwgCEgdBZG9yYW1hWImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBB6BAgXED0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=adorama+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQodioVvsAAAAEHRSTlMAeiaNN2fNmvCtR7kYVA_cRkZyngAAAUxJREFUOI19U4muwyAMKyEJ1yj-_699gdKydeuLJk2Vc9hO2LYVNZRoUXLefsQrAaDmmRkE2e94wBHOg3YiKukD3iPOKJyJOQaP18LpRGsModmILEWl8lW_yuElqNMmzok6mgmrP6DJklJJTlKh8MnPIknOkiCiwTUWJ0PfBfslyeWas2nqatOJ82LNCA6w2mIfP_CeoWTc2WjWe_85RQ2giHpRvFsLrTki5E0n_3tCQknBm-PTBLknCBLYFz05fm04m-_SQvonATuq4nlE7CsS90wyEuwK9FkmrLeReDRqnJcmGlb7b6ubIsAMH46gfi-r2NItoVP7sW7f59uPj7ucNJWug7GeQfkFckfB-8kNQeM8eUnrjjg_x7jDt96WrsO35rG34fnfCah7fxjz4czrk-PjDV9MSzttCXdrx-OFL0PQvXyGaev69aP4D5O5HPV8SgrrAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "B&H Photo-Video-Audio",
+      "link": "https://www.google.com/search?gl=us&q=b%26h+photo-video-audio+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyGQgCEhVCJkggUGhvdG8tVmlkZW8tQXVkaW9YiasgYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBF6BAgXED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=b%26h+photo-video-audio+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEVHcEy_Kya_Kyb6vkO_Kya_KSW_Kya_KiW9JSTAKya_Kya_KybTVS-_Kyb4uUHwoj69HSS_Kya_Kya_KybNUSzUYTHokzv0sUC_KybBHyW9JEW_Kya8HSS-JCX_yEX_0kf8wkTQWi7XbDLmkDn0rT-6DiPJSSvdejTihjfGNykJR_A2AAAAGnRSTlMA3Vb6BXm0chLQwbseXeA2pDvt_dBkDtjm_awGBdsAAAEBSURBVDiN3ZNbU4MwEIXDLbFyVVp1JtnNDWj7__-gm3R0wgC-6YPnhZPlm92TBBj7FxLfal9omQdXBceqWGUy0VCyOpqK3peP2goYa8ajEQeAlOUBkNX1azTtAUAz21FKUGKAIyAfJbhJF_YrJFuN4JxG3BG9MRbimvNNSLhqO9_1Ta1ip4DTbrY_ABIMOmMW2AIjz3PxIZVDRAsA2w4hdQvWIE4SrIXsmZQCYd_DUhjntZ9xUoKV5eaowyYUeD1RzN27UF7TcJg0ncQuQB2cgpmCXvc7AGXw7maMwSX9Hk6JugKL9_O56y4ByGKNPSVq-r5v6NG8hct61P74D_glfQKFrTTPrxrDNgAAAABJRU5ErkJggg.png"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?gl=us&q=nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAESAmoAGBYqWW56eHQgODUwdyBhdHggMy4xIDgwIHBsdXMgZ29sZCBmdWxseSBtb2R1bGFyIHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gcGNpZV9jb25uZWN0b3JzMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBJ6BAgXEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?gl=us&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+free+shipping&hl=en&shoprs=CAESBFICEAEYGSpZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBN6BAgXEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors+free+shipping"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?gl=us&q=best+buy+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyDAgCEghCZXN0IEJ1eViJqyBgAQ&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBR6BAgXEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?gl=us&q=ebay+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCAgCEgRlQmF5WImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBV6BAgXEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png"
+    },
+    {
+      "query": "Newegg.com",
+      "link": "https://www.google.com/search?gl=us&q=newegg.com+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyDggCEgpOZXdlZ2cuY29tWImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBZ6BAgXEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=newegg.com+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/OSaQwSps8IsRErQEwv8sFAcJzGgwy0glz1vDPAwSRr4.png"
+    },
+    {
+      "query": "Newegg Business",
+      "link": "https://www.google.com/search?gl=us&q=newegg+business+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyEwgCEg9OZXdlZ2cgQnVzaW5lc3NYiasgYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBd6BAgXEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=newegg+business+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/OSaQwSps8IsRErQEwv8sFL4EJ6HQwW9VTXUMhka37m4.png"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?gl=us&q=walmart+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCwgCEgdXYWxtYXJ0WImrIGAB&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBh6BAgXEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/OSaQwSps8IsRErQEwv8sFAJFKqjy3Dcwb5-03ITaM-4.png"
+    },
+    {
+      "query": "Macy's",
+      "link": "https://www.google.com/search?gl=us&q=macy%27s+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyCggCEgZNYWN5J3NYiasgYAE&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBl6BAgXEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=macy%27s+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b495e349411356dd2b4/images/OSaQwSps8IsRErQEwv8sFFRnGXhenmBwnGi0x7nqB-0.png"
+    },
+    {
+      "query": "Techinn.com",
+      "link": "https://www.google.com/search?gl=us&q=techinn.com+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors&hl=en&shoprs=CAEYAipZbnp4dCA4NTB3IGF0eCAzLjEgODAgcGx1cyBnb2xkIGZ1bGx5IG1vZHVsYXIgcG93ZXIgc3VwcGx5IHBzdSBhdHhfdmVyc2lvbiBwY2llX2Nvbm5lY3RvcnMyDwgCEgtUZWNoaW5uLmNvbViJqyBgAQ&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQip4GKBp6BAgXEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=techinn.com+nzxt+850w+atx+3.1+80+plus+gold+fully+modular+power+supply+psu+atx_version+pcie_connectors",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http%3A%2F%2Fwww.tradeinn.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "consensus on the NZXT C850 Gold psu?",
+      "link": "https://www.reddit.com/r/buildapc/comments/1hr01kf/consensus_on_the_nzxt_c850_gold_psu/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/buildapc",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/buildapc/comments/1hr01kf/consensus_on_the_nzxt_c850_gold_psu/m4tvn3f/",
+          "extensions": [
+            "Top answer",
+            "3 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/buildapc/comments/1hr01kf/consensus_on_the_nzxt_c850_gold_psu/m4tw9ys/",
+          "extensions": [
+            "3 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/buildapc/comments/1hr01kf/consensus_on_the_nzxt_c850_gold_psu/m4tvhn0/",
+          "extensions": [
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "[PSU] NZXT C850 Gold Core 850 Watt 80 PLUS Gold Fully Modular ATX 3.1 - $59.99 + $10 Shipping (after $50 off $100 promo code when subscribing to email)",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1qgxbgm/psu_nzxt_c850_gold_core_850_watt_80_plus_gold/",
+      "date": "6 months ago",
+      "extensions": [
+        "r/buildapcsales",
+        "130+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/buildapcsales/comments/1qgxbgm/psu_nzxt_c850_gold_core_850_watt_80_plus_gold/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=10&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8NMDegQIXBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=10&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAE",
+      "3": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=20&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAG",
+      "4": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=30&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAI",
+      "5": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=40&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAK",
+      "6": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=50&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAM",
+      "7": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=60&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAO",
+      "8": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=70&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAQ",
+      "9": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=80&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAS",
+      "10": "https://www.google.com/search?q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=UHtfatXeF-fCp84P09_WkQc&start=90&sa=N&sstk=AU9db-DaFBMM8uEzT6geNcpz9OauKqvfT0UiII5gu2jLyNT8hNNRSbXSJH_sSrjE2Rdy3J8F7KqvcSgdp56dE5Dms0E5aE85GQO16w&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ8tMDegQIXBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+pcie_connectors&start=90"
+    }
+  }
+}

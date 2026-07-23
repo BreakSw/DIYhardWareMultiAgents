@@ -1,0 +1,437 @@
+{
+  "search_metadata": {
+    "id": "6a60aa4ad868dd24be38ec02",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_FfWOokr1MP0D7P8G7z4_A/6a60aa4ad868dd24be38ec02.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_FfWOokr1MP0D7P8G7z4_A/6a60aa4ad868dd24be38ec02.json_with_pixel_position",
+    "created_at": "2026-07-22 11:32:26 UTC",
+    "processed_at": "2026-07-22 11:32:26 UTC",
+    "google_url": "https://www.google.com/search?q=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&oq=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_FfWOokr1MP0D7P8G7z4_A/6a60aa4ad868dd24be38ec02.html",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "NVIDIA RTX PRO 4000 Blackwell Graphic Card gpu chipset length_mm power_connectors recommended_psu_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "NVIDIA RTX PRO 4000 Blackwell Graphic Card gpu chipset length_mm power_connectors recommended_psu_w",
+    "total_results": 43,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is the Nvidia RTX 4000 good for gaming?",
+      "type": "ai_overview",
+      "page_token": "uJWKInicHdBbcoIwFADQ6Wb8VBC11RmnY5REaH1wEwLmpwNBRUkgKj7wr3vpqrqazvQs4Xz_qENZ_L7UeV2by6jTud_v7X1V7dW2LSvdSS5NKTsyUSpNZDEavA7s950cu1cXTU8eCkJj-AwshgsHSN_bqhxghgbUnnRF-GChJXvBUeh05p-AvFlU-0xw5Ak93KVaBaxrorhb5yHPNCVwYRruEeN0RYy74ByltppGuGogMh4l-Lw84h611acowGM2doXr34QCnBLlCQcWVEEDJLsm81wsnsDSGJcQ2Q6EMBV8eeY68xKXY97NecA3vaQEuognfWrndqIMCp7-VBIBbi6YjFG5ifl6U_Qs7gSPMMw9GdZNZi0ROfgI5stmFQmWPBGRyjDubvq0GH5sj_waFbCCoo_SmVhnCjutnbyNndb_5vhrp-uROVf7P8RCgMY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uJWKInicHdBbcoIwFADQ6Wb8VBC11RmnY5REaH1wEwLmpwNBRUkgKj7wr3vpqrqazvQs4Xz_qENZ_L7UeV2by6jTud_v7X1V7dW2LSvdSS5NKTsyUSpNZDEavA7s950cu1cXTU8eCkJj-AwshgsHSN_bqhxghgbUnnRF-GChJXvBUeh05p-AvFlU-0xw5Ak93KVaBaxrorhb5yHPNCVwYRruEeN0RYy74ByltppGuGogMh4l-Lw84h611acowGM2doXr34QCnBLlCQcWVEEDJLsm81wsnsDSGJcQ2Q6EMBV8eeY68xKXY97NecA3vaQEuognfWrndqIMCp7-VBIBbi6YjFG5ifl6U_Qs7gSPMMw9GdZNZi0ROfgI5stmFQmWPBGRyjDubvq0GH5sj_waFbCCoo_SmVhnCjutnbyNndb_5vhrp-uROVf7P8RCgMY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IklzIHRoZSBOdmlkaWEgUlRYIDQwMDAgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiR2lKcGN5QnVkbWxrYVdFZ2NuUjRJRFF3TURBZ1oyOXZaQ0JtYjNJZ1oyRnRhVzVuIiwiYnMiOiJjMjNRTVF1Q1FCVEFjVnB2YWdncXA0ZFVUb0ZJdXlSQ3VXaEtXT3VacGtlbmwzcHFmZHEtU3NscEZEWGZfXzE0NzVDREZLc0Vua1JnMXlRa0dMejlFVmFxcWtMTVdBaG5Wa0NNVTVMRnVqYVRaRkpDSnJLQzNfNW15RVRLSWNFY2lGQmJibGN3MFVaNVJXcE1vNHdEWjdvMmxjWXRjXzE5Umo1YWJsa0RLYzd1c0RGYXpQWXQwMW9MejNQRWdFSHg2ZEpFbE9xVHgwaVRwY19sM21yUVJ4QUh5RVdMMW1VMDdCZnNYTGZDNFd1aXYxN1hGR21lZkpjZG5vdXlfNERoNEFrIiwiaWQiOiJmY19TcXBnYXVPYk40V3QxUUhIcUtyd0NBXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IklzIHRoZSBOdmlkaWEgUlRYIDQwMDAgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiR2lKcGN5QnVkbWxrYVdFZ2NuUjRJRFF3TURBZ1oyOXZaQ0JtYjNJZ1oyRnRhVzVuIiwiYnMiOiJjMjNRTVF1Q1FCVEFjVnB2YWdncXA0ZFVUb0ZJdXlSQ3VXaEtXT3VacGtlbmwzcHFmZHEtU3NscEZEWGZfXzE0NzVDREZLc0Vua1JnMXlRa0dMejlFVmFxcWtMTVdBaG5Wa0NNVTVMRnVqYVRaRkpDSnJLQzNfNW15RVRLSWNFY2lGQmJibGN3MFVaNVJXcE1vNHdEWjdvMmxjWXRjXzE5Umo1YWJsa0RLYzd1c0RGYXpQWXQwMW9MejNQRWdFSHg2ZEpFbE9xVHgwaVRwY19sM21yUVJ4QUh5RVdMMW1VMDdCZnNYTGZDNFd1aXYxN1hGR21lZkpjZG5vdXlfNERoNEFrIiwiaWQiOiJmY19TcXBnYXVPYk40V3QxUUhIcUtyd0NBXzQifQ%3D%3D"
+    },
+    {
+      "question": "What is the RTX Pro 4000 equivalent to?",
+      "type": "ai_overview",
+      "page_token": "SmBTQXicHdDbbpswGABg7WV62dhAOyVSNM2JgdLGAeMD_DcTcQomHLeSUnK3d9lT9Wkq7XuE7--_tu6bz2-TnabxbbNazfN8Xw1D1b7em6FbFW9Lb1amaNtTYZrN4_dH_KM0W3qlZPf7iSRyHNWeIxE8jLnj74CutczgRdAcpT08G2cqjcvUIbDPh4wg5lbojPALazx8CNmou-iYanstQpXDBby04_B6iSLTrF3RwiQRj4-BHY77VmfOw6LascxQ5RmHlbmwQ45wzfF61PvI48hPUqoQD5sFNIv1pf04Y3-nKdyE9L1TyGOhOGc3_5oISAqUTKKDmWE7MwQ9y9SQ6jUpMkKoBWEy0ueZivPGQ8pNPqS0T0ZOyxkxEtQR4SFbjhokNEDBsbX0f86qJ_WpOccHlyJx8XGq1I0HmNyV5n3r3v3f3P4qu2kz_hmqL5PYfy0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SmBTQXicHdDbbpswGABg7WV62dhAOyVSNM2JgdLGAeMD_DcTcQomHLeSUnK3d9lT9Wkq7XuE7--_tu6bz2-TnabxbbNazfN8Xw1D1b7em6FbFW9Lb1amaNtTYZrN4_dH_KM0W3qlZPf7iSRyHNWeIxE8jLnj74CutczgRdAcpT08G2cqjcvUIbDPh4wg5lbojPALazx8CNmou-iYanstQpXDBby04_B6iSLTrF3RwiQRj4-BHY77VmfOw6LascxQ5RmHlbmwQ45wzfF61PvI48hPUqoQD5sFNIv1pf04Y3-nKdyE9L1TyGOhOGc3_5oISAqUTKKDmWE7MwQ9y9SQ6jUpMkKoBWEy0ueZivPGQ8pNPqS0T0ZOyxkxEtQR4SFbjhokNEDBsbX0f86qJ_WpOccHlyJx8XGq1I0HmNyV5n3r3v3f3P4qu2kz_hmqL5PYfy0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIFJUWCBQcm8gNDAwMCBlcXVpdmFsZW50IHRvPyIsImxrIjoiR2hkeWRIZ2djSEp2SURRd01EQWdaWEYxYVhaaGJHVnVkQSIsImJzIjoiYzIzUU1RdUNRQlRBY1ZwdmFnZ3FwNGRVVG9GSXV5UkN1V2hLV091WnBrZW5sM3BxZmRxLVNzbHBGRFhmX18xNDc1Q0RGS3NFbmtSZzF5UWtHTHo5RVZhcXFrTE1XQWhuVmtDTVU1TEZ1amFUWkZKQ0pyS0MzXzVteUVUS0ljRWNpRkJiYmxjdzBVWjVSV3BNbzR3RFo3bzJsY1l0Y18xOVJqNWFibGtES2M3dXNERmF6UFl0MDFvTHozUEVnRUh4NmRKRWxPcVR4MGlUcGNfbDNtclFSeEFIeUVXTDFtVTA3QmZzWExmQzRXdWl2MTdYRkdtZWZKY2Rub3V5XzREaDRBayIsImlkIjoiZmNfU3FwZ2F1T2JONFd0MVFISHFLcndDQV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIFJUWCBQcm8gNDAwMCBlcXVpdmFsZW50IHRvPyIsImxrIjoiR2hkeWRIZ2djSEp2SURRd01EQWdaWEYxYVhaaGJHVnVkQSIsImJzIjoiYzIzUU1RdUNRQlRBY1ZwdmFnZ3FwNGRVVG9GSXV5UkN1V2hLV091WnBrZW5sM3BxZmRxLVNzbHBGRFhmX18xNDc1Q0RGS3NFbmtSZzF5UWtHTHo5RVZhcXFrTE1XQWhuVmtDTVU1TEZ1amFUWkZKQ0pyS0MzXzVteUVUS0ljRWNpRkJiYmxjdzBVWjVSV3BNbzR3RFo3bzJsY1l0Y18xOVJqNWFibGtES2M3dXNERmF6UFl0MDFvTHozUEVnRUh4NmRKRWxPcVR4MGlUcGNfbDNtclFSeEFIeUVXTDFtVTA3QmZzWExmQzRXdWl2MTdYRkdtZWZKY2Rub3V5XzREaDRBayIsImlkIjoiZmNfU3FwZ2F1T2JONFd0MVFISHFLcndDQV80In0%3D"
+    },
+    {
+      "question": "How many GB is NVIDIA RTX PRO 4000 Blackwell?",
+      "type": "featured_snippet",
+      "snippet": "Additional details. Experience breakthrough performance with the NVIDIA RTX PRO 4000 Blackwell. Featuring 24GB of ultra-fast GDDR7 memory with ECC and built on the PCIe 5.0 x16 interface, this professional GPU is designed for massive AI datasets, complex 3D rendering, and high-fidelity simulations.",
+      "title": "Amazon.com: NVIDIA RTX PRO 4000 Blackwell Graphics Card",
+      "link": "https://www.amazon.com/NVIDIA-4000-Blackwell-Graphics-Card/dp/B0GJNJYNKY",
+      "displayed_link": "https://www.amazon.com › NVIDIA-4000-Blackwell-Gr...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IkhvdyBtYW55IEdCIGlzIE5WSURJQSBSVFggUFJPIDQwMDAgQmxhY2t3ZWxsPyIsImxrIjoiR2lCdWRtbGthV0VnY25SNElIQnlieUEwTURBd0lHSnNZV05yZDJWc2JDQm5ZZyIsImJzIjoiYzIzUU1RdUNRQlRBY1ZwdmFnZ3FwNGRVVG9GSXV5UkN1V2hLV091WnBrZW5sM3BxZmRxLVNzbHBGRFhmX18xNDc1Q0RGS3NFbmtSZzF5UWtHTHo5RVZhcXFrTE1XQWhuVmtDTVU1TEZ1amFUWkZKQ0pyS0MzXzVteUVUS0ljRWNpRkJiYmxjdzBVWjVSV3BNbzR3RFo3bzJsY1l0Y18xOVJqNWFibGtES2M3dXNERmF6UFl0MDFvTHozUEVnRUh4NmRKRWxPcVR4MGlUcGNfbDNtclFSeEFIeUVXTDFtVTA3QmZzWExmQzRXdWl2MTdYRkdtZWZKY2Rub3V5XzREaDRBayIsImlkIjoiZmNfU3FwZ2F1T2JONFd0MVFISHFLcndDQV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IkhvdyBtYW55IEdCIGlzIE5WSURJQSBSVFggUFJPIDQwMDAgQmxhY2t3ZWxsPyIsImxrIjoiR2lCdWRtbGthV0VnY25SNElIQnlieUEwTURBd0lHSnNZV05yZDJWc2JDQm5ZZyIsImJzIjoiYzIzUU1RdUNRQlRBY1ZwdmFnZ3FwNGRVVG9GSXV5UkN1V2hLV091WnBrZW5sM3BxZmRxLVNzbHBGRFhmX18xNDc1Q0RGS3NFbmtSZzF5UWtHTHo5RVZhcXFrTE1XQWhuVmtDTVU1TEZ1amFUWkZKQ0pyS0MzXzVteUVUS0ljRWNpRkJiYmxjdzBVWjVSV3BNbzR3RFo3bzJsY1l0Y18xOVJqNWFibGtES2M3dXNERmF6UFl0MDFvTHozUEVnRUh4NmRKRWxPcVR4MGlUcGNfbDNtclFSeEFIeUVXTDFtVTA3QmZzWExmQzRXdWl2MTdYRkdtZWZKY2Rub3V5XzREaDRBayIsImlkIjoiZmNfU3FwZ2F1T2JONFd0MVFISHFLcndDQV80In0%3D"
+    },
+    {
+      "question": "How old is the NVIDIA Quadro RTX 4000?",
+      "type": "ai_overview",
+      "page_token": "1US89XicHdBdToMwAADgeJk9urbgdEsWExw_ouuktAX6YqA4GC0_uiqwN-_iqTyNid8Rvu8fferU75WpjRnOm-VyHMfrqu8r_XYt-3aZn-dOLmWudZFLtVndruD9UW7dT9d5eH90IjYMfEcADSo7O0FX0gqkYP31nJTkwLhOWqGeuZNifzqzC5liqL0IkgZzPtNWzQJBRNHajRvxQSwvLhpMkiSExM-s8iJH7O2nvbpDe2Ye3hqyo6D-jIBACXXNwb0JY-WlgvGnGHGnoNiXXoVEC5-yNDLUUybiISJtbSeq1EmwHwuNIXXDgLTkhrChZ3xt44tQxQ5nFHAedY7K09Jya0Fl6nRZyl8yZQNuRRNj9aNkZi4BdvxT6JAAz4dEkILhU37RTenb5hDwtoADKwCcYmSCCIRQpkO3OMqvrbX439y-HluzGT766g_W_IC6",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1US89XicHdBdToMwAADgeJk9urbgdEsWExw_ouuktAX6YqA4GC0_uiqwN-_iqTyNid8Rvu8fferU75WpjRnOm-VyHMfrqu8r_XYt-3aZn-dOLmWudZFLtVndruD9UW7dT9d5eH90IjYMfEcADSo7O0FX0gqkYP31nJTkwLhOWqGeuZNifzqzC5liqL0IkgZzPtNWzQJBRNHajRvxQSwvLhpMkiSExM-s8iJH7O2nvbpDe2Ye3hqyo6D-jIBACXXNwb0JY-WlgvGnGHGnoNiXXoVEC5-yNDLUUybiISJtbSeq1EmwHwuNIXXDgLTkhrChZ3xt44tQxQ5nFHAedY7K09Jya0Fl6nRZyl8yZQNuRRNj9aNkZi4BdvxT6JAAz4dEkILhU37RTenb5hDwtoADKwCcYmSCCIRQpkO3OMqvrbX439y-HluzGT766g_W_IC6",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IkhvdyBvbGQgaXMgdGhlIE5WSURJQSBRdWFkcm8gUlRYIDQwMDA/IiwibGsiOiJHaVZvYjNjZ2IyeGtJR2x6SUhSb1pTQnVkbWxrYVdFZ2NYVmhaSEp2SUhKMGVDQTBNREF3IiwiYnMiOiJjMjNRTVF1Q1FCVEFjVnB2YWdncXA0ZFVUb0ZJdXlSQ3VXaEtXT3VacGtlbmwzcHFmZHEtU3NscEZEWGZfXzE0NzVDREZLc0Vua1JnMXlRa0dMejlFVmFxcWtMTVdBaG5Wa0NNVTVMRnVqYVRaRkpDSnJLQzNfNW15RVRLSWNFY2lGQmJibGN3MFVaNVJXcE1vNHdEWjdvMmxjWXRjXzE5Umo1YWJsa0RLYzd1c0RGYXpQWXQwMW9MejNQRWdFSHg2ZEpFbE9xVHgwaVRwY19sM21yUVJ4QUh5RVdMMW1VMDdCZnNYTGZDNFd1aXYxN1hGR21lZkpjZG5vdXlfNERoNEFrIiwiaWQiOiJmY19TcXBnYXVPYk40V3QxUUhIcUtyd0NBXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1psWk5PRU5zUTJoTVdtRjZTWHBMZEhBMlJWWTFOMFJYZDFWSWFpMTBPR2xGVUVWNE5taDJNRTVWVmpGRVpqZDRSVFZXV2s1RVZ6UnZiVkZCWjBSdU5tdG5WMnBETFMwMFoyMVJYMEpqYm1sV2FWVnNWbFZqVWpkMVVSSVdVM0Z3WjJGMVQySk9ORmQwTVZGSVNIRkxjbmREUVJvaVFVUnpjamxtVTA1VmR6SlBUREpUTURFNGJFUlpjVE4zUVdsbmNWSjJOazF1ZHciLCJmY3YiOiIzIiwiZWkiOiJTcXBnYXVPYk40V3QxUUhIcUtyd0NBIiwicWMiOiJjd1hCc1JHQ0lRd0dVR3NyWGNEN1JxQ3dkeFFPUXc0NElja0ZmckZ4V3dmeHZUUEp1LVdXNE9zRGM4VTloSUJuVF9UYTNEdUtKNnVOUU1remloMmcybXp5UW1jcHE4WXhZTHJaSTZrSTAxS2ZjQ1lkZ3lWempqYVB1Qy1uNy05MmZmd0IiLCJxdWVzdGlvbiI6IkhvdyBvbGQgaXMgdGhlIE5WSURJQSBRdWFkcm8gUlRYIDQwMDA%2FIiwibGsiOiJHaVZvYjNjZ2IyeGtJR2x6SUhSb1pTQnVkbWxrYVdFZ2NYVmhaSEp2SUhKMGVDQTBNREF3IiwiYnMiOiJjMjNRTVF1Q1FCVEFjVnB2YWdncXA0ZFVUb0ZJdXlSQ3VXaEtXT3VacGtlbmwzcHFmZHEtU3NscEZEWGZfXzE0NzVDREZLc0Vua1JnMXlRa0dMejlFVmFxcWtMTVdBaG5Wa0NNVTVMRnVqYVRaRkpDSnJLQzNfNW15RVRLSWNFY2lGQmJibGN3MFVaNVJXcE1vNHdEWjdvMmxjWXRjXzE5Umo1YWJsa0RLYzd1c0RGYXpQWXQwMW9MejNQRWdFSHg2ZEpFbE9xVHgwaVRwY19sM21yUVJ4QUh5RVdMMW1VMDdCZnNYTGZDNFd1aXYxN1hGR21lZkpjZG5vdXlfNERoNEFrIiwiaWQiOiJmY19TcXBnYXVPYk40V3QxUUhIcUtyd0NBXzQifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "1XwfJnicxVXdcqpIEH6AfY71xqyC4l-qqFPDSCKiMaOJid5QCDigwCADQXN33mWfap9mB1ADiUn2bNXWdhUMPd3T0z3TH9_PP13H3_71W9-OooBe1-tJktQwIdi1agbx6jo9-EZ9TVwaGvYP7IoxrdiuaPkVSuLQsBxTNOyQeFbl8CI2KwYVuYrliLNdgPV4sroTniIeDQY7NUwgqGTRRG2lU2vDNttvaF2rs9f292afKTVas_yaG7VmavxHfLhTag2O79Umdd1jDuC_FQSm6QsBmSnyB3OfWb4LACAAMyC9TcnvxlSSTJOk1BkAJR8uiZQ7ygrM_LRxr5tGOp6D8EUmklLWaZp_vs80TfNjdZemwLnix5J2US4YcT7cHHNKCqbPapZKl8xWojG4T5M-OxxHpZgvSqcXmbVP-gPQhAr5IlV2OOpC2isAK_gLN3YmUO1Kx8LG_Se2sG5i1ohcfRWyga87hm1kHyFN-xM-9DhyO-osusPhrBXa81b7mUQzfTf3jc26p6O6sWJ-LtFNy9RsjfuR6XyD7zRa7bZwlQHDoGdk0CIybJcIw_ksUTdCbVST-AIs8KmuoiCmXyxQVo6u7-58kb2zFUjNvpcn0-PZqaGUFsLNljU0kI77dNP2lpICAk7JwEuwKCtjkMEiayWYj0dboV2kt7svNpEC3v8e5JI1W4rB_m1aAW8NCTPcF2SLwPB8nqXI7PegTGEe_xHnLn1sFauzgVw-AJltoCCA80M6XckxqUMhNkoXM9mkkzMJyQz9-XHkpedhU0Dh8mVPQVlusIQhkj_ewz8Q-DUostRPAHjXzyUceETX4BTum-50GbcRHPkgct1dzOJf7nvirX6BEoz_HRkZYTyeCeMjMtA3yMgIA31OGEclOSEDpq2gSvAzZEjKBcIYfyCMC8iwlTIyzoQB3xPGGRnp1DfIQF8hA-WpXEDGzQVkzD5BRk4YBWQgqpQI4_R1-mm8IePXCQP-G8LIcGLlQ5k94g3-lEVk5bXn8bxp9x77y3uuuQHq63oRqfNOJ_mWRdZedO3ppnulOea11BhGB_NKYxPk2jIrO_FurvQVUJ0-PFfvp5OqwHFcVXJ1Y5tYrlu9DfXAdowq1EOzioO4athOQK2o6lo-jmzN86oBSaxQM4jvW0ZEQloNU_B6lp8mFNBYSyqeGxKR0zu7FprfJzZdvXj82LSGa-1B71FLQx5Zb5WbqOXoWEPOjTCD9HYcLKxlKPMD0kzAgPIHKtmSOR34yyW1m-Rp0xfc5VI2p52gSyIOL1vOwxA5cX_fdsZrf_TaVuPe61rd2M-u3lFhWyDW6whww9F20JX9-YTkiVFxD6A8OQT-M89mQkNkbStEaIjAE5YMABeMrzB7CHsS1mYVauiaRV_EbmvVE9orodFqrDvrXqfi4egQiD2uQv1Q5P8G1yM5lA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1XwfJnicxVXdcqpIEH6AfY71xqyC4l-qqFPDSCKiMaOJid5QCDigwCADQXN33mWfap9mB1ADiUn2bNXWdhUMPd3T0z3TH9_PP13H3_71W9-OooBe1-tJktQwIdi1agbx6jo9-EZ9TVwaGvYP7IoxrdiuaPkVSuLQsBxTNOyQeFbl8CI2KwYVuYrliLNdgPV4sroTniIeDQY7NUwgqGTRRG2lU2vDNttvaF2rs9f292afKTVas_yaG7VmavxHfLhTag2O79Umdd1jDuC_FQSm6QsBmSnyB3OfWb4LACAAMyC9TcnvxlSSTJOk1BkAJR8uiZQ7ygrM_LRxr5tGOp6D8EUmklLWaZp_vs80TfNjdZemwLnix5J2US4YcT7cHHNKCqbPapZKl8xWojG4T5M-OxxHpZgvSqcXmbVP-gPQhAr5IlV2OOpC2isAK_gLN3YmUO1Kx8LG_Se2sG5i1ohcfRWyga87hm1kHyFN-xM-9DhyO-osusPhrBXa81b7mUQzfTf3jc26p6O6sWJ-LtFNy9RsjfuR6XyD7zRa7bZwlQHDoGdk0CIybJcIw_ksUTdCbVST-AIs8KmuoiCmXyxQVo6u7-58kb2zFUjNvpcn0-PZqaGUFsLNljU0kI77dNP2lpICAk7JwEuwKCtjkMEiayWYj0dboV2kt7svNpEC3v8e5JI1W4rB_m1aAW8NCTPcF2SLwPB8nqXI7PegTGEe_xHnLn1sFauzgVw-AJltoCCA80M6XckxqUMhNkoXM9mkkzMJyQz9-XHkpedhU0Dh8mVPQVlusIQhkj_ewz8Q-DUostRPAHjXzyUceETX4BTum-50GbcRHPkgct1dzOJf7nvirX6BEoz_HRkZYTyeCeMjMtA3yMgIA31OGEclOSEDpq2gSvAzZEjKBcIYfyCMC8iwlTIyzoQB3xPGGRnp1DfIQF8hA-WpXEDGzQVkzD5BRk4YBWQgqpQI4_R1-mm8IePXCQP-G8LIcGLlQ5k94g3-lEVk5bXn8bxp9x77y3uuuQHq63oRqfNOJ_mWRdZedO3ppnulOea11BhGB_NKYxPk2jIrO_FurvQVUJ0-PFfvp5OqwHFcVXJ1Y5tYrlu9DfXAdowq1EOzioO4athOQK2o6lo-jmzN86oBSaxQM4jvW0ZEQloNU_B6lp8mFNBYSyqeGxKR0zu7FprfJzZdvXj82LSGa-1B71FLQx5Zb5WbqOXoWEPOjTCD9HYcLKxlKPMD0kzAgPIHKtmSOR34yyW1m-Rp0xfc5VI2p52gSyIOL1vOwxA5cX_fdsZrf_TaVuPe61rd2M-u3lFhWyDW6whww9F20JX9-YTkiVFxD6A8OQT-M89mQkNkbStEaIjAE5YMABeMrzB7CHsS1mYVauiaRV_EbmvVE9orodFqrDvrXqfi4egQiD2uQv1Q5P8G1yM5lA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "workstation-datasheet-blackwell-rtx-pro-4000- ...",
+      "link": "https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-nvidia-3662515.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fdesign-visualization%2Fquadro-product-literature%2Fworkstation-datasheet-blackwell-rtx-pro-4000-nvidia-3662515.pdf&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECBgQAQ",
+      "displayed_link": "https://www.nvidia.com › quadro-product-literature",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg",
+      "snippet": "Equipped with 24 GB of ultra-fast GDDR7 memory, fifth-generation Tensor Cores, and fourth-generation RT Cores, With 24 GB of GPU memory and 642 TB/s bandwidth,",
+      "snippet_highlighted_words": [
+        "GPU"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 3
+          },
+          "extensions": [
+            "3 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Equipped with 24 GB of ultra-fast GDDR7 memory, fifth-generation Tensor Cores, and fourth-generation RT Cores, With 24 GB of GPU memory and 642 TB/s bandwidth,",
+          "source_info_link": "https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-nvidia-3662515.pdf",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fdesign-visualization%2Fquadro-product-literature%2Fworkstation-datasheet-blackwell-rtx-pro-4000-nvidia-3662515.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fdesign-visualization%2Fquadro-product-literature%2Fworkstation-datasheet-blackwell-rtx-pro-4000-nvidia-3662515.pdf",
+      "source": "NVIDIA"
+    },
+    {
+      "position": 2,
+      "title": "NVIDIA RTX PRO 4000 Blackwell Specs",
+      "link": "https://www.techpowerup.com/gpu-specs/rtx-pro-4000-blackwell.c4279",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-pro-4000-blackwell.c4279&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECB4QAQ",
+      "displayed_link": "https://www.techpowerup.com › gpu-specs › rtx-pro-40...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "Being a single-slot card, the NVIDIA RTX PRO 4000 Blackwell draws power from 1x 16-pin power connector, with power draw rated at 140 W maximum.",
+      "snippet_highlighted_words": [
+        "1x 16-pin power connector"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Being a single-slot card, the NVIDIA RTX PRO 4000 Blackwell draws power from 1x 16-pin power connector, with power draw rated at 140 W maximum.",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/rtx-pro-4000-blackwell.c4279",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-pro-4000-blackwell.c4279&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-pro-4000-blackwell.c4279",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 3,
+      "title": "NVIDIA RTX PRO 4000 Blackwell GPU",
+      "link": "https://www.itcreations.com/nvidia-gpu/nvidia-rtx-pro-4000-blackwell-gpu?srsltid=AfmBOoop2WyCxML9K7q-0W5B2s1dFkH9x2mlcZbdlZpAHorBXHvdzgjB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.itcreations.com%2Fnvidia-gpu%2Fnvidia-rtx-pro-4000-blackwell-gpu%3Fsrsltid%3DAfmBOoop2WyCxML9K7q-0W5B2s1dFkH9x2mlcZbdlZpAHorBXHvdzgjB&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECCIQAQ",
+      "displayed_link": "https://www.itcreations.com › nvidia-gpu › nvidia-rtx-pr...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png",
+      "snippet": "RTX PRO 4000 Blackwell is listed at 140W, with a recommended minimum power supply unit of 300W. It has 4x DisplayPort 2.1B connectors … requires a PCIe CEM5 16 ...",
+      "snippet_highlighted_words": [
+        "RTX PRO 4000 Blackwell"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 13
+          },
+          "extensions": [
+            "4.9(13)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "RTX PRO 4000 Blackwell is listed at 140W, with a recommended minimum power supply unit of 300W. It has 4x DisplayPort 2.1B connectors … requires a PCIe CEM5 16 ...",
+          "source_info_link": "https://www.itcreations.com/nvidia-gpu/nvidia-rtx-pro-4000-blackwell-gpu?srsltid=AfmBOoop2WyCxML9K7q-0W5B2s1dFkH9x2mlcZbdlZpAHorBXHvdzgjB",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.itcreations.com%2Fnvidia-gpu%2Fnvidia-rtx-pro-4000-blackwell-gpu%3Fsrsltid%3DAfmBOoop2WyCxML9K7q-0W5B2s1dFkH9x2mlcZbdlZpAHorBXHvdzgjB&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.itcreations.com%2Fnvidia-gpu%2Fnvidia-rtx-pro-4000-blackwell-gpu%3Fsrsltid%3DAfmBOoop2WyCxML9K7q-0W5B2s1dFkH9x2mlcZbdlZpAHorBXHvdzgjB",
+      "source": "IT Creations"
+    },
+    {
+      "position": 4,
+      "title": "workstation-datasheet-blackwell-rtx-pro-4000-sff- ...",
+      "link": "https://images.nvidia.com/aem-dam/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fimages.nvidia.com%2Faem-dam%2FSolutions%2Fdesign-visualization%2Fquadro-product-literature%2Fworkstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECCAQAQ",
+      "displayed_link": "https://images.nvidia.com › design-visualization",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACLElEQVR4Ae3WA4wlQRSF4bVt27YRrG3btm3bRrC2bds2xjZ75k9yk9yM7Uq-h1vV1ee9ViVKaKFpCS2hTb6UaAJuRpA-YQmwDT4RZE5od54MG2EJZ3hHegAGlcAM3IQVRkg9BYqgJ47BJUID0NkQl-Apk9_ASrEdc9EUKWV8fmyEe7gCUCyMM_CGGSYiWyDngAETGZNC-qvgXagD8CUxhsMRBvYhk_SlQ3fswnhUQ2tshJ1M9gLFZXxaHIMRogCywUEY8MYEdZwnwkLq3zEKKVTw3DgPHxlXVZ2we2GEJMB1VZwrtVy4K7XXqIXE2IY_aOzn6ngoY82QXurJ8TEkAbaq4gCpDZHvXsjl9xyAHQojMRaqS3KpGjslpP9AIThL8R2SICMspTbEbwBxHofVCbkNicUMFcpL-oM8CeeqjsFSGwoDZsjnN4DihUUSPAW2qB3-QnWMhFlQAVLisXTYoCgSY6_U3qCEDiA-oZm6aT1Qfdf9HL7MWA1PHUCHKIj_6sTLiqRYKhs5Yz3WYAlaIDkyYj6cZFs3zEIyPb_MNRkeQd2IysFE_epiUi8t6UdJ0JJoj-3qXuCNiyjjZ87EaIrnIboVy9n9RAbZYxqyBHEO2GA_avuZJx16y1xGaJ8FKTFFXQmOuIxlWIK5GIzaSK22y4C22AfriHgaZsBAnIIJhqu-tCiDzliKO3CJtPWA7HQTbOAII-LXAzF5RSQB6qBfBKmUKKEltJjQfAHHiLcdp8EE6gAAAABJRU5ErkJggg.png",
+      "snippet": "The NVIDIA RTX PRO™4000 Blackwell SFF Edition redefines what's possible in a compact, low-profile GPU, combining NVIDIA's revolutionary Blackwell architecture.",
+      "snippet_highlighted_words": [
+        "NVIDIA RTX PRO",
+        "4000 Blackwell",
+        "GPU",
+        "Blackwell"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 3
+          },
+          "extensions": [
+            "3 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The NVIDIA RTX PRO™4000 Blackwell SFF Edition redefines what's possible in a compact, low-profile GPU, combining NVIDIA's revolutionary Blackwell architecture.",
+          "source_info_link": "https://images.nvidia.com/aem-dam/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACLElEQVR4Ae3WA4wlQRSF4bVt27YRrG3btm3bRrC2bds2xjZ75k9yk9yM7Uq-h1vV1ee9ViVKaKFpCS2hTb6UaAJuRpA-YQmwDT4RZE5od54MG2EJZ3hHegAGlcAM3IQVRkg9BYqgJ47BJUID0NkQl-Apk9_ASrEdc9EUKWV8fmyEe7gCUCyMM_CGGSYiWyDngAETGZNC-qvgXagD8CUxhsMRBvYhk_SlQ3fswnhUQ2tshJ1M9gLFZXxaHIMRogCywUEY8MYEdZwnwkLq3zEKKVTw3DgPHxlXVZ2we2GEJMB1VZwrtVy4K7XXqIXE2IY_aOzn6ngoY82QXurJ8TEkAbaq4gCpDZHvXsjl9xyAHQojMRaqS3KpGjslpP9AIThL8R2SICMspTbEbwBxHofVCbkNicUMFcpL-oM8CeeqjsFSGwoDZsjnN4DihUUSPAW2qB3-QnWMhFlQAVLisXTYoCgSY6_U3qCEDiA-oZm6aT1Qfdf9HL7MWA1PHUCHKIj_6sTLiqRYKhs5Yz3WYAlaIDkyYj6cZFs3zEIyPb_MNRkeQd2IysFE_epiUi8t6UdJ0JJoj-3qXuCNiyjjZ87EaIrnIboVy9n9RAbZYxqyBHEO2GA_avuZJx16y1xGaJ8FKTFFXQmOuIxlWIK5GIzaSK22y4C22AfriHgaZsBAnIIJhqu-tCiDzliKO3CJtPWA7HQTbOAII-LXAzF5RSQB6qBfBKmUKKEltJjQfAHHiLcdp8EE6gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fimages.nvidia.com%2Faem-dam%2FSolutions%2Fdesign-visualization%2Fquadro-product-literature%2Fworkstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fimages.nvidia.com%2Faem-dam%2FSolutions%2Fdesign-visualization%2Fquadro-product-literature%2Fworkstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf",
+      "source": "NVIDIA",
+      "read_more_link": "https://images.nvidia.com/aem-dam/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf"
+    },
+    {
+      "position": 5,
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphics Card",
+      "link": "https://www.amazon.com/NVIDIA-4000-Blackwell-Graphics-Card/dp/B0GJNJYNKY",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FNVIDIA-4000-Blackwell-Graphics-Card%2Fdp%2FB0GJNJYNKY&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECB0QAQ",
+      "displayed_link": "https://www.amazon.com › NVIDIA-4000-Blackwell-Gr...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "NVIDIA RTX PRO 4000 Blackwell Graphics Card - 24GB GDDR7 ECC Memory, PCIe 5.0 x16, 4X DisplayPort 2.1b, Single Slot Full Height AI Workstation GPU, Retail ...",
+      "snippet_highlighted_words": [
+        "NVIDIA RTX PRO 4000 Blackwell Graphics Card"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVIDIA RTX PRO 4000 Blackwell Graphics Card - 24GB GDDR7 ECC Memory, PCIe 5.0 x16, 4X DisplayPort 2.1b, Single Slot Full Height AI Workstation GPU, Retail ...",
+          "source_info_link": "https://www.amazon.com/NVIDIA-4000-Blackwell-Graphics-Card/dp/B0GJNJYNKY",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FNVIDIA-4000-Blackwell-Graphics-Card%2Fdp%2FB0GJNJYNKY&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FNVIDIA-4000-Blackwell-Graphics-Card%2Fdp%2FB0GJNJYNKY",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/NVIDIA-4000-Blackwell-Graphics-Card/dp/B0GJNJYNKY"
+    },
+    {
+      "position": 6,
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "link": "https://www.newegg.com/nvidia-blackwell-900-5g147-2270-000-rtx-pro-4000-24gb-graphics-card/p/N82E16814132109?srsltid=AfmBOorMMmkcfvbRs2Xl1_enk2PowcYxN2_m4fcAwHiFcF5lGI1mNock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fnvidia-blackwell-900-5g147-2270-000-rtx-pro-4000-24gb-graphics-card%2Fp%2FN82E16814132109%3Fsrsltid%3DAfmBOorMMmkcfvbRs2Xl1_enk2PowcYxN2_m4fcAwHiFcF5lGI1mNock&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECCEQAQ",
+      "displayed_link": "https://www.newegg.com › ... › NVIDIA",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Experience ultimate graphics performance with the NVIDIA RTX PRO 4000 Blackwell Video Card. Boasting 24GB GDDR7 ECC, PCIe 5.0 x16, and AI acceleration, ...",
+      "snippet_highlighted_words": [
+        "NVIDIA RTX PRO 4000 Blackwell Video Card"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Experience ultimate graphics performance with the NVIDIA RTX PRO 4000 Blackwell Video Card. Boasting 24GB GDDR7 ECC, PCIe 5.0 x16, and AI acceleration, ...",
+          "source_info_link": "https://www.newegg.com/nvidia-blackwell-900-5g147-2270-000-rtx-pro-4000-24gb-graphics-card/p/N82E16814132109?srsltid=AfmBOorMMmkcfvbRs2Xl1_enk2PowcYxN2_m4fcAwHiFcF5lGI1mNock",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fnvidia-blackwell-900-5g147-2270-000-rtx-pro-4000-24gb-graphics-card%2Fp%2FN82E16814132109%3Fsrsltid%3DAfmBOorMMmkcfvbRs2Xl1_enk2PowcYxN2_m4fcAwHiFcF5lGI1mNock&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fnvidia-blackwell-900-5g147-2270-000-rtx-pro-4000-24gb-graphics-card%2Fp%2FN82E16814132109%3Fsrsltid%3DAfmBOorMMmkcfvbRs2Xl1_enk2PowcYxN2_m4fcAwHiFcF5lGI1mNock",
+      "source": "Newegg"
+    },
+    {
+      "position": 7,
+      "title": "NVIDIA RTX Pro 4000 Blackwell GPU",
+      "link": "https://www.pny.com/nvidia-rtx-pro-4000-blackwell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.pny.com%2Fnvidia-rtx-pro-4000-blackwell&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECBsQAQ",
+      "displayed_link": "https://www.pny.com › nvidia-rtx-pro-4000-blackwell",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png",
+      "snippet": "NVIDIA Blackwell Architecture · 24 GB GDDR7 with ECC · NVIDIA RTX PRO SYNC Compatible · 4 x Display Port 2.1 · 8960 CUDA® Cores · 140 W Max Power Consumption.",
+      "snippet_highlighted_words": [
+        "Blackwell",
+        "NVIDIA RTX PRO",
+        "Display",
+        "Power Consumption"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVIDIA Blackwell Architecture · 24 GB GDDR7 with ECC · NVIDIA RTX PRO SYNC Compatible · 4 x Display Port 2.1 · 8960 CUDA® Cores · 140 W Max Power Consumption.",
+          "source_info_link": "https://www.pny.com/nvidia-rtx-pro-4000-blackwell",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.pny.com%2Fnvidia-rtx-pro-4000-blackwell&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pny.com%2Fnvidia-rtx-pro-4000-blackwell",
+      "source": "PNY.com",
+      "read_more_link": "https://www.pny.com/nvidia-rtx-pro-4000-blackwell"
+    },
+    {
+      "position": 8,
+      "title": "NVIDIA RTX PRO 4000 Blackwell",
+      "link": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-4000/workstation-datasheet-rtx-pro-4000-nvidia-us-web.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fproducts%2Fworkstations%2Fprofessional-desktop-gpus%2Frtx-pro-4000%2Fworkstation-datasheet-rtx-pro-4000-nvidia-us-web.pdf&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECB8QAQ",
+      "displayed_link": "https://www.nvidia.com › products › rtx-pro-4000",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg",
+      "snippet": "Equipped with 24 GB of ultra-fast GDDR7 memory, fifth-generation Tensor Cores, and fourth-generation RT cores, With 24 GB of GPU memory and 672 GB/s bandwidth,",
+      "snippet_highlighted_words": [
+        "GPU"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 3
+          },
+          "extensions": [
+            "3 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Equipped with 24 GB of ultra-fast GDDR7 memory, fifth-generation Tensor Cores, and fourth-generation RT cores, With 24 GB of GPU memory and 672 GB/s bandwidth,",
+          "source_info_link": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-4000/workstation-datasheet-rtx-pro-4000-nvidia-us-web.pdf",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fproducts%2Fworkstations%2Fprofessional-desktop-gpus%2Frtx-pro-4000%2Fworkstation-datasheet-rtx-pro-4000-nvidia-us-web.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nvidia.com%2Fcontent%2Fdam%2Fen-zz%2FSolutions%2Fproducts%2Fworkstations%2Fprofessional-desktop-gpus%2Frtx-pro-4000%2Fworkstation-datasheet-rtx-pro-4000-nvidia-us-web.pdf",
+      "source": "NVIDIA"
+    },
+    {
+      "position": 9,
+      "title": "NVIDIA RTX PRO 4000 Blackwell GPU Data Sheet",
+      "link": "https://www.itcreations.com/user-manuals/rtx-pro-4000-manuals/nvidia-rtx-pro-4000-blackwell-gpu-datasheet.pdf?srsltid=AfmBOopbp9xafEjhUByGZRxbgCyL7_HWf61cDwhHVTgoGXefGzBpsJfr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.itcreations.com%2Fuser-manuals%2Frtx-pro-4000-manuals%2Fnvidia-rtx-pro-4000-blackwell-gpu-datasheet.pdf%3Fsrsltid%3DAfmBOopbp9xafEjhUByGZRxbgCyL7_HWf61cDwhHVTgoGXefGzBpsJfr&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4QFnoECBwQAQ",
+      "displayed_link": "https://www.itcreations.com › rtx-pro-4000-manuals › n...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png",
+      "snippet": "NVIDIA RTX PRO 4000 Blackwell GPU Data Sheet.",
+      "snippet_highlighted_words": [
+        "NVIDIA RTX PRO 4000 Blackwell GPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVIDIA RTX PRO 4000 Blackwell GPU Data Sheet.",
+          "source_info_link": "https://www.itcreations.com/user-manuals/rtx-pro-4000-manuals/nvidia-rtx-pro-4000-blackwell-gpu-datasheet.pdf?srsltid=AfmBOopbp9xafEjhUByGZRxbgCyL7_HWf61cDwhHVTgoGXefGzBpsJfr",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.itcreations.com%2Fuser-manuals%2Frtx-pro-4000-manuals%2Fnvidia-rtx-pro-4000-blackwell-gpu-datasheet.pdf%3Fsrsltid%3DAfmBOopbp9xafEjhUByGZRxbgCyL7_HWf61cDwhHVTgoGXefGzBpsJfr&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.itcreations.com%2Fuser-manuals%2Frtx-pro-4000-manuals%2Fnvidia-rtx-pro-4000-blackwell-gpu-datasheet.pdf%3Fsrsltid%3DAfmBOopbp9xafEjhUByGZRxbgCyL7_HWf61cDwhHVTgoGXefGzBpsJfr",
+      "source": "IT Creations"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell price",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+price&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+price"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell power connector",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+power+connector&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+power+connector"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell SFF",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+SFF&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+SFF"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell datasheet",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+datasheet&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+datasheet"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell specs",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+specs&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+specs"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell 24GB",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+24GB&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+24GB"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX PRO 4000 Blackwell gaming",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=RTX+PRO+4000+Blackwell+gaming&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+PRO+4000+Blackwell+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX PRO 4000 Blackwell vs 5090",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+vs+5090&sa=X&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+vs+5090"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=SqpgauObN4Wt1QHHqKrwCA&start=10&sa=N&sstk=AU9db-BBlc_G1fLnUVa6tLafLLfiekK-ij87qIDMKkptPLyDorbxQEUuTMSyczlO21TtD2BCjda7OGIdeDpStfeiq68ZyeZh4lfiFA&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q8NMDegQIPBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=SqpgauObN4Wt1QHHqKrwCA&start=10&sa=N&sstk=AU9db-BBlc_G1fLnUVa6tLafLLfiekK-ij87qIDMKkptPLyDorbxQEUuTMSyczlO21TtD2BCjda7OGIdeDpStfeiq68ZyeZh4lfiFA&ved=2ahUKEwjj6NXzl-aVAxWFVjUKHUeUCo4Q8tMDegQIPBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+PRO+4000+Blackwell+Graphic+Card+gpu+chipset+length_mm+power_connectors+recommended_psu_w&start=10"
+    }
+  }
+}

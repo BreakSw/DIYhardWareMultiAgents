@@ -1,0 +1,761 @@
+[
+  {
+    "category": "gpu",
+    "brand": "ASUS",
+    "model": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "vram_gb": "16",
+      "memory_type": "GDDR",
+      "tdp_w": "360 watt TDP",
+      "length_mm": "304.8"
+    },
+    "price": {
+      "reference_usd": "1315.74",
+      "reference_cny": "8902.39",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/asus-prime-nvidia-geforce-rtx-5080-16gb-gddr7-pci-express-5-0-graphics-card-black/JJGGLH7RSP/sku/6615831?utm_source=feed",
+          "price_usd": "1315.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1874876-REG/asus_prime_rtx5080_16g_geforce_rtx_5080_prime.html?kw=ASPR5080G16C&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopUdCjaenLZyiVtijx7Xp7Uzwu5ofDm6HaVK0q3Qm9l0GwPYtDz5jE",
+          "price_usd": "1315.74",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - 1StopShopLLC",
+          "url": "https://www.walmart.com/ip/Asus-NVIDIA-GeForce-RTX-5080-Graphic-Card-16-GB-GDDR7/15422359223?wmlspartner=wlpa&selectedSellerId=102588500&veh=seo_fpl&cn=google",
+          "price_usd": "1315.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/asus-prime-nvidia-geforce-rtx-5080-16gb-gddr7-pci-express-5-0-graphics-card-black/JJGGLH7RSP/sku/6615831?utm_source=feed",
+      "https://www.reddit.com/r/buildapc/comments/1hvktve/new_psu_for_rtx_5080_or_not/",
+      "https://www.reddit.com/r/nvidia/comments/1ipi5u2/rtx_5080_should_i_use_the_included_adapter_with/",
+      "https://www.reddit.com/r/buildapc/comments/1inveld/existing_750_watt_power_supply_for_new_rtx_5080/",
+      "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/",
+      "https://www.facebook.com/groups/372119787729533/posts/1236018408006329/",
+      "https://www.facebook.com/groups/372119787729533/posts/1276020590672777/",
+      "https://www.facebook.com/groups/372119787729533/posts/1007574807517358/",
+      "https://rog.asus.com/articles/guides/how-to-choose-a-power-supply-for-your-new-gaming-pc/",
+      "https://forums.guru3d.com/threads/power-connectors-query-for-the-5080.457801/",
+      "https://help.corsair.com/hc/en-us/articles/32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU",
+      "https://forums.overclockers.co.uk/threads/rtx-5080-psu-requrements-will-a-750w-cut-it.19002056/",
+      "https://linustechtips.com/topic/1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin/"
+    ],
+    "fetched_at": "2026-07-22T11:32:15.899296+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "chipset",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "chipset",
+      "power_connectors",
+      "recommended_psu_w"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "639f3c62be75c49b14b2e2ec3c6735fe51600b3a5ad52da6131c5d643732e3cc"
+  },
+  {
+    "category": "gpu",
+    "brand": "Dell",
+    "model": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "chipset": "RTX 6000 Ada Generation",
+      "memory_type": "GDDR6",
+      "tdp_w": "300 Watt",
+      "length_mm": "Full-Length (FL)",
+      "power_connectors": "16 pin PCI Express",
+      "recommended_psu_w": "300 W"
+    },
+    "price": {
+      "reference_usd": "9951.27",
+      "reference_cny": "67331.00",
+      "offers": [
+        {
+          "merchant": "Dell",
+          "url": "https://www.dell.com/en-us/shop/dell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card/apd/490-bjms/parts-batteries-upgrades?tfcid=91049735&dgc=opl&srsltid=AfmBOoonjVBWBmGFXUoSxkqAypY0jl-l0HzbXLPrOtH3cSsRK7dgn0c8wik",
+          "price_usd": "8999.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "BarcodesInc",
+          "url": "https://www.barcodesinc.com/dell/part-490-bjms.htm?srsltid=AfmBOooSNBDrGdvDrQcnljLnIRRkmlH40AGpaa2SaYKmrna6kwgNuc3NtG8",
+          "price_usd": "13013.2",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "BarcodeDiscount",
+          "url": "https://www.barcodediscount.com/catalog/dell/part-490-bjms.htm?srsltid=AfmBOorn6YOt1QN_GNRDDgVob7ibt_jsrMe6xzRR1BLWOHn8m9FTpmCHzTI",
+          "price_usd": "9951.27",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.dell.com/en-us/shop/dell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card/apd/490-bjms/graphic-video-cards",
+      "https://www.nvidia.com/en-us/products/workstations/rtx-6000/",
+      "https://www.xbyte.com/products/cat-27622/?srsltid=AfmBOop3UAaaKvwfnVqDCt9d9i30QuiFe5-kV2cwcQYT43_eRNhaYTnc",
+      "https://www.pny.com/nvidia-rtx-6000-ada",
+      "https://www.amazon.com/PNY-NVIDIA-RTX-6000-ADA/dp/B0BNYR4VX8",
+      "https://www.ebay.com/itm/146349896370",
+      "https://networkoutlet.com/products/nvidia-rtx-6000-ada-48gb-gddr6-professional-gpu-ai-rendering-amp-simulation?srsltid=AfmBOooHWTyLgy9slmn9vSB2u7FaoFKiqQwDgDQJKghsFISYOm3pnm1Q",
+      "https://www.etb-tech.com/nvidia-rtx-6000-ada-graphics-card-48gb-full-height-bracket-vid00285.html",
+      "https://www.dell.com/en-us/shop/pny-nvidia-rtx-6000-ada-graphic-card-48-gb-gddr6/apd/ac442879/graphic-video-cards"
+    ],
+    "fetched_at": "2026-07-22T11:32:33.010844+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "vram_gb"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "vram_gb"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "baeb1ec58bcbc72bf2c2bab10687e03f67f53680364a7c83c03264f640a20c71"
+  },
+  {
+    "category": "gpu",
+    "brand": "GIGABYTE",
+    "model": "Gigabyte Radeon RX 9060 XT Gaming",
+    "mpn": "",
+    "release_date": "2025",
+    "market": "US",
+    "specs": {
+      "chipset": "Radeon RX 9060 XT",
+      "vram_gb": "16",
+      "memory_type": "GDDR6",
+      "tdp_w": "160 W",
+      "length_mm": "281",
+      "power_connectors": "Single 8-pin PCI Express power connector",
+      "recommended_psu_w": "450W"
+    },
+    "price": {
+      "reference_usd": "585.24",
+      "reference_cny": "3959.78",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/gigabyte-radeon-rx-9060-xt-gaming-oc-16g-gddr6-pci-express-5-0-graphics-card-black/J3ZW9X7XQS/sku/12305030?ref=212&loc=marketplace",
+          "price_usd": "585.24",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - aleboe-63",
+          "url": "https://www.ebay.com/itm/147305957097?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooGr0nUCPmBxvADxdp-IXYPbISDOt-kpg5m4hec1_UwJaseB0msCrs",
+          "price_usd": "660.29",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - S & L Buisness",
+          "url": "https://www.walmart.com/ip/Gigabyte-Technology-GV-R9060XTGAMING-Gigabyte-Radeon-Rx-9060-Xt-Gaming-Oc-16g-Graphics-Card-Pcie-5-0-16gb-Gddr6-128-Bit-Gv-r9060xtgaming-Oc-16gd/17295607331?wmlspartner=wlpa&selectedSellerId=102509641&selectedOfferId=3336D65E627F3E81AA8B0CB75A5EA6F1&conditionGroupCode=1",
+          "price_usd": "459.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-16GD"
+    ],
+    "fetched_at": "2026-07-22T11:32:32.112906+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "aca83bd560ad6743acca5d81b632597343d42f07bb5cf658e1ab38bfe437bcbd"
+  },
+  {
+    "category": "gpu",
+    "brand": "Intel",
+    "model": "Intel Arc Pro B70 Graphic Card",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "vram_gb": "32",
+      "memory_type": "GDDR6",
+      "tdp_w": "230 watt TDP",
+      "length_mm": "279.4",
+      "power_connectors": "8-pin"
+    },
+    "price": {
+      "reference_usd": "1199.99",
+      "reference_cny": "8119.22",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1959142-REG/intel_33p01ib0bb_arc_pro_b70_32gb.html?kw=INAPB7032GB&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo6MtUVnSgk3Ui9iriko9qUWslWSJxIVyI8XDtKuP22L-VXUdqC-8c",
+          "price_usd": "1079.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - Halfmoon Tech LLC",
+          "url": "https://www.walmart.com/ip/Intel-Arc-Pro-B70-Graphic-Card-32-GB-GDDR6-7680-x-4320-2-28-GHz-Core-2-80-Boost-Clock-256-bit-Bus-Width-PCI-Express-5-0-x16-DisplayPort-HDMI-Dual-Slo/20189520667?wmlspartner=wlpa&selectedSellerId=101102258",
+          "price_usd": "1199.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - cloud_future",
+          "url": "https://www.ebay.com/itm/127843213014?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqOa0FAnos7Dqcs9bjKvrA3qGPwvo6wh0dSS2KKqQ-OJTdusnLAaSk",
+          "price_usd": "2200.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bhphotovideo.com/c/product/1959142-REG/intel_33p01ib0bb_arc_pro_b70_32gb.html?kw=INAPB7032GB&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo6MtUVnSgk3Ui9iriko9qUWslWSJxIVyI8XDtKuP22L-VXUdqC-8c",
+      "https://www.techpowerup.com/gpu-specs/arc-pro-b70.c4388",
+      "https://www.facebook.com/VideoCardz/posts/intel-arc-pro-b70-battlematrix-quad-gpu-setup-consumes-up-to-720w-of-power/1380499524115798/",
+      "https://www.reddit.com/r/IntelArc/comments/1hgw821/is_550w_power_supply_enough_for_arc_b570b580/",
+      "https://www.reddit.com/r/IntelArc/comments/1g8c9b0/intel_arc_a750_psu_questione/",
+      "https://www.reddit.com/r/intel/comments/1sgj8n0/intel_arc_pro_b70_battlematrix_quadgpu_setup/",
+      "https://www.intel.com/content/www/us/en/support/articles/000099073/graphics.html",
+      "https://www.microcenter.com/product/709007/intel-arc-pro-b70-single-fan-ai-workstation-graphics-card",
+      "https://www.tweaktown.com/news/110889/intel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000/index.html",
+      "https://www.newegg.com/intel-arc-pro-b70-32gb-graphics-card/p/N82E16814883008/questions?srsltid=AfmBOoqatB4elBFSxmZHBavATMN057XwJIXRJeiV1UmIos4xl4OhlwVr",
+      "https://www.storagereview.com/review/intel-arc-pro-b70-review"
+    ],
+    "fetched_at": "2026-07-22T11:32:10.163427+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "chipset",
+        "recommended_psu_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "chipset",
+      "recommended_psu_w"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "bbcf7ef8c158ac6d4baecf93729d9c6d06d865f3bc7d204fe13828bbe378d314"
+  },
+  {
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "model": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "vram_gb": "96",
+      "memory_type": "GDDR",
+      "tdp_w": "600 watt TDP",
+      "length_mm": "304.8"
+    },
+    "price": {
+      "reference_usd": "15900.0",
+      "reference_cny": "107580.53",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1895402-REG/nvidia_900_5g144_2200_000_rtx_pro_6000_blackwell.html?kw=NVRP6000BWWS&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooR8tKjyLidb-crcs9WzkPsdNQS3SQ7-T7MbRIwFgxkkwfvbnhuw1Y",
+          "price_usd": "12999.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - japanfinds_gmo",
+          "url": "https://www.ebay.com/itm/306941907602?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoo4OSUHiyDXt_naumKGwS3I97yerpjJcDYJGvFTSyRhlipQ0d0g85Q",
+          "price_usd": "18530.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "ServerSupply.com",
+          "url": "https://www.serversupply.com/GPU/GDDR7/96GB/NVIDIA/900-5G144-0000-000_424445.htm?srsltid=AfmBOopQrS4H5wN3ps_8MvB0ePXOny1lT57GtgtLo1o0zm5Kp-OqYFCx-X0",
+          "price_usd": "15900.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bhphotovideo.com/c/product/1895402-REG/nvidia_900_5g144_2200_000_rtx_pro_6000_blackwell.html?kw=NVRP6000BWWS&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooR8tKjyLidb-crcs9WzkPsdNQS3SQ7-T7MbRIwFgxkkwfvbnhuw1Y",
+      "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-family/",
+      "https://www.techpowerup.com/gpu-specs/rtx-pro-6000-blackwell.c4272",
+      "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-6000-blackwell-workstation-edition/workstation-blackwell-rtx-pro-6000-workstation-edition-nvidia-us-3519208-web.pdf",
+      "https://www.reddit.com/r/nvidia/comments/1r150yc/required_psu_wattage_specs_for_nvidia_rtx_pro/",
+      "https://www.amazon.com/NVD-RTX-PRO-6000-Blackwell/dp/B0F7Y644FQ",
+      "https://www.newegg.com/nvidia-900-5g153-2200-000-rtx-pro-6000-96gb-graphics-card/p/N82E16814132105?srsltid=AfmBOorW3rurmtRZYzuNZC-fu-KFwMekGuiW4Z2gQyeKSQQIzCTnUOYl",
+      "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000/",
+      "https://www.pny.com/nvidia-rtx-pro-6000-blackwell-ws",
+      "https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-6000-max-q-nvidia-3519233.pdf"
+    ],
+    "fetched_at": "2026-07-22T11:32:38.075575+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "chipset",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "chipset",
+      "power_connectors",
+      "recommended_psu_w"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "e678bc2ad4a55d3a361196607274da9eb77e1078fd19849de6f9f6af54dae240"
+  },
+  {
+    "category": "gpu",
+    "brand": "Onix",
+    "model": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+    "mpn": "",
+    "release_date": "2025-01-16",
+    "market": "US",
+    "specs": {
+      "chipset": "Arc B580",
+      "vram_gb": "12",
+      "memory_type": "GDDR6",
+      "tdp_w": "203W",
+      "length_mm": "2.4E+2",
+      "power_connectors": "8-Pin",
+      "recommended_psu_w": "550W"
+    },
+    "price": {
+      "reference_usd": "324.99",
+      "reference_cny": "2199.19",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/onix-lumi-8346-00278-arc-b580-12gb-graphics-card-double-fans/p/N82E16814987002?item=N82E16814987002&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+intel-_-onix-_-14987002&source=region&negg_topt=0",
+          "price_usd": "309.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/onix-lumi-arc-b580-12gb-gddr6-pci-express-4-0-x8-atx-graphics-card-8346-00278/BL3WJ3J7JC/sku/11064730?ref=212&loc=marketplace",
+          "price_usd": "328.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - newegg",
+          "url": "https://www.ebay.com/itm/388927581342?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooi26HhkpEe-d31XTk6iWm_rFnjKrn-5mGcZ9dh_iTMJcVrjRK0QnM",
+          "price_usd": "324.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/onix-lumi-8346-00278-arc-b580-12gb-graphics-card-double-fans/p/N82E16814987002?item=N82E16814987002&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+intel-_-onix-_-14987002&source=region&negg_topt=0"
+    ],
+    "fetched_at": "2026-07-20T15:58:47.298232+00:00",
+    "content_hash": "9a643407f420fa700b9d85655a602ab2cd485e69f734230a2f159761660be40d",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "gpu",
+    "brand": "PNY",
+    "model": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "vram_gb": "24",
+      "memory_type": "GDDR",
+      "tdp_w": "140 watt TDP"
+    },
+    "price": {
+      "reference_usd": "2299.99",
+      "reference_cny": "15561.90",
+      "offers": [
+        {
+          "merchant": "Walmart - Newegg Inc.",
+          "url": "https://www.walmart.com/ip/PNY-NVIDIA-Quadro-RTX-PRO-4000-Graphic-Card-24-GB-GDDR7-Full-height-7680-x-4320-192-bit-Bus-Width-PCI-Express-5-0-x16-DisplayPort-4/16252353090?wmlspartner=wlpa&selectedSellerId=101353918",
+          "price_usd": "2295.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/pny-technologies-inc-blackwell-vcnrtxpro4000b-pb-rtx-pro-4000-24gb-graphics-card/p/N82E16814985047?item=N82E16814985047&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+workstation-_-pny+technologies%2C+inc.-_-14985047&source=region&negg_topt=0",
+          "price_usd": "2299.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "CDW",
+          "url": "https://www.cdw.com/product/pny-nvidia-rtx-u2122-quadro-pro-4000-graphic-card-24-gb-gddr7-full-height/8388913?cm_ven=acquirgy&cm_cat=google&cm_pla=NA-NA-PNY+Technologies_VA&cm_ite=8388913",
+          "price_usd": "2345.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.walmart.com/ip/PNY-NVIDIA-Quadro-RTX-PRO-4000-Graphic-Card-24-GB-GDDR7-Full-height-7680-x-4320-192-bit-Bus-Width-PCI-Express-5-0-x16-DisplayPort-4/16252353090?wmlspartner=wlpa&selectedSellerId=101353918",
+      "https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-nvidia-3662515.pdf",
+      "https://www.techpowerup.com/gpu-specs/rtx-pro-4000-blackwell.c4279",
+      "https://www.itcreations.com/nvidia-gpu/nvidia-rtx-pro-4000-blackwell-gpu?srsltid=AfmBOoop2WyCxML9K7q-0W5B2s1dFkH9x2mlcZbdlZpAHorBXHvdzgjB",
+      "https://images.nvidia.com/aem-dam/Solutions/design-visualization/quadro-product-literature/workstation-datasheet-blackwell-rtx-pro-4000-sff-nvidia-us-4016700.pdf",
+      "https://www.amazon.com/NVIDIA-4000-Blackwell-Graphics-Card/dp/B0GJNJYNKY",
+      "https://www.newegg.com/nvidia-blackwell-900-5g147-2270-000-rtx-pro-4000-24gb-graphics-card/p/N82E16814132109?srsltid=AfmBOorMMmkcfvbRs2Xl1_enk2PowcYxN2_m4fcAwHiFcF5lGI1mNock",
+      "https://www.pny.com/nvidia-rtx-pro-4000-blackwell",
+      "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-4000/workstation-datasheet-rtx-pro-4000-nvidia-us-web.pdf",
+      "https://www.itcreations.com/user-manuals/rtx-pro-4000-manuals/nvidia-rtx-pro-4000-blackwell-gpu-datasheet.pdf?srsltid=AfmBOopbp9xafEjhUByGZRxbgCyL7_HWf61cDwhHVTgoGXefGzBpsJfr"
+    ],
+    "fetched_at": "2026-07-22T11:32:26.088576+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "chipset",
+        "length_mm",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "chipset",
+      "length_mm",
+      "power_connectors",
+      "recommended_psu_w"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "29545bb8721d8317950d7938e27226ccfe551a858d13cbb0db74a6b32bf9bcb7"
+  },
+  {
+    "category": "gpu",
+    "brand": "PNY",
+    "model": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "vram_gb": "16",
+      "memory_type": "GDDR",
+      "tdp_w": "360 watt TDP",
+      "length_mm": "330.2"
+    },
+    "price": {
+      "reference_usd": "1256.99",
+      "reference_cny": "8504.88",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/pny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/JXF2C46ZZH/sku/6616903?utm_source=feed&extStoreId=1266",
+          "price_usd": "1256.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Supermicro eStore",
+          "url": "https://store.supermicro.com/us_en/supermicro-nvidia-rtx-5080-gddr7-pcie-5-0-graphics-card.html?srsltid=AfmBOorH6ufDZ2tpTyyR37QB3i_iHprscDGXt8v_qF6Nxnj2qdU7x3KsheY",
+          "price_usd": "1216.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - TELeasy Corp",
+          "url": "https://www.walmart.com/ip/PNY-GeForce-RTX-5080-16GB-Overclocked-Triple-Fan-GPU-DLSS4/15093668411?wmlspartner=wlpa&selectedSellerId=102525940&veh=seo_fpl&cn=google",
+          "price_usd": "1806.3",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/pny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/JXF2C46ZZH/sku/6616903?utm_source=feed&extStoreId=1266"
+    ],
+    "fetched_at": "2026-07-22T11:31:52.569986+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "chipset",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped",
+        "serpapi-enrichment:ReadTimeout"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "chipset",
+      "power_connectors",
+      "recommended_psu_w"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "7e6588472fcadb885748851f3c639b9378ee1608149d5997f6720e51309cff67"
+  },
+  {
+    "category": "gpu",
+    "brand": "PowerColor",
+    "model": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+    "mpn": "",
+    "release_date": "March",
+    "market": "US",
+    "specs": {
+      "chipset": "Radeon RX 9070 XT",
+      "vram_gb": "16",
+      "memory_type": "GDDR6",
+      "tdp_w": "304W (Total Board Power)",
+      "length_mm": "289",
+      "power_connectors": "8-pin PCIe",
+      "recommended_psu_w": "750W"
+    },
+    "price": {
+      "reference_usd": "877.0",
+      "reference_cny": "5933.84",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/powercolor-reaper-rx9070xt-16g-a-radeon-rx-9070-xt-16gb-graphics-card-triple-fans/p/N82E16814131871?item=N82E16814131871&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+amd%2Fati-_-powercolor-_-14131871&source=region&negg_topt=0",
+          "price_usd": "689.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - KelvyPro",
+          "url": "https://www.walmart.com/ip/PowerColor-Reaper-AMD-Radeon-RX-9070-XT-16GB-GDDR6-Triple-Fan-PCIe-5-0-Gaming-Graphics-Card/15657158588?wmlspartner=wlpa&selectedSellerId=101377407&selectedOfferId=39391912DE103E82A6B23244FAFD9E46&conditionGroupCode=1",
+          "price_usd": "877.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - memoryc_deals",
+          "url": "https://www.ebay.com/itm/336445454504?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorv1DT76hpUHZLsO_ddCxUPaN_3n6Jv-QUn86JAfXIggAKeFije_zs",
+          "price_usd": "914.89",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.powercolor.com/product-detail212.htm"
+    ],
+    "fetched_at": "2026-07-22T11:32:30.296814+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "b5e5b5cf80761248574f42e5a4b11dcc988bb94e7b963d1ed58b097038e396f9"
+  },
+  {
+    "category": "gpu",
+    "brand": "SAPPHIRE",
+    "model": "Sapphire PULSE Radeon RX 9060 XT Graphics Card",
+    "mpn": "",
+    "release_date": "2025-06-05",
+    "market": "US",
+    "specs": {
+      "chipset": "Radeon RX 9060 XT",
+      "vram_gb": "16",
+      "memory_type": "GDDR6",
+      "tdp_w": "170 W",
+      "length_mm": "240",
+      "power_connectors": "8-Pin PCIe",
+      "recommended_psu_w": "450W"
+    },
+    "price": {
+      "reference_usd": "507.99",
+      "reference_cny": "3437.10",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457?item=N82E16814202457&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+amd%2Fati-_-sapphire+tech-_-14202457&source=region&negg_topt=0",
+          "price_usd": "469.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/sapphire-pulse-radeon-rx-9060-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card-11350-03-20g/J39WZRL44Y/sku/11528070?ref=212&loc=marketplace",
+          "price_usd": "590.45",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Techinn.com",
+          "url": "https://www.tradeinn.com/techinn/en/sapphire-pulse-radeon-rx-9060-xt-gaming-oc-16gb-gddr6-graphic-card/142326198/p?utm_source=google_products&utm_medium=merchant&id_producte=148940527&country=us&srsltid=AfmBOopN9ZbTA4UQ7f8UJdQTj3Z32zwDZK_4Sgss3atPDXsRmWeFNXVBJhQ",
+          "price_usd": "507.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6"
+    ],
+    "fetched_at": "2026-07-22T11:32:40.964483+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "2f8de8f98792ef5c94dafb886ee1c568a8d2b5bd195cfe1d69e788abbbbde47c"
+  }
+]

@@ -1,0 +1,851 @@
+[
+  {
+    "category": "memory",
+    "brand": "CORSAIR",
+    "model": "Corsair Vengeance RGB 32GB DDR5-6000 Memory",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": "32",
+      "speed_mt_s": "6000"
+    },
+    "price": {
+      "reference_usd": "434.99",
+      "reference_cny": "2943.17",
+      "offers": [
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/688526/VENGEANCE_RGB_32GB_(2_x_16GB)_DDR5-6000_PC5-48000_CL36_Dual_Channel_Desktop_Memory_Kit_CMH32GX5M2M6000Z36_-_Black",
+          "price_usd": "439.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay",
+          "url": "https://www.ebay.com/itm/800076411097?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "price_usd": "429.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.microcenter.com/product/688526/VENGEANCE_RGB_32GB_(2_x_16GB)_DDR5-6000_PC5-48000_CL36_Dual_Channel_Desktop_Memory_Kit_CMH32GX5M2M6000Z36_-_Black",
+      "https://www.corsair.com/eu/en/p/memory/cmh32gx5m2b6000z30k/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmh32gx5m2b6000z30k?srsltid=AfmBOoodVGHEx3II6cmNp7clrDqFJJzL7JDtJdMdm7arYO02MwikjKft",
+      "https://www.overclockers.com/corsair-vengeance-32gb-ddr5-6000-cl36-memory-kit-review/",
+      "https://www.reddit.com/r/pcmasterrace/comments/1isuovj/what_speed_to_select_for_corsair_vengeance_ddr5/",
+      "https://www.corsair.com/ww/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40?srsltid=AfmBOorrg3vfl8yUnF1fhkRk1ObZSLX_O8c066OkuaW9ShYwHzWw8CJL",
+      "https://www.storagereview.com/review/corsair-vengeance-rgb-ddr5-6000-c36-review",
+      "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236991?srsltid=AfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8",
+      "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-Computer/dp/B0BZHTVHN5",
+      "https://www.tomshardware.com/reviews/corsair-vengeance-rgb-ddr5-6000-c30-review"
+    ],
+    "fetched_at": "2026-07-21T13:56:56.775891+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cas_latency",
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cas_latency",
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "3a893b8671c660b26c0df6f4762ff001081f9eccd8cf63f4211f37326ec09341",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "28"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "CORSAIR",
+    "model": "Corsair Vengeance RGB Pro 32GB DDR4 3200MHz CL16 Dual Channel Memory Kit",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "32",
+      "speed_mt_s": "3200",
+      "cas_latency": "CL16",
+      "voltage": "1.5V"
+    },
+    "price": {
+      "reference_usd": "299.99",
+      "reference_cny": "2029.75",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236570?item=N82E16820236570&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-corsair-_-20236570&source=region&negg_topt=0",
+          "price_usd": "299.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHHF83J/sku/12225060?ref=212&loc=marketplace",
+          "price_usd": "299.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1723667-REG/corsair_cmw32gx4m2e3200c16_vengeance_rgb_pro_32gb.html?kw=COW3242E3216&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoptPpgXSE26OpGhs2wH4vQYpX1OHDEDPSGsLShlaJjCIAt3y4nDGoo",
+          "price_usd": "279.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236570?item=N82E16820236570&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-corsair-_-20236570&source=region&negg_topt=0",
+      "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B081XWLQKS",
+      "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16?srsltid=AfmBOooKPDYt-ph4DWhbMCPijkn3SbXItXvs1q8qEX5K3X_VC0C0Qxav",
+      "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHHF83J",
+      "https://www.reddit.com/r/buildapcsales/comments/wmjd1r/ram_corsair_vengeance_rgb_pro_32gb_2x16gb/",
+      "https://www.ebay.com/shop/corsair-vengeance-rgb-pro-32gb?_nkw=corsair+vengeance+rgb+pro+32gb",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=8",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=48",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=120",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=146",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=175",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=187",
+      "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=209",
+      "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236570?srsltid=AfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=53",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=71",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=87",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=104",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=126",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=157",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=181",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=191",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=208",
+      "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=257",
+      "https://www.windowscentral.com/corsair-vengeance-rgb-pro-review"
+    ],
+    "fetched_at": "2026-07-21T13:56:41.359220+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "module_count"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "module_count"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "608e4c9900ce6181d6f70edbcc1ecab2c2b7f0c55ca871db0302727113244c1e",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "27"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "CORSAIR",
+    "model": "Corsair Vengeance RGB Pro SL 16GB DDR4 3600MHz CL18 Memory",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "16",
+      "speed_mt_s": "3200",
+      "cas_latency": "CL18"
+    },
+    "price": {
+      "reference_usd": "164.99",
+      "reference_cny": "1116.33",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-sl-16gb-2pk-x-8gb-3200mhz-ddr4-c16-dimm-desktop-memory-black/J39QHHVS3Y/sku/11248787?ref=212&loc=marketplace",
+          "price_usd": "164.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/corsair-vengeance-rgb-pro-sl-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236703?item=N82E16820236703&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-corsair-_-20236703&source=region&negg_topt=0",
+          "price_usd": "164.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - Newegg Inc.",
+          "url": "https://www.walmart.com/ip/CORSAIR-Vengeance-RGB-Pro-SL-16GB-2-x-8GB-288-Pin-PC-RAM-DDR4-3200-PC4-25600-Desktop-Memory-Model-CMH16GX4M2E3200C16/263446225?wmlspartner=wlpa&selectedSellerId=101353918&veh=seo_fpl&cn=google",
+          "price_usd": "164.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-sl-16gb-2pk-x-8gb-3200mhz-ddr4-c16-dimm-desktop-memory-black/J39QHHVS3Y/sku/11248787?ref=212&loc=marketplace",
+      "https://www.corsair.com/eu/en/p/memory/cmh16gx4m2d3600c18w/vengeance-rgb-pro-sl-16gb-2x8gb-ddr4-dram-3600mhz-c18-memory-kit-a-white-cmh16gx4m2d3600c18w?srsltid=AfmBOooGO1xMq853gKZ-k9WFMSfDF3CIzIJyHO186-Sct7-0WdHXe2uO",
+      "https://www.reddit.com/r/overclocking/comments/n9scpp/corsair_vengeance_rgb_pro_16gb_3600mhz_cl18_what/",
+      "https://www.amazon.com/Corsair-VENGEANCE-3600MHz-Compatible-Computer/dp/B08SQRF8MJ",
+      "https://forum.corsair.com/forums/topic/176006-vengeance-rgb-pro-sl-ddr4-3600mhz-errors-in-windows-and-games/",
+      "https://www.tweaktown.com/reviews/9734/corsair-vengeance-rgb-pro-sl-amd-ryzen-ddr4-3600-16gb-ram-kit/index.html",
+      "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-sl-32gb-2x16gb-ddr4-3600mhz-c18-udimm-desktop-memory-white/J39QHHVSLP",
+      "https://www.guru3d.com/review/corsair-vengeance-rgb-pro-sl-ddr4-3600-mhz-32-gb-4x8gb/",
+      "https://electronics.alibaba.com/question/corsair-vengeance-rgb-pro-ddr4-real-world-buying-guide",
+      "https://www.pcnation.com/corsair-cmh16gx4m2d3600c18w-05yv88?srsltid=AfmBOor34axSGgEYG6g8oigk6iaxfuPnVcCTvsssAFkGXHrKZzTyCX8U"
+    ],
+    "fetched_at": "2026-07-21T13:57:00.551095+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "41ab5cc0f4d2b91071b8849f9eb72d0f9098fc5c8b164c1888526283fd32f680",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "29"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "Crucial",
+    "model": "Crucial Pro 32GB DDR4 SDRAM Memory Module",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "32",
+      "speed_mt_s": "3200"
+    },
+    "price": {
+      "reference_usd": "229.99",
+      "reference_cny": "1556.13",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/crucial-pro-32gb-kit-2x16gb-ddr4-3200mhz-c22-udimm-desktop-memory-kit-black/JX8PSKC7S3/sku/12176970?ref=212&loc=marketplace",
+          "price_usd": "229.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/crucial-pro-32gb-ddr4-3200-cas-latency-cl22-desktop-memory-black/p/N82E16820156326?item=N82E16820156326&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-crucial-_-20156326&source=region&negg_topt=0",
+          "price_usd": "229.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - NAMA TECHNOLOGY LLC",
+          "url": "https://www.walmart.com/ip/Crucial-Pro-32GB-2-x-16GB-288-Pin-PC-RAM-DDR4-3200-PC4-25600-Desktop-Memory-Model-CP2K16G4DFRA32A/2968205032?wmlspartner=wlpa&selectedSellerId=101262758",
+          "price_usd": "336.27",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/crucial-pro-32gb-kit-2x16gb-ddr4-3200mhz-c22-udimm-desktop-memory-kit-black/JX8PSKC7S3/sku/12176970?ref=212&loc=marketplace",
+      "https://leverify.com/products/55121954",
+      "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a?srsltid=AfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T",
+      "https://www.youtube.com/watch?v=Wb8WhYBEQ2U",
+      "https://www.reddit.com/r/buildapcsales/comments/1d6cjp1/ram_crucial_pro_ram_32gb_kit_2x16gb_ddr4_3200mts/",
+      "https://www.amazon.com/Micron-32GB-SDRAM-Memory-Module/dp/B0CGQ3HDTX",
+      "https://www.newegg.com/p/3C6-00T1-001K7?srsltid=AfmBOorwA5Mg5k2kLjy6DLxYWqmX3mA4CJprbQz-yd7_5f6x8k_jc7Mc",
+      "https://www.crucial.in/memory/ddr4/cp2k16g4dfra32a",
+      "https://versus.com/en/crucial-pro-ddr4-3200-32gb-2x16gb-vs-silicon-power-ddr4-3200-32gb-2x16gb",
+      "https://www.centralcomputer.com/crucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html?srsltid=AfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb"
+    ],
+    "fetched_at": "2026-07-21T13:57:15.198816+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cas_latency",
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cas_latency",
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "aaff37d26b48c2e842389a785f6f929fb6cac1eade0bf88619db8221b02186ec",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "33"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "Dell",
+    "model": "Dell 64GB DDR4 SDRAM Memory Module",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "64",
+      "speed_mt_s": "3200",
+      "voltage": "1.2V"
+    },
+    "price": {
+      "reference_usd": "7294.67",
+      "reference_cny": "49356.26",
+      "offers": [
+        {
+          "merchant": "Provantage",
+          "url": "http://www.provantage.com/dell-snpp2myxc-64g~7DELLAY6.htm?source=googleps&srsltid=AfmBOorzNw28Qz-uH4baRAY4m13TqtCEiKboDqsG1Y0eC5Ur8gedJLwoyHc",
+          "price_usd": "7294.67",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Dell",
+          "url": "https://www.dell.com/en-us/shop/dell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu/apd/aa783423/memory?tfcid=91049735&dgc=opl&srsltid=AfmBOooDx4L82wc6zg543c-jY27cVXfDCiv1Mmk0qcYobPJAQM5pjx4eHQ0",
+          "price_usd": "17182.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - luck2118",
+          "url": "https://www.ebay.com/itm/357280139920?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOor_yrzcUOF7p1D_bf_5PH3cCBpUTLKlLhxuP_5y8SsmBTUZcek5njU",
+          "price_usd": "715.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.dell.com/en-us/shop/dell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu/apd/aa783423/memory",
+      "https://www.dell.com/en-us/shop/dell-memory-upgrade-8-gb-1rx8-ddr4-sodimm-3200-mt-s/apd/aa937595/memory",
+      "https://www.serversupply.com/MEMORY/PC4-25600/64GB/DELL/AA799110_347208.htm?srsltid=AfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7",
+      "https://www.ebay.com/b/Dell-LRDIMM-Computer-Memory-RAM/170083/bn_106860846",
+      "https://www.compudevices.com/750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers?srsltid=AfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9",
+      "https://www.dell.com/en-us/shopping/ddr4-memory-modules",
+      "https://www.amazon.com/Axiom-64GB-DDR4-2666-LRDIMM-Dell/dp/B074W5D1M1",
+      "https://hssl.us/dell--new-64gb-ddr4-sdram-memory-module-aa810828/",
+      "https://www.servershop24.de/en/dell-64gb-ddr4-ram-module/a-132373/?srsltid=AfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ"
+    ],
+    "fetched_at": "2026-07-21T13:57:17.597559+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cas_latency",
+        "module_count"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cas_latency",
+      "module_count"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "c9968c949c77627a2f2d252fdf347336633979a5d1a4f02c802e8b44e573eb50",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "34"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "KingSpec",
+    "model": "KingSpec DDR4 RAM 16GB 3200 MHz 288-Pin UDIMM Heatsink",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "16",
+      "speed_mt_s": "3200"
+    },
+    "price": {
+      "reference_usd": "99.99",
+      "reference_cny": "676.54",
+      "offers": [
+        {
+          "merchant": "Newegg.com - KingSpec Official Store",
+          "url": "https://www.newegg.com/kingspec-ddr4-pc-series-16gb-ddr4-3200-cas-latency-cl18-memory-red/p/0RN-00FW-00023?item=9SIB1V8J2U3948&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-kingspec-_-9SIB1V8J2U3948&source=region&negg_topt=0&srsltid=AfmBOorOf5aPpOaBv_FH9pGwbxicwfrTMSVCAFPqRUc4Kg_Q3hd9sCnWwGk",
+          "price_usd": "99.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/kingspec-ddr4-pc-series-16gb-ddr4-3200-cas-latency-cl18-memory-red/p/0RN-00FW-00023?item=9SIB1V8J2U3948&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-kingspec-_-9SIB1V8J2U3948&source=region&negg_topt=0&srsltid=AfmBOorOf5aPpOaBv_FH9pGwbxicwfrTMSVCAFPqRUc4Kg_Q3hd9sCnWwGk",
+      "https://www.amazon.com/KingSpec-3200MHz-288-PIN-Desktop-Memory/dp/B0D1XQJBQB",
+      "https://www.newegg.com/kingspec-ddr4-rgb-silver-16gb-ddr4-3200-cas-latency-cl18-memory/p/0RN-00FW-00039?srsltid=AfmBOoqWvhIBtB5oEHEodj8ldEXUXKfkvQtn1MHbNbMJPR0lB6jvp960",
+      "https://www.neweggbusiness.com/product/product.aspx?item=9b-0rn-00fw-00030&srsltid=AfmBOoresKvRTNeJ_Zn2WFgExqh_ALb5WTeup8X5tSFl2vc3z_xCxRM4",
+      "https://www.aliexpress.com/item/1005003804629096.html",
+      "https://www.kingspectech.com/products/ddr4-ram-memory-with-heatsink",
+      "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4-pc.html",
+      "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4--heatsink-black-pc.html",
+      "https://www.alibaba.com/product-detail/KingSpec-RGB-Light-ddr4-rgb-heatsink_1600502021909.html",
+      "https://www.ultratech.com.bd/kingspec-16gb-3200mhz-ddr4-with-heatsink-ram"
+    ],
+    "fetched_at": "2026-07-21T13:57:26.814098+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cas_latency",
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cas_latency",
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "428ca639f7691b38cb80319a53ad336cc556abbbe29bab6f10dcf0c9cba2eb79",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "35"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "NEMIX RAM",
+    "model": "Kit DDR4-3200 PC4-25600 ECC LRDIMM 8Rx4 Load Reduced Server Memory by NEMIX RAM",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "3000",
+      "speed_mt_s": "3200"
+    },
+    "price": {
+      "reference_usd": "23799.99",
+      "reference_cny": "161032.42",
+      "offers": [
+        {
+          "merchant": "nemixram.com",
+          "url": "https://nemixram.com/products/ddr4-3200mhz-pc4-25600-lrdimm-8rx4?variant=45411305357624&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqtsf4ewxYz9HYrHu0XtDiIDl5Pau4RvrLSWS30s5Z7HqadsiN8T1k",
+          "price_usd": "23799.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://nemixram.com/products/ddr4-3200mhz-pc4-25600-lrdimm-8rx4?variant=45411305357624&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqtsf4ewxYz9HYrHu0XtDiIDl5Pau4RvrLSWS30s5Z7HqadsiN8T1k",
+      "https://www.amazon.com/NEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge/dp/B0BWK8FQHD",
+      "https://www.newegg.com/nemix-ram-4tb-16-x-256gb/p/1X5-003Z-01RH1?srsltid=AfmBOorudWJU7p6rX0wDR11Tyxc160vChyAHhOje0PF7Ie-l0VLyuX9i",
+      "https://nemixram.com/collections/ddr4-3200-pc4-25600?srsltid=AfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=0",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=26",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=45",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=74",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=97",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=113",
+      "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=130",
+      "https://www.neweggbusiness.com/product/product.aspx?item=9b-2sj-000n-004b3&srsltid=AfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk",
+      "https://pangoly.com/en/price-history/d4e9b330-0cc5-4adf-c47c-08dd6ba34a3d",
+      "https://nemixram.com/pages/memory-by-specification?srsltid=AfmBOopM5PsMO-zsuZVuU2itxmFDSNkE5NwOp3_Ie-IzdIPtET7S5ohN",
+      "https://serverpartdeals.com/collections/ddr4-ram",
+      "https://nemixram.com/collections/lrdimm-ddr4-3200-pc4-25600?srsltid=AfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7"
+    ],
+    "fetched_at": "2026-07-21T13:57:12.564739+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cas_latency",
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cas_latency",
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "b01742651f03cff792ebf49f7ce297d905f88475e9078d55b846f0661fa92d1e",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "32"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "QNAP",
+    "model": "QNAP 16GB DDR4 3200 MHz UDIMM Memory Module",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "8",
+      "speed_mt_s": "3200"
+    },
+    "price": {
+      "reference_usd": "349.0",
+      "reference_cny": "2361.36",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1789186-REG/qnap_ram_16gdr4k1_ud_3200_16gb_ddr4_ram_3200.html?kw=QNR16DR4K132&ap=y&smp=Y&BI=E7249&srsltid=AfmBOor60j2WzVp-esHFRjaOky3MCTuyKBAk9brHz-VQ2Nk9FDels3LbZu4",
+          "price_usd": "349.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bhphotovideo.com/c/product/1789186-REG/qnap_ram_16gdr4k1_ud_3200_16gb_ddr4_ram_3200.html?kw=QNR16DR4K132&ap=y&smp=Y&BI=E7249&srsltid=AfmBOor60j2WzVp-esHFRjaOky3MCTuyKBAk9brHz-VQ2Nk9FDels3LbZu4",
+      "https://www.amazon.com/stores/page/E242AC9C-D261-4F94-B05B-BBAB8473A8EE",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=32",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=158",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=240",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=323",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=413",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=526",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=573",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=808",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=912",
+      "https://www.youtube.com/watch?v=TgL4DBzg6CI&t=1053",
+      "https://www.bhphotovideo.com/c/product/1789186-REG/qnap_ram_16gdr4k1_ud_3200_16gb_ddr4_ram_3200.html",
+      "https://www.adorama.com/qnap-16gb-ddr4-3200mhz-ecc-sodimm-memory-module/p/qnram16gdr4g?srsltid=AfmBOoru0LjsX_2umTCs55YEBVYPOf6dY7RCtuVmTqjC3nYM-R6wgUL8",
+      "https://www.reddit.com/r/qnap/comments/v0q6ph/qnap_ts464_ram_options/",
+      "https://www.cdw.com/product/qnap-k0-version-ddr4-module-16-gb-so-dimm-260-pin-3200-mhz-pc/9070202",
+      "https://www.qnap.com/en-us/support/con_show.php?op=showone&cid=9",
+      "https://www.qnap.com/en-us/product/ts-1685/specs/hardware",
+      "https://www.ebay.com/itm/196877710245"
+    ],
+    "fetched_at": "2026-07-21T13:57:32.300280+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cas_latency",
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cas_latency",
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "119eccfc05673f20bb312bb6860c2d68792e1d374a721ad696d3e0b0deb740fe",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "36"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "TEAMGROUP",
+    "model": "Team Group DELTA RGB 16GB DDR4 3200MHz CL16 Memory",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR4",
+      "total_capacity_gb": "16",
+      "speed_mt_s": "3200",
+      "cas_latency": "CL16"
+    },
+    "price": {
+      "reference_usd": "169.99",
+      "reference_cny": "1150.16",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/team-group-t-force-delta-rgb-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820331858?item=N82E16820331858&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-team+group-_-20331858&source=region&negg_topt=0",
+          "price_usd": "164.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/team-group-team-t-force-delta-rgb-16gb-2-x-8gb-288-pin-pc-ram-ddr4-3200-pc4-25600-desktop-memory-model-tf3d416g3200hc16fdc01-black/J37P83Q5YT/sku/12100324?ref=212&loc=marketplace",
+          "price_usd": "199.31",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - newegg",
+          "url": "https://www.ebay.com/itm/304570715544?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopLFhvagou__vCMr3N9T5rIMGc_BDj1OQ_SeTyn5gPsccw57uzTrVs",
+          "price_usd": "169.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/team-group-t-force-delta-rgb-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820331858?item=N82E16820331858&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-team+group-_-20331858&source=region&negg_topt=0",
+      "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-white/delta-rgb-ddr4-white-TF4D432G3200HC16C01/",
+      "https://www.amazon.com/TEAMGROUP-T-Force-3200MHz-PC4-25600-Desktop/dp/B07RWDKZ2D",
+      "https://www.youtube.com/watch?v=3k5SHRF2L7E",
+      "https://www.reddit.com/r/buildapcsales/comments/p348hy/ram_team_tforce_delta_rgb_32gb_2_x_16gb_3200mhz/",
+      "https://www.youtube.com/watch?v=BsCMZIE1gC8",
+      "https://www.youtube.com/watch?v=BsCMZIE1gC8&t=0",
+      "https://www.youtube.com/watch?v=BsCMZIE1gC8&t=57",
+      "https://www.youtube.com/watch?v=BsCMZIE1gC8&t=98",
+      "https://www.youtube.com/watch?v=BsCMZIE1gC8&t=127",
+      "https://www.youtube.com/watch?v=BsCMZIE1gC8&t=144",
+      "https://www.tiktok.com/@saladpictures_/video/7531550532767419679",
+      "https://images.teamgroupinc.com/products/memory/u-dimm/ddr4/delta-rgb/spec-sheet/delta-rgb-en.pdf",
+      "https://www.newegg.com/team-group-t-force-delta-rgb-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820331858?srsltid=AfmBOooZWZafH7JTHqkR0JRvBZ7rxWNyre-t6nxL8mcdgrMPtmL59law",
+      "https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr4-white/delta-rgb-ddr4-white-TF4D416G3200HC16CDC01/"
+    ],
+    "fetched_at": "2026-07-21T13:57:07.860357+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "module_count",
+        "voltage"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "module_count",
+      "voltage"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "866f5eef38a8ecf61c39c48336349d26b6feca8b1b2e29d909b65eac4c1e80d8",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "31"
+    }
+  },
+  {
+    "category": "memory",
+    "brand": "v-color",
+    "model": "V-color Manta XSky Ddr5 32gb 6000MHz SK Hynix IC RGB Gaming Desktop Memory Module Black tmxsa",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "memory_type": "DDR5",
+      "total_capacity_gb": "32",
+      "speed_mt_s": "6400",
+      "cas_latency": "CL32",
+      "voltage": "1.4V"
+    },
+    "price": {
+      "reference_usd": "449.99",
+      "reference_cny": "3044.66",
+      "offers": [
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-0RN-00MB-000U1&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-memory+%28desktop+memory%29-_-v-color-_-9B0RN00MB000U1&source=region&negg_topt=0&srsltid=AfmBOopdJTOg9pIwbcl0FRpisJplfbg4IZln64VteI7kWMvAY0w9Qi7WRLI",
+          "price_usd": "449.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-/p/0RN-00MB-000U1?item=0RN-00MB-000U1&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-memory+%28desktop+memory%29-_-v-color-_-0RN00MB000U1&source=region&negg_topt=0",
+          "price_usd": "449.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/v-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black/J3ZK8ZSSP6/sku/12068534?ref=212&loc=marketplace",
+          "price_usd": "449.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://v-color.net/products/amd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory",
+      "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000T5?srsltid=AfmBOoqpqIix5777XLO57SHNKw12Js7ziKG8-cTdCXo4gFvHbV0ckiW4",
+      "https://www.walmart.com/ip/V-COLOR-Manta-XSky-DDR5-32GB-2x16GB-6000MHz-CL30-1-25V-SK-Hynix-Original-IC-RGB-Gaming-Desktop-Upgrade-Memory-Module-for-AMD-EXPO-TMXSAL1660830KWK/17309559643",
+      "https://v-color.net/collections/ddr5-manta-xsky?srsltid=AfmBOorJc_qr3Jz0X08Sc4r5qZb-hUys7OCr1CUMIZ7LSstIXO2UdjaF",
+      "https://www.ebay.com/itm/298421323307?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "https://www.bestbuy.com/product/v-color-manta-xsky-ddr5-32gb-6000mhz-cl26-rgb-gaming-memory-for-amd-black/J3ZK8ZSSP6",
+      "https://v-color.net/products/amd-ddr5-32gb-dual-xsky-rgb-udimm-gamingmemory?srsltid=AfmBOoowY5dgJw1tRzAqcOxu1RzPKB-bI8gC2_SHGSOq-b3XdW_Max4y",
+      "https://www.amazon.com/V-Color-Manta-XSky-Filler-Solution/dp/B0G39PJBLQ"
+    ],
+    "fetched_at": "2026-07-21T13:57:04.259384+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "module_count"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "module_count"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "f6ca6c821b2301de6ac5c3e117daaed405da8265d9adabd57e88976ea80c10c7",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "30"
+    }
+  }
+]

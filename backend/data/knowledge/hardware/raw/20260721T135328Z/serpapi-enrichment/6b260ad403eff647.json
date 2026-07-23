@@ -1,0 +1,991 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b19ff7aa21e3a114d8b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P8lBnRqm3gPN_Y4OSJcXCw/6a5f7b19ff7aa21e3a114d8b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/P8lBnRqm3gPN_Y4OSJcXCw/6a5f7b19ff7aa21e3a114d8b.json_with_pixel_position",
+    "created_at": "2026-07-21 13:58:49 UTC",
+    "processed_at": "2026-07-21 13:58:49 UTC",
+    "google_url": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&oq=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/P8lBnRqm3gPN_Y4OSJcXCw/6a5f7b19ff7aa21e3a114d8b.html",
+    "total_time_taken": 2.71
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Samsung 9100 PRO PCIe 2 SSD storage endurance_tbw sequential_read_mb_s sequential_write_mb_s",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Samsung 9100 PRO PCIe 2 SSD storage endurance_tbw sequential_read_mb_s sequential_write_mb_s",
+    "total_results": 547,
+    "time_taken_displayed": 0.59,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "VAP2T0B/AM Samsung 2TB M.2 2280 9100 PRO PCIe 5.0 NVMe SSD",
+      "link": "https://serverorbit.com/samsung-mz-vap2t0b-am-9100-pro-2tb-m-2-2280-ssd/",
+      "displayed_link": "https://www.serverorbit.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjMnunh9uOVAxW1H60GHaELMu8YACICCAEQBhoCcHY&co=1&ase=2&gclid=EAIaIQobChMIzJ7p4fbjlQMVtR-tBh2hCzLvEAAYASAAEgKwbPD_BwE&cid=CAAS0wHkaDElPgYE7iSvQJo3BZprvp5PeaQOh8SSeF9ScfcWJt3Pl3Du9U91dNTYi_nb0LA3HP0eijYQNfSaDZMdGDTahgdx09XfgyQ4zShBXXyrrpCt4VDTwudleOVJBLCTM1anvLmI9WYlHeUv2tMsFEOlZ1nOI3Bl15gZKJVZLWOQfnX0GuAewWYX10bmE8zdPTI4K-92n5CBQXgeoa1-stcChcrD0XsLixgni1ilVnrvkfI4iEJpYrYuqg3TKjiEaP4QlsUx2H-Gzht2g1dJ7pT3n30Q&cce=2&category=acrcp_v1_32&sig=AOD64_2FF1F-atxPEU9Gy5Lp9e3TCZkn0w&q=&nis=4&adurl=https%3A%2F%2Fserverorbit.com%2Fsamsung-mz-vap2t0b-am-9100-pro-2tb-m-2-2280-ssd%2F%3Fgad_source%3D1%26gad_campaignid%3D21758706703%26gbraid%3D0AAAAA9bZTvoxbBHZDCX-DfVwcQ-4lcFev%26gclid%3DEAIaIQobChMIzJ7p4fbjlQMVtR-tBh2hCzLvEAAYASAAEgKwbPD_BwE",
+      "description": "Now Enjoy Free & Fast Shipping | Samsung MZ-VAP2T0B/AM 9100 Pro 2TB M.2 2280 Pcie 5.0 Nvme 2.0 Internal | Best Deal & Top Ratings | Get Your Quote",
+      "source": "ServerOrbit.com"
+    },
+    {
+      "position": 2,
+      "block_position": "bottom",
+      "title": "MZ-VAP2T0BW Samsung 9100 PRO 2TB M.2 PCIe 5.0 NVMe Internal",
+      "link": "https://serverorbit.com/samsung-mz-vap2t0bw-2tb-pcie-ssd/",
+      "displayed_link": "https://www.serverorbit.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjMnunh9uOVAxW1H60GHaELMu8YACICCAIQABoCcHY&co=1&ase=2&gclid=EAIaIQobChMIzJ7p4fbjlQMVtR-tBh2hCzLvEAMYASAAEgJZuPD_BwE&cid=CAAS0wHkaDElPgYE7iSvQJo3BZprvp5PeaQOh8SSeF9ScfcWJt3Pl3Du9U91dNTYi_nb0LA3HP0eijYQNfSaDZMdGDTahgdx09XfgyQ4zShBXXyrrpCt4VDTwudleOVJBLCTM1anvLmI9WYlHeUv2tMsFEOlZ1nOI3Bl15gZKJVZLWOQfnX0GuAewWYX10bmE8zdPTI4K-92n5CBQXgeoa1-stcChcrD0XsLixgni1ilVnrvkfI4iEJpYrYuqg3TKjiEaP4QlsUx2H-Gzht2g1dJ7pT3n30Q&cce=2&category=acrcp_v1_32&sig=AOD64_0hCTJGdPumdSXjYs3XQ8BQ5JpZdg&q=&nis=4&adurl=",
+      "description": "Now Enjoy Free & Fast Shipping | Samsung MZ-VAP2T0BW 9100 PRO 2TB M.2 2280 PCIe 5.0 NVMe Internal SSD. New | Best Deal & Top Ratings | Get Your Quote",
+      "extensions": [
+        "10K+ visits in past month"
+      ],
+      "source": "ServerOrbit.com",
+      "sitelinks": [
+        {
+          "title": "Lowest Price for SSD",
+          "link": "https://serverorbit.com/solid-state-drives-ssd/"
+        },
+        {
+          "title": "Upgrade your System CPU",
+          "link": "https://serverorbit.com/cpus-and-processors/"
+        },
+        {
+          "title": "Cheap New SSD Deals",
+          "link": "https://serverorbit.com/solid-state-drives-ssd/"
+        },
+        {
+          "title": "Server Memory",
+          "link": "https://serverorbit.com/pc-and-server-memory/"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Samsung 1TB 9100 PRO PCIe 5.0 M.2 Internal SSD",
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "old_price": "$340",
+      "extracted_old_price": 340,
+      "link": "https://www.bhphotovideo.com/c/product/1878198-REG/samsung_mz_vap1t0b_am_1tb_9100_pro_pcie.html?kw=SAMZVAP1T0B&ap=y&smp=Y&BI=E7249",
+      "source": "B&H Photo-Video-Audio",
+      "rating": 4.9,
+      "reviews": 1000,
+      "reviews_original": "1k+",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/ochJYlVTxfSfkE_BOY0ta5rOS7pqioz1p1B4REyAaY8.webp",
+      "extensions": [
+        "Sale"
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Samsung - 990 PRO 1TB Internal SSD PCle Gen 4x4 NVMe",
+      "price": "$239.99",
+      "extracted_price": 239.99,
+      "old_price": "$320",
+      "extracted_old_price": 320,
+      "link": "https://www.bestbuy.com/product/samsung-990-pro-1tb-internal-ssd-pcle-gen-4x4-nvme/J3ZYG28J3X/sku/6523591?utm_source=feed&extStoreId=428",
+      "source": "Best Buy",
+      "rating": 4.8,
+      "reviews": 9000,
+      "reviews_original": "9k+",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/ochJYlVTxfSfkE_BOY0ta_04uWIl7_O3mK9V_DYuHMI.webp",
+      "extensions": [
+        "Albany",
+        "Sale"
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "MZ-VAP2T0B/AM Samsung 2TB M.2 2280 9100 PRO PCIe 5.0 NVMe SSD",
+      "price": "$538.47",
+      "extracted_price": 538.47,
+      "old_price": "$579",
+      "extracted_old_price": 579,
+      "link": "https://serverorbit.com/samsung-mz-vap2t0b-am-9100-pro-2tb-m-2-2280-ssd/",
+      "source": "ServerOrbit.com",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/ochJYlVTxfSfkE_BOY0ta5qTcMNGrslsH_C8qB8-6IU.webp"
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "MZ-VAP2T0 - Samsung 9100 PRO 2TB PCI Express NVMe M.2 2280 SSD",
+      "price": "$535",
+      "extracted_price": 535,
+      "link": "https://harddiskdirect.com/mz-vap2t0-1713734.html",
+      "source": "Hard Disk Direct",
+      "shipping": "Free",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/ochJYlVTxfSfkE_BOY0ta59Y2N5vhaiZahyqLJO6NOk.webp"
+    },
+    {
+      "position": 5,
+      "block_position": "top",
+      "title": "Samsung MZ-VAP2T0 9100 PRO 2TB M.2 2280 PCIe 5.0 NVMe 2.0 SSD Brand New",
+      "price": "$570",
+      "extracted_price": 570,
+      "old_price": "$600",
+      "extracted_old_price": 600,
+      "link": "https://www.serversupply.com/SSD/PCI-E5.0/2TB/SAMSUNG/MZ-VAP2T0_409284.htm",
+      "source": "ServerSupply.com",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/ochJYlVTxfSfkE_BOY0tawtIPvJDskOiGSGZh_pZFwE.webp"
+    },
+    {
+      "position": 6,
+      "block_position": "top",
+      "title": "MZ-VAP1T0 Samsung 9100 PRO 1TB M.2 2280 PCIe 5.0 NVMe 2.0 SSD",
+      "price": "$366.42",
+      "extracted_price": 366.42,
+      "old_price": "$394",
+      "extracted_old_price": 394,
+      "link": "https://serverorbit.com/samsung-mz-vap1t0-9100-pro-1tb-m-2-2280-pcie-ssd/",
+      "source": "ServerOrbit.com",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/ochJYlVTxfSfkE_BOY0ta3ldzx6wqY4TfFXdJH8V2hE.webp"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Samsung's BIGGEST & FASTEST! 9100 Pro 8TB SSD Review",
+      "link": "https://www.youtube.com/watch?v=O8A6doaNOPw",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/WpXlVAPf1di3YeR1bywPLtF8SZyJOgCaJSIZ543qusc.jpeg",
+      "channel": "Robtech",
+      "duration": "6:39",
+      "platform": "YouTube",
+      "date": "Dec 19, 2025",
+      "snippet": "Samsung's 8TB 9100 Pro offers 4,800 TBW endurance, 8GB of SD RAM, and speeds up to 14.8 GB/s read."
+    },
+    {
+      "position": 2,
+      "title": "Samsung 9100 Pro M.2 SSD with Heatsink Review | Worth the ...",
+      "link": "https://www.youtube.com/watch?v=wUZKVh6As9Q",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/rFbA9QCclnNOXm8sayGv6HEKCddQ-26pGLNLw4UdCns.jpeg",
+      "channel": "Dustin Abbott",
+      "duration": "8:03",
+      "platform": "YouTube",
+      "date": "Jul 19, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTjEhID4narNSPPfTHt1AocTrFzMx9MjcZbFw",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro and Concept",
+          "link": "https://www.youtube.com/watch?v=wUZKVh6As9Q&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTElkEbSge8fScxiO1zAh5eZO6XC-z0KcN0gPvuDTDJOQ&s="
+        },
+        {
+          "time": "02:08",
+          "title": "Installation",
+          "link": "https://www.youtube.com/watch?v=wUZKVh6As9Q&t=128",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY7beOLfGBRj01YmRYU0UBdt__3KO3MsL8zxdCRI2dSA&s="
+        },
+        {
+          "time": "02:57",
+          "title": "Speed Benchmarks",
+          "link": "https://www.youtube.com/watch?v=wUZKVh6As9Q&t=177",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE8S7JbjqFh3uoKL-ivs58GzB5A12uzAM75ZA_8xT6aw&s="
+        },
+        {
+          "time": "04:31",
+          "title": "Conclusion and Pricing",
+          "link": "https://www.youtube.com/watch?v=wUZKVh6As9Q&t=271",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Ysk9AXY3crpdiZjthJW-EB57T1YWEJSQWZdLMlrOOg&s="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Samsung 9100 Pro 2 TB Performance Review - The Best Gen ...",
+      "link": "https://www.youtube.com/watch?v=glnMzvAuaqM",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/QyhG2L5BYjGtErZmYHU4HuDu1VlKAD57MfIgMhyT64U.jpeg",
+      "channel": "TechPowerUp",
+      "duration": "3:58",
+      "platform": "YouTube",
+      "date": "Mar 31, 2025",
+      "snippet": "The 9100 Pro is one of the best for copying games, taking 16.1 seconds for 75GB, and has great read/write performance in gaming.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSBYoZEbPTvfz0rAZomSgv42_YbY9Hoy0rMfQ"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcT-aMZb10USniEKokPmo3HCO6sbDyBFjXLVCVvx8WvdA3x7wbu7xe1azx7wai53jHE0iTZ1KkE_eW8e4kCFhn8nkFXAFTaCJ9n6EZE8RD1v7K_mzUm_HgOm",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Samsung 9100 PRO PCIe 2 SSD",
+      "rating": 4.9,
+      "reviews": 1600,
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "original_price": "$340",
+      "extracted_original_price": 340,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "26% OFF"
+      ],
+      "immersive_product_page_token": "KS_82XicdVPNjqNGGJTyDHkLK1I3zW9utjFgZgAb6MZuRbKAxm6GBtv8jH-Ud8g7eHYjbY67kXLNa0yeJuyccsm16qsqVUnfb4-i_MtG_T7thqudFwfFP66anSbUNf5yao9syPuSfdORBgCSga5CCSgAISB_ydM-FcdDyf6EUEaqoQBJgTqCki4jGX7lRcpE2RTBfl-05jH_focUSdFUbfQZ3TRp1ME_yjo9FB_8NwMBiJBiAKgpiqYhCahvLeve5dV8B7-bjvZIk2WgIAWNKb-uwsDc_Q_5-TwU7e39lyitu6E5TAwIwGQUTFbzZTGRJlFkTrr-2I7pk6JhQ5s2ebHrs8ukK0Zp05ep2LVjiV2d7br_gpe27IsP9PPh9NFLBrKqG7Iha0hVdQgVXXmrS_Z1LCurkoLGsgqAsqoYb6fX_sEPn4ZBFH8_DuIxdA8uHkXz-zE9ve7zf374cXG8mPPuMl_j04mYIYgEt8nGtRkwrHXFiJ-Ed0-6ngtHuJmgZ7pZoBBWkG04zmxFzWt3RfFpyeD0um58GUuWnVaUb6Bx81GFCosEERKbyCJbv-GI1msl2VAzwW7JFvy03YgXL_af_KrnuclvnjNzs6oP85hXGT6g1OKDV-k9JoSEDu-jShxTAC8UQ8IIPcUNueV3CiOLhxRfu2ShlGlsocChp7SZSV4tRBbz_RpObymaQn_BIma5Nzxq12J5oS9ev0Xuqycd75FJzr5kPBFTlKRaXrbYsHAlvG097mJawXM8m5Fm5tMqRHlD_YwYJd6QuZfIV4IsnAjuk3jGC-zPqcMDUhGFYm7jF6uLE9dJ8JiBOc8IVxNi8KixArwQSW5aFy-BCalp71vukTj-4jleQuy4kBL9jhcdCJw1YLEbEmncr2YoaUTrg-sTs3FkgfzObMpzRORQ8gW9kyCDs2FzZ50vLGKX7ix0_FuQ0Cg2-ZAn3PFsy0rqcEuEQTKHmViws2_3TwyR5tO1a_fvYGopfRRoK9x6r7Wre205jamBffceGeni-Sf58jPUdFmVJTQ-D5L_Bbi7SaE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KS_82XicdVPNjqNGGJTyDHkLK1I3zW9utjFgZgAb6MZuRbKAxm6GBtv8jH-Ud8g7eHYjbY67kXLNa0yeJuyccsm16qsqVUnfb4-i_MtG_T7thqudFwfFP66anSbUNf5yao9syPuSfdORBgCSga5CCSgAISB_ydM-FcdDyf6EUEaqoQBJgTqCki4jGX7lRcpE2RTBfl-05jH_focUSdFUbfQZ3TRp1ME_yjo9FB_8NwMBiJBiAKgpiqYhCahvLeve5dV8B7-bjvZIk2WgIAWNKb-uwsDc_Q_5-TwU7e39lyitu6E5TAwIwGQUTFbzZTGRJlFkTrr-2I7pk6JhQ5s2ebHrs8ukK0Zp05ep2LVjiV2d7br_gpe27IsP9PPh9NFLBrKqG7Iha0hVdQgVXXmrS_Z1LCurkoLGsgqAsqoYb6fX_sEPn4ZBFH8_DuIxdA8uHkXz-zE9ve7zf374cXG8mPPuMl_j04mYIYgEt8nGtRkwrHXFiJ-Ed0-6ngtHuJmgZ7pZoBBWkG04zmxFzWt3RfFpyeD0um58GUuWnVaUb6Bx81GFCosEERKbyCJbv-GI1msl2VAzwW7JFvy03YgXL_af_KrnuclvnjNzs6oP85hXGT6g1OKDV-k9JoSEDu-jShxTAC8UQ8IIPcUNueV3CiOLhxRfu2ShlGlsocChp7SZSV4tRBbz_RpObymaQn_BIma5Nzxq12J5oS9ev0Xuqycd75FJzr5kPBFTlKRaXrbYsHAlvG097mJawXM8m5Fm5tMqRHlD_YwYJd6QuZfIV4IsnAjuk3jGC-zPqcMDUhGFYm7jF6uLE9dJ8JiBOc8IVxNi8KixArwQSW5aFy-BCalp71vukTj-4jleQuy4kBL9jhcdCJw1YLEbEmncr2YoaUTrg-sTs3FkgfzObMpzRORQ8gW9kyCDs2FzZ50vLGKX7ix0_FuQ0Cg2-ZAn3PFsy0rqcEuEQTKHmViws2_3TwyR5tO1a_fvYGopfRRoK9x6r7Wre205jamBffceGeni-Sf58jPUdFmVJTQ-D5L_Bbi7SaE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRLsNPGX8yEWMNyeDOxotltXvsgG5si_e26YWZUJlRFCzW7KdDXXGJNCH3j2eOJ2ideWW889ozzAatitlsnhCMdbbpDkF_zY-tqj6b7qbteFr-Cd9kaaiV76g",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - 3C Expert",
+      "title": "Samsung 9100 PRO 2TB PCIe 5.0 NVMe M.2 SSD",
+      "rating": 4.9,
+      "reviews": 511,
+      "price": "$294.95",
+      "extracted_price": 294.95,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "2Y72SXicdVBLjqNGGJZyhtzCG6qgeGQ3Ng-btAu7oAobRbKgwOA2r4aijVHukDu4ZyJNlpNI2eYandOEjLLIIln8m-_T9_p_emSX3x1ZnON-GB2e5Qg3u_qkleqefm67Jh24uKS_AQ0YEoCSpquqrgGoqLr-mcciLpv8kv6qGYpuaDKAKtCRpEkK0r4UWZyWlzrzzuesMxv-twtUoYSQhjSgzI6qLMv6L5cqzrN_eEVXDdmYUQkBzdDhfG9d2r8ru9UJ6JICDFWZOQg1HSIFqD_uiGee_of89DJk3f39Bz-u-qHOFwaQpMUsWOxWm2wBF75vLnrRdHP8IqvToYtrnp1Eclv02SytxSUuT9284lQlp_7f4K27iOwr-ilvvxb_j_i36pJ-QZqqqBDNSyVZVg0VGG_tq3gU-cdhKLM_Hnn5GPpHUT6y-ucmbl_P_M9vvrWam7nqb6s9bVtmEikwrRFDY2J2Gz4F6eSZS0QY3viH4o7pfkwC9xkD9r1vll0Slq_J1d3iiYzBulxnh_ZOavcpZLiJIV5j6t78UFdCy9ilsIj8ECz5s0v5HQTxlaxYKO6EGSJiqRk6SMrY8U4mt8Z1M1LZtsgVV3R9RRFNy2NpCGIhxWdESa825msmiGPsyDUaeGhUoclvvlRWgTOu9uFRYBZZrCY4czhiFW6T2qUBdcXc_4mHgm0dF0fMOB8hHjDUJW6nwKcCBIx1vGr7vYQ9NuWKR-lta7kdpe0a20XgWwRFVXTLLECPPoBpvdxsA7L2LPS0vVIRrICawKjDkktDu73Gh-LVdwTdV-6Gm64_4653cFfHgIltUG6yCtHIsRBxxmdS2Yw9R8_-oblFUz4R2_W2U8GS0JUJnf9n22ZkAcSscZy5nlgEJ4etb0t8Sp2o4DJTCMRlNDEvAcvhMKU9Lm3mXNwlWeO7F0YUBzhKrLLzZXveWAjuiIAzC_GwZUEQOUlgk49j353fpQ82Er6HSPWBllmSSA5_safmHF3HF4dto3iVfwc0XVEVKMtQktFfjwlKuQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2Y72SXicdVBLjqNGGJZyhtzCG6qgeGQ3Ng-btAu7oAobRbKgwOA2r4aijVHukDu4ZyJNlpNI2eYandOEjLLIIln8m-_T9_p_emSX3x1ZnON-GB2e5Qg3u_qkleqefm67Jh24uKS_AQ0YEoCSpquqrgGoqLr-mcciLpv8kv6qGYpuaDKAKtCRpEkK0r4UWZyWlzrzzuesMxv-twtUoYSQhjSgzI6qLMv6L5cqzrN_eEVXDdmYUQkBzdDhfG9d2r8ru9UJ6JICDFWZOQg1HSIFqD_uiGee_of89DJk3f39Bz-u-qHOFwaQpMUsWOxWm2wBF75vLnrRdHP8IqvToYtrnp1Eclv02SytxSUuT9284lQlp_7f4K27iOwr-ilvvxb_j_i36pJ-QZqqqBDNSyVZVg0VGG_tq3gU-cdhKLM_Hnn5GPpHUT6y-ucmbl_P_M9vvrWam7nqb6s9bVtmEikwrRFDY2J2Gz4F6eSZS0QY3viH4o7pfkwC9xkD9r1vll0Slq_J1d3iiYzBulxnh_ZOavcpZLiJIV5j6t78UFdCy9ilsIj8ECz5s0v5HQTxlaxYKO6EGSJiqRk6SMrY8U4mt8Z1M1LZtsgVV3R9RRFNy2NpCGIhxWdESa825msmiGPsyDUaeGhUoclvvlRWgTOu9uFRYBZZrCY4czhiFW6T2qUBdcXc_4mHgm0dF0fMOB8hHjDUJW6nwKcCBIx1vGr7vYQ9NuWKR-lta7kdpe0a20XgWwRFVXTLLECPPoBpvdxsA7L2LPS0vVIRrICawKjDkktDu73Gh-LVdwTdV-6Gm64_4653cFfHgIltUG6yCtHIsRBxxmdS2Yw9R8_-oblFUz4R2_W2U8GS0JUJnf9n22ZkAcSscZy5nlgEJ4etb0t8Sp2o4DJTCMRlNDEvAcvhMKU9Lm3mXNwlWeO7F0YUBzhKrLLzZXveWAjuiIAzC_GwZUEQOUlgk49j353fpQ82Er6HSPWBllmSSA5_safmHF3HF4dto3iVfwc0XVEVKMtQktFfjwlKuQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR2sYnghxSbddkoqUUJjw5f-mOLEmYrLamDlwQ2Ak6mr1gCUrCTzHazqyA_Sxz8A2cVtbMwE_7t_jxRf2mbQABsYaHWM7HI6EAK0aPP6hUAdTeuevolnwjz",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRz1ZycqZ6ULh2JdvW-H_XGLt5kWPiM7puFy-MUcQsMW_a2ZKfp5Of02cXFw437gExHX-myr1_jXmxddrNGVuOcX-UJ",
+      "source": "mitxpc.com",
+      "title": "Samsung 9100 Pro 2TB PCI-E 5.0 x4 NVMe M.2 2280 SSD - MZ-VAP2T0B/AM",
+      "price": "$499.95",
+      "extracted_price": 499.95,
+      "original_price": "Was $700",
+      "extracted_original_price": 700,
+      "extensions": [
+        "28% OFF"
+      ],
+      "immersive_product_page_token": "uAAoZXicbY5LjptAAESV87ChafAnu8GAPcTGbqDBtCJZfNoG03wM7cFwiVxh5JmJNFkmi2xzjclp4iSbLLKpxSu9Un260uz7HPJ92J4v85geFKvalLsxGyH8WjdVco55lnyDEwXAkSSPxmNJAqIoT5XXOOQhqw5Z8vg1pWHCspKu93vaaFX8f-NLVoQH-rdWRookyXA6EWUAJAVOgPjUJO3jy-lMm_7toxMW7bk8CNObKmzstbCZ3VNBEhxHE1peNbchgZbJuQnLmO541Aktvaklz0K2a253dkW0a_-FXZNx-oe-HOrbhcen4nfUD_yaHp7PZ0Z_XA_sem6vKbvS8nMV1g_7-Oe7o151s1nbqQjXtafZoquTFA2mZhlBH81Fcel5KdVtPSxM7pbpEImGaeWoW7sxILmBLd2CESDYGcxV6CZy5Ncc5TUMNVZ5x6AjgIVRMTU9ZqjO3F7GhlfjQb0E8K4nTM2T_FLgPNXwVlUczdxGPeAEqvkaX4gr5XLi82OoI5j4lkNA6q18S0SuHUSYyR5e9SS_LFZ6AP0ZaJd-MnegYVBWmx4kxF4E3GV672-TGmu2GYG4cxYYxqKNCCTMYRZDg61ZmjpCIj9awOLJ0YJ-YS31NFmsoF0EWwtQPTkSPwZuMUURm8BII7ZnVxnC9hAfWeEt7KUzGEYkYUB9IqEMBMi3T-78fghh1a_1tMTo-dI2-zfxzlC4s5ZTY9OpHy4Ps_6E5rtTFZmKh1Xf4Hn3Hown8kiWIJREOPoFxyP4xw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uAAoZXicbY5LjptAAESV87ChafAnu8GAPcTGbqDBtCJZfNoG03wM7cFwiVxh5JmJNFkmi2xzjclp4iSbLLKpxSu9Un260uz7HPJ92J4v85geFKvalLsxGyH8WjdVco55lnyDEwXAkSSPxmNJAqIoT5XXOOQhqw5Z8vg1pWHCspKu93vaaFX8f-NLVoQH-rdWRookyXA6EWUAJAVOgPjUJO3jy-lMm_7toxMW7bk8CNObKmzstbCZ3VNBEhxHE1peNbchgZbJuQnLmO541Aktvaklz0K2a253dkW0a_-FXZNx-oe-HOrbhcen4nfUD_yaHp7PZ0Z_XA_sem6vKbvS8nMV1g_7-Oe7o151s1nbqQjXtafZoquTFA2mZhlBH81Fcel5KdVtPSxM7pbpEImGaeWoW7sxILmBLd2CESDYGcxV6CZy5Ncc5TUMNVZ5x6AjgIVRMTU9ZqjO3F7GhlfjQb0E8K4nTM2T_FLgPNXwVlUczdxGPeAEqvkaX4gr5XLi82OoI5j4lkNA6q18S0SuHUSYyR5e9SS_LFZ6AP0ZaJd-MnegYVBWmx4kxF4E3GV672-TGmu2GYG4cxYYxqKNCCTMYRZDg61ZmjpCIj9awOLJ0YJ-YS31NFmsoF0EWwtQPTkSPwZuMUURm8BII7ZnVxnC9hAfWeEt7KUzGEYkYUB9IqEMBMi3T-78fghh1a_1tMTo-dI2-zfxzlC4s5ZTY9OpHy4Ps_6E5rtTFZmKh1Xf4Hn3Hown8kiWIJREOPoFxyP4xw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQx2rAYze6pSqkSQWFgU9MLiUH-9e5c2eyjxQRqzrCJe0Rt6ESHDXLZfNFojzbBzP79n4upHcjzRdR1Us_1J-igvvQ0kXH4Hx_19dLQdrdWP5eyrplEd2Y8",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZ_kKgKTZbCk7rTRhe2e3DTL7Bnl8n0LCzv_Zg6_Lg8PKMYzk5AS77dvFYsDMKKapay2JtaXO18Dv-CYcXZw9PLTsF_Cn4j4k",
+      "source": "Quiet PC",
+      "title": "Samsung 9100 Pro 4TB M.2 PCIe 5.0 NVMe SSD",
+      "rating": 4.9,
+      "reviews": 511,
+      "price": "$790.84",
+      "extracted_price": 790.84,
+      "original_price": "Usually $849",
+      "extracted_original_price": 849,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "1yfd7nicdVPLjqNGFFW-x5uqonhl124baGYoGzAFRpGsogob7ALTPNrYmn_IL0TumUiTZSZStvmNzpdkGaZX2WR3dc49Ovdc6fx8z8s_baXfs24YbZ4fVHJe1ztdan70tWnPYuB9Kb4ZEOhINTSAkGka2vf5K2c9k-dDKf6ACgCqDk2sG4qmqFA3NPx7kTMhyzpf7fd5uzjz73sYmUBXFQ1hFZqGCqGKfysrdsjf-W-TEikKMDVTw0gHUDP111Z0b3j9uIMGwHDCDaAipBtIxVD7tA5Wi93_kF-eh7y9vv0Usqob6sPMhADMJsFs_fiUz9AsDBezrj-3k_ssr8XQsprnuz67zLp8ktZ9yeSunULsqmzX_Re8tGWfv6NfDs17Lh1MjophKFBVTIDx9J_XqhS_vDYv_b04fB4Gmf91P8j70N0Lec_rX8-sednzv3_4Z_nCHx9b_uhHTUMXAQhPYoyWKljZbpjalPqocDdJ46wSWXhHwjiAQQqlS2zakmN084_ukVDy7J_Mht_kkh3lKGjqCwR9ClyNguXVr4JLHLk2iS2fbfgtTiLVu0IvUVyaRSdlZQVqTpuAIqtmtHHipasRBCGTJmLI6300avwoGXPSdeoUa1EXWxaLvR9d-tTmmC-Cqx-nXlo1HwWaLrOaD0FMXj5GAGXLsfBiC4YVTTPUo1SZE7YhY7Dwbz58UIOFO9-iM2QObbKI9BSMdXQyL9vEHYOIwy0lJXdSe8qgrDaTihpQ1OQUSOsSW6lHEg-mER0yh4ONnDccPV3jqkBpBLVtTKJAShzbEebIgFkkgjyOcFC5ahb32zwihN-2V16ZT2EsZJBQP5RkyE_jJapGn8UHRJamSxUvtAC_CTstuEJxgIhMb3SVwfmQ3ERHpEXt0p0HDrmu4jT0T7LhjpzHC9kzJ_ggAB4FoAWxGjW9QhRbZv157Nr9G3iw1D5c4fS2hJpFnos-6TwHqVY6x8mpH5bnhx-nOuGpD4qCgGL8C-oDO74",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1yfd7nicdVPLjqNGFFW-x5uqonhl124baGYoGzAFRpGsogob7ALTPNrYmn_IL0TumUiTZSZStvmNzpdkGaZX2WR3dc49Ovdc6fx8z8s_baXfs24YbZ4fVHJe1ztdan70tWnPYuB9Kb4ZEOhINTSAkGka2vf5K2c9k-dDKf6ACgCqDk2sG4qmqFA3NPx7kTMhyzpf7fd5uzjz73sYmUBXFQ1hFZqGCqGKfysrdsjf-W-TEikKMDVTw0gHUDP111Z0b3j9uIMGwHDCDaAipBtIxVD7tA5Wi93_kF-eh7y9vv0Usqob6sPMhADMJsFs_fiUz9AsDBezrj-3k_ssr8XQsprnuz67zLp8ktZ9yeSunULsqmzX_Re8tGWfv6NfDs17Lh1MjophKFBVTIDx9J_XqhS_vDYv_b04fB4Gmf91P8j70N0Lec_rX8-sednzv3_4Z_nCHx9b_uhHTUMXAQhPYoyWKljZbpjalPqocDdJ46wSWXhHwjiAQQqlS2zakmN084_ukVDy7J_Mht_kkh3lKGjqCwR9ClyNguXVr4JLHLk2iS2fbfgtTiLVu0IvUVyaRSdlZQVqTpuAIqtmtHHipasRBCGTJmLI6300avwoGXPSdeoUa1EXWxaLvR9d-tTmmC-Cqx-nXlo1HwWaLrOaD0FMXj5GAGXLsfBiC4YVTTPUo1SZE7YhY7Dwbz58UIOFO9-iM2QObbKI9BSMdXQyL9vEHYOIwy0lJXdSe8qgrDaTihpQ1OQUSOsSW6lHEg-mER0yh4ONnDccPV3jqkBpBLVtTKJAShzbEebIgFkkgjyOcFC5ahb32zwihN-2V16ZT2EsZJBQP5RkyE_jJapGn8UHRJamSxUvtAC_CTstuEJxgIhMb3SVwfmQ3ERHpEXt0p0HDrmu4jT0T7LhjpzHC9kzJ_ggAB4FoAWxGjW9QhRbZv157Nr9G3iw1D5c4fS2hJpFnos-6TwHqVY6x8mpH5bnhx-nOuGpD4qCgGL8C-oDO74"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRYDLmgH6Zz_J0OBpwoDH_9S-tyDXExl87vRWJzJ0SgljnNf63RCLqyFB3q_COOYMc9PV5dNTnZV4unOBChr-l-eeZwvWlVarVRnBeOZnhGX6bQoyMnLrllGQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "Samsung Ssd 9100 Pro With Heatsink 1tb Mz-vap1t0cw/new",
+      "rating": 4.9,
+      "reviews": 1600,
+      "price": "$319.00",
+      "extracted_price": 319.0,
+      "immersive_product_page_token": "JFelIXicdY_NjqNGFIWV5_GGqgJssmsMZZsR2BRUYZciWUBhY1z8ND_dNso75BVGnplIk2USKdu8Rkd5mGFmlUVmc490jj7dc355ZJe_Vqg_xd1wW6XZWfPqXXWcS92nn5u2FkPaX8Qf-nwOdR0aioYmRQjpi89p3MeyPl_E-9_zLBbyUmXb0ylrrTr9f-K3Sxmfs2_xn2CKNQNACBZzTZsvNAMqH1rRvam75RGoSAVggdBcVSdeQwsV_bwjW-v4nfDT85C197efgrjshuo8M4CizCZgtltushmcBYE16_q6nd7PskoMbVyl2bFPXmddNqFVf4nlsZ1GHMvk2P3XfG0vffbN_XRupuLvP5RfT_PSP_Lzx2GQ2d-Ps3wM3SOXj6z6tY6bl1P6zw__2sNmuXzeLH3aNMwiSlByGEnSBsBxBGg4u2oDHfnei6jqURclI95RRnpmsSHExpJB_5btCWKr29YtREiLXCeYbSja3BPbKQ5Kv_Ykaw-F6aeUvfDSwHQtSk7BlUXOq7BymxasOEAbkJDUBIs-WhOcSe7ylY2ivSiSVQ-SkZX06o6xnZ8oFH16rUdf4e-ySDsRRG4JaGoCHNNDOJj6Mo8ZwQF6RRCSKIp6j2P8TO9AzSz-Gq7yxrXZNdznMim9imFsC6XxQ0V4tGp0ss5ZRA-3Q-HeObzCyDauISJxGHUjrSYfmAXDVIsih3nUiHyF7ePQsRJJb7FFaIiowunNce0zSKonGJXsxKXkqS0rb3QiPxSFy0wQVxyn0pSiFH5YpQFW0lGseJ4iphLoST6ybQLMYT-KzpOYrS6OSdbefRvxUGC5TcoaBnJxJwwDV3GVUJosvQqfW-Zu2mB-vHXt6U15wlofbFU-2kDH3nPe7zt3DTXMTXV_7Qe7fvoRzBeqrkKEoIIWXwCiziuz",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=JFelIXicdY_NjqNGFIWV5_GGqgJssmsMZZsR2BRUYZciWUBhY1z8ND_dNso75BVGnplIk2USKdu8Rkd5mGFmlUVmc490jj7dc355ZJe_Vqg_xd1wW6XZWfPqXXWcS92nn5u2FkPaX8Qf-nwOdR0aioYmRQjpi89p3MeyPl_E-9_zLBbyUmXb0ylrrTr9f-K3Sxmfs2_xn2CKNQNACBZzTZsvNAMqH1rRvam75RGoSAVggdBcVSdeQwsV_bwjW-v4nfDT85C197efgrjshuo8M4CizCZgtltushmcBYE16_q6nd7PskoMbVyl2bFPXmddNqFVf4nlsZ1GHMvk2P3XfG0vffbN_XRupuLvP5RfT_PSP_Lzx2GQ2d-Ps3wM3SOXj6z6tY6bl1P6zw__2sNmuXzeLH3aNMwiSlByGEnSBsBxBGg4u2oDHfnei6jqURclI95RRnpmsSHExpJB_5btCWKr29YtREiLXCeYbSja3BPbKQ5Kv_Ykaw-F6aeUvfDSwHQtSk7BlUXOq7BymxasOEAbkJDUBIs-WhOcSe7ylY2ivSiSVQ-SkZX06o6xnZ8oFH16rUdf4e-ySDsRRG4JaGoCHNNDOJj6Mo8ZwQF6RRCSKIp6j2P8TO9AzSz-Gq7yxrXZNdznMim9imFsC6XxQ0V4tGp0ss5ZRA-3Q-HeObzCyDauISJxGHUjrSYfmAXDVIsih3nUiHyF7ePQsRJJb7FFaIiowunNce0zSKonGJXsxKXkqS0rb3QiPxSFy0wQVxyn0pSiFH5YpQFW0lGseJ4iphLoST6ybQLMYT-KzpOYrS6OSdbefRvxUGC5TcoaBnJxJwwDV3GVUJosvQqfW-Zu2mB-vHXt6U15wlofbFU-2kDH3nPe7zt3DTXMTXV_7Qe7fvoRzBeqrkKEoIIWXwCiziuz"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRtpEsHKXgTuLrfZ_238a-KCk6-0EDtdRN8kYWGQgaigr2Vebj1VTe2x81k2-eqs5YxoLML41rvSsfPV-SOBuS8XeVdNN-oNzcxjWTwDy0",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - 3C Expert",
+      "title": "SAMSUNG 9100 PRO M.2 2280 8TB PCI-Express 5.0 x4 Samsung V NAND TLC (V8) Internal Solid State Drive (SSD) MZ-VAP8T0BW",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$2,599.00",
+      "extracted_price": 2599.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "RRvqAHicdVBLzts2GETP441ISrLVXWw9bMWSfz1IyUQBgxZpSRYtKXr4hd6hVwicpEC6LAp022v8PUmWcYsssmg3s5j5BjPz_fIQ5Z8OGg6sH69OJnLNb17q3VTqAf7cdg0fs6Hkf4ApgmA6hTqEigKgATRN_ZyxgckmL_n73wvBuCxrsTkcRGc22f9YfitPLBffdKQCNINQNQyI1KmG1JnyoeP9K3xZ7HSoQRXNDGTohmJM9Zmm_fwSbszdf2uf3o2iu73-FLFTP9b5xACKMnneT14WKzGBkygyJ_3QdM_wiaj52LE6E7thf5n04mmth5LJXffcsDvtd_335KUrB_Ev-ylvn7Xffzj9A-15eBT5x3GU4q9HLh9j_yjkQ9S_Nqw9H7K_f_hinbPFossWAW5bYoZKhN0grujCs4pyY5PSS8A5c8g6I62_Nwu0r-wtx8XKq1vkK9cNU4xVaLoerggRSRFwUBx4BZywklfuSN2X_pqetjdsytBPbUoqQ0kqbZHEfrDGMoiWLsSW7Ljlroht37FiH30nbLbQYJt0Tn1bjtyubvECHDihFVXaM78TFGDqEVhd1wmAJKUkXPrnGBUWwS3iWMp9Le-edW1CWVz8Y-hQ1OosnR9x0qBs6bsMzNRQcRMvyVFYDXpk2har5Nq7c-Ati25PjD5QjFsG6MgUD1KLmqE0cAr8t8Kcz6k0enrkMF4GGsbBnZmFRuzgliJZR7E0vRN-9rjKKAmXxAL1tpYsIAGgyy3gceFuTHzBOEeC4AtD856nNs5s6ZEjP2-P2SW2rmkICyqWBfPMPLKV7M4dWmSIqCH0Jb2TzR7Mx_TOe1_axCnd-fMHt01C4wy7NKrDLYFtjdF8lZHw4lXtW3xq4JrwQDg8_Hjtu8Or8sbWhmij0rsFdNt_Vwxp7y2hZtO5mlbDaDVvfgTTmaqrECGooNlXCPs0tA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RRvqAHicdVBLzts2GETP441ISrLVXWw9bMWSfz1IyUQBgxZpSRYtKXr4hd6hVwicpEC6LAp022v8PUmWcYsssmg3s5j5BjPz_fIQ5Z8OGg6sH69OJnLNb17q3VTqAf7cdg0fs6Hkf4ApgmA6hTqEigKgATRN_ZyxgckmL_n73wvBuCxrsTkcRGc22f9YfitPLBffdKQCNINQNQyI1KmG1JnyoeP9K3xZ7HSoQRXNDGTohmJM9Zmm_fwSbszdf2uf3o2iu73-FLFTP9b5xACKMnneT14WKzGBkygyJ_3QdM_wiaj52LE6E7thf5n04mmth5LJXffcsDvtd_335KUrB_Ev-ylvn7Xffzj9A-15eBT5x3GU4q9HLh9j_yjkQ9S_Nqw9H7K_f_hinbPFossWAW5bYoZKhN0grujCs4pyY5PSS8A5c8g6I62_Nwu0r-wtx8XKq1vkK9cNU4xVaLoerggRSRFwUBx4BZywklfuSN2X_pqetjdsytBPbUoqQ0kqbZHEfrDGMoiWLsSW7Ljlroht37FiH30nbLbQYJt0Tn1bjtyubvECHDihFVXaM78TFGDqEVhd1wmAJKUkXPrnGBUWwS3iWMp9Le-edW1CWVz8Y-hQ1OosnR9x0qBs6bsMzNRQcRMvyVFYDXpk2har5Nq7c-Ati25PjD5QjFsG6MgUD1KLmqE0cAr8t8Kcz6k0enrkMF4GGsbBnZmFRuzgliJZR7E0vRN-9rjKKAmXxAL1tpYsIAGgyy3gceFuTHzBOEeC4AtD856nNs5s6ZEjP2-P2SW2rmkICyqWBfPMPLKV7M4dWmSIqCH0Jb2TzR7Mx_TOe1_axCnd-fMHt01C4wy7NKrDLYFtjdF8lZHw4lXtW3xq4JrwQDg8_Hjtu8Or8sbWhmij0rsFdNt_Vwxp7y2hZtO5mlbDaDVvfgTTmaqrECGooNlXCPs0tA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRyKjCOa4Q-plmRMosrRVRHLwGVA8CU1JDjsuYac-c6raZOf9mG_yjABEYjXM6dZyXwqszSv6we7iEjOyzLeO-lr-4WI2-W7jEWzukk2w1LUyK2jP8XtwhVZA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRz1ZycqZ6ULh2JdvW-H_XGLt5kWPiM7puFy-MUcQsMW_a2ZKfp5Of02cXFw437gExHX-myr1_jXmxddrNGVuOcX-UJ",
+      "source": "mitxpc.com",
+      "title": "Samsung 9100 Pro 8TB PCI-E 5.0 x4 NVMe M.2 2280 SSD - MZ-VAP8T0B/AM",
+      "price": "$1,999.95",
+      "extracted_price": 1999.95,
+      "original_price": "Was $2,500",
+      "extracted_original_price": 2500,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "bBbBZnicbY7NbptAAITV5-ECrHGgt9qAa1Jjs7ALRpWshV0DZvkJLMH2S_QVIieplB7bQ699jfRp6lY99NDLHGbmG82nCyu-L4DYk344LlKWaW6zqXc3fOqhl7Zr6JCKgn7TgWqoBtA0daJrNzIwdPCSEkF4kxX04WvOCOVFzdb7PevMJv0_8aWoSMb-xvpEmWgAaCrQrzVVn4LHjvYPz3cD606vH31S9UOdSYYiy9IGrqXNfMkkVfJ9U-pF012HJFbToSN1ynYiGaWeXdFaFITvuuudXZXs-n_NsSsE--M-Z-31wsNj9Vvae3HJs6dh4OzHJeOXob_k_MLqzw1p7_fpzzcHqxnn836ceahtsQllX3G9xJytvNLR_No5xpZbJBF2giqv1zbMqTkLA9SPbr08BcjOfQTFSvYA5FfmDOs4dD9s6zinVewk8kSwyljGcn_GNTx7KL8lASdENixqchzWbs0sHhEZopV8HEOTn1FpRBFYAaLS0FMyEWDqJ8rqiDHeppVjxYcYBcDukzB3Qj5bJgs4hZF9DlC-DxclwJVrsZKCRHFqCPKQ2PYWne0pjeIjlsUCKTmnUY5wZZiwam0s2yZVMzWO4JrimMcWvoWhKK2cvl8BWG0jV2EWPcRhqgSV4SVcB4kZQwybwkPwnB54hXBcIVkh6fv2lNj2frWwObWcU1i6I1XKcauKho5Px77bv8rvbE3460lub8bZ7fF-frrzFru7JnE0jGahLcrxrXKjT6YTFQBVBtNfDG_6fQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bBbBZnicbY7NbptAAITV5-ECrHGgt9qAa1Jjs7ALRpWshV0DZvkJLMH2S_QVIieplB7bQ699jfRp6lY99NDLHGbmG82nCyu-L4DYk344LlKWaW6zqXc3fOqhl7Zr6JCKgn7TgWqoBtA0daJrNzIwdPCSEkF4kxX04WvOCOVFzdb7PevMJv0_8aWoSMb-xvpEmWgAaCrQrzVVn4LHjvYPz3cD606vH31S9UOdSYYiy9IGrqXNfMkkVfJ9U-pF012HJFbToSN1ynYiGaWeXdFaFITvuuudXZXs-n_NsSsE--M-Z-31wsNj9Vvae3HJs6dh4OzHJeOXob_k_MLqzw1p7_fpzzcHqxnn836ceahtsQllX3G9xJytvNLR_No5xpZbJBF2giqv1zbMqTkLA9SPbr08BcjOfQTFSvYA5FfmDOs4dD9s6zinVewk8kSwyljGcn_GNTx7KL8lASdENixqchzWbs0sHhEZopV8HEOTn1FpRBFYAaLS0FMyEWDqJ8rqiDHeppVjxYcYBcDukzB3Qj5bJgs4hZF9DlC-DxclwJVrsZKCRHFqCPKQ2PYWne0pjeIjlsUCKTmnUY5wZZiwam0s2yZVMzWO4JrimMcWvoWhKK2cvl8BWG0jV2EWPcRhqgSV4SVcB4kZQwybwkPwnB54hXBcIVkh6fv2lNj2frWwObWcU1i6I1XKcauKho5Px77bv8rvbE3460lub8bZ7fF-frrzFru7JnE0jGahLcrxrXKjT6YTFQBVBtNfDG_6fQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSKqEkf8u4Ud-KvMMBPvgcbzQvauxk1Y6PfWOWe6jxxD3wdqn8v9kjZ44AAFEWDg4FFxZ01T0yp2iD7S90hr9H1NIQC9yimFGT6XBzUSzZl3vDfvH17BWrg6Q",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - 3C Expert",
+      "title": "Samsung SSD 9100 PRO with Heatsink 4TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,800/13,400 MB/s, Best for AI Computing, Gaming, and Heavy Duty",
+      "rating": 4.9,
+      "reviews": 1600,
+      "price": "$1,399.00",
+      "extracted_price": 1399.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "7Hy6EnicdVO9kts2GJw8jxqQIPWTLpKOlOkTKYIESGIyowEBSKQOBHn8kXQav0NewSPbmbFLu0ib17g8ScrQrlIkzVfszu5-W-xvd1n-4cL-wLrh6nJ5tP16p_czNQ3x56atxcD7UnyDc8uyIIAzaALTsuaLhf2Zs56p-liK918LyYQqtQwOB9mua_7fii9lxY7yB_11YSymi6kBgQFm9mxq2-aHVnSv1m61NyxoGcYcwpllARvaoxN8t0PBev8_5KfnQbYvr79GrOoGfZwsDAAmo2CyW72RE3MSRetJ19ftGD6RWgwt01zu-_wy6eQo1X3J1L4dK-yrfN_9G7y0ZS9_oJ-Ozfj2-w_V99Oc-3tx_DgMSv55P6r70N0LdZf695o15wP_66e_H858tWr5KsRNQ9YIxA9FidNiJSob52RuRKaTYYNk8WnZMBcBBtTZXxeMbQSNNuIx3zRlsGliujnaNKU7Aa6Xx9h_mwK_4bHYoorqLWkUitWB3rgdrYsnmpKYVb4lq_DGUtpEqilCTCE-hYC6BfVvFPJ0qYLkOnqr58wsUmJeXraEpMjxBx-jKSL0TZKoJgXXa3gjFTWcHVOoQ5pbKCExPy1j_j0j9U6h4dUy8c3HlJQZbiKpvHWoiwNLPcodYXJQuMLJII1RJXBjU7hEIeiM4EGgkcMR9nVc9WYOqZPpAnNCCcfkYWseLeYaDd04idCIEYf0QVpopug2fqrNmPiWj_tiq5c6076XpCjKT8UZVyTMdNj7ijBmXkuEiYrHro_EO4h0RE_ZDWF-w5haQaoS4s4jB_CbcGnBIbGQ6St6I0FuLIf0JjpfOcQtvSXa-C9BQuPc9DxJRC010rEpGAN9mJtNyUxSMU1WAizQx2vXHl7BL47dR4FVOLvL8u31vHp5Dt39c517NsHLxOmfLj8bs7k1tUw4zgNO_wHaLjhy",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7Hy6EnicdVO9kts2GJw8jxqQIPWTLpKOlOkTKYIESGIyowEBSKQOBHn8kXQav0NewSPbmbFLu0ib17g8ScrQrlIkzVfszu5-W-xvd1n-4cL-wLrh6nJ5tP16p_czNQ3x56atxcD7UnyDc8uyIIAzaALTsuaLhf2Zs56p-liK918LyYQqtQwOB9mua_7fii9lxY7yB_11YSymi6kBgQFm9mxq2-aHVnSv1m61NyxoGcYcwpllARvaoxN8t0PBev8_5KfnQbYvr79GrOoGfZwsDAAmo2CyW72RE3MSRetJ19ftGD6RWgwt01zu-_wy6eQo1X3J1L4dK-yrfN_9G7y0ZS9_oJ-Ozfj2-w_V99Oc-3tx_DgMSv55P6r70N0LdZf695o15wP_66e_H858tWr5KsRNQ9YIxA9FidNiJSob52RuRKaTYYNk8WnZMBcBBtTZXxeMbQSNNuIx3zRlsGliujnaNKU7Aa6Xx9h_mwK_4bHYoorqLWkUitWB3rgdrYsnmpKYVb4lq_DGUtpEqilCTCE-hYC6BfVvFPJ0qYLkOnqr58wsUmJeXraEpMjxBx-jKSL0TZKoJgXXa3gjFTWcHVOoQ5pbKCExPy1j_j0j9U6h4dUy8c3HlJQZbiKpvHWoiwNLPcodYXJQuMLJII1RJXBjU7hEIeiM4EGgkcMR9nVc9WYOqZPpAnNCCcfkYWseLeYaDd04idCIEYf0QVpopug2fqrNmPiWj_tiq5c6076XpCjKT8UZVyTMdNj7ijBmXkuEiYrHro_EO4h0RE_ZDWF-w5haQaoS4s4jB_CbcGnBIbGQ6St6I0FuLIf0JjpfOcQtvSXa-C9BQuPc9DxJRC010rEpGAN9mJtNyUxSMU1WAizQx2vXHl7BL47dR4FVOLvL8u31vHp5Dt39c517NsHLxOmfLj8bs7k1tUw4zgNO_wHaLjhy"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTvNSRSllLUEh4FA6GwZQ4Q79GU2HJnnXmhRHpXk2jWKSr4NZd1W5BKmKlbz2VHdfPNlBDbU7RHKrdYbQdSbbG8Suzswq7g4QHe9t5HHI10G4on1klMREmFBA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_CpMueVD1L_SbV70khyWo_9PactxYJjPnzOH3QTSDEzAxiENTR-zY4CUekGuxjdJx5GmAlSSofhBmtpR3QDMg-sv90cyI",
+      "source": "GCC Gamers",
+      "title": "Samsung 9100 PRO 4TB PCIe 5.0 M.2 NVMe SSD – MZ-VAP4T0BW",
+      "rating": 4.9,
+      "reviews": 1600,
+      "price": "$816.88",
+      "extracted_price": 816.88,
+      "immersive_product_page_token": "9TAganicdZJLjttGEIaR8wgBuvkQxeyG4mOGGZJSk92UGgGEJtlSc_gUHyMOkTvkCoZsB3CWdoBsc40xfBjLXnmRbGrx_fWhqoD648rzfxx5OLJ-nJyUn1S_2dQHrVxu8Ye2a7IxHfLsE1xpiqrpsqZpcLXUdACVDykbWNmc8uzNR8FZVuY1D45H3plN-t_GX3nFTvx7_DdUVypQNahBKIOVslSgqrztsv5V2awPEN4QWMlAl1Sog6WmLrXfNygwD_8Tvj-PvHt5_S1kVT_Wp4UOAVjchMVm_cAX0iIMzUU_NN1t_ILX2dixOuWHIbksen5T6yFn5aG7HXGokkP_I7x0-cC_0_en9rb4m7fVt9I-D1dxejeOJf_3eiqvY38V5ZXXfzasfT6mn3_6Yo0P6_X5Yb3FbUtMBEKI58jS14kjLtuI7D0rlTHQCQXIZJiKZJc5vHABi9UpBDYhjjC8amK7mTjU0gWN7tQtMcZthXwqDWdqG_ePsetEcQ_2RYvTiMp7TPMMow2CrbeXjYZJ05TVbpeYxgWXdyreuU8osi8M2ugxRnHkTC_-kxHc_F-zujR5KY4Z0FWPGCS8zxDFq9kjBchK4qI6lSlw1cByBwrbKC2EgoG7wSHcJ45thbhQ9rE_eUUzpYWtZNhSeQwbvmvrpGpbbPoiJVjdF6JNZH8dmPaAHCF4cZmxhGWGXTmI7QsudMmThl0KYOeXaKZPdsSqIQqdKUytCSdOMaezXWyB8D1LlyLHLb36YSKxG0a1i3ml55FFHGRNDSqokUArtEE6Zw4VqUwUJPklnUmQQGPczVnvlzZxctdA9_5LEFP0SMj51ttRO1ujmj75M4q3kQgiaJy3hZg9UNbvpr47voI7Wx3CQNvgznuu3JXX5XcR1bHvzqHOrMeflcsvUPv225IsS0BWvgJsrSud",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9TAganicdZJLjttGEIaR8wgBuvkQxeyG4mOGGZJSk92UGgGEJtlSc_gUHyMOkTvkCoZsB3CWdoBsc40xfBjLXnmRbGrx_fWhqoD648rzfxx5OLJ-nJyUn1S_2dQHrVxu8Ye2a7IxHfLsE1xpiqrpsqZpcLXUdACVDykbWNmc8uzNR8FZVuY1D45H3plN-t_GX3nFTvx7_DdUVypQNahBKIOVslSgqrztsv5V2awPEN4QWMlAl1Sog6WmLrXfNygwD_8Tvj-PvHt5_S1kVT_Wp4UOAVjchMVm_cAX0iIMzUU_NN1t_ILX2dixOuWHIbksen5T6yFn5aG7HXGokkP_I7x0-cC_0_en9rb4m7fVt9I-D1dxejeOJf_3eiqvY38V5ZXXfzasfT6mn3_6Yo0P6_X5Yb3FbUtMBEKI58jS14kjLtuI7D0rlTHQCQXIZJiKZJc5vHABi9UpBDYhjjC8amK7mTjU0gWN7tQtMcZthXwqDWdqG_ePsetEcQ_2RYvTiMp7TPMMow2CrbeXjYZJ05TVbpeYxgWXdyreuU8osi8M2ugxRnHkTC_-kxHc_F-zujR5KY4Z0FWPGCS8zxDFq9kjBchK4qI6lSlw1cByBwrbKC2EgoG7wSHcJ45thbhQ9rE_eUUzpYWtZNhSeQwbvmvrpGpbbPoiJVjdF6JNZH8dmPaAHCF4cZmxhGWGXTmI7QsudMmThl0KYOeXaKZPdsSqIQqdKUytCSdOMaezXWyB8D1LlyLHLb36YSKxG0a1i3ml55FFHGRNDSqokUArtEE6Zw4VqUwUJPklnUmQQGPczVnvlzZxctdA9_5LEFP0SMj51ttRO1ujmj75M4q3kQgiaJy3hZg9UNbvpr47voI7Wx3CQNvgznuu3JXX5XcR1bHvzqHOrMeflcsvUPv225IsS0BWvgJsrSud"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRTg1UXmfAWSrpkY1TI134nW-_DUVz987JocMbYMH2J6GbKlKp0zte01T48pVnl-_-Qa9KmA48dekdUlmJSFUfmXOoMzK6Gz4B01upieiYuD9nDqdeXRKDW",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "Samsung Ssd 9100 Pro 2tb, Pcie 5.0x4 M.2 2280, Seq. Read Speeds Up To",
+      "rating": 4.8,
+      "reviews": 1100,
+      "price": "$3,127.99",
+      "extracted_price": 3127.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "Nia1wHicdU_JrqNGFFW-x5uqYjDOrhmfiYwfBVUMimQVFAbbhcEMHlD-Ib_QcndH6iy7I2Wb33j5kixDepVFsrmLc-6Zfn4Wh98dadizfrw7eVEqXvN63i2F6pPPbdfwMR8O_KusAUVFAK40GalIlRRt9TlnAxNNeeDvv1QF4-JwLrb7fdGZTf7fil8PNSuLb_RvcClpSwlpqqagpapqqqSuPnS8f5NfjR2EQJOBJoEVUuAKqEtFXf70irfm7n_IT5ex6B5vPwas7sdzuVhBABazYPFqrIsFWgSBueiHppvjF8WZjx0758VuyG6Lvpil5-HAxK6bR-zqbNf_G7x1h6H4hn4q27n4-w_1P6e9Ds-q_DiOovjjWYrn2D8r8SzOvzSsve7zP7_7y7rmhtHlhk_alpoYBKBi3sQlGupe5FA9hq6eExoEgB8yyrcxsONgciGFpexDd50EEEdOP2Gn6gJJd30yjFG0fpAwuYVWf589qsgZALdPN26may-yUebYd58o19RxIQdKw4X-wJSPdKJGGKXXUOgOOVVpjKCbH3kdRBuFTjohotoHL81UWDxlNWyyoz2Rmty4pNuhAe4bSxsSuJp8QfsEVMfA0QAjJ5TZXMdQpwloWXakXQ5XJKI-SqRqH56o4I5nztvmbBzlJ56Ex80jol5XOD3amNU9hGI9f23TuNIzSyFFNLzgqUo3Yj1gUw_yyMVYtGmKEhRFwiBkA3LHvc3eP6RxeqEWrOnRDkhEbn5Y-bnlKxtrNVKUxjGkmAXwzGvbToRIWIhvMfJSQqtLYQB5A7CXUCuwQT5xJ61yicoYeSKd6DaD-hhPvPeETZ2Dq-MX77GNUszs1sosft2SVucmbhNCFA8MLLI1mTqYUdPFH-99t38D72xlCLYKrt8RUWQZcPKLPTX79HS_OHSTMqP8Hi41WZWRJCEgKX8Douk1Eg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Nia1wHicdU_JrqNGFFW-x5uqYjDOrhmfiYwfBVUMimQVFAbbhcEMHlD-Ib_QcndH6iy7I2Wb33j5kixDepVFsrmLc-6Zfn4Wh98dadizfrw7eVEqXvN63i2F6pPPbdfwMR8O_KusAUVFAK40GalIlRRt9TlnAxNNeeDvv1QF4-JwLrb7fdGZTf7fil8PNSuLb_RvcClpSwlpqqagpapqqqSuPnS8f5NfjR2EQJOBJoEVUuAKqEtFXf70irfm7n_IT5ex6B5vPwas7sdzuVhBABazYPFqrIsFWgSBueiHppvjF8WZjx0758VuyG6Lvpil5-HAxK6bR-zqbNf_G7x1h6H4hn4q27n4-w_1P6e9Ds-q_DiOovjjWYrn2D8r8SzOvzSsve7zP7_7y7rmhtHlhk_alpoYBKBi3sQlGupe5FA9hq6eExoEgB8yyrcxsONgciGFpexDd50EEEdOP2Gn6gJJd30yjFG0fpAwuYVWf589qsgZALdPN26may-yUebYd58o19RxIQdKw4X-wJSPdKJGGKXXUOgOOVVpjKCbH3kdRBuFTjohotoHL81UWDxlNWyyoz2Rmty4pNuhAe4bSxsSuJp8QfsEVMfA0QAjJ5TZXMdQpwloWXakXQ5XJKI-SqRqH56o4I5nztvmbBzlJ56Ex80jol5XOD3amNU9hGI9f23TuNIzSyFFNLzgqUo3Yj1gUw_yyMVYtGmKEhRFwiBkA3LHvc3eP6RxeqEWrOnRDkhEbn5Y-bnlKxtrNVKUxjGkmAXwzGvbToRIWIhvMfJSQqtLYQB5A7CXUCuwQT5xJ61yicoYeSKd6DaD-hhPvPeETZ2Dq-MX77GNUszs1sosft2SVucmbhNCFA8MLLI1mTqYUdPFH-99t38D72xlCLYKrt8RUWQZcPKLPTX79HS_OHSTMqP8Hi41WZWRJCEgKX8Douk1Eg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS22qk4FHFdysf3ldB3OlEhCMd4cVTZt-nlUD76RQxm8CyciMMJh2yFnoya20UT0kDc7CZzvf1afYEQ4sFShmQeOTCUgqtWYFASRCTQTiEWX_OHHLJsE0s4",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTij8B8ntuqHqQzEa-4rxM1VycyBoHJfrzZ4_Bb8MKDLRQg33KdOjdmwDqSzFloLpEMn3z4UIYjVtFdwEQbPkE3WlympdtY1LQ",
+      "source": "ServerOrbit.com",
+      "title": "MZ-VAP2T0B Samsung 2TB M.2 2280 9100 PRO PCIe 5.0 NVMe SSD",
+      "rating": 4.9,
+      "reviews": 1600,
+      "price": "$538.47",
+      "extracted_price": 538.47,
+      "original_price": "$579",
+      "extracted_original_price": 579,
+      "delivery": "Free delivery",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "Qg3reHicdY_NrptGHMXV5_FmhgF_dBeD4ZobwMAwYFTJGs9gwB4-zMcFo75DXyFykkrpso2UbV_jVn2YOFllk81_cY5-53_OH_ck_2Kg7kTbfjRYkip2tSsPCzF3g091U_GedTn_DBdIUVYKUtBqCRbSQloi5ROjHRVVmvN3f2cJ5SIvE-d0ShqtYj9B_soLmibf_X9ksERzAJG8nIMFAmAlrd43vH2Vd-oBykiGcInQQpbBt4iljH7feY52-In58donze31N58WbV-msxUEYPYAZjt1m8ykme9rs7armsf3WVLyvqElSw7dcZi1yQMtu5yKQ_MYcSiOh_ZHcWjyLvmufkzrR-9374tvp37p7ln6oe9F8u89Ffe-vWfinpR_VrR-ObH_fvl_029V9bpV3aCuieYBX2RnHAxySOyLTVJoARu6waq1wxoStFYDww68sAuxCIZwA2NHWz_TcKQ81J9Y6I5YykxW6tQm3g4b8cWd4jzGmcoCz8RwqbiS2XjnrLMLYsXB8uYYF8XS-bMLK4QFebuPshEjs6ZhO0TSqPtgvFqkGkiomzSKbUsSPovMvaddgIvMFyLqDm-8wsH2iQfCs4Rnkkkfk7BTSMgzXIiR6XEf47Qjka77RY1wEEyPHf7xQoStWwDr-44W3oWQOPCDAeJS30RTFuxv8NFhdTsC6OGndR5uRO6HcMuBebWEaI8al2wD3rDBNTZtpUgSV3pea7wwLboZS36OdzwkPZeCMRGVTKPN5KJs7kTp4Et675-3ICxtNwI1dEvm64BN3IgzhojsSbaIJ-Ic4bqPJt7aQidGbq69J_vmhPGje3YJtbVPcNZQYr5NhK7GZQqZxAYfi70VKOsPY9ucXsEbXel8R5H7aQyY65cFtmuouDV5Ug_b5-rl-OZXuFjKc1lCSAJo8RUNhC2i",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Qg3reHicdY_NrptGHMXV5_FmhgF_dBeD4ZobwMAwYFTJGs9gwB4-zMcFo75DXyFykkrpso2UbV_jVn2YOFllk81_cY5-53_OH_ck_2Kg7kTbfjRYkip2tSsPCzF3g091U_GedTn_DBdIUVYKUtBqCRbSQloi5ROjHRVVmvN3f2cJ5SIvE-d0ShqtYj9B_soLmibf_X9ksERzAJG8nIMFAmAlrd43vH2Vd-oBykiGcInQQpbBt4iljH7feY52-In58donze31N58WbV-msxUEYPYAZjt1m8ykme9rs7armsf3WVLyvqElSw7dcZi1yQMtu5yKQ_MYcSiOh_ZHcWjyLvmufkzrR-9374tvp37p7ln6oe9F8u89Ffe-vWfinpR_VrR-ObH_fvl_029V9bpV3aCuieYBX2RnHAxySOyLTVJoARu6waq1wxoStFYDww68sAuxCIZwA2NHWz_TcKQ81J9Y6I5YykxW6tQm3g4b8cWd4jzGmcoCz8RwqbiS2XjnrLMLYsXB8uYYF8XS-bMLK4QFebuPshEjs6ZhO0TSqPtgvFqkGkiomzSKbUsSPovMvaddgIvMFyLqDm-8wsH2iQfCs4Rnkkkfk7BTSMgzXIiR6XEf47Qjka77RY1wEEyPHf7xQoStWwDr-44W3oWQOPCDAeJS30RTFuxv8NFhdTsC6OGndR5uRO6HcMuBebWEaI8al2wD3rDBNTZtpUgSV3pea7wwLboZS36OdzwkPZeCMRGVTKPN5KJs7kTp4Et675-3ICxtNwI1dEvm64BN3IgzhojsSbaIJ-Ic4bqPJt7aQidGbq69J_vmhPGje3YJtbVPcNZQYr5NhK7GZQqZxAYfi70VKOsPY9ucXsEbXel8R5H7aQyY65cFtmuouDV5Ug_b5-rl-OZXuFjKc1lCSAJo8RUNhC2i"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRYrChH8pXTEJh1NNy6y1ygX0v6NEAcf7rcGaoYsKU3Q1gf3iGyOTHP4H7Wc89nUdbTRWeDMHWxri8c0j2nXDNuzob-Z1uqi53xo7pija9Lk3qh-LydEDtL",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRIacIyEkP2zRwDzjVC7Ckpv1t3N9Skw4ACTa1brhXWa7QYsiI7ifCjMkYXTkkLY4QQahl77LkpBf9X2ynmxgyoGTzrDLyDnuU",
+      "source": "TechCortex",
+      "title": "Samsung 9100 PRO 8 TB SSD - M.2 2280 Internal - PCI Express NVMe (PCI Express NVMe 5.0 x4)",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$3,030.62",
+      "extracted_price": 3030.62,
+      "immersive_product_page_token": "KCkGO3icdY_NjqNGFIWV5_GmKMBusmsMhZseCvNX4FIkC6owYIqfxmC30bxDXmHkmYk0s5xEyjav0XmSLOPMKotEVzqLc-6ne-7Pt7z63ZLHQ3qaXi2WFyrutu1-JZZe9KUfOj6xseK_SeA-GgQPEEhwJSsrRVO_sHRMRVdU_MO3Mk-5qNrcPRzywejY_yBfqyYt8u_5r0sANFkGAEBZ0RSwWkHwceCnN7hd75dQhYr8oMnaUgPaavmgqu-3vmvs_zv7_DLlw_XtpyBtTlNbLDQJgMV9f7FdP-ULuAgCY3Eau-F-e5G3fBrSluX7MbssTvkdbccqFfvh_sK-yfanf5uXoRrz7-7nor-3_vCx-Uf683gri0_TJPI_boW4TadbKW55-0uX9ucD-_OHv8wzW68HtvaivieGD4K2f2Yx0mktDqHwp5Cgpx20n3Ctbigs5SzBUxoWwEf4-i7m22hTdhT0KCXIISYe0s3jjMmT6kABI0DbtBZKJvsTRkglIQ12ST1zKB1DGR_Z7Cs46k3fQhYxxcUNqRO0lLJjAYik214rOsciW9_YXYihW7zRGqeSErzhyDlyyY2xCGN-yGYh4o3Y5UJ30lavOeAKNj2Jzh5MASY42Ukh4i6WuR9B7ZlI_YYccZSbtkUbfuWtb-3CR-g3nexEtAljMoaorEgtVbx-nRIoVVnj05CYIATsGhHdpkQA2vSSY_URidU1ETxisZakgI1ZVJ5dg0q-YWMvFme86efwKqm4KQ-e6I93DqW1NOVJORJI31HiAAcywEzqxoL2njCvTmIbvoEQj7UXf_YCBNjMLVoymSg-xILOxM0kfUpmfsICEauydX-Dr25MfUfSQIDwkorHS2CWCW5sypCt4hYNmVzLWTy2n15Pw-ENPCJ1DFylRNuL_vx6Xl9fPGv_0mW2SiI9RmN9-VFaPShLBcoyBPLyb6nUNJY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KCkGO3icdY_NjqNGFIWV5_GmKMBusmsMhZseCvNX4FIkC6owYIqfxmC30bxDXmHkmYk0s5xEyjav0XmSLOPMKotEVzqLc-6ne-7Pt7z63ZLHQ3qaXi2WFyrutu1-JZZe9KUfOj6xseK_SeA-GgQPEEhwJSsrRVO_sHRMRVdU_MO3Mk-5qNrcPRzywejY_yBfqyYt8u_5r0sANFkGAEBZ0RSwWkHwceCnN7hd75dQhYr8oMnaUgPaavmgqu-3vmvs_zv7_DLlw_XtpyBtTlNbLDQJgMV9f7FdP-ULuAgCY3Eau-F-e5G3fBrSluX7MbssTvkdbccqFfvh_sK-yfanf5uXoRrz7-7nor-3_vCx-Uf683gri0_TJPI_boW4TadbKW55-0uX9ucD-_OHv8wzW68HtvaivieGD4K2f2Yx0mktDqHwp5Cgpx20n3Ctbigs5SzBUxoWwEf4-i7m22hTdhT0KCXIISYe0s3jjMmT6kABI0DbtBZKJvsTRkglIQ12ST1zKB1DGR_Z7Cs46k3fQhYxxcUNqRO0lLJjAYik214rOsciW9_YXYihW7zRGqeSErzhyDlyyY2xCGN-yGYh4o3Y5UJ30lavOeAKNj2Jzh5MASY42Ukh4i6WuR9B7ZlI_YYccZSbtkUbfuWtb-3CR-g3nexEtAljMoaorEgtVbx-nRIoVVnj05CYIATsGhHdpkQA2vSSY_URidU1ETxisZakgI1ZVJ5dg0q-YWMvFme86efwKqm4KQ-e6I93DqW1NOVJORJI31HiAAcywEzqxoL2njCvTmIbvoEQj7UXf_YCBNjMLVoymSg-xILOxM0kfUpmfsICEauydX-Dr25MfUfSQIDwkorHS2CWCW5sypCt4hYNmVzLWTy2n15Pw-ENPCJ1DFylRNuL_vx6Xl9fPGv_0mW2SiI9RmN9-VFaPShLBcoyBPLyb6nUNJY"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcReC0StU9QRwJFs5hcxFgTIe200AbjRDkpHUHiCGNNJZsr-1iG6vyVddn71NSKRpZvbWhoaMtUbyCwdIC42yGBFVe6ACyUvVG2YbFNPpuT7TzfsDkQbR3iI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "Mz-vap1t0 Samsung 9100 Pro 1tb Pcie 5.0 X4 Nvme M.2 2280 Solid State",
+      "price": "$318.00",
+      "extracted_price": 318.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "2ndGxnicdU9LbptAGFbPw4ZhwMTdFTM4dgU2Y2YwqJKFmTFgnuZhbC7RK0ROUildtpW67TXS05Rm1U03_-L7v-fnG09-zmF7CJruMg95pFjlutip2cQmL1Vdsi5sE_YDyKqkiKI6hZOJCiRVUUT5JQzaICujhD18i3nAsqTgq8OB13oZ_kfyNcmDiL_9v6uTu6msQlUFyhSKIhhZjzVrHp5PHa-vr582Qd50RSRMgSgKa7wS1rMFFyRhs9GFpi3r0UjgBevqoAj5rt33QsNHadEmQbarxz67fL9r_gX7Omn5G_ocVWOFh8f876nO7S2Onrou479uUXbrmluc3XjxpQyq8yH8_e6Iyn42a3rNJlVFdSxupKwwCfVwYbUrlCoYLaEjRQOWlg4j1rCVfHelmxdceNAlqLchvrju1LUyX2EJ8AJSOaaYyt4WAWrgBTdKsB182dep40CGwkxrVvOlb6aXlIn4nh5xvxXB2pdizUlNcYUI3Eot9RzWe8PSYm5FXVQ1oY4dm5itpVsLL4_AftAOPtTONF_qvpGdPVdWQoBta2A91VnHdFshOrq6hIj-PV1gl1GHTg9j1tXVtdMGxamrx5QSpoWSUdlE7klakTEnteYlQDG7NyHOva0FOGJH3w2Bk0_tfXYH97qPKS4Tm-AhPGY5yY2a0A8XjBbDHimSA308bujMzJNDxM4-xRaxny5NfXgVPxhKu1nJsbHutY-X8-x6sue7U7lfKpRortGm_Xug3skTWYJQEuHkD2Hu-BM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2ndGxnicdU9LbptAGFbPw4ZhwMTdFTM4dgU2Y2YwqJKFmTFgnuZhbC7RK0ROUildtpW67TXS05Rm1U03_-L7v-fnG09-zmF7CJruMg95pFjlutip2cQmL1Vdsi5sE_YDyKqkiKI6hZOJCiRVUUT5JQzaICujhD18i3nAsqTgq8OB13oZ_kfyNcmDiL_9v6uTu6msQlUFyhSKIhhZjzVrHp5PHa-vr582Qd50RSRMgSgKa7wS1rMFFyRhs9GFpi3r0UjgBevqoAj5rt33QsNHadEmQbarxz67fL9r_gX7Omn5G_ocVWOFh8f876nO7S2Onrou479uUXbrmluc3XjxpQyq8yH8_e6Iyn42a3rNJlVFdSxupKwwCfVwYbUrlCoYLaEjRQOWlg4j1rCVfHelmxdceNAlqLchvrju1LUyX2EJ8AJSOaaYyt4WAWrgBTdKsB182dep40CGwkxrVvOlb6aXlIn4nh5xvxXB2pdizUlNcYUI3Eot9RzWe8PSYm5FXVQ1oY4dm5itpVsLL4_AftAOPtTONF_qvpGdPVdWQoBta2A91VnHdFshOrq6hIj-PV1gl1GHTg9j1tXVtdMGxamrx5QSpoWSUdlE7klakTEnteYlQDG7NyHOva0FOGJH3w2Bk0_tfXYH97qPKS4Tm-AhPGY5yY2a0A8XjBbDHimSA308bujMzJNDxM4-xRaxny5NfXgVPxhKu1nJsbHutY-X8-x6sue7U7lfKpRortGm_Xug3skTWYJQEuHkD2Hu-BM"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRICedWiIwUP4Yp5PFtLMDtSe_p2PJc4taK4gJ0kXihb_sBGUQz8000mMS9F462mWrz0Xfoqt2hUJ-bmiOjTXp_YSWFkXV27htvVRPtC9c",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRN6sX3rO7m0OQZeahXcjHEzxZOjjLLHHXT8ULFEx7xqo3acYRqW1Zhzd6Mby7_8sYKC2MoJ0lxq_v5l1c4Cjb2G0u",
+      "source": "Intrex Computers",
+      "title": "Samsung 9100 PRO 2TB Solid State Drive, PCI Express NVMe 5.0 x4, M.2 - SSD-2TB9100PRO",
+      "price": "$479.99",
+      "extracted_price": 479.99,
+      "immersive_product_page_token": "pYjiE3icdVLLbptAAFS_h8uyGAy9FWMcOzI2C8s6qJK1sMvDXh7hYWz_RH8hcpJK6a1VpV77G-nX1Mmpl17mMKN5HObLhee_ZkqX0LY_zmKeqk61Lrdjobn4pW4q1sddzn7KuqyNVairY2DoAI5lDYCXmHZUVGnOHn5knDKRl3yVJLyxqvg_lm95QVP-rn-HUBlBRdENqBgqgIbx2LD24fm-583p9bNHi7YvU8mQAZDWaCWtJ3MuQcnzLKntquYaI_GS9Q0tY77tokFq-dVadjkV2-a6ZltE2_Zfcmjyjr-zz2l9HfDwWLxBfeguWfrU94L_vqTi0reXTFx4-bWi9SGJ_3zYTathMmkH08V1HVgI-BYesGUewr1c0zPr0ZndEsF6b7-ofMgCQvQR3s9hIIIDss2Dj9MjhcgJfXQbbDBgQB8Cot55hTP3A3cUKUKOzqa23KH22rHEGzTgMlCX_kIJrE-du8kKchMeuEAJLZxwqYQm3yx2bGZPAlhj7mcY7bvB8TMllm3FlUXvykbjkWB97aU0yI5hMTotYZb4JD4xu77jpbnzb8LQscM82tlnX1kkfNpNeIksYjkzKrBKphWkoEsYnMqhn7W-UsMNWMwJRhmWs9U0YzdLBRV3G0fmU7YLSSz7heFGQlciK0QBqnIXo3O8EwUmgRaBOiHkaCEiz51NaIcgK7wcnMIiK7CoXTY8HdsmeQWfbLXzVqPMXg_m7fEwOd27s-19FS3UAJvE7vbDR3msj7S3-0CgaH8BgYb51g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pYjiE3icdVLLbptAAFS_h8uyGAy9FWMcOzI2C8s6qJK1sMvDXh7hYWz_RH8hcpJK6a1VpV77G-nX1Mmpl17mMKN5HObLhee_ZkqX0LY_zmKeqk61Lrdjobn4pW4q1sddzn7KuqyNVairY2DoAI5lDYCXmHZUVGnOHn5knDKRl3yVJLyxqvg_lm95QVP-rn-HUBlBRdENqBgqgIbx2LD24fm-583p9bNHi7YvU8mQAZDWaCWtJ3MuQcnzLKntquYaI_GS9Q0tY77tokFq-dVadjkV2-a6ZltE2_Zfcmjyjr-zz2l9HfDwWLxBfeguWfrU94L_vqTi0reXTFx4-bWi9SGJ_3zYTathMmkH08V1HVgI-BYesGUewr1c0zPr0ZndEsF6b7-ofMgCQvQR3s9hIIIDss2Dj9MjhcgJfXQbbDBgQB8Cot55hTP3A3cUKUKOzqa23KH22rHEGzTgMlCX_kIJrE-du8kKchMeuEAJLZxwqYQm3yx2bGZPAlhj7mcY7bvB8TMllm3FlUXvykbjkWB97aU0yI5hMTotYZb4JD4xu77jpbnzb8LQscM82tlnX1kkfNpNeIksYjkzKrBKphWkoEsYnMqhn7W-UsMNWMwJRhmWs9U0YzdLBRV3G0fmU7YLSSz7heFGQlciK0QBqnIXo3O8EwUmgRaBOiHkaCEiz51NaIcgK7wcnMIiK7CoXTY8HdsmeQWfbLXzVqPMXg_m7fEwOd27s-19FS3UAJvE7vbDR3msj7S3-0CgaH8BgYb51g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQE9DRzMoOeqtbAx8NrdPb_k_MPbeAXndcBWDAjV6aq6UhvjEFx-hlZEQKL75iDCPuQf4fhbA9qmWCc1wpYHLEYUAnzps_K1Gtl-2Rrn2TKukdtOO1yWdEU",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - slava-m",
+      "title": "Samsung Ssd 8tb 9100 Pro Pcie 5.0 Nvme M.2 Mz-vap8t0bw",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$2,660.90",
+      "extracted_price": 2660.9,
+      "immersive_product_page_token": "GzBFYHicdZPLrqNGEIaV5_GmufqQ3WDccDgHMA00BkWy2nTbcLq5HC6-oHmHvMLIMxNpZjmKlG1e4-RJsownyiKLRCrV4vvrV1VJVT_fWPWbrYwHMkwXu2BHzW83zW4p9DD50vUtnYqxor9Kug60e2jaUlIkGWgqWH4pyEhEe6zoh28lI1RUDQsOB9ZbbfE_lq9VTY7sH13TZF2VDVWWlKWsKg-6rn3s6fAmb1Y7Xda-I0MxdAMYS_1B095vUGDt_lv7_Dqx_vr2U0TqYWqOC0MCYHGvX2xWj2whL6LIWgxj29-bL1hDp540BduN-_NiYHdrM1ZE7Pr7Drt6vxv-Dc99NbK_6edjdx_7w8f6e-pO4608fpomwX6_HcVtGm6luLHml5Z0p0Pxxw9_rk_FatUXqzDpOmwhEKXdGFm-ljgoCwE4Z9I7OVPMntjCirbmkEgiCSCeAse09xx6VDI1CmiWvNApAViQ2ZxRLE6xQmOaog1JHsco1YDPEd8Dw_F5VxW2myDY5c9YSAQcr2SGIOf-Op5hu1XwZr_GNm5QhGvjiTaPFx8ip4DdFHKUxsKMECwnpJhVkuYXwluJSIYIhXginKYMZ2pYtwqqYeXXRkzA2CQO1xCn12BbZsjJ5nQLgxx4IBM-YRyZmYBTVnOQcW2kCq2I46LnGHFs5UF8v4wodVEuD-dYlKonPCkR5ZzIHY5e4OTJ_Jo7LaCOLzPYlcwppWLt6_4LraO18MhVqpI6f8U8H0mKtn46zOEWh8XaTQkfu9SBJ8-CTwS3gNThTAV8poJfE5yvYgmbTOApa4oIgmKmdl4WClaR7It8xsFeMqftTAdfQGxXrokc_xqkeYRnpBB-ibwZu5iPqTe7crR2n0MF54Hj94VlKp8uQ394A--gNkaBWsLN2Xy6nFbX19DevbZ7V8OJmcKRn3-Ulg_q_QEURQaK_hf5Ozd1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GzBFYHicdZPLrqNGEIaV5_GmufqQ3WDccDgHMA00BkWy2nTbcLq5HC6-oHmHvMLIMxNpZjmKlG1e4-RJsownyiKLRCrV4vvrV1VJVT_fWPWbrYwHMkwXu2BHzW83zW4p9DD50vUtnYqxor9Kug60e2jaUlIkGWgqWH4pyEhEe6zoh28lI1RUDQsOB9ZbbfE_lq9VTY7sH13TZF2VDVWWlKWsKg-6rn3s6fAmb1Y7Xda-I0MxdAMYS_1B095vUGDt_lv7_Dqx_vr2U0TqYWqOC0MCYHGvX2xWj2whL6LIWgxj29-bL1hDp540BduN-_NiYHdrM1ZE7Pr7Drt6vxv-Dc99NbK_6edjdx_7w8f6e-pO4608fpomwX6_HcVtGm6luLHml5Z0p0Pxxw9_rk_FatUXqzDpOmwhEKXdGFm-ljgoCwE4Z9I7OVPMntjCirbmkEgiCSCeAse09xx6VDI1CmiWvNApAViQ2ZxRLE6xQmOaog1JHsco1YDPEd8Dw_F5VxW2myDY5c9YSAQcr2SGIOf-Op5hu1XwZr_GNm5QhGvjiTaPFx8ip4DdFHKUxsKMECwnpJhVkuYXwluJSIYIhXginKYMZ2pYtwqqYeXXRkzA2CQO1xCn12BbZsjJ5nQLgxx4IBM-YRyZmYBTVnOQcW2kCq2I46LnGHFs5UF8v4wodVEuD-dYlKonPCkR5ZzIHY5e4OTJ_Jo7LaCOLzPYlcwppWLt6_4LraO18MhVqpI6f8U8H0mKtn46zOEWh8XaTQkfu9SBJ8-CTwS3gNThTAV8poJfE5yvYgmbTOApa4oIgmKmdl4WClaR7It8xsFeMqftTAdfQGxXrokc_xqkeYRnpBB-ibwZu5iPqTe7crR2n0MF54Hj94VlKp8uQ394A--gNkaBWsLN2Xy6nFbX19DevbZ7V8OJmcKRn3-Ulg_q_QEURQaK_hf5Ozd1"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcT5IgcaAY7UH1UDNcAj89DK98IeW7aCUbGBEMruTCJ_XpGiJmBcmXzHrQoykHDyvuUPStgNkXTSO2MFV94rEle2GTZB-8Kgk1TgYF4i5FsUiK29Ny2Ys_a0AQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "Samsung 9100 Pro 1tb Pcie Gen5 Nvme M.2 Ssd Heatsink Ps5 Mz-vap1t0cw",
+      "rating": 4.9,
+      "reviews": 1900,
+      "price": "$469.95",
+      "extracted_price": 469.95,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "u2Iy_HicdY_LjptIFIaV5_GGMheb2QVD0U03ZVNAAaVIFlBlg11czKXdtvIOeYWWc5GSZTTSbPMaHeVhhhnNYjbZnHN0_vPp_P-HGy__suVhl_bjs53zvYqaTb1dCM0Lv7Zdw8Z8KNmfYKEt5aW8UOZT0zV9IQP9a54OqWj2JXv5XvCUibLm692Od2aT_wb5Vlbpnv-nz2VNV2SwkCRJUSRd1xTtY8f6V2Wz2gJFUrSlrujKQta0JQDqUn2_wWtz-xvx82nk3eX1nZ9W_VjvZzqQpNkEzDarez6bz3zfnPVD003vZ7xmY5fWOd8O2XnW8wmthzIV225Ksa2ybf__5bkrB_7v9vO-nYy_fKz-Ke3TcCv2n8ZR8B-3vbiN_a0QN15_adL2aZf_fPPLGu9Xq9P9ygvblphY8itRRibDjxGNma1r7lGNvNo40AOOKCE9sr2BEsciNoOZaGEaCykIjAhB1GQ2uXOJ0aCoB9ld2_k1RmFFSk6K0COC5nVxxKEau0f04Etsl4fDY3b0ZARQGQrk0Dm7UEJT7wJMFOlKDHCX1EblClHmByoSsVTXQWHyGicsTIbHmFSpSd0gys9JjM78eFb8OSyTqk0YwQE5wM6dfOMDIVQ2LlywJJRpHdhDnYd6H9g65hb1GLk_5zE78Yq1GWy74MDa1JrylcB1I_wUyu0jqyBG0RB6AhaRBRxfsp5R6KyiEElujJz0aA1Mwg8B1AW-AEwrmPIK1tNssYh66bWALNKb_G6vJgeDIIuKzNZBFiOVHVtl4n0o5Vdm0yKXiYLnSNArWWfAGOMr65GAxC4dA9-hyzqiIYHigVTTfeVQL3AMWrcwqInr2-DqmvjKZIw_Pffd7lV6C9XBXysF3JyNh-en1eXk2dtTkzkqCY0IDsfzH2CxVDRlLstzSdb-BiY4L6s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=u2Iy_HicdY_LjptIFIaV5_GGMheb2QVD0U03ZVNAAaVIFlBlg11czKXdtvIOeYWWc5GSZTTSbPMaHeVhhhnNYjbZnHN0_vPp_P-HGy__suVhl_bjs53zvYqaTb1dCM0Lv7Zdw8Z8KNmfYKEt5aW8UOZT0zV9IQP9a54OqWj2JXv5XvCUibLm692Od2aT_wb5Vlbpnv-nz2VNV2SwkCRJUSRd1xTtY8f6V2Wz2gJFUrSlrujKQta0JQDqUn2_wWtz-xvx82nk3eX1nZ9W_VjvZzqQpNkEzDarez6bz3zfnPVD003vZ7xmY5fWOd8O2XnW8wmthzIV225Ksa2ybf__5bkrB_7v9vO-nYy_fKz-Ke3TcCv2n8ZR8B-3vbiN_a0QN15_adL2aZf_fPPLGu9Xq9P9ygvblphY8itRRibDjxGNma1r7lGNvNo40AOOKCE9sr2BEsciNoOZaGEaCykIjAhB1GQ2uXOJ0aCoB9ld2_k1RmFFSk6K0COC5nVxxKEau0f04Etsl4fDY3b0ZARQGQrk0Dm7UEJT7wJMFOlKDHCX1EblClHmByoSsVTXQWHyGicsTIbHmFSpSd0gys9JjM78eFb8OSyTqk0YwQE5wM6dfOMDIVQ2LlywJJRpHdhDnYd6H9g65hb1GLk_5zE78Yq1GWy74MDa1JrylcB1I_wUyu0jqyBG0RB6AhaRBRxfsp5R6KyiEElujJz0aA1Mwg8B1AW-AEwrmPIK1tNssYh66bWALNKb_G6vJgeDIIuKzNZBFiOVHVtl4n0o5Vdm0yKXiYLnSNArWWfAGOMr65GAxC4dA9-hyzqiIYHigVTTfeVQL3AMWrcwqInr2-DqmvjKZIw_Pffd7lV6C9XBXysF3JyNh-en1eXk2dtTkzkqCY0IDsfzH2CxVDRlLstzSdb-BiY4L6s"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the Samsung 9100 Pro a good SSD?",
+      "type": "ai_overview",
+      "page_token": "k3DIjnicHdBRboIwAADQ7DJ-CoXg1MQsYRSBhDoKLdKfBVoUoUCdKMLf7rJT7TRL9o7wvn_kpWt-Xx7VMKjbVtPGcVye-_4syyXvWy2_TR3XeC5lkfNmu3pdgbcT38G7b79ffTsiSlEH68keEEGDe0xkyCTqQ4Ksg8PcQxoMAvInMXFVmLKijYqQPljYo4TU4s4bhTMDTGVCCWsCIroKppKuaAMIoz7ICMaJDE2UIj33JOBdqEcdBFzKB5pZEu4ZSo7QyuYg4DqfEAmsnJIxosLIiavSzm1pTTvk4BgZwijd9RPragidKkZmYJeSXVktKHaYXyTNVLqqZXNgw0p4oYnb7IhACUXNUg6SdhMVcm0WDsMU95eI4JnXsiWp6zMIutKrpriGZpLKW9GC-mi4U-hurihVH2JcnPhjZy7-P3efp3bYqq_-_AcuYoOE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k3DIjnicHdBRboIwAADQ7DJ-CoXg1MQsYRSBhDoKLdKfBVoUoUCdKMLf7rJT7TRL9o7wvn_kpWt-Xx7VMKjbVtPGcVye-_4syyXvWy2_TR3XeC5lkfNmu3pdgbcT38G7b79ffTsiSlEH68keEEGDe0xkyCTqQ4Ksg8PcQxoMAvInMXFVmLKijYqQPljYo4TU4s4bhTMDTGVCCWsCIroKppKuaAMIoz7ICMaJDE2UIj33JOBdqEcdBFzKB5pZEu4ZSo7QyuYg4DqfEAmsnJIxosLIiavSzm1pTTvk4BgZwijd9RPragidKkZmYJeSXVktKHaYXyTNVLqqZXNgw0p4oYnb7IhACUXNUg6SdhMVcm0WDsMU95eI4JnXsiWp6zMIutKrpriGZpLKW9GC-mi4U-hurihVH2JcnPhjZy7-P3efp3bYqq_-_AcuYoOE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJJcyB0aGUgU2Ftc3VuZyA5MTAwIFBybyBhIGdvb2QgU1NEPyIsImxrIjoiR2g1cGN5QnpZVzF6ZFc1bklEa3hNREFnY0hKdklHRWdaMjl2WkNCemMyUSIsImJzIjoiYzNYT01RdUNRQmlBWVZwdmFyNGhQckRJZ3NCdWF6b0NvUnFFU0pxYVByMURqOVFUNzByNjl3bWhLZGItOHZDU0EzRk9CbXdxSWNUY1BJb0VkbHZQZzNPbEFTSFJXa0FZLXB3Qm5Ta0RwcC1VMzhRWVFRSXlQLW9hckFaVkdJdFoxb0VOMEtHY0xhaVREcnRXYlpST0pqZXktZmNWWVh5dnNSSUdZcDJYYUZXVVNjN1cxQjN0alV1Vktmc2lWLUw2V2c3NV9pV2stSlRnWF9ZQlp5dTZGRzM3Nl9UVGlncno2ZVFOIiwiaWQiOiJmY19HM3RmYXN1eEdjZWc1Tm9Qbl83bDZRVV85In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJJcyB0aGUgU2Ftc3VuZyA5MTAwIFBybyBhIGdvb2QgU1NEPyIsImxrIjoiR2g1cGN5QnpZVzF6ZFc1bklEa3hNREFnY0hKdklHRWdaMjl2WkNCemMyUSIsImJzIjoiYzNYT01RdUNRQmlBWVZwdmFyNGhQckRJZ3NCdWF6b0NvUnFFU0pxYVByMURqOVFUNzByNjl3bWhLZGItOHZDU0EzRk9CbXdxSWNUY1BJb0VkbHZQZzNPbEFTSFJXa0FZLXB3Qm5Ta0RwcC1VMzhRWVFRSXlQLW9hckFaVkdJdFoxb0VOMEtHY0xhaVREcnRXYlpST0pqZXktZmNWWVh5dnNSSUdZcDJYYUZXVVNjN1cxQjN0alV1Vktmc2lWLUw2V2c3NV9pV2stSlRnWF9ZQlp5dTZGRzM3Nl9UVGlncno2ZVFOIiwiaWQiOiJmY19HM3RmYXN1eEdjZWc1Tm9Qbl83bDZRVV85In0%3D"
+    },
+    {
+      "question": "How to install Samsung SSD 9100 Pro?",
+      "type": "ai_overview",
+      "page_token": "iHNkAXicHdDbTsIwGADg-DJeyk6ikBCTsQMstLjSdltvTGmBMf52UwcT7nwXn8qnMfF7hO_7B4729Ht3qfu--5yORsMwPBza9gC7B9Wakfy8WjVSEmAr1Wk6fhq7L3s1i8_LcP6-DHPWdTwiDo0DB9kkp0bMGbSOLOFY-aSobskapXW0Tie-vFWPG8MxtfWSRyEvYjKWlnvMc1-RUVfqfb1jJwtYEqZokSHldY-41K4sSIKTfFhH_LyJJx436It7sNo4XYaKvtNlEmmbuaoEp2qEwA5gcoNr0WhnZ8R1xYFyqBcYwpU0pCzK7kKjPGBp_yE9HmganlSTUUW12FjkV5DYuNYL5BNTldjdxboRhXKpmeRbePa3kSCctMeckZtqwDBfn7kVZ2GZW7pwIR6ei3RCSBwEbJEBMr3Uw_1eXWb-_f_n7G1v-mn30R7-AMzbghE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iHNkAXicHdDbTsIwGADg-DJeyk6ikBCTsQMstLjSdltvTGmBMf52UwcT7nwXn8qnMfF7hO_7B4729Ht3qfu--5yORsMwPBza9gC7B9Wakfy8WjVSEmAr1Wk6fhq7L3s1i8_LcP6-DHPWdTwiDo0DB9kkp0bMGbSOLOFY-aSobskapXW0Tie-vFWPG8MxtfWSRyEvYjKWlnvMc1-RUVfqfb1jJwtYEqZokSHldY-41K4sSIKTfFhH_LyJJx436It7sNo4XYaKvtNlEmmbuaoEp2qEwA5gcoNr0WhnZ8R1xYFyqBcYwpU0pCzK7kKjPGBp_yE9HmganlSTUUW12FjkV5DYuNYL5BNTldjdxboRhXKpmeRbePa3kSCctMeckZtqwDBfn7kVZ2GZW7pwIR6ei3RCSBwEbJEBMr3Uw_1eXWb-_f_n7G1v-mn30R7-AMzbghE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJIb3cgdG8gaW5zdGFsbCBTYW1zdW5nIFNTRCA5MTAwIFBybz8iLCJsayI6IkdpTm9iM2NnZEc4Z2FXNXpkR0ZzYkNCellXMXpkVzVuSUhOelpDQTVNVEF3SUhCeWJ3IiwiYnMiOiJjM1hPTVF1Q1FCaUFZVnB2YXI0aFByRElnc0J1YXpvQ29ScUVTSnFhUHIxRGo5UVQ3MHI2OXdtaEtkYi04dkNTQTNGT0Jtd3FJY1RjUElvRWRsdlBnM09sQVNIUldrQVktcHdCblNrRHBwLVUzOFFZUVFJeVAtb2FyQVpWR0l0WjFvRU4wS0djTGFpVERydFdiWlJPSmpleS1mY1ZZWHl2c1JJR1lwMlhhRldVU2M3VzFCM3RqVXVWS2ZzaVYtTDZXZzc1X2lXay1KVGdYX1lCWnl1NkZHMzc2X1RUaWdyejZlUU4iLCJpZCI6ImZjX0czdGZhc3V4R2NlZzVOb1BuXzdsNlFVXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJIb3cgdG8gaW5zdGFsbCBTYW1zdW5nIFNTRCA5MTAwIFBybz8iLCJsayI6IkdpTm9iM2NnZEc4Z2FXNXpkR0ZzYkNCellXMXpkVzVuSUhOelpDQTVNVEF3SUhCeWJ3IiwiYnMiOiJjM1hPTVF1Q1FCaUFZVnB2YXI0aFByRElnc0J1YXpvQ29ScUVTSnFhUHIxRGo5UVQ3MHI2OXdtaEtkYi04dkNTQTNGT0Jtd3FJY1RjUElvRWRsdlBnM09sQVNIUldrQVktcHdCblNrRHBwLVUzOFFZUVFJeVAtb2FyQVpWR0l0WjFvRU4wS0djTGFpVERydFdiWlJPSmpleS1mY1ZZWHl2c1JJR1lwMlhhRldVU2M3VzFCM3RqVXVWS2ZzaVYtTDZXZzc1X2lXay1KVGdYX1lCWnl1NkZHMzc2X1RUaWdyejZlUU4iLCJpZCI6ImZjX0czdGZhc3V4R2NlZzVOb1BuXzdsNlFVXzkifQ%3D%3D"
+    },
+    {
+      "question": "Is the Samsung 9100 Pro backwards compatible?",
+      "type": "ai_overview",
+      "page_token": "Ip0dD3icHdBfToMwHADgeBkfHVCdbsliUmnHFmGjtD9GXwy07A-UgoJj8827eCpPY-J3hO_7x5xs_XtzPg5D188nk3Ec7w5tezDlnWqbSd5frZqo3JgiV_V8-jh1n_dqQT5X-OV9hWPRdeAzJxEPr-zrcM-F472K6EV4l5oFbBc58M4I3W8EJQXXl7KWIAnkBWE7mep77q8D4fXXyEgA0T8AokgiyZI6HJXFrQDoFF0P0oNT6rPPtDI2EZckpLrP0qjLXEyKVJ6FN4s2pMtEA-toOWxlEA8519skPS4Tnwacw6ANbkJLl7qeIUjcXQZ4yhwZaJ84rMJyQ_Q2cgbKEbXkqIMQsSbbRW5JdCVT5fJmFhfmCRW-ZMDaUyzYl6pMIyrTlr7hwjIbW_DzJcVwcrcS4a7kq0soBJLj7V6dF-j2_3Pxtm-GeffRHv4AFnGB2g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ip0dD3icHdBfToMwHADgeBkfHVCdbsliUmnHFmGjtD9GXwy07A-UgoJj8827eCpPY-J3hO_7x5xs_XtzPg5D188nk3Ec7w5tezDlnWqbSd5frZqo3JgiV_V8-jh1n_dqQT5X-OV9hWPRdeAzJxEPr-zrcM-F472K6EV4l5oFbBc58M4I3W8EJQXXl7KWIAnkBWE7mep77q8D4fXXyEgA0T8AokgiyZI6HJXFrQDoFF0P0oNT6rPPtDI2EZckpLrP0qjLXEyKVJ6FN4s2pMtEA-toOWxlEA8519skPS4Tnwacw6ANbkJLl7qeIUjcXQZ4yhwZaJ84rMJyQ_Q2cgbKEbXkqIMQsSbbRW5JdCVT5fJmFhfmCRW-ZMDaUyzYl6pMIyrTlr7hwjIbW_DzJcVwcrcS4a7kq0soBJLj7V6dF-j2_3Pxtm-GeffRHv4AFnGB2g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJJcyB0aGUgU2Ftc3VuZyA5MTAwIFBybyBiYWNrd2FyZHMgY29tcGF0aWJsZT8iLCJsayI6IkdpaHpZVzF6ZFc1bklEa3hNREFnY0hKdklHSmhZMnQzWVhKa2N5QmpiMjF3WVhScFltbHNhWFI1IiwiYnMiOiJjM1hPTVF1Q1FCaUFZVnB2YXI0aFByRElnc0J1YXpvQ29ScUVTSnFhUHIxRGo5UVQ3MHI2OXdtaEtkYi04dkNTQTNGT0Jtd3FJY1RjUElvRWRsdlBnM09sQVNIUldrQVktcHdCblNrRHBwLVUzOFFZUVFJeVAtb2FyQVpWR0l0WjFvRU4wS0djTGFpVERydFdiWlJPSmpleS1mY1ZZWHl2c1JJR1lwMlhhRldVU2M3VzFCM3RqVXVWS2ZzaVYtTDZXZzc1X2lXay1KVGdYX1lCWnl1NkZHMzc2X1RUaWdyejZlUU4iLCJpZCI6ImZjX0czdGZhc3V4R2NlZzVOb1BuXzdsNlFVXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJJcyB0aGUgU2Ftc3VuZyA5MTAwIFBybyBiYWNrd2FyZHMgY29tcGF0aWJsZT8iLCJsayI6IkdpaHpZVzF6ZFc1bklEa3hNREFnY0hKdklHSmhZMnQzWVhKa2N5QmpiMjF3WVhScFltbHNhWFI1IiwiYnMiOiJjM1hPTVF1Q1FCaUFZVnB2YXI0aFByRElnc0J1YXpvQ29ScUVTSnFhUHIxRGo5UVQ3MHI2OXdtaEtkYi04dkNTQTNGT0Jtd3FJY1RjUElvRWRsdlBnM09sQVNIUldrQVktcHdCblNrRHBwLVUzOFFZUVFJeVAtb2FyQVpWR0l0WjFvRU4wS0djTGFpVERydFdiWlJPSmpleS1mY1ZZWHl2c1JJR1lwMlhhRldVU2M3VzFCM3RqVXVWS2ZzaVYtTDZXZzc1X2lXay1KVGdYX1lCWnl1NkZHMzc2X1RUaWdyejZlUU4iLCJpZCI6ImZjX0czdGZhc3V4R2NlZzVOb1BuXzdsNlFVXzkifQ%3D%3D"
+    },
+    {
+      "question": "Does the Samsung SSD 9100 Pro have DRAM?",
+      "type": "ai_overview",
+      "page_token": "JthMTnicHdBbUqswGADgcTM-2qRIlc50zkxtoNUGJZAfmhcnl1IK4aJFUN7ci6s6qzlnXMD38n3_2HNT_b0air7vLsvZbBzHm1PbnuzxRrf1TF6-Gj3T0loldbVc3C3wn1yvyMdu_fC2W0e862DDUBKA1L6-jbMiNRy5ChFXgZ-pci2TtF_E5PGLETEkqU_UGfUGOiprV3IrAKrLBD6jNPBe4hJu5TbMo_knUO7iY1P1hxQeZCkeOQciskKYgI3Z3PMz7L-xRLg0a3G42TnijAc1URwHCKnAbfdJAZGlTlqGgwGwvDGIT4zIoN_TxsRqI3JI8Yfyo0luwvjZXy-O1kQi9RgpzJY6rD5kIT4SU4pU46T2ImXvnf-OAWvPEWeTLm0NBJ6SOR54BdkBeUIm4cBRUcIU7um2IGFFXTNe53pYOde_n6vXvO6X3Xt7-gcpc4HS",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JthMTnicHdBbUqswGADgcTM-2qRIlc50zkxtoNUGJZAfmhcnl1IK4aJFUN7ci6s6qzlnXMD38n3_2HNT_b0air7vLsvZbBzHm1PbnuzxRrf1TF6-Gj3T0loldbVc3C3wn1yvyMdu_fC2W0e862DDUBKA1L6-jbMiNRy5ChFXgZ-pci2TtF_E5PGLETEkqU_UGfUGOiprV3IrAKrLBD6jNPBe4hJu5TbMo_knUO7iY1P1hxQeZCkeOQciskKYgI3Z3PMz7L-xRLg0a3G42TnijAc1URwHCKnAbfdJAZGlTlqGgwGwvDGIT4zIoN_TxsRqI3JI8Yfyo0luwvjZXy-O1kQi9RgpzJY6rD5kIT4SU4pU46T2ImXvnf-OAWvPEWeTLm0NBJ6SOR54BdkBeUIm4cBRUcIU7um2IGFFXTNe53pYOde_n6vXvO6X3Xt7-gcpc4HS",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJEb2VzIHRoZSBTYW1zdW5nIFNTRCA5MTAwIFBybyBoYXZlIERSQU0/IiwibGsiOiJHaWRrYjJWeklIUm9aU0J6WVcxemRXNW5JSE56WkNBNU1UQXdJSEJ5YnlCb1lYWmxJR1J5WVcwIiwiYnMiOiJjM1hPTVF1Q1FCaUFZVnB2YXI0aFByRElnc0J1YXpvQ29ScUVTSnFhUHIxRGo5UVQ3MHI2OXdtaEtkYi04dkNTQTNGT0Jtd3FJY1RjUElvRWRsdlBnM09sQVNIUldrQVktcHdCblNrRHBwLVUzOFFZUVFJeVAtb2FyQVpWR0l0WjFvRU4wS0djTGFpVERydFdiWlJPSmpleS1mY1ZZWHl2c1JJR1lwMlhhRldVU2M3VzFCM3RqVXVWS2ZzaVYtTDZXZzc1X2lXay1KVGdYX1lCWnl1NkZHMzc2X1RUaWdyejZlUU4iLCJpZCI6ImZjX0czdGZhc3V4R2NlZzVOb1BuXzdsNlFVXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJFdzBja1EwTm5KQlVGUkRVMVpOUkhKUWJrTXlkREZPWlVwTlJpMU9iVkZSWnpCM2RrRnZXRzh6VERkUWVVbEJOelZsUzJSMWRqaE5aV0pLZDNoc2FWOWphM3BTVUMxMlVVZDVjSFJZU0c1bFNVeFRlbWs0VGxGMVFSSVhSek4wWm1GemRYaEhZMlZuTlU1dlVHNWZOMncyVVZVYUlrRkVjM0k1WmxGWGIwUTJlbUppZVZNNWFtdFVWbTFHY21vdGNtWkhYMTh6T0hjIiwiZmN2IjoiMyIsImVpIjoiRzN0ZmFzdXhHY2VnNU5vUG5fN2w2UVUiLCJxYyI6ImMtT0tLVTdNTFM3TlMxZXdORFF3VUNnb3lsY29TTTVNVlRCU0tDNU9VU2d1eVM5S1RFOVZTTTFMS1MxS3pFdE9qUzlKS2xjb1RpMHNUYzByeVV6TWlTOUtUVXlKejAyS0wwWVdMQ19LTEVrRml3b3cxRjR1TXJFSEFBIiwicXVlc3Rpb24iOiJEb2VzIHRoZSBTYW1zdW5nIFNTRCA5MTAwIFBybyBoYXZlIERSQU0%2FIiwibGsiOiJHaWRrYjJWeklIUm9aU0J6WVcxemRXNW5JSE56WkNBNU1UQXdJSEJ5YnlCb1lYWmxJR1J5WVcwIiwiYnMiOiJjM1hPTVF1Q1FCaUFZVnB2YXI0aFByRElnc0J1YXpvQ29ScUVTSnFhUHIxRGo5UVQ3MHI2OXdtaEtkYi04dkNTQTNGT0Jtd3FJY1RjUElvRWRsdlBnM09sQVNIUldrQVktcHdCblNrRHBwLVUzOFFZUVFJeVAtb2FyQVpWR0l0WjFvRU4wS0djTGFpVERydFdiWlJPSmpleS1mY1ZZWHl2c1JJR1lwMlhhRldVU2M3VzFCM3RqVXVWS2ZzaVYtTDZXZzc1X2lXay1KVGdYX1lCWnl1NkZHMzc2X1RUaWdyejZlUU4iLCJpZCI6ImZjX0czdGZhc3V4R2NlZzVOb1BuXzdsNlFVXzkifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "MBk783icxZXdcqJKEIAf4DzHcmNWQDRKqqitAVExChLzf0PxMw4qMIbBEPZu3-U81XmaHVAMJGpqT9Wp01UydNPT0zPTn_3r72AZrf_5S_STZEOuWDZN0ybCGAWw6eKQtUkWuewCByR2_R8okLaEIXgbu3DpSa4f4xAyfiDBiMleJYFxicQxcCkNhWRhk-3b0IWoo-NZZHWDS_OOKcJJlmMTuKKrva0Ia7H0sf4m9KnSJE0YNUVvBqETG1BEzRbHi02DtUPqAP5bQWCZPxDQqKJ9-qwAZH4VAKj5U3n3K8OoFbe00GSZRiw8lJPxUDEsVUADzuSo4xMAhjujey6RcV0d5FM0U843oSm7RD_Ksa3J5WhWtaNy5KO8j1tuvX12rVw0rR6Hrqtahcmsr6JVg5i5-al4NUwA-ynwU3R9JlcFg_4QzU107JarsgH-rFzHARy9KNZDtA451onpwLNL13eLl5jk5ancihweDkCsjR4yrEcj3TM2b7OO19fll6GeINZ1qF-AbQ96lm9xPwqdb_EdThS6vYuCC5ccwCA1MO6CwDFGk6mJm5OmzFeoQIdTqUhuvDl6zOXhHZmwP2K0u7Ss_ITLFxmbdPL7xEFfk1MASjTbea310eeKprGPUFHIAY0pKKgoklN24z5QtSoQOkyo1NHow3rVDOQyvKJR9krbsOZdy1ihx7Y-QDKthzJ9dVd-8nzvYsjtGt_ArGjKbosmkuX6VrTdDtoVv_xiEC1l85nqY4QOf0bFJG2f0GHd96Tq9NErQMqdepbXU3KOm70gUJb_h2quUbC1vccUDOGUM0UVZIITPRFvNXkULPN41ePQ-YN-4P7vXBTdApfd4ggX_hdcFN0Cne4W-yJKSy4Kv2tZOcnFuhjr3WL0oVsc42Jc5-J0t3jnIk_lPBfyOS7kU1zQP_xPXJgnuCi7RYWL9YduIR9ONTe9c_Hn3cL-d92iwATuhnrr2K7QyRaiwq57t3mYCy_TeSIQHN-r2niKxcm1-3ULWYTJVWh7wYW19K7k1jjJvAuLGvAV9JgXaW6HZBuhhshzXGN2YzRmigYbrcZ83m-QBMc2gg0YedvYjlxoJU7aIPBlC6NkaQdWDG3PCh2LVI1pvExgYWXCIMYSZ3ej3mzTnmbqU-v78-0973CvPf7nZGDw-iKS7UF7qaDbZHP5_TEMIm1p_HRfhHAxy7q3sdoajwe6sHl8yJz1q_PweGNPBYycwchqT7aTifZ631c5Pbifzw1gQdcZZTgjM7Ly28aq29Kf-Faqh0ILiCi2hna8uXn2UJEXkeIRWhl2z0iTlAljV6Il2EZAN8EDkl2g0PpSEP1h-kvpRTLEtS1IXqWWJy7ETpeznV7H7l1CJkRJtpFEjiFRLPG_ASCMOvU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MBk783icxZXdcqJKEIAf4DzHcmNWQDRKqqitAVExChLzf0PxMw4qMIbBEPZu3-U81XmaHVAMJGpqT9Wp01UydNPT0zPTn_3r72AZrf_5S_STZEOuWDZN0ybCGAWw6eKQtUkWuewCByR2_R8okLaEIXgbu3DpSa4f4xAyfiDBiMleJYFxicQxcCkNhWRhk-3b0IWoo-NZZHWDS_OOKcJJlmMTuKKrva0Ia7H0sf4m9KnSJE0YNUVvBqETG1BEzRbHi02DtUPqAP5bQWCZPxDQqKJ9-qwAZH4VAKj5U3n3K8OoFbe00GSZRiw8lJPxUDEsVUADzuSo4xMAhjujey6RcV0d5FM0U843oSm7RD_Ksa3J5WhWtaNy5KO8j1tuvX12rVw0rR6Hrqtahcmsr6JVg5i5-al4NUwA-ynwU3R9JlcFg_4QzU107JarsgH-rFzHARy9KNZDtA451onpwLNL13eLl5jk5ancihweDkCsjR4yrEcj3TM2b7OO19fll6GeINZ1qF-AbQ96lm9xPwqdb_EdThS6vYuCC5ccwCA1MO6CwDFGk6mJm5OmzFeoQIdTqUhuvDl6zOXhHZmwP2K0u7Ss_ITLFxmbdPL7xEFfk1MASjTbea310eeKprGPUFHIAY0pKKgoklN24z5QtSoQOkyo1NHow3rVDOQyvKJR9krbsOZdy1ihx7Y-QDKthzJ9dVd-8nzvYsjtGt_ArGjKbosmkuX6VrTdDtoVv_xiEC1l85nqY4QOf0bFJG2f0GHd96Tq9NErQMqdepbXU3KOm70gUJb_h2quUbC1vccUDOGUM0UVZIITPRFvNXkULPN41ePQ-YN-4P7vXBTdApfd4ggX_hdcFN0Cne4W-yJKSy4Kv2tZOcnFuhjr3WL0oVsc42Jc5-J0t3jnIk_lPBfyOS7kU1zQP_xPXJgnuCi7RYWL9YduIR9ONTe9c_Hn3cL-d92iwATuhnrr2K7QyRaiwq57t3mYCy_TeSIQHN-r2niKxcm1-3ULWYTJVWh7wYW19K7k1jjJvAuLGvAV9JgXaW6HZBuhhshzXGN2YzRmigYbrcZ83m-QBMc2gg0YedvYjlxoJU7aIPBlC6NkaQdWDG3PCh2LVI1pvExgYWXCIMYSZ3ej3mzTnmbqU-v78-0973CvPf7nZGDw-iKS7UF7qaDbZHP5_TEMIm1p_HRfhHAxy7q3sdoajwe6sHl8yJz1q_PweGNPBYycwchqT7aTifZ631c5Pbifzw1gQdcZZTgjM7Ly28aq29Kf-Faqh0ILiCi2hna8uXn2UJEXkeIRWhl2z0iTlAljV6Il2EZAN8EDkl2g0PpSEP1h-kvpRTLEtS1IXqWWJy7ETpeznV7H7l1CJkRJtpFEjiFRLPG_ASCMOvU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Samsung Announces the 9100 PRO Series SSDs",
+      "link": "https://news.samsung.com/us/samsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnews.samsung.com%2Fus%2Fsamsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECCsQAQ",
+      "displayed_link": "https://news.samsung.com › samsung-announces-9100-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEzV3OuPnMSNnMXR1uYAPZcAPJcAPZcAPZcAP5gAP5kAPpgAPZUAOJUAO5YAOpUAPZYAP5kAP5kAPZcAPJYAO5b_______8lYiW5AAAAGHRSTlMAATJVDRJEiL7j7tCvZCQIUvn_N512FiIoh9K_AAAA6ElEQVR4Aa2SBWLFIAxAqQTXBvrvf1NkisyXel88If8h27NM_-u1H03OhR1QxoUUShvrRuY8F-EqIhXDgZ0YCxBChILTYHonVf9SVh4hYh_3EWUxRAJMXDLSFaSEoBY82R7exaKYeAD0HqGrdTu9rrkKhuV_RR0Fo65KdbKETNwmLhqOFOb2AbJKg-R0dOu2V-PAbO_1tIgWHMZCAzf30CGtdQJimbyCSj186NpzT4j_CIYEkOTKbe24ToyHK9TeziMLUraRwTYOW7dhBqEizmuCJnLONfPWLRbsbBu2nx9s5tODLCn5kWTgcQ9QlTgFcAAAAABJRU5ErkJggg.png",
+      "date": "Mar 18, 2025",
+      "snippet": "The 9100 PRO boasts lightning-fast PCIe® 5.0, enabling the drive to achieve up to 14,800/13,400 MB/s sequential read/write speeds – moving data ...",
+      "snippet_highlighted_words": [
+        "9100 PRO",
+        "PCIe",
+        "drive"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 9100 PRO boasts lightning-fast PCIe® 5.0, enabling the drive to achieve up to 14,800/13,400 MB/s sequential read/write speeds – moving data ...",
+          "source_info_link": "https://news.samsung.com/us/samsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEzV3OuPnMSNnMXR1uYAPZcAPJcAPZcAPZcAP5gAP5kAPpgAPZUAOJUAO5YAOpUAPZYAP5kAP5kAPZcAPJYAO5b_______8lYiW5AAAAGHRSTlMAATJVDRJEiL7j7tCvZCQIUvn_N512FiIoh9K_AAAA6ElEQVR4Aa2SBWLFIAxAqQTXBvrvf1NkisyXel88If8h27NM_-u1H03OhR1QxoUUShvrRuY8F-EqIhXDgZ0YCxBChILTYHonVf9SVh4hYh_3EWUxRAJMXDLSFaSEoBY82R7exaKYeAD0HqGrdTu9rrkKhuV_RR0Fo65KdbKETNwmLhqOFOb2AbJKg-R0dOu2V-PAbO_1tIgWHMZCAzf30CGtdQJimbyCSj186NpzT4j_CIYEkOTKbe24ToyHK9TeziMLUraRwTYOW7dhBqEizmuCJnLONfPWLRbsbBu2nx9s5tODLCn5kWTgcQ9QlTgFcAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnews.samsung.com%2Fus%2Fsamsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnews.samsung.com%2Fus%2Fsamsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance",
+      "source": "Samsung Global Newsroom",
+      "read_more_link": "https://news.samsung.com/us/samsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance"
+    },
+    {
+      "position": 2,
+      "title": "Samsung 9100 Pro SSD",
+      "link": "https://www.microcenter.com/site/content/samsung-9100pro-ssd.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fsite%2Fcontent%2Fsamsung-9100pro-ssd.aspx&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECCoQAQ",
+      "displayed_link": "https://www.microcenter.com › site › content › samsun...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "With random read/write speeds of up to 2,200K/2,600K IOPS3, the 9100 PRO SSD fuels seamless AI content creation, swift loads, and smooth gameplay. Work, play, ...",
+      "snippet_highlighted_words": [
+        "9100 PRO SSD"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With random read/write speeds of up to 2,200K/2,600K IOPS3, the 9100 PRO SSD fuels seamless AI content creation, swift loads, and smooth gameplay. Work, play, ...",
+          "source_info_link": "https://www.microcenter.com/site/content/samsung-9100pro-ssd.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fsite%2Fcontent%2Fsamsung-9100pro-ssd.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fsite%2Fcontent%2Fsamsung-9100pro-ssd.aspx",
+      "source": "Micro Center",
+      "read_more_link": "https://www.microcenter.com/site/content/samsung-9100pro-ssd.aspx"
+    },
+    {
+      "position": 3,
+      "title": "Samsung 9100 SSD Review | Pushing the Speed Limit of ...",
+      "link": "https://www.youtube.com/watch?v=FbQULD-luVw",
+      "displayed_link": "36.8K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtfdPn5MMCVdk3QY38SNDCXCtL4_Vf8F1UVoaaaTJDbl9XEHvpujpVcw&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "The 9100 Pro delivers incredible read and write speeds that can handle your high-end workload and gaming. This drive is on board to bring the ...",
+      "duration": "11:12",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yerd08agDUmGS6uPmhuDgAqacpkbniY9nTKxJE-q-w&s="
+        },
+        {
+          "time": "00:30",
+          "title": "Quick History of HDD and SSD",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=30",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0C7w_3YjUNXItjglcj9Row5EyW9x3A6Qouok42-ilzQ&s="
+        },
+        {
+          "time": "02:01",
+          "title": "Samsung 9100 PRO Specs",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=121",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWq0YTujnHO8jkogp0eMb1X71TNPPKAzKJnzvhgd-tUg&s="
+        },
+        {
+          "time": "02:43",
+          "title": "Why Samsung 9100 PRO is so good",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=163",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDBB0RcS2qkR9tcr_yEQXDZRu9Ouzy9dmQDuWkPamLIA&s="
+        },
+        {
+          "time": "04:06",
+          "title": "Best use cases for Samsung 9100 PRO",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=246",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9yjBWIHRU47pr76CQE13xY8MCArDLH4qEQWqSHc_oIA&s="
+        },
+        {
+          "time": "06:03",
+          "title": "Samsung 9100 PRO Benchmark",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=363",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCrLkm7keZ7Tim8Z-LC3ESOHFPmaLdFqEs7LqoZoysGA&s="
+        },
+        {
+          "time": "09:28",
+          "title": "Comparing to Gen 4x4",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=568",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQBxtnxSZhPwKabwUrRUsorOcywVkR-PMT_5gm0aSZCQ&s="
+        },
+        {
+          "time": "10:43",
+          "title": "Samsung 9100 PRO now at Micro Center",
+          "link": "https://www.youtube.com/watch?v=FbQULD-luVw&t=643",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5iTpaJ1FTl_evB6qKe-ZPYqDbYmTj03bHvchG_tuPtg&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 9100 Pro delivers incredible read and write speeds that can handle your high-end workload and gaming. This drive is on board to bring the ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFbQULD-luVw&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFbQULD-luVw",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQIDeS7dBmLC8fUCvKt780qOlzscKOBJB3rbQ",
+      "source": "YouTube · Micro Center"
+    },
+    {
+      "position": 4,
+      "title": "Samsung V-NAND SSD 9100 PRO",
+      "link": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_NVMe_SSD_9100_PRO_Datasheet_Rev.1.0.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fdownload.semiconductor.samsung.com%2Fresources%2Fdata-sheet%2FSamsung_NVMe_SSD_9100_PRO_Datasheet_Rev.1.0.pdf&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECFMQAQ",
+      "displayed_link": "https://download.semiconductor.samsung.com › S...",
+      "snippet": "Samsung SSD 9100 PRO Usage … 9100 PRO is backward compatible with PCIe 4.0 x4 and 3.0 x4. 4) Sequential and random performance measurements are based on FIO 3. ...",
+      "snippet_highlighted_words": [
+        "9100 PRO is backward compatible with PCIe 4.0 x4 and 3.0 x4"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 5
+          },
+          "extensions": [
+            "5 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Samsung SSD 9100 PRO Usage … 9100 PRO is backward compatible with PCIe 4.0 x4 and 3.0 x4. 4) Sequential and random performance measurements are based on FIO 3. ...",
+          "source_info_link": "https://download.semiconductor.samsung.com/resources/data-sheet/Samsung_NVMe_SSD_9100_PRO_Datasheet_Rev.1.0.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fdownload.semiconductor.samsung.com%2Fresources%2Fdata-sheet%2FSamsung_NVMe_SSD_9100_PRO_Datasheet_Rev.1.0.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdownload.semiconductor.samsung.com%2Fresources%2Fdata-sheet%2FSamsung_NVMe_SSD_9100_PRO_Datasheet_Rev.1.0.pdf",
+      "source": "Samsung"
+    },
+    {
+      "position": 5,
+      "title": "Samsung SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Seq. ...",
+      "link": "https://www.amazon.com/Samsung-Computing-Workstations-VAP2T0B-AM/dp/B0DX2DPJZ5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FSamsung-Computing-Workstations-VAP2T0B-AM%2Fdp%2FB0DX2DPJZ5&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECFIQAQ",
+      "displayed_link": "https://www.amazon.com › Samsung-Computing-Workst...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "BREAKTHROUGH PCIe 5.0 PERFORMANCE: Supercharge your workflow and gaming with PCIe 5.0, boasting up to 14,700/13,400 MB/s* sequential read/write speeds.",
+      "snippet_highlighted_words": [
+        "14,700/13,400 MB/s* sequential read/write speeds"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BREAKTHROUGH PCIe 5.0 PERFORMANCE: Supercharge your workflow and gaming with PCIe 5.0, boasting up to 14,700/13,400 MB/s* sequential read/write speeds.",
+          "source_info_link": "https://www.amazon.com/Samsung-Computing-Workstations-VAP2T0B-AM/dp/B0DX2DPJZ5",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FSamsung-Computing-Workstations-VAP2T0B-AM%2Fdp%2FB0DX2DPJZ5&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FSamsung-Computing-Workstations-VAP2T0B-AM%2Fdp%2FB0DX2DPJZ5",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Samsung-Computing-Workstations-VAP2T0B-AM/dp/B0DX2DPJZ5"
+    },
+    {
+      "position": 6,
+      "title": "Samsung 9100 Pro 2 TB Specs - SSD Database",
+      "link": "https://www.techpowerup.com/ssd-specs/samsung-9100-pro-2-tb.d2319",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fssd-specs%2Fsamsung-9100-pro-2-tb.d2319&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECCkQAQ",
+      "displayed_link": "https://www.techpowerup.com › ssd-specs › samsung-9...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "The 9100 Pro is rated for sequential read speeds of up to 14,700 MB/s and 13,400 MB/s write; random IOPS reach up to 1850K for reads and 2600K for writes.",
+      "snippet_highlighted_words": [
+        "up to 14,700 MB/s and 13,400 MB/s write"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 9100 Pro is rated for sequential read speeds of up to 14,700 MB/s and 13,400 MB/s write; random IOPS reach up to 1850K for reads and 2600K for writes.",
+          "source_info_link": "https://www.techpowerup.com/ssd-specs/samsung-9100-pro-2-tb.d2319",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fssd-specs%2Fsamsung-9100-pro-2-tb.d2319&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fssd-specs%2Fsamsung-9100-pro-2-tb.d2319",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 7,
+      "title": "Samsung Announces the 9100 PRO Series SSDs, with ...",
+      "link": "https://www.reddit.com/r/hardware/comments/1ixzt9z/samsung_announces_the_9100_pro_series_ssds_with/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fhardware%2Fcomments%2F1ixzt9z%2Fsamsung_announces_the_9100_pro_series_ssds_with%2F&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECC0QAQ",
+      "displayed_link": "80+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Samsung SSD 9100 PRO 1TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s $87.32 (select used like new, 30% off will be applied)",
+      "snippet_highlighted_words": [
+        "Samsung SSD 9100 PRO 1TB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Samsung SSD 9100 PRO 1TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s $87.32 (select used like new, 30% off will be applied)",
+          "source_info_link": "https://www.reddit.com/r/hardware/comments/1ixzt9z/samsung_announces_the_9100_pro_series_ssds_with/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fhardware%2Fcomments%2F1ixzt9z%2Fsamsung_announces_the_9100_pro_series_ssds_with%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fhardware%2Fcomments%2F1ixzt9z%2Fsamsung_announces_the_9100_pro_series_ssds_with%2F",
+      "source": "Reddit · r/hardware"
+    },
+    {
+      "position": 8,
+      "title": "SAMSUNG SSD 9100 PRO 1TB, PCIe 5.0x4 M.2 2280 ...",
+      "link": "https://www.newegg.com/samsung-1tb-9100-pro-nvme-2-0/p/N82E16820147902?srsltid=AfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fsamsung-1tb-9100-pro-nvme-2-0%2Fp%2FN82E16820147902%3Fsrsltid%3DAfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0QFnoECCgQAQ",
+      "displayed_link": "https://www.newegg.com › ... › SAMSUNG",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "SAMSUNG SSD 9100 PRO 1TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,800MB/s, Best for AI Computing, Gaming, and Heavy Duty Workstations (MZ- VAP1T0B/AM).",
+      "snippet_highlighted_words": [
+        "SAMSUNG SSD 9100 PRO 1TB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "SAMSUNG SSD 9100 PRO 1TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,800MB/s, Best for AI Computing, Gaming, and Heavy Duty Workstations (MZ- VAP1T0B/AM).",
+          "source_info_link": "https://www.newegg.com/samsung-1tb-9100-pro-nvme-2-0/p/N82E16820147902?srsltid=AfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fsamsung-1tb-9100-pro-nvme-2-0%2Fp%2FN82E16820147902%3Fsrsltid%3DAfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fsamsung-1tb-9100-pro-nvme-2-0%2Fp%2FN82E16820147902%3Fsrsltid%3DAfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/samsung-1tb-9100-pro-nvme-2-0/p/N82E16820147902?srsltid=AfmBOoqweIbbmxGkVpkynf_9aTJR34GHz4bzlP1oGO0DGcXg-XiG49eQ"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Samsung SSD 9100 PRO 2TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Samsung+SSD+9100+PRO+2TB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+SSD+9100+PRO+2TB"
+    },
+    {
+      "block_position": 1,
+      "query": "Samsung SSD 9100 PRO with Heatsink",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Samsung+SSD+9100+PRO+with+Heatsink&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+SSD+9100+PRO+with+Heatsink"
+    },
+    {
+      "block_position": 1,
+      "query": "2tb pcie 5.0 nvme ™ m 2 ssd 9100 pro",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=2tb+pcie+5.0+nvme+%E2%84%A2+m+2+ssd+9100+pro&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2tb+pcie+5.0+nvme+%E2%84%A2+m+2+ssd+9100+pro"
+    },
+    {
+      "block_position": 1,
+      "query": "Samsung SSD 9100 PRO 4TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Samsung+SSD+9100+PRO+4TB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+SSD+9100+PRO+4TB"
+    },
+    {
+      "block_position": 1,
+      "query": "Samsung SSD 9100 PRO 1TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Samsung+SSD+9100+PRO+1TB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+SSD+9100+PRO+1TB"
+    },
+    {
+      "block_position": 1,
+      "query": "4tb pcie 5.0 nvme ™ m 2 ssd 9100 pro",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=4tb+pcie+5.0+nvme+%E2%84%A2+m+2+ssd+9100+pro&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4tb+pcie+5.0+nvme+%E2%84%A2+m+2+ssd+9100+pro"
+    },
+    {
+      "block_position": 1,
+      "query": "Samsung 9100 PRO 2TB price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Samsung+9100+PRO+2TB+price&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+2TB+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Samsung 9100 PRO 500GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Samsung+9100+PRO+500GB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+500GB"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GBIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAF6BAgdEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "NVMe",
+      "link": "https://www.google.com/search?q=nvme+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAEqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhYIARIETlZNZToMCJzKwwEQncrDATADWNvyIGAB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAJ6BAgdEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nvme+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "1 – 2 TB",
+      "link": "https://www.google.com/search?q=1+tb+to+2+tb+samsung+9100+pro+pcie+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhoqGAiNrWkSEgkAAAAAAECPQBEAAAAAAECfQBgBKlxzYW1zdW5nIDkxMDAgcHJvIHBjaWUgMiBzc2Qgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczJGCAESCjEg4oCTIDIgVEIiGioYCI2taRISCQAAAAAAQI9AEQAAAAAAQJ9AKhAKDDEgVEIgdG8gMiBUQhgBOggIja1pEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAN6BAgdEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=1+tb+to+2+tb+samsung+9100+pro+pcie+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "2 – 8 TB",
+      "link": "https://www.google.com/search?q=2+tb+to+8+tb+samsung+9100+pro+pcie+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhoqGAiNrWkSEgkAAAAAAECfQBEAAAAAAEC_QBgBKlxzYW1zdW5nIDkxMDAgcHJvIHBjaWUgMiBzc2Qgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczJGCAESCjIg4oCTIDggVEIiGioYCI2taRISCQAAAAAAQJ9AEQAAAAAAQL9AKhAKDDIgVEIgdG8gOCBUQhgBOggIja1pEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAR6BAgdEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+tb+to+8+tb+samsung+9100+pro+pcie+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GBIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAV6BAgdEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under 1 TB",
+      "link": "https://www.google.com/search?q=under+1+tb+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhEqDwiNrWkSCREAAAAAAECPQBgBKlxzYW1zdW5nIDkxMDAgcHJvIHBjaWUgMiBzc2Qgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIvCAESClVuZGVyIDEgVEIiESoPCI2taRIJEQAAAAAAQI9AKgIYAToICI2taRAAMAZY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAZ6BAgdEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+1+tb+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Over 8 TB",
+      "link": "https://www.google.com/search?q=over+8+tb+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhEqDwiNrWkSCQkAAAAAAEC_QBgBKlxzYW1zdW5nIDkxMDAgcHJvIHBjaWUgMiBzc2Qgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIuCAESCU92ZXIgOCBUQiIRKg8Ija1pEgkJAAAAAABAv0AqAhgBOggIja1pEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAd6BAgdEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+8+tb+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+nearby&gl=us&hl=en&shoprs=GAMqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgwIAxIGTmVhcmJ5GAJY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAh6BAgdEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+nearby"
+    },
+    {
+      "query": "M.2",
+      "link": "https://www.google.com/search?q=m.2+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAEqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhIIARIDTS4yOgkICRCXysMBMABY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAl6BAgdEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=m.2+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Internal",
+      "link": "https://www.google.com/search?q=internal+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAEqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhYIARIISW50ZXJuYWw6CAgIEIHxBDACWNvyIGAB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAp6BAgdEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=internal+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Hard Drives",
+      "link": "https://www.google.com/search?q=hard+drives+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAkqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMg8ICRILSGFyZCBEcml2ZXNgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAt6BAgdEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hard+drives+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+for+sale&gl=us&hl=en&shoprs=GBIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKAx6BAgdEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+for+sale"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?q=ebay+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMggIAhIEZUJheVjb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKA16BAgdEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+sale&gl=us&hl=en&shoprs=EgRKAhgBGAYqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhMIBhIHT24gc2FsZRgCIgRKAhgBWNvyIGAB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKA56BAgdEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+sale"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?q=best+buy+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgwIAhIIQmVzdCBCdXlY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKA96BAgdEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GBIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBB6BAgdEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "PRO Series",
+      "link": "https://www.google.com/search?q=pro+series+samsung+9100+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAEqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhoIARIKUFJPIFNlcmllczoKCOjAOxDpwDswBFjb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBF6BAgdEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pro+series+samsung+9100+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under $200",
+      "link": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+under+%24200&gl=us&hl=en&shoprs=Eg0SCxEAAAAAhNenQRgBGAUqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMiMIBRIKVW5kZXIgJDIwMBgCIg0SCxEAAAAAhNenQRgBKgIYAVjb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBJ6BAgdEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+under+%24200"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GBIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBN6BAgdEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?q=target+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgoIAhIGVGFyZ2V0WNvyIGAB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBR6BAgdEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=target+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?q=walmart+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAIqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgsIAhIHV2FsbWFydFjb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBV6BAgdEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b19ff7aa21e3a114d8b/images/gGMMmXgO6LOdFs7NNzIpzRlEgXNiJIz3m1PANBAxIwY.png"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=GAEqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhUIARIFQmxhY2s6CgiYuW8Qm7lvMABY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBZ6BAgdEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+free+shipping&gl=us&hl=en&shoprs=EgRSAhABGBkqXHNhbXN1bmcgOTEwMCBwcm8gcGNpZSAyIHNzZCBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBd6BAgdEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+free+shipping"
+    },
+    {
+      "query": "Under 3,500 MB/s",
+      "link": "https://www.google.com/search?q=under+3%2C500+mb%2Fs+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhIqEAj4hdkDEgkRAAAAAABYq0AYASpcc2Ftc3VuZyA5MTAwIHBybyBwY2llIDIgc3NkIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyNwgBEhBVbmRlciAzLDUwMCBNQi9zIhIqEAj4hdkDEgkRAAAAAABYq0AqAhgBOgkI-IXZAxAAMAZY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBh6BAgdEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+3%2C500+mb%2Fs+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "7,450 – 14,800 MB/s",
+      "link": "https://www.google.com/search?q=7%2C450+mb%2Fs+to+14%2C800+mb%2Fs+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhsqGQj4hdkDEhIJAAAAAAAavUARAAAAAADozEAYASpcc2Ftc3VuZyA5MTAwIHBybyBwY2llIDIgc3NkIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyYAgBEhU3LDQ1MCDigJMgMTQsODAwIE1CL3MiGyoZCPiF2QMSEgkAAAAAABq9QBEAAAAAAOjMQCodChk3LDQ1MCBNQi9zIHRvIDE0LDgwMCBNQi9zGAE6CQj4hdkDEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBl6BAgdEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=7%2C450+mb%2Fs+to+14%2C800+mb%2Fs+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Over 13,400 MB/s write speed",
+      "link": "https://www.google.com/search?q=over+13%2C400+mb%2Fs+write+speed+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&hl=en&shoprs=EhIqEAjus9kDEgkJAAAAAAAsykAYASpcc2Ftc3VuZyA5MTAwIHBybyBwY2llIDIgc3NkIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyQwgBEhxPdmVyIDEzLDQwMCBNQi9zIHdyaXRlIHNwZWVkIhIqEAjus9kDEgkJAAAAAAAsykAqAhgBOgkI7rPZAxAAMAZY2_IgYAE&sa=X&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Qip4GKBp6BAgdEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+13%2C400+mb%2Fs+write+speed+samsung+9100+pro+pcie+2+ssd+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=10&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8NMDegQIPxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=10&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAE",
+      "3": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=20&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAG",
+      "4": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=30&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAI",
+      "5": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=40&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAK",
+      "6": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=50&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAM",
+      "7": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=60&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAO",
+      "8": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=70&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAQ",
+      "9": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=80&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAS",
+      "10": "https://www.google.com/search?q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=G3tfasuxGceg5NoPn_7l6QU&start=90&sa=N&sstk=AU9db-BOVhaRNIUbodwca4X9QuyniKTEFZINsouIrnRwSmUphaj84s3xKQ3l1TgnebzHsWcZ7ttNmC_BW17HR81OJyTpyYzKaYH1Aw&ved=2ahUKEwiLq9zh9uOVAxVHEFkFHR9_OV0Q8tMDegQIPxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Samsung+9100+PRO+PCIe+2+SSD+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=90"
+    }
+  }
+}

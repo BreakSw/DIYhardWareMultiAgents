@@ -1,0 +1,912 @@
+{
+  "search_metadata": {
+    "id": "6a60aa274a08989f5c6a0e8a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EmzzmLf8AfN4KTmhwNPLoQ/6a60aa274a08989f5c6a0e8a.json",
+    "created_at": "2026-07-22 11:31:51 UTC",
+    "processed_at": "2026-07-22 11:31:51 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=JqpgasO4J7GwptQPiIPisQ4&q=latest+current+generation+desktop+graphics+card+GPU+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A11325700892762406247%2Ccatalogid%3A4895546476002484916%2Cgpcid%3A10043247811513153050%2CheadlineOfferDocid%3A12190512468892127074%2Crds%3APC_10043247811513153050%7CPROD_PC_10043247811513153050%2CimageDocid%3A16616083690986971296%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+graphics+card+GPU+component+released+2025+2026+new%2Cmid%3A576462544128580938%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0SW55YkpZUWpaZW1mWEsxNmdWM3ZjdWlKcXo4akdHYW84OHlIbC1HY3RQN2JrcGNaVG5KTnlGS1lKT19meE5ldlNuTUU3NGdZUi1yYlZORUZzbDZoTmw5VnFkY2dtaUVUQnBuYlRyT2hpT3VLR2tLVmYySkhvRW9SYWV4bWV5UjJmV09ELW83NmY5NUM3XzBjdnJLRmR3ZnI2dV8zSDhic3ZkSlIwVm5ZbWJJWTdQWUF0M0xiYVpxWE9oRTRxcmFWN1BueUxGU1gyeENFQ2s2S0VnTi1YZUtWempwaEl1Nm5IOElvTlh1cHhDcWdKQXhrSzQzbzZTSmo0UFdENnUzZTgzcXh5ZGdMcFJTX1NkQ2RoWkZ6VHVPa0trd0l4Q3ZpcU9tbkVSQ3RhUVVjeFBfbDVweVRUbzNMeGhGMFRYQUJiVk9EenUSF0pxcGdhc080SjdHd3B0UVBpSVBpc1E0GiJBRHNyOWZULUptZ19NM1FKZFptY2VhcEZMYzZjOHFQbUd3%2Cxsrf%3AAF5tSO6p9jNlBlX6FS-gUqJ6Ov6EcEvrHw%3A1784719911047%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/EmzzmLf8AfN4KTmhwNPLoQ/6a60aa274a08989f5c6a0e8a.html",
+    "prettify_html_file": "https://serpapi.com/searches/EmzzmLf8AfN4KTmhwNPLoQ/6a60aa274a08989f5c6a0e8a.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "DMJw63icdVTJrqNWEE3yBVnkA3pvWboXuAxpvYUHBmMDZrhg2FjAxYAZDdjYKF_zepA6y06kbPMbnUX-JFLcUZZJlU5JpVM6p1SL-vOb71-T_Df10qZhbzAqJ4_tYO7zzT7vTeZT2zXkGg85-RVCmkIcALxAcSzFgCe4T3E4hGWT5uQXhhcQYliGYwGgGJ4RIPs5S0JS5nVinE5Jt27iryoUFACCFMPyTyFIcYBjfs6rME3-5VkWsoCnWQEIPCtwkBLYdx3pvzD71RECwNBPWx5CBGmIaIDAT3vLWB__h_xwuSbd44tThkPSD7P42nVJPczSpE66cMibekaSvhiadpZ2YZvlcT-Lw47M5D2exU3VNvXX8S4pk7BPyIwCFPpa2FmdjB_S9p-F_8P2XZWTz4hjGZZCDAMpHvFAoPl37W14zdL312uZ_P6alq_X_jUrX5P6YxO2t1P8x3c_iM24XvXjysRt664tYHsI-UUbYK8NAw9Wntjf9Yp4Gh2ciVdu40PDhAVRfI9nDKXcRCuo-LRl6pTaxbIeujLaOnUp27DcOlCoEhGVpNSvDsa0LpMA5_Dhl4Fh4WCK1kHjVCNya6nwKTKE2MVmvbz6pfVwqKx1aHdnUcPOrfyHXWQ3yxNs33OZyHMRPquVCwRx5_G0XvlIxxp9mJZnUqs7q7LooN5QxOUne_08Mh0UdrkZ3QoFkaeqnkNMD0tAA_fcd9u7JwqN5Vj3uJI8HS6vCb7LGKaPRNQlk-opG7i1k0M_wIOXVO0YiiXUK7QxxPLmlBmMlWwde2RrHrLOnswpmgLHrhqAJSLqNX526RQfMhTIRIsl1TlAvTApq_GKgHUVdx-CoSOgZEw6aGMsDFHh2iZtZdh1z4m0PEVrd0xcC0eTriVyJmuS5ZtYzd1CEJMa2xJo77FMshjwwD4ThdBLgN1laz8RQxHIubq0FP1heAHe4XYIoKBrUNoGUjv4lJvFYqD5U3A2FMmMMKHf3_vu9AUsJDTYBtsKZ71clgdWsucpvqiscWPFWLx1yvgj5HiGg4IAIWC4j3HTFHnyx7d_LcTVy4KorhgOG3CrVSgt7PMh2p6FdZml6RagBsbzUvFqDt-bXjDdLIBbLGHRk1eL9O2btfvSTM1Ktkh_Tf2yV0zwMKLjiYIoqKtgLhUMeVj3KqOmy2KzeMbbN_pm_YJo-uWwHGW9T_gDvXODbbEMhwtRzTyI5h3SRJ4sTkUbD-eVpvaP3bTaa4-BDebUiZI5WGxOZnDdpGPraQ3gF-z46NtpHdDwUXaHooEL8xHdFtE5yfZHv-RXk_hgRj3C8b48aRH3kObJoA3roFipJ-7UwwzVTX1WakTvD9NZ2pqTzxWj5izEpUvmhrw98lAHzOLAXg70giNwN6FWAWLHtMzNYBStl9QV4JZiTY_TILsKUKNhqA1_TRNzr5u-YeVzi91Umc14K6swD-5yzNykcTd5u4Zv3xyPdvL8Qsncdqz9y0KvgjGk14y8DfaI0bFVF0Or7lbWnDFXDRwIvlfahQunZ1bCaW6EYBT2jY2uzvx66ZqTD_QLZdWsejXUlVJQR2tbZuCGkGhsnUvlF-LfXbTzPA"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSHcUxtN6qxPi-KWkfvb4ggIOFO8QEvGD6svvxHL_btNrchtzV50R0B9Y3CBKLlpd5nfFQErAtvGI-Se4KlPQztDnNjQLGSztvSzAz1pW2c4nZQ-b-1JgBgsQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTD0a4cZaaniEwt_sZOdVEemidlN_OIvJ_LZLknkH6F0V8Id8xWDvdHCHsVq98Yuwn-frOwO4s4KMfPM14GGCcSgdTOpOkhwJR8boBytz_SJOEIGaRC7RsrQQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTNsEq9FatuHEARm5hBDwn4rPkq1Hw4J09hF510HtqGpSaLIkx3HcHVwbI-PIRkHrzjCXphF6rtPvj8YGgYLYLqxj2Dd4OfBkhHoOu8fyklRdcmqJXQNI6c3A",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRfyHilQ6k8p_386DE6DSeMUTeIVmzMUdF9j9sGcVk8iwV_36NUnxTL2nVrTAkvZuKg54VLLdxZlEjMVbgjfacFLjNqka3FCSsEaJgqBjYqNuweFM4ZvL0z",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ7H3a7YPSPQUK39wCHafoi8Ae1O2hOuZs_xFEbScdv8qdBA3eMvVHk4Jhtgosft_ikuYFsalcVun-ooWk0s-46RDG7eAk8",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQ5xaUKvBxpqymdTjFxQwBB4M905SPzUMFCTtW4A0EtL4JGxlwZjSVnqXr0cjx1X4KgL-fxwum6Ieyy10JZYOC0uih1LY3V9s-kIC2k8-qTCMtB3xtXjkMWXA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR9r7ePAvSPe6PwNe5-OefSdu_0OYh22NsCoNJx8VSPLp1Rd2t_yNWwHPZn1eHIOwFg3wAL4YwBXn2WL97W2NLC0A8rS5-TOuwne7yLUZ09c3av_QE34iS-TKM",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSPCn__TDjahKtge6zkLofuTLg0qU45sIizcx8Ma_uaUDNxvX559LJtF7-7rfKkdWqzWicJ1yh__7GTixrAyX7pN7nhIWhuHXiC7pZyhhK3aYiJ4xY9zjkuiQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTuUEtKaxXDkd5QPOtJP89K86yIaqnsE8rAWQt92-Z1nHGIWMMxLwWPkQ9-dAXd37CXsolIz9CL423SLltt81JB3Q3-dmQLcCb4OSLBMJQKq14ff5jGKK6Kwg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSxhN6DCoAQ11PJwuHlnsdtBV4T3zwZyXpPr68Re13Tq1okVzt1hmqgs6mx2YoZXSMuiwnHfQC6sv62UYhIrWs9c_HvjBoRuDrqB3CFqKE0b_T3YMFEl_0E030",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRLjx3y6SO1AtxUeMDrkl0gwswO581TleRtAcJnPuojMJMfOzKqlybHsVtr_BDrIamrR7VJrBiYFo30AdQdUxsXMsVzK7ePRfbvyD2rxRZx7oCUp_aw-ZpJScQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQceJODfJCgm6z5E900_L_bIqAxwVEDHHIkVP17T4rSOwhCa7p1PXhrjXxh-Q27dJrzOUpY9IYCi-z1TtQKQWz9ya7yZ2C3a9N9bqDD2S4r6TSu1TE2k9XUrhs"
+    ],
+    "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+    "brand": "PNY",
+    "reviews": 458,
+    "rating": 4.7,
+    "price_range": "$1,276-$1,579",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/pny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/JXF2C46ZZH/sku/6616903?utm_source=feed&extStoreId=1266",
+        "title": "PNY - GeForce RTX 5080 16GB OC GDDR7 PCI Express 5.0 Graphics Card with Triple Fan - Black",
+        "rating": 4.6,
+        "reviews": 1923,
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Nearby",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "Free delivery by Jul 29",
+          "15-day returns"
+        ],
+        "discount": "Usually $1,276",
+        "price": "$1,256.99",
+        "extracted_price": 1256.99,
+        "original_price": "$1,256.99",
+        "extracted_original_price": 1256.99,
+        "shipping": "Free",
+        "total": "$1,256.99",
+        "extracted_total": 1256.99
+      },
+      {
+        "name": "Supermicro eStore",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fstore.supermicro.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://store.supermicro.com/us_en/supermicro-nvidia-rtx-5080-gddr7-pcie-5-0-graphics-card.html?srsltid=AfmBOorH6ufDZ2tpTyyR37QB3i_iHprscDGXt8v_qF6Nxnj2qdU7x3KsheY",
+        "title": "Supermicro NVIDIA GeForce RTX 5080 16GB GDDR7 PCIe 5.0 Graphics Card (GPU-NVRTX5080-16P3)",
+        "payment_methods": "PayPal, Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Jul 27 – 29",
+          "14-day returns"
+        ],
+        "discount": "29% off",
+        "price": "$1,216.00",
+        "extracted_price": 1216.0,
+        "original_price": "$1,716.00",
+        "extracted_original_price": 1716.0,
+        "shipping": "Free",
+        "total": "$1,216.00",
+        "extracted_total": 1216.0
+      },
+      {
+        "name": "Walmart - TELeasy Corp",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.walmart.com/ip/PNY-GeForce-RTX-5080-16GB-Overclocked-Triple-Fan-GPU-DLSS4/15093668411?wmlspartner=wlpa&selectedSellerId=102525940&veh=seo_fpl&cn=google",
+        "title": "Pny GeForce RTX 5080 OC 16gb 256-Bit Gddr7 Dlss 4 PCI Express 5.0 x16 Graphics Card Vcg508016tfxpb1-o, Size: OC Non-RGB",
+        "payment_methods": "PayPal, Google Pay, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery"
+        ],
+        "price": "$1,806.30",
+        "extracted_price": 1806.3,
+        "shipping": "Free",
+        "total": "$1,806.30",
+        "extracted_total": 1806.3
+      }
+    ],
+    "stores_next_page_token": "-MgdKnica15aklmSk3pTJ8AvUsE91S2_KDlVISgkQsHUwMJAwdDM3UnB3cUlyFzBvSixICMzWcE5sShlSXF-USbz4ty8fC4AxCgVaA",
+    "about_the_product": {
+      "description": "Experience exceptional graphics performance with the PNY GeForce RTX 5080 OC. Equipped with a powerful NVIDIA GeForce RTX 5080 graphics processor, this graphics card delivers visual fidelity and high frame rates. It supports up to 16 GB of GDDR7 SDRAM video memory with a bandwidth of 960 GBps, ensuring smooth gameplay and immersive experiences in detailed environments. The triple fan design enhances cooling efficiency, allowing for longer usage periods without overheating. Capable of achieving a max external resolution of 7680 x 4320, the RTX 5080 OC offers breathtaking visuals whether gaming or working with high-resolution content. Support for up to 4 monitors lets users expand their view and multitask efficiently. With features such as NVIDIA DLSS 4 and 4th generation Ray Tracing Cores, this graphics card offers realism and responsiveness in graphics-intensive applications, making it a prime choice for gamers and creators alike.",
+      "features": [
+        {
+          "title": "Manufacturer",
+          "value": "PNY"
+        },
+        {
+          "title": "Output",
+          "value": "HDMI, DisplayPort"
+        },
+        {
+          "title": "Interface",
+          "value": "PCI Express"
+        },
+        {
+          "title": "Brand",
+          "value": "PNY"
+        },
+        {
+          "title": "Video Memory Type",
+          "value": "GDDR"
+        },
+        {
+          "title": "Type",
+          "value": "Graphics Card"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Active"
+        },
+        {
+          "title": "Ray Tracing Support",
+          "value": "Yes"
+        },
+        {
+          "title": "Max Monitors Supported",
+          "value": "Four"
+        },
+        {
+          "title": "Video Memory",
+          "value": "16 GB"
+        },
+        {
+          "title": "Length",
+          "value": "13 in long"
+        },
+        {
+          "title": "Thermal Design Power",
+          "value": "360 watt TDP"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Performance (Resolution, DLSS)",
+        "items": [
+          {
+            "pros": [
+              "Solid performance at 4K ultra",
+              "Extremely playable performance"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.neowin.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.neowin.net/reviews/pny-5080-slim-oc-review-dual-slot-height-with-no-trade-offs-in-performance/",
+            "date": "3mo",
+            "source": "Neowin",
+            "title": "PNY 5080 Slim OC review: Dual slot height with no trade offs in performance"
+          },
+          {
+            "key_point": "Performs well",
+            "snippet": "Excellent performance at a the right price point. GPU is performing as promised. Read many reviews before I upgraded from a 3080 TI and this is a real winner",
+            "user": "Aerotech",
+            "date": "10mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Fast",
+            "snippet": "Performance is smooth, quiet, and unbelievably fast. Battlefield 6 runs like a dream on it in ultra settings, high frame rates, and zero stuttering. The",
+            "user": "mayito1990",
+            "date": "8mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "pros": [
+              "Phenomenal 4K frame rates",
+              "Higher boost clock"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/pny-rtx-5080-oc-review/",
+            "date": "1y",
+            "source": "GamesRadar+",
+            "title": "PNY RTX 5080 OC review: \"this GPU is for the next-gen overclockers\""
+          },
+          {
+            "pros": [
+              "Supports ultra-high resolutions up to 7680 x 4320 pixels"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Famericangunworks.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://americangunworks.net/best-gpu-for-blender/",
+            "date": "1mo",
+            "source": "American Gun Works",
+            "title": "Top 10 Best GPU For Blender That Will Boost Your Renders!"
+          }
+        ]
+      },
+      {
+        "title": "Cooling (Fans, Temperature)",
+        "items": [
+          {
+            "pros": [
+              "Advanced cooling system with triple Axial-tech fans keeps GPU cool"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Famericangunworks.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://americangunworks.net/best-gpu-for-blender/",
+            "date": "1mo",
+            "source": "American Gun Works",
+            "title": "Top 10 Best GPU For Blender That Will Boost Your Renders!"
+          },
+          {
+            "pros": [
+              "Quiet operation",
+              "Strong thermal management"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.propelrc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.propelrc.com/best-graphics-cards-gpus-cooler/",
+            "date": "9mo",
+            "source": "Propel RC",
+            "title": "Best Graphics Cards GPUs Cooler 2026: 10 Models Tested"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "It does this while being less noisy. Although the noise of both cards are neglibile.\n\nNow the FE looks much better, and looks better built, but the pny isnt",
+            "user": "Amey",
+            "date": "11mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Stays cool",
+            "snippet": "The card runs absolutely quiet and cool. The highest recorded temperature of the 5080 was 71c. I have it undervolted with a +2200mhz memory clock boost.\n\nThe",
+            "user": "PeelMyNaner",
+            "date": "4d",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Design (Backplate, Size)",
+        "items": [
+          {
+            "cons": [
+              "Large 3.6-slot design may require ample case space"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Famericangunworks.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://americangunworks.net/best-gpu-for-blender/",
+            "date": "1mo",
+            "source": "American Gun Works",
+            "title": "Top 10 Best GPU For Blender That Will Boost Your Renders!"
+          },
+          {
+            "key_point": "Good graphics",
+            "snippet": "Unlimited power! The GPU is amazing, games look so much better now.",
+            "user": "Psycholotron",
+            "date": "3mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Attractive",
+            "snippet": "Even better with DLSS, and it looks great.\n\nThe real 6th star in this review is B&H’s wait list system which let me pay retail for the card and get it delivered",
+            "user": "Josh",
+            "date": "1y",
+            "source": "bhphotovideo.com"
+          },
+          {
+            "key_point": "Quality build",
+            "snippet": "Great build and overclocking ability. MSRP Price makes it a great value. No RGB but i don't need it.",
+            "user": "DanielP",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "pros": [
+              "Great performance",
+              "GDDR7 and PCIe 5.0"
+            ],
+            "cons": [
+              "Still expensive",
+              "Not a huge gen-on-gen boost"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techradar.com/computing/gpu/nvidia-geforce-rtx-5080-review",
+            "date": "1y",
+            "source": "TechRadar",
+            "title": "Nvidia GeForce RTX 5080 review: bringing near-RTX 4090 performance closer to the masses"
+          },
+          {
+            "pros": [
+              "Best scaling in a game that has DLSS enabled",
+              "8% faster than the RTX 4080 Super"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/nvidia-geforce-rtx-5080-review",
+            "date": "1y",
+            "source": "IGN",
+            "title": "Nvidia GeForce RTX 5080 Review"
+          },
+          {
+            "pros": [
+              "Excellent 4K 120 FPS performance"
+            ],
+            "cons": [
+              "A modest raw performance uplift over the RTX 4080"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tweaktown.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tweaktown.com/reviews/10960/nvidia-geforce-rtx-5080-founders-edition-next-level-gaming-with-dlss-4/index.html",
+            "date": "1y",
+            "source": "TweakTown",
+            "title": "NVIDIA GeForce RTX 5080 Founders Edition Review - Next-Level Gaming with DLSS 4"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 15
+      },
+      {
+        "stars": 2,
+        "amount": 7
+      },
+      {
+        "stars": 3,
+        "amount": 10
+      },
+      {
+        "stars": 4,
+        "amount": 30
+      },
+      {
+        "stars": 5,
+        "amount": 396
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTmXlg0H1iOGI41V2c9D9-H-t5BBdVhX9oCmSju8cT7xCYxAS_SHBaWVF0y3A0BOg9x4tiw_1WoudmfxBxEIeGgaADvWDr4dQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTJwqcdMGiwfEzwc93aAN4gviuv2Dd6TXDv3amoUwKLYLkm63cxns8R9WwApO25Wh0K6pTHh9OoIlrRumzCQcSULKPlbFRn",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQITiWRM0C_6-TqeCJnv98-JslQ8DlT8ozS7RIRhi1jXT6bIE9BD6_q1BTQRwWKw1VgSeGI82hFmwhkNtrK1TK5de_ARzNb5A",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTX3ivYBrCw1IZ-w5av5OWcS96fyy4FuV-s-TK1HwP1GvgfbuDVIN-CzJXnVtMNCR00BIxXliEHCiW8rRrXfSjjwFLV3uUe",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSrtclMLreuSssuSKDlHoKIG5m8XlNpECF989UQq1a2g72L6OdxAYQ7hPnEsigoP_a21uYpst9IDWaCuauibM-AfTthsW1xaw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSGYcix6sF1yrWgLswEAIUZqMzAGF_PHkh0fdGIriOG9JmS2G9Zqf7OmNCq8Hyb7QTaD8rAQSS8wT9z3RPupKH8IVfSwAc9",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQcA4_du9hOg2WlaNegDq71T6FdwjsYkjyrLXEXZAQ90CUWkNigAFFdHfmEdWrM6QIAwOa1NTrU-WqgjGwYp0vVpaqD_tEG",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRz85ieF8GjyATKCK2nDjXcdsTVfp87tsXN-CVdMVdReyCEc4_WihryCMO-4sWnIvL9gBbEcU3BZWzp57_tfP31kDVAttb-hg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTRPfxnqpRMQmx11mHt61jm6D-CyM32yKTardmFqGk2CI3UWX6fwbEEB-tqsrn_dJVojfXuZ6cQ4lnMi6lubqFd1lcbf6OR",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQFWy0oHLARBxBWpzXvFJHRPTIWmw8Ot1kyU0rC0I8WGpv7H3I_9MWLUEaccJT_fVXLkiH0hcrZX32a8W0LH8AW0WQUiIuHzQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT3d8MdIVDN0U9LWp3SY32VEke2n0yPZFc3Pcl6qxDdNF-AUix-AxbNaSa8BKnEkFlrc4S9l4XRYEhy1s2rRAKRnwW-6JVI"
+    ],
+    "user_reviews": [
+      {
+        "title": "Good Value GPU",
+        "text": "This PNY 5080 is $70 cheaper MSRP than a normal 5080, and most of the 5080’s still even today are worth more for the design/brand name. This is only a basic black version, but nonetheless is a very good value for this high end GPU for a gaming computer. It runs quiet and cooler with the fans than my previous graphics cards, which aren’t as good as this one. The games I played on it so far ran excellent and were on the highest settings with no stuttering issues. The processor I use is an i9 14900KF with this gpu and it works very well together with no bottlenecks. It comes with an adapter for 3 PCIE 8 pin connectors into a 16 pin connector (12VHPWR) which the 5080 uses, and it helps if your power supply doesn’t have the new plug (I use it now since I was lazy and had a 7900XTX previously that used 3 PCIE plugs). It is very fat and heavy, (it takes up 3 slots in the back) so if you have it placed horizontally like most PC builds, I would either use the Gpu holder they supply you with as well (it’s quite small) or get a third party one that will work even better. I have mine vertically, so I don’t have this issue since it stays straight and I don’t have to worry about sagging issues on the PCIE slot. I’d highly recommend this graphics card if you’re not picky about designs or for it to look “cool” when you could save some $ to get the same performance, or similar to those other overclocked models. I forgot to mention that this one is over clocked too, and it works just fine. I’ve been loving it so far it’s been fantastic, and what I’ve wanted for quite a while now. This particular one is a good one if you’re skeptical about it, I say it’s a bargain and worth it.",
+        "user_name": "Alex",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0-F_VXNKpXdvOY2_cfS5-xo58nYA8lK8PfpR1ixtf2BHGdxWlp8GxuVa69a3ps0EE7zw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Excellent card in every way. Runs cool quiet",
+        "text": "Great price on Black Friday ($949) especially with credit card rebates (15% cash back with Capital One). Runs cool and silent. When I push it with Battlefield 6 I never even hear the fans spin up. Overclocking and monitoring software available at PNY website. It goes through an auto overclock process takes about 40 minutes. I replaced a PNY 4070 and its a pretty good upgrade. Honestly I would probably have stuck with the card I had it was performing so well. I highly recommend this card, would not considering anything but a three fan design.",
+        "user_name": "Birdsh0t",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2mo19niayRpfFvLZkIoQwY-ePvK_1TNUtto47UgLwAk8YXGiPb81pycV4ZwHHp2tdIZA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Well-Built, Excellent Performance and Quality",
+        "text": "I was fortunate to grab this PNY RTX 5080 OC at MSRP after tracking real-time inventory with another website. The card is absolutely fantastic. I upgraded from a RTX 3070 FE, and this card gets me about 2x the performance. I mostly play games at 1440p, and this card has more than enough power. I love the triple-fan, sturdy design. The fans stop (idle) when just working in Windows, which is nice. The cooling and temperatures are great even under benchmark programs. The card has hardly any sag to it in my case since it's a well-built three-slot design. The card is physically very large, especially compared to my RTX 3070 FE.\n\nFYI, I also upgraded my PSU since my old one was 11 years old. I got a new ATX 3.1 compatible PSU (Corsair RM1000x) to use the new 12V-2x6 single power connector, but you can also use the provided adaptor to plug in three regular 8-pin PCIe power cables to your PSU.\n\nOverall, I'm extremely happy with this card, and I highly recommend it (at MSRP) if you are upgrading from a RTX 3070 or below. Best wishes if you're trying to find one in stock!",
+        "user_name": "Nicholas",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3pnnVFnDVGpv4s8rs8gL52MGNCI33zkDab9q9Lzzrzidbphn3mL9E4kj4XAORRr5qEgA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTmXlg0H1iOGI41V2c9D9-H-t5BBdVhX9oCmSju8cT7xCYxAS_SHBaWVF0y3A0BOg9x4tiw_1WoudmfxBxEIeGgaADvWDr4dQ",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTJwqcdMGiwfEzwc93aAN4gviuv2Dd6TXDv3amoUwKLYLkm63cxns8R9WwApO25Wh0K6pTHh9OoIlrRumzCQcSULKPlbFRn"
+        ]
+      },
+      {
+        "title": "B&H asked me the review this 5080...",
+        "text": "Well, I'm sooooooo lucky to be able to get this in March. I don't know why B&H charged $100 more than other retailers on this card... but I think this is the only RTX 5080 people should be spending their money on. They do not worth more than $1200 w/ tax. I have being using this with +350Mhz on core and +1000Mhz on VRAM without any issue. In game temperature in the 60s and never crashed with that overclock, not even once~!!",
+        "user_name": "Hoi",
+        "source": "bhphotovideo.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1NNKfN1P50QCEZhHtbqLWRiUYiKQDpi2egCvslSy6AtDsgfHLsDzlusOaFm8tsPom9-w=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQITiWRM0C_6-TqeCJnv98-JslQ8DlT8ozS7RIRhi1jXT6bIE9BD6_q1BTQRwWKw1VgSeGI82hFmwhkNtrK1TK5de_ARzNb5A"
+        ]
+      },
+      {
+        "title": "Future Proof Rig",
+        "text": "This gpu will definitely play any game you load up with a high fps. Peaks at about 305w with just the factory overclock temps range from about 53c to 60c but you can always adjust your fan curve for lower temps. For the price it’s really not a big leap in performance from the last series model but this GPU will future proof your rig for about the next 3 to 5 yrs. 850w minimum psu if you’re looking to overclock I would recommend 1000w.",
+        "user_name": "Kevin",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK00VoZ5D3OY1LBxQ-atbbNf6XjS8kDV8SmgEAFmvr0a00dDv5wJy5eGt_Jd_tLwjYkqUQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTX3ivYBrCw1IZ-w5av5OWcS96fyy4FuV-s-TK1HwP1GvgfbuDVIN-CzJXnVtMNCR00BIxXliEHCiW8rRrXfSjjwFLV3uUe",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSrtclMLreuSssuSKDlHoKIG5m8XlNpECF989UQq1a2g72L6OdxAYQ7hPnEsigoP_a21uYpst9IDWaCuauibM-AfTthsW1xaw",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSGYcix6sF1yrWgLswEAIUZqMzAGF_PHkh0fdGIriOG9JmS2G9Zqf7OmNCq8Hyb7QTaD8rAQSS8wT9z3RPupKH8IVfSwAc9",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQcA4_du9hOg2WlaNegDq71T6FdwjsYkjyrLXEXZAQ90CUWkNigAFFdHfmEdWrM6QIAwOa1NTrU-WqgjGwYp0vVpaqD_tEG"
+        ]
+      },
+      {
+        "title": "PNY FTW",
+        "text": "product exactly as described. Upgraded from a 4070ti 2xVentus that I handed to my girlfriend. Considering that, the size difference was substantial (see pic) and I had to be careful to clear the case fans and hit the case fixture for the card.\n\nOnly had real issues with FedEx not notifying me upon delivery so that I could sign for it, so I had to wait an extra day or two. still worth it 100%.",
+        "user_name": "Dylan",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "5 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3-YDibl8Wq-ulxRNivOfw2oX1LnYViKzY3Q1oW8AWQE3_5pB8POe4JD2BNfukXZ2QmHw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRz85ieF8GjyATKCK2nDjXcdsTVfp87tsXN-CVdMVdReyCEc4_WihryCMO-4sWnIvL9gBbEcU3BZWzp57_tfP31kDVAttb-hg",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTRPfxnqpRMQmx11mHt61jm6D-CyM32yKTardmFqGk2CI3UWX6fwbEEB-tqsrn_dJVojfXuZ6cQ4lnMi6lubqFd1lcbf6OR"
+        ]
+      },
+      {
+        "title": "5080 Gaming",
+        "text": "This was a amazing experience with Walmart through the website. I was very pleased on the product being sold and shipped by Walmart specifically and I actually arrived the video card the next day. I was very impressed on how fast I received it and the price point was amazing actually below MSRP I would recommend the PNY GeForce, 5080 to anyone out there looking for 4K gaming.",
+        "user_name": "Geremy",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3VlIrrlBYu9G0vxK34dFv69k-GPkmRnvlZrlhUFgQAAG66Z5T9DDV4DwHMsBQRGhCODg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQFWy0oHLARBxBWpzXvFJHRPTIWmw8Ot1kyU0rC0I8WGpv7H3I_9MWLUEaccJT_fVXLkiH0hcrZX32a8W0LH8AW0WQUiIuHzQ",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT3d8MdIVDN0U9LWp3SY32VEke2n0yPZFc3Pcl6qxDdNF-AUix-AxbNaSa8BKnEkFlrc4S9l4XRYEhy1s2rRAKRnwW-6JVI"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Noisy or Quiet? PNY RTX 5080 OC Triple Fan Review",
+        "link": "https://www.youtube.com/watch?v=NRRDum5auOY",
+        "source": "YouTube",
+        "channel": "iVadim",
+        "duration": "9:01",
+        "thumbnail": "https://i.ytimg.com/vi/NRRDum5auOY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3krJqLeO0WCKHgKDWgKMPTjPeT-4A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcROBsYP3XHtWoB1bMzkN3D8aZXLZGyDgy-cmg"
+      },
+      {
+        "title": "PNY RTX 5080 Review: Is This the Best 16GB GPU for 4K Gaming?",
+        "link": "https://www.youtube.com/shorts/DuYZrQBqVQo",
+        "source": "YouTube",
+        "channel": "Tech Bing",
+        "duration": "0:49",
+        "thumbnail": "https://i.ytimg.com/vi/DuYZrQBqVQo/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3mwmiqYoa834rrjCuHZxescRZDkJg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRRnoSi6hBPTZk983rI9hlpvWx4ocqUraQ-cw"
+      },
+      {
+        "title": "The GPU Small Builds Have Been Waiting For | PNY GeForce RTX™ ...",
+        "link": "https://www.youtube.com/watch?v=tTfLRkeLfX4&vl=en",
+        "source": "YouTube",
+        "channel": "Scan Computers",
+        "duration": "2:29",
+        "thumbnail": "https://i.ytimg.com/vi/tTfLRkeLfX4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nsQFDYa6ySqN-XYGoGU4qfvOYu4Q",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQaFoHmBR5mn4r60TqVz3012CJmZvi86LqWdw"
+      },
+      {
+        "title": "Did PNY Make The Perfect RTX 5080?",
+        "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds",
+        "source": "YouTube",
+        "channel": "iVadim UNBOX",
+        "duration": "11:19",
+        "thumbnail": "https://i.ytimg.com/vi/zc0e9zN2Fds/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lN-drpyjgaueUtwd7bw7CUMSGSDg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT8gytHeDRYRohJvNntAjM3wCgXyG2mkZ7_Ew"
+      },
+      {
+        "title": "One of the few RTX 5080 you can actually buy... PNY RTX 5080 Review",
+        "link": "https://www.youtube.com/watch?v=Shx4V5FYOLM&vl=en",
+        "source": "YouTube",
+        "channel": "ImWateringPSUs",
+        "duration": "7:21",
+        "thumbnail": "https://i.ytimg.com/vi/Shx4V5FYOLM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kzNNyGKX4Z8PSVFe5yVVE6UuZNNQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQq0RHyEOpCljQwkbBD-v9RljMESxcRcLyjTA"
+      },
+      {
+        "title": "REVIEW (2026): PNY GeForce RTX 5080 OC. Features.",
+        "link": "https://www.youtube.com/watch?v=XsMEo4-h60M",
+        "source": "YouTube",
+        "channel": "Comparative Reviews",
+        "duration": "0:47",
+        "thumbnail": "https://i.ytimg.com/vi/XsMEo4-h60M/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mBV9z2jUbcMp-qNHZKJ9CJnAG6dA"
+      },
+      {
+        "title": "My NIGHTMARE Experience with the PNY RTX 5080. TERRIBLE \"support\"!",
+        "link": "https://www.youtube.com/watch?v=nXsWqzdhfcE&vl=en",
+        "source": "YouTube",
+        "channel": "Travis MCP",
+        "duration": "13:51",
+        "thumbnail": "https://i.ytimg.com/vi/nXsWqzdhfcE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n-PLJ0RniyPf_vAUhw3ls3EJSbMw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTEDG9PWwDNyG4jWv9RTeCnAgBhxV1dGvavkw"
+      },
+      {
+        "title": "PNY GeForce RTX 5080 OC Triple Fan 16GB GPU Unboxing",
+        "link": "https://www.youtube.com/watch?v=QdX6IqqeuAc",
+        "source": "YouTube",
+        "channel": "Bang4BuckPC Gamer",
+        "duration": "6:58",
+        "thumbnail": "https://i.ytimg.com/vi/QdX6IqqeuAc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kwZPO-f3ypbUorF7Jy-pfvpHFcaA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ23L_vXUWPF83xOTTpBibs6PjNTf2yvkQEdw"
+      },
+      {
+        "title": "Unboxing & Installing the PNY RTX 5080 GPU | Next-Gen Graphics Power!",
+        "link": "https://www.youtube.com/watch?v=Vscic8F3w5s",
+        "source": "YouTube",
+        "channel": "Semi2Tech",
+        "duration": "19:45",
+        "thumbnail": "https://i.ytimg.com/vi/Vscic8F3w5s/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k1h0zatzqf0CGBP4q85ff1XkH-mw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT0Ieecab6hdVAAAkHYBAsmOvCXt0aV2iZ11w"
+      },
+      {
+        "title": "Honest Review: PNY NVIDIA GeForce RTX 5080 Epic-X ARGB OC Triple ...",
+        "link": "https://www.youtube.com/shorts/2Gpv38ZtYmQ",
+        "source": "YouTube",
+        "channel": "Tech Trends",
+        "duration": "0:54",
+        "thumbnail": "https://i.ytimg.com/vi/2Gpv38ZtYmQ/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3mjjCwGuc7A_DxVc7zdepycLeZoPA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQniaimikJFNcjZ8gDhJm5iYTgcNzBTeUgxHA"
+      },
+      {
+        "title": "High-End Gaming with the PNY GeForce RTX 5080 Triple Fan | Review",
+        "link": "https://www.youtube.com/watch?v=ILlvqHrbC7A",
+        "source": "YouTube",
+        "channel": "BPM Power",
+        "duration": "3:58",
+        "thumbnail": "https://i.ytimg.com/vi/ILlvqHrbC7A/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n2t3PNrds0D9tktWgZdHMdLtrVKA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTtfnzjmQFwYi2aoqKjb79aIja_leuvxK1sxw"
+      },
+      {
+        "title": "PNY NVIDIA GeForce RTX™ 5080 - Top Pick",
+        "link": "https://www.youtube.com/watch?v=zM_LEGRMR1M",
+        "source": "YouTube",
+        "channel": "abdjadko",
+        "duration": "1:01",
+        "thumbnail": "https://i.ytimg.com/vi/zM_LEGRMR1M/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3keGSCdaCwc1DsjziF6-b0wSFA3DQ"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Does anyone have the PNY RTX 5080 OC? : r/nvidia",
+        "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/does_anyone_have_the_pny_rtx_5080_oc/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 42,
+        "items": [
+          {
+            "snippet": "I have the 5080 oc non RGB. It's not that small, 3 slots wide. (Compared to others that are 2 slots) It runs really cool even at load, no coil whine and overclocks like a champ. So far I have +400mhz on GPU clock and +1000 on the memory. Max temp is 60, and that while running furmark. In games like KCD2 Its around 50c at 4k ultra settings. It's a great card.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/comment/mdlxnek/",
+            "top_answer": true,
+            "votes": 28
+          },
+          {
+            "snippet": "i ordered a pny 5080 OC non RGB. Should be coming in March 15th (UK). got it for MSRP from Amazon. Guy on this channel has one and has done many reviews and comparisons.  Says it overclocks very well and unlike early reports appears to have an unlocked 110% power limit. PNY is an absolutely premium manufacturer. They have an exclusive contract with Nvidia to build their workstation cards (Quadro etc). They wouldn't get that unless they were quality. PNY have also just taken over EVGAs defunct production line/tooling as well.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/comment/mcpztja/",
+            "votes": 24
+          },
+          {
+            "snippet": "It runs really cool even at load, no coil whine and overclocks like a champ.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/does_anyone_have_the_pny_rtx_5080_oc/"
+          },
+          {
+            "snippet": "Biggest con with the card is that the minimum fan speed is 30% (1000rpm)---and that the fans make some weird howling noises at that speed.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/does_anyone_have_the_pny_rtx_5080_oc/"
+          },
+          {
+            "snippet": "Even with undervolting, custom fan curve, and changing the thermal paste into a phase change pad, the coolest it'll get is under 68C after testing for a hour.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/does_anyone_have_the_pny_rtx_5080_oc/"
+          }
+        ]
+      },
+      {
+        "title": "Is the PNY OC GeForce RTX 5080 16 GB a good choice as far as 5080's go? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1o5lsx2/is_the_pny_oc_geforce_rtx_5080_16_gb_a_good/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "9 months ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "I think its good, my first one has a bad fan bearing which seems to be more common than it should be, but my second has been perfect. The cooler is amazing, but you dont get a phase change pad like some of the higher end models. Stock OC is somewhere around 200mhz.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1o5lsx2/comment/nja5eh0/",
+            "top_answer": true,
+            "votes": 4
+          },
+          {
+            "snippet": "I have it for 5 month. It's a great card. Pushed +400 core, +3000 mem. No more than 58C in games. Very satisfied!",
+            "link": "https://www.reddit.com/r/buildapc/comments/1o5lsx2/comment/nja72ei/",
+            "votes": 2
+          },
+          {
+            "snippet": "The cooler is amazing, but you dont get a phase change pad like some of the higher end models.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1o5lsx2/is_the_pny_oc_geforce_rtx_5080_16_gb_a_good/"
+          },
+          {
+            "snippet": "dead silent too, fans don't go over 40% @ 68c",
+            "link": "https://www.reddit.com/r/buildapc/comments/1o5lsx2/is_the_pny_oc_geforce_rtx_5080_16_gb_a_good/"
+          },
+          {
+            "snippet": "It's super quiet.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1o5lsx2/is_the_pny_oc_geforce_rtx_5080_16_gb_a_good/"
+          }
+        ]
+      },
+      {
+        "title": "Excessively High Temps for PNY 5080? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1j99ed1/excessively_high_temps_for_pny_5080/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "My PNY 5080 is getting pretty bad temps and I don't know why. It's easily hitting 70c in games that draw 360W, this is at stock. My GPU isn't mounted vertically and my case fans at 100%, but even at 20% there wasn't much of a difference in temps. Side panel off makes a little bit of a difference, but temps are still way higher than everyone else's. OC'd Furmark hits 74c with 54% fan speed after a few minutes.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1j99ed1/comment/mmy4ofn/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "Hey guys, just got this same card. Anywhere I can see what the default curve is for this card? Is there an option thru MSI afterburner? Thanks",
+            "link": "https://www.reddit.com/r/buildapc/comments/1j99ed1/comment/mqe8b91/",
+            "votes": 2
+          },
+          {
+            "snippet": "Using FurMark at the same overclock, I was able to get it down to 67°C max at barely 56 percent fan speed.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1j99ed1/excessively_high_temps_for_pny_5080/"
+          },
+          {
+            "snippet": "It's easily hitting 70c in games that draw 360W, this is at stock.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1j99ed1/excessively_high_temps_for_pny_5080/"
+          },
+          {
+            "snippet": "OC'd Furmark hits 74c with 54% fan speed after a few minutes.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1j99ed1/excessively_high_temps_for_pny_5080/"
+          }
+        ]
+      },
+      {
+        "title": "Windforce SFF OC vs PNY Triple Fan 5080? : r/nvidia",
+        "link": "https://www.reddit.com/r/nvidia/comments/1p7pmkq/windforce_sff_oc_vs_pny_triple_fan_5080/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 months ago",
+        "comments": 10,
+        "items": [
+          {
+            "snippet": "Hey, I'm pretty happy with my non-oc gigabyte windforce 5080. For science, I flashed the aurus master bios 450w bios and hit 10k on steel nomad (top 1%). Keeps pretty cool as well. I had the option of a pny as well, but for -$70 CAD I chose to take the gamble with the gigabyte. Glad I did though. Just to provide another data point, a close friend has the 5080 by PNY, and it's also absolutely solid.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1p7pmkq/comment/nqznpbs/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "I’d go PNY. But I wear headphones most of the time. Gigabyte ain’t looking the best with the gel issues.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1p7pmkq/comment/nqzrv63/",
+            "votes": 2
+          },
+          {
+            "snippet": "The cooling is great and the card isn't loud at all IMO.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1p7pmkq/windforce_sff_oc_vs_pny_triple_fan_5080/"
+          },
+          {
+            "snippet": "60-63 degrees at full capacity.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1p7pmkq/windforce_sff_oc_vs_pny_triple_fan_5080/"
+          },
+          {
+            "snippet": "Keeps pretty cool as well.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1p7pmkq/windforce_sff_oc_vs_pny_triple_fan_5080/"
+          }
+        ]
+      },
+      {
+        "title": "PNY RTX 5080 Slim OC",
+        "link": "https://www.techpowerup.com/forums/threads/pny-rtx-5080-slim-oc.347980/",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 months ago",
+        "items": [
+          {
+            "snippet": "Despite its slim 40 mm profile, PNY's vapor-chamber cooler with six heatpipes delivers competitive temperatures, and the card ships with a high 2730 MHz factory",
+            "link": "https://www.techpowerup.com/forums/threads/pny-rtx-5080-slim-oc.347980/"
+          },
+          {
+            "snippet": "It is also has cool thermal profile!",
+            "link": "https://www.techpowerup.com/forums/threads/pny-rtx-5080-slim-oc.347980/"
+          },
+          {
+            "snippet": "27 dba as smallest value in this review noise chart gives a wrong impression for those who value low noise as one of the biggest factors.",
+            "link": "https://www.techpowerup.com/forums/threads/pny-rtx-5080-slim-oc.347980/"
+          }
+        ]
+      },
+      {
+        "title": "R-T-B's PNY RTX 5080 OC Photo sideshow.",
+        "link": "https://www.techpowerup.com/forums/threads/r-t-bs-pny-rtx-5080-oc-photo-sideshow.338280/",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "It keeps temperatures impressively low and features a clean design with an excellent RGB implementation.",
+            "link": "https://www.techpowerup.com/forums/threads/r-t-bs-pny-rtx-5080-oc-photo-sideshow.338280/"
+          },
+          {
+            "snippet": "Still, the cooler performance is there, I've yet to see this card top 75 C and that was with the stock paste running a 3dmark stress test for a good hour loop.",
+            "link": "https://www.techpowerup.com/forums/threads/r-t-bs-pny-rtx-5080-oc-photo-sideshow.338280/"
+          },
+          {
+            "snippet": "Oh and there were thermal pads on the backplate, just fairly mediocre ones like a lot of the cards pads.",
+            "link": "https://www.techpowerup.com/forums/threads/r-t-bs-pny-rtx-5080-oc-photo-sideshow.338280/"
+          }
+        ]
+      },
+      {
+        "title": "PNY RTX 5080 OC : r/nvidia",
+        "link": "https://www.reddit.com/r/nvidia/comments/1ktoyzq/pny_rtx_5080_oc/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "No issues whatsoever, very quiet and powerful, running at 3ghz and +2000 memory and never goes above 62C",
+            "link": "https://www.reddit.com/r/nvidia/comments/1ktoyzq/pny_rtx_5080_oc/"
+          },
+          {
+            "snippet": "Good thing is that for me, it doesn't have to ramp up past 30% with a little undervolt in the games I've done so far (cyberpunk, total war warhammer 3, darktide",
+            "link": "https://www.reddit.com/r/nvidia/comments/1ktoyzq/pny_rtx_5080_oc/"
+          },
+          {
+            "snippet": "I hear it runs quieter compared to most other brands and some reports of weird howling noises at lower rpm's.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1ktoyzq/pny_rtx_5080_oc/"
+          }
+        ]
+      },
+      {
+        "title": "Can't decide what 5080 to get : r/nvidia",
+        "link": "https://www.reddit.com/r/nvidia/comments/1qvbscn/cant_decide_what_5080_to_get/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 months ago",
+        "items": [
+          {
+            "snippet": "Cooling solution is very good on this card.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1qvbscn/cant_decide_what_5080_to_get/"
+          },
+          {
+            "snippet": "Its quiet, runs cool and kicks ass.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1qvbscn/cant_decide_what_5080_to_get/"
+          },
+          {
+            "snippet": "Very good news is that cooler is fantastic and fans start rotating at 990rpm.",
+            "link": "https://www.reddit.com/r/nvidia/comments/1qvbscn/cant_decide_what_5080_to_get/"
+          }
+        ]
+      },
+      {
+        "title": "Fractal Terra - PNY 5080 OC : r/sffpc",
+        "link": "https://www.reddit.com/r/sffpc/comments/1j8v03p/fractal_terra_pny_5080_oc/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "It has one of the highest OC potentials, a decent cooler, and it has an unlocked power limit to 125% - and a 4 year warranty compared to 3 for all other AIBs.",
+            "link": "https://www.reddit.com/r/sffpc/comments/1j8v03p/fractal_terra_pny_5080_oc/"
+          },
+          {
+            "snippet": "Deshrouding was quite simple - all you need to do is remove the backplate to reach the screws holding the shroud to the heatsink.",
+            "link": "https://www.reddit.com/r/sffpc/comments/1j8v03p/fractal_terra_pny_5080_oc/"
+          },
+          {
+            "snippet": "Heat was up to 65°C with custom fan curve, barely spinning.",
+            "link": "https://www.reddit.com/r/sffpc/comments/1j8v03p/fractal_terra_pny_5080_oc/"
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "NVIDIA GeForce RTX 5070 Founders Edition Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTcHxS2CiAUPwauS-XPy2dJdFhiP6Pr_QgnbgTJhEbGIsMLNFB83Ji9nunDzpzDtFYcM1BRCkKu09Y89c80Ok2jqiFAXfLuPK7EPCrQTKM_9ONm2Z3nVThM",
+        "price": "$799.99",
+        "extracted_price": 799.99,
+        "reviews": 343,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EYT7t3icdVTJrqNWEE2yj5SfyMqyxL3M2dlMNn5MF7gYNhYzmNGAB1C-5nW6pc6yO1K2-Y3uRb4jy_j1OqlpU8NRVanq7-9-ek3LP9VLn4ejQamscu8nyyz3Zjla1Md-6JJrPJXJHwCQkGYJguMhy0CKeCr7MQ6nsO7yMvkMSIYDkCdZ8CYkR3PEpyINk7psUyPL0kHs4m9VIANogoeQpDgGcgzLgd_LJszTb_7PPMUDjqRommcJngQ8w5LvhmT8QpnCCVA8S5M8ZHiaeoJwPAPhryYyxNP_ON9frukwf3HqcErHaRVfhyFtp1WetukQTmXXrpJ0rKauX-VD2BdlPK7icEhWiumu4q7pu_YtfEjrNBzTZAUJSL8ZZtWm9_d5_62f_4B915TJJ5plKAbSFAXg2yx4knvX36bXIn_N69fr-FrUr2n7oQv7WxZ__f4f6RYLwhALltv3WESE7RU4bCYyOGPGcGtSIwLTdWIYug8aE9yMJNQFFR_YkDfcVu1Dz18QBL4tcxAtsouUwrQrHkYtniIX-C_YJxIF-eGii3GDsaEA67joWgxVEEuPM6rUQ9r6lNbwyAb91XVrKpYC0j_L95iURefsAk_Bsqugm24D58WrtURWESKxHbkIx0pwcZc9wEvQYhDQ1pIoPlRt5D0Ive4d15P18Lg1PVz4nlM_Ii_JLO8h4Fq_6fJ-Cr2esUWMfVx4iffQYlGbIq9_pB4iHLy1owosLy5fugrQEyJAftsT-JzPjlMIuEIowch2Fr0KQTFhebvXJPUauHLoV7WfkD5I3WK0gE9EJTg75Ha023yOFKBgOFG4SbDm6UMMJ9sQ0eJK8WwcZdImEybcFRfdUR1bwudEcm2Z6GCsJEUiFa6zC67eTgUIb6DfBHUI5LNSqlu002fDC-wQF1hr8MUGeAqAmtmtCjyPp7RjfQhbvYuOW_TbYxyyL8RGpp_Yz5PS9Rz4WRfM91k6e4jp3WMtPw_I-gWwHMUCngcQAu5D3HVVmX794ceNJPxMiptExVI47YnbE0Pe2OdjdDjzYl3k-YGgOxCv653Xsu6jG3kLFwE4uLIreYqwyX8mtysRP2t0SycoKBmvuV-PO4uYjeiUQUAHbROs5YpKZvRoCrhcNvvNk97y9L34TKRJ8mmP27uijyl3JF9wcKi24XRJVKsMovVAaxKXbLKqj6ezoKnj_LIIpjZPTLCGGVRYUO0zK7ju83vvaR3BbZj7PPaLGJBgrodj1YGNNUe3TXROC_Pk15ywSDN11yM3NutMi9hZXqeTNolBJagZm42goNuuPe9amjSPy1k-WIvPVnfN2UhbnKwN5XDigE5QmyNzOZIbNgEvC93vCGmgeupmUDttlFWBYLdSS96XScE7Qo2mqTV8kUwsU7d8A5VrxOybwqY8AVXWEW_vBU47vC97EbzN5nSy0-fHSde2g8y3FelNcA9JkVIOgUlTuovaaurVFwGtKUvowJS4j0a7sOHy5IbP1kZI3Hmzs-mrs75ehi7zCf0CUcuoV0MVdhU8oUNdEDealoyDc2n8Snq-mOyvfwE8Gety"
+      },
+      {
+        "title": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTk0uiqg47XN9cI-GD2uTz84rtfNz3QeTYrTBnooxOiSe3xPVja-bHVysYUNdHQV_YudKXj8floXf_2jGSxXNe2idOD3bJtv50klO-OAL0",
+        "price": "$1,049.99",
+        "extracted_price": 1049.99,
+        "original_price": "$1,134",
+        "extracted_original_price": 1134,
+        "reviews": 578,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NxZYKXicbVTLrqNGEE2yj5SfyMqy1N28s8OYh_EFDIbG9MbiZYNpHgZsbCtfcyeJNFnORMo2vzGzyHdkGVvKMl3qkkpV56hOlVR_f_PDe17-aZ67Yzw4rCnoUze6m3K1KQeX_dj1bXZJxzL7A0IGcQIAooQEHrHg-YWPaTzGtD2W2WdOgJzAQI7nBBYBxEFG-lTkcUbLJncOh7xftumLBXGMJIpQREBkRchDAQm_l3V8zP_LP_GIB092DokCg0QA4Ic-G76gjbKHEhRYSRAFyCJBkBAA0s8bz1nu_z_36_mS9_cvPo3HfBhn6aXv82acHfMm7-OxbJtZlg_V2HazYx93RZkOszTus5m-CWZpW3dt8yrvc5rHQ57NXqpejp81-fTrsXu2-xm-lDBP3YBDEEKB4aUPdZl94gSefUpgWYhETgQSI37oruN7cXw_0vfL8F7Q97z5rY276yH9-u0_6jVVlD5V3KDr8NIDvtZ1LvC81LDXSWWPCSIVBjD0Q2uKkWkksIjS2rzmwfGWYhxYSxPG-gRtzTwEGq6DYLplUAIppFyKu1sMPTMBUhuqcAix3dp6wXqVtCY6DQjFi1C9DbnOUasCTMBYj4QWk19xpbcFTLi0pgSZLUF4TLGN4zAzbX8ROqrN44AYHlzdyB0yFj0-wsYzYyxRr4RxTikX7SgJMOYdHZq2OuJkC_0EZueQ0tKGhGQVfGBAIj_gWrvGTKi6D09bcLgmUVKZJ7eKQGzQm6dSK97C8Umm2TC6be_wEoSdk6Abn-zIitTdLQ0JiCA2SCB5fj1x-OSR0CeuyxSx93CRV912iS5dtnVGdsjmw2DEmEpdCsa3BNkbAiQ2qgour7TCbUzWqjs9VoliB_QZL5aZYW010KJUz4pMLQLfIJfQMKGHZRTVhMZQO-mlufAM--6EZBtWXkkYXLyFAOQ6ZH1qUwK12N8F0L7Dm-vTxS-3oT98AbLGjVuHbQF7G9QCrZvNkLhyxOiw0-19r87ln6AgsgKUJIgQlH5L27Yq86_ffS-ryo_MUs5MrMbjClwbE2ry9rRL1idpSYvjcQ24FqZzaoSNENzaQXJxQeA60AI11BX5-COzmC3xk6N9tIruZcPlGNHBcMHdSfYHBDnS1GSuVWx29251gR5neSU_3wtnr5ZPIMcwT79bTLo95OKOecNkXS3i8ZyZbkmSec9ZqpjJh6pLx5NimcP97aFsrPvIkzk6IF2A1ergksvqOHWh1QJR5qf70D2WhIF32u-qFsruPbnKySkvNvuIispDvbOTnQTphh6sRLhr83y0xiWpFPMgHAZYcE3bnIyGYza7x0lbu49IqCbLl9UFzuaOvt6L0AasvOPPO0YWMvj24DoDqD3bsVeHNaxBMxUgLNSGmR6jjg1gJuPYONGSydyN7UaOV849flUXWzZUvMrd4cVU4LzFq7Jbwtds9vtt_jw4-Xzre5vXiuyaTDGzZPU12XCsHXhNNXbmm-LNWVdp4ZgFt9o6C_HjabV0mDsxmKRNu-Uu_vxy7ttDBOwz8hrevDimYlRo761pAa4cpzpr_1xHlfo8MYe__gVIYOlO"
+      },
+      {
+        "title": "PNY NVIDIA Quadro RTX 5000 Graphic Card VCQRTX5000-PB",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcShZ33R9JwP0792BxkSTGy8_rEsOT4CK33CQ-Fz4QuMUOeIgYHZ5CD2MwZy561VPWILaJOH3fjoMYZrjQL7qFuXtvpjg_3JwoYcjS4RVczyEjo0AA1lpcBd",
+        "price": "$626.12",
+        "extracted_price": 626.12,
+        "reviews": 4,
+        "rating": 2.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=igOD0HicbVTLrqNGEI2yj5RFfiEry1I3TfPIDvMwxpdX87BhY2EaG8zTgK9tlK-5kxlpspxEyja_MbPIt4SrbNOlLnXrVFWXTnXVP9_9-JYVfxnX7pwMNmvw63s3uk6xcYrBZT93fUtv6VjQPyFEDOYBEESG5xgWzJv_nCZjUrXngv4hQF5gGV5kIOQwJyAWgC95ltCqaDL7dMp6pU1nM44XIMsiQRQZBgMoQgH-XtTJOfsPRiyLBYA4xGKGAYBDDPjQ0-Er48gHEQsi5vEMICgAnudY8KtDbOXw_9jH6y3rn1_9KhmzYVykt77PmnFxzpqsT8aibRY0G8qx7RbnPunyIh0WadLTxdoJFmlbd23zbt5nVZYMGV0wgMHvils02f3juXvPluEEyHGYxYjh2PmMMPpQF_QLnt_nZi54LM5UAIDAh-51fMvPb-fq7Ta85dVb1nxqk-71lH77_ie1vSvycJfdoOtChQBfMzQX0CKr4y6ERM_0kg0RsXdKBH29nJLAqF1EWlJSmKr01Zxo6OkaSqZq2Pkxl1ZWRdV28sou2COjNZtO9lXS75n0bms5m5Rxn1zCnRU8EIHGkAS4tAD78CFV7JAURDNsqq8CszGxVWmYIuoQUG18v0TuZSUfdy0IK-NKlGja7VetC2njlSoKUcnEDGXc2qiPali4iKohor6L4pBMeZuFpIuhO5lBCpKmK_xy7NP1CNOdsfIZ6_WokCpViBpoxi0EJk5QOMePxpcgt0md4swncqpoo4dWTtKEJ3u_ugYhvVIwPs0pmKJaPBGl2tKSGFZ5hy9--LQCqlp1tw0Ul42VAJKKrpKa4lhPUahCxvK1JApGlUya49eP0kOGTiDBEWjHaF-RY02V4yW3skp9BPP9xYMk0y3P9nM5CkLn6Oc6rVtPAy2TrmlO1Tzw9fi20w1IQomJ6rhKoHZZF8aK6NbT3sWe6cFrujaIW4o32lBtDwNgVt0jDUWbKCl2y5D89hj601cgaXj0bLadqzOoObNtnOHoShFaw25tHXp1Kf3y3nc8FEXIMFD8lLZtWWTfvv9BUuWfkSJRI1STcQNeGwNqknfZH7cXUany83kLcAvTZaXvGj54tIPohnkMt4EWqLu1LJ1_RquFEs4x2qmV14QOt3NUDboLnvbxcGIgjps6XmolS5_kUefMdJU20rze_ayNMjtihGa9X93X1pAJe_QSxttylYxXarhFfFz22FQFKp3KLh0vsmkMz5dJdsznyMVL5sSseVhuTm5825zv3c5sgSBx9-fQTUqM4LPq92ULJfd5fJWOlyx3DlElyJP6ZO_WMUid6mQe-ae2zEZzVOJSNk78aYA5btrmojcYOfvpom3dKeLLu-lL6iqkS3u9PQhwbgVpz133SOIpfJlwpwO1Zzv21WZ1c9AMGfArtUH3aVyHOjCO49jYkYKo61huZJNiSbhNnXvsTialuw9X9zzM2nBTdAp85-Zw8LJ5GGVLzyfOe4msOr4nSGHX29jBrBWQphw740UmS9aVWzjS4FGbVz6ZZpl_-NJOwF10Wg_f_OXt2renCFhXhjSccbMNWS-ZA9lWOXjFWLW3_rWOSnUeP6e__wXKLPNI"
+      },
+      {
+        "title": "ASUS TUF Gaming GeForce RTX 5070 OC Edition Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQdjCqOrRMkyK0Ut3Aq_oSA-Ofnhm8xZ-nKMMWUORbKRZkxGoN0hAhEF6RgFCGQF02s5EzjtxoRPtszbvfYCcumrKwCmKLHDlFKvKgG0-I",
+        "price": "$749.99",
+        "extracted_price": 749.99,
+        "original_price": "$800",
+        "extracted_original_price": 800,
+        "reviews": 196,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qKJ2RXicdVS5ruNGELSdG_BPOBIEzAwv0RnFU9QjxXMoMRF4ihKvEUmJouCveetdYB2uF3Dq39gN_B0Ozbex3Y3ppKamB9WF_vu7n16z85_6lZyifkfrnDqSwbbOG-vc2_RH0rXpLRnO6WcIKcRwAKx4xLGIBvPhPibREFXt6Q2maW7FsRQPEFgxgGUAw38qsiitzk22y_Osk9rknP4BAQsg5BgeMYhZcZBluN_PdXTKvsGfIQAAIg4yFKB4BvHU3PVdl_ZfaEs8wpnDszRANA8gixA1x6-Ws5OO_wO-v96ybvriVdGQ9cMiuXVd1gyLU9ZkXTSc22aRZn05tGRx6iJSnJN-kURdulAtf5G0NWmbt-tdVmVRn6ULBBDzVthFk43vT-Tbh_-j7bv6nH5iOJZmEUPTEK2YFeCp1TtyH16L0-uper31r0X1mjUf2ojc8-Tr9__I90QUu0S0fUKw5AAXpbpxWdt2Wd1jX5exT5oo0FHsKy8ve6LagIzGc_0MfB25nqkE9cA6fjE5PikjylHDQMldtbia0B4Dv7j7WrHOcFi5cH0JSgwdSqFtSCIshVRawiqCa-IGuIu8ZMKKcjAgcTx5nDJ1M8QaRrhaP43AvAR1cbAR1KIaVkFA9qaiXBwso_CijKlnPw9B4ZmwpUOcTlkAB-z5j7gh2KwVMdP8p9sQZGohxCrZvOBk9BVCnMB-HIJHvlNLOtinO7MpVF8N77GKcSzPkEqDqOQt0_MZZ69ssDogr4QbjMJNJoWVjao-hqaRyMTPNIVO1QE71FrJtHC2J3GMCz7EYNah4h9eWblOUFWGVtxdpERhPdJu6VhRXd2zIJxSxTF8Sb8nMiw9X-8dUESxpLSBVAHPE1wFtChR0yKVC9_Twlug6dDBAjrU4ayhclHP-trRzGkXhJ6JnH2K6Cm44BumTJBWfGg21RODMDew8pJ51fq3R9_lX4CgMIO7o1tAP3q5QNvG6mNbOFAqJKp57OSl8AvkVjQHeR4iBPkPSduW5-zrDz8KsvgzJQmpjuVo2IB7o0NFcC_7eHvhpao4nbaAaWGyrLSg4fxH2_M2LkK49RVfDlRROP1MrRcSnt9on62oOml_Ox2qXrPBtIuPOYJM2NThUinpdHIedYGeV2EjzPHGMzfSTGQoaq779aiafbbaUy843JbraLimun0O42XHGPIqFfKSJMNFNPR-enmKljENbLhEOVI5WG5yO7xtTiMJjBasBHacevKcrQmnqtuXLRTsKb4L8SUrrOOhWolPeaJHM_YTq8qNmJuUZTYYgxSWop5zeQ8Lpmmbi9YwlLV_XpTtbEyuHA1PkNc4Xe7U7XEFTUALe_a6pwQuhS9PhmhA7mhC33e0ZvSKLgJuLTfU-BxUrAE9HoZmd5Co1LZM-7BzzkuH3dSFSweiU9p7vB4LnLV4cyYSfNPmeHSzeeNkS9dzrLcRmXU4RpREq9vQYmjTd5pyIPqL6CxpW2zhkPqP2rhy0XPOms-XuwiMvNW6zM1b3q5dmx-AeUVOw-q3nS5qJTo626oAd4aRd1vvWh9KeV4x-V__ApQj7FQ"
+      },
+      {
+        "title": "MSI GeForce RTX 5080 SUPRIM Liquid SOC Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTD59hBd8ybCwnaZ5pHSoP0rehf7xFkZDkcnz__QUkTHr9AFCCDn1AKRJmUbpqZ21-fqNpXD16nY-sOwDhzWOAqoRKVeiMH1Mz7YZxOdCw",
+        "price": "$1,799.99",
+        "extracted_price": 1799.99,
+        "original_price": "$2,000",
+        "extracted_original_price": 2000,
+        "reviews": 29,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Cu3H6nicdVTLrqNGEI2yj5RFfiEry1I30GCys3kaX8A0T_fmCmhsME8DfqF8zZ3MSJPlKFK2-Y2ZRb4lXGUZpVtdatU5VaWq7qq_v_vxLSv-NC7dKR5szhC0ezc6-2K7LwaH-9z1Lb2mY0H_gJBlkADASmQEnuHAfITPaTzGVXt6h1meQRyCAsfNtBUPOIb7kmcxrYoms4_HrJfbtKBfeIZFHIDCCq14KEIeod-LOj5l_6Ii4GcMIgGKgBNFIAofejp85fbS6xwAQMgzK06AAsuIKyCiX_fYll__B_x4uWb986tXxWM2jIv02vdZMy5OWZP18Vi0zYJmQzm23eLUx11epMMijXu60Pb-Im3rrm3e6X1WZfGQ0QUDGPQu-EWT3T-euvTfpP8T9kM954EEnpvVcxUEHs23Wd3dxrf89Haq3q7DW169Zc2nNu5ux_Tb9z8p7V2Whrvk-F0XyBi4QN1isH34snJ3_RyZavWgqggitn0kShCQpvKdYIX8yKoxKBmqGgdTg5hOm0PAoNqpjcitxSbxldGdct2W86OtIDfTYE9L0cBK4M-8G51oFGtB6HiEpf54MWvxmOkkd331QlXqpiy9BPXjij2s4MBkiYY4W6NmWIo-rjvG1iwFT3gflmORhPkzKx0GPwGiNdwQn2NNFoNoyh_JRKXEw0-rRjbWceErD92BVpsqA-uy5HYI4SXxydPzHyRpDNY75zgM8D4pTwwOV3enxJHpj0HA5J4VWo_UH0kCcj2tR3iIKhKU6JlAWgVw06UlZLxaLF_88eFO1HbO6tFWyUvYWJiqwSOTrYt_pnZQWSqZiOIDcSI-LYKJ2K58mEKdDtZZ9Q5Vd6XNhiOlcSYyDVwt2Fm62sZeOVolvDuwaucalQR0TAy2rgpaJtVoTpXc93RyDXUD4mDNHGpSxVA9a4Wxwbr1tEOC3SCFvkbKhMV6BIieyOpIPTWc8Y0pq7UXIvzbY-iPX8FaRaNr83lQZ1XNmpeDGr2cpYp9oGt9UC_Zw_llbqb5_4kiZBgGfErbtiyyb9__sFakn1l5TY1AicctuDUGVNfuOUp2Z1Gu8tNpB1AL02Wlh43gP9pBdIKcwJ2v-kqoSevTz-xmIQezj3ZqJQ3T4Xo6VIPugKedvB4ZiEhTk6VacvSJH3XOTJf1dj2vdztrK8-GiGVnGW3umjVkq4h9Cciu3MTjhRpOQZJlj0xlRdfHskvHs2Qaw_Nlkvbmc-TJkjkymgDL7dEh1-3p3oVmC1Zr_v4cukkmLHxWfVS2cO08k9s6OWf5_vVQraRJeXJ3K_HTfXU0E-GpLrPRHGVSSsZROA4wR03bnPUGsftoOqs7ZzoI5d301somoEtb272uoAW4dcRfInYtUPgyoU4HSs913M3mdHNQDQkIG6Vh79OoBTowknFs7IPMUmdvOQcbF0vMb-vc5UIJl04UbO55kLXBtuhk-F6b11c3m6dRtnQ9vH9_Iqsm95iVOW1H9oizfNyUY2e8SHjJOVILR-o_avMixNO85w5d2jG4i_vWRVdveb307fEArAuDG9642oakl8wr3lU5uCGk2DvvUh9KZR4_x7_-ARYk9Uo"
+      },
+      {
+        "title": "Gigabyte GeForce RTX 5070 EAGLE OC ICE SFF 12G Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS7tof31KnB8HH4qt2Im3xL-KXGdMmZ2JO6e6EqDliVwSKRwp6RvmN4OZ33815FaUgMgmQ2UC3YYGg7cmoFC8ZI0ahlW79sPeTaXfSh724a",
+        "price": "$674.00",
+        "extracted_price": 674.0,
+        "reviews": 8,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EJQPfnicdVTJjttGEA18D5BDfsEnQUAvXMTcJK6ihqS4L5cByaZIiatIaigR-ZpxbMA52gFyzW_Yh3xLOEGuqUbX5fV7qNdVqL9_-Ok1O_-pXrs8HgxKZeWpG83jeX88Dyb1uetbckvHM_kDQoxoFoANh1gGUWC57Oc0HuOqzc_kK7NhWA6wmGFoQC1Bs_hLkcWkOjeZcTplvdCm_6owFAMg2gAEAIM3ECLm93Md59l_OKbecJaGNMMhjDcY0x96MnyjjvwzXEQxXPTBgrDMBlIA_nq0DOH5f8CP11vWP745VTxmw7hKb32fNeMqz5qsj8dz26xINpRj263yPu6Kczqs0rgnK_nortK27trm7XmfVVk8ZGSFAKLfErNqsulj3i0Ff4UYA45hOLBhAcQcw27YD_WZfKHZxSjaYI5juMUuy6EP3cv4WuSvefV6G16L6jVrPrVx93JKv7_7WWwngR8m3nS7zhMsYENLtuccaA7p_JqWo3lHhY4Uu1VO2bUnmbCzNVcEid-NumdpLrqLiVLMrhM93CaqTHSfAqxKrjwiGxRlqrgoK9XeQZGeoAoTQN8Sl5s17Kmu0iLD5VpSqQORN2NWF4XvqSie1aMlqYVW59j21crGLq0rlRcHxS7xRyNB9C72OMoq7zutToHnE1mbLTsJtrNdhcivrJsvW34SFE3od4o1qyDB0S1EnhbMVhNAE2RioThBCokPFfuiMmYNcHqGQ4AllNWRaDg7nAkqdN3xnqBOID6xY2B1qaTHrmxCE0FP85Y6RW6ykXZf_DwMqTAtN5pSzzJMSDwXkMiqpScicpImd2J2SSnf67rYi6ak4jwbRbLTkPbJn-663B30yqudiowRSnEEiOki3YsUFZpwBwMUOaFDIhurli_ftQBagxbsH44i2hJoUSqTgoiF6yjRzV84lrdFYR1VMZQu8lndWYr-MPzITuuK0hvJiUE3hY1XJoIUa25Xh65-Dd2OTwHX_HYf-tM3sJXo0TaYwquzqsbaNZSCpwtf4Tt9q0Ppmt3NXyC7oVjILYOGEPiUtm15zr6_-3Er8u-xsCWqJ8bjHrw0KpS29iVIDhdOqIo8PwC6hem6UvyGde_twJleEcGDK7miL_Pb_D3erQRv0WjnlpctMtzysBoUEzyM5PmEIB01dbSWSoo8rHtdoPm63W-XeOPpe2Eh0hgvOdhNsj5kmwA_edGh3MXjlajmOUrWPa2JG7I9lV06XnhNHR5PM3_UHiMTrdEJySws9yczuu3zqfO1Fmy2zPQYulmIMHxUfVC2cGs-kpdtcsmK43NYbfhZfFCTnrjpsTppCfuQ1tmojUJU8uqJPQ2woJu2uSgNjY_BfJEO5hyy5aQ5W3HnkbUhH543UAfUNmCuAd6yBD7NdKcAsac66sWgFG2QVB6wO7HB0zzKngLUZBwbIxQwMY-6GRrWeW0x-7qwKZ-3SjPwdlPhZa23P3cCfPub52c7W5ZRtrYd6_jWIr2OphgLlHyIjjSlu1ZTjp36xFtryuRbOBL3XmtXNp6XU3OntRGDiTu2Nn1z1rdr355CoF-R1TDqzVB5pUTP1qEqwAtNi8bBudZhKS7r5_TXP1lt8qc"
+      },
+      {
+        "title": "PNY NVIDIA RTX PRO 2000 Blackwell Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQFF4wW_aIvEHdufDFShEoNvZejU88PKTWzNvkxvcXmViTIDnj_Txm0SGl0Y_kLStjdbsSPxGcgypsnwemAz1HnLBgdYeUqsgAMfBfXdjk",
+        "price": "$1,105.66",
+        "extracted_price": 1105.66,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9_bWenicdVS7zqNGFE7SR8pLbGVZmhkYwOkAgzE2YO6XxsIMGHM3YGNbeZp_syttyk2ktHmN3SLPkTL21skczWm-71znzPn7u5_e0tOf6rk7xoNBq-xq6kZzd1rvToNJf-r6llyS8UT-gJBCmAWAWyCWQTR4XvZTEo9x1R5fMEcDAGm0gBQFaBYCQHGf8zQm1alJjSxL-2WbvHiAZhgWUwyEDEYU5miO_u1Ux8f0G_47YiDNYvYFPYnMgmPA-54MX-iduIcsXFAALiDLUuwCYAQR-mVnGcv9_4Afzpe0v39xqnhMh3GWXPo-bcbZMW3SPh5PbTMj6VCObTc79nGXn5JhlsQ9ma127ixp665tXvQ-rdJ4SMkMAYRfipk16fTh2H2r5z_Cvq9P5DNmGZpBmKYh4jAHFhT3vruOb_nx7Vi9XYa3vHpLm49t3F2z5Ov3_0jXRBT7RDTdrvOWFnAUWTssSREV3ulQVZHu6bsAyU2iVFVyh2fT6x56Zd30h-wTj5_Iqtv6tTwlvicQWaiTgkhujWvNKR8xut0SgHOtkkNbiXqbigrDy1Xb0XsL5SiEHRM-CNz6eBc2smPWnmsG6jp0VdGkBF1D1URKAg5InQiwQr3ujFQmg-kClDiR5iwrLVl5wPI0HKGosQsNEaBB75mrXum3eCnfE0-4GEonW46aOTI_mSB_aIpcJjW42WVI-aW8JgCPqVv5sRJlWkG2WhCJAbppzxx7v7S80OtGu8QSUeRtBFRd90npuyQMy_VNd7zCqlVPcxf3CFV15OprL7AuSRNNGsJu6q5HWzYpu8hFF63xwb-5xqrrQ0cWbCirjtR5jmQZHoC1EVRZjPLCl4jtlNPdq3Q3dIQwDBJbBi1KViQnUu46SnTxFRVaHo_COqpiKBerkypYin43_Mg1Kb2LJBUbjmVp7njVG0FyQIUPhXCx62lyJCj8ehv67AvgZTzaBm1vA2mjrj1rvLLADjsn7AgjsRqk-J8hyz3_1WLxHDAEPyZtW57Srz_8yEviO2rJE9WT4nENro0KZd4ugsOmWCyr_HjcANzCZF4pfsO6t3ZYmF4ewY0ru5K_EvnjO0qYLb2nj_bRiiuLDJdjWA2KCe7GYZ8hiKOmjuZySZO7datz9Djza_55Xnb6evk0xBT11IEwrfQh5QJq60WbUojHM1HNU3SY91iTOMJnZZeMhaipw337EHfafWSiOcrQioXlOjOjy_o4db7WAo5npvvQPZYRBe9VH5Qt5M374cofijTf7cOKEx_SnZ70g5vsqkw7sHd5no7auIxKUc3YbIA5btqmUBpM7YJHIW_MR8iWk-bwkuCRubHa7DmoA5oPmHNA8exz9h-4U4DU0x19NWhFG2RVBKwgNdT0GFeeAtTDODZGuKSIudPN0LBOc4tZ17lN-6JVmoEnTLmXtt761C3hqzf7vZ0-N046tx1r93oivY6mmFrSq020w7TuWk05dupWtOa0KbZwJO6t1s5s_HhKvcjmRgymxa618cWZX859m4VAPyOrYdSLoYpKifbWpsrBFWPJ2DjnOiyl54rJ_voXZbnrkg"
+      },
+      {
+        "title": "MSI GeForce RTX 5080 16G INSPIRE 3X OC Black Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSdaSV77dhiir95PcyCAgsNyG0OLYAPamRTmRxbqSrSVRihCS_zQUbHkh9_O65UyKFzqvf6jJSB13p0TCicZmE5pLbhq9eP3k96lCXzAOFqFGgsjYtAbJU8qA",
+        "price": "$1,429.99",
+        "extracted_price": 1429.99,
+        "reviews": 3,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WDASQXicdVTLruJGEI1mHymL_EJWCMnddts4O7-NARu_2o8NMu4Gg59ggwHla-5kIiXLUaRs8xszi3xLfGedVKtqc-rUqa5u1T_f_fBGT39Zl-6Y9Q5nCcbYDe72tNyeepf7vbu25JYPJ_InACxEAsMsRCjwkGMmF37PsyGr2uM7zPNgAYUFEAQeIUEQRMh9LmhGqlNDncOBXtU2P5HPIhAQzwsiD9GCQwuE-D9OdXak39BJBIqTIZZjAP_ukEEfr6T_wm2VHZiEhYU4KaGJyy0ElhF-2XqOuvsf8NPlRq_PL0GVDbQfZvnteqXNMDvShl6z4dQ2M0L7cmi72fGadcUp72d5diUzYxvO8rbu2uY9_UormvWUzCAD0XvgZw0dPx27bw3_h-zHeronEniOhwsRcWABWMRw6GN3H96K49uxerv1b0X1Rpvf2qy7H_KvH37U2lFV-lFxw67DqscEJr7nht4TozBsNX9EpnemTcVgXWNxmcD9E4A89E5RQwJSDlakJUMUIi6owdoL7Y1bg6VdyYMTDhGt8TWE1pDX4s2dapCYGFlZvjZAD9LQiwgkNTYe2DceA4m6wdbFdG9wY1DZzQZXah7ipY1z5DfyOgkXYxJ1XHa2lr6esDlr32iJFL9Gad4cWT_0XhiKwIfdCofApVqx8hg9xgxa52bFBxA0ASDjPijaTSCxFOuXICKyyxTV3tBvjtFlbljwk2bkGC1MAwnkIO0DzVI81Vq5Uy7W9G5fi9CPwpeNxTZmWhS_PJ5ickmq5BFD7KTxZsKwuVdAZgd6mEVdkAeFSiu5S6A-pPUwTjM8JYEu2y859Jn2GRoPmMR24JiyElYawDCVqWZnybmK9gA_NwyRs5edeXF6oaZsREbI-bG9woHXb6LE15kW5gYpiFaEgZneItMCHpZgUqdVBvSzcbJkz7SfTpQGQd35bkgQLfsxwEWaxzhIYQmIThjP1B5ROLC_Pvrr4Qsj6WjwHc5fx9rKWmJvuAuMn3RB0hFeEzaAlX4GwoITgCgCCCH4LW_b8kS_fvhe0pSfWFUiFtayYcncGwvokn-O96uzqFbF8bhiUAvyeWVGjRA-2l50p1bAKtRDLTIU6fgTK89UPNVoX61ieKS_HZOqN13m6ex3BwhQ2tTpXC858vQedQFfF2kpTfbOs5fqREQsO8VYHg27p4uYXeN0VcrZcCGWe0r38yvaaAsiHcouH87Kxuqf65ey3TwHPp3DAzQEUC4PbnpbHscu2rTMQuLHZ9-91JQFz-oaly2Q3Of-Lu3PtNjukmqhvLQnN9r7MN9Wh81eeOpzOmwGNS0V6yAcelCgpm3OZoPYbfw66yv3lQjlOH1GTcZk7hir3QLYDCfF_CVmJYGA9Qt1JqNduY67O5y56XVLYQRZa9jxNRjYZKz9MDROorLE3dpu4ninuccv68LnIsUr3RjLY4Fpi5enTgXvs9ntfDptIzr3A2_7_kR2nY4Zq3LGKt0izg69phw6a614c85VWjCQ8FFvLkL2mk4tHuZOxozitvXRLZjfLtf2kDD2BXoNb90cSzFLuPNWVcHcEdKcVXCpk1Kb1s_h738BbFDzOA"
+      },
+      {
+        "title": "ASUS NVIDIA GeForce RTX 5070 Ti PRIME OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQr5yL0nNhVXVIBs4F0ZoB2FRmz-WBLJ6mOibavChni5lM1DNNb-S_bBBLF6OGz1kjLbSWtYl4LwfdYs66WjIkEeSegNwm7p64Z58JI0RPRlTvR5R2rILQX",
+        "price": "$1,144.99",
+        "extracted_price": 1144.99,
+        "reviews": 289,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9_tzXXicdVTLzqNWDK5mX6mLvsKsokjnwDkhdEe4hvyQcDsBNhFwIBCuAXJDfZp_OiNNdx1V6ravMbPoszT_rFtb9sKfP9uyJf_zw0-vafGXfu6O0bBFOqfeutHaFetdMVjoc9e39JKMBf0TQpbBHABLnuEWDAJP4z4n0RhV7fE7_B2FDFpy_DOXQxz_JU8jWhVNus2ytJfapKB_IH7JYg4v0QKzGPEQ_F7U0TH9Dr71YBFE_IJhGR4hjBl2-aGnw1e0Ew8QYI7HeMEzeMEyLOA4nv11Z2-lw_-AH8-XtH98datoTIdxllz6Pm3G2TFt0j4ai7aZ0XQox7abHfuoy4tkmCVRT2fqzpslbd21zVt6n1ZpNKR0xgAGv7nFrElvH4_d94H_o-2HuqBfMLdAi7fgkl8AFiAOf-iu42t-fD1Wr5fhNa9e0-ZTG3XXLPn27me5vUnicBMtr-uIZANXohdHhUHEmgo9hZ1ZVmVcUzORc8nTiO16w2QD625La2Brtur4-t1QdY1UBDhs2DkVf4llxMaasoorM9t7weSA6uoxyj6GIYk83fRU9DCV8m7Wd8VViB6RI3IY04umAMQKvXr1OO59GTjyXUmgOaaSPiYefw6hMEZMiWySIINdLRyX4EThG08xcwINJq7D1b5WVI_J7Yihqj-RzvDMwZX0NnCgHZdETL3w4U_mPq5lHJ9s3YEGSht6smDYhG54joCZWR6V4vou0ik8hT7BVMXX5ERywxvVeH-DFjBB4irYOT13VK30pA6B5yu955lG4lLyrNUTjfSEKBuPueNUMyOr5E2X7R5JU8JQVdqAIQ3x7ptE5R2fXU-GzN8cQNhQqUBaVi3xIEnlSqUqZeJSL2zPzK2yawzYwZSQl32tl5EvIK9eOwpomUSlOZVzz9XCy17ToU0EJqjDKoLKSS30la2Zj-0-dPbaCsR-bgV7UllslVuVgkxfPyUyfyayXVP1bv92H_rsKxAUPDpb5Lz48kZfE3u8csAJOjfo6ELmDMgKv0BuiTjI85BhGPgpaduySL-9-1GQxfesJFCdyNG4BtdGh4rgnPx4c-KlKj8eNwC3MJlX2r7hvHs78BbJQ7jxFE_eq6JwfM-uZhJ51minVlRtOlyOQTVoFnhs40PGQBw2dThXSkQf9r3OmeksrIWnvPHMtfQkYpZ9en91U80hXfrsCwk35Soaz1S3ijCe99iQl1TIyi4ZT6KhD4-XSdwZj3ERzpmMUTlYrjMrvKyPt25vtGApLG6PoZukkIWPqvfLFgrWI74K8SnNd4egWoqT_EA3M_aSXZUZMfdQ5ulojFJYinrGZQPMcdM2J63B7M6fTsrGmgKuvBmuIK8InW_VzWEJTYAEf3H2WYGj8GXCnQbkHnXoukWaMSi6CLiV3LC3aVSJBvR4HJttILHU2plWsLWLub1Y17mD9qJdWj5Z3XKStmRddBJ8283h4KTPb5TOHdfevZ3IrMNbxEpI3YQ7jEzPbsqx019Ee44ssYUj9e61ceai6ak1n823Ebjxu9bBF3d-OfdtFgDzzNjNQr9sdVErmYO9qXJwxVjebtxzHZTy8_1kf_8LokDyRw"
+      },
+      {
+        "title": "ASUS GeForce RTX 5070 Prime OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQcebf6otOTxvm8bpBteYj8nUTQI7_1Nl8msH2qE_VmINXU0PmDu4NSwh6Kvp1RzRMEXavNiZy-MvBN7w9yoXk97rqHxBTCF6iKUkakync",
+        "price": "$709.99",
+        "extracted_price": 709.99,
+        "original_price": "$760",
+        "extracted_original_price": 760,
+        "reviews": 194,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LlWhQ3icbVS7ruNGDE3SB8hPpDIMzIyeTifrZctXki3r3VyMNLL1lizJ1gP5mrtJgE25CZA2v7Fb5DtSxhdplwRPQ_KQIEH-880Pb0n2l3Zrr7g3aY1Tx3Y4HbP9MetP9Me2a8g9HjLyJ4QUYjgA-A3iWESDp3EfYzzgsrlm5BPN8RSgGYan0Yan4YZmPqUJJmVWJ-blknRSE2fkD45ieY5D1AYiCkGepRj4e1bha_K_m6coimGfHM8QhuFoCqAPHek_o6P4CjcMQhDSPIA8BAyELPz5aJnS69d9v97uSTd_tks8JP2wiu9dl9TD6prUSYeHrKlXJOmLoWlX1w63aRb3qxh3ZKUenVXcVG1Tv4d3SZngPiErBBDzDuyqTsZfr-17t1-p-qF6joLhWJpFDE1DxDM82FD8h_YxvKXXt2v5du_f0vItqX9rcPu4xF--_Vd-xKLYxeLJaVtXssDZK8cXxzUILEtd0YbQTdmwUBjsBtMZWAb2mAnLDTCdYsJeerMLQnu5Ueu-cvAKaxvVDjLtdIxQO8Wye3NUeXLVCboZfCT5tj0XPMJgED219WLFwknlgMgvGdMXFrd2IFEMP6S0o6nSc1xofpy7baSOs54rtWUrraVexxBuxgBqiBSGHNdbxUHMzZRkoPt7-mwbwJB5YDtaerYJm6ia4-Xby1nRjlGlqXau6E9-FKFiTuSpdZWNip1hiMpwR-xithV3iUstJ8g9WI52Cxaiem55s6tB8SljG-dheJZIHTmlhp2yx7WFX5z24e1KOlbDKXIMGxfyGKulacByG1flPvRDOljK2pEV2lTb2ZaHNqxSNQJDEIBSJ64O8RKMuJjaUCKGvVgstq90Ilu6C6ZUd8BZAQ2KVZISOXXsXXj3dhq0XAEFVVhiqORqpm2tnTGbXmg5sA30YqO7eSiTGc6O0iqBs5FPM5RcGGaJXVq_TH13-QwEhRnOJneYLGy2HGVXZEmK_OyiKZEppeT2p58g97wIuHkezVN-i5umyJIv330vyOKPlCQQzZXxsAePWoOKcM796JBvpDK9Xg-AaWC8LndezTlT029ObhrCg6M4sqeKwvVHaruS3CdHszSiapH-fg3KfncCsxm9XhBkwroK10pBk9maqhQtN2EvPOU9z9hLz0SGop7ob0fV6BPep17c8FBs8XAj2ikLo3XH6DJPhEvRxkMu6lo_vyziUZ8HNlyjC1I5WOwvp_C-v46tpzeAF9hx7ttFCik4l51fNFA4zdFDiPIkPb4GJS8u8kyPRuTEx_KiR9ysrJNBH6SwELULd-lhytRNne9qhjr6S64cTkvAFaNuC_LWJWtTPbzy0AC04LM3nxI4Al8Wpt0BuaNb-mHSO71XNBFwW7mmxmVQ3R3QomGozUCiyOlonALTytYWu6_SM-2JVnHy3e2Yuknj7rNWgu-zeX09J8-Hk6zPtnV8X5FRhSOmJFo9hEeGNhyrLoZWexGtNX0SGzgQZ6r0G4eXp1aby9rEYNwcmzNzt9f3W9dcAmDckFWz2t3UxF2BXq1DmYIHw8jmwb5VQSE_X8zl7_8Apgjsuw"
+      },
+      {
+        "title": "PNY NVIDIA GeForce RTX 5070 Slim OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSIhQtFyTri2phyLtBRy5ClvYTs137NsbYaDABq0-zf63yfnjHgUErQMEhsxE1cZubqfVNmibJwFpdHm7hFb64_SU4tox3KlW8xTGBJHJeFFJXnX8lxjEC9yQ",
+        "price": "$629.99",
+        "extracted_price": 629.99,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NYhzp3icbVTLzqNWDG67r9SXmFUU6ZzDLXRHuCUkQLgdCJuIcLiFa4D8JFGf5p_OSNPlTKVu-xoziz5Hl-WXuhxbtmTZ32fLlvzPD7-8JsVf2rXLosGkNU6dutE6FNtDMVj0p65vyS0eC_InhBRiOABWPOJYRIPZuE9xNEZVmxXkC8OyFE3RPI0YSEN2BQH8nCcRqYomMdM06aU2fmPhAL3iOZZiKJYFiEKApf8o6ihL_s-jmQHwiF8xAPKAYSFPve_J8BUdxBPNUyv6TRmKm4cBFFj9drBN6fT93IfrLekfX90qGpNhXMS3vk-acZElTdJHY9E2C5IM5dh2i6yPuryIh0Uc9WShHrxF3NZd27yV90mVRENCFggg5s2xiyaZPmTdPO6X73R9XxfkM8OxNIsYmoZoxazAXPW-exlf8-w1q15vw2tevSbNxzbqXtL424__yi-xKPaxaHldhyUbuIqNjIrQXsXfQsgzUVm5IcidWKWRF9h7p-J32M9Vu9xC27cVWzY0q-Q7083vZ49P43KYDK99Yhfv9gGOEkmnLEQaXREYU_HoGDGlW-EI-1WJ_XtJZKaO5ApGgbYOvbAK1c7VvRVNkO2GtT33qKAvZQDD7kFkMvqBd9drLDmKQIcy8bCXTRhUhu6PB9PHIFSw6VLHMZEqx4OkmGPd8okZXbQ0UTvbKEeXqHcmdvPeqkfT83UqApphACMwLvnGUSfgKUYTo1Hxy5A5Q-2muwTaCKd7F3uWV057jA0djalVy7T3zOg4UFoC14Z_kQF5bqkYwYfpMfmxHtMAjIezS4BeVp1fQny82IG_sR2jIXDei-khTYxA3hsI3PUqTMMyv0YeYxx9YmCP9K4D97EMHAW0KFZJTuTcczfhzd9o0MYCOtZhFUHlohba2t4YD9MPPbu0sekbclJt0bGxgF13k7Mho-XnJab0yavD9e_3oU-_AkFhRsfkdnc7MjuOcmvyTMqLg9E9kSml4rbWr5Bb0RzkeYhm-Ri3bVkk3376WZDFd5QkEA3L0bgFL40GFcG5BOfdhZeqPMt2gGlhvKw2fsN593bgLZyHcOcpnuyropC9o9YLCc8c7bMVVZsMt-xYDRsLPMzzKUWQCZs6XColTR72vc7R8ypshVnecMZWmoEMRc0-WE-qMSSrgNrjcFeuo_FKNKsIz8ue0eUVEdKyi8eLqGvDY_8UD_pjZMMlSpHKwXKbWuFtm02dr7dgJbDTY-ieUkjBR9UHZQsF63F-Ec6XJD-cjtVKfMoPejLOXnyoUv3MPZRlMuqjFJailnLpAHOmaZvLpmGoQ_C8KDvreeTKSXcFeY3J0lR3pxU0AC0E7DWgBI7A_ZPpNkDu6Y5-MemNPiiaCLi13FDTc1TxBmjncWzMo0QR62BYR9Mulja7rXOH9kW7tAK8nnKctHhbdBJ8283p5CTzw0mWjmsf3k5k1OEUURKt7sIDQxue3ZRjp-1Fe0lbYgtH4t1r_cpFz1lrPl2aEZj4Q-swN3d5u_ZtegTGFdkNq91MTdyU6GTvqhy8MIxs7txrfSzl-cWkf_8HqlDp7A"
+      },
+      {
+        "title": "ASUS GeForce RTX 5080 ProArt OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQzcLhyu1UN8V7oIWfvZFzsjQz1cQLgxy6JH3enGEQFlDbBpEOb0WOqN7LjioDmRSk4xXm_uWgHJ3Y1GWo34w6zvUCaWVzyoKUeQWXRB6mw",
+        "price": "$1,699.99",
+        "extracted_price": 1699.99,
+        "reviews": 2,
+        "rating": 3.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-SB4GnicbVS5zuM2EA62D5Air5DKMEBSdzpbp2VLsm5LjSGLuqzTkmzZQp7m32yApNwESJvX2C3yLNEPpNwhOQD5zXAGc_373Q9vSfG3euuyaDBIlZGnbjSPxe5YDCb5e9e3-B6PBf4LQgJRDAAshxgakWA5zO9xNEZVm73DDEcijmQhzbBgIQ4Q8HOeRLgqmsRI06QX2rjAf9KQRcSyCZKECNIcAYk_ijrKkv9htDxQgCUZjmVZQBAs97HHwxd05M8UWFxAkAIMRSxGlgv7y9EyhPO3sU-3e9K_vjhVNCbDuIrvfZ804ypLmqSPxqJtVjgZyrHtVlkfdXkRD6s46vFKPrqruK27tnkX75MqiYYErxBA1DujV00yfcq6d2-_YfVjXeDPFEOTNGI5luJIjqAhhB-7x_iWZ29Z9XYf3vLqLWl-a6PukcZfP_wotpPADxNvul3nCRawZxEYPr65ZTwffO8RE6rqVptn4GaziXJVE_VUUzxL80LkyeoOy1XhEdbTQpXqIDC5lX5w0XjHMtc6kqp4vjiGIJ4soFLm7HUO1F867F7GKbxjL3cjX30GswYiG9KWEApWnT-tMiAjItctQJV-hW-ejJdQV1sNPZVY1l1cc9dY9PqL_7R8sdLdmrrriII2Um0Nhu5FkYKg6fYYqELgP3eXUhydJufNAi42M6QJEsSI0n1ZPeCK28fAnC8wB66Tn2xElXaVgwBhUpOnl32SBsNxkXWNn7GkH6ymRK4nAtPlmqT2aAy5navovltbpe-xpC0-JV2EUuhgGSvuFM_hjP1wMOtsCnwV-C54XTxOuzjb8nIqZ0xU-Ql5fSRJqaXkfuDh2pd13r1u9QDgVkcVqYkeHcyWaDUicqGkxoK05KR72XVu-U5sS6BFsYxzLOauo4R3X1Gh5W1QUIdVBKWrXKhbS9Ffhh86muShg8s9rMW3SJHUg1_tkut2juuKxj5HaU5O_Poc-vQL2EjUaBvM_mlFRscQTo3npLzaHnomIiFVzM78GTJLt0COg2ih3-K2LYvk64fvNyL_EyFssOqJ0bgDj0aF0sa-ni77KydUeZbtAdXCeF0pfsO4z3bgTC8P4d6VXNGX-U32E7FdCd7yRzu3vGzh4Z4F1aCY4GVczulS9WFTh2upJPHLetY5mm-b3Wahdz19JyyKFEEs_LSdZH1I2BNx8MJ9uY3GG1bNIryse0oTWbxJyy4er7ymDq_DzB-110iHa5QimYHlLjXD-y6bOl9rAbuhp9fQzUJIwFfVn8oWbszX5bG5XJP8eA4qlp_FFznpFzc-Vql2YV7SOhm1UQhLXk2ZdIA51bTNVWko4niar9LenAOmnDRnI249vDbk_ZmFOiA3J_p2IjYMhoeZ6hQg9mRHPgxS0QZJ5QGzFRtimkfZU4B6GcfGCAQCm0fdDAyrWFv0rs5t0uet0jx52yn3ktbbFZ0A32NzPtvJMoySte1Yx_cU6XU4RYRAyvvwSJG6u5T32KkH3lqTJt_CEbvPWrsx0bysmkvXRgQm7tja1N1Z3299mwZAvyGrodW7ofJKic7WfumeB0WJxt651UEpLuMn_ec_boHxug"
+      }
+    ]
+  }
+}

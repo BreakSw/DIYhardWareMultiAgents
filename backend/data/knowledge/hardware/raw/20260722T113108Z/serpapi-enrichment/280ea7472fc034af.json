@@ -1,0 +1,551 @@
+{
+  "search_metadata": {
+    "id": "6a60aa3a4632b5f5d532e4e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MWIgz8aC-AG52rkia7SZVQ/6a60aa3a4632b5f5d532e4e2.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MWIgz8aC-AG52rkia7SZVQ/6a60aa3a4632b5f5d532e4e2.json_with_pixel_position",
+    "created_at": "2026-07-22 11:32:10 UTC",
+    "processed_at": "2026-07-22 11:32:10 UTC",
+    "google_url": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended_psu_w&oq=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended_psu_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MWIgz8aC-AG52rkia7SZVQ/6a60aa3a4632b5f5d532e4e2.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Intel Arc Pro B70 Graphic Card gpu chipset recommended_psu_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Intel Arc Pro B70 Graphic Card gpu chipset recommended_psu_w",
+    "total_results": 8420,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "Intel Arc Pro B70 Graphic Card gpu chipset recommended psu w",
+    "showing_results_for": "Intel Arc Pro B70 Graphic Card gpu chipset recommended psu w"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Intel ARC Pro B70 Unboxing and Overview",
+      "link": "https://www.youtube.com/watch?v=RfPcb9uRjO4",
+      "thumbnail": "https://serpapi.com/searches/6a60aa3a4632b5f5d532e4e2/images/E5AuSAUHwWWnmahvjqJ1gfSbVlIZ1KLFVWi4xQVTzaQ.jpeg",
+      "channel": "Game Tech Reviews",
+      "duration": "4:30",
+      "platform": "YouTube",
+      "date": "Apr 4, 2026",
+      "snippet": "The Intel Arc Pro B70 is a blower-style GPU with 32GB GDDR6 memory, single 8-pin power, 4 DisplayPorts, and costs around $950.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTpXTnee5tQ1SmIjDorTQcVf8h_09RNt5ACDw"
+    },
+    {
+      "position": 2,
+      "title": "The Ultimate Intel Gaming PC | Intel Core Ultra Plus ARC Pro ...",
+      "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4",
+      "thumbnail": "https://serpapi.com/searches/6a60aa3a4632b5f5d532e4e2/images/8RjYCYT3qCNay1Vk5BT9e8trmsg03tCHcj6kC9FWadM.jpeg",
+      "channel": "Game Tech Reviews",
+      "duration": "4:40:35",
+      "platform": "YouTube",
+      "date": "Apr 5, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Arknights Endfield (Unity)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=0"
+        },
+        {
+          "time": "43:23",
+          "title": "Hogwarts Legacy (UE4)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=2603"
+        },
+        {
+          "time": "01:26:44",
+          "title": "Forspoken (Luminous)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=5204"
+        },
+        {
+          "time": "01:47:15",
+          "title": "Final Fantasy XVI (Luminous)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=6435"
+        },
+        {
+          "time": "02:01:09",
+          "title": "Crimson Desert (BlackSpace)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=7269"
+        },
+        {
+          "time": "02:13:43",
+          "title": "Dragon's Dogma 2 (RE Engine)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=8023"
+        },
+        {
+          "time": "02:30:21",
+          "title": "Elden Ring Nightreign (Dantelion)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=9021"
+        },
+        {
+          "time": "02:37:24",
+          "title": "Fatal Frame II Remake (Katana)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=9444"
+        },
+        {
+          "time": "03:12:20",
+          "title": "Lords of the Fallen (UE5)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=11540"
+        },
+        {
+          "time": "03:28:35",
+          "title": "Monster Hunter Wilds (RE Engine)",
+          "link": "https://www.youtube.com/watch?v=6p-tf_MHFz4&t=12515"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Intel Arc Pro B70 vs. More DEMANDING Games! (4k, 1440p)",
+      "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s",
+      "thumbnail": "https://serpapi.com/searches/6a60aa3a4632b5f5d532e4e2/images/cOCx1gcC0vUrXjHhS39-31zOB9swmEBW5v6URowTNi8.jpeg",
+      "channel": "Tech Guy Beau",
+      "duration": "19:25",
+      "platform": "YouTube",
+      "date": "Apr 20, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Indiana Jones 4K - Pathtracing",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnmoztbiUlYWVI3SgKBDF4vMnDZIOLNAWkrQuG3aoetg&s="
+        },
+        {
+          "time": "02:15",
+          "title": "Indiana Jones 1080p - Pathtracing",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=135",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbwYqcX9yYgx4yVT2SQc0Rtf0Uqq1NsPbZgbODj5tg6Q&s="
+        },
+        {
+          "time": "03:10",
+          "title": "no Pathtracing",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=190",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQijECqhz0X1Z36_n_5TmlZmxQD2DOWfGkDwwF7zyJNcw&s="
+        },
+        {
+          "time": "04:05",
+          "title": "Indiana Jones 1440p",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=245",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWM1d-qQeE3g_MC2OXDkTeSzFBciL8Si8fE1hGhu0Esw&s="
+        },
+        {
+          "time": "05:10",
+          "title": "Star Wars Outlaw - 4k various settings",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=310",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcvu7oDuxcaS9tjGzIIymhuubJr1YYkkDuOC5lwY7JzQ&s="
+        },
+        {
+          "time": "07:06",
+          "title": "Star Wars Outlaw - 1440p various settings",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=426",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJaABh4XghqX0Nm4Xn07_MKhEYZSXQwgB5c5PhGUPXNg&s="
+        },
+        {
+          "time": "09:28",
+          "title": "Final Fantasy Rebirth - 4k Various settings",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=568",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFgZEvxyWriJh8o9Ec7XELPOD6QImqXxwWbJJaaYN24A&s="
+        },
+        {
+          "time": "12:21",
+          "title": "Final Fantasy Rebirth - 1440p various settings",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=741",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0jjenWeov0r4FfdddL4eQiKt4ESJLoyPRyx4aVpLQjg&s="
+        },
+        {
+          "time": "14:20",
+          "title": "Doom Eternal - 4k - Various Settings",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=860",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSoxd6_bydGESP2UaGmnRlEMugDoPP8s_NiiPPx1SxrA&s="
+        },
+        {
+          "time": "16:55",
+          "title": "Doom Eternal - 1440p - various settings",
+          "link": "https://www.youtube.com/watch?v=MsKs0nMUB7s&t=1015",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdxqaGeJdx0suQkUwHF1SZULsiPMDAF1F0dqI5XMT3ig&s="
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How much power does the Intel Arc Pro B70 need?",
+      "type": "featured_snippet",
+      "snippet": "Being a dual-slot card, the Intel Arc Pro B70 draws power from 1x 8-pin power connector, with power draw rated at 230 W maximum. Display outputs include: 1x HDMI 2.1a, 3x DisplayPort 2.1. Arc Pro B70 is connected to the rest of the system using a PCI-Express 5.0 x16 interface.",
+      "title": "Intel Arc Pro B70 Specs | TechPowerUp GPU Database",
+      "link": "https://www.techpowerup.com/gpu-specs/arc-pro-b70.c4388",
+      "displayed_link": "https://www.techpowerup.com › gpu-specs › arc-pro-b70",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBwb3dlciBkb2VzIHRoZSBJbnRlbCBBcmMgUHJvIEI3MCBuZWVkPyIsImxrIjoiR2lScGJuUmxiQ0JoY21NZ2NISnZJR0kzTUNCd2IzZGxjaUJ5WlhGMWFYSmxiV1Z1ZEhNIiwiYnMiOiJjMldQdlFyQ01CUkdjYzNrSWtwQnZJaUlXNldMWTZraTZpSWlpSXRMalRjbTJDWTFTZkdKZkU5al9MZnotZTdoWExJajRWeGRJQzhwaDBKZFVNTkJvUUhMRVJiU1lnYUpwckRTQ3NhaklVakVROXk2aGxFXzZBbFBVMGNMUl9lT1BzNDFua3VoTVVkcERWbVN3WmFuMXMzUUswMkIxSUJpVlhjY2RRT29PdThIZ2dtYVdxR2tJUW5wZTU5NEZPNVJVcDZuLWdSTTZWOWJNMmg4ZTk1TE1pWGQtOE0tbHBYWlNfVU1XazlndHRyRVVTZG84N19WSi01WWxQWGFEUSIsImlkIjoiZmNfT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVFfNyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBwb3dlciBkb2VzIHRoZSBJbnRlbCBBcmMgUHJvIEI3MCBuZWVkPyIsImxrIjoiR2lScGJuUmxiQ0JoY21NZ2NISnZJR0kzTUNCd2IzZGxjaUJ5WlhGMWFYSmxiV1Z1ZEhNIiwiYnMiOiJjMldQdlFyQ01CUkdjYzNrSWtwQnZJaUlXNldMWTZraTZpSWlpSXRMalRjbTJDWTFTZkdKZkU5al9MZnotZTdoWExJajRWeGRJQzhwaDBKZFVNTkJvUUhMRVJiU1lnYUpwckRTQ3NhaklVakVROXk2aGxFXzZBbFBVMGNMUl9lT1BzNDFua3VoTVVkcERWbVN3WmFuMXMzUUswMkIxSUJpVlhjY2RRT29PdThIZ2dtYVdxR2tJUW5wZTU5NEZPNVJVcDZuLWdSTTZWOWJNMmg4ZTk1TE1pWGQtOE0tbHBYWlNfVU1XazlndHRyRVVTZG84N19WSi01WWxQWGFEUSIsImlkIjoiZmNfT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVFfNyJ9"
+    },
+    {
+      "question": "What are the specs of Intel Arc Pro B70?",
+      "type": "ai_overview",
+      "page_token": "3ZGN83icHdBdcqIwAADg2cv4WBOysKMzzk6xIqJGE0gIedmJiUhN-Gll1fLWu_RUPU07vcD38L1_uOfGfv66Vn3fXabj8e12ezi17ckdH3Rbj9XlrdFjrZw7KG2nwZ8A_i31bPF_Fc5fViFhXcefKEh5AtNF_6TiRPEz6WWOhQAabNGjj-OIyeU9oLnziNe_HBf3DWbML3hy5XMAyTnC0uJ1BkxgYioFMqTI8UZGUbyFju6W0YUjWVLRrVNBLYMY5hldp5b8FtC8Ft5dKUDzA4NScWmLIUQsivaSh3UG6FvmTLkRONkOhjMPAoKSvawxw024zzyz-_Z7ClwtQXVRbBKYpkOLyuy1CJsinxQZm5B0DpCAnBytW2VzGDLaPhNGB312NTsTj1t_LZEddnEkjrZaFqzys8H5YnjsCaeckVGprzM0-vmc_Svrftq9tqcvPJ9_qg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3ZGN83icHdBdcqIwAADg2cv4WBOysKMzzk6xIqJGE0gIedmJiUhN-Gll1fLWu_RUPU07vcD38L1_uOfGfv66Vn3fXabj8e12ezi17ckdH3Rbj9XlrdFjrZw7KG2nwZ8A_i31bPF_Fc5fViFhXcefKEh5AtNF_6TiRPEz6WWOhQAabNGjj-OIyeU9oLnziNe_HBf3DWbML3hy5XMAyTnC0uJ1BkxgYioFMqTI8UZGUbyFju6W0YUjWVLRrVNBLYMY5hldp5b8FtC8Ft5dKUDzA4NScWmLIUQsivaSh3UG6FvmTLkRONkOhjMPAoKSvawxw024zzyz-_Z7ClwtQXVRbBKYpkOLyuy1CJsinxQZm5B0DpCAnBytW2VzGDLaPhNGB312NTsTj1t_LZEddnEkjrZaFqzys8H5YnjsCaeckVGprzM0-vmc_Svrftq9tqcvPJ9_qg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc3BlY3Mgb2YgSW50ZWwgQXJjIFBybyBCNzA/IiwibGsiOiJHaUJwYm5SbGJDQmhjbU1nY0hKdklHSTNNQ0J6Y0dWamFXWnBZMkYwYVc5dWN3IiwiYnMiOiJjMldQdlFyQ01CUkdjYzNrSWtwQnZJaUlXNldMWTZraTZpSWlpSXRMalRjbTJDWTFTZkdKZkU5al9MZnotZTdoWExJajRWeGRJQzhwaDBKZFVNTkJvUUhMRVJiU1lnYUpwckRTQ3NhaklVakVROXk2aGxFXzZBbFBVMGNMUl9lT1BzNDFua3VoTVVkcERWbVN3WmFuMXMzUUswMkIxSUJpVlhjY2RRT29PdThIZ2dtYVdxR2tJUW5wZTU5NEZPNVJVcDZuLWdSTTZWOWJNMmg4ZTk1TE1pWGQtOE0tbHBYWlNfVU1XazlndHRyRVVTZG84N19WSi01WWxQWGFEUSIsImlkIjoiZmNfT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVFfNyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc3BlY3Mgb2YgSW50ZWwgQXJjIFBybyBCNzA%2FIiwibGsiOiJHaUJwYm5SbGJDQmhjbU1nY0hKdklHSTNNQ0J6Y0dWamFXWnBZMkYwYVc5dWN3IiwiYnMiOiJjMldQdlFyQ01CUkdjYzNrSWtwQnZJaUlXNldMWTZraTZpSWlpSXRMalRjbTJDWTFTZkdKZkU5al9MZnotZTdoWExJajRWeGRJQzhwaDBKZFVNTkJvUUhMRVJiU1lnYUpwckRTQ3NhaklVakVROXk2aGxFXzZBbFBVMGNMUl9lT1BzNDFua3VoTVVkcERWbVN3WmFuMXMzUUswMkIxSUJpVlhjY2RRT29PdThIZ2dtYVdxR2tJUW5wZTU5NEZPNVJVcDZuLWdSTTZWOWJNMmg4ZTk1TE1pWGQtOE0tbHBYWlNfVU1XazlndHRyRVVTZG84N19WSi01WWxQWGFEUSIsImlkIjoiZmNfT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVFfNyJ9"
+    },
+    {
+      "question": "What is the benchmark for Arc Pro B70?",
+      "type": "ai_overview",
+      "page_token": "sYDr53icHdDbboIwAADQ7Gd8VFrUTROzBLkIURylF-jLAi2KtFxUlOnb_mVfta9ZsvMJ5_tHnxr1-3Iv-767LieTYRjGx7Y96mIs2nqSXR-NmIhM6zwTajl_nYP3g1g5N99an30rIl1HbWRgRxi5G2yIl04FTmG88c2i7s-F53pZRc3Qtm6FSx8UljqEb5BX6EoS6YY1mOcVbwvGZyEOnB0tHbKRMI1BuY-BZtraEdZXW0ZZbNNLlCgYGUeYQKSzhj9z9eUjhSJehdM9dj_Cmgw51QaqA03cQBHPeUjlDMymWwlQg08gC6FMczXbc9oFOCGPmJbnBCxmwgyUVKjKNxw5pfwQidWkbJFisojitWEmgEaF0j5eA4ug9hQR9BSVrgnbmRS2U-bMbsgr7xm1zpwiiG2OJesNTqa9HEYHcV-Zo__P1eeh7pfdpT3-AeXNgaU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sYDr53icHdDbboIwAADQ7Gd8VFrUTROzBLkIURylF-jLAi2KtFxUlOnb_mVfta9ZsvMJ5_tHnxr1-3Iv-767LieTYRjGx7Y96mIs2nqSXR-NmIhM6zwTajl_nYP3g1g5N99an30rIl1HbWRgRxi5G2yIl04FTmG88c2i7s-F53pZRc3Qtm6FSx8UljqEb5BX6EoS6YY1mOcVbwvGZyEOnB0tHbKRMI1BuY-BZtraEdZXW0ZZbNNLlCgYGUeYQKSzhj9z9eUjhSJehdM9dj_Cmgw51QaqA03cQBHPeUjlDMymWwlQg08gC6FMczXbc9oFOCGPmJbnBCxmwgyUVKjKNxw5pfwQidWkbJFisojitWEmgEaF0j5eA4ug9hQR9BSVrgnbmRS2U-bMbsgr7xm1zpwiiG2OJesNTqa9HEYHcV-Zo__P1eeh7pfdpT3-AeXNgaU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZW5jaG1hcmsgZm9yIEFyYyBQcm8gQjcwPyIsImxrIjoiR2hWaGNtTWdjSEp2SUdJM01DQmlaVzVqYUcxaGNtcyIsImJzIjoiYzJXUHZRckNNQlJHY2Mza0lrcEJ2SWlJVzZXTFk2a2k2aUlpaUl0TGpUY20yQ1kxU2ZHSmZFOWpfTGZ6LWU3aFhMSWo0VnhkSUM4cGgwSmRVTU5Cb1FITEVSYlNZZ2FKcHJEU0NzYWpJVWpFUTl5NmhsRV82QWxQVTBjTFJfZU9QczQxbmt1aE1VZHBEVm1Td1phbjFzM1FLMDJCMUlCaVZYY2NkUU9vT3U4SGdnbWFXcUdrSVFucGU1OTRGTzVSVXA2bi1nUk02VjliTTJoOGU5NUxNaVhkLThNLWxwWFpTX1VNV2s5Z3R0ckVVU2RvODdfVkotNVlsUFhhRFEiLCJpZCI6ImZjX09xcGdhb1hNT1BILTdfVVB6SUhMLUFRXzcifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZW5jaG1hcmsgZm9yIEFyYyBQcm8gQjcwPyIsImxrIjoiR2hWaGNtTWdjSEp2SUdJM01DQmlaVzVqYUcxaGNtcyIsImJzIjoiYzJXUHZRckNNQlJHY2Mza0lrcEJ2SWlJVzZXTFk2a2k2aUlpaUl0TGpUY20yQ1kxU2ZHSmZFOWpfTGZ6LWU3aFhMSWo0VnhkSUM4cGgwSmRVTU5Cb1FITEVSYlNZZ2FKcHJEU0NzYWpJVWpFUTl5NmhsRV82QWxQVTBjTFJfZU9QczQxbmt1aE1VZHBEVm1Td1phbjFzM1FLMDJCMUlCaVZYY2NkUU9vT3U4SGdnbWFXcUdrSVFucGU1OTRGTzVSVXA2bi1nUk02VjliTTJoOGU5NUxNaVhkLThNLWxwWFpTX1VNV2s5Z3R0ckVVU2RvODdfVkotNVlsUFhhRFEiLCJpZCI6ImZjX09xcGdhb1hNT1BILTdfVVB6SUhMLUFRXzcifQ%3D%3D"
+    },
+    {
+      "question": "How powerful is the Intel ARC GPU?",
+      "type": "ai_overview",
+      "page_token": "sabS1HicHdDBbpswGABg9WV6bOwgMiVSVJUMCp1w6h9sE18msBNIbAwLjKTc-i59qj3Npp2_2_f5Zc_O_HmYmnHsh81icbvdnuquq-3xSXXtohw-nFqo0tqqVGaz-rbCzye1DX8nwe5XElDW9_w7oIzxSeP1JE0yEtePwllcun6GVqbce5Mav3gFCm-VbZKj5RGfI5cXmmSxJjr0Yz4HUxYBAO5f1bJGEPFcCjJWvJ4z-zZoxBGgu8xb_6xj9XEMpWVmHRZLkhA03NOlvYIgu31kQ-CcZhfwZdTsucCGxORUIHjPjT-lQv5IlwSqEBeH3HhMwLUUfJW9NiOJOT22GmAmEDb6XRWBO4j1IWdrmu2QV-B_bmyS73DAoDtTBrO62Ja5fk9ZdKcG2ME1Z4blRGY9VEL5aUxReWkKSh9Patp6j_8_tz9P7bjpr139F1vTgzs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sabS1HicHdDBbpswGABg9WV6bOwgMiVSVJUMCp1w6h9sE18msBNIbAwLjKTc-i59qj3Npp2_2_f5Zc_O_HmYmnHsh81icbvdnuquq-3xSXXtohw-nFqo0tqqVGaz-rbCzye1DX8nwe5XElDW9_w7oIzxSeP1JE0yEtePwllcun6GVqbce5Mav3gFCm-VbZKj5RGfI5cXmmSxJjr0Yz4HUxYBAO5f1bJGEPFcCjJWvJ4z-zZoxBGgu8xb_6xj9XEMpWVmHRZLkhA03NOlvYIgu31kQ-CcZhfwZdTsucCGxORUIHjPjT-lQv5IlwSqEBeH3HhMwLUUfJW9NiOJOT22GmAmEDb6XRWBO4j1IWdrmu2QV-B_bmyS73DAoDtTBrO62Ja5fk9ZdKcG2ME1Z4blRGY9VEL5aUxReWkKSh9Patp6j_8_tz9P7bjpr139F1vTgzs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJIb3cgcG93ZXJmdWwgaXMgdGhlIEludGVsIEFSQyBHUFU/IiwibGsiOiJHaDFvYjNjZ2NHOTNaWEptZFd3Z2FYTWdhVzUwWld3Z1lYSmpJR2R3ZFEiLCJicyI6ImMyV1B2UXJDTUJSR2NjM2tJa3BCdklpSVc2V0xZNmtpNmlJaWlJdExqVGNtMkNZMVNmR0pmRTlqX0xmei1lN2hYTElqNFZ4ZElDOHBoMEpkVU1OQm9RSExFUmJTWWdhSnByRFNDc2FqSVVqRVE5eTZobEVfNkFsUFUwY0xSX2VPUHM0MW5rdWhNVWRwRFZtU3daYW4xczNRSzAyQjFJQmlWWGNjZFFPb091OEhnZ21hV3FHa0lRbnBlNTk0Rk81UlVwNm4tZ1JNNlY5Yk0yaDhlOTVMTWlYZC04TS1scFhaU19VTVdrOWd0dHJFVVNkbzg3X1ZKLTVZbFBYYURRIiwiaWQiOiJmY19PcXBnYW9YTU9QSC03X1VQeklITC1BUV83In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lXeGZka0U1TFhadVJVVmtjV3hPTm1OSVNHdEZSMnhoUlMwdFN6Vm1lWGROWWs5NkxYRnlRMnhJUVZwdFFsUnRVRko0YjFaUGRtMUlkblZUU0V4TU9WaEZZVmcwY2pCTE1GWm1NMTk2VEhFeFJsUnlSVGhqV0VWUVp4SVhUM0Z3WjJGdldFMVBVRWd0TjE5VlVIcEpTRXd0UVZFYUlrRkVjM0k1WmxSSllXdzFZbG80WDAxcFozZEhkVGxMZEU1U04wdEtWRFp3UkZFIiwiZmN2IjoiMyIsImVpIjoiT3FwZ2FvWE1PUEgtN19VUHpJSEwtQVEiLCJxYyI6IkNqeHBiblJsYkNCaGNtTWdjSEp2SUdJM01DQm5jbUZ3YUdsaklHTmhjbVFnWjNCMUlHTm9hWEJ6WlhRZ2NtVmpiMjF0Wlc1a1pXUWdjSE4xSUhjUUFIMXFaZ2tfIiwicXVlc3Rpb24iOiJIb3cgcG93ZXJmdWwgaXMgdGhlIEludGVsIEFSQyBHUFU%2FIiwibGsiOiJHaDFvYjNjZ2NHOTNaWEptZFd3Z2FYTWdhVzUwWld3Z1lYSmpJR2R3ZFEiLCJicyI6ImMyV1B2UXJDTUJSR2NjM2tJa3BCdklpSVc2V0xZNmtpNmlJaWlJdExqVGNtMkNZMVNmR0pmRTlqX0xmei1lN2hYTElqNFZ4ZElDOHBoMEpkVU1OQm9RSExFUmJTWWdhSnByRFNDc2FqSVVqRVE5eTZobEVfNkFsUFUwY0xSX2VPUHM0MW5rdWhNVWRwRFZtU3daYW4xczNRSzAyQjFJQmlWWGNjZFFPb091OEhnZ21hV3FHa0lRbnBlNTk0Rk81UlVwNm4tZ1JNNlY5Yk0yaDhlOTVMTWlYZC04TS1scFhaU19VTVdrOWd0dHJFVVNkbzg3X1ZKLTVZbFBYYURRIiwiaWQiOiJmY19PcXBnYW9YTU9QSC03X1VQeklITC1BUV83In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "4XzG43iczZXrkqo4EIAfYJ9j-cMgqHibKupUiBHj5TiZ0Zlx_lDIJaIoDqCM_jvvsk-1T7MBxcHbmZqt2qpNFYF0Ot2dpD_611-eu5z__Qc_jaJVeC-KcRwXqO9Tzy6Y_kI0wu3SFB3fCwNz-mPqKfaSo56yDrnQXwem7VqKOQ38hc1tN0qZM0NF4mxXGbyvqOG_9gcPbaGmjx52uN0TAOFSc4o-MUJ7xrx9zEJRF1k3_7PcZINCWLCXhZKpQbdO0MA2CyWp2CgMRGPBFMB_3x4BQEkHADk8p62vfmEA4aTXPlfibCKvFadiCPdScjqZa3DvDmKSaMQd4W0SA-Af9NX4N4F0ToctmnpKzhAlxq7vA19IsshameDyTG4vztZ3j8PBheErVlSaG0MK8AC02cRRmsVO8h4pgMm5sgVMGT6oLNsIueUk3cYobrpE3d_27YbBSH6aH75hxBaqokVZNkriJGCvouiaUzP9CMIkSeGwIfnaKyUQFikaDixvrgkyqQLszjz0totFc8L0PN-wbEuf6tKPdFwsFStSo1yr36V0mOERjzCPh-ltrDF9mpWG_UKvoBZzbJBjxGc7xTevBl9JhOOZwf1Z4ySXjlrqwYuUGM0dL0VYyN9cmwKNwv6Z7cQMvGTjM9S0jROtQ86gbl4z51CFxw3nbzm-SKyck8Mu-gwoEB9lWk4ZnS6HWEX0GBjNTSK2EAFfTWy2MDy4au5O9gRBPpPTKUJY4Ac7mTV1PziyQdOzZ38SDaDkT-KOMYtg_5dIdTMUGBvgLMfPs7kHmgDRLMDvtdbXKiSD4Cyn8ywgNJXc2tKKyq6BnquC_dQUPowXvN454Hru-4vJN2qD-b-gY185DlVDGl_SoX5BB8KJmd9UjnQmzuhIpaMuymme0LEH9axyyBeV4wodnVM6bleOPB34azrGN-nAWXdBR_cKHegGHVnlyNGBbXRSOTI6ssrxScf3K0frX1WOFBZ7_zotI-sZvVlO0CCATeOh39toAp5o73qlNd5Eza3UpuTLcuIsovuFYXl3umvdq6VOtLXudCbw722Le1fwMrI9HgQm_xD4vFqTeC0wVlPX5KERWDxdrXlz6q5CO-KDBM2FvWSe-FW45mNu4QW-IhkVSJ69nioUhVrVAI4zqi49Y16ubx-dcKy5y2FQqzojMn-1G7sRHL5Vq1MvaI128DlY1LW55GyeX_BMH8hNpxEZvSfBMWeVHuq4o6D5quly1AXlSlC22z-D1XC86shv_q4aQs_Gkh49fry9Unml6TPa89Sy9OTQNK5Q6dXfBzNBxp0KkwSmwu5ZpuAnAS9UNQEcA8JyhECfPTG7Hi40Dd0ON0q9MmnI1YlcqpScmtOocQsabVeKXOTCZaAU_wEMmSj2",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4XzG43iczZXrkqo4EIAfYJ9j-cMgqHibKupUiBHj5TiZ0Zlx_lDIJaIoDqCM_jvvsk-1T7MBxcHbmZqt2qpNFYF0Ot2dpD_611-eu5z__Qc_jaJVeC-KcRwXqO9Tzy6Y_kI0wu3SFB3fCwNz-mPqKfaSo56yDrnQXwem7VqKOQ38hc1tN0qZM0NF4mxXGbyvqOG_9gcPbaGmjx52uN0TAOFSc4o-MUJ7xrx9zEJRF1k3_7PcZINCWLCXhZKpQbdO0MA2CyWp2CgMRGPBFMB_3x4BQEkHADk8p62vfmEA4aTXPlfibCKvFadiCPdScjqZa3DvDmKSaMQd4W0SA-Af9NX4N4F0ToctmnpKzhAlxq7vA19IsshameDyTG4vztZ3j8PBheErVlSaG0MK8AC02cRRmsVO8h4pgMm5sgVMGT6oLNsIueUk3cYobrpE3d_27YbBSH6aH75hxBaqokVZNkriJGCvouiaUzP9CMIkSeGwIfnaKyUQFikaDixvrgkyqQLszjz0totFc8L0PN-wbEuf6tKPdFwsFStSo1yr36V0mOERjzCPh-ltrDF9mpWG_UKvoBZzbJBjxGc7xTevBl9JhOOZwf1Z4ySXjlrqwYuUGM0dL0VYyN9cmwKNwv6Z7cQMvGTjM9S0jROtQ86gbl4z51CFxw3nbzm-SKyck8Mu-gwoEB9lWk4ZnS6HWEX0GBjNTSK2EAFfTWy2MDy4au5O9gRBPpPTKUJY4Ac7mTV1PziyQdOzZ38SDaDkT-KOMYtg_5dIdTMUGBvgLMfPs7kHmgDRLMDvtdbXKiSD4Cyn8ywgNJXc2tKKyq6BnquC_dQUPowXvN454Hru-4vJN2qD-b-gY185DlVDGl_SoX5BB8KJmd9UjnQmzuhIpaMuymme0LEH9axyyBeV4wodnVM6bleOPB34azrGN-nAWXdBR_cKHegGHVnlyNGBbXRSOTI6ssrxScf3K0frX1WOFBZ7_zotI-sZvVlO0CCATeOh39toAp5o73qlNd5Eza3UpuTLcuIsovuFYXl3umvdq6VOtLXudCbw722Le1fwMrI9HgQm_xD4vFqTeC0wVlPX5KERWDxdrXlz6q5CO-KDBM2FvWSe-FW45mNu4QW-IhkVSJ69nioUhVrVAI4zqi49Y16ubx-dcKy5y2FQqzojMn-1G7sRHL5Vq1MvaI128DlY1LW55GyeX_BMH8hNpxEZvSfBMWeVHuq4o6D5quly1AXlSlC22z-D1XC86shv_q4aQs_Gkh49fry9Unml6TPa89Sy9OTQNK5Q6dXfBzNBxp0KkwSmwu5ZpuAnAS9UNQEcA8JyhECfPTG7Hi40Dd0ON0q9MmnI1YlcqpScmtOocQsabVeKXOTCZaAU_wEMmSj2"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Intel Arc Pro B70 Specs",
+      "link": "https://www.techpowerup.com/gpu-specs/arc-pro-b70.c4388",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Farc-pro-b70.c4388&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECF0QAQ",
+      "displayed_link": "https://www.techpowerup.com › gpu-specs › arc-pro-b70",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "Being a dual-slot card, the Intel Arc Pro B70 draws power from 1x 8-pin power connector, with power draw rated at 230 W maximum. Display outputs include: 1x ...",
+      "snippet_highlighted_words": [
+        "card",
+        "Intel Arc Pro B70",
+        "with",
+        "W",
+        "Display"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Being a dual-slot card, the Intel Arc Pro B70 draws power from 1x 8-pin power connector, with power draw rated at 230 W maximum. Display outputs include: 1x ...",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/arc-pro-b70.c4388",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Farc-pro-b70.c4388&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Farc-pro-b70.c4388",
+      "source": "TechPowerUp",
+      "read_more_link": "https://www.techpowerup.com/gpu-specs/arc-pro-b70.c4388"
+    },
+    {
+      "position": 2,
+      "title": "Intel Arc Pro B70 quad-GPU setup power consumption",
+      "link": "https://www.facebook.com/VideoCardz/posts/intel-arc-pro-b70-battlematrix-quad-gpu-setup-consumes-up-to-720w-of-power/1380499524115798/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.facebook.com%2FVideoCardz%2Fposts%2Fintel-arc-pro-b70-battlematrix-quad-gpu-setup-consumes-up-to-720w-of-power%2F1380499524115798%2F&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECDkQAQ",
+      "displayed_link": "70+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Well, at 180W a card that's not bad at all for the capability. Especially considering that setup would cost $4000 to have 128GB of VRAM, ...",
+      "snippet_highlighted_words": [
+        "180W"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Well, at 180W a card that's not bad at all for the capability. Especially considering that setup would cost $4000 to have 128GB of VRAM, ...",
+          "source_info_link": "https://www.facebook.com/VideoCardz/posts/intel-arc-pro-b70-battlematrix-quad-gpu-setup-consumes-up-to-720w-of-power/1380499524115798/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.facebook.com%2FVideoCardz%2Fposts%2Fintel-arc-pro-b70-battlematrix-quad-gpu-setup-consumes-up-to-720w-of-power%2F1380499524115798%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FVideoCardz%2Fposts%2Fintel-arc-pro-b70-battlematrix-quad-gpu-setup-consumes-up-to-720w-of-power%2F1380499524115798%2F",
+      "source": "Facebook · VideoCardz"
+    },
+    {
+      "position": 3,
+      "title": "Is 550w Power Supply Enough for Arc B570/B580? : r/IntelArc",
+      "link": "https://www.reddit.com/r/IntelArc/comments/1hgw821/is_550w_power_supply_enough_for_arc_b570b580/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FIntelArc%2Fcomments%2F1hgw821%2Fis_550w_power_supply_enough_for_arc_b570b580%2F&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECFEQAQ",
+      "displayed_link": "20+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "the power supply My current system: * R5 5600 * B550M-A PRO * 16 GB 3600MHz * MSI GT 1030 2GB GDDR5",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Intel Arc A750 PSU questione : r/IntelArc - Reddit",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1g8c9b0/intel_arc_a750_psu_questione/",
+            "answer_count": 6,
+            "date": "Oct 20, 2024"
+          },
+          {
+            "title": "Intel Arc Pro B70 \"Battlematrix\" quad-GPU setup ...",
+            "link": "https://www.reddit.com/r/intel/comments/1sgj8n0/intel_arc_pro_b70_battlematrix_quadgpu_setup/",
+            "answer_count": 10,
+            "date": "Apr 9, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Intel actually recommends 600w … 550W should be good. The GPU will be well below 250W The",
+          "source_info_link": "https://www.reddit.com/r/IntelArc/comments/1hgw821/is_550w_power_supply_enough_for_arc_b570b580/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FIntelArc%2Fcomments%2F1hgw821%2Fis_550w_power_supply_enough_for_arc_b570b580%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FIntelArc%2Fcomments%2F1hgw821%2Fis_550w_power_supply_enough_for_arc_b570b580%2F",
+      "source": "Reddit · r/IntelArc"
+    },
+    {
+      "position": 4,
+      "title": "Intel® Arc™ Pro Graphics – Desktop Quick Start Guide",
+      "link": "https://www.intel.com/content/www/us/en/support/articles/000099073/graphics.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fsupport%2Farticles%2F000099073%2Fgraphics.html&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECD4QAQ",
+      "displayed_link": "https://www.intel.com › Product Support › Graphics",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAbbkAargAbboAg9EAabYAaLUAabcAabYAabYAaLUAaLYAarYAaLYAabZkk4wFAAAAD3RSTlMAFScGAabtU4N2_7k-1o6skpI8AAAAoklEQVR4AWMYKMCoCCKNHUCkkACDaTqIUSEAImcVMFjuATGiDoDIrgIGRmEGBgMQlxnMtdjTe_b2gagbTLH3DIBc0_Sotbc2RuXprr4VAOFOkF4TpfCqgG_5LDBXwWJ51MFdd-9mQrgClsujDkdFzpvTBePOiqkKLy0AcZfvErBYrrvUImvVhFcFDE4HdQycDjKdYVYvMtABuY0F4ngXugYVADeNOhj242D0AAAAAElFTkSuQmCC.png",
+      "snippet": "Power supply requirements vary by partner board designs. Minimum 280W system power supply – No dedicated PCI Express power connectors are needed.",
+      "snippet_highlighted_words": [
+        "Minimum 280W system power supply"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Power supply requirements vary by partner board designs. Minimum 280W system power supply – No dedicated PCI Express power connectors are needed.",
+          "source_info_link": "https://www.intel.com/content/www/us/en/support/articles/000099073/graphics.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAbbkAargAbboAg9EAabYAaLUAabcAabYAabYAaLUAaLYAarYAaLYAabZkk4wFAAAAD3RSTlMAFScGAabtU4N2_7k-1o6skpI8AAAAoklEQVR4AWMYKMCoCCKNHUCkkACDaTqIUSEAImcVMFjuATGiDoDIrgIGRmEGBgMQlxnMtdjTe_b2gagbTLH3DIBc0_Sotbc2RuXprr4VAOFOkF4TpfCqgG_5LDBXwWJ51MFdd-9mQrgClsujDkdFzpvTBePOiqkKLy0AcZfvErBYrrvUImvVhFcFDE4HdQycDjKdYVYvMtABuY0F4ngXugYVADeNOhj242D0AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fsupport%2Farticles%2F000099073%2Fgraphics.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fsupport%2Farticles%2F000099073%2Fgraphics.html",
+      "source": "Intel"
+    },
+    {
+      "position": 5,
+      "title": "Intel Arc Pro B70 Single-Fan AI & Workstation Graphics ...",
+      "link": "https://www.microcenter.com/product/709007/intel-arc-pro-b70-single-fan-ai-workstation-graphics-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F709007%2Fintel-arc-pro-b70-single-fan-ai-workstation-graphics-card&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECEkQAQ",
+      "displayed_link": "https://www.microcenter.com › ... › Graphics Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "The full height full length GPU is designed for professional workstations, featuring dedicated hardware for AI, Ray Tracing, and Media Encoding, with support ...",
+      "snippet_highlighted_words": [
+        "GPU",
+        "professional",
+        "with"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The full height full length GPU is designed for professional workstations, featuring dedicated hardware for AI, Ray Tracing, and Media Encoding, with support ...",
+          "source_info_link": "https://www.microcenter.com/product/709007/intel-arc-pro-b70-single-fan-ai-workstation-graphics-card",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F709007%2Fintel-arc-pro-b70-single-fan-ai-workstation-graphics-card&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F709007%2Fintel-arc-pro-b70-single-fan-ai-workstation-graphics-card",
+      "source": "Micro Center",
+      "read_more_link": "https://www.microcenter.com/product/709007/intel-arc-pro-b70-single-fan-ai-workstation-graphics-card"
+    },
+    {
+      "position": 6,
+      "title": "Intel Arc Pro B70 is the best-selling workstation GPU on ...",
+      "link": "https://www.tweaktown.com/news/110889/intel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tweaktown.com%2Fnews%2F110889%2Fintel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000%2Findex.html&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECDcQAQ",
+      "displayed_link": "https://www.tweaktown.com › News › Graphics Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEX____w8_nN1OlXc7wAMKRmf8HZ3u29x-I9YbUAO6cUSKsocMTJ5Prg5fKsuNsjUa8APqhQi9B2w_eB1P_N7f98kMgAN6aYqNQTQKdZmNl-z_-A0f-o0PIsYrlOouT7_v8AHHceTbAsW7RipOGD1v8_dcNvufB2z_8AGlcAKmEAM3xIgstzzP-G3P9syv8AAFJIgrAzZaOh2__r9_-zu8kSPG8AFVg8eKdqs-HBytZljrQACE5ndpIAI15Tkb8cSHqBj6cAG2h2iKkANJRSZYc-X6kVQ38AC2USQpoAF1UAAEcAN3I-AvvhAAABIElEQVR4Aa3S1YJCIRAAUOzOcRW78Hbb3f3__7NcW7ZjXohDM-ifwvExOV1uj_d98vkDwWAgFLYXiDxTNBYPBoOJJKRQ5CWdfljBkQnGgziWzUE-V_Ckg0FcLJWvWMFVXKsDpRzJ4iBucIS_oSBKHKGSy0O9huUkrSsPKKo527gYTuROw7Qb6qJI8pDPgWEC2KRYzauhVruj5rq9PBhdkrPtTnb0B53hGQEoMk8wGgsUu10ymZL3UUl5O0L7Q0RD8R2cdYQeQPN9RJl5L-tEZd1GjbHFshqPlZpoNW6rEGaXHY_rhG-iyHpT93hZPB2oiba7Kn1B9rSdfS-vNekzbwgQBh2zQ89qIor0EYDBa27o-ylRLNZuKxxJ6tP0_Hu8AkoVKg5iC3SSAAAAAElFTkSuQmCC.png",
+      "date": "Apr 6, 2026",
+      "snippet": "TL;DR: The Intel Arc Pro B70, powered by the BMG-G31 GPU with 32 Xe Cores and 32GB GDDR6 memory, targets AI and workstation users.",
+      "snippet_highlighted_words": [
+        "Intel Arc Pro B70",
+        "GPU with"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TL;DR: The Intel Arc Pro B70, powered by the BMG-G31 GPU with 32 Xe Cores and 32GB GDDR6 memory, targets AI and workstation users.",
+          "source_info_link": "https://www.tweaktown.com/news/110889/intel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000/index.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEX____w8_nN1OlXc7wAMKRmf8HZ3u29x-I9YbUAO6cUSKsocMTJ5Prg5fKsuNsjUa8APqhQi9B2w_eB1P_N7f98kMgAN6aYqNQTQKdZmNl-z_-A0f-o0PIsYrlOouT7_v8AHHceTbAsW7RipOGD1v8_dcNvufB2z_8AGlcAKmEAM3xIgstzzP-G3P9syv8AAFJIgrAzZaOh2__r9_-zu8kSPG8AFVg8eKdqs-HBytZljrQACE5ndpIAI15Tkb8cSHqBj6cAG2h2iKkANJRSZYc-X6kVQ38AC2USQpoAF1UAAEcAN3I-AvvhAAABIElEQVR4Aa3S1YJCIRAAUOzOcRW78Hbb3f3__7NcW7ZjXohDM-ifwvExOV1uj_d98vkDwWAgFLYXiDxTNBYPBoOJJKRQ5CWdfljBkQnGgziWzUE-V_Ckg0FcLJWvWMFVXKsDpRzJ4iBucIS_oSBKHKGSy0O9huUkrSsPKKo527gYTuROw7Qb6qJI8pDPgWEC2KRYzauhVruj5rq9PBhdkrPtTnb0B53hGQEoMk8wGgsUu10ymZL3UUl5O0L7Q0RD8R2cdYQeQPN9RJl5L-tEZd1GjbHFshqPlZpoNW6rEGaXHY_rhG-iyHpT93hZPB2oiba7Kn1B9rSdfS-vNekzbwgQBh2zQ89qIor0EYDBa27o-ylRLNZuKxxJ6tP0_Hu8AkoVKg5iC3SSAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tweaktown.com%2Fnews%2F110889%2Fintel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000%2Findex.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tweaktown.com%2Fnews%2F110889%2Fintel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000%2Findex.html",
+      "source": "TweakTown",
+      "read_more_link": "https://www.tweaktown.com/news/110889/intel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000/index.html"
+    },
+    {
+      "position": 7,
+      "title": "Questions & Answers: Intel Arc Pro B70 32GB 256 ...",
+      "link": "https://www.newegg.com/intel-arc-pro-b70-32gb-graphics-card/p/N82E16814883008/questions?srsltid=AfmBOoqatB4elBFSxmZHBavATMN057XwJIXRJeiV1UmIos4xl4OhlwVr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fintel-arc-pro-b70-32gb-graphics-card%2Fp%2FN82E16814883008%2Fquestions%3Fsrsltid%3DAfmBOoqatB4elBFSxmZHBavATMN057XwJIXRJeiV1UmIos4xl4OhlwVr&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECDoQAQ",
+      "displayed_link": "https://www.newegg.com › questions",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "The Intel Arc Pro B70 32GB GPU works best with a power supply of at least 600W to ensure stable performance and headroom for the rest of your components.",
+      "snippet_highlighted_words": [
+        "at least 600W"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Intel Arc Pro B70 32GB GPU works best with a power supply of at least 600W to ensure stable performance and headroom for the rest of your components.",
+          "source_info_link": "https://www.newegg.com/intel-arc-pro-b70-32gb-graphics-card/p/N82E16814883008/questions?srsltid=AfmBOoqatB4elBFSxmZHBavATMN057XwJIXRJeiV1UmIos4xl4OhlwVr",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fintel-arc-pro-b70-32gb-graphics-card%2Fp%2FN82E16814883008%2Fquestions%3Fsrsltid%3DAfmBOoqatB4elBFSxmZHBavATMN057XwJIXRJeiV1UmIos4xl4OhlwVr&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fintel-arc-pro-b70-32gb-graphics-card%2Fp%2FN82E16814883008%2Fquestions%3Fsrsltid%3DAfmBOoqatB4elBFSxmZHBavATMN057XwJIXRJeiV1UmIos4xl4OhlwVr",
+      "source": "Newegg"
+    },
+    {
+      "position": 8,
+      "title": "Intel Arc Pro B70 Review: The Hardware Is Ready ...",
+      "link": "https://www.storagereview.com/review/intel-arc-pro-b70-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.storagereview.com%2Freview%2Fintel-arc-pro-b70-review&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8QFnoECDwQAQ",
+      "displayed_link": "https://www.storagereview.com › Review",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX____2_P7U7vql3PaAzfJ6yvBpxO-b2PXL6Pjw-f2u3_dGuOxMuuxlwu7X7vlNu-1Nuuy75Pg7tuxOu-2Y1vRZv-7n9v1lxfCK0PLh8_t0yfH4_v-GzfDA4vT4-PjG6PnR5fAvFO4-AAABQklEQVR4AYxShZYDIQxkXSZbcixQ7_9_5iWBc001HWMedf-bpu36YeynefkKrSNkCMA2fYIPXgBvwwR6eo-tQRDemfXdM4fpHYaC7VW7E-KrZyDW30QiL68kCtW5SRCVPlXMhUTI1dRkXmRExNUZkwlHYsN20Hb0KCBTUumBaPdqF05n53IEWfxuqR28BeIkS90Vtr1HqU5iY5OogBf5PsCOSJurc6rs7erchVgjjGhzw25lkoA9rBrtTQVHlLOPAk7qogdaCzaX2oyTLaUKhbtiLTTEV_KS7K5oSxin6QJiGdHirNyIXRb05x0ot2q1-6uCGcRe8l1LZmlXQ6F9uc7a-bBDZKZEfFeb6Wj_FvKsx8H4eAEfNzAu1sNjZ7XJ7m26IJnWZAcjxKqr0w7H5zHAZKXk0ROutCSUwaHASFQmAAAAthwVSPPDDQAAAABJRU5ErkJggg.png",
+      "date": "Jul 14, 2026",
+      "snippet": "The Intel Arc Pro B70 is the most capable and promising deskside AI card Intel has shipped, but at times, it is also the most frustrating.",
+      "snippet_highlighted_words": [
+        "Intel Arc Pro B70",
+        "card Intel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Intel Arc Pro B70 is the most capable and promising deskside AI card Intel has shipped, but at times, it is also the most frustrating.",
+          "source_info_link": "https://www.storagereview.com/review/intel-arc-pro-b70-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX____2_P7U7vql3PaAzfJ6yvBpxO-b2PXL6Pjw-f2u3_dGuOxMuuxlwu7X7vlNu-1Nuuy75Pg7tuxOu-2Y1vRZv-7n9v1lxfCK0PLh8_t0yfH4_v-GzfDA4vT4-PjG6PnR5fAvFO4-AAABQklEQVR4AYxShZYDIQxkXSZbcixQ7_9_5iWBc001HWMedf-bpu36YeynefkKrSNkCMA2fYIPXgBvwwR6eo-tQRDemfXdM4fpHYaC7VW7E-KrZyDW30QiL68kCtW5SRCVPlXMhUTI1dRkXmRExNUZkwlHYsN20Hb0KCBTUumBaPdqF05n53IEWfxuqR28BeIkS90Vtr1HqU5iY5OogBf5PsCOSJurc6rs7erchVgjjGhzw25lkoA9rBrtTQVHlLOPAk7qogdaCzaX2oyTLaUKhbtiLTTEV_KS7K5oSxin6QJiGdHirNyIXRb05x0ot2q1-6uCGcRe8l1LZmlXQ6F9uc7a-bBDZKZEfFeb6Wj_FvKsx8H4eAEfNzAu1sNjZ7XJ7m26IJnWZAcjxKqr0w7H5zHAZKXk0ROutCSUwaHASFQmAAAAthwVSPPDDQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.storagereview.com%2Freview%2Fintel-arc-pro-b70-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.storagereview.com%2Freview%2Fintel-arc-pro-b70-review",
+      "source": "StorageReview.com",
+      "read_more_link": "https://www.storagereview.com/review/intel-arc-pro-b70-review"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 price",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+price&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 32GB",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+32GB&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+32GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 buy",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+buy&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+buy"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 benchmarks",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+benchmarks&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+benchmarks"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 gaming",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+gaming&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 dual",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+dual&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+dual"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 Nvidia equivalent",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+Nvidia+equivalent&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Nvidia+equivalent"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Arc Pro B70 release date",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Arc+Pro+B70+release+date&sa=X&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+release+date"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=10&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=10&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=20&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=30&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=40&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=50&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=60&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=70&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=80&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=OqpgaoXMOPH-7_UPzIHL-AQ&start=90&sa=N&sstk=AU9db-ArSOZQuLhCfEiDKrlhREGJH6K3qSnKYVwFtCBf6jlT4g6wza_jFBw2ejFgDr9iLVc1UVcmH9aHhx4mfNXNo7BrcgISxFjInw&ved=2ahUKEwiF0Ybsl-aVAxVx_7sIHczAEk8Q8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Arc+Pro+B70+Graphic+Card+gpu+chipset+recommended+psu+w&start=90"
+    }
+  }
+}

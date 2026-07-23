@@ -1,0 +1,825 @@
+{
+  "search_metadata": {
+    "id": "6a5f7ab4cfa230154ea34b1c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/R-1O02N29DcwzG4QvcwqCw/6a5f7ab4cfa230154ea34b1c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/R-1O02N29DcwzG4QvcwqCw/6a5f7ab4cfa230154ea34b1c.json_with_pixel_position",
+    "created_at": "2026-07-21 13:57:08 UTC",
+    "processed_at": "2026-07-21 13:57:08 UTC",
+    "google_url": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&oq=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/R-1O02N29DcwzG4QvcwqCw/6a5f7ab4cfa230154ea34b1c.html",
+    "total_time_taken": 1.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Corsair Vengeance RGB 32GB DDR5-6000 Memory memory cas_latency module_count voltage",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Corsair Vengeance RGB 32GB DDR5-6000 Memory memory cas_latency module_count voltage",
+    "total_results": 1100,
+    "time_taken_displayed": 0.69,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "CORSAIR Vengeance RGB DDR5 32GB Review 6000MHz ...",
+      "link": "https://www.youtube.com/watch?v=HBuwLfB6Gqc",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ab4cfa230154ea34b1c/images/vSCHg9C0ZLP5e5HFF-S2ud7suPGP3U7HuD3Cz5Xmiz0.jpeg",
+      "channel": "TechTroveToday",
+      "duration": "3:52",
+      "platform": "YouTube",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "position": 2,
+      "title": "CORSAIR Vengeance RGB DDR5 6000MHz RAM Review ...",
+      "link": "https://www.youtube.com/watch?v=XEsf6T2UO-I",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ab4cfa230154ea34b1c/images/HAMsphshYjb5XG8f7lpoJenf9pE3R65pvKjCgkJ8Mic.jpeg",
+      "channel": "GenuineCritics",
+      "duration": "3:37",
+      "platform": "YouTube",
+      "date": "Jun 27, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRIvHjKxX4kzkEQ8vvBQn3gXyBPYISW8dH9Nw"
+    },
+    {
+      "position": 3,
+      "title": "Corsair Vengeance RGB DDR5 6000MHz 32GB – Unboxing ...",
+      "link": "https://www.youtube.com/watch?v=z2l7k1hjyxk",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ab4cfa230154ea34b1c/images/wp-EBigofkkWb49ZB3jlj9fHB6s-1VzKf3Ad7YN-wW4.jpeg",
+      "channel": "Northern Viking Everyday",
+      "duration": "4:26",
+      "platform": "YouTube",
+      "date": "Mar 5, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT7aL8PiPRkwDsWbjalpcdedAaQ7l-yotYvSw"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR3pGrzZW9zHNWQV3Z4rOr1VCgb24slJb73GlZUmgDXB21-7blyiZmvPc24bBY6VzF2FFOMEQorje9NDvpTPAHgsqgMmYmZyp20QAb2gpSUupRROgGaAguPzA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5aaGfMW97qGRkQ4iOwtu7aFJPFmjpvS09yQqDJ0zw8gfYTCKQaeyWJMoIfVbncuYERBN5YgM-SOh1v7GCawAXYZl1nwtkzGA",
+      "source": "Pondesk",
+      "title": "Corsair Vengeance RGB 32GB DDR5 6000MHz CL36 Memory",
+      "rating": 4.7,
+      "reviews": 29,
+      "price": "$167.99",
+      "extracted_price": 167.99,
+      "original_price": "Usually $684",
+      "extracted_original_price": 684,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "y3lYdnicdVPbjqNGEJXyDfkLa6W-cM3bYBp7mQFMQzeGFwvTbeMxt7Fhxlj5h_yDZzfS5nF3pbzmNyZfE3bymqikKlWd0qk6JdVvN3n4s193u3yQDSny9aUwVrj_sH-6C790p1YMRX8Q36EKsQkAQgBrpoIB1JD-pcj7vGr3P2CADFUzIVJNxQAIAwXpX0uZi-rQyGC3kye7LX706SqEhgGBYpjq1KdpUP_jUOd7-Y5_QxODZhgqVJECEVBUHbyexPlNWc03UFN0ZGqmqeqagU0FahD9uqKBvfkf8PPTIE_jWzRvT-f8cJpx2exl3hRyRhfWDKPJ2TZVP2gAgJkn6_Y0zup_Q5GfN1Xey6aYStMNKrkp2qHpZ89t1U_bft5373L-Y-prfRBfp1zR0KRxUqCquq7i1-65v5X7T8PE9ddtX92G862sbrL5vc27513x908_k_bFnp9f5iHrOm5TEDWcFkuLZ3W_yxp3TnHV8iu_buueJgseJUTcb2tPZahfRqiEMXE7n5QxO2ZJhuBVHH1SrKuVtyx3EcoUah97us4ifrzgLFGXKS4PBU5BwJ0uchxAE3cZN-4wRS3iomFOeA3I5RJXQonsqg9sN32IQ7CtRcwbBii7MAH4OausNq3cPIp5Pdnz-lrlHlIvGRZaPMLBt_fQYyaNYtGuYTYwdobhVdynjyL1cMX50X8p3jUBsE2yZcGokzQ-49xXKUx7QfqdtFPsEZqkV4EpF5Yg7ZjwbFgjAwlWeonjhqwm-CGh8RZ8VHjiWD7hUdxYq4K1QDDqpgDWHqmeIlaOD4yNnJRVCJwmQ2dUgGoVXS0lwhaRpAzoY_YQYn8REx9sIQUB2fc5qT5S1I8R5GPU-ErY0H6bpCA79r63cBWZpJGDaVosslIkfLqjXybL8jFw7q5iDpuCOXRxcC269Mcgydh6miedTpPcOWQoCwvW8Qzevci6K0OUYvnoWJ8u59PuDdw5ah8Fyk67J3wjiVizzjK2cecmliXHePkY_gJ1Q9EUNP0eAOY_v3tEjg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=y3lYdnicdVPbjqNGEJXyDfkLa6W-cM3bYBp7mQFMQzeGFwvTbeMxt7Fhxlj5h_yDZzfS5nF3pbzmNyZfE3bymqikKlWd0qk6JdVvN3n4s193u3yQDSny9aUwVrj_sH-6C790p1YMRX8Q36EKsQkAQgBrpoIB1JD-pcj7vGr3P2CADFUzIVJNxQAIAwXpX0uZi-rQyGC3kye7LX706SqEhgGBYpjq1KdpUP_jUOd7-Y5_QxODZhgqVJECEVBUHbyexPlNWc03UFN0ZGqmqeqagU0FahD9uqKBvfkf8PPTIE_jWzRvT-f8cJpx2exl3hRyRhfWDKPJ2TZVP2gAgJkn6_Y0zup_Q5GfN1Xey6aYStMNKrkp2qHpZ89t1U_bft5373L-Y-prfRBfp1zR0KRxUqCquq7i1-65v5X7T8PE9ddtX92G862sbrL5vc27513x908_k_bFnp9f5iHrOm5TEDWcFkuLZ3W_yxp3TnHV8iu_buueJgseJUTcb2tPZahfRqiEMXE7n5QxO2ZJhuBVHH1SrKuVtyx3EcoUah97us4ifrzgLFGXKS4PBU5BwJ0uchxAE3cZN-4wRS3iomFOeA3I5RJXQonsqg9sN32IQ7CtRcwbBii7MAH4OausNq3cPIp5Pdnz-lrlHlIvGRZaPMLBt_fQYyaNYtGuYTYwdobhVdynjyL1cMX50X8p3jUBsE2yZcGokzQ-49xXKUx7QfqdtFPsEZqkV4EpF5Yg7ZjwbFgjAwlWeonjhqwm-CGh8RZ8VHjiWD7hUdxYq4K1QDDqpgDWHqmeIlaOD4yNnJRVCJwmQ2dUgGoVXS0lwhaRpAzoY_YQYn8REx9sIQUB2fc5qT5S1I8R5GPU-ErY0H6bpCA79r63cBWZpJGDaVosslIkfLqjXybL8jFw7q5iDpuCOXRxcC269Mcgydh6miedTpPcOWQoCwvW8Qzevci6K0OUYvnoWJ8u59PuDdw5ah8Fyk67J3wjiVizzjK2cecmliXHePkY_gJ1Q9EUNP0eAOY_v3tEjg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQHimrgLxlnLfxmKWCBgnv6_wWutijubX3rqve-6Vsd96qKzhJeEJV4mXTAGC0rO9yzV0MsgFtVsiGo8KFRBgqoO6QsGOZAGA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRO45K34VXLcqXlX-0vMJZdGyo84ib1hV2_zOIbKhTLGrNnA_UskvLZ3J3eVPvHrIcOCk9MuNJGZBfUniSs30UXj3V1jqo_",
+      "source": "atelier21.org",
+      "title": "CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz | Intel XMP Desktop Memory | RGB Lighting",
+      "rating": 4.8,
+      "reviews": 871,
+      "price": "$43.50",
+      "extracted_price": 43.5,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "AoZKknicbZFLjuM2FEWR9RgFkJTkT2Zl6-Ny21KJMkmZkwJNyqb1pW25SjZ6D9lCw90doDNMAmSabVSQxURJpj25D3j3PuAevJ_u2eGPNjU7cclqT4q0k-Nnq33YHx_jb-bUqItsD-q38dCajG0bjYYTOBnZI4icb1K0omz2B_XpV50JVR7qLNrtspPbyO9f_HKoxD77z_4d2gBMJhDYY2TbNhyOxwh9PqnzO3qevSA0QQiOJmPLGTkW6LPw4zOO3Jfve1-Pl-x0fU9mzeksDqcBzep9JmqZDXAwHVioF9fFzsMQADBYZVVzug6q_4cU55dStFkt-1UPW2YvsrnU7eC1Kdu-7Ne96dt--lz9K-a1vev9l0uf-vO-L--X812X96z-uRHmdSf_-uFv7_I0mx2fZjExhroYJEUHEiKhdDWkVVux_Alscu8agzYVkIaUTtAWOIaWi0pVVCeF8yQCipOUL_HcuNtKB7JQt8zF5xSFcAt8JgonJ4QPs3X5hvO4ixnF_ABNCoyzpHgRp37MPf4cF5RT5ieJFa5krotoXlo4cJo1WbwuSVuq-ZTJ2xQqQtcbqN2wslGfvai8LFRpIlX4H0itF9ydxqIKh1tUQEyIE-d8xSoTh5TPmIuPCi2uJOBT7pWRrMyMet0mIzYgdRiwuTpytHBorbqeU2-YPtDKA6rWXpbqTnp4p3wzTXJ_Ffn-kZUeFNUCkVzpJA93q4p0vAKQkcl0XfMa0zEQSFu8KC2W8g-RG74p5hRsbk5rBMHKwgVlvFwzmfgW3siAa8XoBbNQs7nOI__xpmawlsTHwWExxfPwGjGeZDXVBHTHbWWe1-njlSDe9sw3UZdmFZhOBgp_6c6n3Tt49J02iUY36ntouhF6yW9t3ETL_pNXHKmH-u1HOBrbQxshCwAI_wHJtSfP",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AoZKknicbZFLjuM2FEWR9RgFkJTkT2Zl6-Ny21KJMkmZkwJNyqb1pW25SjZ6D9lCw90doDNMAmSabVSQxURJpj25D3j3PuAevJ_u2eGPNjU7cclqT4q0k-Nnq33YHx_jb-bUqItsD-q38dCajG0bjYYTOBnZI4icb1K0omz2B_XpV50JVR7qLNrtspPbyO9f_HKoxD77z_4d2gBMJhDYY2TbNhyOxwh9PqnzO3qevSA0QQiOJmPLGTkW6LPw4zOO3Jfve1-Pl-x0fU9mzeksDqcBzep9JmqZDXAwHVioF9fFzsMQADBYZVVzug6q_4cU55dStFkt-1UPW2YvsrnU7eC1Kdu-7Ne96dt--lz9K-a1vev9l0uf-vO-L--X812X96z-uRHmdSf_-uFv7_I0mx2fZjExhroYJEUHEiKhdDWkVVux_Alscu8agzYVkIaUTtAWOIaWi0pVVCeF8yQCipOUL_HcuNtKB7JQt8zF5xSFcAt8JgonJ4QPs3X5hvO4ixnF_ABNCoyzpHgRp37MPf4cF5RT5ieJFa5krotoXlo4cJo1WbwuSVuq-ZTJ2xQqQtcbqN2wslGfvai8LFRpIlX4H0itF9ydxqIKh1tUQEyIE-d8xSoTh5TPmIuPCi2uJOBT7pWRrMyMet0mIzYgdRiwuTpytHBorbqeU2-YPtDKA6rWXpbqTnp4p3wzTXJ_Ffn-kZUeFNUCkVzpJA93q4p0vAKQkcl0XfMa0zEQSFu8KC2W8g-RG74p5hRsbk5rBMHKwgVlvFwzmfgW3siAa8XoBbNQs7nOI__xpmawlsTHwWExxfPwGjGeZDXVBHTHbWWe1-njlSDe9sw3UZdmFZhOBgp_6c6n3Tt49J02iUY36ntouhF6yW9t3ETL_pNXHKmH-u1HOBrbQxshCwAI_wHJtSfP"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTctnNaogsWQ4lexlY7_u0durt-p1fLYaUFzvEWih0yxWWon89n1ne9RlKO0v4tkmaOLJUV4T1BgTfXjSWPCjQLjUAF8H9aEUSh3Oy_9hF0pKjeUPPPeECj",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSFWx_HBs9gYYx68Hl3qAa8U2RAv5lJy_ahpFeT4cfRuzKj6sivkaUD_TdLX83---Ys1YRG_7IPpXVITooP3vZJ6IpKvvA9RCQ",
+      "source": "Corsair.com",
+      "title": "Corsair Vengeance RGB DDR5 Memory",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$508.99",
+      "extracted_price": 508.99,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "_LJPZXicbVJLjuM2EAVyhtzCGIAURcnOrmWZktW21PpRNjcNWqQtW9SnbbktG3OH3ME9E2BmORMg21yjc5oIM8tkUwXUq6r36vP7Xe7_6lbtlp9lPcv5qs_HT6j7sHt5CL-0x0ac824v_oSmYWrAREDHSEcT3YRj_CXnHVfNbi--G0AfDxETIIA0jJBujL8Vkgu1r2Ww3cqj3eRDmokQ1jRkGrqhmeOxMdHw133Fd_InjIGONFOfjLEBDWPAdf3tKE7v2tP0GUMEAcZjAxl4ApAxtPn4FAX28_9jn1_O8nh9j6fN8cT3xxGV9U7yOpejyLFGSBuMbUf4gwEAGC1l1Ryvo-qny_npWfFO1vkQGuZX8jlvznU3em1UN2j9vGt_iP0v6Vu1F9_wj-nGEw1NJibQgA7f2tfuXuw-nYdWf9936n4-3Qt1l_UfDW9ft_k_v_w6ay729HSZhmnbUjsCcdo9MtLoG2rpnFhJgljFU99d1pEW7-HjuvRJTD3Eyn6fQHpd1xaInehxU6oDB_0qLWmyLmHLFLklN6-MoLA3aIbjsnPjA_UCh26T0ufpFB7kjC0SMDnHN--SkiXwnRngFbHDg5f4GW0pnJyXjsr4rO3ZgVwDW_Ck9l_9TC2kQy85ahuRRGCDGI4qeBX2GqWUegIRO696xkpxEVfYcyKadKhNXQpYqkKm9V52EGfhlr1_hXG4Ul0wC0FARC3gTvdREVAU9pmrjCXx7EzNdOF0OrsV3ca2GlnhOXO8eUIU5QcLJyhypV1kfLW-JNkMp64HGFTzxGaOrFseZwWRUxgEWbGQrnUK0fq2PljDfiI_dtvbImFOmDZ4Qf1Q2qQMFc3kwJ2gwuKaKoc7uLLKOzZj2qbyMSWRkjFcccIaBsuYoGidO6wQGT1HmV9kbnEIyMNNTGGdpyRy9p4Vuf41yFhEb9RnWevldEKXSBlUw1v_RrJspZYbRF6o01mf-tNx-w4eCO7iQD_26dyBlxehz1eiihW6GuMynNPFYvcbNMe6oQ8PCABE_wLylkQE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_LJPZXicbVJLjuM2EAVyhtzCGIAURcnOrmWZktW21PpRNjcNWqQtW9SnbbktG3OH3ME9E2BmORMg21yjc5oIM8tkUwXUq6r36vP7Xe7_6lbtlp9lPcv5qs_HT6j7sHt5CL-0x0ac824v_oSmYWrAREDHSEcT3YRj_CXnHVfNbi--G0AfDxETIIA0jJBujL8Vkgu1r2Ww3cqj3eRDmokQ1jRkGrqhmeOxMdHw133Fd_InjIGONFOfjLEBDWPAdf3tKE7v2tP0GUMEAcZjAxl4ApAxtPn4FAX28_9jn1_O8nh9j6fN8cT3xxGV9U7yOpejyLFGSBuMbUf4gwEAGC1l1Ryvo-qny_npWfFO1vkQGuZX8jlvznU3em1UN2j9vGt_iP0v6Vu1F9_wj-nGEw1NJibQgA7f2tfuXuw-nYdWf9936n4-3Qt1l_UfDW9ft_k_v_w6ay729HSZhmnbUjsCcdo9MtLoG2rpnFhJgljFU99d1pEW7-HjuvRJTD3Eyn6fQHpd1xaInehxU6oDB_0qLWmyLmHLFLklN6-MoLA3aIbjsnPjA_UCh26T0ufpFB7kjC0SMDnHN--SkiXwnRngFbHDg5f4GW0pnJyXjsr4rO3ZgVwDW_Ck9l_9TC2kQy85ahuRRGCDGI4qeBX2GqWUegIRO696xkpxEVfYcyKadKhNXQpYqkKm9V52EGfhlr1_hXG4Ul0wC0FARC3gTvdREVAU9pmrjCXx7EzNdOF0OrsV3ca2GlnhOXO8eUIU5QcLJyhypV1kfLW-JNkMp64HGFTzxGaOrFseZwWRUxgEWbGQrnUK0fq2PljDfiI_dtvbImFOmDZ4Qf1Q2qQMFc3kwJ2gwuKaKoc7uLLKOzZj2qbyMSWRkjFcccIaBsuYoGidO6wQGT1HmV9kbnEIyMNNTGGdpyRy9p4Vuf41yFhEb9RnWevldEKXSBlUw1v_RrJspZYbRF6o01mf-tNx-w4eCO7iQD_26dyBlxehz1eiihW6GuMynNPFYvcbNMe6oQ8PCABE_wLylkQE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTz_LvUbQOk7A3mjpbILsk-pRtMBS267uvk6oHGKVQU-Qoa_7Fz_UJz99E81hEbtASvV2goRDV3lWvupepVETeSJMR4bvEzjLNlWVZdaDHrCcaKaTxJUSWLHw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSFWx_HBs9gYYx68Hl3qAa8U2RAv5lJy_ahpFeT4cfRuzKj6sivkaUD_TdLX83---Ys1YRG_7IPpXVITooP3vZJ6IpKvvA9RCQ",
+      "source": "Corsair.com",
+      "title": "Corsair Vengeance RGB DDR5 Memory Kit CMH",
+      "rating": 4.8,
+      "reviews": 1200,
+      "price": "$627.99",
+      "extracted_price": 627.99,
+      "original_price": "$314/ct",
+      "extracted_original_price": 314,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "XUyl-nicdVPbjqNGFJTyDfkLa6W-cM3beMzFjGmGBprLywhD22AajDH22Nb-Q_7Bsxtp93E3Ul7zG5OvCdm8JjrSKemUVFUq6fx65_UfY9Jv8hPvjCJPLoX2jMcP28OD_6Uf9uWpGOvyuwoQlpCqAYA0JCuyooMvRT7mYr-dWFnTVB3rGAMVSQqWIQbfKp6Xou64t9nwYbEv_hHBGGIIMNR0ACDQVKB-rdt8y3_Qv0NJl3UdATiZyZIkgwnfhvL4Lj0_vsDJVYFA0lQEFB1rWJblj8_UW7z8D_n5cOLD9T143A_HvB5mjHdbnncFn1FrPsNoWosFlT8oAICZy9v9cJ21_0KRH19EPvKumE5TA4K_FPtTN87OezFOcT9v-x95_8P1ra3Lb7KqSArSdKQgVYcaRMpbfx7v1fbTadL6874V99PxXok7737b5_15U_z108_G_nXxeHx99KO-ZwsKgp0jp91SJkbvuyJ7Ioa-4jG1i6T0cvgAfZQdCnsJaQxJJkQTNMXVBczmndMFNrvxNqsDmyg-E6wQ_ThpVNx0Dpzpq4yROm6qxo2rgVpmGlmOUopyuQppwCwSuE16KbsMeBHZpRGQwsZ5Ypa5pCK6Uqh7ProM-RWew6i6-B3JQyObhuT-zmFhYwYpnNtrCx4KA3prllnMrp7WqB_WsWORdnS8KLtQHCGXlU4KBCCCKNwWOAhp55qsXcf0kAIiRW2EWUdohkS1tkiSJmab25Xtivklb6Y0oXHjEUPrjq0oIkrQjIAm1CpaFgQtrTNEXrlxHN3FfMyAOZQ3ckh3mROE86SEtGfMAJ7lRMGumufGqCQ380xCc5NgkyTYlemugGkoDAou9toUPo0aRK0sdztHim4uWFvprYyyLItIS9tlYGKaFlZWlTE70ZhUsV3tPPPhVj7CrohMatXOnNrk6sVZyAzZprjvAsyWrMviYmE-ubETlzAFeQRN13a6T5fjsHkHD6Y8Bp40XKKlBV8PpbRMyjYQ-Kpojb9kq9X2F6hqkiIhhKfHwn8D36BDmQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XUyl-nicdVPbjqNGFJTyDfkLa6W-cM3beMzFjGmGBprLywhD22AajDH22Nb-Q_7Bsxtp93E3Ul7zG5OvCdm8JjrSKemUVFUq6fx65_UfY9Jv8hPvjCJPLoX2jMcP28OD_6Uf9uWpGOvyuwoQlpCqAYA0JCuyooMvRT7mYr-dWFnTVB3rGAMVSQqWIQbfKp6Xou64t9nwYbEv_hHBGGIIMNR0ACDQVKB-rdt8y3_Qv0NJl3UdATiZyZIkgwnfhvL4Lj0_vsDJVYFA0lQEFB1rWJblj8_UW7z8D_n5cOLD9T143A_HvB5mjHdbnncFn1FrPsNoWosFlT8oAICZy9v9cJ21_0KRH19EPvKumE5TA4K_FPtTN87OezFOcT9v-x95_8P1ra3Lb7KqSArSdKQgVYcaRMpbfx7v1fbTadL6874V99PxXok7737b5_15U_z108_G_nXxeHx99KO-ZwsKgp0jp91SJkbvuyJ7Ioa-4jG1i6T0cvgAfZQdCnsJaQxJJkQTNMXVBczmndMFNrvxNqsDmyg-E6wQ_ThpVNx0Dpzpq4yROm6qxo2rgVpmGlmOUopyuQppwCwSuE16KbsMeBHZpRGQwsZ5Ypa5pCK6Uqh7ProM-RWew6i6-B3JQyObhuT-zmFhYwYpnNtrCx4KA3prllnMrp7WqB_WsWORdnS8KLtQHCGXlU4KBCCCKNwWOAhp55qsXcf0kAIiRW2EWUdohkS1tkiSJmab25Xtivklb6Y0oXHjEUPrjq0oIkrQjIAm1CpaFgQtrTNEXrlxHN3FfMyAOZQ3ckh3mROE86SEtGfMAJ7lRMGumufGqCQ380xCc5NgkyTYlemugGkoDAou9toUPo0aRK0sdztHim4uWFvprYyyLItIS9tlYGKaFlZWlTE70ZhUsV3tPPPhVj7CrohMatXOnNrk6sVZyAzZprjvAsyWrMviYmE-ubETlzAFeQRN13a6T5fjsHkHD6Y8Bp40XKKlBV8PpbRMyjYQ-Kpojb9kq9X2F6hqkiIhhKfHwn8D36BDmQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSVbcMxHDhTCwsu2Y-J16GLB064aLlhJonvQajpkuc5bkjK_zZsoBM_WTuRplCg-a72pUTrgc9NAH_DRw9JbFoGM1z-oD8pKzNkT18CDKqjWt3RRBEy108K",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "Corsair Vengeance RGB 32GB DDR5-6000 Memory",
+      "rating": 4.8,
+      "reviews": 1200,
+      "price": "$439.99",
+      "extracted_price": 439.99,
+      "original_price": "$220/ct",
+      "extracted_original_price": 220,
+      "immersive_product_page_token": "XBipcnicdZNJjuNGEEXh8wgN5MTJu5I4qGSRLJFikspNgcpMDhKnoiiVRPgOvoKh6jbQvWw34K2vUT6Jl6bba2_iA_EjgI-HiF_usvxjSLosPcvG4mly5foTHj7kLw-bz13fijMfSvENEkPXEIFEBwgCAA2kw888HdKqzf-1NU2HOiGTTpNY0XVgfC1kKqqykX6Wyd5seSl-x0CBqgF0jHVkEIwVTf1S1mkuv9vfIFKwahBNIzrSdKAQRNS3XpzeydPieTJVFQIy5QCqgXWsKMrPT4FvPv-P-enlLPvbe7ho-1Na9jMqm1ymDZezwJnPMJqKaQbKBxUAMHNl3fa3Wf2f8PT0XKWDbPjUmhhU8pm352aYXdpqmOJ-yrvveTVdJ1BHClI0bEBdAYr2Vpfi17fuMtyL_ON52vzznlf38-leVHfZ_Nam3SXjf_3wt3Xhi0XPF5uo66gZgDCuthRAl5kiYsDLqHPNuGkRtw5UgR8hb9jRTyzsYkbDxoNsK5J0WRV-bNykU8DYEp40WbbZrsp1FFgsXtlsFAfZ2KWMh3kyztGm8TbCpmrkUNVNxLAZ51jGV1NgcY5tSnza-YJWyT4m1-2RYDexf2JL6u2daywPDG5H9zWMoRMdgjGsvZA2tsmqfEyRi31qDAx3PqtXqizhkpsce3Zhulb76oIWuo5RibFYpzCgIRR0Dz3kOp7v4i7bNRHYUG8hjkHIDhXeI5tGSZUKYPfC9GA6Vmte5zhtXLA37ZJV3tK1i0ZEQ--bq8Mu8VTXoZcIevb2YI1-dATbOjh4cfAk8DxJkYVDpCtyKeo0jiYqOfHj1xubmHlgVXnHYClNjvZ2F-8o6xLYqTJhxeZ4DG0c7LjDChHTcxB7RbwsDr79MIoFbHhkB065mgdL7-bHLNjFSuc61ZxFRcYBVbeWMVHzXngdZDKiaB8J_PF66rN38GArQ-iT_ho9OvD1RZDHRNRhhW-qftw80vU6_3G6LqIShPD0b_gfl2U3oQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XBipcnicdZNJjuNGEEXh8wgN5MTJu5I4qGSRLJFikspNgcpMDhKnoiiVRPgOvoKh6jbQvWw34K2vUT6Jl6bba2_iA_EjgI-HiF_usvxjSLosPcvG4mly5foTHj7kLw-bz13fijMfSvENEkPXEIFEBwgCAA2kw888HdKqzf-1NU2HOiGTTpNY0XVgfC1kKqqykX6Wyd5seSl-x0CBqgF0jHVkEIwVTf1S1mkuv9vfIFKwahBNIzrSdKAQRNS3XpzeydPieTJVFQIy5QCqgXWsKMrPT4FvPv-P-enlLPvbe7ho-1Na9jMqm1ymDZezwJnPMJqKaQbKBxUAMHNl3fa3Wf2f8PT0XKWDbPjUmhhU8pm352aYXdpqmOJ-yrvveTVdJ1BHClI0bEBdAYr2Vpfi17fuMtyL_ON52vzznlf38-leVHfZ_Nam3SXjf_3wt3Xhi0XPF5uo66gZgDCuthRAl5kiYsDLqHPNuGkRtw5UgR8hb9jRTyzsYkbDxoNsK5J0WRV-bNykU8DYEp40WbbZrsp1FFgsXtlsFAfZ2KWMh3kyztGm8TbCpmrkUNVNxLAZ51jGV1NgcY5tSnza-YJWyT4m1-2RYDexf2JL6u2daywPDG5H9zWMoRMdgjGsvZA2tsmqfEyRi31qDAx3PqtXqizhkpsce3Zhulb76oIWuo5RibFYpzCgIRR0Dz3kOp7v4i7bNRHYUG8hjkHIDhXeI5tGSZUKYPfC9GA6Vmte5zhtXLA37ZJV3tK1i0ZEQ--bq8Mu8VTXoZcIevb2YI1-dATbOjh4cfAk8DxJkYVDpCtyKeo0jiYqOfHj1xubmHlgVXnHYClNjvZ2F-8o6xLYqTJhxeZ4DG0c7LjDChHTcxB7RbwsDr79MIoFbHhkB065mgdL7-bHLNjFSuc61ZxFRcYBVbeWMVHzXngdZDKiaB8J_PF66rN38GArQ-iT_ho9OvD1RZDHRNRhhW-qftw80vU6_3G6LqIShPD0b_gfl2U3oQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ8j07qUPQKqLWsC0gCIPCnrqiiGhPMhlfn6igv-pb5cJIT_PTrJwl7W7IO6aVAMecThAjDIQhi9woWAdQ8gbHaLHTghUF30sAPuPtCJw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Corsair Vengeance RGB 32GB DDR5 5600MHz CL36 Memory",
+      "rating": 4.8,
+      "reviews": 565,
+      "price": "$519.99",
+      "extracted_price": 519.99,
+      "original_price": "$603",
+      "extracted_original_price": 603,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "6l6-5nicbVFLjttGEAVyhtxCMNAffrMTSVESZ0gNm2Q3yc2gh02JkpqfkSiJEnKH3EFjB3CWtgFvc43JaUInWy-qCqhXqPde1R_3cvu9T7s1P5XNrODpUBhPuP-weZ2Gn7tDK05FvxVfVR1ruoFUoGBTx4YBVfNzwXsu281WfIPQNBTTVIEJTV3VVYQh_lKVXMhtU67W6_LgtMWPOQNoGkBQQyZGBjCxDvBf25pvyv_wrwZSAECaCpFuGlBXTd18O4jjO3qynyFCpoENHeljjHQqQL8_kZXz_HPs0-upPFzfI7s9HPn2MKFlsyl5U5QTMrcmGI3JcYj6QQMATPyybg_XSf1_KfjxWfK-bIqxNR5Als9Fe2r6ybmV_aj106b7IfYnpG_1VnxRdU3RkKphEyKAsGYob925v1ebj6dx1d_3jbyfjvdK3svmz5Z353Xxzy-_ztqLYx8vdph0HXUIiBcVyxNiRdCACQokYUFWNO4-cbu4bETv00TNZ9UhAO6ZpO6-kLni3zxV3Ei2YtKJ5qpNG1KTLbQSMNTRovLymQdXLlnxPV3GEUwf0ykO9ssLZR7K4kzxXbMu5-3AGVEiJh-CdKqWi-BC964fAk_x6xlOb9LniZclW_jA6xDnsdWSmXn0Haum7IiE4w8RypswCWY-GKJyJo40tSSFhFLQsQgGPGQwK2wIQij6jIpLxlyrQDRIgHHjtJrTnVfRRWAzNtgU57IAVZjQ4FzAfEdgPlC0ub1AC2ZxCAmQEXE8lgOv4k7lhXW-CmMr4vVA410-elG1rBHLCBNOUR8TRvvRm5LBas8bsSjm3YXVufcC6cCB2Im93PFb_sqR9xDCbkFd9-kF02t6mw65452ZtM6R7B6K0QPZeVa871I-lzRhbeRikhXzvBKMnsZ_VWxR7Vbu9CZs2BSJS-ZbzyKL4LpieRTLFqyoqOP6iEgS2NFMWv5CDIIaCqu9a4Cg9XE4HtbvYOqqfbRSDkOynMPLq1CWqagjia-asQ-X9PFx8xvUDUVTEMIAQPwvTD5DKg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6l6-5nicbVFLjttGEAVyhtxCMNAffrMTSVESZ0gNm2Q3yc2gh02JkpqfkSiJEnKH3EFjB3CWtgFvc43JaUInWy-qCqhXqPde1R_3cvu9T7s1P5XNrODpUBhPuP-weZ2Gn7tDK05FvxVfVR1ruoFUoGBTx4YBVfNzwXsu281WfIPQNBTTVIEJTV3VVYQh_lKVXMhtU67W6_LgtMWPOQNoGkBQQyZGBjCxDvBf25pvyv_wrwZSAECaCpFuGlBXTd18O4jjO3qynyFCpoENHeljjHQqQL8_kZXz_HPs0-upPFzfI7s9HPn2MKFlsyl5U5QTMrcmGI3JcYj6QQMATPyybg_XSf1_KfjxWfK-bIqxNR5Als9Fe2r6ybmV_aj106b7IfYnpG_1VnxRdU3RkKphEyKAsGYob925v1ebj6dx1d_3jbyfjvdK3svmz5Z353Xxzy-_ztqLYx8vdph0HXUIiBcVyxNiRdCACQokYUFWNO4-cbu4bETv00TNZ9UhAO6ZpO6-kLni3zxV3Ei2YtKJ5qpNG1KTLbQSMNTRovLymQdXLlnxPV3GEUwf0ykO9ssLZR7K4kzxXbMu5-3AGVEiJh-CdKqWi-BC964fAk_x6xlOb9LniZclW_jA6xDnsdWSmXn0Haum7IiE4w8RypswCWY-GKJyJo40tSSFhFLQsQgGPGQwK2wIQij6jIpLxlyrQDRIgHHjtJrTnVfRRWAzNtgU57IAVZjQ4FzAfEdgPlC0ub1AC2ZxCAmQEXE8lgOv4k7lhXW-CmMr4vVA410-elG1rBHLCBNOUR8TRvvRm5LBas8bsSjm3YXVufcC6cCB2Im93PFb_sqR9xDCbkFd9-kF02t6mw65452ZtM6R7B6K0QPZeVa871I-lzRhbeRikhXzvBKMnsZ_VWxR7Vbu9CZs2BSJS-ZbzyKL4LpieRTLFqyoqOP6iEgS2NFMWv5CDIIaCqu9a4Cg9XE4HtbvYOqqfbRSDkOynMPLq1CWqagjia-asQ-X9PFx8xvUDUVTEMIAQPwvTD5DKg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ87AmdZ7FAL3DbR3D7UCG09SY-odKM1jgzlfCW6TZLzAtOcYBk7YbeqnCODireWDFEdvfBWJT_x8YEAJZZPOvDhO50BdS1cjf9I57bjw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSuiw7FOpvvArzpbjYsKRea8E2qNtr4YaZH_OIc0q1TyLftcY2R7SY7xFHyTZCRsUs9IenStITg59lYq1_T03WJgukwH6sxFXBYL0sE",
+      "source": "Balux Pet Market",
+      "title": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) DDR5 6000MHz CL36 AMD EXPO Intel XMP iCUE Compatible Computer Memory – Gray (CMH32GX5M2D6000Z36K)",
+      "rating": 4.8,
+      "reviews": 1200,
+      "price": "$36.00",
+      "extracted_price": 36.0,
+      "immersive_product_page_token": "NvW8PHicdZJLjuM2EIaR8xgDkHpZzq5lSX5FlEWJlFqbBpukLVkPyzblkY3cIVcYeGYCTJYzAbLNNTrIYaIk22TzF6r--oGvgPrpIcvfVNbtWC9bj7Ns4PZWV-_2p6foS3c-ip6rUnzTTMuwbQtOrZlm27oFDPMLZ4rVx30pPnwtJBN12cpwt5Nn98j_O_FL2bC9_Mf-FU61qa4DoI2-qUMTGLPZx7O4vBnb-QscwxYEhj3VgDXTbd00zR-3OHRf_sf8fOrl-fYWz4_nCyvPEyrbvWQtlxO8cCa6NorrYvOdBQCYBLI5nm-T5t_C2eWlZkq2fByN59byhR_7Vk2ux1qNuJ_33cj74WPzt3RX9Sj2n_px6_fHvn70l0dRP2T785F11x3_47s_vX41n59W84h0HXUxiEF-Cb28SA5o4JCAkECEU7XgvmMGLlXE9RTXhkVemW7SUop9f0cXszJMKGQuWie0SJjXFREpygAKiy8rlXpKZZAGwULMA-o0RLPfo9RP0hgu5dKJg8ZvnysxJ5mjyQWKeTNsZHO5JYc8z5d-wIkq6BJtQiKquBEEuWsrIaYS97qO6cxIKhsivVIohpUgYp1nKI4r_xq6-Io1YWT3dRSnOMQZTsYeMYIKdAi01ztdxZUBhetvaVv0ieYvqTZsWIvx6x2tZB3AtKaNuOdOVFdDlFGU-J3OgTdEB7EK_foWe3wIEq6_QsckLd08N3mVUj8WsAP84N2iDK9oPctCinsE1D1YkCHXMKQAHXiGO5n44cgZMeDFvo6f-SIvREp7nKIiXRaH0H-6izlsOfHxolw7eIluYZoTtuyMmIhTVEGDpnnND6gKDngbge7GSI2SjLafhst59waefFPFoXVy6LTIyPqHjTWszqotmw1L5sWr0N5_D6e2YRmaNj44NP4CzuAm8Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NvW8PHicdZJLjuM2EIaR8xgDkHpZzq5lSX5FlEWJlFqbBpukLVkPyzblkY3cIVcYeGYCTJYzAbLNNTrIYaIk22TzF6r--oGvgPrpIcvfVNbtWC9bj7Ns4PZWV-_2p6foS3c-ip6rUnzTTMuwbQtOrZlm27oFDPMLZ4rVx30pPnwtJBN12cpwt5Nn98j_O_FL2bC9_Mf-FU61qa4DoI2-qUMTGLPZx7O4vBnb-QscwxYEhj3VgDXTbd00zR-3OHRf_sf8fOrl-fYWz4_nCyvPEyrbvWQtlxO8cCa6NorrYvOdBQCYBLI5nm-T5t_C2eWlZkq2fByN59byhR_7Vk2ux1qNuJ_33cj74WPzt3RX9Sj2n_px6_fHvn70l0dRP2T785F11x3_47s_vX41n59W84h0HXUxiEF-Cb28SA5o4JCAkECEU7XgvmMGLlXE9RTXhkVemW7SUop9f0cXszJMKGQuWie0SJjXFREpygAKiy8rlXpKZZAGwULMA-o0RLPfo9RP0hgu5dKJg8ZvnysxJ5mjyQWKeTNsZHO5JYc8z5d-wIkq6BJtQiKquBEEuWsrIaYS97qO6cxIKhsivVIohpUgYp1nKI4r_xq6-Io1YWT3dRSnOMQZTsYeMYIKdAi01ztdxZUBhetvaVv0ieYvqTZsWIvx6x2tZB3AtKaNuOdOVFdDlFGU-J3OgTdEB7EK_foWe3wIEq6_QsckLd08N3mVUj8WsAP84N2iDK9oPctCinsE1D1YkCHXMKQAHXiGO5n44cgZMeDFvo6f-SIvREp7nKIiXRaH0H-6izlsOfHxolw7eIluYZoTtuyMmIhTVEGDpnnND6gKDngbge7GSI2SjLafhst59waefFPFoXVy6LTIyPqHjTWszqotmw1L5sWr0N5_D6e2YRmaNj44NP4CzuAm8Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTts4sF174H3I90Mw3RO0KEEGrwzWSuhzZ56UCkc1iEde0MnPueqCa6hzFDutSOj7pg-T3Lcp4GnPCvSpotxif-3Px50Xkp935_KPv3ecPQ_2ylCNgTqs6SDg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - Newegg Inc.",
+      "title": "CORSAIR Vengeance RGB 32GB DDR5 6000 Memory",
+      "price": "$429.99",
+      "extracted_price": 429.99,
+      "original_price": "Usually $440",
+      "extracted_original_price": 440,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "1wmgUnicJY9JjttIFETR5xEM5Mihd2YpqcFFVnFKkdwYVGaKYjE5iKJKKl2ir9BQ2Q24l7YBb_sa7tOYtjc_gB-BeIi_bqr6Nqb9rjiplokivQjrEY9vysPb4FM_dPIkxkp-hZjapo2JQbFpA4RtaNqfRDEWuit_2hBZljFZkBIAbQgM0_i8V4XUVasedjs1zDtRyS-QWhggkxhT2JpKLGL-WzVFqX7ZXyEhcIpYBFho4gHLBPR1kMe_Px5Oanj5Ht11w7GohhlXbamKVqhZuHBmGE1nPg_pGwMAMPNU0w0vs-a3iOL4XhejasX0muZo9V50p3acPXd6nMgfy_4X2qSQUGwjwyY2NQAyoPHaVPIzNQ1iTOsQQARTigl57Z_H2778cJq6_ruV-nY63vb6ptp_uqJ_3on__3hlg7i7exZOkPQ9n4cgAmEgm7CNar9W3K4S5pEt6p-CeH-IUQ4K7J6k2x_C2HksuI78Ngy3dYIj7MKEs2ve2Cheai3SdcUZrbyFDiPWQU_nLEMXlF6dTs7XwyZ1cr_xXcUC6je23sz3PMDrKEJ8pRI_joF-SlIZFVqnvOmZaHpjO3dCyd113sg2ZpCqhqaKlVi6dpFobogF5HnN91lyPm-WvRcA9xDHfNwm_s5f0MJL14_y6px9QFCKZacWMuNQP4XuHntpQLx6XGcxP6SIp9uFPqdXfoo36-GB9fXWTUi4TC7RdUX8ZXaWV3HN4JolwF4pHd6pJYMhzhPPWaXS3Z_zxoX5hroZcjO18Egy98H9Rl4CzopV7TKBVzTX6yzCusoimIe17wjgDnntd_7msvNS552v85wz9uFyHHbfwVuXjtEDGS7JagHPB0kmUBNp_GJYdbDi9_fln9C0iEEQwgBA_ANS9hHh",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1wmgUnicJY9JjttIFETR5xEM5Mihd2YpqcFFVnFKkdwYVGaKYjE5iKJKKl2ir9BQ2Q24l7YBb_sa7tOYtjc_gB-BeIi_bqr6Nqb9rjiplokivQjrEY9vysPb4FM_dPIkxkp-hZjapo2JQbFpA4RtaNqfRDEWuit_2hBZljFZkBIAbQgM0_i8V4XUVasedjs1zDtRyS-QWhggkxhT2JpKLGL-WzVFqX7ZXyEhcIpYBFho4gHLBPR1kMe_Px5Oanj5Ht11w7GohhlXbamKVqhZuHBmGE1nPg_pGwMAMPNU0w0vs-a3iOL4XhejasX0muZo9V50p3acPXd6nMgfy_4X2qSQUGwjwyY2NQAyoPHaVPIzNQ1iTOsQQARTigl57Z_H2778cJq6_ruV-nY63vb6ptp_uqJ_3on__3hlg7i7exZOkPQ9n4cgAmEgm7CNar9W3K4S5pEt6p-CeH-IUQ4K7J6k2x_C2HksuI78Ngy3dYIj7MKEs2ve2Cheai3SdcUZrbyFDiPWQU_nLEMXlF6dTs7XwyZ1cr_xXcUC6je23sz3PMDrKEJ8pRI_joF-SlIZFVqnvOmZaHpjO3dCyd113sg2ZpCqhqaKlVi6dpFobogF5HnN91lyPm-WvRcA9xDHfNwm_s5f0MJL14_y6px9QFCKZacWMuNQP4XuHntpQLx6XGcxP6SIp9uFPqdXfoo36-GB9fXWTUi4TC7RdUX8ZXaWV3HN4JolwF4pHd6pJYMhzhPPWaXS3Z_zxoX5hroZcjO18Egy98H9Rl4CzopV7TKBVzTX6yzCusoimIe17wjgDnntd_7msvNS552v85wz9uFyHHbfwVuXjtEDGS7JagHPB0kmUBNp_GJYdbDi9_fln9C0iEEQwgBA_ANS9hHh"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ8j07qUPQKqLWsC0gCIPCnrqiiGhPMhlfn6igv-pb5cJIT_PTrJwl7W7IO6aVAMecThAjDIQhi9woWAdQ8gbHaLHTghUF30sAPuPtCJw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Corsair Vengeance RGB 64GB DDR5 SDRAM Memory Kit",
+      "rating": 4.6,
+      "reviews": 263,
+      "price": "$479.99",
+      "extracted_price": 479.99,
+      "original_price": "$509",
+      "extracted_original_price": 509,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "k7NwJnicbVJJrts4EAX6DLmFEYCDxt592qIdx5KtiRo2Bk3Klq3x2_Ik5A59B_-kgfQyaaC3fY3fp2n9ZJsNi6gqvqGKfzyy_T9d3G75OastweObMFa4e797fnK_tsdGnkW3l98hNKChmRiqiq4Zpqar6lfBO142u738phvIULAJNAyN4QoM_C3PuCz3dbbcbrPjpBF7-TdUdKSaGlI1hIYmaOoK_Gtf8V32o_7dQAoASFMh0k0D6qqpmy9HeXpFq_FaN_W3N6aGByJkYFOHn1becrL-de3L8zk73l_9cXM88f1xxLJ6l_FaZCNvSkYYDcdk4qnvNQDAyM6q5ngfVT-D4Kd1ybusFkNqsF9ma9Gc6250acpu0Ppl176J_QXpSzWMQtU15c0iNiHEqoJ046W9dI989_k8QP372JWP8-mRl4-s_rPh7WUr_vvtndVcJ-PTdeyGbcsmHvALNnFKEvDaKZLeufLKO0oAVY4awAMXeFVqsxmdSst7ZnUKJQ0VXs1vYdGlXjBvktgb-5Z9Z33p2CAdB2PQB9ObLaq8TsIbYxUkG9je3Z5YNrLufNpqrLgR90DVJMpJWDdXEViYgVYVQVoJ7PYcOFZaF72NWb8I8-2mZ7lEKuWztg586Lq4LKJCRjya39MDjSVkxYaZeRB7dxHK1IfFgAAVAXOwjDqbYVllcasw3F4EJgtWtWkM56tB39WndJ4dvFsSptYmSrCM86UbE76Iy9qLyiIMy8RnLgqm3SULE-CzvE_KtBs8wNBitV1SPwVysaEklOGwNiQv6YxUzoFwbnWWE5nLKGQ3SZkSxDRNCllvIsfilVyJaY78nrUeJDceiy4tVIVTUvGZM0nidsZmjuoMGHbvRCH1PviHRBVT26fYS8Q0zWXEzl7k5NEsPyzpUy_HsBZD43Q_J97MuS-jNBD9DkpEF2lJlHRSfrCpBAzQ52U4J77Vdl6ce59vp-P2FTxRtfOXylb7aLF1Zsk4bImxCdp5REh2D2YH93eoG4qmIISHz2z-D132RgE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=k7NwJnicbVJJrts4EAX6DLmFEYCDxt592qIdx5KtiRo2Bk3Klq3x2_Ik5A59B_-kgfQyaaC3fY3fp2n9ZJsNi6gqvqGKfzyy_T9d3G75OastweObMFa4e797fnK_tsdGnkW3l98hNKChmRiqiq4Zpqar6lfBO142u738phvIULAJNAyN4QoM_C3PuCz3dbbcbrPjpBF7-TdUdKSaGlI1hIYmaOoK_Gtf8V32o_7dQAoASFMh0k0D6qqpmy9HeXpFq_FaN_W3N6aGByJkYFOHn1becrL-de3L8zk73l_9cXM88f1xxLJ6l_FaZCNvSkYYDcdk4qnvNQDAyM6q5ngfVT-D4Kd1ybusFkNqsF9ma9Gc6250acpu0Ppl176J_QXpSzWMQtU15c0iNiHEqoJ046W9dI989_k8QP372JWP8-mRl4-s_rPh7WUr_vvtndVcJ-PTdeyGbcsmHvALNnFKEvDaKZLeufLKO0oAVY4awAMXeFVqsxmdSst7ZnUKJQ0VXs1vYdGlXjBvktgb-5Z9Z33p2CAdB2PQB9ObLaq8TsIbYxUkG9je3Z5YNrLufNpqrLgR90DVJMpJWDdXEViYgVYVQVoJ7PYcOFZaF72NWb8I8-2mZ7lEKuWztg586Lq4LKJCRjya39MDjSVkxYaZeRB7dxHK1IfFgAAVAXOwjDqbYVllcasw3F4EJgtWtWkM56tB39WndJ4dvFsSptYmSrCM86UbE76Iy9qLyiIMy8RnLgqm3SULE-CzvE_KtBs8wNBitV1SPwVysaEklOGwNiQv6YxUzoFwbnWWE5nLKGQ3SZkSxDRNCllvIsfilVyJaY78nrUeJDceiy4tVIVTUvGZM0nidsZmjuoMGHbvRCH1PviHRBVT26fYS8Q0zWXEzl7k5NEsPyzpUy_HsBZD43Q_J97MuS-jNBD9DkpEF2lJlHRSfrCpBAzQ52U4J77Vdl6ce59vp-P2FTxRtfOXylb7aLF1Zsk4bImxCdp5REh2D2YH93eoG4qmIISHz2z-D132RgE"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSX3Rc-yHtk_0_p12NYK-4YuCJpIZDYNVr8NGwQ-HuwsJeoToOUY3xuZPlTAsarMgmupIXK6ZBqLfSJQGGZtvaKOFoUPb2DATfnTHlDciShi8G9NwjXN15J-g",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJxMLkqpswdBVpos0q7JpYmBvkdLMF-gZnoY2RlesBFU8S5xDzFx6G2b0brXESxCgxakBF_ek5L-Mst4dGJwLdPlRUG07T",
+      "source": "Instacart",
+      "title": "CORSAIR Vengeance RGB DDR5 6000 MHz CL36 Memory Kit - Gray",
+      "rating": 4.8,
+      "reviews": 1200,
+      "price": "$254.99",
+      "extracted_price": 254.99,
+      "original_price": "$290",
+      "extracted_original_price": 290,
+      "extensions": [
+        "12% OFF"
+      ],
+      "immersive_product_page_token": "vHzXAHicdU_BjqNGFFS-xxqJ7gZs5zYYMOsdg2mgG_dl1O5uG5s2MBiPMco_5BdW3t1Im-NupFzzG5MvyTHe5JpcqqRXVXpVP9_U_vcub7b8rCpP8LwXkxXqHnYvj_GXpq3lWXR7-Q2hKTQgAJYNJmMTmWCCvgjecV3v9vLD10JxqfeVirZb1bq1-O_Er_sj36l_5N-AaUwtNEWWZdkTyxwbNjQ_tvL0Zq5mzwBatg0MczKGhj1Fk--un1Y4cp__R_z8clbt9S2Z1e2J79sRUdVO8UqoEZ47IwTv4LrYerANwxgt1bFur6PjvyT46VnzTlXifrrP1epZ1OeqG73WurvX_bxr7n0_fDx-h-a1uxW7T-e764_bTt_Op1uhb6r6pebN61b8-cNf3quYzVoxi7OmIS42Eq11Ysh4g0KYIs9kfnyJYY-ySj4xn-EQguNmbqCU9rEkTrwxGE6MxUoGZRcPjo2NLpOpznjFUpyLYVmxXGUnRGk_Y77vhLmGKtshcv_D04VHgpAv9TSJ6bSIyx4k4N2VuT7PStAvfXwQkHmp50fE6C8pmBIaNIWABGOXnVMSmqHLHEnxaw6lyw7azii2N1DWysUwRIt8U-KFOuBy4y6qNfWbjE6ZLJkd6-LEqoZknn8hGfNU7rzQCp9iggN1fDeklZ6tD2FH5v4sLmVE5wSLed1HXpOTIQZYLxbLoInDVHebsl-l6RIlc5ArjxyoJ7v1EF4SzRxO-6fEs_aEWhbLxIWm0uXa12tI3hO4eJ9Sv-BHzxID1jzrndRnJ3Ikl5QUMD4Ue1HibFl6iY_wWsxZISk5YxoWNCgOkf84yBmoRObj-X7h4CC8RpSlPCAv4WGH2BCbAjStnPs1QTggmlSbDGyzoMGf-lO7fTMefatLovFAfA86a148saGL6-iJTOEVR_KhuvwIxhPTNiFEhgHA34IvMXc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vHzXAHicdU_BjqNGFFS-xxqJ7gZs5zYYMOsdg2mgG_dl1O5uG5s2MBiPMco_5BdW3t1Im-NupFzzG5MvyTHe5JpcqqRXVXpVP9_U_vcub7b8rCpP8LwXkxXqHnYvj_GXpq3lWXR7-Q2hKTQgAJYNJmMTmWCCvgjecV3v9vLD10JxqfeVirZb1bq1-O_Er_sj36l_5N-AaUwtNEWWZdkTyxwbNjQ_tvL0Zq5mzwBatg0MczKGhj1Fk--un1Y4cp__R_z8clbt9S2Z1e2J79sRUdVO8UqoEZ47IwTv4LrYerANwxgt1bFur6PjvyT46VnzTlXifrrP1epZ1OeqG73WurvX_bxr7n0_fDx-h-a1uxW7T-e764_bTt_Op1uhb6r6pebN61b8-cNf3quYzVoxi7OmIS42Eq11Ysh4g0KYIs9kfnyJYY-ySj4xn-EQguNmbqCU9rEkTrwxGE6MxUoGZRcPjo2NLpOpznjFUpyLYVmxXGUnRGk_Y77vhLmGKtshcv_D04VHgpAv9TSJ6bSIyx4k4N2VuT7PStAvfXwQkHmp50fE6C8pmBIaNIWABGOXnVMSmqHLHEnxaw6lyw7azii2N1DWysUwRIt8U-KFOuBy4y6qNfWbjE6ZLJkd6-LEqoZknn8hGfNU7rzQCp9iggN1fDeklZ6tD2FH5v4sLmVE5wSLed1HXpOTIQZYLxbLoInDVHebsl-l6RIlc5ArjxyoJ7v1EF4SzRxO-6fEs_aEWhbLxIWm0uXa12tI3hO4eJ9Sv-BHzxID1jzrndRnJ3Ikl5QUMD4Ue1HibFl6iY_wWsxZISk5YxoWNCgOkf84yBmoRObj-X7h4CC8RpSlPCAv4WGH2BCbAjStnPs1QTggmlSbDGyzoMGf-lO7fTMefatLovFAfA86a148saGL6-iJTOEVR_KhuvwIxhPTNiFEhgHA34IvMXc"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQBY_aO4pzbRgqjZdZs4m5XPz69h-R9cUqMfpMHvsNJnEaAK70TKL-E_FLfk2j_w57YYu8ioAFa8xM3HFBAfGgzT2VZs7kWLKxDzh-EoQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "CORSAIR - VENGEANCE RGB 32GB (2x16GB) DDR5 6000MHz C36 UDIMM Desktop Memory - White",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$479.99",
+      "extracted_price": 479.99,
+      "original_price": "$509",
+      "extracted_original_price": 509,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "B3KG9HicdVLLrqNGEFW-x7pSNy_b2RlD45ALmAYazOaq6cZg3heDja35h_zCyDMTabLMjDTb-Y2bL8kyJNkmm1OqOnWkc1T1yyM9fRui7kjHtNEZjSa22ovDU_a6cT93fctHNpz4VygBQVGAAkQgrRRRkhQIPzM60KrNTvz973lKeXVqUud4THutZf8j-e1U0yz9h_-yUpYAKGsRLmV5KSlrQV596Pn5TdhvX2QoQiDLs0yR10BUBEF8t8eO9vLf3KfXMe1vb9627c_01C9I2mQpbVi6wIa6EIUZNA3LTwoAYGGlddvfFvW_hdHzS0WHtGHzaE5bpS-sHZthcWmrYfb6Ketms-8_1H9DdxkeefZxnLe-P7LqMZ4fefVIm19b2l2O7I8f_tQvbLvt2dYNuo5oGHglN2g9dJYRe5SQs1vgi7WFhMF46weTGNd2zHbdHgtDkNRztzN_DkssuOVE7XqCaYQVD9kjBbi1Q6LGdxXxmh-dyLq6YqwmGm8juJkiMIUJWE2eEas45MQLrWtYmCEtsOhC5CeR2fKqutCCCH6ldj6slECH0AJI5WW3c8WuTBDfY8NWExHfeI33FjItv0YjR-vBLUhn3-0mqToQwbVN6p-EBOSSj0zIxEoNSqgTZBfPhJ_9CJU-Ca60XA1xMLwmOu8cw7z4YWWwQr8eQnTwwvMQ-vzOBUS8aiMEYDqkvkkiwXSZket2Od0S0AWJMBh-ERu2Vqk2VHdhYVNn14JnD5YOKSVWT3qKUE2ig2SL-eBVSLdKfglKInLCIw90xCVscmtdcnw7cAHWPC3zkIgPzIhzHpIRh3Ye7vLCQZs738KGBQgbJ1PFO_vmhLFHBGjOdxCSGp_duvMOEde4n01OmIssJMgLYvXjdO6Pb2CD5MFzlneCdEE90Pw5vg9u6zyTtXDDDn9qrj_C5UpSpPlpAYDwLwTYMMQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=B3KG9HicdVLLrqNGEFW-x7pSNy_b2RlD45ALmAYazOaq6cZg3heDja35h_zCyDMTabLMjDTb-Y2bL8kyJNkmm1OqOnWkc1T1yyM9fRui7kjHtNEZjSa22ovDU_a6cT93fctHNpz4VygBQVGAAkQgrRRRkhQIPzM60KrNTvz973lKeXVqUud4THutZf8j-e1U0yz9h_-yUpYAKGsRLmV5KSlrQV596Pn5TdhvX2QoQiDLs0yR10BUBEF8t8eO9vLf3KfXMe1vb9627c_01C9I2mQpbVi6wIa6EIUZNA3LTwoAYGGlddvfFvW_hdHzS0WHtGHzaE5bpS-sHZthcWmrYfb6Ketms-8_1H9DdxkeefZxnLe-P7LqMZ4fefVIm19b2l2O7I8f_tQvbLvt2dYNuo5oGHglN2g9dJYRe5SQs1vgi7WFhMF46weTGNd2zHbdHgtDkNRztzN_DkssuOVE7XqCaYQVD9kjBbi1Q6LGdxXxmh-dyLq6YqwmGm8juJkiMIUJWE2eEas45MQLrWtYmCEtsOhC5CeR2fKqutCCCH6ldj6slECH0AJI5WW3c8WuTBDfY8NWExHfeI33FjItv0YjR-vBLUhn3-0mqToQwbVN6p-EBOSSj0zIxEoNSqgTZBfPhJ_9CJU-Ca60XA1xMLwmOu8cw7z4YWWwQr8eQnTwwvMQ-vzOBUS8aiMEYDqkvkkiwXSZket2Od0S0AWJMBh-ERu2Vqk2VHdhYVNn14JnD5YOKSVWT3qKUE2ig2SL-eBVSLdKfglKInLCIw90xCVscmtdcnw7cAHWPC3zkIgPzIhzHpIRh3Ye7vLCQZs738KGBQgbJ1PFO_vmhLFHBGjOdxCSGp_duvMOEde4n01OmIssJMgLYvXjdO6Pb2CD5MFzlneCdEE90Pw5vg9u6zyTtXDDDn9qrj_C5UpSpPlpAYDwLwTYMMQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQXZyNg6NmgJMwAke1t3ZwVgWjHQZP0Y02EhbOYRLCg5SBInwUBlcKd7P0ZZy98WhP1I1Zd9WamyTNdgJsQ_k1bxdsp7KKI10AjrWed1T0",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2E6000C36W",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$479.99",
+      "extracted_price": 479.99,
+      "original_price": "$530",
+      "extracted_original_price": 530,
+      "delivery": "Free delivery",
+      "extensions": [
+        "9% OFF"
+      ],
+      "immersive_product_page_token": "YU4y7nicbVLLjts4EMR-jzEAST3G3psfoh8ZSSNKomRdBjQpSxpRj5FpRxb2H_YXAidZIHtMFtjr_sbsl-QYJbnmUo3uqgaqGv3nLS3-VXF7ZOe0tjiLez591NRd9jL3PrVdI85cFeLLTEMmRLppIjCDcIp0YHziTDHZZIV49zlPmZBFnbrHY9qtGv7rjb-LimXpD_ofaNxrCGnmvW5CYzqDBtSm7ztxekWPy6exgcAwpqZmGjOgmaPwj0firp5-zX18Oafd9dVfNt2JFd2EpnWWspqnE7JeTDQ0wmpFjDsTADCx06rprpPqZ-Hs9CSZSms-jsawMn3izblWk0sj1Wj2Y9aObt-9r75De1G3PPtwHlX_3TJ5O59uubyl9V8Nay9H_v9vX60LXy47vvTCtqUrAvxgC9KVPB-sWblHBovKXRVUqvTqxcnXWovX0nPirc4CuQ3AbuAInmm02wQbUfPopOx4QZx4pxIpsD1gdgj7KCzzbWq1DQH9noSqcUCOaahKOmSQIWjRAiJvcJADgLGvEplKoYX1XrkrEYWYrNn6BGhpNCTqdRpYhgjsYV86Ltd2HcHz3rFmtRNRJ4TOPq3Fsxfn3UNMuwTllq2JzaHqXRtIHKxn0ivh0X7ODAok2cvW5s-WYUfJ0sX5NtlIFkSZeogJ5iV0SdWvg1IQO6SuHxkmRfjkxnnvVE7nR5keVnrvg4QklaNIAXcOpi_uBj8GcNezQazCMMFe9bYXg9WTjdRtjJmPxYVDahGgulQ6xzAiCQuN9QHOoQfkGxYQ5IdwCENlu3GyGDMVB2n5WCN7vk5yEdEziZw82uTPLp4PYglr_v1IxW5BNs7VjZLQDsiVljtEavzGkQuQ1NKmeHEJrrCIAlJRiusP_ak7voI5NpTv3g8UW2ixZ_lDMiivcR_oDF2JK-7qt7_D-6lu6uPTAgDhNzv3MHs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YU4y7nicbVLLjts4EMR-jzEAST3G3psfoh8ZSSNKomRdBjQpSxpRj5FpRxb2H_YXAidZIHtMFtjr_sbsl-QYJbnmUo3uqgaqGv3nLS3-VXF7ZOe0tjiLez591NRd9jL3PrVdI85cFeLLTEMmRLppIjCDcIp0YHziTDHZZIV49zlPmZBFnbrHY9qtGv7rjb-LimXpD_ofaNxrCGnmvW5CYzqDBtSm7ztxekWPy6exgcAwpqZmGjOgmaPwj0firp5-zX18Oafd9dVfNt2JFd2EpnWWspqnE7JeTDQ0wmpFjDsTADCx06rprpPqZ-Hs9CSZSms-jsawMn3izblWk0sj1Wj2Y9aObt-9r75De1G3PPtwHlX_3TJ5O59uubyl9V8Nay9H_v9vX60LXy47vvTCtqUrAvxgC9KVPB-sWblHBovKXRVUqvTqxcnXWovX0nPirc4CuQ3AbuAInmm02wQbUfPopOx4QZx4pxIpsD1gdgj7KCzzbWq1DQH9noSqcUCOaahKOmSQIWjRAiJvcJADgLGvEplKoYX1XrkrEYWYrNn6BGhpNCTqdRpYhgjsYV86Ltd2HcHz3rFmtRNRJ4TOPq3Fsxfn3UNMuwTllq2JzaHqXRtIHKxn0ivh0X7ODAok2cvW5s-WYUfJ0sX5NtlIFkSZeogJ5iV0SdWvg1IQO6SuHxkmRfjkxnnvVE7nR5keVnrvg4QklaNIAXcOpi_uBj8GcNezQazCMMFe9bYXg9WTjdRtjJmPxYVDahGgulQ6xzAiCQuN9QHOoQfkGxYQ5IdwCENlu3GyGDMVB2n5WCN7vk5yEdEziZw82uTPLp4PYglr_v1IxW5BNs7VjZLQDsiVljtEavzGkQuQ1NKmeHEJrrCIAlJRiusP_ak7voI5NpTv3g8UW2ixZ_lDMiivcR_oDF2JK-7qt7_D-6lu6uPTAgDhNzv3MHs"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSHdihp17MFpVTPNXlNc2hcg38GHnQLe8YJw1eoTOEnd1wc_aZMcc_Q09ZOnMiAOhhc5i-LDf4rsCZ7I7YVKbdhcvx9-DrG5D_bRGufW3YqyglUp0GI1xB8xA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "CORSAIR - Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2B6000C38 - Black",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$475.99",
+      "extracted_price": 475.99,
+      "immersive_product_page_token": "XBR_snicbVLNjqNGGFSexxqpf8Ae52ZssI1sMA000JdRD42NTdNgjMcY7TvkFVbe3Ui7x91DrnmNifIwIcl1L_VJX30lVZW-3x7Z8Y82rvf8mikz5XGXPu9w-3Q4z7yvdVOJa9oexXeMdKxNdTTG4zEYTzCafE15y2V1OIqP3_OMC3lUmbvfZ82iSn8q-HYs-SH7j_0xnUwA1LCGdaxPwDOAU_SpEZd3tJu_6BBDoOvPg1KfAjxGCH_YEXfx8nPuy_maNfd3f141F35sRjRTh4yrNBuRpTHCaIDFguhPYwDAaJuVVXMflf-PlF9eJG8zlQ6rIanMXtLqqtrRWyXbweuXQz2Y_fip_Bfqt_aRHz5fh6s_Hwf5uF4euXxk6veK12_79K9f_jav6_n8vJ57YV3TBQF-xDAvnN6DRccA83kZIhLpBit1nRWOy9H0jVtOvQ3YLQBiSxC7bC2zp2ZXO-W0FZgEDk4hCTub9NbYjQ1KTb0h2OtiSNepknWgaJkcAXasWRuc8jwoZewjoZwVKb1eWkGQ53Qh-gBbOz-WVbb0YFZSk5hsx8r2tI1TFIZywSmVnJLGDdvCWRmdG9trZ2UNOWZaJLc6oUwmNASCGi6D9oJA6yyQB3mUG-FJGJ4KNVFKxw9Fn5SXe0TFXqxYlIB8zYPklpxstC2gTVVuMGTHLNSNrBDGayxXWbHWKLIcQUnkF05CQL4RUdp5RTtoxU1gAV9D7R4GM0iUiMlSHj1lOJTalogpIaF9Y9TYpLFtvxbdJpWmb2GSpEuWi4heSeTk0So_udasF3Oo0tAiy6NtkJVzdyPms9MaBSsph77OXMmYR_IUFmy5VcIMStskgcSfu0uzfwczS299d9JTy0RGwvMN61uvcjd0iu7EFU_q9iucPGtjbXhMACD8ByJzJw8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XBR_snicbVLNjqNGGFSexxqpf8Ae52ZssI1sMA000JdRD42NTdNgjMcY7TvkFVbe3Ui7x91DrnmNifIwIcl1L_VJX30lVZW-3x7Z8Y82rvf8mikz5XGXPu9w-3Q4z7yvdVOJa9oexXeMdKxNdTTG4zEYTzCafE15y2V1OIqP3_OMC3lUmbvfZ82iSn8q-HYs-SH7j_0xnUwA1LCGdaxPwDOAU_SpEZd3tJu_6BBDoOvPg1KfAjxGCH_YEXfx8nPuy_maNfd3f141F35sRjRTh4yrNBuRpTHCaIDFguhPYwDAaJuVVXMflf-PlF9eJG8zlQ6rIanMXtLqqtrRWyXbweuXQz2Y_fip_Bfqt_aRHz5fh6s_Hwf5uF4euXxk6veK12_79K9f_jav6_n8vJ57YV3TBQF-xDAvnN6DRccA83kZIhLpBit1nRWOy9H0jVtOvQ3YLQBiSxC7bC2zp2ZXO-W0FZgEDk4hCTub9NbYjQ1KTb0h2OtiSNepknWgaJkcAXasWRuc8jwoZewjoZwVKb1eWkGQ53Qh-gBbOz-WVbb0YFZSk5hsx8r2tI1TFIZywSmVnJLGDdvCWRmdG9trZ2UNOWZaJLc6oUwmNASCGi6D9oJA6yyQB3mUG-FJGJ4KNVFKxw9Fn5SXe0TFXqxYlIB8zYPklpxstC2gTVVuMGTHLNSNrBDGayxXWbHWKLIcQUnkF05CQL4RUdp5RTtoxU1gAV9D7R4GM0iUiMlSHj1lOJTalogpIaF9Y9TYpLFtvxbdJpWmb2GSpEuWi4heSeTk0So_udasF3Oo0tAiy6NtkJVzdyPms9MaBSsph77OXMmYR_IUFmy5VcIMStskgcSfu0uzfwczS299d9JTy0RGwvMN61uvcjd0iu7EFU_q9iucPGtjbXhMACD8ByJzJw8"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQVjxP7ReLev_ahTqJxrvggVgggRGvJpQ2V_lbiJfK0lX2QURGemXJ75w-FMXI5rRtmw-ymDfcDU7MnJeiYHo3RzfDrHud1RdWTqhodcPrL",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2B6000C38",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$475.99",
+      "extracted_price": 475.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "dGmrVHicdVJLjuM2FETOYzRASqLbyq4tS2qoLcqmqI-1adAkbdmiPq2PIwtzh1xh4JkJMLMcBMg21-icJMs4SJbJpgp4VQ-oAurnmzz91qfNgQ2ysjlLR77Y6P3D8e1p-7VpazHw_iR-hZpmwgUywMKEEJjGIzLRV856purjSXz8nksm1KmSweEg21XN_-fl26lkR_mvjnRNR4a20IEBDFMDj8D81IruXdtYrwjqECC0mOtzZAJ9rmn6hw0JVq__rX15G2R7fQ-tuu3YqZ3FsjpKVnE5I-5ypmt3WK0IepgDAGa-LOv2Oiv_Ic66V8V6WfH76V5XyVdeD1U_u9Sqv4f9cmzuaT9-Kv-G5tLf8uPn4e76_XZUt6G75eomq19q1lwO_I8f_rQv3LJabm2jpolXBIQqR3unsXApxgigIHsWdJuqkiXjVbrOOVIqWdNsYCkuI6fZhMDZ7IDQ_VUESEGGgJK1H-Pej5rOj0S3P8GRT7mblPhAT9DKqDjQyulCird7Gk84Ub48e4FUnkUKr-HV8sKhygJ33EWFmUl7bGTU9RHYGYFtg23h6YnClOp5HU75VajCEC5imGIiC-GFdKvjQnWE4nJfjhpJhZtp3obHCmVRZJCqCTg0p3WCwlQniKw8sE_gcps2L1mJXiisr5ndFNzNkx0lKKQxziIH4wiC0M2ypIRBdL43hqpIynFiWkziyRni2HmhiiTERWdsN_MkGbss9Xphg4nbhUYT1PuaqQXPsUuh2War5YbFy6tvG3BXeW9UzxxcYIVX5Nl3vBzHauKgCQPbDFhsh45OdtzNcpHEA0lwnjzn58B5moQFKx45xD15S_KMr0GSRSwVjrTgJZ2yNXaeQKrhxj8TFE_kws6iWCcj-Tx27eEdPDmoD4PHKXZsbblj-Tqb-m0drGNTu5JAPFQ__QgfF8bcuI8WAAj_Avc_MN8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dGmrVHicdVJLjuM2FETOYzRASqLbyq4tS2qoLcqmqI-1adAkbdmiPq2PIwtzh1xh4JkJMLMcBMg21-icJMs4SJbJpgp4VQ-oAurnmzz91qfNgQ2ysjlLR77Y6P3D8e1p-7VpazHw_iR-hZpmwgUywMKEEJjGIzLRV856purjSXz8nksm1KmSweEg21XN_-fl26lkR_mvjnRNR4a20IEBDFMDj8D81IruXdtYrwjqECC0mOtzZAJ9rmn6hw0JVq__rX15G2R7fQ-tuu3YqZ3FsjpKVnE5I-5ypmt3WK0IepgDAGa-LOv2Oiv_Ic66V8V6WfH76V5XyVdeD1U_u9Sqv4f9cmzuaT9-Kv-G5tLf8uPn4e76_XZUt6G75eomq19q1lwO_I8f_rQv3LJabm2jpolXBIQqR3unsXApxgigIHsWdJuqkiXjVbrOOVIqWdNsYCkuI6fZhMDZ7IDQ_VUESEGGgJK1H-Pej5rOj0S3P8GRT7mblPhAT9DKqDjQyulCird7Gk84Ub48e4FUnkUKr-HV8sKhygJ33EWFmUl7bGTU9RHYGYFtg23h6YnClOp5HU75VajCEC5imGIiC-GFdKvjQnWE4nJfjhpJhZtp3obHCmVRZJCqCTg0p3WCwlQniKw8sE_gcps2L1mJXiisr5ndFNzNkx0lKKQxziIH4wiC0M2ypIRBdL43hqpIynFiWkziyRni2HmhiiTERWdsN_MkGbss9Xphg4nbhUYT1PuaqQXPsUuh2War5YbFy6tvG3BXeW9UzxxcYIVX5Nl3vBzHauKgCQPbDFhsh45OdtzNcpHEA0lwnjzn58B5moQFKx45xD15S_KMr0GSRSwVjrTgJZ2yNXaeQKrhxj8TFE_kws6iWCcj-Tx27eEdPDmoD4PHKXZsbblj-Tqb-m0drGNTu5JAPFQ__QgfF8bcuI8WAAj_Avc_MN8"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQU4I7sDBoGNDw01aA1WWCb9TK08gOYc3NdOrvgPioOcWqkSwlM5lRgs_YjgKgtGxSULTSTonkOheWXT-2mLJy0TlIXVmI-qa_vLTqTeGoJ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTpnzj3-w2_hqP3g9f7dMqZbVT9FZ8s87rVp5c4t8vzkJyqSJPTedEpsuMnPoFLHVpM_T5HOHBqe-cTVQhmHz4vgZWZAeMgLg",
+      "source": "United E-Mod Series",
+      "title": "Wit RAM CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL36 - Wit",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$73.35",
+      "extracted_price": 73.35,
+      "immersive_product_page_token": "81_M03icdVLbjqNGEFW-x1qpmwYMeRsbGtsZYAw0l34Z9XRjg2kuxjDGq_xDfmHl3Y20edyNlNf8xkT5mJDkNXk5JdWpqnOqVD_d8_K3Ie0ObMwbm7N04sYTGt4dzw_7L13fipEPpfgVakBFhrk0ATQNfWkuDc34wtnAZHssxYevRc6ELJvcPxzy3mr5_7T8UtbsmP_Df1uauq6bhqooqgqQoWmm-bEXlzflaf2sQQSBphk60jUTIF1R0I9PgW89_zf3-Tzm_e0tXLf9hZX9Is6bY84ani8CZ7VAygyWFWjvdADAws3rtr8t6n8DZ5dnyYa84XNq3lbmz7wdm2Hx2sph9vr52M1mP3ys_4budbgXx0_jXPX7_Sjv4-VeyHve_Nyy7vXA__juT3vcrtfn7XpPui62AhBZLuT2BeZki3x7UCJpkn3qHeLNDgrYTgJiJcK0DE-7loVAzVIhRTL5_gafubM7-E7H9mi1DyPZMZsGGep-cJNOCYE5ihQT34FXz5lwgmnlbXCXVHFJIfZDElS8WZ2EXG2ZVWA3LRoqi3VyWjkRXoEX20RuVUARr9IITNcXXPhhZd58q3Bok6mRjL0oDqq86Sg7VVoUZQp3qCRKIKNNESYhQAQGPZG7A21228iKI-KYK3cj7ZeY3FhNMwI6hW1on8Hg0cXx3nOgNevWzPLWhGjSt72GO_EYRaKMUXUV1a5hOHhNyK4QCTwHjnnJFNi6iTzltj1Rm1zDekipg0PXEYUHAi23BIxjz8-Ad3WdSSFpcaM2h37CQ4yCbPY8z4rHIPGKZFOcfPzwXqxhwwkOnHK3CjbezU9oSGMPhKlXREAWop6eEokTT5kAseEjjahOag99mi794Q08YG0IfbWfyHY-_lmo21TUoUQ33aj22_jx8fg9XBqqPj82AgCivwDdFSS6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=81_M03icdVLbjqNGEFW-x1qpmwYMeRsbGtsZYAw0l34Z9XRjg2kuxjDGq_xDfmHl3Y20edyNlNf8xkT5mJDkNXk5JdWpqnOqVD_d8_K3Ie0ObMwbm7N04sYTGt4dzw_7L13fipEPpfgVakBFhrk0ATQNfWkuDc34wtnAZHssxYevRc6ELJvcPxzy3mr5_7T8UtbsmP_Df1uauq6bhqooqgqQoWmm-bEXlzflaf2sQQSBphk60jUTIF1R0I9PgW89_zf3-Tzm_e0tXLf9hZX9Is6bY84ani8CZ7VAygyWFWjvdADAws3rtr8t6n8DZ5dnyYa84XNq3lbmz7wdm2Hx2sph9vr52M1mP3ys_4budbgXx0_jXPX7_Sjv4-VeyHve_Nyy7vXA__juT3vcrtfn7XpPui62AhBZLuT2BeZki3x7UCJpkn3qHeLNDgrYTgJiJcK0DE-7loVAzVIhRTL5_gafubM7-E7H9mi1DyPZMZsGGep-cJNOCYE5ihQT34FXz5lwgmnlbXCXVHFJIfZDElS8WZ2EXG2ZVWA3LRoqi3VyWjkRXoEX20RuVUARr9IITNcXXPhhZd58q3Bok6mRjL0oDqq86Sg7VVoUZQp3qCRKIKNNESYhQAQGPZG7A21228iKI-KYK3cj7ZeY3FhNMwI6hW1on8Hg0cXx3nOgNevWzPLWhGjSt72GO_EYRaKMUXUV1a5hOHhNyK4QCTwHjnnJFNi6iTzltj1Rm1zDekipg0PXEYUHAi23BIxjz8-Ad3WdSSFpcaM2h37CQ4yCbPY8z4rHIPGKZFOcfPzwXqxhwwkOnHK3CjbezU9oSGMPhKlXREAWop6eEokTT5kAseEjjahOag99mi794Q08YG0IfbWfyHY-_lmo21TUoUQ33aj22_jx8fg9XBqqPj82AgCivwDdFSS6"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSG0A4SmAtG-B4nbzcLhCj4gb4-GmL2NndXes_7HygEImcIZ3lmY5b25u8juECHQl_S0iGUqvCD7ahXhXyW4ObdC-gdoEmWII_3zgPl_1x2Tm7j6r2xd5cR",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "CORSAIR - Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2B6000C30W - White",
+      "rating": 4.8,
+      "reviews": 1800,
+      "price": "$599.99",
+      "extracted_price": 599.99,
+      "immersive_product_page_token": "Gwm7bXicbVLLjqNGFFW-x2qpHo3bZNdgHiYGmoKqAjatmgIbm6cxbmM0_5BfGHlmIk2WySLb_EZH-ZgQzXakq3Ole-49Olc6v97zw19D3O3EJW8MKeJRrl7w8LA_PQffur7NLnI4ZH9iBa3mwipcPuElBACq36QYRNXuD9mnP4pcZNWhyf3dLu_Xrfzxxe-HWuzz7_RMQQWAFYKqCqGKVwh97rPzO3rRXxWIIVCU1RIvFRXgJUL44wvx168_5r6eLnl_ew_1tj-LQ79gebPPRSPzBbG0BUYzrNdEeVgCABZuXrf9bVF_b1KcXysx5I2cR_OvVf4q20szLN7aapi9ft13s9lPn-v_oXsb7sX-y2Xe-vu-r-6X872o7nnzWyu6t53856d_jctG108bPaBdx9YEhEy9-jaraeT5Ao1nlyVKAABybTqmjWlIswpJZabUUM_yaNY83iisImEEzTS3vSmInMGzWeEZUA_KLJVI3qhR4IxD84Nd1R7qeoLZRZjGyPgGJLTyKVB0yjRvS0crspIxoxlIQDF6R4dkTCvYcQMkSjehQXzCq0nY3mPEtB2JvFo0RS9KiSg3TxKSNoYlCCNWpUw7BLW3dM00dvnYBkjtwirVQySvCW8xsZSEWrM-V8MUVUNoBVdKvVNkO4HgnSujZEh5poSW03qlEidlOm1jh0dHogeoi2npKi7shMDdKS-rLTFW1w9TygXYjyHWYGg7L_7aSWip4qhUApcONrtBO6iLLoSaKaa0CDhcZ-X4to2YE2AZmpgk0kqLjLML4V7B7eLom89TpsNGUpNYB0cjtnfzeRr5jKx53E0e1mjOzF8ymkZe5JUkMh23Vppo0vCX8dzv3sGzqQyh_zQx00BaIoptOg1B62-Zim7Ezx6a68_wafW4fJyDOWce_gcE2ySu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Gwm7bXicbVLLjqNGFFW-x2qpHo3bZNdgHiYGmoKqAjatmgIbm6cxbmM0_5BfGHlmIk2WySLb_EZH-ZgQzXakq3Ole-49Olc6v97zw19D3O3EJW8MKeJRrl7w8LA_PQffur7NLnI4ZH9iBa3mwipcPuElBACq36QYRNXuD9mnP4pcZNWhyf3dLu_Xrfzxxe-HWuzz7_RMQQWAFYKqCqGKVwh97rPzO3rRXxWIIVCU1RIvFRXgJUL44wvx168_5r6eLnl_ew_1tj-LQ79gebPPRSPzBbG0BUYzrNdEeVgCABZuXrf9bVF_b1KcXysx5I2cR_OvVf4q20szLN7aapi9ft13s9lPn-v_oXsb7sX-y2Xe-vu-r-6X872o7nnzWyu6t53856d_jctG108bPaBdx9YEhEy9-jaraeT5Ao1nlyVKAABybTqmjWlIswpJZabUUM_yaNY83iisImEEzTS3vSmInMGzWeEZUA_KLJVI3qhR4IxD84Nd1R7qeoLZRZjGyPgGJLTyKVB0yjRvS0crspIxoxlIQDF6R4dkTCvYcQMkSjehQXzCq0nY3mPEtB2JvFo0RS9KiSg3TxKSNoYlCCNWpUw7BLW3dM00dvnYBkjtwirVQySvCW8xsZSEWrM-V8MUVUNoBVdKvVNkO4HgnSujZEh5poSW03qlEidlOm1jh0dHogeoi2npKi7shMDdKS-rLTFW1w9TygXYjyHWYGg7L_7aSWip4qhUApcONrtBO6iLLoSaKaa0CDhcZ-X4to2YE2AZmpgk0kqLjLML4V7B7eLom89TpsNGUpNYB0cjtnfzeRr5jKx53E0e1mjOzF8ymkZe5JUkMh23Vppo0vCX8dzv3sGzqQyh_zQx00BaIoptOg1B62-Zim7Ezx6a68_wafW4fJyDOWce_gcE2ySu"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the voltage of Corsair Vengeance RGB DDR5 6000?",
+      "type": "featured_snippet",
+      "snippet": "Speed: 6000 MHz. CAS Latency: CL38. Voltage: 1.35 V. Form Factor: 288-Pin DIMM.",
+      "title": "Corsair Vengeance RGB 32GB (2 x 16GB) DDR5 6000 MHz, CL38 ...",
+      "link": "https://www.multitronic.fi/en/products/4299227",
+      "displayed_link": "https://www.multitronic.fi › products",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAWlBMVEXt9vun1e6VzOvQ6PZwv-UAkNIAj9EinthGq90AjdAAi9AAis8AjNAEktJguOKAyOmNzesOl9SUz-zl8_r___-84PPX7vj5-v3e8Pmh1u4Aic8vptp7xejD4_SUq9eeAAAAgElEQVR4Aa3IUQKCIAwA0BVsA9hQdIli3f-aUV8ewPf5AB7PKwcer4ghxEQx54QkWUgJAhbmaS5Y_eJrVAgKbgWz19aaOcURu3nlzY6qh5U0Yt2E-mKn5GBT_gdiGhHjeV_sbsTcftHeI4hZFSsronIlKNK7iOSeRFLvFeBYrj5f4i4Mz7Jp7oEAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHZvbHRhZ2Ugb2YgQ29yc2FpciBWZW5nZWFuY2UgUkdCIEREUjUgNjAwMD8iLCJsayI6IkdpZGpiM0p6WVdseUlIWmxibWRsWVc1alpTQnlaMklnWkdSeU5TQTJNREF3SUhadmJIUmhaMlUiLCJicyI6ImMzV1F1d3JDTUFCRmNYSEk1Q2hkdkU0aUtwUVVkU3o0UUIwRTZhQ0xJckZOMDRJMmtsUkZ2OGdfOGJmVTFvcWx1Sjk3dUJ3aVNIOFZzQmloUmh4d25PVS1ab0pELWhoS3BWbW9zT1NSNEN4eU9aekpBS09SMDBYUE5FMjdldF9TcHRGd1A5ajVpeW14Zy1lcEZNdU1aRXd3MDdBb1hLYXhaekdQM0N1RWxCNThxUkt0VGV0R0xmelB2SjFrUTlvdlRmR2JSWF9QemFlM1pHZlRqdEY2S1lzbkxmcjc4aENrUEZtVGRwSWo2LUJKbm9iSlYxZ29pWlBtZHZWUmZqZTRGQ2I1R3NjVXI1U2UiLCJpZCI6ImZjX3RYcGZhdWVuRWNhWHhjOFAzdC1ncUFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHZvbHRhZ2Ugb2YgQ29yc2FpciBWZW5nZWFuY2UgUkdCIEREUjUgNjAwMD8iLCJsayI6IkdpZGpiM0p6WVdseUlIWmxibWRsWVc1alpTQnlaMklnWkdSeU5TQTJNREF3SUhadmJIUmhaMlUiLCJicyI6ImMzV1F1d3JDTUFCRmNYSEk1Q2hkdkU0aUtwUVVkU3o0UUIwRTZhQ0xJckZOMDRJMmtsUkZ2OGdfOGJmVTFvcWx1Sjk3dUJ3aVNIOFZzQmloUmh4d25PVS1ab0pELWhoS3BWbW9zT1NSNEN4eU9aekpBS09SMDBYUE5FMjdldF9TcHRGd1A5ajVpeW14Zy1lcEZNdU1aRXd3MDdBb1hLYXhaekdQM0N1RWxCNThxUkt0VGV0R0xmelB2SjFrUTlvdlRmR2JSWF9QemFlM1pHZlRqdEY2S1lzbkxmcjc4aENrUEZtVGRwSWo2LUJKbm9iSlYxZ29pWlBtZHZWUmZqZTRGQ2I1R3NjVXI1U2UiLCJpZCI6ImZjX3RYcGZhdWVuRWNhWHhjOFAzdC1ncUFRXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is 32 cas latency good for DDR5?",
+      "type": "ai_overview",
+      "page_token": "eUsC-XicHdDBboIwAIDh7GU8KpXpholZUgU2NpmttFAuS2nRCq10iqLc9i57qj3Nlp3-65f_61vvD_XP3UW1rT3NRqOu64a7ptnpcigaM-Kn20GMBNe64KKeTR-m4Gkr5v75BS4-XyAi1tIldpIwt4WJTtw8XkVtb2VGxys_IHnYJiT0FvxAcRnmgPrBsRh7UZqhSeJ7m2KsqiSUbUkCg_v8FAM9lQB2dO_0G0fveRW9viWwZn0EaY0nccic1dhbJ0YqlkCXpJM1r9Ut-XPEGpq31JvGmb4xmrsbc40xkF2sZS-0hxHwAANxhYBcUhOknNIzduySaNyT9PqauSqK6wkvdeD6SjrpMzQso7qoacWoume9QisXtbkbQIKbPSK4F5U2pGL3f9WU4ufCVe-c0EoG2hSpDblvO7kBPkKDrbjM3cH_z_nH1rQze2x2vyT6g6A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eUsC-XicHdDBboIwAIDh7GU8KpXpholZUgU2NpmttFAuS2nRCq10iqLc9i57qj3Nlp3-65f_61vvD_XP3UW1rT3NRqOu64a7ptnpcigaM-Kn20GMBNe64KKeTR-m4Gkr5v75BS4-XyAi1tIldpIwt4WJTtw8XkVtb2VGxys_IHnYJiT0FvxAcRnmgPrBsRh7UZqhSeJ7m2KsqiSUbUkCg_v8FAM9lQB2dO_0G0fveRW9viWwZn0EaY0nccic1dhbJ0YqlkCXpJM1r9Ut-XPEGpq31JvGmb4xmrsbc40xkF2sZS-0hxHwAANxhYBcUhOknNIzduySaNyT9PqauSqK6wkvdeD6SjrpMzQso7qoacWoume9QisXtbkbQIKbPSK4F5U2pGL3f9WU4ufCVe-c0EoG2hSpDblvO7kBPkKDrbjM3cH_z_nH1rQze2x2vyT6g6A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IklzIDMyIGNhcyBsYXRlbmN5IGdvb2QgZm9yIEREUjU/IiwibGsiOiJHaDlwY3lBek1pQmpZWE1nYkdGMFpXNWplU0JuYjI5a0lHWnZjaUJrWkhJMSIsImJzIjoiYzNXUXV3ckNNQUJGY1hISTVDaGR2RTRpS3BRVWRTejRRQjBFNmFDTElyRk4wNEkya2xSRnY4Z184YmZVMW9xbHVKOTd1QndpU0g4VnNCaWhSaHh3bk9VLVpvSkQtaGhLcFZtb3NPU1I0Q3h5T1p6SkFLT1IwMFhQTkUyN2V0X1NwdEZ3UDlqNWl5bXhnLWVwRk11TVpFd3cwN0FvWEtheFp6R1AzQ3VFbEI1OHFSS3RUZXRHTGZ6UHZKMWtROW92VGZHYlJYX1B6YWUzWkdmVGp0RjZLWXNuTGZyNzhoQ2tQRm1UZHBJajYtQkpub2JKVjFnb2laUG1kdlZSZmplNEZDYjVHc2NVcjVTZSIsImlkIjoiZmNfdFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IklzIDMyIGNhcyBsYXRlbmN5IGdvb2QgZm9yIEREUjU%2FIiwibGsiOiJHaDlwY3lBek1pQmpZWE1nYkdGMFpXNWplU0JuYjI5a0lHWnZjaUJrWkhJMSIsImJzIjoiYzNXUXV3ckNNQUJGY1hISTVDaGR2RTRpS3BRVWRTejRRQjBFNmFDTElyRk4wNEkya2xSRnY4Z184YmZVMW9xbHVKOTd1QndpU0g4VnNCaWhSaHh3bk9VLVpvSkQtaGhLcFZtb3NPU1I0Q3h5T1p6SkFLT1IwMFhQTkUyN2V0X1NwdEZ3UDlqNWl5bXhnLWVwRk11TVpFd3cwN0FvWEtheFp6R1AzQ3VFbEI1OHFSS3RUZXRHTGZ6UHZKMWtROW92VGZHYlJYX1B6YWUzWkdmVGp0RjZLWXNuTGZyNzhoQ2tQRm1UZHBJajYtQkpub2JKVjFnb2laUG1kdlZSZmplNEZDYjVHc2NVcjVTZSIsImlkIjoiZmNfdFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVFfNSJ9"
+    },
+    {
+      "question": "Is Corsair Vengeance 32GB DDR5 6000MHz good?",
+      "type": "ai_overview",
+      "page_token": "xBqbcnicHdDbTsIwGADg-DJcwg6KkYSYVNYNzLastP8ON2btgELbrcB0kzvfxafyaTTef1ff17c-turn7kP2vb0uZrNhGKaHrjvo3VR0ZlZfP1sxE7XWvBZqMX-cu897sQze1-jlvEYZsxZWxNkqfa6jas4xnHJ6GGnwcOOeVASsZFR5jSZngnG5y0eTsaYoDR5YMMJ2Va3zsPEr2PQ7wA5nLuMOISJstgBkv1uRERwbpRSt4xaOQCtGT5AkIY5j5b7XRYO5erIpIysSsVvtVlUeSpRS_FJ6vSyBXBuqU1BuACFcMpWMKdsY0DrL8w1ONHolHu63becBw_ci1PO4TVAgGyePkCkL0FzBqQR5X95kFvtZX_kYMdIdM0Zu4qQN0_oCEfKTwhru6I67uKDeE_3zVWlkH2M7NsNkLz6W_uT_c_m2N_3CXrrDL--GhHc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xBqbcnicHdDbTsIwGADg-DJcwg6KkYSYVNYNzLastP8ON2btgELbrcB0kzvfxafyaTTef1ff17c-turn7kP2vb0uZrNhGKaHrjvo3VR0ZlZfP1sxE7XWvBZqMX-cu897sQze1-jlvEYZsxZWxNkqfa6jas4xnHJ6GGnwcOOeVASsZFR5jSZngnG5y0eTsaYoDR5YMMJ2Va3zsPEr2PQ7wA5nLuMOISJstgBkv1uRERwbpRSt4xaOQCtGT5AkIY5j5b7XRYO5erIpIysSsVvtVlUeSpRS_FJ6vSyBXBuqU1BuACFcMpWMKdsY0DrL8w1ONHolHu63becBw_ci1PO4TVAgGyePkCkL0FzBqQR5X95kFvtZX_kYMdIdM0Zu4qQN0_oCEfKTwhru6I67uKDeE_3zVWlkH2M7NsNkLz6W_uT_c_m2N_3CXrrDL--GhHc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IklzIENvcnNhaXIgVmVuZ2VhbmNlIDMyR0IgRERSNSA2MDAwTUh6IGdvb2Q/IiwibGsiOiJHaXRwY3lCamIzSnpZV2x5SUhabGJtZGxZVzVqWlNBek1tZGlJR1JrY2pVZ05qQXdNRzFvZWlCbmIyOWsiLCJicyI6ImMzV1F1d3JDTUFCRmNYSEk1Q2hkdkU0aUtwUVVkU3o0UUIwRTZhQ0xJckZOMDRJMmtsUkZ2OGdfOGJmVTFvcWx1Sjk3dUJ3aVNIOFZzQmloUmh4d25PVS1ab0pELWhoS3BWbW9zT1NSNEN4eU9aekpBS09SMDBYUE5FMjdldF9TcHRGd1A5ajVpeW14Zy1lcEZNdU1aRXd3MDdBb1hLYXhaekdQM0N1RWxCNThxUkt0VGV0R0xmelB2SjFrUTlvdlRmR2JSWF9QemFlM1pHZlRqdEY2S1lzbkxmcjc4aENrUEZtVGRwSWo2LUJKbm9iSlYxZ29pWlBtZHZWUmZqZTRGQ2I1R3NjVXI1U2UiLCJpZCI6ImZjX3RYcGZhdWVuRWNhWHhjOFAzdC1ncUFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IklzIENvcnNhaXIgVmVuZ2VhbmNlIDMyR0IgRERSNSA2MDAwTUh6IGdvb2Q%2FIiwibGsiOiJHaXRwY3lCamIzSnpZV2x5SUhabGJtZGxZVzVqWlNBek1tZGlJR1JrY2pVZ05qQXdNRzFvZWlCbmIyOWsiLCJicyI6ImMzV1F1d3JDTUFCRmNYSEk1Q2hkdkU0aUtwUVVkU3o0UUIwRTZhQ0xJckZOMDRJMmtsUkZ2OGdfOGJmVTFvcWx1Sjk3dUJ3aVNIOFZzQmloUmh4d25PVS1ab0pELWhoS3BWbW9zT1NSNEN4eU9aekpBS09SMDBYUE5FMjdldF9TcHRGd1A5ajVpeW14Zy1lcEZNdU1aRXd3MDdBb1hLYXhaekdQM0N1RWxCNThxUkt0VGV0R0xmelB2SjFrUTlvdlRmR2JSWF9QemFlM1pHZlRqdEY2S1lzbkxmcjc4aENrUEZtVGRwSWo2LUJKbm9iSlYxZ29pWlBtZHZWUmZqZTRGQ2I1R3NjVXI1U2UiLCJpZCI6ImZjX3RYcGZhdWVuRWNhWHhjOFAzdC1ncUFRXzUifQ%3D%3D"
+    },
+    {
+      "question": "What voltage does the Vengeance RGB Pro use?",
+      "type": "featured_snippet",
+      "snippet": "CORSAIR Vengeance RGB PRO DDR4 RAM 32GB (2x16GB) 3200MHz CL16-20-20-38 1.35V Intel AMD Desktop Computer Memory - Black (CMW16GX4M2C3200C16)",
+      "title": "CORSAIR Vengeance RGB PRO DDR4 RAM 32GB (2x16GB ...",
+      "link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B081XWLQKS",
+      "displayed_link": "https://www.amazon.com › Corsair-VENGEANCE-3200...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAZklEQVR4AWMAgf9JDAlAfA2I_xODoWoTkDX_JxMnMOC3mbBLGEAMSvBgMaDTgSjFcLUbG0A0mgE39oMkCBkA0wxXy4AuCQQgGoIRikEWwPggjDcMEBoQGKc3h0E0UpyUKc5MFGdnAM0hZb0NilFOAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IldoYXQgdm9sdGFnZSBkb2VzIHRoZSBWZW5nZWFuY2UgUkdCIFBybyB1c2U/IiwibGsiOiJHaWQzYUdGMElIWnZiSFJoWjJVZ1pHOWxjeUIyWlc1blpXRnVZMlVnY21kaUlIQnlieUIxYzJVIiwiYnMiOiJjM1dRdXdyQ01BQkZjWEhJNUNoZHZFNGlLcFFVZFN6NFFCMEU2YUNMSXJGTjA0STJrbFJGdjhnXzhiZlUxb3FsdUo5N3VCd2lTSDhWc0JpaFJoeHduT1UtWm9KRC1oaEtwVm1vc09TUjRDeHlPWnpKQUtPUjAwWFBORTI3ZXRfU3B0RndQOWo1aXlteGctZXBGTXVNWkV3dzA3QW9YS2F4WnpHUDNDdUVsQjU4cVJLdFRldEdMZnpQdkoxa1E5b3ZUZkdiUlhfUHphZTNaR2ZUanRGNktZc25MZnI3OGhDa1BGbVRkcElqNi1CSm5vYkpWMWdvaVpQbWR2VlJmamU0RkNiNUdzY1VyNVNlIiwiaWQiOiJmY190WHBmYXVlbkVjYVh4YzhQM3QtZ3FBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtZzNOV2x2YUZVeE5tOWhSRXhyYW1OeWNVNTBWbFV6Ym5WMFFVOHlZMmczU1hCVFZHSmtRV2g0TWpkNWJVTkpibWxTZVdOWVoxSm5XVE5ZY0VwVWJ6Um5abHAxYzJOVkxXWnFaSEpQTm01T1lrOTVRM0IzTURCamR4SVhkRmh3Wm1GMVpXNUZZMkZZZUdNNFVETjBMV2R4UVZFYUlrRkVjM0k1WmxRM2FuZDBOa015ZFhOcFVVa3lXV2QwZVhocmFGQk9SSE5rTm5jIiwiZmN2IjoiMyIsImVpIjoidFhwZmF1ZW5FY2FYeGM4UDN0LWdxQVEiLCJxYyI6ImMtTUtUczR2S2s3TUxGSW9TODFMVDAzTVMwNVZLRXBQVWpBMkFoSXBLVVdtQ21ZR0JnWUt1YW01LVVXVk1DbzVzVGctSjdFa05TOFpLSlNmVXBxVEdwLWNYNXBYb2xDV24xT1NtSjRxd0ZCNzlvS0VQUUEiLCJxdWVzdGlvbiI6IldoYXQgdm9sdGFnZSBkb2VzIHRoZSBWZW5nZWFuY2UgUkdCIFBybyB1c2U%2FIiwibGsiOiJHaWQzYUdGMElIWnZiSFJoWjJVZ1pHOWxjeUIyWlc1blpXRnVZMlVnY21kaUlIQnlieUIxYzJVIiwiYnMiOiJjM1dRdXdyQ01BQkZjWEhJNUNoZHZFNGlLcFFVZFN6NFFCMEU2YUNMSXJGTjA0STJrbFJGdjhnXzhiZlUxb3FsdUo5N3VCd2lTSDhWc0JpaFJoeHduT1UtWm9KRC1oaEtwVm1vc09TUjRDeHlPWnpKQUtPUjAwWFBORTI3ZXRfU3B0RndQOWo1aXlteGctZXBGTXVNWkV3dzA3QW9YS2F4WnpHUDNDdUVsQjU4cVJLdFRldEdMZnpQdkoxa1E5b3ZUZkdiUlhfUHphZTNaR2ZUanRGNktZc25MZnI3OGhDa1BGbVRkcElqNi1CSm5vYkpWMWdvaVpQbWR2VlJmamU0RkNiNUdzY1VyNVNlIiwiaWQiOiJmY190WHBmYXVlbkVjYVh4YzhQM3QtZ3FBUV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "NmhP1nicxVXdcqpIEH6AfYpzsd4YBVGMpoo6NYNEMUcFTTR6Q_EzDiowhsEYzt2-yz7VPs0OKAYSNXVO1dZ2FTN009PTPdMf319_e6tg888f39wo2tI7jtvv91VMCPZQ1SY-Z9I4sLkl8Whou99dT0JBCXvSjpbiV6lesqnEl9BKip63S3OHAsU2n9_sllaPKvgF6KV0uWRYJkVrFv1tTTmDY8Pmz3qHKVVaRUG17WgIWeEItXFV4Gvt6ogzfeYA_lvBYJUMGKhMUT99lgHWvwoAlGSU3_2yMErObZ9qELKIqYd8MR5Op5UCWEANBqJLAegejPa1RPpF9T5ZouowKUKVD4l-lHOlwWzW89pZOfMRHuNmpTeu7pWIqhbjsH0VIzXpxV3UfBA9Mc_T15EOUGcP3D1-uJKrTECniyc6PnfLedkCV8v2sQDPLopzMOtDnrNCNtW4le3a6UtIk_aUH9s86d6DUO3NYjIMekNntH3TRKczhC_dYYQ522J-HjEd5BiuwX9P9ZpQE_l2_bZ1k-LCpidg0AIwnjzPGvV-DHRS_VGFtRwq8OlUcsKMcHz2mPVjUZ8WwOyIsZK-xFnjkswHkmTx-8L7jgr3AGTQbCS91sGfO5olcwYVqZygMQApKtLk5MN8DJTvCoxPC3J91PuwXz4DmIWXVYa9zNYteBcyltmxbU4gGRRD6a5yaD84ObqMYKOAb6DnNPlQoo4hLJaiHipo5PyYiTXlHOgLpvcxPv2M0kXqMaHTvu9JFdHHrgDLT8pVvF6Sa7g5CgZZ-3_o5jwKem4XNvqDZmzPn-djuaYTy5kuanPSD8H5rie-9Qt8YP_vuEjZgmRscQYX7he4SNkCX2aLYxPtM1ykfg9QvoiLTToX2aL3gS3O4aJfxMVltnjHRZLKdVzAa7iAl3DBfvifcKFfwEXGFjlcbD6wBTydamJ6x8Wvs4X5e2yRwgQdpiJ17Nb4IoUoFUICX8PqrtubaY034jbHemXzoLm3-pcUsvSjO990vBtj5dxBoR_Fzo3BDOQOOaUXSSYhNVdheYoCjMzARuVxF5brAhs6nbFYafI8Xx4gn4Rx2T9MtkkNz4xQYDMTcXYeMmyyC6LyK_EiE6OS74VE4k2Rhwqt0N1WUZyhWJmY4cAyAwHNJutI7KMe0kLPmQ-aivk8MeLF9mkLW4JVX5PH-NlZdBerxfqnZvhLIFde2lsyf5zBx7n2ok7ffjqCEhOhpQwfupN2ayUv0IwsBa0paPbTVBDd2hrc68p6yq8MCsTBdnfPT-s4TYxKk70hjOBuNn6dl_zQlljrNTAY6mCGoQ1k1lcyZg9hz55dYInapoHoqyQ47WVbvOVNqyWarSarE0fxVmrzJRqEUu1fRFMvqQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NmhP1nicxVXdcqpIEH6AfYpzsd4YBVGMpoo6NYNEMUcFTTR6Q_EzDiowhsEYzt2-yz7VPs0OKAYSNXVO1dZ2FTN009PTPdMf319_e6tg888f39wo2tI7jtvv91VMCPZQ1SY-Z9I4sLkl8Whou99dT0JBCXvSjpbiV6lesqnEl9BKip63S3OHAsU2n9_sllaPKvgF6KV0uWRYJkVrFv1tTTmDY8Pmz3qHKVVaRUG17WgIWeEItXFV4Gvt6ogzfeYA_lvBYJUMGKhMUT99lgHWvwoAlGSU3_2yMErObZ9qELKIqYd8MR5Op5UCWEANBqJLAegejPa1RPpF9T5ZouowKUKVD4l-lHOlwWzW89pZOfMRHuNmpTeu7pWIqhbjsH0VIzXpxV3UfBA9Mc_T15EOUGcP3D1-uJKrTECniyc6PnfLedkCV8v2sQDPLopzMOtDnrNCNtW4le3a6UtIk_aUH9s86d6DUO3NYjIMekNntH3TRKczhC_dYYQ522J-HjEd5BiuwX9P9ZpQE_l2_bZ1k-LCpidg0AIwnjzPGvV-DHRS_VGFtRwq8OlUcsKMcHz2mPVjUZ8WwOyIsZK-xFnjkswHkmTx-8L7jgr3AGTQbCS91sGfO5olcwYVqZygMQApKtLk5MN8DJTvCoxPC3J91PuwXz4DmIWXVYa9zNYteBcyltmxbU4gGRRD6a5yaD84ObqMYKOAb6DnNPlQoo4hLJaiHipo5PyYiTXlHOgLpvcxPv2M0kXqMaHTvu9JFdHHrgDLT8pVvF6Sa7g5CgZZ-3_o5jwKem4XNvqDZmzPn-djuaYTy5kuanPSD8H5rie-9Qt8YP_vuEjZgmRscQYX7he4SNkCX2aLYxPtM1ykfg9QvoiLTToX2aL3gS3O4aJfxMVltnjHRZLKdVzAa7iAl3DBfvifcKFfwEXGFjlcbD6wBTydamJ6x8Wvs4X5e2yRwgQdpiJ17Nb4IoUoFUICX8PqrtubaY034jbHemXzoLm3-pcUsvSjO990vBtj5dxBoR_Fzo3BDOQOOaUXSSYhNVdheYoCjMzARuVxF5brAhs6nbFYafI8Xx4gn4Rx2T9MtkkNz4xQYDMTcXYeMmyyC6LyK_EiE6OS74VE4k2Rhwqt0N1WUZyhWJmY4cAyAwHNJutI7KMe0kLPmQ-aivk8MeLF9mkLW4JVX5PH-NlZdBerxfqnZvhLIFde2lsyf5zBx7n2ok7ffjqCEhOhpQwfupN2ayUv0IwsBa0paPbTVBDd2hrc68p6yq8MCsTBdnfPT-s4TYxKk70hjOBuNn6dl_zQlljrNTAY6mCGoQ1k1lcyZg9hz55dYInapoHoqyQ47WVbvOVNqyWarSarE0fxVmrzJRqEUu1fRFMvqQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "VENGEANCE® RGB 32GB (2x16GB) DDR5 DRAM 6000MT/s ...",
+      "link": "https://www.corsair.com/eu/en/p/memory/cmh32gx5m2b6000z30k/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmh32gx5m2b6000z30k?srsltid=AfmBOoodVGHEx3II6cmNp7clrDqFJJzL7JDtJdMdm7arYO02MwikjKft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Feu%2Fen%2Fp%2Fmemory%2Fcmh32gx5m2b6000z30k%2Fvengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmh32gx5m2b6000z30k%3Fsrsltid%3DAfmBOoodVGHEx3II6cmNp7clrDqFJJzL7JDtJdMdm7arYO02MwikjKft&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECBgQAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr5 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "Attain top DDR5 RAM performance optimized for AMD® motherboards, with ten-zone RGB for DDR5 memory that lights up your cutting-edge PC.",
+      "snippet_highlighted_words": [
+        "DDR5",
+        "RGB",
+        "DDR5 memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Attain top DDR5 RAM performance optimized for AMD® motherboards, with ten-zone RGB for DDR5 memory that lights up your cutting-edge PC.",
+          "source_info_link": "https://www.corsair.com/eu/en/p/memory/cmh32gx5m2b6000z30k/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmh32gx5m2b6000z30k?srsltid=AfmBOoodVGHEx3II6cmNp7clrDqFJJzL7JDtJdMdm7arYO02MwikjKft",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Feu%2Fen%2Fp%2Fmemory%2Fcmh32gx5m2b6000z30k%2Fvengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmh32gx5m2b6000z30k%3Fsrsltid%3DAfmBOoodVGHEx3II6cmNp7clrDqFJJzL7JDtJdMdm7arYO02MwikjKft&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Feu%2Fen%2Fp%2Fmemory%2Fcmh32gx5m2b6000z30k%2Fvengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cmh32gx5m2b6000z30k%3Fsrsltid%3DAfmBOoodVGHEx3II6cmNp7clrDqFJJzL7JDtJdMdm7arYO02MwikjKft",
+      "source": "corsair.com"
+    },
+    {
+      "position": 2,
+      "title": "Corsair Vengeance 32GB DDR5-6000 CL36 Memory Kit ...",
+      "link": "https://www.overclockers.com/corsair-vengeance-32gb-ddr5-6000-cl36-memory-kit-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.overclockers.com%2Fcorsair-vengeance-32gb-ddr5-6000-cl36-memory-kit-review%2F&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECB0QAQ",
+      "displayed_link": "https://www.overclockers.com › Archive",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEVHcEwAAAAAAAADBQMSJTQYMkkAAAAAAAAAAAAAAAAHEhkoT3pZZ4lUcZpfbpECBAQAAABaYYEAAgMcJy9VXnNhdppSVl5HSElAQUBhYmOZmZmqrK21t7gzMzMoV4nR09Tg4uT09vdycnPBwsSFhocdRHErX5cAAAAaGxsFBwgvaaIwca4zebY1f744hMQ8icpAjs_u4MLoAAAAE3RSTlMANoXA5_24exxa7f_____hD__SAUdUFgAAAZ1JREFUeAFd0wWCgzAARNEgqSEVJLgn6WLl_qfbQaq_Sh4u5JWiajql-m5_IL8dT4Zp2aZpW6ZxPn7R5WxY11eWcbu8TXHetLKjvIxa5tLVda_rH4tuenA8TNumzwLEfNPGpOWsaz5bNnJZEEZxEoUpc21k3Qg6Zp5te34QJnleFGVZhIE_jxgK8OQhN6jqul61bALXQ1hU4dz0PBYmyYKL-szzTM4PRM04N1gQJ9C4aWpYw5hvcJ7tiSaAMo3jpK4CxtIoZ6kjJTe40IieGQaXYRRFlXTusqok-gMaQic0yzIuKyCTMsmZ_EPALBOUUPHEABjDPlBvhTDm1TYh1rYaMBOi1YnWCSFkCqxSiTbEIt2OqC2ismmq0E_vaDGKQbEnitHhVzpN5bM0TZ0VRdt2HLfEqe-6jss09AMgFoZxDPXn5cRDeyrvsHVRSecR40jQuUcDx77cnZkkH3p02y72OAzD2FG5RLtl0rk8b5PHiB5jh90Y1__0fRM54_T4aBqcl2HN52yaNsef7Hb5van7aan_uKl_HwdNfa_xH9wXRsFgLoDeAAAAAElFTkSuQmCC.png",
+      "date": "Feb 14, 2023",
+      "snippet": "The EXPO profile is programmed to use a voltage of 1.35V, be s Tested Latency (XMP/EXPO) Voltage (Default) 1.10V Fan Included",
+      "snippet_highlighted_words": [
+        "voltage",
+        "Voltage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The EXPO profile is programmed to use a voltage of 1.35V, be s Tested Latency (XMP/EXPO) Voltage (Default) 1.10V Fan Included",
+          "source_info_link": "https://www.overclockers.com/corsair-vengeance-32gb-ddr5-6000-cl36-memory-kit-review/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEVHcEwAAAAAAAADBQMSJTQYMkkAAAAAAAAAAAAAAAAHEhkoT3pZZ4lUcZpfbpECBAQAAABaYYEAAgMcJy9VXnNhdppSVl5HSElAQUBhYmOZmZmqrK21t7gzMzMoV4nR09Tg4uT09vdycnPBwsSFhocdRHErX5cAAAAaGxsFBwgvaaIwca4zebY1f744hMQ8icpAjs_u4MLoAAAAE3RSTlMANoXA5_24exxa7f_____hD__SAUdUFgAAAZ1JREFUeAFd0wWCgzAARNEgqSEVJLgn6WLl_qfbQaq_Sh4u5JWiajql-m5_IL8dT4Zp2aZpW6ZxPn7R5WxY11eWcbu8TXHetLKjvIxa5tLVda_rH4tuenA8TNumzwLEfNPGpOWsaz5bNnJZEEZxEoUpc21k3Qg6Zp5te34QJnleFGVZhIE_jxgK8OQhN6jqul61bALXQ1hU4dz0PBYmyYKL-szzTM4PRM04N1gQJ9C4aWpYw5hvcJ7tiSaAMo3jpK4CxtIoZ6kjJTe40IieGQaXYRRFlXTusqok-gMaQic0yzIuKyCTMsmZ_EPALBOUUPHEABjDPlBvhTDm1TYh1rYaMBOi1YnWCSFkCqxSiTbEIt2OqC2ismmq0E_vaDGKQbEnitHhVzpN5bM0TZ0VRdt2HLfEqe-6jss09AMgFoZxDPXn5cRDeyrvsHVRSecR40jQuUcDx77cnZkkH3p02y72OAzD2FG5RLtl0rk8b5PHiB5jh90Y1__0fRM54_T4aBqcl2HN52yaNsef7Hb5van7aan_uKl_HwdNfa_xH9wXRsFgLoDeAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.overclockers.com%2Fcorsair-vengeance-32gb-ddr5-6000-cl36-memory-kit-review%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.overclockers.com%2Fcorsair-vengeance-32gb-ddr5-6000-cl36-memory-kit-review%2F",
+      "source": "overclockers.com"
+    },
+    {
+      "position": 3,
+      "title": "What speed to select for corsair Vengeance DDR5 32gb ...",
+      "link": "https://www.reddit.com/r/pcmasterrace/comments/1isuovj/what_speed_to_select_for_corsair_vengeance_ddr5/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fpcmasterrace%2Fcomments%2F1isuovj%2Fwhat_speed_to_select_for_corsair_vengeance_ddr5%2F&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECCEQAQ",
+      "displayed_link": "8 comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "keep the voltage at 1.35. and only adjust timings if needed for stability.",
+      "snippet_highlighted_words": [
+        "keep the voltage at 1.35"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "keep the voltage at 1.35. and only adjust timings if needed for stability.",
+          "source_info_link": "https://www.reddit.com/r/pcmasterrace/comments/1isuovj/what_speed_to_select_for_corsair_vengeance_ddr5/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fpcmasterrace%2Fcomments%2F1isuovj%2Fwhat_speed_to_select_for_corsair_vengeance_ddr5%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fpcmasterrace%2Fcomments%2F1isuovj%2Fwhat_speed_to_select_for_corsair_vengeance_ddr5%2F",
+      "source": "Reddit · r/pcmasterrace",
+      "read_more_link": "https://www.reddit.com/r/pcmasterrace/comments/1isuovj/what_speed_to_select_for_corsair_vengeance_ddr5/"
+    },
+    {
+      "position": 4,
+      "title": "VENGEANCE® RGB 64GB (2x32GB) DDR5 DRAM Up To ...",
+      "link": "https://www.corsair.com/ww/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40?srsltid=AfmBOorrg3vfl8yUnF1fhkRk1ObZSLX_O8c066OkuaW9ShYwHzWw8CJL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fww%2Fen%2Fp%2Fmemory%2Fcmh64gx5m2d6000z40%2Fvengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40%3Fsrsltid%3DAfmBOorrg3vfl8yUnF1fhkRk1ObZSLX_O8c066OkuaW9ShYwHzWw8CJL&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECEoQAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr5 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "VENGEANCE® RGB 64GB (2x32GB) DDR5 DRAM. Optimized timings, speeds, and voltages are available for speedy overclocking with Intel XMP and AMD EXPO. with DDR5- ...",
+      "snippet_highlighted_words": [
+        "Optimized timings, speeds, and voltages"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE® RGB 64GB (2x32GB) DDR5 DRAM. Optimized timings, speeds, and voltages are available for speedy overclocking with Intel XMP and AMD EXPO. with DDR5- ...",
+          "source_info_link": "https://www.corsair.com/ww/en/p/memory/cmh64gx5m2d6000z40/vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40?srsltid=AfmBOorrg3vfl8yUnF1fhkRk1ObZSLX_O8c066OkuaW9ShYwHzWw8CJL",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fww%2Fen%2Fp%2Fmemory%2Fcmh64gx5m2d6000z40%2Fvengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40%3Fsrsltid%3DAfmBOorrg3vfl8yUnF1fhkRk1ObZSLX_O8c066OkuaW9ShYwHzWw8CJL&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fww%2Fen%2Fp%2Fmemory%2Fcmh64gx5m2d6000z40%2Fvengeance-rgb-64gb-2x32gb-ddr5-dram-6000mts-cl40-amd-expo-intel-xmp-memory-kit-cmh64gx5m2d6000z40%3Fsrsltid%3DAfmBOorrg3vfl8yUnF1fhkRk1ObZSLX_O8c066OkuaW9ShYwHzWw8CJL",
+      "source": "corsair.com"
+    },
+    {
+      "position": 5,
+      "title": "Corsair Vengeance RGB DDR5-6000 C36 Review",
+      "link": "https://www.storagereview.com/review/corsair-vengeance-rgb-ddr5-6000-c36-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.storagereview.com%2Freview%2Fcorsair-vengeance-rgb-ddr5-6000-c36-review&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECEwQAQ",
+      "displayed_link": "https://www.storagereview.com › Review",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX____2_P7U7vql3PaAzfJ6yvBpxO-b2PXL6Pjw-f2u3_dGuOxMuuxlwu7X7vlNu-1Nuuy75Pg7tuxOu-2Y1vRZv-7n9v1lxfCK0PLh8_t0yfH4_v-GzfDA4vT4-PjG6PnR5fAvFO4-AAABQklEQVR4AYxShZYDIQxkXSZbcixQ7_9_5iWBc001HWMedf-bpu36YeynefkKrSNkCMA2fYIPXgBvwwR6eo-tQRDemfXdM4fpHYaC7VW7E-KrZyDW30QiL68kCtW5SRCVPlXMhUTI1dRkXmRExNUZkwlHYsN20Hb0KCBTUumBaPdqF05n53IEWfxuqR28BeIkS90Vtr1HqU5iY5OogBf5PsCOSJurc6rs7erchVgjjGhzw25lkoA9rBrtTQVHlLOPAk7qogdaCzaX2oyTLaUKhbtiLTTEV_KS7K5oSxin6QJiGdHirNyIXRb05x0ot2q1-6uCGcRe8l1LZmlXQ6F9uc7a-bBDZKZEfFeb6Wj_FvKsx8H4eAEfNzAu1sNjZ7XJ7m26IJnWZAcjxKqr0w7H5zHAZKXk0ROutCSUwaHASFQmAAAAthwVSPPDDQAAAABJRU5ErkJggg.png",
+      "date": "Aug 19, 2022",
+      "snippet": "Format UDIMM Voltage 1.1-1.4V LED Individually addressable. Module Dimensions 135 x 8 x 56 mm Compatibility Compatible for Intel DDR5 – Intel ...",
+      "snippet_highlighted_words": [
+        "Format UDIMM Voltage 1.1-1.4V"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Format UDIMM Voltage 1.1-1.4V LED Individually addressable. Module Dimensions 135 x 8 x 56 mm Compatibility Compatible for Intel DDR5 – Intel ...",
+          "source_info_link": "https://www.storagereview.com/review/corsair-vengeance-rgb-ddr5-6000-c36-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX____2_P7U7vql3PaAzfJ6yvBpxO-b2PXL6Pjw-f2u3_dGuOxMuuxlwu7X7vlNu-1Nuuy75Pg7tuxOu-2Y1vRZv-7n9v1lxfCK0PLh8_t0yfH4_v-GzfDA4vT4-PjG6PnR5fAvFO4-AAABQklEQVR4AYxShZYDIQxkXSZbcixQ7_9_5iWBc001HWMedf-bpu36YeynefkKrSNkCMA2fYIPXgBvwwR6eo-tQRDemfXdM4fpHYaC7VW7E-KrZyDW30QiL68kCtW5SRCVPlXMhUTI1dRkXmRExNUZkwlHYsN20Hb0KCBTUumBaPdqF05n53IEWfxuqR28BeIkS90Vtr1HqU5iY5OogBf5PsCOSJurc6rs7erchVgjjGhzw25lkoA9rBrtTQVHlLOPAk7qogdaCzaX2oyTLaUKhbtiLTTEV_KS7K5oSxin6QJiGdHirNyIXRb05x0ot2q1-6uCGcRe8l1LZmlXQ6F9uc7a-bBDZKZEfFeb6Wj_FvKsx8H4eAEfNzAu1sNjZ7XJ7m26IJnWZAcjxKqr0w7H5zHAZKXk0ROutCSUwaHASFQmAAAAthwVSPPDDQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.storagereview.com%2Freview%2Fcorsair-vengeance-rgb-ddr5-6000-c36-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.storagereview.com%2Freview%2Fcorsair-vengeance-rgb-ddr5-6000-c36-review",
+      "source": "StorageReview.com"
+    },
+    {
+      "position": 6,
+      "title": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC ...",
+      "link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236991?srsltid=AfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black%2Fp%2FN82E16820236991%3Fsrsltid%3DAfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECCAQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Corsair",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "DDR5 6000 (PC5 48000) · Timing 36-44-44-96 · CAS Latency 36 · Voltage 1.40V · High-Speed Gaming RGB Memory.",
+      "snippet_highlighted_words": [
+        "DDR5 6000 (PC5 48000"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DDR5 6000 (PC5 48000) · Timing 36-44-44-96 · CAS Latency 36 · Voltage 1.40V · High-Speed Gaming RGB Memory.",
+          "source_info_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236991?srsltid=AfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black%2Fp%2FN82E16820236991%3Fsrsltid%3DAfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black%2Fp%2FN82E16820236991%3Fsrsltid%3DAfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236991?srsltid=AfmBOoocFN5XCTOB9lVCuMsM7ievaQ-3LxeuZ4tovQlcT8GLBPd8lfR8"
+    },
+    {
+      "position": 7,
+      "title": "CORSAIR Vengeance RGB DDR5 RAM 32GB (2x16GB) ...",
+      "link": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-Computer/dp/B0BZHTVHN5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VENGEANCE-6000MHz-Compatible-Computer%2Fdp%2FB0BZHTVHN5&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECB8QAQ",
+      "displayed_link": "https://www.amazon.com › CORSAIR-VENGEANCE-60...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Desktop DIMM Size 32GB (2 x 16GB) Speed 6000MHz Latency 36-44-44-96 Voltage 1.35V Software Control CORSAIR iCUE Module",
+      "snippet_highlighted_words": [
+        "Desktop DIMM Size 32GB (2 x 16GB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Desktop DIMM Size 32GB (2 x 16GB) Speed 6000MHz Latency 36-44-44-96 Voltage 1.35V Software Control CORSAIR iCUE Module",
+          "source_info_link": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-Computer/dp/B0BZHTVHN5",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VENGEANCE-6000MHz-Compatible-Computer%2Fdp%2FB0BZHTVHN5&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VENGEANCE-6000MHz-Compatible-Computer%2Fdp%2FB0BZHTVHN5",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 8,
+      "title": "Corsair Vengeance RGB DDR5-6000 C30 Review",
+      "link": "https://www.tomshardware.com/reviews/corsair-vengeance-rgb-ddr5-6000-c30-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fcorsair-vengeance-rgb-ddr5-6000-c30-review&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQFnoECB4QAQ",
+      "displayed_link": "https://www.tomshardware.com › ... › DRAM › DDR5",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png",
+      "date": "Feb 15, 2023",
+      "snippet": "Corsair aggressively binned the memory kit for 1.4V, leaving little headroom for us to play with the voltage. Additionally, the maximum voltage ...",
+      "snippet_highlighted_words": [
+        "Corsair aggressively binned the memory kit for 1.4V"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0
+          },
+          "extensions": [
+            "4.0",
+            "Review by Zhiye Liu"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Corsair aggressively binned the memory kit for 1.4V, leaving little headroom for us to play with the voltage. Additionally, the maximum voltage ...",
+          "source_info_link": "https://www.tomshardware.com/reviews/corsair-vengeance-rgb-ddr5-6000-c30-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fcorsair-vengeance-rgb-ddr5-6000-c30-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fcorsair-vengeance-rgb-ddr5-6000-c30-review",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://www.tomshardware.com/reviews/corsair-vengeance-rgb-ddr5-6000-c30-review"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE DDR5-6000",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+DDR5-6000&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+DDR5-6000"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE DDR5 6000MHz 32GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+DDR5+6000MHz+32GB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+DDR5+6000MHz+32GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE RGB DDR5 32GB 6000MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+RGB+DDR5+32GB+6000MHz&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+RGB+DDR5+32GB+6000MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE DDR5-6000 CL30",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+DDR5-6000+CL30&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+DDR5-6000+CL30"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE RGB DDR5 64GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+RGB+DDR5+64GB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+RGB+DDR5+64GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair vengeance ddr5 6000 overclock cl36",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+vengeance+ddr5+6000+overclock+cl36&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+vengeance+ddr5+6000+overclock+cl36"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance 32GB DDR5",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+Vengeance+32GB+DDR5&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+32GB+DDR5"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE DDR5 6000 EXPO",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+DDR5+6000+EXPO&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+DDR5+6000+EXPO"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Two",
+      "link": "https://www.google.com/search?q=two+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhUIARIDVHdvOgwIwYaOAxDahY4DMABYt7EgYAE&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAF6BAgcEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=two+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GBIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAJ6BAgcEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Unbuffered",
+      "link": "https://www.google.com/search?q=unbuffered+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhoIARIKVW5idWZmZXJlZDoKCIbCLBCHwiwwAFi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAN6BAgcEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=unbuffered+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?q=corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=Eg2aAQoKCBACOAFABEgBGBQqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMiYIFBINR2V0IGl0IGJ5IFRodSINmgEKCggQAjgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAR6BAgcEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage+sale&hl=en&gl=us&shoprs=EgRKAhgBGAYqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhMIBhIHT24gc2FsZRgCIgRKAhgBWLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAV6BAgcEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage+sale"
+    },
+    {
+      "query": "One",
+      "link": "https://www.google.com/search?q=one+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhUIARIDT25lOgwIwYaOAxDzho4DMABYt7EgYAE&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAZ6BAgcEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=one+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1i3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAd6BAgcEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1i3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAh6BAgcEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?q=blue+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhYIARIEQmx1ZToMCNiM9QEQ5or1ATALWLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAl6BAgcEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=blue+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GBIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAp6BAgcEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?q=gray+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhYIARIER3JheToMCNiM9QEQ6or1ATALWLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAt6BAgcEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?q=ddr+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhMIARIDRERSOgoI3cAsEN7ALDACWLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKAx6BAgcEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "With Heat Spreader",
+      "link": "https://www.google.com/search?q=corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage+with+heat+spreader&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMiQIARISV2l0aCBIZWF0IFNwcmVhZGVyGAI6Cgjw1ywQ8dcsMANYt7EgYAE&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKA16BAgcEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage+with+heat+spreader"
+    },
+    {
+      "query": "ECC",
+      "link": "https://www.google.com/search?q=ecc+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhMIARIDRUNDOgoI3MEsEN3BLDADWLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKA56BAgcEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ecc+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Navy Blue",
+      "link": "https://www.google.com/search?q=navy+blue+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhsIARIJTmF2eSBCbHVlOgwI2Iz1ARCHjPUBMAtYt7EgYAE&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKA96BAgcEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=navy+blue+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Under $150",
+      "link": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage+under+%24150&hl=en&gl=us&shoprs=Eg0SCxEAAAAAo-GhQRgBGAUqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMiMIBRIKVW5kZXIgJDE1MBgCIg0SCxEAAAAAo-GhQRgBKgIYAVi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBB6BAgcEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage+under+%24150"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?q=walmart+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMgsIAhIHV2FsbWFydFi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBF6BAgcEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ab4cfa230154ea34b1c/images/b1-LrE95vAzvhnttrLtax5MigziZHwGmkpQGuJ3NuxU.png"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?q=new+Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAoqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMgcIChIDTmV3WLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBJ6BAgcEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAoqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMggIChIEVXNlZFi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBN6BAgcEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Registered",
+      "link": "https://www.google.com/search?q=registered+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAEqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhoIARIKUmVnaXN0ZXJlZDoKCIbCLBCJwiwwAFi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBR6BAgcEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=registered+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?q=corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=EgJqABgWKlNjb3JzYWlyIHZlbmdlYW5jZSByZ2IgMzJnYiBkZHI1IDYwMDAgbWVtb3J5IG1lbW9yeSBjYXNfbGF0ZW5jeSBtb2R1bGVfY291bnQgdm9sdGFnZTIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBV6BAgcEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?q=ebay+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMggIAhIEZUJheVi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBZ6BAgcEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?q=best+buy+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMgwIAhIIQmVzdCBCdXlYt7EgYAE&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBd6BAgcEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage+free+shipping&hl=en&gl=us&shoprs=EgRSAhABGBkqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBh6BAgcEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage+free+shipping"
+    },
+    {
+      "query": "Micro Center",
+      "link": "https://www.google.com/search?q=micro+center+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMhAIAhIMTWljcm8gQ2VudGVyWLexIGAB&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBl6BAgcEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=micro+center+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ab4cfa230154ea34b1c/images/b1-LrE95vAzvhnttrLtax5CVbgBpkuc8KYOwgyy7iZY.png"
+    },
+    {
+      "query": "Newegg.com",
+      "link": "https://www.google.com/search?q=newegg.com+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage&hl=en&gl=us&shoprs=GAIqU2NvcnNhaXIgdmVuZ2VhbmNlIHJnYiAzMmdiIGRkcjUgNjAwMCBtZW1vcnkgbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMg4IAhIKTmV3ZWdnLmNvbVi3sSBgAQ&sa=X&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQip4GKBp6BAgcEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=newegg.com+corsair+vengeance+rgb+32gb+ddr5+6000+memory+memory+cas_latency+module_count+voltage",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=10&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8NMDegQIYhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=10&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAE",
+      "3": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=20&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAG",
+      "4": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=30&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAI",
+      "5": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=40&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAK",
+      "6": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=50&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAM",
+      "7": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=60&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAO",
+      "8": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=70&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAQ",
+      "9": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=80&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAS",
+      "10": "https://www.google.com/search?q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=tXpfauenEcaXxc8P3t-gqAQ&start=90&sa=N&sstk=AU9db-DKAX2KcHqtJ143qWv3VOxLHMlxVtnPGsaWt5kfmTA7BxNooxfj-erSadMBbZ1WmQd4whLVYDhkLTFc3LbvG372W1mfYUT6ew&ved=2ahUKEwin1oKx9uOVAxXGS_EDHd4vCEUQ8tMDegQIYhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+32GB+DDR5-6000+Memory+memory+cas_latency+module_count+voltage&start=90"
+    }
+  }
+}

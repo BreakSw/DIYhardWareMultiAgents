@@ -1,0 +1,724 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a895fda0b54bfae4db7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-_Su_5p-O9BHClJffIHN4g/6a5f7a895fda0b54bfae4db7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-_Su_5p-O9BHClJffIHN4g/6a5f7a895fda0b54bfae4db7.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:25 UTC",
+    "processed_at": "2026-07-21 13:56:25 UTC",
+    "google_url": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&oq=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-_Su_5p-O9BHClJffIHN4g/6a5f7a895fda0b54bfae4db7.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "MSI MPG X870E Carbon WiFi Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "MSI MPG X870E Carbon WiFi Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "total_results": 419,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "A NEW(?) MONSTER! - MSI MPG X870E CARBON MAX WIFI ...",
+      "link": "https://www.youtube.com/watch?v=5FpQKY3auA0",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/VuM8RhnshRDZBFfFz7jnmwfm_ELnhHiF8sXu8LPVazs.jpeg",
+      "channel": "Jordan Ash",
+      "duration": "7:33",
+      "platform": "YouTube",
+      "date": "Apr 11, 2026"
+    },
+    {
+      "position": 2,
+      "title": "MPG X870E CARBON MAX WIFI - Performance in Carbon ...",
+      "link": "https://www.youtube.com/watch?v=eEfUypv1k6U",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/4qSWqeYjrZQ-mbY_Zm_ddgpGI4_K3xcS1K0kMBHPLhY.jpeg",
+      "channel": "MSI Gaming",
+      "duration": "1:03",
+      "platform": "YouTube",
+      "date": "Apr 1, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR_q-EPTFlyRdt7MIsXaHyAl0aThePd8AyraA"
+    },
+    {
+      "position": 3,
+      "title": "MSI MAG X870E Carbon Max Wifi Review: Overclocker's Dream",
+      "link": "https://www.youtube.com/watch?v=Z1y7CI3BSmM",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/B20bNPVCkiSqH6MZ39Ye3o5fRteICW49j8CM3bY6WZw.jpeg",
+      "channel": "NAG",
+      "duration": "3:56",
+      "platform": "YouTube",
+      "date": "4 weeks ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSAp80raNe4I5znzfLZYpu-bLQHgRY24GuIig"
+    },
+    {
+      "position": 4,
+      "title": "MSI Cooking NEW motherboards on OLD Platform - MSI ...",
+      "link": "https://www.youtube.com/watch?v=GiGJebVaul4",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/wLxDg-YmpvMjl1YL2rDHpXbS5y70AoHUsrny3wwdM78.jpeg",
+      "channel": "Tech Notice",
+      "duration": "21:02",
+      "platform": "YouTube",
+      "date": "Mar 2, 2026",
+      "snippet": "This is the MPG X870E Carbon Max Wi-Fi and in terms of the naming there is the Max and MSI has other Max motherboards but this is one of the newer ones."
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQByZYdvNEQz6Hb-ehIiEQMMA9sIiaEpG3r49N-sqqf663qtQowN0WoYIl-_KuKlyG56frqnmmnf18AzChwnZzKdlfr2BZOeEVDWw-frQo",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "rating": 4.6,
+      "reviews": 84,
+      "price": "$389.99",
+      "extracted_price": 389.99,
+      "original_price": "$430",
+      "extracted_original_price": 430,
+      "delivery": "Free delivery by Fri",
+      "extensions": [
+        "9% OFF"
+      ],
+      "immersive_product_page_token": "Wltqk3icdVNLjuM2EAVyhtzCCEBSsj7ZtS3Jak2LsimJsrVp0CJtyqI-Y8lf5A65g3smwGQ5CZBtrtE5TRQkiyySRRWq6r1XhSqgfnyI8rey6Xbs_GLNh9PwceiXMliy71bhl-7Y8lMxlPyXqWYZmgYMGxjI0O0xtb8UbGCq3f-FGrplI4gAhFMbImMkfZWCcVU2ItrtxNFpi5GmW0gDCCEAzNHrpm0ZP5c124u_YdMEwLYs3bBMYJs6gJb9duT9u76cv0I0kk3NtkcxnCId6Jb-w5JEzuv_gJ8_nsTx9p6H8fMkXC4m67GpO5mz47ZtJlnplZOwHaQYU3bkk_rfMXrtVTv0k5pdX2tRt8fb63476YpS_AP0bVGJ4fN-LPFf_2v4W13yr1PT0A003sUwdXvcBqC37jw85P7T6aTE74-9epz6h1QP0fzUsu68K_745lu3vTjz_jJfpV1HHQLiZvZhewh22_q64IdKxwnphIOjJOGlSCTjrr2JM_JMUwDj1I5j16MbLSjTxEVbcD3zBN_zhM5FTcN8LTNSuShO8wNT4bBtsC9KeN7cnwd-wEC4nSwWahYt5IpW7pTC2VVQb8kS3IQOOeD7Xg9deMYaDYkmP3AEN7xREW68cgNpmlD3mlTUyzK4FDUJ8qq9rO_BkK05KsDmysG121CvCWk-RC71ioN3wQvl574CDPAcA3IrFhuNNfxO3NHSaUmrQBaKrlgSOCnkzupeDRSNOhWk3Jc1V8WdpRAna9XHvqvTqnNYM7tQNfO2lfQ3WleGmfSxyw_Mpzit4BCqrg6BDkmKj2EitULL56whknv2MtTyKs8Iix1vKJq8Zwt1iNb0LFwcYTe9rAHQGFSS-9WQOzJKXb4LG0niijgY4kO2foo9pE7FIpe8uugrjUDue6CAszZWM_lCPbwogxnx8S3K8jiGNuVr70I077lA9gtNAw07st8eOMReeI-TgHy69sfdO3jypkMc6aDuz-egvM7dG1qxp_ZEtLts9iDerb6H5vg9OoKWYSDzT9UkSiA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Wltqk3icdVNLjuM2EAVyhtzCCEBSsj7ZtS3Jak2LsimJsrVp0CJtyqI-Y8lf5A65g3smwGQ5CZBtrtE5TRQkiyySRRWq6r1XhSqgfnyI8rey6Xbs_GLNh9PwceiXMliy71bhl-7Y8lMxlPyXqWYZmgYMGxjI0O0xtb8UbGCq3f-FGrplI4gAhFMbImMkfZWCcVU2ItrtxNFpi5GmW0gDCCEAzNHrpm0ZP5c124u_YdMEwLYs3bBMYJs6gJb9duT9u76cv0I0kk3NtkcxnCId6Jb-w5JEzuv_gJ8_nsTx9p6H8fMkXC4m67GpO5mz47ZtJlnplZOwHaQYU3bkk_rfMXrtVTv0k5pdX2tRt8fb63476YpS_AP0bVGJ4fN-LPFf_2v4W13yr1PT0A003sUwdXvcBqC37jw85P7T6aTE74-9epz6h1QP0fzUsu68K_745lu3vTjz_jJfpV1HHQLiZvZhewh22_q64IdKxwnphIOjJOGlSCTjrr2JM_JMUwDj1I5j16MbLSjTxEVbcD3zBN_zhM5FTcN8LTNSuShO8wNT4bBtsC9KeN7cnwd-wEC4nSwWahYt5IpW7pTC2VVQb8kS3IQOOeD7Xg9deMYaDYkmP3AEN7xREW68cgNpmlD3mlTUyzK4FDUJ8qq9rO_BkK05KsDmysG121CvCWk-RC71ioN3wQvl574CDPAcA3IrFhuNNfxO3NHSaUmrQBaKrlgSOCnkzupeDRSNOhWk3Jc1V8WdpRAna9XHvqvTqnNYM7tQNfO2lfQ3WleGmfSxyw_Mpzit4BCqrg6BDkmKj2EitULL56whknv2MtTyKs8Iix1vKJq8Zwt1iNb0LFwcYTe9rAHQGFSS-9WQOzJKXb4LG0niijgY4kO2foo9pE7FIpe8uugrjUDue6CAszZWM_lCPbwogxnx8S3K8jiGNuVr70I077lA9gtNAw07st8eOMReeI-TgHy69sfdO3jypkMc6aDuz-egvM7dG1qxp_ZEtLts9iDerb6H5vg9OoKWYSDzT9UkSiA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRxglHMhxN5IIgfRk0ijcq_x9-XhG5X9ZWUdCSkjg-6yNlhGGe_HgmsQwcCfFFCk-NH0Ux3G8CZ66766Pd9forQgXv0zQbpELWRMyjOqI5SOJT7ihF6_AxV",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - REBORNRACK",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "rating": 4.8,
+      "reviews": 389,
+      "price": "$299.00",
+      "extracted_price": 299.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "feyEy3icbVNJjuM2FAVyhtzCCEBS1JRde5BtlSVblEkNm4JM0pYsaihbqlIZuUPu4OoO0Fl2B8g216icJmqgF1n06g_v__fxPvB-v8vi76Juj9nzxpp1fffUXXe5u8t-CbzP7aURPe8K8RfUDNPSoGkjHUAbAIxt4zPPukw1p0J8hZppYwBNbAADmxbGuv4ll5lQRS23x6O8zBv-jQWhcco2EAIWskyMNWD9WVTZSX7HoWUgyzKtMWKMDWTY8O0iru9oN3vUEbawbup4XDZtE2lQ_21HtvPHH2Ofnnp5eX1PvXA98XbLSWyZYDGZZZdDU0-iwikmXtPlciyzi5hU_8_R41U13XVSZcNjJavm8vp4OkxaXsjvwLXhpew-ncaW-PqD229VIb7opjEqwPY3NZptj0Nv7XN3z08f-17Jf-4nde-v91zdZf1Hk7XPR_7vTz8vmpf57PoyC2jbsjkBIbAgibqWR54ul-2aI_-Bx8o7xESJRRuxsktiSGo-n26SSADucCzL_EwQPIdguO6RG21COCVz1qfRgBLoIaZ9uFFkr9IK39he5b6iL5GThhkjyr8RJlfpeg8bjdVuyAu4FXvV-bFD2SJ_iuEaBUy9MuXr2xUb0oW60FvS8bOIJSUspLaRRWkiokVHFaN7LfUZSw1Rdj3XnAevIk_B2a8DoIZk72JZKUyBrSfIeSVOc8tKJ5ILPaMlXLO9D4NbibeUTffKfuZqZDoLPSj1aaLYJkF4oFULeTXUhA6hiNQ1A-p4YMo9gDwWc3fIINmJ2B21i7lcAsQc98aW7CiWayCprx2oCEic5x5Si31M6siZDjL2MKG2l9Rq_Dl74I41-LD1aTQwFsHeVywkew4o8tCB-jVH7uyw1J-DSqy9xUvoINXzZZqL8gUHGoFi5QAOp02opvmGOf6ycKdk5b9uo5RI2iWC2qUHpxVb5jGtRJBRtw8pPCaUwvAsyMfhejm-gw-O3oVbzCszbWds2p8HNyiOwEH9oMou8tPgVzhaz8BodM9oo_8AM81I2g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=feyEy3icbVNJjuM2FAVyhtzCCEBS1JRde5BtlSVblEkNm4JM0pYsaihbqlIZuUPu4OoO0Fl2B8g216icJmqgF1n06g_v__fxPvB-v8vi76Juj9nzxpp1fffUXXe5u8t-CbzP7aURPe8K8RfUDNPSoGkjHUAbAIxt4zPPukw1p0J8hZppYwBNbAADmxbGuv4ll5lQRS23x6O8zBv-jQWhcco2EAIWskyMNWD9WVTZSX7HoWUgyzKtMWKMDWTY8O0iru9oN3vUEbawbup4XDZtE2lQ_21HtvPHH2Ofnnp5eX1PvXA98XbLSWyZYDGZZZdDU0-iwikmXtPlciyzi5hU_8_R41U13XVSZcNjJavm8vp4OkxaXsjvwLXhpew-ncaW-PqD229VIb7opjEqwPY3NZptj0Nv7XN3z08f-17Jf-4nde-v91zdZf1Hk7XPR_7vTz8vmpf57PoyC2jbsjkBIbAgibqWR54ul-2aI_-Bx8o7xESJRRuxsktiSGo-n26SSADucCzL_EwQPIdguO6RG21COCVz1qfRgBLoIaZ9uFFkr9IK39he5b6iL5GThhkjyr8RJlfpeg8bjdVuyAu4FXvV-bFD2SJ_iuEaBUy9MuXr2xUb0oW60FvS8bOIJSUspLaRRWkiokVHFaN7LfUZSw1Rdj3XnAevIk_B2a8DoIZk72JZKUyBrSfIeSVOc8tKJ5ILPaMlXLO9D4NbibeUTffKfuZqZDoLPSj1aaLYJkF4oFULeTXUhA6hiNQ1A-p4YMo9gDwWc3fIINmJ2B21i7lcAsQc98aW7CiWayCprx2oCEic5x5Si31M6siZDjL2MKG2l9Rq_Dl74I41-LD1aTQwFsHeVywkew4o8tCB-jVH7uyw1J-DSqy9xUvoINXzZZqL8gUHGoFi5QAOp02opvmGOf6ycKdk5b9uo5RI2iWC2qUHpxVb5jGtRJBRtw8pPCaUwvAsyMfhejm-gw-O3oVbzCszbWds2p8HNyiOwEH9oMou8tPgVzhaz8BodM9oo_8AM81I2g"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTGx_17lY02s3e2UkWsqxRrmiySJMLt6SkBz9FQe4_-ZbbIXDG6O9qbmJzuZWjIqGw8KROZSD4js-apBwjuf2qytEYUlAnK2Nut0R00WhlR",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQb770JCZimYA-bQnKhdDPVRS9LBoDxafmVZjFaXqo7zwSd1Yn22nPNMMj64r9YfEESCc3JwWR0MM96MbEW4xjOB8eUH1oxLqY",
+      "source": "OfficeSupply",
+      "title": "MSI MPG X870E Gaming Desktop Motherboard",
+      "price": "$392.86",
+      "extracted_price": 392.86,
+      "original_price": "Usually $590",
+      "extracted_original_price": 590,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "0gJInnicTY_NbptAFIXV57EqzQwMP93FBhxwwOZvjGcTjRlsMIPBBhziF-iyrxA5baV02Vbqtq-RPk3dqovuvnu-uzjnwyUrfhT7ZsNOd9qk67tD1y5yZ8He-u5Lc6x5n3YF_wYVVcaapGOoShrQNQ2rLynrmKi3V6tcAw0BCCQdYU2XsYK-5hnjothn880mOxp1en3DWFEkVdFlTVYxhKqqa1-Kim2zv_o71CR0NUhVAMbwikCRn4-8ffp06LPj4yt1Q3vkLqajRFOBOZqw47rej5aFVYzcusuz68mOfFT9z-i-FXXXjio23FdZVR8f77frUZMW2T_R1mmZdZ-2zZ-CGtIgUCUV6n866hhJ8Lkq-NNzc-ou-fZj34vs52UrLn17ycUl23-uWXPapL_evDcP9mTS22M_bhpiBCDcEboKYcinfLWqrpx4ZSpoSaC1yEp8ihPBolv-eLf0rPA8tinZgnXl-AxZvmfQB9e4GWI0rEIpmNHK2hFLn1HkPwTiRo4J6dzEM-ly8F1jvAzPfB5JThzELY7KLcxKAJnguxASI5uSxJt6BwKpHEnCTE0IGRraSFDGInHLk3HlQ15Tw2npeXznVk3iom6flnThLj0vipwZKQd3TXQl2pWyL3SXiVhyq3xYJQ5Nrdy-i_I-2AXTuTGGQeIRUgFMhBWudpZN9vmEmKALjWDlxWJYS-LMY8uf33qOH9gJW-KH6z4UGbnBbwlIk-AcT_NZPDW7OAbMLi0zlWxMhYV45Jnpjq8CRIkLhllYNsmyzINEck5xRQ8sNj8O7XHzCm4s3IVzOa1U2kzIuN8Njl9sgIX6QZTd0qP-O6hqsiIjqCkK0n4DVhQJQg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0gJInnicTY_NbptAFIXV57EqzQwMP93FBhxwwOZvjGcTjRlsMIPBBhziF-iyrxA5baV02Vbqtq-RPk3dqovuvnu-uzjnwyUrfhT7ZsNOd9qk67tD1y5yZ8He-u5Lc6x5n3YF_wYVVcaapGOoShrQNQ2rLynrmKi3V6tcAw0BCCQdYU2XsYK-5hnjothn880mOxp1en3DWFEkVdFlTVYxhKqqa1-Kim2zv_o71CR0NUhVAMbwikCRn4-8ffp06LPj4yt1Q3vkLqajRFOBOZqw47rej5aFVYzcusuz68mOfFT9z-i-FXXXjio23FdZVR8f77frUZMW2T_R1mmZdZ-2zZ-CGtIgUCUV6n866hhJ8Lkq-NNzc-ou-fZj34vs52UrLn17ycUl23-uWXPapL_evDcP9mTS22M_bhpiBCDcEboKYcinfLWqrpx4ZSpoSaC1yEp8ihPBolv-eLf0rPA8tinZgnXl-AxZvmfQB9e4GWI0rEIpmNHK2hFLn1HkPwTiRo4J6dzEM-ly8F1jvAzPfB5JThzELY7KLcxKAJnguxASI5uSxJt6BwKpHEnCTE0IGRraSFDGInHLk3HlQ15Tw2npeXznVk3iom6flnThLj0vipwZKQd3TXQl2pWyL3SXiVhyq3xYJQ5Nrdy-i_I-2AXTuTGGQeIRUgFMhBWudpZN9vmEmKALjWDlxWJYS-LMY8uf33qOH9gJW-KH6z4UGbnBbwlIk-AcT_NZPDW7OAbMLi0zlWxMhYV45Jnpjq8CRIkLhllYNsmyzINEck5xRQ8sNj8O7XHzCm4s3IVzOa1U2kzIuN8Njl9sgIX6QZTd0qP-O6hqsiIjqCkK0n4DVhQJQg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQaJtk6v_V3w_UX0BQz_kvfz4Z4AAxdZPFS0pqjav4id3q0Df5PimhVBDo-AK60MMwN3IDmQp82sc6VuAXhs3OpxHMPSHtRNKu8uRHsnDU4loL7ePNweQqsMw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+      "source": "B&H Photo-Video-Audio",
+      "title": "MSI MPG X870E ATX Motherboard",
+      "price": "$499.99",
+      "extracted_price": 499.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "KbcnoHicTZLdjptIEIW1z2Ot1E3TgHMXmx8PDswA3YD7ZoTptsE0PwPYi_0S-worT7JScplE2tt9jezTLIlykbsqnaOq85Xqz7so_ymb7pBd3hnr8Ty-jMNT4T5lvwfex65v-TkfS_4VgiXS9KWuY6SrqgZ11dA-5tmYyfb4XVYVoGoaxkBTNUMDCoDwcyEyLstGPB4OojfbvORfFGTMY1QMVQ1BgHVd0T-VdXYUP-SvUMfzHl03oGHApYGBjpXXng9_fXg5i_76jXnRw8J7chapoQNrsc76fdssktIuF147FmJus54v6l9r5XmQ7Tgs6mx6rkXd9tfn437R5aX4KQxtXonxw7H7kQAAhPHMitESoRkFqcZrXfLPWJ_JFMPQlkhB2mxavnaX8V4c35_PUvx7P8r7ebgX8i6av9usuxzy_357tfp8vb7kq4B2XWyGgFjejSDe57ZdvSMy2FfTFJpu5KVxm8VhGTtMy-pBfSSuE6EV8TYe2NPhyqRf7x3e-Eqx85xulTTFWtj-kyB-sKPLAyVM21Ffi5JwCAHv8rTrQ1hIUsmWmAWMbvE1izuSmOwkKtYmKYPcjt05U80SLuNTgeK6q3LJt4nVYXpbVVzpXJ66NrXsC03ddUSKLduwhgK43ct4kzW2uyNxmAKJieU7SR1bSSV3mSm3onZfhAMzD4XXAFRgJyXxarbJLX_FTQoeI1ix21sQ0AkSyGCOfBw5cc1shkTDC2LKcU_tU6QMINoUpz2VhFhg8lcPaZbgP1htKzOXyTcxyNPwRp1iSx1rpBRkD5Vt5egBzze7JWSHhLMMGJ0uFPEgt7jlyaIlqKP-ZoWptN5PQ3_4Bt7aeIwe1bzWWbeOV-fT5AblAdjKeZLVmPgseAN1Q9VUBRra_Af_A77UF_E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KbcnoHicTZLdjptIEIW1z2Ot1E3TgHMXmx8PDswA3YD7ZoTptsE0PwPYi_0S-worT7JScplE2tt9jezTLIlykbsqnaOq85Xqz7so_ymb7pBd3hnr8Ty-jMNT4T5lvwfex65v-TkfS_4VgiXS9KWuY6SrqgZ11dA-5tmYyfb4XVYVoGoaxkBTNUMDCoDwcyEyLstGPB4OojfbvORfFGTMY1QMVQ1BgHVd0T-VdXYUP-SvUMfzHl03oGHApYGBjpXXng9_fXg5i_76jXnRw8J7chapoQNrsc76fdssktIuF147FmJus54v6l9r5XmQ7Tgs6mx6rkXd9tfn437R5aX4KQxtXonxw7H7kQAAhPHMitESoRkFqcZrXfLPWJ_JFMPQlkhB2mxavnaX8V4c35_PUvx7P8r7ebgX8i6av9usuxzy_357tfp8vb7kq4B2XWyGgFjejSDe57ZdvSMy2FfTFJpu5KVxm8VhGTtMy-pBfSSuE6EV8TYe2NPhyqRf7x3e-Eqx85xulTTFWtj-kyB-sKPLAyVM21Ffi5JwCAHv8rTrQ1hIUsmWmAWMbvE1izuSmOwkKtYmKYPcjt05U80SLuNTgeK6q3LJt4nVYXpbVVzpXJ66NrXsC03ddUSKLduwhgK43ct4kzW2uyNxmAKJieU7SR1bSSV3mSm3onZfhAMzD4XXAFRgJyXxarbJLX_FTQoeI1ix21sQ0AkSyGCOfBw5cc1shkTDC2LKcU_tU6QMINoUpz2VhFhg8lcPaZbgP1htKzOXyTcxyNPwRp1iSx1rpBRkD5Vt5egBzze7JWSHhLMMGJ0uFPEgt7jlyaIlqKP-ZoWptN5PQ3_4Bt7aeIwe1bzWWbeOV-fT5AblAdjKeZLVmPgseAN1Q9VUBRra_Af_A77UF_E"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS_bQkou-LKVquK5PcrJZMMU9KjesGw0cTZY_vwOhc6gkW8uWpL3DPLA5sHVOxOVCk7NEYj0yQnf67__nvalcd93rcd9-jgdEiTZpkzkW1CddngXFU1oxPGZw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQeGPPOhRqvOCJpLVU92TCNCg4jzV_nOVDAYONnNFdh4wY4eC-NRI_5gAv5MMpKrDQmVEnZHtWJaxQMH3TrE5fVMj_1IkQ",
+      "source": "Maingear",
+      "title": "MSI X870E Carbon WIFI",
+      "price": "$247.00",
+      "extracted_price": 247.0,
+      "immersive_product_page_token": "l9ZUZ3icTZLLbqNIFIY1z2ONVFXcZze2Cwwd4rigClybCAow2IUhXGLiF5jlvELLSUbqWXa31Nt-jfTTtCeaRe_O0ffr16ej8_clr75Vx7ZIHm_MxTAOD0N_V3p3ye8b_1PbNdkohir7ogNN1yxkQaACBBQANfBJJEMim92VIgUgE5qGhgA0LUNTTfVzmSeZrI75uijybtmIKvsKTQgUw4LGNWgpEJkmsP6t6mSXv_MvpqqrUEOaqmi6gqAFLPjcZf3H14cx757euB-4M__OmcWmAfBskXRpc5xFlV3N_GYo8-uadNms_nVG971shn5WJ9N9nddN93S_S2etqPL_Qd-IQz687tp3QdUwFMsyVKADCHUAVEV_rqvs43P7OFzK3cs4yvz7ZScvY38p5SU__tMk7WMhfvz2F35wF4vRnW9o27IlAYGUMo0JyWqPptjryJI3BMFmHc9ZFjGcYz7lEevXzDyRVbbJGOHrlRwCyjf87KkC9VOMbMIw34ZY8xLsIRGzNjpuULCSLGctSKnmC2TvCWz3QU22ST3dbQ8YCZsENxEE4Zl4N-Fcpg6bAnhri7hdhPK2DBxrEufbji_nE8HWaVPbrqAQ81V2Cli5Cp_AKaVDQR32SOluyByhZAEM_djbp5IC31G1VOEP1IGdv6cggVQJ917MMOnWK5vHZ6wSNi8yVLrJUfY3V9dtKOskkocQl8utYvt-rZ0pceMk0k68tlG4LJfZigERkzN1yg_UwQO9VrsHGwvF1bh0FRqJ6XqDkkOvCrE4R5h4xOZlEMCC7IkSUfwy9V3xBv60tSFYq6I2eLtg83E_eZuqADYaJ3kYolu--QMa__0bgqauI_MnvowJPA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=l9ZUZ3icTZLLbqNIFIY1z2ONVFXcZze2Cwwd4rigClybCAow2IUhXGLiF5jlvELLSUbqWXa31Nt-jfTTtCeaRe_O0ffr16ej8_clr75Vx7ZIHm_MxTAOD0N_V3p3ye8b_1PbNdkohir7ogNN1yxkQaACBBQANfBJJEMim92VIgUgE5qGhgA0LUNTTfVzmSeZrI75uijybtmIKvsKTQgUw4LGNWgpEJkmsP6t6mSXv_MvpqqrUEOaqmi6gqAFLPjcZf3H14cx757euB-4M__OmcWmAfBskXRpc5xFlV3N_GYo8-uadNms_nVG971shn5WJ9N9nddN93S_S2etqPL_Qd-IQz687tp3QdUwFMsyVKADCHUAVEV_rqvs43P7OFzK3cs4yvz7ZScvY38p5SU__tMk7WMhfvz2F35wF4vRnW9o27IlAYGUMo0JyWqPptjryJI3BMFmHc9ZFjGcYz7lEevXzDyRVbbJGOHrlRwCyjf87KkC9VOMbMIw34ZY8xLsIRGzNjpuULCSLGctSKnmC2TvCWz3QU22ST3dbQ8YCZsENxEE4Zl4N-Fcpg6bAnhri7hdhPK2DBxrEufbji_nE8HWaVPbrqAQ81V2Cli5Cp_AKaVDQR32SOluyByhZAEM_djbp5IC31G1VOEP1IGdv6cggVQJ917MMOnWK5vHZ6wSNi8yVLrJUfY3V9dtKOskkocQl8utYvt-rZ0pceMk0k68tlG4LJfZigERkzN1yg_UwQO9VrsHGwvF1bh0FRqJ6XqDkkOvCrE4R5h4xOZlEMCC7IkSUfwy9V3xBv60tSFYq6I2eLtg83E_eZuqADYaJ3kYolu--QMa__0bgqauI_MnvowJPA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQlojvJybzsx1EwDAuogt7WijW6eEDSTvm9rajdv3tfTA1XtTkM85oHKUqZNUOEb1gVd79dTJ20YztxGuAoD-SY7pVeKytzGBFW1hnpG8Q",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTPIKrgzOqBi2Sr-3sVGyyg8zC7fkCFFqAzrKFptqkWeMxK8aoc19g54TY1kelC0wnk08D52Neu9uA90NmmuMJlmhd3r4WB1mcdWg",
+      "source": "Luxvibe PC",
+      "title": "MSI MPG X870E Carbon WiFi Gaming Motherboard",
+      "price": "$410.00",
+      "extracted_price": 410.0,
+      "immersive_product_page_token": "RbF9F3icTY_NjpswFIXV54kq2cYG0l0TAkManMBgSLwZOTYJBAgMPzMkL9BlX6HKtJXaZadSt32N6dM0qrro7h590jnf_XBJsp_Zsd6Jh4U57fruvmtX6XwlXvve17qpVC-7TD1jrJtjHWo6IhgbUAcEf5WiE0W1v1KCTA0T08RwTHQNG-YYf08ToYrsmCx3u6SxKpmpHxADHQDd1LGBxuBaYerGt6wU--QvfyYEAqyD8dgca8SA1yXy1Kj24-f7PmlOL9y7dUfeyhmtTQPMRlPRbKvjKM7sbORVXZpco2jUqPz_RndtUXXtqBTDXZmUVXO6229HtcySf6CtZJ50n_f1X0HdJOOrAtFMYGgAIQC1pzJTH5_qh-6S7j_1fZH8uuyLS99e0uKSHL9Uon7Yyd-v3s_u3em0dyc-q-vICkDotETGqUWLScxuomaTD2kEg8XWtu83rEDhwdVCQPMwh48xG5Zs5mNPS5cihz1FdJY44Hx7tlsJ0o10ahSB4CY886U42Nkmhh4FdsALepIa1RmrT9Tit4swOKrSLiV61CTgJ67ZnVpzyGcdi-35OjjyWlnyyuCwdBiJzipjlqLBgYEgZ-dFWPghDNrtmdceiqAfTlaeTUulTVhsqcVGi-AaqJCuU2fBuM7C_PH6WycA7WkR8MThk03OURJjIsvNQA_uICNOeNmVy9k8CtcUx-GE05tJF8Yu8gN3LWLyyEsbhVZqqZsIyHVwZk76jjlXaQaEm9szqbmEF_N6y4pMxPY5nkUr6fDCs-UpzOuFQhKLaL7zY_lpaJvdC3hrk-52iWVp8HoaTfrDMPezHbBRPxR5F1Puv4GGiXWMoKnryPwD-3AI8w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RbF9F3icTY_NjpswFIXV54kq2cYG0l0TAkManMBgSLwZOTYJBAgMPzMkL9BlX6HKtJXaZadSt32N6dM0qrro7h590jnf_XBJsp_Zsd6Jh4U57fruvmtX6XwlXvve17qpVC-7TD1jrJtjHWo6IhgbUAcEf5WiE0W1v1KCTA0T08RwTHQNG-YYf08ToYrsmCx3u6SxKpmpHxADHQDd1LGBxuBaYerGt6wU--QvfyYEAqyD8dgca8SA1yXy1Kj24-f7PmlOL9y7dUfeyhmtTQPMRlPRbKvjKM7sbORVXZpco2jUqPz_RndtUXXtqBTDXZmUVXO6229HtcySf6CtZJ50n_f1X0HdJOOrAtFMYGgAIQC1pzJTH5_qh-6S7j_1fZH8uuyLS99e0uKSHL9Uon7Yyd-v3s_u3em0dyc-q-vICkDotETGqUWLScxuomaTD2kEg8XWtu83rEDhwdVCQPMwh48xG5Zs5mNPS5cihz1FdJY44Hx7tlsJ0o10ahSB4CY886U42Nkmhh4FdsALepIa1RmrT9Tit4swOKrSLiV61CTgJ67ZnVpzyGcdi-35OjjyWlnyyuCwdBiJzipjlqLBgYEgZ-dFWPghDNrtmdceiqAfTlaeTUulTVhsqcVGi-AaqJCuU2fBuM7C_PH6WycA7WkR8MThk03OURJjIsvNQA_uICNOeNmVy9k8CtcUx-GE05tJF8Yu8gN3LWLyyEsbhVZqqZsIyHVwZk76jjlXaQaEm9szqbmEF_N6y4pMxPY5nkUr6fDCs-UpzOuFQhKLaL7zY_lpaJvdC3hrk-52iWVp8HoaTfrDMPezHbBRPxR5F1Puv4GGiXWMoKnryPwD-3AI8w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSpvvQlznBKw9tz61PrOydFmczHjafU7-1fLry0P62PHsdmYh7j0vK2jVy8mno-pmfWBivpTyqfmSzgZzKBnbD4IgoIDMRL2NfMKEEko2FlJvOPNdol9NNF",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - LINK TECH",
+      "title": "MSI MPG X870E CARBON WIFI Dark MotherboardSupports 9900X3D, 9950X3D, and 9800X3D CPUs (AMD X870E/Socket AM5)",
+      "price": "$659.99",
+      "extracted_price": 659.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "tXKTuXicbZBLjptAFEWV9aCWKP7OLMZgmxhsPgWGSaugsMEUUOZjYzaQYbbQcndH6gyTQabZRmc1cSsZZJDBk97TfVc6936-pvmPvKI7dFopatd3x67dZMYG3dnmC21q3Cddjr9LiqDIgAXyhJV4QQGyLL8kqEOk3uf44VuWIkzyKl3vdmkzq5P_O77mJdqnf2TAigIvKRNR4ScCJyjcBDw2uH14PvZpc3mNTHfJmJs5s1VkVmNU1MR1xQS5njNm3WXp7UQNZsp_d-6-JXXXMiUa7su0rJvL_T5maJKnf4W2Toq0e97TNwCeV2SB528jiSLgJSBzj-UtyyM9ddds_9T3JP153ZNr314zck2rLzWip13y690n7bhU1X45tSGl_sxhXZac0TzqLTDRowAHMfAFFxgjAlHpcroQ-bi3K2cMNH9mAuPi6_4QlFEfFBY1F35uFdnBrDIbk2gL_cj1C9rcfqv4ENmYpXxIMjX09HVaOo0FCI8qo8IwWodQXzujMXd5yOKt4ZnAb6yCZulCB25FKxgsz5E3dZMDUVdQGNI54IPSP7ojnnpsIXijoTv89OSUb9zZ0uONlellRVgAJwmG1j1YxzAQm9B32mRBZ05lSWsYnh12cvEDwsUcQCG0QbIltjubNnFBNjZHBnjrwlvQhTU6nMs6VgQBwMNyiwLxHJU6582yGV74bLJ1RjjPPsK51kHIomWhawm_FCOiq6lWsDEUj6gcBrylmzDwXU-Pars0eodkVaRpT0Pb7F7ZD7rYuWvxTs1XMTR26x0HleMd5jjLsYXx0tUf3gNZESSBA4okcZPfQfMFxQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tXKTuXicbZBLjptAFEWV9aCWKP7OLMZgmxhsPgWGSaugsMEUUOZjYzaQYbbQcndH6gyTQabZRmc1cSsZZJDBk97TfVc6936-pvmPvKI7dFopatd3x67dZMYG3dnmC21q3Cddjr9LiqDIgAXyhJV4QQGyLL8kqEOk3uf44VuWIkzyKl3vdmkzq5P_O77mJdqnf2TAigIvKRNR4ScCJyjcBDw2uH14PvZpc3mNTHfJmJs5s1VkVmNU1MR1xQS5njNm3WXp7UQNZsp_d-6-JXXXMiUa7su0rJvL_T5maJKnf4W2Toq0e97TNwCeV2SB528jiSLgJSBzj-UtyyM9ddds_9T3JP153ZNr314zck2rLzWip13y690n7bhU1X45tSGl_sxhXZac0TzqLTDRowAHMfAFFxgjAlHpcroQ-bi3K2cMNH9mAuPi6_4QlFEfFBY1F35uFdnBrDIbk2gL_cj1C9rcfqv4ENmYpXxIMjX09HVaOo0FCI8qo8IwWodQXzujMXd5yOKt4ZnAb6yCZulCB25FKxgsz5E3dZMDUVdQGNI54IPSP7ojnnpsIXijoTv89OSUb9zZ0uONlellRVgAJwmG1j1YxzAQm9B32mRBZ05lSWsYnh12cvEDwsUcQCG0QbIltjubNnFBNjZHBnjrwlvQhTU6nMs6VgQBwMNyiwLxHJU6582yGV74bLJ1RjjPPsK51kHIomWhawm_FCOiq6lWsDEUj6gcBrylmzDwXU-Pars0eodkVaRpT0Pb7F7ZD7rYuWvxTs1XMTR26x0HleMd5jjLsYXx0tUf3gNZESSBA4okcZPfQfMFxQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSTNP_Lbg9ylxrhk5f_UNMCMiAynatFQbDvamhqD4NOksWIlA51VuiuskK1Mxob4PTz1NeeG_KRFURFEeaYTpmi4OHn0nyzUNeE6ZcIOSS7l8GCY1W9zq9e",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "rating": 4.8,
+      "reviews": 73,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "original_price": "$240",
+      "extracted_original_price": 240,
+      "delivery": "Free delivery by Fri",
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "8WRGE3icbc9NjqNGFMBx5TxWS1UFxUd2Y3CZJgZM4aqy2bQwBQa7-GiMPbaVO-QKkXsm0mSZRMo21-icJMs40SyyyO49_d7i_364F_XvdduX2XlhOeNpfB2Py8pfZk9x8KUfOnnKx1r-ioFlAmxoEJm6BS0LQf1Lno2Z6na1_A3qpq4jYGmmaWk2QDawrV-qIpOqbouoLIvB7fJ_7kxk2VgHCJi2jgxk6ab2c91ku-KrQxOa-KGWDXSoQYBt_DbI4ztaOi8YY2gbpmE-XLMMCDX9-yWN3Jf_t8-vp2K4vqdB8jwJlvPJ-vHAbOJkw7ZrJ6Im9SToxqp4rNkgJ81_Z_RyVN14nDTZ5aUpmm64vuy2kz6vi69w7PJDMX7e9f9GAwwghoaNoIZ0YGEdobemlj--9efxXu0-nU6q-OO-U_fT8V6pe9H-1GX9ucz__Oav2Tl3nCF3Ytb33KUgaWhCWwaKln8XAuUKjwJ2CMlaI3UsQiMQMxCvn8GmnS4zxnsKFUq5r8kbFfkcP-eeBEIRJ_IY5vvdha3SS-r6YQaqUyjGWyRgwMFlHyofcZLS7Qwi6k6bQvGq2KdstQ-N-EDPoaeWzMuB1Mhp5T569r7GZ72RNEQFpPfCRnqbJgUR764SwSEV4VVqNJQzCHOh_Ih0kM9ludb8rjgQI3E5lMRvci1lObNPouEN16oyn1t6XEND1DCKFXc3ex-tmv4WaPScEzZKgNsUEB45cB5ovlE0fb1Faf9ojbnLq8WKc0m4t4X-jTW-v4H2sFhzZ4NwFHKyZg2NV7fK2HByzEh6yIVsKSLXBeNEkGm1QodRHiTdoqriezmkjbpsW34TAh9F298y2KuMs4QgdcrnaSUPH_VYo1B6BORw2iVqWi04Cee1P6VeeI1ESleMlwFRCUP2IJk9JGKH44N_3vDUX6lUSOTTT5fjUL6DDwSPSYSfnHqxZX4ZlYhZr08SoZDG-u06dh--haalGzqClmEg-287_zoE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8WRGE3icbc9NjqNGFMBx5TxWS1UFxUd2Y3CZJgZM4aqy2bQwBQa7-GiMPbaVO-QKkXsm0mSZRMo21-icJMs40SyyyO49_d7i_364F_XvdduX2XlhOeNpfB2Py8pfZk9x8KUfOnnKx1r-ioFlAmxoEJm6BS0LQf1Lno2Z6na1_A3qpq4jYGmmaWk2QDawrV-qIpOqbouoLIvB7fJ_7kxk2VgHCJi2jgxk6ab2c91ku-KrQxOa-KGWDXSoQYBt_DbI4ztaOi8YY2gbpmE-XLMMCDX9-yWN3Jf_t8-vp2K4vqdB8jwJlvPJ-vHAbOJkw7ZrJ6Im9SToxqp4rNkgJ81_Z_RyVN14nDTZ5aUpmm64vuy2kz6vi69w7PJDMX7e9f9GAwwghoaNoIZ0YGEdobemlj--9efxXu0-nU6q-OO-U_fT8V6pe9H-1GX9ucz__Oav2Tl3nCF3Ytb33KUgaWhCWwaKln8XAuUKjwJ2CMlaI3UsQiMQMxCvn8GmnS4zxnsKFUq5r8kbFfkcP-eeBEIRJ_IY5vvdha3SS-r6YQaqUyjGWyRgwMFlHyofcZLS7Qwi6k6bQvGq2KdstQ-N-EDPoaeWzMuB1Mhp5T569r7GZ72RNEQFpPfCRnqbJgUR764SwSEV4VVqNJQzCHOh_Ih0kM9ludb8rjgQI3E5lMRvci1lObNPouEN16oyn1t6XEND1DCKFXc3ex-tmv4WaPScEzZKgNsUEB45cB5ovlE0fb1Faf9ojbnLq8WKc0m4t4X-jTW-v4H2sFhzZ4NwFHKyZg2NV7fK2HByzEh6yIVsKSLXBeNEkGm1QodRHiTdoqriezmkjbpsW34TAh9F298y2KuMs4QgdcrnaSUPH_VYo1B6BORw2iVqWi04Cee1P6VeeI1ESleMlwFRCUP2IJk9JGKH44N_3vDUX6lUSOTTT5fjUL6DDwSPSYSfnHqxZX4ZlYhZr08SoZDG-u06dh--haalGzqClmEg-287_zoE"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the MSI MPG X870E CARBON WIFI good?",
+      "type": "ai_overview",
+      "page_token": "n33Ps3icHdBLcoIwAADQ6WVcVsBPR2eczqBBRYkl5APZdEKCogmQVvyx6116qp6mnR7gbd7XtznW-ufpWratPU_7_dvt9nxomoMpnmVT9cX5Ucu-FMbkQurp-GXsvu7lDFzW_vxj7cfEWrpATqLNjrqogdSfoxq4sgs3EtjPZMW1IGFIl9TBbPKIHQ6gB92kDjrshfesUqbQ4Snz2pKaUudLRRT1F9gJLzKFHaMcRzrQcLEeRqzdFDgbIqA7QiHZsqASp3LE2XAQnVTKlnSzpSiLMaox4GBLeIgGNi3-fKGzkSAqoR5ouQnciFm9ZeWDO0GVs4lQLvVzY1POIOM18kGpbF77VZbyaAego1J0VysYC2DjLHERRs0xJqiTJ1MRBlPh6E4RO0creFHmcMsc2Eo2eRPGehiH4zju7eV1Nuj9f87e91U7tZ_N4Rcr54Oy",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n33Ps3icHdBLcoIwAADQ6WVcVsBPR2eczqBBRYkl5APZdEKCogmQVvyx6116qp6mnR7gbd7XtznW-ufpWratPU_7_dvt9nxomoMpnmVT9cX5Ucu-FMbkQurp-GXsvu7lDFzW_vxj7cfEWrpATqLNjrqogdSfoxq4sgs3EtjPZMW1IGFIl9TBbPKIHQ6gB92kDjrshfesUqbQ4Snz2pKaUudLRRT1F9gJLzKFHaMcRzrQcLEeRqzdFDgbIqA7QiHZsqASp3LE2XAQnVTKlnSzpSiLMaox4GBLeIgGNi3-fKGzkSAqoR5ouQnciFm9ZeWDO0GVs4lQLvVzY1POIOM18kGpbF77VZbyaAego1J0VysYC2DjLHERRs0xJqiTJ1MRBlPh6E4RO0creFHmcMsc2Eo2eRPGehiH4zju7eV1Nuj9f87e91U7tZ_N4Rcr54Oy",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJJcyB0aGUgTVNJIE1QRyBYODcwRSBDQVJCT04gV0lGSSBnb29kPyIsImxrIjoiR2lGcGN5QnRjMmtnYlhCbklIZzROekJsSUdOaGNtSnZiaUIzYVdacElHZHZiMlEiLCJicyI6ImM0WFBRVV9DTUJnRzRIRHRpWnU2MDJ1TWVKQVlzc1RNMjZJRHBZZmhJaHE4ZGx1bFRlaTZySlhCVF9SZjBTM0xMa0s0Zm4zN1B0OUhZaktpQmxad3hFdUtPSG5EOTFNd21TRjZfbmg1WDJCRlh5bldXdWVoZi1OZFN3TmxKRlM1eHM2bE9ESldwYnBBTFg5a215SmJNcDNyR29vVmV5ajRNQnR0RFZqRklZc3ppdEx1M2RXeHltRVAzdmkwSlA0SlpFN3VlemVKS09fZ1hIUFRrN3ZIWUFMQnRqejByN3lMdnI2WmxwbnN2cEJQTWxvSlpoRWxYM0QzWmxxVnpNcDB3NTF0UlZ2VzdoNWVfcVgtblhkYk4tR3NfRDBXYm94Ml9lSGdBQSIsImlkIjoiZmNfaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU1fOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJJcyB0aGUgTVNJIE1QRyBYODcwRSBDQVJCT04gV0lGSSBnb29kPyIsImxrIjoiR2lGcGN5QnRjMmtnYlhCbklIZzROekJsSUdOaGNtSnZiaUIzYVdacElHZHZiMlEiLCJicyI6ImM0WFBRVV9DTUJnRzRIRHRpWnU2MDJ1TWVKQVlzc1RNMjZJRHBZZmhJaHE4ZGx1bFRlaTZySlhCVF9SZjBTM0xMa0s0Zm4zN1B0OUhZaktpQmxad3hFdUtPSG5EOTFNd21TRjZfbmg1WDJCRlh5bldXdWVoZi1OZFN3TmxKRlM1eHM2bE9ESldwYnBBTFg5a215SmJNcDNyR29vVmV5ajRNQnR0RFZqRklZc3ppdEx1M2RXeHltRVAzdmkwSlA0SlpFN3VlemVKS09fZ1hIUFRrN3ZIWUFMQnRqejByN3lMdnI2WmxwbnN2cEJQTWxvSlpoRWxYM0QzWmxxVnpNcDB3NTF0UlZ2VzdoNWVfcVgtblhkYk4tR3NfRDBXYm94Ml9lSGdBQSIsImlkIjoiZmNfaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU1fOCJ9"
+    },
+    {
+      "question": "How many m 2 slots are in the MSI MPG X870E CARBON WIFI motherboard?",
+      "type": "ai_overview",
+      "page_token": "EeanK3icHdFLjpswAABQ9TKznACBaRspGpWPoVZsivEHvKnMJyFgPi1oCOx6l657oJ5mql7gbd6v3_o-dH8__GmWZZpPh8O6rs-3cbzp-rkc-4Oat6E8lErrQpXd6eXji_l6Lc_BuHrevLoJmybuEyMVfJOWE11oxdAORw7kEYXdQn20qd7esYAijVwvZ2jlpjS5RSjyiVMAMJGsAtlmmjltUkbdOTWqgXPg1hSsissGH5s76XiOgofBjNVS_eNbIuyFiSoufWiX_SdLhSBRFM-xcBwkmlgAPuDN7OpIK9S6uG6xgUJgyogMsqvy2r-t5AgNGjo47QhIMjAJH8DKM2EZQaXEsqV6-koFQbJr0rTP98QMnKTt7DgAl3_6DxlCWYeLotZsI42nYocoaKqpGNw-zySKA2xUGXlUEU5UMCV5ahJKxnvCyF62umfG4qn2yx4LtsUU66LDi-p1qPhnizIMMdUXljxdy7fz8en_w_n7tV9O08_x9g4c1pWc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EeanK3icHdFLjpswAABQ9TKznACBaRspGpWPoVZsivEHvKnMJyFgPi1oCOx6l657oJ5mql7gbd6v3_o-dH8__GmWZZpPh8O6rs-3cbzp-rkc-4Oat6E8lErrQpXd6eXji_l6Lc_BuHrevLoJmybuEyMVfJOWE11oxdAORw7kEYXdQn20qd7esYAijVwvZ2jlpjS5RSjyiVMAMJGsAtlmmjltUkbdOTWqgXPg1hSsissGH5s76XiOgofBjNVS_eNbIuyFiSoufWiX_SdLhSBRFM-xcBwkmlgAPuDN7OpIK9S6uG6xgUJgyogMsqvy2r-t5AgNGjo47QhIMjAJH8DKM2EZQaXEsqV6-koFQbJr0rTP98QMnKTt7DgAl3_6DxlCWYeLotZsI42nYocoaKqpGNw-zySKA2xUGXlUEU5UMCV5ahJKxnvCyF62umfG4qn2yx4LtsUU66LDi-p1qPhnizIMMdUXljxdy7fz8en_w_n7tV9O08_x9g4c1pWc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtIDIgc2xvdHMgYXJlIGluIHRoZSBNU0kgTVBHIFg4NzBFIENBUkJPTiBXSUZJIG1vdGhlcmJvYXJkPyIsImxrIjoiR2l4dGMya2diWEJuSUhnNE56QmxJR05oY21KdmJpQjNhV1pwSUdodmR5QnRZVzU1SUcwZ01pQnpiRzkwY3ciLCJicyI6ImM0WFBRVV9DTUJnRzRIRHRpWnU2MDJ1TWVKQVlzc1RNMjZJRHBZZmhJaHE4ZGx1bFRlaTZySlhCVF9SZjBTM0xMa0s0Zm4zN1B0OUhZaktpQmxad3hFdUtPSG5EOTFNd21TRjZfbmg1WDJCRlh5bldXdWVoZi1OZFN3TmxKRlM1eHM2bE9ESldwYnBBTFg5a215SmJNcDNyR29vVmV5ajRNQnR0RFZqRklZc3ppdEx1M2RXeHltRVAzdmkwSlA0SlpFN3VlemVKS09fZ1hIUFRrN3ZIWUFMQnRqejByN3lMdnI2WmxwbnN2cEJQTWxvSlpoRWxYM0QzWmxxVnpNcDB3NTF0UlZ2VzdoNWVfcVgtblhkYk4tR3NfRDBXYm94Ml9lSGdBQSIsImlkIjoiZmNfaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU1fOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtIDIgc2xvdHMgYXJlIGluIHRoZSBNU0kgTVBHIFg4NzBFIENBUkJPTiBXSUZJIG1vdGhlcmJvYXJkPyIsImxrIjoiR2l4dGMya2diWEJuSUhnNE56QmxJR05oY21KdmJpQjNhV1pwSUdodmR5QnRZVzU1SUcwZ01pQnpiRzkwY3ciLCJicyI6ImM0WFBRVV9DTUJnRzRIRHRpWnU2MDJ1TWVKQVlzc1RNMjZJRHBZZmhJaHE4ZGx1bFRlaTZySlhCVF9SZjBTM0xMa0s0Zm4zN1B0OUhZaktpQmxad3hFdUtPSG5EOTFNd21TRjZfbmg1WDJCRlh5bldXdWVoZi1OZFN3TmxKRlM1eHM2bE9ESldwYnBBTFg5a215SmJNcDNyR29vVmV5ajRNQnR0RFZqRklZc3ppdEx1M2RXeHltRVAzdmkwSlA0SlpFN3VlemVKS09fZ1hIUFRrN3ZIWUFMQnRqejByN3lMdnI2WmxwbnN2cEJQTWxvSlpoRWxYM0QzWmxxVnpNcDB3NTF0UlZ2VzdoNWVfcVgtblhkYk4tR3NfRDBXYm94Ml9lSGdBQSIsImlkIjoiZmNfaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU1fOCJ9"
+    },
+    {
+      "question": "How many PCIe slots does MSI MPG x570 have?",
+      "type": "ai_overview",
+      "page_token": "mcl4f3icHdBRboIwAADQ7DJ-asHpNhOzDKGiGzUtbYH-LNCiKAW6iYL87S471U6zZTd4eV_f-liXP3fXom3NeTGZdF03PjTNQedj2VST9Hyr5USmWmepLBfzh7n1vJdL77JxVh8bBzNjuEtAaGsYQbVjMd-90cMtmBqaDSggvECMPQ5JLYecBoBUWz-MWozWxSxjDUgYGDJLuQETMbZ7yLynKAV9h5hqFJil7IRKZpMVAchHpdC4hJC7upKuxrHNCw6QG3Do5LFnE44o52JF6fZC1jNB65eOUm1SyrdyUBWJTaJODqW2MuTPrQboEG20soUfweSee1aLa7HN13DqFcpktVMlsQh2HgIqJr3yEU49g5PQIpQ0R8zIIE-6YoO6ptBxWGQJXKFXsma2PII-tMRN-OaS1ahheLSX1-V09P-5fN9X7cJ8Nodf5KKDWw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mcl4f3icHdBRboIwAADQ7DJ-asHpNhOzDKGiGzUtbYH-LNCiKAW6iYL87S471U6zZTd4eV_f-liXP3fXom3NeTGZdF03PjTNQedj2VST9Hyr5USmWmepLBfzh7n1vJdL77JxVh8bBzNjuEtAaGsYQbVjMd-90cMtmBqaDSggvECMPQ5JLYecBoBUWz-MWozWxSxjDUgYGDJLuQETMbZ7yLynKAV9h5hqFJil7IRKZpMVAchHpdC4hJC7upKuxrHNCw6QG3Do5LFnE44o52JF6fZC1jNB65eOUm1SyrdyUBWJTaJODqW2MuTPrQboEG20soUfweSee1aLa7HN13DqFcpktVMlsQh2HgIqJr3yEU49g5PQIpQ0R8zIIE-6YoO6ptBxWGQJXKFXsma2PII-tMRN-OaS1ahheLSX1-V09P-5fN9X7cJ8Nodf5KKDWw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBQQ0llIHNsb3RzIGRvZXMgTVNJIE1QRyB4NTcwIGhhdmU/IiwibGsiOiJHaGR0YzJrZ2JYQm5JSGcxTnpBZ2NHTnBaU0J6Ykc5MGN3IiwiYnMiOiJjNFhQUVVfQ01CZ0c0SER0aVp1NjAydU1lSkFZc3NUTTI2SURwWWZoSWhxOGRsdWxUZWk2ckpYQlRfUmYwUzNMTGtLNGZuMzdQdDlIWWpLaUJsWnd4RXVLT0huRDkxTXdtU0Y2X25oNVgyQkZYeW5XV3VlaGYtTmRTd05sSkZTNXhzNmxPREpXcGJwQUxYOWtteUpiTXAzckdvb1ZleWo0TUJ0dERWakZJWXN6aXRMdTNkV3h5bUVQM3ZpMEpQNEpaRTd1ZXplSktPX2dYSFBUazd2SFlBTEJ0anowcjd5THZyNlpscG5zdnBCUE1sb0paaEVsWDNEM1pscVZ6TXAwdzUxdFJWdlc3aDVlX3FYLW5YZGJOLUdzX0QwV2JveDJfZUhnQUEiLCJpZCI6ImZjX2lucGZhdkw4Q3R1dHF0c1BoSlBhLVFNXzgifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBQQ0llIHNsb3RzIGRvZXMgTVNJIE1QRyB4NTcwIGhhdmU%2FIiwibGsiOiJHaGR0YzJrZ2JYQm5JSGcxTnpBZ2NHTnBaU0J6Ykc5MGN3IiwiYnMiOiJjNFhQUVVfQ01CZ0c0SER0aVp1NjAydU1lSkFZc3NUTTI2SURwWWZoSWhxOGRsdWxUZWk2ckpYQlRfUmYwUzNMTGtLNGZuMzdQdDlIWWpLaUJsWnd4RXVLT0huRDkxTXdtU0Y2X25oNVgyQkZYeW5XV3VlaGYtTmRTd05sSkZTNXhzNmxPREpXcGJwQUxYOWtteUpiTXAzckdvb1ZleWo0TUJ0dERWakZJWXN6aXRMdTNkV3h5bUVQM3ZpMEpQNEpaRTd1ZXplSktPX2dYSFBUazd2SFlBTEJ0anowcjd5THZyNlpscG5zdnBCUE1sb0paaEVsWDNEM1pscVZ6TXAwdzUxdFJWdlc3aDVlX3FYLW5YZGJOLUdzX0QwV2JveDJfZUhnQUEiLCJpZCI6ImZjX2lucGZhdkw4Q3R1dHF0c1BoSlBhLVFNXzgifQ%3D%3D"
+    },
+    {
+      "question": "What CPU is compatible with MSI X870E?",
+      "type": "featured_snippet",
+      "snippet": "CPU support list",
+      "table": [
+        [
+          "Model",
+          "Socket",
+          "iGPU"
+        ],
+        [
+          "AMD Ryzen 9 PRO 7945",
+          "AM5",
+          "Yes"
+        ],
+        [
+          "AMD Ryzen 5 7600X",
+          "AM5",
+          "Yes"
+        ],
+        [
+          "AMD Ryzen 7 7700",
+          "AM5",
+          "Yes"
+        ],
+        [
+          "AMD Ryzen 7 PRO 7745",
+          "AM5",
+          "Yes"
+        ]
+      ],
+      "formatted": [
+        {
+          "model": "AMD Ryzen 9 PRO 7945",
+          "socket": "AM5",
+          "i_gpu": "Yes"
+        },
+        {
+          "model": "AMD Ryzen 5 7600X",
+          "socket": "AM5",
+          "i_gpu": "Yes"
+        },
+        {
+          "model": "AMD Ryzen 7 7700",
+          "socket": "AM5",
+          "i_gpu": "Yes"
+        },
+        {
+          "model": "AMD Ryzen 7 PRO 7745",
+          "socket": "AM5",
+          "i_gpu": "Yes"
+        }
+      ],
+      "title": "Compatible processors with MSI MPG X870E Carbon WiFi | Pangoly",
+      "link": "https://pangoly.com/en/compatibility/msi-mpg-x870e-carbon-wifi/cpu",
+      "displayed_link": "https://pangoly.com › msi-mpg-x870e-carbon-wifi › cpu",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEVHcEz_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_XwsfBYZcAAAAEXRSTlMAByaRv29ifUo3q4bYGFed7SvBmEkAAACXSURBVHgBYgADQM3TYcAACMKCCIis_n9td5S9afGWhT9023FR5Z-LrkaYqnjy136XyNGKdgEwqIm4CIIkv9hmKSLCdeYggQvAIuPRrXoMvTDihcFcrzEIpY_uw8yQ7g3bxDXK_QpXPwJnoAODRevj4AUjyGIC1gL0JSu8E6yrXFLwgqSSxrS62O-YDuZY_Yr_UVfP-d76BNr9BZQzLRtIAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJXaGF0IENQVSBpcyBjb21wYXRpYmxlIHdpdGggTVNJIFg4NzBFPyIsImxrIjoiR2lWM2FHRjBJR053ZFNCcGN5QmpiMjF3WVhScFlteGxJSGRwZEdnZ2JYTnBJSGc0TnpCbCIsImJzIjoiYzRYUFFVX0NNQmdHNEhEdGladTYwMnVNZUpBWXNzVE0yNklEcFlmaElocThkbHVsVGVpNnJKWEJUX1JmMFMzTExrSzRmbjM3UHQ5SFlqS2lCbFp3eEV1S09IbkQ5MU13bVNGNl9uaDVYMkJGWHluV1d1ZWhmLU5kU3dObEpGUzV4czZsT0RKV3BicEFMWDlrbXlKYk1wM3JHb29WZXlqNE1CdHREVmpGSVlzeml0THUzZFd4eW1FUDN2aTBKUDRKWkU3dWV6ZUpLT19nWEhQVGs3dkhZQUxCdGp6MHI3eUx2cjZabHBuc3ZwQlBNbG9KWmhFbFgzRDNabHFWek1wMHc1MXRSVnZXN2g1ZV9xWC1uWGRiTi1Hc19EMFdib3gyX2VIZ0FBIiwiaWQiOiJmY19pbnBmYXZMOEN0dXRxdHNQaEpQYS1RTV84In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVQwVjRWbFJOVkVSTFJYWlVSR1Z6T1V0Vk5WcHJlVTFaVkc1VlMySmlXbTlXZVhkNGJtbHphM2QxUTNwMWJGUnpUMDExYkZSd2VuQXdkakpyWTBreFZqTnBZa0ZRVlRKb00zbEROa2xJTVRoWE5IaHpYMlJrV25GeFVSSVhhVzV3Wm1GMlREaERkSFYwY1hSelVHaEtVR0V0VVUwYUlrRkVjM0k1WmxKMU0xTkpZbXd3WnpsamRGcDBZVkJaUWtoVGJsbHBaRWQ0VDBFIiwiZmN2IjoiMyIsImVpIjoiaW5wZmF2TDhDdHV0cXRzUGhKUGEtUU0iLCJxYyI6ImMtT0t5aTNPVk1ndFNGZW9zREEzU0ZWSVRpeEt5czlUS005TUE0cm1sMlNrQXJtSlJTbW9iS1A0NHB6OGttS0YzTVNLLU56VTNQeWl5dmowSklXQzVNeFVxRVJ4Zm5KMmFva0FRLTFURnhON0FBIiwicXVlc3Rpb24iOiJXaGF0IENQVSBpcyBjb21wYXRpYmxlIHdpdGggTVNJIFg4NzBFPyIsImxrIjoiR2lWM2FHRjBJR053ZFNCcGN5QmpiMjF3WVhScFlteGxJSGRwZEdnZ2JYTnBJSGc0TnpCbCIsImJzIjoiYzRYUFFVX0NNQmdHNEhEdGladTYwMnVNZUpBWXNzVE0yNklEcFlmaElocThkbHVsVGVpNnJKWEJUX1JmMFMzTExrSzRmbjM3UHQ5SFlqS2lCbFp3eEV1S09IbkQ5MU13bVNGNl9uaDVYMkJGWHluV1d1ZWhmLU5kU3dObEpGUzV4czZsT0RKV3BicEFMWDlrbXlKYk1wM3JHb29WZXlqNE1CdHREVmpGSVlzeml0THUzZFd4eW1FUDN2aTBKUDRKWkU3dWV6ZUpLT19nWEhQVGs3dkhZQUxCdGp6MHI3eUx2cjZabHBuc3ZwQlBNbG9KWmhFbFgzRDNabHFWek1wMHc1MXRSVnZXN2g1ZV9xWC1uWGRiTi1Hc19EMFdib3gyX2VIZ0FBIiwiaWQiOiJmY19pbnBmYXZMOEN0dXRxdHNQaEpQYS1RTV84In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ehtHXXicxZXrkqI4FIAfYJ9j-OOMYKOtdBU1FfCGiopOt93zh-ISA3KJEmxk_u277FPt02xAsaFb7Zqt2tpTBeEkJycnyfk4f_7lu6H39x9fnDjekgeWTZKkjjBGPqxbOGANkoYWu8Y-iSznu-OLMGSQL-4Jk76KPGMRkWOgK7rhdm28TjpyvI93MZk7o7nxTVOZfLqomwaBG-r9sCGsztKX94XvUqVO6jCsC_YcQjOaQQHV77iGUJ-xRkANwH8rCLjZCwGFKsqHYRkg7TMHoJe95Te7wk2vZJbkmiRRj7mFfNUfyhu3B6jDuRS2HALA4Nhp3QpkVFX72RRFk7JNKPIx0PdyaWtS0Wpl7aJcGJROfoutN2-ulYmiVP3QdXt63qVVV1HKTrSs-yX_nGkAdhPgJGh8I1YZg-4ALTV06ZbLsgXOvFjHBBy9KNZGNA851oxo02Bdy7Hyj4hk6Sn_EDg86INIGa5SPA2HU3u2Pcxbdncq7QbTGLGWSe18bNjQ1h2d-57rjbtGixP4dudrzoVFzmCQChiPvm_OhhNVw_VJXWqUqEDnUylJ1rm4eMzF4V2YcDpidLy0tBjCxYeENTr5bWK_q0gJAAWazSzXuuhjRlPfF6jI5YyGCnIq8uDkY3tyVM4KhM4TSnk0fLdeOQKpcC8rlL2ib1CxrkQs02PzzpCoVVea0zumn7Q8mcykZoVvoJU0-bhFDUlSdSvKcQfNkl12MYimsvaT6iOEzj-jfJJyCui87ltQVfroFSD5sXeT12tyi5uTIFCk_7tsrlCwN-znBAygymlCD6S8Gb4QezN55nXtctbjwPyNemD971zk1QIX1eICF84nXOTVAl2vFqckSgoucruxJF_lwsvbarUYvqsWl7gYVbm4Xi3euMhCuc2FdIsL6RoX9If_gQvtChdFtShx4b2rFtL5VLOuNy5-v1oY_65a5JjAY1MtHfsNulpCerBtPW5XS36nLmOe4Oipp4xULEzG1uclZB3ED4Fh-191136Q7kZxan_VaQd-gDazE9WlUlPng9pzp831arIRmTisrdy-W1Nx7ECqGpFdC8rfdzrxcUxqgXHQAxjgKNWRWdtaLjwNEGx5MGYCP8IiZ7SU-8FO2XcsOXq6N1LVG7vLcGI5I2UhhGkwmPGr-NXZRavosHnqC3ADTdSPXkahtVgrq5e182O6OYwmraduO4690QSGuP1LcT3r8LxMX3_iVYKdMRyMO4Gie3YKzMVqGiwxvxsuPI2f3G_uBSP1lhvh247fc3lURPTV5q55-DVajDtMEFkiTb8mAlMNrJBkAZnmlozog-mT0EtkiGXokLyKd7awFlptzjA7LaNzD5kAxelWbDYYEkZi4x8fajV4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ehtHXXicxZXrkqI4FIAfYJ9j-OOMYKOtdBU1FfCGiopOt93zh-ISA3KJEmxk_u277FPt02xAsaFb7Zqt2tpTBeEkJycnyfk4f_7lu6H39x9fnDjekgeWTZKkjjBGPqxbOGANkoYWu8Y-iSznu-OLMGSQL-4Jk76KPGMRkWOgK7rhdm28TjpyvI93MZk7o7nxTVOZfLqomwaBG-r9sCGsztKX94XvUqVO6jCsC_YcQjOaQQHV77iGUJ-xRkANwH8rCLjZCwGFKsqHYRkg7TMHoJe95Te7wk2vZJbkmiRRj7mFfNUfyhu3B6jDuRS2HALA4Nhp3QpkVFX72RRFk7JNKPIx0PdyaWtS0Wpl7aJcGJROfoutN2-ulYmiVP3QdXt63qVVV1HKTrSs-yX_nGkAdhPgJGh8I1YZg-4ALTV06ZbLsgXOvFjHBBy9KNZGNA851oxo02Bdy7Hyj4hk6Sn_EDg86INIGa5SPA2HU3u2Pcxbdncq7QbTGLGWSe18bNjQ1h2d-57rjbtGixP4dudrzoVFzmCQChiPvm_OhhNVw_VJXWqUqEDnUylJ1rm4eMzF4V2YcDpidLy0tBjCxYeENTr5bWK_q0gJAAWazSzXuuhjRlPfF6jI5YyGCnIq8uDkY3tyVM4KhM4TSnk0fLdeOQKpcC8rlL2ib1CxrkQs02PzzpCoVVea0zumn7Q8mcykZoVvoJU0-bhFDUlSdSvKcQfNkl12MYimsvaT6iOEzj-jfJJyCui87ltQVfroFSD5sXeT12tyi5uTIFCk_7tsrlCwN-znBAygymlCD6S8Gb4QezN55nXtctbjwPyNemD971zk1QIX1eICF84nXOTVAl2vFqckSgoucruxJF_lwsvbarUYvqsWl7gYVbm4Xi3euMhCuc2FdIsL6RoX9If_gQvtChdFtShx4b2rFtL5VLOuNy5-v1oY_65a5JjAY1MtHfsNulpCerBtPW5XS36nLmOe4Oipp4xULEzG1uclZB3ED4Fh-191136Q7kZxan_VaQd-gDazE9WlUlPng9pzp831arIRmTisrdy-W1Nx7ECqGpFdC8rfdzrxcUxqgXHQAxjgKNWRWdtaLjwNEGx5MGYCP8IiZ7SU-8FO2XcsOXq6N1LVG7vLcGI5I2UhhGkwmPGr-NXZRavosHnqC3ADTdSPXkahtVgrq5e182O6OYwmraduO4690QSGuP1LcT3r8LxMX3_iVYKdMRyMO4Gie3YKzMVqGiwxvxsuPI2f3G_uBSP1lhvh247fc3lURPTV5q55-DVajDtMEFkiTb8mAlMNrJBkAZnmlozog-mT0EtkiGXokLyKd7awFlptzjA7LaNzD5kAxelWbDYYEkZi4x8fajV4"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "MSI MPG X870E Carbon WiFi Gaming Motherboard (AMD ...",
+      "link": "https://www.amazon.com/MSI-MPG-X870E-Motherboard-Processors/dp/B0DG3QW9TJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FMSI-MPG-X870E-Motherboard-Processors%2Fdp%2FB0DG3QW9TJ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDUQAQ",
+      "displayed_link": "https://www.amazon.com › MSI-MPG-X870E-Motherbo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "The MSI MPG X870E CARBON WIFI is a high-performance ATX motherboard designed for gamers and PC enthusiasts. Powered by the AMD X870E chipset, it supports DDR5 ...",
+      "snippet_highlighted_words": [
+        "MSI MPG X870E CARBON WIFI"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MSI MPG X870E CARBON WIFI is a high-performance ATX motherboard designed for gamers and PC enthusiasts. Powered by the AMD X870E chipset, it supports DDR5 ...",
+          "source_info_link": "https://www.amazon.com/MSI-MPG-X870E-Motherboard-Processors/dp/B0DG3QW9TJ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FMSI-MPG-X870E-Motherboard-Processors%2Fdp%2FB0DG3QW9TJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FMSI-MPG-X870E-Motherboard-Processors%2Fdp%2FB0DG3QW9TJ",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/MSI-MPG-X870E-Motherboard-Processors/dp/B0DG3QW9TJ"
+    },
+    {
+      "position": 2,
+      "title": "MPG X870E CARBON WIFI | Gaming Motherboards",
+      "link": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDMQAQ",
+      "displayed_link": "https://www.msi.com › Motherboard › MPG-X870E-CA...",
+      "favicon": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/Y8FnszBjH3gLGzoV1C-b-SITd_s0V8INwRLdy8oOPbQ.png",
+      "snippet": "The MPG X870E CARBON WIFI AMD AM5 gaming motherboard offers advanced connectivity with Wi-Fi 7, 5G LAN, high-speed USB, DDR5, PCIe 5.0, and M.2 Gen5.",
+      "snippet_highlighted_words": [
+        "MPG X870E CARBON WIFI",
+        "motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MPG X870E CARBON WIFI AMD AM5 gaming motherboard offers advanced connectivity with Wi-Fi 7, 5G LAN, high-speed USB, DDR5, PCIe 5.0, and M.2 Gen5.",
+          "source_info_link": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI",
+          "icon": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/Y8FnszBjH3gLGzoV1C-b-RXKDp8_7qmHKcgM9cQc7dat5qtYc4mV7pERlpIfb0-R.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI",
+      "source": "MSI"
+    },
+    {
+      "position": 3,
+      "title": "Experiences with x870e Carbon Wifi + 9800x3d?",
+      "link": "https://www.reddit.com/r/MSI_Gaming/comments/1h88po1/experiences_with_x870e_carbon_wifi_9800x3d/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1h88po1%2Fexperiences_with_x870e_carbon_wifi_9800x3d%2F&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDgQAQ",
+      "displayed_link": "100+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Looking to see peoples experiences with this combination of mobo + cpu. Was there a different combination that you went with? I like how port heavy it ...",
+      "about_this_result": {
+        "source": {
+          "description": "Went with the 9800x3d + x870e Carbon Wifi paired with a 4070 TI super and 32GB GSkill RAM. Have been running this for about 3 weeks now and ...",
+          "source_info_link": "https://www.reddit.com/r/MSI_Gaming/comments/1h88po1/experiences_with_x870e_carbon_wifi_9800x3d/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1h88po1%2Fexperiences_with_x870e_carbon_wifi_9800x3d%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMSI_Gaming%2Fcomments%2F1h88po1%2Fexperiences_with_x870e_carbon_wifi_9800x3d%2F",
+      "source": "Reddit · r/MSI_Gaming"
+    },
+    {
+      "position": 4,
+      "title": "MPG X870E CARBON WIFI | Gaming Motherboards｜Best ...",
+      "link": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/Specification",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI%2FSpecification&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDIQAQ",
+      "displayed_link": "https://www.msi.com › Motherboard › Specification",
+      "favicon": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/Y8FnszBjH3gLGzoV1C-b-cx0gvT0u6L7hl0oHqvV8Q4.png",
+      "snippet": "The MPG X870E CARBON WIFI AMD AM5 gaming motherboard offers advanced connectivity with Wi-Fi 7, 5G LAN, high-speed USB, DDR5, PCIe 5.0, and M.2 Gen5.",
+      "snippet_highlighted_words": [
+        "MPG X870E CARBON WIFI",
+        "motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MPG X870E CARBON WIFI AMD AM5 gaming motherboard offers advanced connectivity with Wi-Fi 7, 5G LAN, high-speed USB, DDR5, PCIe 5.0, and M.2 Gen5.",
+          "source_info_link": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/Specification",
+          "icon": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/Y8FnszBjH3gLGzoV1C-b-cWIQKF5PrPzchqDG_xdWmQS1Rv7ncWqWFaOsAywLK38.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI%2FSpecification&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI%2FSpecification",
+      "source": "MSI"
+    },
+    {
+      "position": 5,
+      "title": "The Best One So Far MSI MPG X870E Carbon : r/Amd",
+      "link": "https://www.reddit.com/r/Amd/comments/1fgziqe/the_best_one_so_far_msi_mpg_x870e_carbon/",
+      "displayed_link": "100+ comments · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO4kqa-l4MttG6y6Sh-86qoKy8QvTdeP4e0-lyOpEDzH7wsalEYA-DJw&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "WiFi Top Ryzen CPUs for gaming in 2023. MSI MAG X870E Gaming Plus WiFi - Solid mother board for my AM5 build! CARBON WIFI - $289.99 ($399.99-$ ...",
+      "duration": "10:18",
+      "about_this_result": {
+        "source": {
+          "description": "WiFi Top Ryzen CPUs for gaming in 2023. MSI MAG X870E Gaming Plus WiFi - Solid mother board for my AM5 build! CARBON WIFI - $289.99 ($399.99-$ ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1fgziqe%2Fthe_best_one_so_far_msi_mpg_x870e_carbon%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1fgziqe%2Fthe_best_one_so_far_msi_mpg_x870e_carbon%2F",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTX84wEPtyrgScj8t3vMMXRNP95rBm1cFYGEg",
+      "source": "Reddit · r/Amd"
+    },
+    {
+      "position": 6,
+      "title": "MSI MPG X870E CARBON WIFI (Socket AM5) AMD ...",
+      "link": "https://www.bestbuy.com/product/msi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black/J3P7TX9S6K",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fmsi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black%2FJ3P7TX9S6K&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDEQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "MSI - MPG X870E CARBON WIFI (Socket AM5) AMD X870E ATX DDR5 Wi-Fi 7 Motherboard - Black ... $32.50/mo. suggested payments with 12-Month Financing.",
+      "snippet_highlighted_words": [
+        "MSI - MPG X870E CARBON WIFI"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "MSI - MPG X870E CARBON WIFI (Socket AM5) AMD X870E ATX DDR5 Wi-Fi 7 Motherboard - Black ... $32.50/mo. suggested payments with 12-Month Financing.",
+          "source_info_link": "https://www.bestbuy.com/product/msi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black/J3P7TX9S6K",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fmsi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black%2FJ3P7TX9S6K&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fmsi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black%2FJ3P7TX9S6K",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/product/msi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black/J3P7TX9S6K"
+    },
+    {
+      "position": 7,
+      "title": "MSI X870E Carbon WIFI Motherboard Review: USB 4.0 ...",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/msi-x870e-carbon-wifi-motherboard-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fmotherboards%2Fmsi-x870e-carbon-wifi-motherboard-review&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDYQAQ",
+      "displayed_link": "https://www.tomshardware.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png",
+      "date": "Sep 30, 2024",
+      "snippet": "DIMM Slots (4) DDR5-8400(OC), 256GB Capacity • Mixed in among the PCIe slots are four M.2 sockets. the PCIe 4.0 sockets handle up to 110mm ...",
+      "snippet_highlighted_words": [
+        "four M.2 sockets"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0
+          },
+          "extensions": [
+            "4.0",
+            "Review by Joe Shields"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "DIMM Slots (4) DDR5-8400(OC), 256GB Capacity • Mixed in among the PCIe slots are four M.2 sockets. the PCIe 4.0 sockets handle up to 110mm ...",
+          "source_info_link": "https://www.tomshardware.com/pc-components/motherboards/msi-x870e-carbon-wifi-motherboard-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fmotherboards%2Fmsi-x870e-carbon-wifi-motherboard-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fmotherboards%2Fmsi-x870e-carbon-wifi-motherboard-review",
+      "source": "Tom's Hardware"
+    },
+    {
+      "position": 8,
+      "title": "MPG X870E CARBON WIFI | Gaming Motherboards｜Best ...",
+      "link": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/support",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI%2Fsupport&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8QFnoECDAQAQ",
+      "displayed_link": "https://www.msi.com › Motherboard › support",
+      "favicon": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/Y8FnszBjH3gLGzoV1C-b-WkXD1fDghuBoMI5Q6Sg5l8.png",
+      "snippet": "The MPG X870E CARBON WIFI AMD AM5 gaming motherboard offers advanced connectivity with Wi-Fi 7, 5G LAN, high-speed USB, DDR5, PCIe 5.0, and M.2 Gen5.",
+      "snippet_highlighted_words": [
+        "MPG X870E CARBON WIFI",
+        "motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MPG X870E CARBON WIFI AMD AM5 gaming motherboard offers advanced connectivity with Wi-Fi 7, 5G LAN, high-speed USB, DDR5, PCIe 5.0, and M.2 Gen5.",
+          "source_info_link": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/support",
+          "icon": "https://serpapi.com/searches/6a5f7a895fda0b54bfae4db7/images/Y8FnszBjH3gLGzoV1C-b-X5DplFpBNwXmmh13bcULtmjzX1ZEUTDKJdrIcqijRi3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI%2Fsupport&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.msi.com%2FMotherboard%2FMPG-X870E-CARBON-WIFI%2Fsupport",
+      "source": "MSI"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Msi mpg x870e carbon wifi manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Msi+mpg+x870e+carbon+wifi+manual&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Msi+mpg+x870e+carbon+wifi+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MPG X870E Carbon WiFi review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+MPG+X870E+Carbon+WiFi+review&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+review"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MPG X870E CARBON WIFI RAM compatibility",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+MPG+X870E+CARBON+WIFI+RAM+compatibility&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+CARBON+WIFI+RAM+compatibility"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MPG X870E CARBON WIFI QVL list",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+MPG+X870E+CARBON+WIFI+QVL+list&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+CARBON+WIFI+QVL+list"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MPG X870E Carbon WIFI M 2 slots",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+MPG+X870E+Carbon+WIFI+M+2+slots&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WIFI+M+2+slots"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MPG X870E carbon WIFI BIOS update",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+MPG+X870E+carbon+WIFI+BIOS+update&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+carbon+WIFI+BIOS+update"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI MPG X870E Carbon wifi antenna",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+MPG+X870E+Carbon+wifi+antenna&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+wifi+antenna"
+    },
+    {
+      "block_position": 1,
+      "query": "MSI X870E CARBON layout",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=MSI+X870E+CARBON+layout&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+X870E+CARBON+layout"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?hl=en&q=cpu+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIUCAESA0NQVToLCMOdxAEQ08d3MAdYsrEgYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAF6BAgdEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?hl=en&q=ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIUCAESA1JBTToLCMOdxAEQ0sd3MAdYsrEgYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAJ6BAgdEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GBIqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAN6BAgdEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?hl=en&q=pci+express+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIbCAESC1BDSSBFeHByZXNzOgoI6-csEO_nLDAAWLKxIGAB&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAR6BAgdEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?hl=en&q=replacement+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GBIqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIPCBISC1JlcGxhY2VtZW50YAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAV6BAgdEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?hl=en&q=gaming+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIWCAESBkdhbWluZzoKCKetOxCorTswA1iysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAZ6BAgdEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+sale&gl=us&shoprs=EgRKAhgBGAYqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAYSB09uIHNhbGUYAiIESgIYAViysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAd6BAgdEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket+sale"
+    },
+    {
+      "query": "2 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&q=2+memory+slots+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIeCAESDjIgTWVtb3J5IFNsb3RzOgoIlatJEJerSTAAWLKxIGAB&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAh6BAgdEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+memory+slots+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?hl=en&q=usb+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIUCAESA1VTQjoLCJ2tOxDo5PcBMABYsrEgYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAl6BAgdEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GBIqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAp6BAgdEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "256 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=256+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABwQBEAAAAAAABwQBgBKlptc2kgbXBnIHg4NzBlIGNhcmJvbiB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyPAgBEg4yNTYgR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAAcEARAAAAAAAAcEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAt6BAgdEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=256+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?hl=en&q=msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=Eg2aAQoKCBACOAFABEgBGBQqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDImCBQSDUdldCBpdCBieSBUaHUiDZoBCgoIEAI4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKAx6BAgdEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "AMD",
+      "link": "https://www.google.com/search?hl=en&q=amd+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAESA0FNRDoKCJqtOxCcrTswAliysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKA16BAgdEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?hl=en&q=atx+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAESA0FUWDoKCJufKxCgxyswAliysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKA56BAgdEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAoqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIHCAoSA05ld1iysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKA96BAgdEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&q=used+MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAoqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIICAoSBFVzZWRYsrEgYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBB6BAgdEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?hl=en&q=ethernet+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIYCAESCEV0aGVybmV0OgoIna07EKCtOzAAWLKxIGAB&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBF6BAgdEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&q=4+memory+slots+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIeCAESDjQgTWVtb3J5IFNsb3RzOgoIlatJEJirSTAAWLKxIGAB&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBJ6BAgdEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "128 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=128+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABgQBEAAAAAAABgQBgBKlptc2kgbXBnIHg4NzBlIGNhcmJvbiB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyPAgBEg4xMjggR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAAYEARAAAAAAAAYEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBN6BAgdEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=128+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "192 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=192+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABoQBEAAAAAAABoQBgBKlptc2kgbXBnIHg4NzBlIGNhcmJvbiB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyPAgBEg4xOTIgR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAAaEARAAAAAAAAaEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBR6BAgdEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=192+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "3 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=3+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAAAEQBEAAAAAAAAEQBgBKlptc2kgbXBnIHg4NzBlIGNhcmJvbiB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyOggBEgwzIEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAARAEQAAAAAAAARAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBV6BAgdEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "5 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=5+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAAAUQBEAAAAAAAAUQBgBKlptc2kgbXBnIHg4NzBlIGNhcmJvbiB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzIG1heF9tZW1vcnlfZ2IgcGNpZV9zbG90cyBzb2NrZXQyOggBEgw1IEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAABRAEQAAAAAAABRAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBZ6BAgdEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5+gb+max+ram+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GBIqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBd6BAgdEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?hl=en&q=size+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GBIqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIICBISBFNpemVgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBh6BAgdEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=size+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&q=hdmi+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDIVCAESBEhETUk6CwidrTsQsJrrATAAWLKxIGAB&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBl6BAgdEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?hl=en&q=ddr+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&gl=us&shoprs=GAEqWm1zaSBtcGcgeDg3MGUgY2FyYm9uIHdpZmkgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzIHNvY2tldDITCAESA0REUjoKCLDHKxCxxyswAFiysSBgAQ&sa=X&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Qip4GKBp6BAgdEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+msi+mpg+x870e+carbon+wifi+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=10&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8NMDegQIUhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=10&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAE",
+      "3": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=20&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAG",
+      "4": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=30&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAI",
+      "5": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=40&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAK",
+      "6": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=50&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAM",
+      "7": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=60&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAO",
+      "8": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=70&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAQ",
+      "9": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=80&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAS",
+      "10": "https://www.google.com/search?q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=inpfavL8CtutqtsPhJPa-QM&start=90&sa=N&sstk=AU9db-D7Dy_hl7t02AAaAkErBhTTDF1S5HHCX-4wCRpsK7bR7qJ7yWcQ6gGVtj3gBCO2-8CfdwYFJagD7wiE8bSFcMj3AC-4pB1LLQ&ved=2ahUKEwjy6buc9uOVAxXblmoFHYSJNj8Q8tMDegQIUhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MSI+MPG+X870E+Carbon+WiFi+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&start=90"
+    }
+  }
+}

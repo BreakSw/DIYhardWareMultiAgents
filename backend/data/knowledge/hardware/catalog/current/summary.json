@@ -1,0 +1,52 @@
+{
+  "batch_id": "recovery-20260722T114604Z",
+  "record_count": 80,
+  "categories": {
+    "case": 10,
+    "cooler": 10,
+    "cpu": 10,
+    "gpu": 10,
+    "memory": 10,
+    "motherboard": 10,
+    "psu": 10,
+    "storage": 10
+  },
+  "quality_levels": {
+    "partial": 52,
+    "verified": 28
+  },
+  "category_quality_levels": {
+    "case": {
+      "partial": 4,
+      "verified": 6
+    },
+    "cooler": {
+      "partial": 4,
+      "verified": 6
+    },
+    "cpu": {
+      "partial": 3,
+      "verified": 7
+    },
+    "gpu": {
+      "partial": 6,
+      "verified": 4
+    },
+    "memory": {
+      "partial": 10,
+      "verified": 0
+    },
+    "motherboard": {
+      "partial": 10,
+      "verified": 0
+    },
+    "psu": {
+      "partial": 5,
+      "verified": 5
+    },
+    "storage": {
+      "partial": 10,
+      "verified": 0
+    }
+  }
+}

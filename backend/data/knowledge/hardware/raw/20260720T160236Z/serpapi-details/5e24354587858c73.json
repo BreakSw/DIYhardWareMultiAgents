@@ -1,0 +1,694 @@
+{
+  "search_metadata": {
+    "id": "6a5e46b85c4bf4a79e1fe045",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1AXYeX8WBzNZOF3GEFTXFw/6a5e46b85c4bf4a79e1fe045.json",
+    "created_at": "2026-07-20 16:03:04 UTC",
+    "processed_at": "2026-07-20 16:03:04 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=HEZeasuoBtahptQP7eeFeQ&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A16892897612736254065%2Ccatalogid%3A14963226457135228807%2Cgpcid%3A1023767054799441430%2CheadlineOfferDocid%3A17220758109129837559%2Crds%3APC_1023767054799441430%7CPROD_PC_1023767054799441430%2CimageDocid%3A13406555241677642379%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+psu+component+released+2025+2026+new%2Cmid%3A576462517270233146%2Cpvt%3Ahg%2Coapvfc%3AEosDCswCQUppVDR0TDB5LVFiQ2ltdi1xOERvaGprajNmWVo3Yl9XMmJucmEzd2ZrcnNPb3FSOWs2STVYTU9MQmVvOHJob05Ic3pXSWxJdDJmVnlLUS1KekhxOWNUa25mdFpJUV9pbGFUY2F2Rkd0Tk1ZTmVkNzhlLWVtaV9CQXRwYzJMY0ZrZ3ZtM2VzV2xuSVQwVG1JWmlhdHRMOVlkU2pySXFCaHNuU2JoeDhvLWtsZ2Q5X09MVFR4WEwxbHVPLWI4RlB3ZW5VUjRaZkxVc3dPZWdLdlVhcXM4eFRMNXJtS2hyWjg2N3c2aGhpZUtDR0Vfdno3dm1uc05sSzZDU0VYc0NSREFKaWxNZWdLMWEyamEtNFZEekVFWXFObXB2TmQ5TlphRzljeU1wbDFITkhKbHNUV3hfS2JfZnltaUZpVXBCRzd3TmszTW1HNDAtU2ISFkhFWmVhc3VvQnRhaHB0UVA3ZWVGZVEaIkFEc3I5ZlNJRDZtMGpmN1hoVHNpNmM2eHBzazhWRDJYSnc%2Cxsrf%3AAF5tSO7DIWYMB1aDYscfE2c0spwbsfQwcQ%3A1784563280031%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/1AXYeX8WBzNZOF3GEFTXFw/6a5e46b85c4bf4a79e1fe045.html",
+    "prettify_html_file": "https://serpapi.com/searches/1AXYeX8WBzNZOF3GEFTXFw/6a5e46b85c4bf4a79e1fe045.prettify",
+    "total_time_taken": 5.49
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "Y47APXicbVPLrqNGFEzyBZHyA7O3LEFDG8joLsCAbWyDAdPYbKw23TaYp3naVr7m3pmRJstJlHV-IcuZRb4lWMpyetFSnyqdU1Wt8-8PP7_S-K-5FlBct4XS4Khs7I1AqU7tz2VVkDZsYvInOxElIErChAUCNwGQZybwc4gbnBbnJ8xLEw6ACQ8FloMAiCIjfIkoJmmcU-t0opVahE-eAAAjQJFlJBZIIidAKP0eZ_hM_8e5Z2MIAc9OBGHCA06Q3ipSfwWb6YFlhudEYCAvSBLPszzH_LZxLPXwfezjtaXV_esixQ2tm1HYVhXNm9GZ5rTCTVzkI0LrpCnK0WY6Kut2FBZZWeRPTkXTIQ5KRoAB8HlNRjntP57LQeMf3xn1lsXkCxz0DskMFoWBwbH85K3smtfo_KFtU_r36zl9bevXKH2l-acCl90p_PbTL1pRq9O6n9peWSLVYbaqAldIj22QNiRmb5bmdHhWVvhiZj4quH0q7daZ0YaZ9iAgqMLc3Bw53bX8GrhbtN960trOUGfNjeLIwEXIlTvXvxlENTKUpyvPZZc0iW6Wb3oYwIzopeEhqTzOdG8PdOAkhNkmbLDNUGI-onTlowYjaWrvnH7_MNZ7JqgCLmjWAD0QuLUusns0Yw0_SyMyd9YWShMPlHd3p0_x3Gw9YBRUjbqV39QBsOGOkdZId3hf62_HOdqs_AXvpAoX-BB5FwcHyQ2FHNkEPlmRFEXhbs1T3VmbO6NxQXT3L2dgciHAs6gMvGZIDJ1IXnAkY9uQgbX7CFSPQfuQMV1H05fYv5nPXmtfu-NMa0w90GiCdH-nW8edAraZDbdpGTmP9EI9tj-q-mKbRMvj3PQQF51cYJyCPG2wF5Rop0ydB-G2Wf3Y-uzcVOXGAwtXTyLdzwatHOrs3InwXGE8JA-e0CxAGl4kuhZyCxikpuGoQ3azMjPZqEBzszSzNaBz5YEfke-oxt7Nww-3ujp9ZWQdNq4F_a7qWR7Z4cG6785RF9yvCldMqgPof2UFkYfPvRM5SfoUFkUS028__iNr0xeZGMPkbnVeXds9LxXyWM2sbnaHYScrYoyjJQPViZyT1WUGAz53xoeT3qYnU37_TkUv9WNHZyZdikwd1SvIBLeFaImPW2kX2lhP9Xkp9ibKD1ovP8_7d4eDS4cNo2N362xeZDMLesyNxXkmKzeTdxIztZbLrLPAjD_Km7OsK8ZKoabR996c0Ioqd2-8QePYeGR1Wt-mcXOV-qJTfTC1CMR17PJ9Dr08X2arre6d378zF-oL5LiXvWUYfVsH7CQ8OrTrTcGf4eGvCQBeqJsxt8_HqY94lUFLlUYXPVsge6y5Ry-BQ4W7TiMy3nh43S82k83dzK8wKuQ4EuZKVRzIgzb3nHpcqNxtXlZZcCWCUC7c5UGULyeF3o_HhcxEi0YmzC2-Tu0mvAe517lgbFXantWmzoWsx60Boh1GZ4bHmHS9xRN7H6E5XPUm02SbOulm8bVJ8zY1_MHp1T0l1xpvtODiqdp_8svjIQ"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTH7cm2SaxFKJawe63TA852OhPBWLJHYMsgj_RwNT0jpiI0ARyLYg6tzbvQTLOajjapDAT-wMzXmepbk5V5xWFkaEySrvL9pw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ7jFp1zsm-VZL8dEBxBaf0QROLycOFH4RR_T6ce06UMyMQYxwge06UhMLXMmAHCHXTitnwOlhJZHv88_VBmB7353Vqe-JkohJMKjNqkVYfqaLyPxtu5A8_",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRTcsHsebPoK1qnIHEpHbaPNvihqnumLp5IkMlCs3bJHLsp2Uaku8BXeYXDLBjXY9V36-T-MKId1_md1XAQqdns2dCL_JDY",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQnpCLmSEvc2X31idk2Hf7h_lh0NFLAwlCAmYCoEGLuIL-aQ1_VlGqNLf7_dIjlYeNDfYYvvZyPOly6U6dVrDwaT7L6hNqXh3vD64qwCNMzrdGI2ViA4kbi-A",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQj25mdrw_F3lC6WRYwfEB63QXyPHklbVgGkJUWvkgfN0E8vi93buET7t5cAfoQ_sGK07QVXQQ6vUgvEx6k6jIa4fAl190_dYByi40sftIcQjiHozzAW4d1",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ815vxnUw6pk2rShX3IaOJNGNeV65TqbScm3cye_JzzmVnFkIIVQvL0DxQ0VfrC08WRNweKepmERsXtfreymM7YRoWDSUOJs4z7IYtO3IMC2geLT4iEo4LSg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTH7ByG7Z0BE_o3vZYgP4OzAAMlTCXVmmvj3uVEko3E3BC9uhysy-xfuPxbu70u_oWYdzoA6wbUKw129d3kSxfdXtmQGx1ceYI1b6GO5hdb4m-TvO9cL4V7mA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTRIqSY-idYVBJVc7KJ3FBhYdvGJEnZbs790FimSuLbtSJufUiUWRxKgDaJnp_hOjzgeT1RY9UISsYxWzBMmlWmGG5xJGwXVw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQIoEz6UJZhCZKQwOqabNYEuzoVYv0b2t5VmQy_dW7wGHq1NUHYZOpTCXoDymin5f9WGcyTJH34DX3qHJ7j8kfVrgMwvZi4Dk8izYxzbEGgj0Cej0xx8hrb",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTBae_Mswc4AYo2l0yd7kvUWEa0DoSFWFqNbzuWlYjrY_U5R7jwRRvxh0lIj3HeENikSofgU6XpPf-Ma9UdONoKLsPtwYsZ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQa3hg5qHnX1oQrTlU0o-W8RqQ5SnYfKSioELQ4ZLGC2u7PDB2K-TAVJOxjjp0yWsM9F5dmuDxPl8_W6jZ9snHrwbbndNHO9Q"
+    ],
+    "title": "Thermaltake Smart BM3 Bronze",
+    "brand": "Thermaltake",
+    "reviews": 330,
+    "rating": 4.7,
+    "price_range": "$60-$80",
+    "stores": [
+      {
+        "name": "Walmart",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.walmart.com/ip/Thermaltake-Smart-BM3-650W-80Plus-Bronze-ATX-3-0-PCIE-5-0-Ready-Semi-Modular-Power-Supply-105-C-221-F-Japanese-Capacitor-5-Year-Warranty-PS-SPD-0650M/5022323979?wmlspartner=wlpa&selectedSellerId=0",
+        "title": "Thermaltake Smart BM3 650w 80Plus Bronze ATX 3.0 & Pcie 5.0 Ready Semi-Modular Power Supply; 105c/221f Japanese Capacitor; 5 Year Warranty; Ps-spd-",
+        "rating": 4.3,
+        "reviews": 3711,
+        "payment_methods": "PayPal, Affirm accepted",
+        "tag": "Most popular",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Free 90-day returns"
+        ],
+        "price": "$79.99",
+        "extracted_price": 79.99,
+        "shipping": "Free",
+        "total": "$79.99",
+        "extracted_total": 79.99
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/thermaltake-smart-bm3-80-bronze-pcie-gen-5-atx-3-0-650w-semi-modular-power-supply-black/J39ZPC9W9V/sku/6569208?utm_source=feed&extStoreId=885",
+        "title": "Thermaltake - Smart BM3 80+ Bronze PCIE Gen 5 ATX 3.0 650W Semi-Modular Power Supply - Black",
+        "rating": 4.6,
+        "reviews": 1927,
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "Free delivery by Wed",
+          "15-day returns"
+        ],
+        "discount": "25% off",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$79.99",
+        "extracted_original_price": 79.99,
+        "shipping": "Free",
+        "total": "$59.99",
+        "extracted_total": 59.99
+      },
+      {
+        "name": "Thermaltake USA",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fthermaltakeusa.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://thermaltakeusa.com/products/smart-bm3-bronze-650w-tt-premium-edition-ps-spd-0650mnfabx-3?srsltid=AfmBOorLleEuQZUkIwwRd2o5DifWlQJgVXKD7p3B-00ZknHwoQxrqdCB7EQ",
+        "title": "Smart BM3 Bronze 650W - TT Premium Edition",
+        "payment_methods": "PayPal, Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online"
+        ],
+        "price": "$79.99",
+        "extracted_price": 79.99,
+        "total": "$79.99",
+        "extracted_total": 79.99
+      }
+    ],
+    "stores_next_page_token": "hvxCEnica15aklmSk7onJCO1KDcxpyQxO1UhODexqETByddYwakoP68qdUlxflEm8-LcvHwuANAJEm0",
+    "about_the_product": {
+      "title": "Thermaltake Smart BM3 Bronze 650W - TT Premium Edition",
+      "link": "https://thermaltakeusa.com/products/smart-bm3-bronze-650w-tt-premium-edition-ps-spd-0650mnfabx-3",
+      "displayed_link": "thermaltakeusa.com",
+      "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fthermaltakeusa.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "This 80+ Bronze-certified unit delivers dependable efficiency for value-minded builders while supporting the latest hardware with a PCIe Gen5 12VHPWR connector. Semi-modular cables reduce clutter for cleaner builds, and a 120mm Fluid Dynamic Bearing fan keeps temperatures and noise in check. With 650W of stable, clean power, dual EPS12V connectors, and generous PCIe, SATA, and peripheral options, it’s ready for high-end GPUs and CPUs. Includes power cord; black finish matches most builds.",
+      "features": [
+        {
+          "title": "80 PLUS Rating",
+          "value": "80Plus Bronze"
+        },
+        {
+          "title": "Certifications",
+          "value": "UKCA, BSMI, CB, CCC, cTUV"
+        },
+        {
+          "title": "Protection Features",
+          "value": "Undervoltage protection, Overcurrent protection, Overheat protection, Overvoltage protection"
+        },
+        {
+          "title": "Connectors",
+          "value": "7 x 4 pin internal power"
+        },
+        {
+          "title": "Modular",
+          "value": "Yes"
+        },
+        {
+          "title": "Cables",
+          "value": "Semi-modular"
+        },
+        {
+          "title": "Form Factor",
+          "value": "ATX"
+        },
+        {
+          "title": "Supported Voltages",
+          "value": "±12V, +3.3V, +5V"
+        },
+        {
+          "title": "Supported Standards",
+          "value": "ATX12V 3.0/ EPS12V"
+        },
+        {
+          "title": "Efficiency",
+          "value": "80 PLUS Bronze (at 115Vac input)"
+        },
+        {
+          "title": "Power Factor Correction",
+          "value": "Active PFC"
+        },
+        {
+          "title": "Continuous Power",
+          "value": "650W"
+        },
+        {
+          "title": "Output Wattage",
+          "value": "650W"
+        },
+        {
+          "title": "Rail Configuration",
+          "value": "Single +12V rail"
+        },
+        {
+          "title": "Maximum Current",
+          "value": "-12V - 0.3 A, +12V - 54.2 A, +3.3V - 18 A, +5V - 18 A, +5VSB - 3 A"
+        },
+        {
+          "title": "Input Voltage",
+          "value": "AC 100-240 V"
+        },
+        {
+          "title": "Input Current",
+          "value": "15A-6A"
+        },
+        {
+          "title": "Input Frequency",
+          "value": "50/60 Hz"
+        },
+        {
+          "title": "MTBF",
+          "value": "100,000 hours"
+        },
+        {
+          "title": "Lifetime",
+          "value": "5 years"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Air cooled"
+        },
+        {
+          "title": "Fan Size",
+          "value": "120mm"
+        },
+        {
+          "title": "Fan Control",
+          "value": "Smart Zero Fan"
+        },
+        {
+          "title": "Fan Type",
+          "value": "Fluid dynamic bearing cooling fan"
+        },
+        {
+          "title": "Dimensions",
+          "value": "8.6 cm (Height)"
+        },
+        {
+          "title": "Cable Length",
+          "value": "2.13 feet"
+        },
+        {
+          "title": "Weight",
+          "value": "1.59 kg"
+        },
+        {
+          "title": "Color",
+          "value": "Black"
+        },
+        {
+          "title": "Material",
+          "value": "Japanese 105°C/105.0°C main capacitor"
+        },
+        {
+          "title": "Lighting",
+          "value": "RGB"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Smart Zero Fan, Active Power Factor Correction (PFC), Fluid dynamic bearing cooling fan"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Personal Computer"
+        },
+        {
+          "title": "Operating Temperature",
+          "value": "5 °C"
+        },
+        {
+          "title": "Storage Temperature",
+          "value": "-40°C to +55°C"
+        },
+        {
+          "title": "Humidity",
+          "value": "20 - 85% (non-condensing)"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Reliability (Fan, Capacitors)",
+        "items": [
+          {
+            "pros": [
+              "High stability",
+              "Generate excellent airflow"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techporn.ph&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techporn.ph/thermaltake-smart-bm3-atx-3-bronze-psu/",
+            "date": "2y",
+            "source": "TechPorn",
+            "title": "Thermaltake Unveils Smart BM3 ATX 3.0 Bronze Series PSU"
+          },
+          {
+            "key_point": "Reliable",
+            "snippet": "supply is a very good value for the money. It is a reliable supply for general use. If there is a large GPU, you may want to step up to the next power level.",
+            "user": "drcmp56",
+            "date": "6mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Lacks durability",
+            "snippet": "Literally stopped working 40 days after buying it. I would not recommend it",
+            "user": "NefH",
+            "date": "1y",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Sturdy",
+            "snippet": "Solid power supply, convenient cables management!!",
+            "user": "Brook",
+            "date": "6mo",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Efficiency (80 PLUS, Rating)",
+        "items": [
+          {
+            "pros": [
+              "Up to 88 per cent efficiency at 50 per cent load"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.club386.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.club386.com/thermaltake-unveils-smart-bm3-bronze-semi-modular-psu-with-12vhpwr-connector/",
+            "date": "2y",
+            "source": "Club386",
+            "title": "Thermaltake unveils Smart BM3 Bronze semi-modular PSU with 12VHPWR connector"
+          },
+          {
+            "key_point": "Easy to use",
+            "snippet": "Easy to install and use. Has no problem providing up to 400W to my setup.",
+            "user": "Pikachu",
+            "date": "9mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Easy to install",
+            "snippet": "Perfect replacement power supply. Was easy to install and quick to get my hands on.",
+            "user": "Wookie",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "items": [
+          {
+            "key_point": "Attractive",
+            "snippet": "So far so good, used for my dad’s PC and runs super quiet and looks clean",
+            "user": "salad",
+            "date": "5mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "Over all I love the build quality of this psu. I love the fact it’s a semi modular and if needed it also comes with the connector for the 40 series rtx cards",
+            "user": "Nickf",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 13
+      },
+      {
+        "stars": 2,
+        "amount": 1
+      },
+      {
+        "stars": 3,
+        "amount": 10
+      },
+      {
+        "stars": 4,
+        "amount": 25
+      },
+      {
+        "stars": 5,
+        "amount": 281
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTcXruqZc4n18iU3mYpBc0QaL5NzrbbX0vfrgunEJ681ElFt3oDl1BvoxoGB9ADPZsUWcfuLjJu8762qhIro3xc_-t9bKU2WA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQQdI7Q6zGA9zVFb-p190eA3nuSh2L5QrAbWySZhmD1mn8V8D2oMqVFOZSbEGotKVkCuxfcnu3JtGzxiV1C7MRZ9ZovIgaE",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSzAc9wwhMz5F_Hk706SN1MGKZd-H5QRUlWas5gZ02WYBTjM_qQlJiig4clLWiDTlVZWBedjH26Gke9Y-CJIwAdy_YlqVHNpQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTnSWKqQxT4jDGcJmJ8gnhfhMnB3dxKM6qJyNuXZYDg3PFSSSai8-yIrsihpbE9jg91w2HsdlZPhEbyVPyLs8GrIqyxZsnQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRwAe0sLslc2PWntTjj79PrXCFT9bcQlFtV1bzuUMeF-xIZLuLkS3wGR4Hk-rInD_WkflLOFeXOHYBZxTElXDHj2nYN8Tcq8g",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRJkc7Rt74-f-x4vvS6DDRuqgHrJeWjGlf2jUgXUYiX8Libbh1UZSHS2kcM2cS7jj1gVRiZPEQ-BjlLPBqA2UV5NWHtwNoG",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTqbZcbOSBMLSiiKzlNsElt3059trY9Wz38iXd1Y9EotzoKveg-KH9ELz2jaUP3I3XY9Kn6fpLQDd0P4rY7v3CboiXqRSNs"
+    ],
+    "user_reviews": [
+      {
+        "title": "Works well - but not on dual cpu Motherboard",
+        "text": "Pro - I like that this and other psu's come with a PCIe Gen 5.1 (12V-2x6) connector for modern graphics cards. It saves using 2-3 GPU power cables connecting to an adapter.\n\nCon - I bought this card for a dual CPU board. However Thermaltake in their efforts to save costs on a second cpu cable - combined both cpu power connectors into 1 cable. However the distance between the 2 connectors is not long enough to connect to both cpu power connectors.\n\nI know this is not a common problem but just be aware.",
+        "user_name": "Liam",
+        "source": "bestbuy.ca",
+        "rating": 3,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK17LRFESIleaN0S9JOVSqTccFyZVK4DuPZ-1wqRDr0qdhRNgvyIgaOJgneAE5lzeM2tDA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Best PSU",
+        "text": "I couldn’t be happier with this purchase. The build quality is excellent and you can immediately tell it’s made with premium components. Installation was quick and straightforward, and it has performed flawlessly since day one. Everything runs smoothly, quietly, and efficiently with zero issues. It delivers exactly what it promises and gives great peace of mind knowing my system is powered by something this reliable. For the price, the value is incredible — I would absolutely recommend this to anyone looking for top-tier performance and durability. Definitely a 5-star product!",
+        "user_name": "JoshuaP",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "5 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0xXzWNzR93o66h_O4cl7-CshOOKY1aU2WLqIyI86yqp-SOaTkPeCvFy_C_7NkbAiKR3A=w40-h40-c0x00000000-cc",
+        "incentivized": true
+      },
+      {
+        "title": "Works great!",
+        "text": "Very good PSU, I've had it for a while now and it's still running flawlessly. I've had zero issues with it on my RTX 5060 Ti setup. I have a relatively small PC case, but the cable management — although messy in my setup — wasn't all too difficult and it fits nicely in my case.",
+        "user_name": "Staezy",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1UxKaLAqXw1ho2mCCDHFxl9adpMPYDNkDu9M4JNPnNGq2ZNVtIzNEtZDoNRljxymXY7w=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTcXruqZc4n18iU3mYpBc0QaL5NzrbbX0vfrgunEJ681ElFt3oDl1BvoxoGB9ADPZsUWcfuLjJu8762qhIro3xc_-t9bKU2WA"
+        ]
+      },
+      {
+        "title": "Could’ve burned down my house.",
+        "text": "didn’t even own it for 30 days.. NOT EVEN 30 DAYS. today was the 28th day I owned this product and the power cord got so hot it burnt straight through and started sparking nearly electrocuting me. There’s a burn mark on my carpet, and if I wasn’t there when it happened it could’ve easily burned my house down. Do not buy this product.",
+        "user_name": "AndrewV",
+        "source": "bestbuy.com",
+        "rating": 1,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2-KaY4x-iMOiCAZg8WajW_HzdoKlX0FbpkG4qrN609TRC9xKmqImDv8VVWPp29CvaQuA=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQQdI7Q6zGA9zVFb-p190eA3nuSh2L5QrAbWySZhmD1mn8V8D2oMqVFOZSbEGotKVkCuxfcnu3JtGzxiV1C7MRZ9ZovIgaE"
+        ]
+      },
+      {
+        "title": "750 psu",
+        "text": "Over all I love the build quality of this psu. I love the fact it’s a semi modular and if needed it also comes with the connector for the 40 series rtx cards. Currently I have this powering a Ryzen 5 5600x with a rtx 3060 12gb card and it performs pretty well. I would recommend this in ur next build or event your first build super simple to work with",
+        "user_name": "Nickf",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1IuyGgfcUxfQp9po_pc-9iA_T-QY8CFHwGnX-RTj2aILW2ZMQV2WryFFjWiIybQmA3NA=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSzAc9wwhMz5F_Hk706SN1MGKZd-H5QRUlWas5gZ02WYBTjM_qQlJiig4clLWiDTlVZWBedjH26Gke9Y-CJIwAdy_YlqVHNpQ"
+        ]
+      },
+      {
+        "title": "Happy Gamer Now",
+        "text": "Came with a lot of extra items, I thought it was going to be like an ikea build, but wasn’t and had it installed and running in less than 20 minutes. It was available that day and well within my budget. Has performed flawlessly since installed, which was a couple months ago.",
+        "user_name": "WestonK",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1kd2sF_VAdX_0ov6C-pW-VSPb9BqtPI_HbelAmAokwGllRwbLhJubvpYHCEivKJRnkqw=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTnSWKqQxT4jDGcJmJ8gnhfhMnB3dxKM6qJyNuXZYDg3PFSSSai8-yIrsihpbE9jg91w2HsdlZPhEbyVPyLs8GrIqyxZsnQ"
+        ]
+      },
+      {
+        "title": "Look no further. Great PSU with Upgradeability.",
+        "text": "One of the best bang for your buck power supplies on the market. Easy to install with all the attachments for a 4 pcie 6+2pin gpu. Never had an issue and use in all my 700- watt builds., supper quiet and looks great.",
+        "user_name": "VitaminSketch",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1CYHacagGCiAKaRAUGjfEAmb8lDNokCCeNaTGgIaAuyOfkH28028STw2ZUKWmWcJcZ1A=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRwAe0sLslc2PWntTjj79PrXCFT9bcQlFtV1bzuUMeF-xIZLuLkS3wGR4Hk-rInD_WkflLOFeXOHYBZxTElXDHj2nYN8Tcq8g",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRJkc7Rt74-f-x4vvS6DDRuqgHrJeWjGlf2jUgXUYiX8Libbh1UZSHS2kcM2cS7jj1gVRiZPEQ-BjlLPBqA2UV5NWHtwNoG",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTqbZcbOSBMLSiiKzlNsElt3059trY9Wz38iXd1Y9EotzoKveg-KH9ELz2jaUP3I3XY9Kn6fpLQDd0P4rY7v3CboiXqRSNs"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Thermaltake Smart BM3 850W PSU Review!",
+        "link": "https://www.youtube.com/watch?v=hIlDtic7jeA&vl=en",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "11:17",
+        "thumbnail": "https://i.ytimg.com/vi/hIlDtic7jeA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lpxSOP8cQoAkzvFH_-OPA7cUB1jA"
+      },
+      {
+        "title": "Thermaltake Smart BM3 Bronze Certified PSU – Unboxing Video",
+        "link": "https://www.youtube.com/watch?v=5NFeXPN3wRk",
+        "source": "YouTube",
+        "channel": "Thermaltake Global",
+        "duration": "1:34",
+        "thumbnail": "https://i.ytimg.com/vi/5NFeXPN3wRk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3leOU-xESS7PQS8MrbVxpB1GRim_w"
+      },
+      {
+        "title": "Cheapest Native PCIe Gen5 ATX3 0 PSU Thermaltake Smart BM3 ...",
+        "link": "https://www.youtube.com/watch?v=stSRhsf_voM",
+        "source": "YouTube",
+        "channel": "Mike's unboxing, reviews and how to",
+        "duration": "15:29",
+        "thumbnail": "https://i.ytimg.com/vi/stSRhsf_voM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lR0QHFDYewilQH_SHcATEa9m4eQA"
+      },
+      {
+        "title": "850w Thermaltake Smart Bm3 Psu - Gen 5 12vhpwr Ready",
+        "link": "https://www.youtube.com/watch?v=P92j9tOfHMo",
+        "source": "YouTube",
+        "channel": "Gadget Joe",
+        "duration": "13:31",
+        "thumbnail": "https://i.ytimg.com/vi/P92j9tOfHMo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n6aCSGwQbDTmVqBfR08eSH0Ew8YQ"
+      },
+      {
+        "title": "DON’T BUY Thermaltake Smart BM3 750W Before Watching THIS ...",
+        "link": "https://www.youtube.com/watch?v=49wMO7s-Vdw",
+        "source": "YouTube",
+        "channel": "Critical Reviews",
+        "duration": "2:24",
+        "thumbnail": "https://i.ytimg.com/vi/49wMO7s-Vdw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lHnwvKmq55Lj2PgFLui9CtdpQ3gA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQldinMmIEvDaDQ_Pf2mSI_xgvRv_3E4i3peQ"
+      },
+      {
+        "title": "$80 ATX 3.0 PSU! - Thermaltake Smart BM3 ATX 3.0 Power Supply ...",
+        "link": "https://www.youtube.com/watch?v=cfRxTr2jUuc",
+        "source": "YouTube",
+        "channel": "Jordan Ash",
+        "duration": "5:17",
+        "thumbnail": "https://i.ytimg.com/vi/cfRxTr2jUuc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kePx17qlFB7nQ6MaPma4OcsAOBkw"
+      },
+      {
+        "title": "Thermaltake Smart BM3 850W PSU Review! #shorts",
+        "link": "https://www.youtube.com/shorts/qqJKW5sH1UI",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "0:20",
+        "thumbnail": "https://i.ytimg.com/vi/qqJKW5sH1UI/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3nnunUbV31wDimKCzZvz4KwYkuQkg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTKMPXdyIP3f4p1Ex0UmHEqovlN1jXC3YyCAg"
+      },
+      {
+        "title": "Thermaltake Smart BM3 Bronze 850W - TT Premium Edition: A ...",
+        "link": "https://www.youtube.com/watch?v=tUfJKDEx0CU",
+        "source": "YouTube",
+        "channel": "Newous Tech Trailers",
+        "duration": "1:34",
+        "thumbnail": "https://i.ytimg.com/vi/tUfJKDEx0CU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l0CXv1zXVTNjgN4Yl0Qm-VQpvC5g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRUOXrbiVXcORKricrhwMFzfROPCeIeZUVdyw"
+      },
+      {
+        "title": "DON’T BUY Thermaltake Smart BM3 650W BEFORE WATCHING ...",
+        "link": "https://www.youtube.com/watch?v=nLNqrCWafBk",
+        "source": "YouTube",
+        "channel": "Critical Reviews",
+        "duration": "2:39",
+        "thumbnail": "https://i.ytimg.com/vi/nLNqrCWafBk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mqO8Tb0Mid00XqGXu2hkmXSwW6hg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRnGnYoaMyVFBMRzYUHv2ngt4SAdTUPamyHEA"
+      },
+      {
+        "title": "Thermaltake Smart BM3 Bronze 650W | TT Unboxing",
+        "link": "https://www.youtube.com/watch?v=8JoCP2cjMn8",
+        "source": "YouTube",
+        "channel": "Thermaltake Thailand",
+        "duration": "4:58",
+        "thumbnail": "https://i.ytimg.com/vi/8JoCP2cjMn8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l82N7UKI4nwrZ0HEMyzvciKa1mZg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRRJZMDCeQJUmPCEQfg_4RNIo9Qtz2mKKBf1Q"
+      },
+      {
+        "title": "@Thermaltake Gaming Smart BM3 850W PSU Review ...",
+        "link": "https://www.tiktok.com/@digitaldavid/video/7358132108373658926",
+        "source": "TikTok",
+        "channel": "digitaldavid",
+        "duration": "0:19",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgZIIqokVrHQsiZulxgvnlQHR7z1dJxTyiljhmcKc6oAUbDg&s="
+      },
+      {
+        "title": "Thermaltake introduces Smart BM3 Bronze PSU series, up to 850W",
+        "link": "https://www.youtube.com/watch?v=dLS0hFwrUDI",
+        "source": "YouTube",
+        "channel": "LuxPCGamerNews",
+        "duration": "2:59",
+        "thumbnail": "https://i.ytimg.com/vi/dLS0hFwrUDI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3me_p9HblPH8Sg077Pe2eRkl_aCBw"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Thermaltake Smart 700W ATX 80 Plus Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSazYKPUbyc-XdHRCd8VE1eL6hAolGweb8HmqbZyPuKNDM37DN487NIRXgCOnRuma237VTfyzxjN4hdMRqwNeQ32hxNEzrR1ancpdbR5CPAW_pRetHoYzZT",
+        "price": "$54.99",
+        "extracted_price": 54.99,
+        "original_price": "$60",
+        "extracted_original_price": 60,
+        "reviews": 2000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zrxwCXicbVTNzqM2FG37BF30FWYVRTIG89MdhL_wJZAAhsAmAuwEwm8CCUnUp_mmM9J0Oa267mvMLCr1TcpXdTleXOn63OtzfHTtv7_78ZUWf5paTJP-2ipDknfDdiNQqtPtp-7Skms2FOQPhhclKEoCz0CB5SHiAI8-ZcmQVO3xP1hgAJRYCFiEWJEBosB_zmlCqqKhzuFAL2qbvdUBIEk8ZDmO5QSGQywQpN-KOjnS_3GeY3heQFBCoigInAAk9P5C-i9ws9iLDA95QYQMxyHEibwI4C8b11H338Y-nK_08viyrJKB9sMsu14utBlmR9rQSzIUbTMjtC-HtpttFrOuv86ytu7a5q3mQqvJDkpmEED0FvhZQ8cPx27S-Ps3qN7XBfmMBJ7jJ4-mnJUmk1jwvrsNr_nx9Vi9XvvXvHqlzcc26W6H7OsPP2ntqC76cbHFXReoLvAgWaxwzocVHtOG3ALYRdsyD6hflfSk27FpRynbMXGIXHeX38JQGrG_5mzmePfKAO9Y-0Zgz_kG8oOn0mZG7K61qrVNYjh6HAWs5bn4iHw_f7iaxEQgG2IcP21s7TCr4PRpP9eNrnjhYHhBjnHNFAF0ty6swgCsod_kQwRzxwsl1WPI4FdKZ1fWZfdUCh_kTlS6ZryzDokWlKFKzqmp6H5jQxqSDlclinfxiVZdH5yUKGZcmEELpFqgJSC4ZphxUmDHnu5usImfmR4hokn3sCEwhVtIjbsx6VBcrI-2rxgJjHPHdKN1GZckRAfXX6NQE7m1f2S2IHa2bOCFtaSFQYySasmkjf2MWNI5uDNWO5vFpVustQjERrXcPW3dPVnVOlg_EtMdgoDYdthxSaX3BAQw3ilswNp1xCiabXZRqlpDBNxl5m89nY31sA7yFALOw4zvsgrAgTKusItioLNGYSmuaT-cMPZCzb0Evv5Y63nhmXk1eYHSUgSekStY05jQ0Jtf7_3l8AXIOho8B9XJy07knmtOyHeW5XX3vJNO9MRu8_FnRhA5xLOsOM0b_Ji1bVnQr9__I2uLd6wqE2vy9bY6rs7XiJNaea7Wzs14oOwmK2KR5C8AqbzckNXJQDHXuPP9Qb9WB1t-xyozNZiO6J87atj0RQR93q8QiO9L0RGf927banO90s1OHO2g2Wuj_Lbe-vZ7j06PjM493928qbDreEzYuWjWsnK3Obe0K-flpb450OBSeXOUdcVaKdS2xhGbhF6o8sDzTTAvrGfdV_19UQxnaWxvaggXDkFJX3jc2CDcNC_1ytfx8Y3VXqoTF2LZKUaOZY3XPmb4LHXpbbSF0EgeSU0gxJluF2zUzKdh5lQQvKg0P-n1MtjONS_FJZp22PMiJ_MNTtbjcsNvHnZzRnkrF7lgKpd2T550eDQUs5ny2HKyysAzEYRu6b3sRfl0UOgjTZcyyJeDTMC9OC-2Q_aIG3zz4Ny5aBGjLdwTWc-vFsx3SXAEXJKQ2-hwZBvlgYlWow2GetOXN6M4D1Vzraxwuu_ZO5TnPtlo8Qmr2vSlHP76F-Th4P4"
+      },
+      {
+        "title": "Lian Li RB650 650W 80 Plus Bronze Non Modular ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQCRx9kESckaUv94WivFn7u4X6x95Wx8BuYyZv2fHPuZPnqlyr9XSOWe3I7GAV0_U0gUz_xBisPI4niix14b-8g4nIfdO8Sd1Tj9_0vV7lV0Q2h2qf18isW",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-gyf1nicHZNL0qJIEMenbzCX6JVhRFFQPGYHAgoqyqtQNl8gVQrylIeop-nwm-6InmXPxKznGt2LiZibDHYtclGZlf_8ZVb--8uvT5r-vdBCGrV9pXRRUnf2VqBUp_bXuqlIH3cp-YvhRQmKksAzUGB5iDjAo69x1EV5dUrJN0GAEoCA5RDLCojnGfZbQiOSpyXdHI-0Uav4lYQBDCtBnoMiw4mAAYiR_kiL6ER_-v9kERydgsCyjABFTpR4-N6Q9tPnS0-b-3cjjzradpO4bxpadpMTLWkTdWlVTghts66qJ9vZpG77SVwVdVW-Yhqaj2CUTCCA6GX4SUmHz6f6Zz2jFs8CToIQ8CzD85IE3osRBwk8x4-4IgD8GAEF7r2-ds_k9Dzlz759JvmTll-qqL4e4x8f3rUmns2usWL7dY1VB7iMYsbwdsaF_Vj71sPDOlrrJ7jWmPNGuyE702d2cLNDHc_tXNk7Wb1fYxJYOIcrLzd8qN3XOkkPkOki3VTJOVTswNQ8Nqz27Br5mfg4YJJ7ngmcHGdu5nMErIfDHF1oWXP-OQwDXfF8zTHXj5CP7kzvMzhZs8QLSn0RukyCNal1M7QNWY3dA8nzYc25vrm2NAJwwbFxcLq7Za0GO9045CcY58o98Lujpe47K_NvkUaC1S70N7o1J4uwdx_KiiySue3pm1BNbjiQVlGu3ywvaZwgbPZF2Fs-Rti3uEMmhfuHuY0Zc2VhB1pjT5zAHPA8KULGCRzH2JEMRyPE9eAlpoetRbxwHH8hd84iL-1dHBmZrsWsgcLcSYJ5gul57BdAeRxIhqvbYB8YgOpmRYIOxkD7_dY2x-9A1lHnblARLXci91hzQrIzTbe-JbV0pmfWTobfGEHkEM-y4jh--CWuqiylPz78J2uzj6wqExNr0XV1Wl36PSdV8lQtNtf5HcVXWRHTKFkCpPJySVbnOQq50pm-HfU-P1ryR1aZqHhM0T52dG7RpQjapF0hEN4McSM-brVdaVM91xe1OFi4fNMG-XVe797eXDp-ejp1PWf7qsIqwiFip-KikJWbxTmZlW-Wy-K6gXPuIG9Psq6YK4Va5jD4C0Ibqtz96RZPU_NRtHl7m6XdRRqqqxrA2YagqE1dbiiRX5bLYuXp_umlahnqqDUu9Gj3G9Mc-jZk-Pjg0OtgCcE8ukcFgdCPdStl9-U0DzCnArxUaXLWCwPbU809-Bkab9jLLCHTrR-tB2PLb-9WeUFJJaeJsFCa6o08aHcvqc_Gyt3mZJWBFyIIteEu30T5fFTo_XAwZJAYnUzALb3M7C6-h6V_deF002h7Rps5Z7Ke9iZMdhE-AS6KyHXYcMTeJ3iBVoMFumLbZtd5eunyss_NYOS9uMfs0kZbLTz7qjZu-PGf_wGB_LEK"
+      },
+      {
+        "title": "be quiet! System Power 11 650W ATX 3.1 PSU",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRx1gVsvY1os_SoMV9KEqrk54O07cJfNor8PykJTgm_7i4f9-B9EOm1YN89Rb29i1lUHEVw-7WQ1hbQGkdfn98kKDr_gnI0qGz36j5AEc-G0F5YpY885nxc3A",
+        "price": "$57.58",
+        "extracted_price": 57.58,
+        "reviews": 18,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=K6cIhHicdVTLruNEEAW-gAW_wCqK1H477Px2nKQdP7p97U3kuDuxE78SO3YS8TV3GCRYDog1vzGzQOJPcMQWalGLOt116hxV919ffftOiz9sI6Fpd2vUPs3b3ttKlJrU-6W9NuSW9QX5nRHlBSsvJJFhJU5kBR6Iwi9Z2qdlc3zBPCcKC4lZSJIIJAEIPM99ymlKyqKm7uFAr3qTFeQ3UeQAIzIiu-AWrDR1Yvhfiyo90n9hASxknlswAsdLrAg4IMofrqT7zG-1HcMyjCgJC4GRJw5eEHhZ_HHru_ruf8CPlxu9Pj4vy7SnXT_LbtcrrfvZkdb0mvZFU88I7c5908622qztbrOsqdqmfp250nKyg5IZC1jhlcRZTcePxzZ7af0Prg9VQT4JkshP1jCSLDITyHD8h3bo3_Pj-7F8v3XveflO65-btB0O2ZdvvjOaUde6UfNQ22LdB0G9fMYV84x0aPk6ZDNwf2JUDqhCDATlJuOS-6a6b2gF3Y0BHpuT-UxDMqIoiV28eSamk8CCsVzkLMmb08CytPZVLxAW6h6nxqQu79mZQRkw7ZTBblyTawDAMzDxcn_uSx_l4uYNxl7tJ6GRhNRadCFTarQ6suiMN9GbuXEtrPnV-KB6IgZM26em35PQwXEN7RSRR8xNOp4xv8aOhg3o0drcIGYDMM5hYEGHlCSMIsHyzTwOgemnuAWYZW77Gt-8c36KGcfaWK02zX8iFcPHZ8fGOmIDo7S90ofYJr13MqvA8ocUqwM28AobAouNhRHa6tJDd5DYzlsWqqsQJHpg5GVUk2FfMLaLcscDvUbO5i1Ai7fMcJg16pMUtDHW4Sa0iZmapA4AcUIdc9EZGt7JY0OdOC5uTRjiCp27uxcuOYig6EVNYHKJGVU437OADxAT-pwKEFbHNfKFBJicVTiqb8OHGyXIL_MOcvkywEmYsugen8swMvN2H8Ht5EHkG6360727Hj4DxRT6wJX8AvPnonZNrQHx0B4lgm-K4hOdej9MW8YLIsfJ8kLmfs6a5lzQL1__rRja95yuEAcb6bA-ri-3mF80ylyv3MF6CNmgqHKR5isg6KJSk_XJEhK-9ue7g3krD1D5nlNnOp5adM83akG6kkGXd2sBJPel7MrPe-s1xtwsTbuVR4jrnTEqr3jd2-0COr0yOg9Cf_uaAlbJmHJz2a4U9Q55_wxLd7WqBpe1-L2yPSqm6qxVCp1xRDahV6o-0HyL54XzrLqyu2tFf1mMzaBHrOYSIe2KgB9rAdX1qlqHJjq-WOFSn7gEjpty7DrOeOsSRsz2Ph1GKEVW-kgrwrIoM2HBxfW8jDCvA7zSaT4t0hJ7cyPYo7MwVbiLlpP5FqWbcbkVtw9YX4S8UYpcstVrsyNP2j9qirhMfXi8ojPshUhSuwxWO1k5HVT62O-XCsiXvULAvbhoXp89khoNATt3r0bMGJp_Ipv5zWHztxQfAZ-mZBhdnnhxjm1hPULQV9vuPFjFpS_rW-lEk95LcDhfunRrJCekG9OXcvjzH7vG4f4"
+      },
+      {
+        "title": "MSI MAG A650BN PCIE5 III 650W Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTRgPQkAKGC6N3ettuAks-6jBfvItkCAe0qbfMM7JpamHmP-eG8UZpchwca8i0J3ygfsgjGppav--wZ1RQIwH-tTMLyta92Rkcv76wMySZeLnz0pkEXoBGP",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$70",
+        "extracted_original_price": 70,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Hp7Iv3icHVPLrqNGEM38QX5iVpYloGnA2YEBY2yDeRs2V226bTBP87a_Jro3M9JkORNlnd-YWUTKn4Q7tSiV6nVOlar-_eXXV5L-rSkRQW1fSR1K6s468oSoxPpSNxXu4y7Ff9GcsGKEFc_RDA84BrIUB7_EqEN5dU3xNwAFmoMUJ_AryNL8aja-JgThPC2JebmQRq7in10AxbEcz0Be4FiGBQxP_ZkW6Ep-xr-tBAHOAmhGYLgZiubBW4Pb3z_de9I8vm9z1JG2W8R905CyW1xJSRrUpVW5wKTNuqpeHNeLuu0XcVXUVfme05B8nozgBUMx8F1xi5KMn671Tz6Q4nkoMADwAEKKpimBfitS_BXyM00G0vxMcI7SLPdWD91rcn295q99-5rkr6T8XKF6uMQ_PrwpTbxeD7FkeXXtyzbl3IyWZGoZu9LDKlTgMB08MFN_euZlXOaPSIE7w8Vl6NBTkOkBCmzbuhkuAtg2Cj8xNJWLT1LleDWw_KhzgVFg_zA6Bd0Ep6Q6Uf7DD_ADu1HhKXDw8yizgK97SqQRrY6wXx98EKnopnfuTS_PQR7GKZ2EDB3auaEQtb5Zz3yKZQMcvMnHHgSBt5IOmaGZyhVESjTtffUW0XmAgO3iPHuiAu7DbCUFXvJ0VT0LmXa0S__pqauebKon8QQqdPPorNCbsyJMqJgu5ibSwiDSDkAZzzfMIRpzmOnc0MXD3usarNp3omFonQwzPtmuQ-XSvLO7ZW9POPNRFKjD2U101ze0WLNtTxM7W8tL6xSjbaYqMdjCKD-wFqU8LToc96dEigK48VL6FHp-E2wSFTl05AXxH1PbXL5Togo7x-Tt1GeztDTVdUWFQ33lsd-Loo1lYv1G8wILOQAEYSWAz3FVZSn58eE_UVl_BLKIdV9Bw_66v_chu6rEpVyYw-YB40GUhBQlOwrKnFji_W0DI7a0ly8Xtc8vhvgRSAvZn1u0zxPZGGQnUG3S7iEVTVvBFJ5TbVXKUs1VrRZGwy9flFF8l_e6lxeHzEdPlo5rH99ZGEU0IrAUtEKUJoO1MyM3d7tiMJkNexaPV1GV9L1EDH0cPQ2ThkgPb3n0l6n-LNq8ndZpd1-N1SAHzNrEELWpw44l9MpyV-xd1bu-oxpbecaCAMw6NHV97NuI5uKzTYbR4IMNeqACM4wXq0YKwnKZBz4rU_5OJslNLba-tVScs5fB2QPu6wQvjx46jNsjd3wY5R0mlZgmvCY11Qt-ku5REg_E87-wokwzd8zz9dbZvQji7SKRx_m8Falk24mYmtL72uriR1R6g8MszUYJaWVt3_Bh2etMckL-lWIRwsNostgKE1-D-9GguuLYZsMmvXd52ed6MM97dy7ZvUVHJbp5sjJ_-OWf_wE8OLT0"
+      },
+      {
+        "title": "Thermalright TG-650 Modular PSU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTep3Uf0FySw8EmlDcmV_6bhEKhdhQ8W5nGYW2q5q9Kkmo10K_1Y6YC8R975OpptU5gVGyTA44exN2maPFn6sR24PVtoiCoLmGx54pGVk2p0mrlD_ORqT3yEQ",
+        "price": "$69.23",
+        "extracted_price": 69.23,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2dQvTnicbVTP8qJGEE7yBDnkFXKyTA0DA5gbCKiooMCAzMVCZhTkr4IiVp7mt9mt2tyySeWc19g9pCpvEsw1mUPPVH_f9NfdVd1_ffXtG0v_mOuERc2tUtsoqdvtRmLMYNuP9bWit7hN6e-cKE-gPJFEDkq8CJEARPQxjtoor04p_Q1CfiKBCS8LkvB6ygB8SlhE87Rk9vHIrloVDzRZRFCWECcLooh4YTIRuV_SIjqxf-FBZCIOsWUeiByQoQgH0rsrbT7_sJnuJ1CcIAAGjB9uAUx-2ji2tv8_5P3lxq7950UetaxpR_HtemVlOzqxkl2jNq3KEWVN1lb1aDMd1c1tFFdFXZUvzpXlQyMYHUEA0cuIo5J170_1kN-v_xF6V6T0E5JEQYQSEpEkywLPQf5dfW_fktPbKX-7NW9J_sbKD1VU34_xl2--06tOmzbddIvr2tcc4BkkJJiYTCPEnnJpBOvGdrn-8FSxhUN0mG_bSFs_8MwH4c6ZRpq5JNhSSeF7IUZpyJNzYBhbCinGkNMpRnOcGwLGE8SMCrE8X3ql0hN46klm3UjpPFaeI9q47T1M8xgYZvh0evx0uLhoTYfP_W3KNRHAAGOCgyD38Kz1bL3W3dx0SanOdjBBO-igHcgbWlLzsDP7dVAji8s5XCYbbFRPK3jkZO6X6yfmraDj6NPsLcMynMJ6OsA6s4LisFR3EUxcN_DXsUeSYF7PaWFUsWG2Aa6Pa92aOjtH255NlQLO9Pi4p7uaWwc5ifLa9OZr3pnlwC8WvF8agp_VU1-vYbCzaowdF4N6SjMrC0pSRgFyw53VO57hH4I1IJoOXI9WbmYUMSAOPS_gQecc5lEjGrpi7wzgG9kzmiE1BCRxefW5BXVoZWvX4IkRFH5ygEBwMec5vAqwr3Yr7CACDH6Wmqozt3o7II6fofM2y30_y4W1Hj89rm5DvBCCM41sbMHt2eJ_fjTX42egGKh1bel6djaTMpDu3JXEvg_aq-ZRVcyeWPmRk2QBiTwvyxNZ-BBXVZayL1__rejT73lNoaavR_fVaXW5hcKkUsZaYd9nPYrviiqnUbIESBOVkq7OM0SE0hnvj8YtP1rK97w60vwhRPPcsZnFljJokmaFAHksZFt-PuptpY-N3JjXcmf55V7vlNd5_dvvXTaMGBu7nrN5ZWEVpIv4sTwvFPVhCU5m5fZyWdxtOBMOyuakGKq5Uplldh2eU3Zlao_HG3-cms-iyZvHNG0vk666awGc2hRFTeoKXYlwWS6LlWfg00vVWmiDFuL5wYa2aXa3hnBifHDYvbOkYBb1UUEhxLFhpXxYjvPAFzTgLzWWnI1i4W_HunvAGRo8_GWa0PEGR-tusRE3vVVeUFIpaSLN1Wu1p0_W9iXDfKz2W0HROHihklQv3OVeVs5HlfWHw0IByaJVKHikl-m2jXtS4rsLx_ZVDzl96pzpenwzYbKL_BMQoojeO1ug2zDx52jVWaAtNk12n6WXNi9vuRkM9V7cY3Zpoo1OzljTh5Vy_PMfJm7hAQ"
+      },
+      {
+        "title": "Rosewill 650W 80+ Bronze ATX 3.0 & 3.1 Compatible Semi-Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQrI2G0W1sXhXnY0D4K2LhFDDtfKUc5OTPhOMDZlgrJnhZZoiWLXto4-VH7nAho_49paRVB-YB-WQZaVyZuZacICCPOfHLTgGPHCMgy5XmKykAFaVjOjYho",
+        "price": "$49.99",
+        "extracted_price": 49.99,
+        "original_price": "$60",
+        "extracted_original_price": 60,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yWZWLXicdVTLzqM2FG77BF30FWYVRbIBB-gOAoRcxoSbSdhEBDuBhFuAQIL6NP-0labLadV1X2NmUalvUtIuq1pHR9b5js93_MnHf3717RtLfzf1kEXNvVTbKKlaeysyZjD7Y1WX9B63Kf0NziSZk2RxBjmRn3FIADP0MY7aKCvPL1gAAPKSxM1kiCRZkAVR-pSwiGZpwazTidVaGaf0V1mEM8iPmYIscogXEeB-SfPozP6F-ZEByrwAARipZlDg-A81bT4L2_kBzjgJIIEfW0AIiAIvifCHrWNph_8Bf7rdWf38vMyiljXtJL7XNSvayZkVrI7atCwmlDXXtqwm2_mkau6TuMyrsnjl1Cwb5WB0wgEOvdxsUrD-p3MV_yPFf7k-5Cn9hMSZMGIv43kZISh9qLr2LTm_nbO3e_OWZG-s-LmMqu4Uf_nmO73stXnTz22_qojmAJfre3xFfAhxbmn7NjZp4lyvPdUfg-Vh3yfyPvKTyOcej6jIoMvZgOjUcYxkwzJ1FeQ6IIZqurw9uAXGBMCtn0LdWjjoqOkAc8gihXOyoaOyxcrYDasbAY7JDNkKdHrBQAZHQ22YsfL2O6Ji3dl5vrwJzf1w1LIL9tQaB-geciEKjWpLAZr7pnrbB_jq89gb953DEz7O6TMsqke8EFCkEzvmw82OMzwvCO9hUA5WkO0wCE97Qmc4KFtcONDTVmtGDGjD7BkO5P3xog_h4vpghdJ7QWXvMx_GMNM2O6rSwjE3OzW3Sbb2jbDwoP10II6CRWuOtcrY7x9BET5i0HbBDi_9Iby7l8y0_VZwA_gIsqoJA8MKiJPbWXixczInppP4O9KwXaUGejmQixFEF6LSoML73Wq9CZaCt1tyVPMHbJLnqE0Zgatr8KER5CQ5ckBwfeg5vAp8ovYb30EhMPhFulIdEz-tIHSOecJFeTI4C9zFHl6QBUkJMW6BSbqj5txplvE_Ppr69BkoBmpdS6wvzlYuArGDdRgTAtpa86g6uw6-8j0UJQGN70ySZEn4OS7La8q-fP2Xos_f8ZpCV0SPus15c7vvBblUplpudYsnijtFldIoWQOkzZSCbi4LFAqFMz2cjHt2wso7Xp1oZCzRDDu2wGwtgSZpNgiEj6VkScOjskt9amSGWUk9JsVB75XXep07HFw2Thmbup6zfXWB87CP-Klk5or6wIJzxZm1XuedxS2Eo7I9K4a62qgMr_reNymrmfr0p1syTVdD3mTNY562N7kvOy3g5hZFUZO6Ql8gvyjW-cYz_POLFS-1kQvx_Oj31mrV35sQzuKjw7oei8EiekY55Tg_NnDK74tpFhBBA2StseRi5EtiT3X36F_RGOFv84ROt370vl9uZ9snLm4oKZU0EU21Lg90YO2zYD4fq09bUDTI3agoVkt3fZCUy0llz-NxqYBk2SoUPNLb3G7jcRL8zuWmVq3voT53LvT99L7ikl1EzkCIItr1lkDtfUJMtOkxaPNtc-0W6a3Ninu2Csb73tzT9dZEWz28-Jo-fimnP_4GqwDkCw"
+      },
+      {
+        "title": "Thermaltake Smart 500W 80 Plus Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSPsXjYOMSPf_nmsdahYxNaI4JIFZS0ZgsBmiYlxjRYsbfxErwUhGj-1MbnPBewJ28lSdr1MNNYGWr7W68cPhzyMu8Eivuxbbw3AtcPuiE",
+        "price": "$42.99",
+        "extracted_price": 42.99,
+        "original_price": "$49",
+        "extracted_original_price": 49,
+        "reviews": 255,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3nOBN3icdVTLrqNGEE3yBVnkF7KyLHU3zSs7MAaba4PNo7HZWDzaBvM0YANWvuZOJlKynERZ5zdmFpHyJ8GzTy9qUed0nVPVqv7nm-_fafrXaunToL1Xchckdbff8ZSqdP9b3VTxPerS-E_ICSISRJ6DiGc4xGLAsb9FQRfk1eUFQxFijmMEhAXEIiAKGH5KaBDnaUnN85k2ShV95WHM8yzHiaIIWA6JjCj8nhbBhX7F_4AIAP6V5jgOiyyGgP3QxO1nvFucIDtpYh7wYCJwCE-lhJ93lqmc_gf8eLvTZvy8zoOOtt0sujcNLbvZhZa0Cbq0KmcxbbOuqme7xaxu77OoKuqqfHEamk_zoPEMAcS-Ajcraf_xUr9M8gI_OYMsEhDk2a-WPxRp_InlOcwhAfMCB6CARSh8qB_de3J5v-Tv9_Y9yd9p-WsV1I9z9OW7H5ZVryzafrF365ooFrDdFoUIanuH7Khiub7LlqGWjabGyoYNQfiUWeIcx9AFOERGv3FybZ-Jd-eaBPbVwpGXKEaZkIhY7AFZ3R4Z4DjCNkR-4DPbzlW2jOt1ZH_YDtusWxKQLPZZNkYH62Yv4GBfk0N42I9EjQYfiT6BYhYTCdqrbNwyydHV6o2rkeFI5CMBoutrceaT-BqocbOFWWcVRjX52TqO7xEPI081lHipD7YqF0TrTNdJsJf12IDiJiqIS8kakuyIzJVVWQc_sOH6GQAy2E858Ysa2Yy88JlEiVZJZjn61L-6sw_yYLjiIwB5F2l5uS0yHGRJFbkda64Sw7om2dYhIGLizmD0IQbuYMP6foA5Fyq64qAaWWrNGVmLjld9CA9-GkB_46M6jV3jSlTfd6AcHEFyOzrbPvZ8g7h5aqiJFQK_tz22DrNODjK99bKlrTK-6hUkCRHAtgsdi5GBS-R-41qsD1RGS3XZWhmj6fmWo9ZeiAabrkjiKPk9XknQUpJquwDYAfraXIrML0PbnD8DSWU72-Sbq7UTS49_wMaPCAFdozixzGVPV_oJ8gJmOYYRhGnXfo2qKkvpl2__lZaLHxlFinWyDB6by-Z2P2KxkuZKYT60kY0ekiykQfIGWIWTynhz1Vgfl9b8dFbv-dmQfmTkmUKmEu3zQDWDvgmgTdoNC_xhLZjCc6j31XKu5uqqFnqDlKdlL73O697pZNNpyejcdqzdy4VR-H3AzIVVIU3Phq3MyM23t-JhIg2H0u4iqbK-kamh9727imlD5dGd78g81Z9Fm7fDIu1uYl89FA8tzJgN2tTGfcm6ZflWbBzVvbxUjbUyabEMM8Wjqev9vfUhF4UWffQG72nBGBQxQm6kGilzLOe5R7ACyJtCk6tarMl-vrRDN2OnDHNbJPF85wbbfr3jdqNR3tikktKEX8lNdYqftBtL6jKRPO6xpEB0i3m-XttvJ0G6nmU6huFaAsm6k2IwpLfFvotGv3QfNpqbzfIIlwvrGm_ndx0lh4BcAA6C-NGbON4fE7JiN70BumLXZg8tvXV5ec91b-r3Zp-zWxvslv7VVZbTl3L--z-i5-Jm"
+      },
+      {
+        "title": "Thermaltake Litepower 650W PSU",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcToZmCq-cBZZ6XguGrVsNilyR1TNwRkFuUo7IK6BqcYJgPiw5vTPvbJ01m7x510hgccAHF190GzA1WbKcgSjoEu5jg3X-cR3ltpxoilk3Y",
+        "price": "$70.74",
+        "extracted_price": 70.74,
+        "reviews": 4,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KYuup3icdVTLsqpGFE3yBRnkFzKyrOoGGiEzEBofR0CgW2ViId0K2jwUFLXyNSfJrboZ3qQyzm_cO0hV_iRYmSZ7sAf7tXqvWr3_-urbd57_MbFjnjTXymyTrG6X_ohzzJcf60vFrmmbs9-hqumSpo9UKI1kVUIKUNHHNGkTUR1y9psu66qGJKBBqCBFVnQkfcp4wkRecm-_5xerSvsyVdeBJukI6MpIkkaKrmi_5kVy4P-mdQAkCBCCqqSocIQ0Gf10Yc1nxR9vIYQ6GMmKpMtI1TUgqQD96Aeetf2f5C_nK788Pk9F0vKmHaTXy4WX7eDAS35J2rwqB4w3p7aqB_54UDfXQVoVdVW-ai5c9GxwNpCAhF5OHZS8--VQpy8m_gPrpyJnn9BIVXpmVElXgQpkpQ_Xt_Y9O7wfxPu1ec_EOy8_VEl926dfvvnOrjpr3HTjJalragUgBPfx4smOzJntA4lBAuuGrcV6CRhZlhWkBJ2iKMCRoCq1mEeebEVXLIomeLqW6HG3rs3AqedpgdzN02hXji2ziB03T5FQOzuzE4xj5_Bk60oOQUwXR9ONC1RFkD5caPo7SPfkhIkL7stQuvseJW2AxSYsyGNhz86uw-ydcD0yeeHGdkywspHNeFW4wnXuErVjKYJZRUvchHjRESwUJuomhCJPbaimp6ZLsV66RHSxE3chySpeZnfa7xgCZocOGrs4uNCnKby1u0mgISd2fA1CaAcYm0ymBV3HsxTWgkwwXMAgXkv6nBzZmEXmhdozhTrLRyIb0D2yM1v3PK02bUDNihQBcU9BlwC9W61ptJFFmGARsvXMWk1MERbIWkTBPrHcaP3E64TWYUpTiTt1l5xYuBhDP6TivrNbGq3x0i1EFq66EMsxXhU020lACQmMAtkEhJrdGwlQDLDs5DMzmLgPbxWHyxVOgkjMN3TxiMgdxDmsaA4DSoLEiwTZrILy53tz2X8GBkZt6CGkYd_Yjm65tnflRGDCgBrcsNypxg9wpClIlWVN0zX0Ia2qU86_fP23YY-_ly2Dzaid3N4Ob-frRtErY2gV3s15oPRmmFqeZHOALNUo2dvRQbFSBsPtHl_F3jW-l82BRfsRzXPNHZfPNdBkzRsC8X2qedrzXi8re4gFntRa59Jya3fGy159223I-1_Gh2EU-K9XuEXcJfJQmxSGeXeV4OQKbz4vbp7kKDvDPxjYnL2Z3J11XS8qfuHmgwx9Osxnz6IRzX2ct2e9q27WShp7DCVNHipdiUhZzou3CJPDC9WdWj0WkuXeb7zZrLs2cS-2XcBvnTtaOckjKZgkkRS7ubwph2JFFQvQucWzIy6mdDm0wx05oT4in8cZG_okWXRTX_UfbnlGWWXk2WhiXqote_L2UXIip-ZjqRgWlM5sNKqn4XyrGce9yR-73dQA2bQ1GLjn5_GyTR9xSW6hNPQu9gba4-DIFsPrTMp6hR2AkiTs1nkKW24yOkFvnQvawm9ONyc_t6K8itmq3_cc7k_nJvHt-Egsuz8p-z__Ae144us"
+      },
+      {
+        "title": "Montech BETA 2 750 Watt ATX Non-Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcREiOixR0tRTzMArigqB8nOfERH7KtkHFlC-cH-3zihNha2HJfIJnpV6gMe36rzl86OLTYwtCZiWPhLJSesiN88tEjoUFWy8x_3cZ2EszPOSy4U_X1Z7Z3l",
+        "price": "$51.19",
+        "extracted_price": 51.19,
+        "reviews": 2,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3VwtvXicbVTLsuI2EE3yBVnkF2ZFUSU_5Ed2Nn6AAYFfsvGGEpbAxk-wwXArX3MnM1WT5WQq6_zGzCJV-ZP4Zj1a9OJ0q0-fUy3988PPryz_a24mjHS3Ru9J1vbuVmbMYu6n9trQW9rn9AsnKSqvqLLE8bIg8VAEEvyUkp6UzSmnf6o8VAFUeWnMAQEAQRE-Z4zQMq_Z5nhkV6NJxzJeBaIkiBIvSTKQRE6WhT_yipzY_-kvHJAVAGVVVlSgQFVRJUF-f6XdV34728sQcKoIRlBSxg6yJMPftt7G2H8_9-FyY9fn10VJetb1k_R2vbK6n5xYza6kz5t6QllX9E072c4mbXebpE3VNvVbzZWVoxmMTnjAw7cgTWo2fDi1bxK-Q_W-yulnKEvimy8iHLFRhyi9b-_9a3Z6PZWvt-41K19Z_bEh7f2YfvvpF7MZjFk3zNywbbHhgcBITBIlW2QhkQAVspy7oEItErM8roJMQAU117zY7-JWiIHjHs70SIV2GZiLF1Y7PeUSso6pSGwVJnwfpXPdTAXLQqGHUamWKBr4CFMSRSKHoqTFtbdOY2QkGM8xb519Xl3ioOzS0HPWUTuPqqTAgpWtI-gHsbf1Cm6NjbQPuIxjAZ6HMb2RAhlpkPKBnRmHedL6ddgHFrrteC_bAasa-xKXK91gXi5QjBEtaYPtR5aYCPhmj1axs_Qx9hI-I6uIi30DmR5XwkOkLhKbOmF1guPcPTaSkBmJEIWlg4ywZ-fMj7BlHEpVcgX34dtt5QYFJNhyw8ACaw4ZNCyenlFiP04QstaPxB69POthFKAyMCE4mOWMmFyM7OS5q81REy0Ohu66cUJorOOozJ4oKte08BIcJD3i0AydnZDYLcFzZ5byO98SEiuqcHbggeiHXOAJOgixPqxCDybAEuzc0b05em6ixCOgv4ShdyPcug9A1nmgjKjV2oHhlOisowO2hN8f3fX4FWgW7P0NhIq11fbyPVeOSCClFVIgeXdLGCTtV27cLygJgqKoCvyYNk2Rs28__quZs3eCoVEHm-S-Oq0ut52oNtrUqDZ3-wnTu6YrOcmWABqSVtPV2YaJWHvT_dG6lUekvRP0iYHHFt1LzGzElgrosm4FQfJYKBvl5dG6jTm1SmveKgPC9d4ctLfzdm-_99n4yNjUD7zt2xSoSgYiTJV5pekPJHoFKjfLZXXf8LZ40LYnzdKdlc6QMwzhnLIr05_hdIunufNSdWX3mOX9RR2auxHxsw2FpMt9cahhWNfLahVY4emNFS2MkQsKwhh3G8cZbl3CSenBY_cByZFNnqSiPB-mFsqFXT0tIywaAC8Nlp2taoHdqekfwgKOiHCZZXS6Dcl6WGyl7RPVF5g1Wp7Jc_3a7OkL6581C4VUf7qiZnD8hcpyu_CXe0U7H3X2PBwWGsgWvUbBI7_M3D59JnV49_np5mruOHPmnel6enP4LCb4BERC6H3YiNTdZXgOVwMCfbXtirudX_qyvpVONOq9-Mfi0pGtmZxDwxy_lOPf_wGS9d8s"
+      },
+      {
+        "title": "Thermaltake Toughpower GT 850W Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRHGfJJjgSqwwFfd8QGfrHy3Ek6IazZFRs_esBen1kaPU3UTbI3-hLTZnsxQS8xPHj-nkuI7ztUsNQE53SNsA-kaEfzxIPMURI7KAGtddQFeiNo4PCNGaPRLg",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "reviews": 82,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=S4SxqHicdVTN0qJGFE3yBFnkFbKyrIJuGjA7EFpFBQEblI3V0q38g4KiVp7mm8xUTZYzqazzGjOLVOVNorNOenEXfe8959xzq_vv73584-mfUzPitL3UekeTpnNXCueYux-bc80ucZeyP0RZHQF1pMgiUKAMkCTI6GNMO1rUx5R9HikqGEEgqVAUkChARVI_JZyyIq24czjws1HH31AkAGVZHilIBSocQVVRfk9LeuTf8p9lGTxxFaCoSJCQoqpAendm7RdpNd6JoiopaAShAOQXkyxK6q8rzzF2_5N8f7rw8_3LrKAdb7tBfDmfedUNjrziZ9qldTVgvM27uhmsxoOmvQziumzq6lVz5sXTDs4GQADoFeRBxfv3x-bbEP_B9a5M2SekyNLLGiijEZAUgJR3zbV7S45vx-Lt0r4lxRuvPtS0uR7irz_8ZNa9MW77sUuaJjA8YW2OLHsSNLywpABaC28SRSy_eQx6XTi1q-2a6RQ0mWcEa24WvVu6wCNeyrCH4rX5YGV3JpuiW07ZxN80lJTJnU5Y6xUsjMNuvA7YhIdJHRc42oY3k5nYDomF-KYRqcHc9cMKgszexGUMl1ObUCOyiRBtApPd3I11JyZOvDC6uEIg8CDv_cfxFucWcXOCFuskI2v9wPLtjVZNRMOm3G70dAvwwQbe3A6sglTWKZ4m_T73DGrY472ATTbFcxegK8_0Qxziys5xwnBh74Wu4xlzHWKKlDRPTQ3dgMRhBJXbHNfLbHb3hABERrBkpWV4ZrGg4c3yH2xGRbbZPILnDvVpsMF-bHhWaODMy2_iPrS2NhGjDRDzyOx0z9iKYYY366wQ4zWWnx63-yKHMWmRKyZ0-QiWdBKIUSpCD4_u4TSKwjxBzMi7iBx9DCMclkGyB4LkE3HtQV0ggd4viIciAcNJaune1L47YeTHlfvsi4Ev6gsnKG6xaU1CU3wsM0_ga4a3Dxv-dmvPhy-ChlHnOwipeKXtlGuqHmxIC0yYIHtXDHtZ-0VUVAnJEKrqSEUf4rrOU_71-380c_wzNDRmBSa9Lo6L02UrjWptaJTOdXJH8VXT1ZQmcwEZslaxRTZBkVR5w90BX4qDrf0M9YERPCHax4ZPbD5XhTZpF0iIbjPVUR-3xq3NIS7wtFF7O6h2Zq-9zqtvt_P585Xxob_2Vi8Vdhn1FA7VaanpN1vycrtw5vPy6oCJtNdWRw3r1kLnttX3ZMr4met3MlwFw9R6lG3R3sZpdxr19dUIwdhhiLapL_UVIlU1LxdrTI4vVntmPLkQhM-4dSyrv7SRKMd7j197Wwkn9E5LBgCJsZ3CbTUswkAyhGBu8CTD5Sxwh6a_Jzl63sDTOGHDFaHLfraSV3e7OqGk1tJEmernescevLtXnMBYv7uSZojgxBSlmfnznaplB53f9_uZJiSzTmPCLT2N3S6-RxW5-mDonM2taI69jC2HFwskGxocBYlSdu0dibnbJJiiRW8LXblq8-skPXVFdSms8DnvyT_kp5auzCgjhvn8Ug5__Qt95OUH"
+      },
+      {
+        "title": "Thermaltake BX3 Pro",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcReGpwMFxYgsDYlCZozv6-mIa78HXNktoWN1djHU4ibdq81Q9pIsjC77a_kyA875aw8FNlZA1gWEVEz5AWeR_mDwuwufnnVOg8iYUVPu84",
+        "price": "$72.35",
+        "extracted_price": 72.35,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LPggEHicHVPLrqNGEM38QX5iVpYlXg04OzBgjH3BvBrMxmrTbYN5mqftr4l8MyNNljNR1vmNmUWk_EnwtEq1qNN1Th1117-__Pok6d-6GhHU9pXcoaTu7J1AiEbsL3VT4T7uUvwXzYsLRlwIPM0ILM8AjuLBlxh1KK_OKf4GAMMLDMsJC0oUaGEK8DUhCOdpSazTiTRKFb9YaMAsRFEA_IKjgMCy9EL8My3QmfzEv4mLBTMVJxV6QgAj0NR7g9vfP1170ty_r3PUkbabxX3TkLKbnUlJGtSlVTnDpM26qp7tlrO67WdxVdRV-brTkHxyRvCMoRjwSvysJOOnc_1zHoHnAMNMsws8YFlAL5jFe5Hir2AC-MmvSNE0DyhOZN7roXsm5-c5f_btM8mfpPxcoXo4xT8-vKtNvFwOsWz7dQ0Vh_JU8xI_1reghCdc4h0KncgLbnui0gX2krsDce9oRhFozsPVoeyr5hp7Rm6tjAekjLurRRzKkuityLN9KRu2396OqhbZVLcluXOxfAMg1aan3jpWTBRBI3gLHQMrph0ENzu-RJSpaxukLZZYN4LYk1uz6Hi7EB9EtTmHAUvPj0K_dExHkVGsGdrRN6pjkdET_-BqiRUX4w2zpuPksItDLXjzwd5T5NJJaRpqsLT0nLdCuPUCo96GcIWg_Bbr9YqEskKK6BFleI8LU4tzOYE05qNC692UvgVqt4Gq5geKo_o03IeMw_pQHPcXnNqZyJqBUUW3dYgziKJAG45eYnjQ1GPdcXxd6hw9L-0wRutMU2N2DaLcHJxVznlspHgFZBy6rjCdg62vKUFuhC5MoJurf9za5vSdkjTQuRbA2qmkE3b0_fvlflo2_ZU9ONk8XBLpN1oQOcCzrDg9P_85rqosJT8-_Cepy4-sImEDqmjYnrfXfs8tKmmuFNawuoN4kGQxRcmGAgovlXh7WYGIK5354aT1-cmUPrLyTIETRfsIycokG5Fqk3YLqMmsaImPW21X6lzLNb0WRxOWB3WUXufVdzi4ZPr0ZO56zu41hVlEI2Lnol5I8s3knMzMrc2mGCxmxR2l3VnSZGMrE9MYR1_HpCHy3Z_v4Dw1HkWbt7dl2l0XYzUoAbO0MEBt6nJjCfyy3BRbT_PPL1VzrUxa015MeW8Zxti3Ec3HR4cMoykEK3RHBWYYP9bMlN2X8zyAnELBjUKSi1asoT1X3aOfganCXpcJnu989Daud_zubpZXkFRSmgi63FQH_CDdvSQ-G8t3m5MUmrliQajX7uYgSpeTTO7H41qiknUnYeqWXpd2F9-j0h9cZm416p5Wl84Fv817g0lCBM8UhxAeRovD9j6BOtiOJtUVuzYbVum1y8s-N4LJ79U9ZdcW7dTo4ivqtOGnf_4HaXizwA"
+      },
+      {
+        "title": "Thermalright TB-650 650W Fully Modular PSU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ9FsXq6Jg8CBEbeivbsCCdQEFaUPZyUZyRDgmlnIbSkZgLfsnp2XpDDRiQN6CCDnwLl2GI7nfm6BFbwreCXSLlP-C4bu4D8tiP8fILG0xgUn4QbHEtQTW0WQ",
+        "price": "$71.36",
+        "extracted_price": 71.36,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=E_IMPnicbVTNzqM2FG37BF30FbqKItmACXQHAZLwJZAYDAmbCLATCL8BEkLUp_mmrTRdTquu-xozi0p9kxJ1O5Z8F77n3HvPke1_vvn-naV_LfWAhe2tUrswqbvddsaYwXYf66ait7hL6Z9QlGROkmci5Ga8yCEBiOhjHHZhXp1T-ofIz6AAxy1DWUIQcpzwKWEhzdOS2acTa7QqHmHCyEYikmUJSjIC8kwCv6dFeGb_p9EMIXlECBIPOMDPxqofGtp-5rbzIxRlEfAilGdgNvIBgvzPW2xrx6_nfr3eWDN8XuVhx9puEt-ahpXd5MxK1oRdWpUTytqsq-rJdj6p29skroq6Kl-YhuWjF4xOOMChVxAnJet_PdevEb_S6kOR0k9oJgoiJwFJEDheBrIMP9T37j05v5_z91v7nuTvrPytCuv7Kf7y3Q961Wvztp_vSF17GgYOh-_WwmxjFxuUj2FMjP5QJo3LPTzsewvmUYv4j7W_qCufWNg3Ng-HGIRcVD_wTDvMsmEP5JwAWEVP6uFnjkIvuQRZwFvuGRAQFCMJui49RXN4YW4ybPJEtJbeJYTebeOqwNJUMwLUxrnMY8_SKYeKoPAskuFNWLQ8MWgY-pDf7anm6oiLfLPdlUTAmpE5xDQ3KTyQUQf1H-BAaOm6qhtncMlK3LkGGSzPuEYQ37yFdw8WxsFZ5mKUB3s3l-cxhxybSMjRrL29TEJHz2-OUdebZxAErrXfuEZHFqCzLuQR-6MjHD5FF7rCJG-iLO5Jmaw3MPA3sG4iXUa27xUB0buoWHW73HjsnhkMF9SONJx5hnk4gLOw860F0V-eIs3iPHX_9CqLa3nLXw32stbjJSY7YB5sEuzDp2nuODnAT1rahnHH_MYx-MDwCy-JOCA4BLqYVwHx1H5NMAqAwS9SU8VLa7D9ALuG4e_5pLe8WHBBkrlLU8N6x2G_40auEEML__Jom9NnoBioc2xEjVMJE74nZLgMp3lzu_JHnE33c6b8BGeSgESelyRZEn-LqypL2Zdv_1X0-Y-8plDT08P7-ry-3g6CXClTrbDviwHFd0WV0jB5A0gTlZKuLwsUCCWeHk_GLT9Zyo-8OtG8sUT73LOFxd4k0CbtGoHgsZJs6fmod5U-NXJjWUujkvKo98prvXjHo8PGR8amjou3rymsIuhDfiotC0V9WALOrNx-eyvuNrcQImV7VgzVXKvMMvueLClrmDqQ6dabpuazaPP2MU-7q9xXd83n5jZFYZs6Ql8iUpZvxXq8TudXV2uljb0Qz4_xYJtmf2sDKMYRZvfemvmLcAgLynEkNqyUP5TT3PcEDXhvGksuRrHydlPdiUiGxhP-Ok_odEvCTb_aitvBKq8oqZQ0mS3VpjrSJ-uGkhE-VoedoGiQu9LZrF45b0dJuZxUNkTRSgHJqlMoeKTX-a6Lh6Akd4eb2o1-gPocX-hmejO5ZB96ZyCEIb33tkB3h8RbonVvga7Yttl9kV67vLzlpj_qvTqn7NqGWz24EE0fv5TT3_8BzNbhfQ"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=06WujnicbVTNzuI2FG37BJX6DLNCSIkTE9JdQhJCgPwSB7JBJjYk5Jf8ApqHqb7pjDRdTqu-y8yiUt-kQepyvLiSfa_POfdY1__88PMbTf7W1ZDipivlFsdV69gCpRp1Pld1SbqoTchf7GwugrkozFggcDMAeWYGP0e4xVl5eaV5ccYBMOOhwHIQgPmcEb7EFJMsKah1PtNaKaNXnQAAI8A5y4gsEOecAKH4R5LjC_0_z72AIQQ8OxOEGQ84QfxQk-YrsBdHlhm3M4GBvCCKPM_yHPPedi3l-P3cx1tH68fXVYZb2rSTqKtrWrSTCy1ojdukLCaENmlbVhN7MamabhKVeVUWr5qaZqMdlEwAA-ArzCYFHT5eqlHjn9-h-pAn5Asc9Y7OjC0KYwXH8rMPVd--xZe3S_bWNW9x9kaLTyWu-nP07adf1LJRFs2wcPyqQorL7BQZbpCWOCBrScLeLdXt8bKq8dXMA1Ryh0zcb3Oji3L1SUBYR4VpnzjNs4IGeDt02Pni1slRb-lGeWLgKuKqvRfcDaIYOSqyje-xa5rGdyswfQxgTrTK8JFYnZaafwAacFPC7FI23OUoNZ9xtglQi5G4cPbucHga2wMT1iEXtluAngjcOw85A1qyRpBnMdHdrYWy1AfVw9trC6ybnQ-MkipxvwnaJgQO3DPiFmkuH6jD_aQjexOseDeTuTCAyL-6OEzvKOKIHQZkQzIUR_stTzV3a-6N1gPxI7hegMlFAC_jKvTb0TF0JkXJkZztIgY23jNUfAYdIsb0XFVb4-BuvrC2gfrAudqaWqjSFGnBXrNOexnscgfusip2n9mV-uxwUrTVLo3XJ930ERefPWCcwyJrsR9WaC8v3Cfhdnnz3AWsbipS64OVp6WxFuSjVg71TuHGWJcZH0ljT2gZIhWvUk2NuBUMM9NwldG7ZZWbbFwi3azMfAuoLj_xMw5cxTh4RfT7vanPXxlJg61nCcoqOGxlFiuHJjqrIGKaajg1Z2eInF9ZYc7DceLmDMOxn6KyTBP67cd_JXXxjlMkYozc_eayuXUHXiylqZJb_fIBo16S5wmO1wxUZlJBNtclDPnCnR7PWpedTekdJ08UNEI0zz1dmnQ9Z5q42UAmvK_m1vx5r5xSnWqZplfzwUTFUR2k13rdOx49Os4YnXo7136pMPNwwNx0rueSfDd5NzUza73Oewss-ZNkXyRNNjYyNY1h8HVCayo__KmNponxzJusuS-S9iYOZa8EYGERiJvE44cC-kWxzjc7zb-8WM2VMnJBjhvjwTKMoWtCdhadXNoPphAs8fj2BAA_0syEOxTTLEC8wqC1QuOrlq-QM1W9k5_C8YS7LWIytX28HVb2zH6YxQ3GpZTEgi7X5ZE8afsoqM9F8sPhJYUFNyII1cpbH-fS9SzTx-m0kph41UqEuSe3hdNGj7Dwew9MrVo9sOrCvZLttDNAvMfowvAYk36weOIcYqTDzWAybW43ab9Mbm1WdJkRjP3evHN6a7CthldfUccf5fzbf71h5To"
+          },
+          {
+            "name": "650W",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=06WujnicbVTNzuI2FG37BJX6DLNCSIkTE9JdQhJCgPwSB7JBJjYk5Jf8ApqHqb7pjDRdTqu-y8yiUt-kQepyvLiSfa_POfdY1__88PMbTf7W1ZDipivlFsdV69gCpRp1Pld1SbqoTchf7GwugrkozFggcDMAeWYGP0e4xVl5eaV5ccYBMOOhwHIQgPmcEb7EFJMsKah1PtNaKaNXnQAAI8A5y4gsEOecAKH4R5LjC_0_z72AIQQ8OxOEGQ84QfxQk-YrsBdHlhm3M4GBvCCKPM_yHPPedi3l-P3cx1tH68fXVYZb2rSTqKtrWrSTCy1ojdukLCaENmlbVhN7MamabhKVeVUWr5qaZqMdlEwAA-ArzCYFHT5eqlHjn9-h-pAn5Asc9Y7OjC0KYwXH8rMPVd--xZe3S_bWNW9x9kaLTyWu-nP07adf1LJRFs2wcPyqQorL7BQZbpCWOCBrScLeLdXt8bKq8dXMA1Ryh0zcb3Oji3L1SUBYR4VpnzjNs4IGeDt02Pni1slRb-lGeWLgKuKqvRfcDaIYOSqyje-xa5rGdyswfQxgTrTK8JFYnZaafwAacFPC7FI23OUoNZ9xtglQi5G4cPbucHga2wMT1iEXtluAngjcOw85A1qyRpBnMdHdrYWy1AfVw9trC6ybnQ-MkipxvwnaJgQO3DPiFmkuH6jD_aQjexOseDeTuTCAyL-6OEzvKOKIHQZkQzIUR_stTzV3a-6N1gPxI7hegMlFAC_jKvTb0TF0JkXJkZztIgY23jNUfAYdIsb0XFVb4-BuvrC2gfrAudqaWqjSFGnBXrNOexnscgfusip2n9mV-uxwUrTVLo3XJ930ERefPWCcwyJrsR9WaC8v3Cfhdnnz3AWsbipS64OVp6WxFuSjVg71TuHGWJcZH0ljT2gZIhWvUk2NuBUMM9NwldG7ZZWbbFwi3azMfAuoLj_xMw5cxTh4RfT7vanPXxlJg61nCcoqOGxlFiuHJjqrIGKaajg1Z2eInF9ZYc7DceLmDMOxn6KyTBP67cd_JXXxjlMkYozc_eayuXUHXiylqZJb_fIBo16S5wmO1wxUZlJBNtclDPnCnR7PWpedTekdJ08UNEI0zz1dmnQ9Z5q42UAmvK_m1vx5r5xSnWqZplfzwUTFUR2k13rdOx49Os4YnXo7136pMPNwwNx0rueSfDd5NzUza73Oewss-ZNkXyRNNjYyNY1h8HVCayo__KmNponxzJusuS-S9iYOZa8EYGERiJvE44cC-kWxzjc7zb-8WM2VMnJBjhvjwTKMoWtCdhadXNoPphAs8fj2BAA_0syEOxTTLEC8wqC1QuOrlq-QM1W9k5_C8YS7LWIytX28HVb2zH6YxQ3GpZTEgi7X5ZE8afsoqM9F8sPhJYUFNyII1cpbH-fS9SzTx-m0kph41UqEuSe3hdNGj7Dwew9MrVo9sOrCvZLttDNAvMfowvAYk36weOIcYqTDzWAybW43ab9Mbm1WdJkRjP3evHN6a7CthldfUccf5fzbf71h5To"
+          },
+          {
+            "name": "750W",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=m8CSA3icbVTP7qM2EG77BJX6DHuKIoHBAXqDAAGSQIBgEi6Rg51A-Bv-hCTap_ltd6Xtcbfqu-weKvVNSqQe14eR7BnP981nz_zz069vNP3b0CKK275SOpzUnbsRKNWp-7luKtLHXUr-YmeiBERJmLFA4GYA8swMfo5xh_Pq_HLz0owDYMZDgeUgAKLICF8SikmeltQ5nWijVvErTgCAEaDIMhILJJETIJT-TAt8pv_7uVdiCAHPzgRhxgNOkD40pP0GNvMDy4zbmcBAXpAknmd5jnm_8Rz18GPfx2tPm8c3M8cdbbtJ3DcNLbvJmZa0wV1alRNC26yr6slmPqnbfhJXRV2Vr5iG5qMclEwAA-DLzCYlHT6e65Hj1x9AfShS8gWOfEdlxhKFMYJj-dmH-ta9Jee3c_7Wt29J_kbLTxWub6f4-y-_aVWrztth7gZ1jVSP2aoKXCE9dUHekZS9O5p3w4u6wRe7CFHF7XNpty6sPi60JwFRE5f25sjpvhO2wN-i_TaQ1m6Bbo5hVUcGmjFX7_zwbhHVKlCZrwKfXdIsuTuhHWAAC6LXVoCk-rjQgz3QgZcRZpux0bZAmf1M8lWIOoykubvzhv3TWu-ZqIm4qFsD9ETg3vvIHdCCtcIiT4jhrR2UZwGoH_5On2PD7gNgVVRNbquwayPgwh0jrZHu8aE23I8G2qxCk_dyhYtCiIKLh6PsjmKObKKQrEiOkni35qnure2d1fkgeYSXM7C5GOBFUkdBNyqGTqSsOFKwfczA1n9GasCgfczYvqfpSxze7Veudag9cKF1th5pNEN6uNOd404B28KF27xOvGd-oQE7HFXd3GbJ8mjYAeKSkw-sU1TmHQ6iGu2Uufck3LZon9uQNWxV7gJg-nqW6GExcuXQzS29BBsKEyB5rAktIqRhM9O1mDNhlNuWp47aLerCZpMKGXZtF2tADeWJn0noqdbeL-M_7m1z-sbIOux8R1DNcL9WWKzu2_ikgZhp6-HYntwhdn9nBZGHY8eJDMOxn-KqylL6_ed_ZW3-jlNlYo3Yt9V5de33vFTJU7VwbosHjG-yIqY4WTJQncklWV0WMOJLb3o46X1-suV3nDJR0Ziife7owqZLkWmTdgWZ6G6Kjvi8126lTfVcN2pxsFF50Ab5tV73Dgefjj1Gp_7W27xY2EU0YG4qGoWs3G3ey-zcWS6LmwMW_FHenGVdsVYKta1hCAxCG6o8gukGTVPrWbR5e5-n3VUaqpsagrlDIG5Tnx9KGJTlslht9eD8QrVNdcSCHDfavWNZQ99G7Cw-evQ22EK4wOPbEwCCWLdTbl9O8xDxKoOWKk0uemEid6r5xyCD4wl3nSdkugnwejA3s83DLq8wqeQ0EQylqQ7kSbtHSQMuVh4uL6ssuBJBqE1_eRDly0mhj-PRlJnE7GTC3NPr3O3iR1QGNx9MnUbbs9rcu5D1tLdAssPozPAYk9vg8MTdJ8iAq8FmumLTZrdFeu3yss-tcKz36p-ya4s3WnQJVG2cKKev2nlIlfEH0SK4KmrMro34PwYi68s"
+          },
+          {
+            "name": "850W",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hZn5IHicbVTP7qM2EG77BJX6DHuKIoHBAXqDAAGSQIBgEi6Rg51A-Bv-hCTap_ltd6Xtcbfqu-weKvVNSqQe14eR7BnP981nz_zz069vNP3b0CKK275SOpzUnbsRKNWp-7luKtLHXUr-YmeiBERJmLFA4GYA8swMfo5xh_Pq_HLz0owDYMZDgeUgAKLICF8SikmeltQ5nWijVvErTgCAEaDIMhILJJETIJT-TAt8pv_7uVdiCAHPzgRhxgNOkD40pP0GNvMDy4zbmcBAXpAknmd5jnm_8Rz18GPfx2tPm8c3M8cdbbtJ3DcNLbvJmZa0wV1alRNC26yr6slmPqnbfhJXRV2Vr5iG5qMclEwAA-DLzCYlHT6e65Hj1x9AfShS8gWOfEdlxhKFMYJj-dmH-ta9Jee3c_7Wt29J_kbLTxWub6f4-y-_aVWrztth7gZ1jVSP2aoKXCE9dUHekZS9O5p3w4u6wRe7CFHF7XNpty6sPi60JwFRE5f25sjpvhO2wN-i_TaQ1m6Bbo5hVUcGmjFX7_zwbhHVKlCZrwKfXdIsuTuhHWAAC6LXVoCk-rjQgz3QgZcRZpux0bZAmf1M8lWIOoykubvzhv3TWu-ZqIm4qFsD9ETg3vvIHdCCtcIiT4jhrR2UZwGoH_5On2PD7gNgVVRNbquwayPgwh0jrZHu8aE23I8G2qxCk_dyhYtCiIKLh6PsjmKObKKQrEiOkni35qnure2d1fkgeYSXM7C5GOBFUkdBNyqGTqSsOFKwfczA1n9GasCgfczYvqfpSxze7Veudag9cKF1th5pNEN6uNOd404B28KF27xOvGd-oQE7HFXd3GbJ8mjYAeKSkw-sU1TmHQ6iGu2Uufck3LZon9uQNWxV7gJg-nqW6GExcuXQzS29BBsKEyB5rAktIqRhM9O1mDNhlNuWp47aLerCZpMKGXZtF2tADeWJn0noqdbeL-M_7m1z-sbIOux8R1DNcL9WWKzu2_ikgZhp6-HYntwhdn9nBZGHY8eJDMOxn-KqylL6_ed_ZW3-jlNlYo3Yt9V5de33vFTJU7VwbosHjG-yIqY4WTJQncklWV0WMOJLb3o46X1-suV3nDJR0Ziife7owqZLkWmTdgWZ6G6Kjvi8126lTfVcN2pxsFF50Ab5tV73Dgefjj1Gp_7W27xY2EU0YG4qGoWs3G3ey-zcWS6LmwMW_FHenGVdsVYKta1hCAxCG6o8gukGTVPrWbR5e5-n3VUaqpsagrlDIG5Tnx9KGJTlslht9eD8QrVNdcSCHDfavWNZQ99G7Cw-evQ22EK4wOPbEwCCWLdTbl9O8xDxKoOWKk0uemEid6r5xyCD4wl3nSdkugnwejA3s83DLq8wqeQ0EQylqQ7kSbtHSQMuVh4uL6ssuBJBqE1_eRDly0mhj-PRlJnE7GTC3NPr3O3iR1QGNx9MnUbbs9rcu5D1tLdAssPozPAYk9vg8MTdJ8iAq8FmumLTZrdFeu3yss-tcKz36p-ya4s3WnQJVG2cKKev2nlIlfEH0SK4KuqZXRvxfwY2688"
+          }
+        ]
+      }
+    ]
+  }
+}

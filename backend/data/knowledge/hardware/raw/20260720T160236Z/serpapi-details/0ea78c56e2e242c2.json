@@ -1,0 +1,998 @@
+{
+  "search_metadata": {
+    "id": "6a5e46cfd355cc19abe5c5d6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UUsA8hx8QLlBhgf20UHv9A/6a5e46cfd355cc19abe5c5d6.json",
+    "created_at": "2026-07-20 16:03:27 UTC",
+    "processed_at": "2026-07-20 16:03:27 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=LEZeavWbL9WSwbkPtc-DuAQ&q=latest+current+generation+desktop+PC+cooler+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A5101265389639197253%2Ccatalogid%3A1258501805573387062%2Cgpcid%3A3547672505962369891%2CheadlineOfferDocid%3A18186679127311053967%2Crds%3APC_3547672505962369891%7CPROD_PC_3547672505962369891%2CimageDocid%3A9082208294667918899%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+cooler+component+released+2025+2026+new%2Cmid%3A576462531118621001%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0S2REU0dqUGNqWWxrY1A3SHJTOU9Tb1R1NDF2ZkFGU0hkVmJaYmZyZDNNQ3oyeE9FRENTTjhxWExuTmRCc3kxZTgxaUZuMmZZbk5zNHVhN1VJQXppZjZqdG4zNk9tMFJlRENOSkl3UEtvdDRFdnB1ZGpqTEVETU1JZU9faGpHRFhuMDhiNnNJUXc2cTJKYmQzSFU5WFp0Q0ZNNWNQaWw5U0NYMHJvQ29lbUNySk42UEl1TzdSRGdrVTZrSlktZ054Mnl0cjdPbmFoaEs1aUR2bThhWlFwMUM0X09GdGYzNW5RcDFLZmFiTl92VmhuTzdMQ1BSekVsdjRDZDhCMGt3ZFQydHd4WDQ0MElMdnZZUWVzSVZXRXZMa0pXd29IOUhfaHZYb1l3STN1aTZFNkp6d3A1M2E4ZUNaVzloRmNzb3ZZaGp2QXUSF0xFWmVhdldiTDlXU3dia1B0Yy1EdUFRGiJBRHNyOWZSQmFLZTI0NHJiLVFONExpWWtEWXpJUFR5Uk9n%2Cxsrf%3AAF5tSO6nSvZ0Z2HkbgYXuTa0BoFWBXOhJQ%3A1784563245077%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/UUsA8hx8QLlBhgf20UHv9A/6a5e46cfd355cc19abe5c5d6.html",
+    "prettify_html_file": "https://serpapi.com/searches/UUsA8hx8QLlBhgf20UHv9A/6a5e46cfd355cc19abe5c5d6.prettify",
+    "total_time_taken": 1.66
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "tJYlD3icbVPJjttGEE3yBTnkA3wfDNDd3GPMQRJJaSixJe5UXwSS3RI5XMVFEol8zdgJ4BztALnmN-xDviSHyD67gKo6vFcrqv794edXlv290QiLLkG8UQLnGue7PnlUh5n1oWlrOiR9Rj8JEEAkCpysiJwCFQkJ3Ick6qOiPt1RiARZAFAGgiBxnCwBEX1MWUSLrGLb45G1ap1k9C8oQ1kUJQUiiYMQCJwiSn9mZXRi3_BPCpARuqvCf2PJsqK8a2n3Ge0WB07gJfFeFgiKiDhRkRX4287eqofvY7-fB9aOnzdF1LOuf0iGtmVV_3BiFWujPqurB8q6vK-bh93iIanrgrV3VzZ19ZXWsoJFHaMPCCDhqxEfKnb9_dR87fI71d6VGf0oSCIv3vcC4X1KBAGA75pL_5qe3g9Dwf55PRWvQ_eaFq-s-qOOmssx-fLTL1p9VRfddWF5TeOrNnCQrXmAnr0lPgfBrd3DGeesDHfrKW4MbYhVHZFcX3ogzf3SiPYlGYmKscXVI9MU3daw676kt0C7DW5pLxIuvxH3dIs8MpglIXEuTHjlpxj6hhU2DXkhZ7rkJ5wrvakbxT1-6-QF52n9haq2Tqs5JMvm7Gq-5nrQIJ5yjJbNytbTwVTTDFfY8MIEJa6x3pfW5OieEOgNsADBOMBWFFwFD-C9uTIuFlKK2MOjk_PI0wroTtSxl7T1XdI6Rd4TIPBmVYDkhe7iUq8jrYORZ6PYTdOg0K-mZ4IQKEu63E84EOxE1Tek1DO3UJBfpsM9n2nBucNyv6MvtkrUdGEue47o1khXlA9UC5haYdKKEC_wJ8cnoR0SMwJNSJHyvPXSY7Qi-xgWnONiGLlEx3kjUm4GTaTxxMORPxW1XeIp5gi57wFZoefo4KYHpZ_SgmauWoQeR7MIzsF-hBr1dHuZGXN7hcdtQByrvPfsPgO8MrKNr2-xdmuCoNeCsDHuVMHLler9rWuPn8FMF3pnK1bOhQCCVnl82oeDG4F5rQfzcJsa1q9QknlB5BAvAEn6437Geca-_PjfTFs8zajha1EH45OV-6bJKRzbhDup3hYDujApzdf5IorbJRoFkx5kP9pU6LGfH2fW2zeHg8PuH8MeHdfePc1wSa4RKHaGxV0ybikZ3Tzd3db1kZxlJx_ul5ntrWR6wfUgtc8eLyYvk_2MI724ZIel_CwV6oGuIliviWsHXKnfYoenu-JQNsM24s8IF2_fqP5TctMvB6OFHNgX3UYA5PYsb-Vprt9m2uO8qsLnk8kctjev2uwub9_gZ_VJ4LinZSqP0OP6nrPiKZB7eTMd9AJXPKLGeuyMeo0v-2zqlOutuHKzfMThdLvufZbbVmxN-0QNYZailCG-B6turl-u-Zj6GuLBAWReu8l3mrN1-A3n6QgMCxopPC8FbLOboVVaZUM4bs6VlG1qJzln9WJrzg6SWMbOWVeUEzPmojLaVX2lVnyO-PmZ-TkAkZWfgE9a2JnqWqXio5Fc5TXzZDE4zpWeKjPJ04dV3503x3NTqtao40OyC5yx3M0aIV1aea5ZgtLOje4l94zeGR49d_8_Z2nvPw"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRzYk1osPyssKZ_8kym5USUcX0652RJhQvdgDVzw0PK3jVSziyg49YibYs5eRhu-_5onFX4bigoZ4DcVHj52A9aBI_KYebETw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQx6B8TBUH-gbQQxtuWneEPRGDPS1_IwKa-Lx9ajZF7LAG7ByjYBvM6fLF3k78-Q0ExlxEEEe2NzrLYcDU4yG7qLXRgcrNI",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQMLP0i71wC0mXQDdT8lZwKuNPHLxUP0_b12f7XmKL_ukfwxgj1eagbshk2D5vvurQeXw2AlYIdciEiuJvDGJzj-1ZhPH99CHd2weUHMDTX",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRVEn7zHZXLGURT1-8TZdYsiL0j9CRmlPYTNJpSw2OsA3H_4E4FWVD9BL5UqcUDukXX7Wx2dIjMlYXEnIPGrdvRuZBWe_uR",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQhys57qEx8dCi6NebsStbTZ6Cc89RQK7JVmJVmWuyidvqzkfZ9J6VefXPnZaZkS8ybKejmeOMyZEFVMhyEtt35UX_5VFJ0Zw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQQdQ6BZd--L2IESI4yh2W2w2pyU2__gJdd07WLUruERjkdsfKEvv8vSusoC2Fab7V2VcMsumrxk8LHLvKCEC2crDtP4SdATXlC1lDi4pQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTc4-rDFXM2FvAB7HeXW7wBsCrcd002OJU3zlz111MA9hagLprIljK3-jLH8Ams1t_bji5EUgV8hEQ2oKh-pMhnmiP6NHzjVqYjAEnZG88",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQU0o5IuiphbLXkA2Tk5oQBNxuJesdh9yzwAcPYqccPYh74mISVF8vcpX1JlYUjdVNTLHE44pPK0Yoxicry4BLDRsKwOlvG1tcJ6xbDxE3f",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTQtYKzFDpqJTpVBNmqivAX1gSuBcz5rLJ4aQ_AiRdZruXSucVwzeG_jF4HGGFkq90SEXGEb9Z5iKfFicrr2Va5WTNcsrZfOqrQpor50m9y",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSwMqhJehX8t1j9iYHRhveDSnob_Dmcb7uPa427kOnaoz5VMCjb5zz1fUtbGmev-rFxW9jAUgJNcYsdGqOwvFoWpPQsy_qvHCvigy-i5P9tMIcTvNa7-HMCAw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQNE6Op_dUwUwKdGzT5rfzBJLb698Lp_Dy2UWHeeOJvHxsCEErTt5PZYoUWbYYrDnDXv8JNl5DjHyrA0gWHSVEFI5tNIyxs",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSkUVx6y5Gfh-dTcNW54nV3fchwBgB5Qlt4j502Gm2XILAAU64fmZwZy7osCl2oi12D5VGxghkaG33RFAqcbc6mtQDXgV077b6wdaHIoH_ZBqIPrNqySe8x",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTfDuhGZlQze4YQ1qMg9NsTNA-VAzp2IWvrS0Tg0TbQrXcoapWExSQqn0hUVClXMLrB72GQhW9fSpnUlZ-eOCsPdefYGh96",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQFhqBYv1f8g6S9yhbOjZhoxtUkXraIJCZy7SVw5eSwu2_ud8hbTIkr4DXA-hkd-fi9F2KLrgPUeOkj5jxotIrmh3VhjPKV_iO08gzgRQCq"
+    ],
+    "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+    "brand": "CORSAIR",
+    "reviews": 370,
+    "rating": 4.7,
+    "price_range": "$100-$130",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/corsair-nautilus-360-argb-liquid-cpu-cooler-with-rs120-argb-fans-black/J39QHT27CF/sku/6604875?utm_source=feed",
+        "title": "CORSAIR - NAUTILUS 360 ARGB Liquid CPU Cooler with RS120 ARGB Fans - Black",
+        "rating": 4.6,
+        "reviews": 1927,
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed",
+          "15-day returns"
+        ],
+        "discount": "23% off",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$129.99",
+        "extracted_original_price": 129.99,
+        "shipping": "Free",
+        "total": "$99.99",
+        "extracted_total": 99.99
+      },
+      {
+        "name": "Corsair.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.corsair.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.corsair.com/us/en/p/cpu-coolers/CW-9060093-WW/nautilus-360-rs-argb-liquid-cpu-cooler-cw-9060093-ww?srsltid=AfmBOorLgnfciSsLoLw9f3B5qTiQ9_tBwSI3BUJIlvkmc5ni_WIzoaHwNgM",
+        "title": "CORSAIR NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+        "rating": 4.5,
+        "reviews": 536,
+        "payment_methods": "PayPal, Google Pay, Amazon Pay & more accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Sun",
+          "Free 60-day returns"
+        ],
+        "discount": "15% off",
+        "price": "$109.99",
+        "extracted_price": 109.99,
+        "original_price": "$129.99",
+        "extracted_original_price": 129.99,
+        "shipping": "Free",
+        "total": "$109.99",
+        "extracted_total": 109.99
+      },
+      {
+        "name": "Micro Center",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.microcenter.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.microcenter.com/product/688615/NAUTILUS_360_RS_ARGB_360mm_All_in_One_Liquid_CPU_Cooling_Kit_-_Black",
+        "title": "Corsair NAUTILUS 360 RS ARGB 360mm All in One Liquid CPU Cooling Kit - Black",
+        "rating": 4.9,
+        "reviews": 496,
+        "payment_methods": "Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $12.99",
+          "30-day returns"
+        ],
+        "price": "$109.99",
+        "extracted_price": 109.99,
+        "shipping": "+ $12.99",
+        "shipping_extracted": 12.99,
+        "total": "$122.98",
+        "extracted_total": 122.98
+      }
+    ],
+    "stores_next_page_token": "yO8jkXica15aklmSk3pTzzm_qDgxs0jBzzE0xNMnNFjB2MxAIShYwTHI3UnBJ7OwNDNFwTkgVME5Pz8ntWhJcX5RJvPi3Lx8LgARDhbj",
+    "about_the_product": {
+      "title": "NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+      "link": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060093-ww/nautilus-360-rs-argb-liquid-cpu-cooler-cw-9060093-ww",
+      "displayed_link": "corsair.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.corsair.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "Upgrade your gaming PC cooling with this high-performance all-in-one liquid CPU cooler. Featuring a 360 mm aluminum radiator and three 120 mm PWM fans with magnetic barometric bearings, it provides efficient heat dissipation while maintaining low noise levels up to 33 dB(A). The copper water block ensures optimal thermal transfer directly from the CPU, compatible with Intel LGA 1700 and AMD AM4/AM5 sockets. RGB lighting with full LED control adds a stylish flair, while fan and lighting adjustments are supported via Corsair Link. With a total weight of 2.35 kg, this closed-loop cooler combines aesthetics, efficiency, and reliability for high-end gaming rigs.",
+      "features": [
+        {
+          "title": "I<wbr>/<wbr>O Ports",
+          "value": "USB 2.0 (9-pin) header (for LCD display)"
+        },
+        {
+          "title": "Socket Compatibility",
+          "value": "Intel LGA 1851, AMD AM4, AMD AM5, Intel LGA 1700"
+        },
+        {
+          "title": "Material",
+          "value": "Aluminum (radiator), Copper (cold plate)"
+        },
+        {
+          "title": "Depth",
+          "value": "39.6 cm"
+        },
+        {
+          "title": "Height",
+          "value": "27"
+        },
+        {
+          "title": "Width",
+          "value": "120"
+        },
+        {
+          "title": "Weight",
+          "value": "2.389 kg"
+        },
+        {
+          "title": "Liquid Cooling Support",
+          "value": "Yes"
+        },
+        {
+          "title": "Radiator Support",
+          "value": "360mm"
+        },
+        {
+          "title": "Airflow",
+          "value": "13.3 - 72.8 CFM"
+        },
+        {
+          "title": "Cooling Noise Level",
+          "value": "10- 36 dBA"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Liquid cooling"
+        },
+        {
+          "title": "Included Fans",
+          "value": "RS120 fans, 3 fans"
+        },
+        {
+          "title": "Fan Diameter",
+          "value": "120 mm"
+        },
+        {
+          "title": "Fan Speed",
+          "value": "Up to 2,100 RPM, 420 – 2100 RPM ±10%"
+        },
+        {
+          "title": "Water Cooling Ready",
+          "value": "Yes"
+        },
+        {
+          "title": "Bearing Type",
+          "value": "Magnetic Dome bearings"
+        },
+        {
+          "title": "Cooling Static Pressure",
+          "value": "0.2 – 4.15 mm-H2O"
+        },
+        {
+          "title": "Lighting Type",
+          "value": "NONE"
+        },
+        {
+          "title": "Power Connector",
+          "value": "4-pin PWM header (for fans)"
+        },
+        {
+          "title": "Lighting",
+          "value": "NONE"
+        },
+        {
+          "title": "Cable Management",
+          "value": "Daisy-chained connections (to minimize cable-clutter)"
+        },
+        {
+          "title": "Design Highlights",
+          "value": "LCD screen"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Computer enthusiasts"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Zero RPM mode, LCD display, PWM fan speed control"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Size (Radiator, Height)",
+        "items": [
+          {
+            "cons": [
+              "Requires case with 360mm radiator support"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpu-cooler-for-ryzen-9-9950x",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPU Coolers for Ryzen 9 9950X UK 2026"
+          },
+          {
+            "key_point": "Good temperature regulation",
+            "snippet": "Keeps my 7950X nice and cool even on load. Main issue with this is that it is pricy for what you get out of it. Would not recommend unless you have a higher end",
+            "user": "RG256",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Compatibility (Socket, CPU)",
+        "items": [
+          {
+            "pros": [
+              "Future-proof for CPU upgrades"
+            ],
+            "cons": [
+              "Expensive for the 7600's thermal requirements"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpu-cooler-for-ryzen-5-7600",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPU Coolers for Ryzen 5 7600 UK 2026"
+          },
+          {
+            "key_point": "Good compatibility",
+            "snippet": "Works very well with my i7 14700K… keeps the temps very cool. Awesome product",
+            "user": "KadoT",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Design (Lighting, Pump)",
+        "items": [
+          {
+            "pros": [
+              "Premium RGB lighting with software control"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpu-cooler-for-ryzen-9-9950x",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPU Coolers for Ryzen 9 9950X UK 2026"
+          },
+          {
+            "key_point": "Quality lighting",
+            "snippet": "It looks great and keeps my CPU nice and cool. The RGBs are awesome in my case!",
+            "user": "NickG",
+            "date": "3mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Attractive",
+            "snippet": "Works excellent and looks great! The piggy-back fans add more small cables to the mess, but saves you a lot of fan ports for other activities. Keeps my CPU",
+            "user": "Mike",
+            "date": "11mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "pros": [
+              "Simple, modern layout without going heavy on proprietary RGB"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.reddit.com/r/Corsair/comments/1ry0vaa/corsair_3200d_rs_argb_review_worth_it/",
+            "date": "4mo",
+            "source": "Reddit",
+            "title": "CORSAIR 3200D RS ARGB Review – Worth it? : r/Corsair"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "Perfect quality with price within my budget. Definitely recommended.",
+            "user": "Jade",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Ease of Installation",
+        "items": [
+          {
+            "cons": [
+              "Complex installation compared to air coolers"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpu-cooler-for-ryzen-5-7600",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPU Coolers for Ryzen 5 7600 UK 2026"
+          },
+          {
+            "key_point": "Easy to install",
+            "snippet": "Installation was super simple and straightforward. Looks too good with the rgb. Will definitely purchase again for future builds",
+            "user": "GaigeF",
+            "date": "6mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Easy to assemble",
+            "snippet": "cables for both RGB (although my motherboard doesn't support ARGB) and the power supply? Makes it so easy and simple to set up.\n\nHighly recommend!",
+            "date": "1w",
+            "source": "overclockers.co.uk"
+          }
+        ]
+      },
+      {
+        "title": "Noise Level",
+        "items": [
+          {
+            "pros": [
+              "Quiet operation even under sustained loads"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpu-cooler-for-ryzen-9-9950x",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPU Coolers for Ryzen 9 9950X UK 2026"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "Fans don’t need to run fast so it’s quiet. Under heavy load fans speed up but not by much. My fans on the radiator never spin up to full speed because",
+            "user": "ScottK",
+            "date": "4mo",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "pros": [
+              "Incredibly quiet",
+              "Plenty of RGB lighting",
+              "Simple installation process"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/corsair-nautilus-360-rs-argb-cpu-cooler-review/",
+            "date": "1y",
+            "source": "GeekaWhat",
+            "title": "Corsair Nautilus 360 RS ARGB CPU Cooler Review"
+          },
+          {
+            "pros": [
+              "450 mm tubes",
+              "No RGB lighting"
+            ],
+            "cons": [
+              "Pump logo cannot be rotated"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/cooling/corsair-nautilus-360-rs-review/",
+            "date": "1y",
+            "source": "PC Gamer",
+            "title": "Corsair Nautilus 360 RS review"
+          },
+          {
+            "pros": [
+              "Very clean looking build",
+              "Powerful fans",
+              "Elegant block"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.back2gaming.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.back2gaming.com/review/corsair-nautilus-aio-liquid-cpu-cooler/",
+            "date": "1y",
+            "source": "Back2Gaming",
+            "title": "Corsair NAUTILUS RS ARGB AIO Liquid CPU Cooler Review"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 12
+      },
+      {
+        "stars": 2,
+        "amount": 2
+      },
+      {
+        "stars": 3,
+        "amount": 11
+      },
+      {
+        "stars": 4,
+        "amount": 51
+      },
+      {
+        "stars": 5,
+        "amount": 294
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQzAL58lsXx9UJUApWtZH84bJhs3j_orENVwm5uNxp14jVL2I8N20F3V1POsDXRZOj-KbtyLDxrYxGvzD2YcN5_LyN4Xo9HcQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTzoKTzA1FzN6nvZUSqTkfv-Zmbr501TJqoa0NqsMVBpazyoE8_BOkD-XKx1w4GcJNiLGbXplhv4Xys7vojRtDznplO7X7lMg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQPalTg4mohExwmwwG6WXyPyHJoGl-5uWekcu94UInjayCSgr5AiOY0LJJr6vJyVWggo40Bx1BBC6X0_zPYELLRsL71wuJQcg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTRtGFlVk2Vm9W2e8NfmjuUR1HsmrxQeCSiMQplpUZgtb4zmL65haZPg9zNIQh4Rvaafo6H9aStQ4Ktv5I4pleTuiI-GTNMuw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTQnMo-knVwjAggAaO2lOsARNlmp3yj30s20I66ceLbNy8DmI_UO14xYNq4F0EnUv3vbP4u-RbVG_vOvJYbzF_1WY-_479O",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTjqjUEn-H5uLqBGy-LwmUGf6p1aJXpqnGnjn9N2zpYThVDPFr58rj70IizLmokWCpppgBtvTcsDPEnQddsmjB7IIHLMcn3Ew",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQkn34B0MHWZOZnsqiM6LyxC5OSPs_Xzphy6XmfnijWuA4OYVmeWAPxMf2BCoZ-aidJHOx-nM8nVa3FD6f2O20cX2U3rGrZ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS0fSPJ47kHLJzwn5oufqbCtfUOxfdfzjcidcq063OWEwQvJ9tGpN6weAz5uMPLtOeg9gE7FsTJ3XtmsfdgFEaF9Cc6Qxs8",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRe_KZt_I220ZsLm-f8aXOFXIY96z8CFOV-S8q1Bmp8bkqrQbRUDka5auMafy35KJsZG-6vdggEXAWNMbzNRRx47lOvszHfgg"
+    ],
+    "user_reviews": [
+      {
+        "title": "Cool, Quiet, CPU Saver",
+        "text": "I got this after my previous AIO gave up after 6 years of use. I got to sit on a new Ryzen 7 5800x3D (the anniversary version)\n\nI saw there was a 1 star review so was a bit worried, but my fears are unfounded. The AMD bracket and standoffs were easy to install and the pre applied thermal paste was so easy to use!\n\nEasily took my thermal throttling CPU 70% at 90°C in seconds down to 100% usage in game at 72°C after an hour of gameplay.\n\nIs it loud? No. I can hear the fans for sure. But if it's sat on \"not much going, need anything?\" It's no more noticeable than a room fan.\n\nThe daisy chain cables for both RGB (although my motherboard doesn't support ARGB) and the power supply? Makes it so easy and simple to set up.\n\nHighly recommend!",
+        "source": "overclockers.co.uk",
+        "rating": 5,
+        "date": "a week ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2caRtLOuLToXstjBAIbQkKyLEbgwkvuSO8cbBV7DTq3zsL_nGmco2-v7c7qJDRwUG6bw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Very Noisy Pump",
+        "text": "I had high hopes for this due to the performance reviews and reviewers saying it was quiet.\n\nUsing Noctua fans for all positions at sub 600 rpm, the pump is far from quiet with a very distinctive tone. On 100% pump speed the tone can be heard across the room, only really useable at 30% or lower pump speed. Anything higher than this sounds like constant tinnitus coming from the pump.\n\nIf you only care about performance it's great, but for idle conditions it'll drive you insane.",
+        "source": "overclockers.co.uk",
+        "rating": 1,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2caRtLOuLToXstjBAIbQkKyLEbgwkvuSO8cbBV7DTq3zsL_nGmco2-v7c7qJDRwUG6bw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Corsair nautillus 360 argb",
+        "text": "Great item, easy to fit and keeps my cpu super cooled, argb adds that little extra eye catching detail",
+        "user_name": "Jeppy",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK04FGXzmqNwVyJcxnhB4-XQay1nWHwTo-GwCgcZDCLDz3kh3xFys3lJszeKyDpC4PBQ3Q=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQzAL58lsXx9UJUApWtZH84bJhs3j_orENVwm5uNxp14jVL2I8N20F3V1POsDXRZOj-KbtyLDxrYxGvzD2YcN5_LyN4Xo9HcQ"
+        ]
+      },
+      {
+        "title": "Great cooling Easy install",
+        "text": "To start, had a Artic 280 it went back, also a ID.cooler no go.\nPurchased Nautilis 360 , easy to put together, installation was a piece of cake. I tried to install the Arctic what a nightmare, putting that cooler on the chip.\nCooling is excellent on a 9800x3d chills a 38c 1 hour hard gaming on battlefield 6 cpu was nice and cool @51-52-53c\nAnd that’s with very little fan tweaking,ARGB WAS VERY SIMPLE. Just buy it unless you’re a custom installer. You will not be disappointed.\nMonte’s king 95 Pro case",
+        "user_name": "JayW447",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3on-xA18nIGEaL1xX_3yLBODXsBHCzJ-eS6h0FvYpmcnsi5QkT118Dgokfuk0SxlDpaQ=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTzoKTzA1FzN6nvZUSqTkfv-Zmbr501TJqoa0NqsMVBpazyoE8_BOkD-XKx1w4GcJNiLGbXplhv4Xys7vojRtDznplO7X7lMg",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQPalTg4mohExwmwwG6WXyPyHJoGl-5uWekcu94UInjayCSgr5AiOY0LJJr6vJyVWggo40Bx1BBC6X0_zPYELLRsL71wuJQcg",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTRtGFlVk2Vm9W2e8NfmjuUR1HsmrxQeCSiMQplpUZgtb4zmL65haZPg9zNIQh4Rvaafo6H9aStQ4Ktv5I4pleTuiI-GTNMuw"
+        ]
+      },
+      {
+        "title": "Cools 5950x nicely and quietly",
+        "text": "As the title says, this cools AMD [AM4] 5950x nicely and quietly. I've attached screenshot of the minimum and the max temperature values using PRIME95 stress test. I use to have EKWB Nucleus CR360 for 3 years, but after getting it RMA-warranty 3 times due to pump rattling noises and failure I was done with EKWB. Corsair may not have as nice as packaging as EKWB, but it looks really nice and does not require iCUE software. Instead I just use my motherboards (MSI) BIOS settings to control fan\\pump curves and openRGB to control the lights.\n\nInstall was easy, but as others have mentioned, you must look up instructions via Corsair website as you do not get a physical manual. The only document you get contains legal and warning disclaimers.\n\nThe only think i'll zonk are the hoses. They're longer than my old AIO, and not as tidy. Due to AM4 bracket design, the hose on the pump cannot be placed at the bottom, only to the right or left. As a workaround i put wire straps to tidy up the hose",
+        "user_name": "StarvMarv",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3xSpPnT0HeZ7kQmMqCiIN236bWN3O8npvUlWf9urJNlBb5OL9sJMPrNgH1g3cvkYwa2w=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTQnMo-knVwjAggAaO2lOsARNlmp3yj30s20I66ceLbNy8DmI_UO14xYNq4F0EnUv3vbP4u-RbVG_vOvJYbzF_1WY-_479O",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTjqjUEn-H5uLqBGy-LwmUGf6p1aJXpqnGnjn9N2zpYThVDPFr58rj70IizLmokWCpppgBtvTcsDPEnQddsmjB7IIHLMcn3Ew"
+        ]
+      },
+      {
+        "title": "Highly recommend!",
+        "text": "Works excellent and looks great! The piggy-back fans add more small cables to the mess, but saves you a lot of fan ports for other activities. Keeps my CPU between 57 and 65 degrees. I chose to use the thermal past that is pre-installed because the pattern was better than what I could do… the brackets are super easy to install as well as the fans! highly recommend!",
+        "user_name": "Mike",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3o3P7qozpbiYAXiVdazXN8vsx8omSuQC0EwkP4r7cqErN3qAdRSl3F3m1rSO0drjq_4w=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQkn34B0MHWZOZnsqiM6LyxC5OSPs_Xzphy6XmfnijWuA4OYVmeWAPxMf2BCoZ-aidJHOx-nM8nVa3FD6f2O20cX2U3rGrZ",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS0fSPJ47kHLJzwn5oufqbCtfUOxfdfzjcidcq063OWEwQvJ9tGpN6weAz5uMPLtOeg9gE7FsTJ3XtmsfdgFEaF9Cc6Qxs8"
+        ]
+      },
+      {
+        "title": "Great, needs instructions!",
+        "text": "Works great. Keeps my i9 13900k cool and looks pretty sick. Has ARGB, works with SignalRgb. I wish it was cheaper and had a built in screen instead of the logo. All in 1, or so I was told. It didn’t come with instructions. 4/5",
+        "user_name": "AustinN",
+        "source": "bestbuy.com",
+        "rating": 4,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0CLDHR_wkUNeulFQuyhx0Pl54os4tyWd1EI8bV9Qat0Ihg7mHzg5UU3scqnRmTPpnx7Q=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRe_KZt_I220ZsLm-f8aXOFXIY96z8CFOV-S8q1Bmp8bkqrQbRUDka5auMafy35KJsZG-6vdggEXAWNMbzNRRx47lOvszHfgg"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Corsair Nautilus 360 RS ARGB setup and wiring guide",
+        "link": "https://www.youtube.com/watch?v=EbRrLEYi7cQ",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "14:00",
+        "thumbnail": "https://i.ytimg.com/vi/EbRrLEYi7cQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nzZeH7juOf4vFo5OkRb4bdGEbMOA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ2IQ3L4G2mJ7JJFVKSg_qgiRTAfO9vdqfA5Q"
+      },
+      {
+        "title": "Corsair Nautilus 360 RS ARGB review - simple wiring and decent ...",
+        "link": "https://www.youtube.com/watch?v=QN1_syv-5i0",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "9:53",
+        "thumbnail": "https://i.ytimg.com/vi/QN1_syv-5i0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nnXtj9h43QBEttWvvNF-1NS9GuMw"
+      },
+      {
+        "title": "\"Corsair Nautilus 360 RS ARGB – Worth the Hype?\" Unboxing ...",
+        "link": "https://www.youtube.com/watch?v=TrzKPZ1CTPY",
+        "source": "YouTube",
+        "channel": "Optimized Hardware ",
+        "duration": "10:47",
+        "thumbnail": "https://i.ytimg.com/vi/TrzKPZ1CTPY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k2DQxE9G4_U8mkLTZ3WPyWWJn-kQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWeV1NJeFl0GCDiLkyNkl1pCw76NmfofkpxQ"
+      },
+      {
+        "title": "CORSAIR NAUTILUS RS Liquid CPU Cooler Review. (+BONUS ...",
+        "link": "https://www.youtube.com/watch?v=twVu3skbStY",
+        "source": "YouTube",
+        "channel": "Blunty",
+        "duration": "15:39",
+        "thumbnail": "https://i.ytimg.com/vi/twVu3skbStY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mHorsWjSOErE_uhQs8zkcY22ELig",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTgBE8Xo2pY2Di2dGGEGgecDjYf1R5kxYkYxg"
+      },
+      {
+        "title": "Corsair Nautilus 360 RS Review: The Ultimate AIO for Your PC?",
+        "link": "https://www.youtube.com/watch?v=IoxiuvxReiI",
+        "source": "YouTube",
+        "channel": "The Don Tech",
+        "duration": "5:14",
+        "thumbnail": "https://i.ytimg.com/vi/IoxiuvxReiI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nweuq9Fbrh-xjF9JVlmCn_KndRDg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQVGlrjozV0iY7YMck_NN-Cy5p0YmYx3f1SpA"
+      },
+      {
+        "title": "When Corsair Goes Budget - Corsair Nautilus 360 RS ARGB",
+        "link": "https://www.youtube.com/watch?v=9MNJh540FnA",
+        "source": "YouTube",
+        "channel": "STS",
+        "duration": "11:34",
+        "thumbnail": "https://i.ytimg.com/vi/9MNJh540FnA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lBOnE64ubp_kLovvgkPNk-I23Dgw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQpdXXfXmiUJKE2d0d15lLQP2SFqtTdQRJ6Vg"
+      },
+      {
+        "title": "Corsair Nautilus 360 RS LCD review (with push pull)",
+        "link": "https://www.youtube.com/watch?v=JtwBDI1tBrQ",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "10:59",
+        "thumbnail": "https://i.ytimg.com/vi/JtwBDI1tBrQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nP13nh2tVfcOIXkZI68KCoVavK8A"
+      },
+      {
+        "title": "Corsair Nautilus 360 RS LCD - Installation Guide",
+        "link": "https://www.youtube.com/watch?v=EZ5bp00TW0A",
+        "source": "YouTube",
+        "channel": "Christopher Flannigan",
+        "duration": "7:43",
+        "thumbnail": "https://i.ytimg.com/vi/EZ5bp00TW0A/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3munG8PNztp9ClqbMPl0jSowr5SKw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTfgUtvO1onufLBvTshuFcaOFKwjUMvBROVgg"
+      },
+      {
+        "title": "How To install Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler ...",
+        "link": "https://www.youtube.com/watch?v=qZoBX8zSYeQ",
+        "source": "YouTube",
+        "channel": "it care & computers",
+        "duration": "13:42",
+        "thumbnail": "https://i.ytimg.com/vi/qZoBX8zSYeQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mWRDoGHRfCXDZHHlpl0WUxhYOVeg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTMqLbvOHT6wAUivSA5jpj1VNFTVJrWbTnCCA"
+      },
+      {
+        "title": "How To install Corsair NAUTILUS 360 RS Liquid CPU Cooler",
+        "link": "https://www.youtube.com/watch?v=hMlZZsUUkAg",
+        "source": "YouTube",
+        "channel": "it care & computers",
+        "duration": "11:56",
+        "thumbnail": "https://i.ytimg.com/vi/hMlZZsUUkAg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lT3zXml3Wc5cB83kQaVgahRUyUPg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ_-sxt0HX9iK97ONuVBX_38DoV9TRn_tieUg"
+      },
+      {
+        "title": "Corsair Nautilus 360 RS LCD wiring and setup guide",
+        "link": "https://www.youtube.com/watch?v=m2AnTm2MLzQ",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "23:18",
+        "thumbnail": "https://i.ytimg.com/vi/m2AnTm2MLzQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nEHfXzXhJb281bhBaZsGfpsarVvw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSO4kEjchWLGzxqq75cSnHosAg9ffH9G_igrA"
+      },
+      {
+        "title": "Hands-on with the Corsair Nautilus 360 RS ARGB - Affordable AIO ...",
+        "link": "https://www.youtube.com/watch?v=uPMF0_ll5nY",
+        "source": "YouTube",
+        "channel": "TITEK ",
+        "duration": "6:26",
+        "thumbnail": "https://i.ytimg.com/vi/uPMF0_ll5nY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kHyHGRVH4gWwbd7VS47ywNF6OaFw"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Hello everyone. Should I worry about this rapid temperature changes? The AIO is Corsair Nautilus 360 RS LCD Liquid CPU Cooler. Tya",
+        "link": "https://www.facebook.com/groups/1041320705998480/posts/3816299605167229/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "6 months ago",
+        "comments": 15,
+        "items": [
+          {
+            "snippet": "After a few minutes of use in my Pc my corsair AIO is overheating and starts to make all the leds flash red and gives me alerts in icue, when I look at the temp",
+            "link": "https://www.facebook.com/groups/1041320705998480/posts/3816299605167229/#:~:text=After%20a%20few%20minutes%20of%20use%20in,icue%2C%20when%20I%20look%20at%20the%20temp"
+          },
+          {
+            "snippet": "Never felt any lag or throttling whatsoever by the way.",
+            "link": "https://www.facebook.com/groups/1041320705998480/posts/3816299605167229/#:~:text=Never%20felt%20any%20lag%20or%20throttling%20whatsoever%20by%20the%20way."
+          },
+          {
+            "snippet": "Idle is around 370 and when I put a load on it I get spikes up to 940 then it drops down to the mid to upper 80's.",
+            "link": "https://www.facebook.com/groups/1041320705998480/posts/3816299605167229/#:~:text=Idle%20is%20around%20370%20and%20when%20I,down%20to%20the%20mid%20to%20upper%2080's."
+          }
+        ]
+      },
+      {
+        "title": "For the Nautilus LCD pump cap, would iCUE be required at all times? : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1l48y2n/for_the_nautilus_lcd_pump_cap_would_icue_be/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "On other Corsair Link AIO LCD modules, they use a setting in iCUE called Hardware Screen. This is where you can set a default setting(Pump Liquid Temp) or an image/Gif to the LCD module, then never have to have iCUE software running. I recently purchased the Nautilus LCD pump cap module, and I am going to see if it is the same as I also do not like to have iCUE software running in the background.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1l48y2n/comment/nb9c18s/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "Hey did you end up having success with the Corsair Nautilus RS LCD Screen? Kinda interested to see if you can use the display by itself and mount it to any aio.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1l48y2n/comment/nr74uwf/",
+            "votes": 1
+          },
+          {
+            "snippet": "A few negatives are you can't have say GPU/CPU temps shown on the screen without the software running in the background.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1l48y2n/for_the_nautilus_lcd_pump_cap_would_icue_be/#:~:text=A%20few%20negatives%20are%20you%20can't%20have,without%20the%20software%20running%20in%20the%20background."
+          },
+          {
+            "snippet": "Can you connect the lcd to internal usb, download iCue and set and save a gif as the ``main/home'' screen.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1l48y2n/for_the_nautilus_lcd_pump_cap_would_icue_be/#:~:text=Can%20you%20connect%20the%20lcd%20to%20internal,save%20a%20gif%20as%20the%20%60%60main/home''%20screen."
+          },
+          {
+            "snippet": "It couldn't reach around the back of my Corsair Frame 5000D case, to connect to the bottom USB header on my X870 Aorus Elite Wifi7 motherboard.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1l48y2n/for_the_nautilus_lcd_pump_cap_would_icue_be/#:~:text=It%20couldn't%20reach%20around%20the%20back%20of,on%20my%20X870%20Aorus%20Elite%20Wifi7%20motherboard."
+          }
+        ]
+      },
+      {
+        "title": "Aio settings on nautilus rs lcd? : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1p4aqwu/aio_settings_on_nautilus_rs_lcd/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "The Nautilus is not an iCUE enable AIO as the pump and ARGB connect to the motherboard and does not have any built in sensors. The LCD is just a screen to monitor CPU Temps or display your favorite GIFs.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1p4aqwu/comment/nqao4y5/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "Oh ok, I kept seeing cooling options on videos within icue so I was confused why mine doesn't seem to have any options like that. Thank you!",
+            "link": "https://www.reddit.com/r/Corsair/comments/1p4aqwu/comment/nqarlui/",
+            "votes": 1
+          },
+          {
+            "snippet": "The white rgb helps to keep Temps down.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1p4aqwu/aio_settings_on_nautilus_rs_lcd/#:~:text=The%20white%20rgb%20helps%20to%20keep%20Temps%20down."
+          },
+          {
+            "snippet": "The LCD is just a screen to monitor CPU Temps or display your favorite GIFs.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1p4aqwu/aio_settings_on_nautilus_rs_lcd/#:~:text=The%20LCD%20is%20just%20a%20screen%20to,CPU%20Temps%20or%20display%20your%20favorite%20GIFs."
+          },
+          {
+            "snippet": "Persistent PSU noise (rm750e) - same issue on both original and refurbished replacement!",
+            "link": "https://www.reddit.com/r/Corsair/comments/1p4aqwu/aio_settings_on_nautilus_rs_lcd/#:~:text=Persistent%20PSU%20noise%20(rm750e)%20%2D%20same%20issue%20on%20both%20original%20and%20refurbished%20replacement!"
+          }
+        ]
+      },
+      {
+        "title": "2026 AIO Update? : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1s2wi6a/2026_aio_update/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 months ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "Honestly, I don't consider the TITAN AIO to be that old. It was announced in June 2024, and released in August. The LCD version was released in October of that same year.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1s2wi6a/comment/ocbd7od/",
+            "top_answer": true,
+            "votes": 9
+          },
+          {
+            "snippet": "They almost always have new products at computex in Taipei in May or June timeframe, I haven’t checked this year for the exact date.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1s2wi6a/comment/occd19c/",
+            "votes": 4
+          },
+          {
+            "snippet": "Best quiet AIO coolers",
+            "link": "https://www.reddit.com/r/Corsair/comments/1s2wi6a/2026_aio_update/#:~:text=Best%20quiet%20AIO%20coolers"
+          },
+          {
+            "snippet": "Plus, there's the upgrade to a 480 mm radiator.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1s2wi6a/2026_aio_update/#:~:text=Plus%2C%20there's%20the%20upgrade%20to%20a%20480%20mm%20radiator."
+          }
+        ]
+      },
+      {
+        "title": "Nautilus 360 rs , headers on mobo 1a rated. Question. : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1o3btz3/nautilus_360_rs_headers_on_mobo_1a_rated_question/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "9 months ago",
+        "items": [
+          {
+            "snippet": "Whatever the extender plugs into will read the fan speed and power ALL THREE daisy chained fans.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1o3btz3/nautilus_360_rs_headers_on_mobo_1a_rated_question/#:~:text=Whatever%20the%20extender%20plugs%20into%20will%20read,and%20power%20ALL%20THREE%20daisy%20chained%20fans."
+          },
+          {
+            "snippet": "Daisy chain the 3 fans + extender and connect to a fan hub.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1o3btz3/nautilus_360_rs_headers_on_mobo_1a_rated_question/#:~:text=Daisy%20chain%20the%203%20fans%20+%20extender%20and%20connect%20to%20a%20fan%20hub."
+          },
+          {
+            "snippet": "it will be powered by your PSU (SATA) so you won't have to worry about the power limitations on the headers.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1o3btz3/nautilus_360_rs_headers_on_mobo_1a_rated_question/#:~:text=it%20will%20be%20powered%20by%20your%20PSU,about%20the%20power%20limitations%20on%20the%20headers."
+          }
+        ]
+      },
+      {
+        "title": "How to set up corsair nautilus 360 LCD (wrong fan??) : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1pbvk0i/how_to_set_up_corsair_nautilus_360_lcd_wrong_fan/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "Nautilus aio lcd version don’t have rgb fan. So that rgb fan is wrong parts. Unless you purchased something used or returned, the packaging was incorrect. You should return or exchange it.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1pbvk0i/comment/nrtg3zk/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "i managed to get it to turn on it seems to be in sync. do you think i could continue using it without the rgb header? i don’t really want to take it all apart and put the screws back, though i will if i must. Also i bought it new at bestbuy. the box was not pre-opened",
+            "link": "https://www.reddit.com/r/Corsair/comments/1pbvk0i/comment/nrth2ws/",
+            "votes": 1
+          },
+          {
+            "snippet": "Since the RGB and PWM cables are separate in RGB fans, there is no problem with operation even if the RGB cable is not connected.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1pbvk0i/how_to_set_up_corsair_nautilus_360_lcd_wrong_fan/#:~:text=Since%20the%20RGB%20and%20PWM%20cables%20are,if%20the%20RGB%20cable%20is%20not%20connected."
+          }
+        ]
+      },
+      {
+        "title": "NAUTILUS 360 RS ARGB & 3500X Case: It appears AIO Pump not working!!!",
+        "link": "https://forum.corsair.com/forums/topic/194136-nautilus-360-rs-argb-3500x-case-it-appears-aio-pump-not-working/",
+        "source": "Corsair Community",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fforum.corsair.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "11 months ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "Amazon sent out another. Connected the AOI_Header and now showing in BIOS rpm's.",
+            "link": "https://forum.corsair.com/forums/topic/194136-nautilus-360-rs-argb-3500x-case-it-appears-aio-pump-not-working/?do=findComment&comment=1084587",
+            "top_answer": true
+          },
+          {
+            "snippet": "Do your pump RPM show in BIOS? If not, try plugging the PWM cable on different headers, even chassis fan headers can do to make sure the pump works. If RPM is not displayed and the pump won't work in any header, then probably you have a dead pump.\n\nFor your second issue I'm not sure what's happening. Try changing the drive boot order in BIOS. If the OS was installed for another hardware, there's a high probability it won't boot on another board or CPU and you'll have to do a clean OS installation...",
+            "link": "https://forum.corsair.com/forums/topic/194136-nautilus-360-rs-argb-3500x-case-it-appears-aio-pump-not-working/#comment-1084522"
+          },
+          {
+            "snippet": "Any kind of issue with mounting pressure and the bracket would lead to instantaneous high temperatures.",
+            "link": "https://forum.corsair.com/forums/topic/194136-nautilus-360-rs-argb-3500x-case-it-appears-aio-pump-not-working/#:~:text=Any%20kind%20of%20issue%20with%20mounting%20pressure,bracket%20would%20lead%20to%20instantaneous%20high%20temperatures."
+          }
+        ]
+      },
+      {
+        "title": "questions about the CORSAIR NAUTILUS 360 RS LCD : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1otjh40/questions_about_the_corsair_nautilus_360_rs_lcd/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 months ago",
+        "items": [
+          {
+            "snippet": "This comes with a ICUE link hub so if you get ICUE link compatible fans you can plug it into the hub that's connected to the AIO.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1otjh40/questions_about_the_corsair_nautilus_360_rs_lcd/#:~:text=This%20comes%20with%20a%20ICUE%20link%20hub,the%20hub%20that's%20connected%20to%20the%20AIO."
+          },
+          {
+            "snippet": "Yes, you can replace the fans on the AIO.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1otjh40/questions_about_the_corsair_nautilus_360_rs_lcd/#:~:text=Yes%2C%20you%20can%20replace%20the%20fans%20on%20the%20AIO."
+          },
+          {
+            "snippet": "As a note you will most likely need a rgb hub to allow the software to interact with the fans.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1otjh40/questions_about_the_corsair_nautilus_360_rs_lcd/#:~:text=As%20a%20note%20you%20will%20most%20likely,the%20software%20to%20interact%20with%20the%20fans."
+          }
+        ]
+      },
+      {
+        "title": "Corsair Nautilus 360 LCD : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1pole7b/corsair_nautilus_360_lcd/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 months ago",
+        "items": [
+          {
+            "snippet": "The LCD screen looks alright, not the best in the world but it's clean.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1pole7b/corsair_nautilus_360_lcd/#:~:text=The%20LCD%20screen%20looks%20alright%2C%20not%20the%20best%20in%20the%20world%20but%20it's%20clean."
+          },
+          {
+            "snippet": "So far, it's been very quiet and has performed well.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1pole7b/corsair_nautilus_360_lcd/#:~:text=So%20far%2C%20it's%20been%20very%20quiet%20and%20has%20performed%20well."
+          },
+          {
+            "snippet": "It's at an interesting price point, with brands like Thermalright offering AIOs w/ LCD's for cheaper.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1pole7b/corsair_nautilus_360_lcd/#:~:text=It's%20at%20an%20interesting%20price%20point%2C%20with,Thermalright%20offering%20AIOs%20w/%20LCD's%20for%20cheaper."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "TRYX Panorama SE 360 ARGB Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSrC3TM33sP76oV5Jox2q5pmCzJyCMaTqvGnWsAjwTjpDupmFhX58MBXVi39OK4v0lqy5jjrKlf82Y-MPjfiPQ6cFTpU3zInVDRfNg730VFhf820HsIEvi9RAE",
+        "price": "$279.99",
+        "extracted_price": 279.99,
+        "reviews": 20,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jT83u3icbVS7ruM2EA22TpEiv7DVxQVI6p3Osh62bOstylJjyCJtyXpaki1byNfcTQJsyk2RNr-xW-Rboou0SxDD4pzhGQzOzL8__PRG87-3akyTe3jcSqE3Hgt7SF-V28L53HYNuaVDTv7iIICI5xhR4hkJSgLimM9pMiRlc55RRhAYBiEoSbyAWABZUfyS0YSUeU2t04l2SpPONIHjBMixLOQBQggIAHJ_5lVypv_DDIcAJ3HSfDkEBUZipE8d6b8ie3kQIQNYCfIMDzggAnau51fbtZTD97HfrzfaPb9uy2Sg_fCS3rqO1sPLmda0S4a8qV8I7YuhaV_s5UvaNCXt5qdqm_qd1tGSJj0lLwgg7j3wLzUdfz-371V-R-1TlZMvnMCzPBIlxPNzpxBgwKf2Prxl57dz-Xbr37LyjdZ_NEl7P6XfPvysNqOy7MelE7QtVlzgMWYQTJnl1BGXYFLHumZ7Hhh3YARpiFuM-oEGaw77xAprgnxEEj_I5KA0LKK1OFQbNkHSMtBKLwqLZzSZe4rPyLsUo1fL-whKfHyJhkA_QyeE-h5wvadoMNEN29M11vPd0gOaShCMQhXauM5YB5POW-FbPEVT6mOWVEbih4aRXPBqhzTo-OWehA_l6JeBOalTgLMYQ6IdUezGvrlKtTanKrf0VNcMA1clUFP9lbnawTLywnLwa6K58DzQQupjxd1EfjRZPrY86DLHVani2twcYXZzy4yNq_N4DFsvUIsxRS6O9QcyC3JxZ5an4h1WBxQWIiQrmTWVssWqiYiaOYTJVm7l-kccD4mm7VKt3CbA3IaljAiImbBurV3gVmnI6RjGVlRxjjdpTKK7F696NKGf-QEasF87g6_Hlq9yehRoGAPR0yZZCyucpXuNdSq3IjrcBXjxsJT10yw1U88N2V2ZTyuM3RS4rF_GUQBbmKChTvWy9idztpqJMRpCXMTyb4--O30FC40bPIvPFXWxQedXsoTDWHL0ilZDnArPx2n8BQoiy_EMC0QOin_MBi5y-u3Djwt1-ZFRFsTAatLD49kp8G43zxHd7m2hscobulMhKzbFMjl2OnpyO3IQcbKt0esgnxbOR0Z-ORw8Os8LfZ0dYb__ZlbxmIDSNhzmnjO6YPRyZj82zSm-il5xCyQ_j5x0upjNTejWAcunl8ldm4lW3vODLq6FUjmQVQKbTey7IVNpj6PHErs8VO3NStgrMst3XQXPYulDux-Mbh6xqOy3HIgfa9ES5zY_FuqrXNf79XlHPRrtRnUxn_c8c63MiRzDzFHPxCcMmGFgnOMUioO4nQ5aadYsIsbm2RvNxrxH-dRL46McmUXxNPfTY4wwLVzn6ExRquxhnqGMInYAq17W7mPxzLA677QDyINuW9iqZ3nslgk0BG5LkkgsK4R0ay_QKqvz2_65vdZCvm289Jo3S2u3OAh8dfSumiSdqSHz0tOtm5E4x2vCyleKCwASpzgDHHew3ykbhfCvRjqKGxqIfHiSpYFICyHQbquhv25P17ZSnKdmHlI79J6VvWi5THeKQnU4qZON_lIExuDdXgM_mrfP6Z__AGRd794"
+      },
+      {
+        "title": "ARCTIC Liquid Freezer III Pro 360 CPU Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT0AMRcabOWtR_JJ3cldV-CKCMbdZVhoNRrjqwUoD5zpUpNiRnfw8LU4qinol9UM44G3sPbxUel4PV_nKUlwCXsRC2CknMf8fF31dlx_fPEfwJUsov4FCJN",
+        "price": "$76.99",
+        "extracted_price": 76.99,
+        "reviews": 500,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XQyW9nicbVTLrqNGEE2yziI_MSvrSnTzzg4MGGPAPBubjdVA22CeBvzAmq-5kxlpspxEyja_MbPId2QZbpRlWupnnapTVarqv7776ZUUf5hqTPAtSkwx8u9J6Yzpi3KV3M9d32bXdCyy31hAAcixtCBytAhEHrL05xSPuGpPRfY7mN9ohgIAioIAGRHSrPAlJzirioZsj0fSK236hqMojgYQsAJHicyMFETm16LGJ_KfnOY5ngEcxbEiAwV-tsh_6LPhK3SWByjMTrAQCiIlQIHjIMe8d7ytcvh_2cfLlfTTV7PCIxnGRXrte9KMixNpSI_Hom0WGRnKse0WznKRtm1F-nmru7Z5g_WkIngg2QJSkH1buEVD7h9P3b9uClAUOYanxZlsPvLz_FAX2ReW5xhuTg0AQODgHC340N3G1_z0eqper8NrXr2S5lOLu9sx_fb93-otXS77dOmGXYcUj_IDb7A0CUSBdjZ38tkt2aMfGVyixxXW0WCHuRMGSPfq8kHUR4zLmEFBptplZie7mMKqhlJkq2morbIz8re6N2GA1kmoPpIZE5T5DsE9GynG2afEKaXGfapWoRvmEIV2sKOMKA3XDxzGwG_2EE2AQ5E1ZRHo_MZeBqs9TCKbS5_VgKiH6kbgHGmnp4cqJY06JYhaOgB5FyvGEavVhegpiBrUhECOkWrRfplZJPBk-6mZOMqomIqZOBSHRPdwoNrcNtKmtOkcXCJIqngXqFlJ6nGKS5a2w7hO6DUbNZXpKTFnh1qNdJu2KG8ItW6-e11WZ2dfR75fSSDWY9_bnaAHvGsSCuyM5ZIgm2O0y0iT7Uw50f4qrzGSDRd6DFIMMPsh-yFYplF1dVGF4-hRbXXL156yFtUoT3ca49Zena2AFSLpsVXWk11p9qowZE-3p20U-zO_GgVygGlZTTUx8BtthbW4ToGoBzQq4qhqfnkM_fErJWns6G8Zo5SNp1N4Fwu76T5J84IFDudtKEv6GfACw3Jza831LX6aq7QsyLcffpTU5TtakTIDqXgAycktkWXRIk3MncO32-oKb4TPy025xEm_ghNrZQcBYbOBL6N8lNx3tLw4HHwyNwV5mavOebNm1_EdU5VjuPStoFe8Mci589i0x_gi-OU1FINi76bPs91e-X4dMlx6fnprG2vVrTishDVfKYdMx6DdxIEX0bX2SHwmc6pD3V23mLlAu3rjVdBMlj6028HoAU3tq8FkqfixFrbCnOaHpL7ITbNbnyzik711V6V5vOnZa2VWZGl6Xle5MIGQHkfaTZ6RMArm86BVdsPAzNhMg9Fu7Nu-eA7i_VHdaamc7N3zcd8jUnpu4j73qbIDRQ5zApmR0gdZu93LKUcqZKgDVYS9WTqqv_UZkw41SF2XGRYZho-I6UhQz5viupvMS8MXZuunl6Jdbi3pwHN14l80UTwRQ-bEyWvae-YmF8zIF4JKisJueaJQ3IPBUjZKxr0Y6V3YkFDgoqMsjpko8aF21cfhYh4vXa24k2YfUifyp9qROjZfuWWpuqzYy8ZwLkNj9K8vYbCff5jjn_8Acwnnmw"
+      },
+      {
+        "title": "MSI MAG Coreliquid A15 cla",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR8YwQsLl2H-92ySKNbCE7uxQMLif9YR6kR9yI9haLDGmFzKWFuqmoZBZ_TWTQiMI5XrBvf-1zme116rjJbqO5DMCJ8vppPXkKo6H51snc3TiLETasp8XY-_Q",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$120",
+        "extracted_original_price": 120,
+        "reviews": 18,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7C_J7HicdVS5rus2EA1Sp0iRX0h1cQGK1JrOsiTbsiRrpZbG0EJbsqjFkrwiX3NfXoCkfAmQNr_xXpFviW6QMmExLOYMz5mDGf711bdvpPrDUBOSXsPMkELvltX2lL8ql4XzSz90xSWfquI3jgEM5DkkSjySGEmAHPolT6eUdseq-J1heR5ChCCSoMSLAIqA-1SStKBVS3aHAxmULn_HCTwrSFAUOIZHEEg8QMKvVZMeyb95JIq8OFNxQBJ5gRcgAh-GYvzM2ss9w0AkctI7CwsEQeIEwP1ouztl_z_Jj-cLGR6fDZpOZJxe8sswkHZ6OZKWDOlUde1LQcZ66voXe_mSdx0lw3w1fde-wwZCSTqS4gUCyL0H_qUlt4_H_h-h_0H3oamKT9zcIQ85jgcCZGeAJH7or9NbeXw70rfL-FbSN9L-3KX99ZB_-fo7tbspy_G2dIK-x4oLvKcJnbb3fCqVoaZHAXbbAEqypbnUP8lRHk6phcvIDZM29Jhhp-hjvuq5YskoFtbdEJfOTp0usW_C2KdlstKrtJHWflhsTAi4HLuBVZd2GMk7p-YmI9DcAtxAGtAQR9RIVsXgMvHTby05Q3JiqkloPfEjYIrOoYmCA2awFG2ZrSTT1DQnBxZOT2WXrY8P81lUgV8-MlrOaguKT9gO1eIShPSct4VLfOterAsuV5kwPGmmq_asudIVIxQh9jdTgvFkQiaIocskJxzlqtXPmkazLQ4m7nnLl30HadTX-rlHl3pgw4Q1TqwwWYVq8LRa_eFF_dYFwT15WrFVY2wy5ToHlDXhEcaBHoVhovl1LzsYAxfpY9iWtXNKaK4mtuO7dxJpqIiSXabSxsUdl0d6PPu5sjRLyxvnPvu5zFrKZ5Ci-KTx_nrjaU9ZCxtc5pHGOo3bFCvGDPDivlM2D4tq1qrSZXdtPXZh4sXAhIavmVYjUbOREi_CaLdesA6yVNffsE4ooZ_u43D4DBYaN3k7Vq9l_WlX7tlMnTzO8rLiGJt3t8Bc_MAIIsvx8wSKHCP9PE9wXZEvX3-zUJffI2VR6FhNRyY7OjU2TSQhYkS20O3oBV6JUNbbeplmwwo-OLPYizg1Wvg6yYeF8z2SX_Z7j8wLQ14937XfX7Oa5JYCausOulZoJeijXNr3bXdIzqJXXwLJr2Inf56s7iIMm4Dl89PT3VipRq_VfiVuBKrsi3XKdNvEd0PUaPfMYwub7pv-skvZM7ToO6-CZ7L8rl33-sAgENPR4EBy34g7cbb5vlBf5baNNkeTeCQ2b-piPu911kaZCzmE5rgqxQcToGlCTvYMxUk0nnuNWi0LC337GPVua13j6jlKtzu9oUX9sKLn_RZjUrtO5jzjXImYqoQlgewE1qOsXW_1o8QqZMEeVMFg1Lbq7TzWQIEGwWVZpBLLCiEx7AVcl211iR7GuRUqo_Pyc9Utd-ZiL_BN5p01SToSXealh9t2t8LJzikrnwmuAUid-ghwMjCjqWyVgn_V85u4JYHIhwdZmgppIQTaZT2NZ-Nw7hvFeWjWPrdD79HYi54rV05dqw4nDbI-nupAn7zLa-DH8-9z-PNvTGjw2A"
+      },
+      {
+        "title": "NZXT Kraken Core RGB AIO Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR3_VCtbYFod8trEzEs7skDH-NSG4T2SWKUsE-XDWz2cBwasQTB9_mPWcpRz3z_JpPpsAapb1XqnXxQaQEc4enhix4YZmQAzZkjNbwoKslcB-SMOli2j6-P",
+        "price": "$103.31",
+        "extracted_price": 103.31,
+        "original_price": "$123",
+        "extracted_original_price": 123,
+        "reviews": 53,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WE83f3icbVTLrts2EC2y7qKL_kJWFxcgRT27syzTsmzJer82hiTSlq6etmTLFvo1N02AdJkU6La_kSz6LdXtOiQwszgz5xwSHP770y-vtPh7t4ppcgvSnRQ4Y1qaQ_asXBfW5-7Skms2FOQrBwFkeA6JEo8kKAkMhz5nyZBU7WlGEScIAs8IIosAElhB4NCXnCakKhq6Px7pRWmzgvwFWSChmUPkWBbyEAmAR38WdXKi_-NfJW5GEOI4cWbhIAQC--FC-m-MuTywLIIiEgSWm20AJAKW_d2098rhx9jH85VeHt92VTLQfnjKrpcLbYanE23oJRmKtnkitC-Htnsyl09Z21b0Mqe6a5u3sgutaNJT8sQAhnsL_FNDx4-n7s3lD9Q-1AX5wgk8yzOiIIkswzNAguyH7ja85qfXU_V67V_z6pU2n9qkux2z7-9-XbWjsuzHpeV1na_YwAmrRFdzL1Hsm4Mzzlc03i_xSg-kxCpt3mDufFaVMA4NOwnyjR8SQMNqTH38sNdxk6naMgXdNa61MgMdtrG2TSrZJl4JskDSXTXu9DKusyoeMzXfJmupSF0PeQD7UaWDBOf5zo8fVkCUjJG6iCHnVNXvVgGDIJi9wMXgYf2eTbHilrjKQjnf-7JjQBnvwg0ggca6VacFATwmtT7GSty7HlT3ip_rU84HKjEJJle_iu66m5exp1nWhAd_rssAvDmKBaOABb5bBYEnAVLmkQv9zg7mvfYfRPWmtPTb1JWvwUoEjudrxkRG3deGRI25tI4mY6UDN5Q3ridhXyVKWq-QjVo2dnFkveDQX8LGWdlF4GWjN_mrBOQ754XUthr3pOkCvZGnBG9QyNhGsIJbXTW6bKp8d91DB9hrI8QoagwYYOJavu7gScZB7edZiFmrtmuyhrrnL-57ZfMwKmysC022VeOxD2IvgblJK5mP1S4h4L42IEEurKx4nWu-gm8pqOw_7v3l-A0sMDc4e1YrZW0yC_usJ1YWpVlecNDk7S3QF7_BedY4HrFA5KD0aX7AZUG_v_t5sVq-R8qCaPPZepierNLXdSQhugtNod1XV-ZGhbzclsskvayZB6eTg-gnu4Z5HuTjwnqP5KfDwaHzvNBnx7XNNzajjscEVKZmoVuB1oLWy7l537bH-Cw65dWT3CKysunFaK_CZeOxfPYy2RsjwdWtOKzFjVApB6ImsN3Grh2gGt9ThyVmdai76z5hz4xRvekq_iyW3fHtoF0gAlHV7zgQ3zfiXpyv-b5YPctNE25OOnVopI-rxbze-oyNMjdyCM1xnYsP6KFhQFY6BeIg7qYDroyGZYi2ffRauzVuUTH10nivRrQoH0Y43cfIp6VtpdYUZUoIi5zJKcMOQO1lfBvLR-6vGBYcQOFddqW5cvYOu0MeZsB1SRKJZYWA7swFo-ZNcQ0fu3MjFLvWyc5Fu9zri4PA16lzxpJ0oprMSw-7aUdipeeElc_ULwGYx_sE_PgCe13ZKoR_1rJR3FJP5IOjLA1EWggevqpDf94dz12tWA9sHDIzcB61uei4fG2V5cripIus9S-lpw3O9dlzo_n3Of7zH_6T8HM"
+      },
+      {
+        "title": "Cooler Master MasterLiquid ML360R RGB 360 Elite Liquid AIO CPU Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRxgZq_E3EYcJAe6QWfwO8L2a8aP69Ba7YeKELERxXVv9v6m9UQfRKJwT2ov30WL7gPEQqMjgLs6Do1MCEHucZJTmtJ5nYC",
+        "price": "$89.99",
+        "extracted_price": 89.99,
+        "reviews": 128,
+        "rating": 3.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OlEA8HicbVTJruNUEAXWLPgJVtFDd_DILomHxPEQD9dOvIk83MSOxzh24kR8zWu6pWZHg8SW3-he8B0s8WMLd1FXqlNVp1TTX19990rzP3Q5pNEtiHUxcO9xse2TF2mY2x_brkmHpM_T31gIIOJYLIgcFqHIIxZ_TKI-KpvThGKGhwhxgOMxgALksMB-ymiUlnlNreORdlKTvAUBgGUFjkcch0Qksphhf8mr6ET_hX-HiBeAKPCAERnMMzzPIfiuS6-ff9guD5gRWZ5jOcgjnmMYUfhp61jS4f-Q95eBdo_Pehn19NrPkqHraN3PTrSmXdTnTT1L6bXom3a2Xc6SpilpN31V29RvZh0taXSl6QwBxL4JblbT-_tTO6X463-43lV5-mlSMRxiOYwxEHmARfSuvfWv2en1VL4O19esfKX1hyZqb8fky9d_y7dkueySpU3a1pcc4EnKzcshpESA4U5DDoKXyC9XKYG2UbeSAVspqB3OBG1GvdQhqzQgOwPGntLHZbo0cnBPKlGxVJZ4agnCwh7NiozRZBMG49NSS5sGLEcqhXhTB-JzGkREWcZq6Fi7dBfKjpZUpuWC8OIjJYrOTuYV5tkGY-lUZejWjuSfNc1EEBpy2PnExr7vryPsmF7tP70yY7zVonZA2wS7tKJ-enSU5h7UpbcH4nJPtLvu2SApzbOB2iAu0jH1U2-fwyiQQ8sMCBOofWa6kHVl9mk8Q-QpoRJCPwgqmJtozOnZvyV4MZAy2zmEfThBxumB9owDYXRJGxmFaUVyVjnBvfdAqAY7TU0rOCQFQQ4uSao4gycrCqm1hxcoj1jKylgVTeMcLpPAXJhIIzYMfQ9lRytQjmEhu8pzoQSVnyU7hbErp0pVaBB_PlrS-mGWiqnm2sJZmQ8rCInuK6G3Wj8jNfRjSGCiiMjALTNVNyMyPMalg38er93xM5grbO9azJE9GTVfibetLiVnJypbKLrhaV4lpx8hLzDTODFAYBH4MI1okdMv33w7l5ffY2mear4cXWF8sgvfMLCIqb7b8o1VDuhG-azYFMso7lT0YI30IPiRXqOXfnGc29_jxexwcOm0EfTF9ZztWzSzCu8RKLeajW85Vnntusi246Y5hhfBLQYievneTp5nsxn4bk0YLjk_nbUZKeUtP6jCmi-lQ7qKYLMJPSfAlTLGLpNuy0PVDlbEXJBZvvFK_kSWjMrtoHUQg3151VkQjmvBEqYyj3P5ZVHXu_XJoC7dG3d5Pr03P3MtTY4sxpNUM-EBCe57bMfPQOgF_XlQSrNmUKptHlet2Zi3ff68ivexvON58TB3z_G-92nh2LH93CfSDuYZyihierC6LpTbvXhkvowYcAA56fRiK7uWy-iYKAgMyzQSGYYPqL6do1VW58PuoV9qPtcbN7nkzdIy5geeq2L3oojiiWoLTnw4dXNP7fgSMYsL9QsAIrs4AT_s4NWQNlLKvWjJXdhMu84Fx4XYp-KcJ8qw6q8X_XhpK8l-KOYh2Qbuo9rOWzZT7aKQbVbsFtr1XBCtd4cX4u2nC3P88x9h8ec1"
+      },
+      {
+        "title": "Corsair iCUE LINK TITAN 360 RX LCD Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTls9mHjL1KryJn0QsMPk_o_VfqSFl43u7a6VJGrqPnE7WJnPMDAMmjpSEaN0ofYi-lVdgOpusXH48e4hH2P5gDfZVaaqQkMJMb1JHvHT7eWfwTcNLNohMr",
+        "price": "$197.99",
+        "extracted_price": 197.99,
+        "original_price": "$220",
+        "extracted_original_price": 220,
+        "reviews": 470,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3xULP3icbVTLrqNGEI1mnUUW-YWsrq5EA80jOzBgG9tgHg2YjQV022CaN_ilfM2dTKRkOYmUbX5jZpFvCTfr6UWV1OdUna7W6f73ux_eSPH3Vo9Jcg3TrRx6t7Tcj9mrNinO723f4CkbC_wnBAxgBchJssDJQBZZyP2eJWNCm_OMAhGKM8rKMyxJkJEk8XNOEkyLmtinE-m1JptpLC_xAM4MnpNEGUoyw_5RVMmZ_A__BSSOFwErirwgyUAQWA5KH3s8fGH3iyPkoSALAi8IIivNWeLgL3vX1o7fxj51E-kfX7Y0GckwvmRT35N6fDmTmvTJWDT1CyZDOTbty37xkjUNJf2cqrap32k9oSQZCH5hGRa-B-GlJrdP5_Z9im-ofawK_BmK8x4rzieXIZABz4KP7XV8y89vZ_o2DW85fSP1b03SXk_Z1w8_6s1NWwy3hYPaNtBcxnsqz8xXYBDSjVfna8e3dk4UJImOVW9pACvEEIOWOswY-szIuisV4iUDM5Bx7sqoA-bOWTTnbUN_BCvXSIO4c4BlOsgK00jVfS5GWR1fY8P0SNg6WIdhWPI3oplcTPPO4SzGWhkFpuU9ATKLNddCS8hjLVaDlXpN9Dv1w1y3DLkJl7mfcTnwAOJxFBioDi5EpwKitEjKces_zY74JbCi4JaVmEXPIPeQFR1KSsMVvntA1YmWGxlDHeuSQXtlAsRlkJQOF4Zt6S9HLQZn6JfM3avM3qHWKUGx6qExd0vX8plWSNnzI9TxQErahRd1nkO1cZUjhEwtoTSyV3F4YEwu1dZMGModioLKX-bXndFaAZXX2XMHA9ROAcKnpIQTDqi789U4vRjrlLlv5t5xyuER6W6_C-PBC60JRSpwjTxx2VZFl7VnPFUjrII8iwzeqdwKL8EOBcrd1tYPixrWsjBVd2U97DD2koBGSG9X6cWcQj-PbQT6JFL5neawtm50BxrUv96H_vSFUQw4ejZ_guddLVbydb_Vsoub0BbIXnxWquz8MxCl2YYcz0iQZX6bDVwW5OuH7xV98ROnKdgM9GQA6dkpg92OkzmyjfZiY9OJvRIxLzflIkn7JfuAO3yUgmRbs6-jelKcnzj15Xj0yPxeyKvnu_v3blYV3xKG7k2HuxbcUjQHNd_fN80p7iSvnJDsFwcne16sZhL7NeKF7PJ011Zi0GtxXEprkWpHvEpAs4l9N-Qq4556PN7TY9VOdsJ3rEXfdbVgFsvuxvVo9oBjDnTYQia-ryVbmq_5ruival1H6_OOeOSwu-nKvN7rrLU2F0KOm-Mylx6zk8aRc9JnKI3S9nk0qFXzLDY3j8FsNtb1UDwH-XanN04pH1b0vN8OASldJ3Weh0yLQJGzOWH5kVkNqnG9lY880FmeOTIF6rflXvdsj99yyGCZaYETmefFkGz3CrvK62KKHtuuFott42Vd0SzsnXIUhSr1OkOWz8RUBfnh1s0NO2mX8GpHgpJhEqc8M0Hcg2GnbTQsvJrZTdoQJAnhSZVHLCsiMqbVOHTbU9dWmvMwrGO2D71HtVdamC-dstQdKPeqOVxKZI7e9Ir8w_z7nP75D-Y58jg"
+      },
+      {
+        "title": "Phanteks Glacier One 360M25 G2 AIO Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQxaxPZHe697E3lm6P7Kc1toF5aS5YKdVUg8JuKL9BR9zLjUtobrymxYm0VapLYjDr6IDSzLw4ZxnZ8CPYUYSE4_EqsgsOt1QEmyqKeqLwciipI0fBPL60s",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "reviews": 79,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=W-Ni0nicbVTLrqNGEI1mnUUW-YWsrq5EN-_sjAFzscG8MWwsaNoGd_MwYGNb-Zo7mZEmy5lI2eY3Zhb5lnBnm9SiSqrTVaf7qKr_-eGnV1z9tdFSnF3jfCPH_pQTZ0TP6mXhfur6trigsSq-8IABUOBZSRZYGcgi5NlPKBsz2h5nVJwTMsfzEmBEEQIRQPlzibOCVg3eHg64V1tUFX8CyAosB2RBYiEjASiJsvBHVWdH_B3_wgJBFmQOQI5nGEbmJIF_3xfDV-gs96zAQEniBCgynCyKAAjib463Vff_j304X3B__7qh2YiH8Qld-h4349MRN7jPxqptngo8kLHtnpzlE2pbivs51F3bvB3rMcXZgIsnyED-zQlPDZ4-HLvvt_wv2_u6Kj7zojAnJUYWBX6WieOl9911fC2Pr0f6ehleS_qKm49t1l0P6Nu7n7V2UpfDtHTDrotUj_FrcEl178Wu3SmpBy4iQEjZrnEbqiJapiGR29wwecvo-CQy_YLtPNsgfEI13o893lslt0DjjdQo45iAnQdvPlLLMNwdQcRQIYkiN9TLg089JYiZMWTtEYFS93TzgQJ9a-vpUKw0LjCS0Qt5Jw_tNlrZbArkbQ7pyYOFg2AaprQD2apwUngTEprucmDBbAmIF3lTGJbbPKLXBHj3_BHZaUAYi5gnX7O1mES6RVpgR8V9fvPGI-6U1zLjh_wqr2mLjChOIgpt0JU5SQOfKUKXlqpFk0d2imDBRkHAFmdMbZLS8hHFtHJPIRvu3MmtCfB39jLXKPQb5YwYj4ZNSq1V2WGjUKxAyeKT7RfAXLs1vRVBUSJd411A7uikm2iW0QLeJdjZU7Ey3ZSYa_tUAJeYHqo7L9nZN6RFHtL1AO1SI4g8FZHB1x-KHtdRiXY659ZeXayAFUaL21Z9udtUt1eVqXiGfd_Gqe8Si9nq9toy0g4Z9J5pMmsHIbc1KGvrZexBXvn9NvSHr8xC50d_yx34o9WItXx1Nio6edksvOynx0WNjr8CUeL4eZkYiYfMx3mASYW_vftxoS1_YdVFYUZaNoD86JLIsliZxZudI7ZbeoFXLJZkTZZZ3q_gnbeKvRRlmwY-j8ph4f7CKk_7vY_nfcHPfuA5b93sOp0yhjqmy14rdiWag1I6t3V7SM-STy6hHFSJix4nu72I_UvICej0mOc40-m12q-kF5Gq-8LIQLtOAy9ma_2W-1zh0H3dXbYZd4Y2feNVo5kM3fTr3uwByyR02PBMenuRttIs822hPStNs3s5WtjHiTVpi9ne6uwXdS7kWXb2q1K6g5AdR9bNH7E0SpvHXqd2w8HCXN8Hs13b16R6DPJ0oxO7IHd797hNSYSJ5-buI0HqDlQlLDHkRsYYFP06kXsZaZBj9kwV9hviaP7W5zZsqEPmsiwymePEGG-cBTTKprrs7ptzI1ab1kfnql1urcVeFOrcP-uyfMSmIsh3r2mnws3PGaeccUQYJnPJkYnSHgyWulYL4dlEk7TGoSTEB0UeC3khhvrFGIfz5nDuatW96_YeObF_r51Fx5crlxDN5eVeMYcTCc3RvzyHQTL_Poe__wV8yfIo"
+      },
+      {
+        "title": "ASUS ProArt LC 360 Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQR_lt9ZxY_8hyULn-LuGfMHF4ibgyOqFVQuAFY2WBJCN4zYLxs2CEjCEhBHSY-H0lUMYhzbydvyIHNyxvzrrLY2gupxPQ0si8U9yNE7Ljd4Ceu_Ytkpgl5",
+        "price": "$239.99",
+        "extracted_price": 239.99,
+        "reviews": 26,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=H9Ygs3icdVS7sqNGEHVt7MCBf2Ej1a2aYXg6EwIkIUDiNSASFYKRQAwPARJI5a-5692qdbh2lVP_xm7gbzHX5dCeoCc4c87p6eruv7774ZXkfxhqROJ7cDSkwB2Oxa5PXpTb3P7ctHV6S_o8_Y2DADI8h0SJRxKUBIZDn5O4j2l9nlCeQQIviogHDMsLkOdF9CUjcUrzimxPJ9IqdZKnv0PAARGyvMhxIhSFSQTyv-ZlfCb_4hw74WgSEADkJJab8A9t2n1ld4sDFJmJAAROkiYJnpcAw_28c7bK4X_Aj9cbaR9fDRr3pOtnya1tSdXPzqQibdzndTVLSVf0dTPbLWZJXVPSTlfZ1NXbs5ZQEncknTGT1FvgZxUZPp6bfxL9D7sPZZ5-4QSe5RlBAkjiJQZwHPjQ3PvX7Px6pq-37jWjr6T6VMfN_ZR8e_ejWg_KohsWtt80WHGAt4yaI5DCY5iuI5zqMU7GPSMiT-VaF8A8Dq3crYo-CeDSw-JgAjx6zwR4gKuwqnexn-5sxlGi0NptPWtvedkquKijXTienQPGL6zLscygX0atEepBsASMh7WNideDAxIu8LDhh3sW0-wUK7jBBbf0VyYysMOHyKH-JdX2ZYKsQmUi6lBvZW23ajN4YQGsFZbtggv2XrT2VQenJV0nPrWtUrtbHvZDmCGHybLEH0dzJRshdJCVQz4onUukRHH0xCq-pBcvXPdHJlsYoXYhuIH7inZe2Qx2KOtGQCku0r3_PMPoqYGkaNhYkzkM1lzC0JF41tqm0vSfqRaliPZUWgcrzFoMbP1AW7pLlXWLzEtR41lP64aL87hdpTs85REr5sMrndCHZ85X_KcJTSYO8WB41Ej9pvSgzYTQan1cP021d4-VvHI139WeshaUOEtCjbVLp0yX0PTxfNwq64dFNWuZ67Kzsh7bIPJTdWCTwOyjytJ9SnUfNUGidr1baK1NdTZVdfTL2LWnr2Cucb275d0ehK7Vnvi1nRzSu7s6nq36JXLg9fwTFESW49E0MxwDP00dXOTk27vv5-riPVLmqY7VuIPHs11g00QSIka4E-otvTF3ImTFpljEx3bJPDgzPYg4NirmpZdPc_s9kmeHg0umgSEvrufs3tSsMhpiQHe6je45Wgp6J2e7cVOfoqvoFjdf8vK9nTwvVn0T2rXP8snl6aytWKP3_LAU1wJVDukqhvUm8pwAldp4dNl0Rw9lc9vG7JWx6JuvgiezZNTuB72FCOxpZ3AgGtfiVpzKPM7VF7mqwvXZJC7Zm4M6n84bz1orE5FDaIrLTHxAH_U9so_PQOxF43nQqFWxTKpvHp1eb6z7Pn920jDSAc2LhxU-x2GPSeHYR_u5T5QQ5hmTEYbtwaqTtftQPDKsMiw4gNxvjWKnuluXNZCvMeC2SGOJZYWAGLs5s8qq_BY-jGsl5EbtJte8XmzN-UHgy6N71STpTHSZlx5OVQ-pfbzGrHwluAAgtoszwFELO1PZKCn_oieDuCG-yAcnWepTaS742m3Vd1fjdG1KxX5o1iHZBe6j3M0bLlvaRaHanNTKencpfL13by--t5-2z-nPvwHbqPG_"
+      },
+      {
+        "title": "YICHUHAOXI Frozen Notte 360 ARGB Water Cooling CPU Cooler Liquid Radiator 3 PWM Fans S-FDB Bearings White 1 Pack",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTBPOLMNKcEwg0JZxLOXnQ70VZtwg9MVQb6H1fhWINVLCLy2heBagrZAgs4ZhqycMncwU-UgBkrZ3MGCgSmNI2i16NCrXmTdHOdVMD4KFQVo-t6yCi7RJjI",
+        "price": "$119.17",
+        "extracted_price": 119.17,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bTaGxHicHVTJrqNWEE2yziI_0SvL0uVexuyMAU-AzTxsLOBeG8xowDbwNdHrdEudZSdStvmN7kW-JbzUokqq4Zwq6aj-_eGXN5L9rcohiZ5erAqe9YrzU58spcfK-NK0NX4kfYb_ZChAQZZBvMAigRI4yKAvSdRHRX2dqzzL8JQAOIYDiGEpJHDoa0oiXGQVOV4upJXq5B2E5XiKhgyASBB4hhZo9o-sjK7k__JfFMsKDMcggWYYjqU4jmPAxxZ3v326P0g7flOLqCddv0gebUuqfnElFWmjPqurBSZd3tfN4rReJHVdkHYOZVNX720tKUjUEbyAADLvjl1U5PXp2ryvhCDNIo7ieMhRFEtz83kfywx_nRegWcjPGcAyFEQs9bF59m_p9e1avD26t7R4I9XnOmqel-T7jx_lNlmvn4loOE3jSiawKPdhewYkJa6wi3eeLFCWH052TrUWVDae66rRhDNnG4a2L15sOY00P2CsSdcDp7lZ3nDERVoGk9kk28Kz5bALvOGiIXmIXd0xfe2lOvozqHZAVxTfnDFx6Uo2xH4k5S8XFoWZ6y4pGdvwg8mHMjpKyuRI4jq-KSq5KaPh7pVESqCjmDtXxmx4CxCunJczUhuzTMHRxiZ23I3qYcW5pQP23LuZ95220T3ipUEMNNp1ddaSUjDf0kVVc_RHSrdLXCe5_tKpNLRl0zB9s4sKgzYnhbK9_SaxU2Q5-love1b1seiOoNegewh8BwWT60VbcxMNO1-T3Sj0lCHx03W4CUHsDKYjybR220HHAdEuV-QE7ZiwUCxvK-6NqmaS8jrqUqhi0BSOsgdBPkRuTpUxTH4fuvbyDawUpreOrNUD39LbC7szkjN-Wtv4qtfL0KTu119nNdAMi2jAM5D6POspz8j3n35eyesPSFrhvStHHRVfjdzVNCQgovonrj4WD_gkXJof8nUUtxs4Mho-826kVnDZi5eV8QGJi_PZIrN8ydKyzdM7ml6GrwgUp72BnhnacPtOTE_Dob6Ed97KH45gZ4GRTDe9fnDtzqHZ5DaZOz1Simd23vA7rpDOeBtR9SG0TQ-VyhBbND4V57J5HCP6DvXinVdyZ7JkUJ7nfUshEBSdyoBw2PFHfhKVYSUvxaryd1eNWCTQXvJqtvc5fSfNgwxCs9-k_Eg5qO-REU8e3_PqdFYKvaIh3h_Gbl8fZj1mUye8huKFVvmo-9PwClySm0ZsTEEi-VSWwpRAugfbTlSer3xMXRnS4Awyp1Xzk2wdLVpFjgLBY40jgaY5j6inFdymVfbwR_VecZlaW8k9q9dHbXXm2DK27oogXMleZIXRrOoXNuJ7RIt34uYAREZ-BW7YUp0mHSTMLvfJiz8Qh2e9iyj0WFhxjvLY9t1dvdybUjJGRT8nJ88ay9OqYdKNkeeywQituO9uubPvrcfSsYP5GVz--Q__NcGv"
+      },
+      {
+        "title": "be quiet! Silent Loop 3 AIO Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQHv1yPbs-DleHLO9mLRtshm1Ax7yT0qAGTZ070F8DCEvPUi34itgarXFU_lKkCcjvdJDgnJBy1AYTGPlbkYzDh-7RlNY7zn2teKRFwG3Xw0YkVm4DpPTVh",
+        "price": "$139.99",
+        "extracted_price": 139.99,
+        "original_price": "$180",
+        "extracted_original_price": 180,
+        "reviews": 251,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9l5SlHicbVTLjqNGFI1mnUUW-YWsWi3Vg2d2xoAxjbEB8zAbq6DKhuZlAzYG5Wt6kkiT5SRStvmNmUW-JbSUXVJS3Srp3HNO1VXV_fub795Y_qelxYzcw8SSQ29Iil2fPqu3hfPp0jb0lvY5_Z2HACKBx5IsYBnKIuLxp5T0pGzOOf0DQoCQhIAg8QIPZQh5EX_OGKFlXrPt6cRatUnf83iO54EEJYhEDs87LKPf8oqc2b-4NEtwAEtIlOQZ5LAEP7a0-4J2yyOPgSxxHAaQ4xCYjwL4n3buVj3-P_bL9cba8YtVkp51_VN6a1tW909nVrOW9HlTP1HWFX1zedotn9KmKVk7L9Wlqd_TWlYy0jH6hADi34PwVLPhl_MlfS_Gf90-Vjn9zIsCJyAeikDgIMZIFj9e7v1bdn47l2-37i0r31j9a0Mu91P69cP3WjOoy25YOv7lEqgu8IqyictYcXx5oHt7SaMN8ic7Yro2kpACP6T2PnK9jeb3Yan4-8If7DBzttEZM8M0vSLAETTzCASWvdfVFLuGq2cOwQtAUZwnkX6PgWulUeAdXmOHrgI_rcptAEqPaLxODRtFI9z7tXKNJt0K9m7DQnMVAZeQJcR742L4tWvGVToSTQekzmIvjB-JYWNSPbiZF5NC9qy9ogehbsx6bjQVMNkH8dYIlr6eqbY_4NS3N1ZwQF4pa9Q_cKTgy8S3y8QDYxroS_81c12Nv1Ot92PVRh6kI8XBNp3icTOt-fnuuVvTkL1maIN6M9ADnhVD7_pUt6eYi2ttOGCXS1cXwV41k1dBjsy-VLMfEVSEA4zXh9o23FUK9sY8daVMdYcLojM4gMwKC_PuIWq5hr0kU_mIQT-mtX0KDN1Nwr4lZcr5gHJEA54-KXpYBVka6ZxTuRVdwY0fLB5bdT3apW6vclOZdcZtGHspDMxUzw6xQetNEbtJ9bjSIGs3-znXt1_tkFd-fnTt6QtY6HzvbQWvB5Fntydh7aRHeveM5Gw3z7ELr-cfoShxvIA5IPEI_jo_4CJnXz98u9CWP2B1Qc1AIx1Mzk4RbDZYxsyKdmKzLW_ozsSseCmWJGlXaOQ39CgFxKrRc6-cFs4PWHk6Hj02_xf27O3d3buaXcUDAeXOdPA9xyvR7JRs93hpTvFV8oqbL-_zg5NOr3ZzE9u1zwnp6-SubaKX9_y4ktZiqR6pQWDzEu_dEFf6I_E4uiuP1eW2JdwV2eW7rxrMZulDvx_NFmJwKDuLB_FjLW2lucyPhfas1HW0Pm-Yxw6bQVvM451nr9WZyGM8x1UmjdDHfY-dZAqlXrKmo17aNYeo-TJ2ZvNi3w_51MnDoxzwohjtaHoMh4AVrpM40yFVI5hnKGOI64HRKfp9KMYs0BAHjiD3W6vYad7W4yzs6wjclpTIHCeGzNotkJHV-S0arWst5lbjpde8WW43i6MoVIl31WX5zExFkEe3bgbqJFfCKVcWFAAQpziDIG5ht1FfVCo8m-kgvTBfEsKTIvdUXoi-fjP67mqdrpdKdUbdPqa70Bur3eLCZyunKDSHl1vF7F4L3-y927O_P8zd5_TXPzok8W0"
+      },
+      {
+        "title": "Thermaltake TH360 V2 ARGB Sync All-In-One Liquid Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTYHNxbQWKc0SWamiraG--XlomCCGD2dgc7Wei9eCFvb-o7txIGmmV62QmFNtZQHJzEWudE5eCQT9a5QYOe1eZvmep1VsRPbqKD6k-WaI8",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "reviews": 17,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VOxLu3icdVS7sqNGEHVt7MCBf2Ej1a1iZkCAMyEeEuIhQAyCRAXMSEI8xUNIKn_NXe9WrcO1q5z6N3YDf4u5Lod2B91Bn-7Tc6Zn_vruh1ea_WEoEY1vQWKIgTcm-bZPX-Rh4Xxu2poMaZ-R3zjAADjnkCDOkQhEHnLocxr3cVGfMvIFAJFFcC7wUEQs4uEcfDnTmBRZRe3jkbZynWbkd8CwcwgmjIggB3hOEAH6NSvjE_03z4r8nBPnLD-BuLkochz40JLuK7tdHoCAAMfwEw3keIbnpg7zn7euLR_-J_nxOtD28dUo4p52_Swd2pZW_exEK9rGfVZXM0K7vK-b2XY5S-u6oO0Uyqau3mAtLWjcUTKDDOTe3HxW0fHjqfln0P-g-1BOOnD8fDoiN0nE8YhhBJ770Nz61_Pp9VS8Dt3ruXil1ac6bm7H9Nu7H5V6lJfduHT8psGyy-wUbFuK7hFf3XsXn3WBuMEXdcBAuti-i1LIspEiXl1FV8iqKRIfs_ZKt5ISjH7AbXCOPZqfIIZF62bMw2XI0YH6hRQ1IjkeDSx2MSyAi84rX-uxA0GRQKG3EDHJrtiaTLMJGZxZQJXjfRH7ajNQLeR2-QmYHnAif2Q9NYrsHWn93GFiqIZBgR_hTs9sNdqb1QmSgMujoDcsrVh5yOl9kCNTJWG6X_QxaiIfRtruiY8OjkKCpTiqLHuHFk9aim4E756JIoWWbmjKaugGXIkDKw80EQcaN5gB6RxQ3Fzljk3k96kPBq-8bxymZkJG37srE-5WTWME637PRLVfuYzv37kUSaaNi_U0a00KYcRy2if-3YpznTUvRPJW0j0o0gct1VsYcHoEo5xWjemra-hAPN2P_yRlP4RPvY8Cbu3vFcbYn8ukcDz1KalBic_pXmWd0i2JBkwfL-62vH5YhWppmS65K-thB9EuAg2ONXB2IClo0Gh-0OdJaRnJpE16IevkElW_3Lv2-JVZqFzv2azusORstktdhYIGctdM8p2TBqq7G38CvMBOq8YyAgfhp2mD84x-e_f9Qlm-R_KC6FiJO5CcnBybJhIRNfZbvraLAd4of843-TJOWg0-OJMcBBwbFXzppePCeY-k2eHg0enB0Bdv527fulllNMZMsdUddMuQxuuddN7eN_UxugpePvjiLgud9Hmx6oFv1z47Ty9Pd23FanHLDpqw5gv5QFYxqDfRzg1Qqd4TjyXb4lA2gx2zV2gVb7wynsjSu3o76C1ATFh0BsdE97VgC5PM94XyIlXVfn0yqUdDc1QWk73VWWt5KuQQmrx2Fh7AR32PnOQZCL1gPA9qYVUsJPrm0en1xrqF2bMTx3sxokX-sPbP-xhimrtO4jzDVN6D7AzPFLI9s-ok9TbmjzNWIMscmMxvjXyreLbHGshXITMsSSyyLB9QY7uAq3OVDfuHca34zKi99JrVS9tcHPh5mXhXVRRPVJfm4sOt6pE4yTVmpSvFOcPETn5icNSCzpQ3Mpm_6OkobKgvzIOjJPZEXPC-Oqz67mocr00pOw_VOqTbwHuU20XDnTUnzxWHE1tJ7y65r_fe8OLvwun3Of75N4u_8Vg"
+      },
+      {
+        "title": "Thermalright Elite Vision 360 CPU AIO Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSnl_X69dySZV-dfeGzHM_D3QFJ1OaslkRz2oYhBabsIHNKDAVq2LMNnYPGvmeE9VxISYIjXP2dlri0ASlDJLvSyK0JrooEArrfFjSfKv8JkcfBCaWYR9h1",
+        "price": "$36.76",
+        "extracted_price": 36.76,
+        "reviews": 55,
+        "rating": 3.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IkgiR3icbVS7rttGEA1cp0iRX3AlXGC5fKcTRVISJb6fYiNQ3JVIcfkQH6Io5GuuYwNOaQdIm9-wi3xLeIGUXmBnizMzZ_ZgZv796ZdXnP-9V2Kc3MPTXgzd8VRYffoiD0v7c9PWaEj7HH1lKUBBjqUFkaNFSuQhS39Okz4h9eUNFXla4PkZhoAFkAE09SXDCSJ5hc3zGbdyneboLwpCyHCsyIizDyeIjCCCP_MyueD_cYqmRZETOJrhIccJNCMKH1rUfYPW6ijQNMXQIkuJIhQAS7MU_7vlmPLxx9jH24Db6dueJD3u-kU6tC2u-sUFV7hN-ryuFgh3RV83C2u1SOua4HZ-yqau3txaTHDSYbSAALJvhltUePx4aeYyv_6A7UOZoy8szzEc5EWKA_x8IQc_NPf-Nbu8Xsjr0L1m5BVXn-qkuZ_T7-9-VepRXnXjyvabJpAd4CnxygZaFXj-41Chqx1IxPYM96RosltJQCfa7RQ6sbvWQBiCJyYalwbqzY2Mc-izTx1osukh2oyQFVNIi_1Hh4oeII-czSil9WuWHJ7F0y_idUKl_aFwzqkXJMHVYHXPsRKfMElELOwZniNvgVGptadoU3pVGB80fqoQKoKGF4OYc2RUo6thuaABJ4jOBy8z3FJ8HCLVTaOA8qoCxn4xHqr4jCJjExQNCAPCpUTbm17MzLGSuwmCZN1rTpipukKC8GpwbuG0HpEGX86m1Iv3gWwk6TNIEsoHripl0dNRcVVTyTW27KtRhIox-JvmkNDE9GRj9g90X5ak2CNdMvMFZUCCTTzX5kQIUMBXnS6VYxut453uAoBLnbFD4nhAfSDA-r6qabNWk--hLIAoQ5Qw6lDlZl05_6r1QSFeU_gY7Ina-FBw1aekhmWQpZHK2KVTojWl-8HyYcrbySCqsc41ydkYkxnGnh52Tz8ijRNInLsCTFgaTgzY1lTi-XfNwSVG9ceja8_fwFJle9dkNJtBmd6uNBUKa6pw9FPh2WmoOt74G8ULDDsPChBYCD_NDVzk-Pu7n5fK6j0tL5EWKElHnS52Eeg6LdJ4H1l8bZIB3jGfFbtilZzaNZxYHR2FINlX8KWXzkv7PS0tjkcXz_OCX9y5K96yGWU8JoBYmk3fc3rNa52UWY9dfY5vglsMvujlBzt9Xo164Nutz3Dp9elsjUQl9_y4FrY8kY9ok1D1LvackC7Vx8llkEWOZTOYCXODBnnjlYOZLH2o96PWUjQ4kG7PgvixFUxhlvmxVF6kqoq2Fx27-KCPynI-b3HGVp4DWZqe7ToTJsqn-562T89Q6IX986jOwjIQabup0-qdcT_kz04cH2Skl8VkRM_HeAhw4dgn-3lI5YjKM5hhyPRg00nqfSymLFDmnXYEud_uC0txTZfZ074KwbBCicgwfIj31hJusiofoml_q_h8X7vpLa9Xpr488lx5cm-qKF6wJnHi5FT1iOzTLWGkGw4KABK7uIAgbqlOl3cy4l60dBR22Be48CyJPRKXvK8Om7677c-3ppTtSTWOqRW6U2ktGzZb20Wh2KzYSlp3LXytd4cX3zvM2-f8z39f8PET"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Any Color",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6bvqbHicbVTJjttGEA18ziGH_EJOgwF64ZqbKJLScMSWuEt9EUh2S-RwFRdtyNeMYwPO0TaQb7EP-ZZwfHYDXX1479WrLlT3f7_89srzf1cG5fE5SlZq5F2SYjOkj_o4cz61XcPGdMjZFxECiCQRK6qEVajKSMSf0niIy-Y4oRCJigigAkRRxliRgYQ-ZzxmZV7z9eHAO71Jc_YVKlCRJFmFSMYQAhGrkvxPXsVH_gP_ogIFoWmrwg-Woqjq-47139BmvseiIEuTLRBVCWFJVVT418Zd6_ufYx9OI-9u31ZlPPB-eEjHruP18HDkNe_iIW_qB8b7Ymjah838IW2aknfTUbVN_UbreMnjnrMHBJD4FqSHml8-HNu3Kn_i9r7K2WdRlgRp6guE0y0RBAC-b8_Da3Z8PZavY_-ala-8_tjE7fmQfn_3u9Fc9Hl_mTtB24a6CzzkGgFgp2BBTlF07XZwhr2l5a8D1U-gC4luIlqYiwBkRVhZ8a6iN6oT4uDmxg3VdA3i-y_ZNTKuo1-58xQXV-ofr3FAR7uiNCnEO1mGGYGh5Wzblr7QE1sId1Kog21a5aRfe0WJA2M4M901Wa1BumhPvhEafgAtGqiHeNEuXTMbbT3LSU2sYJui1Leed5Vz98xAjMwWOIASEhEnji5iAMjOXlpnB6llEpCbVwgoMEro35nnLlgX-rTzymKgQBTsugTpC9skldnERg_jwEWJn2VRaV7swAZboC7YYncnkeimurmilZn7pYrCKhunfLYDNY8XYc9eXJ3q2dxeDJiazo0tmRDpDrCN0mY1pUEU3r2Qbt0ttWPQbhlSn9ZBdoiXdJfAEns-gbFPTVK0EsMzaCNDoAGJw3vZuBW5J5jSqQ_I2QaeCa5mVIUZK1nu6-U2wCyPoQZ2N2iwwHQXuaW5S3JbR9Rzqqlm_wmQpZWvQnNNjGsbRYMRbVtroopBodZ_X_vu8A3MTHHw1lLtnSmgaFkkx9129GOgNWakbdeZ5fwJZUUQJYwEEcjyx2mAi5x_f_frzJj_gfUZs0Ij7mFydIrQtrGK-Wq7kZt1OaIzl7PiuZjHSbdAN9FmeyWMVzV6HLTDzPkDaw_7vcen98IfPd_dvGUjFb3EoNxYDj7neCFbvZZtrs_NgZ4Urxin-cx3Tnp_Ic0od0-BIKUvd_eJxGZ5zvcL5Uku9T1bxrB5pr4b4cq8Jp7ANuW-asd1LJwQKd989XAyS6_meW91EINd2a9EQK9Pylq5a-Z1Zjxqdb19Otrc4zv7Ysym9aYjT_okFDGe4iJTbjDAw4Cd5B4pg7K6782S1AJi1vOtt5pnct7l9169XMsLnhU3sr1fL7uQF66TOPddqm9hnqGMI2EAy14zz5filoUGEsAe5EG3KjaGt_aEFQ5MBMY5i1VBkCO-2szQMqvzcXtbnWo5XzVeesqb-dqe7WWpSryTqapHbmmSenPr5sKc5BQL2omHBQCxUxxBSDvY2_qzzqRHK70ozzxQpOigqQNTZ3JgjsuhP60Op7bSnZtJ9ukm8m7VZtaK2cIpCsMR1U6z-pcisAZvfAz83fT7HL4aR5BrS9LyKjhpvo3sBRz-B4rP92A"
+          },
+          {
+            "name": "Black",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6bvqbHicbVTJjttGEA18ziGH_EJOgwF64ZqbKJLScMSWuEt9EUh2S-RwFRdtyNeMYwPO0TaQb7EP-ZZwfHYDXX1479WrLlT3f7_89srzf1cG5fE5SlZq5F2SYjOkj_o4cz61XcPGdMjZFxECiCQRK6qEVajKSMSf0niIy-Y4oRCJigigAkRRxliRgYQ-ZzxmZV7z9eHAO71Jc_YVKlCRJFmFSMYQAhGrkvxPXsVH_gP_ogIFoWmrwg-Woqjq-47139BmvseiIEuTLRBVCWFJVVT418Zd6_ufYx9OI-9u31ZlPPB-eEjHruP18HDkNe_iIW_qB8b7Ymjah838IW2aknfTUbVN_UbreMnjnrMHBJD4FqSHml8-HNu3Kn_i9r7K2WdRlgRp6guE0y0RBAC-b8_Da3Z8PZavY_-ala-8_tjE7fmQfn_3u9Fc9Hl_mTtB24a6CzzkGgFgp2BBTlF07XZwhr2l5a8D1U-gC4luIlqYiwBkRVhZ8a6iN6oT4uDmxg3VdA3i-y_ZNTKuo1-58xQXV-ofr3FAR7uiNCnEO1mGGYGh5Wzblr7QE1sId1Kog21a5aRfe0WJA2M4M901Wa1BumhPvhEafgAtGqiHeNEuXTMbbT3LSU2sYJui1Leed5Vz98xAjMwWOIASEhEnji5iAMjOXlpnB6llEpCbVwgoMEro35nnLlgX-rTzymKgQBTsugTpC9skldnERg_jwEWJn2VRaV7swAZboC7YYncnkeimurmilZn7pYrCKhunfLYDNY8XYc9eXJ3q2dxeDJiazo0tmRDpDrCN0mY1pUEU3r2Qbt0ttWPQbhlSn9ZBdoiXdJfAEns-gbFPTVK0EsMzaCNDoAGJw3vZuBW5J5jSqQ_I2QaeCa5mVIUZK1nu6-U2wCyPoQZ2N2iwwHQXuaW5S3JbR9Rzqqlm_wmQpZWvQnNNjGsbRYMRbVtroopBodZ_X_vu8A3MTHHw1lLtnSmgaFkkx9129GOgNWakbdeZ5fwJZUUQJYwEEcjyx2mAi5x_f_frzJj_gfUZs0Ij7mFydIrQtrGK-Wq7kZt1OaIzl7PiuZjHSbdAN9FmeyWMVzV6HLTDzPkDaw_7vcen98IfPd_dvGUjFb3EoNxYDj7neCFbvZZtrs_NgZ4Urxin-cx3Tnp_Ic0od0-BIKUvd_eJxGZ5zvcL5Uku9T1bxrB5pr4b4cq8Jp7ANuW-asd1LJwQKd989XAyS6_meW91EINd2a9EQK9Pylq5a-Z1Zjxqdb19Otrc4zv7Ysym9aYjT_okFDGe4iJTbjDAw4Cd5B4pg7K6782S1AJi1vOtt5pnct7l9169XMsLnhU3sr1fL7uQF66TOPddqm9hnqGMI2EAy14zz5filoUGEsAe5EG3KjaGt_aEFQ5MBMY5i1VBkCO-2szQMqvzcXtbnWo5XzVeesqb-dqe7WWpSryTqapHbmmSenPr5sKc5BQL2omHBQCxUxxBSDvY2_qzzqRHK70ozzxQpOigqQNTZ3JgjsuhP60Op7bSnZtJ9ukm8m7VZtaK2cIpCsMR1U6z-pcisAZvfAz83fT7HL4aR5BrS9LyKjhpvo3sBRz-B4rP92A"
+          },
+          {
+            "name": "White",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=z0GbfnicbVTJjus2Fm1k3Yte5BeySaEADhqzs6zBJVu0NdvcGJJIWyqN1uAJ-Zp6nQDJMmmgv-VlkW-JKusQ4OXinHPP5cUl__zXfz548f-NQXlyjdONGvu3tNyN2as-Ldxfur5lUzYW7HcRAogkESuqhFWoykjEv2TJmFTteUYhEhURQAWIooyxIgMJ_ZbzhFVFw7enE-_1NivY_6ACFUmSVYhkDCEQsSrJvxZ1cuZ_47-rQEFo3qrwN0tRVPVLz4avaLc8YlGQpdkWiKqEsKQqKvxx52314z9jP10m3j--bqpk5MP4kk19z5vx5cwb3idj0TYvjA_l2HYvu-VL1rYV7-ej7trmk9bziicDZy8IIPEzSC8Nv_107j6r_Ae3L3XBfhNlSZDmvkA43xJBAOCX7jp-5OePc_UxDR959cGbn9uku56yP7751mhv-nK4Ld2w6yLdAz7yjBCwS2iRSxzf-wNcYH9lB9tQDVLoQaKbiJamFYK8jGo7OdT0QXVCXNw-uKGankGC4D2_x8Z9CmpvmeHyToPzPQnp5NSUpqX4JKsoJzCy3X3X0Xd6YZbwJKU6OqZdzfqtX1Y4NMYr0z2TNRqkVncJjMgIQmjTUD0lVrfyzHxy9LwgDbHDfYaywF4favfpm6EYmx1wASUkJm4S38QQkIOzsq8uUqs0JA-_FFBoVDB4Mt-zWB8FtPercqRAFJymAtk726W12SbGAJPQQ2mQ53Fl3pzQAXugWsw6PEkseplubmhtFkGloqjOpzmf40LN52U0sHdPp3q-dKwRU9N9sBUTYt0FjlE5rKE0jKOnH9G9t6dOAro9Q-rbNsxPyYoeUlhhPyAwCahJyk5ieAEdZAg0JEn0rFqvJs8UUzr3Abn70DfB3YzrKGcVKwK92oeYFQnUwOEBDRaanlXYmrcij21Mfbeeaw7eAFnZxSYyt8S4d3E8GvG-s2eqGJZq89_70J--goUpjv5WavwrBRStyvR82E9BArTWjLX9NrfdH6CsCKKEkSACWf55HuCy4H988--FsfwO6wtmR0YywPTslpHjYBXzzX4nt9tqQlcu5-W6XCZpb6GH6LCjEiWbBr2O2mnhfoe1l-PR5_N74a9-4O0-s5Ga3hJQ7WwXXwtsyfag5bv7uj3Ri-KX0zyfxcHNnu-kneT-LRSk7P3pvZHErK7F0VLe5Eo_slUC2zUNvBjX5j31BbarjnU3bRPhgkj16atHs1l2N69Hu4cYHKphIwJ6f1O2ylMz7wvjVWua_dvZ4T4_ODdjMa9PHXnTZ6GI8RytXHnAEI8jdtNnrIzK5nk0K9IIiNnrx2C3a3I9FM9Bvd2rG16UD7J_3m-HiJeem7rPQ6bvYZGjnCNhBKtBM6-38pFHBhLAERRhvyl3hr_1hQ0OTQSmJUtUQZBjvtkt0Cpvimn_2Fwaudi0fnYp2uXWWRxlqU79i6mqZ25rkvrwmvbG3PSSCNqFRyUAiVueQUR7ODj6WmfSq53dlDUPFSk-aerI1IUcmtNqHC6b06WrdfdhkmO2i_1HvVt0Ym65ZWm4otpr9vBehvboT69hcJh_n9PX740zKLQV6XgdXrTAQY4FR-MsFFpMrqmlPtbnCCdWBaj7Fx-W_to"
+          }
+        ]
+      }
+    ]
+  }
+}

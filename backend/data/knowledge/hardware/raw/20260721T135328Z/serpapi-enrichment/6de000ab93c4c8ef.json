@@ -1,0 +1,563 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a516c4c0ca86e960685",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/L7HycFurHOcFdZEqu9XzFg/6a5f7a516c4c0ca86e960685.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/L7HycFurHOcFdZEqu9XzFg/6a5f7a516c4c0ca86e960685.json_with_pixel_position",
+    "created_at": "2026-07-21 13:55:29 UTC",
+    "processed_at": "2026-07-21 13:55:29 UTC",
+    "google_url": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&oq=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/L7HycFurHOcFdZEqu9XzFg/6a5f7a516c4c0ca86e960685.html",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6 gpu power_connectors",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6 gpu power_connectors",
+    "total_results": 37800,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 16GB ...",
+      "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a516c4c0ca86e960685/images/Cdk7gezy5A3sKJIabh9Fb4xVwzHvEuMhkuZbBlifr8E.jpeg",
+      "channel": "The FPS Review",
+      "duration": "18:33",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E&t=0"
+        },
+        {
+          "time": "01:38",
+          "title": "Radeon RX 9060 XT Specs",
+          "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E&t=98"
+        },
+        {
+          "time": "03:30",
+          "title": "XFX Swift RX 9060 XT OC 16GB Overview",
+          "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E&t=210"
+        },
+        {
+          "time": "06:10",
+          "title": "Measurements and Basics",
+          "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E&t=370"
+        },
+        {
+          "time": "09:58",
+          "title": "XFX Swift RX 9060 XT OC 16GB Features Exploration",
+          "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E&t=598"
+        },
+        {
+          "time": "13:57",
+          "title": "Summary, Thoughts & Opinions",
+          "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E&t=837"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "XFX RX 9060 XT Swift Review | Windows + Linux",
+      "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a516c4c0ca86e960685/images/3YQdRGYWLPtM_JZQId9q33yHXRSCuk-YV1z6jLCQJkw.jpeg",
+      "channel": "DontCallTechSupport",
+      "duration": "10:16",
+      "platform": "YouTube",
+      "date": "Nov 22, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSE3eYFbyVnlssPvygzP3rW6xgt8A5RawYLtQ",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Overview",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGoOLyIjy5HAx9MJomJ6DP4bKcQi1WCVdXPXOcIkZ-qQ&s="
+        },
+        {
+          "time": "01:25",
+          "title": "Clock Speed",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=85",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0KCe9NmSxpC5XJfHVzxq_hKcD7NA2bMfIC5mU6UPzrA&s="
+        },
+        {
+          "time": "01:39",
+          "title": "Fan speed",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=99",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvngPqyNI--qlRloQXXxlQL5p8RktJ44rb9riCF1gWtw&s="
+        },
+        {
+          "time": "02:08",
+          "title": "Temperature",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=128",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPcgvyricrn4QEbpjZP-bfaIa6pTkkRJPropLcnqIq3Q&s="
+        },
+        {
+          "time": "02:59",
+          "title": "Test System",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=179",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDbsE2G8Vp9Rjq5DV6pXgnpV6-S3gs9ZS-ZqLffmDbEw&s="
+        },
+        {
+          "time": "03:24",
+          "title": "Alan Wake 2",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=204",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpN36WefbeLA6EN81K3gzlhcQ-0_nWn_rqnocXljgJzA&s="
+        },
+        {
+          "time": "04:02",
+          "title": "ACC",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=242",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-OfucODMuBsisxQUo6on9JtAGRiQZH35D_teiABQ9KQ&s="
+        },
+        {
+          "time": "04:29",
+          "title": "Baldurs Gate 3",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=269",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOkmzdHCIft-tUgNHt0zJkqVgixaBC54MmMLkqE7pA1Q&s="
+        },
+        {
+          "time": "04:54",
+          "title": "Cyberpunk 2077",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=294",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW1Z-4vrVhZstTg-xMgIWR9Jb8x7blWYa8G9h1wlVyiQ&s="
+        },
+        {
+          "time": "05:25",
+          "title": "DOOM Eternal",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=325",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3yVQTI9Cb2FYN-8GJmj1q74irRQye_aaIV9a8znQ4IQ&s="
+        },
+        {
+          "time": "06:02",
+          "title": "Oblivion Remastered",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=362",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-ft6mXGjpVzupN7xYmsKONM9BebImhwjyUY5oxgruyg&s="
+        },
+        {
+          "time": "06:30",
+          "title": "Farming Simulator 25",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=390",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScQaZw4WjJve8ooUJ-ZJyDwbLMd5ls21ONy1KvlSn5lg&s="
+        },
+        {
+          "time": "06:58",
+          "title": "Expedition 33",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=418",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZz-fOdnxbYS_VX2hhwMgbRrIh0Tt3W842x1cDNdtKqA&s="
+        },
+        {
+          "time": "07:16",
+          "title": "Warhammer 40K Space Marine 2",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=436",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSstyynGfOuqkBI6Jurkh-JW3rRRve9YAmZWCtWXAHkFA&s="
+        },
+        {
+          "time": "07:54",
+          "title": "Kingdom Come Deliverance 2",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=474",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn0O04HmOxodUxTKwJo4bS-kaa93JPi1dFB_sIecowcA&s="
+        },
+        {
+          "time": "08:00",
+          "title": "Average",
+          "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ&t=480",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn0O04HmOxodUxTKwJo4bS-kaa93JPi1dFB_sIecowcA&s="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "XFX RX 9060 XT SWFT Review [Benchmarks | Overclocking",
+      "link": "https://www.youtube.com/watch?v=p0zQE5cMaMU",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a516c4c0ca86e960685/images/iQyXRI7Oy52oQROGkdUBzpbShPB2g_O41hfJ3t7rEZc.jpeg",
+      "channel": "eTeknix",
+      "duration": "15:44",
+      "platform": "YouTube",
+      "date": "Aug 2, 2025",
+      "snippet": "AMD's Radeon RX960 XT continues to be a standout GPU right now perfectly hitting that sweet spot for price to performance."
+    },
+    {
+      "position": 4,
+      "title": "DON'T BUY WRONG! 🛑 Every 9060 XT Model - Specs & Features",
+      "link": "https://www.youtube.com/watch?v=lLwQXkU-A1Y",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a516c4c0ca86e960685/images/RkBTvp967K8LKEkboY_1VnMmaMA3xEnSKC6lB4PGg44.jpeg",
+      "channel": "PC Builder",
+      "duration": "29:00",
+      "platform": "YouTube",
+      "date": "Jun 3, 2025",
+      "snippet": "We're going to go through every RX960 XT 16 gigabyte model that way you know which one to get both either on the launch date.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ0KX_3Dy4FVCcyJMRw5X6OiDbGQwdC8hKUIw"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What power supply do I need for a 9060 XT?",
+      "type": "ai_overview",
+      "page_token": "NIZNeXicHdBbTsJAFADQuBk_oQOCgYQYSzuFmhmcy0xfP6adKY_2llYprfDnXlyVq9G4g5Pz9Y3HU_lz1x3atjnPh8O-7wf7ut5jPtB1NUzP15Me6hQxS3U5nz5OydNOL9zL2l6-r22hmiZwwJIeL5niS7BmmFXmxQQuyZCOBLHjLdo1RMEEwrrnhRnLJXnlJaZbDLhRk2s8SiIgZhWifdFW0oHyd3khHjZhcNUl0K1HOu71PSP8nK9swgrY6Mj_DKuEJsrwwG0OLETBKXS583xT4SyWlj9OqYHU8WmufJ6jrbIiseSY9ZkDFLwk4Wqylh6kIsIywzVh0meAsDKKntyDCcKVXcWRapnboKliIquZ0A4IdiSgoD4KBTddYKUsGuQqmfLb_hOk28LIX5qbbxlpGHiHS_5nFOJ-p7vF-P7_c_G2q9p581HvfwFEKIJW",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NIZNeXicHdBbTsJAFADQuBk_oQOCgYQYSzuFmhmcy0xfP6adKY_2llYprfDnXlyVq9G4g5Pz9Y3HU_lz1x3atjnPh8O-7wf7ut5jPtB1NUzP15Me6hQxS3U5nz5OydNOL9zL2l6-r22hmiZwwJIeL5niS7BmmFXmxQQuyZCOBLHjLdo1RMEEwrrnhRnLJXnlJaZbDLhRk2s8SiIgZhWifdFW0oHyd3khHjZhcNUl0K1HOu71PSP8nK9swgrY6Mj_DKuEJsrwwG0OLETBKXS583xT4SyWlj9OqYHU8WmufJ6jrbIiseSY9ZkDFLwk4Wqylh6kIsIywzVh0meAsDKKntyDCcKVXcWRapnboKliIquZ0A4IdiSgoD4KBTddYKUsGuQqmfLb_hOk28LIX5qbbxlpGHiHS_5nFOJ-p7vF-P7_c_G2q9p581HvfwFEKIJW",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IldoYXQgcG93ZXIgc3VwcGx5IGRvIEkgbmVlZCBmb3IgYSA5MDYwIFhUPyIsImxrIjoiR2hnNU1EWXdJSGgwSUhCemRTQnlaWEYxYVhKbGJXVnVkSE0iLCJicyI6ImM0MlB2UXZDTUJCSGNjMmt1RWltMzFxcklCMUVweUk2Mk1GRkJMczRSSEw5QU52VUpLWDF2N2V0VWdjZDNPN2d2Y2NkMjdQcE9SRVdoYXBJdzVSRmNYdEFLZ1RJaVNRaXBTR3dYaXdYQ0UtLXhfbWttLXRHTUNVMDNjdFVVMGE1Tld6TFp1LVN0Z1pDRTFRT214QTJoeDJPUWxLekhzTlBhOHhISXBQb2U2M0dMbXdXbU02cW94cW1TaU9MbHRJdlg5YzlIeXNsZldfTzNmUl9ub1hNYWZKZngyQVZYenVnLXpjV1dackh2dWR5NTNmcUJ6MGNQQUUiLCJpZCI6ImZjX1VYcGZhdS0wSmV2ZjVOb1BwNFAyLVFRXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IldoYXQgcG93ZXIgc3VwcGx5IGRvIEkgbmVlZCBmb3IgYSA5MDYwIFhUPyIsImxrIjoiR2hnNU1EWXdJSGgwSUhCemRTQnlaWEYxYVhKbGJXVnVkSE0iLCJicyI6ImM0MlB2UXZDTUJCSGNjMmt1RWltMzFxcklCMUVweUk2Mk1GRkJMczRSSEw5QU52VUpLWDF2N2V0VWdjZDNPN2d2Y2NkMjdQcE9SRVdoYXBJdzVSRmNYdEFLZ1RJaVNRaXBTR3dYaXdYQ0UtLXhfbWttLXRHTUNVMDNjdFVVMGE1Tld6TFp1LVN0Z1pDRTFRT214QTJoeDJPUWxLekhzTlBhOHhISXBQb2U2M0dMbXdXbU02cW94cW1TaU9MbHRJdlg5YzlIeXNsZldfTzNmUl9ub1hNYWZKZngyQVZYenVnLXpjV1dackh2dWR5NTNmcUJ6MGNQQUUiLCJpZCI6ImZjX1VYcGZhdS0wSmV2ZjVOb1BwNFAyLVFRXzkifQ%3D%3D"
+    },
+    {
+      "question": "What ports are on the AMD Radeon RX 9060 XT?",
+      "type": "ai_overview",
+      "page_token": "3WvuUHicHdDbboIwAADQ7Gd8lBaURROzwLgoSg2XFujLUgqKtlycbJW97V_2VfuaJTufcL5_5KUTv095M47Dfa1pSqn5ue_Psp7zvtXYfeq4xpmUJeNibT6b8OXEN-5d2a-9siM8DMSJQSLgInSRUQA4YYfDWLiPUEcL6gWPMEW3Sm9uqf7oUYvaCkNa4JWiYjUmYgz4lgxUj-NEEkF1lNZOsyxJYGZXWSAQjUxGi8wrAMYCZtJSyRc6RLk7VgJ1XBDIUvQRgiCl0Daz3NIr3dvVTtUe3WLKDbIvCfEruGIYuksGJMpBsMRgl3iQFNynTZUAlbREp1dyLKGtkGdNB-LF_iWw4y2ajhnF3EdDJO0w6byWO_TItjvFsKTUsKbalfsqk_HsxD83xux_bPN2asf18N6f_wD-Hnap",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3WvuUHicHdDbboIwAADQ7Gd8lBaURROzwLgoSg2XFujLUgqKtlycbJW97V_2VfuaJTufcL5_5KUTv095M47Dfa1pSqn5ue_Psp7zvtXYfeq4xpmUJeNibT6b8OXEN-5d2a-9siM8DMSJQSLgInSRUQA4YYfDWLiPUEcL6gWPMEW3Sm9uqf7oUYvaCkNa4JWiYjUmYgz4lgxUj-NEEkF1lNZOsyxJYGZXWSAQjUxGi8wrAMYCZtJSyRc6RLk7VgJ1XBDIUvQRgiCl0Daz3NIr3dvVTtUe3WLKDbIvCfEruGIYuksGJMpBsMRgl3iQFNynTZUAlbREp1dyLKGtkGdNB-LF_iWw4y2ajhnF3EdDJO0w6byWO_TItjvFsKTUsKbalfsqk_HsxD83xux_bPN2asf18N6f_wD-Hnap",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IldoYXQgcG9ydHMgYXJlIG9uIHRoZSBBTUQgUmFkZW9uIFJYIDkwNjAgWFQ/IiwibGsiOiJHaEZoYldRZ09UQTJNQ0I0ZENCd2IzSjBjdyIsImJzIjoiYzQyUHZRdkNNQkJIY2Mya3VFaW0zMXFySUIxRXB5STYyTUZGQkxzNFJITDlBTnZVSktYMXY3ZXRVZ2NkM083Z3ZjY2QyN1BwT1JFV2hhcEl3NVJGY1h0QUtnVElpU1FpcFNHd1hpd1hDRS0teF9ta20tdEdNQ1UwM2N0VVUwYTVOV3pMWnUtU3RnWkNFMVFPbXhBMmh4Mk9RbEt6SHNOUGE4eEhJcFBvZTYzR0xtd1dtTTZxb3hxbVNpT0xsdEl2WDljOUh5c2xmV19PM2ZSX25vWE1hZkpmeDJBVlh6dWctemNXV1pySHZ1ZHk1M2ZxQnowY1BBRSIsImlkIjoiZmNfVVhwZmF1LTBKZXZmNU5vUHA0UDItUVFfOSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IldoYXQgcG9ydHMgYXJlIG9uIHRoZSBBTUQgUmFkZW9uIFJYIDkwNjAgWFQ%2FIiwibGsiOiJHaEZoYldRZ09UQTJNQ0I0ZENCd2IzSjBjdyIsImJzIjoiYzQyUHZRdkNNQkJIY2Mya3VFaW0zMXFySUIxRXB5STYyTUZGQkxzNFJITDlBTnZVSktYMXY3ZXRVZ2NkM083Z3ZjY2QyN1BwT1JFV2hhcEl3NVJGY1h0QUtnVElpU1FpcFNHd1hpd1hDRS0teF9ta20tdEdNQ1UwM2N0VVUwYTVOV3pMWnUtU3RnWkNFMVFPbXhBMmh4Mk9RbEt6SHNOUGE4eEhJcFBvZTYzR0xtd1dtTTZxb3hxbVNpT0xsdEl2WDljOUh5c2xmV19PM2ZSX25vWE1hZkpmeDJBVlh6dWctemNXV1pySHZ1ZHk1M2ZxQnowY1BBRSIsImlkIjoiZmNfVVhwZmF1LTBKZXZmNU5vUHA0UDItUVFfOSJ9"
+    },
+    {
+      "question": "Is the xfx swift amd radeon rx 9060 xt good?",
+      "type": "ai_overview",
+      "page_token": "YQquRHicHdBRbpswGABg9TJ9bAyETo0UVWJASFpI7fi3Cy8T2ElI8xvcxoSSt91lp9ppJu07wvf7D56689-7a-ucvSxms3EcH459f8T9g-rNrL5MnZqpGrGp1Xnx-OPRez6oZTKso5-f64iCtSJmhGdqalC5MsD5FrDLiTiV53BXGm9oVqxlmS1ZjCGk9rVIcC5TrHeB3nJ_nAQJKUvttvBx4CgOQmyCvcTXKosyLi9-s3LBzugzR8YrIgZ6i753IrKArJBZ4tddC9tY-8qLujzVLzUqoiC0PLMFiFS-k81bKYtuL6xRgZrnEnwhCqNl5US6nigJCx1rxlbuq_IhbMh3lLRayCwy5Tu4PLGoTelx80RVzGh-8hiw_kSB3dQHGkA1QrcZKW9BQzHlvBoESW_0RkcB7rP5EFeg9wd1XQb3_z-Xvw7GLexXf_wHOQiEQA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YQquRHicHdBRbpswGABg9TJ9bAyETo0UVWJASFpI7fi3Cy8T2ElI8xvcxoSSt91lp9ppJu07wvf7D56689-7a-ucvSxms3EcH459f8T9g-rNrL5MnZqpGrGp1Xnx-OPRez6oZTKso5-f64iCtSJmhGdqalC5MsD5FrDLiTiV53BXGm9oVqxlmS1ZjCGk9rVIcC5TrHeB3nJ_nAQJKUvttvBx4CgOQmyCvcTXKosyLi9-s3LBzugzR8YrIgZ6i753IrKArJBZ4tddC9tY-8qLujzVLzUqoiC0PLMFiFS-k81bKYtuL6xRgZrnEnwhCqNl5US6nigJCx1rxlbuq_IhbMh3lLRayCwy5Tu4PLGoTelx80RVzGh-8hiw_kSB3dQHGkA1QrcZKW9BQzHlvBoESW_0RkcB7rP5EFeg9wd1XQb3_z-Xvw7GLexXf_wHOQiEQA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IklzIHRoZSB4Znggc3dpZnQgYW1kIHJhZGVvbiByeCA5MDYwIHh0IGdvb2Q/IiwibGsiOiJHaXRwY3lCMGFHVWdlR1o0SUhOM2FXWjBJR0Z0WkNCeVlXUmxiMjRnY25nZ09UQTJNQ0I0ZENCbmIyOWsiLCJicyI6ImM0MlB2UXZDTUJCSGNjMmt1RWltMzFxcklCMUVweUk2Mk1GRkJMczRSSEw5QU52VUpLWDF2N2V0VWdjZDNPN2d2Y2NkMjdQcE9SRVdoYXBJdzVSRmNYdEFLZ1RJaVNRaXBTR3dYaXdYQ0UtLXhfbWttLXRHTUNVMDNjdFVVMGE1Tld6TFp1LVN0Z1pDRTFRT214QTJoeDJPUWxLekhzTlBhOHhISXBQb2U2M0dMbXdXbU02cW94cW1TaU9MbHRJdlg5YzlIeXNsZldfTzNmUl9ub1hNYWZKZngyQVZYenVnLXpjV1dackh2dWR5NTNmcUJ6MGNQQUUiLCJpZCI6ImZjX1VYcGZhdS0wSmV2ZjVOb1BwNFAyLVFRXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IklzIHRoZSB4Znggc3dpZnQgYW1kIHJhZGVvbiByeCA5MDYwIHh0IGdvb2Q%2FIiwibGsiOiJHaXRwY3lCMGFHVWdlR1o0SUhOM2FXWjBJR0Z0WkNCeVlXUmxiMjRnY25nZ09UQTJNQ0I0ZENCbmIyOWsiLCJicyI6ImM0MlB2UXZDTUJCSGNjMmt1RWltMzFxcklCMUVweUk2Mk1GRkJMczRSSEw5QU52VUpLWDF2N2V0VWdjZDNPN2d2Y2NkMjdQcE9SRVdoYXBJdzVSRmNYdEFLZ1RJaVNRaXBTR3dYaXdYQ0UtLXhfbWttLXRHTUNVMDNjdFVVMGE1Tld6TFp1LVN0Z1pDRTFRT214QTJoeDJPUWxLekhzTlBhOHhISXBQb2U2M0dMbXdXbU02cW94cW1TaU9MbHRJdlg5YzlIeXNsZldfTzNmUl9ub1hNYWZKZngyQVZYenVnLXpjV1dackh2dWR5NTNmcUJ6MGNQQUUiLCJpZCI6ImZjX1VYcGZhdS0wSmV2ZjVOb1BwNFAyLVFRXzkifQ%3D%3D"
+    },
+    {
+      "question": "Is Radeon RX 9060 XT 8gb good for gaming?",
+      "type": "ai_overview",
+      "page_token": "6PgdO3icHdDBToMwAIDh-DIeHYwxw5LFpK4MdHS2a8voxbCWjZUWUOtQbr6LT-XTaLz_yZf8X9_m3DY_V5fauf5tMZkMw3Bz6rqTqW5kZyfl22crJ7I05lDKZjG_nft3R7mE7ym4f0kBZn3PV8Tbtei9sgbIBExVImaVAfPtXjUoj5H0Qq080dJpNGWaD4zNQh6IGU3Uk_I5VRBp6bk5HfFYNVG7jflG2XBPKFhTyxzyixljLitHgQpdp4UmNQ7qlOcfG7Z-yAhXLjciRwn-EHE6VjF4OcRRg7QyuwCZLI_G7c6PyUrlIkFCQZOydbihDfcYROyv3UpbXw5MTEn7wCj0A1grnifAFvs_GPZG2cKnNsJyRXB29gkj3RkzMkptLKP887CGYbYyg_TQroROVywbUNC5SoNHGkcFxtdHeVkG1_8_l89H6xb9a3f6BTLEgjM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6PgdO3icHdDBToMwAIDh-DIeHYwxw5LFpK4MdHS2a8voxbCWjZUWUOtQbr6LT-XTaLz_yZf8X9_m3DY_V5fauf5tMZkMw3Bz6rqTqW5kZyfl22crJ7I05lDKZjG_nft3R7mE7ym4f0kBZn3PV8Tbtei9sgbIBExVImaVAfPtXjUoj5H0Qq080dJpNGWaD4zNQh6IGU3Uk_I5VRBp6bk5HfFYNVG7jflG2XBPKFhTyxzyixljLitHgQpdp4UmNQ7qlOcfG7Z-yAhXLjciRwn-EHE6VjF4OcRRg7QyuwCZLI_G7c6PyUrlIkFCQZOydbihDfcYROyv3UpbXw5MTEn7wCj0A1grnifAFvs_GPZG2cKnNsJyRXB29gkj3RkzMkptLKP887CGYbYyg_TQroROVywbUNC5SoNHGkcFxtdHeVkG1_8_l89H6xb9a3f6BTLEgjM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IklzIFJhZGVvbiBSWCA5MDYwIFhUIDhnYiBnb29kIGZvciBnYW1pbmc/IiwibGsiOiJHaWxoYldRZ2NtRmtaVzl1SUhKNElEa3dOakFnZUhRZ09HZGlJR2R2YjJRZ1ptOXlJR2RoYldsdVp3IiwiYnMiOiJjNDJQdlF2Q01CQkhjYzJrdUVpbTMxcXJJQjFFcHlJNjJNRkZCTHM0UkhMOUFOdlVKS1gxdjdldFVnY2QzTzdndmNjZDI3UHBPUkVXaGFwSXc1UkZjWHRBS2dUSWlTUWlwU0d3WGl3WENFLS14X21rbS10R01DVTAzY3RVVTBhNU5XekxadS1TdGdaQ0UxUU9teEEyaHgyT1FsS3pIc05QYTh4SElwUG9lNjNHTG13V21NNnFveHFtU2lPTGx0SXZYOWM5SHlzbGZXX08zZlJfbm9YTWFmSmZ4MkFWWHp1Zy16Y1dXWnJIdnVkeTUzZnFCejBjUEFFIiwiaWQiOiJmY19VWHBmYXUtMEpldmY1Tm9QcDRQMi1RUV85In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVNtVXRkVlpWTTE5ZlVsVTVUVWRFYXpGUmN6TklhbUpEYVd0Q1FqbHhkR0YzWW5KalIyZzBiMnRzTlVOSmQwMTROVE4wUTBKNWFHTTBWMEZyUlVOWVpHdFJWRlp5VkdaMU1FVlZNRzF0U2xscVNrbFhUbFJTTTNVdFFSSVhWVmh3Wm1GMUxUQktaWFptTlU1dlVIQTBVREl0VVZFYUlrRkVjM0k1WmxGdFZtMVZka1I2TWpkcWRGUkVVbkZEVmtSRVExRk5RVmQzV25jIiwiZmN2IjoiMyIsImVpIjoiVVhwZmF1LTBKZXZmNU5vUHA0UDItUVEiLCJxYyI6ImN3M0pNUTZBSUF3RlVHY25qX0M5Z1pQUnlTdTRPUnFrMERCQVNjSEk0dDMxcmFfZm0yOG9UX0FWSmhMVWtKTUViVmluZVVLckVBczJNU1NHbzFERG53dGZZQ0tkd2ZsR2xzZnBhU1VsWjZ0b0dibzNILVAyQVEiLCJxdWVzdGlvbiI6IklzIFJhZGVvbiBSWCA5MDYwIFhUIDhnYiBnb29kIGZvciBnYW1pbmc%2FIiwibGsiOiJHaWxoYldRZ2NtRmtaVzl1SUhKNElEa3dOakFnZUhRZ09HZGlJR2R2YjJRZ1ptOXlJR2RoYldsdVp3IiwiYnMiOiJjNDJQdlF2Q01CQkhjYzJrdUVpbTMxcXJJQjFFcHlJNjJNRkZCTHM0UkhMOUFOdlVKS1gxdjdldFVnY2QzTzdndmNjZDI3UHBPUkVXaGFwSXc1UkZjWHRBS2dUSWlTUWlwU0d3WGl3WENFLS14X21rbS10R01DVTAzY3RVVTBhNU5XekxadS1TdGdaQ0UxUU9teEEyaHgyT1FsS3pIc05QYTh4SElwUG9lNjNHTG13V21NNnFveHFtU2lPTGx0SXZYOWM5SHlzbGZXX08zZlJfbm9YTWFmSmZ4MkFWWHp1Zy16Y1dXWnJIdnVkeTUzZnFCejBjUEFFIiwiaWQiOiJmY19VWHBmYXUtMEpldmY1Tm9QcDRQMi1RUV85In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "t97mqXicxVXdcqJIFH6AfY7lhomAUSOpoqa6gSAaRUyIJjcUQtsQgTaAMs7dvMs-1T7NtigGHHVqtmprjyXdpzl9frrPx_fjrzCIl3__wfpZtkrvOS7P8wYmBIeo4ZKIc9Jt7HILEqaJ63_1QwnFTErWiYsCT3L9hESIwaG0TpntRrpl3FTiGRRI1my1cNY3fB9tFu0RGa9a4-aNaTKFO8meOyl6p9G-vaeczdHH8s9bhSqNtIHihuiNEZonBhJxo8kLYsPgnIgagP9SdABBAACmP71QT0UG2LzuAgOg7p7yp13pRq2Y5YUGIfVYWMgX_eFiCFRAHY5h3PZTALT9onstkX5dfdht0U24K0KX94meyrnSYDmaVe2snHkJD37L0ltXY-1E1-t-aFzVLpbMepRB1Ym5W34tpoYJkJIDP8eDK7nKBD5r-MnE5265Kivgj8s4c8DTi-I8TPuQ5-YJHQQucH23mCTprj3lZ5EnPc9SWjhvP94ZNnpu3g0MTeU74UqFo5xz59QuJI6HPNu3-a-FLjSFNi_e3nW_FLhw0yMw0howrDCcG73HoUkajw0oVFCxv8-TYnaLk7PHXB7emQ2HI8ZqMdmWr0g5gcSkmz83Pig6zAEoodna9ZqCf-5o6vsMKgo5QmMIClQUycn78eCo2hUYHzdU-qh3Eq-aASzdyzrFXrmm1axrGcv02JZHkAzrrkxf1YvY8OlgYsBWDd_ArGjyvkQTQ1gvRd9X0KrY7S4G01Y236jex_j4MSo26YeEjnE_k6qjj14Bli31Kl4vyTXcHASDsv1PurmGgmh4E_PKyMln5uDNsYj2qjv2d8-Ve_n5rifR_Df4wP2fcXFgC1KyxRlc-L_ARcEW-DJbHJooL3FR2A2gfBEXy2Kss0XvhC3O4aJfx8VltvjExS6V67iA13ABL-GCfvB_woV5ARclW1RwsTxhi73Tki0-cfH7bOH8O7YoYIL2Q5061u_4IoVoH-Pv0_RNWctTPI4Wxgv4BsDopZmqOfglhSyi7D5yvPCLHXj3sNnPtt4Xmy6Qe-QxH9LsYcY-5cEiY8FQYSfUDYnZyYwV-Q7Pzp5ZQ2Y1JwpizKpekAX0ZVeDrKYokw6LV2t2RXKU2C6JY-RmJEmZKEyIxDud0O1aHWHSvH03tAnRstR8C7KVrL7N0PoF9AZgmovbzuZDjfSb8LXPf2z0gWZaHWUxanWDhTi6WQavcqY_WMOWroUTXvEdbbn56LXX81CVZ0MhWT--zKzFVNaMprDhJ_4Gej03QK_LYWzpQvDkqEU2qTRd9Sy5lfmezjO09BRJAhMlrkSbroXByARTTCEh046SMf0T-s_p1TGp69go3UhNT1yI7TvemXfbTreDmAhn25Uk8kwaJ5LwD9ILMCg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=t97mqXicxVXdcqJIFH6AfY7lhomAUSOpoqa6gSAaRUyIJjcUQtsQgTaAMs7dvMs-1T7NtigGHHVqtmprjyXdpzl9frrPx_fjrzCIl3__wfpZtkrvOS7P8wYmBIeo4ZKIc9Jt7HILEqaJ63_1QwnFTErWiYsCT3L9hESIwaG0TpntRrpl3FTiGRRI1my1cNY3fB9tFu0RGa9a4-aNaTKFO8meOyl6p9G-vaeczdHH8s9bhSqNtIHihuiNEZonBhJxo8kLYsPgnIgagP9SdABBAACmP71QT0UG2LzuAgOg7p7yp13pRq2Y5YUGIfVYWMgX_eFiCFRAHY5h3PZTALT9onstkX5dfdht0U24K0KX94meyrnSYDmaVe2snHkJD37L0ltXY-1E1-t-aFzVLpbMepRB1Ym5W34tpoYJkJIDP8eDK7nKBD5r-MnE5265Kivgj8s4c8DTi-I8TPuQ5-YJHQQucH23mCTprj3lZ5EnPc9SWjhvP94ZNnpu3g0MTeU74UqFo5xz59QuJI6HPNu3-a-FLjSFNi_e3nW_FLhw0yMw0howrDCcG73HoUkajw0oVFCxv8-TYnaLk7PHXB7emQ2HI8ZqMdmWr0g5gcSkmz83Pig6zAEoodna9ZqCf-5o6vsMKgo5QmMIClQUycn78eCo2hUYHzdU-qh3Eq-aASzdyzrFXrmm1axrGcv02JZHkAzrrkxf1YvY8OlgYsBWDd_ArGjyvkQTQ1gvRd9X0KrY7S4G01Y236jex_j4MSo26YeEjnE_k6qjj14Bli31Kl4vyTXcHASDsv1PurmGgmh4E_PKyMln5uDNsYj2qjv2d8-Ve_n5rifR_Df4wP2fcXFgC1KyxRlc-L_ARcEW-DJbHJooL3FR2A2gfBEXy2Kss0XvhC3O4aJfx8VltvjExS6V67iA13ABL-GCfvB_woV5ARclW1RwsTxhi73Tki0-cfH7bOH8O7YoYIL2Q5061u_4IoVoH-Pv0_RNWctTPI4Wxgv4BsDopZmqOfglhSyi7D5yvPCLHXj3sNnPtt4Xmy6Qe-QxH9LsYcY-5cEiY8FQYSfUDYnZyYwV-Q7Pzp5ZQ2Y1JwpizKpekAX0ZVeDrKYokw6LV2t2RXKU2C6JY-RmJEmZKEyIxDud0O1aHWHSvH03tAnRstR8C7KVrL7N0PoF9AZgmovbzuZDjfSb8LXPf2z0gWZaHWUxanWDhTi6WQavcqY_WMOWroUTXvEdbbn56LXX81CVZ0MhWT--zKzFVNaMprDhJ_4Gej03QK_LYWzpQvDkqEU2qTRd9Sy5lfmezjO09BRJAhMlrkSbroXByARTTCEh046SMf0T-s_p1TGp69go3UhNT1yI7TvemXfbTreDmAhn25Uk8kwaJ5LwD9ILMCg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "AMD Radeon RX 9060",
+      "link": "https://www.xfxforce.com/gpu/amd-radeon-rx-9060",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.xfxforce.com%2Fgpu%2Famd-radeon-rx-9060&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8QFnoECCUQAQ",
+      "displayed_link": "https://www.xfxforce.com › gpu › amd-radeon-rx-9060",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAjklEQVR4AWOQwgOGnSQDCEhARITBHISkxKFPL1-eh7AZjG68fPlpAxdCkmHqfyAoBGpm6ACxGmE6IZTjG6DYIQaGG0DqjioDqoMEGDYAhX8EWr_5P5VBGMO1DJGfgNKrGRwRQkisQLDJEEl0Y1eDjE3AZiyD9Uug3FEkBxH2CiIQZDEDARF8whjBN1LSEAC3hZKqxFd1qwAAAABJRU5ErkJggg.png",
+      "snippet": "Built for longevity, AMD Radeon™ RX 9060 XT graphics cards feature up to 16GB VRAM, PCI Express® Gen 5 support, AMD Smart Access Memory™ technology, AI-enabled ...",
+      "snippet_highlighted_words": [
+        "AMD Radeon",
+        "RX 9060 XT",
+        "AMD"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Built for longevity, AMD Radeon™ RX 9060 XT graphics cards feature up to 16GB VRAM, PCI Express® Gen 5 support, AMD Smart Access Memory™ technology, AI-enabled ...",
+          "source_info_link": "https://www.xfxforce.com/gpu/amd-radeon-rx-9060",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAjklEQVR4AWOQwgOGnSQDCEhARITBHISkxKFPL1-eh7AZjG68fPlpAxdCkmHqfyAoBGpm6ACxGmE6IZTjG6DYIQaGG0DqjioDqoMEGDYAhX8EWr_5P5VBGMO1DJGfgNKrGRwRQkisQLDJEEl0Y1eDjE3AZiyD9Uug3FEkBxH2CiIQZDEDARF8whjBN1LSEAC3hZKqxFd1qwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.xfxforce.com%2Fgpu%2Famd-radeon-rx-9060&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.xfxforce.com%2Fgpu%2Famd-radeon-rx-9060",
+      "source": "XFX",
+      "read_more_link": "https://www.xfxforce.com/gpu/amd-radeon-rx-9060"
+    },
+    {
+      "position": 2,
+      "title": "AMD Radeon RX 9060 XT 8 GB - GPU Database",
+      "link": "https://www.techpowerup.com/gpu-specs/radeon-rx-9060-xt-8-gb.c4251",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fradeon-rx-9060-xt-8-gb.c4251&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8QFnoECCIQAQ",
+      "displayed_link": "https://www.techpowerup.com › gpu-specs › radeon-rx...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "Being a dual-slot card, the AMD Radeon RX 9060 XT 8 GB draws power from 1x 8-pin power connector, with power draw rated at 150 W maximum. 2x DisplayPort 2.1a.",
+      "snippet_highlighted_words": [
+        "1x 8-pin power connector"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Being a dual-slot card, the AMD Radeon RX 9060 XT 8 GB draws power from 1x 8-pin power connector, with power draw rated at 150 W maximum. 2x DisplayPort 2.1a.",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/radeon-rx-9060-xt-8-gb.c4251",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fradeon-rx-9060-xt-8-gb.c4251&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fradeon-rx-9060-xt-8-gb.c4251",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 3,
+      "title": "[GPU] XFX Swift AMD Radeon RX 9060 XT OC 16GB",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1l58gg7/gpu_xfx_swift_amd_radeon_rx_9060_xt_oc_16gb_34999/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1l58gg7%2Fgpu_xfx_swift_amd_radeon_rx_9060_xt_oc_16gb_34999%2F&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8QFnoECCcQAQ",
+      "displayed_link": "40+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition with 16GB GDDR6 HDMI 2xDP, 16GB - $349.99 + ship (MSRP) VRAM, decent raster performance.",
+      "snippet_highlighted_words": [
+        "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition",
+        "GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition with 16GB GDDR6 HDMI 2xDP, 16GB - $349.99 + ship (MSRP) VRAM, decent raster performance.",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/1l58gg7/gpu_xfx_swift_amd_radeon_rx_9060_xt_oc_16gb_34999/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1l58gg7%2Fgpu_xfx_swift_amd_radeon_rx_9060_xt_oc_16gb_34999%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1l58gg7%2Fgpu_xfx_swift_amd_radeon_rx_9060_xt_oc_16gb_34999%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 4,
+      "title": "XFX Swift AMD Radeon RX 9060 XT OC White Gaming ...",
+      "link": "https://www.amazon.com/XFX-Radeon-Gaming-9060XT-RX-96TSW8GWQ/dp/B0F8PHK1LN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FXFX-Radeon-Gaming-9060XT-RX-96TSW8GWQ%2Fdp%2FB0F8PHK1LN&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8QFnoECCwQAQ",
+      "displayed_link": "https://www.amazon.com › XFX-Radeon-Gaming-9060...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Buy XFX Swift AMD Radeon RX 9060 XT OC White Gaming Edition with 8GB GDDR6 HDMI 2xDP, Ram Size 8 GB Video Output Interface DisplayPort , HDMI Graphics. Dual ...",
+      "snippet_highlighted_words": [
+        "XFX Swift AMD Radeon RX 9060 XT OC",
+        "Gaming Edition",
+        "8GB GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy XFX Swift AMD Radeon RX 9060 XT OC White Gaming Edition with 8GB GDDR6 HDMI 2xDP, Ram Size 8 GB Video Output Interface DisplayPort , HDMI Graphics. Dual ...",
+          "source_info_link": "https://www.amazon.com/XFX-Radeon-Gaming-9060XT-RX-96TSW8GWQ/dp/B0F8PHK1LN",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FXFX-Radeon-Gaming-9060XT-RX-96TSW8GWQ%2Fdp%2FB0F8PHK1LN&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FXFX-Radeon-Gaming-9060XT-RX-96TSW8GWQ%2Fdp%2FB0F8PHK1LN",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "XFX Swift Radeon RX 9060 XT OC Gaming Edition 8GB ...",
+      "link": "https://www.thefpsreview.com/2026/02/11/xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.thefpsreview.com%2F2026%2F02%2F11%2Fxfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review%2F&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8QFnoECCQQAQ",
+      "displayed_link": "https://www.thefpsreview.com › 2026/02/11 › xfx-swift...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUAAABFaYhQep8pP1JTfaRAYH4XJC8dLDk8XHg2UmoSGyNMdJdbirRaiLJdjbcsQlZci7YyS2IwSV86WHNLcZNVgahYha5DZoQkNkYhMUAIDA8UHygrQVQLEBUNFBoXIy2GAAA9AAAArklEQVR4Ae2Ph2EDIQxFPx37JI6enuy_ZRBO8RB-VHUJwgOlN8pYeZwHEOKSL1cABzGllPSZmQSDkuRN7mZ0tRRTiW3rxAOD51Ps2W9jfsaiEimAmF4yj1fgDdtIzbyfH7_G_GqJk-0GvzVzCpV46MGs4Y9Ey_50M44xpl9GJsrDY2HiZLre12Qb4_kqw6m2jPNTjMlsYyYF4SvLKDlfIH52R57WOmxC6_qIAcKDbx2TCiI1v83CAAAAAElFTkSuQmCC.png",
+      "date": "Feb 11, 2026",
+      "snippet": "The video card requires only 1x PCIe-E 8-pin power connector and a 450W PSU, it supports 2x DisplayPort 2.1 and 1x HDMI 2.1.",
+      "snippet_highlighted_words": [
+        "1x PCIe-E 8-pin power connector"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The video card requires only 1x PCIe-E 8-pin power connector and a 450W PSU, it supports 2x DisplayPort 2.1 and 1x HDMI 2.1.",
+          "source_info_link": "https://www.thefpsreview.com/2026/02/11/xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUAAABFaYhQep8pP1JTfaRAYH4XJC8dLDk8XHg2UmoSGyNMdJdbirRaiLJdjbcsQlZci7YyS2IwSV86WHNLcZNVgahYha5DZoQkNkYhMUAIDA8UHygrQVQLEBUNFBoXIy2GAAA9AAAArklEQVR4Ae2Ph2EDIQxFPx37JI6enuy_ZRBO8RB-VHUJwgOlN8pYeZwHEOKSL1cABzGllPSZmQSDkuRN7mZ0tRRTiW3rxAOD51Ps2W9jfsaiEimAmF4yj1fgDdtIzbyfH7_G_GqJk-0GvzVzCpV46MGs4Y9Ey_50M44xpl9GJsrDY2HiZLre12Qb4_kqw6m2jPNTjMlsYyYF4SvLKDlfIH52R57WOmxC6_qIAcKDbx2TCiI1v83CAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.thefpsreview.com%2F2026%2F02%2F11%2Fxfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thefpsreview.com%2F2026%2F02%2F11%2Fxfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review%2F",
+      "source": "The FPS Review"
+    },
+    {
+      "position": 6,
+      "title": "xfx swift amd radeon rx 9060 xt oc",
+      "link": "https://www.newegg.com/p/pl?d=xfx+swift+amd+radeon+rx+9060+xt+oc&srsltid=AfmBOop6GFUVaJ_pxPK-dcv4IgcfKsbi-As45okVhYThEI45HqONF-A8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fp%2Fpl%3Fd%3Dxfx%2Bswift%2Bamd%2Bradeon%2Brx%2B9060%2Bxt%2Boc%26srsltid%3DAfmBOop6GFUVaJ_pxPK-dcv4IgcfKsbi-As45okVhYThEI45HqONF-A8&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8QFnoECCYQAQ",
+      "displayed_link": "https://www.newegg.com › d=xfx+swift+amd+radeon+r...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition with 16GB GDDR6 HDMI 2xDP, Free Shipping Available Direct from … $399.99 More options from $359.99 - $399.99 ...",
+      "snippet_highlighted_words": [
+        "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition",
+        "GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition with 16GB GDDR6 HDMI 2xDP, Free Shipping Available Direct from … $399.99 More options from $359.99 - $399.99 ...",
+          "source_info_link": "https://www.newegg.com/p/pl?d=xfx+swift+amd+radeon+rx+9060+xt+oc&srsltid=AfmBOop6GFUVaJ_pxPK-dcv4IgcfKsbi-As45okVhYThEI45HqONF-A8",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2Fpl%3Fd%3Dxfx+swift+amd+radeon+rx+9060+xt+oc&srsltid=AfmBOop6GFUVaJ_pxPK-dcv4IgcfKsbi-As45okVhYThEI45HqONF-A8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2Fpl%3Fd%3Dxfx%2Bswift%2Bamd%2Bradeon%2Brx%2B9060%2Bxt%2Boc%26srsltid%3DAfmBOop6GFUVaJ_pxPK-dcv4IgcfKsbi-As45okVhYThEI45HqONF-A8",
+      "source": "Newegg"
+    },
+    {
+      "position": 7,
+      "title": "AMD 9060 XT - Sapphire Pulse , XFX Swift , PowerColor Reaper",
+      "link": "https://www.reddit.com/r/Amd/comments/1le1r5n/compared_amd_9060_xt_sapphire_pulse_xfx_swift/",
+      "displayed_link": "5 comments · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5bPxSXFc7NLzZ3UTBbYwwxB42qAy346JNOHgOVTU6Uehs9JJLd9O17w&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "AMD 9060 XT - Sapphire Pulse , XFX Swift , PowerColor Reaper. RX 9060 XT 16Gb Graphics Card - $429.99 + $30 discount. DDR6 memory run 10°C ...",
+      "duration": "32:47",
+      "about_this_result": {
+        "source": {
+          "description": "AMD 9060 XT - Sapphire Pulse , XFX Swift , PowerColor Reaper. RX 9060 XT 16Gb Graphics Card - $429.99 + $30 discount. DDR6 memory run 10°C ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1le1r5n%2Fcompared_amd_9060_xt_sapphire_pulse_xfx_swift%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAmd%2Fcomments%2F1le1r5n%2Fcompared_amd_9060_xt_sapphire_pulse_xfx_swift%2F",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTqNpmTLR6OhwPfz4Dz5ttK9N35CAIS5uFlXw",
+      "source": "Reddit · r/Amd"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 16GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+16GB&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+16GB"
+    },
+    {
+      "block_position": 1,
+      "query": "XFX Radeon RX 9060 XT Swift OC 16GB review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+Radeon+RX+9060+XT+Swift+OC+16GB+review&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Radeon+RX+9060+XT+Swift+OC+16GB+review"
+    },
+    {
+      "block_position": 1,
+      "query": "XFX RX 9060 XT 8GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+RX+9060+XT+8GB&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+RX+9060+XT+8GB"
+    },
+    {
+      "block_position": 1,
+      "query": "XFX Swift AMD Radeon RX 9060 XT OC Dual Fan",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Dual+Fan&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Dual+Fan"
+    },
+    {
+      "block_position": 1,
+      "query": "XFX Swift AMD Radeon RX 9060 XT OC Triple Fan",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Triple+Fan&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Triple+Fan"
+    },
+    {
+      "block_position": 1,
+      "query": "Xfx swift AMD Radeon RX 9060 XT Nvidia equivalent",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Xfx+swift+AMD+Radeon+RX+9060+XT+Nvidia+equivalent&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Xfx+swift+AMD+Radeon+RX+9060+XT+Nvidia+equivalent"
+    },
+    {
+      "block_position": 1,
+      "query": "XFX Swift AMD Radeon RX 9060 XT OC White Gaming Edition",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+White+Gaming+Edition&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+White+Gaming+Edition"
+    },
+    {
+      "block_position": 1,
+      "query": "XFX Swift RX 9060 XT 16GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=XFX+Swift+RX+9060+XT+16GB&sa=X&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+RX+9060+XT+16GB"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "[The FPS Review] XFX Swift AMD Radeon RX 9060 XT OC Gaming ...",
+      "link": "https://www.reddit.com/r/radeon/comments/1l35jd7/the_fps_review_xfx_swift_amd_radeon_rx_9060_xt_oc/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/radeon",
+        "6 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/radeon/comments/1l35jd7/the_fps_review_xfx_swift_amd_radeon_rx_9060_xt_oc/"
+        }
+      ]
+    },
+    {
+      "title": "Can someone explain how a XFX 9060XT GPU only has 1x 8 pin connector?",
+      "link": "https://www.reddit.com/r/PcBuild/comments/1rk6pu7/can_someone_explain_how_a_xfx_9060xt_gpu_only_has/",
+      "date": "4 months ago",
+      "extensions": [
+        "r/PcBuild",
+        "7 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/PcBuild/comments/1rk6pu7/can_someone_explain_how_a_xfx_9060xt_gpu_only_has/"
+        }
+      ]
+    },
+    {
+      "title": "XFX Swift Radeon RX 9060 XT OC Gaming Edition 8GB Video Card Review",
+      "link": "https://forums.thefpsreview.com/threads/xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review.19316/",
+      "date": "5 months ago",
+      "source": "The FPS Review Forums",
+      "answers": [
+        {
+          "link": "https://forums.thefpsreview.com/threads/xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review.19316/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=10&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=10&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=20&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=30&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=40&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=50&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=60&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=70&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=80&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=UXpfau-0Jevf5NoPp4P2-QQ&start=90&sa=N&sstk=AU9db-DUk1qEjQhvH4ImzgYoNpKFy6SacncXNi0_WPOQjck8HAB7WMiJsLOBwgfzwT6NHlPeF9EqRNq7fi8VEvSfRUqylhOIMpPjew&ved=2ahUKEwivob-B9uOVAxXrL1kFHaeBPU8Q8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XFX+Swift+AMD+Radeon+RX+9060+XT+OC+Gaming+Edition+8GB+GDDR6+gpu+power_connectors&start=90"
+    }
+  }
+}

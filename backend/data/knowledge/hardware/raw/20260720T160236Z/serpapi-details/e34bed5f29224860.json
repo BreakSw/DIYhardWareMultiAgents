@@ -1,0 +1,969 @@
+{
+  "search_metadata": {
+    "id": "6a5e46bfff3b7ae9c4fd8e56",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rPiVPOTNXoHzLrHZPXxMYQ/6a5e46bfff3b7ae9c4fd8e56.json",
+    "created_at": "2026-07-20 16:03:11 UTC",
+    "processed_at": "2026-07-20 16:03:11 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=HEZeasuoBtahptQP7eeFeQ&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A15767187633957762219%2Ccatalogid%3A17014390726366248051%2Cgpcid%3A6520286732599441151%2CheadlineOfferDocid%3A1789121713364916457%2Crds%3APC_6520286732599441151%7CPROD_PC_6520286732599441151%2CimageDocid%3A255455145163721537%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+psu+component+released+2025+2026+new%2Cmid%3A576462865566446458%2Cpvt%3Ahg%2Coapvfc%3AEosDCswCQUppVDR0SU9Rb18yaEI4OUNqMExxVGcxVVN4ZGowa3hTUkliLVBEQ3UzWjgwZUpyQW0xbWtxWEgyeV9JcVFob1dYcERRWExWemIxN3IyeUpIRGdpdjBfRld3Snd3SmZtTlppRmx5cWpsZTNUS1AzZW12TUU4cUpxRENsZlhwWFN6NFJZVHFTMWJhM1Zmb1I0NTZBMzRiQkVGOE1mUGNkY2FnbS1uVGUxZlJXSnpKOUZlOU9FVEhTcWN5dEJqaHpBTVpNLXRzZFVXdGNESzJqWVlIM2t2Ymw2VVo2SmtpdWNGam9DSTcyQ0RXbGtaWE5fSUU4VlQ5SF9qVEoxQmk3ZzhmaE9OVG5NVG9iOThabU9tTy1qclRCR21Pd0phclBHSWZDeWRsaUtHaHVXOUdwUkhLRlVsd1Fhc0hkcm16SnljcHlpQTR6alczN1QSFkhFWmVhc3VvQnRhaHB0UVA3ZWVGZVEaIkFEc3I5ZlNmV0xSZFc0c0dDM2VmMlFjOWJIa01RTDRWWHc%2Cxsrf%3AAF5tSO5Wvrw14VQc_OyXghvZyqB3o6r_2w%3A1784563228399%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/rPiVPOTNXoHzLrHZPXxMYQ/6a5e46bfff3b7ae9c4fd8e56.html",
+    "prettify_html_file": "https://serpapi.com/searches/rPiVPOTNXoHzLrHZPXxMYQ/6a5e46bfff3b7ae9c4fd8e56.prettify",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "yNcFX3icbVPLrqNGEE3yBZHyA7O3LNFAg8noLsA8DLbBvBqbjdVu2gabp8EGrHzNnUmkyXISZZ1fyHJmkW-Jb9ZTUtWiTqlOnVLVv9_9-EqzvxZaTHF7q5QOp3XnbkRKdep-qq9VciNdlvwJoCiIYCYKHCdBURRYFkifCO5wXp3eYJEBPCcxIitwgsDyMwaCzynFSZ6V1Dke6VWtSJb8AcSZBFggAo4TeAkIPBR_zwp8ov_Dn1kIeQgBD4HAiSyAnPjhmrRf2M18L0CWYWeCyLFQkngeAAh-2XiOuv829mtzo9fxi5njjrbdhNyuV1p2kxMt6RV3WVVOEtpeuqqebOaTur1NSFXUVflWc6X5cxc0mTybwrcgTEra_3qq3wR8g-pD8Zz8uR5eeAIQCgLPP3XNPtT37jU9fbzdcvr36yl_vbWvaf5Ky98qXN-P5OsPP2lVq87bfu6GdY1Uj_FDyTuA2Yg1k3dCu1lrw4AMMiBk87FR9ZhLg_CSZyukaC4XPqLzqY_DenQjZjhE3RBpp5EiySJIrw4g2RHN8yJtiGhhDjZnjjSsTc9I6uSsHL084fzy6UXcBXlde8UASVS3cWCHPpAfcQTYIAx5EtaDp9ltnKd9pNuCrVsxWujBOrLSNYiLAzAZO4iV9cPL3AsyHA0UoWFfdqxeHnxwQ0Y4xLm19ct66YRx7oSSjrQ0IJENE81q8KJWAlTbq633iHW0TQxb8x9WE6HcXLMduyt6FqGK9YuuTiLbwIWk-gEZXcbbHowORxo8-s85Ue5CX5capFWDW1y4-JEWWJMcZEAbGVLmBCk-hFIXjKAhuTf3WLBJmDolubLwo1ilkdfisFvgBdo6YdKHl3Tl5ahNgJ4SJr2QAgh-mZ_JIq_dwBNwTh42cH39kupRgVLCobtbeileKEyIZC6OkBEjDZsXXSOcCePcLhAz-LFOGMIk6ppFxTrXz05kmZgBXqB6UbQgH4f2evzCyDrsfAdG92sPeOSSvTNuT-k9HhuFq4Trnu1_fr4SDwWOZWecJP1GquqS0a_f_yNr8xc5sZ7M99Vp1dx2vFTJU7Vw7sYIyV1WZhlOlwxUBblMVmcDxnzpTfdH_ZYfbfn9OxW9tI8tNWy6nDFt2q4gEw_mzJk9htqttKme64t61tuo3Gu9_Gbv3-33Pn1-GJ36gbd5ke0ifp7qdLYoZGWwee9i585yWdwd1uAP8uYk64q1Uqht9X24SOiVKmM43aBpZj2KNm-HedY1Ul_d1YidOwnEbebzfQnDslwWq0APT-_f2ab6AjnuZedYVn9rYyCQg0fvvS1GBh5xkbBsSHQ743blNI8QrzJoqdL0rBcmcqeafwgv8JnhmnmaTDchXvfmRtiMdtnAtJKzVFwo12qfPGg3ljTkiDK6vKwCtklEsTb95X4mn48KHQ8HU2ZSs5MTZsiauduRMS7Du89Onau2A9rcOyfr6c1i0y1GJ4bHOLn3Dp-4uxQt4Kq3ma7YtJe7kTVdXt5yK3oqbfzjpWnxRovPoar9B4aF4xk"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRMZ3YeoaXBtnrHczgbTMEiNsSM0Z-ccsNd2Xz1vUqtx3r3d5e2MGztGlvNrhkw4xWkeeHCTCctGu8W5R-XENogYWfBs7-2",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQJjf1xD9T1ABjn8EQV2k3sDvsKcTAFKsQ2kVvkBBP1g2KuSKVQEBqOsjidAatmbbld12HiutPOh8xMjJJmZuJXAGNZywZK66ApV-d3W2ow-MC6h47nj8ZVKdk",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQIboZ0TVGF9D85QPJb-cPellqIp7nxjL5m46CYGgmH7p7cvJEV64RPhXkqO3algBmXM4lpnVmG1kZcMOck90cCZYeDGuO2R-JwWO4CY2n28ZNeRgBAzd8WsQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTUD6BC8UJtkcbjW-ousWbhIO3Ox1tiElRWXAhGaOvJwBh-Pd0ZouAyLTZJQm4bNdzwQpu4tc1DxFP4SzY5AkwMP7zzd6QdNnKCaHRU7eKUfXeBNuehAfiUVw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSt_v3QPbiBh2-qENvjjlnJNx3rphRm8-cqXfGm8geznUXGaGIaemT_x4k54tPsSoX7woy5fb4ywxRNVzZx7J-P4yVnmYwAuKQN1Sokf9W_TyEx36ajbiO7m5w",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRj1VrNgFGOQ3JWa_LdY_GoN500xjUeH7dAWlGIi-rdMhyrtgTyXx-uTuVXWzCelaJhqK-UDv6igf3iQ-ZFzbLgcyvapQziOy5y6Uk6s-WV5q16nzuQ84d8",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRupxXWWtBPwwwNSXd0npDeHAEFpncSDkVksFqOFD2PWUVP3XINACZw0r58CI_4MIU9uUYaWJ6LRh73P1hK26VegiAbXlFajaWABez6eqj0xp98pq_h1H3PHZE",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRYkffZlEcpzbd5zRPYsCZoqoRwsPhh06a7fxDLzlEIx5bV02eAUa_TFN25YRuCx1VJ6sYzgIZp8fpIj9HB4NkSWkL0DMkWLcjABz_6SqxQZwLwMIOqr-aL",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTXppzDeU4SzmliTlgpLfYfm7_hu2TZ1-S5H4mHaL4suCIO3WKHVeWVqih66bGIFltwMV0McNK-UwzJWAhLzeCaytkehXMzabnq3GLumrekFmIH8QdJUPMtdZo",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS3scHaiPni9Oi6dw_95j1aNpEbIRnI55v1nrhom2CNfZiGQV4TGHT2wzlyVJmfIcnR8Fh9sP1LCLckSsjQqFoowRvJSAQw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRoVyg0bpx7PhEEYGm6sa3fy0zREL2MJGyewz2901_xAieI3N0JzuLmPCF6EDSp8UvlXI5o2qUM7YcS49tMuKuQI_hG03Nh6g",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcStIzsKehAANozKvTCTFyqua2Q5LayxUzhR2tcs3xkZ9PZVykFZFrZwcAElYDVginLigc73FRwjCzoLhLk2rEysbhvgl2xe"
+    ],
+    "title": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+    "brand": "Cooler Master",
+    "reviews": 70,
+    "rating": 4.2,
+    "price_range": "$101-$121",
+    "stores": [
+      {
+        "name": "dealtargets USA",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fdealtargets.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://dealtargets.com/products/cooler-master-mwe-gold-850-v2-fully-modular-850w-80-gold-efficiency-quiet-hdb-fan-2-eps-connectors-high-temperature-resilience-5-year-warranty-gold-v2-gold-v2-850-v2-modular?variant=51526045696301&utm_source=google&utm_medium=organic&utm_campaign=Multifeeds_US&utm_content=Cooler+Master+MWE+Gold+850+V2+Fully+Modular%2C+850W%2C+80%2B+Gold+Efficiency%2C+Quiet+HDB+Fan%2C+2+EPS+Connectors%2C+High+Temperature+Resilience%2C+5+Year+Warranty%2C+Gold+v2+Gold+V2+850+V2+Modular&currency=USD&srsltid=AfmBOoo08x610iaCavTV-7ODaGg5NLVjGS6FIzfbDPaQ9LKmEnaaqNicV7E",
+        "title": "Cooler Master MWE Gold 850 V2 Fully Modular, 850W, 80+ Gold Efficiency, Quiet HDB Fan, 2 EPS Connectors, High Temperature Resilience, 5 Year Warranty,",
+        "payment_methods": "Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "14-day returns"
+        ],
+        "price": "$102.40",
+        "extracted_price": 102.4,
+        "shipping": "Free",
+        "total": "$102.40",
+        "extracted_total": 102.4
+      },
+      {
+        "name": "Walmart",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.walmart.com/ip/Cooler-Master-MWE-Gold-850-V2-Fully-Modular-850W-80-Gold-Efficiency-Quiet-HDB-Fan-2-EPS-Connectors-High-Temperature-Resilience-5-Year-Warranty/401128184?wmlspartner=wlpa&selectedSellerId=0",
+        "title": "Cooler Master MWE Gold 850 V2 Fully Modular, 850w, 80+ Gold Efficiency, Quiet HDB Fan, 2 EPS Connectors, High Temperature Resilience, 5 Year Warranty,",
+        "rating": 4.3,
+        "reviews": 3711,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Free 90-day returns"
+        ],
+        "price": "$119.99",
+        "extracted_price": 119.99,
+        "shipping": "Free",
+        "total": "$119.99",
+        "extracted_total": 119.99
+      },
+      {
+        "name": "Target",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.target.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.target.com/p/cooler-master-mwe-gold-v2-full-modular-80-plus-gold-power-supply-unit-mpe8501afaagus/-/A-1001316591?TCID=OGS&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=56-0&srsltid=AfmBOooEXQtbjMZL34cXgPloqtQWBWX2vYkT_Shwfm6f3nZMg1inYD6EfFk",
+        "title": "Cooler Master MWE Gold - V2 Full Modular 80 Plus Gold Power Supply Unit (MPE8501AFAAGUS)",
+        "rating": 4.5,
+        "reviews": 2601,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Jul 22 – 28",
+          "30-day returns"
+        ],
+        "price": "$120.49",
+        "extracted_price": 120.49,
+        "shipping": "Free",
+        "total": "$120.49",
+        "extracted_total": 120.49
+      }
+    ],
+    "stores_next_page_token": "UASzzHica15aklmSk3rTwzk_Pye1SME3sbgERIW7Krjn56QoWJgaKIQZKbiV5uQo-OanlOYkFilYGCgE5JQWQxQ4hkQoBOSXA_UElxYU5FQuKc4vymRenJuXzwUA8XcgSw",
+    "about_the_product": {
+      "title": "MWE Gold 850 V2 Full Modular 80 Plus Gold ATX PSU",
+      "link": "https://legacy.coolermaster.com/en-us/products/mwe-gold-850-v2-full-modular/",
+      "displayed_link": "legacy.coolermaster.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Flegacy.coolermaster.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "The Cooler Master MWE Gold V2 (Full Modular) power supply unit is an evolution of Cooler Master's entry-level 80 PLUS Gold option. This power supply unit was designed to make the transition from 80 PLUS White and Bronze units more accessible. While there is still demand for White and Bronze units, the global standard is shifting towards Gold. Some countries have even begun to legislate 80 PLUS Gold efficiency as the legal minimum for purchase. The MWE Gold V2 improves upon the original version in the most beneficial ways for users. With 80 PLUS Gold certified efficiency, this power supply unit is an important factor for users when choosing their power supply unit. The MWE Gold V2 offers a simpler and more affordable Gold rated option, making it an ideal choice for users.",
+      "features": [
+        {
+          "title": "80 PLUS Rating",
+          "value": "80 Plus Gold"
+        },
+        {
+          "title": "Certifications",
+          "value": "FCC, CCC, EAC"
+        },
+        {
+          "title": "Protection Features",
+          "value": "SCP, OCP, OPP, OTP, OVP"
+        },
+        {
+          "title": "Connectors",
+          "value": "2 EPS Connectors"
+        },
+        {
+          "title": "Modular",
+          "value": "Yes"
+        },
+        {
+          "title": "Cables",
+          "value": "Full Modular"
+        },
+        {
+          "title": "Form Factor",
+          "value": "ATX"
+        },
+        {
+          "title": "Supported Voltages",
+          "value": "+5V, +3.3V"
+        },
+        {
+          "title": "Supported Standards",
+          "value": "ATX 12V"
+        },
+        {
+          "title": "Efficiency",
+          "value": "90%"
+        },
+        {
+          "title": "Power Factor Correction",
+          "value": "Active PFC"
+        },
+        {
+          "title": "Continuous Power",
+          "value": "850W"
+        },
+        {
+          "title": "Ripple and Noise",
+          "value": "Reduced ripple noise"
+        },
+        {
+          "title": "MTBF",
+          "value": ">100,000 Hours"
+        },
+        {
+          "title": "Lifetime",
+          "value": "5 years (Limited warranty)"
+        },
+        {
+          "title": "Output Wattage",
+          "value": "850 W"
+        },
+        {
+          "title": "Rail Configuration",
+          "value": "Single rail (+12 v), 1 (+12 V Rails), Single +12V Rail"
+        },
+        {
+          "title": "Maximum Current",
+          "value": "-12V - 0.3 A, +12V - 70.8 A, +3.3V - 20 A, +5V - 20 A, +5VSB - 3 A"
+        },
+        {
+          "title": "Input Voltage",
+          "value": "90-264V"
+        },
+        {
+          "title": "Standby Power",
+          "value": "15 W (+5Vsb)"
+        },
+        {
+          "title": "Input Current",
+          "value": "12-6A"
+        },
+        {
+          "title": "Input Frequency",
+          "value": "50/60 Hz"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Air"
+        },
+        {
+          "title": "Fan Size",
+          "value": "120mm"
+        },
+        {
+          "title": "Fan Control",
+          "value": "Low RPM operations"
+        },
+        {
+          "title": "Fan Type",
+          "value": "HDB Fan"
+        },
+        {
+          "title": "Fan Noise Level",
+          "value": "0 dBA (@ 20%)"
+        },
+        {
+          "title": "Dimensions",
+          "value": "6.3 (depth)"
+        },
+        {
+          "title": "Cable Length",
+          "value": "4.7\" / 120 mm (pcie connector distance)"
+        },
+        {
+          "title": "Weight",
+          "value": "4.78 lb"
+        },
+        {
+          "title": "Color",
+          "value": "Black"
+        },
+        {
+          "title": "Material",
+          "value": "High-quality Japanese capacitors"
+        },
+        {
+          "title": "Lighting",
+          "value": "No (led rgb)"
+        },
+        {
+          "title": "Acoustic Noise",
+          "value": "0 dBA (@ 20%)"
+        },
+        {
+          "title": "Operating Temperature",
+          "value": "50 degrees Celsius (maximum)"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Fully Modular"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Upgrade process if you were lucky enough to score a 3000 series graphics card, Preparing for the next iteration of the graphics card"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Personal Computer users"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Modularity",
+        "items": [
+          {
+            "snippet": "The modular cables don't fit as snugly as expected, which can be frustrating.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.paulnorvig.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.paulnorvig.com/power-supplies/my-experience-with-the-cooler-master-mwe-gold-850-v2-850w-80-gold-modular.html",
+            "source": "My latests posts on HPC / gaming hardware (2024)",
+            "title": "My thoughts on the Cooler Master MWE Gold 850 V2 Power Supply (2024)"
+          },
+          {
+            "snippet": "Gold - V2 (Full Modular) is the next step in the evolution of Cooler Master's entry level 80 PLUS Gold power supply unit line",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.funkykit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.funkykit.com/reviews/power-supplies/cooler-master-mwe-gold-850-v2-full-modular-power-supply-review/",
+            "source": "Funky Kit",
+            "title": "Cooler Master MWE Gold 850 V2 Full Modular Power Supply Review"
+          },
+          {
+            "snippet": "on or anything else too you'd have plenty of room to fish up a bunch of cables.",
+            "timestamp": "From 3:49",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKTaaSvpxFULCy2teYgEekFOPNfyip10_whSz77KjXhxffApDY7wU9hvSkI0C5I6U8810B5TDrKUQO0jMS38SVOz27napwRWZlhHDvMtw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=YS73fJf62V4&t=229",
+            "user": "Digital David",
+            "date": "Nov 2021",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "On top of that, you will find a total of three cables with SATA connectors and a single one with Molex.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/cooler-master-haf-500/3.html",
+            "source": "TechPowerUp",
+            "title": "Cooler Master HAF 500 Case Review - MWE Gold 850 - V2 (Full Modular)"
+          }
+        ]
+      },
+      {
+        "title": "Reliability (Fan, Capacitors)",
+        "items": [
+          {
+            "snippet": "The durability upgrade significantly enhances the unit's ability to endure extreme temperatures, up to 50 degrees Celsius.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.paulnorvig.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.paulnorvig.com/power-supplies/my-experience-with-the-cooler-master-mwe-gold-850-v2-850w-80-gold-modular.html",
+            "source": "My latests posts on HPC / gaming hardware (2024)",
+            "title": "My thoughts on the Cooler Master MWE Gold 850 V2 Power Supply (2024)"
+          },
+          {
+            "snippet": "this is version two so with this version we get increased operating temperatures for highintensity applications an upgraded fan.",
+            "timestamp": "From 0:47",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKTaaSvpxFULCy2teYgEekFOPNfyip10_whSz77KjXhxffApDY7wU9hvSkI0C5I6U8810B5TDrKUQO0jMS38SVOz27napwRWZlhHDvMtw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=YS73fJf62V4&t=47",
+            "user": "Digital David",
+            "date": "Nov 2021",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Sturdy",
+            "snippet": "Overall, this is a super quiet, rock solid power supply. I have 0 complaints, other than I wish Cooler Master would include a full set of cables to the power",
+            "user": "HW",
+            "date": "4y",
+            "source": "neweggbusiness.com"
+          }
+        ]
+      },
+      {
+        "title": "Wattage",
+        "items": [
+          {
+            "snippet": "Additionally, the 850-watt output provides sufficient power for my components without risk of overloading.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.paulnorvig.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.paulnorvig.com/power-supplies/my-experience-with-the-cooler-master-mwe-gold-850-v2-850w-80-gold-modular.html",
+            "source": "My latests posts on HPC / gaming hardware (2024)",
+            "title": "My thoughts on the Cooler Master MWE Gold 850 V2 Power Supply (2024)"
+          },
+          {
+            "pros": [
+              "Highest wattage capacity"
+            ],
+            "cons": [
+              "Unimpressive load regulation at 12V rail"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          }
+        ]
+      },
+      {
+        "title": "Efficiency (80 PLUS, Rating)",
+        "items": [
+          {
+            "snippet": "With an Enhanced Efficiency 80 PLUS Gold rating, this power supply delivers up to 90% efficiency.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.paulnorvig.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.paulnorvig.com/power-supplies/my-experience-with-the-cooler-master-mwe-gold-850-v2-850w-80-gold-modular.html",
+            "source": "My latests posts on HPC / gaming hardware (2024)",
+            "title": "My thoughts on the Cooler Master MWE Gold 850 V2 Power Supply (2024)"
+          },
+          {
+            "snippet": "The original MWE Gold series was created in order to offer a simpler and more affordable Gold rated option in order to help",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.funkykit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.funkykit.com/reviews/power-supplies/cooler-master-mwe-gold-850-v2-full-modular-power-supply-review/",
+            "source": "Funky Kit",
+            "title": "Cooler Master MWE Gold 850 V2 Full Modular Power Supply Review"
+          },
+          {
+            "pros": [
+              "80 Plus Gold rating"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          },
+          {
+            "snippet": "and features so this is an 80 plus gold certified power supply with a five-year warranty.",
+            "timestamp": "From 0:42",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKTaaSvpxFULCy2teYgEekFOPNfyip10_whSz77KjXhxffApDY7wU9hvSkI0C5I6U8810B5TDrKUQO0jMS38SVOz27napwRWZlhHDvMtw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=YS73fJf62V4&t=42",
+            "user": "Digital David",
+            "date": "Nov 2021",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Easy to install",
+            "snippet": "Perfect and easy install.",
+            "user": "Mr J. W.",
+            "date": "5y",
+            "source": "novatech.co.uk"
+          }
+        ]
+      },
+      {
+        "title": "Noise",
+        "items": [
+          {
+            "snippet": "Cooler Master equipped the MWE Gold 850 V2 with an 120 mm HDB fan, which is an improvement over the V1 variant.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/cooler-master-haf-500/3.html",
+            "source": "TechPowerUp",
+            "title": "Cooler Master HAF 500 Case Review - MWE Gold 850 - V2 (Full Modular)"
+          },
+          {
+            "snippet": "Although it doesn't disturb me significantly, it may be an issue for some users who expect absolute silence from their",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.paulnorvig.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.paulnorvig.com/power-supplies/my-experience-with-the-cooler-master-mwe-gold-850-v2-850w-80-gold-modular.html",
+            "source": "My latests posts on HPC / gaming hardware (2024)",
+            "title": "My thoughts on the Cooler Master MWE Gold 850 V2 Power Supply (2024)"
+          },
+          {
+            "snippet": "this is version two so with this version we get increased operating temperatures for highintensity applications an upgraded fan.",
+            "timestamp": "From 0:47",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKTaaSvpxFULCy2teYgEekFOPNfyip10_whSz77KjXhxffApDY7wU9hvSkI0C5I6U8810B5TDrKUQO0jMS38SVOz27napwRWZlhHDvMtw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=YS73fJf62V4&t=47",
+            "user": "Digital David",
+            "date": "Nov 2021",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "This is a very good item. It came well packaged and had extra cables with it. Perfect just in case and it's quiet. Amazing",
+            "user": "Tyler S.",
+            "date": "4y",
+            "source": "newegg.com"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "It boasts Gold-rated efficiency and a fully modular design, making it an appealing option for those prioritizing cable",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.paulnorvig.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.paulnorvig.com/power-supplies/my-experience-with-the-cooler-master-mwe-gold-850-v2-850w-80-gold-modular.html",
+            "source": "My latests posts on HPC / gaming hardware (2024)",
+            "title": "My thoughts on the Cooler Master MWE Gold 850 V2 Power Supply (2024)"
+          },
+          {
+            "snippet": "The MWE Gold -- V2 improves upon the original version in the places where users will see the most immediate benefit.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.funkykit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.funkykit.com/reviews/power-supplies/cooler-master-mwe-gold-850-v2-full-modular-power-supply-review/",
+            "source": "Funky Kit",
+            "title": "Cooler Master MWE Gold 850 V2 Full Modular Power Supply Review"
+          },
+          {
+            "pros": [
+              "Good hold up time"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          },
+          {
+            "snippet": "If you're looking for a dependable 80 plus gold PSU without breaking the bank this one deserves serious consideration.",
+            "timestamp": "From 3:24",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRldyLLclQ9RFKFgDHuzTB2AD1mU69d_xQLE6rO3g_KGZsZ71qXdCVmwtdNIXiVsDVi6ksoEcxFIJo3T68TMXPUN38qxNahbZJ4CHcVpVo",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=arov_tj1aq0&t=204",
+            "user": "PcShopHub",
+            "date": "Dec 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "The PSU comes equipped with a 120 mm fan and completely recessed, fully modular connectors.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/cooler-master-haf-500/3.html",
+            "source": "TechPowerUp",
+            "title": "Cooler Master HAF 500 Case Review - MWE Gold 850 - V2 (Full Modular)"
+          },
+          {
+            "pros": [
+              "Chassis itself is sturdy",
+              "Overall fit and finish is good"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/cooler-master-mwe-850-gold-v2-fully-modular-psu-review",
+            "date": "2w",
+            "source": "Vivid Repairs",
+            "title": "Cooler Master MWE 850 Gold V2 Fully Modular PSU Review: Is It Worth It?"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 8
+      },
+      {
+        "stars": 2,
+        "amount": 5
+      },
+      {
+        "stars": 3,
+        "amount": 2
+      },
+      {
+        "stars": 4,
+        "amount": 8
+      },
+      {
+        "stars": 5,
+        "amount": 47
+      }
+    ],
+    "user_reviews": [
+      {
+        "text": "Nice power supply for a white PC case with matching white cables included. The fan is OK but could be a little more quiet.\n\nI'd give it 5 stars if it included braided white cables (The included ones are just rubber), and if the included PCIe cables weren't 2x6+2 pin cables which don't look as nice and are harder to cable manage than the single plug counterparts.",
+        "user_name": "blins",
+        "source": "msy.com.au",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2YeY2JACnoKeva5baXAG7U89UgF3Yt5DFXNVLVrnIltu9lWmJa-QoH5HwoRWWItBgBKg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Solid build quality, simple install, wor...",
+        "text": "Solid build quality, simple install, works as it should on my ~600w system. Stock cables are a bit stiff which made routing a little difficult at certain points, not a big deal just requires a bit of patience.",
+        "user_name": "shver_7",
+        "source": "ebay.com",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK001B01a6dRcuC3ucOW3lw7j9T5Ei8EGX-9WM_4wrZ4LPMmT6b3LXJBtJE-jKD8ePJzpQ=w40-h40-c0x00000000-cc"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Best Value PSU! Cooler Master MWE Gold 850 V2 Review!",
+        "link": "https://www.youtube.com/watch?v=zNy1CjtVfKI",
+        "source": "YouTube",
+        "channel": "BC Zone",
+        "duration": "3:59",
+        "thumbnail": "https://i.ytimg.com/vi/zNy1CjtVfKI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mwWX3DVrNV2OZPIE-D8hSjc3X2Zg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQXOBbY-Gyfs6_UMz6Jy-YCOY5K_INhWmKxlw"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 Full Modular Power Supply Review",
+        "link": "https://www.youtube.com/watch?v=YS73fJf62V4",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "6:15",
+        "thumbnail": "https://i.ytimg.com/vi/YS73fJf62V4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kkBFWUaR0EDNCU4xuHOfPr_rI_xQ"
+      },
+      {
+        "title": "Review - Cooler Master MWE Gold 850 V2 Full Modular, 850W, 80+ ...",
+        "link": "https://www.youtube.com/watch?v=arov_tj1aq0",
+        "source": "YouTube",
+        "channel": "PcShopHub",
+        "duration": "3:41",
+        "thumbnail": "https://i.ytimg.com/vi/arov_tj1aq0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lZTVHfUu59ehwFZGyDAnnO-M7t1A"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 Review | Reliable High-Efficiency ...",
+        "link": "https://www.youtube.com/watch?v=CDeVTrp8ey4",
+        "source": "YouTube",
+        "channel": "GadgetTestLab",
+        "duration": "0:43",
+        "thumbnail": "https://i.ytimg.com/vi/CDeVTrp8ey4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kLG-u1PzNsNz31dNUeSL21cwP46A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR2_Vo38wFeEvWMGeVMIaZpaKTzpKjuVpU9PA"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 Full Modular Review",
+        "link": "https://www.youtube.com/watch?v=GMo-iYGtbPk",
+        "source": "YouTube",
+        "channel": "UK Pro Reviewer",
+        "duration": "3:12",
+        "thumbnail": "https://i.ytimg.com/vi/GMo-iYGtbPk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mfWpcZD5eHBuHA7iPpONyNae_-Jw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRpXdSD68fcie0FiXJvyquNpkNL-fQ9EWQYGQ"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2: Power and Efficiency Combined ...",
+        "link": "https://www.youtube.com/watch?v=T-7CRt4DVGQ",
+        "source": "YouTube",
+        "channel": "The Product Critiques",
+        "duration": "2:29",
+        "thumbnail": "https://i.ytimg.com/vi/T-7CRt4DVGQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n3VMpk2z3iW7VgULbAoEpx7mSnDw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTrMWCoKQIY6S20URXXsz6ljhA49JUsLbn8aQ"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 Full Modular, 850W, 80+ Gold ...",
+        "link": "https://www.youtube.com/watch?v=Q5gibcxUg8M",
+        "source": "YouTube",
+        "channel": "Happy Shop",
+        "duration": "2:01",
+        "thumbnail": "https://i.ytimg.com/vi/Q5gibcxUg8M/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nx2zY8M5EKLAymZuPbEbDIqsMAPA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTisvA3mz5y-efiA0WFM5FVPFSdco_FAH9saQ"
+      },
+      {
+        "title": "Cooler Master V850 GOLD V2 850W Full Modular 80 Plus Gold ...",
+        "link": "https://www.youtube.com/watch?v=S6tqQWtmecU",
+        "source": "YouTube",
+        "channel": "Tech Land",
+        "duration": "2:56",
+        "thumbnail": "https://i.ytimg.com/vi/S6tqQWtmecU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kFaHHCdvur-LY6saVWt7xs5co-dw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR4R8WSXUCM2BP6KaMrPmUtSJKjPE85YLA_-Q"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 vs MSI MAG A850GL",
+        "link": "https://www.youtube.com/watch?v=-GF5fEgI7T0",
+        "source": "YouTube",
+        "channel": "Buy Smart",
+        "duration": "5:13",
+        "thumbnail": "https://i.ytimg.com/vi/-GF5fEgI7T0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lD8EgfTCGOcClyBZ99SMajHJS3kA"
+      },
+      {
+        "title": "Watch Cooler Master MWE Gold 850 V2 Fully Modular Power ...",
+        "link": "https://www.amazon.com/live/video/04d289a9ace64710a7065cb59764611f",
+        "source": "Amazon.com",
+        "channel": "Digital David",
+        "duration": "5:07",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFo6ubLjbQdI1ojZNern1ze8kznn-9hfU3E7K9CywuGYciEw&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSG9r9Lu7niGCOHuefz96Fo34UgeK_ePMfu6g"
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 Full Modular Power Supply ...",
+        "link": "https://www.facebook.com/digitaldavidreviews/videos/cooler-master-mwe-gold-850-v2-full-modular-power-supply-review/1564402120564059/",
+        "source": "Facebook",
+        "channel": "Digital David",
+        "duration": "6:15",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmzyqTjbBOgZSr8P2mdowTE5MHa8qf-pmw-2_4g2FY9eWSng&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTYpEnPSDU-IT4GqKbVQjsXczXUfTvjiCug6Q"
+      },
+      {
+        "title": "Watch UNBOXING Cooler Master MWE Gold 850 V2 Full Modular ...",
+        "link": "https://www.amazon.com/live/video/05e7fc9edede4ea7b651b1146dffaff8?ref_=dp_vse_rvc_1",
+        "source": "Amazon.com",
+        "channel": "Digital David",
+        "duration": "1:15",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlJ6lk6lNMi3jS6rvfwDCJl7npMEojAT2IuugjCMeMVFNaeg&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSsQwFcH8ZH2Gdi0PSmihZfonuP1mc8_I9p2A"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Hello guys. Is the Cooler Master MWE V2 Gold 850W good? otherwise which ones do you recommend from 850w modular?",
+        "link": "https://www.facebook.com/groups/1041320705998480/posts/3224971967633332/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "It is a high-performance PSU with silent operation and good enough build quality, supported by a hefty ten-year warranty.'' - Tom's Hardware",
+            "link": "https://www.facebook.com/groups/1041320705998480/posts/3224971967633332/#:~:text=It%20is%20a%20high%2Dperformance%20PSU%20with%20silent,a%20hefty%20ten%2Dyear%20warranty.''%20%2D%20Tom's%20Hardware"
+          },
+          {
+            "snippet": "80 Plus Gold Efficiency ✔️ 2 EPS Connectors ✔️ 120mm HDB Fan ✔️ High Temperature Resilience ✔️ Flat Black Cables ✔️ 5 Year Warranty ✔️ Check it out: https://www",
+            "link": "https://www.facebook.com/groups/1041320705998480/posts/3224971967633332/#:~:text=80%20Plus%20Gold%20Efficiency%20%E2%9C%94%EF%B8%8F%202%20EPS,Year%20Warranty%20%E2%9C%94%EF%B8%8F%20Check%20it%20out:%20https://www"
+          },
+          {
+            "snippet": "``If you need a strong enough power supply to deal with one of the new and powerful graphics cards, either from Nvidia or AMD, the Cooler Master V850 V2 Gold fi",
+            "link": "https://www.facebook.com/groups/1041320705998480/posts/3224971967633332/#:~:text=%60%60If%20you%20need%20a%20strong%20enough%20power,the%20Cooler%20Master%20V850%20V2%20Gold%20fi"
+          }
+        ]
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 v2 extra cables? : r/coolermaster",
+        "link": "https://www.reddit.com/r/coolermaster/comments/llxwkm/cooler_master_mwe_gold_850_v2_extra_cables/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 years ago",
+        "comments": 7,
+        "items": [
+          {
+            "snippet": "You have to use this website  the cables are better but expensive",
+            "link": "https://www.reddit.com/r/coolermaster/comments/llxwkm/comment/ip7jyif/",
+            "top_answer": true
+          },
+          {
+            "snippet": "I bought the 850v2 and only brought 2 pcie cables, I need to buy 3 pcie cables, did you have any answers?",
+            "link": "https://www.reddit.com/r/coolermaster/comments/llxwkm/comment/gou293i/",
+            "votes": 1
+          },
+          {
+            "snippet": "The spec list shows you exactly how many connectors are included with this power supply and it should be enough for any use case for this specific model.''",
+            "link": "https://www.reddit.com/r/coolermaster/comments/llxwkm/cooler_master_mwe_gold_850_v2_extra_cables/#:~:text=The%20spec%20list%20shows%20you%20exactly%20how,any%20use%20case%20for%20this%20specific%20model.''"
+          },
+          {
+            "snippet": "The PSU end of the cable appears to be brand-specific as the same cable from another PSU I have will not fit.",
+            "link": "https://www.reddit.com/r/coolermaster/comments/llxwkm/cooler_master_mwe_gold_850_v2_extra_cables/#:~:text=The%20PSU%20end%20of%20the%20cable%20appears,another%20PSU%20I%20have%20will%20not%20fit."
+          },
+          {
+            "snippet": "However, it appears that it only comes with 2 8-pin PCI-E cables that would be used to power a GPU, despite having room for 6!",
+            "link": "https://www.reddit.com/r/coolermaster/comments/llxwkm/cooler_master_mwe_gold_850_v2_extra_cables/#:~:text=However%2C%20it%20appears%20that%20it%20only%20comes,a%20GPU%2C%20despite%20having%20room%20for%206!"
+          }
+        ]
+      },
+      {
+        "title": "[SOLVED] - Cooler Master MWE V2 850v Tier Classification?",
+        "link": "https://forums.tomshardware.com/threads/cooler-master-mwe-v2-850v-tier-classification.3685348/",
+        "source": "Tom's Hardware",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fforums.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 years ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "I purchased the Coolermaster MWE 850 V2 80+ Gold Psu. Are the components of this power supply good quality?\n\nI guess it is not in the Tier list published for power supplies. Can you give an idea?\n\nAs far as I know, components in power supplies also change in quality. My goal is to get ideas. I would be glad if you could help.\n\nThere's not a lot of info on this updated model. Cooler Master uses buzz words such as entry level and affordable which to me means they used cheaper parts to make it than one of the better models on the market. It also comes with 5 year warranty where most better gold rated models come with 7-10 years warranty. You got a low budget gold model. I would not expect amazing performance or longevity from it. IMO, it would tier somewhere in the middle to lower middle, definitely not near the top.",
+            "link": "https://forums.tomshardware.com/posts/22198812/",
+            "top_answer": true
+          },
+          {
+            "snippet": "It's hard to use the tier list for buying recommendation, and it has many flaws as well. I don't recommend using it. But enough of that, that's for another topic. There is a review at eteknix of the 750W version, which is very similar to the 850 one \n\nIt's a good power supply, maybe around the same class as CWT GPS units such as Bitfenix Formula Gold and Thermaltake Toughpower GX1.",
+            "link": "https://forums.tomshardware.com/threads/cooler-master-mwe-v2-850v-tier-classification.3685348/post-22200189"
+          },
+          {
+            "snippet": "It also comes with 5 year warranty where most better gold rated models come with 7-10 years warranty.",
+            "link": "https://forums.tomshardware.com/threads/cooler-master-mwe-v2-850v-tier-classification.3685348/#:~:text=It%20also%20comes%20with%205%20year%20warranty,rated%20models%20come%20with%207%2D10%20years%20warranty."
+          },
+          {
+            "snippet": "It also comes with 5 year warranty where most better gold rated models come...",
+            "link": "https://forums.tomshardware.com/threads/cooler-master-mwe-v2-850v-tier-classification.3685348/#:~:text=It%20also%20comes%20with%205%20year%20warranty%20where%20most%20better%20gold%20rated%20models%20come"
+          },
+          {
+            "snippet": "Refillable",
+            "link": "https://forums.tomshardware.com/threads/cooler-master-mwe-v2-850v-tier-classification.3685348/#null"
+          }
+        ]
+      },
+      {
+        "title": "Cooler Master 850W V850 GOLD - V2 - Is it reliable? : r/buildmeapc",
+        "link": "https://www.reddit.com/r/buildmeapc/comments/ub2h5y/cooler_master_850w_v850_gold_v2_is_it_reliable/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "4 years ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "Interesting enough I just had one of these fail on me within 3 years. Not mad though it happens. But I trust Cooler Master, I'd probably get another one.",
+            "link": "https://www.reddit.com/r/buildmeapc/comments/ub2h5y/comment/l8vkuo6/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "It cut out and occasionally makes sparking type sounds.",
+            "link": "https://www.reddit.com/r/buildmeapc/comments/ub2h5y/cooler_master_850w_v850_gold_v2_is_it_reliable/#:~:text=It%20cut%20out%20and%20occasionally%20makes%20sparking%20type%20sounds."
+          }
+        ]
+      },
+      {
+        "title": "How to pick the right UPS? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/10m88y1/how_to_pick_the_right_ups/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 years ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "Calculate your total max power draw. Get a good brand UPS, from Cyberpower, APC or Tripp Lite, that can provide more than what your draw.",
+            "link": "https://www.reddit.com/r/buildapc/comments/10m88y1/comment/j61itbe/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "Look up the specs and check the wattage the UPS can handle. It needs to handle as many Watts as your system draws. The marketing is all about VA, not the same as the wattage, so make sure to read the detailed specs. Keep in mind that a UPS will only give you power for a very short period of time. It will let you shut down your system properly and weather brownouts, minutes long outages, but won't keep you running for hours. I'd say, get something that can handle at least 700 W. If you want a \"it will do it for sure solution\" at the cost of more money, get a 1500 VA 900W/1000W unit like APC and Cyberpower make.",
+            "link": "https://www.reddit.com/r/buildapc/comments/10m88y1/comment/j61jlq1/",
+            "votes": 1
+          },
+          {
+            "snippet": "It will let you shut down your system properly and weather brownouts, minutes long outages, but won't keep you running for hours.",
+            "link": "https://www.reddit.com/r/buildapc/comments/10m88y1/how_to_pick_the_right_ups/#:~:text=It%20will%20let%20you%20shut%20down%20your,but%20won't%20keep%20you%20running%20for%20hours."
+          }
+        ]
+      },
+      {
+        "title": "Anyway to get more PCIE Cables? MWE 850W MPE-8501-AFAAG : r/coolermaster",
+        "link": "https://www.reddit.com/r/coolermaster/comments/rwm24j/anyway_to_get_more_pcie_cables_mwe_850w/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "4 years ago",
+        "items": [
+          {
+            "snippet": "Best hackintosh WiFi card for T530 with 1vyrain",
+            "link": "https://www.reddit.com/r/coolermaster/comments/rwm24j/anyway_to_get_more_pcie_cables_mwe_850w/#:~:text=Best%20hackintosh%20WiFi%20card%20for%20T530%20with%201vyrain"
+          },
+          {
+            "snippet": "How come this has x5 8PIN PCIE Modular Connectors yet CM only provides you with x2 PCIE (6+2) Cables?",
+            "link": "https://www.reddit.com/r/coolermaster/comments/rwm24j/anyway_to_get_more_pcie_cables_mwe_850w/#:~:text=How%20come%20this%20has%20x5%208PIN%20PCIE,provides%20you%20with%20x2%20PCIE%20(6+2)%20Cables?"
+          },
+          {
+            "snippet": "Over 100k ppd per watt on a 5080 (~200w) - sff rig",
+            "link": "https://www.reddit.com/r/coolermaster/comments/rwm24j/anyway_to_get_more_pcie_cables_mwe_850w/#:~:text=Over%20100k%20ppd%20per%20watt%20on%20a%205080%20(~200w)%20%2D%20sff%20rig"
+          }
+        ]
+      },
+      {
+        "title": "Jump starting doesn't work on Cooler Master MWE 850 Gold-v2 - 850W : r/coolermaster",
+        "link": "https://www.reddit.com/r/coolermaster/comments/ry5thy/jump_starting_doesnt_work_on_cooler_master_mwe/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "4 years ago",
+        "items": [
+          {
+            "snippet": "Jump starting doesnt work on Cooler Master MWE 850 Gold-v2 - 850W psu",
+            "link": "https://www.reddit.com/r/coolermaster/comments/ry5thy/jump_starting_doesnt_work_on_cooler_master_mwe/#:~:text=Jump%20starting%20doesnt%20work%20on%20Cooler%20Master%20MWE%20850%20Gold%2Dv2%20%2D%20850W%20psu"
+          },
+          {
+            "snippet": "Jump starting doesn't work on Cooler Master MWE 850 Gold-v2 - 850W",
+            "link": "https://www.reddit.com/r/coolermaster/comments/ry5thy/jump_starting_doesnt_work_on_cooler_master_mwe/#:~:text=Jump%20starting%20doesn't%20work%20on%20Cooler%20Master%20MWE%20850%20Gold%2Dv2%20%2D%20850W"
+          },
+          {
+            "snippet": "Can't get FiberPoE Gen 2 to power up (F-POE-G2)",
+            "link": "https://www.reddit.com/r/coolermaster/comments/ry5thy/jump_starting_doesnt_work_on_cooler_master_mwe/#:~:text=Can't%20get%20FiberPoE%20Gen%202%20to%20power%20up%20(F%2DPOE%2DG2)"
+          }
+        ]
+      },
+      {
+        "title": "Cooler Master MWE Gold 850 V2 additional PCIe cable for 3 Pin Graphics Card : r/coolermaster",
+        "link": "https://www.reddit.com/r/coolermaster/comments/1qfp8n8/cooler_master_mwe_gold_850_v2_additional_pcie/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "6 months ago",
+        "items": [
+          {
+            "snippet": "It's been working flawlessly & the peace of mind that it's an original cable is definitely a plus.",
+            "link": "https://www.reddit.com/r/coolermaster/comments/1qfp8n8/cooler_master_mwe_gold_850_v2_additional_pcie/#:~:text=It's%20been%20working%20flawlessly%20&%20the%20peace,an%20original%20cable%20is%20definitely%20a%20plus."
+          },
+          {
+            "snippet": "Both the GPU PCI-E cables that come with it have pigtails.",
+            "link": "https://www.reddit.com/r/coolermaster/comments/1qfp8n8/cooler_master_mwe_gold_850_v2_additional_pcie/#:~:text=Both%20the%20GPU%20PCI%2DE%20cables%20that%20come%20with%20it%20have%20pigtails."
+          },
+          {
+            "snippet": "I actually tried to see if it would fit in the GPU & it didn't.",
+            "link": "https://www.reddit.com/r/coolermaster/comments/1qfp8n8/cooler_master_mwe_gold_850_v2_additional_pcie/#:~:text=I%20actually%20tried%20to%20see%20if%20it,fit%20in%20the%20GPU%20&%20it%20didn't."
+          }
+        ]
+      },
+      {
+        "title": "Will PSU Cooler Master MWE GOLD 850W V2 MPE work with 4080 Super GPU? : r/pchelp",
+        "link": "https://www.reddit.com/r/pchelp/comments/1ds6rh0/will_psu_cooler_master_mwe_gold_850w_v2_mpe_work/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "850W should be enough for the 4080 Super, newer PSUs have the newer 12VHPWR Connector built in so there isn't a need for the adapter, but the adapter works just the same just is more cables, unless you want to reduce the amount of cables in your build, I wouldn't upgrade it unless it gives you issues",
+            "link": "https://www.reddit.com/r/pchelp/comments/1ds6rh0/comment/lb08ui4/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "Thanks man! This one has a decent rating I think on cultists site for PSU's but yeah I'll see how it goes.. I just wasn't sure if ATX 3.0 is a definite requirement..",
+            "link": "https://www.reddit.com/r/pchelp/comments/1ds6rh0/comment/lb096fw/",
+            "votes": 1
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "MSI A850GLS MLG EDITION 850W Gaming Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcREyie3bBK72TbWmD4bE0fy2fZOD_-J01GEWaJ6gBs8aFVoiPLJ5L3XS2lxU0zwQCLezntt_57A_cbIO3e4QNtav2yiRLnKejHDp4GDIOjw",
+        "price": "$124.99",
+        "extracted_price": 124.99,
+        "original_price": "$160",
+        "extracted_original_price": 160,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BG66WnicdVRNzqNGEE1ygixyhawsSzTQgLMD82Ow3dhAg2FjNdA2mF8bbGwrp_kmM9JkORNlnWvMLCLlJsGzTnrxpK6qrvfqSdV_f_fjG83_XGgRJd21UXqStf12I1Kq0-3H9tKk16TP0z8AFAURSKLAcTMoigLLgtnHhPSkbI55-llgBMjyEI4IoSTwgjT7lFGSlnlN7cOBXtQmeXURIJjNBCgxAHIML8xEwP6eV-RIv-U_C5DnRDCDkOMhYFgBzqR3l7T7wm_m-_EOJJaZMQwjAW5kmgH468ax1f3_JN-fr_Ty-GKWpKddP0mulwut-8mR1vRC-rypJyntir5pJ5v5pO2uk6Sp2qZ-1VxoOdpB0wnLsPAFwqSmw_tj-22I_-B6V-Xpp9EiXmAlnhU4yDKjI-K79ta_Zce3Y_l27d6y8o3WHxrS3g7J1x9-0ppBnXfDfIvb1lcdxi2yztmlRayazzWIduSEzITNNGfRbndseXa4LQhO-tatWjsBlhIbYY926SJiZwM5lbf4hEoaFNDToEJUZU5xefeN-xWpCh-yWegzDBsx9y3VolNUtWboHbnER4PtAjPQysDRyirW29W2Qny8aImvWvzaVzAq7moIRn2ljuPKKggw-6ACGWGPdwcnQ1BaHaqcNjHKhcvhO8X3ze4BMHo6jF_4S9eLbNeY7ZzC8nBwHBAoD2tPv2I19YjfHpIAzLcB0h3PsvDT4QLVb7xg4DGGg1vonqPrXVSNGaZgsWeCcGeFjnHv1hX0w6I_EEM_JEC5IdXywwo0mIXMGHMR2-IQIDLWtnEOuth32piNvACvuVHZZvTwbO8Ue-0hkpzQOnlmJQboZGPwDBbWAdXNM_Z0kPpWEYKGTXC0RnqrImx1KXaMVMWuzoVDUPlZaviFg_syri3g-Aqf-s4GaToycktxFuhhB5FLMbDIQj-vdoj3glSP_OaxZfTeVpGw3qFrsou43-7d5fCFkXXYu7agn8HNKNYmnS4Hwj089SFYU0-uyE7-BYgSD1_bCESe_ZA0TZHTr9__I2vznzlVTi1fI7fVcXW-hvyskadqZd-MB0xusiLlJFsyUBXkOl2dDBjxtTPdH_RreUDyz5wyUf2xRffcUQPRpcR0WbeCTHQ3JVt63ttto031Ul-00oD8eq8N8uu83u33Lh23jE5dz9m8VKAqGnVPpUUlK3fEOwUq7eWyutmswcfy5ijrirVSKLKGAS9SeqHKA083_jS3nlVXdvd53p9nQ3NTA3Zup5B0ucsPNcR1vaxWno6PL1ZkqiMX5LgRQ9uyhmsXASGJHXobkBgY5EGqlGVxoqOcC-tpGfi8yvhLlWYnvTL97VRzY1zAMcKd51k63WCyHsyNsHmg-gyzRs4zcaFcmn36pP2jpphLlMeWl1XAnlNRbE13uZfk00Ghjzg2ZSYzezll7vl5vu2TR1Tjm8tO7YsWAm3unNL19Gqx2Y74R4YnJL0NNp9uw8xfwNWAmL7adMXNyM99WV9LKxjnPbuH4tyRzbi2WNXGL-Xw17-jYuOD"
+      },
+      {
+        "title": "CORSAIR RMe Series RM850e ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSI3PRgdCNux5CucStj98-DV2yR2HbES7Ebh3xv3MM0OhQfsG0X0S2BDdDInMxLdJtl5n-UQA3ZYcCJrHQtiy_QzvAgGMLrqMmChlhkVZfXnDwQmALdU_Hp7A",
+        "price": "$119.00",
+        "extracted_price": 119.0,
+        "original_price": "$145",
+        "extracted_original_price": 145,
+        "reviews": 794,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uyAfPnicbVTLrqNGEE3yBVnkF2ZlWeL9yA7My1zTmEc3NhsL022DgQYbbGwrX3MnM9JkOYmyzm_MLCLlT8JNlkmXVIt6nFNVquo_v_n-lZS_O2ZKsv7a6kNWdEOwlgmxSPCpu7T4mg8l_o0VZUlmFVnieVWUZYnjWPVTng1Z3R5L_CvPTCKpgiLKIi8pqioKnwuS4bqkxD8cyMVo8ylMZBVlymQYlZNFlRdURvqlbLIj-dctTLC8KimKOjGIAs8ryvsL7r9w68VOEBmZlQVZZVRxEkkShJ_WoW_s_t_34Xwll8eXZZ0NpB9m-fVyIXSYHQkll2woWzrDpK-GtputF7Ouv87ytula-hZzIfU0C4JnHMOJb0qaUTJ-OHb_lPhfqvdNiT9P45mqF6cMRWY5hZek991teC2Or8f69dq_FvUroR_brLsd8q_f_WC2o7Hox0UAuw4ZIROhcLV94ig1ijFu2qeXACF00ouHLBjGOQu5dJ05wAmY-wXC7uZRPQZ1DXGMNiFFt5xHabQ5PkLYCrh2W7QpIhwxDHKqAWyKYMIQQlP0k9iqN7wboSdebZjiitm68C0cRXxBQd0FgMVuvNG9PYvXHqdes2cobaFYB2xHc94Fe6u-x5VI9zbzDJ86AKZ1BbElxXXRpw6KyGbJoQQywIbDFiEdOfoDnNwAstq4pek54LA19cAljsbGVUpJUp9xVQS4Qg6p0zZBqu3R48M7FVLcqI-Qd_2kGSxQFX7KuOV-U9ceW_HERgBVWyZJ3CCmR9az1RE-cz5OwmW6cdmMB5a3QVZm1BvUuFa0KRbAdkMMcQ0pZrzYLZEpngKU1hlFFD-BN_VfJKYrIqNIQho6yAZcxKTFCgIeInzynC2L2e4aI-z5sRZZ_HZMGlRgG1UhHOo9ddkQ6QJG4XqaC7BLVw8d8PCTNIINZnDSiZGxfCAITMS73p4vnglkn2mF4hW88z_f-8vhC6NZ4hD5QjumfQeNhvddG6i52TzhoYrrlNkff2RlRRDfLnHaRP5j3rZVSb5--5dmLt7xhoZdZGa31XF1vm4FtdXmRuPf7IeY3zRdKbPihRENSaN4dbLFVKDhfHewrvUBaO94fWagCaJ_bogNyIvC9EW_Epn0vlR85XnvgtacW7XldMoIEN2Zo_b23vJ2u4hMR0bmURyu36oATTpm_FxxGk2_T8tcgdp_eWluPmcLe2191CzdXekEuOMIHUwuRH_A-RrNS_fZ9HV_X5TDWR3bm5FwCx-LWV9GwkhFSOlLs4oteHxjBUtj4hJ5ftJb33XHa5-yUr4PyW0EcmJnj6zBHAdzC5T8ls7rBAkGg14MUpysZomCuRntYSVOFv68KPB8DTNvXK6l9QPQs1i0WlnIjn5pd_hJhgclkM_1RyBoBsudsSx3y-hlp2ing04e-_1SY4rloGHmXp4XwZA_UgpvETf3L-aWNRfhCXvzq8sVmwwdGSHL8G30BRxsC-SIqxEwQ7Puq5tdnoeaXms3mfo9R4fq3GdrMz1Bw5y-lMMffwP3jeSp"
+      },
+      {
+        "title": "ASUS ROG Strix 850W Gold Aura Edition 80Plus Gold Full-Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQuzu5VCXn5NFPS2aE9H7e02S7ANlqjUCNDPLqHTeufe8PMav-CXpkc2I8MWA23Kv4Y0CWwvlrXPHAv7tzcbQlGIA3_0PSooG1CZg0M6oxjw4M7IVrgmVEW3Q",
+        "price": "$184.99",
+        "extracted_price": 184.99,
+        "reviews": 51,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BhklV3icbVTNzqM2FG37BF30FWYVRQIbAnQH4SchCYQfm8AmItgJEP4SSAhRn-abzkjT5XTUdV9jZlGpb1LS9XhxJd9z7XPvsY7_-eHnN5r9tdAiGre3WunitOmcrUCpTp1PzbUmt6TLyBeWF2YCKwozCCVeEGYAsNKnJO7ioj5l5M8xIbIiO4NAHGGOhRB8TmlMiqyi9vFIr2qdjGWAFRgAOcAwkiTwAuQF6Y-sjE_0f_gLK3A8FCSWExhWYJmRToDvr6T9CrbzvSiNO1ECgiixcMay0gz8tnVtdf997MPlRq_D12URd7TtJsnteqVVNznRil7jLqurCaHtuaubyXY-adrbJKnLpq5eNVdajGJQMgEM4F9hNqlo_-HUvEb4DtX7MiOfR324UQTAAijwow7C7H1z797S09upeLu1b2nxRquPddzcj8m3n37R6l6dt_3cQU2DVZfxEG6RLsPQD3sbsciDIROy-mwHHkcMiUNynfOxuyUFuTvoUQbBI9gw5tU3-NzeRbOQaYzE0ANfq4fkzDpJIYLA3wzBwp1jZGlens4cprMSFlsY63kQFHOySG8eiBofnYFbnPpNUSyt53KIAR4wm3KRYUUeai4boJsBeujRWb-TnNzshXn2UQ02JT-goHFiIGXrwIoJYu3dU-ER6CIfm9ukUmBY6Owam5uYMV0HWEZgmDDE6Wq9i9KYSY2kciPradoeTs2kjBRUmcsYpH0EdQX7ShiV0Q4Dd5UAaYlQ6iRMapPcsvwirVHANw6IAlI-1qjECjnXEO_0m_90H2FBioituUOQrgJD0jdPq9jkuoornPnPSKF52mAtYfwiAtEuRVGQVmGlF55G5lEVDTS3KvcsZQdI5p5q6S4iG3rGTMRq3YbR9XiReDoM-6DEKTHw2UVdcahM1sUKR8Z3sjTdMjJTcRfWYAeRl-wUK0GNHvrWghbS4C_kh2ucnl5etLTagEB34e-P9nr8ysg633k2V_dR2yC1hLZpWFKilU90PI_tMofTr6wgcvzLiqNj4Mekrs8Z_fbjv7I2fwdVmZhYi-_r0_pyCzmplqdqad-NgU_usiJmcbpieHUmV2SdG3zEVe50f9RvxdGS30FlouLxiva5o4ZFVyLTpu2aZ6LHUrTF56Nxam2qF_qiEXsLV3utl1_rdW6_9-hoMjr1fHf76sIqoz6GU3FRysrD4tyzVdirVXm3gcEd5O1J1hVzrVDL7Hu0IPRKlQFNt3iamc-yLdrHPOsuUl_f1QDMbcLHbeZxfcWjqlqVa19HpxertVRHLh7CMYa2afa3NmJnycGl994SAiMe4pIAgBLdymBYTYsAcyqDVypNc71cYmeqeQd05scMvMxTMt2ieNMvt7PtYFUXPq3lLBUWyrXekyfthooimCiDw8kqCy5EEJqlt9qLcn5U6HA4LGUmXXYyYR7ZZe50yRBV6O6BqX3VQlabuznZTG8mSHcxPjFcHJN7b3PECVO84Ne9xXTltj3fjezSFdWtMINx3ot3PF_aeKtFOVK18Us5_v0f8Pjk4A"
+      },
+      {
+        "title": "PowerSpec 850 Watt 80 Plus Gold ATX Fully Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQMHJ0vXdfep-IScoSqJ1m3AEYxBlxk5P_t0HXJuD6LGTdsYeTCEeOO_xPQPELa4UogQKIkzMJXgfyMSrQGEexMtqnXmDiB",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HAvAvHicLVPLrqNGEM38QX5iVpal5g3ZgXnY2ObRQGOzsdrQNti8DBiwv2Z0b2akyXISZZ3fmFlEyp8ER6lFLaqq65zTffrvn35-I9mfSy0iuL1XSofTunMdgRCduF_rpkrucZclf1CcwAuUKPAMI3GCwNM0JX2NcYfz6vxqA0qSWFqUOJYSJYHneUH6lhKc5FlJ7NOJNGoV_zfHUAItMrTEiBQnUYIosL9lBT6T__vctIUDEsVyrARowDGAeW-S9tPn2500j--rHHek7WbxvWlI2c3OpCQN7rKqnCWkvXZVPXMWs7q9z-KqqKvyNdOQfNJGkhkNaO6V-FlJhs_negL8XWJ5jp34sgzLMzzPTQTfiyz5NslleVoEoshIkypekt7rvntLz2_n_O3evqX5Gym_VLjuT_GPD-9aEy8Wfay4QV0jFQKP0TG-jv0x0G-hoW9QEW0hk7owT7OwGLMdk9AQQLjNIRVREkLPSD2qVugDlvF1hLbFqPsa4Hy6htg3T2EhssG17o-ltTuqwSNRU8MydGiVwSMKIB1pVLB7IstnYE5yKUS7MxuqMdiCqAmKmrIRWnramLkoYTCdKv4SBgRNDPLcJ7v8Qa4j8NQcJipSSIE0rNXmPuz2FgO7mOYMK9CGmE7u26u5iA1pZRn5AHMz2ATQ8Wn95IYUPF6hebwoqhdCDyO99J9J5-Yiuw1rK6JTvAWj4T8VZ5-jDhpmYaNkYWv7EZV6DydOOyb1EULOljY3trLaJRcFR6EOohDqHo3ucYn0YJlSSBOBGwC8uupazKy4KF89rBLxbtG1OOhO_lJX99R1IKGZu4CrfYCekIl_Hdvm9B3IOtd5trBr-uVzgDzVxeOx1kf2dtk6h2fXh_IvkytZ7mV0SmDZL3FVXTPy48M_srb4yKhyYk7X02_Om9t9z0qVPFcLuzceXNzLipjhdA04lZfLZHMxuIgt4fxw0u_5yZI_MspMRdOK9rkjhkXWImjTdsOBaFyJtvgca7fS5nquL2txsFB50Ab5Fa9zh4NHJs-TuedD58XCKqIBM3NxWcjKaLHwauX2el30Nm2wR9k5y7pibhRimcMQLBPSEOURzB00z8xn0ebtuMi6mzRUvRrSCzvhcJt57FByQVmui42vB-cXqrVSJyyOYaa8t01zuLcRxcdHSPrBEkIDP3CR0HQQ61bG7Mt5HiJWBWitkvSiFyvkzjXvGFy5qcLcFmkydwK8HVYO70wPduPSSs5SYak01SF5ku5RkoCJlYfLyipF3xJBqFfe-iDKl5NCHsfjSgbpqpMTMGa3hdvFj6gMeo-e2422p7QFvCTb-d2k0x1GZ8BinPSDzSbuPkVLbjNYoCuc9tob2a3Ly3tuhpPem3e63lrsaNElULXph5_--hfN6bJt"
+      },
+      {
+        "title": "ApexGaming AG-850M V2 Gaming PSU",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRXPZqjl9EHPcZ4nH-sVAYTPmWLKRCa7Ga2DjNSlfJHlsiqM_IiU0e0WuIJKYbPwDS-Uf9X-QOwBEuchS4coP2x7lbkIr4iavgCAbQCgXAoAgReahHerzzC",
+        "price": "$129.90",
+        "extracted_price": 129.9,
+        "reviews": 4,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=nDhrhHicbVTLruJGFEzyBVnkF7JCSH4_srOxDRho8KPb196gxt1g4_YDbDBY-Zo7mZEmy8ko6_zGzCJS_iS-s016cRanzunqKqn67-9-fKX5nws7obi91WaHs6bzdiqlDvU-Ntea3NIuJ595WVVUXlMVUdRlVVUEgdc_prjDrD7l5A9N0QVB5TlOkxWZ50Wd5z5lFBOWV3R7PNKrVafj2BugyLqiSAovqaIsSfLveYlP9Bv8mRc1SdZVTZV0TuN0TdZU-d2VtF-E3Ww_Lui6OLZ4VecEXeQl4dedv7X2_4-9v9zo9fllyXBH226S3q5XWnWTE63oFXd5XU0IbYuubia72aRpb5O0Lpu6epu5UjaaQclE4AT5rSiTivbvT803Cf-lelfm5NPoj6QIkqRwmiRJnKxq75p795qdXk_s9da-ZuyVVh9q3NyP6dcffrLr3pq1_cyDTYMsnwttf0ZKWUkjv4SDGZDCOXscw9AmKw-SIWZohaCvvPB-kopQwrAfAkGXkrkepwV7pLyJUAnk5Ow84opVqZAKGw4cY6GDMdOjhAPy-gU8NmXLeSWRw4Jl68g_x4Lz8DjgYebirQOWG-bmsNCkyHJXB4Sq7VzfHCwQhPCxJJyLYZWKGDoLwKGaMFYDR3tu4WkIigx7yIW0YgOJkIBK2Hti40dRZwZ8InmVE3th4qACDaPmLuD8xI_8IUXZLqo8IYpIB0UTJVGyAWEqw7DgSeU8Rw-cYAGOQEDt5mwew3mXg4WfvAz-HMNkADNe8ETnGc0bN6pQvhGdNeD8y8FBLUTsmEK7P5TaE3OuH5Z-Rx23gMKjG_VXxEJWUvQ9eDE3aaHHxCa3uCI8XaCWRv4Vn40hfnJduLC51PYhZGjYCCAkkSxTZgeOGPdRiTIyR4UPO3aoXN5HpkSQvwO2A-a5a_oL8NxGCdyGyS0KWYOZfsdnNwwcVie870Omn72S-SgE4m-P9nr8whmO3AVb9eV6Xwy9r_Bd-jg0zkO6nDe7_dDdI-MXXh2D8hZFXpWkD2ldFzn9-v0_hj37WbQM4iIb39en9eUWS3ptTK1ye58_5fRumFqOsxUnW4pRkfV5LidS5U_3R-fGjsD4WTQnFhqvaIcXOgd0pXFt1q5lLnksta02PBqvtqcOcxaN1gNU7e3eeDtve_t9QMeQ0WkQ-ru3V4Ay6bE41RalYT6A5BeAbVer8r4V5tLB2J0Mx3TXJgVu38MFoVdqPuF0h6a5O5Qtax-zvLvofX23ImG2JTJu80DqKxlW1apchw48vbGCpTVyyaI41njruv2tTXglPfj03gM1muMnLokgwNQBuRhXUxYhyeLQyqLZ2SmXyJvawQEW8tgRL7OMTHcQb_rlTtk9QXWRs9rIM3VhXus9GWj3rCgUU_PpSYbFCxeiqs0yWO0143w06fNwWBpctuwMwj3yy8zr0mdSwXsgTLdXO-btmX8mm-nNFbIXjE6chDG591uJeHGGFvK6B1xX7triPs8vHatuzI1GvZfgWFxavLOTM7Ts8Us5_vUvtzfm7g"
+      },
+      {
+        "title": "MSI MPG 850W Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQCfsfzXMT_rrm8qvgFIk1UU9e9EmM8IiUhpMws4Nkt2i9joV9QXIoHISHR2AibHL1zZp2EtGQFc58lk2coJq46B5UCj5NjNZEpyrRvTFVl",
+        "price": "$110.99",
+        "extracted_price": 110.99,
+        "original_price": "$150",
+        "extracted_original_price": 150,
+        "reviews": 31,
+        "rating": 4.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-1qzzHicbVRN0qM2EE1ygixyhaxcruIfkx2YP2MjsABhs3EBkg3m1wYb48ppvslM1WQ5k8o615hZpCo3CZ5tokUv9FrvvW6p9fd3P76R_E9Ti0jc3Rqlj7O237oiITrZfmyvDb6lfY7_oHlREOmFKLCsxIuiwDC09DGN-7hsTjn-LFESveDpCeVZihY5WpQ-ZSTGZV4T53gkV7VJXyycxFKCRIkiKyxEWhCohfR7XsUn8g3_LPLMgpuIJnaK5QWK4YV3V9x9YdzlQWQZjqYZaSFxk5bISozwqwsd9fD_2PvLjVzHL6sy7knXz9Lb9UrqfnYiNbnGfd7UM0y6om_ambuctd1tljZV29SvnCspp2YQPGMmA68gzGoyvD-13yz-V-pdleNPU384YfLLspQoLTiB59-19_4tO72dyrdb95aVb6T-0MTt_Zh-_eEnrRnUZTcst0HbIhVS3hMyTmDRUIcR9COHBFYJUNYA335sdrCBanRJQ-4JdwVj67oL6GyZaLS_2bXnJOzXvtHTkHpUvkdDr5JMqEUNfBZjSlGM_4wCHDZ08Dwx8KzfkF9qYNeaCWVRk-YSUGATlmWzD2AGK14NSmBvnzqLKYD2Bb1LQxgHegYSZLkxFQxJrUQYtUbKPLQozGDEKiWsUJRo6WA_ywupUGUbtAnq9pYWXe-giN4gJY7O1t0O8B6EPOUXbY31aIcYGO5LrU8q0ENNErYlfPoaqoGKlSTQ-4iS4vSsjKmJN4HRsY4fFUQHaqqXhhPAXWBIUz02ZzM02rIlkzwjzTfRuAnSAWr4ARjLw0x_3ITagHy9idQshhrKUNW3qC4Lr25HWNFUMNJ9UEPPMVGGTeuY-AWbUrBKJ78xshrbo48-jWNSARPoU3cZztPZ_RBWU76BChj0ZVJP94cUDiPoAk0HRm4p0ASjE0aejawx1Pcc1vi9bURbyPQs2GXHiCnttOIrzFrKb4_uevxCyTrfe464u97N5wAFuk8fSas_uMvZdg_P_h7Kv9Digns9NWkaNe5D2jRFTr5-_4-sLX9mVRlbSIvvm9PmcttzUiPP1cq5GyOf3mVlkcfZmuJVQa7x5mzwEVfD-eGo38ojkH9mlZmKJoruuSMGIOsF1WXdhqeix2rhLJ6Pdttoc73UzXYxAFQftEF-rde5w8Ej05CRuedD9-UCVNEQs_OFWcnKA3CwAKWzXld3hzG4RHZPsq5YG4UAaxgCE5MrUcZg7qJ5bj2rruwey7y_SENzV0Nm6WA-7nKPG2o-qOt1tfH14PRSBSt10uJZdop7x7KGWxfRQppAch-AGBrxGFeYYYJUBzm7r-dliDiVQmuVZGe9WqHtXPOSoOCnHfayzPDcDWJ7WLmCO4L6wmeNnGeiqVybA36SfqxJwKbKuOVklWYuWBTblbc-LOTzUSFjkqxkKlv1MqYe-WW57dMxqoO7x8ydq7antSU8Y3t-s5hsF6MTxcUxvg8Oh7f7DJn8ZgBUX7ldcTfyS1_Wt9IKp3ov3rG4dLGrRedA1aYv5fjXv6UJ5YQ"
+      },
+      {
+        "title": "ASUS TUF Gaming Gold",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSiuFUn059JDDY6-_apyA9NF13E_IDz4KC3-DGkJzKAHkw_th6ZyOkgYWwwF_ju_QOj6f115Ox3blrp9ykj7P5BttqWvQrKbtp9IjcuJwg",
+        "price": "$129.99",
+        "extracted_price": 129.99,
+        "original_price": "$150",
+        "extracted_original_price": 150,
+        "reviews": 141,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=33QLNnicbVTLruJGEE3yBVnkF2aFkOz2OzuDH2DAj7a7jb1Bxt1gg19gYwPK19zJjDRZTkZZ5zdmFpHyJzFZTy_Ooqu6zqkqnf7nh5_faP7XQo9p0t7qWZdkTee5EqUG9T4115rc0i4nX1hBEiVWlkSOUwRJEgFglU9p0iVFfczJnywrsJLMyILAS4oEeIlhPmc0IUVeUedwoFetTsc0RZR4mVEUiZcAyyhAktg_8jI50v_DX1iOBSLDCTwvC5zA8KwElPdX0n4F7nwn8KwIRH4sIQiyxCoj_uZCR9t9P_bhcqPXx9dlkXS07Sbp7XqlVTc50opeky6vqwmh7bmrm4k7nzTtbZLWZVNXr5wrLcZhUDIBDBBeIE4qOnw4Nq8WvkP1vszJ53E-vAhkhWNlGQgCx0nvm757y45vx-Lt1r5lxRutPtZJ0x_Sbz_9oteDNm-HuYeaBmuQ8RFkNwW-bAyDoSc7881uSXSl8s8RH2HF91klwWG8cHQFpafs7lVZCw35EQZZQ7WsTEuh37LWFpdFa2P7YOvFEFRWHocCiJh7FJ_Z5TrEwAPKIS3h3DGsxyYs1l6IcRgWCTENP8ZGHzFHnpbZIR53iRmL93VjG7C48nXb87UlgCZ7j4FywoHe2WDJk7MwBADz4QnWESYefiKeFlmEq02HtjEXL3AcgO6KdANCIHeQi3XEkXuKMh9tyUhpFWlgu8FZmdsIcqm2YZHZdRst1vYLo_YAFh105iDIks0Z3mImFhMTL20jXuxL-4qRtYwAvNlMjLzK6H0zWwWB5Qds2q2RcYu2KkuQUvhmsbTPdueHsPUAYjYFDJxFxAZPbJESPxKQ9bHZXFKj2SJtVFhmEJnNYvNM-TQw1n6YzSBHasxZIipxHWiRb3DREJY4IyY-Q9QV-8piIZ7xBEPX1g3bzK0ZXNgPJ4whqUgcj_PGHFz7ptIgrmCiEG9tplmOmvr4HFe_39vr4SujGkLnO-LKG-BuDlw2nh22jMn0FuRNQSvK-vjr6DVeeFmRlXjhY1rX55x--_FfVZ-_4zSVWFhP-vVxfblFvFKrU610evMhpL06k_MkWzGCJqoVWZ9MIeYrON0djFtxsNV33Gyi4bFE-9xS06YrmWmzdi0w8X0pO_Lz3ni1PjUKY9HIg42rnT6or_N6t9v5dDQZnfoBdF8q7DIeEm4qL0p1drd5eLYLZ7UqeweY_F51j6oxs9YzalvDgBaEXunsgaYunubWs2yL9j7Pu4sy1L0WgrlDhKTNfX6oBFRVq3IdGOj4YrWX2sg1um3EyLGs4dbGrJjuIe0HWwrN5JGUBACUGnbORdW0CDGvMXil0exklEvsTXV_j87CeMNd5hmZuijZDEtXdB92dRGyWs0zaTG71jvypN2joohLZw-PVzUWXIgkjctb7WT1dJjRx36_VJls2amEueeXudelj7hCvQ-mzlWPWH0OT2QzvVkg2yb4yPBJQvrB4YkXZXghrAeb6Uq3PfdmfumK6lZY4djvxT-cL23i6vEJafr4pRz-_g9L_-E6"
+      },
+      {
+        "title": "Cooler Master G600 Gold Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRvh2lj1RQwgnMGySTGpcUWdWJpdWfofWcj_g3Uudl8N9kguY8GS1TUI-21tV5A5izapQTetmYDFLPeWpdLidUdbuKuaO7Azy4qQg-eqLJIhQc7v3KEuY0YlA",
+        "price": "$137.99",
+        "extracted_price": 137.99,
+        "reviews": 6,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=x-N6RXicdVQ5ruNGELV9Age-giNBALu5OyPFRaKk5trcEoFit0RK3CRSovTh0_zxDDAOZwzHvsZMYMA3Mf_EdgcVdL2qV_WAV39_9-MrLf9c6inN-lurDlnRDa4jUmpQ92N3bcktH0ryB-BFQQSSKLCszIuiACGQP-bZkFXtsSSfARB4gQdAYoEMGCiIPPxU0IxUZUPtw4FetTZ_68JKAsfxggCAzMqcJPIs83tZZ0f6Lf8ZirLMs4CVRY4TWUFmAPPuSvovnLPYAY6XAMcJPMszAoCSLEjcr45na7v_Sb6_3Oj1-WVVZQPth1l-u15pM8yOtKHXbCjbZkZofx7abuYsZl1_m-Vt3bXNG-ZKq0kOSmaQgfxbEGYNHd8fu29L_AfXu7oknyaJOAFK0oQXJRYyAvOuuw-vxfH1WL3e-teieqXNhzbr7of86w8_6e2oLfpx4eKuCzWPCcxk3MZdlbNVmC6rNoqLlgSExQBBD8hBbhh6hltm2xhrN8jHfZMzOeaTvO4qGpIkxyijesgGhpVusGxj0zhRTV24UYg9Xb7lJVARlONNhGDAhv22KjZb_YFTZkgxPDIxgy5ubbH7c_twzwnnaytIQs_NIpkherHOojDFemh4FfGzAJ1snL948RbkrFHkuFAJSBN8Xo2eiR4xTEFUreC-6Uy_BokHh34bWiEygRAYauUD74YNz8jPnhdDfdxH1QVN2FwvAhorwK1DhEwEfWbYhLE-bnHKhfGWpUv3aZshswVd5sZeikODc5lUC-rBo1P9traGDJIhZ1GQRmSxhbKenCoHnYpsE1d6UsmThjqXgWJDm2KzP59HX9N5pD_WQWQB2wfuNphw0BoTBqlpkPoB6HQPyo0bhC9EHzCKu3WOqyhYYt9gkzGqw4KY4dnDQ7VvLOCFKjfp5iDdQGZpqd4SPe0oxelJvQYMYlMDdZl-5POqa7LQC9IqrXDT6UnEN789-uvhC6MY_ODbwtodvd0COiBVDzFjMnfL40xeq-r2-AsQpclIkxuByPEf8rY9l_Tr9_8o-uJnVlOIFerZfXPcXG4JJ7fKXKvtu_nk87uiSmVWrBleE5SGbE4mn3KNN98djFt1QMrPrDrTwqlF_xJTE9G1xPRFv-GZ9LGSbOnl0bmtPjcqY9lJIwqbnT4qb--tbrfz6eQyOvcDz3mbAtXpmLFzaVkr6gNx3hlV9npd321ocnvFOSqGam1UiqxxxEtCr1R94rkTzkvrpe6r_rEoh4s8tnctggub8Flf-tzY8Lhp1vUmMPDxjRWttImLZ9kpJrZljbc-BUK-9-h9RGJkZs-sJhDi3EAlmzTzKgo5jQnXGi1ORr0K3bnu7_GZn37Yy6Igcwdn23HlCM4TNRe-aJWyEJfqtd2RFzo8G4rZXH26nKIBeCGi2K389U5STgeVPvf7lcIUq0EhzKO8LNwhf6YNvvtwbl_1BOgL70S285sFizgLjwyXZeQ-2hxxkyJc8psRMUPt9Oe7WV6GqrlVVjTte_EP50ufOXp6wpo-nZTDX_8Ct83hmA"
+      },
+      {
+        "title": "MSI MAG A850GL 850W Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR-hgs8uxCdgWZkUFmBC-1wFLEKspdkYJjG7UIqUJWcBG8UYs12sKsWnMy-nnKfKwAP5pYdI1HC6WweI3QktXpLbtZbkR3QaSTpCC7zlrz9",
+        "price": "$54.50",
+        "extracted_price": 54.5,
+        "reviews": 1000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-acUPXicdVTNzqM2FG37BF30FWYVRcKAIXQHAYeQBBJ-TGATOdgJhN8EEpJonuabzkjT5bTquq8xs6jUNylRt60X19I5xz6-R7r-67sf31j2h2nEjLTXWutI2nSbtcwYYpvPzaWm16TL6O8AypIMJrIkCAqUZYnngfI5IR0p6mNGfxMmHAAKGFQiL_ICFID0JWWEFlnFnMOBXfQ6GWRA5iA3UZRhlyUoyOJE_DUryZH9S4uyDEQFSFCRIDewogQ_XGj7VVxPd2DgBImXIOR4WRFFCKDyfu06-u5_yI_nK7s8vs4L0rG2GyXXy4VV3ejIKnYhXVZXI8ravKub0Xo6atrrKKnLpq5emgsrhjQYHfEcD19FGlWs_3hsklcS_-H1oczolyEhUeKHvjiOAzzkBri5dW_p8e1YvF3bt7R4Y9WnmjS3Q_Lth5-MutenbT_dBE2DdZfzwuQen-IoCuN7lCOfbutnkls45tre04sDEVaAIkywWSyiHLqunj-2fOrhrd14_lGMtlq7Mop7GKJHhJuZDWiV8Hfe37p-grBNsVZRQB_JDPtbgcYbX-sif84lZdcmfiAmmGa2r50SRNHKA8bSj0-EQysnpDjg7ua-BLOVSU_-liLXxAEOXCniLLTyjX7FQZ-hDSAGsgI9vRCeuwczG9MZhJ5Oz_uiMSIh1fegme5BnEdb90zKQiAZcPa5ImJeyZcYH0hw7F1TOzgGnQchfdCTdfL5bpqcYsPNxW4VArQytTMLIV5um8wvUhuX1gqjmNA89t3ABk7YLCh_30RlutrPupKYFLGSpl6F0QujQg42vsE5MyzaQex6OQrcUMFx3pW4vOsEo2fAp43H2SjgGvOVk48VKyknkPmuGPvUj4J7tOENDwlRH5Y4pTOcu0FX7CsLuFgTKXbXtoHsWWZprmk_nDAOVngisEp9Oij1aeF2rHCFfaCUhO8f1KRxUDbCL_f2cvjKqQh2niOWywrWFzT2AM14Y0hz4wpb74kqevwZyBMRvoYRyKL0KanrPGPfvv9bNabvBF2lFjbIbXlcnq-RqNTqWC-d2-wBk5uqTTKSLjioS2pFl6cZjMXKHe8O6FocbPWdoI10PFzRPrdsZrPFhGvTdgm5-D6fOJPnvdnUxhgVyGwmvY2rndGrr_U6t9t5bJgyNvZ8d_16hV3GPRHGE7NUtbsturldOItFeXP4mbhX10cVadZSY7bV94FJ2YVpj2C8xuPMepZt0d6nWXdW-vqmh_zUoZC0mSf2FQyqalEufRQcX672XB-8oCAMNXIsq7-2MZCSvctuvS2HM_IgJeX5IEF2JkTVuAixqHN4obP0hMo53owNbx_kcECE8zSl43VAVv18La0fdnWGaa1mqWxql3pHn6x7VCwQEu2xEVUd8Gcqy83cW-wm6umgscd-P1e5dN6plLtn5-mmSx5xFdw8fuxcjAgYU_dEV-Orxadbgo-cSAi99Y5IN1GKTbjsba4r121-m2XnrqiuhRUO_Z69Q35uydqIT4FuDF_K4c9_AFiK5LM"
+      },
+      {
+        "title": "Montech CENTURY II 850W ATX Fully Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSSc6uoJk2FYjUVFzcI5UmXZmZJPD3LgEIg0kjWFOogos8xYU7JaYq3e2hnNspmPY_kASXrCdEeWHHWZ_V_BqT5dmfvWiF1Aj74nKba7M6fkE9slBNNGI2N",
+        "price": "$79.90",
+        "extracted_price": 79.9,
+        "original_price": "$90",
+        "extracted_original_price": 90,
+        "reviews": 109,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Rep9XHicdVTLrqNGEE3yBVnkF2ZlWYLmnR0YGhsbDI27uWZjYbptuDxtsLGtfM2dzEiT5STKOr8xs4iUPwmOskxapVKpquuc6iNV__nN928s_31uxSzpLo3RJ1nbB77CGGTBp_bc0Eva5_Q3XlJkhVcVWRA0SVFkAHjtU5r0Sdkcc_qrJqgip0mirAiyqGmyyoufM5bQMq_Z-nBgZ7NJnyiCoCgC4DmBFziZ10RNkH7Jq-TI_q0r_IgtaIqkamMMFElQ3p9p90X0Zzteknh5NCCqQBYUUdIE_icfrc3d_xQ_nC7sfP-yKJOedf0kvZzPrO4nR1azc9LnTT2hrCv6pp34s0nbXSZpU7VN_bxzZuWoB6MTwAHp6eRJzYYPx_afKf-D632V08-jRqIMVCAIoxicqinq-_bav2XHt2P5dunesvKN1R-bpL0e0q_f_WA1gznrhlmA25aYiAtr6Lq25-0f8MpqIwjKLH4B1E4fpR-SzE4qyUMvXpXUziIOuWFFdBAWsHLvvLMmmUxM4kZRHIUVPK9ICxGEhUtitAHZPY56HGMURzY_jyPqY3CLPM69pbbmuZU0D_m2dUvjhkC5oNgxiF2IdE4MD5M7BeQQVchP5-SBNrCObAxC2zm5lXajlTbHG1ogjsrbO38JLc3fbAjZlDQPyljYW-qATejgEhV4TkD6cMSoQNs9HwtpSeuQwyLDcJlieCDEFdYbtEmLuNtWZECVKoUmwjHvORvcX1xAt5sIouDVAi4xfErKISkCLg35G-HKINnAWVg4q6AmLSEpCEYsbJMYV60Yv1KDRH2UQg2kPKzDeYz3JqlwQRPKZzcXjH0RFIN6cUd17EeRCAIezTYFAnveBesNBCk0FtGL4QbE4ki14LYvegiF7RBVJKM2KRDuy33t8IgYIiXI9yzo2bljoLl3X0dxiOdZtheOPX6UdoSl0IOlOWqbp3xspAQir0Do51t3PnzhdCj14VqsVrXUnOE05GkOLI_QAAkv4QPW9Pgjr6ii9FxHXhHlj2nTFDn7-u1fujV7J5g6dYiVXFfH1emyFbVGn5rV-mrfpfSqG2qeZEtOMmW9pqtXW4rFGk13B3gpD57-TjAmJhkhuscLsz22VLku61YSF98W6lp93NqgsaawhPNWHTxS76xBf55n324XsnHL2DTcIP85hVfFQyJM1XmlGzdPRIVXrpfL6roGtrjX_aMODWdlMM8ZBjyn7MyMO576ZJo7j6oru9ss70_a0FzNCMzWVEq6PBSHWsJ1vaxWG4iPT1ZvYY5ckiCMfrt2nOHSxbyc7hG7Dp4S2ck9qSgAOIVeLmzraRkR0eTI0mTZK6wWJJha4R4X0pgRTrOMTn2cuMPCl_27V5-krNHzTJkb52ZHH6y_1wwLqXEPRN3kwYkqSrsIlztVfz0Y7L7fL3QuW_Q65W75aRb06T2u8TUE0_XZ2vLWDL1Sd3pxQPaSkCMnJgm9DmuRBtuMzKXV4HF95XfF1c5PfVlfSica33sKD8WpS3wrfsWmNX4phz_-BrFe4jk"
+      },
+      {
+        "title": "InWin VE85 Gaming PC Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTuAIka28FQeONismqSD6k9OvbzdXK28Uw6DPAEcuBFlljl_FYBJTNuM5arRIvQyTUhrbh_0ooBdlu05gDJFB_alOJTt145n_Q1qisONXtLJYhBcqmzXDyX5g",
+        "price": "$150.00",
+        "extracted_price": 150.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7Zm7pHicJZPNrqM2GIY7d9CbmFUUCQzmpzsIkJCTAwGCCWyODHYCiflJIBByNdWZzkjT5bTqurcxs6jUOylRvfgWfuz3_V7r8z8__fxOi79WZkJxe6v1DudN521lSi3qfW2uNbllXUH-5KEsybwiS4KgQlmWAODVrxnuMKuPTyzxHM9PhJugCgQJKOK3nGLCioq6hwO9GnVWkD8EgeMVQeYUVVA5kZMFqPxelPhI_8eyygNZkKCoKqLMiyoQ5U9X0v76-XKj1_G7zXBH226W3a5XWnWzI63oFXdFXc0Ibc9d3cy2i1nT3mZZXTZ19TxzpWxKRskMcAA-izSr6PD52Dz9VBEqU0cAcoIkKKo44U9lQb5NYcUpggokBcgAKqLwqem79_z4fmTvt_Y9Z--0-lLjpj9kPz58Mq_ZYtFnuhc2DTJ8LkC-55Xhg5TDmJwcKTKdPkbrLt2hADOrD0f-EoPmEEWIT5fJCZXHESFU7EyLZZwKHYt0KdMAZmSkFXP9c-f6oOOw5T82YeOk-4TDe3bygH9-BfAc8MkKmc7oLK3XdOkPeJ97IVJHsvTGbOWssgW_jSzyCBmDk6abTpqI6XBX8MuMQ2N6hjEt-CZhub7n2TZ42GO60k9ZaQVZpFokvNsbRC4BZ3e-yRsOFz7oiQlOye7-HgWuqe6R1Zyik3UjQF1v9jGkyw4EYWNudjaXAOjveWKGZr5JeVLHjPTB7nUgZYeDSF2kOwfudsnFDderneHHrm7vyUnHSWRxSeRbAUC3rEJWuMp5ZCqcF3LYPltmJtgwYU4X78Ihsmox2utbzFA_vX-SIF_IljVIhXiIq-y3e3s9fOc0C3aBK5abCtZXax7wpACmg4jnC_vgYVXk-AsvKyJ8jjkvi9KXrK7PBf3x4V_NXHwUDI2skYn7zXFzucWiWmtzo3T75QizXtOVAucvHDQkrSKb0xImYuXP3w7WjR0c7aOgzww0SbSPPV069EXh2rzdQC6524qrPO6NV5tzi1mrRhkcVL2Zg_Zcz3tvbwGdZp7Og52_fXbhlMmAhbmyKjX97oj-2WHuy0vZu2Apptr2qFn6eqNTZz0M4YrQK9XHcL5F82L9KFvW3hdFd1GHujcisHAJxG0RiEMFw6p6KTc7Kzw-XR3bmLygIEw1dtfr4dYmvJSlPu0HR46WeMQlASDMLKcQ4mrOIiQaHHoxaH6ySht5czNIwzOcdoTLIifzbYhfB3srbUenusC81opcXunX-o08aDdWNBQyffREzeDBhchyYwcvb4p2Ouh0TFNb43K70wh3Ly4Lr8vGpAr7AMzdqxnz5sI_kdf5bQ3yPUZHTsSY9IMrEi_O0QpuBofrym177pfFpWPVja2jKe8lOJwvLd6aySk0zOmHH_7-DzF0szY"
+      },
+      {
+        "title": "Thermaltake Toughpower GT 850W Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTg-xOXEBN4qGLkFnyb8EiKls9MDFmffWMxaXcfLVhpSYoHYmbRX6tuHwku3Gv1kxrKDw7MTb9J6FlsmGFHXLEXRpHUeOj6RyZG24jU03btd8M4kCrWg9pFag",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$110",
+        "extracted_original_price": 110,
+        "reviews": 82,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5YTRQ3icdVTNzuI2FG37BF30FbpCSInz311C_giQQIIdyAaZ2JAQ5wcSCKA-zTedkabL6ajrvsbMolLfpGHWrRdn4Xt8z7lXOv77ux_faP6nayUUt9fa6HDWdKulQqlNVx-bS02uaZeTz7ykyAqvKrIgaJKiyADw2scUd5jVx5z8AXigaQLPcYrEDQxRU7lPGcWE5RUNDgd6Mev0RQMikDhZUFVNEwUgiBr_e17iI_1W_syrQFBEWVXEbzhQNOHdhbRfxOVkx_OqqEiaIHBAFoCoyryo_roMA3P3P8X35yu9PL5MGe5o243S6-VCq250pBW94C6vqxGhbdHVzWg5GTXtdZTWZVNXL86FsmEdlIwAB6QXyKOK9u-PzTeX_6H1rszJp2FFogwkUZAlDYgKkJR3za17y45vR_Z2bd8y9karDzVubof06w8_WXVvTtp-soJNg8yQiziOQ4AsCI-SBc-a6IlqXHoIWYyLHfgM3CSIq2a55qYCqoxuwZiAN-FhH7P79uSBkPMMCD0pdUhMCt-JYh-Q-C5D6Nd75nsr5kUk1mqICiF1k1lsJzK2fYwK4kKeBajgnjHSzshJ-QCG1d65L9aO9ERO2NMYOYuTt4iLuxPH0imMiQXLRKaxtkkKZIV2wkdPKGCT9FveAOuycbGgd1vQPvYmavfF0MsKmW_db-sn24bA4pDtc_M42YRFIqaOnxN32tON59AiYXiYlZorCbshHyG2TcvpHQKpHvRAFKccEtL7CtzD9KRzIZ9t9qZRrOLwNt943L4gk0XZAuR41hzaEK2nYrrRxcT2vXlcgz3vr2KoVT7z2VYw8siCUswajtpJtOUZt6-MOrSzEsFUipzugdZJveUJhrYWrgqS-U_kEuQd8KaObGHbxyXKiIOKEHZsX3l8iAyRoHDpW7bv5J4Ruv4jiJPBB8lgkdxwNX1GbnbGpSRCN4HbDXJjk6wwIMZv9_Zy-MLpttRFgcyu5-uzL8ZRacFgFi8iTDM8kYPjtP-FV1RReqWRH9LyIa3rIqdfv_9HtyY_C6ZOPGTh2_w4P1-3olbrY7MMbs5DSm-6oeY4m3GSKesVmZ8cKRGrcLw72Fd28PWfBWNkoqFF-9xQx6czlWuzdi5xyX2qBurz3qxqa2wz223U3kfVzur113m92-0iOqSMjqN1uHy58Mukx8JYdUvduPtiWPgsmM3KWwAcca8vj7pteHOD-l7fQ5fQCzUecLxE49x7li1r75O8O2t9fTNjMAmIhNs8EvtKglU1K-drGx5fqv7UHLQkQRhwG3hef20TXk73Ib31vhI7-IFLAgBMbT8XttWYxUg0OTQzaXayyylaja1oDwtpuBHOk4yMlxAv-ulSXj786ixltZ5nimtc6h150u5RUSikxmMl6iYPzkRRmmk026n66WDQx34_1bls2umEu-fnyapLH0kFbxEYBxdry1uT8EQW46sHsg1GR07EmNz6QCSrbYZcad77XFcu2-Lm5OeOVVfmxcO85-hQnFu8tJITNK3hSzn89S-F4OQj"
+      }
+    ]
+  }
+}

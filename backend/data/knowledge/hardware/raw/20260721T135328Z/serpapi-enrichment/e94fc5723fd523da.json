@@ -1,0 +1,424 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a56fbe53b2a2194accf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JEnBiSiXRmZjsSgwcMvfKQ/6a5f7a56fbe53b2a2194accf.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JEnBiSiXRmZjsSgwcMvfKQ/6a5f7a56fbe53b2a2194accf.json_with_pixel_position",
+    "created_at": "2026-07-21 13:55:34 UTC",
+    "processed_at": "2026-07-21 13:55:34 UTC",
+    "google_url": "https://www.google.com/search?q=HP+NVIDIA+RTX+4000+SFF+Ada+20GB+Graphic+Card+gpu+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&oq=HP+NVIDIA+RTX+4000+SFF+Ada+20GB+Graphic+Card+gpu+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JEnBiSiXRmZjsSgwcMvfKQ/6a5f7a56fbe53b2a2194accf.html",
+    "total_time_taken": 2.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "HP NVIDIA RTX 4000 SFF Ada 20GB Graphic Card gpu length_mm memory_type power_connectors recommended_psu_w tdp_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "HP NVIDIA RTX 4000 SFF Ada 20GB Graphic Card gpu length_mm memory_type power_connectors recommended_psu_w tdp_w",
+    "total_results": 10,
+    "time_taken_displayed": 0.44,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much TDP does the RTX 4000 have?",
+      "type": "featured_snippet",
+      "snippet": "The NVIDIA Quadro RTX 4000 supports up to 160W TDP and is packed with significant upgrades compared to the Quadro P4000 including a 20% increase in CUDA cores . It also utilizes NVIDIA Quadro Scalable Visual Solutions (SVS), allowing each graphics card to support up to four 5K monitors at 60Hz, or dual 8K displays.",
+      "title": "NVIDIA Quadro RTX 4000 GPU - IT Creations",
+      "link": "https://www.itcreations.com/nvidia-gpu/nvidia-quadro-rtx-4000-gpu",
+      "displayed_link": "https://www.itcreations.com › nvidia-gpu › nvidia-quadr...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggVERQIGRvZXMgdGhlIFJUWCA0MDAwIGhhdmU/IiwibGsiOiJHZ3R5ZEhnME1EQXdJSFJrY0EiLCJicyI6ImMzV056VXJEUUJSRzZYYWs0REprZGFseFB3d3UzQTJSVWhWQmdoWXN1THJOM1BrUk9sTW1ZLXBqLUdydWZRdGZ3R0NFT2dHWDM4ZmhISGJKcXB0d2dOMXJhMkc5YkVBRjZpQlpnb2YxQmk0NDUyQ3hKMWw4VldKZW5zVDA5dk1sdFdjTnEyNG42T05xQlNZRUJUcEVNTGh6M3NqaXN4SG41WmtiMFVFd29wM1dVNVM5c1BySllvSmZWam10S1pKdkNiYVVEa1QtV0txWE5hQlgtVEhrWmZIeExCYmxzWU1Lb2VfeVBiVFotNHpkX1kzZDkwNDV6SDJHUEVWTUxuZ3dFZmZXdFIyMEdDZFZ3YS12cEtoTDZVZEZsdnBYa1ZHQ2c5bWV6cjRCIiwiaWQiOiJmY19XSHBmYXBlTUhvQ2JwdFFQbUxYVG1Rd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggVERQIGRvZXMgdGhlIFJUWCA0MDAwIGhhdmU%2FIiwibGsiOiJHZ3R5ZEhnME1EQXdJSFJrY0EiLCJicyI6ImMzV056VXJEUUJSRzZYYWs0REprZGFseFB3d3UzQTJSVWhWQmdoWXN1THJOM1BrUk9sTW1ZLXBqLUdydWZRdGZ3R0NFT2dHWDM4ZmhISGJKcXB0d2dOMXJhMkc5YkVBRjZpQlpnb2YxQmk0NDUyQ3hKMWw4VldKZW5zVDA5dk1sdFdjTnEyNG42T05xQlNZRUJUcEVNTGh6M3NqaXN4SG41WmtiMFVFd29wM1dVNVM5c1BySllvSmZWam10S1pKdkNiYVVEa1QtV0txWE5hQlgtVEhrWmZIeExCYmxzWU1Lb2VfeVBiVFotNHpkX1kzZDkwNDV6SDJHUEVWTUxuZ3dFZmZXdFIyMEdDZFZ3YS12cEtoTDZVZEZsdnBYa1ZHQ2c5bWV6cjRCIiwiaWQiOiJmY19XSHBmYXBlTUhvQ2JwdFFQbUxYVG1Rd18xIn0%3D"
+    },
+    {
+      "question": "Is the RTX 4000 SFF good for gaming?",
+      "type": "featured_snippet",
+      "snippet": "And the new RTX 4000 ADA generation SFFF on average in gaming we see an improvement of about 68%. In average frame rates on the 4000 SFFF. But again it was the.",
+      "title": "This Tiny GPU Packs Some SERIOUS Power!!! - RTX 4000 Ada ... - YouTube",
+      "link": "https://www.youtube.com/watch?v=EV7cdY-cYM8",
+      "displayed_link": "https://www.youtube.com · Craft Computing",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiSXMgdGhlIFJUWCA0MDAwIFNGRiBnb29kIGZvciBnYW1pbmc/IiwibGsiOiJHaU5wY3lCMGFHVWdjblI0SURRd01EQWdjMlptSUdkdmIyUWdabTl5SUdkaGJXbHVadyIsImJzIjoiYzNXTnpVckRRQlJHNlhhazRESmtkYWx4UHd3dTNBMlJVaFZCZ2hZc3VMck4zUGtST2xNbVktcGotR3J1ZlF0ZndHQ0VPZ0dYMzhmaEhIYkpxcHR3Z04xcmEyRzliRUFGNmlCWmdvZjFCaTQ0NTJDeEoxbDhWV0plbnNUMDl2TWx0V2NOcTI0bjZPTnFCU1lFQlRwRU1MaHozc2ppc3hIbjVaa2IwVUV3b3AzV1U1UzlzUHJKWW9KZlZqbXRLWkp2Q2JhVURrVC1XS3FYTmFCWC1USGtaZkh4TEJibHNZTUtvZV95UGJUWi00emRfWTNkOTA0NXpIMkdQRVZNTG5nd0VmZld0UjIwR0NkVndhLXZwS2hMNlVkRmx2cFhrVkdDZzltZXpyNEIiLCJpZCI6ImZjX1dIcGZhcGVNSG9DYnB0UVBtTFhUbVF3XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiSXMgdGhlIFJUWCA0MDAwIFNGRiBnb29kIGZvciBnYW1pbmc%2FIiwibGsiOiJHaU5wY3lCMGFHVWdjblI0SURRd01EQWdjMlptSUdkdmIyUWdabTl5SUdkaGJXbHVadyIsImJzIjoiYzNXTnpVckRRQlJHNlhhazRESmtkYWx4UHd3dTNBMlJVaFZCZ2hZc3VMck4zUGtST2xNbVktcGotR3J1ZlF0ZndHQ0VPZ0dYMzhmaEhIYkpxcHR3Z04xcmEyRzliRUFGNmlCWmdvZjFCaTQ0NTJDeEoxbDhWV0plbnNUMDl2TWx0V2NOcTI0bjZPTnFCU1lFQlRwRU1MaHozc2ppc3hIbjVaa2IwVUV3b3AzV1U1UzlzUHJKWW9KZlZqbXRLWkp2Q2JhVURrVC1XS3FYTmFCWC1USGtaZkh4TEJibHNZTUtvZV95UGJUWi00emRfWTNkOTA0NXpIMkdQRVZNTG5nd0VmZld0UjIwR0NkVndhLXZwS2hMNlVkRmx2cFhrVkdDZzltZXpyNEIiLCJpZCI6ImZjX1dIcGZhcGVNSG9DYnB0UVBtTFhUbVF3XzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between RTX 4000 ADA and RTX 4000 ADA SFF?",
+      "type": "featured_snippet",
+      "snippet": "However, the full sized Nvidia RTX 4000 Ada Generation has slightly more memory bandwidth than its SFF sibling (360 GB/s vs 280 GB/sec). It also draws more power, and hence offers more performance. The Nvidia RTX 4000 Ada has 130W to play with compared to the SFF version, which has 70W.",
+      "title": "Review: Nvidia RTX 4000 Ada Generation - AEC Magazine",
+      "date": "Feb 1, 2024",
+      "link": "https://aecmag.com/workstations/review-nvidia-rtx-4000-ada-generation/",
+      "displayed_link": "https://aecmag.com › workstations › review-nvidia-rtx-4...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEVHcEyvHyOtHSGtHCCtGx-sHCCtGx-tHCCtHCCtGx-tHCCtHCCtHCCtHCCtGx8T9RX9AAAAD3RSTlMAEiVa_za9nkjvi3jSqmfV6UtdAAAAU0lEQVR4AWMgCIQYGJhdGFxcwlwcGdhdGjxXbcl2Z-C5ssCHYYvBdAaWNQdcXJYYMDCo9Dp41i4xEGB44uIEkvJhKNnr51kLUjyF1Q2sHW4gHgAAOcQWdKBZf2EAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIFJUWCA0MDAwIEFEQSBhbmQgUlRYIDQwMDAgQURBIFNGRj8iLCJsayI6ImM1TlNLQ3FwVURBeE1EQlFTRXhKVkNnclJ1VVhwNlVCQUEiLCJicyI6ImMzV056VXJEUUJSRzZYYWs0REprZGFseFB3d3UzQTJSVWhWQmdoWXN1THJOM1BrUk9sTW1ZLXBqLUdydWZRdGZ3R0NFT2dHWDM4ZmhISGJKcXB0d2dOMXJhMkc5YkVBRjZpQlpnb2YxQmk0NDUyQ3hKMWw4VldKZW5zVDA5dk1sdFdjTnEyNG42T05xQlNZRUJUcEVNTGh6M3NqaXN4SG41WmtiMFVFd29wM1dVNVM5c1BySllvSmZWam10S1pKdkNiYVVEa1QtV0txWE5hQlgtVEhrWmZIeExCYmxzWU1Lb2VfeVBiVFotNHpkX1kzZDkwNDV6SDJHUEVWTUxuZ3dFZmZXdFIyMEdDZFZ3YS12cEtoTDZVZEZsdnBYa1ZHQ2c5bWV6cjRCIiwiaWQiOiJmY19XSHBmYXBlTUhvQ2JwdFFQbUxYVG1Rd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIFJUWCA0MDAwIEFEQSBhbmQgUlRYIDQwMDAgQURBIFNGRj8iLCJsayI6ImM1TlNLQ3FwVURBeE1EQlFTRXhKVkNnclJ1VVhwNlVCQUEiLCJicyI6ImMzV056VXJEUUJSRzZYYWs0REprZGFseFB3d3UzQTJSVWhWQmdoWXN1THJOM1BrUk9sTW1ZLXBqLUdydWZRdGZ3R0NFT2dHWDM4ZmhISGJKcXB0d2dOMXJhMkc5YkVBRjZpQlpnb2YxQmk0NDUyQ3hKMWw4VldKZW5zVDA5dk1sdFdjTnEyNG42T05xQlNZRUJUcEVNTGh6M3NqaXN4SG41WmtiMFVFd29wM1dVNVM5c1BySllvSmZWam10S1pKdkNiYVVEa1QtV0txWE5hQlgtVEhrWmZIeExCYmxzWU1Lb2VfeVBiVFotNHpkX1kzZDkwNDV6SDJHUEVWTUxuZ3dFZmZXdFIyMEdDZFZ3YS12cEtoTDZVZEZsdnBYa1ZHQ2c5bWV6cjRCIiwiaWQiOiJmY19XSHBmYXBlTUhvQ2JwdFFQbUxYVG1Rd18xIn0%3D"
+    },
+    {
+      "question": "What is the Nvidia RTX 4000 ADA generation graphics card RTX 4000 ADA 20GB?",
+      "type": "ai_overview",
+      "page_token": "ftmiYHicHdDbboIwAIDh7GW8VE66aGKWoK3KAqb0APRmoa2KUKBOJ8jd3mVPtaeZ2RP8-f7vH31uqt-Xe3G7metiMum6bnxq25M-jGVbT_Lro5ETmWstclktZq8z--0ol-Br568uOx9RY9g6trA2W6Hn6z0IQgJ0Imp2kVbvHUoY5w7oooFBso7fEbUrXPrnGHA3KitHJJyEltlzXQR5qpDaMCdPgBtBHfFtcCEE2IIWlmjiKrSKRNDpVYG-w6mPEgpDXLJONcjhwDzbRtOhGLLqNhVsjrF18oSjEYYcJnXBiNOjPch6mcwNG7TNieIZ7VcS2x5rfDcj_KGgQYfK-KBQKd76dZb6mtDijpygUxAiQfuMbexY9e0Z0XiQpa4ZNOewDvapDWtM1CyGoadctn2aEU6Mh92IUDQ6yvvSHf3_XH4c69vCfLanPzFwg0Y",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ftmiYHicHdDbboIwAIDh7GW8VE66aGKWoK3KAqb0APRmoa2KUKBOJ8jd3mVPtaeZ2RP8-f7vH31uqt-Xe3G7metiMum6bnxq25M-jGVbT_Lro5ETmWstclktZq8z--0ol-Br568uOx9RY9g6trA2W6Hn6z0IQgJ0Imp2kVbvHUoY5w7oooFBso7fEbUrXPrnGHA3KitHJJyEltlzXQR5qpDaMCdPgBtBHfFtcCEE2IIWlmjiKrSKRNDpVYG-w6mPEgpDXLJONcjhwDzbRtOhGLLqNhVsjrF18oSjEYYcJnXBiNOjPch6mcwNG7TNieIZ7VcS2x5rfDcj_KGgQYfK-KBQKd76dZb6mtDijpygUxAiQfuMbexY9e0Z0XiQpa4ZNOewDvapDWtM1CyGoadctn2aEU6Mh92IUDQ6yvvSHf3_XH4c69vCfLanPzFwg0Y",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgTnZpZGlhIFJUWCA0MDAwIEFEQSBnZW5lcmF0aW9uIGdyYXBoaWNzIGNhcmQgUlRYIDQwMDAgQURBIDIwR0I/IiwibGsiOiJjNU95enl2TFRNbE1WQ2dxcVZBd01UQXdVRWhNU1ZSSVQ4MUxMVW9zeWN6UFUwZ3ZTaXpJeUV3dVZraE9MRXBCVldWa29KQ2VCQUEiLCJicyI6ImMzV056VXJEUUJSRzZYYWs0REprZGFseFB3d3UzQTJSVWhWQmdoWXN1THJOM1BrUk9sTW1ZLXBqLUdydWZRdGZ3R0NFT2dHWDM4ZmhISGJKcXB0d2dOMXJhMkc5YkVBRjZpQlpnb2YxQmk0NDUyQ3hKMWw4VldKZW5zVDA5dk1sdFdjTnEyNG42T05xQlNZRUJUcEVNTGh6M3NqaXN4SG41WmtiMFVFd29wM1dVNVM5c1BySllvSmZWam10S1pKdkNiYVVEa1QtV0txWE5hQlgtVEhrWmZIeExCYmxzWU1Lb2VfeVBiVFotNHpkX1kzZDkwNDV6SDJHUEVWTUxuZ3dFZmZXdFIyMEdDZFZ3YS12cEtoTDZVZEZsdnBYa1ZHQ2c5bWV6cjRCIiwiaWQiOiJmY19XSHBmYXBlTUhvQ2JwdFFQbUxYVG1Rd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGQyWmpWMHAwTjNaS1FtbHlaVjlCWjJ0RlMxRlRhV1JwU2kweWFGOTBRek5sTVRSS1VYTjBabEY2YUdKR1ZWWjZaMnhCZG5aQlRrcG1lRUZLY2xadldGSlRUbGRuUVc5Qlkwb3piRXhQY0V3NGQyaEhSa1pOUWxsUVFSSVhWMGh3Wm1Gd1pVMUliME5pY0hSUlVHMU1XRlJ0VVhjYUlrRkVjM0k1WmxKM09WTlhiVEJyYnpGM05HUXpZV1pTYUZCWWRUZzBjRE5NWWxFIiwiZmN2IjoiMyIsImVpIjoiV0hwZmFwZU1Ib0NicHRRUG1MWFRtUXciLCJxYyI6ImN3WEJNUTdDTUF3RlVHWW1qdkNQRUNGMk5nWVdqaENGMkUwaTRkaHlVOUlPM0ozM3psb05fZHVvSmZqWWNRc2hZRjBXSkVxNGh2Skc4V1MxWmVUa2hHSWJQdHpMcUZFRXdxSi14SEVZdzNTeXg2eTljeDdxSzV5emluQW5wbWpyRmljR1daeVgwLV81ZXR6XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgTnZpZGlhIFJUWCA0MDAwIEFEQSBnZW5lcmF0aW9uIGdyYXBoaWNzIGNhcmQgUlRYIDQwMDAgQURBIDIwR0I%2FIiwibGsiOiJjNU95enl2TFRNbE1WQ2dxcVZBd01UQXdVRWhNU1ZSSVQ4MUxMVW9zeWN6UFUwZ3ZTaXpJeUV3dVZraE9MRXBCVldWa29KQ2VCQUEiLCJicyI6ImMzV056VXJEUUJSRzZYYWs0REprZGFseFB3d3UzQTJSVWhWQmdoWXN1THJOM1BrUk9sTW1ZLXBqLUdydWZRdGZ3R0NFT2dHWDM4ZmhISGJKcXB0d2dOMXJhMkc5YkVBRjZpQlpnb2YxQmk0NDUyQ3hKMWw4VldKZW5zVDA5dk1sdFdjTnEyNG42T05xQlNZRUJUcEVNTGh6M3NqaXN4SG41WmtiMFVFd29wM1dVNVM5c1BySllvSmZWam10S1pKdkNiYVVEa1QtV0txWE5hQlgtVEhrWmZIeExCYmxzWU1Lb2VfeVBiVFotNHpkX1kzZDkwNDV6SDJHUEVWTUxuZ3dFZmZXdFIyMEdDZFZ3YS12cEtoTDZVZEZsdnBYa1ZHQ2c5bWV6cjRCIiwiaWQiOiJmY19XSHBmYXBlTUhvQ2JwdFFQbUxYVG1Rd18xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "JeXBj3icxZXrkqI4FMcfYJ9j-UK34qVVuoqaSvCG4y22tm1_objEoAKhAWWYb_Mu-1T7NBtQFG21a7Zqa0-VhISTk5Pk_Pz_-steuZu__-hbYegFz8ViFEUFQimxccGgTlELYtcoLqkd-Ib1jdjSNuAsW8IuF9Ctb-CVKRmWTx3MxTupwhmBJHB4Jc273lLz8KBLZd0L0djpv00dFHFpOEnVtQCv2Wo_1kFRLbLH5s9Kk3UKQQG7BdEcY6z7IyySQlkoiYVRUXOYA_hvjYBV8iBAYR3l02cZEPRVANBKnvLJLwvTyrlFaQ9CFjH1kG_GI2mzagEWcAzdJysAoLMf3NxLpHfebSdTFASTTSjyPtFLu7Y1mLUo37tqVz7CQ9xs69W7ayWmKOdx2LotNR1C56so-SAoGV6kryMEcDMCVkS-38lVpqDZIS-IXLvlvHnAGmfr6EBgF1U0CatDoaj7rCkVV4ZlpC9-kJSnPBUF2olqKx1XwGjmLY3qhzmuPMoTRXuEcwEVDZ352VQzsalaqvAt7ZfKpSdBrNQbDykXRnAEIzgDY2bb-qjbHyBa6BdgKUcFOZ5KzpLBydVjzg7vyoTDEZNW-hJnn2j2Ailik08T200FRgBkaFaTWmuSzxXNYl-hIrUjGgOQUpEmJ-_bQ6B8VRBynJCro-7FevkMYBZeVhh72Vjn5IDkcwblScJXBsngPBSyWvvygy8HlxGsHjeRroVytMv7LSIC4flWlP0Oqjm_5GIIK2X0zvo9Qo5_Rukk5ZDQcd1TUuf0sSsg8qx1l9dbdo-bgxGQlf9FNecpaIXv6mA4q_YG_fbQ3uGSVqq7-svw5wuNrlc9dfTf0APjf-ciVQuaqcUVLqwvuEjVgtxWi0MRRRkXqd93KN_kYi8J52rRvVCLa1z0zrk4qQW6UIsTF0kq97mA97iAt7hgf_ifuEA3uMjUIsfF5kIt4PFUk6ETF7-vFtq_U4sUE7xvzqVjuya3JSQox-xSqr3yu0CNuG6WkbnoWL6NHr-WkKUTPjuaaT-oK_MZlnthbD6obIA-Y5P7kLpjfviqNBXAT6ZvfFUQBP6l3eaBqfFloQP5jq951srgZc03eeJteRu7JLRUx-Ed7FA_VsPYw7xHI-yrBnVdbITUD3g_IdjBbpKWF2zViA9NT404x_apJGi1nfZI-_FO_HhbjDVfiV93o3AuNjQ0e13MB7WZSzWBlEZtff0eI6UVzduOW9am5mbQNraN2S7a1BoOKTmwu4CT3bS100W7_GO5DlxNf1M-Xjeg8tZT1PjdFrbDcFnrtOo_myIKK-WWZ6PhuIJe2-66Od7OOk_6FqR5BdLUNSbRYzCu9xac4xsSq8oqAUME5gQaQGYlJxP2o-wXsbvlAkNTcbCTyqa4FJ_qgqY3nrRGDXMOYcciiQIXuL5U-gcc4UBN",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JeXBj3icxZXrkqI4FMcfYJ9j-UK34qVVuoqaSvCG4y22tm1_objEoAKhAWWYb_Mu-1T7NBtQFG21a7Zqa0-VhISTk5Pk_Pz_-steuZu__-hbYegFz8ViFEUFQimxccGgTlELYtcoLqkd-Ib1jdjSNuAsW8IuF9Ctb-CVKRmWTx3MxTupwhmBJHB4Jc273lLz8KBLZd0L0djpv00dFHFpOEnVtQCv2Wo_1kFRLbLH5s9Kk3UKQQG7BdEcY6z7IyySQlkoiYVRUXOYA_hvjYBV8iBAYR3l02cZEPRVANBKnvLJLwvTyrlFaQ9CFjH1kG_GI2mzagEWcAzdJysAoLMf3NxLpHfebSdTFASTTSjyPtFLu7Y1mLUo37tqVz7CQ9xs69W7ayWmKOdx2LotNR1C56so-SAoGV6kryMEcDMCVkS-38lVpqDZIS-IXLvlvHnAGmfr6EBgF1U0CatDoaj7rCkVV4ZlpC9-kJSnPBUF2olqKx1XwGjmLY3qhzmuPMoTRXuEcwEVDZ352VQzsalaqvAt7ZfKpSdBrNQbDykXRnAEIzgDY2bb-qjbHyBa6BdgKUcFOZ5KzpLBydVjzg7vyoTDEZNW-hJnn2j2Ailik08T200FRgBkaFaTWmuSzxXNYl-hIrUjGgOQUpEmJ-_bQ6B8VRBynJCro-7FevkMYBZeVhh72Vjn5IDkcwblScJXBsngPBSyWvvygy8HlxGsHjeRroVytMv7LSIC4flWlP0Oqjm_5GIIK2X0zvo9Qo5_Rukk5ZDQcd1TUuf0sSsg8qx1l9dbdo-bgxGQlf9FNecpaIXv6mA4q_YG_fbQ3uGSVqq7-svw5wuNrlc9dfTf0APjf-ciVQuaqcUVLqwvuEjVgtxWi0MRRRkXqd93KN_kYi8J52rRvVCLa1z0zrk4qQW6UIsTF0kq97mA97iAt7hgf_ifuEA3uMjUIsfF5kIt4PFUk6ETF7-vFtq_U4sUE7xvzqVjuya3JSQox-xSqr3yu0CNuG6WkbnoWL6NHr-WkKUTPjuaaT-oK_MZlnthbD6obIA-Y5P7kLpjfviqNBXAT6ZvfFUQBP6l3eaBqfFloQP5jq951srgZc03eeJteRu7JLRUx-Ed7FA_VsPYw7xHI-yrBnVdbITUD3g_IdjBbpKWF2zViA9NT404x_apJGi1nfZI-_FO_HhbjDVfiV93o3AuNjQ0e13MB7WZSzWBlEZtff0eI6UVzduOW9am5mbQNraN2S7a1BoOKTmwu4CT3bS100W7_GO5DlxNf1M-Xjeg8tZT1PjdFrbDcFnrtOo_myIKK-WWZ6PhuIJe2-66Od7OOk_6FqR5BdLUNSbRYzCu9xac4xsSq8oqAUME5gQaQGYlJxP2o-wXsbvlAkNTcbCTyqa4FJ_qgqY3nrRGDXMOYcciiQIXuL5U-gcc4UBN"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NVIDIA RTX 4000 SFF Ada Generation Graphics Card",
+      "link": "https://www.nvidia.com/en-us/products/workstations/rtx-4000-sff/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-4000-sff%2F&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECBgQAQ",
+      "displayed_link": "https://www.nvidia.com › en-us › products › workstations",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg",
+      "snippet": "The RTX 4000 SFF is a compact powerhouse, combining third-gen RT Cores, fourth-gen Tensor Cores, and next-gen CUDA® cores with 20GB of graphics memory.",
+      "snippet_highlighted_words": [
+        "RTX 4000 SFF",
+        "20GB",
+        "graphics memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The RTX 4000 SFF is a compact powerhouse, combining third-gen RT Cores, fourth-gen Tensor Cores, and next-gen CUDA® cores with 20GB of graphics memory.",
+          "source_info_link": "https://www.nvidia.com/en-us/products/workstations/rtx-4000-sff/",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-4000-sff%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-4000-sff%2F",
+      "source": "NVIDIA",
+      "read_more_link": "https://www.nvidia.com/en-us/products/workstations/rtx-4000-sff/"
+    },
+    {
+      "position": 2,
+      "title": "NVIDIA RTX 4000 SFF Ada Generation Specs",
+      "link": "https://www.techpowerup.com/gpu-specs/rtx-4000-sff-ada-generation.c4139",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-4000-sff-ada-generation.c4139&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECB8QAQ",
+      "displayed_link": "https://www.techpowerup.com › gpu-specs › rtx-4000-s...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "Being a dual-slot card, the NVIDIA RTX 4000 SFF Ada Generation does not require any additional power connector, its power draw is rated at 70 W maximum. Display ...",
+      "snippet_highlighted_words": [
+        "card",
+        "NVIDIA RTX 4000 SFF Ada",
+        "Display"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Being a dual-slot card, the NVIDIA RTX 4000 SFF Ada Generation does not require any additional power connector, its power draw is rated at 70 W maximum. Display ...",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/rtx-4000-sff-ada-generation.c4139",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-4000-sff-ada-generation.c4139&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-4000-sff-ada-generation.c4139",
+      "source": "TechPowerUp",
+      "read_more_link": "https://www.techpowerup.com/gpu-specs/rtx-4000-sff-ada-generation.c4139"
+    },
+    {
+      "position": 3,
+      "title": "PNY NVIDIA RTX™ 4000 SFF Ada Graphic Card",
+      "link": "https://www.dell.com/en-us/shop/pny-nvidia-rtx-4000-sff-ada-graphic-card-20-gb-gddr6-low-profile/apd/ac555729/graphic-video-cards",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fpny-nvidia-rtx-4000-sff-ada-graphic-card-20-gb-gddr6-low-profile%2Fapd%2Fac555729%2Fgraphic-video-cards&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECBwQAQ",
+      "displayed_link": "https://www.dell.com › ... › Graphic & Video Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png",
+      "snippet": "Built with 20GB GDDR6 memory, the NVIDIA RTX 4000 SFF Ada provides an ideal memory footprint to address datasets and models in latency-sensitive professional ...",
+      "snippet_highlighted_words": [
+        "20GB",
+        "memory",
+        "NVIDIA RTX 4000 SFF Ada",
+        "memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Built with 20GB GDDR6 memory, the NVIDIA RTX 4000 SFF Ada provides an ideal memory footprint to address datasets and models in latency-sensitive professional ...",
+          "source_info_link": "https://www.dell.com/en-us/shop/pny-nvidia-rtx-4000-sff-ada-graphic-card-20-gb-gddr6-low-profile/apd/ac555729/graphic-video-cards",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fpny-nvidia-rtx-4000-sff-ada-graphic-card-20-gb-gddr6-low-profile%2Fapd%2Fac555729%2Fgraphic-video-cards&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fpny-nvidia-rtx-4000-sff-ada-graphic-card-20-gb-gddr6-low-profile%2Fapd%2Fac555729%2Fgraphic-video-cards",
+      "source": "Dell"
+    },
+    {
+      "position": 4,
+      "title": "NVIDIA RTX 4000 SFF Ada Generation Datasheet",
+      "link": "https://www.pny.com/file%20library/company/support/product%20brochures/nvidia%20rtx/english/proviz-rtx-4000-sff-ada-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.pny.com%2Ffile%2520library%2Fcompany%2Fsupport%2Fproduct%2520brochures%2Fnvidia%2520rtx%2Fenglish%2Fproviz-rtx-4000-sff-ada-datasheet.pdf&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECCEQAQ",
+      "displayed_link": "https://www.pny.com › nvidia rtx › english › prov...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png",
+      "snippet": "Built on the NVIDIA Ada Lovelace architecture, the RTX 4000 SFF combines 48 third-generation RT Cores, 192 fourth-generation Tensor Cores, and 6,144 CUDA® cores ...",
+      "snippet_highlighted_words": [
+        "NVIDIA Ada",
+        "RTX 4000 SFF"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Built on the NVIDIA Ada Lovelace architecture, the RTX 4000 SFF combines 48 third-generation RT Cores, 192 fourth-generation Tensor Cores, and 6,144 CUDA® cores ...",
+          "source_info_link": "https://www.pny.com/file%20library/company/support/product%20brochures/nvidia%20rtx/english/proviz-rtx-4000-sff-ada-datasheet.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.pny.com%2Ffile+library%2Fcompany%2Fsupport%2Fproduct+brochures%2Fnvidia+rtx%2Fenglish%2Fproviz-rtx-4000-sff-ada-datasheet.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pny.com%2Ffile%2520library%2Fcompany%2Fsupport%2Fproduct%2520brochures%2Fnvidia%2520rtx%2Fenglish%2Fproviz-rtx-4000-sff-ada-datasheet.pdf",
+      "source": "PNY.com",
+      "read_more_link": "https://www.pny.com/file%20library/company/support/product%20brochures/nvidia%20rtx/english/proviz-rtx-4000-sff-ada-datasheet.pdf"
+    },
+    {
+      "position": 5,
+      "title": "NVIDIA Quadro RTX 4000 SFF 20GB Graphics Card Review",
+      "link": "https://www.monitors.com/products/nvidia-quadro-rtx-4000-sff-ada?srsltid=AfmBOopjEi9t5prYIO-lCloKttomfrqADnyL2QwSmlHklxN9AUT_w9RP",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.monitors.com%2Fproducts%2Fnvidia-quadro-rtx-4000-sff-ada%3Fsrsltid%3DAfmBOopjEi9t5prYIO-lCloKttomfrqADnyL2QwSmlHklxN9AUT_w9RP&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECCAQAQ",
+      "displayed_link": "https://www.monitors.com › products › nvidia-quadro-r...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABwklEQVR4Ae3VQ5gcARCG4Ypt2_cnNk6xbdvmJbaTtW3btm3bNmq7em27D9945h3-A9vu7-7SOLDxOJAD0XHEErQdJcD0uFR_4qx2P7BkzGwQDjsLSilCIJe4qRaILkOHlhqP_4B2oxDNxqeVGkyyo_NFMtNWtxbae0JrFQiFvYC_fsYgFhkM0rHIomoZw6pB52HD0Gm4KAuajscSnSlYrDwdi2WmueaLzJZoCQz3DffAXUMdeO_kBl_cSxkQQTAUK0DRhkDhumCh9EwsFpuMef_nJuZ-n-eQ-2He2VrIBfWhcFb1GUEMmAzPLYrhjQM2AAq1Csz_M5Ot8PPkFMrrysZXsE32x8DjSgUU3NFHtueW2KGgz41tqL_iBWrN_YmmM3_gzWUC2CkgQWJLfqDQnL8oP_9XFeg-_juGDP3GXrbliFrHgVqHH-O_BX8IrQXaTftdhdLpdWd1uxbcd0KrFsiBYp0IitYDaUMZ0I1mjaKVqUzryGMHsYW_qjKY_ZPNdsoPBwZ0CBn-zcF-5j8HBnRgl4biDXKgaN5o6gisP95WY1ZTNGU1Y17hKsMZP5uN3dHvXstrRsNNQ957_g85kAPLABSkuF9mKrcdAAAAAElFTkSuQmCC.png",
+      "snippet": "Memory 20GB GDDR6 Memory Interface 160-bit Memory Bandwidth 280 GB/s Power Consumption 70W ・ 4 x mini DisplayPort 1.4a Weight 2.0 lbs (0.90 kg) (800) 801-8432 ...",
+      "snippet_highlighted_words": [
+        "Memory 20GB GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Memory 20GB GDDR6 Memory Interface 160-bit Memory Bandwidth 280 GB/s Power Consumption 70W ・ 4 x mini DisplayPort 1.4a Weight 2.0 lbs (0.90 kg) (800) 801-8432 ...",
+          "source_info_link": "https://www.monitors.com/products/nvidia-quadro-rtx-4000-sff-ada?srsltid=AfmBOopjEi9t5prYIO-lCloKttomfrqADnyL2QwSmlHklxN9AUT_w9RP",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABwklEQVR4Ae3VQ5gcARCG4Ypt2_cnNk6xbdvmJbaTtW3btm3bNmq7em27D9945h3-A9vu7-7SOLDxOJAD0XHEErQdJcD0uFR_4qx2P7BkzGwQDjsLSilCIJe4qRaILkOHlhqP_4B2oxDNxqeVGkyyo_NFMtNWtxbae0JrFQiFvYC_fsYgFhkM0rHIomoZw6pB52HD0Gm4KAuajscSnSlYrDwdi2WmueaLzJZoCQz3DffAXUMdeO_kBl_cSxkQQTAUK0DRhkDhumCh9EwsFpuMef_nJuZ-n-eQ-2He2VrIBfWhcFb1GUEMmAzPLYrhjQM2AAq1Csz_M5Ot8PPkFMrrysZXsE32x8DjSgUU3NFHtueW2KGgz41tqL_iBWrN_YmmM3_gzWUC2CkgQWJLfqDQnL8oP_9XFeg-_juGDP3GXrbliFrHgVqHH-O_BX8IrQXaTftdhdLpdWd1uxbcd0KrFsiBYp0IitYDaUMZ0I1mjaKVqUzryGMHsYW_qjKY_ZPNdsoPBwZ0CBn-zcF-5j8HBnRgl4biDXKgaN5o6gisP95WY1ZTNGU1Y17hKsMZP5uN3dHvXstrRsNNQ957_g85kAPLABSkuF9mKrcdAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.monitors.com%2Fproducts%2Fnvidia-quadro-rtx-4000-sff-ada%3Fsrsltid%3DAfmBOopjEi9t5prYIO-lCloKttomfrqADnyL2QwSmlHklxN9AUT_w9RP&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.monitors.com%2Fproducts%2Fnvidia-quadro-rtx-4000-sff-ada%3Fsrsltid%3DAfmBOopjEi9t5prYIO-lCloKttomfrqADnyL2QwSmlHklxN9AUT_w9RP",
+      "source": "Monitors.com"
+    },
+    {
+      "position": 6,
+      "title": "PNY NVIDIA RTX 4000 SFF Ada Gen OEM",
+      "link": "https://www.amazon.com/PNY-NVIDIA-RTX-4000-SFF/dp/B0C2KNGV5L",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FPNY-NVIDIA-RTX-4000-SFF%2Fdp%2FB0C2KNGV5L&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECB0QAQ",
+      "displayed_link": "https://www.amazon.com › PNY-NVIDIA-RTX-4000-SFF",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "NVIDIA RTX 4000 SFF Ada Gen OEM: Size 2 GB Video Output Interface … offers graphics cards, storage solutions, and memory products for PC enthusiasts and gamers ...",
+      "snippet_highlighted_words": [
+        "NVIDIA RTX 4000 SFF Ada",
+        "Video",
+        "graphics cards",
+        "memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVIDIA RTX 4000 SFF Ada Gen OEM: Size 2 GB Video Output Interface … offers graphics cards, storage solutions, and memory products for PC enthusiasts and gamers ...",
+          "source_info_link": "https://www.amazon.com/PNY-NVIDIA-RTX-4000-SFF/dp/B0C2KNGV5L",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FPNY-NVIDIA-RTX-4000-SFF%2Fdp%2FB0C2KNGV5L&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FPNY-NVIDIA-RTX-4000-SFF%2Fdp%2FB0C2KNGV5L",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 7,
+      "title": "RTX 4000 Ada Generation Graphics Card",
+      "link": "https://www.nvidia.com/en-us/products/workstations/rtx-4000/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-4000%2F&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECBsQAQ",
+      "displayed_link": "https://www.nvidia.com › en-us › products › workstations",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg",
+      "snippet": "With 20GB GDDR6 memory, RTX 4000 gives designers, engineers, and creative professionals the large memory needed to work with large models, datasets and ...",
+      "snippet_highlighted_words": [
+        "20GB",
+        "memory",
+        "RTX 4000",
+        "memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With 20GB GDDR6 memory, RTX 4000 gives designers, engineers, and creative professionals the large memory needed to work with large models, datasets and ...",
+          "source_info_link": "https://www.nvidia.com/en-us/products/workstations/rtx-4000/",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-4000%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-4000%2F",
+      "source": "NVIDIA",
+      "read_more_link": "https://www.nvidia.com/en-us/products/workstations/rtx-4000/"
+    },
+    {
+      "position": 8,
+      "title": "PNY NVIDIA RTX™ 4000 SFF Ada Graphic Card",
+      "link": "https://www.pcnation.com/pny-vcnrtx4000adalp-pb-10mr51?srsltid=AfmBOoom8CW1-xMePe0r50EqrKtIsz4z8jaegt8s4vKAYYq4p1_H57J-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.pcnation.com%2Fpny-vcnrtx4000adalp-pb-10mr51%3Fsrsltid%3DAfmBOoom8CW1-xMePe0r50EqrKtIsz4z8jaegt8s4vKAYYq4p1_H57J-&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECB4QAQ",
+      "displayed_link": "https://www.pcnation.com › ... › Video Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEX_______768_D88PD79fT46eX11s_9-_n6-_n19PP8_Pz29vPfRD3dODPeT0bjaGD00c3bOjaRjYQ0MSqzsavt7Oc-PDXldXP34t7TFBH1y8bfTkvspaDn494NCwhpaGWKhIDnfn3qkYzlh35NRz6sqaThY13VHhz--vrwvLeCfnXXLCmnoZkeHBhWU0_jfHOYlZApJyPU0c30s7FbV1PunZV1cWvjdGlyaV9G3riAAAAAsElEQVR4AVTIAxbDQAAFwB91Y9aObd7_YjXneQCKwh-KZthbcTPCCyIkHrSsqBrRDVUzrfliaYJaKevNdrdn1MPxJJ4PgG1QirPh4AqeJfrCI4wgjBALyfHwjCgMUgIiZLn_iHCfrgwREPzi9IxyaysUIPlV_QhDhJNGoCS_OZ4fAbQbGjrtk7x4xXqjw2F9dLkAUUsZiLsg7ptBrG5Bj2MM6HLAZJNwmHi8RBGuwwEAtToRFjYswYUAAAAASUVORK5CYII.png",
+      "snippet": "PNY NVIDIA RTX 4000 SFF Ada Graphic Card - 20 GB GDDR6 - Low-profile · 7680 x 4320 · 160 bit Bus Width · PCI Express 4.0 x16 · 4 x Mini DisplayPort · Mini ...",
+      "snippet_highlighted_words": [
+        "PNY NVIDIA RTX 4000 SFF Ada Graphic Card"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "PNY NVIDIA RTX 4000 SFF Ada Graphic Card - 20 GB GDDR6 - Low-profile · 7680 x 4320 · 160 bit Bus Width · PCI Express 4.0 x16 · 4 x Mini DisplayPort · Mini ...",
+          "source_info_link": "https://www.pcnation.com/pny-vcnrtx4000adalp-pb-10mr51?srsltid=AfmBOoom8CW1-xMePe0r50EqrKtIsz4z8jaegt8s4vKAYYq4p1_H57J-",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEX_______768_D88PD79fT46eX11s_9-_n6-_n19PP8_Pz29vPfRD3dODPeT0bjaGD00c3bOjaRjYQ0MSqzsavt7Oc-PDXldXP34t7TFBH1y8bfTkvspaDn494NCwhpaGWKhIDnfn3qkYzlh35NRz6sqaThY13VHhz--vrwvLeCfnXXLCmnoZkeHBhWU0_jfHOYlZApJyPU0c30s7FbV1PunZV1cWvjdGlyaV9G3riAAAAAsElEQVR4AVTIAxbDQAAFwB91Y9aObd7_YjXneQCKwh-KZthbcTPCCyIkHrSsqBrRDVUzrfliaYJaKevNdrdn1MPxJJ4PgG1QirPh4AqeJfrCI4wgjBALyfHwjCgMUgIiZLn_iHCfrgwREPzi9IxyaysUIPlV_QhDhJNGoCS_OZ4fAbQbGjrtk7x4xXqjw2F9dLkAUUsZiLsg7ptBrG5Bj2MM6HLAZJNwmHi8RBGuwwEAtToRFjYswYUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.pcnation.com%2Fpny-vcnrtx4000adalp-pb-10mr51%3Fsrsltid%3DAfmBOoom8CW1-xMePe0r50EqrKtIsz4z8jaegt8s4vKAYYq4p1_H57J-&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pcnation.com%2Fpny-vcnrtx4000adalp-pb-10mr51%3Fsrsltid%3DAfmBOoom8CW1-xMePe0r50EqrKtIsz4z8jaegt8s4vKAYYq4p1_H57J-",
+      "source": "PCNation",
+      "read_more_link": "https://www.pcnation.com/pny-vcnrtx4000adalp-pb-10mr51?srsltid=AfmBOoom8CW1-xMePe0r50EqrKtIsz4z8jaegt8s4vKAYYq4p1_H57J-"
+    },
+    {
+      "position": 9,
+      "title": "NVIDIA RTX 4000 SFF Ada 20GB Graphics card, Industrial ...",
+      "link": "https://www.newegg.com/p/1FT-0004-00904?srsltid=AfmBOoroefi-3ualFNADr_abhG_CXIeZR7FgHEX2dVUN_7dyOBqD3rme",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fp%2F1FT-0004-00904%3Fsrsltid%3DAfmBOoroefi-3ualFNADr_abhG_CXIeZR7FgHEX2dVUN_7dyOBqD3rme&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQFnoECCIQAQ",
+      "displayed_link": "https://www.newegg.com › ... › NVIDIA",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "date": "Jun 6, 2025",
+      "snippet": "NVIDIA RTX 4000 SFF Ada 20GB Graphics card, Industrial Package, GDDR6 ECC Memory, 160bit, 280GB/s, PCle 4.0 x16, High-performance acceleration, ...",
+      "snippet_highlighted_words": [
+        "NVIDIA RTX 4000 SFF Ada 20GB Graphics card"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVIDIA RTX 4000 SFF Ada 20GB Graphics card, Industrial Package, GDDR6 ECC Memory, 160bit, 280GB/s, PCle 4.0 x16, High-performance acceleration, ...",
+          "source_info_link": "https://www.newegg.com/p/1FT-0004-00904?srsltid=AfmBOoroefi-3ualFNADr_abhG_CXIeZR7FgHEX2dVUN_7dyOBqD3rme",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2F1FT-0004-00904%3Fsrsltid%3DAfmBOoroefi-3ualFNADr_abhG_CXIeZR7FgHEX2dVUN_7dyOBqD3rme&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2F1FT-0004-00904%3Fsrsltid%3DAfmBOoroefi-3ualFNADr_abhG_CXIeZR7FgHEX2dVUN_7dyOBqD3rme",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/p/1FT-0004-00904?srsltid=AfmBOoroefi-3ualFNADr_abhG_CXIeZR7FgHEX2dVUN_7dyOBqD3rme"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 4000 Ada Datasheet",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+4000+Ada+Datasheet&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+4000+Ada+Datasheet"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 4000 SFF datasheet",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+4000+SFF+datasheet&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+4000+SFF+datasheet"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 4000 SFF Ada Generation graphics card",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+4000+SFF+Ada+Generation+graphics+card&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+4000+SFF+Ada+Generation+graphics+card"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 4000 SFF price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+4000+SFF+price&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+4000+SFF+price"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 4000 SFF Blackwell",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+4000+SFF+Blackwell&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+4000+SFF+Blackwell"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 4000 Ada low profile",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+4000+Ada+low+profile&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+4000+Ada+low+profile"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 4000 price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+4000+price&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+4000+price"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 2000 Ada SFF",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+2000+Ada+SFF&sa=X&ved=2ahUKEwiXmOOE9uOVAxWAjYkEHZjaNMMQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+2000+Ada+SFF"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=HP+NVIDIA+RTX+4000+SFF+Ada+20GB+Graphic+Card+gpu+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

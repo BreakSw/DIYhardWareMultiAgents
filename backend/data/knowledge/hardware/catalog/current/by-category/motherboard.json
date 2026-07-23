@@ -1,0 +1,913 @@
+[
+  {
+    "category": "motherboard",
+    "brand": "ASRock",
+    "model": "ASRock Z690 Taichi Razer Edition Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "socket": "LGA 1700",
+      "chipset": "Intel Z690",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": "4",
+      "max_memory_gb": "128",
+      "pcie_slots": "Top two full-length slots connect via the CPU (PCIe 5.0, run at x16/x0 or x8/x8)"
+    },
+    "price": {
+      "reference_usd": "399.99",
+      "reference_cny": "2706.36",
+      "offers": [
+        {
+          "merchant": "Maingear",
+          "url": "https://maingear.com/products/asrock-z690-taichi-razer?srsltid=AfmBOopMyysCMAcITuorrjBVaBH7zsZPJwsr2pkkgJ4vyGgT2kD8WxJfNOs",
+          "price_usd": "228.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - paymore_reston",
+          "url": "https://www.ebay.com/itm/206318987148?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooDeNur8BwQYczmPA4YBKRxirGhCHN4iMlQygWUTo58iePnSPSxTEA",
+          "price_usd": "399.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "PayMore Reston",
+          "url": "https://restonva.paymore.com/products/asrock-z690-taichi-razer-edition-lga-1700-atx-intel-ddr5-motherboard-1780477007434-gfcewdb2z?store_code=VA01&srsltid=AfmBOooUUWEuy8L9lqgjl6wJWj3bn0UtlOT85LzGIX099uAKjhvNFBcSlEY",
+          "price_usd": "399.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/Specification.asp",
+      "https://www.asrock.com/mb/Intel/Z690%20Taichi%20Razer%20Edition/",
+      "https://www.reddit.com/r/buildapcsales/comments/15wyq18/motherboard_asrock_z690_taichi_razer_edition_atx/",
+      "https://maingear.com/products/asrock-z690-taichi-razer?srsltid=AfmBOoo65uDQMpRqMuBwo-dq-GgDAEtDEz96rnozCrQRfOMeedmxg1T9",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=15",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=272",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=290",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=326",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=476",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=573",
+      "https://www.youtube.com/watch?v=RgsTBcGzg6Y&t=621",
+      "https://www.tomshardware.com/reviews/asrock-z690-taichi-razer-edition",
+      "https://www.reddit.com/r/ASRock/comments/vxtc7t/help_please_z690_taichi_razer_edition_not_booting/",
+      "https://download.asrock.com/Manual/Z690%20Taichi%20Razer%20Edition.pdf",
+      "https://www.amazon.com/motherboards-Motherboard-I7-14700-I9-13900-I5-13400/dp/B0G9GDJ6JM"
+    ],
+    "fetched_at": "2026-07-21T13:55:44.493882+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "e115cc84e63e838149faa007ba00197eceaf283e0d05e27b27cda2ce10101c37",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "19"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "ASUS",
+    "model": "ASUS ROG Crosshair X870E HERO BTF Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "chipset": "AMD",
+      "form_factor": "ATX",
+      "memory_type": "DDR",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "886.3",
+      "reference_cny": "5996.77",
+      "offers": [
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.centralcomputer.com/asus-rog-crosshair-x870e-hero-btf-atx-motherboard-am5-ryzen-9000-7000-socket-am5-lga-17184-4x-ddr5-dimm-2-x-pcie-5-0-x16-slots.html?srsltid=AfmBOoppv2qDNTAmpfgTJwHQXWExbJG5_oz7BnE6UEulUr2rS0GN--acnZ0",
+          "price_usd": "747.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/asus-rog-crosshair-x870e-hero-gaming-desktop-motherboard-amd-x870e-chipset-socket-am5-atx-rogcrosshairx870eherobt/JJGHGP66LZ/sku/12303789?ref=212&loc=marketplace",
+          "price_usd": "975.1",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - DealClock",
+          "url": "https://www.walmart.com/ip/ROG-CROSSHAIR-X870E-HERO-BTF/18715422600?wmlspartner=wlpa&selectedSellerId=638",
+          "price_usd": "886.3",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.centralcomputer.com/asus-rog-crosshair-x870e-hero-btf-atx-motherboard-am5-ryzen-9000-7000-socket-am5-lga-17184-4x-ddr5-dimm-2-x-pcie-5-0-x16-slots.html?srsltid=AfmBOoppv2qDNTAmpfgTJwHQXWExbJG5_oz7BnE6UEulUr2rS0GN--acnZ0",
+      "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/",
+      "https://www.insight.com/en_US/shop/product/ROGCROSSHAIRX870E3/ASUS/ROG+CROSSHAIR+X870E+HERO+BTF/ROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY/",
+      "https://www.reddit.com/r/buildapc/comments/1pse0xw/x870e_crosshair_hero_m2_bandwidth_which_slots/",
+      "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/spec/",
+      "https://forums.tomshardware.com/threads/asus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444/",
+      "https://www.amazon.com/ROG-X870E-BTF-Hidden-Connector-high-Power/dp/B0FP3XLWXL",
+      "https://www.galaxus.at/en/s1/questionandanswer/how-many-pcie-connections-does-the-mainboard-have-871433"
+    ],
+    "fetched_at": "2026-07-21T13:56:21.218314+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots",
+      "socket"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "a39ed83b5f7958557d48d2954c3dda29c07147085c8b9124fa10091418791a93",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "24"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "ASUS",
+    "model": "ASUS ROG Maximus Z690 Formula Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "chipset": "Intel",
+      "form_factor": "ATX",
+      "memory_type": "DDR",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "450.0",
+      "reference_cny": "3044.73",
+      "offers": [
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.centralcomputer.com/asus-rog-maximus-z690-formula-atx-motherboard-intel-12th-gen-lga-1700-4x-dimm-max-128gb-ddr5-pci-express-5-0.html?srsltid=AfmBOoqZosMhVXdzRCYRezYkMmkUkEQtLONI3jh5swtTSS0y5xOquthG0V0",
+          "price_usd": "359.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - Hidden Path Trading Co LLC",
+          "url": "https://www.walmart.com/ip/Asus-ROG-Maximus-Z690-Formula-Desktop-Motherboard-Intel-Z690-Chipset-Socket-LGA-1700-Intel-Optane-Memory-Ready-ATX/570108408?wmlspartner=wlpa&selectedSellerId=101044290&veh=seo_fpl&cn=google",
+          "price_usd": "1104.04",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay",
+          "url": "https://www.ebay.com/itm/204919725298?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "price_usd": "450.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://rog.asus.com/us/motherboards/rog-maximus/rog-maximus-z690-formula-model/",
+      "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-formula-model/",
+      "https://www.reddit.com/r/ASUSROG/comments/wtjc1l/need_help_installing_m2_on_the_best_slots_on_asus/",
+      "https://www.reddit.com/r/intel/comments/slxuhp/m2_slots_on_asus_z690_formula/",
+      "https://www.reddit.com/r/pcmasterrace/comments/v1x5vo/which_ram_slots_to_use_rog_maximus_z690_formula/",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=0",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=168",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=247",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=369",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=524",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=625",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=800",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=909",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=1022",
+      "https://www.youtube.com/watch?v=hphew_XJj2Y&t=1200",
+      "https://rog-forum.asus.com/t5/intel-700-600-series/maximus-z690-formula-pciex-slots/td-p/906106",
+      "https://rog.asus.com/motherboards/rog-maximus/rog-maximus-z690-formula-model/spec/",
+      "https://gzhls.at/blob/ldb/e/6/1/6/cc5889f869d71432e8713bc1111f814e0993.pdf",
+      "https://www.amazon.com/ASUS-ROG-Z690-motherboard-2xThunderbolt/dp/B09K8Z4XNR",
+      "https://rog-forum.asus.com/t5/intel-700-600-series/question-about-asus-rog-maximus-z690-formula/td-p/917529",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=0",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=37",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=73",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=235",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=270",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=289",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=361",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=428",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=518",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=538",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=563",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=593",
+      "https://www.youtube.com/watch?v=GJE_0L6vA7E&t=631"
+    ],
+    "fetched_at": "2026-07-21T13:55:41.067709+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots",
+      "socket"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "383027f174537814416d19db1e7b7da6d57e817c8086339b9591c45332ebe909",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "18"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "ASUS",
+    "model": "ASUS ROG Strix B650-A Gaming WIFI Motherboard",
+    "mpn": "",
+    "release_date": "2022-12-10",
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "AMD B650",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": "4",
+      "max_memory_gb": "128",
+      "pcie_slots": "PCIe 5.0 x16"
+    },
+    "price": {
+      "reference_usd": "184.99",
+      "reference_cny": "1251.66",
+      "offers": [
+        {
+          "merchant": "Walmart - -ATHQ-",
+          "url": "https://www.walmart.com/ip/ASUS-ROG-STRIX-B650-A-GAMING-WIFI-6E-Socket-AM5-LGA-1718-Ryzen-7000-gaming-motherboard-12-2-power-stages-DDR5-three-M-2-slots-PCIe-4-0-2-5G-LAN-WiFi/1046831063?wmlspartner=wlpa&selectedSellerId=101188863&selectedOfferId=5A458681979E3B2AAB6D62D5608D19D5&conditionGroupCode=1",
+          "price_usd": "167.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/asus-rog-strix-b650-a-gaming-wifi-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-white/JJG7VW7WPH/sku/6582203?utm_source=feed",
+          "price_usd": "189.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1730802-REG/asus_rog_strix_b650_a_gaming.html?kw=ASROGB650A&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopwacsAVnkA-lXNQJA_viIss2CZL7jqLHaiayQKDQwoaSI0WUpCG4c",
+          "price_usd": "184.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/",
+      "https://www.amazon.com/ASUS-ROG-LGA1718-Motherboard-Type-C%C2%AE/dp/B0BHMW8R6S",
+      "https://www.reddit.com/r/buildapc/comments/181f820/m2_bm_ssd_and_asus_rog_strix_b650a_gaming_wifi/",
+      "https://www.reddit.com/r/buildapc/comments/1gr1k68/how_much_m2sata_drives_can_i_insert_into_a_asus/",
+      "https://www.reddit.com/r/ASUS/comments/11h97xm/asus_b650a_and_third_m2_slot/",
+      "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/spec/",
+      "https://www.newegg.com/asus-rog-strix-b650-a-gaming-wifi-snow-atx-motherboards-amd-amd-b650-am5/p/2MG-000B-005H9?srsltid=AfmBOoq7J7gWZgW96h0hMzMopaNrWQXIZU5E99UN9JMXkCV_itsIgWwp",
+      "https://dlcdnets.asus.com/pub/ASUS/mb/Socket%20AM5/ROG%20STRIX%20B650-A%20GAMING%20WIFI/E20268_ROG_STRIX_B650-A_GAMING_WIFI_UM_WEB.pdf",
+      "https://www.galaxus.at/en/s1/questionandanswer/but-does-the-slot-for-the-m2-ssd-have-a-built-in-heatsink-779480",
+      "https://forums.tomshardware.com/threads/rog-strix-b650-a-gaming-wifi-and-m-2-question.3847180/"
+    ],
+    "fetched_at": "2026-07-21T13:56:01.055729+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "c2ee58f67e38451b30fa5e0b197dcab2ebc67875bd24a5e9304890bbbf3f043b",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "22"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "GIGABYTE",
+    "model": "Gigabyte B760M DS3H WIFI6E GEN5 Gaming Desktop Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "chipset": "Intel",
+      "form_factor": "Micro ATX",
+      "memory_type": "DDR",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "119.99",
+      "reference_cny": "811.86",
+      "offers": [
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-13-145-591&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-motherboards+-+intel-_-gigabyte-_-9B13145591&source=region&negg_topt=0&srsltid=AfmBOoo-og3TSyhl7WcEDl3uOEjtjpyzTqf7y_pd9mplvUicNSXtuDY4D4Q",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/gigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813145591?item=N82E16813145591&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-motherboards+-+intel-_-gigabyte-_-13145591&source=region&negg_topt=0",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/gigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan/J3ZW9X73ZG/sku/12305268?ref=212&loc=marketplace",
+          "price_usd": "167.58",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-13-145-591&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-motherboards+-+intel-_-gigabyte-_-9B13145591&source=region&negg_topt=0&srsltid=AfmBOoo-og3TSyhl7WcEDl3uOEjtjpyzTqf7y_pd9mplvUicNSXtuDY4D4Q",
+      "https://www.gigabyte.com/us/Motherboard/B760M-DS3H-WIFI6E-GEN5",
+      "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/sp",
+      "https://www.amazon.com/GIGABYTE-B760M-DS3H-WIFI6E-GEN5/dp/B0FPRQ3SPD",
+      "https://www.gigabyte.com/Motherboard/B760M-DS3H-WIFI6E-GEN5/support",
+      "https://www.youtube.com/watch?v=lPifsn8u-Fk",
+      "https://www.newegg.com/gigabyte-b760m-ds3h-wifi6e-gen5-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813145591?srsltid=AfmBOooBNKhMO2a4HyQblDYwcGOympvzgZpjDHhL-fy7SuIPDDWLgIwW",
+      "https://www.bestbuy.com/product/gigabyte-b760m-ds3h-wifi6e-gen5-lga-1700-ddr5-m-2-pcie-5-0-usb-3-2-type-c-2-5gbe-lan/J3ZW9X73ZG/sku/11945474",
+      "https://www.youtube.com/watch?v=E4fOee5BXes",
+      "https://download.gigabyte.com/FileList/Manual/mb_manual_b760m-ds3h-wifi6e-ddr4-gen5_1001_e.pdf?v=53222a4b50827543d4487d6925a34117"
+    ],
+    "fetched_at": "2026-07-21T13:55:54.756789+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots",
+      "socket"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "5203cee7f02491773e9ce6d5960076a28d757b3b730e8a09d426dc36e929b67e",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "21"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "GIGABYTE",
+    "model": "Gigabyte X870E AERO X3D DARK WOOD Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "AMD",
+      "form_factor": "ATX",
+      "memory_type": "DDR",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "449.99",
+      "reference_cny": "3044.66",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/gigabyte-atx-22-motherboards-amd-amd-x870e-am5/p/N82E16813145619?item=N82E16813145619&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-motherboards+-+amd-_-gigabyte-_-13145619&source=region&negg_topt=0",
+          "price_usd": "449.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/710504/X870E_AERO_X3D_DARK_WOOD_AMD_AM5_ATX_Motherboard?storeID=101",
+          "price_usd": "449.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/gigabyte-x870e-aero-x3d-dark-wood-motherboard/J3ZW9X7WPF/sku/12707304?ref=212&loc=marketplace",
+          "price_usd": "539.78",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/gigabyte-atx-22-motherboards-amd-amd-x870e-am5/p/N82E16813145619?item=N82E16813145619&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-motherboards+-+amd-_-gigabyte-_-13145619&source=region&negg_topt=0",
+      "https://www.gigabyte.com/us/Motherboard/X870E-AERO-X3D-DARK-WOOD",
+      "https://www.aorus.com/en-us/motherboards/x870e-aero-x3d-dark-wood",
+      "https://www.gigabyte.com/press/news/2379",
+      "https://www.techpowerup.com/review/gigabyte-x870e-aero-x3d-wood/",
+      "https://www.gigabyte.com/Motherboard/X870E-AERO-X3D-WOOD/support",
+      "https://www.newegg.com/gigabyte-atx-22-motherboards-amd-amd-x870e-am5/p/N82E16813145619?srsltid=AfmBOooxz_4KWmb8sflaRMCG_t4AcCd46WwK-fObx-yo-yv-SYl0MAiu",
+      "https://www.tweaktown.com/reviews/11528/gigabyte-x870e-aero-x3d-dark-wood-a-woody-goody/index.html",
+      "https://www.thefpsreview.com/2026/06/09/gigabyte-x870e-aero-x3d-dark-wood-motherboard-review/"
+    ],
+    "fetched_at": "2026-07-21T13:56:29.123294+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "3f45747c7f2ef06c1f877efca900e62395045ed16a5a72a9964c2ae489f720fc",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "25"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "MSI",
+    "model": "MSI MEG X870E GODLIKE MAX Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "chipset": "AMD",
+      "form_factor": "Extended ATX",
+      "memory_type": "DDR",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "1299.99",
+      "reference_cny": "8795.82",
+      "offers": [
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/708783/X870E_MEG_GODLIKE_MAX_AMD_AM5_eATX_Motherboard",
+          "price_usd": "1299.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/msi-meg-x870e-godlike-max-socket-am5-amd-x870e-e-atx-ddr5-wi-fi-7-ryzen-9000-8000-7000-motherboard-black/J3P7TXTXJS/sku/6676831?utm_source=feed",
+          "price_usd": "1299.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Target",
+          "url": "https://www.target.com/p/msi-meg-x870e-godlike-max-x870egodlike-max-eatx-gaming-motherboard-am5-x870e-chipset-pcie-5-0-ddr5-m-2-gen5-sata-usb-a-usb-c/-/A-1011388259?TCID=OGS&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=56-0&srsltid=AfmBOoq9PsGrIoiB0QHCVBnRKq6hQHgV-LwmcZR9CvYIX508xR0FrelLBGA",
+          "price_usd": "1367.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.microcenter.com/product/708783/X870E_MEG_GODLIKE_MAX_AMD_AM5_eATX_Motherboard",
+      "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE",
+      "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE-X-EDITION",
+      "https://www.reddit.com/r/MSI_Gaming/comments/1hal718/questions_regarding_the_x870e_godlike_in/",
+      "https://www.microcenter.com/product/708783/msi-x870e-meg-godlike-max-amd-am5-eatx-motherboard",
+      "https://www.newegg.com/msi-meg-x870e-godlike-max-motherboard-amd-x870e-am5/p/N82E16813144745?srsltid=AfmBOoqMEi1eYCTd44f5sIg6DsLaeBQQ-vy6uKgmiRvCcYKBmx1MGdXt",
+      "https://www.reddit.com/r/MSI_Gaming/comments/1pmkoh7/msi_x870e_godlike_x_edition/",
+      "https://www.msi.com/Motherboard/MEG-X870E-GODLIKE/Specification",
+      "https://www.youtube.com/watch?v=3q5uFwhg54Y"
+    ],
+    "fetched_at": "2026-07-22T11:32:46.522192+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots",
+      "socket"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "66d295a69bcde92823c8127f3b4e3b87677fbe4fcddb69cea252c183c0ce69fb"
+  },
+  {
+    "category": "motherboard",
+    "brand": "MSI",
+    "model": "MSI MPG X870E Carbon WiFi Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "chipset": "AMD",
+      "form_factor": "ATX",
+      "memory_type": "DDR",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "389.99",
+      "reference_cny": "2638.70",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/msi-mpg-x870e-carbon-wifi-atx-motherboard-amd-x870e-am5/p/N82E16813144666?item=N82E16813144666&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-motherboards+-+amd-_-msi-_-13144666&source=region&negg_topt=0",
+          "price_usd": "389.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/685539/X870E_MPG_CARBON_WIFI_AMD_AM5_ATX_Motherboard?storeID=085",
+          "price_usd": "389.99",
+          "availability": "out_of_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/msi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black/J3P7TX9S6K/sku/6604429?utm_source=feed",
+          "price_usd": "389.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/msi-mpg-x870e-carbon-wifi-atx-motherboard-amd-x870e-am5/p/N82E16813144666?item=N82E16813144666&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-motherboards+-+amd-_-msi-_-13144666&source=region&negg_topt=0",
+      "https://www.amazon.com/MSI-MPG-X870E-Motherboard-Processors/dp/B0DG3QW9TJ",
+      "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI",
+      "https://www.reddit.com/r/MSI_Gaming/comments/1h88po1/experiences_with_x870e_carbon_wifi_9800x3d/",
+      "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/Specification",
+      "https://www.reddit.com/r/Amd/comments/1fgziqe/the_best_one_so_far_msi_mpg_x870e_carbon/",
+      "https://www.bestbuy.com/product/msi-mpg-x870e-carbon-wifi-socket-am5-amd-x870e-atx-ddr5-wi-fi-7-motherboard-black/J3P7TX9S6K",
+      "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI/support",
+      "https://www.tomshardware.com/pc-components/motherboards/msi-x870e-carbon-wifi-motherboard-review"
+    ],
+    "fetched_at": "2026-07-22T11:32:52.824069+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots",
+      "socket"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "5997747603c5922b5ca7f2e7dee7f4483453c2f3cac33fa9e8bd2cafba555529"
+  },
+  {
+    "category": "motherboard",
+    "brand": "NZXT",
+    "model": "N5 Z690 Gaming Motherboard",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "socket": "LGA 1700",
+      "chipset": "Intel Z690",
+      "form_factor": "ATX",
+      "memory_type": "DDR4",
+      "memory_slots": "4",
+      "max_memory_gb": "128",
+      "pcie_slots": "PCIEX1_1, PCIEX1_2 (PCIe 3.0 x1), 1 x PCIe x16 (x16 Mode), 1 x PCIe x16 (x1 Mode), 1 x PCIe x16 (x4 Mode)"
+    },
+    "price": {
+      "reference_usd": "281.235",
+      "reference_cny": "1902.86",
+      "offers": [
+        {
+          "merchant": "Tecisoft",
+          "url": "https://www.tecisoft.com/products/nzxt-n5-z69xt-w1-desktop-motherboard-intel-z690-chipset-socket-lga-1700-intel-optane-memory-ready-atx?currency=USD&country=US&stkn=f5fec7b78b4e&srsltid=AfmBOooTKpQvSiaz51MxjpyDgKBhnHNlM4TpzCMfTKvUhp0_VE4_yVQrQIQ",
+          "price_usd": "276.1",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - UnbeatableSale",
+          "url": "https://www.walmart.com/ip/NZXT-N5-Z690-N5-Z69XT-B1-Motherboard-ATX-LGA1700-Socket-Chipset-USB-3-2-Gen-1-2-USB-C-Gen2-2-5-Gigabit-LAN-Bluetooth-Wi-Fi-onboard-graphics-CPU-requi/1884816808?wmlspartner=wlpa&selectedSellerId=1148",
+          "price_usd": "286.37",
+          "availability": "out_of_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://support.nzxt.com/hc/en-us/articles/35838458235675-N5-Z690-Downloads",
+      "https://support.nzxt.com/hc/en-us/articles/37682479388443-N5-Z690-Specs",
+      "https://www.newegg.com/nzxt-n5-z690-n5-z69xt-w1-atx-motherboards-intel-intel-z690-lga-1700/p/N82E16813206005?srsltid=AfmBOopIJMoWnCIKYX3VUmGNXyKqtq2salf4HCBEXG93pye8BvEg3OvG",
+      "https://www.kitguru.net/components/motherboard/leo-waldock/nzxt-n5-z690-review/",
+      "https://www.bhphotovideo.com/c/product/1720780-REG/nzxt_n5_z69xt_b1_n5_z690_motherboard_black.html",
+      "https://www.windowscentral.com/nzxt-n5-z690-review",
+      "https://www.tomshardware.com/reviews/nzxt-n5-z690-review"
+    ],
+    "fetched_at": "2026-07-21T13:56:35.391021+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "2af423605aab168999d38c20252d22c1a1b9a6d5a81b4f6e53ff253aa2f09a42",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "26"
+    }
+  },
+  {
+    "category": "motherboard",
+    "brand": "Newegg",
+    "model": "MSI B550M PRO-VDH WIFI Motherboard CPU Memory Combo",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "socket": "Socket AM4",
+      "chipset": "AMD",
+      "form_factor": "Micro ATX",
+      "memory_type": "DDR4",
+      "memory_slots": "4 Memory Slots"
+    },
+    "price": {
+      "reference_usd": "341.99",
+      "reference_cny": "2313.93",
+      "offers": [
+        {
+          "merchant": "Walmart - Newegg Inc.",
+          "url": "https://www.walmart.com/ip/Motherboard-CPU-Memory-Combo-MSI-B550M-PRO-VDH-WIFI-Bundle-with-AMD-Ryzen-5-5500-and-Team-Group-TF3D416G3200HC16FDC01/20068450419?wmlspartner=wlpa&selectedSellerId=101353918&veh=seo_fpl&cn=google",
+          "price_usd": "341.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-CMB-4862278&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-motherboards+-+amd-_-eniac-_-9BCMB4862278&source=region&negg_topt=0&srsltid=AfmBOoqLG8S_HHMrHuAAF3nY4O6exq7Sjk9lprcE9YXx9-VkeuhIiiWc4is",
+          "price_usd": "341.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/newegg-msi-b550m-pro-vdh-wifi-amd-ryzen-5-5500-team-group-16gb/J3R8FKJQL5/sku/12645129?ref=212&loc=marketplace",
+          "price_usd": "362.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.walmart.com/ip/Motherboard-CPU-Memory-Combo-MSI-B550M-PRO-VDH-WIFI-Bundle-with-AMD-Ryzen-5-5500-and-Team-Group-TF3D416G3200HC16FDC01/20068450419?wmlspartner=wlpa&selectedSellerId=101353918&veh=seo_fpl&cn=google",
+      "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI",
+      "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI/Specification",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=0",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=27",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=265",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=294",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=318",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=341",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=410",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=465",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=491",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=526",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=588",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=720",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=760",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=809",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=1049",
+      "https://www.youtube.com/watch?v=k7e5PrkddEo&vl=en&t=1104",
+      "https://www.reddit.com/r/MSI_Gaming/comments/jq9u7x/any_idea_where_the_2nd_m2_slot_is_msi_b550m_pro/",
+      "https://download.msi.com/archive/mnu_exe/mb/E7C95v1.7.pdf",
+      "https://www.youtube.com/watch?v=Lleh1gta9RQ",
+      "https://www.amazon.com/MSI-B550M-PRO-VDH-ProSeries-Motherboard/dp/B089D1YG11",
+      "https://www.userbenchmark.com/System/MSI-B550M-PRO-VDH-WIFI-MS-7C95/195900",
+      "https://www.msi.com/Motherboard/B550M-PRO-VDH"
+    ],
+    "fetched_at": "2026-07-21T13:55:30.015349+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "m2_slots",
+      "max_memory_gb",
+      "pcie_slots"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "6189ad360dca2966208c4dbbde54b695f06029c5556ddbb5a139ba605138a40d",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "17"
+    }
+  }
+]

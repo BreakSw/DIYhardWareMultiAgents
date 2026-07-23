@@ -1,0 +1,776 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a985c93013a93b26997",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/w1x4fmZCFHccZqaL6hCbPQ/6a5f7a985c93013a93b26997.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/w1x4fmZCFHccZqaL6hCbPQ/6a5f7a985c93013a93b26997.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:41 UTC",
+    "processed_at": "2026-07-21 13:56:41 UTC",
+    "google_url": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&oq=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/w1x4fmZCFHccZqaL6hCbPQ/6a5f7a985c93013a93b26997.html",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Gigabyte X870E AERO X3D DARK WOOD Motherboard motherboard m2_slots max_memory_gb pcie_slots",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Gigabyte X870E AERO X3D DARK WOOD Motherboard motherboard m2_slots max_memory_gb pcie_slots",
+    "total_results": 410,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": "McKinley Park, Chicago"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&udm=1&lsack=mnpfarz2GtuJptQP5paI4Q4&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQtgN6BAhTEAM",
+    "image": "https://serpapi.com/images/i/R0lGODlhAQABAIAAAP_______yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw.gif",
+    "gps_coordinates": {
+      "latitude": 41.857287927691345,
+      "longitude": -87.7972412109375
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.6,
+        "reviews": 5500,
+        "reviews_original": "(5.5K)",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlthhqOvEEQ3Ut1mdh0hs8J9mQQqIwRngmwGlCqq_h09Pxolxg8OFEjyxlnHA8CDe_As3BQniEsfaeERehFMkv7uog6WP1L5qdAblhaQ3rMZ1fSe4R4uUtIvW9Q2Vxb2VKXFSIjE-T7bo_z=w184-h184-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlthhqOvEEQ3Ut1mdh0hs8J9mQQqIwRngmwGlCqq_h09Pxolxg8OFEjyxlnHA8CDe_As3BQniEsfaeERehFMkv7uog6WP1L5qdAblhaQ3rMZ1fSe4R4uUtIvW9Q2Vxb2VKXFSIjE-T7bo_z=w1000-h1000-c-n",
+        "place_id": "4914285272488217240",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=4914285272488217240&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots",
+        "provider_id": "/g/1tj9txz8",
+        "gps_coordinates": {
+          "latitude": 41.811237,
+          "longitude": -87.972613
+        },
+        "title": "Micro Center",
+        "type": "Computer store",
+        "address": "Westmont, IL",
+        "hours": "Closed · Opens 10 AM",
+        "extensions": [
+          "In stock: Gigabyte X870E AERO X3D DARK WOOD AMD AM5 ATX Motherboard · Updated today"
+        ]
+      },
+      {
+        "position": 2,
+        "rating": 4.1,
+        "reviews": 4200,
+        "reviews_original": "(4.2K)",
+        "description": "Electronics store with TVs & more",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5beemUPrtq65FwjBgytV3CvY4MnrlsV8OaNnHkFhE3jKSlwCiz60mVSNWR_GFYTX4Mid5IHtmLAbsSOeWop74PF6L9ir5ZpoDLP7C8mP0-Y5HI29BddJXHKz5eHoOym915KZYvOR09e5L=w184-h184-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5beemUPrtq65FwjBgytV3CvY4MnrlsV8OaNnHkFhE3jKSlwCiz60mVSNWR_GFYTX4Mid5IHtmLAbsSOeWop74PF6L9ir5ZpoDLP7C8mP0-Y5HI29BddJXHKz5eHoOym915KZYvOR09e5L=w1000-h1000-c-n",
+        "place_id": "1775087849855781611",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=1775087849855781611&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots",
+        "provider_id": "/g/1w4f8pl0",
+        "gps_coordinates": {
+          "latitude": 41.866882,
+          "longitude": -87.641504
+        },
+        "title": "Best Buy",
+        "type": "Electronics store",
+        "phone": "(312) 733-6635",
+        "address": "555 W Roosevelt Rd",
+        "hours": "Closed · Opens 10 AM"
+      },
+      {
+        "position": 3,
+        "rating": 4.5,
+        "reviews": 4900,
+        "reviews_original": "(4.9K)",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqlh1nYzdaX-Uiq3vSgJ5rVF0CBc7n4Fnhi0r7uqje_qgJIcL9LiLhhVRUVRH_wmUnSXCqGuyf3LjGeYCBYgF7sHGObBRuWYkVdiPn2anIPturNQzlNbepI4JHev7RE7NOFBq1bPSOnfg=w184-h184-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqlh1nYzdaX-Uiq3vSgJ5rVF0CBc7n4Fnhi0r7uqje_qgJIcL9LiLhhVRUVRH_wmUnSXCqGuyf3LjGeYCBYgF7sHGObBRuWYkVdiPn2anIPturNQzlNbepI4JHev7RE7NOFBq1bPSOnfg=w1000-h1000-c-n",
+        "place_id": "17826612018230043578",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=17826612018230043578&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots",
+        "provider_id": "/g/1tf8tpwy",
+        "gps_coordinates": {
+          "latitude": 41.9304,
+          "longitude": -87.682858
+        },
+        "title": "Micro Center",
+        "type": "Computer store",
+        "address": "2645 N Elston Ave",
+        "hours": "Closed · Opens 10 AM",
+        "extensions": [
+          "In stock: Gigabyte X870E AERO X3D DARK WOOD AMD AM5 ATX Motherboard · Updated today"
+        ]
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&udm=1&lsack=mnpfarz2GtuJptQP5paI4Q4&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQjGp6BAhUEAE"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "GIGABYTE X870E AERO X3D Dark Wood - Style, elegance ...",
+      "link": "https://www.youtube.com/watch?v=pW1wxAZTUSY",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a985c93013a93b26997/images/w-TrlLFvFXkWxA6CMETA98ulMEOfEXuXIKIv-lMDxWQ.jpeg",
+      "channel": "TheOverclocker",
+      "duration": "6:48",
+      "platform": "YouTube",
+      "date": "1 day ago"
+    },
+    {
+      "position": 2,
+      "title": "More WOOD! - X870E AERO X3D Dark Wood",
+      "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a985c93013a93b26997/images/l8XAVtMODYrONN_CD1Cko83tbqWPk7mXGyTAaFhfl2w.jpeg",
+      "channel": "GGF Events",
+      "duration": "23:05",
+      "platform": "YouTube",
+      "date": "May 1, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRzKHogGoAMf92rX8kHHqo3qMkYb97G06o45Q",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjw5laEfykrDwLUaPvoUKE2BxNSGGUf67gc0ZX2CyXEQ&s="
+        },
+        {
+          "time": "02:08",
+          "title": "Board aesthetics | Backplate | X3D Turbo | Power\\Reset",
+          "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk&t=128",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr-Yma-tklFVBvwgnugBKCf0mg2OS-bI7hyV0kvI0gng&s="
+        },
+        {
+          "time": "06:26",
+          "title": "Components, VRM | Memory | PCIE | M.2",
+          "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk&t=386",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLBZ-LqRKyOih5dCnJi0Ax-zCjW1PmZTabSeBZwHRPjw&s="
+        },
+        {
+          "time": "14:40",
+          "title": "LAN | WIFI",
+          "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk&t=880",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnlHu8pHe-zgKDw3eZHDLSMH95ilNsHoM0hpdigKyP8w&s="
+        },
+        {
+          "time": "18:27",
+          "title": "Rear USB USB | Front USB | Display",
+          "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk&t=1107",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJt3oWLvWk_fF77PNszV5sN3nv5Nh2oM3_CA47eGxz3w&s="
+        },
+        {
+          "time": "21:22",
+          "title": "Price | Outro",
+          "link": "https://www.youtube.com/watch?v=bXwYFmfM6gk&t=1282",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSxV27xy8Wzl52wCQNR0jef5syfrg6SSKJVphaGE9H2g&s="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "The New Gigabyte X870E AERO X3D DARK WOOD is a piece ...",
+      "link": "https://www.youtube.com/watch?v=1Rc_ITCwSvg",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a985c93013a93b26997/images/WHK8cxngTGGpuB3m--9fTptVLaHHVIXorhsW8QntM7Q.jpeg",
+      "channel": "Gear Seekers",
+      "duration": "11:17",
+      "platform": "YouTube",
+      "date": "Apr 28, 2026",
+      "snippet": "The Gigabyte X870E Aero X3D Dark Wood is identical to the white version, featuring a 16+2+2-phase VRM & DDR5 memory up to 9,000 MT/s.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSgUVXWQVe7Dj18MB47Hm1NVzxCUhXbZ2fhMg"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT7qb03bw-caSfP9GbtMymzvMIAIIVXKJpcl8umRN06x_qVDlKsBcH7RRc6m7tocTFFHrnLTeY_Zs5dplWPcCV-QAbN2VHV8LWvywjZvhk-ICgoQ0UbFnEV",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "GIGABYTE X870E AERO X3D WOOD Motherboard",
+      "price": "$449.99",
+      "extracted_price": 449.99,
+      "original_price": "$500",
+      "extracted_original_price": 500,
+      "location": "Nearby, 7 mi",
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "lNeurnicTZJNrqNGAISV86BI_ctPdrYBY7-HGbcxGLJ4aug22IAh0P7jErlC5DcTabKcRMo215icJp5kk11JX6lUJdXPD3n4szl1e96PaK7Oy06tP9COL8iafO76VpxzdRC_Y50YpqFDogMKELQsgD_nXPG6LZ6UWhggwzDhNw-i2ELgSym5qA8nGez3srfb_GkzKMEmMQi0AMUUG8-83w4NL-S_-A9IAKSWAahu6YaFoKGb4L0Xwy-ffjrL_v71x_mh4NldSW1nGsDRJg4LtB22NXvCXrQ4CGzNb1Up-6zlvdCa_2v0NtStGrSG394a2bT9_a3ItC4_yP_Ap6L71pCahJiGgQExddPAEJvovTmIL9TQyXOYjpFpEGSagLx3F_Uoi4_ncy3_ehT14zw8yvohT7-2vLvs87-_e3f6fDa75NP1tusim4HNWENeUfQary5pDP2kGnB8LGcrmJDIK-sNTHkCFzcBBpB701TgkiVbRvxmgDwsX8KG0Pzk2hG4Kem4q42XgjwsdYHIPa-XKAMDCSs2zdDtQziHSu58lc1plbr14NvlLYjYM7eD7JjusrnapFFLw9NyYGhps3Ha-FV0XlddyzbwGsRrsB5rvAFWKVAXJahMWawW2Siu68ZXQbhqtliwTbXs-SmdCcju2Va0uQP9FRYqtSNPjFOcHX3qx6uzD5KrD0qdV7fZtuqO6ShgjticO-pVOrUKcVrJbXeQbjLuUO3GTX3nUUH92qR55J78GVDBdLHLYnpNG_cuj0tPeNFL7jG2taNrsq3ANlzzReU6OV7QtF6x2HNPzHPtBFp7OS9jv7o-uy9fpR0F-RgB33U-3oZ-_xVMXKo2gX4sAv76ZsVZz2fV0F_mfjIZplbyfTH54XltohOEADIt-g8qpRZR",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lNeurnicTZJNrqNGAISV86BI_ctPdrYBY7-HGbcxGLJ4aug22IAh0P7jErlC5DcTabKcRMo215icJp5kk11JX6lUJdXPD3n4szl1e96PaK7Oy06tP9COL8iafO76VpxzdRC_Y50YpqFDogMKELQsgD_nXPG6LZ6UWhggwzDhNw-i2ELgSym5qA8nGez3srfb_GkzKMEmMQi0AMUUG8-83w4NL-S_-A9IAKSWAahu6YaFoKGb4L0Xwy-ffjrL_v71x_mh4NldSW1nGsDRJg4LtB22NXvCXrQ4CGzNb1Up-6zlvdCa_2v0NtStGrSG394a2bT9_a3ItC4_yP_Ap6L71pCahJiGgQExddPAEJvovTmIL9TQyXOYjpFpEGSagLx3F_Uoi4_ncy3_ehT14zw8yvohT7-2vLvs87-_e3f6fDa75NP1tusim4HNWENeUfQary5pDP2kGnB8LGcrmJDIK-sNTHkCFzcBBpB701TgkiVbRvxmgDwsX8KG0Pzk2hG4Kem4q42XgjwsdYHIPa-XKAMDCSs2zdDtQziHSu58lc1plbr14NvlLYjYM7eD7JjusrnapFFLw9NyYGhps3Ha-FV0XlddyzbwGsRrsB5rvAFWKVAXJahMWawW2Siu68ZXQbhqtliwTbXs-SmdCcju2Va0uQP9FRYqtSNPjFOcHX3qx6uzD5KrD0qdV7fZtuqO6ShgjticO-pVOrUKcVrJbXeQbjLuUO3GTX3nUUH92qR55J78GVDBdLHLYnpNG_cuj0tPeNFL7jG2taNrsq3ANlzzReU6OV7QtF6x2HNPzHPtBFp7OS9jv7o-uy9fpR0F-RgB33U-3oZ-_xVMXKo2gX4sAv76ZsVZz2fV0F_mfjIZplbyfTH54XltohOEADIt-g8qpRZR"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQLfb4-1xi8mZe87mi4xtoboVo44Ff0C0YIjzhJYTwmHeZsjZal-t357AacYQitjiX_rV1H7Exs2i_d6zq45KjQu7_s-J8s",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "Gigabyte X870E AERO X3D DARK WOOD Motherboard",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$449.99",
+      "extracted_price": 449.99,
+      "location": "Nearby, 7 mi",
+      "immersive_product_page_token": "8NJy6HicbZLNjqNGFIWlPEPewpv64c_Z2ebHphtoylSByaIFFDa0wdRgbDCad8g7uGcizSxnImWb1-g8TWjNJotZXOlK39E9R0f3j3te_l2fxD5pR2R1F1t0_pMsko3kS19E2_BL1pX8Lwi1uYolDGUFa5KmqAqGX7KkS6rmUPLvCninigZUoGIwV2RZ-1bkCa_KU-7t93mrN9kkgyqAWFXn06hzKEEI5K9lnRzyH1jBc0XCQAaTzyRQNIReW35-Q0-rZxkoc0mDCGEw2WNNBujjE_H055-zzx8ueXt7-90qD0l66_JZpKnAmC0M4s0irM_0BXmYhZ6nz5ymK_I2bZKWz-r_7-j5XDXdeVYnw3Od1017ez6kM5GV-Q_w-SDeQ__E_LUu-TdZVSQFaXNNnkMgvdfyKq7dvTh8ulyq_J_7obpfzveiuuenP5tEXPfZv7_8ajS9vjr3K58KwXQCAssMnMq9METOsRnfkuMO-FER-6Gt5AZcOyey40fz6pmk5mvWOWvRJpa5yVD1kIemyAz5MYzIxQkKl1Q-zExbIrWGt6jwXDOG0x09pcVjTgfgMEb8sVjTSlS0NpvwpdB54PT-SwE9A2C_FlFWD03AdrfE4r3DCo8GRRtBAznMfmQsljy6Ae5Y0HjNhjzi2IUbEMF5kxpm6LLC9baQJnW88XE1EN2-paAHzsl2g9CNAyO-ujjW6dpMCBLE3cKQVswmR3HNV2DYHo2elXDDQ24Ro0LEIlt3XBasWq6i0d3Q0RyiMaZBJWQOZByPbsgR6xME-jSyBYPFS0jlIKfzFWOL0TGLgEy9ZnhJE2Ng3FxOQdjLFtvK1GlMWOykjG_io9iQwJGmDvoUHeRsdBs-GqMfLHeE8iEzD2hX0Z6H4kN8dLYmgpfMiovs1NwIJnB7WgLKFjCzTNs1DWCV9pKs3ZsXxgHFGUrZYgiPUDgm67I1e6TUTvKIHcNQLtkxXn4azu3-DSxMudt6yiJlCl4-qGvjdj3XMsgyANf7Pm1E_xtUNUmREALT2yn_AeDhRiI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8NJy6HicbZLNjqNGFIWlPEPewpv64c_Z2ebHphtoylSByaIFFDa0wdRgbDCad8g7uGcizSxnImWb1-g8TWjNJotZXOlK39E9R0f3j3te_l2fxD5pR2R1F1t0_pMsko3kS19E2_BL1pX8Lwi1uYolDGUFa5KmqAqGX7KkS6rmUPLvCninigZUoGIwV2RZ-1bkCa_KU-7t93mrN9kkgyqAWFXn06hzKEEI5K9lnRzyH1jBc0XCQAaTzyRQNIReW35-Q0-rZxkoc0mDCGEw2WNNBujjE_H055-zzx8ueXt7-90qD0l66_JZpKnAmC0M4s0irM_0BXmYhZ6nz5ymK_I2bZKWz-r_7-j5XDXdeVYnw3Od1017ez6kM5GV-Q_w-SDeQ__E_LUu-TdZVSQFaXNNnkMgvdfyKq7dvTh8ulyq_J_7obpfzveiuuenP5tEXPfZv7_8ajS9vjr3K58KwXQCAssMnMq9METOsRnfkuMO-FER-6Gt5AZcOyey40fz6pmk5mvWOWvRJpa5yVD1kIemyAz5MYzIxQkKl1Q-zExbIrWGt6jwXDOG0x09pcVjTgfgMEb8sVjTSlS0NpvwpdB54PT-SwE9A2C_FlFWD03AdrfE4r3DCo8GRRtBAznMfmQsljy6Ae5Y0HjNhjzi2IUbEMF5kxpm6LLC9baQJnW88XE1EN2-paAHzsl2g9CNAyO-ujjW6dpMCBLE3cKQVswmR3HNV2DYHo2elXDDQ24Ro0LEIlt3XBasWq6i0d3Q0RyiMaZBJWQOZByPbsgR6xME-jSyBYPFS0jlIKfzFWOL0TGLgEy9ZnhJE2Ng3FxOQdjLFtvK1GlMWOykjG_io9iQwJGmDvoUHeRsdBs-GqMfLHeE8iEzD2hX0Z6H4kN8dLYmgpfMiovs1NwIJnB7WgLKFjCzTNs1DWCV9pKs3ZsXxgHFGUrZYgiPUDgm67I1e6TUTvKIHcNQLtkxXn4azu3-DSxMudt6yiJlCl4-qGvjdj3XMsgyANf7Pm1E_xtUNUmREALT2yn_AeDhRiI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSD-SO98MwxWU2L8rSO4eiRXYgGJFcsZED-8W5EpNEDfuBqtp6oyMmc4PPN9w4RdaAiVOCbTnQOvRJy_vVp7WuLYzdQX1WgC-vSqyt2NMg-",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Gigabyte X870E AORUS ELITE WIFI7 x870e a elite wifi7",
+      "rating": 4.7,
+      "reviews": 297,
+      "price": "$279.99",
+      "extracted_price": 279.99,
+      "original_price": "$355",
+      "extracted_original_price": 355,
+      "location": "Also nearby",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "21% OFF"
+      ],
+      "immersive_product_page_token": "0BFc93icdZLLjqNGFIalPEPewpsqijKQXdtc3MSAKajikoVVTWGDzS02bgyad8g7uGciTZYzkbLNa3SeJmiyySLZHB3pO7_-c_vlkZd_1E134JdJsvqb3fX-Dnf8Wfblz92lFbesL8VXhAFUFAxVdSkpsibLQPmc8Z5X7XGmsowgXEKIVRmqCgJIwV-KnIuqbHLvcMgvepuV4neIZ6mE5mqsQqhADQL8W1nzY_6Nf0VI0RSMlCXEkjZHALS3i7i-y7v1Hi4VCStAQ4qqzY2oElLhhx3x9P3_wE8_3_LL-P6TVR75y9jni1hVgLF4Moi3iJG-0J_Ij4vI8_SF0_ZFfnlp-UUs6n_n0v5atf11UfP7vs7r9jLujy-LLivzf8CnY_dtrP9wf6tL8QUrS3kpqQAhiOftLCX01r32j-L48Xar8j8fx-pxuz6K6pE3v7a8ez1kf333vdEO-vo6rH3adUwnIKDdJdt02xSKlT-xLQXu1kfVkDbEiSdhubUbBtSWY5BNuYVj_-yMGS2oCKDFKTlxcAQ-65ZCukd5CUeK0jBB5jXYFD5ngqWVaZNzApgl-sBgzEesikKT0VO1cyJMsoYM2clOg6h7zSazmbnrwNTnFsaz5xBWdpNEDqCGdnDDoqVNlTBgDIEFB2fT7ZywqtxoGNJNdXdiMxVnMvK4kwJTexaVSILp3NPw3KeU6Qljer6GuyRqe2qYQ2p1YNb1WbU6RLpbUpiypDafuS4oOdtrB7g937jPJMIGPUMyz9NQ6kzsbACG3CGj9i2r5TENq5Uft5gzf-KA3UiNDU9f7YRVmYR2LWOVH9SmG1mCioZ4JPTlNLrjeVfY04urPzmyK7GQWLDZUhxH1EGitoMkZo0Tn6UMuCsy2SdhHiV2cgJTgrfMSousaUeCCAyaFaDsCWaWabumAazSXpGNO3pRSpP5bo5V9BnQHB51dcZsl0sF8Zg60gDKDBDy8X69HN7Bk4n7wMOJHnSDWtbTaBI27KKtFp1ldgiRdPwBKqq8lCUJSPMv_g1Wvke3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0BFc93icdZLLjqNGFIalPEPewpsqijKQXdtc3MSAKajikoVVTWGDzS02bgyad8g7uGciTZYzkbLNa3SeJmiyySLZHB3pO7_-c_vlkZd_1E134JdJsvqb3fX-Dnf8Wfblz92lFbesL8VXhAFUFAxVdSkpsibLQPmc8Z5X7XGmsowgXEKIVRmqCgJIwV-KnIuqbHLvcMgvepuV4neIZ6mE5mqsQqhADQL8W1nzY_6Nf0VI0RSMlCXEkjZHALS3i7i-y7v1Hi4VCStAQ4qqzY2oElLhhx3x9P3_wE8_3_LL-P6TVR75y9jni1hVgLF4Moi3iJG-0J_Ij4vI8_SF0_ZFfnlp-UUs6n_n0v5atf11UfP7vs7r9jLujy-LLivzf8CnY_dtrP9wf6tL8QUrS3kpqQAhiOftLCX01r32j-L48Xar8j8fx-pxuz6K6pE3v7a8ez1kf333vdEO-vo6rH3adUwnIKDdJdt02xSKlT-xLQXu1kfVkDbEiSdhubUbBtSWY5BNuYVj_-yMGS2oCKDFKTlxcAQ-65ZCukd5CUeK0jBB5jXYFD5ngqWVaZNzApgl-sBgzEesikKT0VO1cyJMsoYM2clOg6h7zSazmbnrwNTnFsaz5xBWdpNEDqCGdnDDoqVNlTBgDIEFB2fT7ZywqtxoGNJNdXdiMxVnMvK4kwJTexaVSILp3NPw3KeU6Qljer6GuyRqe2qYQ2p1YNb1WbU6RLpbUpiypDafuS4oOdtrB7g937jPJMIGPUMyz9NQ6kzsbACG3CGj9i2r5TENq5Uft5gzf-KA3UiNDU9f7YRVmYR2LWOVH9SmG1mCioZ4JPTlNLrjeVfY04urPzmyK7GQWLDZUhxH1EGitoMkZo0Tn6UMuCsy2SdhHiV2cgJTgrfMSousaUeCCAyaFaDsCWaWabumAazSXpGNO3pRSpP5bo5V9BnQHB51dcZsl0sF8Zg60gDKDBDy8X69HN7Bk4n7wMOJHnSDWtbTaBI27KKtFp1ldgiRdPwBKqq8lCUJSPMv_g1Wvke3"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQfPoz3WIZ3WkHuL5m2hHtq5UQBmefT_dx92OE2o3Po0ZwfFU7lZCWZwiFbn1Aw_K2trwjvYrcas7yDwIrn9qghImGk0qBum8Tms3PCNLHaJdcb2uZ2izaV",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "Gigabyte X870E AORUS ELITE X3D Motherboard",
+      "price": "$349.99",
+      "extracted_price": 349.99,
+      "original_price": "$380",
+      "extracted_original_price": 380,
+      "location": "Nearby, 7 mi",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "aLuA1HicTVLLkptGFK18Dxse3TyyGw0gjUaCUUM3iCymgEYI0Q0dHkLST-QXUhrbVfbSdpW3_g3na0KcLHJXt865de65t84f96L6xhtxSLubuhzGtRh2L1CkT2AHPoqupWM-VPSLBWRDBkCGqmpYlq5BWf2Yp0PK2rKiXxXDAJYCLNO0FEOeC1rq52ORUlY1hX84FJ3d5j_nZkIFBoCGBeCsJZv6p4qnZfEfDzWoq8DUtX8Uoanrqv7W0f7P97-PRXf98duyKtPsOhRSbBqyIz04yJdizZbsB_QsRb5vS9t2OBZd1qYdlfj_e_W1Z-3QSzy9vPKCt931tcwkkVfFv8T7Uvy0oEFt9mboqqzP5-oGVMEbr-jnGQK6alqmrqgzppvWmzgP92P5bhxZ8f1esvvY34_sXjQf2lScD_lfv7w5Xf74eM4XOywEsZEchCUInRpu44XwTusGMzfyll6d1z30ajFuiMC7GPVbzsa9hi6hInQaKCMhnooIGbFsVdS1Bt9eYM-lMMViTeSkJ1E5FadS84mFAjl5nPetKXfPlA9ayIWexN5z4uALxWzIm3WKarEJl-0FOe4-kb0FxuhURMnK457ux-014GL0XNLlDZ1SYvVEW_BQnaa8Ro8Y766-jdLEQedYE2NSW88bnLxsOYxz7jZZzKKdQlyqYJDFi-tOcdPdLZ8iRi8oSnhAFurs4xg0TM4a5vgxiwuMIK1Zn4bHKLfp7G-AQcTGQKEia7wjjY4bxOfnoKc4i-CUcPdanNYruiLP-QohbJNpj2sZh7v0qXadXHuCCXOd7XJ_2WKPZDeGg1qcyIrIeEWTJHTt-MYiGuXvLn13-CE_uHAIfLi3AzGZFb9dXUSml2hjRTUgh1BTy18VwwQ6mEM7p8D4G1PoGtQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=aLuA1HicTVLLkptGFK18Dxse3TyyGw0gjUaCUUM3iCymgEYI0Q0dHkLST-QXUhrbVfbSdpW3_g3na0KcLHJXt865de65t84f96L6xhtxSLubuhzGtRh2L1CkT2AHPoqupWM-VPSLBWRDBkCGqmpYlq5BWf2Yp0PK2rKiXxXDAJYCLNO0FEOeC1rq52ORUlY1hX84FJ3d5j_nZkIFBoCGBeCsJZv6p4qnZfEfDzWoq8DUtX8Uoanrqv7W0f7P97-PRXf98duyKtPsOhRSbBqyIz04yJdizZbsB_QsRb5vS9t2OBZd1qYdlfj_e_W1Z-3QSzy9vPKCt931tcwkkVfFv8T7Uvy0oEFt9mboqqzP5-oGVMEbr-jnGQK6alqmrqgzppvWmzgP92P5bhxZ8f1esvvY34_sXjQf2lScD_lfv7w5Xf74eM4XOywEsZEchCUInRpu44XwTusGMzfyll6d1z30ajFuiMC7GPVbzsa9hi6hInQaKCMhnooIGbFsVdS1Bt9eYM-lMMViTeSkJ1E5FadS84mFAjl5nPetKXfPlA9ayIWexN5z4uALxWzIm3WKarEJl-0FOe4-kb0FxuhURMnK457ux-014GL0XNLlDZ1SYvVEW_BQnaa8Ro8Y766-jdLEQedYE2NSW88bnLxsOYxz7jZZzKKdQlyqYJDFi-tOcdPdLZ8iRi8oSnhAFurs4xg0TM4a5vgxiwuMIK1Zn4bHKLfp7G-AQcTGQKEia7wjjY4bxOfnoKc4i-CUcPdanNYruiLP-QohbJNpj2sZh7v0qXadXHuCCXOd7XJ_2WKPZDeGg1qcyIrIeEWTJHTt-MYiGuXvLn13-CE_uHAIfLi3AzGZFb9dXUSml2hjRTUgh1BTy18VwwQ6mEM7p8D4G1PoGtQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT92gfXKQRJQLA0XgdavX8jrJuEjiYuDBX1ze8y185FLd5_FcyXLbWk0FGq54MtrJmHDkEk6NlqTn7PmJ1Kfwq4E0xTIVNKseSxskc70nAjGRI7cOButfiQwg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "Gigabyte X870E AORUS MASTER Motherboard",
+      "rating": 4.7,
+      "reviews": 10,
+      "price": "$509.99",
+      "extracted_price": 509.99,
+      "original_price": "$550",
+      "extracted_original_price": 550,
+      "location": "Nearby, 7 mi",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "ra6tZHicdZJLrqNGFIalrCG78KSqKF6Z2eZhcy9gCopXBhamsI2pAmLjB1b2kD34dkfqDLtb6mm2cbOaWJ1JBskZHemT_v-cX_9vj6r-Jtp-WxzvyB7OTj8EK7kvljjAn_pjx87lULMvkoKgjIEKniMpAMuK_qkshoJ3uyfVNFWSgaogpCgagLIqo8_7qmC8bit_u62ORlfW7CtUMQJQUZEuIx2gp56i_1GLYld95180gFXlKQKxKilQB7oC347s9I5X8zVUkKLLKsIIYUl_GkgY_LoivrH-H_jxl3N1HN9_tutdsRmHapJqKjAnU5P4k1QyJsaUvEwS3zcmbjfsq-OmK45sIv69o_WJd8NpIorbWlSiO47r3WbSl3X1D_i467-_9R_ub6Jmn2VVwQrSdE3Wsa4BhMBbfxke-92H85lXfz52_HE-Pfb8UbW_d0V_2ZZ__fCj2V2N-ek6D2jfxwYBYTqbZ8DxCxO-UHt4DQBbkrS7-1EpR5EpEXBb0daTStFfNpL1EqX5JYMO38xhQJNgpLaMiMjbQMTCt_VzdnCBTzGOeIMLOz95ER0YcFZuwxfUYiOxWBRAV4qtAEaU13mT-zkgdZz2ddmaUkZ7Hrf8xoCXVCZRygWDScI7bxHAHOz5a9pfCovhDXdRfJgtKOCXuNHG_GDZpWHNQtPzGJxKWctXbA6lgufARbnjNbdj0pKW0b7JqSu5YiChgApd9P4rzZ_XO7McxXFoMt9rXCkQnURNhkOu12Gj0ypd3gobhl4jZ2ThnALudbkIQEzZ3G3Izb3zIALwFLfM8w75PKE6j-I9z1oXVTROq5STksb33NJXmejHQgwdMymO7ixyqcwpaJ6B7nBieZK_IHM_mnlh2slkBHImAMiEcyjTpZzYp9BC8Fza-b5su5FIBIbtDNB4CkvbcjzLBHbtzMjCG_0kJxQ68cbqM2oTHoi9cBezcGNDGEXxkln0Ghmz9sPtdNy-g6klD6EvZ0bYX7Va3EeLxNdV8qonDY63kYR2P0FVw8qziOBZO_VvXxhFWg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ra6tZHicdZJLrqNGFIalrCG78KSqKF6Z2eZhcy9gCopXBhamsI2pAmLjB1b2kD34dkfqDLtb6mm2cbOaWJ1JBskZHemT_v-cX_9vj6r-Jtp-WxzvyB7OTj8EK7kvljjAn_pjx87lULMvkoKgjIEKniMpAMuK_qkshoJ3uyfVNFWSgaogpCgagLIqo8_7qmC8bit_u62ORlfW7CtUMQJQUZEuIx2gp56i_1GLYld95180gFXlKQKxKilQB7oC347s9I5X8zVUkKLLKsIIYUl_GkgY_LoivrH-H_jxl3N1HN9_tutdsRmHapJqKjAnU5P4k1QyJsaUvEwS3zcmbjfsq-OmK45sIv69o_WJd8NpIorbWlSiO47r3WbSl3X1D_i467-_9R_ub6Jmn2VVwQrSdE3Wsa4BhMBbfxke-92H85lXfz52_HE-Pfb8UbW_d0V_2ZZ__fCj2V2N-ek6D2jfxwYBYTqbZ8DxCxO-UHt4DQBbkrS7-1EpR5EpEXBb0daTStFfNpL1EqX5JYMO38xhQJNgpLaMiMjbQMTCt_VzdnCBTzGOeIMLOz95ER0YcFZuwxfUYiOxWBRAV4qtAEaU13mT-zkgdZz2ddmaUkZ7Hrf8xoCXVCZRygWDScI7bxHAHOz5a9pfCovhDXdRfJgtKOCXuNHG_GDZpWHNQtPzGJxKWctXbA6lgufARbnjNbdj0pKW0b7JqSu5YiChgApd9P4rzZ_XO7McxXFoMt9rXCkQnURNhkOu12Gj0ypd3gobhl4jZ2ThnALudbkIQEzZ3G3Izb3zIALwFLfM8w75PKE6j-I9z1oXVTROq5STksb33NJXmejHQgwdMymO7ixyqcwpaJ6B7nBieZK_IHM_mnlh2slkBHImAMiEcyjTpZzYp9BC8Fza-b5su5FIBIbtDNB4CkvbcjzLBHbtzMjCG_0kJxQ68cbqM2oTHoi9cBezcGNDGEXxkln0Ghmz9sPtdNy-g6klD6EvZ0bYX7Va3EeLxNdV8qonDY63kYR2P0FVw8qziOBZO_VvXxhFWg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRG0kafLf9T3YAZSII2i_qxLrE4sRdSl_l3f4TMRY2710i8XI9EbGhOEiVGlMDU_bNjUimoizxTAqE30E_jnWv-Evx0p2pwNmA6jTgQmFV2",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "GIGABYTE X870E AORUS PRO Motherboard",
+      "rating": 4.3,
+      "reviews": 28,
+      "price": "$355.99",
+      "extracted_price": 355.99,
+      "original_price": "$395",
+      "extracted_original_price": 395,
+      "location": "Also nearby",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "9% OFF"
+      ],
+      "immersive_product_page_token": "3q_LyXicbZNJjuNGEEUBn8G30CZHDt6JJZIqVpOUksrk4EWBk0SKyaElSqIKfQffQdVtoL1sG_DW1yifxioYBrzoXSA-8OJ_4Mcvt7L-s-2GbXp4QfZ4coZxvaJD-kjW5Otw6ItTPtbF7xhRBWIdIZVokGqEQuVrno6p7Hd18QeEiECsAR1jrAIVYEXXv1VlWsi6K_3ttjws-vxO0VRV0aGi3CFEw5jccb_Vbbor_5M1jWCiQ0o1qhOi6crroTi-odXD8x2rAwrouwGdEk3V9U8r5i-ev699-XgqD9e3n-16l2bXsZxFmgrM2dxk_izCi9lizp5moe8vZm4_VuUh69NDMWv_P6Pno-zH46xNp-e2bPvD9XmXzYa8Lv8VvuyGd9PfOf7a1sU3qipEQe8rqiFCFVV_Hc7jrdp9Pp1k-ddtJ2-n462St7L7tU-H8zb_-4cfzf6yeDheHtZ8GMSCgaCVoUC08SNDlptHwEPm-Zaz2TSTkjReUgr54AXQy2B8yS3DCfm48nhFXABxIuUlMJuXYr8bc-QtUzR9zPZGJKICR3Co84YSvvHGFEtrw6eVi4cw4KMXg8FJcNKvgfTjdgzTRhcCFVHMJyV4YWePDxNHXsz28oMbJaeyndY5gjg0aVQ2BQ_tyir4kbqW3CZNM8Z4jj9ExWOEhSxerMcETYknjDgXRS0Q3DLAnhiuZNhVzLUv0xobMdvkV1eyJoDOFKFqL5A3RrCAReSs-b7qg24wOZyTkBdUADYkYNq4nNkJp20uBo8tGxqY8CmXhhc2uhtHDopbEwVoCjPQkMBylsLy3LizOFsYwBWVnSO5WoNxGXQx4bYQGR9isTRYBoczi6ouhnpfCC_2QzEmnYjCqB8TICMXW5aHmbXeJ6AUeWAheMrtpMq7_sowg0FnAC7mMLctx7NMYNeOwZbe1Q8TFsj-srHZKYZ35j33PRtLF7KJQ-qLZhLuPsGfp-Nh-wbmFh0DX5lnQsHGk7o0r-djS0GeA7jcXrJ-uPwEVY0o96cC99op_wATwUXY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3q_LyXicbZNJjuNGEEUBn8G30CZHDt6JJZIqVpOUksrk4EWBk0SKyaElSqIKfQffQdVtoL1sG_DW1yifxioYBrzoXSA-8OJ_4Mcvt7L-s-2GbXp4QfZ4coZxvaJD-kjW5Otw6ItTPtbF7xhRBWIdIZVokGqEQuVrno6p7Hd18QeEiECsAR1jrAIVYEXXv1VlWsi6K_3ttjws-vxO0VRV0aGi3CFEw5jccb_Vbbor_5M1jWCiQ0o1qhOi6crroTi-odXD8x2rAwrouwGdEk3V9U8r5i-ev699-XgqD9e3n-16l2bXsZxFmgrM2dxk_izCi9lizp5moe8vZm4_VuUh69NDMWv_P6Pno-zH46xNp-e2bPvD9XmXzYa8Lv8VvuyGd9PfOf7a1sU3qipEQe8rqiFCFVV_Hc7jrdp9Pp1k-ddtJ2-n462St7L7tU-H8zb_-4cfzf6yeDheHtZ8GMSCgaCVoUC08SNDlptHwEPm-Zaz2TSTkjReUgr54AXQy2B8yS3DCfm48nhFXABxIuUlMJuXYr8bc-QtUzR9zPZGJKICR3Co84YSvvHGFEtrw6eVi4cw4KMXg8FJcNKvgfTjdgzTRhcCFVHMJyV4YWePDxNHXsz28oMbJaeyndY5gjg0aVQ2BQ_tyir4kbqW3CZNM8Z4jj9ExWOEhSxerMcETYknjDgXRS0Q3DLAnhiuZNhVzLUv0xobMdvkV1eyJoDOFKFqL5A3RrCAReSs-b7qg24wOZyTkBdUADYkYNq4nNkJp20uBo8tGxqY8CmXhhc2uhtHDopbEwVoCjPQkMBylsLy3LizOFsYwBWVnSO5WoNxGXQx4bYQGR9isTRYBoczi6ouhnpfCC_2QzEmnYjCqB8TICMXW5aHmbXeJ6AUeWAheMrtpMq7_sowg0FnAC7mMLctx7NMYNeOwZbe1Q8TFsj-srHZKYZ35j33PRtLF7KJQ-qLZhLuPsGfp-Nh-wbmFh0DX5lnQsHGk7o0r-djS0GeA7jcXrJ-uPwEVY0o96cC99op_wATwUXY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT5w113CE8_JipDJ-mVTLHSSgwjVMpfV0dnztRaji80ggeSv4K4OvFi5OH-QZ4IWOmmMjqR3z1mUofErGigdbxDvZZ7Ia3rNpHWw3ZSU_whkcD2j3yHeTaMqQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "Gigabyte X870E AORUS PRO Motherboard",
+      "rating": 4.6,
+      "reviews": 57,
+      "price": "$275.99",
+      "extracted_price": 275.99,
+      "location": "Nearby, 16 mi",
+      "immersive_product_page_token": "L594mXicbc1NjqNGAAVgKWfILbypovjNrrEpMNOAXVBVQBYWprCxjaEG47aN5g65g3sm0sxyZqRsc43OaeIoipTF7J70Pb33273a_XFs5aboR8Udzr4clgtNFnN1qX6WfSfO5bAT36CmaQrUdN0AQLEQ0HXwuSyGoum2O_Ed6joCGnyYqUOEEDCA8rWuCtHs2irabKp-1pX_9B6iG6qlIGAamm4BVbW-7I7FtvrPLdXSVNNQoPUoABWZ1msvTm_KYroydFXToAash0NDRQYwPyxINFv92D69P1f97e1Xd7ct1rehmqSmAZzJk0OiSYpmk9kTeTfhUTSbBN1QV_26K3oxOf4_K6tT0w2nybG4ro7Vsetvq-16Istd9S982j6y-PaD89fjTnzVHqArqmUplmlq1oNf5ctwr7cfz-em-vO-be7n071u7lX7e1fIl035108_O91lNj1dpksqJZsREB8GGUK5yOhcjWEoE0aS51SAkksesGafeGK5RtshhX7BGxsub7DJUXAL4FIlI5sHx3Jknr1g_DqNKMFrj7l5S0iy998LcIEVt3LhyY54JFhCQeK0XhRuHSRJpmW0HLNWYu7V-hqa6DmxM9oQPzzAgiGsMERVBpqYY5-XB0xCJ0RRSmHBr2E1Ywpt6I3yoa9c5meNpYVjbZdJzVIYaMVBNMU-xAFmJwJwH3rBNR4PasQ1m4ErCB3JI_yEcucaxjPRFixnyV7wtYdR7glnDZtDCmQbO8MlBfkig-U1QTaqnPocK-YQpXVceSLgR59n-wwKigNKLZ67V69sRMRoEyaIaRTMR4qbQHhsXrYhjTyGqQvttVtf6N65Fh6exh7pQkjOMRdLSv2X2Gl8kth24OAuHrEUbQdDRSSMDofKC2KswHPp5nXZdjeCCIxbG1D2BEsX-yF2gLvzbeKFt4jnlLWiKJ3mXclDmCkwXgN5C3EoH2tJPtYjS2308XrqN2_gCWtDHGnZLJYXc3ccb5iwy4I_W_ygsk2ClO0v0DBVXVUUoJiW8TfOiUVZ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=L594mXicbc1NjqNGAAVgKWfILbypovjNrrEpMNOAXVBVQBYWprCxjaEG47aN5g65g3sm0sxyZqRsc43OaeIoipTF7J70Pb33273a_XFs5aboR8Udzr4clgtNFnN1qX6WfSfO5bAT36CmaQrUdN0AQLEQ0HXwuSyGoum2O_Ed6joCGnyYqUOEEDCA8rWuCtHs2irabKp-1pX_9B6iG6qlIGAamm4BVbW-7I7FtvrPLdXSVNNQoPUoABWZ1msvTm_KYroydFXToAash0NDRQYwPyxINFv92D69P1f97e1Xd7ct1rehmqSmAZzJk0OiSYpmk9kTeTfhUTSbBN1QV_26K3oxOf4_K6tT0w2nybG4ro7Vsetvq-16Istd9S982j6y-PaD89fjTnzVHqArqmUplmlq1oNf5ctwr7cfz-em-vO-be7n071u7lX7e1fIl035108_O91lNj1dpksqJZsREB8GGUK5yOhcjWEoE0aS51SAkksesGafeGK5RtshhX7BGxsub7DJUXAL4FIlI5sHx3Jknr1g_DqNKMFrj7l5S0iy998LcIEVt3LhyY54JFhCQeK0XhRuHSRJpmW0HLNWYu7V-hqa6DmxM9oQPzzAgiGsMERVBpqYY5-XB0xCJ0RRSmHBr2E1Ywpt6I3yoa9c5meNpYVjbZdJzVIYaMVBNMU-xAFmJwJwH3rBNR4PasQ1m4ErCB3JI_yEcucaxjPRFixnyV7wtYdR7glnDZtDCmQbO8MlBfkig-U1QTaqnPocK-YQpXVceSLgR59n-wwKigNKLZ67V69sRMRoEyaIaRTMR4qbQHhsXrYhjTyGqQvttVtf6N65Fh6exh7pQkjOMRdLSv2X2Gl8kth24OAuHrEUbQdDRSSMDofKC2KswHPp5nXZdjeCCIxbG1D2BEsX-yF2gLvzbeKFt4jnlLWiKJ3mXclDmCkwXgN5C3EoH2tJPtYjS2308XrqN2_gCWtDHGnZLJYXc3ccb5iwy4I_W_ygsk2ClO0v0DBVXVUUoJiW8TfOiUVZ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQAAIYDl3LuIrS0uGr9efGw1JqbHsO-j_hXuJltGUXo2lZ_vlbkXo2_MM2rXgyfp1wuw6N-PCyfF0hzr3r8I_Pp4hrJkd58yvDXSIPbRO3sG-9MFWKAkLgbzQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "GIGABYTE X870E AORUS MASTER X3D Motherboard",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$589.99",
+      "extracted_price": 589.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "-4IElHicdZNJjuNWDIaBnCG38OYNGrMrlwaXqixZT2-QlYWhyZKi0bZctoXcIXdwdQfoLLsbyDbXqJwmavQmiwQggR_8SBAkyN_uefVn2w37-Dghezw7w-hv5CF-knzp03Dss3M6VtlXqOiqpmOMNQUDiJEyq09pPMZNX3zDGlBU-ZtpECGkIh3iz2UeZ03V5d5-nx-NPq2yLwrAc4aky1iHioYxktU_qjYu8u9Yk4GOoaRIkgKRJCMgaW_H7PQubR53UAaqIqkAA1mCs5AA1n7dEM_Y_Q_8eDjnx9v7z3ZVxMltzBehpgJz8WASbxFiY2E8kOeF8Dxjse7HMj8mfXzMFu2_Ndqdmn48Ldr4umvztj_edkWyGNIq_w4-FrOep_-P7m9tlX2W57CCNB0gdXZZAcrb8Drey-LD-dzkf92L5n4-3cvmnne_9_Hwuk___uFHs78Yj6fLo8-GgRsEBKhATDROYJtTVoGbP_GYNSkMcckioMPYlrlrX-vIMK8vYQQTrkHP5o4fWkuOXZC3o8_CsnLNMQxaMrEKjARmj4HhPK-x9RLC8uxzUrsdOSdgOKwruF43pHMtd-Imv1AUnVjICTUdwcynyWdM5iun82F_ybnOqBkJZnHOahJyUQNKuVhPjfDrBvhNw2idPVPmXwI2soSWUWxLUhSWB9YOgNZj7IfkEGLeZ8Lp4pr4IXYJpfUUUMegq2ad18522-rIZ2RIbeeaNOuJdI7YgrLmyAIeS2_JqumFIMcElq8UjXZWc0qFDyL-NO-nkWOuv27FtUpNGOd2aaZgLEWbvXDDxHHIL1E3nIXNbbcuYMKyvR9yTCzXjyp4Y4AHIdKXWesO7opE1CxAYI8eY1knVs0hFc4hQT3Of1kOsR0taW0GFoLn1I7KtOtvBBMYdEvA-ANMbctxLRPYlbMkK_fmiYhmFl-7rEBbND5vYbma6w4J0DcRc_a00S1XjPjD9XTcv4MHSx4DT94awXDRqna6WYRfNuJFF7XE9xSj4ieoavP_IATms1P_AfEvR5E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-4IElHicdZNJjuNWDIaBnCG38OYNGrMrlwaXqixZT2-QlYWhyZKi0bZctoXcIXdwdQfoLLsbyDbXqJwmavQmiwQggR_8SBAkyN_uefVn2w37-Dghezw7w-hv5CF-knzp03Dss3M6VtlXqOiqpmOMNQUDiJEyq09pPMZNX3zDGlBU-ZtpECGkIh3iz2UeZ03V5d5-nx-NPq2yLwrAc4aky1iHioYxktU_qjYu8u9Yk4GOoaRIkgKRJCMgaW_H7PQubR53UAaqIqkAA1mCs5AA1n7dEM_Y_Q_8eDjnx9v7z3ZVxMltzBehpgJz8WASbxFiY2E8kOeF8Dxjse7HMj8mfXzMFu2_Ndqdmn48Ldr4umvztj_edkWyGNIq_w4-FrOep_-P7m9tlX2W57CCNB0gdXZZAcrb8Drey-LD-dzkf92L5n4-3cvmnne_9_Hwuk___uFHs78Yj6fLo8-GgRsEBKhATDROYJtTVoGbP_GYNSkMcckioMPYlrlrX-vIMK8vYQQTrkHP5o4fWkuOXZC3o8_CsnLNMQxaMrEKjARmj4HhPK-x9RLC8uxzUrsdOSdgOKwruF43pHMtd-Imv1AUnVjICTUdwcynyWdM5iun82F_ybnOqBkJZnHOahJyUQNKuVhPjfDrBvhNw2idPVPmXwI2soSWUWxLUhSWB9YOgNZj7IfkEGLeZ8Lp4pr4IXYJpfUUUMegq2ad18522-rIZ2RIbeeaNOuJdI7YgrLmyAIeS2_JqumFIMcElq8UjXZWc0qFDyL-NO-nkWOuv27FtUpNGOd2aaZgLEWbvXDDxHHIL1E3nIXNbbcuYMKyvR9yTCzXjyp4Y4AHIdKXWesO7opE1CxAYI8eY1knVs0hFc4hQT3Of1kOsR0taW0GFoLn1I7KtOtvBBMYdEvA-ANMbctxLRPYlbMkK_fmiYhmFl-7rEBbND5vYbma6w4J0DcRc_a00S1XjPjD9XTcv4MHSx4DT94awXDRqna6WYRfNuJFF7XE9xSj4ieoavP_IATms1P_AfEvR5E"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "oG98vHicxZbvcqo6EMAf4D7H5YtV8L90hjmTBKpoW8DWavuF4V8DFQwFWsVv513uU92nuQHFQqt2zpk5c3dGkg2bzSbZH-vPf3xvtfz3L8ZNkjC-ZNn1et3AhGDfaVgkYI04XVnsM_HjyHJ_uL7grBjsC28xk74LbcaKBY5xPCFYhc9GtG0Nk7dxmGhqNzTkjtZh8umCbhqx80K9b15iVmfpY_l3W6RKI244qwZvq45jRorD40aLa_INhTUCagD-rGDgZQ8MZKrIX14jgLXvHAApe6IPu8KNVDJb5xqE1GNugU76w3njSYA6VOGq68YADHeD1rlAxlX1KpsiazDbhIx2gX6WY1uDRauVtaNy5CXc-y223jm7ViayXPVD15X0fEirriKXnWjZ8GPeVTTgiGvgrvHkTKyIAHGI7zR87JbLEgJXLdYxAUcvirUxzUOONSPaNFnPcq28E8VZeqJ7niPDKxDJo3lKblejW1sJN2rXFm_h6_A2waxlUjufGLZj667O_cj1ZqvZ5fh2f3CRc2HFBzDiChgz3zeV0fWNRhrXDdgsUYEPp1KSbHB69JiLwzsyYX_EWMo7aZG4pLCBRKOTPyZeiTJcA1Cg2clyTcRfM5r6PkJFLgc0bkBORR4c2rV7R-WswPgwoZRHo0_rlSOAhXskU_aKsWHFuhIxose2PEByU3WludIu_eDd3kSBnQrfQCtpaLdFDUNY3Yq820GnZJddDKaprD1RfYzx4WOUT5L3AR3W_QiqSh-9Aoxm0lleT8k5bvaCQZH-n7K5TMEodR56-GmxcusTn5s-tHhp3B89bUMka8ezngTmL9QD63_nIq8WpKgWR7hwv-Eirxb4dLXYJ9G64CK3m0B0kotl3larxehTtTjGxbjKxelq8cFFFsp5LuA5LuApLugH_wsX2gkuimpR4mL5qVrAw6lmQx9c_Hq1MH6vWuSYOLumWjreXvDpEoKNnitL075eD1uz-xE3mW82RF_xMPy-hDwHyWVg2P6F7tmXsDVOUvtCpwPk0rGZV2HoYcNME6e2GPQ5qQakqVJbtMWaCKaT2lxRxNoNSVwnMokR2bWg3G_psU-SuBYYGz1wAhKlOjZroeU5uxdM4EdE4Iz-dT0QefVxeieup1LibqdKEiv1aWvmbDS1l_TmoorELe5E29f6IH0NZ3NH7fve0_uDiscbZJoSEq8WdYIeX5L4XZy3CJ6ShfaoeYS339rz59kwQLb_NLqTtovBWwyGiyANNqqIXJKCNq973BbXoaze3F_7eVSxYAxB76r9MHtsz5ggsgQE5M4S3Gr0_xS0AKLJhTD9Efpb01tkYsvQnfhdaNn8M9_tc4Y56BqDnsMEOElDgeeYeBUJzf8ArX8yAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oG98vHicxZbvcqo6EMAf4D7H5YtV8L90hjmTBKpoW8DWavuF4V8DFQwFWsVv513uU92nuQHFQqt2zpk5c3dGkg2bzSbZH-vPf3xvtfz3L8ZNkjC-ZNn1et3AhGDfaVgkYI04XVnsM_HjyHJ_uL7grBjsC28xk74LbcaKBY5xPCFYhc9GtG0Nk7dxmGhqNzTkjtZh8umCbhqx80K9b15iVmfpY_l3W6RKI244qwZvq45jRorD40aLa_INhTUCagD-rGDgZQ8MZKrIX14jgLXvHAApe6IPu8KNVDJb5xqE1GNugU76w3njSYA6VOGq68YADHeD1rlAxlX1KpsiazDbhIx2gX6WY1uDRauVtaNy5CXc-y223jm7ViayXPVD15X0fEirriKXnWjZ8GPeVTTgiGvgrvHkTKyIAHGI7zR87JbLEgJXLdYxAUcvirUxzUOONSPaNFnPcq28E8VZeqJ7niPDKxDJo3lKblejW1sJN2rXFm_h6_A2waxlUjufGLZj667O_cj1ZqvZ5fh2f3CRc2HFBzDiChgz3zeV0fWNRhrXDdgsUYEPp1KSbHB69JiLwzsyYX_EWMo7aZG4pLCBRKOTPyZeiTJcA1Cg2clyTcRfM5r6PkJFLgc0bkBORR4c2rV7R-WswPgwoZRHo0_rlSOAhXskU_aKsWHFuhIxose2PEByU3WludIu_eDd3kSBnQrfQCtpaLdFDUNY3Yq820GnZJddDKaprD1RfYzx4WOUT5L3AR3W_QiqSh-9Aoxm0lleT8k5bvaCQZH-n7K5TMEodR56-GmxcusTn5s-tHhp3B89bUMka8ezngTmL9QD63_nIq8WpKgWR7hwv-Eirxb4dLXYJ9G64CK3m0B0kotl3larxehTtTjGxbjKxelq8cFFFsp5LuA5LuApLugH_wsX2gkuimpR4mL5qVrAw6lmQx9c_Hq1MH6vWuSYOLumWjreXvDpEoKNnitL075eD1uz-xE3mW82RF_xMPy-hDwHyWVg2P6F7tmXsDVOUvtCpwPk0rGZV2HoYcNME6e2GPQ5qQakqVJbtMWaCKaT2lxRxNoNSVwnMokR2bWg3G_psU-SuBYYGz1wAhKlOjZroeU5uxdM4EdE4Iz-dT0QefVxeieup1LibqdKEiv1aWvmbDS1l_TmoorELe5E29f6IH0NZ3NH7fve0_uDiscbZJoSEq8WdYIeX5L4XZy3CJ6ShfaoeYS339rz59kwQLb_NLqTtovBWwyGiyANNqqIXJKCNq973BbXoaze3F_7eVSxYAxB76r9MHtsz5ggsgQE5M4S3Gr0_xS0AKLJhTD9Efpb01tkYsvQnfhdaNn8M9_tc4Y56BqDnsMEOElDgeeYeBUJzf8ArX8yAQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "X870E AERO X3D DARK WOOD Motherboard",
+      "link": "https://www.gigabyte.com/us/Motherboard/X870E-AERO-X3D-DARK-WOOD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.gigabyte.com%2Fus%2FMotherboard%2FX870E-AERO-X3D-DARK-WOOD&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECB0QAQ",
+      "displayed_link": "https://www.gigabyte.com › ... › Motherboard",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png",
+      "snippet": "Full-Length PCIe Slots. 1 x PCIe 5.0 x16 with PCIe UD Slot X; 1 x PCIe 5.0 x16 slot (run x8); 1 x PCIe 4.0 x16 slot (run x4). Total 8*PWM/DC Headers. Dual Fan ...",
+      "snippet_highlighted_words": [
+        "PCIe Slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Full-Length PCIe Slots. 1 x PCIe 5.0 x16 with PCIe UD Slot X; 1 x PCIe 5.0 x16 slot (run x8); 1 x PCIe 4.0 x16 slot (run x4). Total 8*PWM/DC Headers. Dual Fan ...",
+          "source_info_link": "https://www.gigabyte.com/us/Motherboard/X870E-AERO-X3D-DARK-WOOD",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.gigabyte.com%2Fus%2FMotherboard%2FX870E-AERO-X3D-DARK-WOOD&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gigabyte.com%2Fus%2FMotherboard%2FX870E-AERO-X3D-DARK-WOOD",
+      "source": "Gigabyte",
+      "read_more_link": "https://www.gigabyte.com/us/Motherboard/X870E-AERO-X3D-DARK-WOOD"
+    },
+    {
+      "position": 2,
+      "title": "X870E AERO X3D DARK WOOD｜AORUS - GIGABYTE USA",
+      "link": "https://www.aorus.com/en-us/motherboards/x870e-aero-x3d-dark-wood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.aorus.com%2Fen-us%2Fmotherboards%2Fx870e-aero-x3d-dark-wood&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECB4QAQ",
+      "displayed_link": "https://www.aorus.com › Home › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXOIQyDMBSE4fOTeDc_hUNjMah65OREJT7I-lTMY6qR1RM1FU2QCCz2FnCkD7999s8lhz9QofUFREMaZ1oImonc4iaOFu5WZNREXrX7eN3wqN_cLZCU_mg3yBKZ_PGrQiYyRQcUjhqZJQVWGMkaOR_ISM4QcecgK1eyxyXbQGSDNaFX0TXRd90pFV6ngM_sdLp7a9QpGqiX7fXTtHbolC3wm76Mam_MgfkV1AAAAABJRU5ErkJggg.png",
+      "snippet": "Full-Length PCIe Slots 1 x PCIe 5.0 x16 with PCIe UD ・ 4 x DIMMs, Dual Channel DDR5 Socket AM5 Supports AMD RyzenTM Series Processors. M.2 Slots 2 x PCIe. ...",
+      "snippet_highlighted_words": [
+        "PCIe Slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Full-Length PCIe Slots 1 x PCIe 5.0 x16 with PCIe UD ・ 4 x DIMMs, Dual Channel DDR5 Socket AM5 Supports AMD RyzenTM Series Processors. M.2 Slots 2 x PCIe. ...",
+          "source_info_link": "https://www.aorus.com/en-us/motherboards/x870e-aero-x3d-dark-wood",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXOIQyDMBSE4fOTeDc_hUNjMah65OREJT7I-lTMY6qR1RM1FU2QCCz2FnCkD7999s8lhz9QofUFREMaZ1oImonc4iaOFu5WZNREXrX7eN3wqN_cLZCU_mg3yBKZ_PGrQiYyRQcUjhqZJQVWGMkaOR_ISM4QcecgK1eyxyXbQGSDNaFX0TXRd90pFV6ngM_sdLp7a9QpGqiX7fXTtHbolC3wm76Mam_MgfkV1AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.aorus.com%2Fen-us%2Fmotherboards%2Fx870e-aero-x3d-dark-wood&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aorus.com%2Fen-us%2Fmotherboards%2Fx870e-aero-x3d-dark-wood",
+      "source": "AORUS"
+    },
+    {
+      "position": 3,
+      "title": "X870E AERO X3D DARK WOOD Redefines the Motherboard",
+      "link": "https://www.gigabyte.com/press/news/2379",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.gigabyte.com%2Fpress%2Fnews%2F2379&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECCAQAQ",
+      "displayed_link": "https://www.gigabyte.com › Newsroom › News",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png",
+      "date": "Apr 2, 2026",
+      "snippet": "DDR5 memory can be overclocked up to 9000MT/s for lightning-fast speeds. Built on the AMD Socket AM5 platform, it supports the latest RyzenTM ...",
+      "snippet_highlighted_words": [
+        "DDR5 memory can be overclocked up to 9000MT/s"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DDR5 memory can be overclocked up to 9000MT/s for lightning-fast speeds. Built on the AMD Socket AM5 platform, it supports the latest RyzenTM ...",
+          "source_info_link": "https://www.gigabyte.com/press/news/2379",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.gigabyte.com%2Fpress%2Fnews%2F2379&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gigabyte.com%2Fpress%2Fnews%2F2379",
+      "source": "Gigabyte"
+    },
+    {
+      "position": 4,
+      "title": "Gigabyte X870E Aero X3D Wood Review",
+      "link": "https://www.techpowerup.com/review/gigabyte-x870e-aero-x3d-wood/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fgigabyte-x870e-aero-x3d-wood%2F&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECBsQAQ",
+      "displayed_link": "https://www.techpowerup.com › review › gigabyte-x87...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "date": "May 21, 2026",
+      "snippet": "Its new boards have automatically adjusting M.2 heatsinks, a doubling of BIOS size and tweaked bandwidth to avoid stealing PCIe lanes from your ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0
+          },
+          "extensions": [
+            "5.0",
+            "Review by Combatus (TPU)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Its new boards have automatically adjusting M.2 heatsinks, a doubling of BIOS size and tweaked bandwidth to avoid stealing PCIe lanes from your ...",
+          "source_info_link": "https://www.techpowerup.com/review/gigabyte-x870e-aero-x3d-wood/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fgigabyte-x870e-aero-x3d-wood%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fgigabyte-x870e-aero-x3d-wood%2F",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 5,
+      "title": "X870E AERO X3D WOOD Motherboard Support",
+      "link": "https://www.gigabyte.com/Motherboard/X870E-AERO-X3D-WOOD/support",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FX870E-AERO-X3D-WOOD%2Fsupport&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECBwQAQ",
+      "displayed_link": "https://www.gigabyte.com › Motherboard › support",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png",
+      "snippet": "X870E AERO X3D WOOD motherboard with AMD Socket AM5, DDR5 OC 9000MT/s, PCIe 5.0, Wi-Fi 7, and AI-powered X3D Turbo Mode 2.0 for ultimate gaming and ...",
+      "snippet_highlighted_words": [
+        "X870E AERO X3D WOOD motherboard",
+        "X3D"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "X870E AERO X3D WOOD motherboard with AMD Socket AM5, DDR5 OC 9000MT/s, PCIe 5.0, Wi-Fi 7, and AI-powered X3D Turbo Mode 2.0 for ultimate gaming and ...",
+          "source_info_link": "https://www.gigabyte.com/Motherboard/X870E-AERO-X3D-WOOD/support",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAjdgAjNYAjNYAjNYAjNYAjNYAjNYAk9oAjNYAjNYAjNaJYpnoAB_nAB_mACHmACHr41-wAAAAEXRSTlMAIlR1g_9AohTeNsA_OPL_J8eX3QcAAACMSURBVHgBpdBVFsMwDAVRKczJ_lfbGsYnrwzze42y__Oqbkou1LRSd6JKRLFXAdUU9cy-Kg0gZA-qXhg32sPGaI2lhiklV3b6gFfoemwNitnchsYTLisx8qrgsO251VzeEM4EVy691ntAt4CYTUFosIAYM8LAQx-MBQxGPQZGo2mMBmLkDWbYw7B_ugD3rgl42PyhhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FX870E-AERO-X3D-WOOD%2Fsupport&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gigabyte.com%2FMotherboard%2FX870E-AERO-X3D-WOOD%2Fsupport",
+      "source": "Gigabyte"
+    },
+    {
+      "position": 6,
+      "title": "GIGABYTE X870E AERO X3D DARK WOOD AMD AM5 ...",
+      "link": "https://www.newegg.com/gigabyte-atx-22-motherboards-amd-amd-x870e-am5/p/N82E16813145619?srsltid=AfmBOooxz_4KWmb8sflaRMCG_t4AcCd46WwK-fObx-yo-yv-SYl0MAiu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fgigabyte-atx-22-motherboards-amd-amd-x870e-am5%2Fp%2FN82E16813145619%3Fsrsltid%3DAfmBOooxz_4KWmb8sflaRMCG_t4AcCd46WwK-fObx-yo-yv-SYl0MAiu&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECEoQAQ",
+      "displayed_link": "https://www.newegg.com › ... › GIGABYTE",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Buy GIGABYTE X870E AERO X3D DARK WOOD AMD AM5 ATX Motherboard, Support Ryzen 9000/8000/7000 Series, DDR5, 16+2+2 Power Phase, 4x M.2, PCIe 5.0, USB4, WIFI7, ...",
+      "snippet_highlighted_words": [
+        "GIGABYTE X870E AERO X3D DARK WOOD AMD AM5 ATX Motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy GIGABYTE X870E AERO X3D DARK WOOD AMD AM5 ATX Motherboard, Support Ryzen 9000/8000/7000 Series, DDR5, 16+2+2 Power Phase, 4x M.2, PCIe 5.0, USB4, WIFI7, ...",
+          "source_info_link": "https://www.newegg.com/gigabyte-atx-22-motherboards-amd-amd-x870e-am5/p/N82E16813145619?srsltid=AfmBOooxz_4KWmb8sflaRMCG_t4AcCd46WwK-fObx-yo-yv-SYl0MAiu",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fgigabyte-atx-22-motherboards-amd-amd-x870e-am5%2Fp%2FN82E16813145619%3Fsrsltid%3DAfmBOooxz_4KWmb8sflaRMCG_t4AcCd46WwK-fObx-yo-yv-SYl0MAiu&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fgigabyte-atx-22-motherboards-amd-amd-x870e-am5%2Fp%2FN82E16813145619%3Fsrsltid%3DAfmBOooxz_4KWmb8sflaRMCG_t4AcCd46WwK-fObx-yo-yv-SYl0MAiu",
+      "source": "Newegg"
+    },
+    {
+      "position": 7,
+      "title": "GIGABYTE X870E Aero X3D Dark Wood Review",
+      "link": "https://www.tweaktown.com/reviews/11528/gigabyte-x870e-aero-x3d-dark-wood-a-woody-goody/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tweaktown.com%2Freviews%2F11528%2Fgigabyte-x870e-aero-x3d-dark-wood-a-woody-goody%2Findex.html&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECB8QAQ",
+      "displayed_link": "https://www.tweaktown.com › ... › Socket AM5",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEX____w8_nN1OlXc7wAMKRmf8HZ3u29x-I9YbUAO6cUSKsocMTJ5Prg5fKsuNsjUa8APqhQi9B2w_eB1P_N7f98kMgAN6aYqNQTQKdZmNl-z_-A0f-o0PIsYrlOouT7_v8AHHceTbAsW7RipOGD1v8_dcNvufB2z_8AGlcAKmEAM3xIgstzzP-G3P9syv8AAFJIgrAzZaOh2__r9_-zu8kSPG8AFVg8eKdqs-HBytZljrQACE5ndpIAI15Tkb8cSHqBj6cAG2h2iKkANJRSZYc-X6kVQ38AC2USQpoAF1UAAEcAN3I-AvvhAAABIElEQVR4Aa3S1YJCIRAAUOzOcRW78Hbb3f3__7NcW7ZjXohDM-ifwvExOV1uj_d98vkDwWAgFLYXiDxTNBYPBoOJJKRQ5CWdfljBkQnGgziWzUE-V_Ckg0FcLJWvWMFVXKsDpRzJ4iBucIS_oSBKHKGSy0O9huUkrSsPKKo527gYTuROw7Qb6qJI8pDPgWEC2KRYzauhVruj5rq9PBhdkrPtTnb0B53hGQEoMk8wGgsUu10ymZL3UUl5O0L7Q0RD8R2cdYQeQPN9RJl5L-tEZd1GjbHFshqPlZpoNW6rEGaXHY_rhG-iyHpT93hZPB2oiba7Kn1B9rSdfS-vNekzbwgQBh2zQ89qIor0EYDBa27o-ylRLNZuKxxJ6tP0_Hu8AkoVKg5iC3SSAAAAAElFTkSuQmCC.png",
+      "date": "Jul 6, 2026",
+      "snippet": "The GIGABYTE X870E Aero X3D Dark Wood is stunning, yet it adds strong performance, great connectivity, and good cooling too.",
+      "snippet_highlighted_words": [
+        "GIGABYTE X870E Aero X3D Dark Wood"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 95
+          },
+          "extensions": [
+            "95%",
+            "Review by Chris Szewczyk"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The GIGABYTE X870E Aero X3D Dark Wood is stunning, yet it adds strong performance, great connectivity, and good cooling too.",
+          "source_info_link": "https://www.tweaktown.com/reviews/11528/gigabyte-x870e-aero-x3d-dark-wood-a-woody-goody/index.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEX____w8_nN1OlXc7wAMKRmf8HZ3u29x-I9YbUAO6cUSKsocMTJ5Prg5fKsuNsjUa8APqhQi9B2w_eB1P_N7f98kMgAN6aYqNQTQKdZmNl-z_-A0f-o0PIsYrlOouT7_v8AHHceTbAsW7RipOGD1v8_dcNvufB2z_8AGlcAKmEAM3xIgstzzP-G3P9syv8AAFJIgrAzZaOh2__r9_-zu8kSPG8AFVg8eKdqs-HBytZljrQACE5ndpIAI15Tkb8cSHqBj6cAG2h2iKkANJRSZYc-X6kVQ38AC2USQpoAF1UAAEcAN3I-AvvhAAABIElEQVR4Aa3S1YJCIRAAUOzOcRW78Hbb3f3__7NcW7ZjXohDM-ifwvExOV1uj_d98vkDwWAgFLYXiDxTNBYPBoOJJKRQ5CWdfljBkQnGgziWzUE-V_Ckg0FcLJWvWMFVXKsDpRzJ4iBucIS_oSBKHKGSy0O9huUkrSsPKKo527gYTuROw7Qb6qJI8pDPgWEC2KRYzauhVruj5rq9PBhdkrPtTnb0B53hGQEoMk8wGgsUu10ymZL3UUl5O0L7Q0RD8R2cdYQeQPN9RJl5L-tEZd1GjbHFshqPlZpoNW6rEGaXHY_rhG-iyHpT93hZPB2oiba7Kn1B9rSdfS-vNekzbwgQBh2zQ89qIor0EYDBa27o-ylRLNZuKxxJ6tP0_Hu8AkoVKg5iC3SSAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tweaktown.com%2Freviews%2F11528%2Fgigabyte-x870e-aero-x3d-dark-wood-a-woody-goody%2Findex.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tweaktown.com%2Freviews%2F11528%2Fgigabyte-x870e-aero-x3d-dark-wood-a-woody-goody%2Findex.html",
+      "source": "TweakTown",
+      "read_more_link": "https://www.tweaktown.com/reviews/11528/gigabyte-x870e-aero-x3d-dark-wood-a-woody-goody/index.html"
+    },
+    {
+      "position": 8,
+      "title": "GIGABYTE X870E AERO X3D DARK WOOD Motherboard ...",
+      "link": "https://www.thefpsreview.com/2026/06/09/gigabyte-x870e-aero-x3d-dark-wood-motherboard-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.thefpsreview.com%2F2026%2F06%2F09%2Fgigabyte-x870e-aero-x3d-dark-wood-motherboard-review%2F&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQFnoECCEQAQ",
+      "displayed_link": "https://www.thefpsreview.com › 2026/06/09 › gigabyte...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUAAABFaYhQep8pP1JTfaRAYH4XJC8dLDk8XHg2UmoSGyNMdJdbirRaiLJdjbcsQlZci7YyS2IwSV86WHNLcZNVgahYha5DZoQkNkYhMUAIDA8UHygrQVQLEBUNFBoXIy2GAAA9AAAArklEQVR4Ae2Ph2EDIQxFPx37JI6enuy_ZRBO8RB-VHUJwgOlN8pYeZwHEOKSL1cABzGllPSZmQSDkuRN7mZ0tRRTiW3rxAOD51Ps2W9jfsaiEimAmF4yj1fgDdtIzbyfH7_G_GqJk-0GvzVzCpV46MGs4Y9Ey_50M44xpl9GJsrDY2HiZLre12Qb4_kqw6m2jPNTjMlsYyYF4SvLKDlfIH52R57WOmxC6_qIAcKDbx2TCiI1v83CAAAAAElFTkSuQmCC.png",
+      "date": "Jun 9, 2026",
+      "snippet": "The new boards include larger (64MB) BIOS chips, enhanced cooling heatsinks, EZ Release heatsinks and PCIe slots, Gen5 PCIe and M.2 support ...",
+      "snippet_highlighted_words": [
+        "PCIe slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The new boards include larger (64MB) BIOS chips, enhanced cooling heatsinks, EZ Release heatsinks and PCIe slots, Gen5 PCIe and M.2 support ...",
+          "source_info_link": "https://www.thefpsreview.com/2026/06/09/gigabyte-x870e-aero-x3d-dark-wood-motherboard-review/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUAAABFaYhQep8pP1JTfaRAYH4XJC8dLDk8XHg2UmoSGyNMdJdbirRaiLJdjbcsQlZci7YyS2IwSV86WHNLcZNVgahYha5DZoQkNkYhMUAIDA8UHygrQVQLEBUNFBoXIy2GAAA9AAAArklEQVR4Ae2Ph2EDIQxFPx37JI6enuy_ZRBO8RB-VHUJwgOlN8pYeZwHEOKSL1cABzGllPSZmQSDkuRN7mZ0tRRTiW3rxAOD51Ps2W9jfsaiEimAmF4yj1fgDdtIzbyfH7_G_GqJk-0GvzVzCpV46MGs4Y9Ey_50M44xpl9GJsrDY2HiZLre12Qb4_kqw6m2jPNTjMlsYyYF4SvLKDlfIH52R57WOmxC6_qIAcKDbx2TCiI1v83CAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.thefpsreview.com%2F2026%2F06%2F09%2Fgigabyte-x870e-aero-x3d-dark-wood-motherboard-review%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thefpsreview.com%2F2026%2F06%2F09%2Fgigabyte-x870e-aero-x3d-dark-wood-motherboard-review%2F",
+      "source": "The FPS Review",
+      "read_more_link": "https://www.thefpsreview.com/2026/06/09/gigabyte-x870e-aero-x3d-dark-wood-motherboard-review/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "X870E AERO X3D DARK WOOD release date",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870E+AERO+X3D+DARK+WOOD+release+date&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870E+AERO+X3D+DARK+WOOD+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "X870E AERO X3D dark wood review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870E+AERO+X3D+dark+wood+review&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870E+AERO+X3D+dark+wood+review"
+    },
+    {
+      "block_position": 1,
+      "query": "X870E AERO X3D dark WOOD Price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870E+AERO+X3D+dark+WOOD+Price&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870E+AERO+X3D+dark+WOOD+Price"
+    },
+    {
+      "block_position": 1,
+      "query": "X870E AERO X3D WOOD",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870E+AERO+X3D+WOOD&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870E+AERO+X3D+WOOD"
+    },
+    {
+      "block_position": 1,
+      "query": "Gigabyte X870E X3D motherboards",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Gigabyte+X870E+X3D+motherboards&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+X3D+motherboards"
+    },
+    {
+      "block_position": 1,
+      "query": "X870e aero x3d dark wood amazon",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870e+aero+x3d+dark+wood+amazon&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870e+aero+x3d+dark+wood+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "GIGABYTE AERO motherboard",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=GIGABYTE+AERO+motherboard&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=GIGABYTE+AERO+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "X870E AORUS XTREME X3D AI TOP",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870E+AORUS+XTREME+X3D+AI+TOP&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870E+AORUS+XTREME+X3D+AI+TOP"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyFAgBEgNSQU06CwjDncQBENLHdzAHWLKxIGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAF6BAgaEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=cpu+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyFAgBEgNDUFU6CwjDncQBENPHdzAHWLKxIGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAJ6BAgaEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=reviews+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GBIqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAN6BAgaEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=pci+express+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyGwgBEgtQQ0kgRXhwcmVzczoKCOvnLBDv5ywwAFiysSBgAQ&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAR6BAgaEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=price+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GBIqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAV6BAgaEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+sale&shoprs=EgRKAhgBGAYqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyEwgGEgdPbiBzYWxlGAIiBEoCGAFYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAZ6BAgaEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+sale"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gaming+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyFggBEgZHYW1pbmc6CginrTsQqK07MANYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAd6BAgaEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=usb+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyFAgBEgNVU0I6CwidrTsQ6OT3ATAAWLKxIGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAh6BAgaEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "AMD",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=amd+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyEwgBEgNBTUQ6CgiarTsQnK07MAJYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAl6BAgaEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+for+sale&shoprs=GBIqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAp6BAgaEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+for+sale"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=Eg2aAQoKCBACOAFABEgBGBQqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAt6BAgaEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "256 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=256+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=EhoqGAjovz0SEgkAAAAAAABwQBEAAAAAAABwQBgBKltnaWdhYnl0ZSB4ODcwZSBhZXJvIHgzZCBkYXJrIHdvb2QgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzMjwIARIOMjU2IEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAHBAEQAAAAAAAHBAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKAx6BAgaEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=256+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=4+memory+slots+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyHggBEg40IE1lbW9yeSBTbG90czoKCJWrSRCYq0kwAFiysSBgAQ&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKA16BAgaEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=atx+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyEwgBEgNBVFg6CgibnysQoMcrMAJYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKA56BAgaEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "AORUS Gaming",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=aorus+gaming+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyHAgBEgxBT1JVUyBHYW1pbmc6CgiIyH8Qich_MARYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKA96BAgaEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=aorus+gaming+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=new+Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAoqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyBwgKEgNOZXdYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBB6BAgaEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=used+Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAoqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyCAgKEgRVc2VkWLKxIGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBF6BAgaEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=buy+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GBIqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBJ6BAgaEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "192 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=192+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=EhoqGAjovz0SEgkAAAAAAABoQBEAAAAAAABoQBgBKltnaWdhYnl0ZSB4ODcwZSBhZXJvIHgzZCBkYXJrIHdvb2QgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzMjwIARIOMTkyIEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAGhAEQAAAAAAAGhAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBN6BAgaEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=192+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=hdmi+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyFQgBEgRIRE1JOgsIna07ELCa6wEwAFiysSBgAQ&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBR6BAgaEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=replacement+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GBIqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyDwgSEgtSZXBsYWNlbWVudGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBV6BAgaEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "2 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=2+memory+slots+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=GAEqW2dpZ2FieXRlIHg4NzBlIGFlcm8geDNkIGRhcmsgd29vZCBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90cyBtYXhfbWVtb3J5X2diIHBjaWVfc2xvdHMyHggBEg4yIE1lbW9yeSBTbG90czoKCJWrSRCXq0kwAFiysSBgAQ&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBZ6BAgaEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+memory+slots+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "3 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=3+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=EhoqGAjovz0SEgkAAAAAAAAEQBEAAAAAAAAEQBgBKltnaWdhYnl0ZSB4ODcwZSBhZXJvIHgzZCBkYXJrIHdvb2QgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzMjoIARIMMyBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAAAEQBEAAAAAAAAEQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBd6BAgaEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    },
+    {
+      "query": "5 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=5+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&shoprs=EhoqGAjovz0SEgkAAAAAAAAUQBEAAAAAAAAUQBgBKltnaWdhYnl0ZSB4ODcwZSBhZXJvIHgzZCBkYXJrIHdvb2QgbW90aGVyYm9hcmQgbW90aGVyYm9hcmQgbTJfc2xvdHMgbWF4X21lbW9yeV9nYiBwY2llX3Nsb3RzMjoIARIMNSBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAAAUQBEAAAAAAAAUQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQip4GKBh6BAgaEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5+gb+max+ram+gigabyte+x870e+aero+x3d+dark+wood+motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=10&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8NMDegQINBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=10&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=20&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=30&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=40&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=50&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=60&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=70&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=80&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAS",
+      "10": "https://www.google.com/search?q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=mnpfarz2GtuJptQP5paI4Q4&start=90&sa=N&sstk=AU9db-AWXElPVBHMZ_2m0zwXp8KRu9WN-Bmk7op0BwvVyTqwyeQmPutetlqkaSRQXLj0CdFT0wiMMb1m7wnPI-HDSPoI_m-cfOppIA&ved=2ahUKEwi8q5yk9uOVAxXbhIkEHWYLIuwQ8tMDegQINBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Gigabyte+X870E+AERO+X3D+DARK+WOOD+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots&start=90"
+    }
+  }
+}

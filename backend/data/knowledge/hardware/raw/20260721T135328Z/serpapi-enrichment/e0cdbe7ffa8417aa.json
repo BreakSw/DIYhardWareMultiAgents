@@ -1,0 +1,603 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b617bf2f9f78d409739",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xo9CCeIjDN4U_iui2yYVew/6a5f7b617bf2f9f78d409739.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/xo9CCeIjDN4U_iui2yYVew/6a5f7b617bf2f9f78d409739.json_with_pixel_position",
+    "created_at": "2026-07-21 14:00:01 UTC",
+    "processed_at": "2026-07-21 14:00:01 UTC",
+    "google_url": "https://www.google.com/search?q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&oq=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/xo9CCeIjDN4U_iui2yYVew/6a5f7b617bf2f9f78d409739.html",
+    "total_time_taken": 5.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ASUS ROG Strix 1200W Power Supply psu atx_version efficiency_rating form_factor modular_type pcie_connectors wattage_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ASUS ROG Strix 1200W Power Supply psu atx_version efficiency_rating form_factor modular_type pcie_connectors wattage_w",
+    "total_results": 99,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTG4IB40_Xtya-EoJ35k7zA5yAMOJ9AQUGQ63kpwoczQvWrY26s1gJ1x9GmW4ax9-q_MgfYeBcNFDZxZX3DIVqlTk095YvrdqfeLAc7YfMjuxBv4zrMFmhG",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - roboshine",
+      "title": "ASUS ROG Strix 1200W Platinum Equalizer Cable Version (2026) ,GaN ,80PLUS PLATINUM Certified Full Modular, Compatible with PCIe Gen 5.1 and ATX 3.1 Po",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$405.46",
+      "extracted_price": 405.46,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "70YGW3icdZPLruJGFEWV7_Gkyi9wZhf8oLnYBS4_oCaoKJfBuGzX9QMMyj_kF1p0d6TOsHuQaX7j5ksyDK1Mk8mZrH3O1t7S-fXBiz9I3ef0LdcXyMyvgb6-tcPk9tJ9lW2TDawvsu-GpQOg6mCqmYYBVV0DxldGeyqaY5F9_HbiNBNFzVGe89Zu2H9v_F5U9Mj_xRPwFFimOZ1Ylq6rBtC1T23Wvevr-R5CoBoT1bQ0HWom0FRd1X5Zh8je_w_88jbw9vZ-ecExVkLkKbhvi1GBKgCpsm6uvFXwIKW4KbIbFNqP-wtvu6KpFZ7nBSt4zW77lvZFfVTypq32OWV90yrVM76g7b6_Sa7Ip27PmrrmP1inXGnfP-Psr1-OT5R9_FT9GPLSP07Hz8Mg-J-Po3gM3eMkHrz-raHykrO_fvrbubD5vGXzTSxlYocAawRtquk99ASh5ZIcnF4nmnyLouV5tc1UtJBx5lgjF1aDF_K2ASIOPXLaJRbwHTfAWtYyrxe8FOvAucLVtoQRzF4DkRgs-XDdxeEcu6Thiw93qkrd14TpJ8KMPDdhjpGEW3d2SK2SlmHn18RONOnQaNbtzqLh6XhBMckTNSR-GusbUWrITla4DCKUWmMmgjdWh68MZCF15Blh6CXlGKDFbAigu6Nl8BoKa4NLAtFC3PmZ3alDEHLAHaWQci_E1CbbzD6JpDrqcZJEgT3zE-DDOD410SKMAsdFu3qWRiqJMTxtmUpu1CXJFggDVxJl6cnEjnF_-tg4FpCBsdhUS4NXwsfeRovPCY2ElRzUcR7YAh0cCQ-lFWaOMQaVTOOabKjN7ryE8HlHj1wRrrY-dqEcsmfPLN0B7ExVUmcocGcGq2ONx-7dK5azcBHcUEpiUo7h5lyq-OyuD17gJk4JD3ZYk8XJjICk7C7qz2PX5u_gxTV6jIxuCsrkulrlVbNs3uREzl3eSF-V3vFnOJnqpv78HXNigX8A_SM_KQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=70YGW3icdZPLruJGFEWV7_Gkyi9wZhf8oLnYBS4_oCaoKJfBuGzX9QMMyj_kF1p0d6TOsHuQaX7j5ksyDK1Mk8mZrH3O1t7S-fXBiz9I3ef0LdcXyMyvgb6-tcPk9tJ9lW2TDawvsu-GpQOg6mCqmYYBVV0DxldGeyqaY5F9_HbiNBNFzVGe89Zu2H9v_F5U9Mj_xRPwFFimOZ1Ylq6rBtC1T23Wvevr-R5CoBoT1bQ0HWom0FRd1X5Zh8je_w_88jbw9vZ-ecExVkLkKbhvi1GBKgCpsm6uvFXwIKW4KbIbFNqP-wtvu6KpFZ7nBSt4zW77lvZFfVTypq32OWV90yrVM76g7b6_Sa7Ip27PmrrmP1inXGnfP-Psr1-OT5R9_FT9GPLSP07Hz8Mg-J-Po3gM3eMkHrz-raHykrO_fvrbubD5vGXzTSxlYocAawRtquk99ASh5ZIcnF4nmnyLouV5tc1UtJBx5lgjF1aDF_K2ASIOPXLaJRbwHTfAWtYyrxe8FOvAucLVtoQRzF4DkRgs-XDdxeEcu6Thiw93qkrd14TpJ8KMPDdhjpGEW3d2SK2SlmHn18RONOnQaNbtzqLh6XhBMckTNSR-GusbUWrITla4DCKUWmMmgjdWh68MZCF15Blh6CXlGKDFbAigu6Nl8BoKa4NLAtFC3PmZ3alDEHLAHaWQci_E1CbbzD6JpDrqcZJEgT3zE-DDOD410SKMAsdFu3qWRiqJMTxtmUpu1CXJFggDVxJl6cnEjnF_-tg4FpCBsdhUS4NXwsfeRovPCY2ElRzUcR7YAh0cCQ-lFWaOMQaVTOOabKjN7ryE8HlHj1wRrrY-dqEcsmfPLN0B7ExVUmcocGcGq2ONx-7dK5azcBHcUEpiUo7h5lyq-OyuD17gJk4JD3ZYk8XJjICk7C7qz2PX5u_gxTV6jIxuCsrkulrlVbNs3uREzl3eSF-V3vFnOJnqpv78HXNigX8A_SM_KQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRsVEYvqftN0_0H1qZFWLPrhwvA4255_PJWzr-YreDhwj8oV4sSNbG3umy_GPDoxBBhCOjgil9ro-NRwsdJ1md_lvZzZoSb4pNNyNPqZBtOsvgVJMBe4qskHQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRssAlx1EU8v4H4L4T1krpGOTLKeTDwiHlts4V2y0Q6POnMqI_ZMU_b-YvaB0dPfwPVk2avJ6DRfCp1iwq5c9bnrQD8r27k1aQZKw",
+      "source": "Play-Asia.com",
+      "title": "ASUS ROG Strix 1200P GAMING Power Supply",
+      "rating": 4.8,
+      "reviews": 196,
+      "price": "$264.99",
+      "extracted_price": 264.99,
+      "immersive_product_page_token": "zsgMoHicbZPNjqNGFIWlPEPegk1VQfGTXbsxWE4DNlD8bawyBYZ2AdWADbbyDnkH90ykyXImUrZ5jc7ThMx61t-9555zpPv7o6j_ztqxpG-lsvHUcnKV3a2_aLen4YvoO3bJx5r9BZEmIwxU1VBUGauaoWrwS05HyrtTzb6pSEFAx7osG7KMZAgU7WtVUMbrtvDKsujNLv-uIiMVGAgaUFEUjGVVwX_WDT0V3_lXXQGqvlzBAGMEdWyA954NH2j3fIBY1XVgKBgt61iFsq79tvM98_Bj9vntUvS3j-tTQALJ92wpGPt6liACIJZ23VT0UnARgt8kMVwkOs6Ha9EPdddKRVnWeV20-e3Q07FuT1LZ9c2hpPnY9VKzFMJpfxhvopDEMnfIu7Yt_meDNNFxXLIcps-nBbFvP_D13iwxsaYqKtIMbCANGQpC6ru4jo_q9Oly4cU_jxN_XIZHxR9F-0dHxbXM__3p53U3mc_D9LwnQkSmD4IGz5RkrwnYdtE9e8lb7vgxlrN7CsIzJj7YgxzMNrv7zwn01T1x0yAybvS8veRx1bOo2rkNPOfmKqOgG8OEO3GYzxEZhzzpsLMWDj2DMYjZteDujdhWH5A9YmC-Bpa4REgEx0jcaWJ1ccjlwp5Gn1sbX84s51yFbmNNdLMfE5lj0uDueDamYwN3RWRxZxO9Zmd3E1vVGMI9oBYT2StzycYNi8aCLpmTLIbr47qDUQOAZ_vEb844JSNmiK1DgF0f5nPQ6DCzLC-Mshsl0MyjVHlJ_CmLeEXvfHQ43wacTClaw5dwNRXEWpM2xWnETUYc4JgpLBp4P57FG41ymMXiGsH07gOc5oll-jxzc9tSWDMhx5750Z5NljBvv3jN4qoLoUFDyPYEbD2_XVlOEw3kdTuzpIojkCWutfSGsl8L7q_zeAgsKC7Mzqo8TkGw1lHWMs-1Vjhvibx4u9v1duVv3JsXZwFt_JHIAmexMjN5Zfq2P-zv_nwk7pwmjGfrWf40D335AZ4sPAYeHnRwjqaXl7Lptt2b0MSzVXTCQcI-_QI1XVEVtPyXZoD_ABbgVls",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zsgMoHicbZPNjqNGFIWlPEPegk1VQfGTXbsxWE4DNlD8bawyBYZ2AdWADbbyDnkH90ykyXImUrZ5jc7ThMx61t-9555zpPv7o6j_ztqxpG-lsvHUcnKV3a2_aLen4YvoO3bJx5r9BZEmIwxU1VBUGauaoWrwS05HyrtTzb6pSEFAx7osG7KMZAgU7WtVUMbrtvDKsujNLv-uIiMVGAgaUFEUjGVVwX_WDT0V3_lXXQGqvlzBAGMEdWyA954NH2j3fIBY1XVgKBgt61iFsq79tvM98_Bj9vntUvS3j-tTQALJ92wpGPt6liACIJZ23VT0UnARgt8kMVwkOs6Ha9EPdddKRVnWeV20-e3Q07FuT1LZ9c2hpPnY9VKzFMJpfxhvopDEMnfIu7Yt_meDNNFxXLIcps-nBbFvP_D13iwxsaYqKtIMbCANGQpC6ru4jo_q9Oly4cU_jxN_XIZHxR9F-0dHxbXM__3p53U3mc_D9LwnQkSmD4IGz5RkrwnYdtE9e8lb7vgxlrN7CsIzJj7YgxzMNrv7zwn01T1x0yAybvS8veRx1bOo2rkNPOfmKqOgG8OEO3GYzxEZhzzpsLMWDj2DMYjZteDujdhWH5A9YmC-Bpa4REgEx0jcaWJ1ccjlwp5Gn1sbX84s51yFbmNNdLMfE5lj0uDueDamYwN3RWRxZxO9Zmd3E1vVGMI9oBYT2StzycYNi8aCLpmTLIbr47qDUQOAZ_vEb844JSNmiK1DgF0f5nPQ6DCzLC-Mshsl0MyjVHlJ_CmLeEXvfHQ43wacTClaw5dwNRXEWpM2xWnETUYc4JgpLBp4P57FG41ymMXiGsH07gOc5oll-jxzc9tSWDMhx5750Z5NljBvv3jN4qoLoUFDyPYEbD2_XVlOEw3kdTuzpIojkCWutfSGsl8L7q_zeAgsKC7Mzqo8TkGw1lHWMs-1Vjhvibx4u9v1duVv3JsXZwFt_JHIAmexMjN5Zfq2P-zv_nwk7pwmjGfrWf40D335AZ4sPAYeHnRwjqaXl7Lptt2b0MSzVXTCQcI-_QI1XVEVtPyXZoD_ABbgVls"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRHX9aWX_RCz8TqHeJKW6cvNaf548UZJunGs48R5NrysxXSDeyvNf7V85__L2vKHoFzSub0GxTgfHDYwmu0vdfvUKJdtrDtB-MDJymfwjt5f20G5kGYMw9usw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "ASUS ROG -STRIX-1200P-GAMING-E Power Supply Unit",
+      "price": "$353.85",
+      "extracted_price": 353.85,
+      "immersive_product_page_token": "pN8fRXicHY_NkqM2AIQrz8NFEuIvt_kxxo7Bw4_EWBcXgwRmLEDGMBheIMe8wpZnN1Wb4-5W5ZrX2DxNPDl1VX9d1d1_XEX1N2v6IjsV2NuaxRjgp6kbrOnu_FV1LR_yvuLfLQvbCOg2gsgyTQAcCL_mWZ_JtrxRx4EA2QAAy3RM2zF1BL4dRMZl1YhtUYjusc0r_gNahmmbDgAmgDrUDQyh81dVZ6X4n3-3TPRhWxhbQEfOrdB-7_j505fTILrp59tdTGIt2i61uO-qiwYRAKn21I6i0-JBKTlp6jxoWX_Zv4nuXLWNJoqiyivR5NO-y_qqKbWi7ep9keV922n17Z3Mun0_KaGpW26ft00jPthZG7O-vy3bj19K9TEOYYwdG-q24ei6eVMHv9cV__Su3vrrofw8DFL8cy3ldThfD_Iqmj_bTL0V-b-__L44rR4ehtV9SJSijxGIX9fbxAuNqIkgldFMEBuekav8GPp5LTcROKQhUgeRrjva3LcvqRyTCoyMsIWf4pkuoUn140TSxRjScHwBNAlI2W8fmUnnO33XsN92SPUJ9A0_5Y_R0vECGmLiOoMPgtFvFnNAo0XyAKb4qCrW8CCN4UiRUWXPPoj0YODJ_Sk97i5sud5sUn-MX3eIA6YHSzqFUibCXc2c9F4i1Slr1iBAB_Liym7rHioG-id_gpI1JfBr16Uo6F6OwczBaiavtCYEHoVH45xAwufgmMn8EieRd0tQmhy2hOSAXVbPaW0AVrsX9hqtkpnVHGBAPDnxhBvhs5-tju4i11cGk24aS4b5wgmJxwdOKOJ1tAs8luYeizOiME3zz5dzV_wEd67Rx1vjbIMjHTebom7X7UlZ6sEVrfKRWpa_QsvGJkYYmJYD_gMrMhX5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pN8fRXicHY_NkqM2AIQrz8NFEuIvt_kxxo7Bw4_EWBcXgwRmLEDGMBheIMe8wpZnN1Wb4-5W5ZrX2DxNPDl1VX9d1d1_XEX1N2v6IjsV2NuaxRjgp6kbrOnu_FV1LR_yvuLfLQvbCOg2gsgyTQAcCL_mWZ_JtrxRx4EA2QAAy3RM2zF1BL4dRMZl1YhtUYjusc0r_gNahmmbDgAmgDrUDQyh81dVZ6X4n3-3TPRhWxhbQEfOrdB-7_j505fTILrp59tdTGIt2i61uO-qiwYRAKn21I6i0-JBKTlp6jxoWX_Zv4nuXLWNJoqiyivR5NO-y_qqKbWi7ep9keV922n17Z3Mun0_KaGpW26ft00jPthZG7O-vy3bj19K9TEOYYwdG-q24ei6eVMHv9cV__Su3vrrofw8DFL8cy3ldThfD_Iqmj_bTL0V-b-__L44rR4ehtV9SJSijxGIX9fbxAuNqIkgldFMEBuekav8GPp5LTcROKQhUgeRrjva3LcvqRyTCoyMsIWf4pkuoUn140TSxRjScHwBNAlI2W8fmUnnO33XsN92SPUJ9A0_5Y_R0vECGmLiOoMPgtFvFnNAo0XyAKb4qCrW8CCN4UiRUWXPPoj0YODJ_Sk97i5sud5sUn-MX3eIA6YHSzqFUibCXc2c9F4i1Slr1iBAB_Liym7rHioG-id_gpI1JfBr16Uo6F6OwczBaiavtCYEHoVH45xAwufgmMn8EieRd0tQmhy2hOSAXVbPaW0AVrsX9hqtkpnVHGBAPDnxhBvhs5-tju4i11cGk24aS4b5wgmJxwdOKOJ1tAs8luYeizOiME3zz5dzV_wEd67Rx1vjbIMjHTebom7X7UlZ6sEVrfKRWpa_QsvGJkYYmJYD_gMrMhX5"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR6mHENE8dYxBuOm1mtFfwIzCIYwsON0A8xz0Do8oo5VjvkapR6Yv7-Dx4MDcGs9U87JrUICLYBat6RK9LcOR_tKMPe0psTFvCag1ETpNhFsmX8O8RuO9yGxR4O",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "Rog Strix 1200p 100-bp-0750 80 Plus Platinum 1200w Fully Modular Power",
+      "rating": 4.9,
+      "reviews": 12,
+      "price": "$224.99",
+      "extracted_price": 224.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "IOLK5XicdZDNjqNGFIWV52FTVfwYsmv_4DYy0C6owmZjlanCYBdQxoXdtvIOeYWRZybSZBlFyjav0VEeJh4p25Guzua79-ie8-tD1H_lrS7ZqbReY6e8RtbbrR9Gt5fzN9V3fCh0zf-EDhiNEHCB6XgIuRC5lvetYJrJbl_zT39UgnFZtyIuS9FPu-IHJ7_XDduL_znynOcAy3GA65jWCI68zz0_f1hvky20rZGNTMdyXMd2oAVMZP_yhuPp9gfw62kQ_e3j8pKQxMDx3Eh0X78bEAGQGW_dVfRGMiglb4Y6DwbT79uL6M911xqiLOuiFm1x2_ZM1-3eKLu-2Zas0F1vNM8GJOu3-qaEoZ5726JrW_GdnY0r0_qZZ3v9un8i_ulz813URT-q_ZdhkOLvx14-hvOjkg_R_tYxdSmLf376dzYsJpPTYrIiStEpBonMS3bkMaELgGkFqVnNdlCOExrQlKgra3gcAVzheXEL26jfmbkOkc12vj8JJaYMAcgPOBZpoNJUxsvM67j0evK6t8MZ1RGRJV_7bQRnkIAqWLWyx21eJzJIdyBI8CE_s5m-xDP7VCD7xOfBhWZape1YrtJ8EhMv3jSL92UWzSM5RhjBOoV5hw_SFAduJnIPmem_0mmFcsJJYaoknAUWXudmgfBG-Py6Rr61AdE0JnaAQZSSI7zho6bRmtoZ9W9xFh0pHU8ZCS6hGdyLlMJi6pvhIZhQlEdiHegcRisCnr5tfsmla-Z3aaeN3-VTnIWSWsv1wmaHyOQZj3cmHeP7OA19V6eNxzZNcE9nNI6QhvQILxFUF94UiQ_VwOd5VWQbkMxclLfPrv2xXbTEFMS_z-tgjF-j5385ZvdgEGsVZ9kzP_GqFXrfEBoQcqgm-dGX2ZS3X97PffkBXnxbJ7F9dsGRXpfLsumC7qRGauKLToVIzfc_w5FrORaygDPywH88STUb",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IOLK5XicdZDNjqNGFIWV52FTVfwYsmv_4DYy0C6owmZjlanCYBdQxoXdtvIOeYWRZybSZBlFyjav0VEeJh4p25Guzua79-ie8-tD1H_lrS7ZqbReY6e8RtbbrR9Gt5fzN9V3fCh0zf-EDhiNEHCB6XgIuRC5lvetYJrJbl_zT39UgnFZtyIuS9FPu-IHJ7_XDduL_znynOcAy3GA65jWCI68zz0_f1hvky20rZGNTMdyXMd2oAVMZP_yhuPp9gfw62kQ_e3j8pKQxMDx3Eh0X78bEAGQGW_dVfRGMiglb4Y6DwbT79uL6M911xqiLOuiFm1x2_ZM1-3eKLu-2Zas0F1vNM8GJOu3-qaEoZ5726JrW_GdnY0r0_qZZ3v9un8i_ulz813URT-q_ZdhkOLvx14-hvOjkg_R_tYxdSmLf376dzYsJpPTYrIiStEpBonMS3bkMaELgGkFqVnNdlCOExrQlKgra3gcAVzheXEL26jfmbkOkc12vj8JJaYMAcgPOBZpoNJUxsvM67j0evK6t8MZ1RGRJV_7bQRnkIAqWLWyx21eJzJIdyBI8CE_s5m-xDP7VCD7xOfBhWZape1YrtJ8EhMv3jSL92UWzSM5RhjBOoV5hw_SFAduJnIPmem_0mmFcsJJYaoknAUWXudmgfBG-Py6Rr61AdE0JnaAQZSSI7zho6bRmtoZ9W9xFh0pHU8ZCS6hGdyLlMJi6pvhIZhQlEdiHegcRisCnr5tfsmla-Z3aaeN3-VTnIWSWsv1wmaHyOQZj3cmHeP7OA19V6eNxzZNcE9nNI6QhvQILxFUF94UiQ_VwOd5VWQbkMxclLfPrv2xXbTEFMS_z-tgjF-j5385ZvdgEGsVZ9kzP_GqFXrfEBoQcqgm-dGX2ZS3X97PffkBXnxbJ7F9dsGRXpfLsumC7qRGauKLToVIzfc_w5FrORaygDPywH88STUb"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the Rog Thor 1200W PSU good for gaming?",
+      "type": "ai_overview",
+      "page_token": "eREhSXicHdBRboIwHIDx7DJ7VNtmLJqYJSiIbOts4V9cXxZsRZQW6kRR3naXnWqn2bILfL_k-_o2-7r6ubuUbetOk-Gw67rBrml2ZjtQjR3mp1uthio3ZpOrauI9euipUNPgvPRnx6XPwDkx56ME6Vhi50HqzzfWkMyIkST-Qa7jaCtk_JJJAdnpQc_lUlqXKIA-HSlMRXjRc1Eki7AALOM8dJ0I2ooKP91gWksED2CaPqnLKwiaU7JEf11PZ-MgRzQFwdrXSmPIxAIyuCVGnnnkaLJ2K75okYziSKTyGbAjOR4zKuhZ4_Kq0fhKcdclhB-1ZV0SySgNDWc4IG8p9YNS55ua2_d1aGlQrqiVJD1wtl3HiBLjq2uzZ8B7dTD2z8UieL8xYjzZ0wsfuUb3FYagQkBol1XtjLH7Ql2m5P7_5_SjsO3EfTa7Xwi6giA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eREhSXicHdBRboIwHIDx7DJ7VNtmLJqYJSiIbOts4V9cXxZsRZQW6kRR3naXnWqn2bILfL_k-_o2-7r6ubuUbetOk-Gw67rBrml2ZjtQjR3mp1uthio3ZpOrauI9euipUNPgvPRnx6XPwDkx56ME6Vhi50HqzzfWkMyIkST-Qa7jaCtk_JJJAdnpQc_lUlqXKIA-HSlMRXjRc1Eki7AALOM8dJ0I2ooKP91gWksED2CaPqnLKwiaU7JEf11PZ-MgRzQFwdrXSmPIxAIyuCVGnnnkaLJ2K75okYziSKTyGbAjOR4zKuhZ4_Kq0fhKcdclhB-1ZV0SySgNDWc4IG8p9YNS55ua2_d1aGlQrqiVJD1wtl3HiBLjq2uzZ8B7dTD2z8UieL8xYjzZ0wsfuUb3FYagQkBol1XtjLH7Ql2m5P7_5_SjsO3EfTa7Xwi6giA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IklzIHRoZSBSb2cgVGhvciAxMjAwVyBQU1UgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiYzVQU3pDeFdLTWxJVlNqS1R3ZlMtVVVLaGtZR0J1VUtCY1dsQ3VuNS1Ta0thVUNoOU1UY3pMeDBBQSIsImJzIjoiYzIyT3ZRNkNNQkNBNDlySnhJVTBSbTlTMFFYN0FvMkx4RWtqRW5Wc0ZFc1RvSVNXSU1fald6ckpYelVocm5mZmZmZWhLMXJ1Rk9nd2dLUGtjQXBsQm12aU9HYzRlRDV3S2Vfd3FFYWN4U0xobEt5d0xWbzZxMmh0NkFKU2xmZHBkRUcyVWU5ZDhIUW1uc1lkTVMyU1BBYVdsTTBadFY0anNzQXpwbkxWcU5XWHJ0eDlHbTNSdEROdlBOOXJ5bHU5aWFiVy0wWUFUN3JZbnRiRUloZk56eUhUSUg2WjlVc29tTmFReWlMSVFPVnBHcFdVakRILXY2cTl3OEVIIiwiaWQiOiJmY19abnRmYXFmNEhPNmZ3TjRQeXJ1N3lBc18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IklzIHRoZSBSb2cgVGhvciAxMjAwVyBQU1UgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiYzVQU3pDeFdLTWxJVlNqS1R3ZlMtVVVLaGtZR0J1VUtCY1dsQ3VuNS1Ta0thVUNoOU1UY3pMeDBBQSIsImJzIjoiYzIyT3ZRNkNNQkNBNDlySnhJVTBSbTlTMFFYN0FvMkx4RWtqRW5Wc0ZFc1RvSVNXSU1fald6ckpYelVocm5mZmZmZWhLMXJ1Rk9nd2dLUGtjQXBsQm12aU9HYzRlRDV3S2Vfd3FFYWN4U0xobEt5d0xWbzZxMmh0NkFKU2xmZHBkRUcyVWU5ZDhIUW1uc1lkTVMyU1BBYVdsTTBadFY0anNzQXpwbkxWcU5XWHJ0eDlHbTNSdEROdlBOOXJ5bHU5aWFiVy0wWUFUN3JZbnRiRUloZk56eUhUSUg2WjlVc29tTmFReWlMSVFPVnBHcFdVakRILXY2cTl3OEVIIiwiaWQiOiJmY19abnRmYXFmNEhPNmZ3TjRQeXJ1N3lBc18zIn0%3D"
+    },
+    {
+      "question": "Is the ROG Strix 1200W Platinum any good?",
+      "type": "featured_snippet",
+      "snippet": "design and reliability are excellent. The ASUS ROG Strix 1200W Platinum ATX v3. 1 is definitely a very good power supply for a regular PC, surprising with its compactness, high efficiency, and at the same time, extremely quiet operation.",
+      "title": "ROG STRIX 1200W Platinum | Power Supply Units | ROG Global",
+      "link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming/",
+      "displayed_link": "https://rog.asus.com › rog-strix › rog-strix-1200p-gaming",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IklzIHRoZSBST0cgU3RyaXggMTIwMFcgUGxhdGludW0gYW55IGdvb2Q/IiwibGsiOiJHaVpoYzNWeklISnZaeUJ6ZEhKcGVDQXhNakF3ZHlCd2JHRjBhVzUxYlNCaGJua2daMjl2WkEiLCJicyI6ImMyMk92UTZDTUJDQTQ5ckp4SVUwUm05UzBRWDdBbzJMeEVrakVuVnNGRXNUb0lTV0lNX2pXenJKWHpVaHJuZmZmZmVoSzFydUZPZ3dnS1BrY0FwbEJtdmlPR2M0ZUQ1d0tlX3dxRWFjeFNMaGxLeXdMVm82cTJodDZBSlNsZmRwZEVHMlVlOWQ4SFFtbnNZZE1TMlNQQWFXbE0wWnRWNGpzc0F6cG5MVnFOV1hydHg5R20zUnRETnZQTjlyeWx1OWlhYlctMFlBVDdyWW50YkVJaGZOenlIVElINlo5VXNvbU5hUXlpTElRT1ZwR3BXVWpESC12NnE5dzhFSCIsImlkIjoiZmNfWm50ZmFxZjRITzZmd040UHlydTd5QXNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IklzIHRoZSBST0cgU3RyaXggMTIwMFcgUGxhdGludW0gYW55IGdvb2Q%2FIiwibGsiOiJHaVpoYzNWeklISnZaeUJ6ZEhKcGVDQXhNakF3ZHlCd2JHRjBhVzUxYlNCaGJua2daMjl2WkEiLCJicyI6ImMyMk92UTZDTUJDQTQ5ckp4SVUwUm05UzBRWDdBbzJMeEVrakVuVnNGRXNUb0lTV0lNX2pXenJKWHpVaHJuZmZmZmVoSzFydUZPZ3dnS1BrY0FwbEJtdmlPR2M0ZUQ1d0tlX3dxRWFjeFNMaGxLeXdMVm82cTJodDZBSlNsZmRwZEVHMlVlOWQ4SFFtbnNZZE1TMlNQQWFXbE0wWnRWNGpzc0F6cG5MVnFOV1hydHg5R20zUnRETnZQTjlyeWx1OWlhYlctMFlBVDdyWW50YkVJaGZOenlIVElINlo5VXNvbU5hUXlpTElRT1ZwR3BXVWpESC12NnE5dzhFSCIsImlkIjoiZmNfWm50ZmFxZjRITzZmd040UHlydTd5QXNfMyJ9"
+    },
+    {
+      "question": "Is the ASUS Rog Strix PSU good?",
+      "type": "featured_snippet",
+      "snippet": "Is the Asus ROG Strix 850W Platinum good for gaming? Yes, it's an excellent choice for high-end gaming builds. 850W provides comfortable headroom for an RTX 4080 or RX 7900 XTX paired with a modern CPU, and the ATX 3.1 compliance with native PCIe 5.0 connector means it's properly specced for current and upcoming GPUs.",
+      "title": "Asus ROG Strix 850W Platinum PSU Review UK 2026 - Vivid Repairs",
+      "date": "Jun 28, 2026",
+      "link": "https://www.vividrepairs.co.uk/asus-rog-strix-850w-platinum-psu",
+      "displayed_link": "https://www.vividrepairs.co.uk › asus-rog-strix-850w-pla...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABs0lEQVR4AZWSA4wgQRBFD_HZtm3btm3btm2ubdu2bds2avdPUmsmeTPdf6Zes82dSyqDj20Xf81sXfDxxfbFn1_gPXfMqVfMgC6Dnw_oNvLlwG7Dn6y5urENIKL2QuP8QYWgo9tk6NB6Cdqz-L_A2qkfaenE-wJj-iyigV1GCIztt3QHC_Lyy_4IDV01354sAChmpg87TH079haKx_Rd7s7FgV7RwzMLyqgNB5g-Cy4eUn_LOUaEBMwZea8H55mFZX61BGD_OtHMM_vlCWBvOMfI2AfuJ2UUnUBxPcG14yozrh5XJYB94XzK4CP9uA0S0gqE4pTs4hIEtbhzTl0TglvnNej2ec3znDOREVlK0XE5BAlmUk9ARG1ZAGoVxxdMiYjMIhCfWBCHrJ4AvH1scvr5XUMCn56b6nLu5hid7OeVRACn0KgAvHygHwbB9zcWhL1xto677mobS95u8ZWCZGn806QAp4Bi8OejTZy9RQQx-N6sACiJuX4T--FQLvffiXSVfclCP4xMdYP3tFgAWACMdYLckbVKYKzjvxGjA1z5VguAgYafJ5aDdqsFuBc8ckNUAHuJtl6eHh1tAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IklzIHRoZSBBU1VTIFJvZyBTdHJpeCBQU1UgZ29vZD8iLCJsayI6IkdoNXBjeUIwYUdVZ1lYTjFjeUJ5YjJjZ2MzUnlhWGdnY0hOMUlHZHZiMlEiLCJicyI6ImMyMk92UTZDTUJDQTQ5ckp4SVUwUm05UzBRWDdBbzJMeEVrakVuVnNGRXNUb0lTV0lNX2pXenJKWHpVaHJuZmZmZmVoSzFydUZPZ3dnS1BrY0FwbEJtdmlPR2M0ZUQ1d0tlX3dxRWFjeFNMaGxLeXdMVm82cTJodDZBSlNsZmRwZEVHMlVlOWQ4SFFtbnNZZE1TMlNQQWFXbE0wWnRWNGpzc0F6cG5MVnFOV1hydHg5R20zUnRETnZQTjlyeWx1OWlhYlctMFlBVDdyWW50YkVJaGZOenlIVElINlo5VXNvbU5hUXlpTElRT1ZwR3BXVWpESC12NnE5dzhFSCIsImlkIjoiZmNfWm50ZmFxZjRITzZmd040UHlydTd5QXNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IklzIHRoZSBBU1VTIFJvZyBTdHJpeCBQU1UgZ29vZD8iLCJsayI6IkdoNXBjeUIwYUdVZ1lYTjFjeUJ5YjJjZ2MzUnlhWGdnY0hOMUlHZHZiMlEiLCJicyI6ImMyMk92UTZDTUJDQTQ5ckp4SVUwUm05UzBRWDdBbzJMeEVrakVuVnNGRXNUb0lTV0lNX2pXenJKWHpVaHJuZmZmZmVoSzFydUZPZ3dnS1BrY0FwbEJtdmlPR2M0ZUQ1d0tlX3dxRWFjeFNMaGxLeXdMVm82cTJodDZBSlNsZmRwZEVHMlVlOWQ4SFFtbnNZZE1TMlNQQWFXbE0wWnRWNGpzc0F6cG5MVnFOV1hydHg5R20zUnRETnZQTjlyeWx1OWlhYlctMFlBVDdyWW50YkVJaGZOenlIVElINlo5VXNvbU5hUXlpTElRT1ZwR3BXVWpESC12NnE5dzhFSCIsImlkIjoiZmNfWm50ZmFxZjRITzZmd040UHlydTd5QXNfMyJ9"
+    },
+    {
+      "question": "What is the ROG 1200 watt power supply?",
+      "type": "ai_overview",
+      "page_token": "OjqKxHicHdBdboIwAADg7DI-SivRDROzpOPHgOgo_YG-LFBQlFKawWT6trvsVDvNluW7wff1rc66_XnImnE0w9qypmman_r-pOq57DurGG5aWrJQqixku149ruDzUW68YUIv_YQSagxzMUi5E5WdEimki5SCSbg4wdDcS5CPrDMwp04mLsgmW_NapJCUWbWLqQNjsGwxS2ysMag7Z6AE6dhjPfaSJQNYUA_2QrEDC5Rd-PsrURhktkI5DzupQ8J1M1Qe_jPdKFeI2QbwLPQKrwq522hOxZRAtiL8817qEPPAiWuNIuomqQ_NRxWIRvIcpN7TQujqsPfRUmpq19S_B-cQ4e3-duCCpNoH5OJrAh1V-2gnNEtLbjrZ4ijRYVS6vj07yuvGnv2Pbd6O3bg27_3pFx-ydvg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OjqKxHicHdBdboIwAADg7DI-SivRDROzpOPHgOgo_YG-LFBQlFKawWT6trvsVDvNluW7wff1rc66_XnImnE0w9qypmman_r-pOq57DurGG5aWrJQqixku149ruDzUW68YUIv_YQSagxzMUi5E5WdEimki5SCSbg4wdDcS5CPrDMwp04mLsgmW_NapJCUWbWLqQNjsGwxS2ysMag7Z6AE6dhjPfaSJQNYUA_2QrEDC5Rd-PsrURhktkI5DzupQ8J1M1Qe_jPdKFeI2QbwLPQKrwq522hOxZRAtiL8817qEPPAiWuNIuomqQ_NRxWIRvIcpN7TQujqsPfRUmpq19S_B-cQ4e3-duCCpNoH5OJrAh1V-2gnNEtLbjrZ4ijRYVS6vj07yuvGnv2Pbd6O3bg27_3pFx-ydvg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIFJPRyAxMjAwIHdhdHQgcG93ZXIgc3VwcGx5PyIsImxrIjoiR2hveE1qQXdJSGRoZEhRZ2NHOTNaWElnYzNWd2NHeDVJSEp2WnciLCJicyI6ImMyMk92UTZDTUJDQTQ5ckp4SVUwUm05UzBRWDdBbzJMeEVrakVuVnNGRXNUb0lTV0lNX2pXenJKWHpVaHJuZmZmZmVoSzFydUZPZ3dnS1BrY0FwbEJtdmlPR2M0ZUQ1d0tlX3dxRWFjeFNMaGxLeXdMVm82cTJodDZBSlNsZmRwZEVHMlVlOWQ4SFFtbnNZZE1TMlNQQWFXbE0wWnRWNGpzc0F6cG5MVnFOV1hydHg5R20zUnRETnZQTjlyeWx1OWlhYlctMFlBVDdyWW50YkVJaGZOenlIVElINlo5VXNvbU5hUXlpTElRT1ZwR3BXVWpESC12NnE5dzhFSCIsImlkIjoiZmNfWm50ZmFxZjRITzZmd040UHlydTd5QXNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpWOHliRmhCY1RGd1pFTnVOR3hYYUZack5GOHlSVUl5TlV4MmFERXlOVU5zYVZkVlJEaENkalJGWTE5RlNWWmpaRkEzUVhBNWVuVlZjRGRaWTB4WFJUaGtSVjlhYVVsemJrOUpSVjgzVDBZNFdrbExORVZMUVVaMFFSSVhXbTUwWm1GeFpqUklUelptZDA0MFVIbHlkVGQ1UVhNYUlrRkVjM0k1WmxOblVtNUJOREJrVDJWaGJVRlBlVjl1YVdSWU5EVjZWemhUZGxFIiwiZmN2IjoiMyIsImVpIjoiWm50ZmFxZjRITzZmd040UHlydTd5QXMiLCJxYyI6ImN4WEt3UTNDTUF3QVFONTlJU2J3Q0lVRkdJSUJMQ3M0VWFRMnRteW5hUjdzRHJ6dmxvTzhPNWdVOExCNnd2MnhyZ05VQmh0NFY5MG1xSGVnT1BGZzh5b05PT2VhS3JjMDBTaHFLNURGZHN5VVFneDJlZmVOREdNcWdfNGVKbW1OXy1Zd0tJSUs0N2hlUHN2dDlmd0MiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIFJPRyAxMjAwIHdhdHQgcG93ZXIgc3VwcGx5PyIsImxrIjoiR2hveE1qQXdJSGRoZEhRZ2NHOTNaWElnYzNWd2NHeDVJSEp2WnciLCJicyI6ImMyMk92UTZDTUJDQTQ5ckp4SVUwUm05UzBRWDdBbzJMeEVrakVuVnNGRXNUb0lTV0lNX2pXenJKWHpVaHJuZmZmZmVoSzFydUZPZ3dnS1BrY0FwbEJtdmlPR2M0ZUQ1d0tlX3dxRWFjeFNMaGxLeXdMVm82cTJodDZBSlNsZmRwZEVHMlVlOWQ4SFFtbnNZZE1TMlNQQWFXbE0wWnRWNGpzc0F6cG5MVnFOV1hydHg5R20zUnRETnZQTjlyeWx1OWlhYlctMFlBVDdyWW50YkVJaGZOenlIVElINlo5VXNvbU5hUXlpTElRT1ZwR3BXVWpESC12NnE5dzhFSCIsImlkIjoiZmNfWm50ZmFxZjRITzZmd040UHlydTd5QXNfMyJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "qj3ldXicxZXrkqo4EIAfYJ9j_cOM4F2nijoV8IY3ZBzPnPEPhRACCkQJipx_5132qfZpNqAoOOrU2aqt7SoInXQ6naQ_-tdfju2t__6jZQXBhrywbBiGRYQxcmBRxy6rkcjTWRM7xNetb8jhd6RgOTz0CtGerxR0wnMFaPMLLzC1rVnty3UznFSnkb9rRIAUkum8utQIXFHvhxVhVZa-1n9W2lQpkiL0ii1jCuHSl2ELFctcqVWUWc2lBuC_FQTs-IWARBXp07AIkPKVA9CJ3-LFLnXTyZiFiSYI1GNiId71h5LG7gDqcCp4NYsA0Dt26o8CGeTVbjxFUoR4E5J4DPRabm1NSFslq92UG4PCyW-69erDtWKRpLwfum5HTbqU_CpS1okSd38kn7ICYDsEVoiGD2IVMWj30ExBt245KxtgTdN1loCjF8UaiOYhxy592pRYW7f05MMncXqKby0O97rAl_rvEZ54_Ykhbw7TmtGeCNveJECsvqR2DtYMaKiWyn1L9FK5VONalUbzKeFCJ2cwSA6MueMs5f5orODiqCiUMlSg86lkJO58vXnM6eHdmHA6YtRJPqJ0CKcfAlbo5MvEblsSQgBSNKtxrrXR54ymvm9QkcgZjTFIqEiCE4_tyVE2KxA6T8jkUf9qvWwEQupelCh7aV_vYqCIeQZFemzrMyTjvCvF6hzTT5idgJeFao5voGQ08bhFBQlCfivScQfVjF18MYimsrKg-gCh888omSSdAjqumwsqTx-9AiTOOw95vSePuDkJAmn6X2VzloJOfzAof28vx4vdzw7u9byP0qTeWktDdRHeznrsLn-jHuj_OxdJtcBptbjBhfUFF0nyoPvV4pREYcpFYjcUxLtcrJM2Xy36V9XiFheDPBeXaqFcVYsLF3Eoj7noPuJCuMcF_eF_4kK5w0VaLTJcrK-qhXA-1bjrwsXvVwvt31WLBBN4bPKlY7dC90vIYDY0rPH37Z7zu6vRujecdMK-xK12EfiyhJhu8OJqhvOk2saLUB4EkfGk0g78Ao3Clgez-Yx5lXvMLPDtA1Mqc9w7M8Uh9JnZbrNxImZDdowWHNQ99ImNPQaapq3b0NMj1dcC20OMiX1XNTU9wD7jYmPnaL4aRBvIbKidqmPPg_EYYUItCDQE1bDgOj7mOa3af_6A2z3ZiFGnW3nVy6W33s8fYKSae3GBm0H_o1Jve6UhqU4W0rzue7oVhKEK983Khyy3owFyAJbNnRtVzdd-Q3lGbV_m5MO4OW6Onhu9Q9MAszdxTrR55A6mjYbj-WbFHtVK3iupVsZvz-rqxziJhvBjtVuHtcN20SYF19d5mpJVBCYKeEeCDkSabyKiD6ZPSC-2QHRNhWTPl42W2ao1OG3ZrGnNOiy4iO6eb3EF4vl86R_q4ztK",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qj3ldXicxZXrkqo4EIAfYJ9j_cOM4F2nijoV8IY3ZBzPnPEPhRACCkQJipx_5132qfZpNqAoOOrU2aqt7SoInXQ6naQ_-tdfju2t__6jZQXBhrywbBiGRYQxcmBRxy6rkcjTWRM7xNetb8jhd6RgOTz0CtGerxR0wnMFaPMLLzC1rVnty3UznFSnkb9rRIAUkum8utQIXFHvhxVhVZa-1n9W2lQpkiL0ii1jCuHSl2ELFctcqVWUWc2lBuC_FQTs-IWARBXp07AIkPKVA9CJ3-LFLnXTyZiFiSYI1GNiId71h5LG7gDqcCp4NYsA0Dt26o8CGeTVbjxFUoR4E5J4DPRabm1NSFslq92UG4PCyW-69erDtWKRpLwfum5HTbqU_CpS1okSd38kn7ICYDsEVoiGD2IVMWj30ExBt245KxtgTdN1loCjF8UaiOYhxy592pRYW7f05MMncXqKby0O97rAl_rvEZ54_Ykhbw7TmtGeCNveJECsvqR2DtYMaKiWyn1L9FK5VONalUbzKeFCJ2cwSA6MueMs5f5orODiqCiUMlSg86lkJO58vXnM6eHdmHA6YtRJPqJ0CKcfAlbo5MvEblsSQgBSNKtxrrXR54ymvm9QkcgZjTFIqEiCE4_tyVE2KxA6T8jkUf9qvWwEQupelCh7aV_vYqCIeQZFemzrMyTjvCvF6hzTT5idgJeFao5voGQ08bhFBQlCfivScQfVjF18MYimsrKg-gCh888omSSdAjqumwsqTx-9AiTOOw95vSePuDkJAmn6X2VzloJOfzAof28vx4vdzw7u9byP0qTeWktDdRHeznrsLn-jHuj_OxdJtcBptbjBhfUFF0nyoPvV4pREYcpFYjcUxLtcrJM2Xy36V9XiFheDPBeXaqFcVYsLF3Eoj7noPuJCuMcF_eF_4kK5w0VaLTJcrK-qhXA-1bjrwsXvVwvt31WLBBN4bPKlY7dC90vIYDY0rPH37Z7zu6vRujecdMK-xK12EfiyhJhu8OJqhvOk2saLUB4EkfGk0g78Ao3Clgez-Yx5lXvMLPDtA1Mqc9w7M8Uh9JnZbrNxImZDdowWHNQ99ImNPQaapq3b0NMj1dcC20OMiX1XNTU9wD7jYmPnaL4aRBvIbKidqmPPg_EYYUItCDQE1bDgOj7mOa3af_6A2z3ZiFGnW3nVy6W33s8fYKSae3GBm0H_o1Jve6UhqU4W0rzue7oVhKEK983Khyy3owFyAJbNnRtVzdd-Q3lGbV_m5MO4OW6Onhu9Q9MAszdxTrR55A6mjYbj-WbFHtVK3iupVsZvz-rqxziJhvBjtVuHtcN20SYF19d5mpJVBCYKeEeCDkSabyKiD6ZPSC-2QHRNhWTPl42W2ao1OG3ZrGnNOiy4iO6eb3EF4vl86R_q4ztK"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ROG Strix 1200W Platinum (ROG Equalizer)",
+      "link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming-e/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming-e%2F&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECBgQAQ",
+      "displayed_link": "https://rog.asus.com › rog-strix-1200p-gaming-e",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "ROG Strix Platinum is a cool and quiet PSU with stable power delivery, engineered for efficiency with a GaN MOSFET and intelligent stabilizer. With full ATX 3. ...",
+      "snippet_highlighted_words": [
+        "ROG Strix Platinum is a cool and quiet PSU with stable power delivery"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ROG Strix Platinum is a cool and quiet PSU with stable power delivery, engineered for efficiency with a GaN MOSFET and intelligent stabilizer. With full ATX 3. ...",
+          "source_info_link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming-e/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming-e%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming-e%2F",
+      "source": "ROG"
+    },
+    {
+      "position": 2,
+      "title": "ROG-THOR-1200P | Power Supply Units",
+      "link": "https://rog.asus.com/power-supply-units/rog-thor/rog-thor-1200p-model/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-thor%2Frog-thor-1200p-model%2F&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECDAQAQ",
+      "displayed_link": "https://rog.asus.com › power-supply-units › rog-thor-1...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "The ROG Thor 1200W Platinum is the first PC PSU in the world to feature an integrated OLED panel, offering a real-time display of power draw.",
+      "snippet_highlighted_words": [
+        "ROG",
+        "1200W",
+        "PSU",
+        "power"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The ROG Thor 1200W Platinum is the first PC PSU in the world to feature an integrated OLED panel, offering a real-time display of power draw.",
+          "source_info_link": "https://rog.asus.com/power-supply-units/rog-thor/rog-thor-1200p-model/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-thor%2Frog-thor-1200p-model%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-thor%2Frog-thor-1200p-model%2F",
+      "source": "ROG"
+    },
+    {
+      "position": 3,
+      "title": "ASUS ROG Strix 1200W Platinum (Fully Modular Power ...",
+      "link": "https://www.amazon.com/ASUS-Certified-GPU-First-Intelligent-Stabilizer/dp/B0DJ1SW3S1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FASUS-Certified-GPU-First-Intelligent-Stabilizer%2Fdp%2FB0DJ1SW3S1&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECDEQAQ",
+      "displayed_link": "https://www.amazon.com › ASUS-Certified-GPU-First-In...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "1200 Watts Form Factor ATX GaN MOSFET delivers superior power efficiency by up to 30% and a more organized internal layout for cooler operation",
+      "snippet_highlighted_words": [
+        "1200 Watts Form Factor ATX GaN MOSFET delivers superior power efficiency by up to 30"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1200 Watts Form Factor ATX GaN MOSFET delivers superior power efficiency by up to 30% and a more organized internal layout for cooler operation",
+          "source_info_link": "https://www.amazon.com/ASUS-Certified-GPU-First-Intelligent-Stabilizer/dp/B0DJ1SW3S1",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FASUS-Certified-GPU-First-Intelligent-Stabilizer%2Fdp%2FB0DJ1SW3S1&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FASUS-Certified-GPU-First-Intelligent-Stabilizer%2Fdp%2FB0DJ1SW3S1",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "ROG Strix 1200W Gold Aura Edition | Power Supply Units",
+      "link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200g-aura-gaming-model%2F&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECC8QAQ",
+      "displayed_link": "https://rog.asus.com › power-supply-units › rog-strix",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "ROG Strix 1200W Gold Aura Edition is a cool, quiet and powerful PSU, engineered for efficiency in striking style. izer 12V-2x6 PCIe cable.",
+      "snippet_highlighted_words": [
+        "ROG Strix 1200W",
+        "PSU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ROG Strix 1200W Gold Aura Edition is a cool, quiet and powerful PSU, engineered for efficiency in striking style. izer 12V-2x6 PCIe cable.",
+          "source_info_link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200g-aura-gaming-model/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200g-aura-gaming-model%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200g-aura-gaming-model%2F",
+      "source": "ROG"
+    },
+    {
+      "position": 5,
+      "title": "ROG STRIX 1200W Platinum | Power Supply Units",
+      "link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming%2F&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECDMQAQ",
+      "displayed_link": "https://rog.asus.com › rog-strix › rog-strix-1200p-gaming",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "The ROG Strix 1200W Platinum is a cool and quiet PSU in a striking style, engineered for efficiency with a GaN MOSFET, intelligent voltage stabilizer, and ROG ...",
+      "snippet_highlighted_words": [
+        "cool and quiet PSU in a striking style"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The ROG Strix 1200W Platinum is a cool and quiet PSU in a striking style, engineered for efficiency with a GaN MOSFET, intelligent voltage stabilizer, and ROG ...",
+          "source_info_link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming%2F",
+      "source": "ROG",
+      "read_more_link": "https://rog.asus.com/power-supply-units/rog-strix/rog-strix-1200p-gaming/"
+    },
+    {
+      "position": 6,
+      "title": "ASUS ROG Strix 1200W Platinum PSU, Fully Modular, 80 ...",
+      "link": "https://www.bestbuy.com/product/asus-rog-strix-1200w-platinum-psu-fully-modular-80-plus-atx-3-1-gan-mosfet-10-year-warranty/JJGGLQL75K/sku/12624039",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fasus-rog-strix-1200w-platinum-psu-fully-modular-80-plus-atx-3-1-gan-mosfet-10-year-warranty%2FJJGGLQL75K%2Fsku%2F12624039&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECGAQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Power Supplies",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "ROG Strix 1200W Platinum PSU, Fully Modular, 80 Plus, ATX 3.1, The price was $114.99 … delivers superior power efficiency by up to 30%",
+      "snippet_highlighted_words": [
+        "delivers superior power efficiency by up to 30"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ROG Strix 1200W Platinum PSU, Fully Modular, 80 Plus, ATX 3.1, The price was $114.99 … delivers superior power efficiency by up to 30%",
+          "source_info_link": "https://www.bestbuy.com/product/asus-rog-strix-1200w-platinum-psu-fully-modular-80-plus-atx-3-1-gan-mosfet-10-year-warranty/JJGGLQL75K/sku/12624039",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fasus-rog-strix-1200w-platinum-psu-fully-modular-80-plus-atx-3-1-gan-mosfet-10-year-warranty%2FJJGGLQL75K%2Fsku%2F12624039&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fasus-rog-strix-1200w-platinum-psu-fully-modular-80-plus-atx-3-1-gan-mosfet-10-year-warranty%2FJJGGLQL75K%2Fsku%2F12624039",
+      "source": "Best Buy"
+    },
+    {
+      "position": 7,
+      "title": "ASUS ROG Strix 1200W Platinum (Fully Modular Power ...",
+      "link": "https://www.newegg.com/asus-atx-3-1-1200-w-80-plus-platinum-certified-power-supply-black/p/N82E16817320053?srsltid=AfmBOoozKtEyEkTCpGYUuZnfkDPUtY9oGiR1LiP9AiziBFJu1D8QdUUd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fasus-atx-3-1-1200-w-80-plus-platinum-certified-power-supply-black%2Fp%2FN82E16817320053%3Fsrsltid%3DAfmBOoozKtEyEkTCpGYUuZnfkDPUtY9oGiR1LiP9AiziBFJu1D8QdUUd&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECF4QAQ",
+      "displayed_link": "https://www.newegg.com › ... › Power Supplies › ASUS",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "1200W Platinum (Fully Modular Power Supply, 80 Plus Platinum Certified, ATX 3.1, GaN MOSFET, GPU-First Intelligent Voltage Stabilizer, 10-Year Warranty)",
+      "snippet_highlighted_words": [
+        "1200W Platinum"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1200W Platinum (Fully Modular Power Supply, 80 Plus Platinum Certified, ATX 3.1, GaN MOSFET, GPU-First Intelligent Voltage Stabilizer, 10-Year Warranty)",
+          "source_info_link": "https://www.newegg.com/asus-atx-3-1-1200-w-80-plus-platinum-certified-power-supply-black/p/N82E16817320053?srsltid=AfmBOoozKtEyEkTCpGYUuZnfkDPUtY9oGiR1LiP9AiziBFJu1D8QdUUd",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fasus-atx-3-1-1200-w-80-plus-platinum-certified-power-supply-black%2Fp%2FN82E16817320053%3Fsrsltid%3DAfmBOoozKtEyEkTCpGYUuZnfkDPUtY9oGiR1LiP9AiziBFJu1D8QdUUd&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fasus-atx-3-1-1200-w-80-plus-platinum-certified-power-supply-black%2Fp%2FN82E16817320053%3Fsrsltid%3DAfmBOoozKtEyEkTCpGYUuZnfkDPUtY9oGiR1LiP9AiziBFJu1D8QdUUd",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/asus-atx-3-1-1200-w-80-plus-platinum-certified-power-supply-black/p/N82E16817320053?srsltid=AfmBOoozKtEyEkTCpGYUuZnfkDPUtY9oGiR1LiP9AiziBFJu1D8QdUUd"
+    },
+    {
+      "position": 8,
+      "title": "1200W｜Power Supply Units",
+      "link": "https://www.asus.com/us/motherboards-components/power-supply-units/all-series/filter?Category=1200W",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fpower-supply-units%2Fall-series%2Ffilter%3FCategory%3D1200W&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECDUQAQ",
+      "displayed_link": "https://www.asus.com › all-series › filter › Category=120...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "$304.99 The ROG Strix 1200W Platinum is a cool and quiet PSU in a striking style, engineered for efficiency with a GaN MOSFET, intelligent voltage stabilizer, ...",
+      "snippet_highlighted_words": [
+        "cool and quiet PSU in a striking style"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "$304.99 The ROG Strix 1200W Platinum is a cool and quiet PSU in a striking style, engineered for efficiency with a GaN MOSFET, intelligent voltage stabilizer, ...",
+          "source_info_link": "https://www.asus.com/us/motherboards-components/power-supply-units/all-series/filter?Category=1200W",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fpower-supply-units%2Fall-series%2Ffilter%3FCategory%3D1200W&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fpower-supply-units%2Fall-series%2Ffilter%3FCategory%3D1200W",
+      "source": "ASUS"
+    },
+    {
+      "position": 9,
+      "title": "ASUS ROG Strix 1200 Watt 80 Plus Platinum ATX Fully ...",
+      "link": "https://www.microcenter.com/product/695232/asus-rog-strix-1200-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F695232%2Fasus-rog-strix-1200-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECDIQAQ",
+      "displayed_link": "https://www.microcenter.com › ... › Power Supplies",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "The ROG Strix Platinum PSU delivers the top-tier performance and unwavering stability demanded by gamers. Featuring next-gen GaN MOSFET for superior power ...",
+      "snippet_highlighted_words": [
+        "ROG Strix",
+        "PSU",
+        "power"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The ROG Strix Platinum PSU delivers the top-tier performance and unwavering stability demanded by gamers. Featuring next-gen GaN MOSFET for superior power ...",
+          "source_info_link": "https://www.microcenter.com/product/695232/asus-rog-strix-1200-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F695232%2Fasus-rog-strix-1200-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F695232%2Fasus-rog-strix-1200-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible",
+      "source": "Micro Center",
+      "read_more_link": "https://www.microcenter.com/product/695232/asus-rog-strix-1200-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible"
+    },
+    {
+      "position": 10,
+      "title": "ROG STRIX 1200W Platinum | Power Supply Units",
+      "link": "https://rog.asus.com/us/power-supply-units/rog-strix/rog-strix-1200p-gaming/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fus%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming%2F&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQFnoECDQQAQ",
+      "displayed_link": "https://rog.asus.com › rog-strix › rog-strix-1200p-gaming",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "ROG Strix 1200W Platinum PSU: Experience unmatched efficiency with GaN MOSFET, GPU-FIRST stabilization, PCIe Gen 5.1 readiness, and 10-year warranty.",
+      "snippet_highlighted_words": [
+        "ROG Strix 1200W Platinum PSU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ROG Strix 1200W Platinum PSU: Experience unmatched efficiency with GaN MOSFET, GPU-FIRST stabilization, PCIe Gen 5.1 readiness, and 10-year warranty.",
+          "source_info_link": "https://rog.asus.com/us/power-supply-units/rog-strix/rog-strix-1200p-gaming/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fpower-supply-units%2Frog-strix%2Frog-strix-1200p-gaming%2F",
+      "source": "ROG"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "ROG Strix 1200W Platinum",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+Strix+1200W+Platinum&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Strix+1200W+Platinum"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Thor 1200W Platinum II",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+Thor+1200W+Platinum+II&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Thor+1200W+Platinum+II"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS ROG Strix 1200W Platinum review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+ROG+Strix+1200W+Platinum+review&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Platinum+review"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Strix 1200W Platinum cables",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+Strix+1200W+Platinum+cables&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Strix+1200W+Platinum+cables"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Thor-1200P",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+Thor-1200P&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Thor-1200P"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG STRIX 1200W Platinum Manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+STRIX+1200W+Platinum+Manual&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+STRIX+1200W+Platinum+Manual"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS ROG Thor",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+ROG+Thor&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Thor"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Thor 1200W Platinum III White Edition",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+Thor+1200W+Platinum+III+White+Edition&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Thor+1200W+Platinum+III+White+Edition"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=reviews+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAF6BAgbED0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+sale&shoprs=EgRKAhgBGAYqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyEwgGEgdPbiBzYWxlGAIiBEoCGAFYiasgYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAJ6BAgbED4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+sale"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=price+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAN6BAgbED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+nearby&shoprs=GAMqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyDAgDEgZOZWFyYnkYAliJqyBgAQ&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAR6BAgbEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+nearby"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=replacement+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyDwgSEgtSZXBsYWNlbWVudGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAV6BAgbEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=atx+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyEwgBEgNBVFg6CgjnyS4Q6MkuMAJYiasgYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAZ6BAgbEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+for+sale&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAd6BAgbEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+for+sale"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=Eg2aAQoKCBACOAFABEgBGBQqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAh6BAgbEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=buy+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAl6BAgbEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=online+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAp6BAgbEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=online+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=new+ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAoqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyBwgKEgNOZXdYiasgYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAt6BAgbEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=used+ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAoqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyCAgKEgRVc2VkWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKAx6BAgbEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Modular",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=modular+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyFwgBEgdNb2R1bGFyOgoI0_o7ENT6OzADWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKA16BAgbEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=modular+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=white+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyFwgBEgVXaGl0ZToMCNiM9QEQoYv1ATALWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKA56BAgbEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Under $150",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+under+%24150&shoprs=Eg0SCxEAAAAAo-GhQRgBGAUqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyIwgFEgpVbmRlciAkMTUwGAIiDRILEQAAAACj4aFBGAEqAhgBWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKA96BAgbEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w+under+%24150"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=desktop+computers+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAkqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyFQgJEhFEZXNrdG9wIENvbXB1dGVyc2AB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBB6BAgbEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=green+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyFwgBEgVHcmVlbjoMCNiM9QEQ6Ir1ATALWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBF6BAgbEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=green+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=store+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyCQgSEgVTdG9yZWAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBJ6BAgbEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=store+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "80 PLUS Gold",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=80+plus+gold+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyHAgBEgw4MCBQTFVTIEdvbGQ6CgjW-jsQ2vo7MABYiasgYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBN6BAgbEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=80+plus+gold+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Accessories",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=accessories+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GBIqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyDwgSEgtBY2Nlc3Nvcmllc2AB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBR6BAgbEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=accessories+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=black+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBV6BAgbEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Silver",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=silver+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyGAgBEgZTaWx2ZXI6DAjYjPUBEIro2QMwC1iJqyBgAQ&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBZ6BAgbEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=silver+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "80 PLUS Platinum",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=80+plus+platinum+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyIAgBEhA4MCBQTFVTIFBsYXRpbnVtOgoI1vo7ENv6OzAAWImrIGAB&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBd6BAgbEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=80+plus+platinum+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gray+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&shoprs=GAEqdmFzdXMgcm9nIHN0cml4IDEyMDB3IHBvd2VyIHN1cHBseSBwc3UgYXR4X3ZlcnNpb24gZWZmaWNpZW5jeV9yYXRpbmcgZm9ybV9mYWN0b3IgbW9kdWxhcl90eXBlIHBjaWVfY29ubmVjdG9ycyB3YXR0YWdlX3cyFggBEgRHcmF5OgwI2Iz1ARDqivUBMAtYiasgYAE&sa=X&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQip4GKBh6BAgbEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+asus+rog+strix+1200w+power+supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=Zntfaqf4HO6fwN4Pyru7yAs&start=10&sa=N&sstk=AU9db-BPynsgP1tly-9HoYFySBiM559KMhf6QgH0JIaV1xxRnaIxUfwiQXriWTsLOCRSdZ24FAMEX3D74hJXIs_8AoGNRDllAcewGQ&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ8NMDegQIRxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=Zntfaqf4HO6fwN4Pyru7yAs&start=10&sa=N&sstk=AU9db-BPynsgP1tly-9HoYFySBiM559KMhf6QgH0JIaV1xxRnaIxUfwiQXriWTsLOCRSdZ24FAMEX3D74hJXIs_8AoGNRDllAcewGQ&ved=2ahUKEwinw8GF9-OVAxXuD9AFHcrdDrkQ8tMDegQIRxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+1200W+Power+Supply+psu+atx_version+efficiency_rating+form_factor+modular_type+pcie_connectors+wattage_w&start=10"
+    }
+  }
+}

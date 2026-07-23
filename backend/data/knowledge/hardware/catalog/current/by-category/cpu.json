@@ -1,0 +1,821 @@
+[
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 7 7800X3D 8-Core Processor",
+    "mpn": "",
+    "release_date": "2023-04-06",
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "cores": "8",
+      "threads": "16",
+      "base_clock": "4.2 GHz",
+      "boost_clock": "5 GHz",
+      "tdp_w": "120W",
+      "memory_types": "DDR5",
+      "pcie_version": "PCIe 5.0"
+    },
+    "price": {
+      "reference_usd": "389.0",
+      "reference_cny": "2632.00",
+      "offers": [
+        {
+          "merchant": "Staples",
+          "url": "https://www.staples.com/amd-ryzen-7-7000-7800x3d-8-core-4-2ghz-computer-processor-socket-am5-100-100000910wof/product_24692259",
+          "price_usd": "348.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/amd-ryzen-7-7800x3d-8-core-16-thread-4-2-ghz-5-0-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black/JXKQHH5253/sku/6537139?utm_source=feed&extStoreId=1411",
+          "price_usd": "416.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/amd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5/p/N82E16819113793?item=N82E16819113793&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113793&source=region&negg_topt=0",
+          "price_usd": "389.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html"
+    ],
+    "fetched_at": "2026-07-22T11:31:38.091756+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "5eccfd08ea5a9488199b30875226fe08300004d7ee7093e9dfd170899b83d997"
+  },
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 7 9800X3D Desktop Processor",
+    "mpn": "",
+    "release_date": "2024-11-07",
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "cores": "8",
+      "threads": "16",
+      "base_clock": "4.7 GHz",
+      "boost_clock": "5.2 GHz",
+      "tdp_w": "120 W",
+      "memory_types": "DDR5",
+      "pcie_version": "PCIe 5.0"
+    },
+    "price": {
+      "reference_usd": "461.995",
+      "reference_cny": "3126.29",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1859346-REG/amd_100_100001084wof_ryzen_7_9800x3d_am5.html?kw=AM9800X3D&ap=y&smp=Y&BI=E7249&srsltid=AfmBOorGuovhFWeWNOm8ijOlmGUScaSacxvJoIi_Pt0FIBLqHRFwk61SLys",
+          "price_usd": "444.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Staples",
+          "url": "https://www.staples.com/amd-ryzen-7-9000-amd-ryzen-7-9800x3d-8-core-4-7ghz-computer-processor-am5-100-100001084wof/product_IM1RF3088",
+          "price_usd": "444.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/amd-ryzen-7-9800x3d-8-core-16-thread-4-7-ghz-5-2-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-silver/JXKQHH5XSR/sku/6606318?utm_source=feed",
+          "price_usd": "479.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877?item=N82E16819113877&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113877&source=region&negg_topt=0",
+          "price_usd": "479.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html"
+    ],
+    "fetched_at": "2026-07-20T15:57:08.032928+00:00",
+    "content_hash": "886eafba672c955795c6992fef136f2460f1accf284d1711401a556573183848",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 9 5900XT Desktop Processor",
+    "mpn": "",
+    "release_date": "2024-07-31",
+    "market": "US",
+    "specs": {
+      "socket": "AM4",
+      "cores": "16",
+      "threads": "32",
+      "base_clock": "3.3 GHz",
+      "boost_clock": "4.8 GHz",
+      "tdp_w": "105 W",
+      "memory_types": "DDR4",
+      "pcie_version": "PCIe 4.0"
+    },
+    "price": {
+      "reference_usd": "281.29",
+      "reference_cny": "1903.47",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1834131-REG/amd_100_100001581wof_ryzen_9_5900xt_3_3.html?kw=AM5900XT&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopMMt3zaTxLvfJJw41YpviFyPUyNCYJ547ElgzyCYJ3NYEEboDtqGA",
+          "price_usd": "289.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Staples",
+          "url": "https://www.staples.com/amd-ryzen-9-5900xt-16-core-3-3ghz-computer-processor-am4-socket-100-100001581wof/product_IM1KS1074",
+          "price_usd": "276.63",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/amd-ryzen-9-5000-series-ryzen-9-5900xt-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113845?item=N82E16819113845&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113845&source=region&negg_topt=0",
+          "price_usd": "281.29",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-19-113-845&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-processors+-+desktops-_-amd-_-9B19113845&source=region&negg_topt=0&srsltid=AfmBOooVZ0tKoGq3zEBY0kWKz-FSyV6HOB47YKK0uXZ4WCa6Nk3g52X_ssA",
+          "price_usd": "281.29",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5900xt.html"
+    ],
+    "fetched_at": "2026-07-20T15:57:42.780734+00:00",
+    "content_hash": "6209f41ca616b1160a097cf8973d4d271e41971f1db063315b7e0db537141be4",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 9 9900X 12-Core Processor",
+    "mpn": "",
+    "release_date": "Now launched",
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "cores": "12",
+      "threads": "24",
+      "base_clock": "4.4 GHz",
+      "boost_clock": "5.6 GHz",
+      "tdp_w": "120 W",
+      "memory_types": "DDR5",
+      "pcie_version": "PCIe 5.0"
+    },
+    "price": {
+      "reference_usd": "439.0",
+      "reference_cny": "2970.68",
+      "offers": [
+        {
+          "merchant": "Quiet PC",
+          "url": "https://www.quietpc.com/amd-ryzen-9000?countryid=us",
+          "price_usd": "361.65",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Staples",
+          "url": "https://www.staples.com/amd-ryzen-9-9900x-12-core-4-4-ghz-computer-processor-socket-am5-100-100000662wof/product_IM1KS1069",
+          "price_usd": "328.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/amd-ryzen-9-9000-series-ryzen-9-9900x-granite-ridge-socket-am5-desktop-cpu-processor/p/N82E16819113842?item=N82E16819113842&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113842&source=region&negg_topt=0",
+          "price_usd": "439.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/amd-ryzen-9-9900x-12-core-24-thread-4-4-ghz-5-6-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-silver/JXKQHH5XS4/sku/6589135?utm_source=feed",
+          "price_usd": "499.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "metapcs.com",
+          "url": "https://www.metapcs.com/products/amd-ryzen-9-9900x?variant=44789089140805&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq0pIDiOAoEftZtAWlSHpoBvhCvw_Ivy79M7hUmlG5y7_TrqZ_UDho",
+          "price_usd": "575.0",
+          "availability": "unknown",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x.html"
+    ],
+    "fetched_at": "2026-07-20T15:57:48.364640+00:00",
+    "content_hash": "630b7356ed7472c4464731f0dd38f20c3383fed3fa1625af7ff9e6e5ba58518b",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 9 9950X 16-Core 4.3GHz Processor",
+    "mpn": "",
+    "release_date": "2024-08-15",
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "cores": "16",
+      "threads": "32",
+      "base_clock": "4.3 GHz",
+      "boost_clock": "5.7 GHz",
+      "tdp_w": "170 W",
+      "memory_types": "DDR5",
+      "pcie_version": "PCIe 5.0"
+    },
+    "price": {
+      "reference_usd": "545.99",
+      "reference_cny": "3694.68",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/amd-ryzen-9-9950x-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-silver/JXKQHH5XP5/sku/12122564?ref=212&loc=marketplace",
+          "price_usd": "545.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/682197/Ryzen_9_9950X_Granite_Ridge_AM5_430GHz_16-Core_Boxed_Processor_-_Heatsink_Not_Included?storeID=081",
+          "price_usd": "489.99",
+          "availability": "out_of_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/AMD-Ryzen-9-9950X-WOF/8876505058?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google",
+          "price_usd": "599.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html"
+    ],
+    "fetched_at": "2026-07-20T15:57:28.413374+00:00",
+    "content_hash": "e1cc6107d565a00eca0c8308b3acf6805b264ce290e28de1827384b704b39c5c",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 9 9950X 16-Core Processor",
+    "mpn": "",
+    "release_date": "2024-08-15",
+    "market": "US",
+    "specs": {
+      "socket": "AM5",
+      "cores": "16",
+      "threads": "32",
+      "base_clock": "4.3 GHz",
+      "boost_clock": "5.7 GHz",
+      "tdp_w": "170 W",
+      "memory_types": "DDR5",
+      "pcie_version": "PCIe 5.0"
+    },
+    "price": {
+      "reference_usd": "549.0",
+      "reference_cny": "3714.57",
+      "offers": [
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1834127-REG/amd_100_100001277wof_ryzen_9_9950x.html?kw=AM99950X&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopE-UN11quYTmHssbF3DCnID9pFjDE-aaL3xoZPXhlY3LiyiprEutk",
+          "price_usd": "549.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/amd-ryzen-9-9950x-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-silver/JXKQHH5XP5/sku/6589134?utm_source=feed",
+          "price_usd": "549.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/AMD-Ryzen-9-9950X-WOF/8876505058?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google",
+          "price_usd": "599.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html"
+    ],
+    "fetched_at": "2026-07-22T11:31:39.317531+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "566790e6544aa734b7440365d0871182bd1c454d4d3007a349a7ea7e5d740eb3"
+  },
+  {
+    "category": "cpu",
+    "brand": "AMD",
+    "model": "AMD Ryzen 9 9950X3D 16-Core Processor",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cores": "16-core",
+      "base_clock": "4.3 GHz"
+    },
+    "price": {
+      "reference_usd": "699.0",
+      "reference_cny": "4729.48",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/amd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black/JXKQHH5X53/sku/12122562?ref=212&loc=marketplace",
+          "price_usd": "723.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Staples",
+          "url": "https://www.staples.com/amd-ryzen-9-16-core-5-7ghz-computer-processor-socket-am5-100-100000719wof/product_IM1SF4756",
+          "price_usd": "669.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/amd-ryzen-9-9000-series-ryzen-9-9950x3d-granite-ridge-socket-am5-desktop-cpu-processor/p/N82E16819113884?item=N82E16819113884&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113884&source=region&negg_topt=0",
+          "price_usd": "699.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-19-113-884&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-processors+-+desktops-_-amd-_-9B19113884&source=region&negg_topt=0&srsltid=AfmBOooCOIeEyKnshm0W7YUcxY4CgAAfZM-ckC0yh5WwDZ5rFHxFvgNjwA0",
+          "price_usd": "699.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Abt Electronics & Appliances",
+          "url": "https://www.abt.com/AMD-Ryzen-9-9950X3D-Gaming-and-Content-Creation-Processor-For-Desktops-100100000719WOF/p/230764.html?utm_source=google&utm_medium=sc_organic&utm_campaign=surfaces+across+google",
+          "price_usd": "699.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/amd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black/JXKQHH5X53/sku/12122562?ref=212&loc=marketplace",
+      "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html",
+      "https://www.amazon.com/AMD-Ryzen-9950X3D-16-Core-Processor/dp/B0DVZSG8D5",
+      "https://www.techpowerup.com/cpu-specs/ryzen-9-9950x3d.c3993",
+      "https://www.reddit.com/r/buildapcsales/comments/1sw4erx/cpu_amd_ryzen_9_9950x3d_16core_processor_57399/",
+      "https://shop-us-en.amd.com/amd-ryzen-9-9950x3d-processor/",
+      "https://www.reddit.com/r/pchelp/comments/1jh50ew/windows_only_sees_8_core_on_amd_ryzen_9_9950x3d/",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=0",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=110",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=251",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=398",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=428",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=455",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=484",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=514",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=544",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=568",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=596",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=629",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=660",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=685",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=750",
+      "https://www.youtube.com/watch?v=vMe44z1ECWc&t=814",
+      "https://www.idc.com/resource-center/blog/review-of-the-amd-ryzen-9-9950x3d/"
+    ],
+    "fetched_at": "2026-07-22T11:31:30.161200+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "boost_clock",
+        "memory_types",
+        "pcie_version",
+        "socket",
+        "tdp_w",
+        "threads"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "boost_clock",
+      "memory_types",
+      "pcie_version",
+      "socket",
+      "tdp_w",
+      "threads"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "e12f561feed9add05a107c4500cdc1dca8a82d5df51eaee63ce023d65f58aca0"
+  },
+  {
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Intel Core i3-12100F Desktop Processor",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cores": "Quad-core",
+      "base_clock": "3.3 GHz"
+    },
+    "price": {
+      "reference_usd": "130.99",
+      "reference_cny": "886.29",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/intel-core-i3-12100f-12th-generation-4-core-8-thread-3-3-to-4-3-ghz-lga1700-desktop-processor/JXZRJ5KGJF/sku/12090849?ref=212&loc=marketplace",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - Ship Free Defense LLC",
+          "url": "https://www.walmart.com/ip/Intel-Core-i3-12100F-3-3-GHz-Quad-Core-LGA-1700-Processor-BX8071512100F/876549698?wmlspartner=wlpa&selectedSellerId=101232022&veh=seo_fpl&cn=google",
+          "price_usd": "130.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com - Global Electronic Treasure Store",
+          "url": "https://www.newegg.com/p/3C6-008J-003J0?item=9SIC7XKM1G0566&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-intel-_-9SIC7XKM1G0566&source=region&negg_topt=0&srsltid=AfmBOoqHky_YsFZ9AHTi8SaKL9zmcLnP9HfiUitW7clzVrzk5D-VOzHDcLs",
+          "price_usd": "195.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/intel-core-i3-12100f-12th-generation-4-core-8-thread-3-3-to-4-3-ghz-lga1700-desktop-processor/JXZRJ5KGJF/sku/12090849?ref=212&loc=marketplace",
+      "https://www.intel.com/content/www/us/en/products/sku/132223/intel-core-i312100f-processor-12m-cache-up-to-4-30-ghz/specifications.html",
+      "https://www.amazon.com/i3-12100F-processor-featuring-support-required/dp/B09NPJX7PV",
+      "https://www.bestbuy.com/product/intel-core-i3-12100f-12th-generation-4-core-8-thread-3-3-to-4-3-ghz-lga1700-desktop-processor/JXZRJ5KGJF",
+      "https://www.techpowerup.com/cpu-specs/core-i3-12100f.c2543",
+      "https://www.walmart.com/ip/Intel-Core-i3-12100F-Core-i3-12th-Gen-Alder-Lake-Quad-Core-3-3-GHz-LGA-1700-58W-Desktop-Processor-BX8071512100F/876549698",
+      "https://global.microless.com/product/intel-core-i3-12100f-12th-gen-alder-lake-desktop-processor-lga-1700-socket-4-cores-8-threads-12mb-cache-memory-3-3-ghz-p-core-clock-speed-supports-pcie-4-0-5-0-58w-i3-12100f-tray/?currency=usd",
+      "https://www.newegg.com/intel-core-i3-12th-gen-core-i3-12100f-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118357?srsltid=AfmBOoqzll5b93PAO4KVplaFNkEMaFIMZfBtT_lMGQJ5s0ay3Wk_BvXZ",
+      "https://www.reddit.com/r/intel/comments/zs0jv4/picked_up_an_intel_core_i3_12100f_for_some_fun/",
+      "https://www.youtube.com/watch?v=2WklVah7ERo",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=0",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=169",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=247",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=360",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=395",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=441",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=473",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=496",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=525",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=558",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=581",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=601",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=667",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=690",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=719",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=747",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=777",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=801",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=821",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=851",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=869",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=903",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=921",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=974",
+      "https://www.youtube.com/watch?v=2WklVah7ERo&t=1008"
+    ],
+    "fetched_at": "2026-07-22T11:31:44.953805+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "boost_clock",
+        "memory_types",
+        "pcie_version",
+        "socket",
+        "tdp_w",
+        "threads"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "boost_clock",
+      "memory_types",
+      "pcie_version",
+      "socket",
+      "tdp_w",
+      "threads"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "e50c3642c5f60bf6a781333bf5b7f1e94d3a2a3855394304617af5411a21abb6"
+  },
+  {
+    "category": "cpu",
+    "brand": "Intel",
+    "model": "Intel Core i9-12900K Processor",
+    "mpn": "",
+    "release_date": "November 2021",
+    "market": "US",
+    "specs": {
+      "socket": "LGA 1700",
+      "cores": "16",
+      "threads": "24",
+      "base_clock": "3.2 GHz",
+      "boost_clock": "5.2 GHz",
+      "tdp_w": "125W (Processor Base Power)",
+      "memory_types": "DDR5, DDR4",
+      "pcie_version": "PCIe 5.0, PCIe 4.0"
+    },
+    "price": {
+      "reference_usd": "417.99",
+      "reference_cny": "2828.15",
+      "offers": [
+        {
+          "merchant": "Techinn.com",
+          "url": "https://www.tradeinn.com/techinn/en/intel-core-i9-12900k-3.2ghz-cpu/138457080/p?utm_source=google_products&utm_medium=merchant&id_producte=14567217&country=us&srsltid=AfmBOoqKSx-pJtnMjwLK5NE9Kj44Cln1B4UCvTVmZR6fK5V98LEr0hEnFU8",
+          "price_usd": "417.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "W.B. Mason",
+          "url": "https://www.wbmason.com/pd/INTBX8071512900K?ItemDesc=Intel-Hexadeca-core-Processor-12900K-i9-Core-5-2-GHz-30-L3-MB-Cache-125-W&uom=EA&OCID=SAG&srsltid=AfmBOopFOFWO5nJ8iz04wnoa6cZHDsaYLTyV71E4h_1CrHHPxPye_b7GDeM",
+          "price_usd": "574.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay",
+          "url": "https://www.ebay.com/itm/116703502775?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "price_usd": "392.0",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html"
+    ],
+    "fetched_at": "2026-07-22T11:31:20.853626+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:HTTPStatusError",
+        "zyte:HTTPStatusError",
+        "brightdata:HTTPStatusError",
+        "apify:HTTPStatusError"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "fe665a2c451e9b3a943c36b32ada84833ca8f5c31d4b0e2b12ed5fd8b9ae3de0"
+  },
+  {
+    "category": "cpu",
+    "brand": "My Store",
+    "model": "Intel Core i5-12600KF Processor",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cores": "10-core",
+      "base_clock": "3.7 GHz"
+    },
+    "price": {
+      "reference_usd": "259.99",
+      "reference_cny": "1759.11",
+      "offers": [
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.centralcomputer.com/intel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html?srsltid=AfmBOopKwXO-cw7bQSG2D-yHpH4lk0ycUi-llqboH_01cHLLulnytEWEYrY",
+          "price_usd": "179.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/Intel-Core-i5-12600KF-Core-i5-12th-Gen-Alder-Lake-10-Core-6P-4E-3-7-GHz-LGA-1700-125W-Desktop-Processor-BX8071512600KF/230176483?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google",
+          "price_usd": "259.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/intel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w/JXZRJ5WF9G/sku/11521582?ref=212&loc=marketplace",
+          "price_usd": "333.31",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.centralcomputer.com/intel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html?srsltid=AfmBOopKwXO-cw7bQSG2D-yHpH4lk0ycUi-llqboH_01cHLLulnytEWEYrY",
+      "https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F",
+      "https://www.intel.com/content/www/us/en/products/sku/134590/intel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz/specifications.html",
+      "https://www.centralcomputer.com/intel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html?srsltid=AfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x",
+      "https://www.bestbuy.com/product/intel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w/JXZRJ5WF9G/sku/11234320",
+      "https://www.techpowerup.com/cpu-specs/core-i5-12600kf.c2510",
+      "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12600KF&id=4625",
+      "https://www.avadirect.com/Core-i5-12600KF-10-6P-4E-Cores-2-8-4-9GHz-Turbo-LGA-1700-150W-MTP-Processor/Product/14661822?srsltid=AfmBOophz5HKPhI3J3SrEe7kZRm-qfkNlRtNcymI6gP7JJwDnamKsZ6Y",
+      "https://www.reddit.com/r/buildapcsales/comments/1flduhh/cpu_intel_core_i512600kf_desktop_processor_10/",
+      "https://www.ebay.com/itm/317287142519"
+    ],
+    "fetched_at": "2026-07-22T11:31:41.270915+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "boost_clock",
+        "memory_types",
+        "pcie_version",
+        "socket",
+        "tdp_w",
+        "threads"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "boost_clock",
+      "memory_types",
+      "pcie_version",
+      "socket",
+      "tdp_w",
+      "threads"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "6fc03ce62d0dedad32696f88b8ce19327da874ea90dde0ffaac496a9862b8887"
+  }
+]

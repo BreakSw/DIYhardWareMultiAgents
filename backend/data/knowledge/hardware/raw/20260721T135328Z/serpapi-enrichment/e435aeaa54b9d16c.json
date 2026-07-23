@@ -1,0 +1,798 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a3bd996124422646d05",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/csus-bpTPOarY81VdfqYBg/6a5f7a3bd996124422646d05.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/csus-bpTPOarY81VdfqYBg/6a5f7a3bd996124422646d05.json_with_pixel_position",
+    "created_at": "2026-07-21 13:55:07 UTC",
+    "processed_at": "2026-07-21 13:55:07 UTC",
+    "google_url": "https://www.google.com/search?q=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&oq=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/csus-bpTPOarY81VdfqYBg/6a5f7a3bd996124422646d05.html",
+    "total_time_taken": 11.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ASUS Radeon RX 9070 Prime OC Graphics Card gpu chipset length_mm memory_type power_connectors recommended_psu_w tdp_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ASUS Radeon RX 9070 Prime OC Graphics Card gpu chipset length_mm memory_type power_connectors recommended_psu_w tdp_w",
+    "total_results": 10,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTl3KgzhVYXjAwhZMjSulGrzPwTguf-vj-h5UxJS2m0EuVGXXUh11guqpy7cUXimKb38riTkRVByMc33_UKZPjOIh7_mTvx_h6-jQzWakbt-EV3F9rQHUcIHg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6",
+      "price": "$579.99",
+      "extracted_price": 579.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "SdGyCHicJZHNjptIAISV5-HS0DQ_uY1t8N9gbKCx3RcLdzc_dgM9_MzYvECO-wqRJ1kpOWZX2uu-RvZplijHqpI-Van-ePDin-Ag06R9vT-v_ZO09G3vP_PsiX6TTc162hXsL2jaQDegYSPbtFRk2hb4RpMuEXU2pqMxOpptmJptQ4A03fqR84SJouJ-mvJmVtNfEEs3TQ0giJBmAwMYCHwvyiTjv2PTNGxD1QECNrDUUSDrvWHt568vPW_uP_unEIdKkDBeV0pwUGxgAmXbFCVX_KkybxKZF7RVpknDlEz2Cs0L2fJOEbzKuvxUlkrJy7q5n7q75Iqs33hzonVVcdrVTas0nNZlySvG2Um2_elN6Zg8vX3N5NjtbxVBWx9rQds0xxWqZanWe1mwz-_ytXvk2Ze-F_zfRyYeffvIxYNXf9aJfE3pfx8-OS_L6bRfTnZYyngWgFC7XXAItFAl3lG4AmNXJVdHi69k511W5Xkga-8wucfRCpEyPgZzlwQX9kIxW-NZ_or3m96LiIOdvGUHdxFAsicHWfjzzYYOKz9ZBMMRrzpaSnEelnAnWEodoZGIpDiWTiKk48HVOnCC7cYRLsNs5h9WKHZJS9R87WMhgmFzodDpSBlU-ysrMNxo5-smotGyiwS5JjAXdM8wjicGXYgLG1gezVG4U4nmDSNnyC_xPtiGpT7uXGojuwhgrPGI-X4sIYG080r7ch6CHb0eB7pwblRMRBi7OXVUwm7LAxb5GyndgVXCC4Gd0lkG8CLeRvO42u29ZHl1HQqXiAg3jg8yODs5DDUKcKhuzxGGoTpBGKttfL21vut8ubVN-hM8uagLfWSH9i7ZApxSNoXZbf_MuqNrJamY7T6q48WGrqmqBUz9f8wHFKM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SdGyCHicJZHNjptIAISV5-HS0DQ_uY1t8N9gbKCx3RcLdzc_dgM9_MzYvECO-wqRJ1kpOWZX2uu-RvZplijHqpI-Van-ePDin-Ag06R9vT-v_ZO09G3vP_PsiX6TTc162hXsL2jaQDegYSPbtFRk2hb4RpMuEXU2pqMxOpptmJptQ4A03fqR84SJouJ-mvJmVtNfEEs3TQ0giJBmAwMYCHwvyiTjv2PTNGxD1QECNrDUUSDrvWHt568vPW_uP_unEIdKkDBeV0pwUGxgAmXbFCVX_KkybxKZF7RVpknDlEz2Cs0L2fJOEbzKuvxUlkrJy7q5n7q75Iqs33hzonVVcdrVTas0nNZlySvG2Um2_elN6Zg8vX3N5NjtbxVBWx9rQds0xxWqZanWe1mwz-_ytXvk2Ze-F_zfRyYeffvIxYNXf9aJfE3pfx8-OS_L6bRfTnZYyngWgFC7XXAItFAl3lG4AmNXJVdHi69k511W5Xkga-8wucfRCpEyPgZzlwQX9kIxW-NZ_or3m96LiIOdvGUHdxFAsicHWfjzzYYOKz9ZBMMRrzpaSnEelnAnWEodoZGIpDiWTiKk48HVOnCC7cYRLsNs5h9WKHZJS9R87WMhgmFzodDpSBlU-ysrMNxo5-smotGyiwS5JjAXdM8wjicGXYgLG1gezVG4U4nmDSNnyC_xPtiGpT7uXGojuwhgrPGI-X4sIYG080r7ch6CHb0eB7pwblRMRBi7OXVUwm7LAxb5GyndgVXCC4Gd0lkG8CLeRvO42u29ZHl1HQqXiAg3jg8yODs5DDUKcKhuzxGGoTpBGKttfL21vut8ubVN-hM8uagLfWSH9i7ZApxSNoXZbf_MuqNrJamY7T6q48WGrqmqBUz9f8wHFKM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTcwpGQsSSoRNJcPvTWjdayuJTaPHdXupjAn68O9zRToe5OsZjfJ-a6iBIvC-W-yR12-l7_yN985YKMSJekkferYkRfZ6G03AQvXR9btWTMbzP26QxhapZK",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "ASUS Prime Radeon RX 9070 EVO OC Edition 16GB GDDR6",
+      "price": "$669.99",
+      "extracted_price": 669.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "Y5_LwnicbZJNjptIAEY150EjFRTYJju7MQbSQPNTQNcGlaky0C6gzE8b-wJZ5gotJxkps4wiZTvX6DlNOlln822envQW38cbq3-EmTiQ4fly_97PxUp9mPx7Vq6Lr6Lv6FSMNf220DUI5SVYQAj1FYRL9WtBRsK7sqYv3ypGKK9b5h8OrDe64o_Cv3VDSvabfpehpkNNWa3UBVyo-moBVPVTT4eXL6eJ9ZfXaR2hSAoJZV0rhZmkgyWQHvq6YZJ_J-16Iqq6GKQ70lOpFJNUVLUY2Chx1pZjlTeN1LCm6y_5eBFMEt2Z9XnRtS0rxq4fpJ4VXdOwljKai2HKz9JIRX7-Uoq3uJdPza8Rz-OtKj9PE2f_3Up-m4ZbxW-s_acj4vlQ_P_Xh-3Jvrub7E2AhEiMEERNUgdKKEeKAPSYPKa7WQ1a9-wj6mITb6mJYGp1s58mLkvNCKfzybMc7m8rFe-Gq9uAOYLUS484fFQclXCeUkgzb2t2kYG9CMkeafmRGE59n9kzVbiJDPvKkqrx2oREFhcsw_Y-7ZQ45uOjEnqh4fiUm1aMQgeZJkEIIy8pzzGYgxCaNgLCSLIjSDNz5zWelsFNlSC8SdMxcROnQ7G32-_0MGjNqLgeRxckDrPwPTECLVIcFO3CKgS6GsRILSxhkgwnlOtmgFZwH1cWvXrpvsUjQitAWqQEoZ0hXp1xY15py90I6IfCKAGykod4l7RB6hL7aG4LaGuYO6d9Lcf4Io_oiVoZGIfoaVNH17VGDBy7caHStvg8D_3hFaxNbYx89ekaquJJ5NH-75kdNqa_TnPvccbkdH4nL9_-piqyvAJL7Sd6EwsN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Y5_LwnicbZJNjptIAEY150EjFRTYJju7MQbSQPNTQNcGlaky0C6gzE8b-wJZ5gotJxkps4wiZTvX6DlNOlln822envQW38cbq3-EmTiQ4fly_97PxUp9mPx7Vq6Lr6Lv6FSMNf220DUI5SVYQAj1FYRL9WtBRsK7sqYv3ypGKK9b5h8OrDe64o_Cv3VDSvabfpehpkNNWa3UBVyo-moBVPVTT4eXL6eJ9ZfXaR2hSAoJZV0rhZmkgyWQHvq6YZJ_J-16Iqq6GKQ70lOpFJNUVLUY2Chx1pZjlTeN1LCm6y_5eBFMEt2Z9XnRtS0rxq4fpJ4VXdOwljKai2HKz9JIRX7-Uoq3uJdPza8Rz-OtKj9PE2f_3Up-m4ZbxW-s_acj4vlQ_P_Xh-3Jvrub7E2AhEiMEERNUgdKKEeKAPSYPKa7WQ1a9-wj6mITb6mJYGp1s58mLkvNCKfzybMc7m8rFe-Gq9uAOYLUS484fFQclXCeUkgzb2t2kYG9CMkeafmRGE59n9kzVbiJDPvKkqrx2oREFhcsw_Y-7ZQ45uOjEnqh4fiUm1aMQgeZJkEIIy8pzzGYgxCaNgLCSLIjSDNz5zWelsFNlSC8SdMxcROnQ7G32-_0MGjNqLgeRxckDrPwPTECLVIcFO3CKgS6GsRILSxhkgwnlOtmgFZwH1cWvXrpvsUjQitAWqQEoZ0hXp1xY15py90I6IfCKAGykod4l7RB6hL7aG4LaGuYO6d9Lcf4Io_oiVoZGIfoaVNH17VGDBy7caHStvg8D_3hFaxNbYx89ekaquJJ5NH-75kdNqa_TnPvccbkdH4nL9_-piqyvAJL7Sd6EwsN"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRRSocvM0dtnhaCIlPdZhwto25J7Me7Y-K2QqXwKlKmi5veoaXdM8uXcq1dTEMtCns4cIm62pE6wfc3Dob1lV56g9a5VE3AkSZ0XQKbAv0pUbcDsVI8DAON",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "ASUS Prime Radeon RX 9070 XT OC Edition 16GB GDDR6",
+      "rating": 4.7,
+      "reviews": 49,
+      "price": "$729.99",
+      "extracted_price": 729.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "uXCm2nicbZPLjqNGGIWlPEPeAo1UBYWB7Gzjcg9tg7kUl9ogTJUNmFtzaWOUd8g7uGciTZYzkbLNa3SeJp7JNutP-vWdo_P_duf5X07YnpL-9bZ7tuJWRYfR2vHzMv3Sdg0b0yFnf0IoiQqQZYAUADQkLxRt8SVNhqRszt_xQlWgAiVFQRpCsiZJQPma8YSVec2t04l3epPm7JuCZAnKmiLJSFYXSBQ1-Y-8Ss78Pwwh0FQFSCrSVBEuRBUobx3r38FhHUviDwUIZASgqiqa9OvBsfT4f9Hnl5F3t_dx6RJXcBLGm1pwQkEDChAOXV5xwVoL2y5pszzthXXSMeHcjkKa5W3PB6Hk9XnI4qoSKl413S0ebi0X2ubKuzht6pqnQ9P1QsfTpqp4zTiL236Mr8LA2vj6-dymPypTAXiEeCjJqqSoSFW1typnX2VlgR7ZoLZAAD36hMpb-zrcs_OncSz53_dzeR_7e1beef17k7Svp_Sfn37eNFd93V_XNmlbX3eAW_iluzVKJpkeJ6VFCuOwC82Vr69oUEU302cju7Ceb3qY1kZuPdGbR8qFVxg2I3IXEa10sVkEtY0sz7-RLZWPhTFFZDiQwNCjOuuJOEEWODMtHMnOIXIv2D1WzHBrrFv6RSQzC-wKBnvQjvTJITSki8jXXoOQPntVJCa-MXn6_sZm4zl4wob_5EyOmL2YdbuILnCmYRYeYdakOsZHz2g8gG5m5ZxITUvXNzd2hTMaaBs3ZCcfr4gD2Yuz9RMvyPYmMKrUZ7Jbp9Av_NDD6sx982JiM6J4f41CDJOi3JGgRLzqr0eIXa821gzAXRQ2kh3Ax81UTuslTIPSM2daBZvsQgIn49ustb2VZMNsy8Il2vt4zUQmeZtpty-pzbysdr30mgTGRMgQ0tkoeL16tsXpo-XTmUmrMiKOc8SZ_nD6aFZsjmbbxdCI0i3NUonK3mY4hNISmXgFPTCVFOBimxsr58m8WQEl3C8drhu7YLuZOabB8VI-Oi9duzYn6msra4vrT1Pfnd7BEsuDa6FidlBbtLF7_DDx0wpbyyA2o4kmL9df4GN-j3f7PklF_heLFVQm",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uXCm2nicbZPLjqNGGIWlPEPeAo1UBYWB7Gzjcg9tg7kUl9ogTJUNmFtzaWOUd8g7uGciTZYzkbLNa3SeJp7JNutP-vWdo_P_duf5X07YnpL-9bZ7tuJWRYfR2vHzMv3Sdg0b0yFnf0IoiQqQZYAUADQkLxRt8SVNhqRszt_xQlWgAiVFQRpCsiZJQPma8YSVec2t04l3epPm7JuCZAnKmiLJSFYXSBQ1-Y-8Ss78Pwwh0FQFSCrSVBEuRBUobx3r38FhHUviDwUIZASgqiqa9OvBsfT4f9Hnl5F3t_dx6RJXcBLGm1pwQkEDChAOXV5xwVoL2y5pszzthXXSMeHcjkKa5W3PB6Hk9XnI4qoSKl413S0ebi0X2ubKuzht6pqnQ9P1QsfTpqp4zTiL236Mr8LA2vj6-dymPypTAXiEeCjJqqSoSFW1typnX2VlgR7ZoLZAAD36hMpb-zrcs_OncSz53_dzeR_7e1beef17k7Svp_Sfn37eNFd93V_XNmlbX3eAW_iluzVKJpkeJ6VFCuOwC82Vr69oUEU302cju7Ceb3qY1kZuPdGbR8qFVxg2I3IXEa10sVkEtY0sz7-RLZWPhTFFZDiQwNCjOuuJOEEWODMtHMnOIXIv2D1WzHBrrFv6RSQzC-wKBnvQjvTJITSki8jXXoOQPntVJCa-MXn6_sZm4zl4wob_5EyOmL2YdbuILnCmYRYeYdakOsZHz2g8gG5m5ZxITUvXNzd2hTMaaBs3ZCcfr4gD2Yuz9RMvyPYmMKrUZ7Jbp9Av_NDD6sx982JiM6J4f41CDJOi3JGgRLzqr0eIXa821gzAXRQ2kh3Ax81UTuslTIPSM2daBZvsQgIn49ustb2VZMNsy8Il2vt4zUQmeZtpty-pzbysdr30mgTGRMgQ0tkoeL16tsXpo-XTmUmrMiKOc8SZ_nD6aFZsjmbbxdCI0i3NUonK3mY4hNISmXgFPTCVFOBimxsr58m8WQEl3C8drhu7YLuZOabB8VI-Oi9duzYn6msra4vrT1Pfnd7BEsuDa6FidlBbtLF7_DDx0wpbyyA2o4kmL9df4GN-j3f7PklF_heLFVQm"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRdzlmUGcT19OeYm0rKuq8X3sYJzYlbvzakonxR8N8nx7C5sXNZCt7sJoSvnpfZEjKhCTzQpyclKBachnh1YrztMdNP4eh3N2bmGROumrmiKMiAaY4kl5keEg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "ASUS Prime Radeon RX 9070 XT White OC Edition 16GB GDDR6",
+      "price": "$749.99",
+      "extracted_price": 749.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "i5UsiXicdY5JjptAAEWV86BIBQbbZOc2gyENNEMBrg0qV5XB7QKqGRo3F8gyV2g5g5Qso0jZ5hrJadJZZJnN27z3pf_-yk4_olwccf_4dPs2KMRavRuDW1ZuyBfRtXQkw4l-l5dAB5qiqDJQV5q2Xq0U-QvBA-ZteaLP3yqGKT81LDgeWWe05D-Tr6cal-yf1xZguXxRK03WgbxW1uqHjvbPnx5G1j39GjcxjKUIU9Y2UpRLOlgB6a471UwKtpLdYVGdSC9tcUelUowSqU6iZ4PEWVMOVVHXUs3qtnsqhifBJNFOrCtI2zSMDG3XSx0jbV2zhjJaiH4sJmmgopg-leLl3POH-i_E43Ctyo_jyNnPa8mvY3-t-JU1n1ssHo_k96t35oOz3Y7OTQiFSI0IxAkV_nmwAytF-9SKQzB0eLYybOstzunMcquPZcQPVhp4KTpHBrqjQN9n9rTwFaJGXFjQcFEIXCeBlyZXzIlw10jm6Nbnzsy4MDEUfmJHt6lSCZTqs7_jNTz7yyRF7cGsXGz6Dx6o6mTnel6mYZT1AObIOdT-cs_dY9TQLDXcmwP3m70cXnKlBeHCVJKGyCwVrQdo6EG0RbsKRAtn2ivujIFuwVrU2EL3LA0XHrC22HSVly6HUKgw0-fYsO7RmZ-R5duHhjsHmdaeHSpQ9iuU86W32EyRpW_RxckhryZUWzNtuBcD_UiMEsBdepfYaRNmHnbOlkkWjoa4qxBbm3yjvEAuILJNDdpURjt_zMwhCVL9rb8jHy99d_wFNpY2xIF6P0equBdFfHh9YccbK9hkhb-_IPwwvZFXa3WpKrK8BivtDwxEC0s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=i5UsiXicdY5JjptAAEWV86BIBQbbZOc2gyENNEMBrg0qV5XB7QKqGRo3F8gyV2g5g5Qso0jZ5hrJadJZZJnN27z3pf_-yk4_olwccf_4dPs2KMRavRuDW1ZuyBfRtXQkw4l-l5dAB5qiqDJQV5q2Xq0U-QvBA-ZteaLP3yqGKT81LDgeWWe05D-Tr6cal-yf1xZguXxRK03WgbxW1uqHjvbPnx5G1j39GjcxjKUIU9Y2UpRLOlgB6a471UwKtpLdYVGdSC9tcUelUowSqU6iZ4PEWVMOVVHXUs3qtnsqhifBJNFOrCtI2zSMDG3XSx0jbV2zhjJaiH4sJmmgopg-leLl3POH-i_E43Ctyo_jyNnPa8mvY3-t-JU1n1ssHo_k96t35oOz3Y7OTQiFSI0IxAkV_nmwAytF-9SKQzB0eLYybOstzunMcquPZcQPVhp4KTpHBrqjQN9n9rTwFaJGXFjQcFEIXCeBlyZXzIlw10jm6Nbnzsy4MDEUfmJHt6lSCZTqs7_jNTz7yyRF7cGsXGz6Dx6o6mTnel6mYZT1AObIOdT-cs_dY9TQLDXcmwP3m70cXnKlBeHCVJKGyCwVrQdo6EG0RbsKRAtn2ivujIFuwVrU2EL3LA0XHrC22HSVly6HUKgw0-fYsO7RmZ-R5duHhjsHmdaeHSpQ9iuU86W32EyRpW_RxckhryZUWzNtuBcD_UiMEsBdepfYaRNmHnbOlkkWjoa4qxBbm3yjvEAuILJNDdpURjt_zMwhCVL9rb8jHy99d_wFNpY2xIF6P0equBdFfHh9YccbK9hkhb-_IPwwvZFXa3WpKrK8BivtDwxEC0s"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR1A_ZIoD8RP1rqGDGu-ZhM3l9_ycODbZDOB8_wU6jV4WO4pto7kFSif4Ku6sTyRFKm3OJXR2xtdMIEVux5sburcKjRzYc4gGy3t8-dVjAyybCFm80gg7ybZ_E",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "ASUS Radeon RX 9070 Prime OC Graphics Card",
+      "rating": 4.8,
+      "reviews": 4,
+      "price": "$929.56",
+      "extracted_price": 929.56,
+      "immersive_product_page_token": "yq2JlHicbZPJruJGFIaV57EiVXl2dlw8gBsX4Lm9seyqAtt4KEwBBuUd8goRtztS97I7UrZ5jZsnyTJcKctef__5h8X57UHrv_yU7YrT5bb6sM6ZLm_O6xXdz_AXNg7kjHlNvkNdUqAoaoqsiFBTZSDqX3DBi3bYP6kOJVVTDSCrsvKu0GXpW0UL0tY9Xe92dDQHXJM_oQZlEagQilCVRU0UdVX5WnfFnv7P9aeNpKpPhaHLOhBlSXodyelN3MxzGeraO1E1RQGGohiq-uvGX5v5j9nn45mOt7fzLIgCwS8IHXrBTwUDaEDYjHVHhfVccMaCVTU-CfNiJMKenQVc1exEudDSfs-rvOuEjnbDeMv5jVGBDVc65njoe4r5MJ6EkeKh62hPKMnZ6ZxfBU5Yfv28Z889339Q67Wrye-v7MIf1f7T-dzSvx_79nE-Par2Qfs_hoJddvifn_61Lng-H_F8GzEWmz4IGht4KerDBMUxIAsPvixJ7JpJQywfMnmVWJBESpCZ-Lrt9hy3DCHLkIqOgazxeeZkLDQ9WMKIJ6l3DxYDxIk-YdPtk4NRZZEvR5a9KZz2GC_Q8j23TFwzA1cpa7PFFqI4bO1DIVWQOvHRN2d3L22rtdm6UdOmMfAr3C1hEc9uRdLOt1118G5QKUV-9NMY0ZAsiogrgYnvyIok1NteEjFehCQqo0kh0VJGEqm3gGeBbVxpxxoUTbbXoIOfuAyllYRad0NTNAbhRwnbLvcaO0WRdS_tdioBW3mOe8ggvqJnV2ShLmmX8HmdZebs5kM3KPrlhBr36IU22IZkFyR26nUToweLb-9xUzYviESumjiT4juoivoD9wPYxbGRBI67iOPlHXeuuG2rdhUSP05wYEP3I3ayCkuZElp8k0ozGdkvMARTmwG7cWr3xV-g2zrJoqzLbsQ2huJQDQTq91VkDNjibhn64jaOIw9A6dN0GndvYGYrPFjLRnwql3gy5DT40OMg8Kl0qcrp9nN-_QVq-vPdRAh1oKn_AWltRmI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yq2JlHicbZPJruJGFIaV57EiVXl2dlw8gBsX4Lm9seyqAtt4KEwBBuUd8goRtztS97I7UrZ5jZsnyTJcKctef__5h8X57UHrv_yU7YrT5bb6sM6ZLm_O6xXdz_AXNg7kjHlNvkNdUqAoaoqsiFBTZSDqX3DBi3bYP6kOJVVTDSCrsvKu0GXpW0UL0tY9Xe92dDQHXJM_oQZlEagQilCVRU0UdVX5WnfFnv7P9aeNpKpPhaHLOhBlSXodyelN3MxzGeraO1E1RQGGohiq-uvGX5v5j9nn45mOt7fzLIgCwS8IHXrBTwUDaEDYjHVHhfVccMaCVTU-CfNiJMKenQVc1exEudDSfs-rvOuEjnbDeMv5jVGBDVc65njoe4r5MJ6EkeKh62hPKMnZ6ZxfBU5Yfv28Z889339Q67Wrye-v7MIf1f7T-dzSvx_79nE-Par2Qfs_hoJddvifn_61Lng-H_F8GzEWmz4IGht4KerDBMUxIAsPvixJ7JpJQywfMnmVWJBESpCZ-Lrt9hy3DCHLkIqOgazxeeZkLDQ9WMKIJ6l3DxYDxIk-YdPtk4NRZZEvR5a9KZz2GC_Q8j23TFwzA1cpa7PFFqI4bO1DIVWQOvHRN2d3L22rtdm6UdOmMfAr3C1hEc9uRdLOt1118G5QKUV-9NMY0ZAsiogrgYnvyIok1NteEjFehCQqo0kh0VJGEqm3gGeBbVxpxxoUTbbXoIOfuAyllYRad0NTNAbhRwnbLvcaO0WRdS_tdioBW3mOe8ggvqJnV2ShLmmX8HmdZebs5kM3KPrlhBr36IU22IZkFyR26nUToweLb-9xUzYviESumjiT4juoivoD9wPYxbGRBI67iOPlHXeuuG2rdhUSP05wYEP3I3ayCkuZElp8k0ozGdkvMARTmwG7cWr3xV-g2zrJoqzLbsQ2huJQDQTq91VkDNjibhn64jaOIw9A6dN0GndvYGYrPFjLRnwql3gy5DT40OMg8Kl0qcrp9nN-_QVq-vPdRAh1oKn_AWltRmI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTbpAKDfav28IkKjthXkfOFK-4TKD6v0Q0wjoB_Mls6B_Am4Us5JqbpRSjJIQN4wSCIPgMCwkkhYVoALbcxPPqx_WJlZowJ8zb8-y_xRZbdjZZdTsAtlXOtew",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "ASUS Prime Radeon RX 9070 GRE EVO OC 12GB Graphics Card",
+      "price": "$579.99",
+      "extracted_price": 579.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "UeXXf3icJZDLjqNGAEWV70GRqqCKR3btBx7TDbR52rVBmCpTGAqqebSxfyDL_MLIPRNpspxEyja_MfmaWMrdXumeq_PbnVV_B3t5yof368uzn0kTvU7-Cyufim-y7-hUjBX9U0fItFT9EQwtoKkAG9-KfMybrqzoX9BUdWBhXcWaBqCuQh1p3znLaVO1zD-dWL_qiseKZppANxFESNU0iE2IrD8qkZfs_9owVawauoFV1TQgeJDQR0-Hz1_fJtZff0xPYRwqQU5Z1yrBXrGAAZTXvhJM8ZfKps8lr4pBWeY9VUo5KQWv5MBGpWFtOfJMCEUw0fXXbLxKpsjuwvqs6NqWFWPXD0rPik4I1lJGMzlM2UUZqcwuX0v5-PbdQpqBMUAGwCoAlg71D1HRzx_yfbzz8ss0Neyfe9ncp-HOmztrf-9y-X4q_v3p1_XbdrmctotdLGWyCkAInTza1zCqE5wnnPgRTymsIV0Fz35CNH8J2-O50HybVH5K21gjIro5ME-TJl2TPLol_AiChgjPi5qmdWPJvRprJFls3Rru0rM308i5HkFzKaDdRGfbeYn5cwSsKFqRSxyX2F0jHEKLFJt5Op4XtgusfQCDmmjOcGhsmSQWiG2eHiJH7KC3DgXeexvymotAY2f-fmi4cOsZUBGg4ycuWUra-MZ7V6OBt6E8iZz6wY4Lm_ShikGycdIgna9u4o1h5LRxiud8Lw80TWZXBLOrBiK-LS7xerwWkLS7YLuPG34hwr7RtnFDYJ2KVQniT8lrtEnaXerm29peF9oWk8Zzo-Thb79DBBLw8MgfYp6TepZ5CNs4hChtiy_z0J9-gCcbj6GPzrcAybPMwuPPMzstbP8pzbzDTPK3yy_QMJGOVAhNYOD_AHDsFDs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UeXXf3icJZDLjqNGAEWV70GRqqCKR3btBx7TDbR52rVBmCpTGAqqebSxfyDL_MLIPRNpspxEyja_MfmaWMrdXumeq_PbnVV_B3t5yof368uzn0kTvU7-Cyufim-y7-hUjBX9U0fItFT9EQwtoKkAG9-KfMybrqzoX9BUdWBhXcWaBqCuQh1p3znLaVO1zD-dWL_qiseKZppANxFESNU0iE2IrD8qkZfs_9owVawauoFV1TQgeJDQR0-Hz1_fJtZff0xPYRwqQU5Z1yrBXrGAAZTXvhJM8ZfKps8lr4pBWeY9VUo5KQWv5MBGpWFtOfJMCEUw0fXXbLxKpsjuwvqs6NqWFWPXD0rPik4I1lJGMzlM2UUZqcwuX0v5-PbdQpqBMUAGwCoAlg71D1HRzx_yfbzz8ss0Neyfe9ncp-HOmztrf-9y-X4q_v3p1_XbdrmctotdLGWyCkAInTza1zCqE5wnnPgRTymsIV0Fz35CNH8J2-O50HybVH5K21gjIro5ME-TJl2TPLol_AiChgjPi5qmdWPJvRprJFls3Rru0rM308i5HkFzKaDdRGfbeYn5cwSsKFqRSxyX2F0jHEKLFJt5Op4XtgusfQCDmmjOcGhsmSQWiG2eHiJH7KC3DgXeexvymotAY2f-fmi4cOsZUBGg4ycuWUra-MZ7V6OBt6E8iZz6wY4Lm_ShikGycdIgna9u4o1h5LRxiud8Lw80TWZXBLOrBiK-LS7xerwWkLS7YLuPG34hwr7RtnFDYJ2KVQniT8lrtEnaXerm29peF9oWk8Zzo-Thb79DBBLw8MgfYp6TepZ5CNs4hChtiy_z0J9-gCcbj6GPzrcAybPMwuPPMzstbP8pzbzDTPK3yy_QMJGOVAhNYOD_AHDsFDs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRWakaBAdtcKyuMGvHPf_jtb_Qgd9epsKMF8iUGn5zg24i1ulQ4yD2ZB5PsNydxw9-hd15lcN74ZUur06w-9P_U9INZbI5GNGzr4inMN92ijNxSOfLZ58J58w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6",
+      "rating": 4.7,
+      "reviews": 41,
+      "price": "$779.00",
+      "extracted_price": 779.0,
+      "original_price": "Usually $1,004",
+      "extracted_original_price": 1004,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "2w04enicbZDJjqNGAIaV5-FSRbHm1rYBx92AWaoMXCy6qsxuGBYbrHmHvELknok0Oc6MlGteo_MkOcaRcpzzJ33_8uudF3_6UXdKh8vy8uweO03aT-4Lz57ol65v2UTHgn1DmqZCTZUVDSAZSUhS0BeajmndZg-qqqIMFFVSoayqCGgikL_mPGV1cebu6cT7TUsL9h2KoqpBGaGHTVdFRZU17Y-iSTP-P1cUCEVV0WUoKqKm67qqvfVseBf366P8kOsQqbooKf8FQB1-3Pvu5vhj9vnDxPvlfXoKcCD4KePtWfAjQQcqEPZ90XDBXQtWn3Z5QQdhnfZMyLpJoHnRDXwUan7OxvzYNELDm7ZfjuPScaFrr7w_0vZ85nRs-0HoOW2bhp8ZZ8dumI5XYWTd8fo56x57vv2g1ltTsN_eust4z7NP01Tzv-5ZfZ-Ge17f-fn3Nu0uJ_r3T_8YF7pe93Tt4a4jGx8EFSkoIDGPPDkOILJxhtzDDmMMp5cwnoNmLl5vu9kJcyUV6xU1zSiGqz3d1F4K2ZIAp2FAkg41Bi6xUWhkNw8QKcD2kpBd7ldgDm72zav11gPj4JWmz25Ol9am91rNWwZY7x4I9CoHeSILItE0Xi2WvmLfxk27UOzc6JZcmQFLGyQxbeyFGvYSHsYX22IhNuqWYXylWJ64JUvMmA_00AG_0vMA5i2Lah8becIjOsfVGNKmg8k23_iwfg6jXeGUtRQgLNtklcTlCgYGrDzUDWG5slJCTAxXl4M1bm3CDFo6U4oSOy1r9Lo1sWvqC7E8ETd65W5YwZBpuFYeElLnaclyL2RrFubEL81TgFZDgp0PD2cZi7vUNckYLXB8_B8FFbM9nD87Wx8wtENxBQIT7mJqJTlFiRwa4z5CT5JjrmAI5joBZmkVu5W_dRb3kASYdBKDzj4l9Rwf5gOxtBs16ZXX-o4RM43PNfo0D_3pHTyZ8hi4SuD_srmMZ4vzaB0v2_Wu7J8qc4-yPPsZqpqkSCKEGlDVfwGk4Ua9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2w04enicbZDJjqNGAIaV5-FSRbHm1rYBx92AWaoMXCy6qsxuGBYbrHmHvELknok0Oc6MlGteo_MkOcaRcpzzJ33_8uudF3_6UXdKh8vy8uweO03aT-4Lz57ol65v2UTHgn1DmqZCTZUVDSAZSUhS0BeajmndZg-qqqIMFFVSoayqCGgikL_mPGV1cebu6cT7TUsL9h2KoqpBGaGHTVdFRZU17Y-iSTP-P1cUCEVV0WUoKqKm67qqvfVseBf366P8kOsQqbooKf8FQB1-3Pvu5vhj9vnDxPvlfXoKcCD4KePtWfAjQQcqEPZ90XDBXQtWn3Z5QQdhnfZMyLpJoHnRDXwUan7OxvzYNELDm7ZfjuPScaFrr7w_0vZ85nRs-0HoOW2bhp8ZZ8dumI5XYWTd8fo56x57vv2g1ltTsN_eust4z7NP01Tzv-5ZfZ-Ge17f-fn3Nu0uJ_r3T_8YF7pe93Tt4a4jGx8EFSkoIDGPPDkOILJxhtzDDmMMp5cwnoNmLl5vu9kJcyUV6xU1zSiGqz3d1F4K2ZIAp2FAkg41Bi6xUWhkNw8QKcD2kpBd7ldgDm72zav11gPj4JWmz25Ol9am91rNWwZY7x4I9CoHeSILItE0Xi2WvmLfxk27UOzc6JZcmQFLGyQxbeyFGvYSHsYX22IhNuqWYXylWJ64JUvMmA_00AG_0vMA5i2Lah8becIjOsfVGNKmg8k23_iwfg6jXeGUtRQgLNtklcTlCgYGrDzUDWG5slJCTAxXl4M1bm3CDFo6U4oSOy1r9Lo1sWvqC7E8ETd65W5YwZBpuFYeElLnaclyL2RrFubEL81TgFZDgp0PD2cZi7vUNckYLXB8_B8FFbM9nD87Wx8wtENxBQIT7mJqJTlFiRwa4z5CT5JjrmAI5joBZmkVu5W_dRb3kASYdBKDzj4l9Rwf5gOxtBs16ZXX-o4RM43PNfo0D_3pHTyZ8hi4SuD_srmMZ4vzaB0v2_Wu7J8qc4-yPPsZqpqkSCKEGlDVfwGk4Ua9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQygCOww-Uktr1JrvPth86NTggiRZdANOMGrOPeIXJXTEsStMp_pSVgN9vmoRe0Xj_dtUHJ8U_63Hd1ZmcqVWM1_r5RYbMb-6azSpHsLcU",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSBiaf7KtBq2qKnvF-s1y0uin5oC3knjvFgrzeO2IzsJaosx0BBVsi3p_5wL0CxdR-fTPTBTYpT7qfY9BXKtNY4ISJjgMZHKiBLX7-hlcME",
+      "source": "Central Computers",
+      "title": "ASUS Radeon RX 9070 XT Prime OC Graphics Card",
+      "rating": 4.7,
+      "reviews": 218,
+      "price": "$729.99",
+      "extracted_price": 729.99,
+      "original_price": "Usually $900",
+      "extracted_original_price": 900,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "958YF3icbZPLjuJGGIWV57EiVbkM2Nk12Iamu21cdpUvG1RUFRjwpeILGDTvkFeI6JlIk2USKdu8RudJsoyT9Sx_fZ9-nbM4Pz3k8U-cqD1rL7fXF3-rTGPT-6_y8MS_qqYWPe-O4vepiUx9pgMDzRCE0NQt8ytnHSvqw0iRYRnGiKcT3ZzNrNkUwN9yyURxrKS_38vGrvmojYoJZpYxnSJdBxYcX_56LNlB_o__gIYBZrqBkDmDJhrd8X5vRPuhbxZbBIypZQEA4ATp0DTHKJ822Le332Zffuxlc_von0ISapgJWVcaTjQLzIC2aY6l1PyFtmyYyo-81RasEdpB9RrPj6qVnVbI6tDl27LUSlnWzW3b3ZTUVH2VzZbXVSV5Vzet1khel6WshBRb1fbbq9YJtb1-Oaj_6n4j1nt5FD-_q0v3yA-f-76Qfz0OxaNvH3nxkNUvNVOXPf_7u3-cC18sGr4IiFLUxiCy14AV50lwyuoghG8cOYA5g72rsiRaZpsgCq50VdAUej2LzXvonlFkY4cnfNhV_IbPVyQcrCgVV3l67uLz4JPY6vF5uHm2SDNAV-yepWlRDNimDqV0taueQUisBQPeOXaFHbomSBMc-CRDZKXmXnm9YsfL4mo-ujh7O6eQJdSR1NRfY8_AuvsS6eJIiBu-6XWX2XMXL8V5ZwuET-sXHNOQg8LBd7FMy8lFQMuPSlHgOLt4pIbxGdwDHc5l4g34RCOSYBA7OQj1_BJFqUF0Ywh0Ve2WXfFGRZ7Ggx8iLyAE1lG8ntPKK7070QNgnTHiQJTBjUFKCegmbOzPk2dDxuISFXSaAmpkqFhlSc6yk4uIs86Z46LYwTe5EipMsPKIGuTSJRnARFZkwA4IXbhO-TLLOcomkdNtEvRkeO4cRmAoMuCelsf1HK-8mx9nYbT0XlnlecxdKxlbLaXzJqjo2LWFLAZQkqz6PLTN_gM8uZMu9A2LtrtnPlhGEr5UPAyxRJd8N9y-315_gOM8poY-ThHMpv8CQh5EnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=958YF3icbZPLjuJGGIWV57EiVbkM2Nk12Iamu21cdpUvG1RUFRjwpeILGDTvkFeI6JlIk2USKdu8RudJsoyT9Sx_fZ9-nbM4Pz3k8U-cqD1rL7fXF3-rTGPT-6_y8MS_qqYWPe-O4vepiUx9pgMDzRCE0NQt8ytnHSvqw0iRYRnGiKcT3ZzNrNkUwN9yyURxrKS_38vGrvmojYoJZpYxnSJdBxYcX_56LNlB_o__gIYBZrqBkDmDJhrd8X5vRPuhbxZbBIypZQEA4ATp0DTHKJ822Le332Zffuxlc_von0ISapgJWVcaTjQLzIC2aY6l1PyFtmyYyo-81RasEdpB9RrPj6qVnVbI6tDl27LUSlnWzW3b3ZTUVH2VzZbXVSV5Vzet1khel6WshBRb1fbbq9YJtb1-Oaj_6n4j1nt5FD-_q0v3yA-f-76Qfz0OxaNvH3nxkNUvNVOXPf_7u3-cC18sGr4IiFLUxiCy14AV50lwyuoghG8cOYA5g72rsiRaZpsgCq50VdAUej2LzXvonlFkY4cnfNhV_IbPVyQcrCgVV3l67uLz4JPY6vF5uHm2SDNAV-yepWlRDNimDqV0taueQUisBQPeOXaFHbomSBMc-CRDZKXmXnm9YsfL4mo-ujh7O6eQJdSR1NRfY8_AuvsS6eJIiBu-6XWX2XMXL8V5ZwuET-sXHNOQg8LBd7FMy8lFQMuPSlHgOLt4pIbxGdwDHc5l4g34RCOSYBA7OQj1_BJFqUF0Ywh0Ve2WXfFGRZ7Ggx8iLyAE1lG8ntPKK7070QNgnTHiQJTBjUFKCegmbOzPk2dDxuISFXSaAmpkqFhlSc6yk4uIs86Z46LYwTe5EipMsPKIGuTSJRnARFZkwA4IXbhO-TLLOcomkdNtEvRkeO4cRmAoMuCelsf1HK-8mx9nYbT0XlnlecxdKxlbLaXzJqjo2LWFLAZQkqz6PLTN_gM8uZMu9A2LtrtnPlhGEr5UPAyxRJd8N9y-315_gOM8poY-ThHMpv8CQh5EnQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTZFNeM2TwA0CsSsSeSd_glsAAWpGWGkQPSwGAQdamm7Fzdk0xzeYiWZ-EXIkJQYndFzBTDHXkE8oUkCxCunqyx3Nn5JsV8uxsbrFLHz7OJ26QsPpW5B56a",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZ_kKgKTZbCk7rTRhe2e3DTL7Bnl8n0LCzv_Zg6_Lg8PKMYzk5AS77dvFYsDMKKapay2JtaXO18Dv-CYcXZw9PLTsF_Cn4j4k",
+      "source": "Quiet PC",
+      "title": "Asus Prime Radeon RX 9070 XT 16 GB GDDR6",
+      "rating": 4.7,
+      "reviews": 570,
+      "price": "$696.85",
+      "extracted_price": 696.85,
+      "original_price": "Usually $915",
+      "extracted_original_price": 915,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "KHsXKXicbZNJjuM2FIaBnCG3EAKQosbsPEkulU1VURIla2NQIm3J1sDS4Al9h9zB1R2gs-wEyDbXqJwmbiDLXv74fuB97wHvt7so_yaJ3LH-dF09-1tpaS-jvxL7Sf5Vdi0f86Hkf0GIVNUCyIK2ptkmsA1kfM3ZwKp2_x0bmmVBTQe6bUALImgB-1shGK_KRvi7nejmbf69ZwFg6KaNTNsykGlCXdf_KGu2F_9zYKk2hAAZOjBM9Iia_d7x_kN9mW0hAMBUdVN_zLF0A2pA__RC_Pn2x-zL2yi668c4CaJAIYyLtlFIotjABMpLV9ZC8WeK2zFZlHmvzFjHlb0clbwoZS8GpRLNfii2da3Uom6763a4SqHI9iy6bd42jciHtuuVTuRtXYuGC76V_bg9KwOX2_OXvXzs8-cPtN7rkn_TTUMzVN1ACGoatCEy3uVpuBf7z-NYiX_u--o-9veiuovm95bJ0y7_96efF-15PuvPs9dISjonIDimC3GYwsyVgEW0zIBThXHqrxt5YrDVwob4uSMrehxOa-it8I3iBBCQIpqGUVoHh-i8DvmbCGAdRXqfLfmR3RYar7wC1xQGy8nVT_Za7OoRd_aI1qma1ek6c6srmxfnAHJEoBwSWOjC9XZZg5_ogvqZynFQk4YmzmWjOpG_sEAebQaCpn3sDiGeV300Aypz8XMcVUea8DNtJmfiEMZu63MU8yKLCcYqeaKxHZPFBhIAlxklBaZFEEfHSwaKniEyfzhfKHq65rQYY4f0WPXK18Z5WsUtJIcqwrU1MPWocod22HkFG4DdaCFX0a1a4-PmFi1TiZfFmCOsUlqtgsWAmatfcxSp_EDgpt7cwpCOpPKWVNUph9VIVKeLZ7BnB89dLyDawGpHbpix2lvElZMQ4N1Stxhw6Gnr5fSID2nvxzjhRytwoLfJ3bTIUaqHi-ElQRMNO1MYgkuVAufglt6ULPHVj9OQQVzx2L497v-8Tta3uClABos2g_wSufqKzgv0-dJ3uw8wcfQh8LXDjWjyILdB9stF7KaOP4m3eHNJ2dv5V2hamqGp8PGCpv4fF-BSJA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KHsXKXicbZNJjuM2FIaBnCG3EAKQosbsPEkulU1VURIla2NQIm3J1sDS4Al9h9zB1R2gs-wEyDbXqJwmbiDLXv74fuB97wHvt7so_yaJ3LH-dF09-1tpaS-jvxL7Sf5Vdi0f86Hkf0GIVNUCyIK2ptkmsA1kfM3ZwKp2_x0bmmVBTQe6bUALImgB-1shGK_KRvi7nejmbf69ZwFg6KaNTNsykGlCXdf_KGu2F_9zYKk2hAAZOjBM9Iia_d7x_kN9mW0hAMBUdVN_zLF0A2pA__RC_Pn2x-zL2yi668c4CaJAIYyLtlFIotjABMpLV9ZC8WeK2zFZlHmvzFjHlb0clbwoZS8GpRLNfii2da3Uom6763a4SqHI9iy6bd42jciHtuuVTuRtXYuGC76V_bg9KwOX2_OXvXzs8-cPtN7rkn_TTUMzVN1ACGoatCEy3uVpuBf7z-NYiX_u--o-9veiuovm95bJ0y7_96efF-15PuvPs9dISjonIDimC3GYwsyVgEW0zIBThXHqrxt5YrDVwob4uSMrehxOa-it8I3iBBCQIpqGUVoHh-i8DvmbCGAdRXqfLfmR3RYar7wC1xQGy8nVT_Za7OoRd_aI1qma1ek6c6srmxfnAHJEoBwSWOjC9XZZg5_ogvqZynFQk4YmzmWjOpG_sEAebQaCpn3sDiGeV300Aypz8XMcVUea8DNtJmfiEMZu63MU8yKLCcYqeaKxHZPFBhIAlxklBaZFEEfHSwaKniEyfzhfKHq65rQYY4f0WPXK18Z5WsUtJIcqwrU1MPWocod22HkFG4DdaCFX0a1a4-PmFi1TiZfFmCOsUlqtgsWAmatfcxSp_EDgpt7cwpCOpPKWVNUph9VIVKeLZ7BnB89dLyDawGpHbpix2lvElZMQ4N1Stxhw6Gnr5fSID2nvxzjhRytwoLfJ3bTIUaqHi-ElQRMNO1MYgkuVAufglt6ULPHVj9OQQVzx2L497v-8Tta3uClABos2g_wSufqKzgv0-dJ3uw8wcfQh8LXDjWjyILdB9stF7KaOP4m3eHNJ2dv5V2hamqGp8PGCpv4fF-BSJA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSDCNbq-ysI-vIKTM0I35ZrSRHEKNjBG4XcylDBnJQWKQX5GZoPqvqxTQtnLfi53RNerqKwi6zedHqBwHuxRVszKQzPGEoIB0PfY20bTgBoiQKyNnu5i3JIqA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "Asus Rx 9070 Prime 16gb GDDR6 Graphic card",
+      "rating": 4.7,
+      "reviews": 184,
+      "price": "$702.79",
+      "extracted_price": 702.79,
+      "original_price": "Usually $721",
+      "extracted_original_price": 721,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "yQbFAHicbZPNjqNGFIWlPEPeAkWqguIvu7b5cbsNmJ8qbDYIU2WDXUA1xg228g55B_dMpMlyMlK2eY3O08SZbbK6i-_q6pyrc369s_rPaCP2xfntunoJcmGg9SVYscNT-UX0Hb2UQ02_QdVUDWgACDTdgBDo0FS_lMVQ8O5Q0z80E-iqrKq6oqtI0ZEM1a8VKyivWxbs96y3uvLfNVUzIELAVEykabKJkP573RQH9h1_gxqSNc1QZN2ED64pqo7ee3r-kNfzXAO6gQwdAP1xRQGqYWi_rKPAyv-ffX69sP76cXmKcSxFBWVdK0Ub6aETSOu-bpgUzCW3L0RVl2dpXvRUOoiLVFa1OLNB4qw9DFXeNFLDmq6_5sNVMEl0I-vzsmtbVg5df5Z6VnZNw1rKaC7Ol3yUBiry8fNBfLf7X1nvTU2_qrqGNNmQZVmRkQoAVN_F23CvDp8uF87-uh_4_XK-V_zO2t-6Qrzty79_-NHuRmt-HuchFoJYEYhvjvAsUpB0RKQRfbypZD8dXAzNIztxu7DNMQa82-GlwlyoJAusRjKJMalWqcsXaePX7BQFyUko_oniaIMh3vDQO56Ad3N6bPt-YQ-vO4u-JDLXGHEmf2MrSSsu8ckPtjV0siMPizbbRHbkJSnNsFWt4hO-UqvqwuZ8DYG62BKe-ieBt1dYJe2S-4CKks-eceLMPe5NBRdtfJwR9piFHS2J7R8DHK08x6mou_R2lr_cNioKsHnxcIciYr54i-eHJxPs7HBYEX9LXIjK4zMqYRY8fhBjrAIf0tBTeMqw03uETzQdxDahE078dQiWBDsHFLt4JLLZlEdiey6a4pbCneWscA2LFaGrwgplLx1mmbW0wpuzwI03bmRIYttRIu4vMuJnIaYocBzI3GGf4kjbyWqYNnDaEmMgNz9lx3D0b06V2jh24HJbullVKpma2MN6ozwh35nBBEw8A87RrZezaOFfgzSLGTdHcvLf0sYcqFvVsTu9xenUMZt0WcqvibxsP03nfv8Bnhx1iAN0vEVIHEUe736a2H7mBE9p7m-nrHgdf4aPJD7aBR8V1tV_ADqYUp4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yQbFAHicbZPNjqNGFIWlPEPeAkWqguIvu7b5cbsNmJ8qbDYIU2WDXUA1xg228g55B_dMpMlyMlK2eY3O08SZbbK6i-_q6pyrc369s_rPaCP2xfntunoJcmGg9SVYscNT-UX0Hb2UQ02_QdVUDWgACDTdgBDo0FS_lMVQ8O5Q0z80E-iqrKq6oqtI0ZEM1a8VKyivWxbs96y3uvLfNVUzIELAVEykabKJkP573RQH9h1_gxqSNc1QZN2ED64pqo7ee3r-kNfzXAO6gQwdAP1xRQGqYWi_rKPAyv-ffX69sP76cXmKcSxFBWVdK0Ub6aETSOu-bpgUzCW3L0RVl2dpXvRUOoiLVFa1OLNB4qw9DFXeNFLDmq6_5sNVMEl0I-vzsmtbVg5df5Z6VnZNw1rKaC7Ol3yUBiry8fNBfLf7X1nvTU2_qrqGNNmQZVmRkQoAVN_F23CvDp8uF87-uh_4_XK-V_zO2t-6Qrzty79_-NHuRmt-HuchFoJYEYhvjvAsUpB0RKQRfbypZD8dXAzNIztxu7DNMQa82-GlwlyoJAusRjKJMalWqcsXaePX7BQFyUko_oniaIMh3vDQO56Ad3N6bPt-YQ-vO4u-JDLXGHEmf2MrSSsu8ckPtjV0siMPizbbRHbkJSnNsFWt4hO-UqvqwuZ8DYG62BKe-ieBt1dYJe2S-4CKks-eceLMPe5NBRdtfJwR9piFHS2J7R8DHK08x6mou_R2lr_cNioKsHnxcIciYr54i-eHJxPs7HBYEX9LXIjK4zMqYRY8fhBjrAIf0tBTeMqw03uETzQdxDahE078dQiWBDsHFLt4JLLZlEdiey6a4pbCneWscA2LFaGrwgplLx1mmbW0wpuzwI03bmRIYttRIu4vMuJnIaYocBzI3GGf4kjbyWqYNnDaEmMgNz9lx3D0b06V2jh24HJbullVKpma2MN6ozwh35nBBEw8A87RrZezaOFfgzSLGTdHcvLf0sYcqFvVsTu9xenUMZt0WcqvibxsP03nfv8Bnhx1iAN0vEVIHEUe736a2H7mBE9p7m-nrHgdf4aPJD7aBR8V1tV_ADqYUp4"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSPV5_tJHJoO-zRDqxpCb1tCEOl_4jH_Y4_MPJIW9-yNj_ZPI1lGhv734YlUo2AqMbu8jRRwaftpM9A-ZPgjTC0Lh4xwWEPjH28M6UN-qY",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+      "source": "B&H Photo-Video-Audio",
+      "title": "ASUS Radeon RX 9070 XT Prime OC White Graphics Card",
+      "price": "$760.78",
+      "extracted_price": 760.78,
+      "original_price": "$831",
+      "extracted_original_price": 831,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "8% OFF"
+      ],
+      "immersive_product_page_token": "PK50IHicbVBLbtswFETPIxTQ15a6c-JIlhPLtmRSEjcGTVKfmJIYfSzZF-iyVwicpEC6bAt022ukp6nTdRdvMMB7M5h5X84s_-VHIsHN4Xh3u9wKU191yzuWTsirqCvakTanP3RLN5XxWB6ZumkZqmmOjFeCW8yrNKeP3zOGKc9LtkwSVk8r8n_Ft7zAKfu3_qkYY0tX5dFYMa33U1XXx081bR5fHjpWH9-6SQACyceUVaXkR5Ilj2VpVecFk5bXklNjkeWkka5xTaVUdBLJctGwVuKsTNtsWxRSwYqqPm7bo2CSqHpWb0lVloy0Vd1INSNVUbCSMroVTbftpZaKbf-Siku4x6fiHcShPWfpc9dx9vuc8nPXnDN-ZuXXCotDQv58-Hzz4F5fd-7VGggBp768sSsdTuE-KNoEc3_wAyWHJ-9uF8IVsi1jAYW60a4Moi5OyM7ku4iDzcwH3t7skT2RqZrdQFu43gwtoI0Q0kQOnCFZhPyAw7gnhd97-2GGNnOHOLZKnMFh04kRaeujp_EQACVGctZSmKnIaWM0827X924LNFtBjn-6-CiLPTViQBfxyfMC6AugDg4Irfuw8NaAIxmFphJH8xPWruLd3i7Wmnfh3GNTO7z0ADGf34NIuJEGazyb93ADXZIrcxDS3gfVEKhzDLVMC0shs8ugkM83IFVpARMcyCoa3AjwrEeFfaIlXwSylZBpKoMZXG0cWK7DBXb39g3RXAPxebm70VUWwiQueYQh4pd_yaT0V36RAc9JFTQjz0NTJ2_yxDbaYKlbsNm5ZLD0KLgtSRD4TDtku-H4cdt_UsamPtJVRTHl8egvd28MDg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PK50IHicbVBLbtswFETPIxTQ15a6c-JIlhPLtmRSEjcGTVKfmJIYfSzZF-iyVwicpEC6bAt022ukp6nTdRdvMMB7M5h5X84s_-VHIsHN4Xh3u9wKU191yzuWTsirqCvakTanP3RLN5XxWB6ZumkZqmmOjFeCW8yrNKeP3zOGKc9LtkwSVk8r8n_Ft7zAKfu3_qkYY0tX5dFYMa33U1XXx081bR5fHjpWH9-6SQACyceUVaXkR5Ilj2VpVecFk5bXklNjkeWkka5xTaVUdBLJctGwVuKsTNtsWxRSwYqqPm7bo2CSqHpWb0lVloy0Vd1INSNVUbCSMroVTbftpZaKbf-Siku4x6fiHcShPWfpc9dx9vuc8nPXnDN-ZuXXCotDQv58-Hzz4F5fd-7VGggBp768sSsdTuE-KNoEc3_wAyWHJ-9uF8IVsi1jAYW60a4Moi5OyM7ku4iDzcwH3t7skT2RqZrdQFu43gwtoI0Q0kQOnCFZhPyAw7gnhd97-2GGNnOHOLZKnMFh04kRaeujp_EQACVGctZSmKnIaWM0827X924LNFtBjn-6-CiLPTViQBfxyfMC6AugDg4Irfuw8NaAIxmFphJH8xPWruLd3i7Wmnfh3GNTO7z0ADGf34NIuJEGazyb93ADXZIrcxDS3gfVEKhzDLVMC0shs8ugkM83IFVpARMcyCoa3AjwrEeFfaIlXwSylZBpKoMZXG0cWK7DBXb39g3RXAPxebm70VUWwiQueYQh4pd_yaT0V36RAc9JFTQjz0NTJ2_yxDbaYKlbsNm5ZLD0KLgtSRD4TDtku-H4cdt_UsamPtJVRTHl8egvd28MDg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQ6SMLd3U4eAsep7eW09f7zsgqymAN0HGwxawHdGhL_XigU9TW5BViT_qa-9RDbkAtZmd-C2yZ0grlNnkywJ8lQtjGjnFsLF0rOjEm8nz0peWfJYlrexF3LCg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_CpMueVD1L_SbV70khyWo_9PactxYJjPnzOH3QTSDEzAxiENTR-zY4CUekGuxjdJx5GmAlSSofhBmtpR3QDMg-sv90cyI",
+      "source": "GCC Gamers",
+      "title": "ASUS Prime Radeon RX 9070 16GB GDDR6 OC Edition Graphics Card, FSR 4 - 90YV0LI1-M0NA00",
+      "price": "$740.37",
+      "extracted_price": 740.37,
+      "immersive_product_page_token": "q-uIB3icbY5NbtpAAEbV81iVxmAb3F0gDCQBE489tpkNMjODf5ixJ_7BmEv0ChFJKqXLtlK3vUZ6mqZdd_M23_uk9_nCs58oUvu4PvbLu_VWjY37dr3kyRV9VVXJWtpk7PvIMMfAsgAYW-OBPdBHuvVK4yYWZZKxx28pj5nICr7e73l1XdL_P75mMk74v_mHDsbm2Bha1gBY9rtl2Kb1VLH68eWh5VX_1l552NNQzHhZaCjSbDAC2n2VSa6tp9q8ilWa0VqbxhXTEtVqNM1UzRtN8CJp0q2UmuSyrPpt0yuuqbLj1ZaWRcFpU1a1VnFaSskLxtlW1e220xqmtt1Lot7jHp_kX6hjc0mT57YV_NclEZe2vqTiwosvZayOe_r7Qz4ru-m07iYuViq4RsCfOYKGpwWRZOYC0DlSoF1OHgLdadjidriLbuerATEJaCIvbHIeYRBew5IMVOFK4iFBInJQyyCHnSvwyQmh2JxJHx5gziXuMYBTF0N_UyQncp5YfJ40nrQPXKJ7UsBiNYCGowfTQKhldGahh4MAAaN3ZmzqBSvDiw7GbuH4TEdzH0JIdaZzH91yiE3ip4twQVbOWZibYdAtsR75_s2QzklKsbPycyePAKzeuw0cOjJcOBVZCJPMoUWBYaIcWXhGexKa01nKvHAxkZvIGXB8Wvq63a2vkcuwvSIhm2xOZeZidKa5kLhAeQjt1SpABi5uYwbt3BcidLB53s1Mj_qTtes-n-pq_wauoNl4a8MO6t0NPdlG5N0V1PMQHx7T3an_uO0-6aOxYRkDXR-DkfUHHXQCBg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=q-uIB3icbY5NbtpAAEbV81iVxmAb3F0gDCQBE489tpkNMjODf5ixJ_7BmEv0ChFJKqXLtlK3vUZ6mqZdd_M23_uk9_nCs58oUvu4PvbLu_VWjY37dr3kyRV9VVXJWtpk7PvIMMfAsgAYW-OBPdBHuvVK4yYWZZKxx28pj5nICr7e73l1XdL_P75mMk74v_mHDsbm2Bha1gBY9rtl2Kb1VLH68eWh5VX_1l552NNQzHhZaCjSbDAC2n2VSa6tp9q8ilWa0VqbxhXTEtVqNM1UzRtN8CJp0q2UmuSyrPpt0yuuqbLj1ZaWRcFpU1a1VnFaSskLxtlW1e220xqmtt1Lot7jHp_kX6hjc0mT57YV_NclEZe2vqTiwosvZayOe_r7Qz4ru-m07iYuViq4RsCfOYKGpwWRZOYC0DlSoF1OHgLdadjidriLbuerATEJaCIvbHIeYRBew5IMVOFK4iFBInJQyyCHnSvwyQmh2JxJHx5gziXuMYBTF0N_UyQncp5YfJ40nrQPXKJ7UsBiNYCGowfTQKhldGahh4MAAaN3ZmzqBSvDiw7GbuH4TEdzH0JIdaZzH91yiE3ip4twQVbOWZibYdAtsR75_s2QzklKsbPycyePAKzeuw0cOjJcOBVZCJPMoUWBYaIcWXhGexKa01nKvHAxkZvIGXB8Wvq63a2vkcuwvSIhm2xOZeZidKa5kLhAeQjt1SpABi5uYwbt3BcidLB53s1Mj_qTtes-n-pq_wauoNl4a8MO6t0NPdlG5N0V1PMQHx7T3an_uO0-6aOxYRkDXR-DkfUHHXQCBg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTKdtZ26Yy6jygecbL7wejR3koZAai7UHhFGD5kfd9B5kb1Nx_CCnqBRnb6YpnNf4nL75-RMLFS7PwPpPOH1CZS97ikJNv0",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTD1akLxg0B3J5vpfe1N371X4Ftw5aYo7A34vMN5gbu2Z8dFMj_ap2ka4XKcgtRL6CEGT-q7968NXkXt9fthgYfKGnl_fLhplkkwA",
+      "source": "DropReference",
+      "title": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6 Black",
+      "rating": 5.0,
+      "reviews": 12,
+      "price": "$929.34",
+      "extracted_price": 929.34,
+      "immersive_product_page_token": "LBG0MHicdZJNrqNGAISV86BI3fzZZPdsAx4eBruhAbNB7aYN2A308GPMU-6QK4w8M5EmyyhStrnGy0myjCNlO5vafKqSSlW_PFj1J0rEmfS32X31M7FU96PvsuKFfhNdm490qPI_IFB0sACGDBWwWGiyAVX1GyUD4W1R5Z9-LxnJedUw_3xm3aal37H8VtWkYP9zVdGArkBd02W4UDRd0dXPXd6_q_t1BhW4XBrLhQy1haIsdPhM-nmP_E32Hfj148i6-X18CXAgIZKztpFQIhlPJO27qmaSv5bsjoiyor20Jl0uFWKUaFmJng0SZ00xlFldSzWr227OhlkwSbQT6zLaNg2jQ9v1UsdoW9esyVmeiX7MJmnIRTZ9LcSz0afP9X8ibsOjLL6MI2d_PQr-GPtHyR-s-bUl4namf__wj3mj63VH1wcsRLRBILhwk16n4ZTwY2j2IITX2bcsTswCxLUxeYkXBMB8S20wudjyQms3pSASUQ27cIvvXiy8A0YfkXWAcVKARFm5xERWmqxQeIU7H0ccKWjvbc35cIWJb8LXOElncjE10nA3iHkXNCUmskGw5chuyN34melZxtWNPcd78-SQR9sD0DYnHNUIptXhzUqDrROfgOPiy6r2rvkuBRggE8rpJZ0wXMk7myduhKBnRoTY07x7Q20O0AptRZLIvA25ONPYkkkMZBwLPcLPLaLcP8qpkgJjh7GloS1VgksaMNu4H-RUJZaTsNohGPL2GObyAVsCRyiJYsP0gDagjedT2RlZ7a2YWY65IhKExYcQ353D9Z4w7Myx6UDG-Q03WNtdoqMbHwG6pOAUD_IpzkVooz7HZmBB50jttKRKqoXmsE-UF9WzVjAEd54C62JXzrOLN_txity4BQks8bFxmuc_bLpxVCx7dnxJoyM0gG_nqy_3vju_gxdLGwJfNaL-9IHeDTUJXhsaBIgpt_J0n3_Mpp_gYqnqqgzhEiz0fwFd5TtU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LBG0MHicdZJNrqNGAISV86BI3fzZZPdsAx4eBruhAbNB7aYN2A308GPMU-6QK4w8M5EmyyhStrnGy0myjCNlO5vafKqSSlW_PFj1J0rEmfS32X31M7FU96PvsuKFfhNdm490qPI_IFB0sACGDBWwWGiyAVX1GyUD4W1R5Z9-LxnJedUw_3xm3aal37H8VtWkYP9zVdGArkBd02W4UDRd0dXPXd6_q_t1BhW4XBrLhQy1haIsdPhM-nmP_E32Hfj148i6-X18CXAgIZKztpFQIhlPJO27qmaSv5bsjoiyor20Jl0uFWKUaFmJng0SZ00xlFldSzWr227OhlkwSbQT6zLaNg2jQ9v1UsdoW9esyVmeiX7MJmnIRTZ9LcSz0afP9X8ibsOjLL6MI2d_PQr-GPtHyR-s-bUl4namf__wj3mj63VH1wcsRLRBILhwk16n4ZTwY2j2IITX2bcsTswCxLUxeYkXBMB8S20wudjyQms3pSASUQ27cIvvXiy8A0YfkXWAcVKARFm5xERWmqxQeIU7H0ccKWjvbc35cIWJb8LXOElncjE10nA3iHkXNCUmskGw5chuyN34melZxtWNPcd78-SQR9sD0DYnHNUIptXhzUqDrROfgOPiy6r2rvkuBRggE8rpJZ0wXMk7myduhKBnRoTY07x7Q20O0AptRZLIvA25ONPYkkkMZBwLPcLPLaLcP8qpkgJjh7GloS1VgksaMNu4H-RUJZaTsNohGPL2GObyAVsCRyiJYsP0gDagjedT2RlZ7a2YWY65IhKExYcQ353D9Z4w7Myx6UDG-Q03WNtdoqMbHwG6pOAUD_IpzkVooz7HZmBB50jttKRKqoXmsE-UF9WzVjAEd54C62JXzrOLN_txity4BQks8bFxmuc_bLpxVCx7dnxJoyM0gG_nqy_3vju_gxdLGwJfNaL-9IHeDTUJXhsaBIgpt_J0n3_Mpp_gYqnqqgzhEiz0fwFd5TtU"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSEjTo3jzZbCptUtVpeAX0yTs6Zx9s_ZPfES4GagDcy3dwh_ZYZnT9qZ3WVQYkVaj2WGv_4gzVn-WD8jd1Lad5MVNu6FyQI4Yal1R_CRdCsAE_ouo7nAGb8xA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "ASUS Prime -RX9070GRE-O12G AMD Radeon RX 9070 GRE 12 GB GDDR6",
+      "price": "$669.54",
+      "extracted_price": 669.54,
+      "original_price": "$713",
+      "extracted_original_price": 713,
+      "extensions": [
+        "6% OFF"
+      ],
+      "immersive_product_page_token": "x8MHaXicHZBLjqNGAECV86BIVXxNdu3GZdNtwBQU2GwQpoqPXUCZT2P7ArPMFUbumUiT5UykbHONyWkyk_WTnp7e7w9W_433osiGt9v21UvFQt1N3paVT_kX0Xd0ysea_gUNIC90TQaGqmmarBuKrHzJszHjXVnTbxCaUNcNWQc_sKIrpql8rVhGed0yryhYb3X5T4uqaECFGtA1bWGq-sI0zD_rJivZ__yrrgDN0IFsKvICKLKqy-89HT5-vkysv32fngISSDijrGslvJdMYABp19cNk7xnad1noqrzQXrOeiqVYpLyqhYDGyXO2nKs0qaRGtZ0_S0db4JJoptZn-Zd27J87PpB6lneNQ1rKaOpGKZ0lkYq0vlzKX6kfTN_HoBgYRgqUExoyorx3tT047t4Gx9V-WmaOPvnUfLHNDwq_mDtH10m3or8318-rC728_NkL30iRGRhEK4H1VuhVyLbamYt_XjDb661xE4D54jMcnZ31QS6u0NMb2G8usbkoDryCuQEQf8ezU5knrImOmfrBEZhopA1eo2grR7CJQjj6jXc4DOLwXwg5i7kSM9jdCKkG-Pm2vmKfz-SsfUBfnFadEksN8Ixt9ieY9Igne4RTyJ0S07UC8hoETI2ROEaXpdqvEG7rOXkeDrDQMahsxHb_O62cVPKLkAv2zApKMG-A7SWteJyPKPG3b8EMRezR8bguKfXjEDirZMqsOxreD_PmJczXSGSNHRPZbwNwgQez3jysb0nvJqTBt1py50AmEVulYBsol24jlo_djL7jFa5YmsJx4XDfUhafHI31Cbti0dQNB2J9na4V96WaHG0Wn26Dn3xHTwhbQw89XTHqjiJNDj-emXFEnlPceoerkl2mX-DxkLVVRnCBTC0_wDBZxSv",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=x8MHaXicHZBLjqNGAECV86BIVXxNdu3GZdNtwBQU2GwQpoqPXUCZT2P7ArPMFUbumUiT5UykbHONyWkyk_WTnp7e7w9W_433osiGt9v21UvFQt1N3paVT_kX0Xd0ysea_gUNIC90TQaGqmmarBuKrHzJszHjXVnTbxCaUNcNWQc_sKIrpql8rVhGed0yryhYb3X5T4uqaECFGtA1bWGq-sI0zD_rJivZ__yrrgDN0IFsKvICKLKqy-89HT5-vkysv32fngISSDijrGslvJdMYABp19cNk7xnad1noqrzQXrOeiqVYpLyqhYDGyXO2nKs0qaRGtZ0_S0db4JJoptZn-Zd27J87PpB6lneNQ1rKaOpGKZ0lkYq0vlzKX6kfTN_HoBgYRgqUExoyorx3tT047t4Gx9V-WmaOPvnUfLHNDwq_mDtH10m3or8318-rC728_NkL30iRGRhEK4H1VuhVyLbamYt_XjDb661xE4D54jMcnZ31QS6u0NMb2G8usbkoDryCuQEQf8ezU5knrImOmfrBEZhopA1eo2grR7CJQjj6jXc4DOLwXwg5i7kSM9jdCKkG-Pm2vmKfz-SsfUBfnFadEksN8Ixt9ieY9Igne4RTyJ0S07UC8hoETI2ROEaXpdqvEG7rOXkeDrDQMahsxHb_O62cVPKLkAv2zApKMG-A7SWteJyPKPG3b8EMRezR8bguKfXjEDirZMqsOxreD_PmJczXSGSNHRPZbwNwgQez3jysb0nvJqTBt1py50AmEVulYBsol24jlo_djL7jFa5YmsJx4XDfUhafHI31Cbti0dQNB2J9na4V96WaHG0Wn26Dn3xHTwhbQw89XTHqjiJNDj-emXFEnlPceoerkl2mX-DxkLVVRnCBTC0_wDBZxSv"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSXlpKXYFHlcv_VDwwWq90FoCFL-VeK3b24aTrvrZkSu2Q9FXH024P5V9a_g6gZfTNau5QKL_vywkRyPBFYTpfq93_kJp8sRap5UiVQ9U8",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - Coverzip LLC",
+      "title": "Asus AMD Radeon RX 9070 XT Graphic Card, 16 GB Gddr6, Size: 2 x 5.1 x 12.3",
+      "price": "$790.00",
+      "extracted_price": 790.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "G-zKqnicbdLLbptAGAVg9XlQpRnAF7qLL9jYwZjhajZoMjMGwgBjLrbxC3TZV4icpFK6bBfd9jXSp6mrbrv5N0dH51v8X64s-4lCscfNsb9fW7EYq9vOumfJHXkTdUU70mb0xxjAsTwcqRqAEChjCEfqG8Et5lWS0afvKcOUZyWz9ntWzyry_8a3rMAJ-xdr6hCO5BEYQEUBUNPGYPRc0-bp9dCxun_v7hzPkRCmrColFEoaGAFpW2cFk6yptKixSDPSSFNcUykRnUTSTDSslTgrkzaNi0IqWFHVfdz2gkmiOrE6JlVZMtJWdSPVjFRFwUrKaCyaLj5JLRXx6TURN9vTc_H3iGN7TZOXruPs1zXh1665pvzKyq8VFsc9-f3h8_xgTKedMbE9IfwZAk5BFcT51Oepjdxo7SyobYNV7QX6Gof6yV-uwM7LZQKiaHPZOEiG20AXtRXm0ON6QHOx9eFEocWAe7k5cECrYpjaD5yuiTfwPDBwXTdaYIgObq4tdu7GDOW2RnC1tOVxbz-iCvOUY39ycGYI2j6yrUDYljsROKRHTxfODpi9teCmnZvyTatTXwRRIM4sXHleuDoEOWzdx43YFURGj_p5F-gblvvuQ8ADV6Y1WvrNwyyVfRkZuxwdb1u6tWj3JNc2WOb9zXwJAnQy_TQlgCqsELZbRsB1c3Unp1V0NkKPp6eo0C-05KYDtD2ZJcBb-lt34Zd2YGIj1-dEMQYRn59sGWZ0li7pbOOjDBqO518c7p2DXDhYQQvC5y_npt6_gzt90DqWqt18BjlrauisS-I4iCnH9OHcf4xPn-BorA5VGcLbtw3_ABv0DDw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=G-zKqnicbdLLbptAGAVg9XlQpRnAF7qLL9jYwZjhajZoMjMGwgBjLrbxC3TZV4icpFK6bBfd9jXSp6mrbrv5N0dH51v8X64s-4lCscfNsb9fW7EYq9vOumfJHXkTdUU70mb0xxjAsTwcqRqAEChjCEfqG8Et5lWS0afvKcOUZyWz9ntWzyry_8a3rMAJ-xdr6hCO5BEYQEUBUNPGYPRc0-bp9dCxun_v7hzPkRCmrColFEoaGAFpW2cFk6yptKixSDPSSFNcUykRnUTSTDSslTgrkzaNi0IqWFHVfdz2gkmiOrE6JlVZMtJWdSPVjFRFwUrKaCyaLj5JLRXx6TURN9vTc_H3iGN7TZOXruPs1zXh1665pvzKyq8VFsc9-f3h8_xgTKedMbE9IfwZAk5BFcT51Oepjdxo7SyobYNV7QX6Gof6yV-uwM7LZQKiaHPZOEiG20AXtRXm0ON6QHOx9eFEocWAe7k5cECrYpjaD5yuiTfwPDBwXTdaYIgObq4tdu7GDOW2RnC1tOVxbz-iCvOUY39ycGYI2j6yrUDYljsROKRHTxfODpi9teCmnZvyTatTXwRRIM4sXHleuDoEOWzdx43YFURGj_p5F-gblvvuQ8ADV6Y1WvrNwyyVfRkZuxwdb1u6tWj3JNc2WOb9zXwJAnQy_TQlgCqsELZbRsB1c3Unp1V0NkKPp6eo0C-05KYDtD2ZJcBb-lt34Zd2YGIj1-dEMQYRn59sGWZ0li7pbOOjDBqO518c7p2DXDhYQQvC5y_npt6_gzt90DqWqt18BjlrauisS-I4iCnH9OHcf4xPn-BorA5VGcLbtw3_ABv0DDw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT8MeaGaeil2kShpWL1ikj68oA4t4j3I7mZSDpW56XfIRHXVZBXnj76uKweUz7js1-EaT6nK40PgG_FVy0Shy08K_FPG4-BaLPjIH9qyCLfhU9emOdrWYB6FQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS3sacVQdZxrV-oy3HSN0bvukGS-Rdrru6HUozg-0kL_WuVMyjGOC_Q3QhGS-qPhwRnoCL9mmSynHFLhz2WV24K9F3TJMUAZW8Giw",
+      "source": "Rackfinity.com",
+      "title": "PRIME RX9070XT O16G",
+      "price": "$908.33",
+      "extracted_price": 908.33,
+      "immersive_product_page_token": "2sIsu3icdY_JjptAAESV70GRugEv5GYbg2N7YFia7YJwd5vFDfSwDNg_kV8YeWYiTY5RpFzzG5OviSPlmkuppKqSXn250vynHfBj0j6e9zsz5nP5vjf3NF3gN97UpMddTn5ACcpwNplCaT5XJlMAwAy-4aRLWJ3m5Ol7RhPC8oqaxyNt1Br_Z_ItL5OU_suhcitIE2kKlcnNTyVl9tyQ9un1oafN-b1fOMgR7ITQuhLsQFDADAj3TV5SwVwJepPwLMetsEoaIqS8F3CW85Z2AqNV2mVxWQolLevmHHdnTgVeD7SJcV1VFHd10woNxXVZ0opQEvO2jwehIzweXlN-g3t6Lv8Kf-yuWfrS94z-uqbs2rfXjF1p9bVO-OMR__5QrOthtWqHpYU491QbuJvt1j5pD5G6hXSzBs4mCw9MKZwT4dRbiMZ6GP0iu3M1RfVEMomqVMaeZztI60Ip7ZIz5Mirz6a6REYVXu58zXYAgBayB1fHZ3zin0kOROySHQ28wvD5yShtboudZQeG6XhETBjPjWLrHwqyswISRqUsEr2TMNzWBjtBVwcQ-e05guwYQW3vMqPyVYJCyQaIeQFRtw1iyz5BCkpESwyraCQ-Gg1d6Yg-XPAaLkk5WZlrBg9-JtECjV7FdatgJ6_Mdjced50Rx98syzAwRIrGvQuVwVRtiyDlLvLJMhzr_PbpggtWIqAB5GXcAdvK0MkUMwvsPS8ja9aGQTpSlZTR8DK2zfEdLLRJ55hycbFlXvDYOXwc6XGpmQs_NsIxSh6GT3A2l6eyCOEczCZ_ALCSBLg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2sIsu3icdY_JjptAAESV70GRugEv5GYbg2N7YFia7YJwd5vFDfSwDNg_kV8YeWYiTY5RpFzzG5OviSPlmkuppKqSXn250vynHfBj0j6e9zsz5nP5vjf3NF3gN97UpMddTn5ACcpwNplCaT5XJlMAwAy-4aRLWJ3m5Ol7RhPC8oqaxyNt1Br_Z_ItL5OU_suhcitIE2kKlcnNTyVl9tyQ9un1oafN-b1fOMgR7ITQuhLsQFDADAj3TV5SwVwJepPwLMetsEoaIqS8F3CW85Z2AqNV2mVxWQolLevmHHdnTgVeD7SJcV1VFHd10woNxXVZ0opQEvO2jwehIzweXlN-g3t6Lv8Kf-yuWfrS94z-uqbs2rfXjF1p9bVO-OMR__5QrOthtWqHpYU491QbuJvt1j5pD5G6hXSzBs4mCw9MKZwT4dRbiMZ6GP0iu3M1RfVEMomqVMaeZztI60Ip7ZIz5Mirz6a6REYVXu58zXYAgBayB1fHZ3zin0kOROySHQ28wvD5yShtboudZQeG6XhETBjPjWLrHwqyswISRqUsEr2TMNzWBjtBVwcQ-e05guwYQW3vMqPyVYJCyQaIeQFRtw1iyz5BCkpESwyraCQ-Gg1d6Yg-XPAaLkk5WZlrBg9-JtECjV7FdatgJ6_Mdjced50Rx98syzAwRIrGvQuVwVRtiyDlLvLJMhzr_PbpggtWIqAB5GXcAdvK0MkUMwvsPS8ja9aGQTpSlZTR8DK2zfEdLLRJ55hycbFlXvDYOXwc6XGpmQs_NsIxSh6GT3A2l6eyCOEczCZ_ALCSBLg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the TDP for AMD RX 9070?",
+      "type": "ai_overview",
+      "page_token": "uFPjD3icHZDLboJAGEbTl3EpAmqDjWliGW6RUZD5cWbTwIyAMIAXLJVd36VP1aep7epbnZOc7-tbHpvq5-ml6LrTdaEofd-P87bN5WHM21pJrveGKzyRMk14tZg_z9XXjC_Rha7eGrHa1ZJgJ_RZJC5Ut86gWR1W6Z2beCKGcBsj2CQWHEnslRgKB2uBzjS1plXhbsiJcvSph7G19m0mUw08XBnDzjZUv_Fuh4eD2RgHILo1BF1kGQHVZv5uYpyjUuwDFU1T4iHSiAycYh-bK8odmIpadXCJSwjdPZFFz2prEI384zJu5hPiwDayoQliP3ErC3HdnTEZmhQqDQ94vnmsH4cFHViWRuEN26g_PFqh5qOMfyz10f8py_es7hanS5v_AhMubZg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uFPjD3icHZDLboJAGEbTl3EpAmqDjWliGW6RUZD5cWbTwIyAMIAXLJVd36VP1aep7epbnZOc7-tbHpvq5-ml6LrTdaEofd-P87bN5WHM21pJrveGKzyRMk14tZg_z9XXjC_Rha7eGrHa1ZJgJ_RZJC5Ut86gWR1W6Z2beCKGcBsj2CQWHEnslRgKB2uBzjS1plXhbsiJcvSph7G19m0mUw08XBnDzjZUv_Fuh4eD2RgHILo1BF1kGQHVZv5uYpyjUuwDFU1T4iHSiAycYh-bK8odmIpadXCJSwjdPZFFz2prEI384zJu5hPiwDayoQliP3ErC3HdnTEZmhQqDQ94vnmsH4cFHViWRuEN26g_PFqh5qOMfyz10f8py_es7hanS5v_AhMubZg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIFREUCBmb3IgQU1EIFJYIDkwNzA/IiwibGsiOiJHZzloYldRZ2NuZ2dPVEEzTUNCMFpIQSIsImJzIjoiYzNXT3V3ckNNQmlGY2MyaTRpTEI0YWlEaUE1U0VIRXFSUWNGYjNoQk80WW1Xc0dha0xaVTM5Tkg4UUdzcVFVUkhIX09kODdfa1Q3QjNtY1J6aUVpWDJBN1h1RW9OWno1R09zRGhyMUJ6N2JLdE1nQ0RuMHpOeUt1aUV1NjA2emhiSFliclBRNUVGZ3pMdVExNy1Hd3hYS0VrNVRjdHRxMGxYNWdZUnhDR1ZabmJMNTVpeUE5dzVJWmFVeGtnaUQyZkNpWkNJMHdWdXB5TjE2NVVfVlJzWnEwN3Y4RlA4TmtRVG9fYTF5SzFBVE8yeVh6TmdaY3M4U3VQbDJyUnVtWHA4ay14WlFvRlY0IiwiaWQiOiJmY19SWHBmYXN2eUxLT19wODRQdU9MZWdBY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIFREUCBmb3IgQU1EIFJYIDkwNzA%2FIiwibGsiOiJHZzloYldRZ2NuZ2dPVEEzTUNCMFpIQSIsImJzIjoiYzNXT3V3ckNNQmlGY2MyaTRpTEI0YWlEaUE1U0VIRXFSUWNGYjNoQk80WW1Xc0dha0xaVTM5Tkg4UUdzcVFVUkhIX09kODdfa1Q3QjNtY1J6aUVpWDJBN1h1RW9OWno1R09zRGhyMUJ6N2JLdE1nQ0RuMHpOeUt1aUV1NjA2emhiSFliclBRNUVGZ3pMdVExNy1Hd3hYS0VrNVRjdHRxMGxYNWdZUnhDR1ZabmJMNTVpeUE5dzVJWmFVeGtnaUQyZkNpWkNJMHdWdXB5TjE2NVVfVlJzWnEwN3Y4RlA4TmtRVG9fYTF5SzFBVE8yeVh6TmdaY3M4U3VQbDJyUnVtWHA4ay14WlFvRlY0IiwiaWQiOiJmY19SWHBmYXN2eUxLT19wODRQdU9MZWdBY18zIn0%3D"
+    },
+    {
+      "question": "Is the ASUS Prime Radeon RX 9070 XT OC good?",
+      "type": "ai_overview",
+      "page_token": "i3rAE3icHdDdbtowGABQ7WV6WfIzmIqEKqXGpFlxZiffZ5KbKdgEU9skLVkDudu77Kn6NJV2HuH8_edOZ_v57cMMQ39ZzmbjON4fu-7oDveq87PmcjurmWqc2zfKLhc_FuFjq1brP8_J09tzwqHvkYigsOZJeSfFBmkVzDlLjUSLCFEd1_56AZIM4DBSa1M0NLuJuLoe5NwWAV03E4UcdJhvxhF2moI1wT7NbE1wwSW-NKWTEhOuSFI1Mf2FaTbfxuadh12kgtDtz-Z7meKkge4OXgz5xr2Bd9M2dAVu2E9BXaSpuHFLUxYayZyme6ChPrO8iHsEWw8a2Q2Jbrl0pCxFvDa6kGniqx2LDnB9KcOHMSeCa3jY1lIn1bU7cRCTenUegC1wEiV43W5JFnOkJ_aqmwpwBJKV5ZRxzu9a9bGK7_5_rn63flj2793xC6kIgss",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i3rAE3icHdDdbtowGABQ7WV6WfIzmIqEKqXGpFlxZiffZ5KbKdgEU9skLVkDudu77Kn6NJV2HuH8_edOZ_v57cMMQ39ZzmbjON4fu-7oDveq87PmcjurmWqc2zfKLhc_FuFjq1brP8_J09tzwqHvkYigsOZJeSfFBmkVzDlLjUSLCFEd1_56AZIM4DBSa1M0NLuJuLoe5NwWAV03E4UcdJhvxhF2moI1wT7NbE1wwSW-NKWTEhOuSFI1Mf2FaTbfxuadh12kgtDtz-Z7meKkge4OXgz5xr2Bd9M2dAVu2E9BXaSpuHFLUxYayZyme6ChPrO8iHsEWw8a2Q2Jbrl0pCxFvDa6kGniqx2LDnB9KcOHMSeCa3jY1lIn1bU7cRCTenUegC1wEiV43W5JFnOkJ_aqmwpwBJKV5ZRxzu9a9bGK7_5_rn63flj2793xC6kIgss",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IklzIHRoZSBBU1VTIFByaW1lIFJhZGVvbiBSWCA5MDcwIFhUIE9DIGdvb2Q/IiwibGsiOiJHaWRwY3lCaGMzVnpJSEJ5YVcxbElISmhaR1Z2YmlCeWVDQTVNRGN3SUhoMElHOWpJR2R2YjJRIiwiYnMiOiJjM1dPdXdyQ01CaUZjYzJpNGlMQjRhaURpQTVTRUhFcVJRY0ZiM2hCTzRZbVdzR2FrTFpVMzlOSDhRR3NxUVVSSEhfT2Q4N19rVDdCM21jUnppRWlYMkE3WHVFb05aejVHT3NEaHIxQno3Ykt0TWdDRG4wek55S3VpRXU2MDZ6aGJIWWJyUFE1RUZnekx1UTE3LUd3eFhLRWs1VGN0dHEwbFg1Z1lSeENHVlpuYkw1NWl5QTl3NUlaYVV4a2dpRDJmQ2laQ0kwd1Z1cHlOMTY1VV9WUnNacTA3djhGUDhOa1FUb19hMXlLMUFUTzJ5WHpOZ1pjczhTdVBsMnJSdW1YcDhrLXhaUW9GVjQiLCJpZCI6ImZjX1JYcGZhc3Z5TEtPX3A4NFB1T0xlZ0FjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IklzIHRoZSBBU1VTIFByaW1lIFJhZGVvbiBSWCA5MDcwIFhUIE9DIGdvb2Q%2FIiwibGsiOiJHaWRwY3lCaGMzVnpJSEJ5YVcxbElISmhaR1Z2YmlCeWVDQTVNRGN3SUhoMElHOWpJR2R2YjJRIiwiYnMiOiJjM1dPdXdyQ01CaUZjYzJpNGlMQjRhaURpQTVTRUhFcVJRY0ZiM2hCTzRZbVdzR2FrTFpVMzlOSDhRR3NxUVVSSEhfT2Q4N19rVDdCM21jUnppRWlYMkE3WHVFb05aejVHT3NEaHIxQno3Ykt0TWdDRG4wek55S3VpRXU2MDZ6aGJIWWJyUFE1RUZnekx1UTE3LUd3eFhLRWs1VGN0dHEwbFg1Z1lSeENHVlpuYkw1NWl5QTl3NUlaYVV4a2dpRDJmQ2laQ0kwd1Z1cHlOMTY1VV9WUnNacTA3djhGUDhOa1FUb19hMXlLMUFUTzJ5WHpOZ1pjczhTdVBsMnJSdW1YcDhrLXhaUW9GVjQiLCJpZCI6ImZjX1JYcGZhc3Z5TEtPX3A4NFB1T0xlZ0FjXzMifQ%3D%3D"
+    },
+    {
+      "question": "How much power supply for RX 9070?",
+      "type": "featured_snippet",
+      "snippet": "AMD",
+      "table": [
+        [
+          "GPU Model",
+          "Minimum Recommended PSU*"
+        ],
+        [
+          "RX 9000 Series"
+        ],
+        [
+          "Radeon™ RX 9070 XT",
+          "750W"
+        ],
+        [
+          "Radeon™ RX 9070",
+          "650W"
+        ],
+        [
+          "Radeon™ RX 9060 XT (16GB)",
+          "450W"
+        ]
+      ],
+      "formatted": {
+        "rx_9000_series": [
+          {
+            "gpu_model": "Radeon™ RX 9070 XT",
+            "minimum_recommended_psu": "750W"
+          },
+          {
+            "gpu_model": "Radeon™ RX 9070",
+            "minimum_recommended_psu": "650W"
+          },
+          {
+            "gpu_model": "Radeon™ RX 9060 XT (16GB)",
+            "minimum_recommended_psu": "450W"
+          }
+        ]
+      },
+      "title": "What Power Supply do I need for my build? - NZXT Support",
+      "link": "https://support.nzxt.com/hc/en-us/articles/43422053619099-What-Power-Supply-do-I-need-for-my-build",
+      "displayed_link": "https://support.nzxt.com › en-us › articles › 4342205361...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEX_______-5wMIABBGEkpTm6OlNYmfQ1dZgc3ehqauttbcZP0be4eJ3h4r4-fns7u_Jz9BGX2MAIisBMjkAFSFHYGQ9WF2zH0y3AAAAAXRSTlO_Gzh2ewAAAF9JREFUeAGdTrUBgDAQjLvb_pvi3gD57s8BgLd7_hB2AggTCCnDp4ILKaXSJwClMMaSHXBWeBu48MK6BYgpF1gbLDnFBcA5F-OcKTnjBbAlLXk6FbvVKricQt-WPhAwAsYCA92qUYaxAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIHBvd2VyIHN1cHBseSBmb3IgUlggOTA3MD8iLCJsayI6IkdpRm9iM2NnYlhWamFDQndiM2RsY2lCemRYQndiSGtnWm05eUlISjRJRGt3TnpBIiwiYnMiOiJjM1dPdXdyQ01CaUZjYzJpNGlMQjRhaURpQTVTRUhFcVJRY0ZiM2hCTzRZbVdzR2FrTFpVMzlOSDhRR3NxUVVSSEhfT2Q4N19rVDdCM21jUnppRWlYMkE3WHVFb05aejVHT3NEaHIxQno3Ykt0TWdDRG4wek55S3VpRXU2MDZ6aGJIWWJyUFE1RUZnekx1UTE3LUd3eFhLRWs1VGN0dHEwbFg1Z1lSeENHVlpuYkw1NWl5QTl3NUlaYVV4a2dpRDJmQ2laQ0kwd1Z1cHlOMTY1VV9WUnNacTA3djhGUDhOa1FUb19hMXlLMUFUTzJ5WHpOZ1pjczhTdVBsMnJSdW1YcDhrLXhaUW9GVjQiLCJpZCI6ImZjX1JYcGZhc3Z5TEtPX3A4NFB1T0xlZ0FjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIHBvd2VyIHN1cHBseSBmb3IgUlggOTA3MD8iLCJsayI6IkdpRm9iM2NnYlhWamFDQndiM2RsY2lCemRYQndiSGtnWm05eUlISjRJRGt3TnpBIiwiYnMiOiJjM1dPdXdyQ01CaUZjYzJpNGlMQjRhaURpQTVTRUhFcVJRY0ZiM2hCTzRZbVdzR2FrTFpVMzlOSDhRR3NxUVVSSEhfT2Q4N19rVDdCM21jUnppRWlYMkE3WHVFb05aejVHT3NEaHIxQno3Ykt0TWdDRG4wek55S3VpRXU2MDZ6aGJIWWJyUFE1RUZnekx1UTE3LUd3eFhLRWs1VGN0dHEwbFg1Z1lSeENHVlpuYkw1NWl5QTl3NUlaYVV4a2dpRDJmQ2laQ0kwd1Z1cHlOMTY1VV9WUnNacTA3djhGUDhOa1FUb19hMXlLMUFUTzJ5WHpOZ1pjczhTdVBsMnJSdW1YcDhrLXhaUW9GVjQiLCJpZCI6ImZjX1JYcGZhc3Z5TEtPX3A4NFB1T0xlZ0FjXzMifQ%3D%3D"
+    },
+    {
+      "question": "How much power does a Asus Prime 9070 draw?",
+      "type": "featured_snippet",
+      "snippet": "TDP/TGP of 9070 is ~220W.",
+      "title": "Power requirements for the 9070 cards. : r/AMDHelp - Reddit",
+      "date": "Jun 5, 2025",
+      "link": "https://www.reddit.com/r/AMDHelp/comments/1l3s0uj/power_requirements_for_the_9070_cards/",
+      "displayed_link": "https://www.reddit.com › AMDHelp › comments › pow...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIHBvd2VyIGRvZXMgYSBBc3VzIFByaW1lIDkwNzAgZHJhdz8iLCJsayI6IkdocGhjM1Z6SUhCeWFXMWxJRGt3TnpBZ2NHOTNaWElnWkhKaGR3IiwiYnMiOiJjM1dPdXdyQ01CaUZjYzJpNGlMQjRhaURpQTVTRUhFcVJRY0ZiM2hCTzRZbVdzR2FrTFpVMzlOSDhRR3NxUVVSSEhfT2Q4N19rVDdCM21jUnppRWlYMkE3WHVFb05aejVHT3NEaHIxQno3Ykt0TWdDRG4wek55S3VpRXU2MDZ6aGJIWWJyUFE1RUZnekx1UTE3LUd3eFhLRWs1VGN0dHEwbFg1Z1lSeENHVlpuYkw1NWl5QTl3NUlaYVV4a2dpRDJmQ2laQ0kwd1Z1cHlOMTY1VV9WUnNacTA3djhGUDhOa1FUb19hMXlLMUFUTzJ5WHpOZ1pjczhTdVBsMnJSdW1YcDhrLXhaUW9GVjQiLCJpZCI6ImZjX1JYcGZhc3Z5TEtPX3A4NFB1T0xlZ0FjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXd3RVMUpoTUhOMFdGVjBURmhrWW5sTVpHSmhjM3BSYTBaQlRqZHFNSFZyWjJFMlV6ZHJOR3h1VUd0b1ZsTndURWczYkVGaU1GcG5iRFZrU0VwSFEyNU5ZbWhMY0dwa2REY3lXaTFJTUZFMmExQnhNWFJ5UjFKclp4SVhVbGh3Wm1GemRubE1TMDlmY0RnMFVIVlBUR1ZuUVdNYUlrRkVjM0k1WmxOaFdERXlXWG93ZGxJeWVXd3lVbk54U25oZkxVdFZiVFZtT1hjIiwiZmN2IjoiMyIsImVpIjoiUlhwZmFzdnlMS09fcDg0UHVPTGVnQWMiLCJxYyI6ImN3M01zUTBDTVF3RlVHb3FXQUQ5RWE1RFZJeGlSWTZWaTRSankwa1VybUJiQm9FM3dEdlAxR2RIcEN6V0VHODh0dnNHajZvQ1k1Ukl2bGZ1NEJRWnhTZDRyOTVsNENXdGpKMVVvYUlXQjQzREJXNUxndGhhRXg0V18xallWS1ZseWVSOTBzTElUdXR5LW54djEtY1AiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIHBvd2VyIGRvZXMgYSBBc3VzIFByaW1lIDkwNzAgZHJhdz8iLCJsayI6IkdocGhjM1Z6SUhCeWFXMWxJRGt3TnpBZ2NHOTNaWElnWkhKaGR3IiwiYnMiOiJjM1dPdXdyQ01CaUZjYzJpNGlMQjRhaURpQTVTRUhFcVJRY0ZiM2hCTzRZbVdzR2FrTFpVMzlOSDhRR3NxUVVSSEhfT2Q4N19rVDdCM21jUnppRWlYMkE3WHVFb05aejVHT3NEaHIxQno3Ykt0TWdDRG4wek55S3VpRXU2MDZ6aGJIWWJyUFE1RUZnekx1UTE3LUd3eFhLRWs1VGN0dHEwbFg1Z1lSeENHVlpuYkw1NWl5QTl3NUlaYVV4a2dpRDJmQ2laQ0kwd1Z1cHlOMTY1VV9WUnNacTA3djhGUDhOa1FUb19hMXlLMUFUTzJ5WHpOZ1pjczhTdVBsMnJSdW1YcDhrLXhaUW9GVjQiLCJpZCI6ImZjX1JYcGZhc3Z5TEtPX3A4NFB1T0xlZ0FjXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "8Ul7xHicxZXvkqI4EMAf4J5j_cKMoqOrTBW1lSAq6ojRcf74hUKIAQcIAg7jftt3uae6p9mAouCoU3tVV9dVEjp0dzpJ_-xffzu29_bPX00rivzwvlKJ47hMKCUOLhvUrejh1jMqS-qEgWH9II64CUuWI2KvtH0X70pGKPIlbIuTF3-ph-_b4UDV_FZ9vFGHmACjlLqL2kIP8YpF_1iFFa3CHm_f7tpMKYdl7JUFc4zxIlCxQMo1viqU1YruMgPw3woBdvIgQGGK8umzBAj6KgCQk6d0tMvCyDmzONUgZBFTC-liPJIOtgxYwDH0GlYIQHc3aVxLpF9UO4mLgmCyCUXaJXoq57YGsxHltbNy5iPcx822Xr-6ViKKUozD1pW1dAoVV1HyQVAy_Zq-qgjgdgysmAyu5CpR0O6SKSLnbjkvPrDG2ToLwLOLqpiE1SFfWQRsqFZswzLSlyBMylN6FHja7YBA6T1v6cjrjUzV_xg3zPYIrrujiFSMBbNzqG5iU7M0_keqV2vVBi_cNVs3KRdGeAAjLIAxc5yF2hs-IFoelmE1RwU5nEpOksnJ2WPODu-Mw_6IiZy-bLPCpZkNpIg5Hx07bQXGAGRo1pNaa5PPFc1in6EilQMaDyClIk1O2o37QPmqIOTgkKuj3sl6-QxgFl5SGHvZXPdogKQigxI7trcDJA_FUMiSd-UHp3sTFdYLfAOU06TdFhGBsLgVZbeDes4uuRjCShnNmd4n5PBnlDop-4QO6x6TKtLHroBIM_kqr5fkGjd7ISAr_5NqzlMg00a3CsKBezvnW9tN69lBc-TID4a7AOernrqLP-gHxv_ORdotaNYtznBhfcFF2i3I5W6xL6I44yK1G0DpIhdv6VjsFr2TbnGOi36Ri2O3QCfd4shFksp1LuA1LuAlLtgf_icu0AUusm6R4-LtpFvAw6kmU0cu_rxb6P-uW6SY4N1QbB2bFbnYQuSf896rXVt6c9TQof36vGl3LJPOCEHoyxaydKN7VzedG80272GtH23NG41N0HtsltYimM6m3IR5U4-bvHAC3-S5cWC7mFMlrhvovmUbISfpgckRf8MZlu2HOOIc7JHI0lyXc7FLg60WbX3M-TTGgWZQz8NGRIOQCxKOXewlyfnhRou5yPS1uOQ6ARV5_ft6fedqWF3RnlOLx8HYmsRTmZ_drtBLKNSWrj0ermj009P7AtHnTVivtoZytzGrz2N1qd2BxsvjnI_45lb2YGA_NU1bmvorh9z2vCd7sBn01qPNetLRAVWB8SF9DFbR5vGpN-1NBRUEG3MljYw0mVB8jydKZ9Kft9RWyQ0MkRVknYARAs8EGkBi1SYR9qPsF7NrLYWGruHwXayZwlJoNHl90Wrore-45BJ2FqLAl0IvEKu_ATn_Ouc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8Ul7xHicxZXvkqI4EMAf4J5j_cKMoqOrTBW1lSAq6ojRcf74hUKIAQcIAg7jftt3uae6p9mAouCoU3tVV9dVEjp0dzpJ_-xffzu29_bPX00rivzwvlKJ47hMKCUOLhvUrejh1jMqS-qEgWH9II64CUuWI2KvtH0X70pGKPIlbIuTF3-ph-_b4UDV_FZ9vFGHmACjlLqL2kIP8YpF_1iFFa3CHm_f7tpMKYdl7JUFc4zxIlCxQMo1viqU1YruMgPw3woBdvIgQGGK8umzBAj6KgCQk6d0tMvCyDmzONUgZBFTC-liPJIOtgxYwDH0GlYIQHc3aVxLpF9UO4mLgmCyCUXaJXoq57YGsxHltbNy5iPcx822Xr-6ViKKUozD1pW1dAoVV1HyQVAy_Zq-qgjgdgysmAyu5CpR0O6SKSLnbjkvPrDG2ToLwLOLqpiE1SFfWQRsqFZswzLSlyBMylN6FHja7YBA6T1v6cjrjUzV_xg3zPYIrrujiFSMBbNzqG5iU7M0_keqV2vVBi_cNVs3KRdGeAAjLIAxc5yF2hs-IFoelmE1RwU5nEpOksnJ2WPODu-Mw_6IiZy-bLPCpZkNpIg5Hx07bQXGAGRo1pNaa5PPFc1in6EilQMaDyClIk1O2o37QPmqIOTgkKuj3sl6-QxgFl5SGHvZXPdogKQigxI7trcDJA_FUMiSd-UHp3sTFdYLfAOU06TdFhGBsLgVZbeDes4uuRjCShnNmd4n5PBnlDop-4QO6x6TKtLHroBIM_kqr5fkGjd7ISAr_5NqzlMg00a3CsKBezvnW9tN69lBc-TID4a7AOernrqLP-gHxv_ORdotaNYtznBhfcFF2i3I5W6xL6I44yK1G0DpIhdv6VjsFr2TbnGOi36Ri2O3QCfd4shFksp1LuA1LuAlLtgf_icu0AUusm6R4-LtpFvAw6kmU0cu_rxb6P-uW6SY4N1QbB2bFbnYQuSf896rXVt6c9TQof36vGl3LJPOCEHoyxaydKN7VzedG80272GtH23NG41N0HtsltYimM6m3IR5U4-bvHAC3-S5cWC7mFMlrhvovmUbISfpgckRf8MZlu2HOOIc7JHI0lyXc7FLg60WbX3M-TTGgWZQz8NGRIOQCxKOXewlyfnhRou5yPS1uOQ6ARV5_ft6fedqWF3RnlOLx8HYmsRTmZ_drtBLKNSWrj0ermj009P7AtHnTVivtoZytzGrz2N1qd2BxsvjnI_45lb2YGA_NU1bmvorh9z2vCd7sBn01qPNetLRAVWB8SF9DFbR5vGpN-1NBRUEG3MljYw0mVB8jydKZ9Kft9RWyQ0MkRVknYARAs8EGkBi1SYR9qPsF7NrLYWGruHwXayZwlJoNHl90Wrore-45BJ2FqLAl0IvEKu_ATn_Ouc"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ASUS Prime Radeon RX 9070 OC Edition",
+      "link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2F&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECBgQAQ",
+      "displayed_link": "https://www.asus.com › graphics-cards › prime-rx9070-o...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6 features a compact design with three axial-tech fans for supreme cooling.",
+      "snippet_highlighted_words": [
+        "ASUS Prime Radeon RX 9070 OC Edition"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6 features a compact design with three axial-tech fans for supreme cooling.",
+          "source_info_link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2F",
+      "source": "ASUS"
+    },
+    {
+      "position": 2,
+      "title": "Power requirements for the 9070 cards. : r/AMDHelp",
+      "link": "https://www.reddit.com/r/AMDHelp/comments/1l3s0uj/power_requirements_for_the_9070_cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAMDHelp%2Fcomments%2F1l3s0uj%2Fpower_requirements_for_the_9070_cards%2F&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECDgQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Two cards I am looking at right now have (as far as I can tell) identical specifications (according to the info graphic on the store's website), ...",
+      "about_this_result": {
+        "source": {
+          "description": "ASUS Prime Radeon RX 9070 OC Edition requires a 650w supply. Go safe and get minimum 850W power supply, faster clock speeds. RX 9070 cards can ...",
+          "source_info_link": "https://www.reddit.com/r/AMDHelp/comments/1l3s0uj/power_requirements_for_the_9070_cards/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAMDHelp%2Fcomments%2F1l3s0uj%2Fpower_requirements_for_the_9070_cards%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAMDHelp%2Fcomments%2F1l3s0uj%2Fpower_requirements_for_the_9070_cards%2F",
+      "source": "Reddit · r/AMDHelp"
+    },
+    {
+      "position": 3,
+      "title": "ASUS PRIME RX 9070 OC Specs",
+      "link": "https://www.techpowerup.com/gpu-specs/asus-prime-rx-9070-oc.b12264",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fasus-prime-rx-9070-oc.b12264&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECDIQAQ",
+      "displayed_link": "https://www.techpowerup.com › ... › Radeon RX 9070",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "ASUS PRIME RX 9070 OC ; Memory Size: 16 GB ; Memory Type: GDDR6 ; Memory Bus: 256 bit ; Bandwidth: 644.6 GB/s ; Shading Units: 3584.",
+      "snippet_highlighted_words": [
+        "ASUS PRIME RX 9070 OC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASUS PRIME RX 9070 OC ; Memory Size: 16 GB ; Memory Type: GDDR6 ; Memory Bus: 256 bit ; Bandwidth: 644.6 GB/s ; Shading Units: 3584.",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/asus-prime-rx-9070-oc.b12264",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fasus-prime-rx-9070-oc.b12264&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fasus-prime-rx-9070-oc.b12264",
+      "source": "TechPowerUp",
+      "read_more_link": "https://www.techpowerup.com/gpu-specs/asus-prime-rx-9070-oc.b12264"
+    },
+    {
+      "position": 4,
+      "title": "ASUS Prime Radeon RX 9070 OC Edition - Tech Specs",
+      "link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/techspec/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2Ftechspec%2F&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECDAQAQ",
+      "displayed_link": "https://www.asus.com › prime-rx9070-o16g › techspec",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "Recommended PSU 650W Power Connectors 2 x 8-pin Slot 2.5 Slot Note * Our wattage recommendation is based on a fully overclocked GPU and CPU system ...",
+      "snippet_highlighted_words": [
+        "Recommended PSU 650W Power Connectors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Recommended PSU 650W Power Connectors 2 x 8-pin Slot 2.5 Slot Note * Our wattage recommendation is based on a fully overclocked GPU and CPU system ...",
+          "source_info_link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/techspec/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2Ftechspec%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2Ftechspec%2F",
+      "source": "ASUS"
+    },
+    {
+      "position": 5,
+      "title": "ASUS Prime Radeon RX 9070 OC Edition Graphics Card ...",
+      "link": "https://www.newegg.com/p/3C6-0005-008S5?srsltid=AfmBOorgo6Y4Gps4WVgHCBV3WlfgYmwAAMu3ChbjYMztZRmEGUL1-Ha9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fp%2F3C6-0005-008S5%3Fsrsltid%3DAfmBOorgo6Y4Gps4WVgHCBV3WlfgYmwAAMu3ChbjYMztZRmEGUL1-Ha9&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECGEQAQ",
+      "displayed_link": "https://www.newegg.com › ... › ASUS",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "ASUS Prime Radeon RX 9070 OC Edition Graphics Card (PCIe 5.0, HDMI/DP 2.1, 2.5-Slot Design, axial-tech Fans, Dual Ball Fan Bearings, Dual BIOS, GPU Guard).",
+      "snippet_highlighted_words": [
+        "ASUS Prime Radeon RX 9070 OC Edition Graphics Card"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASUS Prime Radeon RX 9070 OC Edition Graphics Card (PCIe 5.0, HDMI/DP 2.1, 2.5-Slot Design, axial-tech Fans, Dual Ball Fan Bearings, Dual BIOS, GPU Guard).",
+          "source_info_link": "https://www.newegg.com/p/3C6-0005-008S5?srsltid=AfmBOorgo6Y4Gps4WVgHCBV3WlfgYmwAAMu3ChbjYMztZRmEGUL1-Ha9",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2F3C6-0005-008S5%3Fsrsltid%3DAfmBOorgo6Y4Gps4WVgHCBV3WlfgYmwAAMu3ChbjYMztZRmEGUL1-Ha9&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2F3C6-0005-008S5%3Fsrsltid%3DAfmBOorgo6Y4Gps4WVgHCBV3WlfgYmwAAMu3ChbjYMztZRmEGUL1-Ha9",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/p/3C6-0005-008S5?srsltid=AfmBOorgo6Y4Gps4WVgHCBV3WlfgYmwAAMu3ChbjYMztZRmEGUL1-Ha9"
+    },
+    {
+      "position": 6,
+      "title": "ASUS PRIME RX 9070 EVO OC Specs",
+      "link": "https://www.techpowerup.com/gpu-specs/asus-prime-rx-9070-evo-oc.b12840",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fasus-prime-rx-9070-evo-oc.b12840&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECFoQAQ",
+      "displayed_link": "https://www.techpowerup.com › ... › Radeon RX 9070",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "ASUS PRIME RX 9070 EVO OC ; Bus Interface: PCIe 5.0 x16 ; Base Clock: 1330 MHz ; Memory Size: 16 GB ; Memory Type: GDDR6 ; Memory Bus: 256 bit.",
+      "snippet_highlighted_words": [
+        "ASUS PRIME RX 9070 EVO OC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASUS PRIME RX 9070 EVO OC ; Bus Interface: PCIe 5.0 x16 ; Base Clock: 1330 MHz ; Memory Size: 16 GB ; Memory Type: GDDR6 ; Memory Bus: 256 bit.",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/asus-prime-rx-9070-evo-oc.b12840",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fasus-prime-rx-9070-evo-oc.b12840&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Fasus-prime-rx-9070-evo-oc.b12840",
+      "source": "TechPowerUp",
+      "read_more_link": "https://www.techpowerup.com/gpu-specs/asus-prime-rx-9070-evo-oc.b12840"
+    },
+    {
+      "position": 7,
+      "title": "ASUS Prime Radeon RX 9070 XT OC Edition - Tech Specs",
+      "link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g/techspec/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070xt-o16g%2Ftechspec%2F&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECDEQAQ",
+      "displayed_link": "https://www.asus.com › prime-rx9070xt-o16g › techspec",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "Memory 16GB GDDR6 Engine. Recommended PSU 750W Power Connectors 3 x 8-pin Slot 2.5 Slot Note * Our wattage recommendation is based on a fully overclocked GPU ...",
+      "snippet_highlighted_words": [
+        "Recommended PSU 750W"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Memory 16GB GDDR6 Engine. Recommended PSU 750W Power Connectors 3 x 8-pin Slot 2.5 Slot Note * Our wattage recommendation is based on a fully overclocked GPU ...",
+          "source_info_link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g/techspec/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070xt-o16g%2Ftechspec%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070xt-o16g%2Ftechspec%2F",
+      "source": "ASUS"
+    },
+    {
+      "position": 8,
+      "title": "Buy ASUS Prime Radeon™ RX 9070 OC Edition 16GB GDDR6",
+      "link": "https://eshop.asus.com/us/90yv0li1-m0aa00-asus-prime-radeontm-rx-9070-oc-edition-16gb-gddr6.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Feshop.asus.com%2Fus%2F90yv0li1-m0aa00-asus-prime-radeontm-rx-9070-oc-edition-16gb-gddr6.html&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECDMQAQ",
+      "displayed_link": "https://eshop.asus.com › 90yv0li1-m0aa00-asus-prime-ra...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "Tech Specs. Graphic Engine. AMD Radeon™ RX 9070. Bus Standard. PCI Express 5.0. OpenGL. OpenGL®4.6. Video Memory. 16GB GDDR6. Engine Clock. OC mode(GPU Tweak ...",
+      "snippet_highlighted_words": [
+        "Graphic",
+        "AMD Radeon",
+        "RX 9070",
+        "Video",
+        "OC",
+        "GPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tech Specs. Graphic Engine. AMD Radeon™ RX 9070. Bus Standard. PCI Express 5.0. OpenGL. OpenGL®4.6. Video Memory. 16GB GDDR6. Engine Clock. OC mode(GPU Tweak ...",
+          "source_info_link": "https://eshop.asus.com/us/90yv0li1-m0aa00-asus-prime-radeontm-rx-9070-oc-edition-16gb-gddr6.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Feshop.asus.com%2Fus%2F90yv0li1-m0aa00-asus-prime-radeontm-rx-9070-oc-edition-16gb-gddr6.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Feshop.asus.com%2Fus%2F90yv0li1-m0aa00-asus-prime-radeontm-rx-9070-oc-edition-16gb-gddr6.html",
+      "source": "ASUS",
+      "read_more_link": "https://eshop.asus.com/us/90yv0li1-m0aa00-asus-prime-radeontm-rx-9070-oc-edition-16gb-gddr6.html"
+    },
+    {
+      "position": 9,
+      "title": "ASUS Prime Radeon™ RX 9070 OC Edition 16GB GDDR6",
+      "link": "https://www.asus.com/ca-en/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/helpdesk_manual?model2Name=PRIME-RX9070-O16G",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asus.com%2Fca-en%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2Fhelpdesk_manual%3Fmodel2Name%3DPRIME-RX9070-O16G&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQFnoECDQQAQ",
+      "displayed_link": "https://www.asus.com › ca-en › prime › helpdesk_manual",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6 features a compact design with three axial-tech fans for supreme cooling.",
+      "snippet_highlighted_words": [
+        "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR6 features a compact design with three axial-tech fans for supreme cooling.",
+          "source_info_link": "https://www.asus.com/ca-en/motherboards-components/graphics-cards/prime/prime-rx9070-o16g/helpdesk_manual?model2Name=PRIME-RX9070-O16G",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asus.com%2Fca-en%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2Fhelpdesk_manual%3Fmodel2Name%3DPRIME-RX9070-O16G&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asus.com%2Fca-en%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rx9070-o16g%2Fhelpdesk_manual%3Fmodel2Name%3DPRIME-RX9070-O16G",
+      "source": "ASUS"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "ASUS Prime RX 9070 OC review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+Prime+RX+9070+OC+review&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Prime+RX+9070+OC+review"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS Prime Radeon RX 9070 OC",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+Prime+Radeon+RX+9070+OC&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Prime+Radeon+RX+9070+OC"
+    },
+    {
+      "block_position": 1,
+      "query": "RX 9070 PSU requirements",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RX+9070+PSU+requirements&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RX+9070+PSU+requirements"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS Prime RX 9070 XT",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+Prime+RX+9070+XT&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Prime+RX+9070+XT"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS Prime 9070 dimensions",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+Prime+9070+dimensions&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Prime+9070+dimensions"
+    },
+    {
+      "block_position": 1,
+      "query": "RX 9070 vs RTX 5070",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RX+9070+vs+RTX+5070&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RX+9070+vs+RTX+5070"
+    },
+    {
+      "block_position": 1,
+      "query": "RX 9070 vs 9070 XT",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RX+9070+vs+9070+XT&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RX+9070+vs+9070+XT"
+    },
+    {
+      "block_position": 1,
+      "query": "PRIME-RX9070-O16G-EVO",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=PRIME-RX9070-O16G-EVO&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PRIME-RX9070-O16G-EVO"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "16 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=16+gb+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAESGioYCMmcYhISCQAAAAAAADBAEQAAAAAAADBAGAEqdWFzdXMgcmFkZW9uIHJ4IDkwNzAgcHJpbWUgb2MgZ3JhcGhpY3MgY2FyZCBncHUgY2hpcHNldCBsZW5ndGhfbW0gbWVtb3J5X3R5cGUgcG93ZXJfY29ubmVjdG9ycyByZWNvbW1lbmRlZF9wc3VfdyB0ZHBfdzIzCAESBTE2IEdCIhoqGAjJnGISEgkAAAAAAAAwQBEAAAAAAAAwQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAF6BAgbED4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=16+gb+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=pci+express+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhsIARILUENJIEV4cHJlc3M6Cgic6SwQoOksMABYtbEgYAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAJ6BAgbED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "12 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=12+gb+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAESGioYCMmcYhISCQAAAAAAAChAEQAAAAAAAChAGAEqdWFzdXMgcmFkZW9uIHJ4IDkwNzAgcHJpbWUgb2MgZ3JhcGhpY3MgY2FyZCBncHUgY2hpcHNldCBsZW5ndGhfbW0gbWVtb3J5X3R5cGUgcG93ZXJfY29ubmVjdG9ycyByZWNvbW1lbmRlZF9wc3VfdyB0ZHBfdzIzCAESBTEyIEdCIhoqGAjJnGISEgkAAAAAAAAoQBEAAAAAAAAoQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAN6BAgbEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=12+gb+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "8 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=8+gb+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAESGioYCMmcYhISCQAAAAAAACBAEQAAAAAAACBAGAEqdWFzdXMgcmFkZW9uIHJ4IDkwNzAgcHJpbWUgb2MgZ3JhcGhpY3MgY2FyZCBncHUgY2hpcHNldCBsZW5ndGhfbW0gbWVtb3J5X3R5cGUgcG93ZXJfY29ubmVjdG9ycyByZWNvbW1lbmRlZF9wc3VfdyB0ZHBfdzIyCAESBDggR0IiGioYCMmcYhISCQAAAAAAACBAEQAAAAAAACBAKgIYAToICMmcYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAR6BAgbEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=8+gb+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUAFSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAV6BAgbEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=hdmi+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhQIARIESERNSToKCNORKxDXkSswAFi1sSBgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAZ6BAgbEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w+sale&shoprs=CAESBEoCGAEYBip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhMIBhIHT24gc2FsZRgCIgRKAhgBWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAd6BAgbEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=buy+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYEip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAh6BAgbEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Graphics Card",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=graphics+card+asus+radeon+rx+9070+prime+oc+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93Mh8IARINR3JhcGhpY3MgQ2FyZDoMCKnCxQEQqsLFATACWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAl6BAgbEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=graphics+card+asus+radeon+rx+9070+prime+oc+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=displayport+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhsIARILRGlzcGxheVBvcnQ6CgjTkSsQ2JErMABYtbEgYAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAp6BAgbEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=black+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhUIARIFQmxhY2s6CgjNyWgQz8loMABYtbEgYAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAt6BAgbEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "GDDR6",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gddr6+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhYIARIFR0REUjY6CwiD1DoQnfLqATAAWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKAx6BAgbEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gddr6+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=four+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhYIARIERm91cjoMCO-VsgIQhpayAjAAWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKA16BAgbEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=four+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Ray Tracing Support",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ray+tracing+support+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MiUIARITUmF5IFRyYWNpbmcgU3VwcG9ydDoMCOOu6wEQ5K7rATADWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKA56BAgbEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ray+tracing+support+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Under $60",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w+under+%2460&shoprs=CAESDRILEQAAAAA4nIxBGAEYBSp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MiIIBRIJVW5kZXIgJDYwGAIiDRILEQAAAAA4nIxBGAEqAhgBWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKA96BAgbEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w+under+%2460"
+    },
+    {
+      "query": "VR Ready",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=vr+ready+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhoIARIIVlIgUmVhZHk6DAjejPABEN-M8AEwA1i1sSBgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBB6BAgbEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vr+ready+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=white+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhUIARIFV2hpdGU6CgjNyWgQ0sloMABYtbEgYAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBF6BAgbEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "DVI",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=dvi+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhMIARIDRFZJOgoI05ErENWRKzAAWLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBJ6BAgbEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dvi+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "GDDR",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gddr+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYASp1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MhQIARIER0REUjoKCIPUOhDolGswAFi1sSBgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBN6BAgbEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gddr+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ebay+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYAip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MggIAhIEZUJheVi1sSBgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBR6BAgbEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=new+ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYCip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MgcIChIDTmV3WLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBV6BAgbEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=used+ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYCip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MggIChIEVXNlZFi1sSBgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBZ6BAgbEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=target+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYAip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MgoIAhIGVGFyZ2V0WLWxIGAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBd6BAgbEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=target+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=best+buy+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYAip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MgwIAhIIQmVzdCBCdXlYtbEgYAE&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBh6BAgbEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAESAmoAGBYqdWFzdXMgcmFkZW9uIHJ4IDkwNzAgcHJpbWUgb2MgZ3JhcGhpY3MgY2FyZCBncHUgY2hpcHNldCBsZW5ndGhfbW0gbWVtb3J5X3R5cGUgcG93ZXJfY29ubmVjdG9ycyByZWNvbW1lbmRlZF9wc3VfdyB0ZHBfdzIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAB&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBl6BAgbEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=walmart+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&shoprs=CAEYAip1YXN1cyByYWRlb24gcnggOTA3MCBwcmltZSBvYyBncmFwaGljcyBjYXJkIGdwdSBjaGlwc2V0IGxlbmd0aF9tbSBtZW1vcnlfdHlwZSBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93IHRkcF93MgsIAhIHV2FsbWFydFi1sSBgAQ&sa=X&ved=2ahUKEwiLqer79eOVAxWj38kDHTixF3AQip4GKBp6BAgbEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+asus+radeon+rx+9070+prime+oc+graphics+card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=ASUS+Radeon+RX+9070+Prime+OC+Graphics+Card+gpu+chipset+length_mm+memory_type+power_connectors+recommended_psu_w+tdp_w&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "batch_id": "20260720T153625Z",
+  "status": "completed",
+  "market": "US",
+  "categories": [
+    "cpu",
+    "gpu"
+  ],
+  "discovered_count": 2,
+  "accepted_count": 2,
+  "rejected_count": 0,
+  "provider_calls": [
+    {
+      "provider": "ecb",
+      "status": "completed",
+      "published_at": "2026-07-20"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "cpu",
+      "result_count": 3
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 207,
+      "error": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 965,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 865,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 1022,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 1343,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "gpu",
+      "result_count": 3
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 225,
+      "error": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 330,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 583,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 364,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 318,
+      "error": "HTTPStatusError"
+    }
+  ],
+  "provider_status": {
+    "ecb": "completed",
+    "serpapi": "completed",
+    "serpapi-details": "completed",
+    "firecrawl": "failed",
+    "zyte": "failed",
+    "brightdata": "failed",
+    "apify": "failed"
+  },
+  "created_at": "2026-07-20T15:36:25.073960+00:00"
+}

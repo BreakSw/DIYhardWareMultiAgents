@@ -1,0 +1,872 @@
+{
+  "search_metadata": {
+    "id": "6a5e46dc0676dc3f80675e12",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oANozAfjWY3tqgkGQX-ALg/6a5e46dc0676dc3f80675e12.json",
+    "created_at": "2026-07-20 16:03:40 UTC",
+    "processed_at": "2026-07-20 16:03:40 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=LEZeavWbL9WSwbkPtc-DuAQ&q=latest+current+generation+desktop+PC+cooler+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A10394058075728500025%2Ccatalogid%3A7680823670886248338%2Cgpcid%3A7985008001646347242%2CheadlineOfferDocid%3A15487248515165458819%2Crds%3APC_7985008001646347242%7CPROD_PC_7985008001646347242%2CimageDocid%3A559548483482967983%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+cooler+component+released+2025+2026+new%2Cmid%3A576462823637859756%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0S29CbVVzTnFUSTRKYlFSTjl5Q004eWhmR2c4RlREOUFxZXV4OHc3alMtc1g3by1KWlc0cGFnNkxmdGEzTkw5WTJhYmxiU1I5ZXV1LXZyZDg4NmNRd3h2UWVqNXZBVFhFbHRKSTl4d3pieHdkNHNhYTJaLWZjZmMtRExXYWNBOWUxTzRoT05qTGlDcEM3d0stOWl5SXczVFdvRUVlbUpMaHFFSnJHb3cwOGpvY08zWC1RZVQxLTRzcEdOQnR0WWFEME01VGVWbE1oc213S3ZWSzVjQTB4X293ZUdiZmZadWktSmxJOE4wS21FNlp5VGlQOHNuMzVGNWdMM2hTV0xyZ1lLb0htcHU0WndOVFFYdlBTcThELTR3czdoQXh6MDRWbExRYjVQMDFPdFd6QldhOTlhenJpOThNWE8zZUFpSmM2UjJUWXkSF0xFWmVhdldiTDlXU3dia1B0Yy1EdUFRGiJBRHNyOWZTM0pBXzNPRUNOU1BZcy04RUxoVXNRN0dQVlBB%2Cxsrf%3AAF5tSO4V6UTKitJCIiFl2fwRqSMidw-m2g%3A1784563245095%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/oANozAfjWY3tqgkGQX-ALg/6a5e46dc0676dc3f80675e12.html",
+    "prettify_html_file": "https://serpapi.com/searches/oANozAfjWY3tqgkGQX-ALg/6a5e46dc0676dc3f80675e12.prettify",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "rr2MGXicbVNJjuNWDE1ygixygN4XCviapTRqYVmSbVmDNcvaGLL-tyXra7AGa0BOU5000Fl2AmSba3QvcpIsoso24YIE8Ug-kiD_-ub7V5T9ockRih_BWRMCZzjnhy55lvqV9aluKtgnXQZ_JwAl0IDhAcdwJM8AAEjmUxJ3Ma6uGfyNY3nAkxTLAZ5nSZqnKP5zimKIsxKZlwtqpCp5q8LQPLfADMEQLEMzPE8Iv2ZFfEX_4p8ZRlgilnSaJwWWE3jqQwPbL-RhfVqchZUHgGBplqKXKuRPB9uUTv-P_XLvUTN90XDcobZ7SvqmQWX3dEUlauIuq8oniNq8q-qnw_opqSqMmsUUdVW-hTUIo7hF8IlcxnxT7FOJhl-udfI263_ZPhRvzXOLT75tgeJ4RuAY9kP96F7T6899j9Gfr1f82revKX5F5ccqrh-X5Ot3P8jVIK3bYW15de1LNnBIYX32_dktFc9x7f0RK457w4wFAI2CtLDJhLaxLZueMkahT5vbhIqx3iXElTpPxD7ACUg2SmnkYwE38uzmAxO4anosxswjdsySQ2hhNEXSlTYKw4ZUSnqBfzfCSPSVVDlv7b3jYhpSdYa2MDe2Rnp01VgLoltU6J0tj-ExMEQz8EZ3tisXMHd3g6VE1ikI2s4MMOOEyewr8GF7Pj57tR5vFcUp1e2ZSgZzUz-OgJ-DNWFHvjVqrj0nMjSt0gZBoMi6DAh_4wdnmagSkqAcKgqc2b9ZrkiHpEBFHsyiIophkHdOMaqmTA8OSSgGrhl_gy1za_T67G-MAOo6mbo-GKeIwNoZpF2y9UBQQtNXlCPEopu4qbzwU8kMKytMWV2yF97RPt58S5eUA1Qga2GYmi5OUanWppsagczPkafUTqGT3k31gjB3FDAqQeGnEMPMlXDoUTCLCREcJ0KGnmJvMlW0t8ZkBpGrg1oMZ-Nge4bpEWKUTIC2vbHyQ8M2ALR8LIo_j21z-QJWCtM5Ju2znrvPOnW9yxRMXgb77ugZHJ4L8vojwfE0w1IkzQCB-biccZ6hr9_-vZLXLyuo-nLcEuerlfu6TgkU0sIDV5m4Jx-IS_N9vo7PzYacGB2eeD_WSvK5Ey8r6_2708lBy8eg5-UCDy8ro4iGGOCDalGPjNpwaiumh3FfXaI77-S9J7jZ0Urmm1H1XLPzaDa5zfbOiBX8yE4bfsdh6QS3MVHtI9cOqEIZzw4ND_hU1L0Z03fSwO_fSf5LMiqPk9oQFDjiVmNANO54k59FZVzJz2JZhrurjhx01Ad5tcj7d8ZOemEo6mWT8hPhUV1HWec54Dtem08KNkqahOp-atVqbzyO2dwKw4gHapVPRjiPw9FHuW2drfmYSCGRpWSKSLoD21ZUHkM-pb5M0uAEMq_R8oPsmA6tUZ5Cgn4NY4GmuQBphxW5TcusDyftXnKZVjnJPavWpr46cWxxdu6KIFyRKrLCZJfVAK3zPabFO_JzAGIrvwI_aohWl_YSZJ_VZOD3yOPZ4CIKHRRWnKf02669a5d7XUjWpBin5BA4U3FY1Uy6sfJcthihEdX2lntq5_TPnnv8B9aE754"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR1KVrUFje6kP84vViBGSW6hIk380a9sThB4IgLEagL1ndrMvWRzXuyfyfjmgSw28fUMxuBlxJPN39XcWJRz1arXm8pCoRlcxIbUoOhCIufX7WR12UQUtLi",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSXAoDxSwnxm6zjSmHQT0Qa_XztB2W4AMElbDaamzIJukEfbjvKdR2B4bPU-CJfc6-HWJun9EYm65QlNGMqB__huZd2KqJfOBMyHgf0aUmC5dT9Wd6SUGACDQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQBuC4cKWDQliJvmZF-z1waynMgleFZ_njQxRRkim56uXS4pXqFXEoPxO5OvJ-JE0XihJviLFs5KfML_jb4xNnPm5B-2wsIVYGCcvXBQw__qQWd2Y8fmExBYvs",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQBLpgaXvdhd_-op7ihvL76upx3n_eyoErToB15TgNUY-72_hzEzOrm08xjjjVE3m1ND2dvo_TYwqq9ksIc5XgmbSLRjDhewytGjscC9mABbN_S5IWiQGa66Q",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQXpoGm33Mye48sZtuGuX0ofDvMi2h-TZ889VNVVE7L00d7R2UoKEc5HumwdrHqQREC4--zKh9Tfg03Uiwwcye_fDSAowiyoMU8rZ9mZLnDJDfmDQqjnd0ffw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ__JJmCMooO79Le2RyFn9YO08R8kZF5X2-pp-jEJ8IaSKc-bmKEkuaY6h0n-y_HWts303mJwva4tpK8N49jdPYZjxH_HEQcb1_bhGNCPKoQQhOivL5R7oVpes",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT8x7IQnh8MEPxXJuUiWnMPRT4fruiZ-h6P6LmBSYLV_9YLRdlmMfaeaGM72aX3vx4Qnj6jHPsrZGESv6mQDoKV5OK6t5IKq6FFU7kT_g9X5G7nPWs07aj0rD4",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTT87nbQ8UykFannowovp7MzrGsflSDcKXG_7-8_mByTYS086Ze32uCBOKh_GpNVdUw5Am8w9vxTaZZ2moXqlXr_EAib29oU29Qv4XuXDBqJgR1ES09O1IXKz4",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTcNIbz3H_HjhOOCsfMRi4OcQayaMh-gzZeBPr0egiCo9ZRnaTIPN8ebHcgvCowIMBuOKQ256QSE0NrWmqqfmznlQU1Jm3naOO59mSGGoKRVFEhDEk-fEF_3w",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQVtO7gTYFPMmscikrVS2GkN7Svzic_MakFMlTX65oxdl6wHkKbPxpWUOdzt7u9YRaAlQtBQ4a2rPgndAbqZtsAFkq62_aUFm5BZq31_Y5f8SLCis7-AQs0qTQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ412rM5nBp-aVOVT5WurTlRQEQJejtpA48hKLOd6UCm_Nqqusj2-zQnf3r_cKnqijObAHB9cH32PwS66YZvyIZkH-rTCwCetwogEsy_tjNWhH9PAdRDf6_Bho",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSpchTUDy5s5NBMQOU-VxMmzEObjWhvYFwqnC3C0VrFjE6EuXKokKkaXGpjHNpE8B6K-dj2clogUteEYsTAv5o3YbIVIehHXkDSzdlWLfK5jxwFyVHCzwBCvg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcScGT3nH1ICEWy7O9G-MjYZuzlvBzC1Gf0yfw910_rS2YJC5R_G8zAK1i3tlsgiXSNNbkVMlYiaWsE2VtGNCMONarcsmSyGHI_XJHbyMwoOGuitKzwOQ6vOOw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ8R8xJIH_WyBAg61tPTJqkbHgEEbQXhYTzLdK_VX3xHVVI8v2-TH7OFVW0JocuuogQyjeTWOEtu5hR7wI4fpniesntb5VrQJPKEY1270JrKdjCNoqtT9v7xg"
+    ],
+    "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+    "brand": "Phanteks",
+    "reviews": 20,
+    "rating": 4.2,
+    "price_range": "$137-$148",
+    "stores": [
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/p/N82E16835709305?item=N82E16835709305&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-liquid+%2F+water+cooling-_-phanteks-_-35709305&source=region&negg_topt=0",
+        "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler, Evolv X2-Design AIO Cap Design, 3x Performance D30-120 D-RGB Fans, for Intel LGA 1851, 1700, 120",
+        "rating": 4.4,
+        "reviews": 2240,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "discount": "10% off",
+        "price": "$125.99",
+        "extracted_price": 125.99,
+        "original_price": "$139.99",
+        "extracted_original_price": 139.99,
+        "shipping": "Free",
+        "total": "$125.99",
+        "extracted_total": 125.99
+      },
+      {
+        "name": "Phanteks",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.phanteks.store&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.phanteks.store/products/glacier-one-360d30-x2?variant=41618565300279&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorVQOk6tN8XVrH_maFtR0bsO6XuP6B4_4lv1p005f-9SxUgdBWeIOs",
+        "title": "Phanteks Glacier One 360D30 X2 All in One Liquid CPU Cooler Black",
+        "payment_methods": "PayPal, Google Pay, Shop Pay & more accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Jul 24 – 30 $12.99",
+          "30-day returns"
+        ],
+        "price": "$139.99",
+        "extracted_price": 139.99,
+        "shipping": "+ $12.99",
+        "shipping_extracted": 12.99,
+        "total": "$152.98",
+        "extracted_total": 152.98
+      },
+      {
+        "name": "Techinn.com",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tradeinn.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.tradeinn.com/techinn/en/phanteks-glacier-one-drgb-liquid-cooling-360-mm/142643033/p?utm_source=google_products&utm_medium=merchant&id_producte=149911842&country=us&srsltid=AfmBOoqvJDyweQF-1eN69DTJyALuwfw4K_XyeUVeaqzVtSfEU-4HoMu3o0Q",
+        "title": "Phanteks Glacier One Drgb Liquid Cooling 360 Mm Clear",
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $56.99",
+          "30-day returns"
+        ],
+        "discount": "7% off",
+        "price": "$160.49",
+        "extracted_price": 160.49,
+        "original_price": "$172.57",
+        "extracted_original_price": 172.57,
+        "shipping": "+ $56.99",
+        "shipping_extracted": 56.99,
+        "total": "$217.48",
+        "extracted_total": 217.48
+      }
+    ],
+    "stores_next_page_token": "g90y5nica15aklmSk3rTJCAjMa8kNbtYwT0nMTkztUjBPy9VwdjMwMXYQCHCSMHR01_BJ7OwNDNFwTkgVME5Pz8ntWhJcX5RJvPi3Lx8LgC1pxkh",
+    "about_the_product": {
+      "title": "Phanteks Glacier One 360D30 X2 | Black",
+      "link": "https://phanteks.com/product/glacier-one-360d30-x2-black/",
+      "displayed_link": "phanteks.com",
+      "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fphanteks.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "The Phanteks Glacier One 360D30 X2 features a 360mm radiator paired with three 30mm thick D30-120 D-RGB fans for high-performance cooling in modern PC builds. It includes an Evolv X2-design aluminium pump cover with an integrated fan to cool nearby VRMs and M.2 SSDs, and supports Intel LGA 115x/1200/1700/1851 and AMD AM4/AM5 sockets for broad compatibility. The AIO offers full-spectrum D-RGB lighting, daisy-chained fan and RGB control for cleaner cable management and a sleek, modern aesthetic.",
+      "features": [
+        {
+          "title": "Socket Compatibility",
+          "value": "LGA 1851, AM4, AM5, LGA 115X, LGA1200"
+        },
+        {
+          "title": "Cooling Capacity",
+          "value": "Extra cooling to surrounding VRMs and M.2 SSDs"
+        },
+        {
+          "title": "Depth",
+          "value": "120 mm (Radiator)"
+        },
+        {
+          "title": "Height",
+          "value": "30 mm (Fan)"
+        },
+        {
+          "title": "Width",
+          "value": "397 mm (Radiator)"
+        },
+        {
+          "title": "Weight",
+          "value": "2722 G"
+        },
+        {
+          "title": "Radiator Support",
+          "value": "360 mm"
+        },
+        {
+          "title": "Airflow",
+          "value": "72.72 cfm"
+        },
+        {
+          "title": "Cooling Noise Level",
+          "value": "35.13 dBA (Fan)"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Liquid cooling"
+        },
+        {
+          "title": "Fan Mount Size",
+          "value": "120mm"
+        },
+        {
+          "title": "Included Fans",
+          "value": "D30 fans (interconnect into a single 360 frame)"
+        },
+        {
+          "title": "Fan Diameter",
+          "value": "120 mm"
+        },
+        {
+          "title": "Fan Speed",
+          "value": "250 \t– 2000 \t± 10% RPM"
+        },
+        {
+          "title": "Bearing Type",
+          "value": "Ceramic bearing (pump)"
+        },
+        {
+          "title": "Cooling Static Pressure",
+          "value": "3.01 mm H₂O"
+        },
+        {
+          "title": "Material",
+          "value": "Copper (base and fin array), Aluminum (cap cover)"
+        },
+        {
+          "title": "Thickness",
+          "value": "30 mm (Phanteks D30 fans)"
+        },
+        {
+          "title": "Lighting",
+          "value": "D- RGB"
+        },
+        {
+          "title": "Cable Management",
+          "value": "Simplifying cable management (D30 fans interconnect into a single 360 frame), D-RGB lighting and fan control are streamlined through one cable"
+        },
+        {
+          "title": "Design Highlights",
+          "value": "D-RGB lighting"
+        },
+        {
+          "title": "Lighting Type",
+          "value": "D-RGB"
+        },
+        {
+          "title": "Lighting Highlights",
+          "value": "Visible from all sides of the D30 frame (D-RGB lighting)"
+        },
+        {
+          "title": "Power Connector",
+          "value": "4-pin PWM (fan)"
+        },
+        {
+          "title": "Voltage",
+          "value": "12V (Pump)"
+        },
+        {
+          "title": "Current",
+          "value": "0.28A – 0.45A (Pump)"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "High-end CPUs"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Gamers, Professionals"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Aluminum cap cover with an integrated fan for extra cooling to surrounding VRMs and M.2 SSD"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Size (Radiator, Height)",
+        "items": [
+          {
+            "snippet": "about the Glacier One's aesthetic is that the white colour of this AIO's radiator is not a perfect match for this AIO's fans",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/cases_cooling/phanteks_glacier_one_360d30_cpu_liquid_cooler_review/4/",
+            "source": "OC3D",
+            "title": "Phanteks' Glacier One 360D30 CPU Liquid Cooler Review"
+          },
+          {
+            "snippet": "now this is obviously 150 and it does perform better than the 100 pound models.",
+            "timestamp": "From 4:18",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRNX8wZ3_U082xs4A45yE88HJu49Ec2C3KyMJIFfM7KpQzhOgWHOvG5NeCq5PPlqNPvdOPHVVaZE68n7YUNmfEk2myCeBKx1wvsY0Xa-g",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=UZGzBO9K8sA&t=258",
+            "user": "OC3D TV",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Good temperature regulation",
+            "snippet": "Very low CPU and VRM temp, good stuf.",
+            "user": "Andris S.",
+            "date": "7mo",
+            "source": "caseking.de"
+          }
+        ]
+      },
+      {
+        "title": "Design (Lighting, Pump)",
+        "items": [
+          {
+            "snippet": "Phanteks have clearly put a lot of effort into the aesthetic design of these new liquid coolers, and it shows.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/cases_cooling/phanteks_glacier_one_360d30_cpu_liquid_cooler_review/",
+            "source": "OC3D",
+            "title": "Phanteks' Glacier One 360D30 CPU Liquid Cooler Review"
+          },
+          {
+            "snippet": "now it looks beautiful they've gone to extra effort to uh tidy things up and make it look nice all the lighting is on point both with the fans.",
+            "timestamp": "From 3:49",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRNX8wZ3_U082xs4A45yE88HJu49Ec2C3KyMJIFfM7KpQzhOgWHOvG5NeCq5PPlqNPvdOPHVVaZE68n7YUNmfEk2myCeBKx1wvsY0Xa-g",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=UZGzBO9K8sA&t=229",
+            "user": "OC3D TV",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Attractive",
+            "snippet": "even when I switched the fans for worse performing ones which fit better for aesthetics. Has a clean look and has been silent so far.",
+            "date": "9mo",
+            "source": "overclockers.co.uk"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "pros": [
+              "Efficient heat transfer",
+              "Significantly reducing cable clutter"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/cooling/joao-silva/phanteks-launches-new-glacier-one-d30-x2-aio-liquid-coolers/",
+            "date": "1y",
+            "source": "KitGuru",
+            "title": "Phanteks launches new Glacier One D30 X2 AIO liquid coolers"
+          },
+          {
+            "pros": [
+              "Excellent clearance for various system builds",
+              "Seamless connectivity",
+              "Stylish design"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tech-critter.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tech-critter.com/phanteks-glacier-one-d30-x2-aio-cooler/",
+            "date": "1y",
+            "source": "Tech Critter",
+            "title": "Phanteks releases the brand-new Glacier One D30 X2 high-performance AIO liquid cooler"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 2
+      },
+      {
+        "stars": 4,
+        "amount": 3
+      },
+      {
+        "stars": 5,
+        "amount": 13
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSAA5rU3XueVGtrs1VFqDDt8zsNntP1VpuRvPH_iEepf1CZWW-Tt9FHhsq_kKCgZ1dzAl0gA-09TR4qgDPBg_3ex-TKkUwq",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRcaTeh-kOU1-7dgYFCpIxtg82L8X0AiQTrv-IZNAYvtp6R4zPqrgFD9cJ5Mu7hJgnusKpsjFDkvXz7Ni3XbkwAOw00sT79",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcShDzwh4sE-hTKSHE9ydY6XvneBbr_UXUR0JVkq0iZJQeL-J6jbW1TTX85G27K_68d3R-XxrhlVOjyZrxjH97jo5PvQYfn6",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSmoEAEoqq3IIw8tBzuR9C1YLQzlAakKt97is-e2E5SUsmapgc7FI8NxHMD2zrNTcA0Jihv3xFqdvLxwyXN5Id5oLHYRdyD5w",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRKYjjviZ100LGGGdZQ7tOZlOpMHUsq4ggefsA0Lcskiq7vwjb2gNDK6I7aV5rBoSgfv6UeFQyBKGxUqZlylGplY8yPliw9bA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT9fJAY9g2U-KEohC94MZPLXafO3bjNcRFFZC_nahMAhy8dyV51JIYjaLonbpWwvK671-Ui55suS4f_zzYRN4bkF4ZphPiSSA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTpGH81IHeRsImRPJNfSjthAfJO_uSco9Pz0zJkCnT1MPa4vvt_KkDLQrAvwsJbE7KOtVFUu7UyO0HtKFR3Vx1c3NkvtplTLQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSUzqjPmpZoGEaKt-6sI30rHhB9fUo7D5bet5U4KdBdAxRZ8XM8mJMVighg6WOF9buUG6PHjf7Rqfg7sJ-t4K1LRKS2OEvhjw"
+    ],
+    "user_reviews": [
+      {
+        "title": "Silent & Clean",
+        "text": "Kept my 7800X3D under 75c in all gaming sessions even when I switched the fans for worse performing ones which fit better for aesthetics. Has a clean look and has been silent so far.",
+        "source": "overclockers.co.uk",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2caRtLOuLToXstjBAIbQkKyLEbgwkvuSO8cbBV7DTq3zsL_nGmco2-v7c7qJDRwUG6bw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "The good and the bad",
+        "text": "The good:\n* Looks great.\n* Cools better than my previous Phanteks D30 model without the little fan in the AIO block.\n* RGB works seamlessly with MSI Centre.\nThe bad:\n* THE FREAKING NOISE! You know that sound when there's a mosquito in the room? It's like that. High-pitched, not so loud that people standing a few metres away will hear it, but when you're literally right next to it. You'd better pray you have headphones on. It's enough to make me want to replace it. The problem is obviously that little fan blowing air onto the VRM. Whilst it certainly seems to help with temperatures, it's spinning at such high RPM that I suppose it's inevitable there'll be some noise. I'm now looking into how to disable the fan.",
+        "user_name": "Blake R.",
+        "source": "pccasegear.com",
+        "rating": 3,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1Lrg4V1AgxtQoHzCB9Pyer8qJyAwvsNldfqnYK1MAn9zmHGLZ025Qab8LKLKGP5e7GAw=w40-h40-c0x00000000-cc",
+        "incentivized": true
+      },
+      {
+        "text": "Performance:good performance\n\nReceived in good condition, the rhb light is awesome and the fan is quiet",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSAA5rU3XueVGtrs1VFqDDt8zsNntP1VpuRvPH_iEepf1CZWW-Tt9FHhsq_kKCgZ1dzAl0gA-09TR4qgDPBg_3ex-TKkUwq",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRcaTeh-kOU1-7dgYFCpIxtg82L8X0AiQTrv-IZNAYvtp6R4zPqrgFD9cJ5Mu7hJgnusKpsjFDkvXz7Ni3XbkwAOw00sT79"
+        ]
+      },
+      {
+        "text": "Received in good condition without any physical damage.. thank you",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcShDzwh4sE-hTKSHE9ydY6XvneBbr_UXUR0JVkq0iZJQeL-J6jbW1TTX85G27K_68d3R-XxrhlVOjyZrxjH97jo5PvQYfn6"
+        ]
+      },
+      {
+        "text": "Ein angemessener – oder sogar sehr guter – Preis für diese Materialqualität.\nIch bin sehr zufrieden.",
+        "user_name": "Konstantinos K.",
+        "source": "caseking.de",
+        "rating": 5,
+        "date": "2 weeks ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3eHhKowD5NH8yIsk9npjPKlzPdJUMaXcSSuceI5dAZr-47kCMxSd-YfBLWKUyxnJKkLw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSmoEAEoqq3IIw8tBzuR9C1YLQzlAakKt97is-e2E5SUsmapgc7FI8NxHMD2zrNTcA0Jihv3xFqdvLxwyXN5Id5oLHYRdyD5w",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRKYjjviZ100LGGGdZQ7tOZlOpMHUsq4ggefsA0Lcskiq7vwjb2gNDK6I7aV5rBoSgfv6UeFQyBKGxUqZlylGplY8yPliw9bA",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT9fJAY9g2U-KEohC94MZPLXafO3bjNcRFFZC_nahMAhy8dyV51JIYjaLonbpWwvK671-Ui55suS4f_zzYRN4bkF4ZphPiSSA"
+        ]
+      },
+      {
+        "text": "CP值:高\n效能:電腦使用\n品質:優\n\n收到貨後,功能好散熱佳,相信有需要的話,會再回購的!",
+        "source": "shopee.tw",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0NgFEPzLc8aTEX7RLO7DEzxeFt1wnQIkojlV_mBIxVE1NxK44jHd_-67TnSxGOUzWNEg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTpGH81IHeRsImRPJNfSjthAfJO_uSco9Pz0zJkCnT1MPa4vvt_KkDLQrAvwsJbE7KOtVFUu7UyO0HtKFR3Vx1c3NkvtplTLQ"
+        ]
+      },
+      {
+        "text": "品質:超讚的出貨速度,超讚的商品品質,超讚的CP值,值得推薦的賣家",
+        "source": "shopee.tw",
+        "rating": 5,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0NgFEPzLc8aTEX7RLO7DEzxeFt1wnQIkojlV_mBIxVE1NxK44jHd_-67TnSxGOUzWNEg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSUzqjPmpZoGEaKt-6sI30rHhB9fUo7D5bet5U4KdBdAxRZ8XM8mJMVighg6WOF9buUG6PHjf7Rqfg7sJ-t4K1LRKS2OEvhjw"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Phanteks Glacier One 360D30 AIO CPU Watercooler Review",
+        "link": "https://www.youtube.com/watch?v=UZGzBO9K8sA",
+        "source": "YouTube",
+        "channel": "OC3D TV",
+        "duration": "7:23",
+        "thumbnail": "https://i.ytimg.com/vi/UZGzBO9K8sA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mu-icwwq4cN-QzpCBDU3nfnAcrTw"
+      },
+      {
+        "title": "Шикарная белая СЖО PHANTEKS Glacier One 360D30 X2 White ...",
+        "link": "https://www.youtube.com/watch?v=HnGdDPv6ZJc",
+        "source": "YouTube",
+        "channel": "proSSD",
+        "duration": "11:44",
+        "thumbnail": "https://i.ytimg.com/vi/HnGdDPv6ZJc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3llvJ6e9JpfHM05wLxf0tVJSMdV0g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTh6gkByXQlihoAKen54a7cuSggxaaxvdEtJA"
+      },
+      {
+        "title": "Phanteks Glacier One 360D30: The Coolest CPU Cooler You’ll Ever ...",
+        "link": "https://www.youtube.com/watch?v=wku1naVBgyc",
+        "source": "YouTube",
+        "channel": "Top 5 Wiki",
+        "duration": "2:18",
+        "thumbnail": "https://i.ytimg.com/vi/wku1naVBgyc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mns1VGl7E2IyInIkR5czSLieTV8w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcS7judXpQ8QUbzUdpoxm0MdTJOl8FGar4AzZQ"
+      },
+      {
+        "title": "Phanteks Glacier One D30 X2 AIO Liquid CPU Cooler Launched ...",
+        "link": "https://www.youtube.com/watch?v=_pVYvHxYV_s",
+        "source": "YouTube",
+        "channel": "The Tech Legends Niks",
+        "duration": "1:42",
+        "thumbnail": "https://i.ytimg.com/vi/_pVYvHxYV_s/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k1ZoMgkZGyq03OviJARE08zR-z9w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQP9OSNBrHZqL2L9LdHnbf5tXveiwEaJgtORg"
+      },
+      {
+        "title": "Phanteks Glacier One 360 T30 Gen2 – Installation Guide",
+        "link": "https://www.youtube.com/watch?v=Dk1nssEJiTI",
+        "source": "YouTube",
+        "channel": "Christopher Flannigan",
+        "duration": "9:02",
+        "thumbnail": "https://i.ytimg.com/vi/Dk1nssEJiTI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mpl4kYN67NTTy6lLBaIxBG1ItmBQ"
+      },
+      {
+        "title": "Phanteks Glacier One 360D30 X2 White AIO Liquid Cooler & D30 ...",
+        "link": "https://manuals.plus/video/94330b97d9ccb730d97317eb10f7e5a10e6cc69e42bb771f8916b793e9196f13",
+        "source": "Manuals.plus",
+        "duration": "0:21",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRGwBts9CABwVojpf-PgHEXXuDvrBtzm_rNX4-OR505kH-Sw&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQL23ifmG8yjSoQuQandLGUesezMaGA5FUJDg"
+      },
+      {
+        "title": "Ryzen 9800X3D vs PHANTEKS Glacier One",
+        "link": "https://www.youtube.com/watch?v=Z_aNqk2g5_8",
+        "source": "YouTube",
+        "channel": "DeezLab",
+        "duration": "12:49",
+        "thumbnail": "https://i.ytimg.com/vi/Z_aNqk2g5_8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ll0JI_FQt4_LTPcYdcwwbsydTuvA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR0XYoeZmGyWuSQqhks7j0EsMa2PKKcHGqAvA"
+      },
+      {
+        "title": "Phanteks Glacier One 360D30 X2 White AIO Liquid CPU Cooler ...",
+        "link": "https://manuals.plus/video/78d587921d3f8963d5adf873f9d9625ce24420b66f8d996a150b4c7b6d280b0c",
+        "source": "Manuals.plus",
+        "duration": "0:21",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfjXgCMLhkmraCNXkCPeql5EyaKz0rK6k3P9ZoZtxaCnP6ww&s="
+      },
+      {
+        "title": "Unboxing Phanteks Glacier One 360 D30 AIO Cooler",
+        "link": "https://www.tiktok.com/@grigobyte/video/7461348615341067542",
+        "source": "TikTok",
+        "channel": "grigobyte",
+        "duration": "0:56",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUrxWjTfWdKvGLM82SF0AVllf8sCKe01XCWbSgpzrrlDkJug&s="
+      },
+      {
+        "title": "Phanteks on Instagram: \"Meet the Glacier One D30 X2 - our newest ...",
+        "link": "https://www.instagram.com/p/DI2JGe6zwhG/",
+        "source": "Instagram",
+        "channel": "Phanteks",
+        "duration": "0:03",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxh2imYNYDqDm8foSuzbnNodC-3uSAgWZoF9gJet-xucu0oQ&s="
+      },
+      {
+        "title": "Phanteks Glacier One 360D30: Cooler Terbaik untuk PC",
+        "link": "https://www.tiktok.com/@afiqchii/video/7392950626658880785",
+        "source": "TikTok",
+        "channel": "afiqchii",
+        "duration": "0:44",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8jSduREzwxL3HDnF8ygPE6vlMeTo4Ib-n-p50u_fTchi9Qw&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRZ8ZMm1ueSqHP8vJUKBCsdY6LFS5ixsuXX9w"
+      },
+      {
+        "title": "R.I.P Arctic Liquid Freezer?! Phanteks Glacier One G2 im Härtetest!",
+        "link": "https://www.youtube.com/watch?v=kst-cX5oBzo",
+        "source": "YouTube",
+        "channel": "RGBibelOfficial",
+        "duration": "12:15",
+        "thumbnail": "https://i.ytimg.com/vi/kst-cX5oBzo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l90btwK1OYWiziLvJ2ws15uY3QTg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR460boyukAeAjnD8dHcBSoBi6MvsHxCHjz8w"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Phanteks Introduces The New Glacier One D30 240 and 360 AIO Coolers",
+        "link": "https://www.techpowerup.com/forums/threads/phanteks-introduces-the-new-glacier-one-d30-240-and-360-aio-coolers.311997/",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "Its sleek and compact design allows for maximum clearance with motherboard and RAM components, ensuring compatibility with a wide range of PC configurations.",
+            "link": "https://www.techpowerup.com/forums/threads/phanteks-introduces-the-new-glacier-one-d30-240-and-360-aio-coolers.311997/#:~:text=Its%20sleek%20and%20compact%20design%20allows%20for,with%20a%20wide%20range%20of%20PC%20configurations."
+          },
+          {
+            "snippet": "This innovative design eliminates cable clutter and simplifies the installation process, making it easier than ever to achieve a clean and organized build.",
+            "link": "https://www.techpowerup.com/forums/threads/phanteks-introduces-the-new-glacier-one-d30-240-and-360-aio-coolers.311997/#:~:text=This%20innovative%20design%20eliminates%20cable%20clutter%20and,to%20achieve%20a%20clean%20and%20organized%20build."
+          },
+          {
+            "snippet": "The cooler's large copper base and fin array ensure efficient heat dissipation, making it the perfect cooling solution for high-end CPUs.",
+            "link": "https://www.techpowerup.com/forums/threads/phanteks-introduces-the-new-glacier-one-d30-240-and-360-aio-coolers.311997/#:~:text=The%20cooler's%20large%20copper%20base%20and%20fin,the%20perfect%20cooling%20solution%20for%20high%2Dend%20CPUs."
+          }
+        ]
+      },
+      {
+        "title": "Phanteks Launches Glacier One D30 X2 AIO Liquid CPU Cooler",
+        "link": "https://www.techpowerup.com/forums/threads/phanteks-launches-glacier-one-d30-x2-aio-liquid-cpu-cooler.335929/",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "A large copper base and optimized fin array provide outstanding thermal performance for even the most demanding CPUs.",
+            "link": "https://www.techpowerup.com/forums/threads/phanteks-launches-glacier-one-d30-x2-aio-liquid-cpu-cooler.335929/#:~:text=A%20large%20copper%20base%20and%20optimized%20fin,performance%20for%20even%20the%20most%20demanding%20CPUs."
+          },
+          {
+            "snippet": "Designed with maximum clearance in mind, the Glacier One D30 X2 fits seamlessly into a wide range of builds, while the brushed aluminium pump cover with an inte",
+            "link": "https://www.techpowerup.com/forums/threads/phanteks-launches-glacier-one-d30-x2-aio-liquid-cpu-cooler.335929/#:~:text=Designed%20with%20maximum%20clearance%20in%20mind%2C%20the,brushed%20aluminium%20pump%20cover%20with%20an%20inte"
+          },
+          {
+            "snippet": "Supports Intel LGA 1700/1200/115x and AMD AM4/AM5 sockets",
+            "link": "https://www.techpowerup.com/forums/threads/phanteks-launches-glacier-one-d30-x2-aio-liquid-cpu-cooler.335929/#:~:text=Supports%20Intel%20LGA%201700/1200/115x%20and%20AMD%20AM4/AM5%20sockets"
+          }
+        ]
+      },
+      {
+        "title": "Question - Phanteks cooling, MSI motherboard ?",
+        "link": "https://forums.tomshardware.com/threads/phanteks-cooling-msi-motherboard.3887680/",
+        "source": "Tom's Hardware",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fforums.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "9 months ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "Thank you very much for your answers. When I was doing the math, I missed that the AIO has three fans connected to it - so we're looking at 10 fans total. I think this may be a case where I have to have them in hand to really nail it down, since the manual is 'eh' and most videos are running a hub.\n\nAs you recommend, I do plan on grouping the front, bottom, and AIO fans into three separate sets of three. I'll have to daisy chain the lone rear fan into either the AIO or bottom fans - whichever is neater I suppose - since otherwise there would be four \"groups\" and only three ARGB headers.",
+            "link": "https://forums.tomshardware.com/threads/phanteks-cooling-msi-motherboard.3887680/post-23550604"
+          },
+          {
+            "snippet": "Multiple D30-120 fan frames can be linked together as one with bridge connectors and screw cover plates to reduce cables, resulting in extremely clean builds.",
+            "link": "https://forums.tomshardware.com/threads/phanteks-cooling-msi-motherboard.3887680/#:~:text=Multiple%20D30%2D120%20fan%20frames%20can%20be%20linked,reduce%20cables%2C%20resulting%20in%20extremely%20clean%20builds."
+          },
+          {
+            "snippet": "Since you have 3 ARGB headers, you can group your fans into 3 areas, each with a max of 4 fans daisychained.",
+            "link": "https://forums.tomshardware.com/threads/phanteks-cooling-msi-motherboard.3887680/#:~:text=Since%20you%20have%203%20ARGB%20headers%2C%20you,with%20a%20max%20of%204%20fans%20daisychained."
+          },
+          {
+            "snippet": "1) This board has 4 system fan connectors with a max current of 1 amp and max power of 12 watts each.",
+            "link": "https://forums.tomshardware.com/threads/phanteks-cooling-msi-motherboard.3887680/#:~:text=1)%20This%20board%20has%204%20system%20fan,and%20max%20power%20of%2012%20watts%20each."
+          }
+        ]
+      },
+      {
+        "title": "Phanteks Glacial AIO variable rpm / curve ok for lifespan of pump? : r/Phanteks",
+        "link": "https://www.reddit.com/r/Phanteks/comments/y8p12j/phanteks_glacial_aio_variable_rpm_curve_ok_for/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 years ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "Rule of thumb is that varying pump RPM shortens lifespan of the pump. I just tend to set it to 100% and not bother with it.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/y8p12j/comment/it1arn5/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "A static RPM is preferred. It doesn't need to be 100%, whatever just sounds good acoustics wise and temperature wise",
+            "link": "https://www.reddit.com/r/Phanteks/comments/y8p12j/comment/itcviri/",
+            "votes": 2
+          },
+          {
+            "snippet": "At 900~1000rpm, the pump can't be heard when the case is closed.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/y8p12j/phanteks_glacial_aio_variable_rpm_curve_ok_for/#:~:text=At%20900~1000rpm%2C%20the%20pump%20can't%20be%20heard%20when%20the%20case%20is%20closed."
+          },
+          {
+            "snippet": "Temperatures are great, even at 900 rpm so I know the flow is fine.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/y8p12j/phanteks_glacial_aio_variable_rpm_curve_ok_for/#:~:text=Temperatures%20are%20great%2C%20even%20at%20900%20rpm%20so%20I%20know%20the%20flow%20is%20fine."
+          },
+          {
+            "snippet": "Dual Water Cooling.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/y8p12j/phanteks_glacial_aio_variable_rpm_curve_ok_for/#null"
+          }
+        ]
+      },
+      {
+        "title": "Opinions on Phanteks Glacier One D30 360mm AIO",
+        "link": "https://forums.overclockers.co.uk/threads/opinions-on-phanteks-glacier-one-d30-360mm-aio.18996437/",
+        "source": "Overclockers",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fforums.overclockers.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Glacier One is excellent and most importantly the pump is silent.",
+            "link": "https://forums.overclockers.co.uk/threads/opinions-on-phanteks-glacier-one-d30-360mm-aio.18996437/#:~:text=Glacier%20One%20is%20excellent%20and%20most%20importantly%20the%20pump%20is%20silent."
+          },
+          {
+            "snippet": "The pump noise was perceptible, not louder than the fans under load, but the frequency certainly made it perceptible.",
+            "link": "https://forums.overclockers.co.uk/threads/opinions-on-phanteks-glacier-one-d30-360mm-aio.18996437/#:~:text=The%20pump%20noise%20was%20perceptible%2C%20not%20louder,but%20the%20frequency%20certainly%20made%20it%20perceptible."
+          },
+          {
+            "snippet": "The Glacier I've tried was very quiet, very good fans.",
+            "link": "https://forums.overclockers.co.uk/threads/opinions-on-phanteks-glacier-one-d30-360mm-aio.18996437/#:~:text=The%20Glacier%20I've%20tried%20was%20very%20quiet%2C%20very%20good%20fans."
+          }
+        ]
+      },
+      {
+        "title": "A question for owners of the GLACIER ONE 360D30 X2 : r/Phanteks",
+        "link": "https://www.reddit.com/r/Phanteks/comments/1kss9fc/a_question_for_owners_of_the_glacier_one_360d30_x2/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "I've been very happy with it and it looks great in my NV5 case",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1kss9fc/a_question_for_owners_of_the_glacier_one_360d30_x2/#:~:text=I've%20been%20very%20happy%20with%20it%20and%20it%20looks%20great%20in%20my%20NV5%20case"
+          },
+          {
+            "snippet": "Its a great AIO and you do NOT need the Nexlinq hub.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1kss9fc/a_question_for_owners_of_the_glacier_one_360d30_x2/#:~:text=Its%20a%20great%20AIO%20and%20you%20do%20NOT%20need%20the%20Nexlinq%20hub."
+          },
+          {
+            "snippet": "My pump and all RGB even the one on small fan also works but small rgb on pump head doesn't spin despite ligthing up and pump working.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1kss9fc/a_question_for_owners_of_the_glacier_one_360d30_x2/#:~:text=My%20pump%20and%20all%20RGB%20even%20the,spin%20despite%20ligthing%20up%20and%20pump%20working."
+          }
+        ]
+      },
+      {
+        "title": "Phanteks Glacier One 360D30 X2 DRGB : r/Phanteks",
+        "link": "https://www.reddit.com/r/Phanteks/comments/1q67ume/phanteks_glacier_one_360d30_x2_drgb/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "6 months ago",
+        "items": [
+          {
+            "snippet": "The hub has two of the long specific Phanteks ports, one of the Fan RGB Ports (That you can infinitely daisy chain seemingly), and a 4 pin fan PWN header.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1q67ume/phanteks_glacier_one_360d30_x2_drgb/#:~:text=The%20hub%20has%20two%20of%20the%20long,and%20a%204%20pin%20fan%20PWN%20header."
+          },
+          {
+            "snippet": "The AIO special phanteks plug goes right into the hub.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1q67ume/phanteks_glacier_one_360d30_x2_drgb/#:~:text=The%20AIO%20special%20phanteks%20plug%20goes%20right%20into%20the%20hub."
+          },
+          {
+            "snippet": "The hub itself is powered by a 6 Pin PCIE and then plugs in via a USB header.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1q67ume/phanteks_glacier_one_360d30_x2_drgb/#:~:text=The%20hub%20itself%20is%20powered%20by%20a,then%20plugs%20in%20via%20a%20USB%20header."
+          }
+        ]
+      },
+      {
+        "title": "Phanteks.. You absolutely killed it with the Glacer One x2 AIO + D30 fans!!! VERY pleased... : r/Phanteks",
+        "link": "https://www.reddit.com/r/Phanteks/comments/1mbh2qq/phanteks_you_absolutely_killed_it_with_the_glacer/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "11 months ago",
+        "items": [
+          {
+            "snippet": "My VRMs get very hot and this does an amazing job at keep them cool as well as cooling down my memory and M. 2 heatsink which my gen5 SSD desperately needs.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1mbh2qq/phanteks_you_absolutely_killed_it_with_the_glacer/#:~:text=My%20VRMs%20get%20very%20hot%20and%20this,heatsink%20which%20my%20gen5%20SSD%20desperately%20needs."
+          },
+          {
+            "snippet": "An absolute engineering marvel in the PC case industry.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1mbh2qq/phanteks_you_absolutely_killed_it_with_the_glacer/#:~:text=An%20absolute%20engineering%20marvel%20in%20the%20PC%20case%20industry."
+          },
+          {
+            "snippet": "Literally the best AIO and fans I've ever used hands down.",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1mbh2qq/phanteks_you_absolutely_killed_it_with_the_glacer/#:~:text=Literally%20the%20best%20AIO%20and%20fans%20I've%20ever%20used%20hands%20down."
+          }
+        ]
+      },
+      {
+        "title": "Help Cable Management Glacier One D30X2 : r/Phanteks",
+        "link": "https://www.reddit.com/r/Phanteks/comments/1m4ub8k/help_cable_management_glacier_one_d30x2/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Decent cable management",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1m4ub8k/help_cable_management_glacier_one_d30x2/#null"
+          },
+          {
+            "snippet": "Easiest cable management ever",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1m4ub8k/help_cable_management_glacier_one_d30x2/#:~:text=Easiest%20cable%20management%20ever"
+          },
+          {
+            "snippet": "I don't know if I'm doing something wrong but first of all I don't understand how to connect the Glacier with its fans together without a hub...",
+            "link": "https://www.reddit.com/r/Phanteks/comments/1m4ub8k/help_cable_management_glacier_one_d30x2/#:~:text=I%20don't%20know%20if%20I'm%20doing%20something,with%20its%20fans%20together%20without%20a%20hub"
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "TRYX Panorama SE 360 ARGB Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT-zerz3CECxQ6TTbRGLmHHunXWpCglKGDnNvUVexc0iDCvabuxjE8ctq--7CavgBOJV5AUVHXwBbFmcPFwgDcZPeGrBY_ppniqn6MjdIppTcwY96bXFClObVI",
+        "price": "$279.99",
+        "extracted_price": 279.99,
+        "reviews": 20,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3De6ZHicbVTLrts2EC2y7qJAvyEr4wIk9e7OsiTbsixbL8rSxpBF2pJFPayHX8jX3DQB0mVaoNv-RrLot1QX3YYghouZ4Zkhz5l_f_rlleZ_W3pMk2t4sJTQux2KbZ--aMPU-dK0NRnSPid_QcApPBBkIAkSkgUAABK-pEmfsPqUkz85SeI4hKCiiBLiAeRl-WtGE8Lyim6OR9pqdTqGSYIgQYHnoQgQQkACUPgjL5MT_d_NCQgIiqCMW0BQ4hRO-diS7hvazvYy5ACvQJETgQBkwAsQfNi6G23_Y9-ny0DbxzeLJT3t-kk6tC2t-smJVrRN-ryuJoR2RV83k-1sktY1o-14lE1dvYW1lNGko2SCxjbfjDip6O3TqXmr8gdoH8ucfBUkkReRrCBRhEhEgAMfm2v_mp1eT-x16F4z9kqrz3XSXI_p93e_6nWnzbrbzAmaBmsu8EoFx4WxSgK8WsM4d5AixAVUk4osY_12t3ZNhJnruohUQQ4E18C6_7QNGrDO4wxG540f6PiShgFImDEcQqWPYSymZ7sJd1mSVPjilHbkI2VJCzhb57DZhLBxS7awAmaRIDYos5E_h9cExVlgBMhdqHWwUG8YNTO3ijsSKoE_dy_pLgtsZgCv6Ct7wbZ4EQnECPowBzDm3NaHU-5QNN3hSWyqOdA-63AdmtfkaQy4KIAfuo8I6YJbxpEfQg5XuAjP8YZANfKKWHCgufILVztUDQ52zdr2M0bOxibCZrjZxW16ViPfwFpSNMsY44qwuMFz8-6eWezNGyOuGs0JZejqSp5WDnQRPntIqCNGeidkfDi3ff_JsiS0ubQ0rRjEVYhPNxKQGQ2a1q7se2LIfWKwcxgCPiyYuDGUOvWzgZTmztZiFs6BZ5xtIyxxRnas8oN7k3ImdLHKe09z8LGeLAtDT7mlEDMzcTw42E_MxYtY30HV3izsJCxjzYckSMd_DsP093vXHr-BqSH03ka8tgx3blB5pJZBcQe7ckmrZsuZvvMblGReEDkewZGcn0f-Fjn9_u7nqT57z2lTYo7YHTycnAKv16OMqLXbSvWGDehKpaxYFbPk0M7RQ1iTvYwTq0IvvXqcOu85dbLfe3SUC33xfHf7dptdxrcEsK3pcNecm0tmp2bb-6o-xhfZK4ZA8fPISZ9nux6kdhnwI-Oe7tIe3-6a7-fyUmLaniwSWK9i3w250rgfPJ5s2b5shk3CX5DN3nA1PIKld-O6N9tRYRHrLAHE96W8kZ-qcZ_qL2pV7ZanNfVotL7p03G95dlLbUwUOG6080x-wIDre845PEO5l63n3mB2xSNirh6dWa_sa5Q_O-V2ZzduWjzs3fN-izAtXOfgPKNU28E8QxlFfA8WnWpcb8Ujw_o40vYgD1qr2OrexuMtLjAQGGYkUXheCqm1naJFVuXD7mFdKim3ai-95PVss57uJbE8eBdDUU7UVEXl4Vb1jTiHS8KrF4oLABKnOAEct7BbayuNiC9mepNXNJDF8KgqPVGmUmAMi767WMdLU2rOw7D36Tb0HuV22gjZ3CkK3RGUVjW7cxGYvTe8BH40Dp_jP_8Boi7yew"
+      },
+      {
+        "title": "NZXT Kraken Plus AIO Liquid Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR1x8Wjmj7KCOJWvWqcj-iUxWrs3Vvdd8husxX-wevoBEGoEY-6-4G19TbCj5rwf2A8uL-2DJSyE_o0o8GBS90Bvzw3YARq3GngIHZe24ou5nCkbnaa6rs3",
+        "price": "$129.99",
+        "extracted_price": 129.99,
+        "original_price": "$180",
+        "extracted_original_price": 180,
+        "reviews": 150,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3K_SKHicbZTLrqNGEIajWWcRKc8wq6MjddNgIDvbgG0M2DTQYDYWl7bBXM3FYCtPcyYz0mQ5EynbvMbMIs8SLGU5vahe1F_1VUv1978__fJG07812afBzQ010bWGMNt30avUz83PdVPFfdSl8V8QIJEFnAB4jmcEDgDAcJ-joAvy6pzGX0WRgawgICQAiJA440X0JaFBnKcl3Z1OtJGq6NkFTjqRhRxCDBCgOON49GdaBGf6fx7MGMhDwIm8gFgWiFAQPzRx-43ZL4889-yMZiyLhBniEYCz3_d4Jx1_nPt47Wlz_6blQUfb7iXqm4aW3cuZlrQJurQqX2LaZl1Vv-yXL1FV5bSZrqKuyqesoTkNWhq_MNNDn2H2UtLh47mexvz6A9qHIo2_cPyMnTECI8KnAiIIPtS37i05v53zt759S_I3Wn6qgvp2ir6_-1WuWmnZDkvTqWsiYWCV6ilwYymWCGsQRQ4lo9DX6j0quBuW5gOxFcP3avcADAaXSuKT-GAXFevIhmZf1J64XWCUxlq_YFl3Eo_KURcSATlQnBjczixibKBkQS4LVVfUIcrUdbjKoe7VicckBV6JruYkPi5A5xYqiNYZciaGAZPOL4R74HCniWsGdpI4SzC4Mh5sqNh4hX1LMh--Et9cVx0DaCRRLqLIVoNQijWTUfBOqR87WR19T019lMsH58zGstpZRYtwLiaxZyiGImrYw14k-5KVx0vvYWDNi3sdGUv_DkucwdHMqsHIF5mekZu9Vow4E1gq4y25JAl2RyeAhzEGo6UzohFBsSWZAz1k5ISojm2r9SHzO52oF9vxeycTdzZROXuNU6zUh5AxKtOBnF2Ipq8YtumoKXaUm-6QOnz4h3i9YDQbY3etHMI8u1NbtpSLobgFmebPS9sZ6wipEJMFaz3U3iZysMkUOUIbzs9NGJG6sz1yt0h9dVxFJUzXBBKpI4C7COIdXkd_jG1z-gbmCtdZu9mtyUmLndKKKwFkI_CKDS3rPVJt8zfICyw3QywDp-X8NO1vltLv736ey8v3SJrH6sRuYXg2M6LrSERU8_Z8tct75kb5JNtmyyBsVsyd0-OjQAKtZF67xWluvkeLl-PRopNd6Ktl4_2zm1H4QwDyvWqiW4pWvNoukv24rU7-VbCy3hHt9GBGj4tR9XyzcdhZdHngjREo-S09roQNn0vHeB3Aauvb2EWFMoYWG-_zY1H3u4C9Mkb-5EpkgkWjcjuqDUTgkLcaB_xxI-yEx0IZ5_Lroiy9zVmnFj3ogzyfzrPO2EhT4eS4Ka4S4Q4d1HXIDB-u0Ana46jkRskysbq9t2q1NW6H9NGKw5gPaJ7dDe8xDgdCM2yG5uMQSR5MEyahDNuBdbtQbkN2T4jMsOAIUqfRsr1s7SxWQ47CgH4ZByLL8i7V9nNmnZRp7921a8mnWmVF17Ra7vT5kZ8VoXVVRPFM1cVMvOOyGmIzvAbs4kpJBkBgZmdA_Aa2urSV4tmrGg3CljrCzD0txC4W57yj9OuuvWqna11I5l0xjtHete7Ffl5zycrMMtnkxGahtpfMmVzVvzr2Yfp8Tv_8B_0K8os"
+      },
+      {
+        "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSMyPk16X_uY1x_zKb2msEaHpJZozmUKcKXNVWdbykM8_ShMftCjrxc6QSp-D3TO8947w0cAAnRDESzSLM3hYd2K5DZ0XvJUS4Chr-ScbGv",
+        "price": "$259.99",
+        "extracted_price": 259.99,
+        "original_price": "$280",
+        "extracted_original_price": 280,
+        "reviews": 510,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Jv-vVXicbZS5juNGEIaNjR0Y8DM4Egbog6czUWJLonjfYiJQZEvk8BQPHYSfZtZrwA7XBpz6NXYDP4s5jreD6qCOv-pDdf_73Q9vNP9blSMa34KTKgbO_VSYQ_KyHpfW723XpGMy5OlfEGCRAawAeJZHAgsAQOzvSTzEZXPJ0z9FkYMYiwIHRShwGDA8-pzROC3zmhrnM-3WTTKHMZARABJ5AUIGcQiwUPgjr-IL_d_9GcG5LCcwHIA8yyIBcB-7tP-CzNWREyFEiBVZgAEPWYAg84tpG-vjt32friPtnl_UMh5oPyySsetoPSwutKZdPORNvUhpXwxNuzBXi6RpStrNV9U29XtYR0sa9zRdoHnKd8Mtanr_dGnfZ_iG2sdqbp7lOYab0QgMw_IAspz4sb0Nb9nl7VK-jf1bVr7R-rcmbm_n5OuHH-WmX6_6-8ry2tZf28Bxy6u2sevUgysnLG3X0_fU1YZDkDBxkMVBaN-CIDI1nGC79jAl0dMrJUmDip_60uiFJA9xKdtIuadVmhsh0e2pjKNtZDiyH6YBMyW1Bxww6HFt127tOy5ui4CI0gkT9YQzL3VtYBDt4ZO21fAB0zUJtHI3ONsd8pENaRg9dLd4RAF0HdlmdfmOA6I0Vqgxfmgh2_dZ3dPHA2zXDiG1u8kOEclk29XYWJank8yaUakXRkCi-DUzvFDvg6q_p5vHM3gtI8u3Bqu2Na_ohxNp9UPgMV4VRVGYDVqgOB5UTD1gH_Em6lXP7hxXmqjsq-k27Q0HtgmRbC9IgOH6Zx0WzyDMZi7ZTkMi0StoGi5xNHdmgHTF9r3ptHlsZha6EV6YUzXo6UQmxy2QDewoQSzwPFJ5Pjn4crQJtvrG86W5X7jVquxq15pDXnUSVH6WhmXteo82wQq0fYlxJmV0fTneFURO8I6NSmV1CCM78e29LZeuJ5dbRy6vapDpBz8L_KCceSe_Pvru_AUsCTs4BpdgvcvMnrEGxmpk7vW-WV9Nf1N1gfUz5AWG5TCDIAL4t3l_i5x-_fD9Ul79hNfLVJm1e3i6WIWvaVjEVA1NvjHKEd0onxX7YhWfug16slp6FPxYrdHLIJ2X1k9YWhyPDp2fC31xXNt8r6ZX0T0GpalY-JbjDa_0UmY-9s05ugpOMXqimx-sZHrVm5Hvdh7DJa-TvdNjUt7y40bY8eX6mG5j2Owj1w5wRR4nh0nN8li1oxEzV6SX77prfxZLHuR2VDqIwaHsVRZEj51gCJNEHkv5RarrcHfRqEMP2l1ezuc9T9-t50QW49luMuEJPTwM2DpNgTAI6nQkpV4zKFX2z15p9vrtkE-9eH-Ud7wsnno4Pe4Hnxa2dbKmQ7IOYZ6hjCJmANteIrd78cx8GTHgCHKvUwtTdgyHUbFHEBhXaSwyDB9Q1VyibVbnY_hUrzWfq42TXPNmZWjLI89VJ-dKRPFCFYkTn3bd3FPrdI0Z6Ur9AoDYKi7AjzrYa-v9OuVelOQu7KkncMFZEodUXPIeGbdDf1XP17ZaW0-iHxMzcJ6VuWzZbGMVhWyxYicp_WvhKYMzvnjuYf58zv_8B0Oh8Pk"
+      },
+      {
+        "title": "Phanteks Glacier EZ-Fit 360 Soft-Kit Processor Liquid Cooling Kit",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRAHx43z8BewbqQ9LtvUI3eThymZdmPHlyINlc7ZpEV1Fs-ncVaE45Fshkjvs5lW-JYPUPFb8yayd7YObgeWfyruMfrwObW6K-BgWyhvFei_Z2DjVaZy2vimQ",
+        "price": "$359.99",
+        "extracted_price": 359.99,
+        "original_price": "$400",
+        "extracted_original_price": 400,
+        "reviews": 2,
+        "rating": 3.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1S59PHicbVTLzqM2GK1m3UWlPsOsol8yNtfuQsBJCBDuEDYRAScQDCRcckF9mn86I02X05G67WvMLPos5e96vPhs-Xyfz_ksH__70y-vpPhbV2OS3MKDLoXu_VBaffqiDHP786VtsiHti-wrA5DEAk4EAidAkQMAQO5zmvQJbU5F9pckTBjLcQgAnmF5wEHhS06SjBY12R6PpFWadEoTgChJPBQkTuA4CCUgwT-LKjmR_-GvDC8hKLAsw7KQZxEjCTz7oc26b9Ba7BkRskgUoTBJYTgoApH_3XK2yv7H2MfrQNrnN50mPen6WTq0Lan72YnUpE36oqlnGenKvrnMrMUsbRpK2mmqLk39ltYSSpKOZDM49fkW-FlN7h9Pl7cufsD2oSqyL9wkl4ciK00gxwkiDz9cbv1rfno90dehe83pK6k_Ncnldky_v_tVbTpl0d0Xtn-5BIoD3JouHZp5tk9lI-yeeuQMyVLyUoqNbCU7nh_wRo1XJsasETh6oHLAWZpligMQjPnKqS9JAM11DGkQRLg1sHQ8ROsxrFLWAHjaVx8xxjXxVeCGZp2cc9lbPvwDOjF-mbN-RQsSlGNc4cRVYuBU5WMH8eCMseMxjq-HDh_6cZj6ObYDESQwc9LxBJ1oN9qgXxqR3Oz8fLGN4iRbmZbpa4AE-G7DS-RMOozVCUUodsNIXphUDn3QjyHFhalQKwlyYKhM40T-w6m1s7mU5Az59ySiUQZwFwDtFo_rMQBx7KqZlayo5p1pHy-lwD5jPVHkzjhrayPI-AiYfEoz2StAfwAMPPhcuKsbxmGwR2q89ill_XK6R_CQg5Dah2llh45vo_lju8zQoWD8MHBQEvaLQMVxGsVXt0yRq9IurLPSh8HGA_HCDEUXn00cVkGeRbT2_MclRRrjBDLrjtrgBWqyLrGaojUXU43zxvSZlGZEKjP2xhI6HrXCkiqenzOxZ4bbMP3j0bXHb2COud7d8iky29zqWLtn7Ublz_elcrWCZdWG9m-MMNmNRyxkIECfpvdbFuT7u5_n6uI9UuaZNnF3zOFkl4FhIAkRPbKEZksHeCNCXm7KRXJol_DJGdleDBK9hi-9fJzb75E82-9dMtmFvLieY72dZlbxPQHU0mx0K9BS0Do5tx6b5hhfRbccfMkrdnY6ns1mENq1z_LpeXTWZoLprdgvxbVAlX22SphmE3tOiCr8OLhsZtF9dRm2CXuFJn3jVYKJLH3g215rGQR2tNM5ED_W4lYcZfyYqy9yXUfrk0FcsjPu6nwab3XmWpkKOYSmuMzFJ-Ojvkf2YQzFXtTHPaZmzcJM2zw7rdmYt10xdtL9Qe9oXj7NaHzcdwEpHftgj7tUiZgihzmBbA9WnYxv9_KZBypkwR4UfquXlupuXVZHPoZgWGSJxLJCSHRrDld5XQzRU7_WQqE3bnotmsXWmO8Fvjq4VyxJJ6LJvPR06uae2YdrwsrXyW8AJHZ5AkHcMp2hbJSMf9HSu7ghvsiHR1nqM2ku-HhY9d1VP14vlWI_sblPrdB9Vtb8wuVLuyxVm5NaWevOpa_17vDie7vp8zn-8x-5e_BW"
+      },
+      {
+        "title": "TRYX Stage 360mm AIO Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT32lPGsdteacAe-hvK3wqjqITlaXCF6nQ-Nyikowwih0tmJkGtaAcEx56ycn281S0B7ewafRz238wI_xrjsR1b2EB3sryNawTxnPtq2c4o",
+        "price": "$199.99",
+        "extracted_price": 199.99,
+        "reviews": 1,
+        "rating": 4.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Fe6WhnicbVS7ruM2EA22ThEg35Dq4gKkqGc6yxJty5KshyXZagxZpK0H9bAkW7aRr7mbDZCUmwBp8xu7Rb4luki7BDgsZs45MyRn_v3uhzea_23qMU1u0dFUIn88ls6QvmrXmft72zXkmg45-QsCpPBAkIEkSJwsAAA44fc0GRLWnHPyJw9FBJAsKqLEy4qiiJz8OaMJYXlNN6cT7bQmncLECa7wApA5BUkTIeTBH3mVnOn_bk6GoihADnATiygIgih_7Ej_hXPmBwGIAEJBgRJECgdlIPO_ON5GO3zb9-lypd3ji8mSgfbDS3rtOloPL2da0y4Z8qZ-IbQvh6Z9ceYvadMw2k1H1Tb1e1hHGU16Sl6mVIR3I77UdPx0bt-z_IbaxyonnwVJ5Ke6FQ5JiizKQIQf29vwlp3fzuzt2r9l7I3WvzVJezulXz_8qDe9Nu_HuRu0bah5wK_jMtTJJV4SNajtTcLCxo-8IdVsTHdsnT7VjJQst4B9MwPC0m18t3dGHUcwiqNB8ANDnfzqEbZVWiqtrdn8xLjyC9VLoV3Yui74Os-5EXHsaBw9jK0dwJ0VZadtrQJakzwM7H0CPCHScesjQ_R2zKC1gT2ULe3CuieRV-yRdztidesi1SUPwMeBzG2DOw5Dsk_L-22_tVAUtYFXhPd0iatQs-fJbsVbuF0f9WyfMPUePEkbFnEfAo8Plw3aaN5lu4ibOLDrgBOKjVbyNDIupGJPt8gKG6qRt8MN1Y1wxw3VEWeXFPQCZRkg28yKS9j5GuOs6j63SmPnz-GcTIgYeOpx5_khCvu4JHEaeeJ2YeMwGPTjUvVTxFSLqXsPq1kSjU8z9Mw0gpBs1YIug3HLvGkzGC0M5D2ZkACoWwVJ_GpgBOx9XNg4qsKM7Fg93UGbIgN6ocr7T-O6DfVkVWI9RSshZtgJceZFgQKD5fROC9xaUSNMORcJp0z12dcU6r_e--70BcywMPgbMUV2lzk97w682-hiMS60ixMuqi5yf4aSzAsi4rmpWdBv0_8tc_r1w_czff4T0mbEmLR7eDy7ZWhZSEHU3DlSs2FX7kalrFyX8-TYLbiHYJGDHCZmzb0O6mnm_oTUl8PBp1O70Fd_6znvbHYVjwlgjuGiW44WktGrmXNfN6f4IvvlNVC2-d5Nn4XdXKVuFfBiWjy9lZ1gdssPC3klMe1Algls1vHWi1CF70efJw47VO11k_AXzmbvulo4iaV3fDsYHURgz3pTAPF9JW_kp4rvM_1Vrevd6mxRn-6tUZ9N6x1nr7QJKCA02UUmP2CAhgG5x2ckD7L5PGBm1zxHjPWjN5q1fdvnz14Z72xEs_Jh7573cR_S0nOP7nOfajuYZ1xGOX4Ay17Ft7F8ZKHO8eAA8qAzS0f3Nz5vogBz4DonicLzUkRNZ8Ytszq_7h7mpZZys_HTS97MN9bsIInV0b9gRTlTQxWVh1c3I3GPl4RXLzQsAUjc8gzCuIO9pa01Ir4a6SivaSCL0UlVBqLMpABfl0N_MU-XttLcB7YPqRP5j8qZtUK2cMtSdwWlU42-KANj8K-vwXY_DZ_TP_8BaYzxtQ"
+      },
+      {
+        "title": "Lian Li Hydroshift II OLED Curved 360P28 Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQdjQo-eCC39HHq5bv82rzhX6ItvMmSWOcAwrAA647y2Sq-wa7_ix20AH4GGgQffM3VN827aEzkbfJ1PtVWHeIyTHqZ_SNNB7KD95Hu414PaJxeqcJLi_NmXg",
+        "price": "$299.99",
+        "extracted_price": 299.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PtSginicHVTLrqNGEE2yziI_MSvrSt3NOztjwDYGbB4NNhurDW2Dedk8bOBronszI02Wk5GyzW_MLPIt4U4tTpVUXXWqpFP930-_vdL0H0MNKXkEJ0MK3Ocp27XRi9LN7c-3uoq7qE3jrxAwEgs4EQicgEQOAIC4zxFpSV5d3tM8ggIviQzPcZBjGZbhhC8JJXGelnR7PtNaqaI0_hsiJAgCDxArQV4CkiSBv9KCXOiP9FfISozIilDgREYQGAYCDr3VcfPHx3tH6-GbkZOWNu0s6uqalu3sQktakzatyllMm6ytbrPdYhZVVU7ryRW3qnx_VtOckobGMzRN_Q78rKTPj5fbD06IOGaiYhleggCKImSEtyKNv3ACz_JIlEROFKa1eF54uz3a1-Tyeslfu-Y1yV9p-akit8c5-v7zq1ofFotHJNv4dvMVB7gAbiKEh1OWQBM6RbDXhmiZ3LwAJoGSWzHOehPf-mCZKz6TFPiqWQeM0TZIVt5SHAM_0THq2ThrQ1KEmekn8gE4DA7EFqtgdBF-miCDYbBmjb2M6MoK3X2eEi2xtl6eRNCyXDXm7QAiisMDyfQFAS0fFpoa5ZLtZzYb7ycE694B6mCPcUf2mu6C1vNVwPha7m7VHtJSv4b7eHQLrnNAkrreAVroMEY4VGiWIX-lVae9iTzF2W59zXWhyYbLWA4yxyJqS2KUpDTrC1yGA1HCNsCS42lha_pyRqCkGNixMYqG_Rg6cZDokaerwTUe4n4dmMAnYaBBGsSWt8zHqPQ1vEoMs-As7FSpjZ0xuuYFZiLORSyKlrAkvmQTVbNcBfeGJ6suCG0PWgvb_rNv6vM3MNe41t3ypXU-o4P1iLgpuByu6hWutxITPBX7dyiILMczLIIIsJ8mPWUp_f7Lr3N18YFR5rHuq6SBp4ud-abJSAw19juh2uYdelAhyTbZgpzqJRo4Mz6KPjFK9NLK57n9gZFnx6NLJ_nSF9dzdu_drCJ8EpDvdJt5pMxS0Bs52fWb6hzeRTfrsOSlBzsar1bVCfUas3x0HZ21RbT8kR6X4lrIlWO8IrDahJ4TMIXWn1w23uXH4tZtCXtHVv7Oq_gTWdRrj6NeQwYc8sbgQNivxa04ylo_V1_kstyvLyZ16cF8qvPJ3uustTIVThcy4TIRB4iZtmXs0zjJUDTGo5ZbJYtifTM0erWxHod0bKRnnz-ZeTZY-7F_HnyaOfbJHg-RsodpghKK2BasGll7PLMh8VXEgiNIcW1kO9XduqzBYA2BbhETiWWFgBq7OVolZdrtB-NeCqlRudE9rRZbc34U-OLk3jVJulBd5qXBKatnbJ_uhJXv1M8AIHZ2AX5Yw8ZUNkrMv-jRU9xQLPLBWZbaWJoLWOtWbXM3zvdbodiDZh2jXeAOxW5-45KlnWWqzUm1rDfXDOut271g7zD9Bed__wcY779i"
+      },
+      {
+        "title": "Phanteks Glacier One 360M25G2-LCD All in One Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR_YFL-JNhKpeQOJ02E4-yHJd2Yz6CSOdVYDhuFy0pJy1QqAAWI5iwjvA_Y9EtTqrEGR5hxflLk7tVn7dwFlFJA0EED2o2HfVnADYIWPtlduiuzVGNPAQyp",
+        "price": "$149.99",
+        "extracted_price": 149.99,
+        "reviews": 14,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gqpJZnicbZTJrqNGFIajXmcRKc_Qq6srFRTFkJ0xYJvLYKYCs7EYygZTDAY8oTzN7XRLnWV3pGzzGt2LPEu4WXctzinpnPN_9UtV9e9Pv7yS8m9DjUlyDVNDCr1bWm3H7Fm5LJzPXd_ml2ws878YACUOIBEISGBFBABg0ecsGRPaHsv8Ky-xPBAA4CQJiSxgoCh8KUiS07Ih9uFAeqXN3lSgBDiIEGQQy_AcFHkg_lnWyZH8X__KIsQASeRYxLAikBiW5z_0-fCN3S73ooAQEmY4j4AABV5C_O9b11b2P659PF9I__hm0GQkw_iUXfqeNOPTkTSkT8aybZ5yMlRj2z1tl09Z21LSz6nu2uatrSeUJAPJn9jZ51vgnxpy-3js3k75A9qHusy_IIHneFaU5iRACJEkfeiu42txfD3S18vwWtBX0nxqk-56yL6_-1VtB2U53JZO0HVYcYHHFLUZWaNZqfecqpwRuSusxD5m3T6pismFerOL8Hk3uZZX5wD71CWKfMhgNiVrLcmrojR8uksAU7v1nQZq9nACV42pjoNQMlIVlwHVUAzpzo5MxgQmCrALvVOuZAxdOiE-BJq83s1N1lToHtDVgJHrDLurzC-KTL090lk7oSbEU8XaAYCB6nZOo7muQvvZB0OoDEhkXT3YPSy64VxqJamigVyhyAF4TJjYj0NdT-rctpodE1ZFhCPLjLWuCtXc9DW5TKn1yKaistiR4so1Uz_WrEpqncbtEljYZmiyWZWPae1i6-SMTjX70CTPDJhlqshDQPFkNXSZUPHm-wto467HS-YaUJfNVY7DQHokvsUkK13zgs5OQa5nvsP5uJt8RjatGrEZIxXB6v5IffWWgZGSUKdO1Sl-ZN0dRtt4bG67OPO0k6WFNS7yiDZ-cO8yqDMuljlv0i8-VpNNpakZ3KCYuoa3DpAbWVs7ZDahgu9ZVKzdqIvxyb3HynE0VfWP-9AfvoGFhkbP5hvrcGB31jVD8-a4O6knZmNLMLwpzm-MIHKIhxzLsID7NN_fqiTf3_28UJfvobLI9Zk9MOnRqbBpQgkSI9oKrU0v7JUIRfVSLZO0X7EPZOZ7ESdGwz6P8mHhvIfy037vkfm5kGfPd7dvalYd3xJAt7oDryVcCfogF9v7S3uIz6JXXQLJL3dONp2s9iL0m4Djs9PkbqxEo9dyvxI3AlX2-Tph2pfYd0NYa_fU4_It3dfdxU64M2vRN66CZ1h21657vWcg2NHBQCC-b0RbnGTtvlCf5aaJNkeTeGRn3tTFvN7mrI0yDyII57gqxAcTwHGETjqF4iga016jVsOxuf7yGPT2xbruymmQbnd6g4vqYUXT_bbDpHKd1Jl2mRIxZcEWhOVGsB5k7XqrHgVWWQ7sQRn0RrVVPdvjDBhoLLgs80TiOCEkxnbBroumvEQP49wIpdF62blsl7a52At8nXpnTZKORJd56eE27S130nPCyWeCKwASpzoCHPfMYCovSs4_69lNfCGByIcHWRpzaSEE2mU9DmfjcO5qxXlo1j7bht6j3i46VKycqlIdJPWyPpyqQB-9y3Pg7-bP5_DPf7Dj8fk"
+      },
+      {
+        "title": "Phanteks Glacier EZ-Fit 360RAD-30 Water Cooling Kit",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQlA9ebUPWwEJLDV4xbJ64HOFddcfL4A1IhlGF_XQadW7gu9mXjGfnt3v4Um4IMNTMMzYJCt2L8fybkTdaVPjwlYTpeNAdaZU-9J8MqCmfnc3BZsq3FRKkL",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$100",
+        "extracted_original_price": 100,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TJZppHicHVTLrqNGEE2yziI_MSvrSt00GMjOGIONeRgwjWFjYbptME8DNpivie7NjDRZzkTKNr8xs8i3hDu9qCrV45xS6aj_--m3V5r-o69CGj38ky76bn_Kdl38It8X9ue6qcg97lLyNwRIZAEnAJ7jGYEDADDc5zjqory6pOQrx_K8IAqQ4ZCIGBYBxH5JaETytKTW-UwbuYrfUSDHs4IAOZaFIhI5BnLcX2kRXeiP-leBYSfs-QSG5gyCIoTwrSHtHx9vd9o8v-l51NG2m8X3pqFlN7vQkjZRl1bljNA266p6tlvO4qrKaTO5oq7K97aG5jRqKZkx09LvZj4raf_xUv9YCfATHyciAfIcRAjyPPtWpOQLN-XnDCuKDA_mkAU881Y_utfk8nrJX-_ta5K_0vJTFdWPc_z959dVEyyXj1iyvbrGsgPca8A4WKltAGGELl3gD8BfguFU1omNY4RhHpG1E_gqTk3FQ8EhrKMx7iJo6u5V2p8KwOGr9iCZae-VcCBIuh2A0oXZ0OueMVDV0fZyjGjRXb21uT0VBOpewEWjAuJCS8ODVocZxvjqAUvGNVmJqoHsIVKD3rjmjAEl2R3DWzTixCsyNtorTpgnSxOYZ-JDbI4msPbJsD9IhrXO12FWOzZSBtcLAUb5EHoYuqrmmEw_0kLrXJzvSDYo4RVzjtdV7ki62IM3I8esr3a5X0rWgUny6SZSDOpkrwZPE-D1AYQcLqVlqA7bEGE1zPqn7YGODBvfADgKfQVSn5h7NR_jEiveOtGNgjM9p0ptzxnja154OZGxnFTBqD1OPlc7K6hYB9Ny1o5kyRLeeyy07T-Htjl_AwuF61xrXprnMxOYj5ibgktwXV3hxhKR38v275AXWG6OWAYygP006SlL6fdffl2slh-QvCAaXkUtPF3sDBvGpHeqH3Z8ZeV35kH5JNtmy-jUqMyTM8hRwJFeMi-ddF7YH5A0Ox5dOsmXvrh7Z_eOZhZhH4F8p9nokSKV11op2Q3b6hzeBDe7e-I-Dex4vJrVnW82HjuPr6OzMSMlf6RHVdjwuXwk6whW23Dv-KhQhpPLkl1-LOq7FbE3xszfeWU8kcWD8jhqDUQgyFudA-GwESxhlJRhsXqRyvKwuRjUpYHRrxbTe58zN_I0yCE0WTURntBDXYfs0-gLnaCPRyU3S5Yh2vbZatXWfATp2Ir9kPdokT3Nwzj0AaaZY5_sMYjlA0wTJqEM24F1KymPPnsmeMWw4AhSr9Gz3cq1XFZHnsKA-5JEIsvyPtV3C2adlOn98NRvJZ_qlRvf0mppGYsjPy9O7k0RxQvVpLn4dMqqJ_bpFrHSjeIMgMjOLgCHDWwNeSuT-YsW98KWesLcP0tiR8QF7yn3ddfe9POtLmT7qZjHeOe7z2K3qLlEtbNsZXNiI2ntNfMmod9fvH0w_QXnf_8HCFvBhw"
+      },
+      {
+        "title": "Thermaltake TH360 V2 ARGB Sync All-In-One Liquid Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTtU1sC_hIJTxCrC7S6uC1s7kOgP3yWuVfJv2pEXvv0xWak-tShOflU124y_oxcE32KLOlnEM-8EfcTLv6wJeOneyBT033MxPkjcikVU4eLQJO7Vuqf8TIG",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$130",
+        "extracted_original_price": 130,
+        "reviews": 17,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XBphK3icdVTJzts2EC5y7qFAn6En4wcoau_NthZblmRro5aLIYu0JWu1Fks2-jR_mgDpMQ3Qa18jOfRZqj_nlochMUPON98s_OeHn15J9pcuRyS--ydd9J3xlB_65EUaltanpq3xkPQZ_kIBWmQAKwCe5aHAAgAg-ymJ-7ioLxn-TFEiQ0NO4KFIMzQPOepzSmJcZBXZn8-kleokw39SHGApjoWMIAiQmQ80_CMr4wv5bv5CsTzN0TxHMwLPcDTFspT4vsXdV-awPlLCrAD8jAJZfo4Czp5-O9h76fg_xg-3gbSPr3oR96TrF8nQtqTqFxdSkTbus7paYNLlfd0sDutFUtcFaeetbOrq7VpLChJ3BC_gTPRNcIuKjB8uzfdA_wPufTmngeU5hoMsR4szFQAEnn3f3PvX9PJ6KV6H7jUtXkn1sY6b-zn59u5nue6kdTeuLa9pkGQDV0GjB4XxVBaOVymUUVI3LK1GwzVjF3hPRBeVTV9oUimNTWkmDrSNAUw5ApMUOhTwyjQ31Kjbq7hINsU2DiIpgh2LfYOJJZuOS-3qlwgSF2tGgJnIxVKCzCZxi7tb2rmXs7KBsE38aYuDnEVgO1lesTGovI_chDVlcfQdKt8HK9UE7PUEUsaWe8XJqU14tTOnpNCs33t0tMZArEyqUV3A6nFgS55SmAjmj9hTFLdAlvtcNWap7SxUuEaFDAMYD1eyHlgKYZI3TiQ3Jconc4-KznZNNnlqB9tjq0gFjBVofXw1a8Onwtg1deSbsuUqXryJXFcV90bQMNhDIZLQLYAodlzkudAMkaqgiDKgL-PRojRL97XBVorsdMVw5kChqnnYLlJOijUZObaSPI1nPtLJj-wQWFNSoclWkb5XUeOX_RnRnqNcTWXOaYqDonK9qUlojbLRinGe2uAiOd7mipzQWzYqbM_OJ-QoqywMosgPiq3nz3Wt0nQva5sQzrGoye9T156_gqXC9s6efy4Do1-6AryqEcEZriJ56CJ4z-jlrxQvMHOnMZCCgP04N3CekW_vflzK619oaYm1GbujThcrn3NLizTRgwNf74sB3gmf5rt8HZ9aFT5YAx8FFOsVfOlX56X1C71aHI8OmeeFvDiufXjzZpbRGIPioFn0jK3yWrdKD9OuPkc3wckHT3Sz0Eqec0kGvt16DJdcn_bWjJXinh1VYcsX0hFvYqreRa7t06UynRwGH4pj2Qz7mLlBs3jDldAMlkzK_ai1FA3CotNZEE1bYS88V8q0lF9WVRVsLwZxSGiM8nJeb-_MrTQ_ZGl6lmoqPCiP7nvaOj19oRf053FuvYqBWNs9Oq3emfcwe3biOBUjvcwfZvCcxhCR3LZO1jNMpIDKUpgSyPRg062U-5g_UiRDBhxB5rV6fpCdvcPotKdAMKxxLDIM7xP9sISbtMqG4KHfKj7Taye5ZfV6byyPPFeenJsiiheirTjxYVf1iK3TLWZWN4JyAGIrvwAUtVRnSDsJcy9aMgo74gmcf16JPRaXvKcMm7676edbU85jopjH5OA7j_KwbNhUtfJctlixXWndNfe03hlePDecP5_z3_8CsEXwgw"
+      },
+      {
+        "title": "Lian Li Hydroshift II OLED Curved 360 AIO CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQsHYKWC0teOS_9Z82HqyproJYMdL_ksrcMKy0T7VPr_ZBASr1tAjxw9C8IR3CSAdZ_I8cEuYObN5l6G2fxEzW2GliLzumQFQ",
+        "price": "$279.99",
+        "extracted_price": 279.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AAU_ZXicJZS50qNGFIVtxw78EhOp_qqmm9UZSKBfCJAAsSYqlpZANItYhMTTuDSeqRqHY1c59WvMBH4Wo3IHt4Pv3j4nOLf__eGXJ87_1uQQRzcv1gTPHuNi3ydvq0E0vzRtnQ5Jn6d_UQAJNGB4wDEc5BkAAGS-JFEfkfr8wpCCHGJ4BgLAszNENPia4SgleYV3pxNuV3WSp38yPOIR4gWBYmiIWIqn4B95GZ3x_xhyHGQRZAHDUTMHCHIf27T77dN1wO3jm0aiHnf9IhnaFlf94owr3EZ9XleLFHdFXzeL_XKR1DXB7XyVTV292lpMcNThdAFn06_CLio8fjo3L0mKQgLLQBoAluE4mqEg_Fjm6VeGY2kW8sLsU2DhbJj-2Nz6Z3Z-nslz6J4ZeeLqcx01t1Py_cen3AbL5S2RTKdp3JUF7IOyC4ChhJTEhrLJaH4zWb48epf0fbdO9WAKxwNIL7HcsyEglAGEi-0pteHKCHvh3Uduk_pi7zhqZvhWaFE1MB13Z_ryZBY9cSpyt8gGYj81PJJGsRz2gWNdPDm0k9IacWGRqDCcGElSXPbQrkzo-I1huGTQHXVIymIKLwrCbtDvPFcNHGXpAKOLYH23qoaODgowD5tHeJACZ2VYwWEzxqswSxR37xX9PQIKY_kbFHoFSGSajmS33LlC6MkZE1yCe0zpo60QM14LbExle90NK-_dsmJisN4qHHWUMaaX6cnaKDERnKhIWx2RrQ6tXQKNPLhvPB24UegpFPZS47AmU1K5ivOeaXrJGI5V56ZjTcmFlI6vmpqjUsaamlm2NiqV4NICJlDydG3czELZOebv9649fQOiwvT2jptEX-_FAw8v6xCneVqF8tCF8JYj8VeK42mGRfScacB8nuNU5Pj7Tz-L8vIDWomp6spRR8Vns3B1HQkIa_6eq3dkgDfMZcW2WEZxu4YPRk-PvBtpFXzrpZNofkDS4ni08Zxe_GYfrP3rNaMMxwiQvWqiWXvNqZ2U7e_b-hReebsYHOGQB2YyXYx64NqNQ7PJZbI2RqSQW35c8xuOrI7pe0TV2_BgeahU7rFNp3tyLJthF9FXaJCX7sqdxZK7cjuqLYVAQDqNAeF9w-_4SVLuovwmVZW_OevYxoE-yuJ8XnPGZjUPMgjNdZ3xD8pBfY_MePL4ntemo0KMioapun10ar01bkE-dcJ4JyMSi4fhT_cxcOcomrE5BcnKp_IMZhjSPXjvJOU2Fo_MlefdO4LcabViL9s7m9aQo0AwLNNIoGnOw9pehO9ZlQ_-Q7tWXK7VdnLN6-VOF48cW8b2VRGEM1YlVnhYVT2mZnyNaOmK3QKAyCzOwA1bqtNX21XKvqnJyG-xw7PeSRL6VBA5Rxne--6qna5NuTIfinFM9p79KPdiw2Rrsyjm9RVaSe0uhaP29vDmHIL5Lzj98x9T7cCs"
+      },
+      {
+        "title": "ARCTIC Liquid Freezer III Pro 360 CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRviMrqiEVAHqbKpchqeurbFiy56JcBwjs1XxAqY7vBuCgjYGdjJ5-JrGc1xIsO7IX3_mECSTHuum1qIQwxUu12uZ9rX5agbthb-arq3a9V_u-viHe8N0WcUA",
+        "price": "$115.99",
+        "extracted_price": 115.99,
+        "reviews": 500,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lQsCaXicbZTLrqs2FIbbjjvoS5zR1pawzbUzEnASQki4mcskItgJBAKES0KiPs0-baXT4WmlTvsa5wz6Gp2WrU5rycuW_3_505K8_Pc3P7yx_E9Tj1lyCw6mErj3Q7Hr01dtUO1PTVvTIe1z-gfgkMJzgsxJggRlgeM4KHxKkz4p69O7jBSAeA4AqMgy5BWIBPlzxhJa5hXbHo-s1eo0p78DSRIRDzgeSQAAQeSQ_Ft-SU7sP1ngoSQCeRJ4mQOiOFk-trT7Anfz_UQFnAChrHAylEURivxPO2er7f9f--U6sPbxxSyTnnX9Szq0Lav6lxOrWJv0eV29UNYVfd287OYvaV2XrJ2WS1NX77aWlSzpGH2BU53vQXyp2P2XU5O-FytDRRF5CSkTbNpK0_x4yelnQRJ5cTpCIpJkQZEE8WNz69-y09upfBu6t6x8Y9WvddLcjunXb__Rb9F83qZz228aojmcp2WBDw0zhQokkPTJGS9inJEIlIUZOE1yLsDWS_tDABab0roElxL4hWBayxPHtAyk59mQEtyaQY-8ysmJP0amb4nxQlhsMc79AOdxQFvbw7et3oDw6czpmbSHyqkt__SMCsVkZXOOLvwjuBS9A5TIDICz4cazv8hcd4kTC2KRahE3-ZYuMvwEFHdLN3ax32AC-5qFFKd6HPhAR7EvEAfLKERZ7yycIz37vHvWQYRU5GISbEh9dwphNEmBaEh1C8zGLVEMT7Msissq0SzNq2IhKIpHWlie6Qt9VDVaUlrLIBi1DY5QSkrPqSiJsT1GACcEK0MMylVEjGNKiB8vFORCQ_er6L55zkZa2lysqYJ_4e4xabbEc3orbNaBbu0ihOGm2HD0rCMKrDgIZ0uf6C4-Wzi4kIyGZeX5Y5MiAzhkxrtPY_CInqwKrKdoJcQlbuIwi90nEdJFuSQhhl6o321OqFiRZdTvh8DXfx679viFU7HQu1vpqYabXvVkeF7EjOa0ivWhi-EtR-qPQJJ5YeoXCCAn_Do90iJnX7_7XtXnH5CmUmNid-Bwsguy2SAFMTPcSfW2HOCNSVmxLubJoV3Ah7Che5kkZgVf-9lRtT-g2ct-77KpJ9ir6zm799usS3xPuHJn2GhiLySjm2W7cV0f46vsFoOveHlkp8-zVQ9Su_J5MT0_nZWV4PKW7xfySiq1PV0moF7HnhOgCx4PLk935f7SDNuEv0KrfOdqZIKlI77tjRYgLio7U-DicSVv5ecMj6r-OquqcHXaMJdFm7uuTuM9z1ppU6KA0BQXmfwAPup7ZB-egdzL5nOPS6viITXWj86o19Ytyp-dch_LO1KLhxU-x3tEWOHYB_sZpVoI8gxmDPI9t-xm-HYvHhnRIc_tudxvzWKnu1uXN5GPITfMaaLwvBQwc6fCZVblQ_gwr5WUm7WbXvN6vt2oe0m8HNwrVpQTM2ai8nCq-k7twzXhZ1dGCo5L7OLEkbgF3UZba1R8NdK7vGa-LAbHmdJTRZV8PCz77moer81Fsx_Y2qe7wH1cdmojZAu7KHRbUNqZ0Z0L3-jd4dX3oumDOf71L4qe6E4"
+      },
+      {
+        "title": "NZXT Kraken Core RGB AIO Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSfED3bxQiXmuTzBun7G3jnXfyHdmDNa8vN22Yf4kwxz6dVCzjimzmj-9NIxVsYJzaykBASP8fu9qjGwZHYR_foRmoTwk11qR2O--hLoKWjJapFbkpoyWDE",
+        "price": "$103.31",
+        "extracted_price": 103.31,
+        "original_price": "$123",
+        "extracted_original_price": 123,
+        "reviews": 53,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qb5u_HicbVTLrqNGEI1mnUWkfMOsrq7U0Dyzsw0NxoDNqzFsLB5tg8GAeRhj5WvuZEaaLGciZZvfmFnkW4Kznl5UL06dc7qrq_rfn355I_nfuhyS6ObHuug7Y1zs-uRVGhbW56at0yHp8_QvCkCRAawAeJanBRYAQLOfk6iPyvqUp18hy_M8R_MCAwHkGZ5n4ZeMRGmZV2R7PJJWqpOnCgNEyEJBYBmG4ijIAw7-mV-iE_kf_yqyMwIhO_tAnqUowDMf2rT7Ru9WB4aBlAB5nmFpjgVQAAzz-87eSocfYx-vA2mnb3oZ9aTrX5KhbUnVv5xIRdqoz-vqJSVd0dfNy271ktR1Sdp5uzR19UxrSUmijqQv9HzPZ-BeKjJ-PDXPU_7A7cMlT7-wPMdwtMCLAkNzNBAp5kNz69-y09upfBu6t6x8I9WnOmpux-T7u1_lupNW3biyvKbBkg0cN7th3_Z8hC3LZ4Gvhp2vaqvA15CHm2MsU2fzkrUhwnfLE3eG3zwMmQG-nDVbmeICd8n6irhxZQolPuJC2VSTfdNspbB0VGTH2AwMVNK2gkbX6yu3QnciIwdXth8XmhUhPG2fnEeIYzeZYlhDDFLKkEs3AaFigdNEzqEcnu2SuHiyzikT-BQVP-zRAc3gIy1wPVvCQGwi1c5Tj_JCFVXbfajiC5s5VKl6F1xGlJlbPpUTj3KSKuh1jw1nHdauahDgUIofpxHLd6T7jYQvBdhDs8I0LlK3uOvenUkw2uGzHabKaYyxyJp7Owhww9k-uyJlqiRqMtoKYEy_Y1zFVgw59d2LuNpPFNwq4TVRw8r3LDacKxFUpurA0gr2y8nYh4aPhT5VsZbi0DN81HmK7UW0rRqe_PDQcqPjrIvPyAr3y4K4hYPOJvIvOEv3ZeV69yaBGmXjJeM8tMHFcrQukJzANRuW9hQ8MjMuOmhSZmACNASlCRJoH81HOL-DbUVK8se9a4_fwAKxvbPlY6sPINXlEVGGsK3W1vEqustWHunTb9Q8aiwHGZqiAfdp7t8iJ9_f_byQV--htEi12buj4pNVYMOAIiT6fsfX23Kgb4TPik2xiuJWoSfWSA8CjvSKfu2Xx4X1Hi5fDgeHzONCXh3X3j3VzEs4RqDcaRa85VDhtW6Z7e6b-hheBacYPNHNAyt5nM164Nu1x3DJ-WGvzQiVt_ygCGu-lA6pGlH1JnRtH17QPXaYdFceLs2wjZgrbZZPXwnPZskd3Q5aS0EQlJ3OgvC-FrbCY4nuC_l1WVX79ckgDgmMUV7M68kz19JMZCGco5IJE-XBvodW_PCFXtAfB1SaFUOn2mbqtHpj3oL80YnjvRzhopjM_eM-BpgUthVbjyCR9lSe0RmhmR6o3RLdxmLKsEwz4AByr9WLnexsHUaHHqLBsEojkWF4n-i7Ba1mVT7sJ_1a8bleO8k1r1dbY3HguUvsXJEonoi25MRp7vMxteJrxCyvBBcARFZxAjhsqc6QNlLKvWrJKGyIJ3D-cSn2qbjgPTSofXfVj9fmIlkTMg_Jznemy27RsJliFYVssWK71Lpz4Wm9M7x6bjB_Psd__gNPJPER"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Any Color",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iNSEUnicbVTLrqNGEI1mnUUW-YWsrCs1NM_sjAHbmId5YzYW0G2DaR422GCUj4nuJJEmy0mkfMvMIt8SnG3Si2qVTp1zulrV_fc3373j4i9diXHyCFNdDN0hLfd99ibfl_an9tage9YX6E8KQJEBrAB4lqcFFgBAs5-ypE9Icy7QHzwnAIGGHA8EgaMZAULhc44TRIoaW6cTvslN9lJhGYGfYZZiKY5lWEGgxN-LKjnjf_HPLCvOFTOdEWiR40UBfryh7gu9Xx3nZHYVAKA4hoPMrEL_tHcs-fj_2K_XO749v-gk6XHXL7L77YbrfnHGNb4lfdHUC4S7sm_axX61yJqG4Nu8VW1Tv8pumOCkw2hBz22-Areo8fDruc1evf7X7WP1Ojw_5_TrFiAvsCLPch_bR_-en9_P5P3evefkHde_NUn7OGVfP3yvNIO86oaV7bdtIDvApcVVGgSTV6u-6zm7A1Fd70JYGwAGh3nl0BnjEEexfHWMo4CxNhlMiNFn1BmmT2oXkgxka7U2y7FCa2XyyoENPS0_VGPhU1t25lB6FD9j-cyYlekgmNN-GFzNKJYCNVfTjbNzPcIg2BZ4g0pzY-YHT0v0ML7EldE7yhgdQlOyQn_0JqfxAHv11kTOFAMi0PVWSFg3yqZARQ_HD0jqt0ayUVW31jYpzAZr3T4OQJjCFeXEgT3qnjNlCrLs2gFhqCqGAqhgHYSpQjUZTUEXxqE7BRfbk5iIFmHsoyKu4gSFZe9Wo2YpzODSlGqSlg3WxLY25t2YgrUZIsOgcy8A4zOmiJ6CvM82PghrZAWqekBE8jIvV2Z_mE2osaOcM2Rn9h2dwyWwDVndIxVxNkG55ZEc11prebkZKsIU-2rrVgbtXzQ_jEpXBaMaVkGOCCo8mUQ-REVCSeDwpBTkq8660CRnYz6tMPYM0ErRZO4d37R8SoqzJ2Acf2yCyHRMgOyASNIvY3c7fQFLle1diwk439sVvbbaFiqhT4NzdY0CDW8Vff6R4gWG5SDNsEBkf5sHuCzw1w_fLpXVD1BeIi1Qko5Kz3YZGAYUIdajPd9Y5E4_MJ-Xu3KVpLc1_WQNdBSCRK_pt146Le0foLQ4Hl08vxf8Nk_h_qVmVvGQALLXbPgo4JrXOinfj7vmFF8Ft7z7olcc7Gy6mM2dv219hssuk7M1E5U8iuNa2PJEPqJNQjW72HNCWKlj6jJoT45Ve7cS5kqb5OUrB7NZNqqPo3ajIDiQTmdBPG4FS5gkdVwqb1JdR9uzgV18MAZlOa8Xz9zKM5GFcI7rXHhSPux7aKdTKPSCPh1VYtYMjbTds9Oanfk4FFMnDiMZ4LJ8mtE0DocAl46d2tMhkyOqyOkc00wPNp2kPobymQcKzYAjKPybXu4V13IZHfoqDe4rlIgMw4dY3y_pTV4X9-ipX2u-0Bs3uxbNyjKWR56rUveqiuIZaxInPp26GZCdXhNGuuKgBCCxyzMI4hvVGfJORtyblg3CDvsCF54ksUfikvfV-6bvrvrp2lay_VTNY7YP3We1X7ZsvrbLUrFZ8SZp3aX0td69v_neYf59Tj__A-nV8Tg"
+          },
+          {
+            "name": "Black",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iNSEUnicbVTLrqNGEI1mnUUW-YWsrCs1NM_sjAHbmId5YzYW0G2DaR422GCUj4nuJJEmy0mkfMvMIt8SnG3Si2qVTp1zulrV_fc3373j4i9diXHyCFNdDN0hLfd99ibfl_an9tage9YX6E8KQJEBrAB4lqcFFgBAs5-ypE9Icy7QHzwnAIGGHA8EgaMZAULhc44TRIoaW6cTvslN9lJhGYGfYZZiKY5lWEGgxN-LKjnjf_HPLCvOFTOdEWiR40UBfryh7gu9Xx3nZHYVAKA4hoPMrEL_tHcs-fj_2K_XO749v-gk6XHXL7L77YbrfnHGNb4lfdHUC4S7sm_axX61yJqG4Nu8VW1Tv8pumOCkw2hBz22-Areo8fDruc1evf7X7WP1Ojw_5_TrFiAvsCLPch_bR_-en9_P5P3evefkHde_NUn7OGVfP3yvNIO86oaV7bdtIDvApcVVGgSTV6u-6zm7A1Fd70JYGwAGh3nl0BnjEEexfHWMo4CxNhlMiNFn1BmmT2oXkgxka7U2y7FCa2XyyoENPS0_VGPhU1t25lB6FD9j-cyYlekgmNN-GFzNKJYCNVfTjbNzPcIg2BZ4g0pzY-YHT0v0ML7EldE7yhgdQlOyQn_0JqfxAHv11kTOFAMi0PVWSFg3yqZARQ_HD0jqt0ayUVW31jYpzAZr3T4OQJjCFeXEgT3qnjNlCrLs2gFhqCqGAqhgHYSpQjUZTUEXxqE7BRfbk5iIFmHsoyKu4gSFZe9Wo2YpzODSlGqSlg3WxLY25t2YgrUZIsOgcy8A4zOmiJ6CvM82PghrZAWqekBE8jIvV2Z_mE2osaOcM2Rn9h2dwyWwDVndIxVxNkG55ZEc11prebkZKsIU-2rrVgbtXzQ_jEpXBaMaVkGOCCo8mUQ-REVCSeDwpBTkq8660CRnYz6tMPYM0ErRZO4d37R8SoqzJ2Acf2yCyHRMgOyASNIvY3c7fQFLle1diwk439sVvbbaFiqhT4NzdY0CDW8Vff6R4gWG5SDNsEBkf5sHuCzw1w_fLpXVD1BeIi1Qko5Kz3YZGAYUIdajPd9Y5E4_MJ-Xu3KVpLc1_WQNdBSCRK_pt146Le0foLQ4Hl08vxf8Nk_h_qVmVvGQALLXbPgo4JrXOinfj7vmFF8Ft7z7olcc7Gy6mM2dv219hssuk7M1E5U8iuNa2PJEPqJNQjW72HNCWKlj6jJoT45Ve7cS5kqb5OUrB7NZNqqPo3ajIDiQTmdBPG4FS5gkdVwqb1JdR9uzgV18MAZlOa8Xz9zKM5GFcI7rXHhSPux7aKdTKPSCPh1VYtYMjbTds9Oanfk4FFMnDiMZ4LJ8mtE0DocAl46d2tMhkyOqyOkc00wPNp2kPobymQcKzYAjKPybXu4V13IZHfoqDe4rlIgMw4dY3y_pTV4X9-ipX2u-0Bs3uxbNyjKWR56rUveqiuIZaxInPp26GZCdXhNGuuKgBCCxyzMI4hvVGfJORtyblg3CDvsCF54ksUfikvfV-6bvrvrp2lay_VTNY7YP3We1X7ZsvrbLUrFZ8SZp3aX0td69v_neYf59Tj__A-nV8Tg"
+          },
+          {
+            "name": "White",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9qMXgnicbVTJrqNGFI16nUUW-YWsrCcVFGN2xoBtzGBmm40FVNlgisEGm0H5mtdJpM6yEyXf0r3ItwRnm9Tilq7OPefULd2qv7_57h3nf-lKhONnmOhi6PZJse_SN_mxtD819xo90i5Hf1AAigxgBcCzPC2wAACa_ZTGXUzqS45-5zkBCDTkeCAIHM0IEAqfMxwjklfYOp_xXa7TlwrLCPwMsxRLcSzDCgIl_paX8QX_i39mWXGumOmMQIscLwrw4x21X-j96jQns6sAAMUxHGRmFfqnvWPJp__Hfrk98H38opO4w223SB_3O666xQVX-B53eV0tEG6Lrm4W-9UirWuC7_NWNnX1KrtjguMWowU9t_kK3KLC_S-XJn31-l-3j-Xr8Pyc069bgLzAijzLfWye3Xt2eb-Q90f7npF3XP1ax83znH798L1S9_Kq7Ve23zSB7ACXFldJEExepfqu5-yORHW9K2FtABgcZqVDp4xDHMXy1SE6BIy1SWFMjC6lLjAZqV1IUpCu1coshhKtlckrejb0tOxYDrlPbdmZQ-mHaIzkC2OWpoNgRvthcDMPkRSomZpsnJ3rEQbBJscbVJgbMzt6WqyH0TUqjc5RhsMxNCUr9AdvcmoPsDdvTeRUMSACbWeFhHUP6RSo6On4AUn8xog3qupW2iaBaW-tm-cRCFO4opwosAfdc6ZUQZZdOSAMVcVQABWsgzBRqDqlKejCKHSn4Gp7EnOgRRj5KI_KKEZh0bnloFkK07s0pZqkYYM1sa2N-TCmYG2GyDDozAvAMEYU0ROQdenGB2GFrEBVj4hIXuplyuwP0wnV9iHjDNmZfQfneA1sQ1b3SEWcTVBmeSTDldZYXmaGijBFvtq4pUH7V80PD4WrgkENyyBDBOWeTA4-RHlMSeA4UgryVWeda5KzMUcrjDwDNNJhMveOb1o-JUXpCBjHH-rgYDomQHZAJOnnob2fv4ClynauxQSc7-3yTlttc5XQ5965uUaO-reSvvxI8QLDcpBmWCCyv84DXOT464dvl8rqBygvkRYocUslF7sIDAOKEOuHPV9b5EE_MZ8Vu2IVJ_c1PbIGOglBrFf0Wyedl_YPUFqcTi6e3wt-m6dw_1Izy6iPAdlrNnzmcM1rrZTth119jm6CWzx80cuPdjpdzfrB37c-w6XXydmasUqe-WktbHkin9Ampupd5DkhLNUhcRm0J6eyeVgxc6NN8vKVg9ksHdTnSbtTEBxJq7MgGraCJUySOiyVN6mqDtuLgV18NHplOa8Xz9zKM5GFcI7rTBgpH3YdtJMpFDpBn04qMSuGRtpubLV6Zz6P-dSK_UB6uCxG8zAN_THAhWMn9nRM5QOVZ3SGaaYDm1ZSn30xZoFCM-AEcv-uF3vFtVxGh75Kg8cKxSLD8CHW90t6k1X54zDqt4rP9dpNb3m9sozliefKxL2ponjBmsSJo1PVPbKTW8xINxwUAMR2cQFBdKdaQ97JiHvT0l7YYV_gwrMkdkhc8r762HTtTT_fmlK2R9U8pfvQHcv9smGztV0Uis2Kd0lrr4Wvde7jzfeO8-9z_lO5MLkUms9kLY67SwDjNQGR_Q_6sfh5"
+          }
+        ]
+      }
+    ]
+  }
+}

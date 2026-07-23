@@ -1,0 +1,1609 @@
+{
+  "search_metadata": {
+    "id": "6a5e3e27a1de12f34e62f029",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/m2LfHUuLXRJsyT8A9OUPqQ/6a5e3e27a1de12f34e62f029.json",
+    "created_at": "2026-07-20 15:26:31 UTC",
+    "processed_at": "2026-07-20 15:26:31 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=dj1earj1HbPW5NoP7rjBmQM&q=current+mainstream+desktop+PC+cpu+component+2026+new&gl=us&hl=en&cs=1&async=productid%3A15092520084248443575%2Ccatalogid%3A3791093264586209709%2Cgpcid%3A11868234765098862170%2CheadlineOfferDocid%3A16068061120556971487%2Crds%3APC_11868234765098862170%7CPROD_PC_11868234765098862170%2CimageDocid%3A5919176208931164874%2Cisp%3Atrue%2Cquery%3Acurrent+mainstream+desktop+PC+cpu+component+2026+new%2Cmid%3A576462801158619056%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0SjFaVTBsTlBSSHhsR2o3aGJtbERMdkxQRGpaTEdHVm9kVkwtcl9jdDhXaGpqWUhBdlBHSjdZMFRDeUFPanJnamh3NUR2aUlEd2lMcWxUcXFYdFlYSGQyV21yTWhja0NkSTFZbmpFb2tBckYzSDE5VUdNLVIwVjZEcHp1dGtaOTZld1R5MXdRajdtVnZDLUs4eXRNRVFuYmdJYlNIWGozNnVjS09WaEJqMTFMZDRkLXVCMjFOSmZ4MzhXNkFnRC1VT0NsMlAycmdjRW5ZRl9jU2RiZ1pKUEdaWHpmZGRsNmloWWVHZDRkQTBTR1JWZWtfSU5rOHpNSy1RYXBRR0pPMkxrTTY4aUtjRVl5bXZwYXhQSll3RGRKQ0NkeHNVRm5BeEk4Ujlycnljd1NFVVpxeTZaakVPdzdvYmZKT0hHUEd1SnRiMGgSF2RqMWVhcmoxSGJQVzVOb1A3cmpCbVFNGiJBRHNyOWZTMlc1bU9icFZ0RXhfUUZhbmJOb1lPa1lGRWZR%2Cxsrf%3AAF5tSO53AupChbJSvidewasEEVwFSBXoRA%3A1784561014820%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/m2LfHUuLXRJsyT8A9OUPqQ/6a5e3e27a1de12f34e62f029.html",
+    "prettify_html_file": "https://serpapi.com/searches/m2LfHUuLXRJsyT8A9OUPqQ/6a5e3e27a1de12f34e62f029.prettify",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "oZkBUXicdZNJrttGFEWTrCCDLMDzDwEstmKMP2AvUSIlVZHFZiIUWZTYkyKprwZZzXdiwBnaATLNNuxBlhJE9jh50_tw37kPuH9_9-NrVvxJS5CRoQSLZBsIbreVhlJtds6HfujoOZ0K-gcQGJkVWIaZ8yw_53lOkIQPKZlI3R0L-omTZMDIHCvywlxkGVli5I95RmhdtNnmcMgGvUu_uoiMOGdEAFhGEERZAvxc-r1oyDH7pn8SZCAD6WEwlzkAxIfKvxvo-JnfansA5uKc5XhJfKDMH1eAxPyyhRt9_z_ib6dzNtw-8-l5GLJ2empI0Y7TkJHmiWZjNXX901Z7SvvzU9o1fdd-3WEZVnxqs8tvx_4b73_YvmsK-lGQRF5k5wwAj7xAZgTxXf8yvebHX8_nOvvr9Vi_nsfXvH7N2vcd6V8O6ZcffjK6i66NF23n9z3WIYNKk2BPHb1aRWiRj5DtOGLZU2JAh1bXHbR64hl0gRu5wtVlSmu5pHoeEqs_BX6u0lpdoJLGjgn1zDe3pLVb0uSc60OW-LVB2dpJg6ufhmZEzTpC1u6GWXDzgrwkjFshz4yTpjcTdlLTKroj3RCwT901Xl5wGRvpogfUmsjGi2sKoOCEFJKSTriN9bU_8lkIXYjNc9RQO6rdZWB1d7fFJWLkgBj2yfFMJ9ZhtQ6x5pTmBjUx79zz0K3MFmoAe4w7OrVySxtawkCI4SOfz8IiBv3KNygJFn0TW3B0m7oLArz46rXzVA8CO4iD6YB8YdgsehfdAIxCFUKm3zrVdfC8iCf-VEJcC0kYX6Iw36G65qAFV7tH7mzhYtgIamZUvF_Wt7StSwpcE-P-mnkxIRXe0jt9iZp45TH54sECUAsLxzoik4UnJ8B52nRXZNk7fMebBChc2vRagk3XKmwVLtzbJog9p05B4stFasYMDPOD78d50tiP_XpLQG3BIIa_Xsfh8JlRTGFCG4FTzr2WJzZ6KWh2IaNh4IuJ1LCDys9AmvOCCJhHZ1jmfdp1VZF9-f4fxdCeFWpjg7wIPasZIiuFintsD12stsJy41UheNnx9YAlHay0jXLqd4-SKrfCSSf98vaNjp_HmTpajadBoXsxHJ6i-Npcb7dTf-bVmdsiBmnJfj8D_W6pPObtm_0eZY9aZTPkwe2z4jbxhXCni5d7flhklTSqTKpqglApSyTTmOdcL5tFCjyETa2AyuflQstdNhwlPncONWYt1Wy3ONP5cUa3TTqzU-d4TYwpVmg5GQ9Kd6k_Cxz33ArcehytpVyvorqHCUsZt9Xr3Q09Pt9FDdTnS6UrcRX6sIrtqtjsey1shONWi-8nEdzjaNwv860kDOt2L5F2mXOyGMjhKqyHGfLhbiU0uEk5e3Fq1msVyQw6LpxU405wnsvosLjdbVEyLtqqurnicpWszvM5c15FXMEyqB_McQNExZbVCuuEWQept06O2ulejXgzgL7hL_uNzNx9GOjJfh2Vu4xytKEdvXhEEojDATfjruZ1uyTatOe7pe7tjVQY7Xt-Rfzs7CF3nLnAvztBZC3_BW_t6aM"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTA-dci-fHxMBK-4JqfNIKEHmOkBaXigebeiAULCh2SpaHQviz8OachvpP61v5q2fEQJBuULnofWyCLZ5oTSF_PudA86tdtQ6RaFL9kF2k",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTMt5Fq5T8p1HSnvyZIVxVM548N6za2WcxiX5VNUbUCazhrhU7C1NdR3xP7uCUK3_kI4V9A6clAeKPJaIJiAFbh-vP_HvXJDyJsl0wH73L00Zyznx_RwFqw9Q",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTxcEqxnMF5-UOje1QhKxVB-TPOaVt1AoV7vV_aHiiCtU8ib3MiMhzRGqLMumFhhusGAqDNhsBQuTWz9YNfRoBcD9PkOB0abEJ_JCU0GlMODLREg5WZioI1",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTxldFaO1IPAkcq6rCq-biI0TphwJhICyA1m5l1AN9D1O5RSrJ_nToF-SYjoRgEVOwx1YoibDjsHfSdqmtpY_KcK68jGkwU",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQXheA1N3xPRU92e5-Zi_Yo6AQTMYcXW_gSAXBaaSY95CjUxapvZUBv8zdCZHXJJczHtMsrqUSterCmhCcM94kz_XScl0Hj",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQHKdar7D0c5_hvfkjdb5CQWFdGHfyQnMwgthL2_sb7znUUlaXTWNEIk9mDYz5Q1PpiMYZH0fwt4CfVnTUz6ot5wNQttflBQaIAzgWnaexkiedgREHbkHNG",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQPAdaI4WoyB0Geay9JgWYRAws6BL-kF3A_w4OWR6vocd3z3223UmTu7bvBN-c4iJsATH6ht3HfvfBuqlBjRv3RM16or3Dyt3llEEDGhrhylwx757bpI7GJFxY",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQM-LBJDgOxQYTBRhkTBqI4KAIXG1DEf8gIP9Lz_EyRFPY28JnfYni3iGRr5cvQL5vZJeysDHi50TKQWs6FP3eGuPqZYmYz2DwQcWX4rFsBQ_tNehvSXxKFwcE",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR7C4lrCsZz0seqBtbkNcxCMleE-adzPqHru7AGQjHILFFA9MzBEg1HfuMuV3TitPH-PgVJWhgyqQir1bEzSwbcffxqdCXQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTxMW15w-t42WDIvMT4YCAUIHdBWxwpIpMZnQJRQ2jp7H7BZAUWqffNUoLs_YXmee1yfA3HVFR6OcCSAK2P0IDz_b8TWs9Q7g",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR3FjTH898SYea4GTplLVv7ETABcwEzNI8Nke78HXg5-U9fJLrxjvzHE6UVv3kXLKgGnQgB5ajAgK2QzEtfxF9n7c6puBdWLw"
+    ],
+    "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+    "brand": "AMD",
+    "reviews": 4163,
+    "rating": 4.9,
+    "price_range": "$439-$479",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/amd-ryzen-7-9800x3d-8-core-16-thread-4-7-ghz-5-2-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-silver/JXKQHH5XSR/sku/11013402?ref=212&loc=marketplace",
+        "title": "AMD - Ryzen 7 9800X3D 8-Core - 16-Thread 4.7 GHz (5.2 GHz Max Boost) Socket AM5 PCI Express 5.0 Unlocked Desktop Processor - Silver",
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Most popular",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Jul 21 – Aug 1 $16.49"
+        ],
+        "price": "$507.99",
+        "extracted_price": 507.99,
+        "shipping": "+ $16.49",
+        "shipping_extracted": 16.49,
+        "total": "$524.48",
+        "extracted_total": 524.48
+      },
+      {
+        "name": "Staples",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.staples.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.staples.com/amd-ryzen-7-9000-amd-ryzen-7-9800x3d-8-core-4-7ghz-computer-processor-am5-100-100001084wof/product_IM1RF3088",
+        "title": "AMD Ryzen 7 9000 AMD Ryzen 7 9800X3D 8-core 4.7Ghz Computer Processor, AM5 (100-100001084WOF)",
+        "rating": 4.7,
+        "reviews": 289,
+        "payment_methods": "PayPal, Klarna accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Thu",
+          "14-day returns"
+        ],
+        "discount": "23% off",
+        "price": "$444.99",
+        "extracted_price": 444.99,
+        "original_price": "$584.99",
+        "extracted_original_price": 584.99,
+        "shipping": "Free",
+        "total": "$444.99",
+        "extracted_total": 444.99
+      },
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877?item=N82E16819113877&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113877&source=region&negg_topt=0",
+        "title": "AMD Ryzen 7 9800X3D - Ryzen 7 9000 Series Zen 5 8-Core 5.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100001084WOF",
+        "rating": 4.4,
+        "reviews": 2240,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$479.00",
+        "extracted_price": 479.0,
+        "shipping": "Free",
+        "total": "$479.00",
+        "extracted_total": 479.0
+      }
+    ],
+    "stores_next_page_token": "RSSAk3ica15aklmSk3pT1dHXRSGosio1T8FcwdLCwCDC2EXBJbU4uyS_QCGgKD85tbg4v2gJEGcyL87Ny-cCAFSZFJ8",
+    "about_the_product": {
+      "title": "AMD Ryzen™ 7 9800X3D Desktop Processor",
+      "link": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html",
+      "displayed_link": "amd.com",
+      "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.amd.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "This Legend Is Unbeatable Introducing the world s most advanced gaming desktop processors, the AMD Ryzen 7 9800X3D series processor, now with 3D V-Cache technology to push your gaming to new frontiers. Boosted by AMD s advanced Zen 5 architecture and 4nm technology, you ll feel unmatched power in every moment of high performance gaming. Push Past Limitations AMD Ryzen 7 9800X3D Series processors are built with exclusive AMD 3D V-Cache technology, enabling the largest on-chip memory available on a consumer processor up to 104MB. You ll feel insane performance on any game with AMD EXPO memory, designed for increased frequencies to unlock higher and smoother frame rates. Performance That Advances With You AMD Ryzen 7 9800X3D Series processors are made with gamers in mind they re designed for the AM5 platform, enabled with the fastest DDR5 memory speeds, and equipped with PCIe 5.0 for incredible bandwidth. This long-life platform evolves alongside the most demanding games and next-gen processors, so you can upgrade your game fast and easily. Ai-Ready and Destined For Greatness Features 4 Text (Features and Benefits) Unlock the potential of your PC with AI-ready AMD Ryzen processors. Bring incredible speed to every element of your rig including productivity and content creation with built-in AI acceleration and enhanced AI capabilities. Want to supercharge AI enhancements? Pair the Ryzen 9000 Series processors with Radeon RX 7000 Series graphics cards to experience the ultimate performance.",
+      "features": [
+        {
+          "title": "Socket Type",
+          "value": "AM5"
+        },
+        {
+          "title": "RAM Type",
+          "value": "DDR5"
+        },
+        {
+          "title": "Manufacturer",
+          "value": "AMD"
+        },
+        {
+          "title": "Integrated Graphics",
+          "value": "Yes"
+        },
+        {
+          "title": "GPU Type",
+          "value": "Integrated"
+        },
+        {
+          "title": "Clock Speed",
+          "value": "4.7 GHz"
+        },
+        {
+          "title": "Number Of Cores",
+          "value": "8"
+        },
+        {
+          "title": "Boost Clock Speed",
+          "value": "5.2 GHz"
+        },
+        {
+          "title": "Number Of Threads",
+          "value": "16"
+        },
+        {
+          "title": "Thermal Design Power (TDP)",
+          "value": "120 W"
+        },
+        {
+          "title": "Supports Overclocking",
+          "value": "Yes"
+        },
+        {
+          "title": "FSB Speed",
+          "value": "n/a"
+        },
+        {
+          "title": "Memory Type",
+          "value": "DDR5"
+        },
+        {
+          "title": "Max Memory Capacity",
+          "value": "192 GB"
+        },
+        {
+          "title": "Memory Speed",
+          "value": "DDR5-6000"
+        },
+        {
+          "title": "ECC Support",
+          "value": "Yes"
+        },
+        {
+          "title": "Memory Channel Support",
+          "value": "Dual Channel"
+        },
+        {
+          "title": "CPU Model",
+          "value": "Ryzen 7 9800X3D"
+        },
+        {
+          "title": "CPU Series",
+          "value": "Ryzen 7"
+        },
+        {
+          "title": "CPU Generation",
+          "value": "Zen 5"
+        },
+        {
+          "title": "CPU For Use With",
+          "value": "Desktop"
+        },
+        {
+          "title": "CPU Release Date",
+          "value": "2024-11-07"
+        },
+        {
+          "title": "Integrated Graphics Model",
+          "value": "AMD Radeon Graphics"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Air cooling"
+        },
+        {
+          "title": "Included Cooler",
+          "value": "No"
+        },
+        {
+          "title": "Color",
+          "value": "Silver"
+        },
+        {
+          "title": "Length",
+          "value": "5\" (box dimensions)"
+        },
+        {
+          "title": "Height",
+          "value": "Same Z-height (as previous Zen 5-compatible coolers)"
+        },
+        {
+          "title": "Width",
+          "value": "4.8\" (box dimensions)"
+        },
+        {
+          "title": "CPU Lithography",
+          "value": "4 nm"
+        },
+        {
+          "title": "Suitable For Gaming",
+          "value": "Yes"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Gaming"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Gamers"
+        },
+        {
+          "title": "Skill Level",
+          "value": "Enthusiast gamers"
+        },
+        {
+          "title": "CPU L3 Cache",
+          "value": "96 MB"
+        },
+        {
+          "title": "CPU L2 Cache",
+          "value": "8 MB"
+        },
+        {
+          "title": "CPU L1 Cache",
+          "value": "640 KB"
+        },
+        {
+          "title": "CPU Instruction Set",
+          "value": "AVX-512"
+        },
+        {
+          "title": "CPU Virtualization Tech",
+          "value": "Yes - AMD-V"
+        },
+        {
+          "title": "CPU Max Operating Temp",
+          "value": "95\b°C"
+        },
+        {
+          "title": "Release Date",
+          "value": "2024-11-07"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Performance (Cores, Gaming)",
+        "subtitle": "4.7 GHz, 96 MB cache memory, 8-core",
+        "items": [
+          {
+            "snippet": "When it comes to multi-core performance, we see this processor outperforming the 9700X in some tests, but the 265K ultimately",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cpu/guide/best-for-rtx-4080-super/",
+            "source": "PC Guide",
+            "title": "Best CPU for Nvidia RTX 4080 Super - our top picks"
+          },
+          {
+            "snippet": "It features eight cores, providing a total of 16 threads, with a base speed of 4.7 GHz.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/the-amd-ryzen-7-9800x3d-drops-to-an-all-time-low-pricing-the-fastest-cpu-for-gaming-goes-on-sale",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 7 9800X3D is still within $10 of all-time low pricing — fastest gaming CPU on the market discounted, bundles now available"
+          },
+          {
+            "snippet": "find this a worthwhile upgrade given even a 10% gaming boost would see an average frame rate rise from 50fps to just 55fps",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.forbes.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.forbes.com/sites/antonyleather/2024/10/28/amd-ryzen-7-9800x3d-everything-you-need-to-know/",
+            "source": "Forbes",
+            "title": "AMD Ryzen 7 9800X3D: Everything You Need To Know"
+          },
+          {
+            "pros": [
+              "Supports DDR4 RAM"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/best-amd-cpu-upgrades/",
+            "date": "1y",
+            "source": "XDA",
+            "title": "Ready to switch from Intel? Here are the 6 best AMD CPU upgrades"
+          },
+          {
+            "snippet": "it's 20% faster than the Intel Core Ultra 9285K.",
+            "timestamp": "From 0:43",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRmT0z13z-vawmYE7rW0ru4CpXuVX4hQLaVIaNotjDJtJWl_SzyjL8rtMysnpbWxp3lf-RRh-yGF3BQ3pIGj0S7FusVJ22grIgockcurfo",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.reddit.com/r/Amd/comments/1gl6tg2/the_amd_ryzen_7_9800x3d_is_stier/",
+            "user": "DaPoets",
+            "date": "Nov 2024",
+            "source": "Reddit"
+          },
+          {
+            "pros": [
+              "Running around 10 percent faster on average than the 9700X"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.eurogamer.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.eurogamer.net/digitalfoundry-2024-amd-ryzen-7-9800x3d-review?page=6",
+            "date": "1y",
+            "source": "Eurogamer",
+            "title": "Page 6 | AMD Ryzen 7 9800X3D review: obliterating the competition"
+          },
+          {
+            "snippet": "with clock speeds reaching up to 5.2 GHz.",
+            "timestamp": "From 0:18",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRtARYJ-FsGso3pG4YhDQ6KsgCkKQLtxdrnflvc0h6UmNQ5gUzOZXwEW_ecRcZFjm8XqSBXIxq6kxHPenJZdQWzV5V4WMie-PmhFFjavSs",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=nYwqJFeSzMQ&t=18",
+            "user": "Tech King",
+            "date": "Oct 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "available Gaming benefits for gamers Every frame matters The Ryzen 79800X 3D excels in CPU inensive.",
+            "timestamp": "From 1:01",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTv2DHGjtL0X4G409VMdMlErw7Nh3jDOka6iagaAXnZ2Yo2XToxTS_xz0-BSkAO1tbZqQFrqK_doL5EPEswWimpX1krtADd_Lc44Wceww",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=ILvWpAbkByI&t=61",
+            "user": "TechZen",
+            "date": "Jun 2026",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Fast",
+            "snippet": "Insanely fast cpu for gaming and productivity. I installed this processor into my new gaming build and let me say, it is the fastest processor I’ve ever seen or",
+            "user": "Quinn",
+            "date": "9mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "especially paired with high end 50 series!! and atleast 6000 ddr5\n\nruns cool and perform like a silent Beast! especially in 4k with proper GPU !\n\nits 9800x3d!!",
+            "user": "doops",
+            "date": "8mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "It has a base and boost clock of 4.7 GHz and 5.2 GHz, and since its 3D V-Cache is located beneath the CCD and has access to",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cpu/guide/best-streaming/",
+            "source": "PC Guide",
+            "title": "Best CPU for streaming in 2025 - Our top picks"
+          },
+          {
+            "snippet": "The Ryzen 7 9800X3D is AMD's new crown jewel for gamers, combining high clock speeds, Zen 5 architecture, and an advanced",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.wepc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.wepc.com/cpu/guide/best-for-gaming/",
+            "source": "WePC",
+            "title": "Best CPU for gaming 2026: top AMD & Intel processors for your next build"
+          },
+          {
+            "snippet": "If you thought Intel's new Arrow Lake CPUs were power-sippers when it comes to gaming work loads, the Ryzen 7 9800X3D",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9800x3d-review/",
+            "source": "PC Gamer",
+            "title": "AMD Ryzen 7 9800X3D CPU review"
+          },
+          {
+            "snippet": "In my testing, I found the 9800X3D would consume up to 160.3W of power when all cores were pushed in Cinebench.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/amd-ryzen-7-9800x3d-review",
+            "source": "IGN",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          }
+        ]
+      },
+      {
+        "title": "Features (Cache, Overclocking)",
+        "items": [
+          {
+            "pros": [
+              "AM5 socket provides upgrade path"
+            ],
+            "cons": [
+              "Requires AM5 motherboard (additional cost for upgraders)"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpus-for-streaming-under-400",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPUs for Streaming Under £400 UK 2026 | 6 Tested"
+          },
+          {
+            "pros": [
+              "Supports extreme overclocking capabilities"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.fonearena.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.fonearena.com/blog/439254/amd-ryzen-7-9800x3d-price-features.html",
+            "date": "1y",
+            "source": "FoneArena.com",
+            "title": "AMD Ryzen 7 9800X3D Zen 5 desktop gaming CPU announced"
+          },
+          {
+            "snippet": "the easy PCI release button is an absolute lifesaver.",
+            "timestamp": "From 1:32",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRzDlA6-KskybKZ3H2ykV_pL2-gfEk-KX20UXiPV-vsdu8LuRp_5Cc62JkYqf1ShxslcB7bsyd1dEZAqqjJJRCjwH80mFOToFUD-bNjyg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=pAD8k9MqJa0&t=92",
+            "user": "KitGuruTech",
+            "date": "Jan 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "comment this revolutionary change AMD says in placement allows for extreme overclocking of the processor.",
+            "timestamp": "From 4:20",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTkCo1dZ2dK-o-Z4ZIMj7CJrhRgbq2L_dyVQToFe4HvB4QodY9FXjLM0d9c1_AIDdBgC86d5LAAfMdo9mVrLilgXsSbTCOE6NdWpmNXAfA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=amQOwllDXWE&t=260",
+            "user": "Gamers Nexus",
+            "date": "Oct 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "this beast is powered by the AMDB850 chipset optimized for high-speed DDR5 memory CG5 support and overall system stability.",
+            "timestamp": "From 1:51",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTEIA7c0UyRwHtQS3HsZIRPLXThrHpbKm9D3hcgj9SMK9NTHHPhT2wyU9oVUWHQOZapJ24igbAuEAgtPF75mj-Bb62zuKka5ur9IpUr93Y",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=EI7XTABA8B8&t=111",
+            "user": "Legendary Tech",
+            "date": "Oct 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "If you thought Intel's new Arrow Lake CPUs were power-sippers when it comes to gaming work loads, the Ryzen 7 9800X3D",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9800x3d-review/",
+            "source": "PC Gamer",
+            "title": "AMD Ryzen 7 9800X3D CPU review"
+          },
+          {
+            "pros": [
+              "Excellent overclocking headroom"
+            ],
+            "cons": [
+              "Requires BIOS update on some boards"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.propelrc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.propelrc.com/best-cpu-for-rx-7900-xtx-reviews/",
+            "date": "4mo",
+            "source": "Propel RC",
+            "title": "Best CPU For RX 7900 XTX 2026: Expert Reviews & Tests"
+          },
+          {
+            "snippet": "combining high clock speeds, Zen 5 architecture, and an advanced cache layout to deliver unmatched in-game performance",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.wepc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.wepc.com/cpu/guide/best-for-gaming/",
+            "source": "WePC",
+            "title": "Best CPU for gaming 2026: top AMD & Intel processors for your next build"
+          },
+          {
+            "snippet": "As with the prior-gen models, the Ryzen 7 9800X3D doesn't come with a cooler.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9800x3d-review-devastating-gaming-performance",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 7 9800X3D Review: Devastating Gaming Performance"
+          },
+          {
+            "snippet": "the CCD and has access to the IHS, it can better manage its thermal output, resulting in a better overhead for overclocking",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cpu/guide/best-streaming/",
+            "source": "PC Guide",
+            "title": "Best CPU for streaming in 2025 - Our top picks"
+          },
+          {
+            "snippet": "This edition features integrated AMD Radeon Graphics, which includes two graphics cores, eliminating the need for a separate",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/the-amd-ryzen-7-9800x3d-drops-to-an-all-time-low-pricing-the-fastest-cpu-for-gaming-goes-on-sale",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 7 9800X3D is still within $10 of all-time low pricing — fastest gaming CPU on the market discounted, bundles now available"
+          },
+          {
+            "snippet": "An AIO CPU cooler isn't necessary for the Ryzen 7 9800X3D, as these processors were built with efficiency in mind and run",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cooling/guide/best-for-ryzen-7-9800x3d/",
+            "source": "PC Guide",
+            "title": "Best CPU cooler for Ryzen 7 9800X3D – our top picks tested and reviewed"
+          },
+          {
+            "snippet": "In my testing, I found the 9800X3D would consume up to 160.3W of power when all cores were pushed in Cinebench.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/amd-ryzen-7-9800x3d-review",
+            "source": "IGN",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          }
+        ]
+      },
+      {
+        "title": "Compatibility (Memory, Socket)",
+        "items": [
+          {
+            "snippet": "AM5 socket with PCIe 5.0 and DDR5 support",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fhardwired.pbtech.co.nz&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hardwired.pbtech.co.nz/article/2709/amd-ryzen-7-9800x3d-the-fastest-gaming-cpu-in-the-world",
+            "source": "PB Tech",
+            "title": "AMD Ryzen 7 9800X3D: The Fastest Gaming CPU in the World"
+          },
+          {
+            "snippet": "Native DDR5 support has been increased to DDR5-5600, and support has been added for overclocked memory as fast as DDR5-8000.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/amd-ryzen-7-9800x3d/3.html",
+            "source": "TechPowerUp",
+            "title": "AMD Ryzen 7 9800X3D Review - The Best Gaming Processor"
+          },
+          {
+            "snippet": "where you can get an AMD Ryzen 7 9800X3D, Asus B850M-E WiFi motherboard, and 32 GB of Team T-Force Delta 6400Mhz DDR5 RAM",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/neweggs-ryzen-7-9800x3d-motherboard-ram-and-240mm-liquid-aio-cooler-combo-deal-is-only-usd678-just-add-an-ssd-psu-gpu-and-case-for-a-complete-new-pc-build",
+            "source": "Tom's Hardware",
+            "title": "Newegg's Ryzen 7 9800X3D, motherboard, and RAM combo deal is still available for $678 — jump start your next PC build"
+          },
+          {
+            "snippet": "Built for the AM5 platform, the 9800X3D allows seamless upgrades from a Ryzen 7000 series CPU without requiring a complete",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.wepc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.wepc.com/cpu/guide/best-for-rtx-5080/",
+            "source": "WePC",
+            "title": "Best CPU for RTX 5080 in 2026"
+          },
+          {
+            "cons": [
+              "Wouldn't fit into an AM5 socket motherboard"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.yahoo.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.yahoo.com/tech/watch-fake-amd-ryzen-7-120932923.html",
+            "date": "1y",
+            "source": "Yahoo",
+            "title": "Watch out — there are fake AMD Ryzen 7 9800X3D CPUs on Amazon"
+          },
+          {
+            "pros": [
+              "Supports DDR5 memory and PCIe 5.0 for future proofing",
+              "Improved cache placement enhances thermal resistance and memory access speeds"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techporn.ph&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techporn.ph/amd-ryzen-7-9800x3d-desktop-processor-review/",
+            "date": "1y",
+            "source": "TechPorn",
+            "title": "AMD Ryzen 7 9800X3D Desktop Processor Review"
+          },
+          {
+            "snippet": "this beast is powered by the AMDB850 chipset optimized for high-speed DDR5 memory CG5 support and overall system stability.",
+            "timestamp": "From 1:51",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTEIA7c0UyRwHtQS3HsZIRPLXThrHpbKm9D3hcgj9SMK9NTHHPhT2wyU9oVUWHQOZapJ24igbAuEAgtPF75mj-Bb62zuKka5ur9IpUr93Y",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=EI7XTABA8B8&t=111",
+            "user": "Legendary Tech",
+            "date": "Oct 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "these will almost certainly become parts that you buy once Zen 4 stock dries up and the price of Zen 5 inevitably comes down which it's already started to do.",
+            "timestamp": "From 18:03",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR3eFQPzjjMoPaam1cWr5UllKGUayPgeM7t7J_qOpBkXYzRVz8rEoElt9Ykr6Em76sVjo7zpKFDc1xFpB1CO-JLfjQ5iX2glEy73kFFh2o",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=6D76itn65D8&t=1083",
+            "user": "Hardware Unboxed",
+            "date": "Nov 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "I imagine most AM5 motherboards will support it via a simple BIOS update, and I had no issue in booting the CPU on multiple",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.club386.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.club386.com/amd-ryzen-7-9800x3d-review/",
+            "source": "Club386",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          },
+          {
+            "snippet": "Since this CPU isn't compatible with DDR4 RAM, we recommend pairing it with the best DDR5 RAM.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cpu/guide/best-for-rx-7700-xt/",
+            "source": "PC Guide",
+            "title": "Best CPU for RX 7700 XT in 2026: our top picks tested"
+          },
+          {
+            "snippet": "Besides overclocking manually in the motherboard's BIOS, users can also use the Ryzen Master tool to fine-tune performance.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.idc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.idc.com/resource-center/blog/amd-ryzen-7-9800x3d-processor-review/",
+            "source": "International Data Corporation",
+            "title": "AMD Ryzen 7 9800X3D Processor Review: Gaming Performance Redefined"
+          }
+        ]
+      },
+      {
+        "title": "Cooling System",
+        "items": [
+          {
+            "snippet": "There's no cooler included in the box, so plan for a high-quality air cooler or a 240mm AIO liquid cooler.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fhardwired.pbtech.co.nz&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hardwired.pbtech.co.nz/article/2709/amd-ryzen-7-9800x3d-the-fastest-gaming-cpu-in-the-world",
+            "source": "PB Tech",
+            "title": "AMD Ryzen 7 9800X3D: The Fastest Gaming CPU in the World"
+          },
+          {
+            "snippet": "As with the prior-gen models, the Ryzen 7 9800X3D doesn't come with a cooler.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9800x3d-review-devastating-gaming-performance",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 7 9800X3D Review: Devastating Gaming Performance"
+          },
+          {
+            "snippet": "A peak temperature reading of 83 degrees isn't what you'd call a stellar result, especially when compared to the thrifty",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tweaktown.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tweaktown.com/reviews/10897/amd-ryzen-7-9800x3d-processor-all-of-the-gaming-goodness-without-compromise/index.html",
+            "source": "TweakTown",
+            "title": "AMD Ryzen 7 9800X3D Processor Review - All of the gaming goodness without compromise"
+          },
+          {
+            "cons": [
+              "No cooler included in the box",
+              "Higher TDP means you'll need decent cooling"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpus-for-streaming-under-400",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPUs for Streaming Under £400 UK 2026 | 6 Tested"
+          },
+          {
+            "snippet": "system and the ARGB fan setup suggests that this PC is designed not just for looks but also for proper thermal.",
+            "timestamp": "From 2:20",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSRy8WFSmKsZtxej4R7othhi3Npa9uF1ES_sKpAnm6vgDuSpEjWFUeCg58ar-qpd3zXqi8LEUimcc76Tpy3ryhuyzmR-BMcVLwW2RIGpQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=_Pzj03Xxhos&t=140",
+            "user": "Legendary Tech",
+            "date": "Jun 2026",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "now let's talk temperatures under load we were generally seeing CPU temperatures in the high60s.",
+            "timestamp": "From 2:32",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTkwjSlal4qX5ZkSYPMpiFXebBNeR0V0YpzJK7ky2THR05fFTjSWVJlJJ-b3QRXAFc3b8CWiWchVK9n7yaaz7rQg056Ve4B851Qw_dfng",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=gpL4ZFR-te8&t=152",
+            "user": "Luxvibe PC®",
+            "date": "Feb 2026",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "cooling is another area where this rig shines skitec has installed a 360 millime all-in-one liquid cooler with ARGB fans providing unmatched thermal.",
+            "timestamp": "From 1:49",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT8U3H_Vog43BKjaV4CEKGXS_nxRay_fmA-k6dWadbZsg5e9DOAqWLQ4Jl922GTiDVCFEQT5UEVbbcNg1nvZ8KdCcYnC6jI9eMoH4bNOYI",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=_8k94Bdw3pM&t=109",
+            "user": "TechTroveToday",
+            "date": "May 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Stays cool",
+            "snippet": "especially paired with high end 50 series!! and atleast 6000 ddr5\n\nruns cool and perform like a silent Beast! especially in 4k with proper GPU !\n\nits 9800x3d!!",
+            "user": "doops",
+            "date": "8mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "the Ryzen 7 9800X3D, as these processors were built with efficiency in mind and run much cooler than the previous generation",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cooling/guide/best-for-ryzen-7-9800x3d/",
+            "source": "PC Guide",
+            "title": "Best CPU cooler for Ryzen 7 9800X3D – our top picks tested and reviewed"
+          },
+          {
+            "pros": [
+              "Excellent thermal design"
+            ],
+            "cons": [
+              "Requires good cooling",
+              "No stock cooler"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.propelrc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.propelrc.com/best-ryzen-7-cpu/",
+            "date": "9mo",
+            "source": "Propel RC",
+            "title": "Best Ryzen 7 CPU 2026: 8 Model Tested for Gaming Performance"
+          },
+          {
+            "snippet": "As with the prior-gen models, the Ryzen 7 9800X3D doesn't come with a cooler.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9800x3d-review-devastating-gaming-performance",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 7 9800X3D Review: Devastating Gaming Performance"
+          },
+          {
+            "snippet": "the CCD and has access to the IHS, it can better manage its thermal output, resulting in a better overhead for overclocking",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cpu/guide/best-streaming/",
+            "source": "PC Guide",
+            "title": "Best CPU for streaming in 2025 - Our top picks"
+          }
+        ]
+      },
+      {
+        "title": "Power Consumption",
+        "items": [
+          {
+            "snippet": "Ryzen 7 9800X3D gobbles up the entire 120W CPU power (see above) and gets very close to the 162W PPT limit.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.club386.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.club386.com/amd-ryzen-7-9800x3d-review/",
+            "source": "Club386",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          },
+          {
+            "snippet": "It's expected this CPU will have a 120W TDP, which is 15W more than the Ryzen 7 9700X CPU it will join in the eight-core Zen",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.extremetech.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.extremetech.com/gaming/amd-ryzen-7-9800x3d-to-offer-up-to-53ghz-boost-clock",
+            "source": "ExtremeTech",
+            "title": "AMD Ryzen 7 9800X3D to Offer Up to 5.3GHz Boost Clock"
+          },
+          {
+            "snippet": "powering this beast is a 1,300 watts 80 plus gold PSU ensuring stable efficient power delivery even under heavy workloads.",
+            "timestamp": "From 1:41",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRtARYJ-FsGso3pG4YhDQ6KsgCkKQLtxdrnflvc0h6UmNQ5gUzOZXwEW_ecRcZFjm8XqSBXIxq6kxHPenJZdQWzV5V4WMie-PmhFFjavSs",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=nYwqJFeSzMQ&t=101",
+            "user": "Tech King",
+            "date": "Oct 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "there's a 5 GHz maximum advertised boost a 4.2 GHz base and the same 120 watt TDP the TDP formula has not changed.",
+            "timestamp": "From 3:21",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTkCo1dZ2dK-o-Z4ZIMj7CJrhRgbq2L_dyVQToFe4HvB4QodY9FXjLM0d9c1_AIDdBgC86d5LAAfMdo9mVrLilgXsSbTCOE6NdWpmNXAfA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=amQOwllDXWE&t=201",
+            "user": "Gamers Nexus",
+            "date": "Oct 2024",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Powerful",
+            "snippet": "The most powerful cpu I've ever owned. Very satisfied with performance.\n\nBeing the most powerful I was anxious about temperature and paired an AIO Water Cooling",
+            "user": "Daniel",
+            "date": "2mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "This CPU has a max TDP of 181W, while the 9800X3D tops out at 120W.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cooling/guide/best-for-ryzen-7-9800x3d/",
+            "source": "PC Guide",
+            "title": "Best CPU cooler for Ryzen 7 9800X3D – our top picks tested and reviewed"
+          },
+          {
+            "pros": [
+              "Relatively efficient power package of only 120W"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gadgetpilipinas.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gadgetpilipinas.net/2024/11/amd-ryzen-7-9800x3d-review/",
+            "date": "1y",
+            "source": "Gadget Pilipinas",
+            "title": "AMD Ryzen 7 9800X3D Processor Review"
+          },
+          {
+            "snippet": "In my testing, I found the 9800X3D would consume up to 160.3W of power when all cores were pushed in Cinebench.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/amd-ryzen-7-9800x3d-review",
+            "source": "IGN",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          },
+          {
+            "pros": [
+              "Incredibly low 65W TDP",
+              "Very energy efficient"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.guru3d.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.guru3d.com/review/review-ryzen-7-9800x3d-processor/",
+            "date": "1y",
+            "source": "www.guru3d.com",
+            "title": "Review: Ryzen 7 9800X3D processor - Totally Zen for PC Gamers"
+          },
+          {
+            "cons": [
+              "Higher TDP requires better cooling than 65W chips",
+              "Slightly lower boost clock than 9700X"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpus-for-photo-editing",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPUs for photo editing UK 2026 | 6 Tested & Ranked"
+          },
+          {
+            "snippet": "power-sippers when it comes to gaming work loads, the Ryzen 7 9800X3D requires even less power to deliver higher frame rates",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9800x3d-review/",
+            "source": "PC Gamer",
+            "title": "AMD Ryzen 7 9800X3D CPU review"
+          }
+        ]
+      },
+      {
+        "title": "Architecture",
+        "items": [
+          {
+            "snippet": "The Ryzen 7 9800X3D is AMD's new crown jewel for gamers, combining high clock speeds, Zen 5 architecture, and an advanced",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.wepc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.wepc.com/cpu/guide/best-for-gaming/",
+            "source": "WePC",
+            "title": "Best CPU for gaming 2026: top AMD & Intel processors for your next build"
+          },
+          {
+            "snippet": "However, in the Zen 5--based Ryzen 7 9800X3D, this cache is now placed below the processor cores, and is a single piece of",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.idc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.idc.com/resource-center/blog/amd-ryzen-7-9800x3d-processor-review/",
+            "source": "International Data Corporation",
+            "title": "AMD Ryzen 7 9800X3D Processor Review: Gaming Performance Redefined"
+          },
+          {
+            "snippet": "The CPU packs 8 cores and 16 threads, which are similar to previous-gen Ryzen 7 offerings with a 3D V-Cache.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwccftech.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://wccftech.com/amd-ryzen-7-9800x3d-now-available-at-lowest-price-399-usd/",
+            "source": "Wccftech",
+            "title": "AMD Ryzen 7 9800X3D, The Best Gaming CPU On The Planet, Is Now Available At Its Lowest Price of $399"
+          },
+          {
+            "pros": [
+              "Underlying 8-core Zen 5 architecture is incredibly powerful"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fscotlandjournal.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://scotlandjournal.com/amd-ryzen-7-9800x3d-the-definitive-hardware-guide/",
+            "date": "5mo",
+            "source": "Scotland Journal",
+            "title": "AMD Ryzen 7 9800X3D: The Definitive Hardware Guide"
+          },
+          {
+            "snippet": "these will almost certainly become parts that you buy once Zen 4 stock dries up and the price of Zen 5 inevitably comes down which it's already started to do.",
+            "timestamp": "From 18:03",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR3eFQPzjjMoPaam1cWr5UllKGUayPgeM7t7J_qOpBkXYzRVz8rEoElt9Ykr6Em76sVjo7zpKFDc1xFpB1CO-JLfjQ5iX2glEy73kFFh2o",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=6D76itn65D8&t=1083",
+            "user": "Hardware Unboxed",
+            "date": "Nov 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "okay maybe the hardware the IO dies a little anemic for Zen 5 is it a hardware or software.",
+            "timestamp": "From 1:43",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTOkyu3SuR8LWMLFiuh4kRSfbKF5eXeZhDzNYJud-jVo-Z59JWNYpcU7U1W1CZPhb1FoMFhAU_NzdNlSNgMG2SllgZ0HCF_mKTG7c6hgNk",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=KswGlkrNhP0&t=103",
+            "user": "Level1Techs",
+            "date": "Nov 2024",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Quality build",
+            "snippet": "Build Quality:Well-made and solid\n\nFinally I have the chance to obtain one of the high tier processor thanks to god. Recommended cuz got the processor during",
+            "date": "1mo",
+            "source": "shopee.com.my"
+          },
+          {
+            "snippet": "AMD's Zen 5 architecture brings with it heightened IPC.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.club386.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.club386.com/amd-ryzen-7-9800x3d-review/",
+            "source": "Club386",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          },
+          {
+            "pros": [
+              "Zen 5 architecture delivers excellent efficiency"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/best-cpus-for-streaming-under-400",
+            "date": "1mo",
+            "source": "Vivid Repairs",
+            "title": "Best CPUs for Streaming Under £400 UK 2026 | 6 Tested"
+          }
+        ]
+      },
+      {
+        "title": "Integrated Graphics",
+        "items": [
+          {
+            "snippet": "This edition features integrated AMD Radeon Graphics, which includes two graphics cores, eliminating the need for a separate",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/the-amd-ryzen-7-9800x3d-drops-to-an-all-time-low-pricing-the-fastest-cpu-for-gaming-goes-on-sale",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 7 9800X3D is still within $10 of all-time low pricing — fastest gaming CPU on the market discounted, bundles now available"
+          },
+          {
+            "snippet": "In GPU-heavy creator / compute tasks, it lags behind equivalents from Nvidia.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Ftech.sportskeeda.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://tech.sportskeeda.com/gaming-news/5-best-gpus-ryzen-7-9800x3d",
+            "source": "Sportskeeda",
+            "title": "5 best GPUs for Ryzen 7 9800X3D"
+          },
+          {
+            "snippet": "AMD's Ryzen 9000X3D series with 3D V-Cache will start to launch on November 7th",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.forbes.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.forbes.com/sites/antonyleather/2024/10/28/amd-ryzen-7-9800x3d-everything-you-need-to-know/",
+            "source": "Forbes",
+            "title": "AMD Ryzen 7 9800X3D: Everything You Need To Know"
+          },
+          {
+            "pros": [
+              "Includes an integrated GPU Radeon Graphics"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fnanoreview.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nanoreview.net/en/cpu-compare/amd-ryzen-7-9800x3d-vs-amd-ryzen-7-5700x3d",
+            "date": "1y",
+            "source": "NanoReview",
+            "title": "AMD Ryzen 7 9800X3D vs Ryzen 7 5700X3D: performance comparison"
+          },
+          {
+            "snippet": "it's going to run out of VRAM at the higher resolutions.",
+            "timestamp": "From 11:45",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRywHhRPzJ4nWS3fwVM6cB6Z5kOk7EgC5TkYqPuqISb-OW7sze2cPK_-5GMsMmfVryNy7sikv_KrjSchrdVO68YQOUnp4FZrJsHO5Ak9g",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=sfe5lX8URVk&t=705",
+            "user": "Game Tech Reviews",
+            "date": "Nov 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "it supports modern graphics features like fidelity fx and can handle raterace titles with solid.",
+            "timestamp": "From 0:52",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQlXe5iEaIbj4Y4R8HEppg-h0l9utt14bygEoRXx5KH2Qd5C4xh4HC6IdkZiw8d4jwaMmgHvf3gGUZFNRvYuj4DxEUyDy0ELCUn9seM0w",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=2-TJQXfe3fg&t=52",
+            "user": "Tech Trends Hub",
+            "date": "Apr 2026",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Performs well",
+            "snippet": "Runs fast, ever so smooth, no lag or stuttering. What I think impressed me the most though is how cool this thing runs! At full settings on any game, i cant get",
+            "user": "MattB",
+            "date": "8mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Good graphics",
+            "snippet": "Best graphic card and cpu in the game! Hands down very worth the value with this AMD! Beast!",
+            "user": "MiniFridge",
+            "date": "4mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "The PC includes an AMD Ryzen 7 9800X3D and an NVIDIA GeForce RTX 5070.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.digitalcitizen.life&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.digitalcitizen.life/costco-shopper-finds-a-ryzen-7-9800x3d-and-rtx-5070-gaming-pc-for-just-1100/",
+            "source": "Digital Citizen",
+            "title": "Costco shopper finds a Ryzen 7 9800X3D and RTX 5070 gaming PC for just $1,100"
+          },
+          {
+            "snippet": "Granted, you get playable frame rates in these titles only if you drop the resolution to 720p and turn the graphics settings",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fau.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://au.pcmag.com/processors/108143/amd-ryzen-7-9800x3d",
+            "source": "PCMag",
+            "title": "AMD Ryzen 7 9800X3D - Review 2024"
+          },
+          {
+            "pros": [
+              "Can play games without a GPU"
+            ],
+            "cons": [
+              "No PCIe 5.0 support"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/best-amd-cpu-upgrades/",
+            "date": "1y",
+            "source": "XDA",
+            "title": "Ready to switch from Intel? Here are the 6 best AMD CPU upgrades"
+          },
+          {
+            "pros": [
+              "Outstanding gaming performance",
+              "Reduces gaming power consumption by over 30%"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fthetechrevolutionist.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://thetechrevolutionist.com/2024/11/amd-ryzen-7-9800x3d-review.html",
+            "date": "1y",
+            "source": "The Tech Revolutionist",
+            "title": "AMD Ryzen 7 9800X3D Review"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "There is simply nothing better, and if you're serious about gaming, the Ryzen 7 9800X3D is hard to beat.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.wepc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.wepc.com/cpu/guide/best-cpu-for-amd-radeon-rx-9070-xt/",
+            "source": "WePC",
+            "title": "Best CPU for AMD Radeon RX 9070 XT"
+          },
+          {
+            "snippet": "delivers 21% better performance than the 7700X, resulting in a noticeably smoother experience with an average of 131 fps",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techspot.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techspot.com/article/2918-amd-9800x3d-4k-gaming-cpu-test/",
+            "source": "TechSpot",
+            "title": "Is the Ryzen 9800X3D Truly Faster for Real-World 4K Gaming?"
+          },
+          {
+            "pros": [
+              "Unrivalled gaming performance",
+              "Competitive pricing"
+            ],
+            "cons": [
+              "Multi-core performance"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-cpus-for-the-rtx-5070-ti/",
+            "date": "10mo",
+            "source": "GeekaWhat",
+            "title": "Best CPUs to Buy for the RTX 5070 Ti in 2025"
+          },
+          {
+            "snippet": "And high performance content creation whether you're streaming editing videos or juggling multiple high-intensity apps this processor handles it with ease.",
+            "timestamp": "From 0:40",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT8U3H_Vog43BKjaV4CEKGXS_nxRay_fmA-k6dWadbZsg5e9DOAqWLQ4Jl922GTiDVCFEQT5UEVbbcNg1nvZ8KdCcYnC6jI9eMoH4bNOYI",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=_8k94Bdw3pM&t=40",
+            "user": "TechTroveToday",
+            "date": "May 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Ryzen 7 9800X3D is the best gaming processor you can buy, and as a bonus, it now even performs solidly in non-gaming tasks",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.hardwarezone.com.sg&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.hardwarezone.com.sg/pc/components/amd-ryzen-7-9800x3d-review-best-processor-generation",
+            "source": "HardwareZone Singapore",
+            "title": "AMD Ryzen 7 9800X3D review: The best processor of this generation"
+          },
+          {
+            "pros": [
+              "Improves thermals"
+            ],
+            "cons": [
+              "Wastes energy because of the manual voltage setting"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/amd-ryzen-7-9800x3d/26.html",
+            "date": "1y",
+            "source": "TechPowerUp",
+            "title": "AMD Ryzen 7 9800X3D Review - The Best Gaming Processor"
+          },
+          {
+            "snippet": "the 9800X3D is also very energy efficient, meaning its thermal output is very manageable even during intense gaming sessions",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcguide.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcguide.com/cpu/guide/best-for-rtx-4080-super/",
+            "source": "PC Guide",
+            "title": "Best CPU for Nvidia RTX 4080 Super - our top picks"
+          },
+          {
+            "pros": [
+              "Fantastic gaming performance without sacrificing productivity"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pugetsystems.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pugetsystems.com/labs/articles/amd-ryzen-7-9800x3d-content-creation-review/",
+            "date": "1y",
+            "source": "Puget Systems",
+            "title": "AMD Ryzen 7 9800X3D Content Creation Review"
+          },
+          {
+            "snippet": "for overclocking and doesn't have excessive cooling requirements, making this processor one of the best CPUs for pure gaming",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/neweggs-ryzen-7-9800x3d-motherboard-ram-and-240mm-liquid-aio-cooler-combo-deal-is-only-usd678-just-add-an-ssd-psu-gpu-and-case-for-a-complete-new-pc-build",
+            "source": "Tom's Hardware",
+            "title": "Newegg's Ryzen 7 9800X3D, motherboard, and RAM combo deal is still available for $678 — jump start your next PC build"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 74
+      },
+      {
+        "stars": 2,
+        "amount": 11
+      },
+      {
+        "stars": 3,
+        "amount": 31
+      },
+      {
+        "stars": 4,
+        "amount": 120
+      },
+      {
+        "stars": 5,
+        "amount": 3927
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSRTC_726k7YJUGEBJktSxp_t6Ul_wYC-pisUC7N4AMT0I0LrEhzVfepWo2pN0fwigYZ6CC4AndFMglOfcAeuvBwVmkddjU",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTnjKec2EWhvGgnPQuVbR9aypPwtenWZzSSS3cl9hqXDrtB1irA2FN9PSQxXIBGf7nH_-1OH03iBxIWXadUeNq9JVKIlBSOVw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRojEoICHZPmRYAxm3NhWHkjn9wOpeCYu9XWNyMfAvYX4Rwy-nEveNgGo4AY3Jm_L1UbyVWv2jcLyz7DAJTsvcndwrkJdVL",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTCDjl22q7Pd3DYEFNOXn5nk5FcwLS4-rkNvhqQTlOA38siMx80PqdP8pq4hGhz4oFwxaCbeEdf28LbQ0n5uuJ2WGmIvj5rzg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRYW9lqKCn3tHkiouZXNrmqmNU_19iYwES62Iaui4Kr7jKb0iUMmt_EOjaNZFnwzQpGBBn-68ywvv9yjlHIgb4hXo5L-mkZCA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSX-gGggKxWwf4USJZ1ZkqxpZZYQa-kF_pyybd7agCYIIjQaR90IdVn1BfUUH1nJVxIS3s0Y5nx3yyeCR31PKWcGJOaHWOJ8A",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTlJjWklJf-zCAbnlgNKNf-1hyLjGnbzlyWToLmmwvCq5oBVKbY2BeRujXxIVMQ_xPOhI-g2qhZaXCYs-BDztuOoRGiipA-mw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRwkIE5Xy6h8fNfWmI2Y_6hDG-4Xu0S7yOhvlgb8_252ZgPmggngJtyR02xbUxh4XAW5wxrMjXYQIBA74i1G9X8tNy6Wu6U",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQolam4TFJjZu6WgQ8-9E49aUv7Nbl1E1tOz7etvrdu4vQOY9AR25PMUsGYXDuv3I6J3z4ffHXlZoLYdmBzTIY4JuJ7N65d",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTBgGQ7LppjCF_2tgoCmRxCbnPMvVl2M832PrFrkrZsV0UUe_OKxkkcnz6JN-jSFEjnpBZmGrfA8Qp-O7i-8bTocoAWoe7S",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRn1WJpjF5I_vMsCWsw6A1GmPJ6CC0v0AGBUc_KBE0UrvMJkMO2feEtOBHEq5n4ru-EISJx4JkCRs2TOIculUqmVNVgGcv6fg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQGm8MaX3i4I3Cl2zBN1JyZ7Y1qMoSWAQ5pDSxERe7sZH0POsburCOzDqfLYP6s3VT1evS15ij-UNvcbOG1hG8wPWSBNgSc",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSXNgbiLUhnm9cX3lcjwTRJPey4XV80gu8mIIvxNLPr0ulRVlbAOxQxO7tOek924oCBrLgBVgsO3yhDl0XSVsltDnIM7ktX",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSw_LYUtiSEIQ18jQM1rvdNmmgenwlNFhvUsoLcJ9M-4CeGB8mxgJF18VM-tMGdiwlQSIqqraF3oTIAQa8tCRpObzWaQH0Z",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS_xbKD9DGEN7dY7pAUW4eDJfF9kvrn8ftgDRE42EVLqrJ8asbfzWkyEmsK_-WOfKGj-681suH2GPEcasZqTiCjM4SJAinM"
+    ],
+    "user_reviews": [
+      {
+        "title": "Great....when it works",
+        "text": "Well I bought this from Overclockers the DAY it got released! So excited, the last peice to a brand new gaming machine. The most money I've ever spent on a rig. Got it installed and wow...the performance was above expectation. Boot times around the 5 second mark. Playing Minecraft, Elite Dangerous, No Man's Sky on ULTRA resolutions without a shudder. Running multiple VirtualBox machines (Windows and Linux) at the same time, assigning cores and memory. Flawless, absolutely flawless. Then....18 months later....blue screen. Change memory....bluescreen. Change motherboard...blue screen. Swap out graphics, storage, power supply....blue screen. Buy a new chip....back to flawless. Overclockers will only deal with you within one year. After that you're dealing with AMD RMA process. The whole return process is so painful. Not impressed with Overclockers assistance, nor the process AMD have setup. With the newer 9000 series chips out, do your research. If your chip has even a hint of bad batches, go with another chip. This chip is amazing, when it works. When it doesn't, you will need oceans of patience getting it replaced. If you're buying this to overclock...first off shame on you...second I never stress my hardware that way so can not report on performance or behaviour.",
+        "source": "overclockers.co.uk",
+        "rating": 3,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2caRtLOuLToXstjBAIbQkKyLEbgwkvuSO8cbBV7DTq3zsL_nGmco2-v7c7qJDRwUG6bw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Top-Tier Gaming Experience",
+        "text": "This is my first gaming PC and I regret not getting this one in particular sooner. It can run pretty much any game at high settings with awesome framerates (I can get insane graphic fidelity and 120 minimum on every game I've tried, including Cyberpunk) and it was an absolute breeze to set up, took me about an hour, max. The price is also a huge selling point - I got mine on a substantial discount, but even at full price it represents a great value in lieu of getting every component and assembling it yourself. Only possible downside is it can get loud (not too bad) and that it doesn't have a NVIDIA graphics card, but it's so beastly that it doesn't really matter. I would highly recommend this product to anyone who wants a top-tier gaming experience for a great deal.",
+        "user_name": "anonymousgamer",
+        "source": "skytechgaming.com",
+        "rating": 5,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK31jc96F55J_aSorbPNGuzjjoCgB-Ymgf9fKkisp-P4u01_K9eyDc8OvDEt969bgz-hJg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Excellent CPU",
+        "text": "Bought few days ago for my new build. I liked that the CPU being sold by Scan is Malaysia version. Very cold during gaming . Have paired with 9070XT and can run Crimson desert 1440p at Cinematic setting with 80-85 frames/sec . CPU temp around 50-52 Deg only. When stress tested, temp goes to 76 degrees. Have undervolted and set clock speed increase by 200Mhz. If you just undervold you can temp around 56-60 in stress test scenario.",
+        "user_name": "Zakkk",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2mOgyMVEI-hrEC18X9j5ssmF7bU2n2IH1b8cS8VhpXWFZ3uJAX5-vuLQzNlUtlVDu0Ww=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSRTC_726k7YJUGEBJktSxp_t6Ul_wYC-pisUC7N4AMT0I0LrEhzVfepWo2pN0fwigYZ6CC4AndFMglOfcAeuvBwVmkddjU"
+        ]
+      },
+      {
+        "title": "Perfect Gaming CPU!",
+        "text": "Been using the 9800x3d for a little bit now has been an excellent chip in my freshly built new gaming pc, the 9800x3d runs pretty good temp wise never see higher than 70c at 140w, cpu is locked at 1.2v at 5.25ghz. Currently playing at 1440p with an Rtx 4090 however I plan to move to 4k in the neae future. Overall for majority of gamers this cpu handled anything and everything that you throw at it! Look no further :)",
+        "user_name": "Joshua Bayada",
+        "source": "scorptec.com.au",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3B5ZC6YeVz5_dT3aMkhJP5Xp3mwX3k2Mtu7RpDxVfli8CfPQvK2UdqoNgI5rF1Jf_Iag=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTnjKec2EWhvGgnPQuVbR9aypPwtenWZzSSS3cl9hqXDrtB1irA2FN9PSQxXIBGf7nH_-1OH03iBxIWXadUeNq9JVKIlBSOVw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRojEoICHZPmRYAxm3NhWHkjn9wOpeCYu9XWNyMfAvYX4Rwy-nEveNgGo4AY3Jm_L1UbyVWv2jcLyz7DAJTsvcndwrkJdVL",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTCDjl22q7Pd3DYEFNOXn5nk5FcwLS4-rkNvhqQTlOA38siMx80PqdP8pq4hGhz4oFwxaCbeEdf28LbQ0n5uuJ2WGmIvj5rzg",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRYW9lqKCn3tHkiouZXNrmqmNU_19iYwES62Iaui4Kr7jKb0iUMmt_EOjaNZFnwzQpGBBn-68ywvv9yjlHIgb4hXo5L-mkZCA",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSX-gGggKxWwf4USJZ1ZkqxpZZYQa-kF_pyybd7agCYIIjQaR90IdVn1BfUUH1nJVxIS3s0Y5nx3yyeCR31PKWcGJOaHWOJ8A"
+        ]
+      },
+      {
+        "title": "Performance is amazing!",
+        "text": "I decided to put this in my new Mini Fractal Terra PC. Initially I was worried about temps and airflow due to the limited space and the first round of benchmarks did have it overheating lol (instant 92C😅) Turns out, I actually didn’t fit the cooler correctly so whoops on my part lol.\nAnyway so after fixing that I found a great tutorial on YouTube and undervolted the 9800X3D Just a tiny bit to help lower temperatures. Booted her back up and…. Boom, Performance is practically the same and it never goes above 58°C In gaming.\nPOE2 1440p 144fps max settings??? No problem.\nSo yes I am incredibly happy with my purchase And I’m sure I won’t need to upgrade this thing for many years.\nI also bought my power supply from Scan and it was delivered promptly and was the perfect fit for my case.\n\nThanks again guys👋🏻!!\n\nHere is the link to my build if anyone’s interested😎\nhttps://uk.pcpartpicker.com/b/T4K323",
+        "user_name": "Fin Evans",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0EknncaXAMBFk55KRoGYI-oSn5G0GGHPmshsjLz1v-jL7aAK-pLXb-PTj8CdCKuDm50g=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTlJjWklJf-zCAbnlgNKNf-1hyLjGnbzlyWToLmmwvCq5oBVKbY2BeRujXxIVMQ_xPOhI-g2qhZaXCYs-BDztuOoRGiipA-mw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRwkIE5Xy6h8fNfWmI2Y_6hDG-4Xu0S7yOhvlgb8_252ZgPmggngJtyR02xbUxh4XAW5wxrMjXYQIBA74i1G9X8tNy6Wu6U",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQolam4TFJjZu6WgQ8-9E49aUv7Nbl1E1tOz7etvrdu4vQOY9AR25PMUsGYXDuv3I6J3z4ffHXlZoLYdmBzTIY4JuJ7N65d",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTBgGQ7LppjCF_2tgoCmRxCbnPMvVl2M832PrFrkrZsV0UUe_OKxkkcnz6JN-jSFEjnpBZmGrfA8Qp-O7i-8bTocoAWoe7S",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRn1WJpjF5I_vMsCWsw6A1GmPJ6CC0v0AGBUc_KBE0UrvMJkMO2feEtOBHEq5n4ru-EISJx4JkCRs2TOIculUqmVNVgGcv6fg",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQGm8MaX3i4I3Cl2zBN1JyZ7Y1qMoSWAQ5pDSxERe7sZH0POsburCOzDqfLYP6s3VT1evS15ij-UNvcbOG1hG8wPWSBNgSc"
+        ]
+      },
+      {
+        "text": "Performance:Superb\nBuild Quality:Great\n\nMy greatest and expensive upgrade from 5600X to 9800X3D. Now I can game as hard as I can with RX 7800 XT. Might upgrade gpu to better one later but still it got some kick. 5 star!",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSXNgbiLUhnm9cX3lcjwTRJPey4XV80gu8mIIvxNLPr0ulRVlbAOxQxO7tOek924oCBrLgBVgsO3yhDl0XSVsltDnIM7ktX",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSw_LYUtiSEIQ18jQM1rvdNmmgenwlNFhvUsoLcJ9M-4CeGB8mxgJF18VM-tMGdiwlQSIqqraF3oTIAQa8tCRpObzWaQH0Z"
+        ]
+      },
+      {
+        "title": "Perfect match for the RTX 5090.",
+        "text": "Extremely high gaming performance CPU. It’s a perfect match for my 5090. Performs beautifully at 1440x3440 resolution helping my system push out blisteringly fast frame rates at very high image quality.",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23r66avmJdvDqa1p2EzrvhGClOVbJqjWQ8tFP802fp9ZNViq2Eb7ZffsS_H9FO82m34g=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS_xbKD9DGEN7dY7pAUW4eDJfF9kvrn8ftgDRE42EVLqrJ8asbfzWkyEmsK_-WOfKGj-681suH2GPEcasZqTiCjM4SJAinM"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "A Ryzen 7 9800X3D? In this economy?!",
+        "link": "https://www.youtube.com/watch?v=WS8so3oyAac",
+        "source": "YouTube",
+        "channel": "Iceberg Tech",
+        "duration": "11:11",
+        "thumbnail": "https://i.ytimg.com/vi/WS8so3oyAac/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kShLZ2oS2IjN5YXeHU-aqrrHVpFg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQVCy61nWUh5q3zwCe6USbobRMISl-hSMQAWw"
+      },
+      {
+        "title": "AMD Ryzen 7 9850X3D CPU Review & Benchmarks | Gaming ...",
+        "link": "https://www.youtube.com/watch?v=-InE1Nebnj8",
+        "source": "YouTube",
+        "channel": "Gamers Nexus",
+        "duration": "26:20",
+        "thumbnail": "https://i.ytimg.com/vi/-InE1Nebnj8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kWAhISV-W_kkxkitAjl8lcmRAK0g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRJipAY43eeSZFNu8wwUCwXMBVyvP9D4-ahMQ"
+      },
+      {
+        "title": "Ryzen 7 9850X3D: Worth It… or Just Buy a 9800X3D?",
+        "link": "https://www.youtube.com/watch?v=d6SaUENgsig",
+        "source": "YouTube",
+        "channel": "ImWateringPSUs",
+        "duration": "4:10",
+        "thumbnail": "https://i.ytimg.com/vi/d6SaUENgsig/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k7S9dgHXgyntI96N75lkea4SvqdQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT9dUm30ZkV79VypiVJDl_8MI7Dz2FeBR_yFQ"
+      },
+      {
+        "title": "Is AMD Ryzen 7 9800X3D Any Good For Gaming?",
+        "link": "https://www.youtube.com/watch?v=y7TgZ5pSXqI",
+        "source": "YouTube",
+        "channel": "Techno Panda",
+        "duration": "4:09",
+        "thumbnail": "https://i.ytimg.com/vi/y7TgZ5pSXqI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mPM2x3Wpx3MLiusuePgIFH_EVEwA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQb0EfDSEO5FrblBflyt8tF1OmPQ6aIigR13g"
+      },
+      {
+        "title": "Ryzen 7 9850X3D Vs 9800X3D - Not really worth it (at all)...",
+        "link": "https://www.youtube.com/watch?v=NykAq6oLjoU&vl=en",
+        "source": "YouTube",
+        "channel": "Tech YES City",
+        "duration": "7:51",
+        "thumbnail": "https://i.ytimg.com/vi/NykAq6oLjoU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3negzKgZzevUTTmPtRt8oj774pA9g"
+      },
+      {
+        "title": "The KING of gaming CPU’s just gotten a tiny bit faster...AMD Ryzen 7 ...",
+        "link": "https://www.youtube.com/watch?v=B-8NAIJ8Vs4",
+        "source": "YouTube",
+        "channel": "ALKtech",
+        "duration": "12:53",
+        "thumbnail": "https://i.ytimg.com/vi/B-8NAIJ8Vs4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kGXseeEiHdSZvN8f0qmTkrnOyFlA"
+      },
+      {
+        "title": "Ryzen 7 9800X3D rapid review",
+        "link": "https://www.youtube.com/shorts/3GqFpTQwcf4",
+        "source": "YouTube",
+        "channel": "PCWorld",
+        "duration": "1:31",
+        "thumbnail": "https://i.ytimg.com/vi/3GqFpTQwcf4/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3lsFjWvmGMw5lhH9MUFCp0RaCqepA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTGLnweYJnGS8W0HuKQxxPLyj7ani7WxQYXIw"
+      },
+      {
+        "title": "AMD Ryzen 7 9800X3D Review - Hail to the Chief",
+        "link": "https://www.youtube.com/watch?v=j8eZSt4f6tw",
+        "source": "YouTube",
+        "channel": "KitGuruTech",
+        "duration": "19:57",
+        "thumbnail": "https://i.ytimg.com/vi/j8eZSt4f6tw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m_AqC7T4w3cq1guqaebOZvfMolwg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSfgRLABSHvKtkBK4ELnMlm1q8edZdnpTZKyg"
+      },
+      {
+        "title": "UNTOUCHABLE - Ryzen 7 9800X3D Review",
+        "link": "https://www.youtube.com/watch?v=8H0xeRE21_w",
+        "source": "YouTube",
+        "channel": "Hardware Canucks",
+        "duration": "20:08",
+        "thumbnail": "https://i.ytimg.com/vi/8H0xeRE21_w/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lRu4UaOOStCofIN6QYl7fCuxbVZA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSu1Hx_7WSXXJaitbJdn4194VAqpAO27CaKiw"
+      },
+      {
+        "title": "Ryzen 7 9800X3D Vs 7800X3D on BIG Multi (BF 6, Arc Raiders, CS ...",
+        "link": "https://www.youtube.com/watch?v=pduCWtP3xH8&vl=en",
+        "source": "YouTube",
+        "channel": "Tech YES City",
+        "duration": "13:54",
+        "thumbnail": "https://i.ytimg.com/vi/pduCWtP3xH8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nSMK-ataJllhDsJZWTbJhCnKs-QQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRiiziKU3LSQ0OzuihN4PZCgdmCR-wm0WTeTw"
+      },
+      {
+        "title": "AMD Ryzen 7 9850X3D Review - 50 Games Tested (1080p & 1440p)",
+        "link": "https://www.youtube.com/watch?v=yHgrMXT1fz4",
+        "source": "YouTube",
+        "channel": "Techtesters",
+        "duration": "11:32",
+        "thumbnail": "https://i.ytimg.com/vi/yHgrMXT1fz4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lWcSW7rHjTF-wFC8NOwtnxPYHoGA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQP8ls92PsfDfjbXdW3b8VzDJn5dsI1fGPAEw"
+      },
+      {
+        "title": "Is the 9800X3D Actually THAT Good?",
+        "link": "https://www.youtube.com/watch?v=Y2OX9zxHS3Y",
+        "source": "YouTube",
+        "channel": "UFD Tech",
+        "duration": "13:39",
+        "thumbnail": "https://i.ytimg.com/vi/Y2OX9zxHS3Y/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l6VHSWvWsr_cRjENM1QCFitHPZXw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ1mOnLPXZDnvfh_fEWNwdEx46ejf-trkwMoA"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Hello guys , I was going to build a pc but i rarely see someone going dual amd , did anyone combine ryzen 7 9800x3d with the rx 9070xt ? Is that a good combination for 1440p even 4k ?",
+        "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4348729912077023/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 months ago",
+        "comments": 46,
+        "items": [
+          {
+            "snippet": "Games look great at 1440p, even on a 32 inch display, and is significantly less taxing on your hardware to run.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4348729912077023/#:~:text=Games%20look%20great%20at%201440p%2C%20even%20on,less%20taxing%20on%20your%20hardware%20to%20run."
+          },
+          {
+            "snippet": "The 32:9 aspect ratio offers several benefits for gaming, including a more immersive experience with a wider field of view and a more cinematic feel.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4348729912077023/#:~:text=The%2032:9%20aspect%20ratio%20offers%20several%20benefits,of%20view%20and%20a%20more%20cinematic%20feel."
+          },
+          {
+            "snippet": "The 9800X3D pairs perfectly with the 9070XT no bottlenecking at 1440p and still solid scaling at 4K.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4348729912077023/#:~:text=The%209800X3D%20pairs%20perfectly%20with%20the%209070XT,1440p%20and%20still%20solid%20scaling%20at%204K."
+          }
+        ]
+      },
+      {
+        "title": "Is it worth swapping Ryzen 9 9900x for Ryzen 7 9800x3d for better FPS?",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1347305343736169/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a month ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "It's a single ccd chip processor with 3d v-cache, and for Gaming, it's honestly a total beast.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1347305343736169/#:~:text=It's%20a%20single%20ccd%20chip%20processor%20with,for%20Gaming%2C%20it's%20honestly%20a%20total%20beast."
+          },
+          {
+            "snippet": "So, if you're after a more budget-friendly CPU that still handles gaming like a champ, the 9800X3D is definitely worth considering.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1347305343736169/#:~:text=So%2C%20if%20you're%20after%20a%20more%20budget%2Dfriendly,champ%2C%20the%209800X3D%20is%20definitely%20worth%20considering."
+          },
+          {
+            "snippet": "In addition, the new model has the 3d v-cache placed directly under the chip, which makes temperatures more even, and it can also be manually overclocked to squ",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1347305343736169/#:~:text=In%20addition%2C%20the%20new%20model%20has%20the,can%20also%20be%20manually%20overclocked%20to%20squ"
+          }
+        ]
+      },
+      {
+        "title": "Is the Ryzen 7 9800X3D better than the Ryzen 7 7900X?",
+        "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4094330224183661/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 22,
+        "items": [
+          {
+            "snippet": "The best AM5 CPUs for gaming at 1440p are the Ryzen 7 7800X3D and Ryzen 9 9800X3D, offering top- tier performance and minimal bottlenecking.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4094330224183661/#:~:text=The%20best%20AM5%20CPUs%20for%20gaming%20at,offering%20top%2D%20tier%20performance%20and%20minimal%20bottlenecking."
+          },
+          {
+            "snippet": "So, if you're after a more budget-friendly CPU that still handles gaming like a champ, the 9800X3D is definitely worth considering.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4094330224183661/#:~:text=So%2C%20if%20you're%20after%20a%20more%20budget%2Dfriendly,champ%2C%20the%209800X3D%20is%20definitely%20worth%20considering."
+          },
+          {
+            "snippet": "Beter for Gaming than a none X3D chip, but not as good as the 7800X3D.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4094330224183661/#:~:text=Beter%20for%20Gaming%20than%20a%20none%20X3D,but%20not%20as%20good%20as%20the%207800X3D."
+          }
+        ]
+      },
+      {
+        "title": "How are they going to name the next CPU after the 9800x3d? Is it going to be like a 10800x3d or what?",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1530918938708141/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 months ago",
+        "comments": 25,
+        "items": [
+          {
+            "snippet": "With an 8-core, 16-thread configuration, and a notable clock speed boost of up to 5.2 ghz across all cores, this processor is designed for top-tier Gaming perfo",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1530918938708141/#:~:text=With%20an%208%2Dcore%2C%2016%2Dthread%20configuration%2C%20and%20a,processor%20is%20designed%20for%20top%2Dtier%20Gaming%20perfo"
+          },
+          {
+            "snippet": "With its impressive clock speeds, enhanced cache, and potential game bundles, this processor is shaping up to be the ultimate upgrade for gamers who crave peak ",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1530918938708141/#:~:text=With%20its%20impressive%20clock%20speeds%2C%20enhanced%20cache%2C,ultimate%20upgrade%20for%20gamers%20who%20crave%20peak"
+          },
+          {
+            "snippet": "Here's a breakdown of what makes this processor a game-changer: performance boosts and specs clock speeds: base clock: 4.7 ghz (900 mhz higher than its predeces",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1530918938708141/#:~:text=Here's%20a%20breakdown%20of%20what%20makes%20this,ghz%20(900%20mhz%20higher%20than%20its%20predeces"
+          }
+        ]
+      },
+      {
+        "title": "If you had unlimited money, would you still get the 9950x3d over the 9800x3rd, even though the 9950x3d is not better at gaming? Just out of curiosity",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1340006244466079/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 42,
+        "items": [
+          {
+            "snippet": "The 9800 absolutely is a little bit slow doing basically any multitasking, even streaming while playing in 4k can significantly lower performance vs the 9950",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1340006244466079/#:~:text=The%209800%20absolutely%20is%20a%20little%20bit,can%20significantly%20lower%20performance%20vs%20the%209950"
+          },
+          {
+            "snippet": "``The extra L3 cache on the AMD Ryzen CPUs really helps with texture streaming in open-world RPGs.''",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1340006244466079/#:~:text=%60%60The%20extra%20L3%20cache%20on%20the%20AMD,helps%20with%20texture%20streaming%20in%20open%2Dworld%20RPGs.''"
+          },
+          {
+            "snippet": "It is, ever so slighty, turn off the 2nd CCD + an OC and it's a 9800X3D with a much higher boost clock.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1340006244466079/#:~:text=It%20is%2C%20ever%20so%20slighty%2C%20turn%20off,9800X3D%20with%20a%20much%20higher%20boost%20clock."
+          }
+        ]
+      },
+      {
+        "title": "AMD Ryzen 7 9800X3D 8 Core, 16 Thread Desktop Processor : r/GearUpGaming",
+        "link": "https://www.reddit.com/r/GearUpGaming/comments/1pyjiap/amd_ryzen_7_9800x3d_8_core_16_thread_desktop/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "6 months ago",
+        "items": [
+          {
+            "snippet": "If gaming is your priority, this is the best CPU on the market for pure gaming performance.",
+            "link": "https://www.reddit.com/r/GearUpGaming/comments/1pyjiap/amd_ryzen_7_9800x3d_8_core_16_thread_desktop/#:~:text=If%20gaming%20is%20your%20priority%2C%20this%20is,on%20the%20market%20for%20pure%20gaming%20performance."
+          },
+          {
+            "snippet": "It also beats Intel's newest Core Ultra 9 chips by 20 to 40 percent in CPU bound titles while using less power.",
+            "link": "https://www.reddit.com/r/GearUpGaming/comments/1pyjiap/amd_ryzen_7_9800x3d_8_core_16_thread_desktop/#:~:text=It%20also%20beats%20Intel's%20newest%20Core%20Ultra,CPU%20bound%20titles%20while%20using%20less%20power."
+          },
+          {
+            "snippet": "If you care about heavy editing or 3D rendering more than gaming, this is not the best pick.",
+            "link": "https://www.reddit.com/r/GearUpGaming/comments/1pyjiap/amd_ryzen_7_9800x3d_8_core_16_thread_desktop/#:~:text=If%20you%20care%20about%20heavy%20editing%20or,gaming%2C%20this%20is%20not%20the%20best%20pick."
+          }
+        ]
+      },
+      {
+        "title": "Upgrade from 7800X3D to 9800X3D worth it or no?",
+        "link": "https://hardforum.com/threads/upgrade-from-7800x3d-to-9800x3d-worth-it-or-no.2040239/",
+        "source": "HardForum",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fhardforum.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "It'll run any game at 1440p/High settings for years.",
+            "link": "https://hardforum.com/threads/upgrade-from-7800x3d-to-9800x3d-worth-it-or-no.2040239/#:~:text=It'll%20run%20any%20game%20at%201440p/High%20settings%20for%20years."
+          },
+          {
+            "snippet": "I just actually made this upgrade, two of the biggest things i noticed was my temps went down 8-10c, the other is all the cores boost to 5225ghz.",
+            "link": "https://hardforum.com/threads/upgrade-from-7800x3d-to-9800x3d-worth-it-or-no.2040239/#:~:text=I%20just%20actually%20made%20this%20upgrade%2C%20two,is%20all%20the%20cores%20boost%20to%205225ghz."
+          },
+          {
+            "snippet": "And modern games play nicely with it too, as I do use DLSS agressively.",
+            "link": "https://hardforum.com/threads/upgrade-from-7800x3d-to-9800x3d-worth-it-or-no.2040239/#:~:text=And%20modern%20games%20play%20nicely%20with%20it%20too%2C%20as%20I%20do%20use%20DLSS%20agressively."
+          }
+        ]
+      },
+      {
+        "title": "9800X3D vs ?????? :: Hardware and Operating Systems",
+        "link": "https://steamcommunity.com/discussions/forum/11/595137242880600122/",
+        "source": "Steam Community",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fsteamcommunity.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "It's the best gaming CPU for most people.",
+            "link": "https://steamcommunity.com/discussions/forum/11/595137242880600122/#:~:text=It's%20the%20best%20gaming%20CPU%20for%20most%20people."
+          },
+          {
+            "snippet": "It was a huge jump up from what AMD's previous offerings were, finally brought higher core counts to the market, kept the low price, and while it was a bit slow",
+            "link": "https://steamcommunity.com/discussions/forum/11/595137242880600122/#:~:text=It%20was%20a%20huge%20jump%20up%20from,and%20while%20it%20was%20a%20bit%20slow"
+          },
+          {
+            "snippet": "It went up against AMD's own upcoming 7000 series and matched it in games (not outside them though).",
+            "link": "https://steamcommunity.com/discussions/forum/11/595137242880600122/#:~:text=It%20went%20up%20against%20AMD's%20own%20upcoming,it%20in%20games%20(not%20outside%20them%20though)."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "AMD Ryzen 5 7500X3D Desktop Processor",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSB_ed3XEioVkhQAOdMGHoVXUQAgDy60GYpaoNJB_pgm51KI2tZU4vKICN47LXknPihOy_17l7cLvJe7y_y0BbbMXycgWwMmS6vViEuQuIhLKc29MFV9p3wKA",
+        "price": "$281.99",
+        "extracted_price": 281.99,
+        "original_price": "$300",
+        "extracted_original_price": 300,
+        "reviews": 37,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FH_u13icdVTLrqNGEI3mA6Is8gtZXVnqprt5ZGfzsI0v2Lwaw8bCNDaYpwFfY5SvuZMZabKciZRtfmNmkW8Jd9ZJLXpzqk6dU6Xqf3746TXJ_mIXmETtBa6OO5-Y9U5oL4vSMj41bc1ucZ-xPyEBEkc4AETMYRFjRATyKY76qKjPGfvCIQkIWMCQA5wAiMBz4uc0iViRVcn2dEpapY7fWHhREDiJcIgXeQlBwkv8H1kZnZPv-BdJ5AiGhEAeTGQiBrz0vmXdV7yTD5AT0VQmQAIBxwGEBR7_trO3yuF_wA_XW9I-vuL41rZJ1T-VUVZ1fZtE5RNLuryvm6ed_BQ3t6e4Lpu6esuZ5PNPVXL_cG6-6_0P2vdlxj5PDvHkUQCQ40UiAATeNy_9a3p-PRevt-41LV6T6mMdNS-n-Nu7n9X6rsjdXba8pqGKDVwVXkMu1BwvvRgXio-eDgOY5gFtiAdN2_W0hU9pdBwp51d65Y36KULsESFbdjlAYiUtGVUhHQ3i53BjF41JVXNvQg_GSzo4INxsV3HvePFgXXQYlwUK9trOAt098U3XUOKHAwiOqAG2VBqiIoa0HJZ2KUI3X3OxOhTBxV7QvEHM0xdOVVyPK31wSxGZmqRZPngctSL1yr5yK_slcUPFQnrIIHWDkSlHPxwdJRw9v0mdsdgl_tBaJcORpq8T1SLM73EEepB4sD5yBrQLk2ypTeyJ5dnT94la9xbVmrjULiHwyJGmGyPv_QhIslEVo1vallsS5KLQcThaOyqrtm5KTbXfmHlYxpe0m-abGhft5o3a0ivJw1mynvnhYz8WEwYvtkfuSQbugV9cXR8PDqfi2D1PGowhXNlb14fLaSYbE5pFsF87Gmh406dprISVA3o3rlgWwTlimqSaqgqWmb6wV-Zj64e2jaa9qMwKoVYanO4bdEFM1PhBRTc-FfsILezfh649fQVzjfTOVpDBwW3lCAos0OL9rrKXujmXSYt31q9QEDHhIZQ4jkcf47rOs-Tbux_nqvwLUuZMp2r0QhpOVnlO2M_Nc3Wqw0VF1ls338MXCxctFRS4kbfza2NhIs4fmRH3yv0XtHhS6MTRzRbdsnRlm9QvqoGZEw7l8HhcmxtezMzJrSMfD4cZbKz1fIq3usPBSabDSmaOa-_eZJhleI_Q9e6mrrfPklzoFiBeyITk87UjsRAj001mwdw-7ctiDnMPS5mcmty-E3BqnArKLRdataOJgrsZ25XxTI-N83BU-3DOLr36Xa25VqZeBKHprQh67rrlWio2QdHYR44Bs1IKa1p0ptdBaSviel5faL737DzU82x7aOR9Sc47ORyvPBzDoDus051A2ufqIETVOkUS70v7zb5oZ45nWxtS0jJG-upaPj8vHAk455URy-hqi6nknFaPUecF9S5v8ofJrzfHzU0UwW0ToIwDTtNq3Rbyc11a5FSJwLMfu8_Hs3wd845uW9iU-H7YSmD0bF85Hp6Di5UwxEpWs7sbCSQyEDQTNGjDbh3J_QHXa8U9qDHp9DEdHDy7uY7ZzaaLHw0_WK6n_-f097-bKeSj"
+      },
+      {
+        "title": "AMD Ryzen 7 9700X - Ryzen 7 9000 Series Granite Ridge (Zen 5) 8-Core 3.8 GHz - Socket AM5 65W - Radeon Graphics Processor - 100-100001404 - Bulk - OEM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTuY14lZ9iLmifztfwcLpEOosSlCZ_f_QfOb7MeFnGEoARNGrj3OfYfcm6Cd5fRxFo6I1-nhHjJGMSaU7b2xd9KrhTg7I1yhddMAJthy7VHrC7_bITYzLiL",
+        "price": "$254.99",
+        "extracted_price": 254.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pJGNHXicJZPJrqNGFECTfECUn8jKslQDBSY7JvsZ22UzFZiNhQGbqQADfh6-Jnqdbqmz7ETKNr_Rvci3hJfUojZ1h3OvTv3z3U9vaf5XUsA06gr4ctz5hDY7qStUbm0-t12TXOMhT_6EBMiIIABmAhJmgoCJRD7H0RBVzTlP_sCSDIGMkSiQmYiALAH5S5ZGSZXX6fZ0Sju9iccwIozZBEJAAEACEuUZ-j3n0Tn9_1mSMQFEhBhCKBBxhhD50CX9rx8v17R7fBXia9el9TDhUV73Q5dGfJKkfTk07WSnTeL2Ookb3jb1ewwCSJzU6e3juY3f-eFsrIcFSRwHmY2MUAIfeJ58IZIoiGgGIBzJoTy2_9C-Dm_Z-e1cvV37t6x6S-tPTdS-nuJv3xdGc9O0_qZaXtsy3QaOVyKvNruorl59xooYq9h9CSu3ojwMTC0uBWgVphkV6kB9GPmlzFy_JLHO5qwIaWrM_YjvEUNMd_j55r2wwKsq1dEZixZ3fmRs7vk083R7FXumbTNzEQfV3dWzXVqHeeJnN5vbuevadoIMkAbKkCzKZwLsIvRLlAThM_Tih8XnD8c3K8unJSsz1XpS7Hj3xYaH8wCw-ugTvIeZ7mK6tkpSbDzKju7coWjYHKsQ7svk6rrU2JRseQR3tnZj5BihY3PCqauKRpas0oJV-0BBIRjWHjbxng8WxfbJ1m2Vqk1uefYzLirulSGnxh36RlV6i2rllPOAVnSeeDEOQVjEC-FpWb_d--70FShzMjhbcqXe8mZNx-1TJitFOACXiqmtNMfzL1CajbZAKKPRv09x05R5-u2HHxVD-xnrSmIyI3olLdIMEUmBQs_1qQnVmiy3bhnAV0uoOibpcKVtlUtrjQIrj3wTD_rtZ6xOdDbW6Kdqv-CuZpPm1dgIiRPe-f3xuLRXQZ3S2gGOdjwcprC1lsp43vMOBycddU2njmvv3jFGHW4RvtzczPWCPC2lXgWxqhFSKktHTkIBUzed7hX7FPBKgaUnyLmWURT0kpBtThVDC3Ve71iqC_002fF4asab8_1oDKGSFIPxHy1d6mMvgvF41wSv-36xlKvVvmrtI0oArfXKejiL3Gz23NZnS6UpWBl4dhmaZb49tFrAyXmnhc-LCJ_hvj8ss51EunV9kKJ6mWFZ9OVgFVTd1PFsa0U44zE2Xy58vVYdGTjnl02s4Ys9y2Tn9PJ4mqJk3LRV-aDicnVcXWczcF3tcY6A03bzfgtFxZTVkukRWPuxuz6etcuz7Nm2gy0XboetDJ6e7evHw3pfWGmCE540yc2NJBJtMKQpvs_vu2WkDQehWeruwYhJbz6zuyNMr65D-ymF3nPj7xfL8Vef_v4X08yixg"
+      },
+      {
+        "title": "AMD Ryzen 7 5800X3D Desktop Processor",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTJB855sluY1Nj33AC_dwc62OJJrxkaAcF65M3M8ZCNsjkGefUtMkXrCJrOCir3rcdWCXDyWIjJmMkGiswaO_oI4hVzopADYhUjcqghIxsz5o4W8YToSvr_",
+        "price": "$349.00",
+        "extracted_price": 349.0,
+        "reviews": 193,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=21kS1nicdVTLrqs2FK36AVUH_YWOjiLZYEPojGcSEkhijCGeRARIQngGyEmC-jXn9lZqh7eVOu1v3Dvot5RTddh6YNl72Wvtpe3tv7769i3N_kguMI3aC5wfNgF2643cXrRy6_zStHVyi_ss-R1ioAhYAGCKBDRFSMQy_iWO-qioT-8wwGCqQCgqgiD_sxCUT-c0SoqsStfHY9oadZwlvyGARQlDLAhABgKSgIR_zcrolP4Li2gKsKxgSUQylARJkj-0SfcZbfT9uB1VRyFlKgpTRVAUpPy4IWtj_z_gx-stbZ-fUXxr27TqX8ooq7q-TaPyJUm7vK-bl43-Eje3l7gum7p6PyMAQXqp0vvHUxO_2_oP2g9llnzCsoSkMYLR6BThqQw_NK_92_n0direbt3buXhLq5_rqHk9xl--_s6s74be3fWt3zTMIICaHaZiE3kCnh-AbXuFO-ODZa-YrTNAxDR4tKnFF551frCQETbs7kToMbXIlQwxYhfXDQo-d-a8Swv7Sqp4CKFyZ6wxosHvI0tp46G40vlWpDTR0kobdqGFAiOZUZh0rsCXvOR05CDeoL2u_Ud0KFHvz-CcXDhmFc_XjIcONBEHzDzMGIhBktFZ7_My2TgF3zCTNYeyaR3hTHngQy7atsNqeDAZcIQcUUp6D9o717CYz9jWEVxKCnKjgQW2vl3QvEcuJDcOkzz2C-RB8-lYKmYA657lvo4xjwJcc2hdnLw5RoVtcUvjzswSY8qeu5xhIp6jeNbck5KXvtDwXc69GLAmmbs7f1AfzHSztHAFWijSNkhg4uOCWPxJDG22Nol7KGtIQjb4AV95gRUegg7486JjpS2sjeKRstN9B_mKV2MpQCO5ATvHBq880NO4SrIIqmJiKaZrmmCW2RqZu891wP1Y1GarUPN2fi_S3PIc0AicEeBb1twL7VVqWuSnR9cePwPVwr23xjfXX9y3k_quu0xRL7wH1JVSotaH0w9QniIsQTj2loR-jus6z9IvX3-jmvr3oqEmNjOjV9wIuikJcqi6p-pYc63CizXNQ_i6RUXLZAMu9bV6bbbjY1WfmRP3xv17UXsx2MjRTbRuVlKd4PrVdFDi8Uf5eD6vzQ1pE3d06-mH_X4Cm-1CHcf7vf3eS8fGSiceJZv3NNyS3yPxeqdn6odZmsudBmJNxzhXF56ScCS6NJ3sVHIMy0KFuY-UTD-7QtjJ6OwcCybMNKvasNRA3STZlPHEjp3T42D2XE0uvflPtu7CGLWwKI5zhcVV180WSrHcFQ05CAlwK6PYPr2xEvWuJMZ0odYXloc-ybmdZ-t9o4clPm10PlwlOPBdt1-cNzJuV9VejqrFWVSkQAmXYdFOPJ9sl7hkZSza82u5WmmeArzT3Il18UqmZ8U7zp-DLcnmXV_mT1daLA_L23QKbsudmAnAa1qrW0NJtRUtZ0YEVkFMV4eTfh3yjq1b2JTovl8rYPBJYBz2q91lmyZiUiZ1cqeRjCNHhG4qPqzHZhHp_R7VC4PuzRh39nB-eGhyo57bTVzoD06wmy3G_-f459_KCuTh"
+      },
+      {
+        "title": "AMD Ryzen 7 5800XT Desktop Processor",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQiGmc93wybeJkYu5LCKHlvBNT86owpaqM8SVcH95DLLJ3PiNJ3p8HqlfFURY2POxAcaKxi9bLYgxtUxkoSsUBfs_BnJFqClnEcuofRZ8sdNziRYwz3ixxLLpU",
+        "price": "$209.99",
+        "extracted_price": 209.99,
+        "reviews": 95,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CbP4KHicbVTJrts2FC3yAUUX_YWuDAMkJWrozhpt2ZJsDdSwMWRRtmWNluQn2-jXvDQB0mUaoNv-RrLot1Qv61wC3Jxz7z0k7-F_P_3ymuX_0AvMku4Cl4dtgK1my3cXqdqZn9quobd0yOkXiIGIMAJAYBErsCyDefwpTYakbE5vsMAwCGMRTiHCN6oIPp-zhJZ5ndnHY9YpTZrTv7HI8TyLGAGLLM9gxEH8V14lp-w7_AUyGCCRAYATeIhEDrCs-L6j_Ve0lfeCyE6L4QXEIsAAiAXwx9axlf2PsQ_XW9Y9vrLpreuyephVSV73Q5cl1YxmfTE07Wwrz9L2Nkubqm3qNw4CiJvV2fjh1L6p_UHV91VOP2OeYzkkAAGjCcQT7X37MryeT6-n8vXWv57L16z-2CTtyzH99u5XtRkVuR_lnd-2RHGAS8zRKnfA9wW0CXDiKkafedrSKjTNU1vN92HoKiWIVdGghbOlXqzay7Ny0NveUcllhwhxK-z5kFgBcVBaiXFcO0UciI2txthW4Qsh1tZC96cPTk8aAODCFB2KETlwhWJoIVNnB1chx8RbDTFsJb80oghpeaoCJtCtkjxLNWEc1ay1INFxHvuxYetYd2ty9UEb0cC4eWgHHJ-yNDQk00uRpdGGPiD0K-3hV3GUPrWK1kZCqnYXl9R1FS03dXo0A-OyIS1KinIZBPHG185XLyzXmUdUqz4NpNixUU1HiynXFrGw-zTUJIDmobgj5yLBQ2g9vAkzgwhFpZSnROqTJTVTUjb-UrrRWvO9KmXiQmwiYN2c4G768Gw7UzZRIuiF2iOpaW2rbUJKHxyIdY_KchtXYhBrUu3XFMXFsMlqKbcD85EWo6uBlpsu-5wqce2CwUtrmidwwVBNVC1VBXpuSM7SethB7Hl6vAlBydn6CljEYD2iyYdgfJAcTnpUSACs_7z33fErWGh4cG1-rocwdGR-n2r5mtcHejV9bpoeSsbfIS-wmJtshRCHP6ZNU-TZt3c_L1T5N0ZZUIOoyQtukaxyiA8X1qk-NrFU45XtFSF82bFlR3gFrmV7cW13LBYWj9xMB2X8jZFmCplq9HOp1ytPdnDzoposdeN7dX88ru2NlebWdFpXPuz3c9juVosp3vL2ezebfJXNXc_ZvsmwqnhMmOvonT0_zLOC7yWQSjLGxWLlijRmGcvL5tHCOYZVuYCFz4q5fLZQ2PPs2TyWBOmSVm9JprD9nG6rdG6k5ul-UId4QS-D-l2ttVKmXphhpr3GzKbv9ZVYrqOydQ6IAqtWyt3DnV6iiSpHEVaL5kKK0J-MYRS5vW_lsMKnrRw_rxx8xlG_X523PO429Z5P6tWZEblADNdh2c1d39mtcUWmITKW12qzkVwRuKelmcrM1RHOontcPp4Gx6ujvC4eFrdaH9Y3QQC3dcTkCLhtp_U25BaGKBVEScAmSL3N4SRfn0VP7A62FTvubRE8fSdQDvtNdNlllKHVZKDRS3icmAy0Muau3berRB72bLNSvL2a4t54nu8uO795rtXPLeg_Jxfoq-n_Of77Pzj05Fw"
+      },
+      {
+        "title": "Amd Ryzen 7 5800x3d 8-core 3.4ghz Am4 Cpu",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTMZc7qpS3gbILgiD8BzPzSrl5znXpij2YLzGZ7zTEXI9Tc2K_gqGbxzAeErlYfXlKVQuSYygCICBTSbvMVedHr3LXGfzl2feHNEfcqQ5C3bLrOMABjQrXmwg",
+        "price": "$469.84",
+        "extracted_price": 469.84,
+        "reviews": 193,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KHLh_3icdZTLrqNGEIaTPECUl5jVkaXuhgaTnbnZYAPm1lw2FqaxwVwN-Kp5mjOZkSbLSaRs8xozizxHluFE2aYXrVJVdf9fqar7r-9-es2KP-gJZkl_gqv9NsBmu-X7k1jbxueub-klHQv6O8RAQBgBMGcRO2dZBvP4c5qMSdUeC_obywCMWGEOMEBAmGyO-5JnCa2KJrMOh6yX23RK4xkoMDzg54CBSMCAA-DXok6O2X9hjkUcFBALOUGAwpxhwIeeDl_ZrbSDHJpEIcCTG80FJAis8H7rWPLuf4Ifz5esf3xl00vfZ834UidFM4x9ltQvNBvKse1ettJL2l1e0rbu2uYtBwHEvTTZ7eOxS9-KZjgeAIaZeCHHshCycP6hLugXPJFyaPJCPJ-AAeY-dNfxNT--HqvXy_CaV69Z86lNuush_fb938o1laQ-lWy_64jsABfkVURMOwjASJedSMrqFizN3CL6xi3nkNSCbnrOyjwdH15IcktVT5lScYlfVdlJjakXh3vYXR1P1UJwt91VB_b16DkllPeQ2JYyRj4aQ1KOvakIzf5pOqYSjS4UNAdBzXkeb5aq3DOVjJ4fx_YzLvxlZfhe9XAbJ09qMzdWIruXdSstnbXhx06KoBQifDKJA-JVy7qrCBuK6sReets33YYGVRCQ-BwzqkjL7hDX-i0BztVRcEU8k7ObPCAhvRvL2CIwzoOS4oTJkxSotv10msk2bNRdkyqfNEfkLu8PNzAP8ZOUXjlWpmKzfiWegmUnx08f2o0YW0u6MTxdtmQRZYHJubWuRqDbJkquRqdc8vxcpz5e-5CIBjFPzjOukrqz_FB3XD9iAlXcemWM4pBUhCiuCjrODEieynHjgtFLG1okcMFQVVBMRQHLQhenrjysIPZ8oCDDy58hIp6jxLnfmGeb5NWGdCuKFDY6mc4v96E_fAULFY-uxc-WIQwdid-larHmlyM9Gz43TQglt58hP2cxB6fZRxz-lLZtWWTffvhxoUjvGHlBdaIkV9whSeEQHy7MY3NoY7HBmuWVIbzabNUTXoZryVqcO5vF88WjMNJRvr1jxBeZTHcMM3FY1p7k4PaqGCx143t9fzzO3YUVZ-ZUrSvtd7sZ7GxtMa23c7udm02PJ5u5nrN9wzDr-JYw55uXe35YZCU_iCAVJYzLheYKNGYZ08tm0cI5hHW1gKXPCoWUmygceDY3DhVBS1FttiST2WFGt3U601PjeN8rY7ygp1H5l9bU5EkLM8y0N5jZDMNSE6p1VHXOHlFgNnJlP9ypE21UO_JcW7QnUoa-U8Z6WVi7TgprfNxK8fPMwWccDTst3_K43zQ7Pmm0nBG4QAjXYdXPXN-x17gmdcroq3O92YiuANzjykgl5uzMc8E9rB5PneOVm7QuHyanrffry3wOLuuIKRBwu14dLMgtdEEsiZyATZB6m_1ROj_LgVg97Gr2trME8PSdQN7vNtHJzihDa9rSm5fwODEYaGbMXb1vtUQad2yryd5OSfGgP_O7y84unmsOMxP6TyOIltr0xxz-_AfeLd4n"
+      },
+      {
+        "title": "AMD Ryzen 5 100-100000593WOF",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcStM-T4Qjmw-dBZ0UHeMn3f1l9E1v2jw1otZe_0ZAZIh808uIhTxJapypQLIh_FezCTfa08R30bKHpGlNGULzGUYGspYeJZwthO5uaLV8h6",
+        "price": "$169.99",
+        "extracted_price": 169.99,
+        "original_price": "$300",
+        "extracted_original_price": 300,
+        "reviews": 2000,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NsXyfXicbVRJruM2EA36AEEWuUKvPgyQlKghO2vyKNmah40hi7Ili5RkS56EnOZ3uoHOshMg21yje5GzRD_ILuGiFvVYrx5r4F_f_fCal3-QE8zTywnO99sQW81WvJwUZpuf20tDrllfkt8hBjLCCACJR7zE8xwW8ecs7VPaHEvym8hLAsYclCCSJF7gBIC_FHlKaFnnm8Mhv2hN9sYiCpATMC8BjAHgeChA6deSpcf8XxzLAAhIkpHMcZIAZQEJHy6k-wq26k6WgIghwJADAHJY5vHPW2ej7f4X-ni-5pfnVz67Xi553b-wtKy7_pKn7IXkXdU37ctWfcna60vWsLap3-4ggISXOr9_PLajmC__Jf3ARjcWBV5AoogQliURiDz_ob31r8Xx9Uhfr91rQV_z-lOTtrdD9u3dj3pz19Turtp-2waaA1xuOU91I3JoMdsH7TZnyeAEymlfK2j0G5ZhDz613ISSWwLuXDQkQRrSPg2t1qwD5A608iLHzXSnduuCWr4NTb3q_bAwM2Zoie9wWa2AfIYt56QUMSgWyVxhSRgsNr7smlqxyivHIMC6-0aCguqOIm5pmgHp4pDeokExnMDvU99E2cl--MxJQyOIPYNeE8MqMkDm5on2hD1ST6eHGDpbDzhn26OmOc-QyazAK2GdRYTLouNgV4VrD466DntqgwWIgdwlqHBMTb_n3nHIDB1ZnonMmrYxJA7RgvU-oPMY2CAf49ehbOehBTIXajGU51lNN5a-TGwGTQstTWeGT6MW10EdyBmZ7f3WWwf64LK2TrzqsdGOwJ_TPmeBmXvECLyEt8J-7g-JbnFTRGZV79AWEd2ZJUGySVgPwyCx03lh72Fgh9XRNUArWGFQZFpSu6D3spqUKZxyxJB1S9fBrFwqztx6bsKx-h6Fvk7XZr3kLQa1sV6rYK5ELlhqPuuxb7TKL4_ucvgKpgbu3Q2euXZJ60ipo5B4ql-f5edNOsQ5wvZPUJR4LEAoIyQIn7Kmqcr827vvp7r6ntOmZBno6Q23SNXHiYym1rE-NIlS48XGqyJ4s3l6CUQNrtTN9NzaPJamz9LMeu3-nlNetGDk6CZKN2Oe6uDmpps8cZMHezyf5_bKKxNrfK2r7ne7CWztxXQ8b3G7nZuPa5VPXM_ZvsmwWHJPufPdKzw_KvNK7BSQKSrG1XThyiThOcvLJ_HUOUSMTmHl83KpFhaKOpEvzAMN0Ewx6m2Qa3w3IVuWTZaZeXzs9T6ZklOv_6PWWmhjLsxxo60xt-662UKmq5i2zh6Nw1xr1H66YyeamDmatJg2p6CKfKdKllW52bVqxPBxqybDWYBDEne7RbEV8WVd78S0XhScLIRytIroZeL6jr3CLGDZuKpntl4rrgzc49zMVO7sSIXsHubPYSmI-l1dVU9LWKz2q6skgesq5koE3PZidBsoTJeyUgVaCtZh5q33R_U8VF2wucCW8ffdRgaD74TafreOT3ZOOMJIQ-5eKuLU5KCVcw_jsV2kar_jm4Xm7fQMd8uheLj85Oq5VjexoD-YYTxbjP_P4c-_AdT55hw"
+      },
+      {
+        "title": "AMD Ryzen 9 9950X3D2 Dual Edition 4.3 GHz 192 MB L3 Tray",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQIkXZbs5ww51DXjrBGRJi7QQAPFHEzFf470J0IUg_09erVHr0H_HC5IlNfucPpPIhKB8rM9uVzYH7mS-eSKQknIf0324928CCYZjG_F54mupxcCbPHgY9M1A",
+        "price": "$949.00",
+        "extracted_price": 949.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=B85qqXicLVTLrqNGEE3yAVF-YlaWpW6geWTH0wYbMDTvjYVpbDBPA35-zejezEiT5ShStvmNmUW-JfYotSipVKdOHamO6t-ffnvLy7_JEebpcITL3SZEVrfhhqPUOOaXfujIOZtK8hdEQKAQBQDPUAzPMDTi0JcsndK6O7zaLM8yLAURRJwgAERDJHwt8pTUZZvb-30-KF32wnEUx3MCDRgOvKDPmv6zbNJD_n-fYhFDc09ynqYRC59Y8D6Q8eOn0zkf7t-Y7DwMeTvNmrRsx2nI02ZG8rGaun62kWdZf55lXdN37QtDAYqdtfn106H_wc0ILOApigVQEHiOBRTPvTcl-Yq4l3YeQIh4Fj7Vs-_9ZXorDm-H-u08vhX1W95-7tL-ss--__yuDpksXzLJ8fs-UFzgLWvFfMQg890mUyEO_Jueq8Z-F0kLDNDZu8NNXPtTTKn3sCLI8Q9M3mYIh-SaawnEsMCYqm1zMYVBhYp1ZEiOd2A8T33gEkaBajVWmMjpsl45oWXipkPEh2vbP9BedevT0Fj5Gk-74EBni1r1qpjKfIJTzzKyZQ_TyLqk1bQkmjphoNlxUzA7YNlhYNFJSGz8qB641lJP8a-2FvTmw12vQweFmgBCDA1zEfg4vMmBShwTFmaygJRbJ77VilQcWWAXWG4YBKkJXJD6k4N9E5KGUMHSArFfhDEo1N3RiHYLgyKAVGZY-3FdAzuyKCew4O6mR7jtYBJqV6shawytO6GMwVcIiIADHM9J9UpTM1pHSW24LjQuXuueUq3ekEpg14E_pb5QkyUxrKPmE1_94zYO-29A1NCEbbTATlm3kdRGIfFkvz0J9wu_j3MKOb9DjmeePoPC0xfs56zrqjL__suvoip_oBWRGIGaXlBPySpLcZFoHdp9l0gt0m2viuDFYeoh4BS4km3x1DsM4sV7aWaTcv1ASzMleHKMc2lcNJ7sou6imgzBya253e-n_sxIc6vFAMu77XYOe0cXn_Ga225x_vR5Pseeu3nJsJrkmtKnq1d4flTmFTdKIJNkhCpRxwJJGNry8nksuvuoqUVY-YxQyoVFRSPHFOa-DqiFpLWbIFeYcU42TTY3MvNw26lTIpLjpP5Qa-nKcxei6WduEb0ex4Uu1Ku47t3d825Wq9TOHS9Ko4sbV-F1sTsGVeS7VWJUpb3t5ahBh42cPE4sfCTxuNWLDYeGdbvl0lYvaIENhWgV1cMc-66zQk3QZLSxPDXrtYQFgA9LM5Ppk8sXAt4v7w-D5dSrvKruFquvdqszz4PzKqZLCuB-0EYbsqIhSFWgpGAdZt56d5BPj2oM7AH2DXPd2gJ4-G6o7Lbr-OjkhH56siNXL-VQatLQyumbdtvoqTxtmU5XvK2aodF4FDfMzM8etsa5Bf2HGcYL_fkO9v_8B8NAst4"
+      },
+      {
+        "title": "CPU A R 7 5800X N CPU Processor",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcT4mRMZGNITocGuqFaZwQf3r0eWklWgLqAc6V3ih5BENtlh2FmlfPngEm40lqDFoDj-v9hpvdUNtH_tHk6bXF58u6MlexgovxSx8en40ber7TJyLALhKtWoSNw",
+        "price": "$625.88",
+        "extracted_price": 625.88,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3U9ETnicHZTJrqNWEIaTPECUl-jVlaUzcBiyY7TBBpvRwMbCHGwwowFPPE10b7qlzrLTUrZ5je5FniW-XYva1F9fDSrVfz_99poV_9ATzJL-BBf7zZZY7YbrT1Jtm5-7vqWXdCzoV0iAgAgCgGcQwzMMJhz5nCZjUrXHgv7NchyGHASYZ3meAJZl4Zc8S2hVNNn6cMh6pU2fMo5jIM9AJHAYQwCfUvRXUSfH7Ef4K0T8Ewsgy0DM8gLgnri3ng5_fDxfsv7xjUkvfZ8140udFM0w9llSv9BsKMe2e9nIL2l3eUnbumubdw0CiH1pstvHY_eDTQQIIXrOADHhMWY5Qt7qgn4hHMuwiBcIw0CGY56yt-46vubH12P1ehle8-o1az61SXc9pN9_flP7VJavqWT7XRcoDnBBbFmlyVjYqOxt0FiVAcygKi2k1fv5EZhqS1xVKKgSrG2Yj_FJazzc3mlZ3TNfZ6xF1zhVt6KTkfiaVMT13QixFgZzBsW11UYoTugiXtkFbD3Fvzslc3MRlSIEFyFyLhakc08RSYriwJyCre_ryEfjFPsA7zWj9MMU257l-sBYxlqO1oFROWC8xJXQ0iYndtBF6Zz2plb5VLN6ryZdMGldNGmnbRCcIkAPMRLyfWnI1hyMjuf00VZDW02aaBjrtLYfKfCnGFvSHkDF2dI22-qYVkaXguFhgkrzNXUyF3mUatY1OQW5hYQmesDAbirPcfTQbVoYb7WbVdOVC60HRUbvKxSEwAa2Zyd6qakp1klcmVOsWYGl3p09yDfUFza0id1A00k4aTe_NDb7Uv3zPvSHb0DUyOiu2WPRVmY8HbgVLEUR5MX6JK3y1p-t7N8hxzOEhVBAiOU-pW1bFtn3X34VVfkDVkRqBGpyJR2SVRZxoWgdm0MbSw3R114ZwqvNVH3AKXApr8VzZzOEFx-FmY7K7QOWXpTgyRhm0jCvPdkh7VU1GerG9_r-eJy7CyPNrMYFrrzf7Waws3Xxae95u52bPe88m7mes3lvw6rjW4LPNy_3_LDISm6QQCrJhJSi7go0ZrDlZbNIdA5hXYmw9BmhkJ87DgeOyc1DFaC5pDWbIFOYYUY3dTozUvN436tjLNLTqP7o1tKVZy2C8dM3BK-GYa4L1TKqOmePKLAapbIf7rww2qh2FF4X21NQhr5TxkZZrHedHNbkuJHj6czCKY6GnZ5vONKvmh2XNHqOBXYrhMuw6meu79hLUgd1io3FuV6tJFcA7nFhpjI-O3wuuIfFYzJYTr3Jy_Jhsfpyv7zwPLgsI1wg4Ha9NqwhKxqCVAZKAlbb1Fvtj_J5Kodg3cOuZm67tQAm39kq-90qOtkZxbSmLb15CUcSE0Mrw3ftvtETedwxra54OzUlgzHld5eZXTzXGmYW9CdzG8315zs4_Ps_Hm-0Hg"
+      },
+      {
+        "title": "AMD Ryzen 7 5700 8-Core Processor",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR1yxur5f7X2z1ppANuWIlmwjjC0yh2zmSs18yc8I14fpCLEYr_iTATxkeNbUQdqnZb8n-oEIrXjmcv-eyk7euMpBKv2f-tLjltNIXyW4iRQdZqccXvrd_kYw",
+        "price": "$161.90",
+        "extracted_price": 161.9,
+        "original_price": "$175",
+        "extracted_original_price": 175,
+        "reviews": 246,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qiLkDHicbVRJrttGEA18gCCLXMGrDwHdTTaH7DhqZEuch41AsSlxJkVSE5HTfMcGnKUTINtcw17kLNFPtq4CavOqXj2ghn9--Ok1zf-iBUzjvoCLw87HpN3xfSHXpvG561t6Scac_gkxEBFGAAgsYgWWZTCPPyfxGFft6Q3mRY6HAoSc-HQOQcSAL1ka0ypv0u3xmPZqm-T0Dwwgx0LAiIIIIRKxILK_53V8Sv-HGSAAgYEQ8giKAmJZFnzo6fAV7ZQ9L7I8RNyzA_9k4ADP4V931lbdfx_7eL6k_eMrm1z6Pm3GlzrOm2Hs07h-oelQjm33slNeku7ykrR11zZvOQgg7qVJbx9P3Zua77B-qHP6BfMcyyHMMSJieUHgEPehu46v2en1VL1ehtesek2bT23cXY_Jt3c_a-1NVYabYrpd56kWcHQTuUXUhBNp7HkFSNUZcaljA4qPKJAtk5Gv8Rwajktlt6IXV6OLtLI4B412MsesUWeF6VZFoupqMFldiKLdxqmOXhWNZCGzUbOyiR5pIahGo8alVcirqGxHE3XE9CzslebNaiwmClajCeUrCbwrnevQDRJEQMLEjX4zVE-nk8m4DFVMPyOpf88tH_cmOIFIM8bDRIYYrDSjrMytX10MJtpaPmVTjXi0ojINIrx1VvXGk2CCOs9m9GDj0FsSyAtSepUDvIfptazndZrd6CZxuzACuE01UXF8sjw0VWY6JCI-9sLJQNtFpxuliHxVHoza2oRwdYnKaGUh6tH5EqWaHhkBncLCncKmuvm-5doqmR8qHRxUvYnmVRgFRPYdrzTAPYz0iPMKi3Uda6TIWph1pNlz72pNJ-AX2iMuSZHOM833zMlfmLYOOo74XpaoUWOD0UkamsdQYqguakTTwDxfydaCPLZ-5NJJr1I_WttFtUmq7Klf1twpm-xKxK4uD4c5tX67D_3xK5B0PNpb7pS3lRFNR34DS0kCWb4t5E3WurON-QvkBRZzEIoIcfynpG3LPP327kdJU94zqkRXnhZfcYcUjUN8IJFTc2wjucHLrVMG8GqyVe_xKlwrW-ncmSwWpEduJKN6e8_IL6r35Bhm8jCvHcXC7VUzWGpH9_r-eJy7CyvPnhsKbOWw389gZy6lp73V7fd2-ryrdGY71u5NBqmjW8ycb07muEGelvwgg0RWMC6lpS3SiGWIk85CyToGdSXB0mXFXMkICgaezYxj5aG5rDc7L1XZYUZ3dTJbJcbpftDGSKLFqP2nlizVZy_MMM_YYGYzDPOlWK3DqrMOiALSqJX5sJ-TaMPaUoWl1BZeGbjWc03KfLvvlKDGp50STWcOTlE47JfZjsf9ptnzcbPMGJHzxWAdVP3Mdi1zjWuvTpjV4lxvNrItAvu0MBKFOVtCJtrHxWNacbx2U9blg3DL9WF9EQRwWYdMjoDd9fqwhZy0EuXSU2Ow8RNnczgp56kcvG0Pu5q97bcimFzLVw_7TViYKWVoTVt6c2IexwYDScrc9ftuGSvjnm2XqrPXEjyspuxus7OLY5NhRqA7GX44Xz7_z_HvfwFO-uY0"
+      },
+      {
+        "title": "AMD Ryzen 9 7900X 12-Core 4.7GHz Desktop Processor",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRs98xeTnkkbGrVnzu5YVQr1iEFj2DYzMpho_03G-9ti_vhf1NLZ-kNRejUBF0h5LcpWSlPNwDSltrsCgDYBUENiXX9idBphn9BbL5j504",
+        "price": "$265.00",
+        "extracted_price": 265.0,
+        "reviews": 20,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0HYP6nicdZTLrqNGEIajeYAoi7xCVkeWuptuLtmZm69g00CD2ViYxsbmasA3lKc5kxlpspxEyjavMbPIs8RnsozSi9p8f1X9pVL139_98Joe_-QnmMbtCU5364DY9VpqT2rpWJ-atuaXpD_yPyABCiIIABkjLGMsEIl8SuI-LurDGxYFWcQAAYggVESRSAh9ztKYF8cqXe33aavXyZsOKQRjAgQFKZIoABEq4LdjGR_Sb_x3JAuCLEuKhJECCBaALL5vefcFr7Xt0wKQCQYQQIyhgkQRS7-s6Urf_g_8cL6k7eMLTi5tm1b9Sxkfq65v07h84WmX93XzstZekubyktRlU1dvGgSQ-FKltw-HJvl37P-UfV8e-WciiVhEsiKLEBEAiSy9b679a3Z4PRSvl-41K17T6mMdN9d98vXdj0Z907Xupjl-0zCdAncwIJ1kiAqspnn_8Iuoi4KNkAbw7vig54UyZyxzV2FUepN7bQUODvKMJPm98eGThYWzy3vHN1kbgWbjwfHgBdnCY1FrC9ROQrWmQ5RzdC952XtpSEtmZPYuv939iYwTobApU5cegEc3pzfLm-t2bpNAZyYTItcPMtHPHWiFcxawyPMBM-OJhTZhs16Gas-g8_CnNPKAebMLRpOhqNIgE1g4D3ZT4xYZtuv6MuCogCs_y-ycFr7O1x4ye3_IPDrhK-rZC-7fjbgknYOa5cqndaCbNq0yPzUUwa_s0MvzwX1q-YQPmzzT-akYktAmT17tGNeSKhK9yQZ6kxtJK7X0mYOcQbUSpjKvoideREOM4JRX_L5hZsVNM7aNO90N7MqFA3SKQt_48z2F5jQukj7wCzN5wMoeksFiKqS5OYmnBoyR7JqgEe2AZYkeVS7ovaTixxiOBW4qhm0YYHKcq3RqP1ZB5O10dk191i09tnz2voZQJX7u964RZU5pO-mkEX69d-3-CxibpHdXWDxbjpK3PnvwIgtT14Vn19QP-KDdfoaSjIn4PCyERPljUtf5Mf367vuxof0k6GM-Z0Z8JQ3SDBFJ4dg-VPs6UisyW3l5CK8OLlom6XChrcbnxsFEHj-OVtLrt58E9UVnzxrdSO0mpadRUl8NC3M3upf3x-PcXLA6sp_Tutpuux3BxpmNn-8tb7t10-dhpSPXo-s3G3YZ3WLhfPMyzw-PaS51KkhUjZB8PHMVHmHB9tLRZkz3YVmMYe5j5ahlNgo7CWfWvmBooprVmqU67kZ8XSajeWId7jujj8b81Bvf3Noz_dmLCMIzVkRYdt1kphSLTdHQHeLArvTCebjPTdSbkurybFyfWB76NI_m-XG1bbSwJIe1Fg1nEQ7RptvOsrVE2mW1leJqlgmKGCjhIizaketTZ0FKVibCfHoul0vVVYB7mFqJJpypnCnufvoY5qJk3LRF_rDF2WK3uMgyuCw2whEBt2nNbgXF8VxRc6bHYBkk3nJ30M5D3rFVC5sS37YrBQw-DfTddrk5OSkXeMlrfvNiicSWAO1UuJv39SzW-i2uZ7q3NRLSzYfs7uLRxXPtbmRDf7CCzWT2_H_2f_0DuLDozA"
+      },
+      {
+        "title": "AMD Ryzen 7 9700X",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTiC8SgKqRlugVJfAO2GeV6q2oi0ytPfIFK6TbG3uYOr7Cql8GmnVhvanpuvDfHSs4w_MW-12RZ04FR2XP3YNflKTac8xlYTgJXG3GfGDe38lwjwURHLx581e4",
+        "price": "$273.99",
+        "extracted_price": 273.99,
+        "reviews": 142,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=C76lynicbVTLzqM2GK3mAaou-gpd_YqEbS6hu4RLQhKcBIMhbCKCSUgwlwD5IVGf5p_OSNPldKRu-xoziz5LyazHC-uTz_cdn-PL999Pv7wl53_YBSRRfQHzw8aXcLlR6ss039qfqrpkt7g9sy9AElQoQUEYi1AciyKSFOlTHLURL09PGEARITAeKwJAYIigqH5Ok4jxc5Gsj8ek1sv4zD4_CRQJyCJUVDCEQP7rnEen5Dv6BciCKEoKUKAsi7IqAaQq72vWfIUbbQ_UYUEQZGn8rFcBHEt_bJy1vv8x9uF6S-r7VzG-1XVStC95dC6atk6i_IUlTdaW1ctGe4mr20tc5lVZPHOgAOWXIuk-nKpBzt8_YH2fDyYkZVAHJRlBVXlKReL76rV9S09vJ_52a95S_pYUH8uoej3G3979apSdrjWdtvWqiuqO4Bop9ea49dDCO8wdgAG31_r0GEHeOTycxn519XKuJXOzJVmlMX9xYRBXjrvY7QBzn7mHwOoif7HxswZ4uocYcsQkU2vm4k3ILbS7eC0xMKUejkjWzpNZDBk3X8NHCHYgbGLDbNg868Mg7ajBl1u4SH2-hQfAr_bMuTKqEmcmGRgxi0KmYaPlTCjvFPZh4nGRumbn0rQkxaTfeaVEZu3MzvuS-CBjroGcIN0dTBNGOW3WHuCOvu3JzLzE2bhzdQtERh94M3XuZQJyfROug_QSXdJL7Gcd0a1-5S2WrEiXboE5FU6PXcHIekYbkvMZKUxq5wwyAfC1nxpuBrLwkgYRwqb9wBybqnsQHDvyOcVF2R4yLG89eqXz6YXCRT_4Sx0f6JHLse1LiHgc2Zmz8n3Jtinu_EwFtsdnTlYVGIZX93IiplDJ2KdprIcFEVo3Ltg5AhPETNXAhiHMzoupM8f3tR96kZvemVfpCaW2V9C17zs21VNj56nWgfKeDqf6Z9_Ux6_CxJRashblq71Vs9qjd8bTICEEXImpn8ST1v0OlLEoyQCoEMrjj3FZZufk27ufJ4b2G9InbEGN6FWqoGbIUAkm-FQcy3BaSNbazQLwuhV5TRUdLLX15FptRWk8uZ_tuNW739D0RacDRzOaNrPc1RypfDVskZGwz_v7_VrdxOkID26JdtjvR6DaWpNhPOv2e5IM_yoZEdfZPGXgPOwidO3c1PWCc5IpzVSIp5okZROLqCwUEXaT0W7iHIOcT0DmiepZSzEMGkVM7SOncDY1iw1NdLEZsU0ejxaxfeoPRhtO2KU1vqvFlj7sJSE0zIWEVk0zs1S-3PHKOQyPARc6397JcBPlLnf0sTUpLzQLPCcLF9l5va-0IJdOGy18XGXwCHfN3ko3ilSvir0SFVaKVNlXg2XA6xHxnO1Symkeo8X8mq9WU6IK5DS3Yw1dnXGqkuP8_ljIitFpy-yOZWt5WN7GY-G23KEzFEhVm80ayJOFOs2oHgkrP3ZXh5N2fWQNXdegysVuv1aFh-f4-mG_2l22CUMsZyXr3EiRIhsBnKDe7DdWpLV7sbR0d2_EUrN4pD0RRzeX4GaEgfew_d3MGvrP8d__AX0x50E"
+      },
+      {
+        "title": "AMD Ryzen 7 8700F 8-Core 4.1GHz Processor",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRi2wqhtfS_pZk9VvJj5dLRA4SDOZlwWjKSoFStXXapBkY72djswDHCiDXaReX0zVaxYz_-gfRUZAIToKZxX4p08fBk0VrDjdtaOZj2A4BmDRePRP7pblOaTA",
+        "price": "$259.00",
+        "extracted_price": 259.0,
+        "reviews": 139,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gy3A_XicdVRJruM2EA36AEEWuUJWHwY4iJKVnTV4kC3K1kDL2hgyKVuyRkuekdP8TjfQWTYCZJtrdC9ylugnvQvCRS34iu-9QhXrr-9-eE2yP8QRJnF7hNPdck1ovVTao1au7E9NW4sLP2fid0iAiggCYCghaShJmCjkE4_PcVEf3mAAZIwIwTKAQ1kGSILy5zSJRZFVibPfJ61R839pIIIIYwKwQmSsykT5LSvjQ_INRwADgIcIIKiqsqxKMnjfiu6LtNS3PTgkeCgPFSARgpAKhsovS9cxtv8DfjhdkvbxReKXtk2q80sZZ1V3bpO4fBFJl5_r5mWpv_Dm8sLrsqmrt5xeWX6pktuHQ_PN0H9o35eZ-EwUWZKRohBCJBUosqq8b67n1_TweiheL91rWrwm1cc6bq57_vXdj2Z9M_Tupq-CpmGGC7wyQi6mKwHI3atSyTcLnBj0kYSuufA1l1dRJvyUxpPU4oixIB9PghIi5sG7CO7NDrFFiKgcAqYHVbPiD4jphOX8ON6HQJxdWMAAUcsNbhI3mCPwWGKYzT1WYNu3NK-0IgZIxSYMeYCi2ByHkSkqFs4g86PaDV3LBu6R5s3ELoTMTYZ4xZbBA-Zu5T5WhXYNoDBYkC6SMuo9pzNRRIU7EQ4F7O6MNS0xm9qepGGcd_eoVKvo6ZYOM59sDR5RIUxhWF5csJvH-jpNy9vBwgrMdBqYdCPQeLFYi8ab2nARujdqsmcMtSAqYUBRut9hy_aAOLIA0qRq7MSDmzhsJDGJZFre97sns_2gwJvn6sZLSL3KnTsTIQVPK9pA7bGBIxw_XcwLcfJKNfWmaea8aYzpiT_HzW597jjWpP7e51NmRNj0xqCR6Zql3IgqD5x9Xoks7nnEWDWpaYJJZmnulD6cdeQKlJ53ayCt1uk1MS1K18WSH7UiYukp8K0gmdLq13vX7r-A0ZicPUcqVW1oCaQfx4FBO1u9wZ6Tr0bl9fYzVIYSkSFUEZLVj7yu8yz5-u77kan_hI2RsJgZX0mDdLOfyHBED9W-jrSKzBw_D-F1JRUtUww4153RqVlJZDh6ZDY_G7efsPZisJ6jG2jdpPR1l9RX05aEF93L--Nxai6SNqB9tZ6-224HsFnNRv15e7fdekn_sZKB57vLNxu0jG4xPt381A_CLMmVTgNc0wnJRzNPFZGEqZ8MNiN3H5bFCOaBpGZ6SlHYKVJq7wuGJtq4WrLEkLqBWJZ8YHH7cN-Z52gkjmfzH7d0ZvRaBOM-VgQvum4yU4v5pmjcHRKAVkaxenh9J-pN6RrD2ag-sjwM3Dyy8szZNnpYksNSj54nGT6jTbedpUuFtItqq8TVLO0X0loN52HRDrzAXc1JyUqOrempXCw0TwXeYWpzHZ_cYap6--njacmKedPn-YPKs_lufhkOwWW-wRkCXtOOOwfKI0vVcmbEYLHm_mJ30E_PvGNOC5tSum0dFTwDd23stovNcZUILEpRi5sfKyS2cT_b-D6-L2exft5K9czwtyYnnfVM7540uPge7QYUBk97vZnM-v2z__NvjP_lkA"
+      }
+    ]
+  }
+}

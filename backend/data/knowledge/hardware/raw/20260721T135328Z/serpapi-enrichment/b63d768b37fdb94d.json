@@ -1,0 +1,769 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a533d365609d0ad49e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/p0TjVrARW_g29Z6rgmjlNA/6a5f7a533d365609d0ad49e4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/p0TjVrARW_g29Z6rgmjlNA/6a5f7a533d365609d0ad49e4.json_with_pixel_position",
+    "created_at": "2026-07-21 13:55:31 UTC",
+    "processed_at": "2026-07-21 13:55:31 UTC",
+    "google_url": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&oq=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/p0TjVrARW_g29Z6rgmjlNA/6a5f7a533d365609d0ad49e4.html",
+    "total_time_taken": 1.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6 gpu vram_gb",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6 gpu vram_gb",
+    "total_results": 332,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSN0OwJ18KkrNTysOW3JeknaHK9x5VgQPzVDZPGMa8A7y8p6YdxEuR0-7ZaZuQfeC0FeC9IYUuXACGJEbmAjYus4MC6raW9q-Ce6vqJCDoKxecJRVQE6Q6Xsg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk9zd0HItj4cB5A6Q2-pR8BmGxtNeaH4P-0si5EnFKv6CmkQAsfZfKKp8ncY_R4p18pkyunqUnshR192Er9VaUHVKI30w",
+      "source": "Dell",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "price": "$8,999.99",
+      "extracted_price": 8999.99,
+      "immersive_product_page_token": "AGqRoHicJY7NbpxIAIS1z4Mi9Q_NT_Y0M8AYbJjQA02biwU0w1_DYMzY2C-RV1iNk5Wyx-xKe93XyD5NkHKpkqqk-urztWz-ZTfjKXvEk_uw482H6hO-fXC1TfFtnM7iUsyN-BvrqkowIMDUDKICpBH8rcjmTJ6rRvwDkYkNExo60DFQTYhW-16XmZDNUB5Op3KyzsW6QqAKDH0VbJqIIBWbxl9Nn1Xlr1onOiAQYqwTomIdIYDeJ_H0x9fHSzm9_vjdKqVUAuZa7kahEVc0AICyEZmyL4dyyubmPCiqoey3yt6yqKZU40V5nrL-ocq_VuNK-G6sq5pqGgZZ-UTDJnzv15jomqohQ11TqEFsaPB9fJ6vdfXlcpHlf9dKXi9P11pey-HPczY-n4r_f3u3p2K3ey62YTyOzKLgGLFjZjNyiJclsLwo43IfOz5gDoU0Dpxc1uFxBxaxD4bYrvvSYa8ZNE-09xJ6Q7HgFUhhPfkNtI689rKWJnlc70rHo1HkzrGU-zKZF2F7IOLeVHTmLmfmksTzkjCnixC5F1zyqGNPHI69z0TjdzZkbfV6cLY8YsIVO-iGffjKpNPnzLvNopoXbeqWXN5TLu0grs9ioEnExzm1ySWHae9zuUv45s23KaKOeSmsGqetc-ODQmWOtPLE48dk9kQcdLHtvwgmDilaHLb3oI9TS6Bg_Sb3RSRDOtRTzOuljJxLGKVDAevwvqXIj9KDWFzOuvol7Z3Fx57HQXCfHeEQW8EdBx0KEz9zO8cusEtSGQxBX_Oyrf0cwf7g0I5h-nIXx2_8LcSUbW8Zs78sT9PpB9g4ZD4eiLiDLqL67Ri0i2V-iFsteczZtk3Gl49QN1RNRRAjk6g_AVxgBxM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AGqRoHicJY7NbpxIAIS1z4Mi9Q_NT_Y0M8AYbJjQA02biwU0w1_DYMzY2C-RV1iNk5Wyx-xKe93XyD5NkHKpkqqk-urztWz-ZTfjKXvEk_uw482H6hO-fXC1TfFtnM7iUsyN-BvrqkowIMDUDKICpBH8rcjmTJ6rRvwDkYkNExo60DFQTYhW-16XmZDNUB5Op3KyzsW6QqAKDH0VbJqIIBWbxl9Nn1Xlr1onOiAQYqwTomIdIYDeJ_H0x9fHSzm9_vjdKqVUAuZa7kahEVc0AICyEZmyL4dyyubmPCiqoey3yt6yqKZU40V5nrL-ocq_VuNK-G6sq5pqGgZZ-UTDJnzv15jomqohQ11TqEFsaPB9fJ6vdfXlcpHlf9dKXi9P11pey-HPczY-n4r_f3u3p2K3ey62YTyOzKLgGLFjZjNyiJclsLwo43IfOz5gDoU0Dpxc1uFxBxaxD4bYrvvSYa8ZNE-09xJ6Q7HgFUhhPfkNtI689rKWJnlc70rHo1HkzrGU-zKZF2F7IOLeVHTmLmfmksTzkjCnixC5F1zyqGNPHI69z0TjdzZkbfV6cLY8YsIVO-iGffjKpNPnzLvNopoXbeqWXN5TLu0grs9ioEnExzm1ySWHae9zuUv45s23KaKOeSmsGqetc-ODQmWOtPLE48dk9kQcdLHtvwgmDilaHLb3oI9TS6Bg_Sb3RSRDOtRTzOuljJxLGKVDAevwvqXIj9KDWFzOuvol7Z3Fx57HQXCfHeEQW8EdBx0KEz9zO8cusEtSGQxBX_Oyrf0cwf7g0I5h-nIXx2_8LcSUbW8Zs78sT9PpB9g4ZD4eiLiDLqL67Ri0i2V-iFsteczZtk3Gl49QN1RNRRAjk6g_AVxgBxM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTPhypvKZiMuuiWwv5kzOLzXcLzXE3IMe1FOvjCVy-h0kB7GnLckGPcbk0mdyezW2CcOC3kGE7oQZvGrswVu7AaT8CycadS9gbkBrGk2wY",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk9zd0HItj4cB5A6Q2-pR8BmGxtNeaH4P-0si5EnFKv6CmkQAsfZfKKp8ncY_R4p18pkyunqUnshR192Er9VaUHVKI30w",
+      "source": "Dell",
+      "title": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Graphics Card",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": "$14,707.99",
+      "extracted_price": 14707.99,
+      "immersive_product_page_token": "btgysXicbZLNrts2EIXR5xEKkNR_u7IsU7ZjU9eSSPlyY0giLcuWZF5ZNiIj79BXKHyTAumyKdBtX-PmSbKsCmSZzSzmzDnzDTC_PWT1D5urffaid4vddFv9XD7p73YLa1J8Vt1ZXIu-En9DQwempZsOMFzd1W3T1o3PRdZn9bmsxBcT2Y5r2shxgWUhx4bI_usgM1FXrQz3e9n55-L_FGQ5rmU5YwEWcHRg2MafVZOV8rtuj_1xFYK2a5mOYQHTeO3E5Q09TXeWPSKMTmQBoFsGcAH48BSF_u7H2qeXq-yGt199WdcaYQt_MdGiZKuNE0CbiEwLZCu7rK_OrWY4WuBpge9Hllaqq3brsmZX5p9KNVJ9-UH4a1OJ31_VrX8cyo_Xay3_fZT143p5HOqHbP84Z-q2L77-9G12K6bTrphuqFLMj0CcRpQDl5KGDBGNOpJElQDMyGfgnqeM0IAAVjMzw2ola3ZfMd7mW2wkjBwZFi1B_LmAxGfHqF-foowzMucUd2JLdTrAfQFmPUXLzYrVTUYJTlMVMX8D6exiUlBnBBJDpvgiac9CJqjE3OB37xo3JEpmF0goQxJjPa_gMq3dKE_FhbbP9xDzDWGuihNORXsycsQpa5nJcaSS1rsIpK7p6XmgCWnXgDTrNppKNkECYS-H7mHdKC8HMIuDeki23ioLRJ_PMM8AAxyYOmuWXt4uQNGoxRrUL-F4MKkFkM3hFG0pojEAHImVSJi-xm4otyRJUnVOau9c1A5M7nxg8-Uqbr1TnuLF8315SChZCboZSEqmmU7fC1b3YcpnJFBZmJqnDRWIwg0qjpMYQ74oAn4oEjLEzPXT4NRzOLnH0F2SEz4G1dKL5mQY_XGkMyM9kWO8VTfZYkj98r5hZClTRdLkcNggt_34_tLt38AEm30cWvrTcJ-zeT8ixuchdIoLkdAu1o1f_gLt8c0NBHXkmtZ_6pwrFg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=btgysXicbZLNrts2EIXR5xEKkNR_u7IsU7ZjU9eSSPlyY0giLcuWZF5ZNiIj79BXKHyTAumyKdBtX-PmSbKsCmSZzSzmzDnzDTC_PWT1D5urffaid4vddFv9XD7p73YLa1J8Vt1ZXIu-En9DQwempZsOMFzd1W3T1o3PRdZn9bmsxBcT2Y5r2shxgWUhx4bI_usgM1FXrQz3e9n55-L_FGQ5rmU5YwEWcHRg2MafVZOV8rtuj_1xFYK2a5mOYQHTeO3E5Q09TXeWPSKMTmQBoFsGcAH48BSF_u7H2qeXq-yGt199WdcaYQt_MdGiZKuNE0CbiEwLZCu7rK_OrWY4WuBpge9Hllaqq3brsmZX5p9KNVJ9-UH4a1OJ31_VrX8cyo_Xay3_fZT143p5HOqHbP84Z-q2L77-9G12K6bTrphuqFLMj0CcRpQDl5KGDBGNOpJElQDMyGfgnqeM0IAAVjMzw2ola3ZfMd7mW2wkjBwZFi1B_LmAxGfHqF-foowzMucUd2JLdTrAfQFmPUXLzYrVTUYJTlMVMX8D6exiUlBnBBJDpvgiac9CJqjE3OB37xo3JEpmF0goQxJjPa_gMq3dKE_FhbbP9xDzDWGuihNORXsycsQpa5nJcaSS1rsIpK7p6XmgCWnXgDTrNppKNkECYS-H7mHdKC8HMIuDeki23ioLRJ_PMM8AAxyYOmuWXt4uQNGoxRrUL-F4MKkFkM3hFG0pojEAHImVSJi-xm4otyRJUnVOau9c1A5M7nxg8-Uqbr1TnuLF8315SChZCboZSEqmmU7fC1b3YcpnJFBZmJqnDRWIwg0qjpMYQ74oAn4oEjLEzPXT4NRzOLnH0F2SEz4G1dKL5mQY_XGkMyM9kWO8VTfZYkj98r5hZClTRdLkcNggt_34_tLt38AEm30cWvrTcJ-zeT8ixuchdIoLkdAu1o1f_gLt8c0NBHXkmtZ_6pwrFg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQGyKC79HVp2oeNmXW49Qp8nc5ei6q-lrd_ov3IEBZY6t7AH_DCFkwNm7_eErvnbX3KQW_OKPvoYTByPT2MC6hELn5xrncudGyq_W4wfHAjM0F1FDVg1-9HEg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgk01f7rBz02xku6EqwVffosKMbYLTTdwLrYOP_u61p25nbzCPnMs-4FlfEbjlPxTktUZF3Uj-2NdlzgPCtRlbnl7JhJZ2B5J2",
+      "source": "ETB Technologies",
+      "title": "Dell NVIDIA RTX 6000 ADA Graphics Card, 48GB, Full Height Bracket",
+      "price": "$7,738.49",
+      "extracted_price": 7738.49,
+      "immersive_product_page_token": "mOqpoXicdZJNbptAAIXV86BKM2DAblfGGAMJYH5mwGwiPIMBm58p4GC4RK8QOUmldBlV6rbXSE_TtPtunp706enbvK_XtPiJdXZIvgitcbeKio_ZVri5M6QleWFtQ8-kL-gPyPO8BAVeBsJcnAnzhSjAF5L0SdlkBX14zdOElkWdOodD2qoN-c_ke1ElWfqPv_I8kOWFLMkilN87nM8fW9o9PH85p-349llNy5KzsaEaS84LIk4CAHBLmnCbtE7bpC-ampvNuY3CbVTVk7iMnbn7Nqnusv1zxt4FD4_V32D3_TXPns7nMv11zcrrubvm5TWtvzUJuz-Q3x-O62ZYrbpBcRFjWPWAH-KtBa3BX_fQg6aAo9MYqtq0Pyo9qrBk1Qp2ECsCYIwEWJdYtw0MtDyoPcur7CQ-maG1prsQWbyLczWOtDiOYkRUGvu6raDIDG3QCAiTgR7tYQc0Z8-LiMC8s-pmjDXPvI1yG-lmFJ6YgATa-UdlRyLTtIHYerxX-MESJEdspti8hKgXic5iu1z4tPJGHzAWYG-iwO2ddW8G0JiFoTGi2nSSEINwcxlwXRpIVVZIXc4Qitk-UPLbiMG4irf0ZBd-aavrnIa-rlS7aD2RU3lwYc5uQ-paoD_4QazsLk3hIm8ix7JCaMb7ujnFFdQS3bvZg8UQbmzdLbU1xdqUYltz3adL1x7ewFITe9-RhO046VjvR6z7zejMSWenUCZWpWafoDyfSTP-_T4LUfoD5qzoQg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mOqpoXicdZJNbptAAIXV86BKM2DAblfGGAMJYH5mwGwiPIMBm58p4GC4RK8QOUmldBlV6rbXSE_TtPtunp706enbvK_XtPiJdXZIvgitcbeKio_ZVri5M6QleWFtQ8-kL-gPyPO8BAVeBsJcnAnzhSjAF5L0SdlkBX14zdOElkWdOodD2qoN-c_ke1ElWfqPv_I8kOWFLMkilN87nM8fW9o9PH85p-349llNy5KzsaEaS84LIk4CAHBLmnCbtE7bpC-ampvNuY3CbVTVk7iMnbn7Nqnusv1zxt4FD4_V32D3_TXPns7nMv11zcrrubvm5TWtvzUJuz-Q3x-O62ZYrbpBcRFjWPWAH-KtBa3BX_fQg6aAo9MYqtq0Pyo9qrBk1Qp2ECsCYIwEWJdYtw0MtDyoPcur7CQ-maG1prsQWbyLczWOtDiOYkRUGvu6raDIDG3QCAiTgR7tYQc0Z8-LiMC8s-pmjDXPvI1yG-lmFJ6YgATa-UdlRyLTtIHYerxX-MESJEdspti8hKgXic5iu1z4tPJGHzAWYG-iwO2ddW8G0JiFoTGi2nSSEINwcxlwXRpIVVZIXc4Qitk-UPLbiMG4irf0ZBd-aavrnIa-rlS7aD2RU3lwYc5uQ-paoD_4QazsLk3hIm8ix7JCaMb7ujnFFdQS3bvZg8UQbmzdLbU1xdqUYltz3adL1x7ewFITe9-RhO046VjvR6z7zejMSWenUCZWpWafoDyfSTP-_T4LUfoD5qzoQg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR8_vTRnnVqUxNOWx6ZIVqTgv6DWNGUb-qokrDg8XZJ03s5KirSytA6IaSI8BkLXwbRnGsBgKFT746DSWTqiZ3e-sXQZqiBGVwsoFjbNjGcE4U5-LQY2y-lbA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEyq4ZP7b71jmDf3JYQlDKP4kOwlgudpLTELBff5jSwYVKBLmUjiELRuGZbIHomi9Y8rNeFMDoBjVZZimsEFJ-6lvO8PoooDqMZYhE2g",
+      "source": "ServerSupply.com",
+      "title": "DELL YMD9W NVIDIA RTX 6000 ADA GPU 48GB Graphics Card",
+      "price": "$7,077.50",
+      "extracted_price": 7077.5,
+      "delivery": "Free delivery",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "Y6XhBHicbZJJbtswAEXR8wgFSA2W3a5sa7Acm45FkRo2gSxqpobI8hBdIlcInKRAumwLdNtrpKep23UX_28-Ht7mP17i_CddtEl4L3XW3dzLP6a30s2dNZpGb23XsEPU5-y7rEiiMpZUIImT0ViVoKS8RWEf8ibN2dO3LA4Zz-t4kyRxpzXR_4mveRWm8b_5BxxBoKrqWFHANfJYlhT43LH90-v9Ie4e3j9rMecCopZmTQXb8YQRAECYslAw4zruwj5vakEeC-ZMMDXNHglpexCOXVjdpbvXtL0qnp6rv9Ue-0uWvhwOPP51SfnlsL9k_BLXX5qwPSbR7w-F3pzm8_1ptiVtSzUb4CGzQjfwY5ptPJCeKF1WxLF7BLMBezpwNbZFxOp9kdq2yZcYw8AXJ9B3bBwtMoQAKnalgSOnBD5flraWJS5FKwLWgEHD9sS2DsT9AzaXrevNcEjOZOPCg7vIKlZN8p3BFhvK-VrU5cCk3Cmo5wDeIkJk4iGTmMtsXSMxWthuyI0tI6ykIsQOCTbrATUOoaeVE5iY-rI9BIsdaBtaISWsoBtXS4lV2ZoUy1N49bnF9GHlTozY8OWdntXYRRJxEI1EI9cz5uLFrPI9fYhKnmxh1q5ctl2DPsFOMPPPTb4l9hAVvKJziJGObilvNeSx2tX52Sn8nplBjsQJdspACU4v532XvIOpofR4I-ONqlrD1LpfwdLERXJTNse1d6Nb-_QTVMfySBbh9TyK-gd4sejH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Y6XhBHicbZJJbtswAEXR8wgFSA2W3a5sa7Acm45FkRo2gSxqpobI8hBdIlcInKRAumwLdNtrpKep23UX_28-Ht7mP17i_CddtEl4L3XW3dzLP6a30s2dNZpGb23XsEPU5-y7rEiiMpZUIImT0ViVoKS8RWEf8ibN2dO3LA4Zz-t4kyRxpzXR_4mveRWm8b_5BxxBoKrqWFHANfJYlhT43LH90-v9Ie4e3j9rMecCopZmTQXb8YQRAECYslAw4zruwj5vakEeC-ZMMDXNHglpexCOXVjdpbvXtL0qnp6rv9Ue-0uWvhwOPP51SfnlsL9k_BLXX5qwPSbR7w-F3pzm8_1ptiVtSzUb4CGzQjfwY5ptPJCeKF1WxLF7BLMBezpwNbZFxOp9kdq2yZcYw8AXJ9B3bBwtMoQAKnalgSOnBD5flraWJS5FKwLWgEHD9sS2DsT9AzaXrevNcEjOZOPCg7vIKlZN8p3BFhvK-VrU5cCk3Cmo5wDeIkJk4iGTmMtsXSMxWthuyI0tI6ykIsQOCTbrATUOoaeVE5iY-rI9BIsdaBtaISWsoBtXS4lV2ZoUy1N49bnF9GHlTozY8OWdntXYRRJxEI1EI9cz5uLFrPI9fYhKnmxh1q5ctl2DPsFOMPPPTb4l9hAVvKJziJGObilvNeSx2tX52Sn8nplBjsQJdspACU4v532XvIOpofR4I-ONqlrD1LpfwdLERXJTNse1d6Nb-_QTVMfySBbh9TyK-gd4sejH"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTpWOcX6Lwegteu_Sz4YMMgYyGBtNAeKVGdIKMcAS1Qe2m3Gqt3SQ_qqY2aJfHrh08--0F7D4qmIxIVXWHRKSiDQAVFGOca_HZTym0wK6eo1MX11dOVlXH2",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Graphics Card",
+      "price": "$12,399.00",
+      "extracted_price": 12399.0,
+      "original_price": "$13,099",
+      "extracted_original_price": 13099,
+      "delivery": "Free delivery",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "mMnowXicJU9JjtpAAFTeY0Xqxe0lOQHGxoDNeOlu48uo8R7bYMAwwAdyzBciJhNpckwi5ZpvTF4TJjnUoRaVqj5ds-oXm3S52OKdfT-KqrfFHZ7d28ogee52m_SQ9FX6gwCgqJqCNajIRNexArXnRPSi2RRV-hNCICMVyAAThDSV6JoCv5eZSJtqnS3yPNsZm-TWomKsAB3JkGCAFPKa-1a1osj-2zLQoKzqmqogrGoE3vjjLt1_ftoest355b2RNY3kMtuwB5IfRpICAJAGqZCsbJ3tRF9t1pKsSdZQsgzDV6SiO0jHnWjvi9VT0f0bgDBQiHq7oJJbv6oo8LGt0s-P3bG_lsWXw6HJfl-L5nrYX8vmmq2_bkR3zJM_bz6Ot_ZodLCHHu06ZvggOEMRYr9asVR4FTytGvcus0okbuC05DEuF47pXCh3kF-PQfohZSGPadqy8wo1Y2FOKw_6ShjF0yU1cTApyxAPZxmdEod7D8wwZ3MKvcCM75KmzP3WOfk8ll0Qrx3eT3zsn5etDQQlXdpuALXKEeO6vIyG-yUt5BDU55XhoKyJWcxdlhjxMDYYYyC-xLT3BLLPAXQ5Z9MJQ-WJT0rqQK-nSJ8HbR_FYHwJ1mYfArIOTdovzHTsAucisJnPmYtY3bOAniah5be8LgW30sbnfb_iMAwbjyScHD3fjlhdPsSteXLwdBoBdykCuKaGO49AjTzuCLs2xwm2Sdy4W_6qX9zRwvK3QTTMmdUcfIuSFOqA4sE5NMdfTvtd_gIGJumDhRwsVNW-DOztHNZW8CGf1ZujE83G9r54B1VNVmQEMdKJ-hehofcb",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mMnowXicJU9JjtpAAFTeY0Xqxe0lOQHGxoDNeOlu48uo8R7bYMAwwAdyzBciJhNpckwi5ZpvTF4TJjnUoRaVqj5ds-oXm3S52OKdfT-KqrfFHZ7d28ogee52m_SQ9FX6gwCgqJqCNajIRNexArXnRPSi2RRV-hNCICMVyAAThDSV6JoCv5eZSJtqnS3yPNsZm-TWomKsAB3JkGCAFPKa-1a1osj-2zLQoKzqmqogrGoE3vjjLt1_ftoest355b2RNY3kMtuwB5IfRpICAJAGqZCsbJ3tRF9t1pKsSdZQsgzDV6SiO0jHnWjvi9VT0f0bgDBQiHq7oJJbv6oo8LGt0s-P3bG_lsWXw6HJfl-L5nrYX8vmmq2_bkR3zJM_bz6Ot_ZodLCHHu06ZvggOEMRYr9asVR4FTytGvcus0okbuC05DEuF47pXCh3kF-PQfohZSGPadqy8wo1Y2FOKw_6ShjF0yU1cTApyxAPZxmdEod7D8wwZ3MKvcCM75KmzP3WOfk8ll0Qrx3eT3zsn5etDQQlXdpuALXKEeO6vIyG-yUt5BDU55XhoKyJWcxdlhjxMDYYYyC-xLT3BLLPAXQ5Z9MJQ-WJT0rqQK-nSJ8HbR_FYHwJ1mYfArIOTdovzHTsAucisJnPmYtY3bOAniah5be8LgW30sbnfb_iMAwbjyScHD3fjlhdPsSteXLwdBoBdykCuKaGO49AjTzuCLs2xwm2Sdy4W_6qX9zRwvK3QTTMmdUcfIuSFOqA4sE5NMdfTvtd_gIGJumDhRwsVNW-DOztHNZW8CGf1ZujE83G9r54B1VNVmQEMdKJ-hehofcb"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSz31y6sdBhYj62cAAhxk5alJdo2Ml41lfUqnNvmsLstdaY_SuVzaIYka9CCxlYWjFbyb2HIVAfTRfpveLBLc1YHq3Nn8TfZtOijXXEmDm2-YksIWRvKnW9MA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTQBuQYxFT7rb19vXJd3LugAWcUsu9u4NZtsBRkWUjoyWK1Y_hkaec8Kvd-00wHYLmsnVsYJ3kPVy5BbTCdbvXkgMreRiAu_2D4QS4IUg",
+      "source": "PC Server & Parts",
+      "title": "NVIDIA RTX 6000 Ada Graphics Card",
+      "rating": 4.9,
+      "reviews": 113,
+      "price": "$5,599.99",
+      "extracted_price": 5599.99,
+      "delivery": "Free delivery by Thu",
+      "immersive_product_page_token": "89PvcXicbZNLjuM2FEWBrCG7MBogqZ-VjCxLlOSyJFsfUuakQIuyrL_KlssfZA_Zg6s7QPewEyDTbKOymrgy7sl7g3Pve3dyf7_n5d_EGXb8RTq4z_O0_FSspKdnV51lX4dDL07ZWIq_IJQhVGQFQqiqsi5NdV37mvGRN33xgTVdB6o8VaAKoQZl9Jjf9zkXTdnlwW6XH8w--9ApUH4ItYdShlNdQkAF38qWF_n__E8ZTFVVAUDXH0uRNQ1M3w7i-I5W82eENB0B5WFVPzJISNJ-W4WB-fxj9uXllB-u77-aedNMfOKa7mwSxulEBQBMZoJP7LzLD3ws-24iTye2MbFNM1QnxXCavB54-1xsvxTDR6gfHH9rS_Fd0VRZRVM0VYGCAJJU_W14He_74vPp1OT_3Ivmfjre98097_7o-fC6y_796WerP5vz43m-ToaBmCGIHfeypu6Y0Rp62A9Ye5E2lSHzytjlHU7yjiyTZBhD5Mqkw96mxrcMhTVvRbqmi5DG4ho4gpNqMyatvwocLLHKGjd0j4OY7En98NlD71OShDZxaJMA1iprDwyJj85jFoeW56yv28p__LCuKcK3bdXs_Np_EeYiopa-4MSPeV3ACNSXTaIvqYk565qAoeGat01JTIP57cC9m2HkzuaS1XuD2KHkIYG8EjIPYkhsvBIRPK27QSJzcPEa4fgVTj3rDPmNJJ7NmmUqKkoWJ69jrt8Sd5ku7GVqxMLW9zEVUtz2owdwTRts-dgIhc3sKBlR1rEjo02bgHHYJkOzTViVldDftErFsbBpZWwSFA55LaMtJpvIutjc3Pd5U0sc6KFAxHs4QB6TPqxJRKlY0qZQCGQ3zxRwnTIeXgFimCVBPIswZG5ms30W-9eI6Ca165HB2S2C-sKvcWWXCyN0_GtAWexVtbSk51tuJQqr8SlLmzRzwh2tcexb4TK8kfDz5XjYvYMZVsYokKNA09zbzH1ZwtqOqt1T3b966ZPlHotfoDaV1Ue7JKQr2n9pHTnC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=89PvcXicbZNLjuM2FEWBrCG7MBogqZ-VjCxLlOSyJFsfUuakQIuyrL_KlssfZA_Zg6s7QPewEyDTbKOymrgy7sl7g3Pve3dyf7_n5d_EGXb8RTq4z_O0_FSspKdnV51lX4dDL07ZWIq_IJQhVGQFQqiqsi5NdV37mvGRN33xgTVdB6o8VaAKoQZl9Jjf9zkXTdnlwW6XH8w--9ApUH4ItYdShlNdQkAF38qWF_n__E8ZTFVVAUDXH0uRNQ1M3w7i-I5W82eENB0B5WFVPzJISNJ-W4WB-fxj9uXllB-u77-aedNMfOKa7mwSxulEBQBMZoJP7LzLD3ws-24iTye2MbFNM1QnxXCavB54-1xsvxTDR6gfHH9rS_Fd0VRZRVM0VYGCAJJU_W14He_74vPp1OT_3Ivmfjre98097_7o-fC6y_796WerP5vz43m-ToaBmCGIHfeypu6Y0Rp62A9Ye5E2lSHzytjlHU7yjiyTZBhD5Mqkw96mxrcMhTVvRbqmi5DG4ho4gpNqMyatvwocLLHKGjd0j4OY7En98NlD71OShDZxaJMA1iprDwyJj85jFoeW56yv28p__LCuKcK3bdXs_Np_EeYiopa-4MSPeV3ACNSXTaIvqYk565qAoeGat01JTIP57cC9m2HkzuaS1XuD2KHkIYG8EjIPYkhsvBIRPK27QSJzcPEa4fgVTj3rDPmNJJ7NmmUqKkoWJ69jrt8Sd5ku7GVqxMLW9zEVUtz2owdwTRts-dgIhc3sKBlR1rEjo02bgHHYJkOzTViVldDftErFsbBpZWwSFA55LaMtJpvIutjc3Pd5U0sc6KFAxHs4QB6TPqxJRKlY0qZQCGQ3zxRwnTIeXgFimCVBPIswZG5ms30W-9eI6Ca165HB2S2C-sKvcWWXCyN0_GtAWexVtbSk51tuJQqr8SlLmzRzwh2tcexb4TK8kfDz5XjYvYMZVsYokKNA09zbzH1ZwtqOqt1T3b966ZPlHotfoDaV1Ue7JKQr2n9pHTnC"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQFpej9ObYT15kcXANkl6S6KDHjUTWi8h5MlAQvpYefQbY9bFpEFinJpFuJI-eNEVF8L_jQXfP1WZBTSlEoEDArLIs8Q1jy2i_4HH-X_1-E5ZHUWbFFHppn-w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS7eCiZ4sr6KYNcFF4nvodY8n9LEqGnF-Fe1XM9gPI7KU2Atpyz6JUe8A_TSmVZdxtuKkA71pvhbnFRU4fSmppc2xhcOOPe0Mzf",
+      "source": "Monitors.com",
+      "title": "NVIDIA Quadro RTX 6000 Ada Graphics Card",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$6,499.99",
+      "extracted_price": 6499.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "Gbw5InicdZLNjqNGFIWV50GRKH5NsjLmx9BN0RRQQG2san6NC0xj7LbRvMO8QuSZiTRZZkbKNq_ReZIsQ2edbO7mO1fn6J778V7u_8DboaIv4ujsNun-x_pJfNg5yjr_OozH4pxP--I7ACtB0lYKUEWg8spKBYLwNacTZcf6HUsaAEBS1JWm8OKiFVX596akBdv3pV9V5Wgc83edAGQgCZqiAFGRRWlZ4X_bd7Qu_-XftJUmyqqqrmR-sViMJOHTWJzelI1j7P7L5MMT8o3d_9EvL-dyvL39bJSMcRA7hrPmUJRyCs_z3LqgnF325Uin_bHnpBVn65xtGEjh6uHMXUba7ernL_WwBPvlU_c-hst0b-rP5zMr_7zX7H4-3Rt2L_tfj3S4VPlfP_xtXvLNZsw3QTwM2EB8CFj0bDh8JhZ-cgCRt4UYC9YGWu5LmDZhvD1MtHVvnin7vqm9evHgBxGCqeDwqNfddI4naF6fcrPQs7kRn7trEs0IYqOhxBw6EhHksUYPZhcnRgAIsA45cOYIk4zOOItsYuXMHUhaPCVdESGmtTnWdSTALhPANYmnKhNdHRl6j9vmYWECMeWpYMWNJqdX0rMpMocJd40B4-latI0PDWaXGDfPETvDhOdjoRhSUGxyG2Swh0GUaFPWQjePG5sCa4pbLBWmHGcR2wRsaEMxliArIGTaGFp6SG15zEVEo548QsuTsuQkL4UBaspy1k3b0tJJsnX9XCRN0EEhxySFIS94B2JR0bt5vVuFW7T3EoJJl8loRoeMJ1XZkbiIAR-AJlringuLdMiAGNleaAHi5DZp8gjeQqwZiX2YCFjPIdBceLBae7_cZAtvfkKQHy89mdfjI86kOGGvGe_wSYTSoGVKGWc32sn95-tprN74tSVPoS-Fvqo689p5eQQHO2yrh8Px4qUPpnOqfwLqSlreGoiCJqv_AP2FKTs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Gbw5InicdZLNjqNGFIWV50GRKH5NsjLmx9BN0RRQQG2san6NC0xj7LbRvMO8QuSZiTRZZkbKNq_ReZIsQ2edbO7mO1fn6J778V7u_8DboaIv4ujsNun-x_pJfNg5yjr_OozH4pxP--I7ACtB0lYKUEWg8spKBYLwNacTZcf6HUsaAEBS1JWm8OKiFVX596akBdv3pV9V5Wgc83edAGQgCZqiAFGRRWlZ4X_bd7Qu_-XftJUmyqqqrmR-sViMJOHTWJzelI1j7P7L5MMT8o3d_9EvL-dyvL39bJSMcRA7hrPmUJRyCs_z3LqgnF325Uin_bHnpBVn65xtGEjh6uHMXUba7ernL_WwBPvlU_c-hst0b-rP5zMr_7zX7H4-3Rt2L_tfj3S4VPlfP_xtXvLNZsw3QTwM2EB8CFj0bDh8JhZ-cgCRt4UYC9YGWu5LmDZhvD1MtHVvnin7vqm9evHgBxGCqeDwqNfddI4naF6fcrPQs7kRn7trEs0IYqOhxBw6EhHksUYPZhcnRgAIsA45cOYIk4zOOItsYuXMHUhaPCVdESGmtTnWdSTALhPANYmnKhNdHRl6j9vmYWECMeWpYMWNJqdX0rMpMocJd40B4-latI0PDWaXGDfPETvDhOdjoRhSUGxyG2Swh0GUaFPWQjePG5sCa4pbLBWmHGcR2wRsaEMxliArIGTaGFp6SG15zEVEo548QsuTsuQkL4UBaspy1k3b0tJJsnX9XCRN0EEhxySFIS94B2JR0bt5vVuFW7T3EoJJl8loRoeMJ1XZkbiIAR-AJlringuLdMiAGNleaAHi5DZp8gjeQqwZiX2YCFjPIdBceLBae7_cZAtvfkKQHy89mdfjI86kOGGvGe_wSYTSoGVKGWc32sn95-tprN74tSVPoS-Fvqo689p5eQQHO2yrh8Px4qUPpnOqfwLqSlreGoiCJqv_AP2FKTs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR5lDI9sNnxwwo0sjUM1WxA_3s49xtJ6soaoKk8C3QyXckwWSmkIJkZ7eSIW3wfLVYMfvZ7vGXvHYHihE14vQMjKD98onCPBAjBLQ173gwEUkh6KNBWPedYXw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSBiaf7KtBq2qKnvF-s1y0uin5oC3knjvFgrzeO2IzsJaosx0BBVsi3p_5wL0CxdR-fTPTBTYpT7qfY9BXKtNY4ISJjgMZHKiBLX7-hlcME",
+      "source": "Central Computers",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$11,899.99",
+      "extracted_price": 11899.99,
+      "original_price": "Usually $14,964",
+      "extracted_original_price": 14964,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "pjRkyXicdVPLrqNGEFW-B0XqbppXsrLN48K9bi6PbjAbC0MbMA3G-DG2lX_IL0S-M5FmlpNI2eY3br4kyzDKNlEtSqpz6hydkurnB2_-YE_DNj_Io7tepM331av8vHbVWfF5GPfluTg15e8QYBloQMZQwSpWDQ1A7XORn3Kxr5ryN93QIZhKUb9RZF1Fxtea56Voeu5vt3w098VEwypQsYE1DBSEkC4bGH5purzi_8IqQopmGLIBZWVqUAf4bSyP7_h1sYaqLk-qACNVB9Mq1jX1p9fQN9f_A346nPl4e__R5EJIhLmmO5PCOJVUAIA0K3PJ4T0f81Oz7yWsS85cckwzVKVqOEuXMe_W1eZTNRTfsv-H-lvXlL-8DZfTo64-ns-C__moxON8fNTiwftf9_lw2RZ_ffe3dSkWi7FYBHQYmBmCKLWV7D73uD1_LuxQ8SmLV8A-M6eWadfiXAz0Ja2jFM6twqrzCHj1Rg6PLFFUHpd4iWC9pHa-aSnMrKzmPTnwXQWLXX0gNFQSi82XfTZGDlmS1r5RWFyXbZnHDgwSK8tixCzWC5U7hhrAubJB9j2Th2tuZh8iINzE2cONLGLmhK-bbrjG7RD4diXH3elYsJD56ZwG1L2XSAQ0nqEMKdYyZdcC2JSnNcyRuJFU4AAaU4ha5R1JfarYuUxMcq8Q24Uk6a7XgFUfSsRwIMKXKNFPG9MDpIFDgFi3hIPCRNhwi50L6t03T65CqBHz3kYxICs6uXLTG8hOwE1KRJywaV4ozBJByEhfJmVe9MNiFVf3bEeyOAl3lA7bjLUopC6M796BtS2grR36Vnld0TayYeYWTlYXMblFzDATpz1lcHaPoOFNd9w5jTcPn8jNT7IoTOkp6Tyam0JlsldzJuQgqfAKsNR_WiIGwvnH63HcvoOZrZwiH0e-prn3mXt4ga0T7bbP7f6yTJ8t91j9ADV9-igEZWQo2j9a1SoC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pjRkyXicdVPLrqNGEFW-B0XqbppXsrLN48K9bi6PbjAbC0MbMA3G-DG2lX_IL0S-M5FmlpNI2eY3br4kyzDKNlEtSqpz6hydkurnB2_-YE_DNj_Io7tepM331av8vHbVWfF5GPfluTg15e8QYBloQMZQwSpWDQ1A7XORn3Kxr5ryN93QIZhKUb9RZF1Fxtea56Voeu5vt3w098VEwypQsYE1DBSEkC4bGH5purzi_8IqQopmGLIBZWVqUAf4bSyP7_h1sYaqLk-qACNVB9Mq1jX1p9fQN9f_A346nPl4e__R5EJIhLmmO5PCOJVUAIA0K3PJ4T0f81Oz7yWsS85cckwzVKVqOEuXMe_W1eZTNRTfsv-H-lvXlL-8DZfTo64-ns-C__moxON8fNTiwftf9_lw2RZ_ffe3dSkWi7FYBHQYmBmCKLWV7D73uD1_LuxQ8SmLV8A-M6eWadfiXAz0Ja2jFM6twqrzCHj1Rg6PLFFUHpd4iWC9pHa-aSnMrKzmPTnwXQWLXX0gNFQSi82XfTZGDlmS1r5RWFyXbZnHDgwSK8tixCzWC5U7hhrAubJB9j2Th2tuZh8iINzE2cONLGLmhK-bbrjG7RD4diXH3elYsJD56ZwG1L2XSAQ0nqEMKdYyZdcC2JSnNcyRuJFU4AAaU4ha5R1JfarYuUxMcq8Q24Uk6a7XgFUfSsRwIMKXKNFPG9MDpIFDgFi3hIPCRNhwi50L6t03T65CqBHz3kYxICs6uXLTG8hOwE1KRJywaV4ozBJByEhfJmVe9MNiFVf3bEeyOAl3lA7bjLUopC6M796BtS2grR36Vnld0TayYeYWTlYXMblFzDATpz1lcHaPoOFNd9w5jTcPn8jNT7IoTOkp6Tyam0JlsldzJuQgqfAKsNR_WiIGwvnH63HcvoOZrZwiH0e-prn3mXt4ga0T7bbP7f6yTJ8t91j9ADV9-igEZWQo2j9a1SoC"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTmiRnMKmjeLVBuvw7TAkbuw112A0Qod5I4HKqqr_ulg7WF1wV7zppnrQ5gskPTpVS_y0T0mEgYPDv9U2_T47xbnmdIBBKAT2MC2WNsBwA2dzrcmWBaPpuCUg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTij8B8ntuqHqQzEa-4rxM1VycyBoHJfrzZ4_Bb8MKDLRQg33KdOjdmwDqSzFloLpEMn3z4UIYjVtFdwEQbPkE3WlympdtY1LQ",
+      "source": "ServerOrbit.com",
+      "title": "DELL Quadro RTX A6000 Graphics Card",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$4,868.55",
+      "extracted_price": 4868.55,
+      "delivery": "Free delivery",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "kL5ry3icbZNNjuJGAIWlnCG3QCPVj8t2JSvA2Njd2E2ZqjLetIzL_LkMBRjaoNwhd6BnIk2Wk0jZ5hqd04RkPevv6em9J71f79XmLzE2y-KAj-HrMNt8Wr3gp9fQ7pdfzXGvzmW7UX8gSCiBiDgA2tAhLibga1m0hd6vHpS6FGKXuNCxHfDgD_xtXRVKb3ZVslxWR29fPmQOsghyXYIwtpHjAGST3zdNsar-x39CAil2ELUtZGHHsm2E6ftRnT7Qy_CVUOq6FEMCXEqRY7kO_uWFJd7r99mXw7k6Xj9-9iqte7EIvbDfY7OsZwMAen1V9IJqVx2LdrPf9Sy3Fwx6gecxu7cy597lWDSvq8WXlfkv9HfM35uN-kYc27KRi6kDLRsSgp13c2nv69Xn81lXf99X-n4-3df6Xu1-2xfmsiz_-eHH0f7NG57ehlNujPAYSAHrZuPYMASnVSYuBYpvSbZ-k-P8IupO8DoCha8NG6l5GiiRN3ScbrWfQTbIgLIWIrwqMMVxIzZc61ke5FiNWjKv80t2m3cpjIz0Bmdei0R5HCdjvxE8hHO-TiZyAha81ROQa8bV7VmymqHOq2p9kzXpKjnHea27DMZBKY2cbPU-kQRNZAxLoAaMi33C10Xis7po2qmUbZQ2Ua1QtFO1eGKAps_cF2ndxgrpUQn7D9H6OrmC2wT5xQzncQHME0dsyZpVm47EJdUqTIUZMjm1FBZFHrSzKd93sb--cWz2lTTzDEWHGPha1aZJgeJiCLkCbSZ4K-dQ2LyBy0cfKLf1dSrJshj5YuKFgI-jrMxyvWgsMN35ayXEpsAhFiNiHgu8xTLOUkmfp7KzONBpgcVhJuK2GqvksWcnG5osglXqwzwsg3xdzuJrKqgng7rNYf-WQhrFtb8NNtGAjeNrIvN0gahQWR6zUTRfeGJXggjPheHlOD4xFEI56tjn7nRcfoC-T9o0IeoZhog5Tybedh79xLe2PCzEYCvN20-PY1mPc0CMKLH-BdK9OMw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kL5ry3icbZNNjuJGAIWlnCG3QCPVj8t2JSvA2Njd2E2ZqjLetIzL_LkMBRjaoNwhd6BnIk2Wk0jZ5hqd04RkPevv6em9J71f79XmLzE2y-KAj-HrMNt8Wr3gp9fQ7pdfzXGvzmW7UX8gSCiBiDgA2tAhLibga1m0hd6vHpS6FGKXuNCxHfDgD_xtXRVKb3ZVslxWR29fPmQOsghyXYIwtpHjAGST3zdNsar-x39CAil2ELUtZGHHsm2E6ftRnT7Qy_CVUOq6FEMCXEqRY7kO_uWFJd7r99mXw7k6Xj9-9iqte7EIvbDfY7OsZwMAen1V9IJqVx2LdrPf9Sy3Fwx6gecxu7cy597lWDSvq8WXlfkv9HfM35uN-kYc27KRi6kDLRsSgp13c2nv69Xn81lXf99X-n4-3df6Xu1-2xfmsiz_-eHH0f7NG57ehlNujPAYSAHrZuPYMASnVSYuBYpvSbZ-k-P8IupO8DoCha8NG6l5GiiRN3ScbrWfQTbIgLIWIrwqMMVxIzZc61ke5FiNWjKv80t2m3cpjIz0Bmdei0R5HCdjvxE8hHO-TiZyAha81ROQa8bV7VmymqHOq2p9kzXpKjnHea27DMZBKY2cbPU-kQRNZAxLoAaMi33C10Xis7po2qmUbZQ2Ua1QtFO1eGKAps_cF2ndxgrpUQn7D9H6OrmC2wT5xQzncQHME0dsyZpVm47EJdUqTIUZMjm1FBZFHrSzKd93sb--cWz2lTTzDEWHGPha1aZJgeJiCLkCbSZ4K-dQ2LyBy0cfKLf1dSrJshj5YuKFgI-jrMxyvWgsMN35ayXEpsAhFiNiHgu8xTLOUkmfp7KzONBpgcVhJuK2GqvksWcnG5osglXqwzwsg3xdzuJrKqgng7rNYf-WQhrFtb8NNtGAjeNrIvN0gahQWR6zUTRfeGJXggjPheHlOD4xFEI56tjn7nRcfoC-T9o0IeoZhog5Tybedh79xLe2PCzEYCvN20-PY1mPc0CMKLH-BdK9OMw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQy3yxaje3EWHVfZV6bMaS3RX4Ujv1ux4JuZO5EMmAf6Dw5KnnPECSG48rd0Gw-hYyaYNxZABOkL_61qBfZ9z7klY74kcxtXCB2q0NRl6HZ8TKx_WO8wAnz",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Tech Trends",
+      "title": "PNY NVIDIA Quadro RTX A6000 Graphics Card",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$5,790.00",
+      "extracted_price": 5790.0,
+      "original_price": "Usually $5,990",
+      "extracted_original_price": 5990,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "ov48n3icbZNLjuM2EIaBnCG3EAYgqXeyslsP292i25RI2dwYsijrLcuy1LaF3CF3cM8EmCxnAmSba3ROEy2ynF1V_aiv_iqgfn8k-d9s0R6js9wt90_b_FP6Kj_vl9os_tp2JzHEfS6-Ic3UoQqRasimrhu6gb7GUR9VpzQX32XDNGRFR4YpIxMYugnVb1kSiSpvkvXxmHTWKc7FX3BqhDpQNQXAKZpSBP7M6yhN_tcB0mUNKAoCqg5kADQDvXfi8oFen_amhkxVMxUApiEIAGiav72StbX_sfblPCTd_eNXK6kqCbOltZxJJNhKGgBAmolIcpMm6aI-PzWSYkjuXHIti2hS2g7SWxfV-_TwJW0nV99_AH-vp4uouqZo08oGAEhWFFOW39u3_pGln4ehSv55pNVjuDyy6pE0f5yi9u0Y__vTz_bpaj1drk8b2rbMIsAfSSNsdiMsVXBhI68yB1p4chRkpUf780bOMANsxVnZB8A8x5BcfDtbH6zyngQM0tA8MsCJH_YB9-HGr2HHLfvqN_MNRjfmyZVHaMZoTe5xUMmEOcy3OaU1gNQlLgnZ2avV1UEmt6DYXenWefW24hw3znAYHRUD8SJGQTeldw8WWCGI44iynDZUiV21jVEbevJOZTZr14u2wLQP14ssiptsG9Wpyq1Mi1zYRwiGwhEjRhPNqU6xzeukLHt_GyuUZk04sZMSdhhUlVffSupuRg7F0VvglahKtEPqeYNU62BXhdfMy-3klwcZIIXTshKqfsmdIIivAmSDV0710Tkx6Fy9hlh0rFzPEhd_5M8iyHo8slIEuCI1P3oOHndy1u1CpvJy5dEQUmybTVTfXrgNM1rQEW9X2wPM3nb1jXpW7DuQL2OXZ3GA7z4zrdAtew5now_NFS6dws1Xc7LA93XICXHIeuLKQVH1fMSE16v7AS77hMINZ8wlgWg-3y7d8QPMHLX316p4gUtE9OcWFzfL_EQLLTwf2LwI2-sv09comoLg9GWq8h-esTqZ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ov48n3icbZNLjuM2EIaBnCG3EAYgqXeyslsP292i25RI2dwYsijrLcuy1LaF3CF3cM8EmCxnAmSba3ROEy2ynF1V_aiv_iqgfn8k-d9s0R6js9wt90_b_FP6Kj_vl9os_tp2JzHEfS6-Ic3UoQqRasimrhu6gb7GUR9VpzQX32XDNGRFR4YpIxMYugnVb1kSiSpvkvXxmHTWKc7FX3BqhDpQNQXAKZpSBP7M6yhN_tcB0mUNKAoCqg5kADQDvXfi8oFen_amhkxVMxUApiEIAGiav72StbX_sfblPCTd_eNXK6kqCbOltZxJJNhKGgBAmolIcpMm6aI-PzWSYkjuXHIti2hS2g7SWxfV-_TwJW0nV99_AH-vp4uouqZo08oGAEhWFFOW39u3_pGln4ehSv55pNVjuDyy6pE0f5yi9u0Y__vTz_bpaj1drk8b2rbMIsAfSSNsdiMsVXBhI68yB1p4chRkpUf780bOMANsxVnZB8A8x5BcfDtbH6zyngQM0tA8MsCJH_YB9-HGr2HHLfvqN_MNRjfmyZVHaMZoTe5xUMmEOcy3OaU1gNQlLgnZ2avV1UEmt6DYXenWefW24hw3znAYHRUD8SJGQTeldw8WWCGI44iynDZUiV21jVEbevJOZTZr14u2wLQP14ssiptsG9Wpyq1Mi1zYRwiGwhEjRhPNqU6xzeukLHt_GyuUZk04sZMSdhhUlVffSupuRg7F0VvglahKtEPqeYNU62BXhdfMy-3klwcZIIXTshKqfsmdIIivAmSDV0710Tkx6Fy9hlh0rFzPEhd_5M8iyHo8slIEuCI1P3oOHndy1u1CpvJy5dEQUmybTVTfXrgNM1rQEW9X2wPM3nb1jXpW7DuQL2OXZ3GA7z4zrdAtew5now_NFS6dws1Xc7LA93XICXHIeuLKQVH1fMSE16v7AS77hMINZ8wlgWg-3y7d8QPMHLX316p4gUtE9OcWFzfL_EQLLTwf2LwI2-sv09comoLg9GWq8h-esTqZ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT9I7PQMS5F_arTPCgsWrB4SJVpgfA7lV5BuCPPUjyicF-LfFEohzG42OoXdDwlkF4xWJ6oZwSvzG0f-JyptCzuL3gi__ImzSTQwFivuXWKrMsQppn2XcXy",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTij8B8ntuqHqQzEa-4rxM1VycyBoHJfrzZ4_Bb8MKDLRQg33KdOjdmwDqSzFloLpEMn3z4UIYjVtFdwEQbPkE3WlympdtY1LQ",
+      "source": "ServerOrbit.com",
+      "title": "YMD9W Dell Nvidia Rtx 6000 Ada GPU 48GB GDDR6 PCI-E Graphics Card.",
+      "price": "$6,581.61",
+      "extracted_price": 6581.61,
+      "delivery": "Free delivery",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "e2MHhXicdY_LbptAAEXV70GRZjAP066MwTaJPY4HGMhsojGDeQ1mjPEj_ER-IXKSSumyqtRtfyP9mqZSt92czdXR1Xm8pMVPMpMbthu03v04Lq6y28HNvWeMkjfZNvyQdAX_AQ1roA91ACEwh5YJjaFqvSWsY6LJCv70PU8ZF8U2XW42aes0yX-Ub0XNsvTfbpq6amraUIfAsCyomab63PL90-vukLYP71-cVAgFEc_xRgoOYsUAACgjzpRpuk1b1hXNVtGGytRWpo6DDSWTB-XYsvo-W79m8uPi6bn-C3nsLnn2cjiI9NclE5fD_pKLS7r92jB53CS_P5VucxqP9yd7FUpJHAx8KFkYiGrpWl0U4XjRc5U4aI8qdFjB3FtF6MhAfoxKrIeT8DQPuz4IcsxU6GBH7KkLtIRYve9ihMfwAcF85weV5oNztSgz4BewXkddvYhFvXZsgAA8kwFhq5IHfGoJDLiDXO5QQAs6m6AkFPNFT5dBJWY4phO6pcQnIo_KayOZYpq6nREMUMEJL9cDItOQ4jS0ipDk_odPaTWZJZUHyda-TYDX49I2_JpiTihb1Lq_inN7GUKEp3qDgsmZBdeUgAq6OY_8mV3fxW6fVGLz0S7nEV8tQLfxA2rfnZtiFeI-KUVNJuSGuYLMo6ZPthygUO5YhaL4Aebr6iyXLo356eW8bzfvYDTRO3-p8zn0VGzeSFSeHesqLI1otyZ2GcnTZ2gONUNT4UC1dO0PTyfp4g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e2MHhXicdY_LbptAAEXV70GRZjAP066MwTaJPY4HGMhsojGDeQ1mjPEj_ER-IXKSSumyqtRtfyP9mqZSt92czdXR1Xm8pMVPMpMbthu03v04Lq6y28HNvWeMkjfZNvyQdAX_AQ1roA91ACEwh5YJjaFqvSWsY6LJCv70PU8ZF8U2XW42aes0yX-Ub0XNsvTfbpq6amraUIfAsCyomab63PL90-vukLYP71-cVAgFEc_xRgoOYsUAACgjzpRpuk1b1hXNVtGGytRWpo6DDSWTB-XYsvo-W79m8uPi6bn-C3nsLnn2cjiI9NclE5fD_pKLS7r92jB53CS_P5VucxqP9yd7FUpJHAx8KFkYiGrpWl0U4XjRc5U4aI8qdFjB3FtF6MhAfoxKrIeT8DQPuz4IcsxU6GBH7KkLtIRYve9ihMfwAcF85weV5oNztSgz4BewXkddvYhFvXZsgAA8kwFhq5IHfGoJDLiDXO5QQAs6m6AkFPNFT5dBJWY4phO6pcQnIo_KayOZYpq6nREMUMEJL9cDItOQ4jS0ipDk_odPaTWZJZUHyda-TYDX49I2_JpiTihb1Lq_inN7GUKEp3qDgsmZBdeUgAq6OY_8mV3fxW6fVGLz0S7nEV8tQLfxA2rfnZtiFeI-KUVNJuSGuYLMo6ZPthygUO5YhaL4Aebr6iyXLo356eW8bzfvYDTRO3-p8zn0VGzeSFSeHesqLI1otyZ2GcnTZ2gONUNT4UC1dO0PTyfp4g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQPIFE3hrGL_FQsRZifnndEmBQSm3Z4h7neh9h4T06NraBKHKxpW9jnTKhibAsc7zGRND04TalFa6inaw561bbz6x19YxYot1MhMeb5aK_0q2prcX_FXOzV",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRbhpl0ci2WcSewH48YtzBFBcI3dHAcL452MATqoZb6J9zq453H-nJDGJfynPg5GQa_dQM6IsF3rPwUm4sm42ykMza6gegygJfSy8gI",
+      "source": "itcreations.com",
+      "title": "Dell 490-BFCZ Quadro RTX 6000 Graphic Card",
+      "price": "$2,100.00",
+      "extracted_price": 2100.0,
+      "original_price": "Usually $2,195",
+      "extracted_original_price": 2195,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "GTwaqXicLZLNjptIFEY1z4NGqqKoMiQr2_wYp03bZSgwm1ZBYYwpcDUGN-2XyCuM3MlIyTIZabbzGpmniaOZzbe59x4dXX0fb0X1N1uoPX9Gnf80T6rfyzX68OSTaf5FdScx5H0l_oIAWfoEExMZAECDGAhPvuS85_JUVuI7nGCLAGIChDG-x33j26HgQlZt8bjfF519yn9RjImJCIYQ6qaFEDKhib5WDS-L_-cTACGxTIwIIQAj8w5768T5j8_PQ9G9_nhvF1JqAfNtf6rRMNEIAECbCq55RVt0vK9OrWaYmjfTPNumRCvVoF063jyV2edS_adg3SWAiSwDWpYBTN0y3ppKfMMTYhDdnGDDuBsSHRtv6tLfDuWnYZDFP7dS3obz7SBvRfvniavLPv_3tzeny-fzSz7bREoxm4LQdWHIZMiafpFKdyuAqxcu3cUtPQUo9YuaXcOjXPFoXFNmXXZH4YtEoQCmr3ljXR_nMM2k67N6bIU3okjO0vC6JCuwDESjUOZGes5SHrds4NHqNWr6cxD3iyxMwyyOXmmj0k3jBtylLvOcMWqnMNTVGDuWw2r5YSvduEjUeuVYs9iRJKzZYRu6VYCClCO_3yYpSnUZZE6v6JHahS0vuU69tGZh7qT7ol2y3dH1KTBx6p6uIhSMQuuF1ptr4Vgt85ZVEG1QKg_PVB8508eE2sE19_ApsgObxyIOY7Xe6bTNHOXkMT0HtrAzR7DcK8GG-gmrDy9p444rtFwmINjxLWzvtw8JqPVNvOJ-7To58vH9v20EznoARJLXI2atmmXxAdNFbWxii2-liR4i59N47vY_wNTF_fbRmCnUH-cPA15EJM3L60psH4bZenlJXt7BiXkvtg6RbmH8ExonCBc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GTwaqXicLZLNjptIFEY1z4NGqqKoMiQr2_wYp03bZSgwm1ZBYYwpcDUGN-2XyCuM3MlIyTIZabbzGpmniaOZzbe59x4dXX0fb0X1N1uoPX9Gnf80T6rfyzX68OSTaf5FdScx5H0l_oIAWfoEExMZAECDGAhPvuS85_JUVuI7nGCLAGIChDG-x33j26HgQlZt8bjfF519yn9RjImJCIYQ6qaFEDKhib5WDS-L_-cTACGxTIwIIQAj8w5768T5j8_PQ9G9_nhvF1JqAfNtf6rRMNEIAECbCq55RVt0vK9OrWaYmjfTPNumRCvVoF063jyV2edS_adg3SWAiSwDWpYBTN0y3ppKfMMTYhDdnGDDuBsSHRtv6tLfDuWnYZDFP7dS3obz7SBvRfvniavLPv_3tzeny-fzSz7bREoxm4LQdWHIZMiafpFKdyuAqxcu3cUtPQUo9YuaXcOjXPFoXFNmXXZH4YtEoQCmr3ljXR_nMM2k67N6bIU3okjO0vC6JCuwDESjUOZGes5SHrds4NHqNWr6cxD3iyxMwyyOXmmj0k3jBtylLvOcMWqnMNTVGDuWw2r5YSvduEjUeuVYs9iRJKzZYRu6VYCClCO_3yYpSnUZZE6v6JHahS0vuU69tGZh7qT7ol2y3dH1KTBx6p6uIhSMQuuF1ptr4Vgt85ZVEG1QKg_PVB8508eE2sE19_ApsgObxyIOY7Xe6bTNHOXkMT0HtrAzR7DcK8GG-gmrDy9p444rtFwmINjxLWzvtw8JqPVNvOJ-7To58vH9v20EznoARJLXI2atmmXxAdNFbWxii2-liR4i59N47vY_wNTF_fbRmCnUH-cPA15EJM3L60psH4bZenlJXt7BiXkvtg6RbmH8ExonCBc"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRpwmxaGfulvHZv_Vbxo0syGGN3yqsmGBDoRMUNtcbZ3bvf-x7BQYs7YAhu9VI89tDuWH7NIAjHDp_BST59Kbv76GD53nMbo14lwHFWjZGb4llZxkLluaqLOw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEyq4ZP7b71jmDf3JYQlDKP4kOwlgudpLTELBff5jSwYVKBLmUjiELRuGZbIHomi9Y8rNeFMDoBjVZZimsEFJ-6lvO8PoooDqMZYhE2g",
+      "source": "ServerSupply.com",
+      "title": "NVIDIA RTXA6000 48GB GDDR6 Graphics Card",
+      "price": "$7,101.25",
+      "extracted_price": 7101.25,
+      "original_price": "$7,475",
+      "extracted_original_price": 7475,
+      "delivery": "Free delivery",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "iGNmynicdZBJjptAAEWV86BIFJNNsjLGgDsGt6ugGDYtTDGZAsoYPHCJXMFyd0fqLJNI2eYandOkk302f_P09KT_-ZaWP7HFsngvdsuHeVC-z-_FTw9LZZa8sK4lQ9KX5AcQFQVIUyCoQJKAChQZCC9J3Me0zUty_VakMaFlk66zLO30NvmP8rWs4zz9x78L0wkAijgV5YkqAVGdqpPHjhyuz_sh7S6vH_WUUs7BS30546AbcArP89yMxJyZNmkX92XbcNKUMzXO1HWocDkbuGMX1w_59jlnb4XrY_132LG_FfnTMND01y2nt-FwK-gtbb60MTtmye93u0V7ms8PJ23jMYZ1yKNajYnllKhy6nWggS3Nz6HANFvHBeLhmGIDYrMIYUMv9sIDSLxj0CyExKAZ3OEVqvASG9rBwU4RGUSBmNWudxqh4TSpBVvXNZBdOyH0PcHXtXMSYDexomhbscqtjB4G8IKato_4aJ-I0Ui8_mK7tII7IiFBbbZjJbsmkWC9kVydtNDPQWpUcujCPqps2adF6wA12lTQX3tsv9YdGRokWrvFiDB0bNCevcX5LrYgWmEGXasYPbMHCKgWEg05GR1hCxxnURAfWVodBosxqWi2AQVb-WRj832G3EgLz2258eCY7Gj99hu0DRXimp0j7OCt32sbQPaIhpeEwnFr4jo6PZ0PXfbKzwy5R2tJY2K_m68G2fKUKMlHm6DVoN3fHYPTBzCZSookAFFQZfkPPG_rXw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iGNmynicdZBJjptAAEWV86BIFJNNsjLGgDsGt6ugGDYtTDGZAsoYPHCJXMFyd0fqLJNI2eYandOkk302f_P09KT_-ZaWP7HFsngvdsuHeVC-z-_FTw9LZZa8sK4lQ9KX5AcQFQVIUyCoQJKAChQZCC9J3Me0zUty_VakMaFlk66zLO30NvmP8rWs4zz9x78L0wkAijgV5YkqAVGdqpPHjhyuz_sh7S6vH_WUUs7BS30546AbcArP89yMxJyZNmkX92XbcNKUMzXO1HWocDkbuGMX1w_59jlnb4XrY_132LG_FfnTMND01y2nt-FwK-gtbb60MTtmye93u0V7ms8PJ23jMYZ1yKNajYnllKhy6nWggS3Nz6HANFvHBeLhmGIDYrMIYUMv9sIDSLxj0CyExKAZ3OEVqvASG9rBwU4RGUSBmNWudxqh4TSpBVvXNZBdOyH0PcHXtXMSYDexomhbscqtjB4G8IKato_4aJ-I0Ui8_mK7tII7IiFBbbZjJbsmkWC9kVydtNDPQWpUcujCPqps2adF6wA12lTQX3tsv9YdGRokWrvFiDB0bNCevcX5LrYgWmEGXasYPbMHCKgWEg05GR1hCxxnURAfWVodBosxqWi2AQVb-WRj832G3EgLz2258eCY7Gj99hu0DRXimp0j7OCt32sbQPaIhpeEwnFr4jo6PZ0PXfbKzwy5R2tJY2K_m68G2fKUKMlHm6DVoN3fHYPTBzCZSookAFFQZfkPPG_rXw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ80-MoWMmtpOhLqodPUuBMc1cxbZe9e2dArRhiOHVzXhQd9359NBtWzYffO-tx0NnxnR0iYvszIhcl0D6gR3hvlkrE19FhJ8BQfM_M595NAbRsK2VNFh_2",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTL6BTga6a34s-UjiuQvFTYeQ_vSaSr4Crk1I47BNNBwh6iEB40NRSnTSwDe9ClhWv1q645TImCCDaupBgfRnKvR619cv0faw3dXg",
+      "source": "Network Outlet",
+      "title": "NVIDIA RTX 6000 Ada 48GB Professional GPU for AI & 3D Workflows",
+      "price": "$6,500.00",
+      "extracted_price": 6500.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "ZH-fLHicbZLLkppAAEUr30Olqh82QrISefkA5amwmUK6RbARBkHRn8gvTDkzqZosk0W2-Y3J18RUttnczbmn7uZ-ubH8Z2jW2-QRN5OH8Tr_mC3x7GEijtK3uqlol7Y5_QEHQJYRggM0QFCUsEjEtzRpE15lOX36vmMJ5fmBLbZb1qhV-n_jW14mGfuHiTSUIcBgiO4dkRA0lJ4benx6fexYc3n_rDLOBTucqJOR4PprQQQACCOaCAY7sCZp8-ogDCTBUARDVV1RyOpOODVJ-ZBtXrP6vvD0XP6N-tTedtlL13H265bxW3e87fiNHb5WSX3apr8_FFp1Ho-PZ8UJ6jpUXeAVXLGBDFkRgBDAWWzymedPSbKSz3c2dhEngarAVTC5JFwu7H3vxMjN43Da0IDD5KBBqsshU5WrA5Wjb9J2U2o91ewyxrEXYeWYhNxxAK18ICEXEWxxCYe660cBnXhBSFjIV6HPETtQ1eUSsU0O032suStohtc9THM4i0qZW8V06a36q2XoF0-XixTYRgh1Z2FwLTUDTLmNY7SzrX3tBaDPI19B1iGONxrXXT5FVkHHaRhiq7SNjbG_ROWUbHA08HmNtR1deaZSRmvtmu751oG7er6ijgXarefHStRXuRO417TgZYCkngXtMio4sfYBSUuouVyZr8H0vNC5vcYZDJyX_ths38FIJ623GCg1bovxvCNmIMZpdrWoN--U5fS0Pn-CQ2kg3n-DkUzIH-W45cg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZH-fLHicbZLLkppAAEUr30Olqh82QrISefkA5amwmUK6RbARBkHRn8gvTDkzqZosk0W2-Y3J18RUttnczbmn7uZ-ubH8Z2jW2-QRN5OH8Tr_mC3x7GEijtK3uqlol7Y5_QEHQJYRggM0QFCUsEjEtzRpE15lOX36vmMJ5fmBLbZb1qhV-n_jW14mGfuHiTSUIcBgiO4dkRA0lJ4benx6fexYc3n_rDLOBTucqJOR4PprQQQACCOaCAY7sCZp8-ogDCTBUARDVV1RyOpOODVJ-ZBtXrP6vvD0XP6N-tTedtlL13H265bxW3e87fiNHb5WSX3apr8_FFp1Ho-PZ8UJ6jpUXeAVXLGBDFkRgBDAWWzymedPSbKSz3c2dhEngarAVTC5JFwu7H3vxMjN43Da0IDD5KBBqsshU5WrA5Wjb9J2U2o91ewyxrEXYeWYhNxxAK18ICEXEWxxCYe660cBnXhBSFjIV6HPETtQ1eUSsU0O032suStohtc9THM4i0qZW8V06a36q2XoF0-XixTYRgh1Z2FwLTUDTLmNY7SzrX3tBaDPI19B1iGONxrXXT5FVkHHaRhiq7SNjbG_ROWUbHA08HmNtR1deaZSRmvtmu751oG7er6ijgXarefHStRXuRO417TgZYCkngXtMio4sfYBSUuouVyZr8H0vNC5vcYZDJyX_ths38FIJ623GCg1bovxvCNmIMZpdrWoN--U5fS0Pn-CQ2kg3n-DkUzIH-W45cg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSUB3hu6lBeK2hj4iCz1EmmUQa_TP7ekmRx5QeVhPJMhVjadNOtTw37bptsWjwhLB3jMRmZNMCyBxfTSuXtPjOt8FiJsqZJwbRvxrmmtjNniVFKigHXwfpEfA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTwEltq8tnlZxek4JaYXuxwt7REkOo4-Sk7J-Ci1HteeZiSyA05g4UnvJV-tPNlAwuiFWPDsL7K-QTvY2dyCd3fjb_wGYy6TouN",
+      "source": "Tech Atlantix",
+      "title": "YMD9W Dell NVIDIA RTX 6000 ADA Gen 4 48GB GDDR6 PCIe Graphics Card",
+      "price": "$7,449.00",
+      "extracted_price": 7449.0,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "dWbg0HicdY1LbptAAEDV86BKM4CxaVcmYDANYH4DZhONZ_jZgyEYDOYSuULkJJXSZVup214jPU0_-27e5unpPVzT8gcymgzfC-367iYu3-cb4dPdWlqS16ataU-6kn6HIhSAvJAgPxdkYTEXeLB4JbjDrM5L-vi1SDFl5TF1sixt1Zr8J_lSVjhP__lvUJoLc1EUeBHKkjibL6D81NLT48t9n7aXt49qyhhno7W6XnJeEHMSAIBbUszp6TFtcVfWR05ccLrC6arqSVze9Ny5xdVdvnvJmz-Hx6fqL5pzdy3y575n6c9rzq796Vqwa3r8XOPmnJFf7_ZaPdzcnAbFDZsGqR7wI2oGyDu4YT3FAJUI0IkayiaEsuEFiYnDQtn6cEIBNXfhqrBXtCagizxePieTZ-Ag8aOA7mk0iLiy1yh2BzdWVOuAVqlKoaPPLHtvmsiwY0f1SrpaT4Fa6NgwHSdA9zZYlW4J_aQyoRMy3g2SkRisRxNDO83DiDUWRmifVOJIY4U5upx50crcVWigoPHIAcLt3jxvK9n1teQ2BCPcgaIK94XmHmwl5tkGgZEnPBnxAW0taNZ2zAIfjFJ49ESX1RM22KQVNPINpdrG2kQOLHNh0dxG1LVAl_lBomzHunRDbyJ7ViHD1K0J9UmVQKJbgwsTJzUKy9Ps1tdmaxzNejo8j6c2ewPL1azzHUnYXCYDGd0FGX59cRbkZKdwTqxKzT_A-UKURB4KvDyTfgPp_uob",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dWbg0HicdY1LbptAAEDV86BKM4CxaVcmYDANYH4DZhONZ_jZgyEYDOYSuULkJJXSZVup214jPU0_-27e5unpPVzT8gcymgzfC-367iYu3-cb4dPdWlqS16ataU-6kn6HIhSAvJAgPxdkYTEXeLB4JbjDrM5L-vi1SDFl5TF1sixt1Zr8J_lSVjhP__lvUJoLc1EUeBHKkjibL6D81NLT48t9n7aXt49qyhhno7W6XnJeEHMSAIBbUszp6TFtcVfWR05ccLrC6arqSVze9Ny5xdVdvnvJmz-Hx6fqL5pzdy3y575n6c9rzq796Vqwa3r8XOPmnJFf7_ZaPdzcnAbFDZsGqR7wI2oGyDu4YT3FAJUI0IkayiaEsuEFiYnDQtn6cEIBNXfhqrBXtCagizxePieTZ-Ag8aOA7mk0iLiy1yh2BzdWVOuAVqlKoaPPLHtvmsiwY0f1SrpaT4Fa6NgwHSdA9zZYlW4J_aQyoRMy3g2SkRisRxNDO83DiDUWRmifVOJIY4U5upx50crcVWigoPHIAcLt3jxvK9n1teQ2BCPcgaIK94XmHmwl5tkGgZEnPBnxAW0taNZ2zAIfjFJ49ESX1RM22KQVNPINpdrG2kQOLHNh0dxG1LVAl_lBomzHunRDbyJ7ViHD1K0J9UmVQKJbgwsTJzUKy9Ps1tdmaxzNejo8j6c2ewPL1azzHUnYXCYDGd0FGX59cRbkZKdwTqxKzT_A-UKURB4KvDyTfgPp_uob"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSX29CS4qCT9j3VgbLwSaqF5UL9K0xuU7VKY_hRWtvuuZj4RCsB-oJHiUvepL9uipHMCeCn-f7otL9IrkK5NkONe5mwEO_AWm2X9xszv4FXWssBD6m0-WnKfdA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQFZaMSjckWmQz3WEQQeZ1sdAkNRj8qDwjZax_5QMTWe8Hc_2iDYJH9qTwYtfGn1ExusUBR4ywAC-asulT3R0q51GeQfaaAw_4D",
+      "source": "VRLA Tech",
+      "title": "RTX 6000 Ada Generation 48GB Graphics Card",
+      "price": "$6,799.99",
+      "extracted_price": 6799.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "rM8MMXicbZDLbptAAEXV70GVZninXdnhZSdgAzMDZhPxGB7x8CiG2PAT_YXISSqly3TRbX8j_Zq6XXdzN1dX5-h-PdPqJ7G6PP4i9Ku767D6WGyFm7uVvEhfu77NxnSosh8QQB5IsiKqvKqokgxE-JrGQ8zaosoe30oaZ6xq6CbPaa-16f8X36s6Lui_-k0QFUXleaiIvCKKkBf5pz47PL58GWk_vX_WKGOcQ1baasF5KORkAAC3yGLOpA3t46FqG05UOXPJmZrmyVzRjdxDH9d3RfJSdBfA41P9N7qH4VwWz-PI6K9zwc7j4VyyM22-tXH3kKe_P9zr7fH6-nBcurjriOYBnzCB7J0u5YkbhViM68HfaF6QaFGINIckZlf5hhMkyBkpWgAvZNsEO01A1jIJCEr3UrcJFyAwrkRc72cfq4ITkJYGzAiQF-_A2raBs7INEkdzKdihkROh5bMK-uFcHlzi-FjTT7blTr5uGKm-NjwQtT5a7hLLkYm1hBEob4iViY5WtpF-Yrt6TVxMhIg3eL8pJ4TXJTWlVcLwEQnGBkFGsEWkXXNRqJlNYIljAGfEd72P1hYNiOmx9JiwaOsAPDgohXqZBb61rHehPqd7lruw7G6DzLXBkPsoWu5ObeVib07vWY33JSKY3XgmABm42JqRH8N28uYMu3V3m-1VMTo-nw59_g4WhnR5VBa202wRa5iI5bfTRk0PDoVKatda8QkqqiiLPBT4K0n-A7-x5yM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rM8MMXicbZDLbptAAEXV70GVZninXdnhZSdgAzMDZhPxGB7x8CiG2PAT_YXISSqly3TRbX8j_Zq6XXdzN1dX5-h-PdPqJ7G6PP4i9Ku767D6WGyFm7uVvEhfu77NxnSosh8QQB5IsiKqvKqokgxE-JrGQ8zaosoe30oaZ6xq6CbPaa-16f8X36s6Lui_-k0QFUXleaiIvCKKkBf5pz47PL58GWk_vX_WKGOcQ1baasF5KORkAAC3yGLOpA3t46FqG05UOXPJmZrmyVzRjdxDH9d3RfJSdBfA41P9N7qH4VwWz-PI6K9zwc7j4VyyM22-tXH3kKe_P9zr7fH6-nBcurjriOYBnzCB7J0u5YkbhViM68HfaF6QaFGINIckZlf5hhMkyBkpWgAvZNsEO01A1jIJCEr3UrcJFyAwrkRc72cfq4ITkJYGzAiQF-_A2raBs7INEkdzKdihkROh5bMK-uFcHlzi-FjTT7blTr5uGKm-NjwQtT5a7hLLkYm1hBEob4iViY5WtpF-Yrt6TVxMhIg3eL8pJ4TXJTWlVcLwEQnGBkFGsEWkXXNRqJlNYIljAGfEd72P1hYNiOmx9JiwaOsAPDgohXqZBb61rHehPqd7lruw7G6DzLXBkPsoWu5ObeVib07vWY33JSKY3XgmABm42JqRH8N28uYMu3V3m-1VMTo-nw59_g4WhnR5VBa202wRa5iI5bfTRk0PDoVKatda8QkqqiiLPBT4K0n-A7-x5yM"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "tWX93nicxZbfcrI4FMDv9mafY7mxFRT_dob5JgGF-A-p2tbeMAgxqGAsqNTvbt9ln2qfZgOKhVbtfDuzs2cGwgknJyfJ-XH48y9vsV79_ftv7na7CR94PoqiIqGUeLhoU5-3wsPa5ufUCwPb_UE8aRdyrifhNXfYSyJnh5LA4YX0pG3m1psYIFN-WdyTodg1UQ3YXDJcMmdWiJfM-_sy5E2e3VZ_iApTimERr4tNZ4jxLNBxkxTLQqlZ1HnLZwbgvxUCFvGNAMQU9OW1DIjxnQPQiu_yh13qppUxixINQuYxsZCv-iNJs2gB5nAI11U3BEA9dtq3Aunk1XY8BBkwXgSSj4F-lktLg2lrZLWLcuElPPlNl165OVcsCOX9sHlbZtJl5GdBWSdG3D1NHnUDYCUCbkS6N2KVKVBUMjLIpVPOyga4w3SeGRDYQfEOYXko8LOANSV-Ybt28hCEcXrK46ZA1TYIkPZ8oIO1NnD0zfuw6igD-KYOtoS3Z8zOo5aDHdM1hR-JXiqXqkJTrDfuEi7s8AxGmANj4nkzXev1DVrsFWEpQwU570pG4s7Hi9ucbt6FAactJsdDO6SvaPoAqcEGfwxsKwhGAKRoVuJcU8jXjGa-L1CRyBmNPkioSIKTj-3JUTYrCDkPyOSR9mm-bAQwdS8jxl7ap-ascxHLbNtWZ0j6eVeG2zqmHxydTHRYyfENjIwmH5doEAjzS0HHFVQydvHBEJbKxivTO4ScP0bJIHQK6DzvR1B5-tgREHnSusnrNbnFzUkISNP_UzbnKNhZzksEVNwXjGYLHMTZeho6y96LaBqXs576s1-oB_b_zkVSLWhaLS5w4X7DRVItyPVqcUqiKOUisetC-SoXq6TNVwvtU7W4xEUnz8X1avHBRRzKbS7gLS7gNS7YB_8LF8YVLtJqkeFi9alawPOuxl0fXPx6tbD-XbVIMMHHJl86dktytYS0cN2ebJ5H4lt_tBVDGjy1UKdPm72u_X0JmfvbB99yvDtz4TzAcmd7cO5M1kEfsMO9SQr2vMLgCSkIFB7HL4WaIAgF4FgFFa9xYG0XdF2oNAoqLKiK8lgrkM2usA8s3yQzzvcCKglWDSu-pa9k0akHu2XUt0T1aeN1bYvso-lI8-qaNQZ1MnnSaoOSpm_L5t5Ux_qreLCFn6IYNCbYH7fpvjqW71eOBZej0qs3aOkrffDzvm2XxOlzoHfncHIvVt3pcmrg0SDQl15tETwiL-iosNYLl-_INd-H_UYSVSg5L8ZQm6OJXqWcH9iSDFBlBQYG-1-CNpBZ8siEXZRdETslLrQtE4d7qew0581qXbBmjarVqGHOJ9vDRqqUuHAdSKV_ADawIwM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tWX93nicxZbfcrI4FMDv9mafY7mxFRT_dob5JgGF-A-p2tbeMAgxqGAsqNTvbt9ln2qfZgOKhVbtfDuzs2cGwgknJyfJ-XH48y9vsV79_ftv7na7CR94PoqiIqGUeLhoU5-3wsPa5ufUCwPb_UE8aRdyrifhNXfYSyJnh5LA4YX0pG3m1psYIFN-WdyTodg1UQ3YXDJcMmdWiJfM-_sy5E2e3VZ_iApTimERr4tNZ4jxLNBxkxTLQqlZ1HnLZwbgvxUCFvGNAMQU9OW1DIjxnQPQiu_yh13qppUxixINQuYxsZCv-iNJs2gB5nAI11U3BEA9dtq3Aunk1XY8BBkwXgSSj4F-lktLg2lrZLWLcuElPPlNl165OVcsCOX9sHlbZtJl5GdBWSdG3D1NHnUDYCUCbkS6N2KVKVBUMjLIpVPOyga4w3SeGRDYQfEOYXko8LOANSV-Ybt28hCEcXrK46ZA1TYIkPZ8oIO1NnD0zfuw6igD-KYOtoS3Z8zOo5aDHdM1hR-JXiqXqkJTrDfuEi7s8AxGmANj4nkzXev1DVrsFWEpQwU570pG4s7Hi9ucbt6FAactJsdDO6SvaPoAqcEGfwxsKwhGAKRoVuJcU8jXjGa-L1CRyBmNPkioSIKTj-3JUTYrCDkPyOSR9mm-bAQwdS8jxl7ap-ascxHLbNtWZ0j6eVeG2zqmHxydTHRYyfENjIwmH5doEAjzS0HHFVQydvHBEJbKxivTO4ScP0bJIHQK6DzvR1B5-tgREHnSusnrNbnFzUkISNP_UzbnKNhZzksEVNwXjGYLHMTZeho6y96LaBqXs576s1-oB_b_zkVSLWhaLS5w4X7DRVItyPVqcUqiKOUisetC-SoXq6TNVwvtU7W4xEUnz8X1avHBRRzKbS7gLS7gNS7YB_8LF8YVLtJqkeFi9alawPOuxl0fXPx6tbD-XbVIMMHHJl86dktytYS0cN2ebJ5H4lt_tBVDGjy1UKdPm72u_X0JmfvbB99yvDtz4TzAcmd7cO5M1kEfsMO9SQr2vMLgCSkIFB7HL4WaIAgF4FgFFa9xYG0XdF2oNAoqLKiK8lgrkM2usA8s3yQzzvcCKglWDSu-pa9k0akHu2XUt0T1aeN1bYvso-lI8-qaNQZ1MnnSaoOSpm_L5t5Ux_qreLCFn6IYNCbYH7fpvjqW71eOBZej0qs3aOkrffDzvm2XxOlzoHfncHIvVt3pcmrg0SDQl15tETwiL-iosNYLl-_INd-H_UYSVSg5L8ZQm6OJXqWcH9iSDFBlBQYG-1-CNpBZ8siEXZRdETslLrQtE4d7qew0581qXbBmjarVqGHOJ9vDRqqUuHAdSKV_ADawIwM"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Dell NVIDIA® RTX™ 6000 Ada Generation, 48 GB GDDR6 ...",
+      "link": "https://www.dell.com/en-us/shop/dell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card/apd/490-bjms/graphic-video-cards",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card%2Fapd%2F490-bjms%2Fgraphic-video-cards&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECBgQAQ",
+      "displayed_link": "https://www.dell.com › ... › Graphic & Video Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png",
+      "snippet": "$8,999.99 Limited Stock ・ 6000 Ada Generation, 48 GB GDDR6, full height, PCIe 4.0x16, 4 DP Graphics Card ・ 384-bit Bandwidth 960 GBps ・ 300 Watt Compliant ...",
+      "snippet_highlighted_words": [
+        "6000 Ada Generation, 48 GB GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "$8,999.99 Limited Stock ・ 6000 Ada Generation, 48 GB GDDR6, full height, PCIe 4.0x16, 4 DP Graphics Card ・ 384-bit Bandwidth 960 GBps ・ 300 Watt Compliant ...",
+          "source_info_link": "https://www.dell.com/en-us/shop/dell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card/apd/490-bjms/graphic-video-cards",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card%2Fapd%2F490-bjms%2Fgraphic-video-cards&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-nvidia-rtx-6000-ada-generation-48-gb-gddr6-full-height-pcie-40x16-4-dp-graphics-card%2Fapd%2F490-bjms%2Fgraphic-video-cards",
+      "source": "Dell"
+    },
+    {
+      "position": 2,
+      "title": "Dell NVIDIA RTX 6000 ADA 48GB GDDR6 300W PCIe x16 ...",
+      "link": "https://www.xbyte.com/products/cat-27622/?srsltid=AfmBOoob_xK-iBPXySKX6UVeFqYnUV3Eg0z0mbMRsiUE9cTx-wg_EVYt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.xbyte.com%2Fproducts%2Fcat-27622%2F%3Fsrsltid%3DAfmBOoob_xK-iBPXySKX6UVeFqYnUV3Eg0z0mbMRsiUE9cTx-wg_EVYt&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECDMQAQ",
+      "displayed_link": "https://www.xbyte.com › ... › GPU Accelerators",
+      "favicon": "https://serpapi.com/searches/6a5f7a533d365609d0ad49e4/images/Oy7AL_0FW-5y4E0WHlbSdZUlQKS7GDp12x98H3N1fBU.jpeg",
+      "snippet": "Dell NVIDIA RTX 6000 ADA 48GB GDDR6 300W PCIe x16 DW FHFL GPU Sale Price: $6,399 $7,999 /each Free Shipping … 1-Year Warranty 100% Dell Original Components 30- ...",
+      "snippet_highlighted_words": [
+        "Dell NVIDIA RTX 6000 ADA 48GB GDDR6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dell NVIDIA RTX 6000 ADA 48GB GDDR6 300W PCIe x16 DW FHFL GPU Sale Price: $6,399 $7,999 /each Free Shipping … 1-Year Warranty 100% Dell Original Components 30- ...",
+          "source_info_link": "https://www.xbyte.com/products/cat-27622/?srsltid=AfmBOoob_xK-iBPXySKX6UVeFqYnUV3Eg0z0mbMRsiUE9cTx-wg_EVYt",
+          "icon": "https://serpapi.com/searches/6a5f7a533d365609d0ad49e4/images/Oy7AL_0FW-5y4E0WHlbSdeoIe5UbJfB6jMI1qosMaCevK1Qe5V0pCVK8_Wvt9T-I.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.xbyte.com%2Fproducts%2Fcat-27622%2F%3Fsrsltid%3DAfmBOoob_xK-iBPXySKX6UVeFqYnUV3Eg0z0mbMRsiUE9cTx-wg_EVYt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.xbyte.com%2Fproducts%2Fcat-27622%2F%3Fsrsltid%3DAfmBOoob_xK-iBPXySKX6UVeFqYnUV3Eg0z0mbMRsiUE9cTx-wg_EVYt",
+      "source": "xByte"
+    },
+    {
+      "position": 3,
+      "title": "NVIDIA RTX 6000 Ada Generation Graphics Card",
+      "link": "https://www.nvidia.com/en-us/products/workstations/rtx-6000/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-6000%2F&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECC8QAQ",
+      "displayed_link": "https://www.nvidia.com › en-us › products › workstations",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg",
+      "snippet": "With 48GB of GPU memory, the RTX 6000 makes it possible to examine large datasets interactively without cutting down the size of the data or reducing fidelity.",
+      "snippet_highlighted_words": [
+        "48GB",
+        "GPU",
+        "RTX 6000"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With 48GB of GPU memory, the RTX 6000 makes it possible to examine large datasets interactively without cutting down the size of the data or reducing fidelity.",
+          "source_info_link": "https://www.nvidia.com/en-us/products/workstations/rtx-6000/",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0pIiAdHx8kKDQsJCYxJx8rLT0tMTU3Ojo6Ly8_RD84QzQ1NywBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzgtNTc3ODc3MS03LTUuLTU3NTU1Nzc3NS0uLTg1NS0tNTQ1Nf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAsEAACAgADBwIGAwAAAAAAAAABAgMEAAURBhIxQVFhgTKRISJCUlPRExQW_8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF_8QAKhEAAgECBQIEBwAAAAAAAAAAAQIAAxEEEjFBURMhBTKBkRQVIiNCUmH_2gAMAwEAAhEDEQA_ANxJ044IQVnOeU8rhDyzLvFgoUDeJ8DGarXCiyG7SJMpUdp6l1xHDZjEh4JIpQnwcYzi8QvmUSOZoUFibqvtgGNq8CLOYkZ5tBmeZWxSoP8A1YSheSUeoAch3xnXE1MQzl-wXYaxZixMAVoJHmaanFJCkMu696Vt6Rjz01wdX7HWIGTga-8V-19oTt2ooagkvzxW4SuqsUCyA_aQOeB8QEZei2YN-JgWta0LVs1koIkUs29E6Bo_5T86a_SeuM_iLik4FM99xxFUNj2nO1mSz0bQzKghdNdXQDh18Y6eJwrCp16Ou45ljL3zCKlm8y13FO0iQyuDJE41ZT2HPGI06bKVW4B1Xf0kLCVK4mknWSKGe3MvoZ03UTv0w6VBkFqKW_pgFI0ELw0sug3rO0FoW7JHyVoTqE89cWL8LhQSxzMY_pWa2yhgQwBB5HHal0Wdodk6t2B5aMMcV0HVJNOBxTWpCottDzEReKr7GbQyfB7ETDuT-8YG8NZvNUMrNO-8j_wud_kr-xxX8oH7RdKf_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-6000%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fproducts%2Fworkstations%2Frtx-6000%2F",
+      "source": "NVIDIA",
+      "read_more_link": "https://www.nvidia.com/en-us/products/workstations/rtx-6000/"
+    },
+    {
+      "position": 4,
+      "title": "DELL Nvidia Rtx 6000 Ada GPU 48GB 18176 Cuda Cores ...",
+      "link": "https://www.itcreations.com/product/144778?srsltid=AfmBOorBAAh0BLXCgjMatWDK3CbGCHAbL2SIgXomcW028k6_w4jc_6L7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.itcreations.com%2Fproduct%2F144778%3Fsrsltid%3DAfmBOorBAAh0BLXCgjMatWDK3CbGCHAbL2SIgXomcW028k6_w4jc_6L7&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECDQQAQ",
+      "displayed_link": "https://www.itcreations.com › product",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png",
+      "snippet": "Buy online $7450.00. DELL Nvidia Rtx 6000 Ada GPU 48GB 18176 Cuda Cores Memory 384 Bit GDDR6 Memory Bandwidth 960gb/S&nbsp;... Condition: New Bulk Brand-new, ...",
+      "snippet_highlighted_words": [
+        "DELL Nvidia Rtx 6000 Ada GPU 48GB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy online $7450.00. DELL Nvidia Rtx 6000 Ada GPU 48GB 18176 Cuda Cores Memory 384 Bit GDDR6 Memory Bandwidth 960gb/S&nbsp;... Condition: New Bulk Brand-new, ...",
+          "source_info_link": "https://www.itcreations.com/product/144778?srsltid=AfmBOorBAAh0BLXCgjMatWDK3CbGCHAbL2SIgXomcW028k6_w4jc_6L7",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABlUlEQVR4AWKgGfgSqx4OaJUMQiGKojBMUmRjxxIoktiJYiyQQkSGCRIbAwCBNKMEIWAWgDJJIrKQnb0VWUgWwo4dDndDv7-nHveF2Tj11b2d93-nd96TIQdkzQXpzgXvJr7DRxuQPQ9kcxyyOghZ6IBMOX1L5HgnWQ7XIbvzEO8oZHkAat8DtT0F5R2BWndBjVThlVwNOHSJ2-0OgqVktgV_lT79YEkPzzRBxmqN84vbDrXYY_auS2PwJo_4Ci_2Kdma0AWjNZChMkh_obFE5Wk3e6dFkTgpiPgm2ByDrAzqApcd0lcA6cqBtGZCzTabPYYtgqV-yFybLujNh3RmM2yDNKZBTTutAteXgMuS8Tpd0JEFaclgOBVSn4Kn4UpNYP1p8FNJA8M1CZDduV-3bwoMquM4NR3iTDHu945YXBRHgRNNcOe1kXASaAquJiv8b-wxuCX8RLgsicbZ56Y1-Nw7eSAbxEaCDYEnLzGYZFgCJuy9k2dyTiZIGgnRXsMeHx5AQkkCySXlBjyTJBJGgoi_33_WBxGZ6wG_BUBYAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.itcreations.com%2Fproduct%2F144778%3Fsrsltid%3DAfmBOorBAAh0BLXCgjMatWDK3CbGCHAbL2SIgXomcW028k6_w4jc_6L7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.itcreations.com%2Fproduct%2F144778%3Fsrsltid%3DAfmBOorBAAh0BLXCgjMatWDK3CbGCHAbL2SIgXomcW028k6_w4jc_6L7",
+      "source": "IT Creations"
+    },
+    {
+      "position": 5,
+      "title": "Review: Nvidia RTX 6000 Ada Generation",
+      "link": "https://aecmag.com/workstations/review-nvidia-rtx-6000-ada-generation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Faecmag.com%2Fworkstations%2Freview-nvidia-rtx-6000-ada-generation%2F&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECDEQAQ",
+      "displayed_link": "https://aecmag.com › workstations › review-nvidia-rtx-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEyuHyOuICStGx-_VletHCCwJSmtHCCtGx-tGx-uHiKtHSGtHCCtHSGtHCCtHSG8NgtVAAAAEHRSTlMAI0L_A7oP4qv0b4XIXqGSrq0PPwAAALhJREFUeAG9j4EGwmAYRW8iQoqeoAUEqlO2tlRIIGAiQI8QYQ_wv0D0BgUg0CMkCEQAIv7HCJptGQFIBzh8vnuv_kHBqUkq0lMIlDa4K6lJVwYoA2vpQCDjLi5NjnSlMBrKjKSTq7Mv7ZYkavuygUq8qMXHV-tJUoUHNwMjk2iVBk8DXqpzHNbGm61ibe1VBNrZq3CsOtD5BAW6D52zbwdRlNawY508m5XcaufrPjD5hK-BOdOJfsgb4Kc3hSgkYKcAAAAASUVORK5CYII.png",
+      "date": "Apr 19, 2023",
+      "snippet": "With a price tag of £7,150 (Ex VAT), this 48 GB professional GPU is reserved for those that take design visualisation, simulation or AI ...",
+      "snippet_highlighted_words": [
+        "48 GB",
+        "GPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With a price tag of £7,150 (Ex VAT), this 48 GB professional GPU is reserved for those that take design visualisation, simulation or AI ...",
+          "source_info_link": "https://aecmag.com/workstations/review-nvidia-rtx-6000-ada-generation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEyuHyOuICStGx-_VletHCCwJSmtHCCtGx-tGx-uHiKtHSGtHCCtHSGtHCCtHSG8NgtVAAAAEHRSTlMAI0L_A7oP4qv0b4XIXqGSrq0PPwAAALhJREFUeAG9j4EGwmAYRW8iQoqeoAUEqlO2tlRIIGAiQI8QYQ_wv0D0BgUg0CMkCEQAIv7HCJptGQFIBzh8vnuv_kHBqUkq0lMIlDa4K6lJVwYoA2vpQCDjLi5NjnSlMBrKjKSTq7Mv7ZYkavuygUq8qMXHV-tJUoUHNwMjk2iVBk8DXqpzHNbGm61ibe1VBNrZq3CsOtD5BAW6D52zbwdRlNawY508m5XcaufrPjD5hK-BOdOJfsgb4Kc3hSgkYKcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Faecmag.com%2Fworkstations%2Freview-nvidia-rtx-6000-ada-generation%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Faecmag.com%2Fworkstations%2Freview-nvidia-rtx-6000-ada-generation%2F",
+      "source": "AEC Magazine",
+      "read_more_link": "https://aecmag.com/workstations/review-nvidia-rtx-6000-ada-generation/"
+    },
+    {
+      "position": 6,
+      "title": "PNY NVIDIA RTX 6000 ADA",
+      "link": "https://www.amazon.com/PNY-NVIDIA-RTX-6000-ADA/dp/B0BNYR4VX8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FPNY-NVIDIA-RTX-6000-ADA%2Fdp%2FB0BNYR4VX8&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECDAQAQ",
+      "displayed_link": "https://www.amazon.com › PNY-NVIDIA-RTX-6000-A...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Ram Size 48 GB Video Output Interface HDMI Graphics Processor. Maximum Resolution 7680x4320 Display",
+      "snippet_highlighted_words": [
+        "Ram Size 48 GB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ram Size 48 GB Video Output Interface HDMI Graphics Processor. Maximum Resolution 7680x4320 Display",
+          "source_info_link": "https://www.amazon.com/PNY-NVIDIA-RTX-6000-ADA/dp/B0BNYR4VX8",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FPNY-NVIDIA-RTX-6000-ADA%2Fdp%2FB0BNYR4VX8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FPNY-NVIDIA-RTX-6000-ADA%2Fdp%2FB0BNYR4VX8",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 7,
+      "title": "NVIDIA RTX 6000 Ada Generation - GPU Database",
+      "link": "https://www.techpowerup.com/gpu-specs/rtx-6000-ada-generation.c3933",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-6000-ada-generation.c3933&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0QFnoECDIQAQ",
+      "displayed_link": "https://www.techpowerup.com › gpu-specs › rtx-6000-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "NVIDIA has paired 48 GB GDDR6 memory with the RTX 6000 Ada Generation, frequency of 915 MHz, memory is running at 2500 MHz (20 Gbps effective). price at launch ...",
+      "snippet_highlighted_words": [
+        "NVIDIA",
+        "48 GB GDDR6",
+        "RTX 6000 Ada Generation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVIDIA has paired 48 GB GDDR6 memory with the RTX 6000 Ada Generation, frequency of 915 MHz, memory is running at 2500 MHz (20 Gbps effective). price at launch ...",
+          "source_info_link": "https://www.techpowerup.com/gpu-specs/rtx-6000-ada-generation.c3933",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-6000-ada-generation.c3933&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fgpu-specs%2Frtx-6000-ada-generation.c3933",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 8,
+      "title": "Unboxing an NVIDIA RTX 6000 Ada Lovelace GPU for Deep ...",
+      "link": "https://www.youtube.com/watch?v=lNXFsH864sQ",
+      "displayed_link": "28.5K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRJ33PTAp49VBnAcDVxKwTSFtLTlQZUSPpUo9NAJ24cuQfo6VKA5ev0A&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "In this informative video, we unbox the highly anticipated NVIDIA RTX 6000 Ada GPU, which was kindly provided to our channel by NVIDIA.",
+      "duration": "7:46",
+      "key_moments": [
+        {
+          "time": "00:19",
+          "title": "Unboxing",
+          "link": "https://www.youtube.com/watch?v=lNXFsH864sQ&t=19"
+        },
+        {
+          "time": "00:24",
+          "title": "Retail Box",
+          "link": "https://www.youtube.com/watch?v=lNXFsH864sQ&t=24"
+        },
+        {
+          "time": "01:11",
+          "title": "Static wrap",
+          "link": "https://www.youtube.com/watch?v=lNXFsH864sQ&t=71"
+        },
+        {
+          "time": "03:34",
+          "title": "Download the nvidia driver",
+          "link": "https://www.youtube.com/watch?v=lNXFsH864sQ&t=214"
+        },
+        {
+          "time": "04:07",
+          "title": "Install cuda",
+          "link": "https://www.youtube.com/watch?v=lNXFsH864sQ&t=247"
+        },
+        {
+          "time": "05:49",
+          "title": "Display Ports",
+          "link": "https://www.youtube.com/watch?v=lNXFsH864sQ&t=349"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this informative video, we unbox the highly anticipated NVIDIA RTX 6000 Ada GPU, which was kindly provided to our channel by NVIDIA.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlNXFsH864sQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlNXFsH864sQ",
+      "source": "YouTube · Jeff Heaton"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 6000 Ada 48GB price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+6000+Ada+48GB+price&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+6000+Ada+48GB+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Nvidia rtx 6000 price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Nvidia+rtx+6000+price&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nvidia+rtx+6000+price"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 6000 PRO",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+6000+PRO&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+6000+PRO"
+    },
+    {
+      "block_position": 1,
+      "query": "Nvidia rtx 6000 series",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Nvidia+rtx+6000+series&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nvidia+rtx+6000+series"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 6000 Blackwell",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+6000+Blackwell&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+6000+Blackwell"
+    },
+    {
+      "block_position": 1,
+      "query": "NVIDIA RTX 6000 Ada vs 5090",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NVIDIA+RTX+6000+Ada+vs+5090&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NVIDIA+RTX+6000+Ada+vs+5090"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 6000 24GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+6000+24GB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+6000+24GB"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 6000 96GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=RTX+6000+96GB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+6000+96GB"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GBIqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAF6BAgXED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GBIqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAJ6BAgXEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Laptops",
+      "link": "https://www.google.com/search?q=laptops+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAkqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgsICRIHTGFwdG9wc2AB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAN6BAgXEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=laptops+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?q=desktop+computers+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAkqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhUICRIRRGVza3RvcCBDb21wdXRlcnNgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAR6BAgXEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?q=pci+express+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhsIARILUENJIEV4cHJlc3M6Cgic6SwQoOksMABYtbEgYAE&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAV6BAgXEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb+sale&gl=us&hl=en&shoprs=EgRKAhgBGAYqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhMIBhIHT24gc2FsZRgCIgRKAhgBWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAZ6BAgXEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb+sale"
+    },
+    {
+      "query": "Graphics Card",
+      "link": "https://www.google.com/search?q=graphics+card+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMh8IARINR3JhcGhpY3MgQ2FyZDoMCKnCxQEQqsLFATACWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAd6BAgXEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=graphics+card+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Solid State Drive",
+      "link": "https://www.google.com/search?q=solid+state+drive+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMiEIARIRU29saWQgU3RhdGUgRHJpdmU6CgiR0zoQk9M6MAJYtbEgYAE&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAh6BAgXEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=solid+state+drive+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb+for+sale&gl=us&hl=en&shoprs=GBIqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAl6BAgXEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb+for+sale"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?q=new+Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&gl=us&hl=en&shoprs=GAoqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgcIChIDTmV3WLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAp6BAgXEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&gl=us&hl=en&shoprs=GAoqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMggIChIEVXNlZFi1sSBgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAt6BAgXEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb"
+    },
+    {
+      "query": "Intel CPU",
+      "link": "https://www.google.com/search?q=intel+cpu+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhkIARIJSW50ZWwgQ1BVOgoI_fsqEP77KjAAWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKAx6BAgXEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+cpu+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "NVIDIA GPU",
+      "link": "https://www.google.com/search?q=nvidia+gpu+dell+rtx+6000+ada+generation+48+gb+gddr6+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhoIARIKTlZJRElBIEdQVToKCJLfLBD63ywwAFi1sSBgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKA16BAgXEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nvidia+gpu+dell+rtx+6000+ada+generation+48+gb+gddr6+vram_gb"
+    },
+    {
+      "query": "Computer Power Supplies",
+      "link": "https://www.google.com/search?q=computer+power+supplies+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAkqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhsICRIXQ29tcHV0ZXIgUG93ZXIgU3VwcGxpZXNgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKA56BAgXEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=computer+power+supplies+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GBIqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKA96BAgXEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?q=displayport+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhsIARILRGlzcGxheVBvcnQ6CgjTkSsQ2JErMABYtbEgYAE&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBB6BAgXEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GBIqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBF6BAgXEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Servers",
+      "link": "https://www.google.com/search?q=servers+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAkqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMgsICRIHU2VydmVyc2AB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBJ6BAgXEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=servers+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "USB-C",
+      "link": "https://www.google.com/search?q=usb-c+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhcIARIFVVNCLUM6DAiM9fkBEI71-QEwAFi1sSBgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBN6BAgXEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb-c+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?q=hdmi+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhYIARIESERNSToMCIz1-QEQj_X5ATAAWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBR6BAgXEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Under $7,000",
+      "link": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb+under+%247%2C000&gl=us&hl=en&shoprs=Eg0SCxEAAABAuBP6QRgBGAUqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMiUIBRIMVW5kZXIgJDcsMDAwGAIiDRILEQAAAEC4E_pBGAEqAhgBWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBV6BAgXEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb+under+%247%2C000"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?q=four+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhYIARIERm91cjoMCO-VsgIQhpayAjAAWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBZ6BAgXEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=four+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "DVI",
+      "link": "https://www.google.com/search?q=dvi+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhMIARIDRFZJOgoI05ErENWRKzAAWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBd6BAgXEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dvi+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Ray Tracing Support",
+      "link": "https://www.google.com/search?q=ray+tracing+support+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMiUIARITUmF5IFRyYWNpbmcgU3VwcG9ydDoMCOOu6wEQ5K7rATADWLWxIGAB&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBh6BAgXEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ray+tracing+support+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "VR Ready",
+      "link": "https://www.google.com/search?q=vr+ready+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhoIARIIVlIgUmVhZHk6DAjejPABEN-M8AEwA1i1sSBgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBl6BAgXEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vr+ready+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?q=ethernet+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb&gl=us&hl=en&shoprs=GAEqO2RlbGwgbnZpZGlhIHJ0eCA2MDAwIGFkYSBnZW5lcmF0aW9uIDQ4IGdiIGdkZHI2IGdwdSB2cmFtX2diMhoIARIIRXRoZXJuZXQ6DAiM9fkBEJD1-QEwAFi1sSBgAQ&sa=X&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Qip4GKBp6BAgXEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+dell+nvidia+rtx+6000+ada+generation+48+gb+gddr6+gpu+vram_gb"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "NVIDIA RTX 6000 Ada Graphics Card Review",
+      "link": "https://www.reddit.com/r/hardware/comments/12tbqlq/nvidia_rtx_6000_ada_graphics_card_review/",
+      "date": "3 years ago",
+      "extensions": [
+        "r/hardware",
+        "50+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/hardware/comments/12tbqlq/nvidia_rtx_6000_ada_graphics_card_review/"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA RTX 6000 (Ada) workstation GPU with 48GB memory is now ...",
+      "link": "https://www.reddit.com/r/nvidia/comments/z8nyy5/nvidia_rtx_6000_ada_workstation_gpu_with_48gb/",
+      "date": "3 years ago",
+      "extensions": [
+        "r/nvidia",
+        "90+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/nvidia/comments/z8nyy5/nvidia_rtx_6000_ada_workstation_gpu_with_48gb/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=10&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8NMDegQIRRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=10&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAE",
+      "3": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=20&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAG",
+      "4": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=30&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAI",
+      "5": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=40&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAK",
+      "6": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=50&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAM",
+      "7": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=60&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAO",
+      "8": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=70&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAQ",
+      "9": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=80&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAS",
+      "10": "https://www.google.com/search?q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=VHpfaq3rI_CXi-gP3K_I6Ac&start=90&sa=N&sstk=AU9db-A6RMMd77PoadHgU5bIEEPiQ4hbIV1c07yA5kDhAKu5V7WsuX5WO9i4oOXL8D1s6XLE5_raR5Y43yDnKO0A7eBQYK-LEhIFog&ved=2ahUKEwit5fSC9uOVAxXwywIHHdwXEn0Q8tMDegQIRRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+NVIDIA+RTX+6000+Ada+Generation+48+GB+GDDR6+gpu+vram_gb&start=90"
+    }
+  }
+}

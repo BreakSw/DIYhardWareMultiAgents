@@ -1,0 +1,678 @@
+{
+  "search_metadata": {
+    "id": "6a5e45bf66bc78c3b92f1025",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sy0BAD6ehF0vm0a1_CHpLQ/6a5e45bf66bc78c3b92f1025.json",
+    "created_at": "2026-07-20 15:58:55 UTC",
+    "processed_at": "2026-07-20 15:58:55 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=iUVearrWBJnPp84PoqPniA0&q=latest+current+generation+desktop+PC+gpu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A12451413988971522698%2Ccatalogid%3A3516684481559732950%2Cgpcid%3A11226519851025516810%2CheadlineOfferDocid%3A12178327647634934582%2Crds%3APC_11226519851025516810%7CPROD_PC_11226519851025516810%2CimageDocid%3A5131301344159535539%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+gpu+component+released+2025+2026+new%2Cpvt%3Ahg%2Coapvfc%3AEvcCCrcCQUppVDR0THhCRDRqSzNfVDBIQ2R1ZGpVemxpUEJBQzBvVTVMb29OZTh6ak9ic0p3V3JPUi13TDJNeUlsZVIyM3FMcGoxWmNEcUN3cjdkZHdualNmRVZOX2ZpY0R5NEJoX0F0Z0VQLTgyY0JHVWo5YWVXdktkcXFlY21td2hTbzN6b2tJYXVBUVdXQktqZkNEeTBVbFJIWjJGZWR1VTlvQ2tsdFRGTEZOVVBlUkxnVG96Y3RJX1diRDMyRnh6bHJ0Mmp3Zmlib05YdHpPbGdLX1pXX2xHWDI0cWxtdnc2UkZtazA4OGxLbGY1d05KU2RQN0Zqc2FGYXRUeHo3cHppNHRlcjFHMkc0ZmhQNUhBVnZoS1Jyajh1aVJJaHdGSWFXaDJLRGppdGViUmVQcGVoNXlEOGRmbFESF2lVVmVhcnJXQkpuUHA4NFBvcVBuaUEwGiJBRHNyOWZUc3pLaGJ0WkhCSlpnckNlSWpOY2hxYlk5ckhR%2Cxsrf%3AAF5tSO74irujoPTSIG5GBOXi537_YJ9EJA%3A1784563028176%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/sy0BAD6ehF0vm0a1_CHpLQ/6a5e45bf66bc78c3b92f1025.html",
+    "prettify_html_file": "https://serpapi.com/searches/sy0BAD6ehF0vm0a1_CHpLQ/6a5e45bf66bc78c3b92f1025.prettify",
+    "total_time_taken": 2.37
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "pN9n7XicdVS7rttWEIz_IJ_gXrjA4VNkjFtQfIoS3-QhxUYgDw8f4lMkJVEX-ZjgOjHglHGAtPkNu8h3pEgR2XWyxTazmNkBdvav775_xdUfVQBxMo7hRu_sgaPt_mx3lQA-DmOfXdBcZb8TJM0QNEHxHMevCYYkWZ77iJI5afqiyj5RDMGyHE1zBMPwa4rkGfBbiZOsqTps5TkepR59YyHWHEWuWXrNUjRP0QxH_lq1SYG_4Z8YgiIoQFA0TTA8QzEMxb8fs-kzbYtHgniIMgTPMQQgmYceR4AfbdeSjv8D_nK-4PH-edskM57mFbqMI-7mVYE7PCZz1XerDE_13A8rW1wVw2WF-nbou68zI25wMuFsRT7YvjZ21eHbL8XwzcR_aL1vq-yn98N1fi2Lny-XBv_5WjSvl-m1bF5x96FPhmuOvrz5W74iURyR6ATDACUX-FopupJ79l7MHEqbrUO6RKwOELfLEMj6xnnZXKEPjZTkrdgv2aTmKwQGClK6HVQE5Uu6iYNmiuH2blCKgdR-CVtTRoFJoVNWx1p2SRqzdWFsRWQ8HIDLmLLeR0ABMYDO3i_uB6BrMOyZQwijrJ5rFCnNgSTmjCz99MVkU3LWDxHcBDCLnHo-x7UpY38DU0XfhiddjUOXgH5zdch5yhRX9eXYgnDTBPXSQZVnD5SrR0RWuZJxd7uSTTUdGO1AxW1TpYA5ZNpgp2q2j4ghishFC6UtQOEyZx0igzqekxeBttRln6oHIgPMLiBdxwTxGZGKeojcAGs9hbRhMDW3QSdFM2oE4rZ0zKDcwC7uPUK_J6eSSKCuJ1qmeqESJZK-d9VhyFRYBS10kAp7M2pkS3XbVJE9hWwgbGGJOv3hebgEmkCbyuaK4OaSBPJNrfSNq5l3K4wDRA37RNVBWJei1wwdqs3GCwfrQJbLoakZVJfuz8s05p-BoDCzZ60PRp-K11Is0icpTvl665Egdupows4Pj4DQDEuBR5II6gPq-7rCX978czx6-HHB-MnzXftZMNv4loAdn27DkjvvuFFwxvi01Sa-S33AyTS9k5ddtN6hWNltcHSJCYOvoWNsZ18qrSpJR87NLaESzns4dFv7Cl01DMJp32uFmpeTzb57K8jis5DpUE5mNmKOguKZ7VR2RXBKybtdjlOViPKTsYM4RmV6MmvecjRvW-ZkrvvOu7cSfK55tQnc8V5jp540B9yt9JiTZFxeaulJaY3D4A-ZOcpn1xAe9e6tuZWeGYp63hsex04vtegYwVrgd8tRfNkStZXectwdT4G8XlvKvKRVe3tSoKnU7HGnq-CuDK5Xym2o6T2yr5EjlfuA87lWZaZbzdxNk0yqO6UdjnXSUcdrvvRpCYxN34oXsehOStRLYrVni9s170HALgXkdNqngiS2SCd4Ebluj2L2trZCjyW8W17uzoYz7xNGFR4_iyIF9HS3HRvRy3mBFSiMJ_6xAKzW6zPIUotWu5suQ_pWb7bJEIyLTtmN093X4BrkRVfh3ejn-YQKfu9y_vW83K46-hfgWuPt"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRdlL_HcH56_IQ-l0AzQRNf8vV8Q1IVvlyp4rNbJIplXdED6u_wAzc-5KtJ8z6gEqkhY62oBHwMEXiP4OP8ZqFt3VqNLz4jZw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSCLlsgGriltUYMIt9bYxmofuV9Q5z6vaOGx6lnTNfOP5ppMX38jYbM78UYY2lpRl4TTJ-GZg9lT2xwHbTotAuAAkYRmKVA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ_HNKYtfOvuJ3QtKZwaHuTzpty17O1xOSTrRqO2jAPwhFsiVL0CdbwoJUm7FFgQ8Q1LtjiPbyOm1K10Kfw-yPYM-E56uGU2p2IgXWiBuTyOX1z5gxqlBDsdUo",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRO8LhHHS33J-hD_B7eot7QBNfn5VdA4d31QKg2bgzxhiKGvMJvefCyRnrnVFC2gZjtk3_xt3JiWAPMyMTuRq0sk1j01xMv1HGLPiki_EA_iqP0D2Htze3y5w",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTaIcUJamEtSgcOMBexuplyCWDcmb_iZwhtUoT-8YFTePT7DiqDtglh2xRqGkQObUOfQaOoYaXABoZ0hLsOnL_axI9w2sc-MAWxH8fG-0zQ3qrkzQRL_xX1",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTNRt_nnuwoZn2_pEiv8LU2Laajf-IfMV_k9G0gp0dIV3B6nv_8T3HsJgYlc3XUnpMuPF5n4aSXD0uHn0gqeTaEQdcI9hW25RsvA6UzGtiAjFR9pNlwROGx",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRXXA9AuRRg4_MFClTo2bjkOoGmjmrHT4lm-D4AOITkhcA6Plv0tngUXNQSKlRm4W5WHj7zet2oQfnt3aKgkZhimtv49iZDMmxX9R26fWp7szrmyCtStsmOZw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT7j7i__lg-IfrYKj8ZzNmynJ4FG6pr6Nx_VFeXm4utKHKSnT0nTkp-EG686KSh-y8hk7cqy31rktBh5FCCh04IgWu5NolY"
+    ],
+    "title": "ONIX LUMI Arc B580 12GB GDDR6 Graphics Card",
+    "brand": "Onix",
+    "reviews": 17,
+    "rating": 4.2,
+    "price_range": "$310-$310",
+    "stores": [
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/onix-lumi-8346-00278-arc-b580-12gb-graphics-card-double-fans/p/N82E16814987002?item=N82E16814987002&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+intel-_-onix-_-14987002&source=region&negg_topt=0",
+        "title": "ONIX LUMI Arc B580 12GB GDDR6 PCI Express 4.0 x8 ATX Graphics Card 8346-00278",
+        "rating": 4.4,
+        "reviews": 2240,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "discount": "5% off",
+        "price": "$309.99",
+        "extracted_price": 309.99,
+        "original_price": "$328.99",
+        "extracted_original_price": 328.99,
+        "shipping": "Free",
+        "total": "$309.99",
+        "extracted_total": 309.99
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/onix-lumi-arc-b580-12gb-gddr6-pci-express-4-0-x8-atx-graphics-card-8346-00278/BL3WJ3J7JC/sku/11064730?ref=212&loc=marketplace",
+        "title": "ONIX - LUMI Arc B580 12GB GDDR6 PCI Express 4.0 x8 ATX Graphics Card 8346-00278",
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Jul 21 – Aug 1 $16.49"
+        ],
+        "price": "$328.99",
+        "extracted_price": 328.99,
+        "shipping": "+ $16.49",
+        "shipping_extracted": 16.49,
+        "total": "$345.48",
+        "extracted_total": 345.48
+      },
+      {
+        "name": "eBay - newegg",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.ebay.com/itm/388927581342?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooi26HhkpEe-d31XTk6iWm_rFnjKrn-5mGcZ9dh_iTMJcVrjRK0QnM",
+        "title": "Onix Lumi Arc B580 12gb Gddr6 Pci Express 4.0 X8 Atx Graphics Card",
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Jul 23 – 27",
+          "Free 30-day returns"
+        ],
+        "discount": "10% off",
+        "price": "$324.99",
+        "extracted_price": 324.99,
+        "original_price": "$364.99",
+        "extracted_original_price": 364.99,
+        "shipping": "Free",
+        "total": "$324.99",
+        "extracted_total": 324.99
+      }
+    ],
+    "stores_next_page_token": "xAOYwXica15aklmSk3pT29_PM0LBJ9TXU8GxKFnBydTCQMHQyN1Jwd3FJchMwb0osSAjM7lYwTmxKGVJcX5RJvPi3Lx8LgCe1BTi",
+    "about_the_product": {
+      "features": [
+        {
+          "title": "Video Memory Type",
+          "value": "GDDR6"
+        },
+        {
+          "title": "Form Factor",
+          "value": "ATX"
+        },
+        {
+          "title": "Manufacturer",
+          "value": "ONIX"
+        },
+        {
+          "title": "Clock Speed",
+          "value": "2740 MHz (Core Clock)"
+        },
+        {
+          "title": "Boost Clock Speed",
+          "value": "Up to 2740 MHz (Game Clock)"
+        },
+        {
+          "title": "Thermal Design Power (TDP)",
+          "value": "203W"
+        },
+        {
+          "title": "GPU Video Memory Type",
+          "value": "GDDR6"
+        },
+        {
+          "title": "GPU Memory Clock Speed",
+          "value": "16 Gbps"
+        },
+        {
+          "title": "GPU Memory Interface",
+          "value": "192-Bit"
+        },
+        {
+          "title": "Discrete Graphics",
+          "value": "Yes"
+        },
+        {
+          "title": "Integrated Graphics",
+          "value": "No"
+        },
+        {
+          "title": "GPU Type",
+          "value": "Dedicated"
+        },
+        {
+          "title": "Output Resolution",
+          "value": "7680 x 4320"
+        },
+        {
+          "title": "Ray Tracing Support",
+          "value": "Yes"
+        },
+        {
+          "title": "Max Monitors Supported",
+          "value": "4"
+        },
+        {
+          "title": "Motherboard Compatibility",
+          "value": "ATX"
+        },
+        {
+          "title": "Expansion Slot Type",
+          "value": "PCI Express 4.0 x8"
+        },
+        {
+          "title": "PCIe Slots",
+          "value": "PCI Express 4.0 x8"
+        },
+        {
+          "title": "GPU Model",
+          "value": "8346-00278"
+        },
+        {
+          "title": "GPU Series",
+          "value": "Intel Arc B-Series"
+        },
+        {
+          "title": "GPU Chipset",
+          "value": "Arc B580"
+        },
+        {
+          "title": "GPU For Use With",
+          "value": "Gaming"
+        },
+        {
+          "title": "Power Connectors",
+          "value": "8-Pin"
+        },
+        {
+          "title": "GPU Power Connectors",
+          "value": "8-Pin"
+        },
+        {
+          "title": "GPU Recommended PSU",
+          "value": "550W"
+        },
+        {
+          "title": "GPU TDP",
+          "value": "203W"
+        },
+        {
+          "title": "Ports",
+          "value": "DisplayPort 2.1, HDMI 2.1"
+        },
+        {
+          "title": "Interface",
+          "value": "PCI Express 4.0 x8"
+        },
+        {
+          "title": "GPU Length",
+          "value": "240 mm"
+        },
+        {
+          "title": "GPU Slot Size",
+          "value": "2.2 Slots"
+        },
+        {
+          "title": "Display Output Type",
+          "value": "DisplayPort 2.1, HDMI 2.1"
+        },
+        {
+          "title": "Max Display Resolution",
+          "value": "7680 x 4320"
+        },
+        {
+          "title": "Number Of Display Outputs",
+          "value": "4"
+        },
+        {
+          "title": "Display Highlights",
+          "value": "Multi-monitor support"
+        },
+        {
+          "title": "Chipset Manufacturer",
+          "value": "Intel"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Double Fans"
+        },
+        {
+          "title": "GPU Cooling Type",
+          "value": "Double Fans"
+        },
+        {
+          "title": "Suitable For Gaming",
+          "value": "Yes"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Rendering, Gaming, Multitasking"
+        },
+        {
+          "title": "GPU Output Interface",
+          "value": "HDMI 2.1, DisplayPort 2.1"
+        },
+        {
+          "title": "GPU DisplayPort Ports",
+          "value": "3"
+        },
+        {
+          "title": "GPU HDMI Ports",
+          "value": "1"
+        },
+        {
+          "title": "GPU Multi Monitor Support",
+          "value": "Yes"
+        },
+        {
+          "title": "GPU DVI Ports",
+          "value": "0"
+        },
+        {
+          "title": "Length",
+          "value": "240 mm"
+        },
+        {
+          "title": "Height",
+          "value": "110 mm"
+        },
+        {
+          "title": "Width",
+          "value": "52 mm"
+        },
+        {
+          "title": "Lighting",
+          "value": "ARGB"
+        },
+        {
+          "title": "GPU DirectX Version",
+          "value": "DirectX 12 Ultimate"
+        },
+        {
+          "title": "GPU OpenGL Version",
+          "value": "OpenGL 4.6"
+        },
+        {
+          "title": "Release Date",
+          "value": "2025-01-16"
+        }
+      ]
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 1
+      },
+      {
+        "stars": 2,
+        "amount": 2
+      },
+      {
+        "stars": 3,
+        "amount": 1
+      },
+      {
+        "stars": 4,
+        "amount": 2
+      },
+      {
+        "stars": 5,
+        "amount": 11
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKop4_K_VHiG8pmi5sC_BEFGkEVL5s6geyfB_osbYNYVSvMphZO9L3UbyIuiEg3prtQVoHeR_WXOGEeUeddGf0gVxkHbIOtg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRNpAgY-PiR0q8tZAQAp2RZde2ev9Dpp160wiWDXBPj0WQwlpAI0kMm_PCY4kJZRKQEsoi6t-hkEVdESDPV7sNtVaEXzmR2",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSk92I325xiVEhwAzLUeCwaTVP7SYnJflyVlN_KndWZu0CyMDwDcKxPBGeeWAtsLf3hH-G6rJV-ahOAUyfZPY8Cn4XZpi6dcg"
+    ],
+    "user_reviews": [
+      {
+        "title": "Good Budget Graphics Card",
+        "text": "I was looking for an upgrade from my 1660 Super. That was a good card and played a lot of games on it.\n\nWas just looking for something to run games a bit better without spending thousands on a high end graphics card. Then I saw the Onix Lumi B580 for like $300. Didn't think it was a bad deal and worth a try. I paid about the same for the 1660 Super when it came out.\n\nWorks like a charm. Every game so far plays and looks great. Except Doom: The Dark Ages. It crashes on the video settings of the game. Haven't found a fix yet. Other than that, it runs and plays great! I play on a 1440P monitor. So it's great for that! I'm just a casual gamer so don't need all the bells and whistles of the new high end graphics card. So this works fine for me!",
+        "user_name": "Laron",
+        "source": "walmart.com",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3y45wHLeavz2CqJE3P6vyMAL3req8x6MBkYHwsywKPf8YTm6qLCkSllM74OwIZLvfHxg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKop4_K_VHiG8pmi5sC_BEFGkEVL5s6geyfB_osbYNYVSvMphZO9L3UbyIuiEg3prtQVoHeR_WXOGEeUeddGf0gVxkHbIOtg"
+        ]
+      },
+      {
+        "title": "Beautiful card for sub $300",
+        "text": "Paired this card with a Ryzen 7500F. Great combo. Running on a 1440p monitor. I needed a gpu for a White build. It looks great and runs the games I like. I also have a 7800xt and I actually like the B580 more. Runs cool and does the job for under $300. The only thing I don’t like is that Intel put the rgb strip smack in the middle. No matter how I run my pcie cable it blocks that colorful strip. Next time Intel, move the rgb over to one side. All around great bargain of a card tho.",
+        "user_name": "FeenixT",
+        "source": "walmart.com",
+        "rating": 4,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3oLGqxfRkM0SmLUcMcf-RME8Iw10u36ETP-cVf5esFTGdsJ6FTWuNKHNbKtI7QKaiZKQ=w40-h40-c0x00000000-cc",
+        "incentivized": true
+      },
+      {
+        "title": "Good Budget Graphics Card",
+        "text": "I was looking for an upgrade from my 1660 Super. That was a good card and played a lot of games on it.\n\nWas just looking for something to run games a bit better without spending thousands on a high end graphics card. Then I saw the Onix Lumi B580 for like $300. Didn't think it was a bad deal and worth a try. I paid about the same for the 1660 Super when it came out.\n\nWorks like a charm. Every game so far plays and looks great. Except Doom: The Dark Ages. It crashes on the video settings of the game. Haven't found a fix yet. Other than that, it runs and plays great! I play on a 1440P monitor. So it's great for that! I'm just a casual gamer so don't need all the bells and whistles of the new high end graphics card. So this works fine for me!",
+        "user_name": "Laron",
+        "source": "walmart.com",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3y45wHLeavz2CqJE3P6vyMAL3req8x6MBkYHwsywKPf8YTm6qLCkSllM74OwIZLvfHxg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKop4_K_VHiG8pmi5sC_BEFGkEVL5s6geyfB_osbYNYVSvMphZO9L3UbyIuiEg3prtQVoHeR_WXOGEeUeddGf0gVxkHbIOtg"
+        ]
+      },
+      {
+        "title": "High Value for the Money",
+        "text": "This graphics card is very good value for the money. Don’t expect 5090 performance, but with this card, you should be able to play AAA games at 1440p/1080p on max settings. This card also has a beautiful design.",
+        "user_name": "VictorJ",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1HtwhC_GllheWZkjbFcGf-XGNrtxf-h3O97mWwLBDTiUIHYB77knZ9JddBOCKZPE59lQ=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRNpAgY-PiR0q8tZAQAp2RZde2ev9Dpp160wiWDXBPj0WQwlpAI0kMm_PCY4kJZRKQEsoi6t-hkEVdESDPV7sNtVaEXzmR2",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSk92I325xiVEhwAzLUeCwaTVP7SYnJflyVlN_KndWZu0CyMDwDcKxPBGeeWAtsLf3hH-G6rJV-ahOAUyfZPY8Cn4XZpi6dcg"
+        ]
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "[GPU] ONIX LUMI Arc B580 12GB - $239.99 (Get Intel Holiday Bundle w/ purchase, limited offer) : r/buildapcsales",
+        "link": "https://www.reddit.com/r/buildapcsales/comments/1ptxrbs/gpu_onix_lumi_arc_b580_12gb_23999_get_intel/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "6 months ago",
+        "items": [
+          {
+            "snippet": "For esports titles this is perfect, is better than rtx 5050 as it has 12 vram.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1ptxrbs/gpu_onix_lumi_arc_b580_12gb_23999_get_intel/#:~:text=For%20esports%20titles%20this%20is%20perfect%2C%20is,rtx%205050%20as%20it%20has%2012%20vram."
+          },
+          {
+            "snippet": "I am really pleased with the Onix Lumi B580 so far",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1ptxrbs/gpu_onix_lumi_arc_b580_12gb_23999_get_intel/#:~:text=I%20am%20really%20pleased%20with%20the%20Onix%20Lumi%20B580%20so%20far"
+          },
+          {
+            "snippet": "It's a 1080p get-as-much-FPS-as-you-can card.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1ptxrbs/gpu_onix_lumi_arc_b580_12gb_23999_get_intel/#:~:text=It's%20a%201080p%20get%2Das%2Dmuch%2DFPS%2Das%2Dyou%2Dcan%20card."
+          }
+        ]
+      },
+      {
+        "title": "ONIX LUMI B580 came in :) : r/sffpc",
+        "link": "https://www.reddit.com/r/sffpc/comments/1i768se/onix_lumi_b580_came_in/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "This GPU looks gorgeous",
+            "link": "https://www.reddit.com/r/sffpc/comments/1i768se/onix_lumi_b580_came_in/#:~:text=This%20GPU%20looks%20gorgeous"
+          },
+          {
+            "snippet": "I was in need of a white GPU with 12-16GB VRAM that was <262mm and thankfully, ONIX released their LUMI B580 12GB at a 260mm 🤲🏽 I had to unscrew the front panel",
+            "link": "https://www.reddit.com/r/sffpc/comments/1i768se/onix_lumi_b580_came_in/#:~:text=I%20was%20in%20need%20of%20a%20white,I%20had%20to%20unscrew%20the%20front%20panel"
+          },
+          {
+            "snippet": "All of my games have been running great.",
+            "link": "https://www.reddit.com/r/sffpc/comments/1i768se/onix_lumi_b580_came_in/#:~:text=All%20of%20my%20games%20have%20been%20running%20great."
+          }
+        ]
+      },
+      {
+        "title": "\"Must-Do\" things when I get my Arc B580? : r/IntelArc",
+        "link": "https://www.reddit.com/r/IntelArc/comments/1kkmvsn/mustdo_things_when_i_get_my_arc_b580/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 10,
+        "items": [
+          {
+            "snippet": "RE Bar gave me a 50% performance increase. For the first 15 minutes i was running the card i thought i had made a huge mistake buying it but i was just ignorant",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1kkmvsn/comment/mrvrf83/",
+            "top_answer": true,
+            "votes": 22
+          },
+          {
+            "snippet": "Nothing specific to Onix, but in general for B580 - enable ReBarsize in BIOS - set LSPM, LinkState Power Management in Windows to max. power savings. Power savings settings, Advanced, PCIe. - download & install latest motherboard BIOS - download & install latest AMD chipset driver - from AMD; motherboard manufacturer always limp behind. - download & install latest intel GPU driver",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1kkmvsn/comment/mrvpnsu/",
+            "votes": 14
+          },
+          {
+            "snippet": "weird artifacting for me in specifically geometry dash at high framerates so i turned it off personally.",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1kkmvsn/mustdo_things_when_i_get_my_arc_b580/#:~:text=weird%20artifacting%20for%20me%20in%20specifically%20geometry,framerates%20so%20i%20turned%20it%20off%20personally."
+          },
+          {
+            "snippet": "No downsides, just lesser idle power draw",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1kkmvsn/mustdo_things_when_i_get_my_arc_b580/#:~:text=No%20downsides%2C%20just%20lesser%20idle%20power%20draw"
+          }
+        ]
+      },
+      {
+        "title": "Onix lumi b580 RGB control finally : r/IntelArc",
+        "link": "https://www.reddit.com/r/IntelArc/comments/1johpg5/onix_lumi_b580_rgb_control_finally/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Works great, fast and easy.",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1johpg5/onix_lumi_b580_rgb_control_finally/#:~:text=Works%20great%2C%20fast%20and%20easy."
+          },
+          {
+            "snippet": "I am really pleased with the Onix LUMI B580 so far",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1johpg5/onix_lumi_b580_rgb_control_finally/#:~:text=I%20am%20really%20pleased%20with%20the%20Onix%20LUMI%20B580%20so%20far"
+          },
+          {
+            "snippet": "Very excited to finally have different LED settings or be able to turn them off when needed without having to get an ARGB connector.",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1johpg5/onix_lumi_b580_rgb_control_finally/#:~:text=Very%20excited%20to%20finally%20have%20different%20LED,without%20having%20to%20get%20an%20ARGB%20connector."
+          }
+        ]
+      },
+      {
+        "title": "ONIX LUMI B580 in an ~11L SFFPC : r/IntelArc",
+        "link": "https://www.reddit.com/r/IntelArc/comments/1iazczo/onix_lumi_b580_in_an_11l_sffpc/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "I am really pleased with the Onix Lumi B580 so far",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1iazczo/onix_lumi_b580_in_an_11l_sffpc/#:~:text=I%20am%20really%20pleased%20with%20the%20Onix%20Lumi%20B580%20so%20far"
+          },
+          {
+            "snippet": "Nice build - looks like the GPU is wall to wall.",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1iazczo/onix_lumi_b580_in_an_11l_sffpc/#:~:text=Nice%20build%20%2D%20looks%20like%20the%20GPU%20is%20wall%20to%20wall."
+          },
+          {
+            "snippet": "Onix Lumi B580 missing rgb drivers",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1iazczo/onix_lumi_b580_in_an_11l_sffpc/#:~:text=Onix%20Lumi%20B580%20missing%20rgb%20drivers"
+          }
+        ]
+      },
+      {
+        "title": "ONIX Arc cards just listed on Newegg(US) : r/IntelArc",
+        "link": "https://www.reddit.com/r/IntelArc/comments/1i34jez/onix_arc_cards_just_listed_on_neweggus/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "I am really pleased with the onix Lumi B580 so far",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1i34jez/onix_arc_cards_just_listed_on_neweggus/#:~:text=I%20am%20really%20pleased%20with%20the%20onix%20Lumi%20B580%20so%20far"
+          },
+          {
+            "snippet": "I'm not searching for the highest frame rate in existence, but I'm very happy with the performance so far.",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1i34jez/onix_arc_cards_just_listed_on_neweggus/#:~:text=I'm%20not%20searching%20for%20the%20highest%20frame,very%20happy%20with%20the%20performance%20so%20far."
+          },
+          {
+            "snippet": "1440p, XeSS ``balanced'' with ray tracing ``ultra''.",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1i34jez/onix_arc_cards_just_listed_on_neweggus/#:~:text=1440p%2C%20XeSS%20%60%60balanced''%20with%20ray%20tracing%20%60%60ultra''."
+          }
+        ]
+      },
+      {
+        "title": "[GPU] ONIX ODYSSEY Intel Arc B580 12GB - $300 (NewEgg) : r/buildapcsales",
+        "link": "https://www.reddit.com/r/buildapcsales/comments/1kvrjgi/gpu_onix_odyssey_intel_arc_b580_12gb_300_newegg/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "I am really pleased with the Onix Lumi B580 so far",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1kvrjgi/gpu_onix_odyssey_intel_arc_b580_12gb_300_newegg/#:~:text=I%20am%20really%20pleased%20with%20the%20Onix%20Lumi%20B580%20so%20far"
+          },
+          {
+            "snippet": "We observed that the B580 scales well as resolution increases, especially at 4K and the games that aren't heavy enough to eliminate it as an option.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1kvrjgi/gpu_onix_odyssey_intel_arc_b580_12gb_300_newegg/#:~:text=We%20observed%20that%20the%20B580%20scales%20well,enough%20to%20eliminate%20it%20as%20an%20option."
+          },
+          {
+            "snippet": "Unfortunately, the card isn't so powerful that 4K is playable in a lot of these games, but the behavior was consistent with 1440p as well.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1kvrjgi/gpu_onix_odyssey_intel_arc_b580_12gb_300_newegg/#:~:text=Unfortunately%2C%20the%20card%20isn't%20so%20powerful%20that,behavior%20was%20consistent%20with%201440p%20as%20well."
+          }
+        ]
+      },
+      {
+        "title": "What's the difference : r/IntelArc",
+        "link": "https://www.reddit.com/r/IntelArc/comments/1k6f6g9/whats_the_difference/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Intel arc g-series processors set a new standard for handheld pc gaming",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1k6f6g9/whats_the_difference/#:~:text=Intel%20arc%20g%2Dseries%20processors%20set%20a%20new%20standard%20for%20handheld%20pc%20gaming"
+          },
+          {
+            "snippet": "Massive FPS boost using OptiScaler x3 Frame Gen BOOOM",
+            "link": "https://www.reddit.com/r/IntelArc/comments/1k6f6g9/whats_the_difference/#:~:text=Massive%20FPS%20boost%20using%20OptiScaler%20x3%20Frame%20Gen%20BOOOM"
+          }
+        ]
+      },
+      {
+        "title": "[GPU] ONIX LUMI Arc B580 12GB GDDR6 PCI Express 4.0 x8 ATX - White GPU - $250 (Newegg) : r/buildapcsales",
+        "link": "https://www.reddit.com/r/buildapcsales/comments/1nmq4m1/gpu_onix_lumi_arc_b580_12gb_gddr6_pci_express_40/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "9 months ago",
+        "items": [
+          {
+            "snippet": "RGB strip looks nice, big flow-through area.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1nmq4m1/gpu_onix_lumi_arc_b580_12gb_gddr6_pci_express_40/#:~:text=RGB%20strip%20looks%20nice%2C%20big%20flow%2Dthrough%20area."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "ASRock Intel Arc B580 Challenger 12GB OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQsJWS_i1-oXYvB0ZD0ySYXQzWNhIaOMcFUQj5-qv7D8PYTo-IHo6p-QP2BX1BkCL4_fE2EJ_UP7-7ODZjrY2FBpi8Zxa2YCoJClqtFTJwpeHAH5oOyF4wZ0Q",
+        "price": "$309.99",
+        "extracted_price": 309.99,
+        "reviews": 107,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZhcHQ3icdVS7zqNWEI62TpEir5DK-qXDHdL5AhjbgDlwANNYwOF-NWADVp7m3-xKm3KzUtq8xm6RZwn_1skUo5FmvksxM__88NNrlP2VITvyu87ZHOpzy9Pn5nauszX41HYNvodDhr8QJM0QNEEJPC9wBEOSrMB_Cv3BL5skw39SPCOQgGdInmMJmuEAID-nkY_LrI70OI66XRMuYyTLEizNAZ7lOI4iWYoAf2SVn0Tf21-IhYbimEWGB4sER3K88L7D_Vf6vL0SBMGzJE2xHAU4jhCWgv3tDPXd9X-aH273qJu_KqU_RP2wCu9dF9XDKonqqPOHrKlXOOqLoWlX5-0qae-rsKnapn6b6aIy8vsIr0hAMm-JXdXR-CFpv7v8D6337WN4TZPXpHy9969p-RrVHxu_fcTht3c_i8242_bj1kBta-8gsOQBeA5D6649mKRCBw7uoZimoTicTBeLJye9aLXKYKBNtqM1WE41hLzTxTYmFZQMfoZ04LaVZR1KU9ZEp9BEJNuFI2lZUAg6zuFsP73eJtCEChtotTRp9Rs2za0yJC55Sl4KWF2sDeNSXo5KAUa7kIFIUnRJSs0S0c7uIFoFtLHj0RcKKkYtXTQLW5Zk3wwnof19S_tAJFGhEL4jVPq-7UPS601CAj5hiyHJGH6-cQMREroo9JC8AFUqDUv2XNPVTEuGiwOtwIVKhMXkGWhinBzNqE4mW4KktjdmdY-ehqUphlU8_QLMARJaJ4eVQWkMrNJUJbASWJg1bRsiN_VgcYC-o7VqCUXHxZPveqVVeuBSpvPFoUdcH1xvJlLdNciLCxkzV2ezhIXnYCuqYGNYymjVxezt8D2obDuSoe45UNadwpQoLNmVneLaZi00Dkad5rq0oZ3qgDCQHnJ22MC9NuuOhwJ5JHTXI5y6Rb6NN1pepp58mbCjARdMg5Vrm9-nvou_grXEDKbOsvhF0o0Tb1QpS3AD87RYzpRGc-yNXwmOp5nlUiiOYriPYdMUWfTt3Y_XqxktKx29mBY8_0Lt1lrljT44CoHipPztyHdro_NyZd8LdWABXqTpozgdXe4YetJxE7l3j1CFwjZUZbB2qZ75QcfDWF9n69vJbmvl_LCh7CCnPzX7RI7T_sz-Qm1Wa3H7poYPtugPrMtc15KpVX1aJygPyPmcdn3mb8UX9WhHXpgGubZspLE3lTQm44NlvHHs7IWiEOQSwW4uIqPo9waY9eAak6SX3ovdi1Spl9ZqsdaJN6iul3jDacpuATIUteSTavJs_yy2hoq4tXCcrtunQhR6MMZRfc2RyHG6NExBVo0vkq1JBXs9HmQwSy00U7Fy9ocmPD9cY5eeEG_xlcz0Y8HMmkb62UztL9fCr6nrI56aIAXqpqm2921S55Lb7LbZiU3GR9wAxE6JzR9oi0K-p5MGem75-hR67MjpjskS5hinx5tqDCefkdc0wVDkOnyZz8Y5pKfbZGcgUV-ExYCdcdwN4ECn5Xo8iDY9FhvFb1E3HahzadQzBx4oTuosOnZWHPdhIpwgbz1u0_g4hO-rDH9mOJZmSZ6ggUAvn5okiOUpxX__C4yW8wI"
+      },
+      {
+        "title": "Intel Arc B580 Limited Edition Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTcH_Zu_F9eJjiVvkc8_flm5_83nU1PYziac4nyoQbT-nzmOIu_zmyyUEhFtn-IUuCciFt_3el7E2XPRc2q2P8qt_exBdp0EGCFCn1dUdk",
+        "price": "$469.89",
+        "extracted_price": 469.89,
+        "reviews": 195,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8HiXM3icdVTLrqNGFEyyziI_MSvrStC8s7PNw8bm0UA3ho2FoXFjngZsbGu-5k5mpMkyiZTt_MbMIt-RZXyVbXJaOotTp6q6pVL_9d1Pr6T4s0CYJH0fLszG7WTebc9uU8yZz13fZpd0LLI_WMALLM9yiiwrEisAICry5zQZk6o9vsE8EGVB4IGgKBLDi6wigN8oSbKqaIiT56RX27TIfgeCJEg8w0uMxCicABhF_rWokyP5F-ZY-XkEEQCBE2SGEQXxQ58NX3l3uWcZiVeeNFF52issL8sS9971HHX_P-DH84X096_rKhnJMM7SS9-TZpwdSUP6ZCzaZpaRoRzbbuYuZ8fuMkvbumubt52eVCQZSDYDDBDemjhryPTx2KVvb_0Prw_ddXylx9dj9XoZXmn1SppPbdJd8_Tb939r13S57NMlRF2HVY_xgwhYBt7hBt5QGO_gac47ur0iKBtTXVmkDIvD3QJBZAfoAXlSs48I4QdBcZOw-GLtaEQaG1hAb4nGRpbmxRma7hBXeqxRP6o8HlW6G2pKmyKv8lh7mz2ggDUNYGyfk8peQ5A5sbpww9KLYB3DQPOaBFHLDtYAId3y1Dg8rOg9rqd7CmzzEHZ9qHdNWOGHb9hmhDzqh2iKV7YNA3P0DCUkRmxEu46FXDsmOg0Oq2yJNbNNT7GJVJrYj7hDrM3HXNfEBm0QEkyiVasw9Gj2iKa4tCfPgCMEN4BBJh5Y6lonGmG1cmzOZuzQM6KHx0VMtw5VOnkqXQdGxVt3NkiYcdgBxYZAgAjEZ6sU7oeHaURcrAeNF-K6es69K1LNLg3NLlylrF_hPKztEyorPzQsX-cyHdeYZg0WAzSNsKEnR1_wYW2ijNGvRmEuvJV9d8LYSxFio92i97FtB6w1EbWqSFkCBLJlWCkPfIq9X25Dn39l5row-o4oZi-6A7cyrKnISqPwCETJ1yd_GuDPrCTzgsixnMQJ0qe0bcuCfPvhx_3eJ8_Ykhc_8Nx3nDq363hKmI1yWIdUPm_kfg77-LReDUpzCBhZ4_mNdtvspE0a65sF2V1i1lJKDK31GKjUKZJDL3u5My_m5y3umrV7xZ4RonDYtqujkdPBFd9xi9lcW765ZSbWklHcCfu57tv1QJsjOh3A3aX9UCRL7cXaYBKn9HCyS8WBK39Nc5CbAXzTUPFTolSMCnn9vSSwHFaQuTuHfQ5ATC-l-qLXVtQFXWb32tmz5s9649lr9UkUOO7Zt5Yvi8OjXEILSXNlc9svH2u2dA5TTpr9CWmS5Ojj7VDU04uObb0U9xvTYO565_lUq8PVM3vudQdVukVyINeGMEzPXNg2SIo7t4r2ZdJw-2t-aw-UsRZtvbwsj81J37XqstiKx-matwwSb0csm3zAoSR2AESPpdxs01icJCf0Rdafcro5W3DcJoIx51mBA_P05e5CN-Vv5xsumKP1ojwvgAtJOjPZweGNZjI1zE_lYp10qL-ZnFvB5i4xV5Qfm4Js-iDPh_SobD05uJ5v09VMP9RF9uX5zeRf_gG0G-Vr"
+      },
+      {
+        "title": "Gunnir Arc B580 Index 12G Gddr6 Computer Video Card,Dual Fans",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQDNHSEI6Q_K0TqWDJ0aM-bSL4K7bnW4wl_axwGZIzr6KgutVQzg2fdmGCcFbZrqQskFTqFRBrHDDZZeCdiyaE_2G1vVeIFNWII8xt6LmAKnU9xkKMVHFWmYQ",
+        "price": "$359.00",
+        "extracted_price": 359.0,
+        "reviews": 583,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=96CtwXicdVTJrqNGFE2yziI_0SvrSVVAMWRnM9lg5slmYzGDgQIDNraVr3mdbqmzTEfKtn-jW1G-JbzepxZ3c-qcuufU1f33h19es-rvyvOzaBiCjYLNnqXM7mLiag0-9UOXXpOpSv-CBIUgBUmOZTkGIoKgOfZTEk1R0xVV-plEkKZZimIhQhxDEhwCf5ZZlDYVzow8zwahS95UGI7lWMgQLMEgSACSo6k_qjYqsu_4ZxZABBgIIEuxJKAQQ3Pvh3T8Spn8CdKLNk0xLKLRQqNomoC_mbYhnP4H_HC5ZsPj666JpmycVsl1GDI8rYoMZ0M0VR1epdlYT12_MvlV0V9XSdf2HX67M2RNFo1ZuiIAgd4KvcLZ_KHov5uAi3sEORbBBV2MsxC872_Ta1m8Fs3rdXwtm9cMf-yi_pYn3378R7zueP6y4y2v733BBq4Qor3Xj-65DPxtj7OmPxie_Uxg7wSBN4VA31it3Xsgefj-etJxU7tSoyXbHWERE6XxMNR8nXew8kzEMkw9To-aPtdwePCFUgkCJPuBbnugDzO55L2t_kg85W57JY7Ijeg-SxyL3Dlxy9APUHgMpG3iNUAHaZeepTzd-o4nbchjbUMXpIKz6LiNRC39uyFoBKtpti4p3aOg8fTaH3Xst3Fb0gmWkM1D0TpLbVinu1ju8RErswVt2iXsYxTM0D3btkMgMgIAaIFIeYJkZnKjpnU5GyInhmTTJGLyTOoj6UqSFTT22Q701vPDKSR83ZdqGEm6bLkbwSV3SMP1bBEK0IklSyF8hE_lbNdLDqKOEhlBLWDJVAypGIayFSSORKaS3_plin3a9ebJwuXZkDZU0CpeCqSbXCkbe8nLCELveJaC5U_mWNRvmnScYkkxk61-z0TYerV0jHm4-f0-DvlXsJbQ5BiMy4oakoNZU_lNpQBwO6jqSw3j2Cl-hQxLIZqEJEMi9mPSdXWVffvp59PJyZbRzF4c1zbfkcJab8M5AioX74KSvajssLaG8LzbjhyOXcCKFKWKd_XAqEkoqZvscA2hxtW-pe0mVyiNKooH1s6NdbW-7P0e78ybb8uBF4z7blvIeTma9Dtys1qL_NtrqeKL0UQf0GktOXo7lrjwzjHxMMthrCJefNFUPwuTMj7rNWdYW2dX5kSuuNabhuAvEjUnN549POrMqsetBR5GfMoJIiyvtfAitdqxd_tUH8SLra2X88bTd8JCRCS51L3msPT4rHlL85g1p95P_HMHayOe8wyfzp7IMIY03eOqnV8kX5dq-qQqMnhIve2UYhtslS4xbwdLKPce67KtjMa5Rg9dJ6LqQW6PpzrC5OmW37u4BNqma_krX-CzdOgEvtrTxXzLO-DR98JnFcolvSg0CMt78izeJyE9M0bg0NCZ81K9aNa0j5C8piAiiXXy8jAtM6Hul7tfgUJ74ZYG_IphLiCNDUrGsyL61FxvdlHvDXeFNBsLPxhw8_ICV5k6uHk-JgW3t1n3drnPNyV531bpl2WV5F_-A4g52eY"
+      },
+      {
+        "title": "Sparkle Intel Arc B580 Titan OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTgcCRCRFnZ_p4931baZFrtKy_DShUXCmpwBgRk27ksTE8L5N3Jz6YJA8Nu2eNUchtTA3Kl-hALyvla35cjXDwRP9tUVtoCpxQegGQCz8wpqoRM3umkmcHH",
+        "price": "$478.52",
+        "extracted_price": 478.52,
+        "reviews": 145,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e4mH_nicbVS7sqNGEHVt7MCBf2Ej1a1ieONMAgYJiTcMiETFG8RTgASo_DV3vVu1Dtdb5dS_sRv4W8x1vBP0BN3nnJnurvPvT7-8JsXfhYOSoO_dndzoHUvq7U1vii32uevb-B6NRfwV4CQFSEBwLMsxgMJxmmM_R8EYVG1WxH_hHAswDsdxhuIwjqQIivqSJ0FcFU2ipWnSC220lnEExzEE4DCS4HCaonCS_rOogyz5P_0VYAxJUhxBrHQYyWIURuAf-nj4huv8ZeUENKBpasUBHJAUS_-um5pw-XHu4-2e9Mu3QxWMyTBuonvfJ824yZIm6YOxaJtNnAzl2HYbnd9k3X0TtXXXNm81fVIlwZDEGxzDqbdAb5pk-ph1b1_4gdSH7jG-5tlrVr3eh9e8ek2aT23QPdLo-7tfxXYS-GHiDafrkGBi9t4nIsG0lQZBD8BDXAPaIpAQ16aoiJwdST5QJDkNXDD4Ut6YTq6pQu5ZwJlMAS3KVdUdnHv4JZcHWLze-c1B0EXOrKFq15vAvJlSVyXX_BHW6jEg_MYRTeHs7Uaz2i12nUO0N5Fjx7PRdIoDzcqSyiXab8kQ-isXSyROXkfXvPHd8uk7fhXtVeAv4GnCbrZtVJ4dDASeebeICk8EWbYE86HuUZXUsZBIaFausmLBLTAlqCDIYe7Vl1SnajWX0hEyTQV10hnLz5YEU2MBgYVxyMPPwCqw6QwgEUgDpa3amgeJkAdGVBsLkiglEM9ArbvG8OLSrWAaLkA1akiewS6PGigFe1jbe2i4Yq76jXo-uaab8Bhl4YhAsBs9PD6cm5zywS5VXLVzr_DmVufnGcR3t56BU3at41S0_9zhtlPla3MK5WlYkIghqlEeN4i2nWk0mvyqwR3p1rITY_AhFfLO3KuL5vp2sI9mt4kX7ylbHg46Uzw8fTcOELHOCMSDT0Dzj3no02_YFlKjpTE2KyqU5E7Kkd8VMoY9vOPxpQRhaGW_AYYlKZoABENQ7Keobcsi-f7u58vFStaNTl4s29TfE8JWrf0pwI5ceHBz9nZk-63R-9fDfuCa0MZYkSSP4nz0mGPkw-Mu8e7rknElMpTDaAu5VgRhz5qpti22txPqmoP-QKbkOu5waveZlOaDTr8ndputyL-pxTISg5H2qMsWWmo95E3mXEN80fN-KAJefFGOKPGjPLyqJacZe-uQp3gq28Ybh4BWipKTKsfslzIxymFvYIsWXlIc9_N7KbzAWjl3dhervXgzle163nDqQViBFEGs8aRYLD08S95QHGbLHecL_zyAUgunNGkuV0dkGA2Oc1jU0wtEKizpy1GWsAV2ppWLtbuX20h_eIaQnxzWZmuJGqaSWlQVD4qF2J8vZdAQl0c6t2GOKbu25u981lyh1wp8caKz6ZG2mEPPGWJl0iacwNdww3nybHOKfHpiNNeigTWl-fGmGOMpoKQtCSgC30Yvi27oETnfZlRgmfLCrQ9ABcPcsDjUSKmZZBGRU7k7BJ3TzzKhV0azMNjDSbOmSI69naZDlHEnk7Uft3l6yNGHuoi_UAxN0jgFWPzNqNnVpldTSv_5D48C8JA"
+      },
+      {
+        "title": "GUNNIR Intel Arc B580 Index 12G GDDR6 Graphics Card(mmc)",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTtIUp424CmonjY_rgHWbZm4IiotrhbkPZn5PCYbTs7oOlCub8-8nJJ43-R_gQc1D2s3UzMD_C105Meh_VPrq5tyc2hYrYhEfZx3Mx0vHusDbTbyDz9Eb-I6w",
+        "price": "$304.04",
+        "extracted_price": 304.04,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4lC4gXicJVPJrqNWEE2yziI_0SvLEhe4DNl5YDCYmQuYjYXhMpjRgA3210Sv0y11lkmkbPs3uhf5lvCUWpxNnTpVRzr17w-_vOHinwJ5OOp7f6s0ZsfRZnszm2JDfOn6NrnHY5H8DUgaAhpQPMfxLIAkyfDclzgao6rNiuQvCgKG4WiaAxDyLEXykPgzx1FSFQ020hT3-zZ-pxE8DTmSgQxLQWLRpIg_ijrK8P9tnoIUx0EOAJqmSEBRJPuxT4bfPt3uuH9-O1TRiIdxFd_7HjfjKsMN7qOxaJtVgodybLuVuVtl3X0Vt3XXNu-cHlc4GnCyIgkSvgOzavD0Kevid1Ng8QEBz0GwdBcLHCA-do_xLc_esurtPrzl1RtuPrdR90jj7z9ehXba7YZpa6Gu8_Y24QTKXUctGTaJopVejUuPdJrqFlDKThfiUZMVFAqjiJokwuV8jN3kaUggRa941htb0nyODsgYeLJ4CsXkqQvj5C98rW5h1ISD39h6KHm0Xo-h1XhXv9T3rryh3Jfoo6o7IFmnT6i7Wf4E9OtpTCjF8gLP8QIRxH5uxlfR092tZvvjHVdiGpG8HqEQJMiiw0qPErlTHVHJIwnKWBZL27cPeK8L7jWvENk5htAFYZ0XTqkPiBQDF5zA0Qe0Ls1uhCrdLgjSQ6Mk5Alle2F1CkKAS6AdkUKfXrmFxa7w5GR7mdvCQvYrvla1J3eu7VZXl0QwoA7QrUdgoKTC122r-QkyhNFMpt_noU-_ERsRjo7BupygQcmfNHW3LRSCeASqui7B5eJkvwKWoyFDAWqJFPc5btuywN9_-vl8dvASFLx2XNv8QO03eh1OEaHyl4OfczeV6zdWH14P8sA3F5fgBJpWhVkNWDUORXWLg3sINL70LO0wuvvcKKJLz9mpsSk2t6PXNQfz4dmSj_zh2MqZlOaDyXygtquNsHvfliieEI1MAM8b0dHrIW8ydL2QTzPvhyLaCWtN9XAY55erXvKGJTuHPCVTxbXeNfbeIlHyUoXs_lliqxxki3gal3NKkmF-L_drsdZOndslei_cbG2z1Pucftgvg5CiFjxqDscMr3JnaYjd8Op83r0OoDQuU4qb8xUJLGuI43wp6mm9hEQsmbOqSMRT7GwnF2pfVtrYfATWPj8izuVqCQ5TCZ-6TkbFk5JP5zJqqPMjndtLTmjbtt7dd1lzFYN2vyuOTDY90pZAzJx5nEK7FIpCg7TQa8c1xzhkJtbwHQY4U5qrN80ajxGUNjSAFLmJ10_TMmN6vs1eQWTaml8O8AqWvRHJxaClZlIEj57K7SHqUD8rlFlZzZMlHijNmgKrvZumQ5zxR5tzH7d5eijxx7pIvi6PnX79Dx1rqb0"
+      },
+      {
+        "title": "Intel Arc B580 Graphics Card",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRhm7mK-bkvzed4xIJrDAHbYlTcQuvBV-dIK2VXvgB4YhICrzCKr2dEBcZpA7IWoHmEfCiMEn0BxQcM-x1KAPkKo34z8-mSrhhaniQls7jFHPoskulvA1pyQQ",
+        "price": "$354.00",
+        "extracted_price": 354.0,
+        "reviews": 583,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=c9VF_XicdVTLrqNGEI1mnUUW-YVZWVdqaGggO2MMfvGmG5uNxRvM04CNsfI1dzIjTZaTSNnmN2YW-ZZwk2WUXlRLfbpOnSp1n7----E1zv_IMYn9rnPFXW20PGM0V6POl-Bz2zXRLRzy6HeKZliKoaDA8wJHsTSNBP5z6A9-2aR59BuFIMfzEEEg8ABxUGC4L1nsR2Vex3qSxJ3UhG8sCFEUpAQIWMhTLOA4gH7NKz-N_8G_0ADNME8jnkIUywgU96GL-q-MsTq_HbCI4XgWsQJiGIRo6mfD0qXz_4Afr7e4m75uS3-I-2ER3rourodFGtdx5w95Uy-iuC-Gpl0Yq0Xa3hZhU7VN_Xani8vY7-NoQQOafQtoUcfjx7T9t4f_1vrQ3ofXLH1Ny9db_5qVr3H9qfHbexJ-e_fjuhmlVT-uTNy2RLKA7Q6mWkRJAKi7JcnwcNQ2HlAnbbN9qo43WQrZHmEzBpRghUSTQ1q4-xIBgcIaliKvw6o1Hbqhw2emWCQSD27W2mUDnEuGoqd4P7gMNOGutyXZORDtfnB2vemWF1xoG0yHkwVFD-MW2UpmBErGBqVHR7XsapU6xjklnoosd4CMbNliHCxIpHjIgU1lJ4owzsZ7Oi51j1zzGRy34OBoWw20HXlqwJG8UnU9GDvlwcKW5eN2H7ltZztki6HG2heZVokKPRAR9SLqcSkkfp1OnryTPZvaWDI5mUB--I4IiDscHUn0gg3JyIrS4yo6zlr2J7AzbFzQ2KaePiSOWreOX0SiJ3uWByikrh_SCUeD6Q4rtRaxfwkHlZC9hrdT9LRsde1pDlQns5BPEfFyTSorR45sr5KTQLFUAtqb7grU6bI7-Diz40s5nIrQlmEkk4pkUU2Qg8fBrLOLLouMW-1wBOS7ku9Ea6NNujuPtsAMXjOMX2zZuf8yBIKnYu3kw6gI18Mwz6r-5dF3yVewlNnB1rlnN2GFT9MXzoy8K9rIUiUtWWeAV_MniuMZFkEKcpAVPoVNU-Txt3ffn892PD_p-MV2LOM9lJZa5Y0-2AvB1s34657vlmbnXbabXqgDB_Cznv36sT9y-9CT92J8vHmUKhTEVLeDI2V67gcdbyX6Ml9eD6Stt8adWIqL3f7QbFIlyXoDvYfiYrlevVWLdmTtD-jInpeyrVV9Vqf4EtCTkXV97q_WL-qexF6YBRetEHRzY2-zhE52jvnGIZGZohCUElvdVMRm0W9MMOnBOaFpL7sV0otcqafWaSOtW18tdTmvtzxtK82JLIRzPKg2j_pnsTJVzC2F_eO8em6pQg_GJK7PF7zmOF0eHkFejS_y_IkKdN7vFDDJrWVn68rd7JrQuB9NKTtg3uErhe3Hgp00jfbzCW5O58Kv4fmePJogA6rYVKvbKq0v8rGRVvkBpeM9aQBGj5TwO8aB2Pd02sTPFV8fQg-NnO7aiLLHJNtfVXM4-KyyZCgW0svwZTJMI2Qe1wfJQaq-CLMAknPcFUSBzij1uFsTZizErd_i7rGDRmnWEwfuOEnrPN53TpL0YSocLN65Xx_jfRd-qGbrZDnEIJqdzRPwFIPmbTal5M-_AflE8Cc"
+      },
+      {
+        "title": "Sparkle Technology Intel Arc B580 12 GB GDDR6 Graphic Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcS-jd1V4nPFWQAASnM2RmSugySlaLSEJFdcyU6HofncdQfT9WXko8LVbXsTC3JKVNodrQhrZNJ7bv6QR4HF6mfp47v5hL10nyA3QnoWmEs",
+        "price": "$362.99",
+        "extracted_price": 362.99,
+        "original_price": "$465",
+        "extracted_original_price": 465,
+        "reviews": 12,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=W_kymHicbZS70ptGHMUzrlOkyCuk0nwzuyzXdJIASUiAuC1oGw13EFcBEojJ03yOPeOUdmbS5jXsIs8Sfa69xb_57_mdU-ye_3765TXO_8kdHPtd566U-tjy9LG5Hut8CT61XRPdwiGP_oYUzUAaIoHnBQ4yFMUK_KfQH_yySfPoCwNonkc0K1AI0gBCRuA-Z7EflXkd60kSd2IT5tFnxHM0QAyiOZ5jeZph2b_yyk_j79svHMNBQUCAZRGiqSeJA--7qP9KHddnFlJPCc1SLA8pxDwdwB9HUxfPP959uN7i7vF1V_pD3A-L8NZ1cT0s0riOO3_Im3oRxX0xNO3iuF6k7W0RNlXb1G93uriM_T6OFhSgmLfBLup4_JC2bxF_YPW-vQ-vWfqalq-3_jUrX-P6Y-O39yT89u5XqRnFdT-uDadtsWgCy4sc3d5NEZKhtjWvjrybowrfVM-g4o0x-FW0VUHUnmwTOri1_W2WnXDJekgxjFk2bfxkoIzRIOk0Z0ocZ3iYtZmTCu-x044ablUbZsQoIoi3Zhe5sDYwcVTpNBBAz2EOH9FmYiKq9F0JTD4lNAbCJMASE3vqHIB-UDFJTHGVqxWeY1mzQheyTkUyslV6IpquiYXSA6UUeArr4HIms2aYoIcBgCfXK6lozhSzbEVfatfPzIXlKdifVyfjsmQ8iiAiypMmCaMtkbsG4N4qTpQtZ6pfEvFgh5PqZVZQMDtrqxBdNIdI1i6qK2O1ElRHXCJVXs2aAw3dUw54W7rGXK4NCmemp9maNF0sqTxF1dRrcsM4pVJqsDw-CQ-tUFxbgtCEiqYWJYxchkQUkTS0ov1Z65zZAMTWgOoyhSZHDJHowboYlowiGVc4i2rM2s44GHV20eUV7VaKEwH5vsmVlbnVHrpLrKAkVWhHoyWbD1-azKBc1Zqcdc5lpYSAlGqZ1X9OfZd8BUuZGSydm7uHs-HT9IUzInJlt7JYiUvGHtDV-B1yb38EQcQhRvgYNk2Rx9_e_Xw-W_HzRccvlm0ef0PiUqvI6IO9EOzcjL_u-W5pdOSy2_ZCHdiAl2h6L017j9uHRN6vYu9GoCoU2FB3gy1meu4HHW8m-jJfXg-4rXfHOzY3ruP2h2abbpKsP7K_odViKa3f3CIFS_7Aesx5KVta1Wd16lwC6nHMuj7319KLuscxCbPgohWCbmytXZZQiWIbbwwRPxGFsCkds3sUsVH0WwM89OCcUBTJboX4IlfqqbXbSOukq6kun-dNp-3Ep5BB6DkPqsWz_VysDdXhlsJ-Oq_nHSz0YEzi-nxxJI7T5WEK8mp8kbEmF-x5r2zAQ25NK5Mqd6s04fHuGWJ2cHibrzZMPxbMQ9MoP3-g7elc-DU635OpCTKgrppqfVun9UX2GnGdH9h0vCcNcNgpxbxC28jxiU4Zzrzm60NI2JHTXYuF1phk-6tqDAef2SxpyCBqGb48jsYxpKfrhHOQqi_CMwDOOe4KokCnN_WoSJgei9XOb51uUtCxNOoHB-5OktZ5vO_sJOnDVDiYvH2_TuNdCd9Xz1plvlcSzwIkCLTAAJ5-llLy7_-VvfB9"
+      },
+      {
+        "title": "ASRock Intel Arc B580 Steel Legend 12GB OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTeSpbIiHkkJ02IBfks9cBhDGXxztgD6-yq385BIN2vWeg2KgzaVb3r_YcXGcXQWzomJhIZKxWnmGzr22VQYx5_KM2FLv6bHTyKyvQHgDbnHMiNPc_8Imk",
+        "price": "$372.99",
+        "extracted_price": 372.99,
+        "reviews": 81,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-3xYeHicbVTLrqNGEI1mnUUW-YVZWZYammd2tgHbYN7Q-PbG4g3macAGrHzNncxIk-VkpGzzGzOLfEu4WU-XVC31OXWqSt1d__70y2uc_527KPa7ztvKtdFylNHcjDrfgM9t10T3cMijrwRJ0QRFQJ7jeJagSZLhuc-hP_hlk-bRXxwFaZbhaUABmoUMSVP8lyz2ozKvYz1J4k5owoXGMOxCW4xkOQbwPAGoP_PKT-P_4a8EICEkCA4CnqUYCAGEzIcu6r-Rxu7CMwvEMwxHAJYmaRpS7O-GpQuXH2Mfb_e4m78dS3-I-2EV3rsurodVGtdx5w95U6-iuC-Gpl0Zu1Xa3ldhU7VN_cbp4jL2-zhakYCk3xyzquPxY9q-tfCDVB_ax_Capa9p-XrvX7PyNa4_NX77SMLv734Vm1HY9ePOdNsWCRawPXpyJcnwhC2KpQihqwtjISocRy6tinvGkixrBTVhWABc8o2z4BqJRZvE2HbQwT5YC4evMcjuToV8_4kfvhcdHBSZ3j7rvaLdhfuhcx3pqO95KyLFWSutMnxKCUaaoj3LZtl36hNhS-SBLqSz5k2-tZ-02LNml6Qzk0Ct51iCD1DiiW3nlgvfsYyQ2HYvZ5myntmACd7Djqb5En9Cz23mgxE4z-yBzpblCiWKrtsC1eVgEu1LRLRz6EllIPGPk4dzH0y5erVqVSoN1SmpqJKyMyEJ4VkDLsKdLWhPC7adDSYqcqwbKuTJLBEyq8jQnAg5QFac89bQJDwHBEcg0M6-IMuuo5lBnUlo39bBQaU0iFpd7CmHRJ53Rg8XRIRVym4kmrRTYgVVL8-gwuYZ8LnjLTVesa3B7EUFHMDnDVAL7RrCxpZgJKEKZVGNGMcdB7POrrq0pbxq0QLSY5_LW-ugzbqHLX1v-eenJWmgH1wBFwHAV18kTmEpv2BQ5gih-o-p75JvYCPRg61Tt7aR_INSnbqQudIMVNZ7bW3l4LA2fyNYjlqOCLh8KvApbJoij7-_-_lysePlRcdre7mV91DYaBUefaDwwdHLuJvCdRuzw9fjoefrwAGcSFGKOClnVgmxpGzj8x0TKl8gUz0OjpDpuR90nJXom3xzO6G2PhoPZO091-tPzSHdJ1lvMO_hdrURd2_ZIhmJ_sCc6ctGsrWqz-rUvQbkbGRdn_s7ca0qKMZhFly1gtfNg33MEjKRHfNNQ0CLRMHvS9fq5iI2i_5gglkPLglJ4uxeCGupUl9ap420TrxZ6mZZb3HaUVgCaQgXf1Jtjumfxc5UXXbDK9Nl9zwShR6MSVxfrq7Isro0TEFejWsJaVLBXBR5D2aptexMrLyD3ITG42wK2cnlHK7a0_1Y0LOmkX4-w8PLpfBreHkkUxNkQN021e6-S-urdG6EXX5i0vGRNMBlphRxMuVA18c6abrPHVefQsyMrO7ZDGGPSabcVHM4-fR-QxE0JDfhejZMI6Sm24RykKprfikA5Sx7A1GgU_t6lEVEjcX26LduN8nQKM16ZsHDTdI6j5XOSZI-TPmTxTmP2zQ-5PBDlUdflqlKMSRHUCykAcECiliGUvLPfxmu8Yk"
+      },
+      {
+        "title": "Intel Arc B580 Titan OC Gaming Graphics Card 12GB GDDR6 RGB LED Axial Fan Cooling Metal Backplate |",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSLKIEkL-Yzcu71hxMygHDUH3KA7CyAEoldLkZmBLaxPjslyYH5T8ukZGy8LfK_9lN8uISYdwFFk_imotMMH96FEpGiU-reIz8yqiTp1zcK",
+        "price": "$289.11",
+        "extracted_price": 289.11,
+        "original_price": "$407",
+        "extracted_original_price": 407,
+        "reviews": 26,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kSbMt3icdVS5rttWEE1Sp8hPuBIE8HJnOkncJIo776XIRuC-LyIpiXzI1zzHBpwyMZDWv2EjyLeEz31uMcWcc2bODAb33x9-eU2KvwuIkmAY3P2pNXqWNLqb0RY77FM_dPE9mor4M8BJCpCA4FiWYwCF4zTHfoqCKai7rIj_IihA0yxJsoCiOIbAOQr7M0-CuC7aRE_TZOC7aKUBGmNXDgNIEmAMy9GA-qNogiz5Dn9ecxTHcqucY2mOJjGKAO-HePxKGocroLk3ExTLYgxG0izGUfRvhqXz1_8BP9zuybB8PdbBlIzTJroPQ9JOmyxpkyGYiq7dxMlYTV2_MQ6brL9voq7pu_aNMyR1EoxJvMExnHoL9KZNnh-y_rtLsE5PAY6lwIqug7MAe98_ptc8e83q1_v4mtevSfuxC_pHGn378R_hfjwcbseDCfse8RZmo74MYUcEoO68KveSJg6sS9zqsqVEgJt9ID5DUQtQ6S8XAlUI11TLjYfIOU4afxo0XCMtXABaHUNbmLxAjl98IcLVWpNiue8cN5udAjxQo5XBpR6TNhY00Is-BIVN7GlvATKCHhGiPjWRHyR8NFt1LKilVaz9ugAbn1rrG0EzLao0H0NBs7wXv4ugldt87ar1SfYuGRG6WhNV8YwaD4-httiVSsWttrddMXWhVmlCfXcdZEIXSBDVSIcT8Al_70j-0YMZ4dfa7F76F9fZW8jxebv2K7XKLQ9TKVtGbgxjBbbixSrFKRQoKWxjJXLEsyqcBBuciri0Fk2MlbPLiV7jv9itr6OK81QXqRpRX1Q4dbDqPasyCd2lCBMJtkjEImpQHreIduBzMtu81MU96TYnGGPiQypOe0vWFt31YcTnmA993C8wbN2Da4m-65Z16UjqpAs9Ut16__s8DulXbCdSk62Tt74TA1lpzkNElxRNKFtJ21oFJm_NXwHDkmsKEAxBYx-jrquK5NtPP1-vdrKeZrK1Hct4R_A7rfGfAaZw4dHN2ZvCDjtz8MujPHJt6GCsQJKKMCsXRol8Udknl7sPVK5CpnqcHD7XiyAcWCvVd8XudkZ9ezQeyJJc6I7nTs6kNB8N-h2x3-yEw1u3-ISEYKIv1HUn2loz5m0GyxBfjHwYi-AgbFUFJX6Uh6VWcbop28c8xdOTY77V4NFaouKkGlrDUiVmNcomtujhNcVxP79X_FZsVK93-lgbhJul7tb3ptOO_CqkCGKNZ9Vm6fGlOpgqZHacMl8PL0dQ6eEzTdprCQWG0cVpDovmuRWRJlb0VTlJ2CL2lp0LjSufush4XEw-P0PWYRuJGp8VtWgaHhQLIXvXKmiJ6yOduzDH1H3XHO6HrC3FS8cfijOdPR9ph0F6zhB7Ih0CBr6Om_DlwLbnyKefjO7aNLCfaa7cVHM6B5S0IwFF4LtouximEZHzbUYFlqlbbjWACoa5YXGok1L7PAmIfFb7Y9DDYT4RRm22C4M9YJq1RaIMTpqOUcadLdZ53Obn4xS9b4r4y_qVpF_-A4hi3Zg"
+      },
+      {
+        "title": "GUNNIR Intel Arc B580 Photon Graphics Card 12GB GDDR6 PCIE4 Gaming GPU Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRat_4OT-DK7GmoOjNszM-UNVxhdE4fjO4Esot1EqvuCuu6_0J8nOEUeV9wEBa2E7X-JMyarbE_qIRJRSW2D4yJhsEXz5nCMSbqBJmafA",
+        "price": "$442.54",
+        "extracted_price": 442.54,
+        "original_price": "$471",
+        "extracted_original_price": 471,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oAIOnXicLVPLrqNGEE2yziI_MSvrSjRvssM2YGMD5tFtm43Fo6ExTwM24K8Z3ZsZabJMImU7vzGzyLeEq6QWZ1NV59SRTv3zwy-vOPs7gwgHbXtc6tWhEdlDfTtUmUx9ado6vkd9Fv8FaJYDLGAkUZQEwNE0L4lfoqAPijrN4j8ZDvC8yLIi4DhJYGiJo_4gOIiLrMJWkuB2XUfvLAwNWJHnRIbmBZqlaI7mf8_KIMX_9wHLSwwAAsvPegwliiL91sbdx0-3O26nb9si6HHXL6J72-KqX6S4wm3QZ3W1iHGX93WzOKwWaXNfRHXZ1NX7TIsLHHQ4XtCz3DvwiwoPn9LmP8HZCQckkQNzdzYhAuqtefSvJH1Ni9d790qKV1x9roPmkUTff7wq9bBadcPShk2D1g7l0iIHqaLzPeQ5R1K7m7gNkbqK4EhiCBREpVPgLfdhaWohik-QQvuIRhlUi_Jc1hRUOBt7puopDu1ft2NA6wV86kfTg6PpxVpQqLntLZkQRrR7qnukkCQ-GuOxOk8Ymrb59G1zs32ayAER0uujmvdO4WgxHbPOM37Ynm9jTW3ish6N0p7OFLkhL2bRushsRqGsk8l4wDyfETGNJ7FgVVS-Jg2wiHpPIxouycOlCONtYmB6S8eCpLKUMZhvBfjqW3becLjQXYXEjIP84nzyAc6BsYc6e34SG6tNhjbxMhzrzIbOM7oWJbwqQ6TAp6mRR0wrT4dptkYJelRKfMgsD6bWmP7w29i1yTdKVrnetQRgF-xJkUtqxaiBdRXWu1N0sSaMjvKvQBBZjmcAIzA8-BzVdZ7h7z_9fLm4eA4KfnE95_CBWctm6Q8BtZPC7ZGIt53YynY7-9h0UhV6lKiw7E4ZdydhF_nqbolPdx8YUo5sY9t7a2JlQdiKTmLJmXzbo6baHh7I0Y7w2O3rTaolpDvwH5jlQlZW72qxjpSg50_cRVZds-xIlcJrSE8H0nZZsFJejB3CfkTCq5lLlr1xtyShE92z3znWaKbIJa2ATjvl2M67jU1NVnhJaNon93z9opbGufGa2GyVm2PIc73vmdv1vMgxzIx7wxX57pmvbAMKsrQbL6vnFuRWOCS4ulyhIgiW2o9hVg4vKjLVnL_sdI2a1MZxiVIeN3odHR4ne032UPTEUuO6Iecm06SDbGI250seVMzlkYx1SChjWZer-yqtruqpXq-yPZ8Oj2TONz-mSNRZj4GBb9E2fK7Eah_5_CBYR5cH7pCQ3c2w-33AaTILOIaWo5fpYB8idryNKKNS40WaD0CZINyoOLRYrRp0BbFDvtwGDWxHnTkUdjUJ1AMmaZXhXeslSRel0t4RvcdtHB569FZm8df5sZOv_wKf4qsy"
+      },
+      {
+        "title": "Acer Nitro Intel Arc B580 OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSUgsbDEiKcLIWE483kOidJ37HyrvmX2Ie3Q1Xi5p3uzPN82pRpR3E-Ws3DrTZDWcnkDjdvp0cq8SOBNHwLHjcDXlsFXYdETqrGCivcB7Vqc9tm8HWksiT0",
+        "price": "$710.05",
+        "extracted_price": 710.05,
+        "reviews": 33,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PccXB3icbVTLrqNGEI1mnUUW-YWsrCt18yY7G2jb2OZNg9lYQDcGYx4GbGwrX3MnM9JkORkp2_zGzCLfEu6spxelkk6dU9WtrvPfT7-80uKfwsc07rpgoddWK3FWc7HqYg4-tV1DrulQkC-Q4XjIQVaWJFmEPMMIsvQpjYf43By_wyzHMRIjsiLH8ILAM5LwOacxORc1NbOMdmqTFuQzx7ISECQoyhwviDwQxL-KKj7S7-gXKE10kYOixDCMKAIRQOF9R_qvjKUcOAZI0iQ7VUgASDwD-T8sx1QPP8Y-XK60e3xdn-OB9sMsvXYdrYfZkda0i4eiqWeE9uXQtDNLmR3b6yxtqrap32o6eqZxT8mMAQz_FoRZTccPx3aa8e8ftHrf3obX_Ph6PL9e-9f8_Errj03c3rL027tftWZUlX5UbL9tseoA94RrU11cU9XnYg9v9hW2qH-EOERoD2U9ekb36IksGux4opXMHsssBqjc1ziPQlx7ywg6yNFJgFgzbDWqQCEBa9YBzslZoWWqIoVo-o74MHJPC9bAqEigHO5POd57hun7UR7XxI9q3NrlOXSeeBloeUD9_kG8yLKZ9uIsoRojucBVtI0RAvZpwZEnAsYJKW6Y8l6l-_sqfWyxXicQP0MAYAwcxa1sNljh9aTdmNqwiENiOVXUY22Ee0i2SSBjgiPF1ErW0LDveIt7VOZVChemE5CTXSJjD5rBg4uz4emb6OTEuycZvOW5pstxcNj2SlBrBB52Eh9Del60VNO7hF1UAYo2VLvzqX8u0lB7mhoZyNPnCNC51IsGgrSHW8Iq0OTbHke7NIhsutJ44jl2rCLO12weA329r3iYannknx0_QUid7uYiliBc4ZzUWPD8cbDr_GSiBRdM70AAui0LfeGsjIcZRK7hDzph8XOP2z0pDTXCWJ_y0PV0K_B2cM_cnT_vfZd9BXPED64pQvvMhdq8AgqLYvMkqpswPZgPioP579MqTIvCQlZkBfgxbZqyoN_e_Xw4uHT60fTF9RzrN1adG1U0xmAjJ-sgly4bqZvbXXRar3q5TjwgaRy30e6bUNykEdosaHiN4E4usb1bD56am0WcdJKTmfNiftnitl5bN-wsAz_ot83quMzy3hJ-Yxezuaa8dSM61uJBCPnDHLlG1ef10T8lzMPKu76IFe1lt8E0SvPkZJSyaa_cdZ4xme7ZbxoqniRKeXn2ne5RUrvsVzZ4mMkhY5gov5bqC6p2-9ZridFpF2c3n84bz1irE5Fn2Slud64k9M9SsXe-OJc394PyXMPSTMaM1oeTr4miiYZ7UlTjC8IGKoXDRl-CB2odN9eqYKU3qXULbTXf-pInVUu-H0v-YRhMXDzY1f5QxjV7uGX3JsnBbtFUylU51icUNqpSbIXjeMsa4Av3I5Z0zmP9ODIZ238qUr1NI2EUzcAVoDtm-eays4dtzC_nHORZZp6-PCzbSrn75Y4LcNy9yNMAuBDFCyCJyS3rUdcwN5aLddz63V1nrbNdP0Rw87NjXdBN52VZnx7lrSN5t8t9vOnp-2ryVV4UOIGRJuvkpowXeW4ypezf_wGclu8J"
+      },
+      {
+        "title": "Intel Sparkle Titan OC Arc B580 12GB RAM - Graphics Card",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSxrt1nRhCeGVDF_jPX7xIXPjJmePD9p-7_lP6L0eis5o24mzVq3oP1lSKajXvXNz1M8K__8eQHAILiMwsimXtYha_L0x5jZqOpjrCfSVyabhneljRrvqyK",
+        "price": "$399.99",
+        "extracted_price": 399.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PmVmM3icLVPJrqNWEE2yziI_0SvLEvdexuwwkyfAYLi22VgMl3kyYIP9NdHrdEudZRIp2_6N7kW-JTwptajNOaeqTqnq3x9-eSPZP5mLid91p9W2PrQ8fWhuhzoTqS9t10T3cMiivwGkGUADJPC8wAEGQlbgv4T-4JdNkkV_IQawLE_TPGAYgUNQYKg_U-JHZVYTM45JJzfhTBMgpDgezjjkaARpyFB_ZJWfkP9hBrGAp_iZhgAAFBCoj13U__bpdifd89um9AfSD4vw3nWkHhYJqUnnD1lTLyLSF0PTLg7SImnvi7Cp2qZ-53SkJH5PogWkIPOe2EVNxk9JG76bArMPBgg8A2Z0tsAD6mP7GN7S5C0p3-79W1q-kfpz47ePOPz-Y640oyT148py2xbLNnXMN5Pl2hKphtwuwBYj1buc2osObOlS2kyolNMJt6mrqNDJse7Xq10A8T7Mo71dAd9-hcBRPTN0VM11CmgDb3DWEdJR6RuVrel49YqwyoZOgrBmDJEEbPNkHIi6UnzgyY6q3slJARbEF08ZPIuaskDdri654etayvgOflxcVYuAIDnqZrKLAjnIBgQbjAcjVUc4s4_AcHGkBLXHBsjI9-dW3bs9FcgR44DVZJ-bp-6U-FIwpiGXdrSOYp2K6kvtDpc6aj0QvpQ0Qjb2ysvZA6QA-t7d0pdXahG1zfA6WgVTk817eoV5WbmQGvVqKxnAQMZrRfkaBV1oQeclUjO_jGQvj8bfp76Lv1GiygxHk-M13bom_NoaHdmij56DnNRpH4x3FX8FHE8zLAKIQyz8HDZNkZHvP_18vR7JfChkeXTswwcki0bljT61E4LNKeVvO74Trc7LN-teqAOH4hWa3inT7sztQk_drcj57gFdKLClbwZHTs3MDzrejk0xE2973NabwwPb2sk99ftmnWhx2h_YD2i1EBXpvVu0xYo_sGfmKqpHo-rTOnHzAD4PaddnvqQs9R0mXpgGuVEIprU-btIYxlvHeq8h47lEIWila3fPglhFv7aopxlcYwi99F7IS7XSL63TRkan3GxdnONdZ2zkWcggNOe9fuTZ_lVIlu5yorCbrtJrAwozGGNSX3NX4ThTHaYgq8alig21YK-7rUY91dY-pkp1Wm-b8PA4W3K6d3mHrzSmHwvmaRjQz55ofbkWfo2uj3hqgpTSV00l3aWkztVzI0vZnk3GR9xQLjslmN_SDnJ9z4SW-5L4eh967MiZpyMLjmOc7m66Nex9RhNpwCAohsvnwTqE9HSbcEYl-lKYB8AZx92oKDBprR63CqbHYrXxW7ebtuhQWvWTox5unNQZ2XVOHPdhIuxt3nncpvGxDT9WWfR1fuz4638BK6an"
+      }
+    ]
+  }
+}

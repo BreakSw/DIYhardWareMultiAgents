@@ -1,0 +1,797 @@
+{
+  "search_metadata": {
+    "id": "6a60aa09ad9ecfb10cff1a7a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LV2m4agW85rQ4MOKj0MD9A/6a60aa09ad9ecfb10cff1a7a.json",
+    "created_at": "2026-07-22 11:31:21 UTC",
+    "processed_at": "2026-07-22 11:31:21 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=_qlgavC2LIilj94PucDPyA0&q=latest+current+generation+desktop+CPU+processor+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A16314624667684979506%2Ccatalogid%3A2741003527512259676%2Cgpcid%3A12280504807335346691%2CheadlineOfferDocid%3A7888093230366865460%2Crds%3APC_12280504807335346691%7CPROD_PC_12280504807335346691%2CimageDocid%3A2809400649772013778%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+CPU+processor+component+released+2025+2026+new%2Cmid%3A576462889425452749%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0TF8zLVctRnU5YWNfZHhHNUZseEFWdjBMM2VYTTNCendRU3RHa0lYRkR4NHFCT0ktdjRmQTlzdFMyYUNGRkZuVHpIZGx5d3NCZGk5cldTa3RfMG5qZmx0WjYwSVh5cGVCX3N5bnlOdEJlaUxRQUJZTk5kSDB4Y0hBbXlRU2F1aXNXdTRRVFJ2OGdUZlZCUVdnZ3Vkd1MwMmJhcDRWX0VUTFpIQWluOW52VUdsQnZjajhiRk1YOWxZYXZXS29tTVpUN3NScTdoS0hfUjJJYXpnVlloT0lLVW5ZdTBrbVhOVHNpbG1XYkVGVEhpd2Z5R1d1Qm1wUzlQNXJWSmFzRlUyaGV0ekt3cmNSamNvbWVQVkxtenpEbHVUZEh2T2YteE5SY0E1NTB2VTNSLXEzOUI0YngyZHhacGhPYk1BRFVpTkMySG9iMG4SF19xbGdhdkMyTElpbGo5NFB1Y0RQeUEwGiJBRHNyOWZUWFd6OGw4QndkbldHaVBqS3M4NGRETGRoVUhB%2Cxsrf%3AAF5tSO7dIVGYWlrhnMeklJ1Ln7oWzXcSxw%3A1784719851170%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/LV2m4agW85rQ4MOKj0MD9A/6a60aa09ad9ecfb10cff1a7a.html",
+    "prettify_html_file": "https://serpapi.com/searches/LV2m4agW85rQ4MOKj0MD9A/6a60aa09ad9ecfb10cff1a7a.prettify",
+    "total_time_taken": 8.97
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "BDrdr3icdVO5ruNGEDQMOHfgD9hcEDA8hocXL-CtkxSv4ZEIFGdEUjwlkqIk-GveHsA6XBtw6t_YDfwt1tqp3UEHXYWe7qqev7778ZUUf-zPVZZcFXqzLKqTyO7GVN3dJfCpu7R4TIcC_05xDMVyNMtxPCewIi9CwH1KkyGp2qzAv9E8SwHAQJqHFE1D8cn6nJMEV0VDrOORXNQ2fdJ4QRCAyNAMYDhO4CDLgV-LOsnIvzD9BFkAuGd_ngYUw_PCuwvuv7A7Zf9sKwAIWAHwDAOZ5yAi9cvOsdT9_4AfziO53L_sqmQg_TBLx8uFNMMsIw25JEPRNjNM-nJou5my82fPTVPS9-1llrZ11zbfqBdSkaQneEYDGn5L3Kwh04esS78J8h9PvqsL_Bny3FMoQRBZGrJPQVjxXXcdXvPs_ThW5M_XrHod-9e8eiXNxzbprsf06_c_ae2kKv2k2H7XIdUBni48NigdnMaHUWAe40W-MP24J5oe4JO83dIo8jxTIQ12fMZZJKCKnNJhzYWueKAc8Mmpba96YH17j3zTcMp4RItuGRs3iBlTiY0SphX2EsY5bg14jusbCE7R5KIcpgZSQsaEh6aysLaqEv_m2P4q9kpYuqrMRiCXD2Hl-LROJaEZYs9xkL6iLQP7cRUrPsJNzKASU9tpW6_yVHWCECDf07ulHVSjFUAa-bi3m_iUnPLCKanICm5xFMahS4uDhzrfZEw39XDrgvzon1arKOwaVFWtB6oNCmCMPflyQLmFFmZ3MKgwKpGBtLzDdAwdClN2TU3-o7LNcBW4tf5wKv-eGAiQcmDS2nST2rweAmSj8jaQptMOC-THWk57dDQQDboR0CjTk2nkme4m1B6WvwRRk92fPiSpke-ikpIdHXVeub27hlhsDdbVKfF2MHCOnzVPq55ztdDUZSoCjk18bTKKlewszLsVxH6gY84yJtZucHmo8CJB8tlltuzTKc0znBb5ufz-1l-OX4Ckw8G1eNVe8aoIl-vwCkVsFk0vVOvuVOTb7GeKF1ieEgWeAiz3MW3bsiBfv_9B0pQXCa-QlvSKmCn9hlJP2Bn47UEEu86PumQfA3xu-WzMwsDRSj3JbP74sJQWQwjevtnvXfL8N2Tues7uRTLreHoejAE38lJNFRkJW2l-9WlYN7tTfdqF-wmr3_zan6ZC3XbiQQo33X3kz-fFendN3OCsPgalCvuLfEXpsTRZn4vhHiXScpXH7IGR3r5R0YsmxuH8pBxst71O6tzcn92Ja6Pao-fxfFWFj6W4vlJshaV_4u0bc6m-QIZ5qURbbcTjef5oYz1hUlkruDhwVKaRF_7Rjs8P6Wg05EqJ5zPaRedgb1HntUBGaS0OQtjn1u3uOVwdrpfkYEaHRr1fNpe7Jm2s-WWwXMXaQYzublPqyLj5gXwYRhQSG9iSu2yaqFpduxat3FoWAj1XmnqlBcZm3rV7AQXXunrEmQCFkLH2Te_GYhBt4kSaV0NxqrOHICyyh-6OY94aJUPNlaRfSB6aSPAIFeKt4ixfTokFTN2YjOx2nDxdMo5WtGbdEdhMRF8n3B77m3x9BKavDTWmczXO_wYrrvYS"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQUfxX2xsbJTRsUaOdPItCqwgvtHrVYLih26zHunAfqn9MKf-BV0gY8tghWL14indfO8ctO9IlIUco3o4L_pLLrPTebSbU7-A",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSg5XS3fB6hg2jI9FeYAwF8VcTK29l8_Z-5yVuMlaBGFeGW96C27842NZiy052KZdKSqd72gsznI5M56svH8yUMo7j0y1bD9sqZl_ElD0xHcxZUG8JR2YQs",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTGYi6mTX67kZ0agUMeIUFEQzQ5NxHZIA0gL1bosxs4WqtszkxKX1FhfbliUd7ZXIdjvIgfuxL7ABD4MPkR5HEVMH80yjRCfw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRt-O9UPZvqiHTtjRdc4AJAi8NOoAPOEO6ZF6-rpeOZNVT6hMY38vpsxp_R8xzzbAUGmLESeQCkeP4EZG512-21644Jz9fUN6YhAcgnpmsi6DK2GsjgvGboxA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR5DjYPMU3yUCxt24ZK4uSa9dlqCiFhfUmwbjXsEES9yaLKdwpBeWQQo7Lnke-Csu1_hPRuDq-eHt6Ntlvu0K8uNF7c9bvn",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRG32r_bWF5Boi8BXcXWoJZjsFDCw5-7-npFqwHUBfmKs-vmZn35YR9FS9RbSd5Zsjovlm08foINwLIUr87q7WXdHAI53sosGGpDHhmev_HQLB79RgFQeOD",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTaHub0akCw_YW3QxW1TCz_Xu02qb6iv4MryPst1N6976b9581iRWqhfA6uCqDtLFuRWpTIlSin-g9-YgpjtYevYmvZ-KcYbq4MaMs1ZrJt_vrZ0vTwuCmGaA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQ9b4gTU-Rbk-rthF8laEQ8W2JfK5XymQusfCgqjL6W5BNRcfc3JatUPWhMEyQo4powSnBaR5aQaFA77L1PLR5BeUHNq74zgFBGTUMzXBjHz9DQt4yCddYYmWo",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQJy2F8ct21WRalnpq3QXra6Gf2dDBkjPIGE5JikBRON3LrTsRIiVUnprsK6kBJDA2cR9rd1XEZ0Tk7cKTSWUJnTta6bEJFn1aOavpyy1SMBJRUvHW3sEQg_94",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSmiyS2gyvGD8OyM8sy7mF2m8BBaA5lRzCRuKI_PuofYK6Hig-ZbBsrDBAge6R2xNBIv2tdq13ucB66cnAqpG-iKHJQHgpErGrISHz_rKxMwVxOMxNoOI2Utw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRQT6ZH7SIdWMVALdDQFM3NjDqJHVcds2FafWpbCFh2Rjc0DBkOJ5YHgjLWhIr4VknjYmfZKZWNhE4zOMITcSBMmUQ-wpCFkc1FRfGcukmqxMPNAvTEnD4Z",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRILeu07uxOXv7i_iGjywaBXOHfx5g1q-rV7k4DrXii0RaJcEPYdP6zTaQmcJ0CMLLFWL9Q5U7aPrpum73_fSrmcPngJlBXiwMq_PoyuTm9xRDa4YGAUE5F",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTsJAuXbXM7N-mpDlJ1fS92LUYTNpaZvDBwcPplg6xHXq9wzsQ_ykxopar-WhTQCDR_vxkM9uRXRBL6wqHQiEhqHiW7-uKOAUyYC3_67HTHwqtPU6-zGZPu"
+    ],
+    "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+    "brand": "AMD",
+    "reviews": 700,
+    "rating": 4.8,
+    "price_range": "$675-$740",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/amd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black/JXKQHH5X53/sku/12122562?ref=212&loc=marketplace",
+        "title": "AMD - Ryzen 9 9950X3D 16-Core - 32-Thread 4.3 GHz (5.7 GHz Max Boost) Socket AM5 PCI Express 5.0 Unlocked Desktop Processor - Black",
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Most popular",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Jul 23 – Aug 4 $16.49"
+        ],
+        "price": "$723.99",
+        "extracted_price": 723.99,
+        "shipping": "+ $16.49",
+        "shipping_extracted": 16.49,
+        "total": "$740.48",
+        "extracted_total": 740.48
+      },
+      {
+        "name": "Staples",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.staples.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.staples.com/amd-ryzen-9-16-core-5-7ghz-computer-processor-socket-am5-100-100000719wof/product_IM1SF4756",
+        "title": "AMD Ryzen 9 9950X3D 16-Core 4.3 GHz Computer Processor Socket AM5 (100-100000719WOF)",
+        "rating": 4.7,
+        "reviews": 289,
+        "payment_methods": "PayPal, Klarna accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Thu - Mon",
+          "14-day returns"
+        ],
+        "discount": "14% off",
+        "price": "$669.99",
+        "extracted_price": 669.99,
+        "original_price": "$779.99",
+        "extracted_original_price": 779.99,
+        "shipping": "Free",
+        "total": "$669.99",
+        "extracted_total": 669.99
+      },
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/amd-ryzen-9-9000-series-ryzen-9-9950x3d-granite-ridge-socket-am5-desktop-cpu-processor/p/N82E16819113884?item=N82E16819113884&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-processors+-+desktops-_-amd-_-19113884&source=region&negg_topt=0",
+        "title": "AMD Ryzen 9 9950X3D - Ryzen 9 9000 Series Granite Ridge (Zen 5) 16-Core 4.3 GHz Socket AM5 170W AMD Radeon Graphics Desktop CPU Processor - 100-100000",
+        "rating": 4.4,
+        "reviews": 2233,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$699.00",
+        "extracted_price": 699.0,
+        "shipping": "Free",
+        "total": "$699.00",
+        "extracted_total": 699.0
+      },
+      {
+        "name": "Newegg Business",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.neweggbusiness.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-19-113-884&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-processors+-+desktops-_-amd-_-9B19113884&source=region&negg_topt=0&srsltid=AfmBOooCOIeEyKnshm0W7YUcxY4CgAAfZM-ckC0yh5WwDZ5rFHxFvgNjwA0",
+        "title": "AMD Ryzen 9 9950X3D - Ryzen 9 9000 Series Granite Ridge (Zen 5) 16-Core 4.3 GHz Socket AM5 170W AMD Radeon Graphics Desktop CPU Processor - 100-100000",
+        "rating": 4.6,
+        "reviews": 198,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "15-day returns"
+        ],
+        "price": "$699.00",
+        "extracted_price": 699.0,
+        "shipping": "Free",
+        "total": "$699.00",
+        "extracted_total": 699.0
+      },
+      {
+        "name": "Abt Electronics & Appliances",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.abt.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.abt.com/AMD-Ryzen-9-9950X3D-Gaming-and-Content-Creation-Processor-For-Desktops-100100000719WOF/p/230764.html?utm_source=google&utm_medium=sc_organic&utm_campaign=surfaces+across+google",
+        "title": "AMD Ryzen 9 9950X3D Gaming and Content Creation Processor For Desktops 100-100000719WOF at ABT",
+        "rating": 4.7,
+        "reviews": 18,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Free 30-day returns"
+        ],
+        "price": "$699.99",
+        "extracted_price": 699.99,
+        "shipping": "Free",
+        "total": "$699.99",
+        "extracted_total": 699.99
+      }
+    ],
+    "stores_next_page_token": "5L8b_nica15aklmSk3pT1dHXRSGosio1T8FSwdLS1CDC2EXB0EzXOb8oVSGgKD85tbg4v2gJEGeyLs7Ny-cCAEKME-w",
+    "about_the_product": {
+      "description": "The AMD Ryzen 9 9950X3D is the ultimate 16-core, 32-thread desktop processor, delivering exceptional performance for gamers and creators alike. Equipped with 2nd Gen AMD 3D V-Cache? technology, it features on-chip memory, ensuring industry-leading speeds and responsiveness. With a max boost clock of up to 5.7GHz, this powerhouse CPU handles demanding gaming sessions, complex workloads, and high-resolution content creation with ease.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "AMD"
+        },
+        {
+          "title": "Number of Cores",
+          "value": "16-core"
+        },
+        {
+          "title": "Supports Overclocking",
+          "value": "Yes"
+        },
+        {
+          "title": "Clock Speed",
+          "value": "4.3 GHz"
+        },
+        {
+          "title": "Cache Memory",
+          "value": "128 MB cache memory"
+        },
+        {
+          "title": "TDP",
+          "value": "170 watts"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "items": [
+          {
+            "pros": [
+              "Unparalleled multi-core performance"
+            ],
+            "cons": [
+              "9800X3D and 9850X3D offer better value for gaming"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.club386.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.club386.com/best-cpus/",
+            "date": "3mo",
+            "source": "Club386",
+            "title": "Best CPU 2026: AMD and Intel chips go head-to-head"
+          },
+          {
+            "key_point": "Performs well",
+            "snippet": "Top-of-the-line CPU with incredible performance. The 9950X3D handles everything I throw at it — from gaming at ultra settings to multitasking with heavy",
+            "user": "Ninja",
+            "date": "1y",
+            "source": "bestbuy.com"
+          },
+          {
+            "pros": [
+              "Potent CPU performance",
+              "Impressive gaming performance",
+              "Reasonably priced"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcmag.com/comparisons/apple-m4-and-m3-cpus-compared-whats-better-in-the-latest-apple-silicon",
+            "date": "1y",
+            "source": "PCMag",
+            "title": "M3 vs. M4: How Does Apple's Latest Silicon Stack Up?"
+          },
+          {
+            "pros": [
+              "Exceptional Intel-beating performance",
+              "Incredible gaming performance"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d-review",
+            "date": "1y",
+            "source": "Tom's Hardware",
+            "title": "AMD Ryzen 9 9950X3D Review: Stunning gaming performance meets top-tier productivity"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 14
+      },
+      {
+        "stars": 2,
+        "amount": 5
+      },
+      {
+        "stars": 3,
+        "amount": 11
+      },
+      {
+        "stars": 4,
+        "amount": 28
+      },
+      {
+        "stars": 5,
+        "amount": 642
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQAPMtc9tsgutGfOWfHcux_uqBeKt-lMeqL52VCoXbKcszQrqFm1e_rw6761iU8p6bj0wg1BGw5E5b9Aq2rPKgzfnURza6P",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRqDaWvG_MOIgDECMXKADFgsVC3SQElv3_YZrHFQ4lVbEqYGgVXyn_47YSetwgkqJTFtLloV7NeUOO5GoEiryqsPLXbxrSxzQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTt0nKgFQWf03OQTjk9UUxjMVcumMcpwRySo3hrIMT0vSQmH4xKUkUf7JdK-vEMbHOfbWKRAwZJDR450J9SN2-YRhBE99wd4Q",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTuJuqgBl0z6K2RTYx_11oJ3qkhopD6hSbtB-jpNEifRrkqE6Ls_QL2ocyfE2hIvYOj71ekNkWqi4B_jtF52Mn0hIzLoaLQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQIjI2OqJeJ6N6ifmk5Bur1sVCnBhz_hZdc0qNnklBsh-S2WEyHN0F-Qv9hx8Tn25vCLgduK6txMYmeVS7AiRWrmf_J1o4x",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRQHKIt8Rq9QxJMdZiSTekRlPuUVM61j7kKta_I9NJLzfVvnQpVjAIyZWud3Q-6PO4PF-R658sPccTcRzZkbPs3Vae_MsKz4A"
+    ],
+    "user_reviews": [
+      {
+        "title": "Very fast, but Kernel Panics 4 long heavy load",
+        "text": "I installed mine in an MSI MPG Carbon WiFi with a premium 3 fan AIO cooler with well applied bundled thick 7 paste, with a 750W Corsair PSU and an AMD 7600 GPU, in a Corsair Frame 4000D case, with 3x 80mm and 2x 140mm fans, and configured the fans to ramp up to full speed before CPU at 80C, and it never got above the low 70Cs, even under max test loads, even during this heatwave.\n\nThe problem is it doesn't seem to like being under heavy load for somewhere between 20 minutes to 3 hours, because eventually it would cause the desktop to freeze, i.e. a Kernel Panic. This was with a fresh install of MX Linux, with Xfce4, so it wasn't caused by file corruption.\n\nI enabled the RAM's 6000GHz profile, told the BIOS not to ramp CPU speed, but Linux still did so, ramping CPU to 5.7GHz using performance mode under load! Which didn't look promising, so I looked for and installed a cpupower-gui, and changed the mode for all cores to ondemand mode, with 3GHz minimum, and that seemed to stop the Kernel Panics so far, during heavy loading for several hours.\n\nA great CPU, but not as stable as it should be while not overclocked, especially while well cooled by an AIO, which was disturbing and annoying, and suggests that AMD or MSI have a design or QC issues, thus only 3 stars. If Kernel Panics keep occurring, I may decide to ask to swap the CPU and/or motherboard, especially since I paid extra from the breakage insurance.",
+        "user_name": "Urbane",
+        "source": "scan.co.uk",
+        "rating": 3,
+        "date": "4 weeks ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2Sp0dooi9VHngyjq2rHBqZSF_eSANbYK1jtxLumYYgryLRupnVYFZ6U4aSlIlvNN6qbQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "I went from an Intel i9 9900K to this, and I'm not disappointed at all. This is my first AMD CPU and I'm very impressed with how well it performs. It can handle any game I through at it with easy thanks to many cores/threads, 144 MB cache and high clock speed.\n\nIt's not the cheapest CPU on the market, but considering how well it performs, it's 100% worth the money. You'll future proof yourself for years to come.\n\nIt runs a bit hot so a good cooler is recommended. I bought the Corsair Titan RX and this cooler keeps it cool during high load and long gaming sessions.",
+        "user_name": "Oscar",
+        "source": "inet.se/",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2XC0cmFobc_GDh0Fbd5yHo4CX86G-SN9Bx1YDlTDwhsX-sCrJ2zHkC08uLsRxuuyv-Gg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Great upgrade from great shop",
+        "text": "my pc running better with this I went from an old gen i7 to a 9950x3d and what an upgrade it has been, gotta say scan is one of my favourite shops for tech I really wish they had a local store up here in Scotland as this is basically the UK's answer to not having microcenters always well packaged and delivered on time receipts included in box etc if needed great customer support too if ever needed",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23r66avmJdvDqa1p2EzrvhGClOVbJqjWQ8tFP802fp9ZNViq2Eb7ZffsS_H9FO82m34g=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQAPMtc9tsgutGfOWfHcux_uqBeKt-lMeqL52VCoXbKcszQrqFm1e_rw6761iU8p6bj0wg1BGw5E5b9Aq2rPKgzfnURza6P"
+        ]
+      },
+      {
+        "title": "Great upgrade from my Ryzen 9 5900X",
+        "text": "Firstly, I apologize for being unable to review this CPU fully. I'm pretty sure it will do excellently. I've been waiting for other parts to be closer to MSRP. B&H seems to be following the MSRP, and that's why I got this CPU here.",
+        "user_name": "Arthur",
+        "source": "bhphotovideo.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1OdXhkjKNzaZfJjY9s0kff61Mcwb0dGZ8zmP6tk4_dxQ0_t4mQGPBzUvHB5pjxbWgZOw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRqDaWvG_MOIgDECMXKADFgsVC3SQElv3_YZrHFQ4lVbEqYGgVXyn_47YSetwgkqJTFtLloV7NeUOO5GoEiryqsPLXbxrSxzQ"
+        ]
+      },
+      {
+        "title": "PSA 2 producers - not compatible w Universal Audio",
+        "text": "So far, this CPU has been close-to-excellent. Performance has been outstanding across both music production and gaming.\n\nThe only real downside I’ve encountered is compatibility with my UAD (Universal Audio) audio interface. At the moment, I haven’t been able to get it working with this CPU. I’m aware there may be workarounds, but none have been successful so far. Hopefully this isn’t a sign of broader hardware or software compatibility issues down the line.\n\nOutside of that, everything has been extremely fast and responsive. I’m running this CPU with a high-quality AIO cooler, plenty of airflow, 64GB of DDR5 6000MHz RAM, and a high-speed SSD (up to ~14,000 MB/s). Opening applications, transferring files, and general system responsiveness are all incredibly quick.\n\nFor music production, the results have been impressive. I regularly work in Ableton Live with large projects containing 40–60 audio tracks, 10–30 MIDI tracks, and heavy VSTs on the master bus. Complete projects load in about 4–5 seconds, and CPU usage typically stays in the 10–25% range. By comparison, the same projects on my M1 Pro Mac were using around 67–89% CPU and would occasionally glitch during playback. On this system, everything runs smoothly and navigating projects feels effortless.\n\nGaming performance has also been seamless overall. I did experience a few instances where a game closed unexpectedly, but it’s unclear whether that was related to the CPU, another component, or the game/launcher itself (Steam or Call of Duty).\n\nIf Universal Audio updates their drivers or software to fully support this platform, this would easily be a 5-star CPU. Not being able to use a $2,000 audio interface is frustrating, and I’d prefer not to replace it at that level. For now, I’m using a Scarlett interface, and if I need to track vocals, I’ll continue doing so on my Mac.\n\nOverall, aside from the UAD compatibility issue, this CPU has been outstanding in performance and stability.",
+        "user_name": "Justelli",
+        "source": "bestbuy.com",
+        "rating": 4,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1dnWVxBg_JNlHFd4onOhGYDguOz0FbD7EIViTmO38nfG5CabFtdWYAyIsG4ItT5NfLbg=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTt0nKgFQWf03OQTjk9UUxjMVcumMcpwRySo3hrIMT0vSQmH4xKUkUf7JdK-vEMbHOfbWKRAwZJDR450J9SN2-YRhBE99wd4Q",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTuJuqgBl0z6K2RTYx_11oJ3qkhopD6hSbtB-jpNEifRrkqE6Ls_QL2ocyfE2hIvYOj71ekNkWqi4B_jtF52Mn0hIzLoaLQ"
+        ]
+      },
+      {
+        "title": "AMD - Ryzen 9 9950X3D",
+        "text": "I have always been an AMD fan even thopugh I have had one or two laptops that had Intel cpus in the combindwith an AMD chip but as for either building a PC or buying a prebuilt one I choose the ADM CPU over Intell anyday of the week. To be a first time user of a 3D CPU I'm very impressed with it on the speed of booting up on down to the fact of the set up in the bios of the motherboard I have it on. I bought this one to upgrade from the AMD Ryzen 9 7950x which was bough back in 2022 don't get me wrong the 7950x is a great CPU and still does what I bought it for and can be used, I bought the 9950X 3d duue to wanting to stream when I'm gaming but found out the speen and the quality of the video it gives out when combind with the video card I bought to go with it I will be useing the PC it's in for gaming more than streaming. The pros ar the ease of installing on the motherboard which is so easy now the AMD came out with no pins on the CPU's (no bent pins), also the fact of being from a company that I have used fro overr ten yeasr now. The con that I have with it is the price but hey that's my fault due to not wanting to wait for the price to come down. This is absolutely a get it if you can afford it",
+        "user_name": "ChuckB",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1Ahsi8q9y5xaMF-6vsqgAc1I4RPwqgI_F--4jRGX8h5-CCl1M2qV2QCoO56joffrymog=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQIjI2OqJeJ6N6ifmk5Bur1sVCnBhz_hZdc0qNnklBsh-S2WEyHN0F-Qv9hx8Tn25vCLgduK6txMYmeVS7AiRWrmf_J1o4x"
+        ]
+      },
+      {
+        "title": "Dominates Gaming and Creation",
+        "text": "Installing this highend CPU felt pretty simple for something so expensive?! But after the installation and booting I will say it dominantes a lot in the gaming and creation feild! The huge cache ensures smooth, consistent high frame rates at around 90 to 120Hz locked and pretty low stutters in sims and social VR games like VRChat, outperforming prior-gen X3D by 20%+ in frame times. Perfect for wireless Quest Link or indexed setups without reprojection! I highly recommend this CPU because its also great for future proofing!",
+        "user_name": "CarlyA",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0efOqTGmQJGfJiv07-gQcl3LNLoWTwxZfOLd0974YcMQggV5vRD74JFcZrp2Ga40KD3g=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRQHKIt8Rq9QxJMdZiSTekRlPuUVM61j7kKta_I9NJLzfVvnQpVjAIyZWud3Q-6PO4PF-R658sPccTcRzZkbPs3Vae_MsKz4A"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "DO NOT BUY: AMD Ryzen 9 9950X3D2 CPU Review ...",
+        "link": "https://www.youtube.com/watch?v=RDpBuiu0ql8",
+        "source": "YouTube",
+        "channel": "Gamers Nexus",
+        "duration": "32:19",
+        "thumbnail": "https://i.ytimg.com/vi/RDpBuiu0ql8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lRWm5LfkjojZdbyLXAFSRq9_aZEg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWc09U1BTz3eMv2X3XdQp3vN7V8AdS3Q7ZrA"
+      },
+      {
+        "title": "DO NOT BUY: AMD Ryzen 9 9950X3D2 CPU Review ...",
+        "link": "https://www.reddit.com/r/pcmasterrace/comments/1stdbak/do_not_buy_amd_ryzen_9_9950x3d2_cpu_review/",
+        "source": "Reddit",
+        "channel": "Gamers Nexus",
+        "duration": "32:19",
+        "thumbnail": "https://i.ytimg.com/vi/RDpBuiu0ql8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lRWm5LfkjojZdbyLXAFSRq9_aZEg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWc09U1BTz3eMv2X3XdQp3vN7V8AdS3Q7ZrA"
+      },
+      {
+        "title": "Ryzen 9 9950X3D: Easily The Best New CPU of 2025",
+        "link": "https://www.youtube.com/watch?v=tZC2FdJ4CWM",
+        "source": "YouTube",
+        "channel": "DF Clips",
+        "duration": "9:58",
+        "thumbnail": "https://i.ytimg.com/vi/tZC2FdJ4CWM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nclWcbkxgkxMMaglJ8lbraD7SUrg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRGdzYD-Kvuz8iT9XNbaCFSnGimN0dyeDYcAw"
+      },
+      {
+        "title": "AMD Ryzen 9 9950X3D2 Review: Dual V-Cache Finally Here",
+        "link": "https://www.youtube.com/watch?v=AY5yTMUN9XY",
+        "source": "YouTube",
+        "channel": "KitGuruTech",
+        "duration": "15:52",
+        "thumbnail": "https://i.ytimg.com/vi/AY5yTMUN9XY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ltP1xzMagkWmaYFHKcqt5nwu8Cow",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTIs0iOYgv6x3dEIVCXsyMwz4m61loPhKA-mQ"
+      },
+      {
+        "title": "DO NOT BUY: AMD Ryzen 9 9950X3D2 CPU Review ...",
+        "link": "https://www.reddit.com/r/Amd/comments/1stddqn/do_not_buy_amd_ryzen_9_9950x3d2_cpu_review/",
+        "source": "Reddit",
+        "channel": "Gamers Nexus",
+        "duration": "32:19",
+        "thumbnail": "https://i.ytimg.com/vi/RDpBuiu0ql8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lRWm5LfkjojZdbyLXAFSRq9_aZEg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWc09U1BTz3eMv2X3XdQp3vN7V8AdS3Q7ZrA"
+      },
+      {
+        "title": "It’s Overpriced and I’m EXCITED - Ryzen 9 9950X3D2 Dual Edition ...",
+        "link": "https://www.youtube.com/watch?v=BfRCEeRiLI4",
+        "source": "YouTube",
+        "channel": "Linus Tech Tips",
+        "duration": "13:10",
+        "thumbnail": "https://i.ytimg.com/vi/BfRCEeRiLI4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kVIU3cIx50W8NssYXh7DBr210vDQ"
+      },
+      {
+        "title": "WORTH $899?! - AMD Ryzen 9 9950X3D2 Review & Benchmarks ...",
+        "link": "https://www.youtube.com/watch?v=Vr86MWTIMos",
+        "source": "YouTube",
+        "channel": "Jordan Ash",
+        "duration": "13:49",
+        "thumbnail": "https://i.ytimg.com/vi/Vr86MWTIMos/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3koWnbYArVgYzJaxZw2ZFQQ82Y5Ag",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQGtmIIQoE2xYKgbpXT4JO-u5JGwLrpKnkhNA"
+      },
+      {
+        "title": "The Ultimate All-Round CPU - AMD Ryzen 9 9950X3D Review - 45 ...",
+        "link": "https://www.youtube.com/watch?v=xWXAPMAmFhA",
+        "source": "YouTube",
+        "channel": "Techtesters",
+        "duration": "15:05",
+        "thumbnail": "https://i.ytimg.com/vi/xWXAPMAmFhA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l1yYVgB7U6I1-uDAb-i6xryIxvRg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRKkDESJ2d1v3fv8cadinCoIVNc_htcmaj9NQ"
+      },
+      {
+        "title": "DO NOT BUY: AMD Ryzen 9 9950X3D2 CPU Review ...",
+        "link": "https://www.reddit.com/r/hardware/comments/1std35q/do_not_buy_amd_ryzen_9_9950x3d2_cpu_review/",
+        "source": "Reddit",
+        "channel": "Gamers Nexus",
+        "duration": "32:19",
+        "thumbnail": "https://i.ytimg.com/vi/RDpBuiu0ql8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lRWm5LfkjojZdbyLXAFSRq9_aZEg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWc09U1BTz3eMv2X3XdQp3vN7V8AdS3Q7ZrA"
+      },
+      {
+        "title": "$900 For THIS!? AMD Ryzen 9 9950X3D2 Review & Gaming ...",
+        "link": "https://www.youtube.com/watch?v=dN8Z7bCGgjE",
+        "source": "YouTube",
+        "channel": "Hardware Unboxed",
+        "duration": "25:06",
+        "thumbnail": "https://i.ytimg.com/vi/dN8Z7bCGgjE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nQVp8A-3_CRW1s81rlPRlh6fLBZw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQoQLPP68F6-H-UHjPkL1RxdYmDOYpCvoSxVw"
+      },
+      {
+        "title": "AMD Presents Ryzen 9 9950X3D 2: The Sequel Everyone Asked ...",
+        "link": "https://www.youtube.com/watch?v=1PcO2k6vprY",
+        "source": "YouTube",
+        "channel": "Level1Techs",
+        "duration": "19:59",
+        "thumbnail": "https://i.ytimg.com/vi/1PcO2k6vprY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m9HeYxwwvqglryqQ-iAL_XgMeQrA"
+      },
+      {
+        "title": "AMD Ryzen 9 9950X3D CPU Review & Benchmarks vs. 9800X3D ...",
+        "link": "https://www.youtube.com/watch?v=QhGsQvDaEPo",
+        "source": "YouTube",
+        "channel": "Gamers Nexus",
+        "duration": "29:07",
+        "thumbnail": "https://i.ytimg.com/vi/QhGsQvDaEPo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n7EchS0gOYr82DEuWkF5uYiPQR3g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRRJOryQMuJ1cvynegubVWtcgsFj4DMTG2I_g"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Better cooler for AMD Ryzen 9 9950x3d?",
+        "link": "https://www.facebook.com/groups/372119787729533/posts/1137721824502655/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "10 months ago",
+        "comments": 18,
+        "items": [
+          {
+            "snippet": "The new Ryzen 9950X3D & 9900X3D deliver top-tier gaming performance while excelling in content creation workflows.",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1137721824502655/"
+          },
+          {
+            "snippet": "At $699, it's not cheap but its a great CPU for gaming and content creation, and one of the most powerful standard desktop CPUs money can buy currently.",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1137721824502655/"
+          },
+          {
+            "snippet": "🔹 Better performance in Photoshop, Premiere Pro & Blender 🔹 Ideal for Game Dev & VFX Artists 🔹 Great balance between high-core performance & cache efficiency Bu",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1137721824502655/"
+          }
+        ]
+      },
+      {
+        "title": "Is Ryzen 9 9950x3d too much for my build?",
+        "link": "https://www.facebook.com/groups/372119787729533/posts/1242603777347792/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "6 months ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "The 9950x3d can handle demanding games with high frame rates, but its benefits are more noticeable at lower resolutions like 1080p.",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1242603777347792/"
+          },
+          {
+            "snippet": "The 9950X3D offers several benefits for gaming, including slightly better overall gaming performance and improved multitasking capabilities due to its additiona",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1242603777347792/"
+          },
+          {
+            "snippet": "``The 9950x3d is a great chip for gaming and workloads, the 9800x3d only beating it in gaming by less than 1%.''",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1242603777347792/"
+          }
+        ]
+      },
+      {
+        "title": "What’s the difference between Ryzen 7 and Ryzen 9 CPUs? : r/RigBuild",
+        "link": "https://www.reddit.com/r/RigBuild/comments/1opu27p/whats_the_difference_between_ryzen_7_and_ryzen_9/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 months ago",
+        "comments": 18,
+        "items": [
+          {
+            "snippet": "Take the Ryzen 7 9800x3D. It’s an 8 core CPU that is not priced too high and an amazing gaming CPU. It’s not exactly demolishing cinebench or shader comp. In gaming it will pump out amazing frame-rates and is commonly viewed as the best gaming CPU. Now look at the Ryzen 9 9950x3D. It has dual CCDs or 16 cores. It will “park” one for gaming and the clocks are higher than the 9800x3D. So it’s typically better silicon and it exceeds the prior generations 32 core threadripper in productivity. When you first load a game, it does shaders pretty quickly. If you run VMs or demanding software, this is what you will want to own. It’s truly the best gaming CPU, especially if you know how to assign to each CCD. So if you’re only gaming, the 9800x3D will do all you need. If you are doing any heavy work loads, the 9950x3D is a halo product like the 5090. So the Ryzen 9 is double the core count with higher frequency, better overclocks and just much more capable outside of gaming. It’s just going to c…",
+            "link": "https://www.reddit.com/r/RigBuild/comments/1opu27p/comment/nne8uv2/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "If you’re buying for office apps or web browsing, 4-8 cores and 16gb of RAM is fine. If you’re buying for heavy duty image processing (3d rendering of various sorts, video transcoding, mechanical CAD, etc), more cores and more RAM is more better. 12/24 cores or higher, all performance cores (no efficiency cores), 64-128GB of Ram (more if you run into limitations here). If you’re buying for gaming, a high clocked 8 core X3D is the answer. Any money you save should go into your GPU.",
+            "link": "https://www.reddit.com/r/RigBuild/comments/1opu27p/comment/nngbnb8/",
+            "votes": 2
+          },
+          {
+            "snippet": "So the Ryzen 9 is double the core count with higher frequency, better overclocks and just much more capable outside of gaming.",
+            "link": "https://www.reddit.com/r/RigBuild/comments/1opu27p/whats_the_difference_between_ryzen_7_and_ryzen_9/"
+          },
+          {
+            "snippet": "In gaming it will pump out amazing frame-rates and is commonly viewed as the best gaming CPU.",
+            "link": "https://www.reddit.com/r/RigBuild/comments/1opu27p/whats_the_difference_between_ryzen_7_and_ryzen_9/"
+          },
+          {
+            "snippet": "It's an 8 core CPU that is not priced too high and an amazing gaming CPU.",
+            "link": "https://www.reddit.com/r/RigBuild/comments/1opu27p/whats_the_difference_between_ryzen_7_and_ryzen_9/"
+          }
+        ]
+      },
+      {
+        "title": "AMD Launches the Ryzen 9 9950X3D2 Dual Edition Processor",
+        "link": "https://www.techpowerup.com/348435/amd-launches-the-ryzen-9-9950x3d2-dual-edition-processor",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 months ago",
+        "items": [
+          {
+            "snippet": "The result is exceptional responsiveness, increased throughput and flexibility to power next-generation development and creation workflows.",
+            "link": "https://www.techpowerup.com/348435/amd-launches-the-ryzen-9-9950x3d2-dual-edition-processor"
+          },
+          {
+            "snippet": "Powered by ``Zen 5'' architecture and built on a 4 nm process, it provides the sustained performance required for demanding creation and development environment",
+            "link": "https://www.techpowerup.com/348435/amd-launches-the-ryzen-9-9950x3d2-dual-edition-processor"
+          },
+          {
+            "snippet": "``This is the next evolution, and with a simple drop-in upgrade on AM5, we're delivering the absolute best performance for world-class gaming and content creati",
+            "link": "https://www.techpowerup.com/348435/amd-launches-the-ryzen-9-9950x3d2-dual-edition-processor"
+          }
+        ]
+      },
+      {
+        "title": "Ryzen 9 9950X3D vs 9800X3D – Is the $200 difference worth it for Blender-DaVinci-ComfyUI workflows? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1ouvphh/ryzen_9_9950x3d_vs_9800x3d_is_the_200_difference/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 months ago",
+        "comments": 22,
+        "items": [
+          {
+            "snippet": "Is this purely for work and rendering? I’d just get the normal 9950x at that point",
+            "link": "https://www.reddit.com/r/buildapc/comments/1ouvphh/comment/noelkf6/",
+            "top_answer": true,
+            "votes": 67
+          },
+          {
+            "snippet": "If your time is money, $200 is cheap",
+            "link": "https://www.reddit.com/r/buildapc/comments/1ouvphh/comment/noeo7z1/",
+            "votes": 33
+          },
+          {
+            "snippet": "You can literally game while rendering on the job, and u still get x3d performance.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1ouvphh/ryzen_9_9950x3d_vs_9800x3d_is_the_200_difference/"
+          },
+          {
+            "snippet": "Handles any games I've thrown at it without really breaking a sweat, but I'm gaming at 4K so don't usually push frames over 120fps.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1ouvphh/ryzen_9_9950x3d_vs_9800x3d_is_the_200_difference/"
+          },
+          {
+            "snippet": "Best CPU for Blender and DaVinci workflows",
+            "link": "https://www.reddit.com/r/buildapc/comments/1ouvphh/ryzen_9_9950x3d_vs_9800x3d_is_the_200_difference/"
+          }
+        ]
+      },
+      {
+        "title": "Ryzen 7 9800X3D or Ryzen 9 9950X3D? : r/ryzen",
+        "link": "https://www.reddit.com/r/ryzen/comments/1m7h8x1/ryzen_7_9800x3d_or_ryzen_9_9950x3d/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "11 months ago",
+        "comments": 24,
+        "items": [
+          {
+            "snippet": "9950X3D at least matches the 9800X3D in gaming (exceeds it in lots of CPU-bound games), but easily outperforms it in productivity. If you’re going to do more than gaming and money isn’t a problem the 9950X3D is a no brainer.",
+            "link": "https://www.reddit.com/r/ryzen/comments/1m7h8x1/comment/n4suid2/",
+            "top_answer": true,
+            "votes": 5
+          },
+          {
+            "snippet": "9800x3d best for gaming and in combo with the 5070 Ti more than enough for video editing.",
+            "link": "https://www.reddit.com/r/ryzen/comments/1m7h8x1/comment/n4recca/",
+            "votes": 3
+          },
+          {
+            "snippet": "It's a lot more expensive but if you do any kind of productivity and hate downtime during compiling/rendering, 9950X3D is the way to go.",
+            "link": "https://www.reddit.com/r/ryzen/comments/1m7h8x1/ryzen_7_9800x3d_or_ryzen_9_9950x3d/"
+          },
+          {
+            "snippet": "9950X3D at least matches the 9800X3D in gaming (exceeds it in lots of CPU-bound games ), but easily outperforms it in productivity.",
+            "link": "https://www.reddit.com/r/ryzen/comments/1m7h8x1/ryzen_7_9800x3d_or_ryzen_9_9950x3d/"
+          },
+          {
+            "snippet": "9800x3d best for gaming and in combo with the 5070 Ti more than enough for video editing.",
+            "link": "https://www.reddit.com/r/ryzen/comments/1m7h8x1/ryzen_7_9800x3d_or_ryzen_9_9950x3d/"
+          }
+        ]
+      },
+      {
+        "title": "Is there any world, present or future, where getting the 9950x3d instead of the 9800x3d makes sense for a gaming build? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1mdioix/is_there_any_world_present_or_future_where/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "11 months ago",
+        "comments": 46,
+        "items": [
+          {
+            "snippet": "It is true with the proper setup the 9950x3d can meet or exceed the 9800x3d in performance, especially if you run a lot of apps at the same time. Putting the game on the vcache ccd and everything else on the other. It's also true that if games utilize more cores the 9950x3d will easily be better. However, the reality is that by the time consoles are using that many cores and as a result the gaming industry is developing for that many cores. It will be time to upgrade again. So unless you're already playing a game that utilizes more cores, it won't be worth it because it won't be mainstream until consoles use more cores or pc gaming replaces consoles.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1mdioix/comment/n61w9ah/",
+            "top_answer": true,
+            "votes": 107
+          },
+          {
+            "snippet": "For purely gaming then no the 9950 is not worth it over the 9800X3D. The 9950 wasn't made as an upgrade to the 9800X3D for gaming. It was made as the optimal gaming AND productive cpu. So for people like me who use programs that take a lot of cores such as Blender, Unreal Engine, ect and I play games, the 9950X3D is obviously the best choice. For someone who just purely wants to game, currently the 9800X3D is the obvious choice because very few games use more than 6 cores. This is changing though and more and more games are trying to enact all cores, so in the future this statement might not hold true, but for now this is the case.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1mdioix/comment/n61vpmq/",
+            "votes": 29
+          },
+          {
+            "snippet": "So for people like me who use programs that take a lot of cores such as Blender, Unreal Engine, ect and I play games, the 9950X3D is obviously the best choice.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1mdioix/is_there_any_world_present_or_future_where/"
+          },
+          {
+            "snippet": "Even if the extra two cores aren't helpful, the 3D vcache certainly makes a difference.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1mdioix/is_there_any_world_present_or_future_where/"
+          },
+          {
+            "snippet": "So yeah in otherwords, this is still a beast cpu and should have no issues with work loads or gaming and should produce really good results in either.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1mdioix/is_there_any_world_present_or_future_where/"
+          }
+        ]
+      },
+      {
+        "title": "Is AMD Ryzen 9 9950X3D good for video editing?",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1479361810530521/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 months ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "The AMD Ryzen 9 9950X3D is a powerhouse for workloads like video editing...",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1479361810530521/"
+          },
+          {
+            "snippet": "It only has 4 more cores than the 7800X3D, making it not much better at productivity and editing as well.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1479361810530521/"
+          },
+          {
+            "snippet": "Beter for Gaming than a none x3d chip, but not as good as the 7800X3D.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1479361810530521/"
+          }
+        ]
+      },
+      {
+        "title": "Radeon RX 9070 XT for 9950X3D pairing?",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1427958815670821/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "10 months ago",
+        "comments": 24,
+        "items": [
+          {
+            "snippet": "The 9070 XT is a good GPU for 4K gaming, offering strong performance and features like FSR 4 upscaling, although it may not handle ray tracing or very demanding",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1427958815670821/"
+          },
+          {
+            "snippet": "``It will run 4k, just don't expect eye watering frame rates, with Ray tracing enabled.''",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1427958815670821/"
+          },
+          {
+            "snippet": "``The eCLK Generators, superior memory layout, and advanced bios features make it a great choice for overclocking.''",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1427958815670821/"
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "AMD Ryzen 9 7900X 12-Core Processor",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQrAFrQCMHIpBcBMyN_ODMxKmRWx0lpEB0iqZzkpE0l6M2w62YEH_GCcgXaxJvHlyNqXGChziExpCRp8Xqft4VVKI5bTJVUGZRRUWdMxB1a",
+        "price": "$325.99",
+        "extracted_price": 325.99,
+        "original_price": "$550",
+        "extracted_original_price": 550,
+        "reviews": 743,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=77x-8XicdVRJrttGEA18giySI3glCGjOZHacJX4O4tQcNgLFpjgPIqmJyGm-YwPO0gmQba5hL3KW8CfbpBaFAl69eqhqvP7ru-9fs_KP46XJk5uI6_uyqTjycE2lw5MHn4exR9d0LtHvGE1gJI2TNM3QLMkxHAXoz2kyJ02fl-g3HAckSRMkRzEkg7MsoLAvRZagpuwy63zORqlP1zYG4wBBUQyNExi7Vgxgfi3bJM_-hTmOWtkEuSoRBI3TNCA_jGj6Sh7EI4atc0l8xUkSBwxgGYb4-eBY0vF_wI-XazY-vx6aZM6meZNexzHr5k2eddmYzGXfbVA21XM_bMSDv1k3TbNp6sdN2rdD3721jlmTJVOGNjjAqbdEb7rs_jEf0reD_Ifkh7ZEX9bt1kOxDEkQBAMoAKgPw21-LfLXvHm9Tq9F85p1n_pkuJ3Tb-9-kPu7JE530faHAUoO8HamaaoclQBnOclxmfjNC1oEELVw9jFn77fxkrY-7uHmJahkzIQF4S2xnamm5i8mHkHNdHY8MHYDzBpnFyiKkwX7ux1Q9yxAerrrQbSYTx3Gkxcqk1tr1alxgNkoMARaYAXzRfeHGammGwWYHnXF0wOU5tbKHOFOrUNHyOpCcttHBEsAkFqoLmgaBJwoCmXSqB940iHbwzEj6uKz0yDVbzTMhrEag8cuCuZHEjgPJLOUDwo5quAhbYy7Wxe6s1NI1FKEDpWbH8QwVU0sVQvSr2LJrpzQ3yEtkdOH0SiT3cEKAa6AjXBFO4RlPhW6UNi7tQlNjJudxtmbrSkipYDBrieimmpdpUmsgKV0WMwJ4MhToIyuFwMYxrrlRU8DkLPZRbOL1zMioKZ76GlUThAD7SXFHWCoPsjkWYWKTXqq4tnrWxj-5CoA6qmKihQToCM3TdwWeIQJo9vFtxSTSbXUBGdnPq0g9uHiPGKfihDWLNDFFAMgyqgxzWiQ5gGsSpXB-eUxjeevgFeo2bXI9jgYFsC31lbYBkNQl2M86m1gbkP-J4xhydVULMthgP6U9n1dZt_e_cjL4ntC4pEG5WQSuVycdEyqkDMzxokDh8GPhuQYA3Tpmfyah4Ej10qS28x5scQeURR4Twib49HNVtdkW9dzDm_jzDa-J4SjUrqwl1JRgKzBb28-TrXdoWqrQ3i8I6k4-9WxupeSMXAnPtSH55W5XHYvh1viBhdpmcUmnEbhBtNzbZI-HVNHmPB7rYjJE8G_6UpwFZO5ONxW4sl2-9td2prHi3un-6j18G281Zpw2XMvN4xsEP9PvPHMvbQSKYJYc8PZUsedL9ulj5WESAW5pOPAkYhO2PlnO74s_FntshvGXS7wEF2Co4VdXtjsyr9wMxtOhfV4eg7dhi_77GRGp056jvr4lHnd2o6z5YrWgULw6Xa1AtWHHwin-QrDzAY27-67Lmq029BDzW0FNlAKsWs1OVD17dAfWRjc2maJc5ZiQ8I6dpMbc0Gkxwm_beayavOFZXf5orjXa9GrNYFtxWTa8R5c7buEYuZpcV7s74kFTEW9q_njfPcUXj1b0QvpXoFNRPjtjvrz9BBuS2D68twivJDiYv2Gzn_-DVku9mI"
+      },
+      {
+        "title": "AMD Ryzen 7 5800X3D Desktop Processor",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTsjmY71d7K9oVAx5Q2rhUNbrfO4SQ-STE7hv0hXNtaBrHFrCfcWuuCtVo6YtBoKcG3GlkU6oKUL9_lXgmOOCbvB6ZFmYLVqa6aRCQrxr0__9f9ezxlAfDK",
+        "price": "$349.00",
+        "extracted_price": 349.0,
+        "reviews": 234,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=12sYpXicdVRJruM2FAz6BFkkR8jKMCCJGrPTaFvfmiVK4sagRdmyZkvyiJzmd7qBzrITINtco3uRs0S_kV0QLh5IFF8VWGTx7---f81Pf-7O9RFfVWa7OdWlxLqXTHMfMvWpHzpyyaYT-YPmAc3yDMvzAi-ykiBxFP8pwxOuu-MbTHGUKNE0kBhG-DZhpM9Fjkl9anPncMgHrctO5HeW4gDP0RzDUAI1s1E899upwcf8XxiwIsXN5DxgBZpnZrX3Axm_sK66m5cs4GYhSQSMKDGSxEq_uL6j7f4H_HC-5MPji1vjKR-nRXYZhrydFse8zQc8nbp2QfKxmrp-obrRYj5qlo9jNyyyrum79m3rkNc5HnOyYCiGeyv8os1vH4599s2R_0q-b07kMyfws1OixLGzCywnCvT7_jq9FsfXY_16GV-L-jVvP3a4vx6yr-9-0Lubpo431Yv6Hmo-FepSAhnpFFS9DROI_NXdyhILQKpgbWiitO4vKKInjzKmbbxhYGsqOCJu-rSBR0PHA6aKAelQjFq_sp1QS6m8MZUQGLRVTeo2IoAY9QVqCu01IuOV5ibQ7adfTQo2FMN7EsOKa9qrzLUDJdqOpDEO0SOvuDoMTSNuZRCurSlIkINpP95CcorWRokjM_Uo6WElGWuX5GyXhgFXU4NDc40q87kvTcOqyEhqyAdNXRLm7mLmXuMku6exz9qh2cY1bPymr1DSn8PIeHigp3GI0D6SzIBBKGJg4dPmATKcbq3hlCWKbulGip_GBgW0ToBhY6Y4-SspiqB5i4C5CSNoE-jRUTXdwhJ6VnVPo6Yf0wq5MNHZvDIiSG2oeEUjsjLrqOoxqThsr4raBulzT5EgYurIovwaaTUfAMMlZQ3iVtH2IKKhYQUGBbfZihQZrUBfr2vUFExKK0PQomtG6-zqZCr-2n44MfIjyk_nm4EoQmXIcLZPF4PHFMiBqLEbi0INbH-9j8PhCyUb3BQ4nMJjAVCiAFNaMEKnpoTdsJezuxLffqYFcU6KJM6Zo4SPWddVp_zrux9lXf0JaDIxoY5HVTqq45bWSuJPgrWXKLeP0h7vEEXOnXC8HJPY1ysDHz3h8HTUjnAc9RNQFrtdkM-pyZdB6LtvdHaDbhj4K26rbLRMVaBoyctrxHBN65ZN6Sa7G9GKQ1TuyttJs3ppLyfb_nERzuf1i3vFQXzWnpNaJ-OgXGF2qGw24hG3g1jemAVi90B-09XgLKZLKFmW6t4LuutNW9q7c3Dju7QJmSVamnXy3EgvV5qtifxtvPXZG21u5ACYay15WisdzstnhwwMMkU_8Sj2NdAq6-jgofNTPqza_EpL5zN003O8c-jzi5hf5BdpEpOxcO6P0Oeb5GWT7-1032qPYTs8dHnrLIfJCVTH5Qh8BG01P_J7FCv76QKT3KM8Odi0bVqb176DZtAoYmwUatuYerzaLvtuJ8L42tRPdBQ5MQHOrh0DJMXpFmF5WU-nsjk-RXF9fBrB5VJ0qwrQSxWPazmEtzx-JmoemuhYbG7YoWxjdVsd74dbaMirg5O-sMGF8kDKXG-kO4x35fqM7UifGsIUGirmb-jw1z_BUPWN"
+      },
+      {
+        "title": "100-000001277 Ryzen 9 9950X 4.30GHz 16-Core Processor - Granite Ridge AM5",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRsB5wj68_UlEoSB5kEZkRMqnlZ2B374UHZHUhDrzj3HvH55p0nJsaKVtNXfPT8d4UAysA0Fu4jFa4VhmvVFIyZ3jss8z3Sov9GEJzj272cVC-J2jiYDX5E",
+        "price": "$1,622.95",
+        "extracted_price": 1622.95,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6KorS3icHZNJsqNGEIZtn8AbH6FXCkVQzHiHmDSCmIeNooBiEpMAgcRpHO-5O6K97HaEt75G98JnMepa5KYy8_9y-u-nX99Q_s_lVqZwFPDjLi8LjjzfI_H85LHPbdfE92jI478BTQCSxkmaZmiW5BiOwujPERxg2aR5_BVnSIBhBIUzFMBxilu8vmQIxmVeIy1JUCc20SsLizEESQMO5wCgOJImcPBXXsEU_fj_ymIUw9AABySLEwDHaIp87-L-j4-3O-qe384lHFA_rKJ716F6WKWoRh0c8qZexai_Dk27Es72aqGOUN833SpqqrapX64dKhHsUbzCMZx6GXpVo-lj2v7AwvFFGSNfdAS1ANIceK_y-AvF0EvRLMuROEUuxZHcezsOb1n6lpZv9_4tK99Q_amB7ZhE338upGYShH7a6HbbOqKBWdIgIykzofIooOxMp9ppTluHDt3Ss3MAY4czIJbtVJBB9epMcNafIZ4OtvQwnBy4vnd6RAI463b0jL3SDWYZWoqNW1LwCO3YiiWjh1aJQ8mgIyu7moBT4JwpmttimqU-HEUeNSsClmdYlgkyZLdZYGe4rQxDLGYTVNRGJeRr6DkErCg3dPb-wvWAYoaH27KBcma4i4bmkpOP7aUYyA-z0ImTLW-jq_qETns8urKnY8YhmHXSd52rR_iY6rakcaVIowKOaaeElMWySWxq31N1xzb2gRs0caXqEGvxkFANbdPkum3MUVFW9nUAFra_xdjeUwuDjretZ0tD4UiPJHQ4HHpZret_Pvou-YbxMjWYGnNB1vnU1eLIQaKU5K1SzfZp2GTrC_87YFiSAdwyQ4Cxn6Kmuebo-y-_8ZLwgRD5eO9IsBe4VOiPQCxiY2BOIYedW9tv4SXA4lvDpPfUcw3pKsNUZ5JZE5qYorAPxGZ1uZho2UW0Ni3j_EqnVsEECUOhjpudGAkbhz3x69HGqao-F1Vx9i7T0vfELi7FlIunlgt579g-78zttj2cR2i6N3EehNLru83oRMlVJW06oC4O5Hf7LCBDgn_pis4iJnGBty6EUDebcRLX6uVmTnTjVxa-Dtb70pt33GEEZBnzP94rTt2JSyBFEIstOV2sueS2nptAhkS0kXI6cA2RqDdbO9GD28wnSo1GwN1uztm_uRcN3A4suvMHbmC9PtMeT8ugK--wQ6Hqh7X47I7dU-KP2robNFPQzlTsPM36KjvKw3Y34XB3PKRjOm_u6tov92PbOHuz2rCunAl1tZdc5bhumwvruGNVzkHKUqxHaJe6NwPO9Y8B5NflkBdVOrPsNp1l837PGuVKgLUA-y1vORNyZ09A1j5Is90ENUyVlUlJH8lkybySaP6BNO-YTvj4OMVN0j824-yqy3ZVMZ6JQbYcd_Lv_5VStNI"
+      },
+      {
+        "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRKVEccPsf9Qi2hEvLAs61qC21zNzYHHpCyRG-0uFSOjsSPB6yaMhEqSCIQV9V-gTPw1tWAD7D4G032dB94bY6T_c6dgiYZbLcb9LpmiVladM9BTKJgPjcB",
+        "price": "$369.99",
+        "extracted_price": 369.99,
+        "original_price": "$449",
+        "extracted_original_price": 449,
+        "reviews": 4000,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_fZtB3icdZTJzuNEFIURT8ACHoFVFKnKdjk2O8-ZbMdzXJvIsctTPMV24sTiaf6mkWDZtMSW12gWPAv5YYmoxd2c-9W550pVf331zRspfj9dqyy6S9R-U1QlzxxusXx4CuCXrm-TWzwWyWfI0pBhKYZlVyzH8CseAfaXOBqjqs3eZQasKAoiQAOWBTTFIAp8ykmUVEVDzDQlvdzGRfIbRIhDPGRWFIQ8XLEAcL8WdZSRf-TPkAIMpBFiKR4w3AogGrEf-mT4whykE6Qg_2I5gBiWRy-c4ZkfD7Ypn_5H_Hi9kf755VBFIxnGRXzre9KMi4w0pI_Gom0WCRkuY9stpIO3eGWNyTC0_SJu665t3lt7UpFoIMmCAhR6L-yiIdPHrPt32P9afqiL5BNasa9VrRBkOARZClLMh-4-vuXZW1a93Ya3vHojzc9t1N3T-M-vv1XaSZaGSbK8rvNlGzg1TzmeoVsAqXGTF0QZH3FlQVvp0LmAO1Pz766qjMTvPBe0k7vurha1TWONo6NLMgbl1vG1RDl7CBFPtfDsp14jUImKC9cX6LOvQnJ5cTB8Ro1f6oEOTS3x8BFvIjehfLXrIt-e3fV2k9Q-a7tiZFG5j1VuiuSMsi7YsL0Hbc8hY9OdE162bAJsKggS0aHVg-lWO53e0BbQUeTZ-0BRHr6sevalG84BLpPmMnkKN1tzRp2pzQMrULTX3uwFNsI11o3STn0NXvR1JeqUvY-PKqurWMKl4btlOLmzurZdI_ICQ8Gax8TAzq2g0nQtB4kq0EEpisSt5nOZb2w173HVOcQb8xAapl6FY1QzDzsYWyeAOb4Ytj_nWlKKwKqR6V3Uyz7gVUfJZrfxhxDwgx50qqPh_Strienta5fhw4CvySiVdsoQWBTjqMDfx1qSx1D0baWqcJ1TIRR7p8H3GCqMVmxfGY2nGWDPcLcQK4ZjQxGd1e4WuPk1Lrc7Q9mafgG9CCbNT4-hT78AQUWjY65OxD3ofSPf-YiuFHWt1bOnj2K-PAk_wBXHrCDPcTwE3M9x214K8ufX3wmK9D0tC8nWV6JB4jNp2EO5TOxxpZ95cOi8sItOGCTXdpXdsmNgKxc1yqxVOptSmyAEvqfFxenkkNerIUvHtQ_v1xk1niLa1tBe3MixJPqcLizvHoXq5lDW5eF4mhI5T73yVE6FrHf8WTjuu-dtdb2ud4d75ARXeR6l6jj04t2P04vBeCxGJz8SNtscM2daePeV_ZeZwuPjspTOltPeJ3lpnK7OxLZh7VJLvNxWx3nD7-6QqRLhn_POGRv5BSKaftWKt-SGT6_LucVqRMeiUrA4sGW6EddeauHrLKRaQ-6Qv179Q3gNTia87jhyE3b8yB2H3Hw8XZutj7sNORvhuZGf_b5_KsLeXPaj6UjmASX-02kuqq89vEA8jzf_SCxgCc6macJqe-9af-vUIheoudTUWyXQ9suuPXF-cK-rGWcc4o60eWoGB_NBuMeRsKzGoqyzmePW2aw6t1veahcaLqVoWAuuP5FgPkrE3eIs30yRCQxVm7TskU6uKmipGe4Y5wYsOqTuU9Kmw0O8z4HhKWOdULmM89c3lP7xN9Id9sQ"
+      },
+      {
+        "title": "AMD Ryzen Threadripper PRO 5955WX Processor",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR-Hc88WTNFKyMLDDpatXbL7a_IhxV9nCh1NAkaQT4G-gnTP2cUanvOf1SvGb4dCy-I14sfCSMYPFgMxnxzCM41_74H4kJJrx8DqBtVOS0",
+        "price": "$799.99",
+        "extracted_price": 799.99,
+        "original_price": "$1,250",
+        "extracted_original_price": 1250,
+        "reviews": 2,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vyd32HicdVRNzqNGFIzmBFkkR5iVZYmmAUN2mB_b2IAB00BvrDa_Nr8GDDbKab7JjDRZTiJlm2vMLHKW2Mk26cXbVFVX11O_99d337_F5z-O1yIlg0TvNufiIjD7WyjvHyL1uWnr6Bb25-h3wEHAcDTDcQuOZ4SFwFLc55D0pKjTF8zwkKEpACBPCyzH8gsAvmQxiYpzFZtJErdyHZ6j33iepegF4DhWoOCC4iDN_XouSRr_C9M0wz_FDOQpsIC8QFP0hzbqvjJ76QgoFrDgyWAolqdZgX9yft7bpnz8H_Dj9Ra3j6_7gvRx18_CW9vGVT9L4ypuSX-uq1kUd3lfNzNp786eUcO46-p2FtZlU1cvahsXMeniaPZ8B_sq3KyKx49pE74i_4flh_IcfWEX3LNTPEtT8JUPsMyHZujfsvQtLd5u3VtWvMXVp5o0QxJ-e_eDUo-y1I2S5TYNkm3qsMbFaco6TGtZrOAmVAuHQJwgiBWywlyc4w5RPdEL9RLJKAl824oQP53y9KH7So-ozNapzLUPWW_k2kRkVEdVPu0QSnBpl7iwxxMytriyE6cyFFc1VsTPp1hFTkBnGgYKdCHyo1KdjMmC_rS8-ZTtxAdVdzybMRXgWFXK6pNRh0jbGrRKQndDBbmqRlO2dal-r6NswnQW7BAe9Py-9uRlE1w2LKKMxofB3Srvhrku3AgYw0kp9i5SmIOK7i4d3G1kwQM0kgO07i5ospM7MicvZ5w1tpBn-FEuSO6UMm4OJuKCHfJ16oC0zkIhtKfCiT1b14GxRYWx1b3-SrzxHin9g8DG8laowZMICHhmvmCo5x3llAK0JdAEXuGGnt0SVWSdSQs8ZFQuUnsbaZuDYj0iOSM-sHfmSm1OinGP88gKQYRdEDgqhXbhKspCsES2UhS4zOgALFunwkMIFGZ11pb22niYHnbQpDUYKozpFxvdRyVRWC9wC0zUJ4fSJFtV4S_3rk2-UqLK9o7JYuV-dua0T224625554uzZmXaESrp-BNY8MwCPD-fACjhU1jX-Tn-9u5HUZHeQ1mMNKSQThJSqdsB-RLZ_UI_CdS-cYOGHDEVXetFekt9z1ZylaTWIplMqY5YlnoPl7Pj0YmfUxPPnYO9f11nlHgk0F6xu-VGDqUl4nVxPrg0W1b7S3nZ-8fx2aXEvRwv41nWG-Ek-rvmcVtcr-vtfiCOd5WnXir8rl0OKExyg3E5zB4RETdahpkTFF--MnqaKQL25xfpZDn1MMpz43h1Rq4OygM9x3Ot8KeNsB0AU0TiP-elMzbyU8hC-KyFYMmVkFznU41VAsOlcuawZ8uwWq7dxMLXSUxWVTwA4XpF--DqHU1w3fLxTdwKPe93mXl_HGyu9Leb-GQEp0p-tLv2oYg7c972piOZezZCD6fKVbS6u97y1N-QH1uUJTqbqgoKbWhqpDnlkvfUTKpKTfFWu3lTH3nkDWUx4ZRneR-ax6pzsOAFO0zEedGfL2U68fw6nVTndsvqVQ7BXCLdWjygMfYmX4oPGk6zzUhMylBX4yq9J-NBFVeJGWwZ50ZZMKCHMaqT7r4cJs9wlb6M6EzG2XMNJX_-DQoI-RY"
+      },
+      {
+        "title": "AMD Ryzen 9 9950X - Ryzen 9 9000 Series Granite Ridge (Zen 5) 16-Core 4.3 GHz - Socket AM5 170W - Radeon Graphics Processor - 100-100001277 - Bulk - O",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcThfeERoMgOksdY-_vNYBI8vbCmkX9WtB2xT6tH3Elt4rd8brTjD9Kn2ElIjiyKoJTdct-nlltcz5P-X7-TNSM-FDzAY8qNcyl8XAOHJ8jL7eyXE8LggwqS",
+        "price": "$499.99",
+        "extracted_price": 499.99,
+        "reviews": 14,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zTab3HicdVTLrqNGEE3yBdnkE7KyLHU37-x4G18bMI8Gs7EwzcM2LwPGNsrX3MmMNFlORso2vzGjKN8S7mSdXtSi6pw61UfV_c93P76mpz8P1zKPRxltjFN5Fmj7lij2UwQf264ht2Q4kc-QpSDNIpplOZanBU5gAPsxiYe4bPIT-QNxNASAYhDHQIQYYUZ9KtKYlKc6tbIs7ZQmmWFvZJ7lBRYygOEgy7Pc76cqztNv5c8Q8VDgAA8EeoZBQFEUeteR_gttywdI8xDOCjzDIMABDgIB_mo7lnL4n-L76y3tnl_sMh7Sflgkt65L62GRp3XaxcOpqRck7S9D0y5k21_MV03Svm-6RdJUbVO_Qbu0TOM-JQsEEPMW2EWd3t_n7X_DIh4wgOYBR1EMNTsjwHfViXxiOHZ2iucFGjH07AgtvGvH4bXIX_Py9da_FuVrWn9o4nbMkq_f_63eDFm-GvLOb1usOMBTik2kmiic8Muu4uHGbyvvsvZ2lYC8yiwJWKNYLfs9xlbgqxR2oRtpxv1Yikw8412KTG5QVgS1TeybWqz3Tw8ZiASOlKoOiqCQJVNB733CxqhkzArvE48wxL9DEwuBGwi-uTLuiVY8Q5TTSdU_Y91hcSXsPL1w4kupOCWmXf0xOJeecXUnw6hEW8o05nxELsPF0Yu7h2g61YqNOZnSLnQ6r94x24sjB3pp-pRG-5WJvZpEJnC07dkZPI3UBEeP42TSlmKOUQWtZEVCxytetlRbJbDoPL-08cXsk6AwfGiall-YuEqAFeZDQkVeSBWAYKJiGFmxDOV5hkekl51TRauZY0cUwSZey1u0B7szjkNUsq6Cu3AiTghUVwN4k-ikSKCEHbUso6pAeyh1bh2NCVRp_bSWnJX5tILIPU54F1Vl5a2KYIvWZlpHdKKXJ0vdAly2EgkE6bdH32VfgKgxg2uxJ8-8GFZfrHxsU7G5PFJ-0F_H4HHLf4EcT3NQmLcGQvAhaZrLKf36w0-iKv9MKSJZYzXuZSGX-w1UzsQZuO1RAHbr79v4EAFybbj8loeBo160ON9x2WTJDWEY8DMlLQ4HN523P126nmO_tTOr6B5Tjs5sJENJZAnzW3E5-oipavtcne3wcCdKkfnnw_l-UratcBTDTfu8cdfr6sUeYze4KtMgl2HfSSNOsotJ-2zEHHAsGusioo-U-Kar4FlMFaJweZaPO7cZ78rSPFzdO9vsKw8to-W6DCdDeBkhXRLx23njmYYyExmKmmMp7JRayK7LqYm0mEok9cRGgaNQtbTys110ncRMr9MRCtcrtvfX4GDB6wuf3sQXYeDDvrAeT89hq_DFSI_m_lgrz27TPVVxYy27wXJly2YIfrr1RcP6ww-k43DDYboDO9E16npfrse2wWu3kvhAK-S6WquBvlm2zYHHwViVU5TzDB9S1qHu3UgI9psoFpflcDpX-cTzq3zS3NutaPQLBZdy3K9ED9_TYArl1FtHeWHcYwuYmn7X80d29zRRz6z9C-3ewI7ao_FOmqx_SOMUmL46zG-6UKJi_k6yv_4FoYDlZg"
+      },
+      {
+        "title": "AMD Ryzen Threadripper PRO 9955WX 16-Core 4.5 GHz sTR5 Processor",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTTtBSYhQIWHFhxWLnWQlTDbQg5ooGGp-y7-_k2QCc2an4B7gD6TgdeXGsaVEm7J4B021Jsjd5H6KqVGoCMlQ3MkZKExJG7V1fe9uMd5bs",
+        "price": "$1,549.00",
+        "extracted_price": 1549.0,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rEeDrHicdVTLrqtGFm3lC3qQ_oSMLEtVvAw942GwfWywC6iCmliYwtjmaYMBo3zNuZ1IyfAmUqb5jXsH-ZZwkmHUNdhSaa29195bteqPf_37Pbn-drznadTp3HZ9zW-KsH_Gxv6lgp_qR8WecXtlv0KJh4LECZK0kGRBWSgikH6KozbKq_QD5kQg8xNBUTjIcVBZLMTPlyRi-bVMnPM5eRhVfGW_8IAHsqxIC1kAi6kcxys_X4soTf6GOUGAAPI8L0sLTlYEhQefHqz5Iuz1I5QkWRI4QZEUTpYkbuKA7_fIMY7_B_zh_kwery_7PGqTpp3Fz8cjKdtZmpTJI2qvVTljSZO1VT3T9_5sGjVOmqZ6zOKqqKvyg_pI8iRqEjbjACd-BGlWJv0PaR3_tZF_Sn4qruyzuJCmRci8KAKoSBwQ5U91175f0vc0f38275f8PSl_rKK6O8dfv_l2WfWG3vT6wa9rbCDgFputCy5hNNqHQ0Z5yonPMBMDtxh6Rhg53bR9XJo1zZh9IpvqkMF652VDRBTOzneiXwB-R9oyWSpvDhEGN8MFKjJACe58yGxqbRzfSgUGUBCMlOJVvUVWzCGsVCfLNrChtaQQI1TYa9vTPIxt1ytEKbKQj0Df27cLjsfNPV7lyNVh7Y_UOIDBCjMGabAxQg_ZDLTFDrSEWhQkK-S4AD6mu-9ybe6bOCR-OhwKvENmXW59pHmWknkZwowbGuLTlQ_WbchTB5Mhiqysj7jWcj06-ld4p8scx8u2oD7yAmieY58JcakNiMOCZ9EOQ9baGXQ9fvdKbloYgGpEnA2iIIcs11bTnG-JhUiy3GDHpKW7MocoYLeDjwiZZsWebR4IXDE-G06lKiIdiv5yGEKISwamvm-It317dCcGyXbAJ7FrAryNLXaJoYbRMs9pceFCqD3cknYxXArWdaOhlf1yCHUJRroH6sDNTH0XsC3RAbcN6trPkOuNph_pEP1vaB7nL0A1xdZ1pKtnZ2unuax8vOcje37ifdLcOzI80__CyUkLqEyeghD8GFdVdk2-fvMfdal_xxsq2-Bl1OhKqjdbaNwYahe7kwL2tR_W0ZECdq8W6TMNCFpmZpQeFufR0Ss2vdzveG12PLrJ5Jpk7npo_1HOLmgf8cgSt9raiHUNyzt13vmcWJT7W3HbB8eeGZezfzve-quxq5WTGmzr13Nxv6_e9l3kkrsxtnoeNA-tw_E5swVfouIRR-p6c6HCiVc_dA08iS0VGsxv-ungVl1vzO3j3e2lKiw8bk7nmzwY18pbB4WcqX-djzx7bUyJIs9PMVcORqmc7_OxombEx9ryKlGCDL7UVv75QO-jerbKpIPK_Y734Z0cHXh_k5On-qa0ctBcnOHlIakI3tbJyQ5PpfF6bB-vpbp15o_WcXVnLzL8csvMxNbgE-3UPnGQHMBBdddlGeabrq7wxi00mZgXvSw2S2Jt53V1lDHpinykqSzKAe8cy8alCgm3NFLneXu9Fekoy6t0NN3n81JZGQ_netSsVA_3CRkDPfE2NL2s-8gBtmn1Vjqce89UrbMTvgnuExz4kOt6Vp2bQetGYvuTVxh3Mehl-obOv_8J-0D4iQ"
+      },
+      {
+        "title": "AMD Ryzen Threadripper 9960X 24-Core Processor",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRzpMs18nyt-WnaBN3i2krXXYA58EEvG_I9hYoYrc_OkI1llR1sW2ns9SSMrwSa2FT_v7ROGBOQCa1GBrT3Ew8Iu0ibAFh8yyJIcx9ibnebr9_qFJyijZUz-A",
+        "price": "$1,449.99",
+        "extracted_price": 1449.99,
+        "original_price": "$1,600",
+        "extracted_original_price": 1600,
+        "reviews": 5,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VeNyHnicdVRJrttGFAx8giySI3glCOjmJDI7zpK-ODXFJtUbgeIoiZNIipSInOY7NuAsnQDZ5hr2ImcJv9dJLwoNVL0qvId-_c8PP74m57-OtyILB5nabc7FRWDse6TYTxF8bto6vkf9Of4TcjRkOIrhuBXHM8JKYAH3OQr7sKizN5piaJoDHOSFGThIz_IveRLGxblKrDRNWqWO3nQ8JQCWmS14mhJWDMXy3O_nMsyS7_wfDA-F1WzE0nMGTVMsDT-0cfeVseUj5FY0w7I8z7HMiplN5phfbWQpx_8hP97uSfv8ahdhn3T9Irq3bVL1iyypkjbsz3W1iJPu2tfNQra9xdxrlHRd3S6iumzq6k3aJkUSdkm8oADFvgG3qJLxY9Z87-U_Ij-U5_gLu-LmUfHzQHgw11E0_6EZ-tc8e82K13v3mhevSfWpDpshjb69-0mtR0XuRtnxmgYrCLhQskxPmCIZrg9UDENN0k-0dkd7U8XQmJJqq500NMRV8fS0zRhMzgN5BuXAAnsBxqYao5iOS4KR7gJEuzraEL9vwmJ2w-ZkaPjiXOKDgZvnYdrQ5hRrpgqo0GskjPMpBE13umLDUxu0xyIIgdDsS9Y7BdttCAU18lHjefzT9LTz6ULm-wZEAL1ECsFhWawjrDm-WtxCHUquh9BezUeMeTZZF0pM5b2vmhRWSRlfhVuk849doE6Rnu-RFlEnLR7dNX5YawQwLvy9LjjIhZ2lQoAggtHVdIgLn5YiPma-iKjYM_QeIE9IDT97en5MXB_57hrpuGhYgzYtHMR2qJiOr-Vs5D0mg-oHokJkTGZv7YsS-dsaY0k31xp98gsDAYF4E-bQdQOSQH0YF9yE-uMZqf3kBKZyKPIWgTwNabLBgJ1IOboawLtIj_MIShipRUHKnDpAqXUrMkRQZfTzVkJr82n5BCXr_GLSWJ497QMWRl9tOgMjcLhqA7oK96jC0m-Prk2_AlFje9diaeB1xLG3hCTBFRKwquKtj45muxx_gSueWUGB5wUI4aeorq_n5Nu7n0VVfk8rYrzFatjJQiZ3O6hcYtSvjJMA7MY7NOGRgPhWr7J7FvhIvWph5qzSyZLrmGXBe1paHI9uMm9NsnT3yH6zM0syhjTS2Z20USJZwrwhLgePYsvKvpQXOziOsZKn3uV4Gc-K0QgnMdg1z_vqdlu_2EPo-jdl6uUi6FppwFF6NRmPI-wRh-JmmxPmRItvuQqew1SBBMuLfHLcehiVpXm8uSNXH8o9tSTLbRFMG-FlgEwRi9_PW525UeZClqZnLARHqYT0tpxqooV0JKlnjvhIoStp7aUOuU1iqlfJAIXbDduHm3-04O2FT-7ii9DzQZdbj-cecWXwsklO5uFUKc921z5VcWct295yZctmY_x0q6uG9YfnS6f-joPEAY7obqrqUGyHpsZbt5T4-eHJVblVfX23bOojj_2hLCaS8Swf0Nax6lwi-IcdCcVl0Z8vZTbx_DqbNPd-z2v9SsOlHHZrcY_HxJ8COdlvSZZvxtACpqaPevZIx70m6ql1eGHcO3DoAzWMcZ12D2mYfNNT-3LeO4Xk8zeU_v0vfDz4DA"
+      },
+      {
+        "title": "AMD Ryzen 7 5800X3D Processor",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQuHpttVSliqqe6lnvlEMeqP9nsxqrvWSc0pfzd2U20c4ilrgrAKymjL3J3p3kFOxXt3aF_rbj1CWph5nObTb5VrvQljMQt",
+        "price": "$406.14",
+        "extracted_price": 406.14,
+        "reviews": 897,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=saEYyHicdVTJrutEEEV8AQv4BFZRJLdns_OcOIlnt4dN5Lg9JG4PsZ3J4mvu4yHB8oHElt94b8G34AtbqEVt6pwq1elT_ddX37zl5z-OV1ymd5ncb8_4ItD2LVPsl0j80g8dumXTGf0OWArQLEmzLMfytMAJDMH-kqVTirvyjH4DDE0ztMAwrCCwFEnyHPGpylOEz21uFUU-KF22wEhOIBiKoCjAUAIvsIRA_Xpu0jL_twxYDlACvbRiwQLiKQ58GND4mbblI3gPliOBQBM0ABy3QH60XUs5_k_x4_WWD6_PNk6nfJxW2W0Y8nZalXmbD-l07toVysd66vqVbAerZdMsH8duWGVd03ftO3TIcZ6OOVqRBMm8J3bV5o-PZZ-9C_IfIz80Z_SJ4dhFKJ5jeIJnCIoguQ_9fXqryrcSv93Gtwq_5e3PXdrfi-zL19-q3UORx4fsBH0PFZfwAgHHFNb3ITGnoaB5CnTiyJlOtaalJFJT3YwS3d2ZDd7vQ1ML6n4TA4nZB8SUbCQbaWjnQVz7odZBaLYp6TAnsrK8F3i5Ch5gXe3C8EmZtTZHBNzEF1NG6tNxdVfxMdbcOenNOWksBe2yAKTBBl-yEB0c4hm5NdSS0GyQj-LMA9gL-2c0QzsGECYqsCGOgXcpnycKzQdwmMwZEoG2sHQjcoCgZ4TJZhd8dimNOLVSfNDdArV4DENN2Qdgm9bx07-IhOtL0KyF1tMMAlLQSXXkHgCak9D1Hd-MfN_cmW11MXUohbVRHYI-NENwcbV-787S0_HxLSBhfMJG6qtCjYJn4c54dsLkkGxcP4YxZYYZcEmYQF9Tk6Bq8giqYf2gkILaFBiLvpA8YBOEEaZP9XP0Sa1NKYl2gRtZirmHVP1AfmK6Ne9pBNxnOqoyIEFXxThpKnJ5k8Frk3sGVFo_G5K7MV9WmASmiu8oENRUjclsNgInYMhlM8uhoB_PAYWAK_30HIfiMyFqzORZy70EY-LYRpLkUQ0SgmuREbpHc1g_fgAcT3NA4HlhcePPWdfV5_zL19-Jqvw9pYjIgGo6ykIpj3ugXJA7cYeTQNh9EPfpMSHQtePKWxmFrlpraelwxWzJHWIY4ntKWh2PXr5cTb72fNd-b2c2ySOlXJ3ZS1slkyXIH8T1PSCZprUvzcWOjg-kVEVwOV4eZ-XQCycx2vevG3e9bnb2PfXCqzJPMo7GQbrDrKhNOmAT5ghTcWtUCX2ixPe5ClyGqUISrS_yyfG6-0NZm8er92C7uPHJdbI2cDRvhd0d0BiJ_8Q7z9wqC5GhqCVjwVFaobiu5y7RUiqT1DO7uEehWmkTFE5yncVCb_M7EK7Xxb_X8GiB647Pb-JOmPhorKzny3fZJtpt85MZn1rlNeyHlyrurfUwWZ5s2QyCL6-tNag_g1A6TTcY5Q7hiN62bWNs3PsOGl4j8aFWyW1jqKG-X_fdkYfhvcFzUvIMH1HWsR29RAjjfZKKazydL0058_ymnDXvdqs6vabAWk7HjejDRx7OkZz7RlJW20dqEaamP_TyWTx8TdQLK97R3o1wqJi8P1BXjE_pPodmoE4NIislqZZvqPjzbxFz9tI"
+      },
+      {
+        "title": "AMD Ryzen 9 5950X 3.40GHz 16-Core DDR4 CPU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSrFDqxbJh7UrI0M6qqFmlJFxNZLTk58WApEdtshtr1rMsFwZIL-FLYfQ0gQ850EKHRokminF4vWzVqy5TNb5FwVXaX7hHFQ2IrfxXb56JefVvVDnS0T3mO",
+        "price": "$299.99",
+        "extracted_price": 299.99,
+        "original_price": "$800",
+        "extracted_original_price": 800,
+        "reviews": 8,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=t2MxRnicbVTJrttWDC3yBV20n9CVYUBXs7qTNdl6GqzpSrobQ9bVaE22ZMsW-jUvTYB0mRTotr-RLPot9cs6XBAESJ5zSID876efX7Pqn8O5KZKbRBq7qqkFen9N5f1DJD4Nlx5f06nCfwOWAjRL0izLsTwtcAJDsJ_SZEqavqjwF5ZkWI4GAklwJKB5RqCoz2WW4KbqMjvPs4vcp28oDMNwJMUDnmA4iqcIgqD_qtqkyL7nv5CMQAos-4QXnogc9bT3Fzx-JffSATAcw_IMILmnBoKnASD-2Lu2fPhx7sP5ml0eX_dNMmXjtEqvl0vWTasi67JLMlV9t8LZeJr6YSXtg9Vz0DQbx_6ySvt26Lu30kvWZMmY4RVJkMybY1ddNn8ohjelP2B831b4M8OxzzXxAs_wFM2RDCO8H27Ta1m8Fs3rdXwtm9es-9gnwy1Pv737RelnWRpnyQmGAcou4fklgU66gZVg9ggcBS0AQdiwib8pj74LnRAmVu0scFFrt3aRpcEe-8hAwHzAdne3FECnoLTdBkXJSQApjCdTtpxQVisjsMyI6gl3O3RhgCg7TB9IRU2oTE5MTIYD4Wyruhpuh7vTYBorw2L4yoI0eHMXdLNl9AjaHfC0qTGBZTsnN0qVMncDenEJobIaZz5GBWFpbogjvXIDd07Cnk6hSJh-McfdhjCV_uG399okdWiSaOs1KoqXknWJ8sXSrLvfDGMcpXNaB4t_0i2zjh8mxL4dgm3aoifvYCUaPUFK1cN2IGGosj41IBQok081WgbdFoeWa2m6m4TzHYXOHYZNmYTl2dWGlwg0DdaAmgVgE7ZCghRkeIu-swNcOXVMHCM1DzQrTBTwjJtzHIDnXuFg-GiKgxPpKQRt1ngPNUtPlQm5deCpBDRSDZcp2EBXaRrUlmQMNhevQ7cUKLRW6Rt3az3sEAWwwVYKVSIFJ8Zs1DNsJ_t4GmRTIqiE5Oe0Fag_7-Ml_0qIKjN5NkvjMsIMuq9NdllL2KyP19w-SLNhO78Djqc5IPC8AAD5Me37U5V9e_erqEi_UbKIdagkoyQU0mgAucbuxJlHgdgPQTwkB0Tgc88V1yIKXeWkJoXD5Yst9ZhhiN-ozepw8LLn0WRrz3f3b3BWi-aEcjXG2OzkVNpA3hTXt4Bk2m5ft_U-OsxYLvOgPtRzJZuDcBQjY3hcufN5-7K_JV54lpdJaqLxsrnBND9ZdMAi5gATcaeXiD5S4huvDJ9kioCidS0dHa-_zfLaOpy9me3j1ifXaK030bITXm6AbrD43d76rJ38bGQo6ukbwZE7IT-vlx6pCZVulIpFoStT3WYb5A46L2KuddkNCOcz3Mfn8GCD8wufXcUXYeKjsbTvD99l2-hllx2t-NjJj4txeSiiYa8vk-1J9p7B8OF1JxVq9yDcHKcrjDKHcERv13Vxo9-GHupeu-FDtZS6VldCzVgP_YGH4a1tFlQ8_0NE2Ydu9JAQxgZKxHUzVXVbLDy_LRbVu17LXjtRYC0l41b04ZyFSyRlvo6KcjcnNmGp2qwV93z2VVHL7fiF9q6EQ8XkbcZ9Pt43tyW0nmfRYrKUUfl8Q_m__wO1dvlb"
+      },
+      {
+        "title": "AMD Ryzen 5 5600X3D 3.3GHz Socket-AM4 Zen-3 Desktop OEM CPU 100-000001176",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQMAcSA3iFFEYTBH47WkwBTb6SBh33qnUc-MsftVBPwsasoIsVJ_Znf5NaVBaO0p1V3NMYmJKHBQ7_ZdMPvP--XSZprLB_zwvhXBW1i_JkibA_Yv3FAgxD1Iw",
+        "price": "$350.00",
+        "extracted_price": 350.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yuegy3icHVNJrqNWFE2ygkyyhBpZlnh0hszovzswPbyJ9QyPzvRgsFlN9H-qpMqwKlKm2UbVIGuJf93Bmdzm3KN7z38__fqK83_OXZmiSSIP27wsePp0i-TTQyA-t30T36Ixj_8GLAVolqRZdsNyNL_hGYL9HKERlU2ax1_JDQ0IgmLIDQNIkuGfVV8yjOIyr7GRJLiXm-h9CsEzgKI2FOAZluUAQ5HEX3mFUvwj_5WjWJbkSPBEkuYBzwL-rY-HPz52N9w_vp1KNOJhXEW3vsf1uEpxjXs05k29ivFwHZt2JZ3c1XPrCA9D06-ipmqb-r20xyVGA45XJEEy78Cuajx_TNsfa5EkRzAEzREbimKop0gevFV5_IXZsE_RHMfTJEM_xdH8WzuNr1n6mpavt-E1K19x_alB7ZRE338ulGaWpGEWTbdtPdki7Fp0rVJ3zEXvj1eTsoMr4xblUSdSxtC8PVIjBsrq4Km8HLnKaNXl3SNG5KgWZZNZArV74RER8F_0LvSzMSxLz1fiyXnZJai0BkRAaBfp6FT8iF3Qx9fd_qLyik56BbzqzgWUIvJ3CyTuNfJbAssu8K-ZEwJ3hGUzH4IdijWLjCr4iJToHgBPjQLYmf54vxBq6wRiZ2hwxNd7cKzLMKrLzF30CeZg75GWdfGHxVyOi060mg1cEFNbJrxatUVBMbzugOXzoVmnDyWLVZsS6zDQTc-1dtCHTVzpJiJa8kLpliE2uelaS1SUlevr-0hVj35FL4abtfBFWAyNCREQZ8cdFceJFdf88z70yTdCUJnRNlg6zoKYgff1kV3WUnwsLrfEOEvzwTB_BxuO3gD-eUMAyE9R01xz_P2X3wRF-kDJQrzzFDRIfCoNByAXsTVujheeOLVu2KIzJOKu2aS3NPAt5aqi1NwkiyE1McMQHyhxdT7b-PmLeG071ul9nF7BGVGWxhzErRxJoscdhfXkkkxVn4qqOAXnOZazxC3OxZzLx5a_CMGhfdw2XfeyP03I9jt5GaUyGHpx8qLkqtMuC5mzh4TtLoP0hRLeeWXvSabwMFgX0sW0m2mW1_q5s2e2CSuHXMP1rgyWLb-fAF3Gwo9479O38rORoagnlrwp13zSrZcGqoiKRCVnoW_JVC2-uIkJu0VItBpPgO867xR2_tkA3Z7DN2HPj1wwZMb94VhsFey3-KKHl1p-9If-oQgHY92Phi0ZJyb2HnZ9VT3t7vriZbx5ATYJU7C3dR2Wu6ltvJ1diZyvZlJd7RRfO6zb5sx5_lSVC0w5hgso41wPNuT98ACRsC7HvKjSheNe0kW1b7es0a4UWEtoeBEcb8b-EkjY2cE0287IIHRVm7X0nsyOKmiJEe5p-0aYVEhOc9wkw12cFl9_Gq-KyUyG2dPcyb__AzqPtio"
+      },
+      {
+        "title": "AMD Ryzen 9 9950X3D2 Dual Edition 4.3 GHz 192 MB L3 Tray",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQIkXZbs5ww51DXjrBGRJi7QQAPFHEzFf470J0IUg_09erVHr0H_HC5IlNfucPpPIhKB8rM9uVzYH7mS-eSKQknIf0324928CCYZjG_F54mupxcCbPHgY9M1A",
+        "price": "$998.00",
+        "extracted_price": 998.0,
+        "reviews": 7,
+        "rating": 3.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3t_CM3icdVS7ruM2FEzyBWnyCVsZBkS9lU5v29eWrBclsTFkkZJsPS3Jsi3ka-5mF9iUiwBp8xu7Rb4jZXwXKRMWBziYOZwZguRf3_34Sk5_HC5VnkwqvV2fqrPE7q-ptn_I1Keub_E1HU_4d8AzgOVplucFXmQlQeIo_lOajEnV5t9gkX_CgAOcIEkUxwBO-lyQBFenhthZRnqtTd94Ai2IgsRQrEC9UZ8989upTnLyL07zHMsInMCJDMPx4Mml3vd4-MLu1QNgJZ4SaZqngCSJAk_RovDL3rW1w_-AHy5X0j--7KtkJMO4SK99T5pxkZOG9Ml4apsFJkM5tt1C3QeLZ9iUDEPbL9K27trmjdqTiiQDwQuaorm3wi8acvuQd9_M_ofk-_qEP3PC22GIosTSHMvRAiu976bxtchf8-r1OrwW1StpPrZJN2Xp1-__1qdUVftUdYKug5pLeaWEkmA9u37Be9DdIRrfw8YBQVhUIZQceHZhArDiM8bkrtbUbt54tq-MMUA29Cju2Ch3UimeU3a6A_B5t1JCXFlZYqSM62PfNiU_XBlqCpV1GGKTmK5hRRB6szVYjYGOwY3xzM0WG8_ekDQv2uxs05jgys2I0WlxndPQsE4ISglUQQ-pceszip6sYtqjYBSXRREHd3enWdkR4EtSWpFV4mceg8OaMVoUKn0TbEmJuriG6pHG2i5qb1tfUS1980j06kECqKSBUR6jykJzSXtACrZhsQ1qljuCdk5nWFv62AYhywZnZIQr-FTBYGcUM9QLaletKaeEY1DFNKTwxdbRHevseAw2T18xncDiQvSNHZctZwebBPpu4JzhGtFG70eVgfw1a4VumRrougvxwzN0z6DgNjVxkQIFunpVobqgY6D0XoOmFOisedoo7sp62CHyI6rYIaADJ7zb-KxUgZkzroEeLswBqoooNZHy633osy-UbHCjZ7O3hDF3KVLwbRzv645E_gSvpDYFzfkZCCIrAOl5owBgPqZtW57I1x9-knX1HaPJeAP1ZFClXB22QDtjdxR2R4nad0HcJQf0TN8K-TWPQlcvjSR3hGy21RZzHPWOURaHg0eeL4MsPd_dv21n1ejpxTW5rbLWUlWB4k5eTgHN1c3-XJ_30eGGtSILzofz7aTtOukoR9vucRUul9XLfkq88KLNo1pFQ69MMM1Kiw14xB1gIq83BWKPjPymq8GnmC6haHlWj47XTjdtaR0u3o1v49qnl2i5qaJ5Lb1MgK2w_G29zVlr7TnIMcyzVpKjNVJ2Wc4tMhImVfQTj0JXYxplFWQOusxyZjZkAtLlAvfxJTzY4PIikqv8Io1iNBT2_eG7fB29rMnRio-N9ui3_UOXt_ayH21Ptfcchg-vKQ1o3oNQOY5XGBGHcmRv3TRxtZm6Fm68WhFDo1CbeqOH5nbZtQcRhlNdzSgXOTFi7EMzeEgK4y1K5GU1ns51PoviKp8N73otWrNkwFJNhpXswxsJ50gl_gblxfqW2JRlmDczv2c335DNzI5fWO9KOUxMTzfcZsNdmebQCvSxxnShoeL51WR__gPcJO_1"
+      }
+    ]
+  }
+}

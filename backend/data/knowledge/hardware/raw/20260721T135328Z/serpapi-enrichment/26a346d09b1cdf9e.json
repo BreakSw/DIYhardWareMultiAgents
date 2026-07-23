@@ -1,0 +1,446 @@
+{
+  "search_metadata": {
+    "id": "6a5f7ac755cfe18a4e05d7b3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0c41UhXZ-mQNWkQkGEwayA/6a5f7ac755cfe18a4e05d7b3.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0c41UhXZ-mQNWkQkGEwayA/6a5f7ac755cfe18a4e05d7b3.json_with_pixel_position",
+    "created_at": "2026-07-21 13:57:27 UTC",
+    "processed_at": "2026-07-21 13:57:27 UTC",
+    "google_url": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&oq=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0c41UhXZ-mQNWkQkGEwayA/6a5f7ac755cfe18a4e05d7b3.html",
+    "total_time_taken": 0.76
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Crucial Pro 32GB DDR4 SDRAM Memory Module memory cas_latency module_count voltage",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Crucial Pro 32GB DDR4 SDRAM Memory Module memory cas_latency module_count voltage",
+    "total_results": 806,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&udm=1&lsack=x3pfasvSEIGtiLMPuaLB0AQ&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQtgN6BAhLEAM",
+    "image": "https://serpapi.com/images/i/R0lGODlhAQABAIAAAP_______yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw.gif"
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.1,
+        "reviews": 2900,
+        "reviews_original": "(2.9K)",
+        "description": "Electronics store with TVs & more",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYnV411qVwMctCTn3qPHoecvLPxRXEWGX0w5KVs8W5JCgxMe8jLSnfltj2KhL8tpF6sEcMYJ3F1y9z2qeSRbllqQ4IeBsVKlfKQ7iugCKI4HQq4iJK0zwlZAIlkr1Cv41zqYp9=w184-h184-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYnV411qVwMctCTn3qPHoecvLPxRXEWGX0w5KVs8W5JCgxMe8jLSnfltj2KhL8tpF6sEcMYJ3F1y9z2qeSRbllqQ4IeBsVKlfKQ7iugCKI4HQq4iJK0zwlZAIlkr1Cv41zqYp9=w1000-h1000-c-n",
+        "place_id": "16005341807080244302",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=16005341807080244302&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage",
+        "gps_coordinates": {
+          "latitude": 39.023274,
+          "longitude": -77.422218
+        },
+        "title": "Best Buy",
+        "type": "Computer store",
+        "phone": "(703) 430-2150",
+        "address": "Sterling, VA",
+        "hours": "Opens soon · 10 AM"
+      },
+      {
+        "position": 2,
+        "rating": 3.9,
+        "reviews": 1400,
+        "reviews_original": "(1.4K)",
+        "description": "Electronics store with TVs & more",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnc5hu79KRKrQLKf-A7gRGNHbdC1w2UWeB29J20UFk7Mhr-jmf82_zlngwUeoivXF3RP9cQYAW9CWdm1WM_vuwS-MpzErvIemQeKiWXAvR9Q1a-pI_IMNMPag2Z_GnJZQELTtox3HUflYI=w184-h184-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnc5hu79KRKrQLKf-A7gRGNHbdC1w2UWeB29J20UFk7Mhr-jmf82_zlngwUeoivXF3RP9cQYAW9CWdm1WM_vuwS-MpzErvIemQeKiWXAvR9Q1a-pI_IMNMPag2Z_GnJZQELTtox3HUflYI=w1000-h1000-c-n",
+        "place_id": "10934448931477318955",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=10934448931477318955&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage",
+        "gps_coordinates": {
+          "latitude": 39.09755,
+          "longitude": -77.528282
+        },
+        "title": "Best Buy",
+        "type": "Computer store",
+        "phone": "(703) 669-4100",
+        "address": "Leesburg, VA",
+        "hours": "Opens soon · 10 AM"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&udm=1&lsack=x3pfasvSEIGtiLMPuaLB0AQ&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQjGp6BAhNEAE"
+  },
+  "related_questions": [
+    {
+      "question": "What should dram voltage be for 3200mhz?",
+      "type": "ai_overview",
+      "page_token": "hwJirXicHdDbToMwAADQ-DN7HLdtypLFCFIIpiO0tDBeDBQog3Jxa-Ty5r_4VX6Nxi84yfn6Fte-_XlIainH-1FRpmna8mHgotyyoVOy-9IzhWVC5Blrj4fHg_ZcsZNznyx7mKyQjCN9RSpuUoPGc0BtDcHkZbpo9Rm29SWLd5KtXA8AHQoiVawiKwJFSIV5QwQuUH3SqW4OqVfYGRUgI6JOHTlj4juwLZpcMyvS-HoU7-ZcBxK3foCTP9YDOunOsiSFjJy9z7z646yPOI75Qmioxl3Rp5qZ4IhIuPpR6bQyNLgKG5rQhlJIJgwMvjI3rZmRRogIr3AFjKilXchsQwcg9-pbyDsvQZxGUPWDsh9RGJtr1rc75s647PlCDfFGdbTPgbA2Ffs8GZv_sdN71cnjeBv4LyeveI0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hwJirXicHdDbToMwAADQ-DN7HLdtypLFCFIIpiO0tDBeDBQog3Jxa-Ty5r_4VX6Nxi84yfn6Fte-_XlIainH-1FRpmna8mHgotyyoVOy-9IzhWVC5Blrj4fHg_ZcsZNznyx7mKyQjCN9RSpuUoPGc0BtDcHkZbpo9Rm29SWLd5KtXA8AHQoiVawiKwJFSIV5QwQuUH3SqW4OqVfYGRUgI6JOHTlj4juwLZpcMyvS-HoU7-ZcBxK3foCTP9YDOunOsiSFjJy9z7z646yPOI75Qmioxl3Rp5qZ4IhIuPpR6bQyNLgKG5rQhlJIJgwMvjI3rZmRRogIr3AFjKilXchsQwcg9-pbyDsvQZxGUPWDsh9RGJtr1rc75s647PlCDfFGdbTPgbA2Ffs8GZv_sdN71cnjeBv4LyeveI0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiV2hhdCBzaG91bGQgZHJhbSB2b2x0YWdlIGJlIGZvciAzMjAwbWh6PyIsImxrIjoiR2lkM2FHRjBJSE5vYjNWc1pDQmtjbUZ0SUhadmJIUmhaMlVnWW1VZ1ptOXlJRE15TURCdGFIbyIsImJzIjoiYy1NSzVkSUl6MGdzVVNqT3lDX05TVkZJS1VyTVZTakx6eWxKVEU5VlNFcFZTTXN2VWpBMk1qREl6YWl5TjlLVVVpOG5UaTJYRVpjQzJOak1Zb1dTakZTNHF2dzBCUmVYSUJPRklFZGZleU0tS1o2VWxDSVRtQ1NYRHBlUVo3RkNZazRPUkkyaG5wRkNtTDNFOVFJallTbkJUSWdFV0QxSW9vekxsVXNCcUJxc0VtU3BRbkZKSmxCQmVuNS1pa0ptbm9LUmdaR1p2WkdpbER4UUkxZ1REalVDakFBIiwiaWQiOiJmY194M3BmYXN2U0VJR3RpTE1QdWFMQjBBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiV2hhdCBzaG91bGQgZHJhbSB2b2x0YWdlIGJlIGZvciAzMjAwbWh6PyIsImxrIjoiR2lkM2FHRjBJSE5vYjNWc1pDQmtjbUZ0SUhadmJIUmhaMlVnWW1VZ1ptOXlJRE15TURCdGFIbyIsImJzIjoiYy1NSzVkSUl6MGdzVVNqT3lDX05TVkZJS1VyTVZTakx6eWxKVEU5VlNFcFZTTXN2VWpBMk1qREl6YWl5TjlLVVVpOG5UaTJYRVpjQzJOak1Zb1dTakZTNHF2dzBCUmVYSUJPRklFZGZleU0tS1o2VWxDSVRtQ1NYRHBlUVo3RkNZazRPUkkyaG5wRkNtTDNFOVFJallTbkJUSWdFV0QxSW9vekxsVXNCcUJxc0VtU3BRbkZKSmxCQmVuNS1pa0ptbm9LUmdaR1p2WkdpbER4UUkxZ1REalVDakFBIiwiaWQiOiJmY194M3BmYXN2U0VJR3RpTE1QdWFMQjBBUV81In0%3D"
+    },
+    {
+      "question": "What is the voltage of DDR4 RAM?",
+      "type": "ai_overview",
+      "page_token": "sF4vOXicHdDNboIwAADg7GU8SgF10cQswwlILITSH-llgVbAtAhOHD-3vcueak-zZffv9H1968tV_Tydqq5r7xvD6Pt-XjZNqc9z0dRGdh-vwhCZ1nkm1Gb1vDJfCrHd33tn1_ROTNqWviGQ2IjKfcChCm7IDSuuxHQ-8Y6AZZerICSYxswPdjkZQmpRjgC6haotmEJT5MIl9VqcaTLCeqhy87CIGekyM54kkAqrZpHS9ch9VJ3rCjD951kKJOBByg4WmqSFXHlPLE0gQy0HGmOwLsjF7IVWHaqDo6RudLLkA5PUjK0KJgokrl1OwuOVsDlGRPvS0xBTx0zJsIN7F3mXwEF-OEaM44iqMfL4g9boCAEPheUyQhHEtrJy83UIvcCZFeJza8_-x7bvRd1t2o-m_AW1Dng3",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sF4vOXicHdDNboIwAADg7GU8SgF10cQswwlILITSH-llgVbAtAhOHD-3vcueak-zZffv9H1968tV_Tydqq5r7xvD6Pt-XjZNqc9z0dRGdh-vwhCZ1nkm1Gb1vDJfCrHd33tn1_ROTNqWviGQ2IjKfcChCm7IDSuuxHQ-8Y6AZZerICSYxswPdjkZQmpRjgC6haotmEJT5MIl9VqcaTLCeqhy87CIGekyM54kkAqrZpHS9ch9VJ3rCjD951kKJOBByg4WmqSFXHlPLE0gQy0HGmOwLsjF7IVWHaqDo6RudLLkA5PUjK0KJgokrl1OwuOVsDlGRPvS0xBTx0zJsIN7F3mXwEF-OEaM44iqMfL4g9boCAEPheUyQhHEtrJy83UIvcCZFeJza8_-x7bvRd1t2o-m_AW1Dng3",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdm9sdGFnZSBvZiBERFI0IFJBTT8iLCJsayI6IkdneGtaSEkwSUhadmJIUmhaMlUiLCJicyI6ImMtTUs1ZElJejBnc1VTak95Q19OU1ZGSUtVck1WU2pMenlsSlRFOVZTRXBWU01zdlVqQTJNakRJemFpeU45S1VVaThuVGkyWEVaY0MyTmpNWW9XU2pGUzRxdncwQlJlWElCT0ZJRWRmZXlNLUtaNlVsQ0lUbUNTWERwZVFaN0ZDWWs0T1JJMmhucEZDbUwzRTlRSWpZU25CVElnRVdEMUlvb3pMbFVzQnFCcXNFbVNwUW5GSkpsQkJlbjUtaWtKbW5vS1JnWkdadlpHaWxEeFFJMWdURGpVQ2pBQSIsImlkIjoiZmNfeDNwZmFzdlNFSUd0aUxNUHVhTEIwQVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdm9sdGFnZSBvZiBERFI0IFJBTT8iLCJsayI6IkdneGtaSEkwSUhadmJIUmhaMlUiLCJicyI6ImMtTUs1ZElJejBnc1VTak95Q19OU1ZGSUtVck1WU2pMenlsSlRFOVZTRXBWU01zdlVqQTJNakRJemFpeU45S1VVaThuVGkyWEVaY0MyTmpNWW9XU2pGUzRxdncwQlJlWElCT0ZJRWRmZXlNLUtaNlVsQ0lUbUNTWERwZVFaN0ZDWWs0T1JJMmhucEZDbUwzRTlRSWpZU25CVElnRVdEMUlvb3pMbFVzQnFCcXNFbVNwUW5GSkpsQkJlbjUtaWtKbW5vS1JnWkdadlpHaWxEeFFJMWdURGpVQ2pBQSIsImlkIjoiZmNfeDNwZmFzdlNFSUd0aUxNUHVhTEIwQVFfNSJ9"
+    },
+    {
+      "question": "Is all DDR4 1.2 V?",
+      "type": "featured_snippet",
+      "snippet": "Unlike DDR3, DDR4 does not have a low voltage variant; it consistently operates at 1.2 V.",
+      "title": "DDR4 SDRAM - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/DDR4_SDRAM",
+      "displayed_link": "https://en.wikipedia.org › wiki › DDR4_SDRAM",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAD-_v7MzMw7OzsAAACVlZVJSUnm5uampqYXFxfZ2dkBAQGzs7MnJyeGhoZpaWl5eXkOJSOoAAAAAXRSTlMAQObYZgAAAGpJREFUeAFtz7UBxEAQBMHtgwXpKP9kn_k13pTXIsLH5OfD74d_SLlUtFTL2Tx0E2xvWL-gQQYBzeDRBni9QSoJegeUG6AKMyCtB7R9Q8OZ9gD6anV0mzzBd8X2nF5AVJjKGzYAO4yRv_wzhDIC9UYsU1MAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiSXMgYWxsIEREUjQgMS4yIFY/IiwibGsiOiJHaEZwY3lCaGJHd2daR1J5TkNBeExqSWdkZyIsImJzIjoiYy1NSzVkSUl6MGdzVVNqT3lDX05TVkZJS1VyTVZTakx6eWxKVEU5VlNFcFZTTXN2VWpBMk1qREl6YWl5TjlLVVVpOG5UaTJYRVpjQzJOak1Zb1dTakZTNHF2dzBCUmVYSUJPRklFZGZleU0tS1o2VWxDSVRtQ1NYRHBlUVo3RkNZazRPUkkyaG5wRkNtTDNFOVFJallTbkJUSWdFV0QxSW9vekxsVXNCcUJxc0VtU3BRbkZKSmxCQmVuNS1pa0ptbm9LUmdaR1p2WkdpbER4UUkxZ1REalVDakFBIiwiaWQiOiJmY194M3BmYXN2U0VJR3RpTE1QdWFMQjBBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiSXMgYWxsIEREUjQgMS4yIFY%2FIiwibGsiOiJHaEZwY3lCaGJHd2daR1J5TkNBeExqSWdkZyIsImJzIjoiYy1NSzVkSUl6MGdzVVNqT3lDX05TVkZJS1VyTVZTakx6eWxKVEU5VlNFcFZTTXN2VWpBMk1qREl6YWl5TjlLVVVpOG5UaTJYRVpjQzJOak1Zb1dTakZTNHF2dzBCUmVYSUJPRklFZGZleU0tS1o2VWxDSVRtQ1NYRHBlUVo3RkNZazRPUkkyaG5wRkNtTDNFOVFJallTbkJUSWdFV0QxSW9vekxsVXNCcUJxc0VtU3BRbkZKSmxCQmVuNS1pa0ptbm9LUmdaR1p2WkdpbER4UUkxZ1REalVDakFBIiwiaWQiOiJmY194M3BmYXN2U0VJR3RpTE1QdWFMQjBBUV81In0%3D"
+    },
+    {
+      "question": "Is DDR4 3200 still good in 2026?",
+      "type": "ai_overview",
+      "page_token": "zZos-nicHdBRboIwGADg7DI-agviFhOzBAUGERyF_pW-LNiKSIugoihvu8tOtdMs2XeE7_tHH0_q9-Vedl17nU8mfd-PD01z0PuxaOpJfn2exETkWu9yoeaz1xl-L8TCufn28uzbMW1bWBGU0MCIPNisqVaiFk_hAN9XcOVKPNes_OSMlJFxsIjLSYQimqXONHR5EC6xydRjnRpuJQc4h1ifOfMRr4Iu8R4NA9sgXlTwI3aYh6yclpoxDKlnXWAIZhvQATnJO1D5yFO3A0cnO8xj8CIg23Jg8DbNvRjtPqI80dnAtD5KRfx84H648vGeEZulQSK1RAKHlnCz565uTaeU09C062wbGRRBQEzSpg6OJXPDuLJtSppjTMkgKl1TEz4Fsqjw3IYofWMsQxTKYk9bGoJ9k0or2Y8KcV-Yo__PxVdRd_P20hz-AKN0grU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zZos-nicHdBRboIwGADg7DI-agviFhOzBAUGERyF_pW-LNiKSIugoihvu8tOtdMs2XeE7_tHH0_q9-Vedl17nU8mfd-PD01z0PuxaOpJfn2exETkWu9yoeaz1xl-L8TCufn28uzbMW1bWBGU0MCIPNisqVaiFk_hAN9XcOVKPNes_OSMlJFxsIjLSYQimqXONHR5EC6xydRjnRpuJQc4h1ifOfMRr4Iu8R4NA9sgXlTwI3aYh6yclpoxDKlnXWAIZhvQATnJO1D5yFO3A0cnO8xj8CIg23Jg8DbNvRjtPqI80dnAtD5KRfx84H648vGeEZulQSK1RAKHlnCz565uTaeU09C062wbGRRBQEzSpg6OJXPDuLJtSppjTMkgKl1TEz4Fsqjw3IYofWMsQxTKYk9bGoJ9k0or2Y8KcV-Yo__PxVdRd_P20hz-AKN0grU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiSXMgRERSNCAzMjAwIHN0aWxsIGdvb2QgaW4gMjAyNj8iLCJsayI6IkdoOXBjeUJrWkhJMElETXlNREFnYzNScGJHd2daMjl2WkNCcGJpQXlNREkyIiwiYnMiOiJjLU1LNWRJSXowZ3NVU2pPeUNfTlNWRklLVXJNVlNqTHp5bEpURTlWU0VwVlNNc3ZVakEyTWpESXphaXlOOUtVVWk4blRpMlhFWmNDMk5qTVlvV1NqRlM0cXZ3MEJSZVhJQk9GSUVkZmV5TS1LWjZVbENJVG1DU1hEcGVRWjdGQ1lrNE9SSTJobnBGQ21MM0U5UUlqWVNuQlRJZ0VXRDFJb296TGxVc0JxQnFzRW1TcFFuRkpKbEJCZW41LWlrSm1ub0tSZ1pHWnZaR2lsRHhRSTFnVERqVUNqQUEiLCJpZCI6ImZjX3gzcGZhc3ZTRUlHdGlMTVB1YUxCMEFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1FRTVhbXh2UjFOUmNFOVpPSHBDYzBsS2NFSXpaMFpFUmtGdWIxSm1TVkpDTFRrMk1rUjJiVk5VUWtKTFRqWk9hbFIyWTI1TVIyWlVWRGhRY0RCaVpucGhRMGR5ZDI0M1RWSTBRME5TWnpGMFJqRkNNRUoyZGxZMmR4SVhlRE53Wm1GemRsTkZTVWQwYVV4TlVIVmhURUl3UVZFYUlrRkVjM0k1WmxORFIyNWtlRVZNVHpoQ05HeGhVbXhDVUhkaWRVNDVUVWszTUdjIiwiZmN2IjoiMyIsImVpIjoieDNwZmFzdlNFSUd0aUxNUHVhTEIwQVEiLCJxYyI6ImMtTUtUQzRxVGM1TXpGRW9LTXBYTURaS1QxSklTU2t5VVNoT0tVck1WY2hOemMwdnFsVEl6VThwelVtRjhaSVRpLU56RWt0Uzg1SmhNdkhKLWFWNUpRcGwtVGtsaWVtcEFneTFiLV9JMlFNQSIsInF1ZXN0aW9uIjoiSXMgRERSNCAzMjAwIHN0aWxsIGdvb2QgaW4gMjAyNj8iLCJsayI6IkdoOXBjeUJrWkhJMElETXlNREFnYzNScGJHd2daMjl2WkNCcGJpQXlNREkyIiwiYnMiOiJjLU1LNWRJSXowZ3NVU2pPeUNfTlNWRklLVXJNVlNqTHp5bEpURTlWU0VwVlNNc3ZVakEyTWpESXphaXlOOUtVVWk4blRpMlhFWmNDMk5qTVlvV1NqRlM0cXZ3MEJSZVhJQk9GSUVkZmV5TS1LWjZVbENJVG1DU1hEcGVRWjdGQ1lrNE9SSTJobnBGQ21MM0U5UUlqWVNuQlRJZ0VXRDFJb296TGxVc0JxQnFzRW1TcFFuRkpKbEJCZW41LWlrSm1ub0tSZ1pHWnZaR2lsRHhRSTFnVERqVUNqQUEiLCJpZCI6ImZjX3gzcGZhc3ZTRUlHdGlMTVB1YUxCMEFRXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "frOjq3icxVXdkqI4FH6AfYi9Wm_sFhS1266iphJAxZZWmml72huKPwPyE5sgNHO377JPtU-zEcUGR52ardraQ0FyknNOTpLz8f35V-BF_t-__e4myYY8MEyWZS2EMQqcloVDxiB5ZDErHJDYcr-4Ae9EDRTwW9LIU55rWIRnG47Hf3CblUFSTZJHiTdV5ltjClmgNgp3XjcN4qxp9I81YXSGfvw_OJEqLdJyotbAnjuOGc-cAWp12PagNWOMkBqA_1JkAIEHAKKPXKinIgCkXg-BAJB2X6G0E45hpIpZVmgQ0uliIeFiPFQ0ngRowDmMei4BYLQftK4lMqmrw52LrMJdRrKwT_RUzm0Nlq1a1c7KmUl4iFtuvXt1rZ3Icj0OXVfSiyG1vopcDaLuht-K7kwFjpgBN0OPV3IVMBBHSFPRuVuuyga483IdE7D0ohgb0TpkGTOmTZvxLNcqOjHZlafwdcBiyeKUUJ1Mw0XSI5pqiGN_qEGJXXpuxlgmtQuwYTu27ursl0Jvd9o9dsDd3d8UuLDIERikBoyXIDBn46mi4ta0BdsVVKDjqVSEDsLns8esHjZVcZhkOwdYHjGSik5eTuOyA_HO-dNxKMqQupbQ7O5qTUQ_VjRN5gwqCjlCQwEFKorkhH17CFStCoSODpU6Gp-sV80AluEFmWKvHBvVrGsZC_TY_CNIlHoo1ZX25Qe1g8kMdmv4BmpFE_ZbVBGE9a3I-x10K3Z0iBblG1CXVJ8gdPwZFU7yIaHjup9J1dFHrwAJL9JVvF6Sa7g5CAJl-Z9UcxUFI5UE2vduKi_tRCXL-euTpwHNj600QuerHofmL_CB9T_j4sAWuGSLM7hwf4KLgi3QZbY4FFFW4qKwe4TCRVz4RVtni_EJW5zDxaSOi8ts8YmLXSrXcQGv4QJewgX94f-AC_UCLkq2qODCP2GLfdCSLT5x8etsYfw7tihg4uybOnVs1-gihQyBNha0xHha-fNQ4tzJ4j3rOLfPCylHP6WQVZg8hIYd3Oie_QA7kyS3b3Q6gB8cu_HOC_HW8oygOY9xk-uMYFMUn7tNTXwGSlNxQhznTQXb28BphnvNMogeGIkTWXkzLGZ0C2-jpJniIDGQ0wiDGPOscRe_OZHtC5qpmG9jEk0_5Fz_-rpGIVCSb9yy4_WF4dA3J94w12zYa_dvuy_5Pc4mw_fpI_durW-JO8Od3iKdRX4sL1iTvdvm37YoT8e-JCjhYtWbmOkyv8X9nEvx0-YVamqq9LbWRuSm5mC0NjzwHfW5hdybq7hIjPDDtaf0Pqbik3nfCGOLp4XXReBJBa8IWkCgVSUg-mL6ZvT6GsQydIekfMcerAa9O9Yw73vGfZ_uEyX5hu-2GySK-fY_IpYxSQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=frOjq3icxVXdkqI4FH6AfYi9Wm_sFhS1266iphJAxZZWmml72huKPwPyE5sgNHO377JPtU-zEcUGR52ardraQ0FyknNOTpLz8f35V-BF_t-__e4myYY8MEyWZS2EMQqcloVDxiB5ZDErHJDYcr-4Ae9EDRTwW9LIU55rWIRnG47Hf3CblUFSTZJHiTdV5ltjClmgNgp3XjcN4qxp9I81YXSGfvw_OJEqLdJyotbAnjuOGc-cAWp12PagNWOMkBqA_1JkAIEHAKKPXKinIgCkXg-BAJB2X6G0E45hpIpZVmgQ0uliIeFiPFQ0ngRowDmMei4BYLQftK4lMqmrw52LrMJdRrKwT_RUzm0Nlq1a1c7KmUl4iFtuvXt1rZ3Icj0OXVfSiyG1vopcDaLuht-K7kwFjpgBN0OPV3IVMBBHSFPRuVuuyga483IdE7D0ohgb0TpkGTOmTZvxLNcqOjHZlafwdcBiyeKUUJ1Mw0XSI5pqiGN_qEGJXXpuxlgmtQuwYTu27ursl0Jvd9o9dsDd3d8UuLDIERikBoyXIDBn46mi4ta0BdsVVKDjqVSEDsLns8esHjZVcZhkOwdYHjGSik5eTuOyA_HO-dNxKMqQupbQ7O5qTUQ_VjRN5gwqCjlCQwEFKorkhH17CFStCoSODpU6Gp-sV80AluEFmWKvHBvVrGsZC_TY_CNIlHoo1ZX25Qe1g8kMdmv4BmpFE_ZbVBGE9a3I-x10K3Z0iBblG1CXVJ8gdPwZFU7yIaHjup9J1dFHrwAJL9JVvF6Sa7g5CAJl-Z9UcxUFI5UE2vduKi_tRCXL-euTpwHNj600QuerHofmL_CB9T_j4sAWuGSLM7hwf4KLgi3QZbY4FFFW4qKwe4TCRVz4RVtni_EJW5zDxaSOi8ts8YmLXSrXcQGv4QJewgX94f-AC_UCLkq2qODCP2GLfdCSLT5x8etsYfw7tihg4uybOnVs1-gihQyBNha0xHha-fNQ4tzJ4j3rOLfPCylHP6WQVZg8hIYd3Oie_QA7kyS3b3Q6gB8cu_HOC_HW8oygOY9xk-uMYFMUn7tNTXwGSlNxQhznTQXb28BphnvNMogeGIkTWXkzLGZ0C2-jpJniIDGQ0wiDGPOscRe_OZHtC5qpmG9jEk0_5Fz_-rpGIVCSb9yy4_WF4dA3J94w12zYa_dvuy_5Pc4mw_fpI_durW-JO8Od3iKdRX4sL1iTvdvm37YoT8e-JCjhYtWbmOkyv8X9nEvx0-YVamqq9LbWRuSm5mC0NjzwHfW5hdybq7hIjPDDtaf0Pqbik3nfCGOLp4XXReBJBa8IWkCgVSUg-mL6ZvT6GsQydIekfMcerAa9O9Yw73vGfZ_uEyX5hu-2GySK-fY_IpYxSQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Crucial Pro CP32G4DFRA32A memory module 32 GB 1 x ...",
+      "link": "https://leverify.com/products/55121954",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fleverify.com%2Fproducts%2F55121954&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECBkQAQ",
+      "displayed_link": "https://leverify.com › products",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAPCAMAAACyXj0lAAAAdVBMVEX____t8Pq7xO5vhN3f4_f6-_7x8_sAHcyxu-tpf9w0WNQAQNAAIczV2vTj5_gAEMpac9qjr-ios-kAJ83K0fHZ3vUAL84SRdFEYtYAPM8AKc3n6vkAN88AMc6LmuNke9skTtKDlOHQ1vOUouV7juBLZ9cYSNEpncFNAAAAz0lEQVR4AXXNA5YFMRRF0VNIUrbt-c-w8c29-Hi50HR4pGu8MEwAhATANHilKQFYShmAUBpvbAdQruv54Ni8C0LjumCEAR9EXkyilE3sRR_uwU-9DKGReWl-ajyOi7SUVHXTQtvUFbJMi8eVqHP7gaypXXDrJmPo3e4xZzwtMPUhhP3EaWHkru28SYA2L7DMGojJ61oeSYDvDZHr6zg5l6Z0JnvVTcFJFm97H6q06Oom5iRu6q5IVdjvW5wh2jzTk3Ub9-P-4djHbU30LG_FL5WyDdEMjyIWAAAAAElFTkSuQmCC.png",
+      "snippet": "Specifications ; CAS latency, 22 ; Memory voltage, 1.2 V ; Memory clock speed, 3200 MHz ; Internal memory type, DDR4.",
+      "snippet_highlighted_words": [
+        "Memory voltage, 1.2 V"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Specifications ; CAS latency, 22 ; Memory voltage, 1.2 V ; Memory clock speed, 3200 MHz ; Internal memory type, DDR4.",
+          "source_info_link": "https://leverify.com/products/55121954",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAPCAMAAACyXj0lAAAAdVBMVEX____t8Pq7xO5vhN3f4_f6-_7x8_sAHcyxu-tpf9w0WNQAQNAAIczV2vTj5_gAEMpac9qjr-ios-kAJ83K0fHZ3vUAL84SRdFEYtYAPM8AKc3n6vkAN88AMc6LmuNke9skTtKDlOHQ1vOUouV7juBLZ9cYSNEpncFNAAAAz0lEQVR4AXXNA5YFMRRF0VNIUrbt-c-w8c29-Hi50HR4pGu8MEwAhATANHilKQFYShmAUBpvbAdQruv54Ni8C0LjumCEAR9EXkyilE3sRR_uwU-9DKGReWl-ajyOi7SUVHXTQtvUFbJMi8eVqHP7gaypXXDrJmPo3e4xZzwtMPUhhP3EaWHkru28SYA2L7DMGojJ61oeSYDvDZHr6zg5l6Z0JnvVTcFJFm97H6q06Oom5iRu6q5IVdjvW5wh2jzTk3Ub9-P-4djHbU30LG_FL5WyDdEMjyIWAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fleverify.com%2Fproducts%2F55121954&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fleverify.com%2Fproducts%2F55121954",
+      "source": "Leverify",
+      "read_more_link": "https://leverify.com/products/55121954"
+    },
+    {
+      "position": 2,
+      "title": "Crucial Pro 32GB Kit (16GBx2) DDR4-3200 UDIMM",
+      "link": "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a?srsltid=AfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.crucial.com%2Fmemory%2Fddr4%2Fcp2k16g4dfra32a%3Fsrsltid%3DAfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECB4QAQ",
+      "displayed_link": "https://www.crucial.com › memory › ddr4",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png",
+      "snippet": "Crucial DDR4 Pro Memory modules can reach rated JEDEC speeds with Intel XMP 2.0 turned on in the UEFI/BIOS settings. Altering clock frequency or voltage may ...",
+      "snippet_highlighted_words": [
+        "Crucial DDR4 Pro Memory modules",
+        "voltage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Crucial DDR4 Pro Memory modules can reach rated JEDEC speeds with Intel XMP 2.0 turned on in the UEFI/BIOS settings. Altering clock frequency or voltage may ...",
+          "source_info_link": "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a?srsltid=AfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.crucial.com%2Fmemory%2Fddr4%2Fcp2k16g4dfra32a%3Fsrsltid%3DAfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.crucial.com%2Fmemory%2Fddr4%2Fcp2k16g4dfra32a%3Fsrsltid%3DAfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T",
+      "source": "Crucial",
+      "read_more_link": "https://www.crucial.com/memory/ddr4/cp2k16g4dfra32a?srsltid=AfmBOorkjedZADEUI7X5XpblmyWR8GwJrcbqfKi3WrJAv2jauXrMKG8T"
+    },
+    {
+      "position": 3,
+      "title": "Crucial DDR4 Pro Memory: No fuss. Just fast.",
+      "link": "https://www.youtube.com/watch?v=Wb8WhYBEQ2U",
+      "displayed_link": "1.4K+ views · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ac755cfe18a4e05d7b3/images/9f30kNcDeU8MwRVd-CpfiNlI9FVWwz5jDZJiCd7r1E4.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "The plug-and-play memory solution for easily improving system performance without the fuss of overclocking speeds, tuning latency, die chasing ...",
+      "duration": "0:31",
+      "about_this_result": {
+        "source": {
+          "description": "The plug-and-play memory solution for easily improving system performance without the fuss of overclocking speeds, tuning latency, die chasing ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWb8WhYBEQ2U&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWb8WhYBEQ2U",
+      "source": "YouTube · Crucial Memory & Storage"
+    },
+    {
+      "position": 4,
+      "title": "[RAM] Crucial Pro RAM 32GB Kit (2x16GB) DDR4 3200MT/s",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1d6cjp1/ram_crucial_pro_ram_32gb_kit_2x16gb_ddr4_3200mts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1d6cjp1%2Fram_crucial_pro_ram_32gb_kit_2x16gb_ddr4_3200mts%2F&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECCIQAQ",
+      "displayed_link": "20+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "1.35v ram. These are 1.2v, which can make a nice upgrade for those systems. The PC could not supply the needed voltage. modules exposed.",
+      "snippet_highlighted_words": [
+        "1.35v ram"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1.35v ram. These are 1.2v, which can make a nice upgrade for those systems. The PC could not supply the needed voltage. modules exposed.",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/1d6cjp1/ram_crucial_pro_ram_32gb_kit_2x16gb_ddr4_3200mts/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1d6cjp1%2Fram_crucial_pro_ram_32gb_kit_2x16gb_ddr4_3200mts%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1d6cjp1%2Fram_crucial_pro_ram_32gb_kit_2x16gb_ddr4_3200mts%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 5,
+      "title": "Crucial PRO 32GB DDR4 SDRAM Memory Module",
+      "link": "https://www.amazon.com/Micron-32GB-SDRAM-Memory-Module/dp/B0CGQ3HDTX",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FMicron-32GB-SDRAM-Memory-Module%2Fdp%2FB0CGQ3HDTX&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECCEQAQ",
+      "displayed_link": "https://www.amazon.com › Micron-32GB-SDRAM-Mem...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Voltage: 1.1 volts Column address strobe latency: 22 Computer memory size: 32.0 GB Memory speed: 3200.0 MHz Special feature: Lightweight",
+      "snippet_highlighted_words": [
+        "Voltage: 1.1 volts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Voltage: 1.1 volts Column address strobe latency: 22 Computer memory size: 32.0 GB Memory speed: 3200.0 MHz Special feature: Lightweight",
+          "source_info_link": "https://www.amazon.com/Micron-32GB-SDRAM-Memory-Module/dp/B0CGQ3HDTX",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FMicron-32GB-SDRAM-Memory-Module%2Fdp%2FB0CGQ3HDTX&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FMicron-32GB-SDRAM-Memory-Module%2Fdp%2FB0CGQ3HDTX",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 6,
+      "title": "Crucial Pro RAM 32GB Kit (2x16GB) DDR4 3200MHz ...",
+      "link": "https://www.newegg.com/p/3C6-00T1-001K7?srsltid=AfmBOorwA5Mg5k2kLjy6DLxYWqmX3mA4CJprbQz-yd7_5f6x8k_jc7Mc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fp%2F3C6-00T1-001K7%3Fsrsltid%3DAfmBOorwA5Mg5k2kLjy6DLxYWqmX3mA4CJprbQz-yd7_5f6x8k_jc7Mc&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECCAQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Crucial",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Crucial DDR4 Pro 32GB kit consisting of two 16GB desktop modules that operate at the speed of 3200MMHz and has a CAS Latency of 22.",
+      "snippet_highlighted_words": [
+        "Crucial DDR4 Pro 32GB kit"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Crucial DDR4 Pro 32GB kit consisting of two 16GB desktop modules that operate at the speed of 3200MMHz and has a CAS Latency of 22.",
+          "source_info_link": "https://www.newegg.com/p/3C6-00T1-001K7?srsltid=AfmBOorwA5Mg5k2kLjy6DLxYWqmX3mA4CJprbQz-yd7_5f6x8k_jc7Mc",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2F3C6-00T1-001K7%3Fsrsltid%3DAfmBOorwA5Mg5k2kLjy6DLxYWqmX3mA4CJprbQz-yd7_5f6x8k_jc7Mc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fp%2F3C6-00T1-001K7%3Fsrsltid%3DAfmBOorwA5Mg5k2kLjy6DLxYWqmX3mA4CJprbQz-yd7_5f6x8k_jc7Mc",
+      "source": "Newegg"
+    },
+    {
+      "position": 7,
+      "title": "Crucial Pro RAM 32GB Kit (2x16GB) DDR4 3200MHz Desktop ...",
+      "link": "https://www.crucial.in/memory/ddr4/cp2k16g4dfra32a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.crucial.in%2Fmemory%2Fddr4%2Fcp2k16g4dfra32a&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECB8QAQ",
+      "displayed_link": "https://www.crucial.in › memory › ddr4",
+      "snippet": "No information is available for this page.",
+      "about_this_result": {
+        "source": {
+          "source_info_link": "https://www.crucial.in/memory/ddr4/cp2k16g4dfra32a"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.crucial.in%2Fmemory%2Fddr4%2Fcp2k16g4dfra32a&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.crucial.in%2Fmemory%2Fddr4%2Fcp2k16g4dfra32a",
+      "source": "crucial.in"
+    },
+    {
+      "position": 8,
+      "title": "Crucial Pro DDR4-3200 32GB (2x16GB) vs Silicon Power ...",
+      "link": "https://versus.com/en/crucial-pro-ddr4-3200-32gb-2x16gb-vs-silicon-power-ddr4-3200-32gb-2x16gb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fversus.com%2Fen%2Fcrucial-pro-ddr4-3200-32gb-2x16gb-vs-silicon-power-ddr4-3200-32gb-2x16gb&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECBwQAQ",
+      "displayed_link": "https://versus.com › Home › memory comparison",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAyklEQVR4AdXRERACQRTG8b8erDxYl3NKsiw6DaMkD89pLZ8sOgyzw-QkXQpzuZmveTM1t8n5fbBv9v1mPnnEmSwRzew7Y4DKSjTf-AdYHU87KJAsbUPkJWV5zhSYpAtWy3Pv3lLLVBulFyS3Hhg1TBgZpJpBo6RuDxALbKWEdLvKk1OJhjQcpQNNl53vTBh5aOw1sl6B16hEfKHbydsh_6PhuPe3S730KNF7Jdi-5XkGK9HqplmHWLFL53aDm-NPQwg-KyDMnmyR-AEJwKhtZBvciwAAAABJRU5ErkJggg.png",
+      "snippet": "CAS Latency (CL) ? CAS latency low (CL 14). voltage 1.2V 1.2V The voltage of the memory. The size of a single memory module.",
+      "snippet_highlighted_words": [
+        "CAS Latency",
+        "CAS latency",
+        "voltage",
+        "voltage",
+        "memory",
+        "memory module"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CAS Latency (CL) ? CAS latency low (CL 14). voltage 1.2V 1.2V The voltage of the memory. The size of a single memory module.",
+          "source_info_link": "https://versus.com/en/crucial-pro-ddr4-3200-32gb-2x16gb-vs-silicon-power-ddr4-3200-32gb-2x16gb",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAyklEQVR4AdXRERACQRTG8b8erDxYl3NKsiw6DaMkD89pLZ8sOgyzw-QkXQpzuZmveTM1t8n5fbBv9v1mPnnEmSwRzew7Y4DKSjTf-AdYHU87KJAsbUPkJWV5zhSYpAtWy3Pv3lLLVBulFyS3Hhg1TBgZpJpBo6RuDxALbKWEdLvKk1OJhjQcpQNNl53vTBh5aOw1sl6B16hEfKHbydsh_6PhuPe3S730KNF7Jdi-5XkGK9HqplmHWLFL53aDm-NPQwg-KyDMnmyR-AEJwKhtZBvciwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fversus.com%2Fen%2Fcrucial-pro-ddr4-3200-32gb-2x16gb-vs-silicon-power-ddr4-3200-32gb-2x16gb&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fversus.com%2Fen%2Fcrucial-pro-ddr4-3200-32gb-2x16gb-vs-silicon-power-ddr4-3200-32gb-2x16gb",
+      "source": "Versus"
+    },
+    {
+      "position": 9,
+      "title": "Crucial CP2K16G4DFRA32A Pro 32GB Kit (2x16GB) ...",
+      "link": "https://www.centralcomputer.com/crucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html?srsltid=AfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.centralcomputer.com%2Fcrucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html%3Fsrsltid%3DAfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQFnoECB0QAQ",
+      "displayed_link": "https://www.centralcomputer.com › ... › Desktop › DDR4",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEWMxj8AAAACCJjgAAAAAnRSTlP_AOW3MEoAAAAaSURBVHgBY4AA-z8gZMAAQsb_4QgsApMFAwD4Xgp1RBn48wAAAABJRU5ErkJggg.png",
+      "snippet": "Memory Voltage, 1.20 V. Memory Standard, DDR4-3200/PC4-25600. Memory Technology, DDR4 SDRAM. CAS Latency, CL22. Memory Size, 32 GB. Memory Speed, 3200 MHz.",
+      "snippet_highlighted_words": [
+        "Memory Voltage, 1.20 V"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Memory Voltage, 1.20 V. Memory Standard, DDR4-3200/PC4-25600. Memory Technology, DDR4 SDRAM. CAS Latency, CL22. Memory Size, 32 GB. Memory Speed, 3200 MHz.",
+          "source_info_link": "https://www.centralcomputer.com/crucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html?srsltid=AfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEWMxj8AAAACCJjgAAAAAnRSTlP_AOW3MEoAAAAaSURBVHgBY4AA-z8gZMAAQsb_4QgsApMFAwD4Xgp1RBn48wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.centralcomputer.com%2Fcrucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html%3Fsrsltid%3DAfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.centralcomputer.com%2Fcrucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html%3Fsrsltid%3DAfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb",
+      "source": "Central Computers",
+      "read_more_link": "https://www.centralcomputer.com/crucial-cp2k16g4dfra32a-pro-32gb-kit-2x16gb-ddr4-3200-1-2v-22-22-22-udimm-low-profile-aluminum-heat-spreader-black.html?srsltid=AfmBOooeNr5_cLAFl73Kp9RnwNYmi42r31pI8KoTtXo-mPYclLu25cyb"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Crucial DDR4 Pro 64GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+DDR4+Pro+64GB&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+DDR4+Pro+64GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial DDR4 Pro 16GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+DDR4+Pro+16GB&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+DDR4+Pro+16GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial Pro 32GB kit (2x16GB) DDR4 3200MHz C22 UDIMM desktop memory kit Black",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+Pro+32GB+kit+%282x16GB%29+DDR4+3200MHz+C22+UDIMM+desktop+memory+kit+Black&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+kit+%282x16GB%29+DDR4+3200MHz+C22+UDIMM+desktop+memory+kit+Black"
+    },
+    {
+      "block_position": 1,
+      "query": "32GB Kit (16GBx2) DDR4 3200 UDIMM",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=32GB+Kit+%2816GBx2%29+DDR4+3200+UDIMM&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=32GB+Kit+%2816GBx2%29+DDR4+3200+UDIMM"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial Pro 32 GB DDR5",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+Pro+32+GB+DDR5&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32+GB+DDR5"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial Pro 64GB Kit (32gbx2) DDR4-3200 udimm",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+Pro+64GB+Kit+%2832gbx2%29+DDR4-3200+udimm&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+64GB+Kit+%2832gbx2%29+DDR4-3200+udimm"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial 32GB DDR4-3200 udimm",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+32GB+DDR4-3200+udimm&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+32GB+DDR4-3200+udimm"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial pro 64gb number of modules 2 x 32gb ddr4 dimm sdram memory kit cp2k32g4dfra32a",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+pro+64gb+number+of+modules+2+x+32gb+ddr4+dimm+sdram+memory+kit+cp2k32g4dfra32a&sa=X&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+pro+64gb+number+of+modules+2+x+32gb+ddr4+dimm+sdram+memory+kit+cp2k32g4dfra32a"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=10&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=10&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=20&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=30&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=40&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=50&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=60&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=70&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=80&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=x3pfasvSEIGtiLMPuaLB0AQ&start=90&sa=N&sstk=AU9db-A1mm04yZDtvmFXsBVtPljqoUTF1rcQr4nsty24H2qf-0fhrjyOHhE9ilYe0iTXDjdcBz6ydrtVExvBlQfGYHfGPy5y7IL8nQ&ved=2ahUKEwiL0sy59uOVAxWBFmIAHTlREEoQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+Pro+32GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=90"
+    }
+  }
+}

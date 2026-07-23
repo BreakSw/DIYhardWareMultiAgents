@@ -1,0 +1,1092 @@
+{
+  "batch_id": "20260720T160236Z",
+  "status": "completed",
+  "market": "US",
+  "categories": [
+    "psu",
+    "cooler",
+    "case"
+  ],
+  "discovered_count": 28,
+  "accepted_count": 15,
+  "rejected_count": 13,
+  "provider_calls": [
+    {
+      "provider": "ecb",
+      "status": "completed",
+      "published_at": "2026-07-20"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "psu",
+      "result_count": 15
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "Corsair HX1500i Modular Power Supply",
+      "latency_ms": 586,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "psu",
+      "title": "Corsair HX1500i Modular Power Supply",
+      "latency_ms": 946,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "psu",
+      "title": "Corsair HX1500i Modular Power Supply",
+      "latency_ms": 942,
+      "error": "HTTPStatusError",
+      "status_code": 400
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "psu",
+      "title": "Corsair HX1500i Modular Power Supply",
+      "latency_ms": 905,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "psu",
+      "title": "Corsair HX1500i Modular Power Supply",
+      "latency_ms": 1459,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "MSI MAG A850GL 850W Modular Power Supply",
+      "latency_ms": 582,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "psu",
+      "title": "MSI MAG A850GL 850W Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "psu",
+      "title": "MSI MAG A850GL 850W Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "psu",
+      "title": "MSI MAG A850GL 850W Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "psu",
+      "title": "MSI MAG A850GL 850W Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "Seasonic PRIME PX-1600W Modular 80 Plus Platinum ATX 3.0 Power Supply",
+      "latency_ms": 2908,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Seasonic PRIME PX-1600W Modular 80 Plus Platinum ATX 3.0 Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Seasonic PRIME PX-1600W Modular 80 Plus Platinum ATX 3.0 Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Seasonic PRIME PX-1600W Modular 80 Plus Platinum ATX 3.0 Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Seasonic PRIME PX-1600W Modular 80 Plus Platinum ATX 3.0 Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "ASUS Pro WS 3000W 80 Plus Platinum Modular Power Supply",
+      "latency_ms": 3768,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "psu",
+      "title": "ASUS Pro WS 3000W 80 Plus Platinum Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "psu",
+      "title": "ASUS Pro WS 3000W 80 Plus Platinum Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "psu",
+      "title": "ASUS Pro WS 3000W 80 Plus Platinum Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "psu",
+      "title": "ASUS Pro WS 3000W 80 Plus Platinum Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "Corsair RMx Series RM850x Fully Modular Power Supply",
+      "latency_ms": 2249,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Corsair RMx Series RM850x Fully Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Corsair RMx Series RM850x Fully Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Corsair RMx Series RM850x Fully Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Corsair RMx Series RM850x Fully Modular Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "Thermaltake Smart BM3 Bronze",
+      "latency_ms": 6126,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Thermaltake Smart BM3 Bronze",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Thermaltake Smart BM3 Bronze",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Thermaltake Smart BM3 Bronze",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Thermaltake Smart BM3 Bronze",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "psu",
+      "title": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+      "latency_ms": 1623,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "psu",
+      "title": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "cooler",
+      "result_count": 15
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+      "latency_ms": 932,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Be Quiet Dark Rock Pro 5 Air Cooler",
+      "latency_ms": 504,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Be Quiet Dark Rock Pro 5 Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Be Quiet Dark Rock Pro 5 Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Be Quiet Dark Rock Pro 5 Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Be Quiet Dark Rock Pro 5 Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Noctua NH-D15 chromax.black 140mm Dual Fan CPU Air Cooler",
+      "latency_ms": 4457,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 chromax.black 140mm Dual Fan CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 chromax.black 140mm Dual Fan CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 chromax.black 140mm Dual Fan CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 chromax.black 140mm Dual Fan CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Cooler Master Hyper 212 3DHP CPU Air Cooler",
+      "latency_ms": 3542,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Cooler Master Hyper 212 3DHP CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Cooler Master Hyper 212 3DHP CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Cooler Master Hyper 212 3DHP CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Cooler Master Hyper 212 3DHP CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Arctic Freezer 36 A-RGB CPU Cooler",
+      "latency_ms": 3362,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Arctic Freezer 36 A-RGB CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Arctic Freezer 36 A-RGB CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Arctic Freezer 36 A-RGB CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Arctic Freezer 36 A-RGB CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+      "latency_ms": 2336,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Thermaltake Floe RC Ultra 240 CPU & Memory AIO Liquid Cooler",
+      "latency_ms": 1443,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Thermaltake Floe RC Ultra 240 CPU & Memory AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Thermaltake Floe RC Ultra 240 CPU & Memory AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Thermaltake Floe RC Ultra 240 CPU & Memory AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Thermaltake Floe RC Ultra 240 CPU & Memory AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Lukyamzn Vetroo V5 CPU Air Cooler",
+      "latency_ms": 4416,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Lukyamzn Vetroo V5 CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Lukyamzn Vetroo V5 CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Lukyamzn Vetroo V5 CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Lukyamzn Vetroo V5 CPU Air Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Bykski AIO Integrated Liquid CPU Cooler",
+      "latency_ms": 2527,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Bykski AIO Integrated Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Bykski AIO Integrated Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Bykski AIO Integrated Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Bykski AIO Integrated Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Noctua NH-D15 Premium CPU Cooler",
+      "latency_ms": 2813,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 Premium CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 Premium CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 Premium CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Noctua NH-D15 Premium CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+      "latency_ms": 1322,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cooler",
+      "title": "NZXT Kraken Plus AIO Liquid Cooler",
+      "latency_ms": 2045,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Plus AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Plus AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Plus AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cooler",
+      "title": "NZXT Kraken Plus AIO Liquid Cooler",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "case",
+      "result_count": 15
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "Lian Li O11 Vision ATX Mid Tower Case o11v",
+      "latency_ms": 349,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "Lian Li O11 Vision ATX Mid Tower Case o11v",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "Lian Li O11 Vision ATX Mid Tower Case o11v",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "Lian Li O11 Vision ATX Mid Tower Case o11v",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "Lian Li O11 Vision ATX Mid Tower Case o11v",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "Phanteks NV7 Case",
+      "latency_ms": 368,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "Phanteks NV7 Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "Phanteks NV7 Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "Phanteks NV7 Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "Phanteks NV7 Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "ARCTIC Xtender Premium E-ATX PC Case",
+      "latency_ms": 11589,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "ARCTIC Xtender Premium E-ATX PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "ARCTIC Xtender Premium E-ATX PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "ARCTIC Xtender Premium E-ATX PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "ARCTIC Xtender Premium E-ATX PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "HYTE Y70 ATX Mid-Tower Case",
+      "latency_ms": 3201,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "HYTE Y70 ATX Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "HYTE Y70 ATX Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "HYTE Y70 ATX Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "HYTE Y70 ATX Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "Thermaltake The Tower 300 Micro Tower Chassis",
+      "latency_ms": 6587,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "Thermaltake The Tower 300 Micro Tower Chassis",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "Thermaltake The Tower 300 Micro Tower Chassis",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "Thermaltake The Tower 300 Micro Tower Chassis",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "Thermaltake The Tower 300 Micro Tower Chassis",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "NZXT H9 Flow Mid-Tower Case",
+      "latency_ms": 7231,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "NZXT H9 Flow Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "NZXT H9 Flow Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "NZXT H9 Flow Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "NZXT H9 Flow Mid-Tower Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "CORSAIR 9000D RGB AIRFLOW Super Full-Tower PC Case",
+      "latency_ms": 4272,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "CORSAIR 9000D RGB AIRFLOW Super Full-Tower PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "CORSAIR 9000D RGB AIRFLOW Super Full-Tower PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "CORSAIR 9000D RGB AIRFLOW Super Full-Tower PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "CORSAIR 9000D RGB AIRFLOW Super Full-Tower PC Case",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "Fractal Design Torrent",
+      "latency_ms": 1631,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "Fractal Design Torrent",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "Fractal Design Torrent",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "Fractal Design Torrent",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "Fractal Design Torrent",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "case",
+      "title": "Cooler Master MasterBox Q300L",
+      "latency_ms": 1954,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "case",
+      "title": "Cooler Master MasterBox Q300L",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "case",
+      "title": "Cooler Master MasterBox Q300L",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "case",
+      "title": "Cooler Master MasterBox Q300L",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "case",
+      "title": "Cooler Master MasterBox Q300L",
+      "error": "disabled_after_nonretryable_http_error"
+    }
+  ],
+  "provider_status": {
+    "ecb": "completed",
+    "serpapi": "completed",
+    "serpapi-details": "completed",
+    "firecrawl": "failed",
+    "zyte": "failed",
+    "brightdata": "failed",
+    "apify": "failed"
+  },
+  "created_at": "2026-07-20T16:02:36.425188+00:00"
+}

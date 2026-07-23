@@ -1,0 +1,483 @@
+{
+  "search_metadata": {
+    "id": "6a5e46edbf04d5db610a3e83",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RAx9fGHXmysZVHPvk_GL_A/6a5e46edbf04d5db610a3e83.json",
+    "created_at": "2026-07-20 16:03:57 UTC",
+    "processed_at": "2026-07-20 16:03:57 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=NEZeat-TDt6hwPAPxNmc6QM&q=latest+current+generation+desktop+PC+case+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A17337777006176281656%2Ccatalogid%3A13454147965975018099%2Cgpcid%3A15820743597872634217%2CheadlineOfferDocid%3A9056505051601837216%2Crds%3APC_1245578668236180794%7CPROD_PC_1245578668236180794%2CimageDocid%3A8758136153307632998%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+case+component+released+2025+2026+new%2Cmid%3A576462834378442107%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0S0JCLWZxVXc3RXM1SlljcTJ5N0FId0JzeHdDM19GSXJRdV9jLXRWVWRLSEV0M0xGX0hQU202bThXaWlmRHlRelBhb2ZQbGFTa1ZPSFQxVnEtWm5WZG5SaFM4SVdQblVpdDY5V2Q1SEZNWmFlVS0xMmFzOUM3b3M3OU9PdHE1V1BwMTdqbmxyWWJtWEd0bTJXRmY5SnV0TTR1c21ISjBYX2ZxR1N3WG11Y3pxYm1JT3ptR2ZWWk15NDNVRWZ4UWFhc3JxZ2VEb01SelR5X3FWSDI4SFMxeUtlOUVlZUo3bk5UNEN1VVpLd1Y1THZiUU4zMVVQX3IzWGdJVEZCb1FBeG5VX0duYzZ0NEpJMjJUekRHNEEtTWpxSExaR2l0bVVKT0NTSlk1RzUydV85ZDNpUjZPNnFyVVdQaG1MXy1RYUwtNVNqQmsSF05FWmVhdC1URHQ2aHdQQVB4Tm1jNlFNGiJBRHNyOWZURS1QVzQ2dXRyTGNEZG84Mnk1UnFYZ194ck9R%2Cxsrf%3AAF5tSO7K8zccACmcmmTtSQa3e_WLJIaHQw%3A1784563359104%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/RAx9fGHXmysZVHPvk_GL_A/6a5e46edbf04d5db610a3e83.html",
+    "prettify_html_file": "https://serpapi.com/searches/RAx9fGHXmysZVHPvk_GL_A/6a5e46edbf04d5db610a3e83.prettify",
+    "total_time_taken": 2.65
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "n2fz8XicbVTLrqNGEI3yBVnkA2Z_daVuoHlkdBfGPGxsMM8Gs7GAbgM2L2Ns8FW-5s4k0mQ5iZRtfmOyyLeEq2xTJfWizpG66uhU_fPdD2-0_NNSY5oMz74y8MVoL-zJqjPeMb90fUtu2VCSP6DAssIcAPBQ4BkR8oj_kiVDUrX5O8xyiIOcIPFIEhCAIpCkrwVNSFU2dHc80l5ps5L8LgHEIzAn5GcSKzCQ_62sk5z-B4sCEiHLQ8SyQOBZRpLETz25fmPs5QEyHEKCyPMiMzNEIEjcz7a7Uw7_j_1yudH-8c2okoFeh6fs1ve0GZ5y2tA-Gcq2eSL0eh7a7slePmXJlT5lbd21zTuppxWdK-SJAQx6f_inho6_5F32PioSGSBw7DyoKDA8yzFQ-FSX5CsSeG5WhuVYQeTmKhA-dffhrcg_324V_estr95u17eieqPNr23S3Y_Z39__qLajsryOSyfoOqy4wAPGchvGE44y1o1M6FXVKfMNZAFtTYDxSldEMaGke5HhEiydtpEb4tDdeioGJpj0CBROMHec-kWUhFXtriqXVnKRMrGT6pqfwNj2NGfCjTqENQpjHXmJZnIeJk5a4Y4oe4QZB3pqbIW1VmEPTGatve4Ck01Zk90Fkk1WKsRQHk2fXNJ6eoShMYQqAalvRG69R16Dge-7MGPg2jvJ-4iJJxdabKhDuGe7aV9Dw2e7wWXiMDxDZCkWdsOYC0KtyFhjihmspgB6tHJRxGqhp6w5TzMnGgzVLsBVHLRsekaBpVoQ425L4B76q7gMAu7VxNiJ2PVrqBMDq_EyhZpMdYQjQG771xhYameYJyOgZ3dlqergh93kqVPiMhVIMd74wPK96gzd1-BBsIhixeqCU2xbjfbAs0aJDs3oAd19MA4Wti5OffU0gLSwxgVZwsBdOUyyIo6DZc6v4cmqNEsvDXn-7bEL48D1oINfHYZE7sPX573TRc5szjBotH0MJS47S-7n6dofv4GFhgZvx3lygXblYzaBrp9ljjnad_QsEumm5D_B2Wlo3hPEAl74NWvbc0n__v67w8Gjs-Hps-e79svCquMxgUmUXxWK7wbLWnwJBD2UNto9Z3hSGnyejrxJOW9nnR7mtp9aehaet4fNfeROuLw-RqJfn9mVfNF7IjNZtm8KZGDvkXBXjumm4uOHhbp8Wbxrntz345EwBxQ56S7LF5J56BpiPCbLKJ9TZV2sXzfmQaUVpF0qV9tsddu1i48fFPzSPjBvPJxyOOd5vmgJkA-rztyeI9lUn-W6zjZdZ1V7-5KLizk-frDWyst8K17cuo352_5ybfNgZCFzzgg2JwukfXFxyz4Rs85SarYbbwXrCFlItwW6rc3zWovi6yE90K4JT5ucMtSfus0N2F6zqxCeqKnvsRsdL4p7zpVMHdtdr7CS4KQG72-QrcP8noHbqbL71gl9vdZw-yBiclyNONp6RxCD3XHq7_2pGj1vEC9ijDI6TeZonm7Es8_pOpEJ4K2K2WhBsZWTRuOf-VXsBTfWGLxVJMiP04bhdRPKEzwqh-aUL3U52VkHG5orAWz70UZM5yfjcq1q_Z24-0H8F1t962U"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTIxGuv_higxsXVwjTctPb_OwFwwSQizVVREHa_O664KwK9nLg5D-IXWAY9H4xrZjbGAs8h8lOuNMUVeKJ-mmZBfUJQt8OB6Qh7MB2CumRBj0OYrrYiunmxDA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTqsGsVrkHkovQFt65dN7sycciD1Yyh1OjuO0-sI33TxOcfr4jBlKpkf71wtUXR_NsGZxrB4WLeK6qj0ViWVn0HBLtFC-YkXV59iWCCUUNppwj5cAQFe8E_j-Pu",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQfVnFPu2nGQVB5NP95WNRnGc6hTuL6LEx5Hew475koXvh7fNaTkEszg8y9Nbo4K7aasruXJAjOcA5th95ZcOX9Nl4wK7iIRBtsEbY3Lw10S1WEW-OQri0XwCo",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR7Qp__qege8qaUb05KLtP85noxNBdnufZmq5_yC84hogqktiUAyh-Q4xXpBLqfBTFoAiqb5BXhRrjGlLjsWa0TO4VOV_YagUKQCSOGw-BJR0sb5QHP_vt1e_Y",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSq0qHvkloc9ush4dNbnfIBHMP9wWvNnSpXnDYJ2TpQ2opuITgCbWMSbypZT9VUbvR_WPInmW1OjWkWRz1uSHfbgOiubt6x2gQBXVzkYEv0uGIAdMZFdvLYp10",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSysu-ep5hZS66YAiTmdBS6jEMPnGsIwVAJNl2wxn9jotwkXPTesQ7ODuHhWNvAWVDxmEq-XKD5xZSUF9mjtTgpNQNXQ-KX",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRvtnDrhjtXunfUDmtQXPvoUH1ji5iyUxydSRCykt6GHszqbSit8Ny7v8tmjJapRkhvkKm237NbEHFlmgCwyFuEPiulknNutjg4ed9P_UXV6NxUfmrGEdAP-g",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQRXsXhZEjmFryJGW20EX0XN3C-MtTr8b-epTK-jWVe41gnsKM1FGEpMs6mSfyBdQlKU5Aqz3gTlZMFSMM0Nqj2ZNkfrJuMTg"
+    ],
+    "title": "HYTE Y70 ATX Mid-Tower Case",
+    "brand": "HYTE",
+    "reviews": 179,
+    "rating": 4.9,
+    "price_range": "$197-$220",
+    "stores": [
+      {
+        "name": "Walmart",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.walmart.com/ip/HYTE-Y70-CS-HYTE-Y70-BW-Dual-Chamber-Mid-Tower-ATX-Case-with-PCIe-4-0-Express-Riser-Cable-Included-White-Black/5333230720?wmlspartner=wlpa&selectedSellerId=0",
+        "title": "Hyte Dual Chamber ATX Mid-Tower Computer Case with Usb-a 3.2, Panda",
+        "rating": 4.3,
+        "reviews": 3711,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Free 90-day returns"
+        ],
+        "discount": "8% off",
+        "price": "$200.99",
+        "extracted_price": 200.99,
+        "original_price": "$219.99",
+        "extracted_original_price": 219.99,
+        "shipping": "Free",
+        "total": "$200.99",
+        "extracted_total": 200.99
+      },
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/atx-mid-tower-abs-steel-tempered-glass-computer-case-white-black-cs-hyte-y70-bw/p/N82E16811737015?item=N82E16811737015&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cases+%28computer+cases+-+atx+form%29-_-hyte-_-11737015&source=region&negg_topt=0",
+        "title": "HYTE ATX Mid Tower Y70 White/Black CS-HYTE-Y70-BW ABS/Steel/Tempered Glass Computer Case",
+        "rating": 4.4,
+        "reviews": 2240,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "discount": "8% off",
+        "price": "$200.99",
+        "extracted_price": 200.99,
+        "original_price": "$219.99",
+        "extracted_original_price": 219.99,
+        "shipping": "Free",
+        "total": "$200.99",
+        "extracted_total": 200.99
+      },
+      {
+        "name": "HYTE",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhyte.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://hyte.com/store/y70/CS-HYTE-Y70-BW?srsltid=AfmBOopjZMor4a4masWh-zWgjDz6vdv8qaSkXHVaRKckpjUgcTRNNhPWw2g",
+        "title": "Y70 - Panda",
+        "rating": 4.7,
+        "reviews": 33,
+        "payment_methods": "PayPal accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Jul 22 – 29",
+          "30-day returns"
+        ],
+        "price": "$219.99",
+        "extracted_price": 219.99,
+        "shipping": "Free",
+        "total": "$219.99",
+        "extracted_total": 219.99
+      }
+    ],
+    "stores_next_page_token": "-8uzmXica15aklmSk7rbIzLEVSHS3EDBMSRCwTczRTckvzy1SME5sTh1SXF-USbz4ty8fC4AjRsQnA",
+    "about_the_product": {
+      "description": "It features a robust steel frame paired with a panoramic tempered glass side panel, offering both durability and style. Storage options include four 2.5\" and two 3.5\" drive bays, while four vertical expansion slots accommodate advanced configurations. Connectivity is enhanced with USB-C 3.2 Gen 2 and USB-A 3.2 Gen 1 ports. The case supports liquid cooling and GPUs up to 16.6\" x 4.1\", with a PCIe 4.0 riser cable included for vertical GPU mounting. Thoughtful design elements like tool-less panels, floating storage sleds, molded rubber grommets, cable routing channels, and reusable Velcro straps simplify assembly and cable management.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "HYTE"
+        },
+        {
+          "title": "For Gaming",
+          "value": "Yes"
+        },
+        {
+          "title": "Color",
+          "value": "Snow White"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Cooling (Fans, Radiator, CPU)",
+        "items": [
+          {
+            "key_point": "Easy to install",
+            "snippet": "built her a comp in it. Was very easy to build in and had lots of space. It's overall very clean and spacious. Highly recommend it if you can afford this case.",
+            "user": "Darren",
+            "date": "1y",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Large capacity",
+            "snippet": "Can fit a 3 fan radiator and 6 fans! also the omly thing but its practically user error small detail is screwing in fans if you get (white color) the screws for",
+            "user": "fr3d",
+            "date": "2y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "items": [
+          {
+            "key_point": "Attractive",
+            "snippet": "What a beautiful and well built case. I was a little confused by the instructions but found a build video on YouTube which explained how it came apart and the",
+            "user": "JasonCheeseman",
+            "date": "1y",
+            "source": "scorptec.com.au"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "Well built and easy to set up. It came well packed and nothing missing. However there are a few issues. If you have any other full length pcie cards they may",
+            "date": "1y",
+            "source": "scan.co.uk"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 2
+      },
+      {
+        "stars": 4,
+        "amount": 11
+      },
+      {
+        "stars": 5,
+        "amount": 164
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQvnTWoLabQLWLEm9vlsZhHSgoGn275EVvyOvJ3L83NJMyFVt2xZbNXHoupWaDL84KTaHTegwmQlm5Sy_zNnN7v_2B6wRwk",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ8LinI4d60QbQNPB3TA-t9kRw24OQpQPnn5alrDJUSqTc4t7DYSZp7YGhpN3DZzYAijeY_LvGIfwtqdpFNlHtqpojQEYLD",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgI9006qjvKPTgpJ716XsVyo2pUg-itZUBLC_P6KyyuhcMQyMD6CPciqTv8OsfFJ-VeONDkCxeY4nUBvQwfLca0GVff0eh",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRcX4peq15F3EnGolhy_mTTZ5QAMDhRFFFveljyN5SZXiZ6DochCQu7NbLU_Oc7HBgadtQgXyc7TohohvME_vMmxQ5XdvxU-g",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQRXKWl2SpxnH-N1jqIkwBW_9cwG3dUbn-czbltUe0e1OPkOaMwxfNXSqPJzd9CiB0kf0lzwtTEX924Q3INSwvJfWQ4wXqe",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSlH_GyWqJ0r6KXutF1TehRT2FxNStsctE9iH4yCPbz4LiG9wGf2kj8LKxK0DZNs3EUHTlQe60ltxatSYFpR9EqkSN4J-C-LQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSCGDeVQKJTm0zNdVf-JY3QvETmVmeItJU3QhaoeOYvheZ6LfxY7j_ll_lEGp6snhqs1TfZdNNTd9ZXE9u4KY43zBJ7pCFX"
+    ],
+    "user_reviews": [
+      {
+        "title": "Great case with the option for touchscreen later",
+        "text": "Well built and easy to set up. It came well packed and nothing missing. However there are a few issues. If you have any other full length pcie cards they may not fit as the case is set up for half height cards other than the vertical graphics card. Documentation wise it isn't the clearest but there are many many videos on the company site and generally on the internet that answer all the questions I had. It is lacking on storage bays there is plenty of room for more 2,5 and 3,5 bays that could have been added.\nDespite the few issues I am really pleased with this case overall. It looks good, does its job very well and is great for cooling and cable management.",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23r66avmJdvDqa1p2EzrvhGClOVbJqjWQ8tFP802fp9ZNViq2Eb7ZffsS_H9FO82m34g=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "I ended up going with the hyte y70 red and black minimalist riser since it reuses the oem top cover. The color match is pretty spot on! Excellent product! It’s high quality, feels very sturdy, and gives my PC a second area to do a push pull configuration. It was a perfect fit and arrived well-packaged. Great communication and service from the seller—highly recommend thank you!",
+        "user_name": "Brijesh S.",
+        "source": "etsy.com",
+        "rating": 5,
+        "date": "a week ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3dk6h3o5R9YcaLZOmspAE2z1-56AuG4UJ2oXrWmBE1x0S0p1XeOGmncUe4O5VCVwIEdg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQvnTWoLabQLWLEm9vlsZhHSgoGn275EVvyOvJ3L83NJMyFVt2xZbNXHoupWaDL84KTaHTegwmQlm5Sy_zNnN7v_2B6wRwk",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ8LinI4d60QbQNPB3TA-t9kRw24OQpQPnn5alrDJUSqTc4t7DYSZp7YGhpN3DZzYAijeY_LvGIfwtqdpFNlHtqpojQEYLD",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgI9006qjvKPTgpJ716XsVyo2pUg-itZUBLC_P6KyyuhcMQyMD6CPciqTv8OsfFJ-VeONDkCxeY4nUBvQwfLca0GVff0eh"
+        ]
+      },
+      {
+        "text": "I ended up going with the hyte y70 red and black minimalist riser since it reuses the oem top cover. The color match is pretty spot on! Excellent product! It’s high quality, feels very sturdy, and gives my PC a second area to do a push pull configuration. It was a perfect fit and arrived well-packaged. Great communication and service from the seller—highly recommend thank you!",
+        "user_name": "Brijesh S.",
+        "source": "etsy.com",
+        "rating": 5,
+        "date": "a week ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3dk6h3o5R9YcaLZOmspAE2z1-56AuG4UJ2oXrWmBE1x0S0p1XeOGmncUe4O5VCVwIEdg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQvnTWoLabQLWLEm9vlsZhHSgoGn275EVvyOvJ3L83NJMyFVt2xZbNXHoupWaDL84KTaHTegwmQlm5Sy_zNnN7v_2B6wRwk",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ8LinI4d60QbQNPB3TA-t9kRw24OQpQPnn5alrDJUSqTc4t7DYSZp7YGhpN3DZzYAijeY_LvGIfwtqdpFNlHtqpojQEYLD",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgI9006qjvKPTgpJ716XsVyo2pUg-itZUBLC_P6KyyuhcMQyMD6CPciqTv8OsfFJ-VeONDkCxeY4nUBvQwfLca0GVff0eh"
+        ]
+      },
+      {
+        "text": "I'm giving him five stars. The quality is good and solid. And looks really good on a blacked out pc. He really went above and beyond for me.I ordered the wrong part and I contacted him when received it. I was able to send it back and he made me a new part and send it back for me all I had to do was pay for shipping back. I would recommend him to a friend or anybody who needs a riser.",
+        "user_name": "Tyler",
+        "source": "etsy.com",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1G_uRoViR_xa0Q1cY62K37FuAHD2C3g2sJXBuUpB6PefYv2Df4fHkARwf90YChS6yrDg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRcX4peq15F3EnGolhy_mTTZ5QAMDhRFFFveljyN5SZXiZ6DochCQu7NbLU_Oc7HBgadtQgXyc7TohohvME_vMmxQ5XdvxU-g"
+        ]
+      },
+      {
+        "title": "Beautiful case with thoughtful design",
+        "text": "What a beautiful and well built case. I was a little confused by the instructions but found a build video on YouTube which explained how it came apart and the best method to build it. With white accessories - GPU, Fans etc really makes it. If you are looking for a white case you can’t go past this one at the price. You can also upgrade the middle pane of glass to a LED touch screen which is super cool",
+        "user_name": "JasonCheeseman",
+        "source": "scorptec.com.au",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0H2uTTcxoBvHwy6MJbnssqGR7qzO1xkUslEBtyqOis8eACf_8IC1UfXrzBnEwJTGZWrQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQRXKWl2SpxnH-N1jqIkwBW_9cwG3dUbn-czbltUe0e1OPkOaMwxfNXSqPJzd9CiB0kf0lzwtTEX924Q3INSwvJfWQ4wXqe"
+        ]
+      },
+      {
+        "text": "The Hyte 70 has finally arrived. The delayed delivery was abit frustrating but all's well ends well. Look at the sleek stealth look! And yes! The casing is huge ! Like really huge! So no worries for those who wants to go for the big built as the casing consist loads of compartment. Cable management is easy to assemble as well as the back of the casing is very wide. Overall I think it's worth the buy 😃",
+        "user_name": "whoizmax",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3Cf1KKFejiUkd9bkwAyQzECmop7cULQGqalLCff_FblfoNcNuvPzrZGlLLW5e02_114Q=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSlH_GyWqJ0r6KXutF1TehRT2FxNStsctE9iH4yCPbz4LiG9wGf2kj8LKxK0DZNs3EUHTlQe60ltxatSYFpR9EqkSN4J-C-LQ"
+        ]
+      },
+      {
+        "text": "Amazing and just what I needed. As soon as it was in stock, I ordered it. Now I just have to figure out what to do with the non-minimalist version that didn't work out as well. Also, I did have to use some of the packing to make the original top fit a bit more snuggly so it won't move when the cat gets up there. Cats and I approve of and endorse this product. 10/10 purrs. Wait...I only have 2 cats, where are the other 8 purrs coming from?",
+        "user_name": "chance2002iu",
+        "source": "etsy.com",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1F6X_Dzl12uYqOdaoX0Iq_5jMHUtKqtyu1-p4pn3cuxF62-QyBhggs-WxWkdaJW0F-fQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSCGDeVQKJTm0zNdVf-JY3QvETmVmeItJU3QhaoeOYvheZ6LfxY7j_ll_lEGp6snhqs1TfZdNNTd9ZXE9u4KY43zBJ7pCFX"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Is the Y70 the HYTE of PC Cases?",
+        "link": "https://www.youtube.com/watch?v=jT46hb-2Onk",
+        "source": "YouTube",
+        "channel": "TechTonik Systems",
+        "duration": "4:54",
+        "thumbnail": "https://i.ytimg.com/vi/jT46hb-2Onk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kEOqGKSl6_UGxMK-gbnf0Nb8_iMQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT3qL4Y23nj2Ha3XxVmyv-UOXAqOXZcEfo7KQ"
+      },
+      {
+        "title": "Hyte Y70 Worth The Upgrade? Purple PC Build in the Taro Milk Case",
+        "link": "https://www.youtube.com/watch?v=1b2DUmVhVZw",
+        "source": "YouTube",
+        "channel": "Overclockers UK",
+        "duration": "9:25",
+        "thumbnail": "https://i.ytimg.com/vi/1b2DUmVhVZw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mofyDOkAw-oZ47XxEWvJoL0wezCw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSj_V4ZOA9G-aQ3WKmjfjWgrEJwOP6pHczG-Q"
+      },
+      {
+        "title": "Hyte Y70 Touch Infinite | Should You Upgrade Your PC Case? #hyte ...",
+        "link": "https://www.youtube.com/watch?v=tM_71XpDYT8",
+        "source": "YouTube",
+        "channel": "Game Tech Place",
+        "duration": "8:51",
+        "thumbnail": "https://i.ytimg.com/vi/tM_71XpDYT8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ldqWO-621CNXBQecv4aHEF03C28g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRcWZJltTrpLX__wpkCnVxBjhzDUarYhmFuCA"
+      },
+      {
+        "title": "We built a $4300 PC inside of the Hyte Y70 (9800x3D / RTX 5080)",
+        "link": "https://www.youtube.com/watch?v=CUssnpcZWDw",
+        "source": "YouTube",
+        "channel": "Robeytech Live",
+        "duration": "37:15",
+        "thumbnail": "https://i.ytimg.com/vi/CUssnpcZWDw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kUxe0m07992yhWTqCZ-zsKQyeJRA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT4hWwtd0ALbN16QQvg1PNrSvvdaSIe_uEK3g"
+      },
+      {
+        "title": "HYTE Y70 Touch Infinite White Step-by-Step Guide on How To Build ...",
+        "link": "https://www.youtube.com/watch?v=0YlhZONxR0I",
+        "source": "YouTube",
+        "channel": "FIRE WOLF TECH",
+        "duration": "1:35:04",
+        "thumbnail": "https://i.ytimg.com/vi/0YlhZONxR0I/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mZDzHIrYw9qNpY_jcdTd30LP-hTA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRJcKDL5soC2wSpDvnDhJt8jS5N9TdM7OE-1w"
+      },
+      {
+        "title": "The HYTE Y70 Blueberry Milkshake | COOLEST Blue PC I’ve EVER ...",
+        "link": "https://www.youtube.com/watch?v=ceKjOrU7izY",
+        "source": "YouTube",
+        "channel": "Wired Hardware",
+        "duration": "8:28",
+        "thumbnail": "https://i.ytimg.com/vi/ceKjOrU7izY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3laLd21MxvAiCfwHrqvWD8t_cjbOw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTg24Rk61iRpgmnBq4oPsAnoz25Unh5QtIg1A"
+      },
+      {
+        "title": "Episode 5 - Hyte Y70 Pink",
+        "link": "https://www.youtube.com/watch?v=VBYHOeywNts",
+        "source": "YouTube",
+        "channel": "Keep-IT-Cool",
+        "duration": "25:17",
+        "thumbnail": "https://i.ytimg.com/vi/VBYHOeywNts/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m6OHuDFimWn0emcvp35T9d3rBWsA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRVoQjkm9jxS7auivb5T9xxNkXnpuNS7JB3eQ"
+      },
+      {
+        "title": "HYTE Y70 Case Build & Review",
+        "link": "https://www.tiktok.com/@hytebrand/video/7620512495605730573",
+        "source": "TikTok",
+        "channel": "hytebrand",
+        "duration": "0:12",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7d7pN3CVpsXWoGXbIZ1sBRCLgVAb2--jNTMNOh3f3pENmJA&s="
+      },
+      {
+        "title": "Hyte Y70 Case Review: Thermal Benchmarks, Cable Management ...",
+        "link": "https://www.youtube.com/watch?v=m-AMD01GVZE",
+        "source": "YouTube",
+        "channel": "Gamers Nexus",
+        "duration": "27:32",
+        "thumbnail": "https://i.ytimg.com/vi/m-AMD01GVZE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lVskZtMvwvozu6kYM1mU6m1iR1MQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQK0assHzGC5hgDvDoo-s81tLRFH3mgNUVoEQ"
+      },
+      {
+        "title": "Y70 Touch Infinite. The Modern Aesthetic Case #hyte #pc",
+        "link": "https://www.youtube.com/shorts/-17Aw-ewMRc",
+        "source": "YouTube",
+        "channel": "HYTE",
+        "duration": "1:01",
+        "thumbnail": "https://i.ytimg.com/vi/-17Aw-ewMRc/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3n7TzTOCXeNqSC6Gluzzfu9FYdBhg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSmSMmsoOJtyXIZkXih5w8-5ah4JjVo0GWG4w"
+      },
+      {
+        "title": "Hyte Y70 Touch ATX Mid Tower Case Review",
+        "link": "https://www.tiktok.com/@odditytech/video/7448369870762249514",
+        "source": "TikTok",
+        "channel": "odditytech",
+        "duration": "0:34",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWT8Gu5IUjGo0r7YcNXfzS6Q0F0dl7CKnJ_TF3EBI3hZbueQ&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ8XbZkTyT9KVPlG_v9em7C5Y1t-TmEy94lEw"
+      },
+      {
+        "title": "No RGB, Just POWER The Clean Hyte Y70 PC Build",
+        "link": "https://www.youtube.com/watch?v=6Sp5fa-NXrI&vl=en",
+        "source": "YouTube",
+        "channel": "ImWateringPSUs",
+        "duration": "7:38",
+        "thumbnail": "https://i.ytimg.com/vi/6Sp5fa-NXrI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k2yrqGQIo_w25hq3gKSSgzacOyPg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT47dDBsEq5QXSYGRn-gVaRMcCTe2ql1FPWMg"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "HYTE X50 Mid Tower Case",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTytDPQsZCqxoDKByurLysvj68q4ZSObXWI56Ndp9Qj1B7XtrZEaqAgu8vozFf6rqoZ5S2j1N9FKI0CDu5cRGHCiCmir6K9dw",
+        "price": "$149.99",
+        "extracted_price": 149.99,
+        "reviews": 27,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Clf6jnicbVTLsptGEE35C7zIL3ilulXMDA-RnRAghASSeEmwUcHMCATDQ4CEdCtfcx27ylk6rso2v2Ev8i1BWbsXvejTfXr61Kn595f3b_T8t61FNO5fPLUXs2E7297tEos760vT1uSK-zP5BiSEpDE4TgSSCKdAFMQvOO5jVqdPWOCnCEKOgxyYirLEybL8NaMxYeeKbk4n2qo1PpO_AM8BGSAJidKU4zlJgOKf5zJO6f_wNyBCHj65BI4f-yRBFISPLem-w-38KCAwPgByUx7xCHISQMLvW2ejHn-Ofbpcafv4brK4p10_wde2pVU_SWlF27g_19WE0K7o62aynU9w3NEJrsumrp5NLWV0rJAJ5KDwTOKkosOntHne8JNdH8sz-SpIIj8qwws8J4zni7Lwsbn1b1n6lrK3a_eWsTdafa7j5nbCP979qtWDOu-G-c5vmkB1OM_QBwwCA-cKcFE67A_ZKjw0apybhqVGFUbLx8ZTBsdg9gHuer_ghejQCFEBoKOTwttrvQcbx0ImF5SmsvODu-WFyNd6J8h93l10vL3PMsJ0l1SOvtvbnh0EVlwCaOmsTJgyJ9xUIAED1Et515gJWOuNsCQZVhU7KZmHmVzbZXNKvOgSMf3kwkzFe2dL9OK-15lgMebbqtO7QHbDQPYDjaFk3_MRaG72gaDwFfcYmHPX12N_EUJvDu5e2SFbj_jEU86OT3S7KoA3amDvbcMr9Jwy0_NgCn3VEQPAfFqwU8IxZxPoVQhltPPleuPrQgLMta8FwDdMPlpkJuEIczVdjJDOj_V9wogflfLJhyT3uXpwDvjVLbJoh8gh8giKoWzhQ9OTiggJk6EFMHKR7oZltvY9HXgsEuxid3cZedg5Wbpa7eqvpN2XwagpsbyiuYYV2e0CRdx4uE98_XVxNhXHsB-bfeRGQPaigmRxnsEAjFx6I0Zqltu6A3BFuhgGzh_3rj1952a60LsbUaujLJ-nCAMahMiOD0Fvq9F8hsLZb0AajSaOBpRHG37GdV2c6Y93749Hl45Opy-u52w_IHVml9EQg_iQdioNbiZCtnjmpMVeXum3FIrkbIppMogW5d2NnT-sdXuvaSG9rI-r28Dnwbl7DGTRvSBDuSxaokCMwyoTzMB9xHzHw-aefUDKZKbNn9uIGWjxLRxOBB6Fwy7Z4HQmW8emIubjbpvnl0RdZsvXlXXU6OiyJlHYGhvXTT17kqjByFE_AtF87M59kabprCaccjQaa10cFEt7UcoSr5rGZuH2kk5nYzzn7KU6DgoIjdkp60i8hpeuTv0BAVhgElh3m0va7OKc23iKG1stUTNcM7ST8J6uM-G6tIqlfoi6Y3KkTbXPVymF1Ls3qyu3dasNE4I7tRZh4BxOF9UpUhVrQ71pVSRLu8QUvZWwXYD0hrlrzrZtvdt7i1IP6geZxidjCA5r98RF3OZ0b29tzgbX7aeXaSRger9bg5VfibstkmWsEE60GVzpfrZW4koXX0Qjcv0rMnvXOEjKI19BcWEB5Q5O6rHK0_lCiTf2cQssQ-LW7bAVYOPFw3yp6e2NOGE_HX-g0z__ARrl8oo"
+      },
+      {
+        "title": "Thermaltake AX700 Super-Tower Chassis",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSKPW0eN__YBX6fSap0lvt2_TCIFUIonkt6LDC4oPIBIJONf0ypARfDIdtezyig2hHDz6PMBMkSge3oNZGTj8cKVe38UVF6k5iOR31QQccPOOBgIJPAhd5Brg",
+        "price": "$399.99",
+        "extracted_price": 399.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=V9LfqnicHVTLrqNGEE3yBfMTs7Is0d2AcXbGPGxssHm1MRsLutuAeRpjg-_XRPdmRposJyNlm9-YWeRbwp1aVLXqVNXpo2r1f798eGXZP5Yasqibekonpv1-sR-skoi2-aVpa3onXUa_gRlCs9E4TgQzEUpAFMQvJOqiok7eYY7jZhKHEODnUBgjnElfUxbRIqvY7nxmrVKTjP4NgYgkKIoIAG4O0Hia_5WVUcJ-wt-AAHhOgJAHSJhzkihBQXpr6e2PT9c7a5_fjSLq2K2bkHvbsqqbJKxibdRldTWh7JZ3dTPZLyckurEJqcumrt6LWlawMUMnkIPCuxMnFes_Jc1PRpEfSSUIgDCf8QInIJF_KzP6VZiJvAgFEc0FIIJRHHprHt1rmrwmxev99poWr6z6XEfN40x-_PqmtmS5fBDZ9psGKw7nvsiNX625g6J1TPMRLZvr8cXZhyoNbH9ojjl2TLUeopfQpBrlIg4AJwO38KXwXBcg_GJYMcYZxuHFX2k6yUlvanPH1ejDw-ku1PCTBTj3dZ93L0RgqgkPHnnGOJXDcq4d_MKi2Dlj3zo4I3us0aOjaEebo2vP0_bRxak8SIClGzhWa-CU6XXrOZajGlcPJsPOc1L3YFWRekQudHrr4giOKhQHJQxiXPDxS2F7Byfw4LCNC6f04dAeM5DHimYzJdwfFPkw6glH3T4JHJ1Cnyd5-GCrph6x1MbH8Vag2wZhREor3Omdccwtm6wo77-sUTysAwt2UXjQIOaGnVsKGQWy7K9qwXqCzg7MaJ1rKkFrISwMO9K70ET-0704Q6Tn0F-lS4blLA5kZK4K0QnIn8OtPX_nFprQuTvB7io8LM5mvdr00jQVppcZH4ccXS7738FM4sfN82gu8fxnUtd5xn789uF0ctn48tjU9Zz9R6QsrDLsIxAFyU1h-GEgZIkZN9MP8432SKBIM0NM4l40Ge_urMvT3LZDzfLZdHvaPHr-grPbs6f6bYpW8lVvqQwJOVapYGD3GfE3HjZD-hHJk4W6fGejBlajx7E_U3gSAjvekWQxN09NRY3nYBnZNFbW6fplY55UVgDWxHKxJav7rl68D1HwOKN-YtF42lmXJ0myqCknn1aNuc0D2VSnclmSTdNYxXF_TaTFaO991loZGwWERu-UdSjej9dbnfg9AjAnFJuDxcVtenWyNpJIYyklavp7iuwZObBtKtzXZr7WgvB2ik-sqQ6XTcIg84Zmc-f2brUrBDwwUz9iJzhfFSdPFKL29a5V0Hxmx4bobYS9DpIH4e6XYt_W9sHTSw3XTypF51WPg6175kJudx7aR3spetftpKsUCoQNg9mblzt193m8jmTKiVYBN5qfbuWo0sSpuApd_46Mzl0FM_l52UBRN4E8gLNyqi7JUpejnXXaA3M147Ztvxdg40X9cq1q7YM6x04aP4Tzv_8DwCjDqw"
+      },
+      {
+        "title": "HYTE Y70 Touch Infinite Mid-Tower Case",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSGPvMhCAtAlA-wM6WwgnhMIrbcALGuFYyhGXPN2VGjKlXOWa6-pVsHHhxNDDb5mR3xFpQ3l1fAasfQIoMc78QvzcP6H1mHno9yOayRSiaycqiTjfQY4mfZTg",
+        "price": "$389.99",
+        "extracted_price": 389.99,
+        "reviews": 43,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Tb1O0nicbVRNzqNGEI3mBFnkCrOyPglowDg7Y8A2Nv_Q2GwsoNuAaaCNsQErp_kmiTRZTiJlm2vMLHKW4KynFtVSv3rvVZdK_e8PP77j4m9TjXDcvflKJ-a9vbQHs0pFx_hM2wbd065Af7FzAOZTMIzIzkVOYkVB_JzGXUya7AWLEieIksjNFxLHAonjJPAlxzEiRY2t8xm3SpMW6M-FJDA8y_CcyEusBHgOgD-KKs7w__Akw07MqQYshAUvAEYCi08tun3l7NVJnIMFt5jzrDR5vfrhpV9s11JO38d-u95xO37VSdzhWzdL722L626W4Rq3cVc09QzhW9k1dGavZml8w7O0qWhTv4paTPB0g2YcwwmvJM5q3P-W0dcbvuP1qSrQF2Eu8uI0BTBNigWCJAif6KN7z7P3jLzfb-85ecf1701MH-f024ef1KZXVrd-5QSUQsVlvAtcuWvdTjVXPNZu6_mmhzUYWpuATy7l0ysHHqq66Go5DTWTj2HGeCX1YcFSuGZX0dOsjr4eGxuk4rLkgqojCGajV8IKAapEvlw5IIcJR3RTJSC5kDgoWdYb2cYjtIlUc58EweAAOfZC4RpvUG5oGsCabruqbkNFBns_A2G1iCAz9bymFj5kIA41ORjZw4EhG3QgXACivX8guaVqlct0hXshowGh7JR0DMuutDbazuW2LArh09DMGleLOCTm_liwZfTUPG-DVpDp7L3HMA4HrSND9bTWLZNZqE6dP91a55ySeE4gCElJacxoLKq6MlVZGVYue4SLuwEiMVlHA9Y02QnI2gy7Nrmkgl-aT_iUt17oFjExOS8wI0uRW1yy1qR5cSBxolB4whoRf62NDpNySNF2fknMNNQDj0QPxN36VJVAypae9kRtWMEcEWT4Jb0fa-Q4UBYtP-2SQHuuC112N-ZohVEQQL3xDsQ9XmTHqW5sqgrc4XkUDKYcjEPUxxfi_jrc2vNXZqkJnWfNLX2f6YNondlRg1p7TXbLfkvf7lTOfmbnEj-tGg8W0_l72jRlgb99-PF08vC06fjN8137I1CWZjUps_EhuykYPnQATLFg5utwsdMeGSeiQhezpBcNzHuWeRmNfTs0uJy_7U-7R89fYHEbe7S-vYGNfF23SObS9Fjngg69MeZvPEeH_COQZ0t19XJDOlTjx7E_I-4kHJzESrPlwjjRGunjYOrFW6Js8-1zZ5xUTFhME5ns083dapYvEQVOGs0IRX10iq7MsmzZIEY-baixLw-yob7JVZXuKDXJ0b5m0nKKF8_cKhNRAGDKbtVE4v14vTVZ0AOWK1MEjcFkkja_ukUbSyk1lQrQ_p4DZ56GeJ8L961RbrVDdDslJ0zr8LLLMIf9ge7ujO3VFhHggI31EbqH81Vxy0xJ1b6xWgUs5k6ii_5OsNds9kiZ-4XYbeOE_rrSYDMiKT5venjYe2cmYqzz0D7aC-k9r5OuUiSkeBiM3rjckWeXyTaWESOahNtpQb6X41oT38RN5AV3oHfe5jCXx8uOE9cGKw_sWTnVl2y1lmPLPNmssZkz-7a3BY76cb_aqlr7QO6xk6Yf6PzPf4Q59rU"
+      },
+      {
+        "title": "HYTE Y70 Touch Infinite Display Upgrade",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSmdV7ArY9Hd21s7hufAMiu66PkbM0VAPDLbca6y2BSS_3RYuMQ7yXWsTBjRpa6RtZF3BtgsD9v9HlzaO8r0wYvuYHZA1yLKglDHHrYkTN-nYt9LQMxL2zp",
+        "price": "$239.99",
+        "extracted_price": 239.99,
+        "reviews": 3,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=efcSh3icbVRLrqNGFE2ygt5Ej6wnFX-cmTEGjM0fCpuJBVQZML8yYIOtrOZ1uqXOsDtSptlG9yDryDA8KcO-Jd2S6tY559bVUf3z07tXXPxlbiIcDy--PPD5aK_syaxT3jE-k65Ft3Qo0J-UwDDCHADwlMDTIsVz_Oc0HuKqzQr0lROXHAcYimdZEfBAFAD1JccxqooGW-cz7uQ2fWMBHMfxFC_yIiUIDA8EbvlHUccZ_r8u0jTgOXaWoIQlMy9W_NCh_httr08UsxRnACWKLAUYkQWi-JvtWvLpx7WP1xvuHt_0Kh5wPyzSW9fhZlhkuMFdPBRts0C4L4eWLOz1Io17vEjbmrTN26UOV3g-QQsa0Nxb4hcNHj9mZG7y6w-0PtQF-sIJPDtPhmEZQWRZmgLCB3IfXvPsNateb_1rXr3i5lMbk_s5_f7zv5t7ul536doJCIGyCzzfVR1GNw2_euCDK8NLrkXhcDBCMAXBBFKFbH112sdKdI6eph3U-ZSEbhw3uu1c3Iev5VWqKrFJiWx4yC1XM63wkNEpU7n44HCWUnGoMhUkR5ZHGwyUFR2WpIeAAK8WmWiTghS4JdKgGkFphzbOYG5I79bV1qgRHykrOvDNu_t0K0ibV1zqGmJME202o6u6T_8ptabvViGMivSi9MnTtI4AUIlaHT0IfSvoOc-jTEs2J0Tnl-SJNOS7vqlC7Qgh7wGRPQD0NMKKdyG5o6B8WBuuiGjO8_1q52m57jIt4zH6wafJw1NZOlGpHMnVEGnSJoFmCSu3MwI4RfVwgOWUJ3U5eSUp_EqPEt9l0TPaGTRpojCf30f2MT1Bp5KCJIykIDRJqLZP6MNnOPePYHWFWuopT9SFNcxRhQy_JLdjgxwHSrzlp0MSKE-10KV51g8rjHxcVbYDloZxkcZQyWmoBkyokaND5XGgmnYCSfP71Hfnb2ClcINnCZa-z_SJt87UQ4FKd012q3FLXm5Eyn6lZh9x_Oyn5bx_Stu2LPD3X96dTh6e3YxfZsfY7xl5ZdbRGFPxIetlDO86w5h8AQQ1XO6Ue0bzqND5LBl5A7OeZV4exr6bWlwKL_vT7j6yF1j0jxGp_QujSVe1QxKdpscm53ToPWK2Z2ky5e8ZabHarN_UkA438f04nhF94g5OYqXZammcSIP0x2TqxUsib_Ptc2ecNriiMEmkap9qN6tdvZHIcOZoH5DXH04xlFmWrVoEpJNGjH15kIzNi1TX6Y4Qszra10xczfGGM7fyDOQYZs5u3Ub87Xjt2ywYGYouUwSNyQRJl1_doovFlJhyzZDxljOOkIZ4n3O3rVFulUPUn5ITJk142WWYxv5Edjdge41VcXDChnqE7uF8ld0yk9PN2FqdzCwFJ9F5f8fZKpXdU3C7VHbXOqGv1gpsH0iMz9oID3vvDCJgnafu3l2q0fMG8SpGXIqnyRiNyw15dplsYwkB3qzonRLkeyluFP6F1yIvuDH64GkHQXpcdjSvGpQ0UWf51FyytSrFlnmyKUMTwL4bbY4mfjyutxuluyP3OIjzL3P--z-Ipe7o"
+      },
+      {
+        "title": "HYTE Y70 Touch Infinite Gaming Case - Panda [+Free 4x iBUYPOWER Gen 9 Deluxe 120mm Case Fans]",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTThzF4jUgkTwYgvStrzBXJZIsmHVvdF1wlBEYUSKwGDAjwP9Zzz_aTZl952jz1T1po5vjmxxd40uXkx4xRwVNCQkRnc24Ubd2d88mudP9tYufGoeyWa_Kr",
+        "price": "$369.99",
+        "extracted_price": 369.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8xOJXHicHVPJsptGFE3yBf4Jr1SqAppBZCcESEKABqAFbFSouwWIqcUgkL4m9V7sKmfpuCrb_Ia9yLcE-S7u4g7nnK7b579fPryR9B9bC0nUTl21FZN-N98NdoHEvfWF1hXuUJvib6wEgDQGw4isJHIzVhTELyhqo7yKX23ACzzLS7IoyJLAsDNGlr8mJMJ5WpLt5UJqtUIp_puTBJEVAACiwAmsyEuS-FdaRDH52f7G8rLEA2kGxHFwhOR4afZe4-aPT7eO1I_vRh61pGknqKtrUraTmJSkjtq0KieYNFlb0cluMUFRQyaoKmhVvoZqkpOxgiccwwmvJE5K0n-K6U9GYcYxI-coeyZxIuA5VnovUvxVkER-fCd4yeHHKiO903v7lsRvcf7WNW9J_kbKz1VE7xf049erVvWLRdMre49SqB4Yp6gemEFCqAnPrZaYAWvvzp7GOs_wiDPIoTwMraUcuhk-HBx2a8M5OHvCE3m49xg9cHw7PZY0xLqshTD3rCXm7PywORZ74BQ0sdzQdVyow9IIvef8edTym6WxBskNSlzbtFRsuqxSjnpgqOM15kI3cO064OTQ9NcPL9uDc-m1sLRLH9AMezRAnkwxgG6k6xX2IW8VeY_cRLd0PYcL1oXM4RJwurv1Ue_p8Oox7SZimt7i8iXMDgJUk9ZjMT0_9f7o26qr4U5LEIhYmgd-6LuasDkXBvA0fU-uGTCPrIKGKt17hye65oXHGCsLykPAhF4AbA0-9a2lGj3RdSViZM3KWMHb_zk09eU7M9eF1tkKAxq4CnaMed6ZbClv9ktj1fX1vKT97-x4OWE8KZBnvPgZVVWWkh-_fTidHDJ-IDJ13MPuI1DndhH2ERv5caMSeDcAsMWUkZZHeaPfY07EqSHG5160CO9s7evDMuuhIpk0NU-be89fYdo8erxspmCl3JY1VjiEgjIRDOg8Ir7hOTokH4EymWuLFxs2oBbdg_6CuZPg789bFM9l60RLbDwG20inZ3WdrJ8b66SRnCX0rOQmWnXbav4CUeGIUT2gaDz2aZvFcTyvMKOcVtQyM1-xtKlSFGhDqZ0Hu1s8m4_x2rPX6rg4Om_Mh6IKxS64NVXs9YDlMoShNdjMuU5uh7SOZojaagFo3yVgL6EjMROhW1vZWvfD5nQ-EVoer5uYcMQd6KZjdk65zQU4EGsZwIN_uamHLFaR1lfbWgWytD8borsRdks2viOmu-a7utof3WWhw9Eks-iy6qFvOhcmZLaXob7X17x3nHZ2m4UCIsNg9da1w84uO68jBTOinXMb3UtMJSp1cSquQsfrgNE6K19SHtcNJy4tVhnYi3oqr_FiqURb-7RjrZXEmHW_EzjqRv1iren1HR-Cdjb6-vLv_0qbsIY"
+      },
+      {
+        "title": "Y70 Upgraded Modern Aesthetic Dual Chamber Panoramic Tempered Glass Mid-Tower ATX Computer Gaming Case with PCIE 4.0 Riser Cable Included, Black (CS-H",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQCdG2bQr9FY383LLOEx0oCqtfhr9XuKy4aoxO1e_u6ssax8k0rAkAN8vLpZMG9reFcV7PuiQ4f6LjvzuAUzNgQpsgxKHVls0oW0dk-iO7UEVpD8pwdVaB_zA",
+        "price": "$379.99",
+        "extracted_price": 379.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cJnrFXicLVNJsqNGELV9gr6EVwpFUBSD8E58JiEGMSM2CgQlpmIQg0D_NI7f7o5oLzsc4a2v0b3wWcy3_Ra5yHz5Mite1t8_fHhDxZ-GGKF43LrCyOTzaX9ajDphLP1L17fplIxF-gdgIWRXEAQDWIbcAYZmviTxGOM2ey9DiqYAxXIMzbE0AXYEx33NUZziokHm7YZ6oU3-43EsSTIEZDiaIDjAEeD3oo4z9H-dZMGKHaRWCsdBjuDYj306_PrpPqH--U3F8YiGcZNMfY-acZOhBvXxWLTNJkVDNbbd5vSySeIBbZK27trmndQjjNZMuiEJkn4PzKZB86es-3civSMJloLr3juWZCBFAvZjXaRfaZah1odCCrI7as0S7MfuMb7l2VuG36bhLcdvqPncxt3jlnz_sRTb-eVlmHnL6zpfsAkn6DQXqHYi41vspoPuqmYEDBqVKoh94xmVkacL_hwDlfBIHwdhXmpuakbyIrpK3juV_kzdqHLDZDSaaPQ91fN99ejI9KxjfTFlVbjWOExBKtp1BHXfrjWvpb0wV11JHZCYKoGEteQVt3YQNbGMTdM1ACr3C3LxA0mSdw5t8wqwZoupE7gq9kWjdiuw6KEqOCD1jdLmfcx7OiFCn7CJVTu0ayxavjoZigWDyh8SqYuRqAJHkYCDddJQuvAM-OWM90ugRE8xT2AMOnwOo9AV6eO1VqEnShYqK6gFgE-WtrA8-zUpce29VosReEtcc931NWqRSAc64PNIMhovGEEqcaZl_bYM_e0bsZfo0THpJVnI1p8I7XrSQMMdLVlVprnfN938C1ido1dLIbejmM9J21YF-v7Th8vFQesBoa3j2qefobA36mj1IQ6zQUD-Q4XQYAqClQPuKD0ykkkLlcmuM6MjyjGN8qlr_dKiit1ql-Njpkq_GJ5zKg9bqPB3uU95MknOTU6rvvOMqYEiuyX_GfKbvfjyPi1VfTF-nOdbSl7o0LqaSbbn9EvXpOpzMdRiexUO-eH1qF9EhAHqrvzqojKZ7f5dRPBXjfbpM-rTKsYqy7J9mxL8Rel0rQp5XdzydZ0cu87A59M92-1XvPcZB2FtpCFco123ETOd70ObeTMEZJWkvr4YxLXP73bRx7ukM4QadvOUQ4tNAqTl9HTQq4MURsPlekFdE5THDJHIXbrjRJycxsS0vyBdPvt2eLsLdpUJiTi3Zi9AjrWuKuMe6ZMMskdCTCU-9a0VuHIt-e0z3cU3ZfZDzbkREWHelv7Rl3h2nHF330V0gpZFn_VySp1TdT3EfEowBiaPkpdrfNxIzJZRIseboDo6Ssjyz_JIMvJ6NQu4CZemzF5kPjaNywnoCkto_Xyiyc6N55eDKPWP1D6Pu_Vf3_76Bzadsis"
+      },
+      {
+        "title": "HYTE Y70 Touch Infinite ATX Mid Tower Gaming PC Case",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR1MYd1h9Q8GnZkZKtYGjRGFFuVb9d1BVcj4X80u7lfCT_5kq8dUz5dRv2S21csNjgId_O96mZqHLxRxHwLmWyGf9xRj70rNrKbpas43R1wiKzymOt8zVgS",
+        "price": "$348.00",
+        "extracted_price": 348.0,
+        "reviews": 16,
+        "rating": 4.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RSWtH3icdVTLrqNGEI3yBVnkF7KyrgTNOztjXsYGm1fz2FhAt8G8L2ADVr7mTmakyTKJlG1-Y2aRbwl31kktatFVdU6do-7-57sf3vDtL1OOcDy-uNLI5tN5e57NOmUt43PXt-iejjf0J8lRFLcGQbAkxwKeZBn2cxqPcdVmN_QHAxiSJmiOAiwgBcAAnvk9xzGqbg0-Xa-4l9r0HYViacDxgGFoHgCWADRL_Har4wx_q__B0IDkCUbgBX5FI0iaZj_0aPhCn3cXkmUJTgA8vxKsa6yjHP3L2T5Jl_8pfny94375olfxiIdxk977HjfjJsMN7uPx1jYbhIdybLvNebdJ4wFv0rbu2ua9qccVXk_QBhCAeU_spsHTx6z7puI_yD7UN_Q7w7H06o0AWI4QKIJiwYfuMb7l2VtWvd2Ht7x6w82nNu4e1_Tr9z_K7STthmlneV0HJZtwZXuICT3HRd6juuoi0rRCD4WwiM7h01YCAsVWYGouWTlIhrrjwQ75c4QL8eqBdDQ9svFL4ZBq-TOC0cH1dMXYEaRflJQR5LuQ7AAsFMXVTM2T7DyRlCss7MipzNCH_BOp8xTLNouViA6fIu2qguNINml43eBCRDu1cHVrBTiN2UZerkVQIVzF7D3Pti3CHOAzt1wqMlO_Em15fFoN9L0gkn0lv0Zw-7S8cPH8jjVKZu_4jJHUsPUAqhCodk7jzbZSNQZl0QkU65PKROs-fSIrjlWHFHII0mui2FHz-ORn1NFVoqMvAE-FRlyY2qotN-vIDwtldmW4BITARJpNeyVUYSNqqaeE4TPSDNXu0oWYoYcKXAp1WqaU4Ua6GbSL7UWkX-l7pHR6rOkOKmQqrsvFasw8CaLFfXogUa0Jy1GMfVNMvNZRnqj3a5ivKgy37O5hgywLiuzJTcfEU57qTRdtzVxOfuTaqgFCWBVp1TlRkWsnefVUqoIQ2HVA7meriZpf56G_fiG2CjM6JyZrkvN9P5Ioz_ayQDyXNJEHoo7iafszyfE0w1I0tb4V7lPatuUNf_3-h8vFwetVxy-Oa59_oqTt6soUk3GQDRKGD52iTPZGcKovHJRHBlh009ksmVgD087JLBbj2M8tLrmX4-XwmOgC3oZlQurwQmniq9ojEaRp2OSMDp0lpgcadHP-EyVutvLunQ3pUI4f4XRF4MIEVnJKs61gXLoG6cts6reXRNrn--fBuMi4InGXiNUx1e6ndvsOIsEVo10gqy_WbSyzLNu2iBAvWmccy0A05BexrtND15lVeH7N-O0a73PmXloHGYpas123EXsPX4c28yaKBGWKoDGbRNLnr_atj_m0M6Wa6qZ7Tllc6uNjztz3RrlXgmi4JBfcNX5xyDDA7twd7sTZaU4VA2dsqCG0g-urZJeZlMpTe-olSuCsRGfdA3NWyeyREveiOvet5btqrcB2QXx81SYYHJ0rERGn69w_-qKaHGfkX_mISfE8G5NR3JFzLpN9LCKCNStwULz8KMaNwr6wWuR4d0ofHS3gxKU4AFY1SHEmr9KlKbKdKsYn83ImDY0jjv10ZkDnxtNuLyv9A9nhyK8_0PXvfwERUvf2"
+      },
+      {
+        "title": "VEVOR Mid-tower Gaming PC Case",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcThGID4MKs9Poet9ruvx8Rq8nA3Ipn1p6eaTwj4aEMEylgoCy3zxlEw93Pf4AXwBlGOkjXagTpDc4s-rYJ3KLRv3BAxCaVsUV-ZXtqdALFbECHaj7ubfhYu",
+        "price": "$64.72",
+        "extracted_price": 64.72,
+        "original_price": "$72",
+        "extracted_original_price": 72,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=DuXwEnicbVRJrttGEE1yAl_CK-EDHNQUmZ0oDhIlNuemyI1AsVukOH8OIinkNN-xAWdpB8g217AXOUeWkYAsXUAVGjW8V12o7n9-evdGrn9BOSRR_-JKPZeO5tqcYBlzlv65aWs8xP0V_0mvWHb1EIri6BXH8DQHuM9x1EdFnVzx1xXNsUt2BfhHFsvwS0CDLymJcHGtiHG5kFaq4ycKx3ECwzOA4wXAMWDJM9wf1zJKyP9xsBIoABiKZYDA0jx46IcWd98Yc3PiBVpgBQE8mqA5asmD1fI30zak049jH18H0s7ftCLqSdcv4qFtSdUvElKRNuqvdbXApMv7ulmYm0UcdWQR12VTV8-klhTk4cELhmLA03CLiowfk-bR5NcfcH0or_gLWHHLx2Sec-CXS4amVh-aW_-WJm9J8TZ0b2nxRqpPddTcLvH3n_-Vb_Fm08Yby2saJNmU44WWnaUgohpIpADYd6i5aroM6SaM5DBEVc2eZeg45TS7lcbY5Y4iis0FnmJZTEd5vmI6x6CPjvAQHpUaFUJn0Ug7z3R2zkM2yHf3IwMfZ4FFEt7H9zQjqO5dHw6osMMgb2Z9mwA402Isawb0gQh9xfAU2MLMvjglBQhCW1h4LMkKZJVpYHvxjOSpIyoa7KqAlpvfI3W6BcdmGXuaiNzQgx504ryIEFJ8cix2_rHoiQfvYSmoNhuaVhFu4Bb1eoV0UhbAK3cASchxc6FwqiKIKjENGI22FTS7Mt4GFB69DBk6hVObsQtUKB1m-pt3L1TLTy9W2SAswy7IUOMr2hZtbRl6I7DlicalPJ_vKeOWAUPyaeerSua6Ym_I03RWY8amBdX3-tA4prmrAsOVc0e549YvUYoLrLt5MwQVtiwkcoYb92dPuatXTbS3cDb80A4K5YIlRUNb_XnHiWRoTx6chgxrtyygX4XV71PXXr5RawX0jgGS6mwOu57GabKTBeo-x2e5o8owGte_0o89As93JfDL1ae4rvMr-f7Lu9PJIY9tJi-Oa5vvWWkNy3CM6OiYdBJBN41lIXelVqov7JVbwnD4qnHJeeR0snQMmM36oZ1qkq9eDqf9bVxm6NrNI1a7F3YrvqotFpk4DqoUaMiZo2W3ZJopfc-Ki7W8ebJhDcnRLRgvmDmBo3U24mQt6Kemwto8Qe36cpZ26e6-108yKWjSnMXiEG8Ho14_QST0wKhnxGmzde3zJEnWNabE07bRD_lR1OUXsSzjfdPAIjBfE379kGcd3EmPQsCyD2uXdcgNwWtXJ97I0kweY6RPkDq36at9bSM-bqBUss04pKy1in1ySMGw0_Odcgy70_lEmsrP9glhiDs1-4EyncooAJqIrgbIPl5eJTtPpFgea6OVWGFlnTXO3QNTpZNbTA1ZYba15btqqaB6xnx02Y7oeHAuVEgZl6m9tVkxOk7Pv_IhiMk06aOeDdgx8_MuEjHFwYLZK156EKNK4V64beh4A6v1zva4Eudsz3CqTosTfZFOVZZsVDEy4Mmk9e2KOrSjCZjGjcbNTlbaG7aDnn_8Mpe__wP-f_HG"
+      },
+      {
+        "title": "Thermaltake View 390 Air Mid Tower Chassis",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSovCgqK382ajn-SBZ-wQcm1niu12-tTLm-aAGhYv13P4-ZGH9qgvqQhJ1xhycqdVCFVErZNCU42yYKqxsFthpnK6E2T0kiD_lgEGqzUyIpFq96C4jYAYqM",
+        "price": "$149.99",
+        "extracted_price": 149.99,
+        "reviews": 3,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rVNKGnicdVTLzrPIEY3mCWaRV5iV9UkNTYPJzpiLjQ2Yu2Fjtek22DQXYzDYmqf5_sxIk-UkUrZ5jX8WeZbwKdukFrWoOqdOqapU__7Tj5_0-k9bSynuPwK1F4vxsDpMdpWJrvVb2zVkyPor-QcnQSjNBoDISSK_5EQk_pbhHrMmv5K_S3MUIQggQsulzMkSQL8XFBN2ralzudBObbIZBjkkgiUPJQHx3IyFkPvbtcI5_W9agMJSQlCQeY6TgCwKAH7ryOO7cFifOB7JgoiWgiwDOLcgQSD-fPAc9fR_kr_cB9q9vpsM9_TRL7Kh62jdL3Ja0w7316ZeEPoo-6ZdHNaLDD_oImuqtqm_QB1ldI6QBQ949OXERU3HX_I2-xrF_xD7Vl3J70gSBZFHIieLIgACRMK39tl_Fvlnzj6Hx2fBPmn9a4Pb5yX744c_a82orh_j2g3bNlI94L9XvB2QjgZsILU2Uc00LJWtkyh16FGx6TG6uEwu_aOip6FnuzdbCIHX0E0Czpo-4Sq90ht5-7P2Pirudt2AaJ52pstFXNmYakXg8iSeNVSXMey9vcORb5-WHunnUu4CtcD7GEHCt49zSaAfmHHKyMFm3j6ISn7mx1llur6uDI6WOhgmXBpEDx_ovP9WfN8gxzBK10FcNPaxCD2jjTNOKTCzny5MbxEnX1LQQ8uIUhzr0A2ie1p5VnAjXKzJKmX5C7OS82ChpHA1ZSF6xlW_d0OuzWqmhNXUewanBdX2heOos2qtd2-F77KIuTwyMbNQyJtCyFbvWEt3SdWnydtGWbUVkoodLVaEya0U7KOOMc9NQVj2aZzuzoAolNliFiYo4Hsn1HOENQBwDGBQKze6MXk_XL6Dm4W8jeI7Idlbof6yK8HX36SLq6ggjFhB2Q5JTVw3UkQnyPpzqL-Nq6l4G_vlxGlANTZgwL3n3ewTPgeZtn1ZRu9EMdM9A_EWx5S_To_u8h2sdNT7DhqHR3838LZIIp256kuwUoF7lbL5dP_CSUsBiVCA8lJY_po1TXmlf_zw4-nk0_nU6YcfeIefoLqyq3TEHD7mD5VGTxNCW7wCyYjlnf7MeZFcTTE_j6JFBd-xby9r300NLaWP_Wn3HIVbdH28RmI8PuBGuRsdUfgsS-oCmZH_wsJD4Nup-Akqi5W2_lIjZqThZzJeCH9CR_fsZPlKtk5tTczXZJvXj7O6LbbvnXXSKONoe1bYPtsMTrP6KqJGc43mFYnmy732ZZ7nq4YA5bRprX15VCztQ6mqbNe2NksO93y5mu2LZ2_VmTh_k9l7VZOKQ3J_NHk4Qo4vMxJZkw3OXXH3rh1eZq2tVrAdhwK6UhbTfYGGrVVu9WP6OJ1PtK3j2y6nPA2mdjeAg187DEUTtYwk8o6Xu-qVuZppY-N0KpQl92yKwQ4dDC5_ZmC4sUPXuHFgVHrUvMgSXzZjdNz7F5AC5zJ1z-7GRt_vl_dlijI6TdZo3QbiH8rzFisEiDbjd3pY7BVc6-KHuEn9cIBm72-OkvK67XjRsDhl4i7qqb7la0PBjn06cNZGAvtuPCC-DfC43mp69yRe0i_nD3T5138ACCb1uQ"
+      },
+      {
+        "title": "JONSPLUS i 400 ITX/DTX/ATX/E-ATX Aluminum Tempered Glass Computer Case - Support 360/280/240/120 Liquid Cooling",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQbxaxekRmYqQSLQ8P9gHYqWZQZvDuQ9Hu4tGbnvm3pJ0bkJaxfi4P8Y-Uyez4vbaX2kdGrCGnltH33ucExW-eTQu1FDgjDC98Si7eoOQUSCQglfwD7dLAuyg",
+        "price": "$404.99",
+        "extracted_price": 404.99,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kTQcD3icdZTNrptGFMfbPkFeIivrSgzD8NGdMQaDzTeMbTYWZsaAGQPG2GCrT3PTREqXaaRu-xqJqj5LfbPvWZzF-Z9P6afz70_vXmn5lzNPaNq_RFovFoM39UbnlIm-_bntGnLN-pJ8BRKE0tM4TgSSyMtAROLnLO1T1uRvMhSQAARJEZEiIQ7InKJ8KWhKWFlT93CgndZkJfkTAigriIOyKIiCJHACB_4oT2lOf8hfgQxFRVFEWQZQkRVB5CH60JHLN8Gb7YAgKEgSAJAQFBESeQHA37zA1Xb_I348X2l3_2axtKeXfpJdu47W_SSnNe3SvmzqCaGXqm_aiTebZOmFTrLm1Db1W1JHGX1GyITnePTmxElNh495-2NNJPOcJMDnrbLEi1DggfThVJIvSHrexctQgJIsPKOc9KG99a9F_pqz1-vltWCvtP7UpO3tkH3_-Z_51ZzNzubMj9sWawEXxmiJj-ycQsIiLesjxvS1ERTu2ulsXnfjI0Z7Awwxf7k7UF9HFbKcakyJ7vixgdZxnEQUB-l6UeirDXOolniuNueo0V4xJKKNCY4MeQwWgY2xYtqQOc5R7cNTImbAagjDG4zzPgLW3QHO6G_YY22YMDiZfFQHW3tu1RHniFtQdNs1hvuYmGkIBnLEl23FNBzHQ4qzPoZssdZljhjgGABdIBFDTkRW9BQgmxd6wphr1znIuH4bPqwN4XzBqcgxi5Ihm4Ei0okQ42Z0db0P9HhImLrK6uaxitmGzMeD8yAeeaizAJhDjM0HwUxNHoGXQHWONbVMWXxPeQvRU5sEfLuOjLGLq7ZKsFqH80ANedLhdV_gR8bv173vb7JQf5BufcIFYcSOqva6rYnvY1V0o6zfx_rDKC01WDh3d51Ee11HSa1r4R1cEqA8cK1WRJsCDKxDHCOWLVr4-3jpDt-4qY760EXD9dKfjdQstlhnvnYX7EQA90qxbv6v4MkKekL0JF6QP2VNU5X0-y_vdruQPpGlL2EUeO-hNnVOyZCCdJNfNIpvFoSOWHKSsVaW-i3nRVJaYr4fRJsKoesc7_aqGxtaSS-r3fI2CEdcXu4DMS4vcKGejY6ofJZt6wJZOLynwkXg27F4D9XJdD57m0YsPE9v2-FA-B3a-Hs3y6eKvWtrYt1Hxypf9ppZmI-lvZtTBmi7V9kqW1zdZvrWRMPPHs0di9bdL_sqz_NpQzh1t2jtVbVR7fmLejply7Z12NY75_L0aW91jqk9CxGETx-cmkS8bs-XJo8HCPgqI9geHW7fFeeg7FI5ax3tBNvhWkBfytZ0VaCraVemvkkuu_2OtvX6uMwpT6OxXV45L6xdhvBIbWOLg83hrAVVrmXzoXE7DSqSv7fEaIk8A-S3jLsemdc1_pOdk46bO5HTw2LAm1V44BLOPYzdrTuyIQx7-SwnKKPjaA_28UpCr9qbqUo40WH8Uo-LlZrWuvgiLpIwvkKrDxcbSb0fl7xo2EAdwUHb1cd8Zqip6-w8YC8kbtUNHuLbKB1m5lzvbiTY9vLzkxz-_g_v8eVO"
+      },
+      {
+        "title": "HYTE X50 Air ATX Mid-Tower Case",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ5_PuG04qReYJfEeKuFd5E80rND67Wop0fokZzx60kR6f8c3zTJQufzKA9M925nlnI_xg5P_g80EFygTeZ0qWAfr_L4L8j30VA_v_WiNt28Ek8391pNV_pqg",
+        "price": "$119.99",
+        "extracted_price": 119.99,
+        "reviews": 2,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RHHgXnicdVRJrttGEA18gixyBa-ED3BsktmJ4iRKpMSpOWyEFrtFUhxFkaIk5DTfsQFn6RjINtewFzlL-L1OalFdqHr1qqtRXf_89PMrKf6y1YSg4cVXBpBP--X-btcpcKzPXd_iMR0K_JUWWFaYhaIALQBGpAEPPqdoQFWbFfhPnpIAIwg0x4sMJQCaZsCXnCBcFQ3ZnU6kV9p0hnEUQ0mMILE8J_A0xQii9EdRo4z8CH-laREAjqNmGAcAz7A0I33o8fUbt18daI5jWVGkJVYAIsMy_Gz_tnd3yuF_gh8vI-kf38wKDeQ6LNKx70kzLDLSkB4NRdssMLmWQ9st9qtFiq5kkbZ11zZvoJ5UZPbgBUMx_JsCi4ZMH7PuxzX_o9iHusBfeAFwgOEBy1I8P_chSR-62_CaZ69Z9TpeX_PqlTSfWtTdTun3d7-o7aSsrtPKCboOKi7lneWLXdlFEuEkCJLeibptargm0eS9w2pNqg8yCtwJPmGdBqaZGlCFUaVZIaTjcshjNrn4Kp24eu4QNbmHWkwjyp4QzDhLNyergralSQXSu8QPIO-WweQw0PeeSYAjDR1Dujg-5cKr7Agq8sl-ms18RmFdqQHDnx3oJikrg22gnf1Q6nGAtRDiCtMJZRkJdQwGz9a0farTamiYHNK6OmWoJ4zMyDOCIVFV3mdzl3j0060SCs-8NqMlx7N8TZg7TKlpSCrIIK2cIkoabaNz4blqvYDXEYOnmK0sxIh3HNJ2HFQ0oiHEgXSNa7NzSns8Qqn1aMgmIc_ZT1jaZziSBkcBXSU2qw3Hclgh6D7R08yRAtW4Mc2gkWFMmz0K7V1izP-gKafQkJ04qvTEwEaqmPJRy2_-M0ls334kRsDCusuT0rXcwPG0J-7DGubzK1h-2Y1xgx0HymDnp8Mx0J56YcquYT92YeJDJVd3c0_b0CxhXWlxjQe_zh-pWgE8-8L6Lv9-v_anb9RS4wdvJzRxwJbyur6dTrYFIxLqeyYVQaW406-0IHLzqHGsJHLSp7Rty4J8f_fz4eCRedTJi-e7-_essrTrZEI0irKrQuDNZFkbFJSgh9JGu2UMwIUJsuMELMJ5O_v8sLb9vSWl8LI9bG4Td4bF9TFh_frCGvJF77HMpGnc5LwJvQfirhzT3fP3rLxYqqu3atiEKrrF0wkzBz5yjrs0W0rWoWuw-bjbZvFyVNb5-rmxDiqpaNId5Wqe8XHXLt9IFDhztA8IzIdTDGWWZcsWU_LB6KxtGcmW-iLXdbrpOruK95dMXM7ylmevlTmRZ9lZu3WbgDG-XNssmOYNUqYYWnebOvb5xS16JKadrdRsN4056whpSLY5P66tcq1FyfVwPJCuCc-bjDDEv3ebkdp7za7i4Z1Yegzd6HRR3DJTUnVqd73CSoJzNIG_4fc6nd1SajxX-751Ql-vNdg-sIhOxgSjrXeiEmp3uve3_lxNnjeIFzHhU3K_W5N1HrG3L49rJGMK2BWz0YJ8K6NGAy_ASLxgZM3BMyJBfpw3DNAtWr7TJ-XQnLOVLqOdfdjTliFQ237a80zno2m1VrX-ht14EOcNdPr7X2tO9_8"
+      },
+      {
+        "title": "Thermaltake View 71 RGB Edition Gaming Computer Case",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTby7Nk3e30zZjvlv-ryYDuPzZIgzKyKG1376GIVqh6Yyd_EF4u8RD8a1FidpiZpJ-QfusK1sn2IjuhTqCQCe2DaqLNAlS3fFjf6jJK6SKq",
+        "price": "$219.99",
+        "extracted_price": 219.99,
+        "reviews": 94,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=QlrV23icbVTLsptGEE35C7zIL3ilulUDw0NkdxEPCYk3DI-NCpgRSDyFQKBb-Zrr2FXO0nFVtvkNe5FvCTfbpBe9ON19TvfM9Pz90_tXcv7TkGOSDE-eNHDFZD1bs1FnnK1_6foWj9lwxt8oHkJ-MQA4iufoNcWx3JcsGZKqzc_4D55fM5ASIEvxLAMAYAH4WpAEV-eGmKcT6aU2W9I4noEMoASaAzzL8zTk17-f6yQn_4a_UazALCC9lHOAWzMCv-Y-9vj2HVib4xpCCHiBBTQL1gDQPP2r5ZjS8X9Dn64j6R_ftSoZyG1YZWPfk2ZY5aQhfTKc22aFya0c2m5lbVZZciOrrK27tnlL6klFFgSv6IXvzXGrhkyf8m5p8et_pT7WC8zyHMPRjEAJAgOENU2Dj919eC3y17x6HW-vRfVKms9t0t1P2Y93P8vtJG1u08b2uw5JDnAvOUhLx_Ndqg7QjvZCH_oIF46MI1y2j0TFdKpOD6-yganIdNrEd9NzQEgPVlwhIwgrPUbazgcGY1DOPqU1P5OjR4AEjTToRC7OIZFlJq2NWFerMYLyEGyx4kNN1iVU4FIwYqjMWWkwWMaV4cU7D8QKUqkNkqlo4QIxKlivQgryY98MnUNaVXQmz7YrKbYPhNG5FPbBNyxUx2ZyyeaYEg5ZUIw-0KFXUrXd6C8p3QV2GT1i2EVB5fSmSpnGxSgdqZJD0B1cWkHGVqP90hF1z5g9kE9BI-rBBR-MqoKBnE9prR10720WYYfrYR_7CozVWLHLmQkaZ8hQznoSksmluOqgu3m-ofpbJUzkGXnqjYlCzbfBnGCkPRzg6DrMaAcUcwi1yqg6K6RwFYF5DlyKw0FMp4oWpHUEM6_iUpmydGBcA9V3lRfcB_VydhXWvbIbowbbNhI508uG1Fde1LMmOlvjYQaxkypFhS720vOwySj94YK498p4SlDhZGXhxjB2fptv_ek7eFbYwTX5JvJhKe7q--lk6CgkgWrR2ZqrJGf6hVqWjeUgA4VlRT5nbVueyY93749HlywPnTy5nmN9gNKzUS8KVBLmN4mguwahwZ0BrwbCXrnnNIfPGpenE6cTxl1u4aEf-rklJf90OO7vE3NB59tjwurtCW7Fq9pjkc6yqClYDbmPhLkxdDcXH6C4epY3b2pYQ3Jyj6YTpo9saKdmlj8L-rFrsPaYDe38lEq7Yvey148yqSjSpWJ1yLaj2T6_kUho4WgfiNMe9nko8zx_bjEQj9tOP5ShqMtPYl1n-64zqsi65uvnxd7qjJ20FLIQLt6p25gbo-utzf0JUnSZYaTPBkj74uqc-2SddYZUw24aC2jzWUAOBTvu9HKnhPHtmB5J1wSXfU5o4s3dfgSW25gVi2aiqxFywtNVcspcyuSpNXsJCrydapy3Zy2Vyu8ZGC-V1bd24Km1gtoHXien7YTCg3sCMTBPc3_vL9XkusP6uo7ZjMyzPumXEbtWme4SEQPOqOi94hcHMWkU7onbxq4_Qm1wtyEvPi57mlN1Spypk3RsLvlGFRPTOFqUvuXBoZ8slu68ZNrsZKW_Yyca1ssPdPrrH9wI85s"
+      }
+    ]
+  }
+}

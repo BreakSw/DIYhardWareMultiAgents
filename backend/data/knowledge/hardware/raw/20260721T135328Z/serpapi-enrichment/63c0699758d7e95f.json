@@ -1,0 +1,523 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b6855cfe19bd5fe7a55",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/U9U04Z45kfZPfSR892bnHg/6a5f7b6855cfe19bd5fe7a55.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/U9U04Z45kfZPfSR892bnHg/6a5f7b6855cfe19bd5fe7a55.json_with_pixel_position",
+    "created_at": "2026-07-21 14:00:08 UTC",
+    "processed_at": "2026-07-21 14:00:08 UTC",
+    "google_url": "https://www.google.com/search?q=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors&oq=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/U9U04Z45kfZPfSR892bnHg/6a5f7b6855cfe19bd5fe7a55.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Toughpower GF3 1200W Gold 2026 Version psu atx_version form_factor pcie_connectors",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Toughpower GF3 1200W Gold 2026 Version psu atx_version form_factor pcie_connectors",
+    "total_results": 7,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b6855cfe19bd5fe7a55/images/uHzWGpSRmfxBNXT-2A5e6OAQZE38e3_C_SYsVvzRFWc.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUAAAD___8BAQH-_v4CAgL8_PwDAwMEBAT39_cdHR0jIyPJycm_v78LCwtdXV3k5OQ9PT1kZGQ4ODgYGBinp6dHR0efn5-BgYHy8vJUVFR4eHiysrLg4OBDQ0OXl5ft7e0sLCzBXAa1AAAA2klEQVQ4jd2Q3W6DMAxG7cROXGgCpe2gLf15_6ecHQaiUjdpd1u_q4Nz8kUG4D0SooVW7AzdajyduQUdPTW0u5zzroNAEE_ZeGO8z9MY4ICMHvms91Kj5LE5QoQres_4UQRhDV72kMbCyL0JzPIlMCKqPbbRGgpvU7s03KTR6DWUvr4r3vVBHHubyk2FmDShtntS6Qc9BL3gtszjvBjUyB6Hja1YSXkE5r2dhhaBwiKQHsBzg7xs-EuC8Lzm4PUnf9dAq4a1Ad3RksxNRqcOfhkKlokL0s_-P8sngGwMIPYaiGcAAAAASUVORK5CYII.png",
+      "source": "Thermaltake USA",
+      "title": "Toughpower GF3 1200W Gold 2026 Version",
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "immersive_product_page_token": "gbXRC3icLZJJjttGAEXh8wgGamBxyM5qskgxUcnirNoIJRZFMhybQ4vSBbz0FQy1bcBeOgG89TWc06SNZPnw_8Pf_Pf3rPwunOksHrMbOx_HYbbejo-xgvaXL_3QyTmdSvk31KCiQkQUCFWoIUgIUL6kYhJ1l5fyLxViCBXFgDo2IDEQIeq3IhOyLttsdz5ng9mlLzVD0xHQATaIRhRFI0SDX8tG5Nl_MTI0Fb-4uqarGBqGoRvPgxw_fHqcs-H60wu6OS_67pINK5viFUQAxCu7q-UKAaSuomwYy65d9eO8EtNyfPqfz93QHM8inbph1adldky7ts1-4fgp738NYwg0DesaVgxkEFXXFPzclPLDc_803Yv84zzX2Y97Xt_n8V7U96z93In-6Zz-8-qd9bh5eJg3633Y95HpAR-x6wH16rYZQUSjOUxCvI-9w87k46mq_2CUlYea2VG8WMKUfBe43bZls-cUnu_ki0zoRcTTW4nIKIARbS3aMLyuYtO1PCCHrcmXBLpxEPLGCzk6YRanFrcELcKg4bedtTQ-2CusgRuW1J0H11TiHjFLtn5FsYc9dRcUPGqgGZruQwgqJbyxKfAhCyqj8R2KWZJD2YRQmuvtyfGWzM4Ba7uFO3Ib26ES1_urtPha2NNF2EscOFG3jThg9qT6VQXEny4XsRv6QX2JcEET5JqppZMTNWBEezf0NskhLABv6MKTfsdr45a2EQ0dtkS3_TVMUrGpqJXiDeG1dzhVMGHxhmyhfvWT_sbtHrIKkKiqW-lwx7PTj8s4nH-CN5RM_k5pjtbyenp96enOjZABq9G2fu8egnWe_wY1XVEVpICXs2r_Ask9BE4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gbXRC3icLZJJjttGAEXh8wgGamBxyM5qskgxUcnirNoIJRZFMhybQ4vSBbz0FQy1bcBeOgG89TWc06SNZPnw_8Pf_Pf3rPwunOksHrMbOx_HYbbejo-xgvaXL_3QyTmdSvk31KCiQkQUCFWoIUgIUL6kYhJ1l5fyLxViCBXFgDo2IDEQIeq3IhOyLttsdz5ng9mlLzVD0xHQATaIRhRFI0SDX8tG5Nl_MTI0Fb-4uqarGBqGoRvPgxw_fHqcs-H60wu6OS_67pINK5viFUQAxCu7q-UKAaSuomwYy65d9eO8EtNyfPqfz93QHM8inbph1adldky7ts1-4fgp738NYwg0DesaVgxkEFXXFPzclPLDc_803Yv84zzX2Y97Xt_n8V7U96z93In-6Zz-8-qd9bh5eJg3633Y95HpAR-x6wH16rYZQUSjOUxCvI-9w87k46mq_2CUlYea2VG8WMKUfBe43bZls-cUnu_ki0zoRcTTW4nIKIARbS3aMLyuYtO1PCCHrcmXBLpxEPLGCzk6YRanFrcELcKg4bedtTQ-2CusgRuW1J0H11TiHjFLtn5FsYc9dRcUPGqgGZruQwgqJbyxKfAhCyqj8R2KWZJD2YRQmuvtyfGWzM4Ba7uFO3Ib26ES1_urtPha2NNF2EscOFG3jThg9qT6VQXEny4XsRv6QX2JcEET5JqppZMTNWBEezf0NskhLABv6MKTfsdr45a2EQ0dtkS3_TVMUrGpqJXiDeG1dzhVMGHxhmyhfvWT_sbtHrIKkKiqW-lwx7PTj8s4nH-CN5RM_k5pjtbyenp96enOjZABq9G2fu8egnWe_wY1XVEVpICXs2r_Ask9BE4"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b6855cfe19bd5fe7a55/images/uHzWGpSRmfxBNXT-2A5e6O9sVjjzFwVDoIHGZStgfRM.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Thermaltake ToughPower GF3 Power Supply",
+      "rating": 4.8,
+      "reviews": 24,
+      "price": "$238.60",
+      "extracted_price": 238.6,
+      "original_price": "$254",
+      "extracted_original_price": 254,
+      "extensions": [
+        "6% OFF"
+      ],
+      "immersive_product_page_token": "qoyguXicdVNJjuM2FAVyhtzCaICkRA3ZtazBkUt0SdZga2PQpCZbU2ko2ULfIXdwdQfoLDsBss01KqeJgmSZLN-A_x4e8H96JMXvdDOk9CWZSXrqu9F47l8iEbnT17Zr-MiGgv8GJRmLAsKCLCgSkjAUEf7K6EDLJiv4NxXKQIKKLCNJlhaHKH_LE8rLok52aZp0esMK_itSFWFxoeWQIkEsYFH-paholvwjYwhEtPAYARkAhBUov3W8fxef1yeIZFVQFHWJBkiUBIQA_vTs7fTT_4hfXsaku797fjNmedtMSbeyTGEFEQDRympKvkIASasw6fqiqVdtP67ocDu9_ovTpqtOKWVD061aViQn1tR18jfsv2QLsSzyH6Fv1bIFliVRWkRJxFDBsgiVt_Z1eOTZ53Eskz8eWfkY-0dePpL654a2ryn787vvjWbS1_20doO2DXUP7JG6PQrx1rmGGhVsk8zxixu2a6ck9IiGA53ZEM55F0Tl6FY2OgvejYJ4zStikWiYHUs9OIIBuR4eAtN8dgL-unhtYoXAqcOtfyHaPiwL_8omHuTdzshmt2rgAZY3Etg5m_l9r2uiY8XXAOZN7HMY-lw7Au8W1_aamlp_tvjAkb3zaj65gYF51OYeECExvDy-8A2rbsVeP2LfIq6_IeUZKKJXfkRPB2LS4IoSv4x2xpAGAaS7Q0wd2Gpna9g--V4UlVpOq9u4D7AfXGztHPHr0kBjhjgchQA6Oim8Wdv6mzamBrQCK-6OkEyx2RpOpUJfMO7exnw6ljlxqnY6X6EeWmoUWJ7r1trsHpy7ZwAQ6wyyAGMXGJOLbETK0A-DUmLwiIll2vswLngdd0TXhHOV3ykwx-TA-52Bp8DKRBbagIUeSAy2N5H5I7finEWh5FdxygQbeqE2s5ABpzQFq7A1b0Puuyj22SWPzpdY4xanZOnnV3x9hKZHa7Jxr-raq-P6863v0nfw0cTDfidWJ-P2YfgwtebODpEKr71lbJu1r2XZD1BWRElEIlCXH_wLBMlDyA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qoyguXicdVNJjuM2FAVyhtzCaICkRA3ZtazBkUt0SdZga2PQpCZbU2ko2ULfIXdwdQfoLDsBss01KqeJgmSZLN-A_x4e8H96JMXvdDOk9CWZSXrqu9F47l8iEbnT17Zr-MiGgv8GJRmLAsKCLCgSkjAUEf7K6EDLJiv4NxXKQIKKLCNJlhaHKH_LE8rLok52aZp0esMK_itSFWFxoeWQIkEsYFH-paholvwjYwhEtPAYARkAhBUov3W8fxef1yeIZFVQFHWJBkiUBIQA_vTs7fTT_4hfXsaku797fjNmedtMSbeyTGEFEQDRympKvkIASasw6fqiqVdtP67ocDu9_ovTpqtOKWVD061aViQn1tR18jfsv2QLsSzyH6Fv1bIFliVRWkRJxFDBsgiVt_Z1eOTZ53Eskz8eWfkY-0dePpL654a2ryn787vvjWbS1_20doO2DXUP7JG6PQrx1rmGGhVsk8zxixu2a6ck9IiGA53ZEM55F0Tl6FY2OgvejYJ4zStikWiYHUs9OIIBuR4eAtN8dgL-unhtYoXAqcOtfyHaPiwL_8omHuTdzshmt2rgAZY3Etg5m_l9r2uiY8XXAOZN7HMY-lw7Au8W1_aamlp_tvjAkb3zaj65gYF51OYeECExvDy-8A2rbsVeP2LfIq6_IeUZKKJXfkRPB2LS4IoSv4x2xpAGAaS7Q0wd2Gpna9g--V4UlVpOq9u4D7AfXGztHPHr0kBjhjgchQA6Oim8Wdv6mzamBrQCK-6OkEyx2RpOpUJfMO7exnw6ljlxqnY6X6EeWmoUWJ7r1trsHpy7ZwAQ6wyyAGMXGJOLbETK0A-DUmLwiIll2vswLngdd0TXhHOV3ykwx-TA-52Bp8DKRBbagIUeSAy2N5H5I7finEWh5FdxygQbeqE2s5ABpzQFq7A1b0Puuyj22SWPzpdY4xanZOnnV3x9hKZHa7Jxr-raq-P6863v0nfw0cTDfidWJ-P2YfgwtebODpEKr71lbJu1r2XZD1BWRElEIlCXH_wLBMlDyA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b6855cfe19bd5fe7a55/images/uHzWGpSRmfxBNXT-2A5e6GxKCqcC2Gwc3MU_uHOrwNY.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Thermaltake TOUGHPOWER GF A3 Gold",
+      "rating": 4.6,
+      "reviews": 527,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "delivery": "Free delivery by Thu",
+      "immersive_product_page_token": "Tvx3MXicbZBLrqNGFIalrCG7sFqqBy9nFtsUvsQuXwooHhMLU4XxdWG4gF8oe8gefLsjdYadSJlmGzerCd3KLNF_BufX-XXOp_PLQx7-zJZ9kb3KgRbbrj3bz91rpCHv-rlpa3HO-4P4YmnYNAzLBFMNGhY0MPicZ32m6v1B_AGBhiAAxhhBhq7rECPwpZSZUIeT3BSFbBd1_jVnmKYOpyaGyDIw1E0NTn87VNlefpv_bkETIdMa1-hjAYin-lsrunf0PN9aFrYME48MwAKajqyp-fMz2yy2_z_79HqW7f2dBfV5Xzb1VbYTh-AJRABEE6dWYoIAMiZctt2hPk2a7jzJ-tv28q8v6rbaFlne1-2kyQ9ym9enk_xqu0_75hvrf2--VeOjRnLNQBaAyDShgXQLvTWX_lHuP57PSv712KvHuXuU6iFPv9ZZcynyv7_73q6vi3l3nXth0_AFA36ghqRipw0p6zyYrdMXUvOYFf7JrXzUr1ZxmXhHAKgP8fqkntcLVQWxe44hG2X3O9WsgmWq52HqBIpQaU_xKrwOeUwuCWK9P6iXGNn9ZsmGUAkj40SLjhqQdlmLIU0Ydhtqq0POG2en6Jop-iSr0qCO64hBMA83ieA8kBHFYchqDhomK3LZRarLB9oyR6_X1e2WHt2Q8yZilfD9sFyOrL4gKl6FN09gVwtOtkad7hYtPMCiUZzZ2ZGlyaCegzmkPExf1hUBfixmCfBw5ui2XK57Dwme2e45cGDgVQSuY5rkWCCfNDolBHqhHrEX2uVLFqekTKPF7DWsGhUCfbMJ-NyLS8IcxuUR3PzKvSfYvvohOdCjPYgwjegc6NIRLIw6vLNdnCE1yyKABZ7dKCkjwe279OETjVWSxqUmeO0TRJ6Ek5Z5xI2gSoscu5Dx2ZDzHKwVwc7BnbElvW-ilPHl2INylS7Ka7T07n6kSDjQhgUlzyo322E6-3jr2uId_Ej03t9o1da-feg_XBuycTmawmPn2D_V82C23_8ATUszNKSBKbTMfwDLrkSH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Tvx3MXicbZBLrqNGFIalrCG7sFqqBy9nFtsUvsQuXwooHhMLU4XxdWG4gF8oe8gefLsjdYadSJlmGzerCd3KLNF_BufX-XXOp_PLQx7-zJZ9kb3KgRbbrj3bz91rpCHv-rlpa3HO-4P4YmnYNAzLBFMNGhY0MPicZ32m6v1B_AGBhiAAxhhBhq7rECPwpZSZUIeT3BSFbBd1_jVnmKYOpyaGyDIw1E0NTn87VNlefpv_bkETIdMa1-hjAYin-lsrunf0PN9aFrYME48MwAKajqyp-fMz2yy2_z_79HqW7f2dBfV5Xzb1VbYTh-AJRABEE6dWYoIAMiZctt2hPk2a7jzJ-tv28q8v6rbaFlne1-2kyQ9ym9enk_xqu0_75hvrf2--VeOjRnLNQBaAyDShgXQLvTWX_lHuP57PSv712KvHuXuU6iFPv9ZZcynyv7_73q6vi3l3nXth0_AFA36ghqRipw0p6zyYrdMXUvOYFf7JrXzUr1ZxmXhHAKgP8fqkntcLVQWxe44hG2X3O9WsgmWq52HqBIpQaU_xKrwOeUwuCWK9P6iXGNn9ZsmGUAkj40SLjhqQdlmLIU0Ydhtqq0POG2en6Jop-iSr0qCO64hBMA83ieA8kBHFYchqDhomK3LZRarLB9oyR6_X1e2WHt2Q8yZilfD9sFyOrL4gKl6FN09gVwtOtkad7hYtPMCiUZzZ2ZGlyaCegzmkPExf1hUBfixmCfBw5ui2XK57Dwme2e45cGDgVQSuY5rkWCCfNDolBHqhHrEX2uVLFqekTKPF7DWsGhUCfbMJ-NyLS8IcxuUR3PzKvSfYvvohOdCjPYgwjegc6NIRLIw6vLNdnCE1yyKABZ7dKCkjwe279OETjVWSxqUmeO0TRJ6Ek5Z5xI2gSoscu5Dx2ZDzHKwVwc7BnbElvW-ilPHl2INylS7Ka7T07n6kSDjQhgUlzyo322E6-3jr2uId_Ej03t9o1da-feg_XBuycTmawmPn2D_V82C23_8ATUszNKSBKbTMfwDLrkSH"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b6855cfe19bd5fe7a55/images/uHzWGpSRmfxBNXT-2A5e6LIa6KAwFwTovCl-0qLfsZI.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUAAAD___8BAQH-_v4CAgL8_PwDAwMEBAT39_cdHR0jIyPJycm_v78LCwtdXV3k5OQ9PT1kZGQ4ODgYGBinp6dHR0efn5-BgYHy8vJUVFR4eHiysrLg4OBDQ0OXl5ft7e0sLCzBXAa1AAAA2klEQVQ4jd2Q3W6DMAxG7cROXGgCpe2gLf15_6ecHQaiUjdpd1u_q4Nz8kUG4D0SooVW7AzdajyduQUdPTW0u5zzroNAEE_ZeGO8z9MY4ICMHvms91Kj5LE5QoQres_4UQRhDV72kMbCyL0JzPIlMCKqPbbRGgpvU7s03KTR6DWUvr4r3vVBHHubyk2FmDShtntS6Qc9BL3gtszjvBjUyB6Hja1YSXkE5r2dhhaBwiKQHsBzg7xs-EuC8Lzm4PUnf9dAq4a1Ad3RksxNRqcOfhkKlokL0s_-P8sngGwMIPYaiGcAAAAASUVORK5CYII.png",
+      "source": "Thermaltake USA",
+      "title": "Thermaltake Toughpower GF A3 850W 80Plus Gold Fully Modular Power Supply",
+      "rating": 3.2,
+      "reviews": 6,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "original_price": "Usually $274",
+      "extracted_original_price": 274,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "IrqsOHicdVNLrqNGFJWyhuzCaqmq-GcWP7uwaQMGQ5WpiYUpMJjv42PzUPaQPfh1R-oedkfKNNt4WU14SobJ8NxzpPOR7q-POPsj3PRJ-BxPVnLq2mG9756piJz7l6at-RD1Gf8mqQjIQFGQKmoCQiJSvkRhHxb1JeO_QwSQKiBJlWVFlEWozNpvaRzyIqtiO0nidlVHGf8uCAhAJGnqLAKSpqgq-pqV4SX-hxYFSdMkoM6kqiFZ0iTxteXdm7h_OkGoyAqQoQQkZbaCoiCjX_auvTr9D_n5eYjblzfXq4dL2tT3uF3oWFjMUQFd6HXBF3NoeUHitsvqatF0wyLsx9PtX5zUbXlKwqiv20UTZfEpqqsqfofd58t8mEv_h-lr-T6VIosyUhUNqEgCECLltbn1j_TyaRiK-M_HpXgM3SMtHnH1Wx02tyT664cf1_V99dTdnxy_acjKBYfcgkHJd4erBQIB32yCb4HAbnFZTDsPG2FFdFsXJRfwj8x3w5hYfZinz0R3gZf3o1M2o69LOCqWOa22kweNjNF-ZHjp89LAQY4DSsnOK8jRLfGe6t3EV2QKQHqPSzCecS0ehSKL8OXuZpDRlXXd-QXyr77ooBTzDaGB0HTU54G9ITumG3MGF50RNHdHE54xrwntTY-64rlk2wNtYHCAPSMOsq6ONOu3FuEDJ83gEWMgmO3CMhJd2tsh1GyTcCcgRcKmogspbogX3Z2JoJBYo3-NBKpDySuNIyFaF2IyxqvlS-gtK-tK9r63HR2CiZP3XkBrYPp57-PC50e831Fu7vz3Ls2zLzSTXxjAon1uUXM8T2lLyJKZ1RqyDekZLLIzSkdSRYDreO2u2RACa5h3lCPIG0uwVuaVCwSAngHngBHecp2lESWyV7IkEgzokuUUkQiYBRb0zFi6G-vFpuzgrvO7j_EYHQDiVWrQI6l8P5WC49KNq6JlmAmfxq5N3sDPWOoPtlie1uOH_sO9wbZBkAbzTl9_rJ-85eXyE1TeXwqJQIOq8jfj80cG",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IrqsOHicdVNLrqNGFJWyhuzCaqmq-GcWP7uwaQMGQ5WpiYUpMJjv42PzUPaQPfh1R-oedkfKNNt4WU14SobJ8NxzpPOR7q-POPsj3PRJ-BxPVnLq2mG9756piJz7l6at-RD1Gf8mqQjIQFGQKmoCQiJSvkRhHxb1JeO_QwSQKiBJlWVFlEWozNpvaRzyIqtiO0nidlVHGf8uCAhAJGnqLAKSpqgq-pqV4SX-hxYFSdMkoM6kqiFZ0iTxteXdm7h_OkGoyAqQoQQkZbaCoiCjX_auvTr9D_n5eYjblzfXq4dL2tT3uF3oWFjMUQFd6HXBF3NoeUHitsvqatF0wyLsx9PtX5zUbXlKwqiv20UTZfEpqqsqfofd58t8mEv_h-lr-T6VIosyUhUNqEgCECLltbn1j_TyaRiK-M_HpXgM3SMtHnH1Wx02tyT664cf1_V99dTdnxy_acjKBYfcgkHJd4erBQIB32yCb4HAbnFZTDsPG2FFdFsXJRfwj8x3w5hYfZinz0R3gZf3o1M2o69LOCqWOa22kweNjNF-ZHjp89LAQY4DSsnOK8jRLfGe6t3EV2QKQHqPSzCecS0ehSKL8OXuZpDRlXXd-QXyr77ooBTzDaGB0HTU54G9ITumG3MGF50RNHdHE54xrwntTY-64rlk2wNtYHCAPSMOsq6ONOu3FuEDJ83gEWMgmO3CMhJd2tsh1GyTcCcgRcKmogspbogX3Z2JoJBYo3-NBKpDySuNIyFaF2IyxqvlS-gtK-tK9r63HR2CiZP3XkBrYPp57-PC50e831Fu7vz3Ls2zLzSTXxjAon1uUXM8T2lLyJKZ1RqyDekZLLIzSkdSRYDreO2u2RACa5h3lCPIG0uwVuaVCwSAngHngBHecp2lESWyV7IkEgzokuUUkQiYBRb0zFi6G-vFpuzgrvO7j_EYHQDiVWrQI6l8P5WC49KNq6JlmAmfxq5N3sDPWOoPtlie1uOH_sO9wbZBkAbzTl9_rJ-85eXyE1TeXwqJQIOq8jfj80cG"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b6855cfe19bd5fe7a55/images/uHzWGpSRmfxBNXT-2A5e6AvlpyjdCZep4FHxiV7LFqY.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUAAAD___8BAQH-_v4CAgL8_PwDAwMEBAT39_cdHR0jIyPJycm_v78LCwtdXV3k5OQ9PT1kZGQ4ODgYGBinp6dHR0efn5-BgYHy8vJUVFR4eHiysrLg4OBDQ0OXl5ft7e0sLCzBXAa1AAAA2klEQVQ4jd2Q3W6DMAxG7cROXGgCpe2gLf15_6ecHQaiUjdpd1u_q4Nz8kUG4D0SooVW7AzdajyduQUdPTW0u5zzroNAEE_ZeGO8z9MY4ICMHvms91Kj5LE5QoQres_4UQRhDV72kMbCyL0JzPIlMCKqPbbRGgpvU7s03KTR6DWUvr4r3vVBHHubyk2FmDShtntS6Qc9BL3gtszjvBjUyB6Hja1YSXkE5r2dhhaBwiKQHsBzg7xs-EuC8Lzm4PUnf9dAq4a1Ad3RksxNRqcOfhkKlokL0s_-P8sngGwMIPYaiGcAAAAASUVORK5CYII.png",
+      "source": "Thermaltake USA",
+      "title": "Thermaltake Toughpower GF3 Snow 1200W Power Supply",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "original_price": "Usually $200",
+      "extracted_original_price": 200,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "9c-dOnicbZBdjqNGFIWlrCG7sEaqKigweQs20E23ocFQZdeLVaYAMxQ_BtxgK3vIHtwzkWYeZyLlNdvorCa2NI_zeO45916d789rWvzDH4aMH9OLl-367mS99EeqomD80naNOCVDIb5hQwW6oSBVQ3Osz3XN-JLwgcsmL8TfEKtzhHVdwQrAUFNUBPRvh5QLWdSpn2Vpt2ySe26O5nMdIYABhIqmGbqKvxYVz9MfvqpjFWpAnRsIGvh2yDDeOtG_o5fFTgeGomFFBUCDClQAVJU_XkJ_ufu59_l4Srvzexg1p_zQNmPazRxbmUEEAJ05jRQzBJA2I2nXF009a_vTjA_T7vWHzpqu2mU8GZpu1iZFukuauk7vsv-c3wbi-09-vlV3Urp2hwSBgZCG9DmGb-3rcD3kn04nmf57zeX11F8P8prWfzW8fc2S_3751WrG5aIfF0HctmQZgsh2i1UpPsZL8hJaxtYDqhpEcljb4hxIo_HXUGMwudBIki3NcRy3nh-zeg967C_N-JY7Uge_MGeAz3Q6kY0kApJlEE9eRFuXxpMfoOmSbtwzeUjOzJqetnED91aMeC3gNnY3SdVDVrqUkGRMkMFuO5cgcv0VClRGwkEg9ZxYRrCXImbOwWIggJxOAZWkEsR9XEXkKaqmI4Ottyol3ShuFJatmVbtJamgx2uXB8oWb4kg-xgMYuNq1CIXDxhHRmxnXcrXEJpFDEXHKvEsavc5AkMXwfDMYjbxuEEcyS1XROU7XiWgCaJqOBNpT6Q0IEEG9KR53JaPY1gdTtxK8D7KzwId2i2wLivgtikNzRUYWAK9LHwgMoTlSB1m7mV44zGOYeSBFVWxKJkZOQFaQ4aFEuLIGT7yOL4IOz7v6eGZ0nxtI_tROOyQUKJFFcsSxYUhMS8JScBK2opTuGb44J19ytZrymSwCcOgNjNO2sW-bBV2CfnKOhQcbpXV0qw_TX2XvYPfbTysfbXaWdOH4cPY2r57b1b2jvXULCIzz3-D-lzVVKQCA871_wFjrUVa",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9c-dOnicbZBdjqNGFIWlrCG7sEaqKigweQs20E23ocFQZdeLVaYAMxQ_BtxgK3vIHtwzkWYeZyLlNdvorCa2NI_zeO45916d789rWvzDH4aMH9OLl-367mS99EeqomD80naNOCVDIb5hQwW6oSBVQ3Osz3XN-JLwgcsmL8TfEKtzhHVdwQrAUFNUBPRvh5QLWdSpn2Vpt2ySe26O5nMdIYABhIqmGbqKvxYVz9MfvqpjFWpAnRsIGvh2yDDeOtG_o5fFTgeGomFFBUCDClQAVJU_XkJ_ufu59_l4Srvzexg1p_zQNmPazRxbmUEEAJ05jRQzBJA2I2nXF009a_vTjA_T7vWHzpqu2mU8GZpu1iZFukuauk7vsv-c3wbi-09-vlV3Urp2hwSBgZCG9DmGb-3rcD3kn04nmf57zeX11F8P8prWfzW8fc2S_3751WrG5aIfF0HctmQZgsh2i1UpPsZL8hJaxtYDqhpEcljb4hxIo_HXUGMwudBIki3NcRy3nh-zeg967C_N-JY7Uge_MGeAz3Q6kY0kApJlEE9eRFuXxpMfoOmSbtwzeUjOzJqetnED91aMeC3gNnY3SdVDVrqUkGRMkMFuO5cgcv0VClRGwkEg9ZxYRrCXImbOwWIggJxOAZWkEsR9XEXkKaqmI4Ottyol3ShuFJatmVbtJamgx2uXB8oWb4kg-xgMYuNq1CIXDxhHRmxnXcrXEJpFDEXHKvEsavc5AkMXwfDMYjbxuEEcyS1XROU7XiWgCaJqOBNpT6Q0IEEG9KR53JaPY1gdTtxK8D7KzwId2i2wLivgtikNzRUYWAK9LHwgMoTlSB1m7mV44zGOYeSBFVWxKJkZOQFaQ4aFEuLIGT7yOL4IOz7v6eGZ0nxtI_tROOyQUKJFFcsSxYUhMS8JScBK2opTuGb44J19ytZrymSwCcOgNjNO2sW-bBV2CfnKOhQcbpXV0qw_TX2XvYPfbTysfbXaWdOH4cPY2r57b1b2jvXULCIzz3-D-lzVVKQCA871_wFjrUVa"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the difference between Thermaltake Toughpower GF3 1000W and Corsair RM1000e?",
+      "type": "featured_snippet",
+      "snippet": "Thermaltake Toughpower GF3 TT Premium 1000W and CORSAIR RM1000e White 2025 are both power supplies with the same Wattage (1000 W), Modular (Full) and PCI-Express 16 Pin 12VHPWR Connectors (1). The main differences are in SATA Connectors, Molex Connectors and Length.",
+      "title": "Thermaltake Toughpower GF3 TT Premium 1000W vs CORSAIR ...",
+      "link": "https://pangoly.com/en/compare/psu/thermaltake-toughpower-gf3-tt-premium-1000w-vs-corsair-rm1000e-white-2025",
+      "displayed_link": "https://pangoly.com › compare › psu › thermaltake-toug...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEVHcEz_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_XwsfBYZcAAAAEXRSTlMAByaRv29ifUo3q4bYGFed7SvBmEkAAACXSURBVHgBYgADQM3TYcAACMKCCIis_n9td5S9afGWhT9023FR5Z-LrkaYqnjy136XyNGKdgEwqIm4CIIkv9hmKSLCdeYggQvAIuPRrXoMvTDihcFcrzEIpY_uw8yQ7g3bxDXK_QpXPwJnoAODRevj4AUjyGIC1gL0JSu8E6yrXFLwgqSSxrS62O-YDuZY_Yr_UVfP-d76BNr9BZQzLRtIAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU16aElkRFZGVGpNelNtNUZaRXd5VERKNFRYVnFUWFF0UzBOSGJrVlZkSGc0T1V0Wk5tVklRVXRFTWxOdldtZ3phV2hQUzBNeFVIZGtSa1p1YUhoV1p5MW9Oa1ZVVUVKdFdUSmhRak15VDNjdFRIbG9VVzVCZEVSb1FSSVhZVWgwWm1GeFpYcE9abDl6Y25WRlVITnhWelF5VVhjYUlrRkVjM0k1WmxGM1JXc3RhblpUZDBGVVVETlhPWFpMY1RaallWOTNNamRKZFdjIiwiZmN2IjoiMyIsImVpIjoiYUh0ZmFxZXpOZl9zcnVFUHNxVzQyUXciLCJxYyI6ImMtTUtLc2t2VGM4b3lDOVBMVkpJVHpOV01EUXlNQ2hYU01fUFNWRXdNakF5VXloTExTck96TTlUS0NndVZVZ3NxWWlIOGRQeWkzTGoweEtUU19LTEZBcVNNMVBqa19QejhsSkIzR0lCaHRyVmpMcjJBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIFRoZXJtYWx0YWtlIFRvdWdocG93ZXIgR0YzIDEwMDBXIGFuZCBDb3JzYWlyIFJNMTAwMGU/IiwibGsiOiJHak4wYUdWeWJXRnNkR0ZyWlNCMGIzVm5hSEJ2ZDJWeUlHZG1NeUF4TURBd2R5QjJjeUJqYjNKellXbHlJSEp0TVRBd01HVSIsImJzIjoiYy1PYXdNZ1ZFcDZSV0tLUVdheFFrcEdxa0pLWmxwWmFsSnFYbktxUWxGcFNucHFhcHhDU2tWcVVtNWhUa3BpZHFoQ1NYNXFlVVpCZm5scWs0TzVtckdCb1lHQVFycENZbDZMZ25GOVVuSmhacEJEa0N4Skx0WmU0WVcxa0ttVmNncVMzQktFM1BRMml0MXlockZnaEdhcTFLQmVzVllBUkFBIiwiaWQiOiJmY19hSHRmYXFlek5mX3NydUVQc3FXNDJRd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU16aElkRFZGVGpNelNtNUZaRXd5VERKNFRYVnFUWFF0UzBOSGJrVlZkSGc0T1V0Wk5tVklRVXRFTWxOdldtZ3phV2hQUzBNeFVIZGtSa1p1YUhoV1p5MW9Oa1ZVVUVKdFdUSmhRak15VDNjdFRIbG9VVzVCZEVSb1FSSVhZVWgwWm1GeFpYcE9abDl6Y25WRlVITnhWelF5VVhjYUlrRkVjM0k1WmxGM1JXc3RhblpUZDBGVVVETlhPWFpMY1RaallWOTNNamRKZFdjIiwiZmN2IjoiMyIsImVpIjoiYUh0ZmFxZXpOZl9zcnVFUHNxVzQyUXciLCJxYyI6ImMtTUtLc2t2VGM4b3lDOVBMVkpJVHpOV01EUXlNQ2hYU01fUFNWRXdNakF5VXloTExTck96TTlUS0NndVZVZ3NxWWlIOGRQeWkzTGoweEtUU19LTEZBcVNNMVBqa19QejhsSkIzR0lCaHRyVmpMcjJBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIFRoZXJtYWx0YWtlIFRvdWdocG93ZXIgR0YzIDEwMDBXIGFuZCBDb3JzYWlyIFJNMTAwMGU%2FIiwibGsiOiJHak4wYUdWeWJXRnNkR0ZyWlNCMGIzVm5hSEJ2ZDJWeUlHZG1NeUF4TURBd2R5QjJjeUJqYjNKellXbHlJSEp0TVRBd01HVSIsImJzIjoiYy1PYXdNZ1ZFcDZSV0tLUVdheFFrcEdxa0pLWmxwWmFsSnFYbktxUWxGcFNucHFhcHhDU2tWcVVtNWhUa3BpZHFoQ1NYNXFlVVpCZm5scWs0TzVtckdCb1lHQVFycENZbDZMZ25GOVVuSmhacEJEa0N4Skx0WmU0WVcxa0ttVmNncVMzQktFM1BRMml0MXlockZnaEdhcTFLQmVzVllBUkFBIiwiaWQiOiJmY19hSHRmYXFlek5mX3NydUVQc3FXNDJRd18xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "7yuiinicxZbrkqo4EIAfYB9ify1_PAp4G50q6lSCiMyMF2accTx_KG4GhkuUoOj823fZp9qn2YCi4KinzlZtbVsQOnQ6naQ_2j__8t3Q-_u33504XpJ7lk2SpIYwRr5dM3HA6mQXmuwC-yQyne-OL9ghg3xhTZjdRmgwJhE4xnYFfRAv9JX9OVpoJFpLE7KaNetqwmTDBc3Qif1BvW8_CKux9Ob90ehRpUZqdljrWhPbNqKx3UW1Osd3a2NWD6gB-C9FARC4ACD6UzL1XESA1NsuEABSehdPdrkbqWCWZBqE1GNmIV71h7LGlQB1OIFhyyEAyPtO81YgD2W1nw5RVJguQhH3gZ7LpaXBvFWL2kW58BIe_OZLb96cKxVFKfuh80pa1qWWZ1GKTtS0e549jlVg9xLgJOjxRqwiBj0Zvajo0ikXZQmcST6PATh6UKyFaB5yrBHRhmdd0zGzh4ik6SlOuxyW7ffFzpvozqa6qYbeNoiqT6HmfXaNjcqaBrXzsW7ZluZo3PdM5-t8i-s27jrfMi5McgSDlMB49X1jPHgaqrj2VIN8gQp03JWC0E74fHGb1cOivgyA-RYjKXvY5a9w_gBxOvg0sN9TYAJAjmYzzbUe-prRNJgLVGRyRGMIMiqy4MR9e3BUzAqEjgMKeTQ4m68YAczdiwplL--TTwaqWGZQpNvmHSEZll2pjrRPP_hyMBnDZoFvkdJaoF3cL1FFEJaXouxX0CzY0S6alHOg_qD6A0LHj1E2SDkEdJz3FFSZPnoESHyVbvJ6TW5xcxAE8vQ_y-YSBdPZsNE2QvOxKtUVR5Z7dqu6HjX4VaxeznocGL9QD8z_mYtDtcB5tbjAhfMTLrJqga5Xi0MSJTkXmd0jFK9y4WVtuVoMzqrFJS4eylycqoV6Vi1OXKSh3OYC3uICXuOCfvC_cKFe4SKvFgUuvLNqAY-7mnaduPj1aqH_u2qRYWLvm3LpWH-gqyWkv_V3uPU6eY6dbf_Jehklk64I74bV9x76aQlZBPF9oFv-N8217mH9Id5Z3zTage9ti1kJU7xGzhIndlSR-40KX-e4WUXGvlWpc_V25c2OiIvDypKsK3q81TYHfYGjQFvoZoyjytJ0bc3EYWinKmECP8ICpze12UietX-s1cFHc2jqk404nOnTXStxEmPAtSNuNQxerNXc67UbcXth7chAXc5VyfI-Hlx-2u90Xs3xcgqDzzeCp3zclkfjxtJf1QeO1Xfj6WAyd563fHdjduzB9EVvvGuGLJqS2ZsuYu195jZEtHleaY9v885rALK4iBB3iPX5vBs60ZwJIlMQgdL0wEilf6SgCUSaVSKiF6ZXQo-PIaau2WQj1K3uotu643Sj09I7bZsJULxbCk2eIWEk8P8AGBIxqw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7yuiinicxZbrkqo4EIAfYB9ify1_PAp4G50q6lSCiMyMF2accTx_KG4GhkuUoOj823fZp9qn2YCi4KinzlZtbVsQOnQ6naQ_2j__8t3Q-_u33504XpJ7lk2SpIYwRr5dM3HA6mQXmuwC-yQyne-OL9ghg3xhTZjdRmgwJhE4xnYFfRAv9JX9OVpoJFpLE7KaNetqwmTDBc3Qif1BvW8_CKux9Ob90ehRpUZqdljrWhPbNqKx3UW1Osd3a2NWD6gB-C9FARC4ACD6UzL1XESA1NsuEABSehdPdrkbqWCWZBqE1GNmIV71h7LGlQB1OIFhyyEAyPtO81YgD2W1nw5RVJguQhH3gZ7LpaXBvFWL2kW58BIe_OZLb96cKxVFKfuh80pa1qWWZ1GKTtS0e549jlVg9xLgJOjxRqwiBj0Zvajo0ikXZQmcST6PATh6UKyFaB5yrBHRhmdd0zGzh4ik6SlOuxyW7ffFzpvozqa6qYbeNoiqT6HmfXaNjcqaBrXzsW7ZluZo3PdM5-t8i-s27jrfMi5McgSDlMB49X1jPHgaqrj2VIN8gQp03JWC0E74fHGb1cOivgyA-RYjKXvY5a9w_gBxOvg0sN9TYAJAjmYzzbUe-prRNJgLVGRyRGMIMiqy4MR9e3BUzAqEjgMKeTQ4m68YAczdiwplL--TTwaqWGZQpNvmHSEZll2pjrRPP_hyMBnDZoFvkdJaoF3cL1FFEJaXouxX0CzY0S6alHOg_qD6A0LHj1E2SDkEdJz3FFSZPnoESHyVbvJ6TW5xcxAE8vQ_y-YSBdPZsNE2QvOxKtUVR5Z7dqu6HjX4VaxeznocGL9QD8z_mYtDtcB5tbjAhfMTLrJqga5Xi0MSJTkXmd0jFK9y4WVtuVoMzqrFJS4eylycqoV6Vi1OXKSh3OYC3uICXuOCfvC_cKFe4SKvFgUuvLNqAY-7mnaduPj1aqH_u2qRYWLvm3LpWH-gqyWkv_V3uPU6eY6dbf_Jehklk64I74bV9x76aQlZBPF9oFv-N8217mH9Id5Z3zTage9ti1kJU7xGzhIndlSR-40KX-e4WUXGvlWpc_V25c2OiIvDypKsK3q81TYHfYGjQFvoZoyjytJ0bc3EYWinKmECP8ICpze12UietX-s1cFHc2jqk404nOnTXStxEmPAtSNuNQxerNXc67UbcXth7chAXc5VyfI-Hlx-2u90Xs3xcgqDzzeCp3zclkfjxtJf1QeO1Xfj6WAyd563fHdjduzB9EVvvGuGLJqS2ZsuYu195jZEtHleaY9v885rALK4iBB3iPX5vBs60ZwJIlMQgdL0wEilf6SgCUSaVSKiF6ZXQo-PIaau2WQj1K3uotu643Sj09I7bZsJULxbCk2eIWEk8P8AGBIxqw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Thermaltake Toughpower GF3 1200W; ATX 3.1; x2 Native ...",
+      "link": "https://www.amazon.com/Thermaltake-Toughpower-Crossfire-Connector-PS-TPD-1200FNFAGU-4/dp/B0BF4YRCK8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FThermaltake-Toughpower-Crossfire-Connector-PS-TPD-1200FNFAGU-4%2Fdp%2FB0BF4YRCK8&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECBgQAQ",
+      "displayed_link": "https://www.amazon.com › Thermaltake-Toughpower-Cr...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Connector Type ATX, PCI Express Output Wattage 1200 Watts Form Factor ATX … 6 cable capable of delivering up to 600W",
+      "snippet_highlighted_words": [
+        "Connector Type ATX, PCI Express"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Connector Type ATX, PCI Express Output Wattage 1200 Watts Form Factor ATX … 6 cable capable of delivering up to 600W",
+          "source_info_link": "https://www.amazon.com/Thermaltake-Toughpower-Crossfire-Connector-PS-TPD-1200FNFAGU-4/dp/B0BF4YRCK8",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FThermaltake-Toughpower-Crossfire-Connector-PS-TPD-1200FNFAGU-4%2Fdp%2FB0BF4YRCK8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FThermaltake-Toughpower-Crossfire-Connector-PS-TPD-1200FNFAGU-4%2Fdp%2FB0BF4YRCK8",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 2,
+      "title": "Toughpower GF3 1200W Gold (2026 Version)",
+      "link": "https://thermaltakeusa.com/products/toughpower-gf3-1200w-gold-tt-premium-edition-ps-tpd-1200fnfagu-4?srsltid=AfmBOopAWmEI88Juwanag56Eo7ldbzklbXaUYa55M6NvInpMZEAeemG9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fthermaltakeusa.com%2Fproducts%2Ftoughpower-gf3-1200w-gold-tt-premium-edition-ps-tpd-1200fnfagu-4%3Fsrsltid%3DAfmBOopAWmEI88Juwanag56Eo7ldbzklbXaUYa55M6NvInpMZEAeemG9&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECDQQAQ",
+      "displayed_link": "https://thermaltakeusa.com › products › toughpower-gf...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAwElEQVR4Ac2RIQjDQAwAM_eeQeXkzFy9qq2tKtTUTL5qvHiorZdTk_U17-ZV3bybDg9Z8oWuG2MwU3rqyEEgBDbHbuJdZ_mFKdFaLFRzK9QHsWOcGUhurHQngD6azwHKKAkknoPAvoCrGvOIUHAgHvYaiYiZ701PgtRHd2aK0VQO0Y4cZIaIje4OlwbRlQYmBons1ByL9vOhctUitlN8XfktwgqR5hjoI3oWWvVObYDlT7K6qupULVXL_n35wrbJEyktrsPPxjBvAAAAAElFTkSuQmCC.png",
+      "snippet": "Built to meet Intel ATX 3.1 power supply requirements and equipped with a native 12+4pin PCIe Gen5.1 modular connector to support next-generation GPUs. PCIe 12V ...",
+      "snippet_highlighted_words": [
+        "Built to meet Intel ATX 3.1 power supply requirements"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Built to meet Intel ATX 3.1 power supply requirements and equipped with a native 12+4pin PCIe Gen5.1 modular connector to support next-generation GPUs. PCIe 12V ...",
+          "source_info_link": "https://thermaltakeusa.com/products/toughpower-gf3-1200w-gold-tt-premium-edition-ps-tpd-1200fnfagu-4?srsltid=AfmBOopAWmEI88Juwanag56Eo7ldbzklbXaUYa55M6NvInpMZEAeemG9",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAwElEQVR4Ac2RIQjDQAwAM_eeQeXkzFy9qq2tKtTUTL5qvHiorZdTk_U17-ZV3bybDg9Z8oWuG2MwU3rqyEEgBDbHbuJdZ_mFKdFaLFRzK9QHsWOcGUhurHQngD6azwHKKAkknoPAvoCrGvOIUHAgHvYaiYiZ701PgtRHd2aK0VQO0Y4cZIaIje4OlwbRlQYmBons1ByL9vOhctUitlN8XfktwgqR5hjoI3oWWvVObYDlT7K6qupULVXL_n35wrbJEyktrsPPxjBvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fthermaltakeusa.com%2Fproducts%2Ftoughpower-gf3-1200w-gold-tt-premium-edition-ps-tpd-1200fnfagu-4%3Fsrsltid%3DAfmBOopAWmEI88Juwanag56Eo7ldbzklbXaUYa55M6NvInpMZEAeemG9&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthermaltakeusa.com%2Fproducts%2Ftoughpower-gf3-1200w-gold-tt-premium-edition-ps-tpd-1200fnfagu-4%3Fsrsltid%3DAfmBOopAWmEI88Juwanag56Eo7ldbzklbXaUYa55M6NvInpMZEAeemG9",
+      "source": "Thermaltake USA",
+      "read_more_link": "https://thermaltakeusa.com/products/toughpower-gf3-1200w-gold-tt-premium-edition-ps-tpd-1200fnfagu-4?srsltid=AfmBOopAWmEI88Juwanag56Eo7ldbzklbXaUYa55M6NvInpMZEAeemG9"
+    },
+    {
+      "position": 3,
+      "title": "[PSU] Thermaltake Toughpower GF3 1200W 80+ Gold ...",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/17vasia/psu_thermaltake_toughpower_gf3_1200w_80_gold_pcie/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F17vasia%2Fpsu_thermaltake_toughpower_gf3_1200w_80_gold_pcie%2F&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECC8QAQ",
+      "displayed_link": "20+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Toughpower GF3 1200W 80+ Gold PCIe Gen 5 ATX 3.0 Fully Modular Power Supply $151.57 PSU amazon.com ・ is a gold A-tier ・ has a 7-year warranty,",
+      "snippet_highlighted_words": [
+        "Toughpower GF3 1200W 80+ Gold PCIe Gen 5 ATX 3.0 Fully Modular Power Supply"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Toughpower GF3 1200W 80+ Gold PCIe Gen 5 ATX 3.0 Fully Modular Power Supply $151.57 PSU amazon.com ・ is a gold A-tier ・ has a 7-year warranty,",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/17vasia/psu_thermaltake_toughpower_gf3_1200w_80_gold_pcie/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F17vasia%2Fpsu_thermaltake_toughpower_gf3_1200w_80_gold_pcie%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F17vasia%2Fpsu_thermaltake_toughpower_gf3_1200w_80_gold_pcie%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 4,
+      "title": "Toughpower GF3 1200W Gold - TT Premium Edition",
+      "link": "https://www.thermaltake.com/toughpower-gf3-1200w-gold-tt-premium-edition.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.thermaltake.com%2Ftoughpower-gf3-1200w-gold-tt-premium-edition.html&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECC4QAQ",
+      "displayed_link": "https://www.thermaltake.com › toughpower-gf3-1200w-...",
+      "snippet": "Designed with a native PCIe 12+4pin connector, the Toughpower GF3 series is compatible with Intel 's ATX 3.0 specification and is built for next-gen PCIe 5.0 ...",
+      "snippet_highlighted_words": [
+        "Toughpower GF3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Designed with a native PCIe 12+4pin connector, the Toughpower GF3 series is compatible with Intel 's ATX 3.0 specification and is built for next-gen PCIe 5.0 ...",
+          "source_info_link": "https://www.thermaltake.com/toughpower-gf3-1200w-gold-tt-premium-edition.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.thermaltake.com%2Ftoughpower-gf3-1200w-gold-tt-premium-edition.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thermaltake.com%2Ftoughpower-gf3-1200w-gold-tt-premium-edition.html",
+      "source": "Thermaltake"
+    },
+    {
+      "position": 5,
+      "title": "Toughpower GF3 1200W 80 PLUS Gold PCIe Gen 5 ATX ...",
+      "link": "https://www.bestbuy.com/product/thermaltake-toughpower-gf3-1200w-80-plus-gold-pcie-gen-5-atx-3-0-ready-fully-modular-power-supply-black/J39ZPC9YW3/sku/11529276",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fthermaltake-toughpower-gf3-1200w-80-plus-gold-pcie-gen-5-atx-3-0-ready-fully-modular-power-supply-black%2FJ39ZPC9YW3%2Fsku%2F11529276&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECEQQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Power Supplies",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Designed with a native PCIe 12+4pin connector, the Toughpower GF3 series is compatible with Intel's ATX 3.0 specification and is built for next-gen PCIe 5.0 ...",
+      "snippet_highlighted_words": [
+        "compatible"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Designed with a native PCIe 12+4pin connector, the Toughpower GF3 series is compatible with Intel's ATX 3.0 specification and is built for next-gen PCIe 5.0 ...",
+          "source_info_link": "https://www.bestbuy.com/product/thermaltake-toughpower-gf3-1200w-80-plus-gold-pcie-gen-5-atx-3-0-ready-fully-modular-power-supply-black/J39ZPC9YW3/sku/11529276",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fthermaltake-toughpower-gf3-1200w-80-plus-gold-pcie-gen-5-atx-3-0-ready-fully-modular-power-supply-black%2FJ39ZPC9YW3%2Fsku%2F11529276&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fthermaltake-toughpower-gf3-1200w-80-plus-gold-pcie-gen-5-atx-3-0-ready-fully-modular-power-supply-black%2FJ39ZPC9YW3%2Fsku%2F11529276",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/product/thermaltake-toughpower-gf3-1200w-80-plus-gold-pcie-gen-5-atx-3-0-ready-fully-modular-power-supply-black/J39ZPC9YW3/sku/11529276"
+    },
+    {
+      "position": 6,
+      "title": "Thermaltake Toughpower GF3 1200W ATX v3.0 Power ...",
+      "link": "https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1200w-atx-v30-power-supply-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fthermaltake-toughpower-gf3-1200w-atx-v30-power-supply-review&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECDMQAQ",
+      "displayed_link": "https://www.tomshardware.com › ... › Power Supplies",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png",
+      "date": "Dec 4, 2022",
+      "snippet": "The Toughpower GF3 1200W has a native 12VHPWR connector, and it is ATX v3.0 compatible, meaning that it can deliver double its power, 2,400W, ...",
+      "snippet_highlighted_words": [
+        "Toughpower GF3 1200W"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0
+          },
+          "extensions": [
+            "4.0",
+            "Review by Aris Mpitziopoulos"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Toughpower GF3 1200W has a native 12VHPWR connector, and it is ATX v3.0 compatible, meaning that it can deliver double its power, 2,400W, ...",
+          "source_info_link": "https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1200w-atx-v30-power-supply-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fthermaltake-toughpower-gf3-1200w-atx-v30-power-supply-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fthermaltake-toughpower-gf3-1200w-atx-v30-power-supply-review",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://www.tomshardware.com/reviews/thermaltake-toughpower-gf3-1200w-atx-v30-power-supply-review"
+    },
+    {
+      "position": 7,
+      "title": "Thermaltake Toughpower GF3 1200W; ATX 3.1; x2 Native ...",
+      "link": "https://www.newegg.com/thermaltake-toughpower-gf3-snow-series-atx-12v-v3-0-eps-v2-93-1200-w-80-plus-gold-certified-power-supplies-ps-tpd-1200fnfagu-n/p/N82E16817153457?srsltid=AfmBOopwGyTLa4-cZhVTT-3sgE0gNkIETV54oAM9S0z2l_p43xZWwQDt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fthermaltake-toughpower-gf3-snow-series-atx-12v-v3-0-eps-v2-93-1200-w-80-plus-gold-certified-power-supplies-ps-tpd-1200fnfagu-n%2Fp%2FN82E16817153457%3Fsrsltid%3DAfmBOopwGyTLa4-cZhVTT-3sgE0gNkIETV54oAM9S0z2l_p43xZWwQDt&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQFnoECDIQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Thermaltake",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Power your setup with the Thermaltake Toughpower GF3 1200W. Featuring ATX 3.1, dual PCIe 5.1 cables, and 80 Plus Gold efficiency, it's perfect for modern ...",
+      "snippet_highlighted_words": [
+        "Toughpower GF3 1200W",
+        "Gold"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Power your setup with the Thermaltake Toughpower GF3 1200W. Featuring ATX 3.1, dual PCIe 5.1 cables, and 80 Plus Gold efficiency, it's perfect for modern ...",
+          "source_info_link": "https://www.newegg.com/thermaltake-toughpower-gf3-snow-series-atx-12v-v3-0-eps-v2-93-1200-w-80-plus-gold-certified-power-supplies-ps-tpd-1200fnfagu-n/p/N82E16817153457?srsltid=AfmBOopwGyTLa4-cZhVTT-3sgE0gNkIETV54oAM9S0z2l_p43xZWwQDt",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fthermaltake-toughpower-gf3-snow-series-atx-12v-v3-0-eps-v2-93-1200-w-80-plus-gold-certified-power-supplies-ps-tpd-1200fnfagu-n%2Fp%2FN82E16817153457%3Fsrsltid%3DAfmBOopwGyTLa4-cZhVTT-3sgE0gNkIETV54oAM9S0z2l_p43xZWwQDt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fthermaltake-toughpower-gf3-snow-series-atx-12v-v3-0-eps-v2-93-1200-w-80-plus-gold-certified-power-supplies-ps-tpd-1200fnfagu-n%2Fp%2FN82E16817153457%3Fsrsltid%3DAfmBOopwGyTLa4-cZhVTT-3sgE0gNkIETV54oAM9S0z2l_p43xZWwQDt",
+      "source": "Newegg"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Thermaltake Toughpower GF3 1200W review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+Toughpower+GF3+1200W+review&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+Toughpower+GF3+1200W+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Thermaltake toughpower gf3 1200w cables",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+toughpower+gf3+1200w+cables&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+toughpower+gf3+1200w+cables"
+    },
+    {
+      "block_position": 1,
+      "query": "Toughpower gf3 1200w gold tt premium edition",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Toughpower+gf3+1200w+gold+tt+premium+edition&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Toughpower+gf3+1200w+gold+tt+premium+edition"
+    },
+    {
+      "block_position": 1,
+      "query": "Thermaltake Toughpower GF3 1000W",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+Toughpower+GF3+1000W&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+Toughpower+GF3+1000W"
+    },
+    {
+      "block_position": 1,
+      "query": "Thermaltake Toughpower GF3 1350W",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+Toughpower+GF3+1350W&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+Toughpower+GF3+1350W"
+    },
+    {
+      "block_position": 1,
+      "query": "Thermaltake GF3",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+GF3&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+GF3"
+    },
+    {
+      "block_position": 1,
+      "query": "Thermaltake Toughpower GF3 750W",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+Toughpower+GF3+750W&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+Toughpower+GF3+750W"
+    },
+    {
+      "block_position": 1,
+      "query": "Thermaltake Toughpower GF3 850W",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Thermaltake+Toughpower+GF3+850W&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thermaltake+Toughpower+GF3+850W"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYEipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAF6BAgbEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYEipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAJ6BAgbEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors+sale&gl=us&shoprs=CAESBEoCGAEYBipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczITCAYSB09uIHNhbGUYAiIESgIYAViJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAN6BAgbEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors+sale"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&q=toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFABUgBKgQQARgBYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAR6BAgbEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors+for+sale&gl=us&shoprs=CAEYEipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAV6BAgbEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors+for+sale"
+    },
+    {
+      "query": "Modular",
+      "link": "https://www.google.com/search?hl=en&q=modular+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIXCAESB01vZHVsYXI6CgjT-jsQ1Po7MANYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAZ6BAgbEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=modular+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYEipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAd6BAgbEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?hl=en&q=atx+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczITCAESA0FUWDoKCOfJLhDoyS4wAliJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAh6BAgbEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYCipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIHCAoSA05ld1iJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAl6BAgbEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&q=used+Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYCipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIICAoSBFVzZWRYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAp6BAgbEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "80 PLUS Gold",
+      "link": "https://www.google.com/search?hl=en&q=80+plus+gold+toughpower+gf3+1200w+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIcCAESDDgwIFBMVVMgR29sZDoKCNb6OxDa-jswAFiJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAt6BAgbEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=80+plus+gold+toughpower+gf3+1200w+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKAx6BAgbEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?hl=en&q=replacement+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYEipSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIPCBISC1JlcGxhY2VtZW50YAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKA16BAgbEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Power Adapters & Chargers",
+      "link": "https://www.google.com/search?hl=en&q=power+adapters+%26+chargers+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYCSpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIdCAkSGVBvd2VyIEFkYXB0ZXJzICYgQ2hhcmdlcnNgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKA56BAgbEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=power+adapters+%26+chargers+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "AC/DC Power Converters",
+      "link": "https://www.google.com/search?hl=en&q=ac%2Fdc+power+converters+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYCSpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIaCAkSFkFDL0RDIFBvd2VyIENvbnZlcnRlcnNgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKA96BAgbEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ac%2Fdc+power+converters+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Silver",
+      "link": "https://www.google.com/search?hl=en&q=silver+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIYCAESBlNpbHZlcjoMCNiM9QEQiujZAzALWImrIGAB&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBB6BAgbEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=silver+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Under $90",
+      "link": "https://www.google.com/search?hl=en&q=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors+under+%2490&gl=us&shoprs=CAESDRILEQAAAAAqdZVBGAEYBSpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIiCAUSCVVuZGVyICQ5MBgCIg0SCxEAAAAAKnWVQRgBKgIYAViJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBF6BAgbEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors+under+%2490"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?hl=en&q=white+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBJ6BAgbEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?hl=en&q=green+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIXCAESBUdyZWVuOgwI2Iz1ARDoivUBMAtYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBN6BAgbEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=green+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?hl=en&q=gray+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1iJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBR6BAgbEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "80 PLUS Platinum",
+      "link": "https://www.google.com/search?hl=en&q=80+plus+platinum+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIgCAESEDgwIFBMVVMgUGxhdGludW06CgjW-jsQ2_o7MABYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBV6BAgbEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=80+plus+platinum+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "EPS",
+      "link": "https://www.google.com/search?hl=en&q=eps+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczITCAESA0VQUzoKCOfJLhDqyS4wAliJqyBgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBZ6BAgbEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=eps+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "80 PLUS Titanium",
+      "link": "https://www.google.com/search?hl=en&q=80+plus+titanium+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAEYASpSdG91Z2hwb3dlciBnZjMgMTIwMHcgZ29sZCAyMDI2IHZlcnNpb24gcHN1IGF0eF92ZXJzaW9uIGZvcm1fZmFjdG9yIHBjaWVfY29ubmVjdG9yczIgCAESEDgwIFBMVVMgVGl0YW5pdW06CgjW-jsQ3Po7MABYiasgYAE&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBd6BAgbEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=80+plus+titanium+toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?hl=en&q=toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors&gl=us&shoprs=CAESAmoAGBYqUnRvdWdocG93ZXIgZ2YzIDEyMDB3IGdvbGQgMjAyNiB2ZXJzaW9uIHBzdSBhdHhfdmVyc2lvbiBmb3JtX2ZhY3RvciBwY2llX2Nvbm5lY3RvcnMyHAgWEg5TbWFsbCBidXNpbmVzcyICagAqBBABGAFgAQ&sa=X&ved=2ahUKEwinh9SG9-OVAxV_tisGHbISLssQip4GKBh6BAgbEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=toughpower+gf3+1200w+gold+2026+version+psu+atx_version+form_factor+pcie_connectors"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 7 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Toughpower+GF3+1200W+Gold+2026+Version+psu+atx_version+form_factor+pcie_connectors&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

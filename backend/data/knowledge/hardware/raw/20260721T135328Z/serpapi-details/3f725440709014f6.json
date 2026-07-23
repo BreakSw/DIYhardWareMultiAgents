@@ -1,0 +1,584 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b41d868ddb7f915332a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tqiO85IgGowMzBWEtldn-A/6a5f7b41d868ddb7f915332a.json",
+    "created_at": "2026-07-21 13:59:29 UTC",
+    "processed_at": "2026-07-21 13:59:29 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=P3tfat6ZLOK1qtsP7_2gqAM&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A4394924518194299765%2Ccatalogid%3A7006800042238307703%2Cgpcid%3A4576204725794161462%2CheadlineOfferDocid%3A8716598901810506573%2Crds%3APC_4576204725794161462%7CPROD_PC_4576204725794161462%2CimageDocid%3A17896608437528715397%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+psu+component+released+2025+2026+new%2Cmid%3A576462897711244700%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0SnJRUUU5dUpyVFZ5SHpOS2tMMFF5a21MNDhySzZYTC1iM1JNMzV3NXRTeDNzME5Ja2JxVXBvcFVoanVCeW16REpXM3BvSjVYNGtqT1ZxbjliLWs3X1BQZnNuZ3RqMHpUVnlIV2xNelVJLVpnbDZIdFpXMlppOTV4S1ozQUxaUzlBU3lXQXMtOXUzaG1MSDdPRTUzWnNHRHZrVjdTSUhWQlVTX1RqZ0tFWmxIMmNBVEp1ZDM1Q2Z1RGh1MlIzMHA1Q2dkZ3Y5MTNhTTM2UHFFdHB5eUpFUkZBY09PM0tNUGRHVWgteThzRGw5ckVLNjNaTXlwZ3N6MDNoOVdwaFlybUV2VmpEODdBOFdxeFRDRXk1bDFBM0xhWmJ6ZFJub2JMR3phSkdkRDAxaVZndnpvc1ZPbHZfWTdOWnppQXhwaWQwb0dRR3YSF1AzdGZhdDZaTE9LMXF0c1A3XzJncUFNGiJBRHNyOWZTMVpCb0JhdU5FVlVnM05RblhyTFhjdDF2X2Rn%2Cxsrf%3AAF5tSO4vDfzsNXyBauzp7qm0yU07tqTnnw%3A1784642372151%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/tqiO85IgGowMzBWEtldn-A/6a5f7b41d868ddb7f915332a.html",
+    "prettify_html_file": "https://serpapi.com/searches/tqiO85IgGowMzBWEtldn-A/6a5f7b41d868ddb7f915332a.prettify",
+    "total_time_taken": 5.13
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "cJ8fr3icbVNJrttGEDV8gixyAO8FAc1ZjPEXoqgWRalJibO4EUh2U6TEeZBEIqf5HgBn6QTINtewFzlL6Kzdi0J3vVevqwpV_7755ZWkfx-YLg463t_rO6ru2oNwpi_1En2pmhL3UZfiP1lGZEWa5agFJbK0KAo89yUKuiArLxMqAMAvAAAsTTMLBggCYL4mJMBZWhA9jkkjl9FEWwgUz4kLEUwqgAM8JzB_pHlwIf_Df1HCQuR5sGAZgaMnLseIwocGt9_ow-rMcgJPA1agOUFkKZ5iefr3g6HL559jn-qeNMO3bRZ0pO1mUd80pOhmF1KQJujSsphh0t66spodVrOq7WdRmVdl8YPTkIwELcEzGtDcD8PPCvL4dKl-lPCTrz7kKf46uafrQhQEiqJZdmrIh-revSaXj32fkX9eL9lr374m2SspPpdBdY-j729_XZcPedU-Vke7qhzZAGahGrZtc9iuBgf6nKlUukl3CEHIBTSFNDkZzNE_WSsqRZSqodFhNM-wiKyNaM2pAa0-HU-6R9Apg8JZEZfijXXlIUa6m1fnpG262qL8Z3jN0r3bMh4lHf1C633GqJFS2U6RbR36qZHMUfdOVYSyv8Vwis-qSrcc1qTK8Wg_A3vMJJvJvKOHOt2zx2BDIVPGB8OyR7fQFEPxG-eKLdNO3GPmWB5l1D7ooJs_tyjXJGddUb6MqCPtU8YmoVC2HZGynN745jMnDllaYlmIthUIsSJxxK6gffOlExAPCHSavTEUx710xEpGY_Pgopuz165aYHnZw2c0HslaqTv4EcBsCG2HdvJqrctY0iF-EmjIhnejQhlKCDwTN1d5H6p9SKvIYKrEvOGbIS-fgeMXuKjuEeUfQsWPXQvrblFVRy95BO7xEQJsGMzJhNRyxBs_wbIfWGtxjzwIImrJeKNaRDbUNqkqGYo26K5vIadahUBNsM1BJ3MKBDgjzJLBgskVy5D2aKP4-Gyb-BtYQq4zdS6WmwaBsRnVmtuVu7lz6rDfXt25cvltWheWZ2lm2jx68Tkqy1tKvr99cz6bZBp3Mjct4_Cy1HL_ETDzstXbPhrq9dZk6ZgeNHbH2QSpBLXz-HjEZC-0EXtj4hCDaVpSYmYHVeDWtMkUsB-Ejjlni22t3WoQDuddqoagfJTS3fcg9_7dcr16WWLVWQf3yk-uZsvAfQmVzBpv3lDMlVy2XS1qZYMXU7c-3fQpk1jm4MFRoFWC9-9k54VlH7FgYTKkbH7cBm5gKuahW42ExYc5LOQDYgwTBkA6Ln-c9--0rfzCMcxLGCZ8lDcxHZR97s-96JxbmwxTdnhc3pOgWGpLXVq41HnqCNdeAlP0oXS5tcT3SlY0tRrlmfhYCeCxjZtY2QJZ8cvhVK5krdplFnUOYexVu8tZSaWSl3e7rJ9vVre9kvMJc0meO005D9cSKfuyOnfLvdbYzFzcy2hfxAMZ2VvdSKh8pO02jc2cDTCpkuRyJu4djWq1KgtUm3gjJJ04ho7iL2WV4UzZJ0Iv6o_K1efepOs12yPs67RwLi6XGAZts91cEEdFVs7usD-089oW7zLjRP8BzYnvow"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSnILhH_jIIpsLeuW7OEQpHiKlQY58phmMlB8M3GIrSWph8G3dicff9njrBrX3Z6xwiWTV238vH9F3RV5AZBwQdfSuAuBL_wQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQFCKOkt6GBb4bnY5MDLXPGi7D0ns5H8usfFTC0GceLEEkOb8vyos82eGoxY4HoEupKcpNx2td8Dp4jXCl0tnvKyvuXyEYKGg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT9Kfkwdhh941w_MkHFlDN1Dxu31lgk-Gsbxa2aESzNb2My1ahye0iu3qF_uNQTazhQ3UVFWZ1aQKIxYo5irBxoGBBNyb5c",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTaHZlUlnePmWRTrn19Ke566TPk_n_oRTrp8ftRLL0Yr6JguafGRVjwadz2N6n4h4rC5UxgpKGAZcMz1Q5e_7FGKLCbTJ42",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQLmaEzIyqUY3WRLQn5lQpDnpLxbbgSyUvVjrZb6zMjZCE9t9aNqNsFCnBWLBGPR8aetvfqD0RwVwlhKLznlqyV_MneHcOo",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRIcfH1TUw41T7c6DF7ix0QqkCmPjIRXVT6a1BMkjjUxZonoa7IRQTM4v_NqLX4Gd_b7TKdmF4PSl261lEClAWseBXMTI6u",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSRb47AShCKfAEQwn7-GqWoCkoXOdHviq1OvGgzkQF_Xmya37jJh3TPI8RItmj9w_etWTJMyj237C-dBfbIzcoWaR0vheDNXQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTsegeB2gyrTRe_EFi3pzVoH8EYPUmCRR-wmnsly96bGfx0qLY3TwJWV9ungwIyI7vQPxI_AVd87zfHMe2RsEIpQytqXVVT",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSRWi3M9RvexHbvL-9EOnSLmH3K5-V9J-VGN2f6Vy-6fKLbhbfGRDdUwArQm4N5GYePQpKRUyfKSnzbUVlOZXDedGh80MTs",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSeqS1t2TN1LH4cJv4Rclh5dNHiJYaDPAdi_urjXA5iihhYI1-KI0OlM7LmN6JzSfjWaRPs29v07leSX8gGVufM77-4houD"
+    ],
+    "title": "Corsair RMx Series RM850x Fully Modular Power Supply",
+    "brand": "CORSAIR",
+    "reviews": 1182,
+    "rating": 4.8,
+    "price_range": "$130-$170",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/corsair-rmx-series-rm850x-cybenetics-gold-fully-modular-atx-power-supply-black/J39QHTJW78/sku/6587623?utm_source=feed&extStoreId=664",
+        "title": "CORSAIR - RMx Series RM850x Cybenetics Gold Fully Modular ATX Power Supply - Black",
+        "rating": 4.6,
+        "reviews": 1922,
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "Free delivery by Jul 29",
+          "15-day returns"
+        ],
+        "discount": "17% off",
+        "price": "$139.99",
+        "extracted_price": 139.99,
+        "original_price": "$169.99",
+        "extracted_original_price": 169.99,
+        "shipping": "Free",
+        "total": "$139.99",
+        "extracted_total": 139.99
+      },
+      {
+        "name": "Corsair.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.corsair.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.corsair.com/us/en/p/psu/CP-9020270-NA/rmx-series-rm850x-fully-modular-power-supply-cp-9020270-na?srsltid=AfmBOop-hxEopLNHawhsERVS2rOZZIBjeCCCizYgFEQTt4EGw3WNiDdbf5w",
+        "title": "CORSAIR RMx Series RM850x Fully Modular Power Supply",
+        "rating": 4.5,
+        "reviews": 536,
+        "payment_methods": "PayPal, Google Pay, Amazon Pay & more accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Wed - Mon",
+          "Free 60-day returns"
+        ],
+        "discount": "17% off",
+        "price": "$139.99",
+        "extracted_price": 139.99,
+        "original_price": "$169.99",
+        "extracted_original_price": 169.99,
+        "shipping": "Free",
+        "total": "$139.99",
+        "extracted_total": 139.99
+      },
+      {
+        "name": "Micro Center",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.microcenter.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.microcenter.com/product/686841/corsair-rm850x-850-watt-cybenetics-gold-atx-fully-modular-power-supply-atx-31-compatible?rf=Add-OnsPower+Supply&osfs=true&storeid=071&bvstate=pg%3A2%2Fct%3Ar",
+        "title": "Corsair RM850x 850 Watt Cybenetics Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible",
+        "rating": 4.9,
+        "reviews": 496,
+        "payment_methods": "Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "30-day returns"
+        ],
+        "price": "$139.99",
+        "extracted_price": 139.99,
+        "total": "$139.99",
+        "extracted_total": 139.99
+      }
+    ],
+    "stores_next_page_token": "bEXhuHica15aklmSk3rTxDm_qDgxs0ghyLdCITi1KDO1GMi0MDWoUHArzcmpVPDNTynNSSxSCMgvTy1SCC4tKMipXFKcX5TJvDg3L58LAOs_GxY",
+    "about_the_product": {
+      "title": "RMx Series RM850x Fully Modular Power Supply (Revival Series)",
+      "link": "https://www.corsair.com/us/en/p/revival-series/cp-9020270-na-rv/rmx-series-rm850x-fully-modular-power-supply-revival-series-cp-9020270-na-rv",
+      "displayed_link": "corsair.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.corsair.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "CORSAIR"
+        },
+        {
+          "title": "Form Factor",
+          "value": "ATX, EPS"
+        },
+        {
+          "title": "Modular",
+          "value": "Yes"
+        },
+        {
+          "title": "80 PLUS Rating",
+          "value": "80 PLUS Gold"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Reliability (Fan, Capacitors)",
+        "items": [
+          {
+            "key_point": "Reliable",
+            "snippet": "a great PSU. It’s reliable and supports my PC perfectly. No coil whine. Fully modular means no extra cables cluttering up the case. Definitely worth the price.",
+            "user": "Trudy",
+            "date": "3mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Stays cool",
+            "snippet": "Great modular PSU. With the option to add cables it makes cable management a lot smoother. Plus a good fan to keep temps lower",
+            "user": "CarsonC",
+            "date": "3mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Sturdy",
+            "snippet": "Solid product, performs as anticipated. Modular aspect makes it incredibly easy to use and change out components or cables. Running with a 5600x and 3070 ti oc",
+            "user": "Orphaelius",
+            "date": "4y",
+            "source": "neweggbusiness.com"
+          }
+        ]
+      },
+      {
+        "title": "Efficiency (80 PLUS, Rating)",
+        "items": [
+          {
+            "key_point": "Easy to use",
+            "snippet": "Really enjoy the modular design. My last PSU made so much clutter by not having removable power cords. No issues with install or use.",
+            "user": "IsaacR",
+            "date": "4mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Easy to install",
+            "snippet": "Very straightforward installation of this PSU. I thought this would get loud since it's a 1000W but not really. I think my air coming out of my vent in the room",
+            "user": "A6eek",
+            "date": "10mo",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "items": [
+          {
+            "key_point": "Attractive",
+            "snippet": "The quality of this psu feels and looks amazing. I needed or wanted 12v 16pin power connector for a future new gpu. Only time will tell how this holds up but",
+            "user": "Mista33",
+            "date": "10mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "It also feels solid and well made.\n\nIt runs quiet and has enough power for a strong gaming setup. I like using a good power supply because it is one of the",
+            "user": "Justin",
+            "date": "2mo",
+            "source": "bestbuy.com"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 18
+      },
+      {
+        "stars": 2,
+        "amount": 14
+      },
+      {
+        "stars": 3,
+        "amount": 23
+      },
+      {
+        "stars": 4,
+        "amount": 70
+      },
+      {
+        "stars": 5,
+        "amount": 1057
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQf4WMFMlV7V5FyFuBLXRdfXrtBUx6M2c6ibkfihZ-Qwfk0jKSKWaK6BZXIYMh4Ue5vMaDoNXFQQOvNhO9xrID-RlEZ6ZM7",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTVgYXc3Q72MA80qOFKjDgTp5k4XEUHbw5veV3b_B0GvIL3mYEJCoPLvebbArcr9EbJIwjxFiuDKoUZEsb0-6FQM32WOAkB",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQYSjkyE5Gu20OlljdHRhTZoUR-ek1MidOS3oISdGHKHf7y_44u8gUuqg08Wf7B8UV_XfMg4Vv8kzXsTAImbhOUwph9hZ0Niw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRGLT0u5J8RDs4mD6ae66R9MJe3LYwSIcU1ydLKhWcuMy_uaeUZXns546-W1GgT2Cr-mbkQEvhlTp5hSIt4o9D_Epvz9M672g",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQIZ-5TZ5FVDW7_MRvQb2d7oDRz10LHq78hYh4nqtlWZmugnxM0eYxf4pVyi5k7dfZ109ubQfI_ELzQkVF45Isqng68HIPa",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSJZw8ZRz6FluUzmdqU0l2D82_31bdb_Vxw7ij2Lvgt8a2v0fJNwxpugLq-3uVEMb-zAkWu9MiRKiMrH10QszHoZyKJNQtY",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQg1dkVuWEXKdJAe8eyAdc9fgFhq51WpxYU7Ej7vIW0vXHbvqgjwJQ7LVwbGxV39im50hjTgjOwAIheBnMSIQKzDnmfuZs8TA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR6WuOQlLshs48b0f28supruY3E9phft8jUqNjNX9C6xlsym1hzS-AwlDVO2iQSjwnUmDF-sF9WiOUAD5UR3O7rACslNwkM",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRpI1L95M0EBYV652XMEHB9h3BQ0IxMnrT7ZBLXXnpAayfyLCOsImP_j-IIdIIUlxmHNWXHX2yNpIAwqA-4RcBGgzBjaEs9",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSyQt512EXjzAC3kRmWp30kPW_hK35yXWd0Be9Mn47bdvif1riKZmmeyqAl04KEJ2Doc_XNEthNKrj_yMGdh9tpLHTxUpTB-Q",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQUwprnkD0HSa-ozc3PsZxqCu8ltikBj-l81ROZTc9elgP5YiZNQ2Vzovt0Xs_4DX4IvIlz9jGptKl3yznZTsFPAKlFkVGmBg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTZ0lPDp6UXIBpTJtSAZzKuHEY1TqiXlNEW2W3QYDEVvvc3Gx0_qXg4e-gWN6v4d_7iDi2dUo8BjcdAELGQGBafuh7LyeSK",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS2yhf2V_r1lHu0SDJvOx9eKajzhoTufz6e-SnLclhUSCl4fw0UhcO60Bn7_PDtDYIrBo1d9aZ1yGZBa3YCg1qifq23ncB_dA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTcMpQ7svT1xnlqpHIuo8bvHUhrVAiucvEkVOxeWz5k1ZnH-pbiKgyVfqH5geLnRACFKvaAyyFkTHFI4ErNT28_UBNonuNw5Q",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQKFinNzYfEbDwtw1E1gCI2Agj07zdUGg1ZMxljlXPwV2GZ2tdDuPryN0jmSiwL8UE3ZnJiboM6yPOqPk4aO7W-bwlRwGsglA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQcyKGwjwm3cDMxulxxFRIu8AypS_s6p6T_XtLFQ7uj28BdIASGl62Enmz4IFmyapMt5p4tcGHboOzCmXG69FEzGTnT-pNj",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSUNCT67sAUMkiME7H6rQbF_Ohn93yaSsW1-XZ5OD5pYChgis8ShSRXABwbQHchQjkWfuCDGhLzTyDxtiomonj2bBYZPxvB",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRuMiSTvS0DG8B7QfAdS0pIyKFV3lywWE31ivm09kp1X8H5c-MatrBx9HtKZ7X-XJj-6nh3iRk-iwIsGwP-tIDTsbDL-JUA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSC8lguN_KECfltoJin5m3Ooo6rDLnVuvEhrY5mSauwGHxXhDqiOWKOB78HwKyu1VDlAOv4PuTW_MPYQpO74ZfxYFJpOP5A",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSSNoeSEtzHFP_8mQOOcUje2jkH_zV0gzeBfVvuzSELZ12rhkdp4j2UYzrgXABiiKwxeFKgV2q9n6SPlKr5XOymmRBsl_8YLQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSZdFjWalV-xQxMrnmK02l7OBBe3yolyLzapT5t9bnIZs74g8oVeLV9mubl2OGWJP-K5JEkRtm13Ach4ryMtIf8IqzzuSCu"
+    ],
+    "user_reviews": [
+      {
+        "text": "Performance:Excellent.\nNoise:Silent.\nCable Quality:Sleek and unobtrusive.\n\nOrdered on Thursday, received it the next day. The package arrived safely thanks to the excellent packaging. Thank you for the extremely fast delivery.\n\nSo far, so good. The RM1000x does its job really well, and it's not noisy at all. It came with a generous quantity of connecting cables, which are really sleek and easy to install. Not much else to say but hoping this unit will last for a very long time as I continue to upgrade my PC.",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "4 weeks ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "Performance:5/5 smooth performance. Use it as a psu for my egpu. No problem so far.\nNoise:The fan is quiet. Never heard noise. Probably because I use it for egpu and to fully build PC.\nCable Quality:5/5 cable is ok. All fit perfectly to my egpu dock and gpu.\n\nThe psu is good and trusted. I recommend it for anyone who wants to build a pc. 1000watt better for future proof if you want to build a pc using gpu like 5080 or 5090. I use RX 9070 XT and it is sufficient.\nBtw, the item was received in good condition. No damage to the item and the box. Packing is excellent. Courier also did a good job.",
+        "user_name": "kirakhai07",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2ZkiekLh3qW5eKQCn_vqnhW2FkEStwwxXC8i0fZ9PolhJ_2Rcg2nB78ZzDyWBNAy3aaQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQf4WMFMlV7V5FyFuBLXRdfXrtBUx6M2c6ibkfihZ-Qwfk0jKSKWaK6BZXIYMh4Ue5vMaDoNXFQQOvNhO9xrID-RlEZ6ZM7",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTVgYXc3Q72MA80qOFKjDgTp5k4XEUHbw5veV3b_B0GvIL3mYEJCoPLvebbArcr9EbJIwjxFiuDKoUZEsb0-6FQM32WOAkB",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQYSjkyE5Gu20OlljdHRhTZoUR-ek1MidOS3oISdGHKHf7y_44u8gUuqg08Wf7B8UV_XfMg4Vv8kzXsTAImbhOUwph9hZ0Niw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRGLT0u5J8RDs4mD6ae66R9MJe3LYwSIcU1ydLKhWcuMy_uaeUZXns546-W1GgT2Cr-mbkQEvhlTp5hSIt4o9D_Epvz9M672g"
+        ]
+      },
+      {
+        "text": "Performance:5/5 smooth performance. Use it as a psu for my egpu. No problem so far.\nNoise:The fan is quiet. Never heard noise. Probably because I use it for egpu and to fully build PC.\nCable Quality:5/5 cable is ok. All fit perfectly to my egpu dock and gpu.\n\nThe psu is good and trusted. I recommend it for anyone who wants to build a pc. 1000watt better for future proof if you want to build a pc using gpu like 5080 or 5090. I use RX 9070 XT and it is sufficient.\nBtw, the item was received in good condition. No damage to the item and the box. Packing is excellent. Courier also did a good job.",
+        "user_name": "kirakhai07",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2ZkiekLh3qW5eKQCn_vqnhW2FkEStwwxXC8i0fZ9PolhJ_2Rcg2nB78ZzDyWBNAy3aaQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQf4WMFMlV7V5FyFuBLXRdfXrtBUx6M2c6ibkfihZ-Qwfk0jKSKWaK6BZXIYMh4Ue5vMaDoNXFQQOvNhO9xrID-RlEZ6ZM7",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTVgYXc3Q72MA80qOFKjDgTp5k4XEUHbw5veV3b_B0GvIL3mYEJCoPLvebbArcr9EbJIwjxFiuDKoUZEsb0-6FQM32WOAkB",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQYSjkyE5Gu20OlljdHRhTZoUR-ek1MidOS3oISdGHKHf7y_44u8gUuqg08Wf7B8UV_XfMg4Vv8kzXsTAImbhOUwph9hZ0Niw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRGLT0u5J8RDs4mD6ae66R9MJe3LYwSIcU1ydLKhWcuMy_uaeUZXns546-W1GgT2Cr-mbkQEvhlTp5hSIt4o9D_Epvz9M672g"
+        ]
+      },
+      {
+        "text": "Performance:The best in the World\nNoise:silent\nCable Quality:amazing great quality & easy to manage, no need custom cable\n\nSafely arrived... Great pakaging... Very beautiful, powerful & stabil PSU in the world .. change from my very old 9 years CX650m to this one. Love it so much...",
+        "user_name": "ritz5488",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2NtfUrUQCpfOOWEzKjAJjG9yX89OuHiSyGO2vgIcjHw8vWn4g_8qO_fzB3O6N5gj8_Vg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQIZ-5TZ5FVDW7_MRvQb2d7oDRz10LHq78hYh4nqtlWZmugnxM0eYxf4pVyi5k7dfZ109ubQfI_ELzQkVF45Isqng68HIPa",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSJZw8ZRz6FluUzmdqU0l2D82_31bdb_Vxw7ij2Lvgt8a2v0fJNwxpugLq-3uVEMb-zAkWu9MiRKiMrH10QszHoZyKJNQtY",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQg1dkVuWEXKdJAe8eyAdc9fgFhq51WpxYU7Ej7vIW0vXHbvqgjwJQ7LVwbGxV39im50hjTgjOwAIheBnMSIQKzDnmfuZs8TA",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR6WuOQlLshs48b0f28supruY3E9phft8jUqNjNX9C6xlsym1hzS-AwlDVO2iQSjwnUmDF-sF9WiOUAD5UR3O7rACslNwkM",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRpI1L95M0EBYV652XMEHB9h3BQ0IxMnrT7ZBLXXnpAayfyLCOsImP_j-IIdIIUlxmHNWXHX2yNpIAwqA-4RcBGgzBjaEs9"
+        ]
+      },
+      {
+        "text": "Corsair RM1000x safely arrived today. Really fast delivery process. Ordered on 23rd, received on 24th. Thumbs up to Corsair and Shoppe Express. Box well packed and bubblewrap. No dent to box. Plastic seal intact. Psu in good condition and cable well braided. Really worth to buy although abit expensive from other brand. Done my research on good psu with long term warranty. I go with this model from Corsair. RM1000x also rated A+ in current PSU Tier list. It also has fan knob which come in handy when manual tuning the fan speed. Not yet tested but gonna build new pc tonight. Will update once done.",
+        "user_name": "hamdan_hafiz",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "5 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1yvLBRi11NxZszq1A1DC-rmIBEZTUPTIp3atwfYVUftlp9I2sfuKDVuB-xvJPcK5OsqQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSyQt512EXjzAC3kRmWp30kPW_hK35yXWd0Be9Mn47bdvif1riKZmmeyqAl04KEJ2Doc_XNEthNKrj_yMGdh9tpLHTxUpTB-Q",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQUwprnkD0HSa-ozc3PsZxqCu8ltikBj-l81ROZTc9elgP5YiZNQ2Vzovt0Xs_4DX4IvIlz9jGptKl3yznZTsFPAKlFkVGmBg",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTZ0lPDp6UXIBpTJtSAZzKuHEY1TqiXlNEW2W3QYDEVvvc3Gx0_qXg4e-gWN6v4d_7iDi2dUo8BjcdAELGQGBafuh7LyeSK",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS2yhf2V_r1lHu0SDJvOx9eKajzhoTufz6e-SnLclhUSCl4fw0UhcO60Bn7_PDtDYIrBo1d9aZ1yGZBa3YCg1qifq23ncB_dA",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTcMpQ7svT1xnlqpHIuo8bvHUhrVAiucvEkVOxeWz5k1ZnH-pbiKgyVfqH5geLnRACFKvaAyyFkTHFI4ErNT28_UBNonuNw5Q"
+        ]
+      },
+      {
+        "text": "Performance:Excellent\nBest Feature:Full Modular, ATX 3.1, Type 4 Cables\nProduct Quality:Excellent\n\nHad an issue with the delivery due to wrong item delivered, Thankfully seller is very responsive and accommodating, even took the responsibility of delivering the correct item to my place and gave freebie.\n\nAs per the item, ATX 3.1 Full Modular and Type 4 Cables, fits in my Lian Li O11 Air Mini Case with no problem. Item is working as intended and in excellent condition.\n\nThank you again seller, well deserved 5 Stars for the initiative of your staff and for the product.",
+        "user_name": "idlbn",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0CI2wFPSTQJzII3kIXf4rLaBx5tQxdmguLlnmpkfECg9jQPdKmaI9qpNa6mOy3lQaOdg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQKFinNzYfEbDwtw1E1gCI2Agj07zdUGg1ZMxljlXPwV2GZ2tdDuPryN0jmSiwL8UE3ZnJiboM6yPOqPk4aO7W-bwlRwGsglA",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQcyKGwjwm3cDMxulxxFRIu8AypS_s6p6T_XtLFQ7uj28BdIASGl62Enmz4IFmyapMt5p4tcGHboOzCmXG69FEzGTnT-pNj"
+        ]
+      },
+      {
+        "text": "Performance:Probably one of the best 850W PSU in the market (80 plus Platinum but marketed as 80+ gold), will be good long term and future system upgrade\nNoise:almost non-existance\nCable Quality:High-quality, modular + extra cables",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSUNCT67sAUMkiME7H6rQbF_Ohn93yaSsW1-XZ5OD5pYChgis8ShSRXABwbQHchQjkWfuCDGhLzTyDxtiomonj2bBYZPxvB",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRuMiSTvS0DG8B7QfAdS0pIyKFV3lywWE31ivm09kp1X8H5c-MatrBx9HtKZ7X-XJj-6nh3iRk-iwIsGwP-tIDTsbDL-JUA",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSC8lguN_KECfltoJin5m3Ooo6rDLnVuvEhrY5mSauwGHxXhDqiOWKOB78HwKyu1VDlAOv4PuTW_MPYQpO74ZfxYFJpOP5A",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSSNoeSEtzHFP_8mQOOcUje2jkH_zV0gzeBfVvuzSELZ12rhkdp4j2UYzrgXABiiKwxeFKgV2q9n6SPlKr5XOymmRBsl_8YLQ",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSZdFjWalV-xQxMrnmK02l7OBBe3yolyLzapT5t9bnIZs74g8oVeLV9mubl2OGWJP-K5JEkRtm13Ach4ryMtIf8IqzzuSCu"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Corsair RM850x ATX v3.1 PSU Review: A Worthy Successor!",
+        "link": "https://www.youtube.com/watch?v=-mGV6JqES9w",
+        "source": "YouTube",
+        "channel": "Hardware Busters",
+        "duration": "12:53",
+        "thumbnail": "https://i.ytimg.com/vi/-mGV6JqES9w/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l0beFJ-mWWwpQB5rJ8cABpHBXMxA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQTcPbqnSSMoaJuWSFgpa4PkZPWLtTSyvPKMQ"
+      },
+      {
+        "title": "Corsair RM850x Power Supply unboxing and setup and why you ...",
+        "link": "https://www.youtube.com/watch?v=-MPSkh2hobA",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "14:28",
+        "thumbnail": "https://i.ytimg.com/vi/-MPSkh2hobA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k1HxcyN6M1Li8aJylGh9IqOPHIvg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRNasteqbq9YRRfqlo4L8Fq8DsnwLVH5JAdZQ"
+      },
+      {
+        "title": "Corsair RM850x PSU 2024 ATX 3.1 PCIe 5.1 for my PC 2025 build",
+        "link": "https://www.youtube.com/watch?v=LPn-hBdBGdY",
+        "source": "YouTube",
+        "channel": "iDATUS",
+        "duration": "10:25",
+        "thumbnail": "https://i.ytimg.com/vi/LPn-hBdBGdY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mD-bj-HC_Er_ipb_Nff9FSzH2F2A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT3rD1oCietoLlSt1dQ7QbU5iA8fQ63navlpw"
+      },
+      {
+        "title": "Corsair RM850x Review | Best 850W ATX 3.1 PCIe 5.1 Power ...",
+        "link": "https://www.youtube.com/watch?v=bAZHuUZhZ1o",
+        "source": "YouTube",
+        "channel": "gamer ",
+        "duration": "3:40",
+        "thumbnail": "https://i.ytimg.com/vi/bAZHuUZhZ1o/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mqNr9VHT5hFZ6SCTvw7svhZWOd7g"
+      },
+      {
+        "title": "Unboxing Corsair RM850x Shift ATX 3.0 PCIe Gen 5 Power Supply",
+        "link": "https://www.youtube.com/watch?v=T5_ngH8ujTo",
+        "source": "YouTube",
+        "channel": "TofuRobots",
+        "duration": "9:57",
+        "thumbnail": "https://i.ytimg.com/vi/T5_ngH8ujTo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nggBK3QkytfRwrbx3KshCbnmvUhg"
+      },
+      {
+        "title": "Corsair RM850x Power Supply - Unboxing & First Impressions",
+        "link": "https://www.youtube.com/watch?v=46a0Y58sxiU",
+        "source": "YouTube",
+        "channel": "Kevin Muldoon",
+        "duration": "10:35",
+        "thumbnail": "https://i.ytimg.com/vi/46a0Y58sxiU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lGGjW44qn48-nCJuw1SDUHWEkc9w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQD4V6eOG3_dn-Eqx8O23M3eB7k3RKBTaKibA"
+      },
+      {
+        "title": "Fuente de alimentación Modular Corsair RMx Series RM850x 850W ...",
+        "link": "https://www.youtube.com/watch?v=ciL0JDnWyOY",
+        "source": "YouTube",
+        "channel": "Paco Barba",
+        "duration": "4:57",
+        "thumbnail": "https://i.ytimg.com/vi/ciL0JDnWyOY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kHeu3MsTUNb7QFuXVT3xAjy_ewDQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRGTB4Z7B5zyaOO2GaXeZNXMD3LEIBEfBS85w"
+      },
+      {
+        "title": "Watch Corsair RM850x Power Supply Review on Amazon Live",
+        "link": "https://www.amazon.com/live/video/0578b23cdb544a65bf28747fd7753158",
+        "source": "Amazon.com",
+        "channel": "Stream Tech Reviews",
+        "duration": "1:00",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVHklEB-OyVNnAeAqcC_pEplr0Nc5DAC8b3DS1nYqFyvI4nA&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTrD9CevbigvHaEgPQrKuXDGdGAJnhPwP1eXQ"
+      },
+      {
+        "title": "Corsair RM850X Unboxing: Invest in Quality Power Supply",
+        "link": "https://www.tiktok.com/@easypcph/video/7466044226346831122",
+        "source": "TikTok",
+        "channel": "easypcph",
+        "duration": "0:36",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVPIfC0En69iNRjq2Z6IhuBC7gNDegaf6brUXxhqirhiQiPw&s=",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTf62xWZAvpvSj8oLtgD8lg2QbXuLeFxqMo0w"
+      },
+      {
+        "title": "Corsair RM850x Unboxing",
+        "link": "https://www.youtube.com/watch?v=5mEkO2j0HBA",
+        "source": "YouTube",
+        "channel": "ION HowTo",
+        "duration": "22:01",
+        "thumbnail": "https://i.ytimg.com/vi/5mEkO2j0HBA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n3sKQQmDcm82a15dnxH30LxA2wlw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQLX6H2vmdciWDwooux7GHCdrW-PphJbjZ86Q"
+      },
+      {
+        "title": "REVIEW (2026): CORSAIR RM850x Power Supply. Features.",
+        "link": "https://www.youtube.com/watch?v=yqoXApfoHnM",
+        "source": "YouTube",
+        "channel": "Current Product Overviews",
+        "duration": "0:52",
+        "thumbnail": "https://i.ytimg.com/vi/yqoXApfoHnM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m0fgscca9ECSihvlxZ58UAfbFf8Q",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTQGPctl36ADRD2GEA_o-Kf4jNRfGQSjM3ZRw"
+      },
+      {
+        "title": "DON’T BUY Corsair RM850x UNTIL YOU WATCH THIS! (10 Reasons)",
+        "link": "https://www.youtube.com/watch?v=Z7bAEQfpUy4",
+        "source": "YouTube",
+        "channel": "Critical Reviews",
+        "duration": "2:40",
+        "thumbnail": "https://i.ytimg.com/vi/Z7bAEQfpUy4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m2RqUE3H5zuNqkU8o__RN2RwPsew",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTCuB0-FaRuyrLu5yh74VIWN8rhAYq-cuEL-Q"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "CORSAIR RMe Series RM750e ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTZ6wd6sRTWp9eCZ28WlEUL4Rupk2fRZB0P3dHnrQ4F3jHmq0hqEMqpPI3IDfXNt7htDbpaoYZvVUhwDOLe6zEFqyhVs3IDsQ-GG5A0PFBr",
+        "price": "$89.99",
+        "extracted_price": 89.99,
+        "original_price": "$115",
+        "extracted_original_price": 115,
+        "reviews": 570,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6-cDpHicdVRLrqNGFI16BT3IFnpkWaIoPiYzY4wxNh_zKTATC1OF4YEpbMAYlNW8TrfUGXYiZZptdA-ylvB6nJRKd1D3nnM_Orf--en9K8n_smGbxq0Q7a0duLWNLZ7Yy21pfKnvFHdJm-M_OChxEsvxYAEkjpUkUeC_JHEbl_SS46_iQuI5ieclSVpwwkJiwdeMxLjMK2KlKbkrNJk4oCRADkgCL_ECZHlRYITf82t8IT_cfwJBggsGiIywYDm44BeiAD_ecfONs1cnsGCnOzGwC24qQ-JEDvxqO5Zy-h_np1tH7sO3bRm3pGlnSXe_k6qdXUhF7nGb02qGSVO0tJ7Zq1nddLOEXmtavcXcSUnihuAZy7D8mxFmFek_XeofVf5Hro_XaQZTP5wwvXCAgRDwjAg_1o_2Nbu8XsrXrnnNyldSfaZx_UiT7-9-XtNeWTX96uDXNVIcxg3wuEcRcNY4R1cwngN8jLzsxd00fATM1EeX1vXKxijKNQnl0FexinxnHVdytffk7KxmzREYwPV0Bo16fSjNDKuqcvCNPijULVFrLlrryA9KgNU6OLpA9YrotkdqcIZqRkqnO8N6PJdyhkunwlBmEr8sDJTd0dVUMPMMrPAwJppOcSFpIVPvfBYFjh-tgxdn4_kZSJSoQewUrZZxAvWVEUYPw8MZKrNw6utJNrprvKByj_QxZlrXZTM2KrMnekGdocgmzsE-CejgB_TpF3pmIGxHa791gloO0KL3tO2A1ogmVfZyLp27FdaCgUrjEGJuHwB7j9DVB2vuGMq88aL6HqrRhC3QC64tpHdntQYHZHbueOA8QHtnnflHxlSCddGj4mklwRMGgTNEQAoiFI2RonaIbXOvxB0qcIsLtfU1vUOhnHvq0VWBfsSbKEtCNDpjZnshzmOw5I9XcDRKddzkuuxo5mAFkRcBA2Ikh0dfHxAw80DLqD-i1RGZvaXJtomQ89uzuaffmKXKt67FtY0y6eFx6ge1w4Vlu_TZ0RVTrNDhFyBOe8axUISSuPicUFrk5Pu796eTSyalk7nrOfYHqCzNa9THcE4bq-mS4bbeuhybsoPJ7XifGDoxmnl6OGCyF5uEK2B6xgyUHzlxS1sX-TXrwkrtBrGFp3KxvZnFjTkPp12unxnaU_kRhSr_Acqz5Xr1lg3raB0_6mhSbQPVPVW10huLcKjm2lXxAzNpFEeQ8uB2LKypmlThVRtpqkeZNxIFTRwc16eih8mQc9fDNg5iV3PtdjUSDttztVJsAzquGjPyYfl23nDmVpmAPISTPZ8zIbneUzam3TWah8np6m1KDPzzYfnI4mppLi15EYDTNCG-ucSuFKnypWhIFFJOcs2bcS2lfiUy_Ta9p9qWUbSIDke6Usx6V3rgdFbTsN5dTlouU0HZ7cpuvlkVe-0qZPCSPXemdhpeqKHtaX1ql3vz7sO5tFeMfZUOZOSK2102aJ832zx1r1yMSZ1llxMJHsa0sytaGTcXb8SslcYz0qKlokPeVSIidpLV14E1Dyfe8L49qN0tr9Al4DPHYX2unYvSqCnaKRj2djO_-dJDgSiZfqD0738Blij3ug"
+      },
+      {
+        "title": "CORSAIR RMe Series RM850e ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRDMxFJoNs0MK6PxD8wtH-C2jPYo-W7DkmZHCXniZj55CHfQ_6RPxthyOl7x10GKIvQiFaEnd__q16osFzSkDecrLyz_wAmGkD9wGZ_Mx8r",
+        "price": "$119.99",
+        "extracted_price": 119.99,
+        "original_price": "$145",
+        "extracted_original_price": 145,
+        "reviews": 749,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uso-hnicbVTLrqNGEI3yBVnkF7KyLDWPBpOdbcAYQ2PzaDAbhOnGYJ42-AHK19zJjDRZTiJlm9-YWeRbwpWyS6qk2pw6p0qlqvr7ux_eaP7nnuvTuBdCw9ox177bixF7vi7Nz-2tIfekz8nvPCfxEstDZsFIPCtJogA_J3Efl815QjkwuSDxCyhCTlhIEuS_ZDQmZV5TK03pTW6SnPzBTDkTm-OBwLJAlDgOCr_lVXym_-IswzBQWIj8gpcYQQALAXy4ke4ru19HPAQiI_KiBCQ4uSDw_C9725Kj_8c-Xu_0NnzdlnFPu36W3G83WvezM63pLe7zpp4R2hV9087261nb3WdJU7VN_Z5zoyWNO0pmLGDhexBmNX1-PLfJ-yD-W-pDlZMvUBR4gYUTYyEy7IIThA_to3_Lzm_n8u3evWXlG60_NXH7SJNv3_-oNE953T3XB69tsWwDV-mRB6BG_eOL-u3drPTU85it7UkrWpDRzwFDfPgwPMTQoMwd9jWiUWVNn7wcN-PtEQVmiW5EaVFYHcdkNMGJW22cMnmFpaoYQfE61dhOZGyggZFJoMombj17VLVYgbURqI13KeOT10NyKbeoOEAXPPsAhB2qXqbpMxz2s6fjoc4pCmj6yDsVSLWVLEa1Khu4PRK_dVzGlhNMeGdUVwes665mAoyz0fKgjeTsGGKMCEDIG5UBB2RnuFllK9vBxfjhqnp3crGfDIA_YYKQUgouQA9LO3K4VEO3IJ3lkhrLGJBLARKtFYiKMrsmrKdlpu-112QkGyrjC9qgyvQ8YNbmmCjwkKi2QYM2CwamJly2ssGCpa7O2RpyE4DWDttuCHjpWEZBuAn9ULGZgMVrZ8xKR8sss2z5E7CZeMzuNLB1R104KqMfySbMkgCP9pjt3YDkMbOEx4o5mqU6bnJ9NekPlh865mXbh5vWsxT9EoIXG2tZZmplnlzw5hiol8RHq19f3S39CpYq7B0LMuzwrPePGLzO6fXh6SRa9tbLrl6758-MuOCF6ZBEThKlT0nTFDn99v0PUeTQadHp3HHt_U-cvERV-Iy5edNZ3T0ZrsrW4dmUHRC_gx41dWp28_RwINQQu4QvuPREALd65NQp97oIFdbhavU-iD0XlYvtFRVXcBqiXa6fQPNsVo8wUOFP3Gq2VNbv1YiOlfjRhtnF6TjVaFStdMciGOq5Vsmej5JOtgUp96_Hwpq6SWWo7rGmug14F5HxpMHzz1R0CR1yvjpsYz92NGffr0fKk_1creW9ydmOGoPVYflu7zy0lSci5Lgpnk6ZkFS3lI2bexXOgySq3E1JGO90WD6yuF6ipbVa-Ew0TQh259iRQnV1LjoaBg0vOehqVqX0XIvguU1vqbYFshY2w7FZy6jdlS4TndQ0aHfnSMtXjSDvduV9vlkXhlYJGXfOXjukRcOlMTWjaaN-aaCbx80lQzaNOh3oyBfX28psnnm3zVOn4mNC2yw7R9R_mKPerpvavDpkI2a9NJ6wFi5lnYOOHFLxLlnP1rfmwaQb3LYH9X7Na3z2YWbbrMf3c1EaNVmL_MHYd_OrJz1kDifTB0r_-geRsPUZ"
+      },
+      {
+        "title": "ASRock PRO Series PRO-850G 850W ATX 3.1 Compatible 80 Plus Gold Certified Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRBsd54CKjWbJNOmI5gl92bxPWlkj0RJBDIh-ZybW9z-gJxcyTw9sqkEqu-nWnFHurVN0ZcQon6rzgrvKnt_5M3hx48d2SdnIotIxm1Rw2bymInjbVYnIgIKsY",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$90",
+        "extracted_original_price": 90,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=piQh3nicdZTJzqNGEMejPEEOeYWcLEvdrO7cjDHG2GC72bkgdjBLY8ALKE_zTWakyTGJlGteY-aQZwnfnJM-lFpVXb9_Vaur__nuh7ek-OtMD2kwcN7xdIC3oT_zPpXd1urntiPxPRqK-A-GRgyiGBauIGIohHiO_RwFQ1CRrIj_hDzLctyKRxxYrRDHzVH29zwJ4qpoklOaJp1IopnCUgiyDIQAAhbRNIIU9VtRB1nyLfwnpFeQX7GIZyAHOYZFHE196OL-C3Pe-JBCFMtzFA15QPHMLIHQL2d8Ev3_CX683ZNu_LKvgiHph0V077qkGRZZ0iRdMBSkWcRJXw6kXZw3i7a_LyJSt6R5P9MlVRL0SbygAMW-G27RJM-PWfutyv_Q-lAX8e-zk-GoFaK4uYnVam7uQ_sY3vLsLave7v1bXr0lzScStI80-vr9j1vyFDf9c3Mx29YSMdCv1sGqPBvvJGH27XTwBGbpCYHd5nbNMgbQOhNmLwPErCbl-mWSxkgUNO1qmV6jHHFTGWHtkQi87AB6L2sLO73WLM9WBH27HyO6fFqVdDjaFh2ViDYbZaPWJgit_I4rRQqcVjPkqgzr_RTLJYiqOPBq7YHL9mpevZu5sxRcobsmWxcPEKCK5cstEQxhBmZWF-20q0PjvQtWo2VjVZ8wF9LuK9y2rmu5T8_xTKsklCrH5qXCxDSt3dEsR6uKQFx5lQk8IWywpEoCG5cvGBpa5eowx46Cgy0abUkg1pTP_NcltCRi7SrHBfjubV-VCas93g6ltVUsuxwcQ1Ss4FpOxq4djQqdtC28ujWEkYRhSA0HLMeOKWP2ZMfaxcYPc9uWqqy4gW1SHsixtgUTbiTRNV_upc7FwIo7XbQIvsZu4HjByZj3gNElqLjxzssjx5rwlJ8NJy4CuGZnLVetpGlXKAKWtfFke2ZSwNelwbuL_WQ9UylUaE6qWbE6jOXI3rOmlDe_vvou_QLWEjvoJxZS47M5PwLwytLbw1Rifz2cXrh-HZ4_z4PCcAxF8zTi0aeIkLJIvn7_g-_ryfzSk6Vu4PNPtLjWau8Z0EvSn_p7NN62e52hUmrUmANrJqqSqP0yvVzi5Mj3EVPSaRgDWngUiV6dFZ7dUjrdSPeRH2i_Wu1vWnkD4egfCiUE5EmEh-dI7E-0sFhvN-9qsWJtg0fr5Ve9p6UjkeTKmEpnbJZyLZq2FvUi5lBh39zyNFeTiqx0tmTJIOAdIlozg2GeKW_EyVgw9WUf2IEu6-dhMyVMfF5KjXhWaaxLARAu6_f1nqftxTmRpenZhmHORXWXUgG5197Sifza2FUxNMPL-pEHzVpbn4SVDf35htg-C3TkSUJW9onnEAbp2k2tK_Tc8OC5T7tU3gNR9sjoko2otYfKgH4opU57yHy5EAgnHg7VfbnblEe55nI6y18HTfbHK1HlI2n9YX2cZ5ZeoqOoHpt0TCamvHWCSp5Fvy9SvWaCOGnzPPMT-6FOSrshjXrT4x2fD2gKLdlbiwrN6qKX8Hd0erb2aenMXKfbX6T7rWiszGZzjCmTGZY8mmRR9u3xeO6XNxM9RNqK5h8o_ftfHej2Yw"
+      },
+      {
+        "title": "MSI A850GLS MLG EDITION 850W Gaming Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSmCEtrxHjRsLb5ZWVsc_vJyRRTx44cYGsrkl2tdDEX_4t4Cng-dvNelqlKwf5blY9Jv04tNw5vw7LiNXwA8pL_vo7UC_Fq",
+        "price": "$159.99",
+        "extracted_price": 159.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Tb2Ob3icJVTJrqNGFE3yBf0TvbIsQRXFkJ0xYDwANvNjYwFVDI9iMIOnr4lep1vqLDuRss1vdC_yLeEpd3E2555zB13df3_68EbKv49wzOKRjw7Wnr2Mw1E4g_yyMr52fYundCzxnxyUOAlwiBVZiQOSJPDoaxqPMW3zmeUZHs0kmhEhked4UfpWkBjTsiFWlpFeadM5TYAIIUESkAQBBCIQBfGPso5z8j89q1gJCqIoAAB5SWBZ-KnHw2-fLxPpH9-3NB7JMC7Sqe9JMy5y0pA-Hsu2WWAyVGPbLY7rRTdMi7Stu7Z5z-kJJfFA8AIwAL0Dv2jI7XPezfX-YhnAioCRGIYRWTg3L7HoU13ib0iYRwAiB3iIADPPJnzqruNbkb_l9G0a3gr6Rpovbdxds_THz5_UPl2vr6l88rrOV2zGocUzqqnv-9SINb8ONqMWBD7r1BSmYDSiwD_Zeo4SWlSJ36kvEJeebk6Gr8LU3Q24omPgaZZNzcj1NdlYMyhttlzqR3bqaqYbyrKlcndHl7dRPdwShSqu4nvpq6k5tXazNh2H6x0Mgda_QKrHNb1jFYUO7SxDK56p6zsJ63F2PdIkoLugRgcHqA9cF90LLE72q1ZigA448IDzjDyToRs3uHPY1WYOt763a_GajU29MIPQPHqbogqaig1efSZy5QlTaROp3sOk3c187vxD0JmubqoHT-IsH3MGjTizMSBmC5tUZhgF4hgxIzDUCNobO3LtbejRgolq7Y5DU7dUycRg13sKLRM_f3ihEW8rTU3hFkXU5A_-6Zl69j6E9HSqPc508eYEiyPe3A3flxy7Un-_D332nVlpaHQsXpaCy3rFjP3adfg-FStXtu1zn9yn1a-sIHI8B6AAJZH5krZtVZIfv3w4nx0yHx5ZOq59_AiVlVlHtxgu28EapvRxUbcOBzLwMLk98oixI8awzE4nTA7CkHIVzBLMQPlaEocedwJSgQMbbXoIIzxTcXsxqwuTPM77cpcw7a2Vr1GooY9QXqzU9Xs1vPPV-NpFxaszQO3Qajp1n1X4aJZ6rXiBmQ6KzUtlcHmprLmbTEHa0dc1t2XeTRR_9uC4Wya4mDxKrj5t4yB2dOc4rp-Ew8el1ihHA9qOFjPyafUe7zpzq8xCBOGMSVLwad1nIG6nOlqG6bl2NxSzXnJaXYu4WZkrSxYD9jxvCA157EiRJufVQKKw5STHvBg1lW5rgbltsz7Tt4yiR-3jpV0rZrenLntOtCzs9vlZL-WWV_Z7Oi036-qg13wB8-K-N_Xz47U19EPbncfVwew9uJQOinFosgd5ctWll432Vg7bMnNqLsakK4r8TIKr8dx167YxLg7eCMUoPRNfj1bKDiJHiYgwSdatC6xlOPuG_fakTZey8fMAFbYNPG5cCtJTV_Rz8Dgch-XFk64K9NP5IWT__AdR7MEx"
+      },
+      {
+        "title": "Thermaltake Smart BM3 Bronze",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSn-WIDRdvAWpWkY9RvtUHChxnkR3PSTaQNLMtIKCMrYB-3qc29L8dG_iiy_XQgURVpejoumUFVIdspsTwoI_dpt0qRcv2WS4Cqp-rTb6yzJYNpdtlHyakD",
+        "price": "$89.99",
+        "extracted_price": 89.99,
+        "original_price": "$100",
+        "extracted_original_price": 100,
+        "reviews": 330,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=abIgDHicbVTLzptGFK7yBFn0FbKyLDEMF9OdMcYYGzCXGTAbC5jBYK4GbP9GfZo_TaR0mVTqtq-RLPos5Ze6zEhzNt_tnNHR_PvL-1ea_32AQxoNQri3duA69AfxxJ6vS-NL2zXklgw5-cZBiZNYjgcLIHGsJIkC_yWJhqhszjn5CzCsIIIFIzLTXQBGYBbc14xGpMxraqUp7ZQmeeMJoiQAKApQApK4ENkFz_-ZV9GZ_o9DwEOOZTmRFUUOTIkS_NiR_jt7WJ2mkEkpMjwnShI3oZD5_eBYyunn2KfrjXbP79syGmg_zJJb19F6mJ1pTbtoyJt6RmhfDE07O6xmbX-bJU3VNvUbp6MljXpKZizD8m9FmNX08encTj1--0nUxyonX3lR4ASWB1PrEwMCTvjY3ofX7Px6Ll9v_WtWvtL6cxO19zT58e7XdfNQVv1jZaO2xYrDuAg_w3LN2nVWUNwO5ohb33MYA5YucpkxBNnRVOWV6x2hU72oKCgNhNXeD3Rn4tRx0ZoUhwht7BdU2SDeFJyhNpAWNpNUg2GWzQOxaMSaE3ib1kxY3otHU3YLviG1bsRKyeGKKASFXFQA2ViTIUJHLtls-TDI7EjJUgvpyL-UFsZ6gwF2XNDWqCh4UuCbFTgOvpBdwDiZvwJ-NM3jYaIiFvgWwrk7yjj2yjFiHWD54d4Z12OsqKyhngen4n1Snge7AjqGehcjR4s3khpraos0PSeFtIlL00vGMrWwwwQs2NJiqB21dBxUXszK5knt5AZLQtPDL9HFxHHxogejrBpQPiZo8GOso1Az9x6D0_BijGgM1-Zm4LwRXyNPHUx18TzWOAjrEB0vspJsVIxr07a0zIxg60dFu6Iok4kmvyS-2e1R76pAP5JNmCUBHp0xO3gBySOw5I8VOBqlOm5yXXY08znN6zmluqYKWSOsu36tm_5FX2OveKLSWVu-FBFPdf546bv0O7NU-cG1hMqVHjWvNjrwjCpLSzZsDYVPdCravwFxwQnctIhQWoDPSdMUOf3x7v3p5NJp0enc9ZzDB6gszSp8RHDe9FZ_S57X9dbl2JR9mtyOR9TQqdHPU9smdC_2CVfANCYMlO85dcuDLvJr1oW1enuKAzyVi-3VLK5M_Dztcj1mmkcj38NA5T9AebZcr97SiI7X0b0Ns4vbQ3XfqFrpjUXwrOdapSDfTHrFEaTcvx4La-omVXj1gDXVa5g3EwVPHhz3SEWP0GfOVfY28iNXcw_DaqQcOczVWjkY0HHViJHt5dt505lbZRLyEE41jjMhqbqUjZpbFc6D5FR5m5IAFNvLexbVS3NpyQsfnKYX4vtz5EqhKp-LnoZBw0mueTWqUnqsROaxTbtU2zKKFjbPY7NSzHZXeuAUq2nQ7s4nLZcbQdntytt8syr2WiVk8Jy97Ezt9Lw0hrZv2tOw3JsdgnNprxj7On3SkSuunWw0j7zf5qlbcRGhbZadT9S_G6PerprauLpkI2aDNMZYC5eKDnlXCal4k6xH61vzYPINuq2t3q55jc8-nzkOi7hhLkqjpmgn_7k_9PMrku4KxMn0A6X__AdLrPU_"
+      },
+      {
+        "title": "ASUS ROG Strix 850W Gold Aura Edition 80Plus Gold Full-Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQuzu5VCXn5NFPS2aE9H7e02S7ANlqjUCNDPLqHTeufe8PMav-CXpkc2I8MWA23Kv4Y0CWwvlrXPHAv7tzcbQlGIA3_0PSooG1CZg0M6oxjw4M7IVrgmVEW3Q",
+        "price": "$184.99",
+        "extracted_price": 184.99,
+        "reviews": 52,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YOzEV3icbVTLrptIEB3lC7KYX8jKskQ_ADM724AxNti8cW8sTDcG8zRg-xrla24mkTLLzEiznd9IFvMtw511elFS61Sdqjp91P_-8v6VZX_vUZ9EvUC2uw249t1ePMLzdW58bdqa3uI-o39iJGEJYh7MgIShJIkC_zWO-qiozyMqCnA2IgKCM4kXMUAIfktZRIusYrskYa1cx2MaBCIHEYYcNxLwIuJF6Y-sjM7sf_gvIGIeiRLAIgdEwIGZKKJPLe2-w_3yOJPG20yC4kwCSABAEuDHvb2Tjz_HPl9vrH1-XxdRz7p-Et_allX95Mwq1kZ9VlcTyrq8r5vJfjlputskrsumrt5yWlawqGN0AjnIvwVhUrHH53PztsJPWn0qM_qNFwU8igABRCI_6iAKn5p7_5qeX8_F6617TYtXVn2po-aexD_e_arUD3nZPZaW1zS-bHOOa3eGQolz0ZeuT_hDqRvEA240-INd6YRk4MIqA3iXM28X9tpFC-Wk-JmnpKaLTD-EL615KRbBSuI8j8PuhZbEPQ9m4WexPwdObrvmMOcPiMgW1GvDN_Ah14WY01d2qTq-lwLmvYReBnpS-W6s0mtQNTdvoJYLecdT-opCWtmhGRzKcWJZTaisWiFHOLcodo7SXz20GCKYDkaoR0FFthGw916Z-iS3CyvoLdNdyCHXq4FcPJlKcIjWPPPNIIbgEqmE2P5CiUvVM9UGU9fkY890zWrOm5U-xIGJrZLHNlIfBNlq4NOHrRDfykAbaQTTVa9Zgb1jS4BN2X46yvrlBEluavoz8nQ_yvVrtJLKEBrQzUF44opHyCmPnbrGVqEjc4VBEPoOkVUcIdU2Od1i4WGw3OLiKvbWzpsNBfbhpOh-XNH71o0dFegHuiJpHI5vNKR7N6RZBEaNS3AwCnVYZfrC1sznLiCOgXR88vww5IBBi2ZLV8Xm5FLNCArNLNONB9XF7y9dm3zn5irfOzuhdKRHxau1DlyjTJMCksaQ-VhnovUbEGdYwKPTkDQDX-K6zjP2493749Fho9HZdHTT_gOS52ZJHhGa1t2uu8XPq7J2MEzg08Qb3mOGzoxumlgWZVuxi3GOkhPl0OKeMafY6yKvQAdV6u0p9uhYzNZXM79yp-dxk-knrn7UizsJVf4DWkzmyvKtG9V9Jbo3JL04HVK3taoV7pCHz2qqlbIXmHEn24KUBddDvhunSWRe3fua6tbcG4nsjxwYPxLRpeyZ4dJaR0HkaM6-Xw4M0_1UreS9gWxHjbiFNX87b3XmWh4LeYTGeDqlQly2CYzqW0mmYXws3VVBgXey5vc0qubmfLeYBeA4KsR358iRiLo45x0jYY0lx7waZSE9liL3WCdtoq05WSP181AvZbPZFC44ntQkbDbno5YtakHebIrbdLXMt1oppOicvmxM7fi81Ia2rZtjP9-arYem0lY2tlXyZAPOr-3CqB9Zt84Sp8QRZU2ano8suBuD3izryrg6dCWmvTScfI3MZR3xjkyYeJN2jybYTcORN2zXlnq7ZpV_DvjUtqGH-6koDZqsHYPndt9Nr550l5Efjz9Q8s9_TRfvyQ"
+      },
+      {
+        "title": "RAIDMAX RX-850AED 850W ATX 3.1 PCIe Gen 5 Ready Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRFSWxK6xx-ShGRInSGF_DA2jFMKXP-ldqiuYZ5Eef4rpQMZZPGcqlxsnb_Q5KSQKJdBEjvTXkn2tWh7GiblIWcBViexQ-d2t6mBxOmldiBxCOAlgdnFmXJ",
+        "price": "$49.99",
+        "extracted_price": 49.99,
+        "original_price": "$70",
+        "extracted_original_price": 70,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=19SLsHicNVTLrqNGFEzyBfMTs7IsQXcDJjtjjMEGbF6NzcbCdGO4vF-28deM7s2MNFlOImWb35hZ5FvCjZReHLV06lTVaZX6n58-vNL0rwPs47DnA32_Y5u-OwhncG2Wxte6rcgQ9Sn5A0ERiQBx7IIVERBFgee-RmEf5tV16gIRQEZACPA8AguBYVn4LaEhydOS7uOYtnIVpeRPVmAmICeyPMcyiFmIHCv-nhbhlf7f51jICuIE4QEngOnKvbWk-_S5GWg7ftfysKddP4uGtqVlP7vSkrZhn1bljNAu66t6dljN6m6YRVVRV-U7pqU5DTtKZoAB3HvhZyW9f77W_wmyk49pLQQn-4tJdQH5tyIl3ziBRzxYLAAHRMRDyIG3-ta_JtfXa_46dK9J_krLL1VY3-Lox89v6zZarW6RZHl1jWWbcYruQfC6j_zc1F2DCRkujjbbxi3qG86IamZ96GPie0y_Mvye94CIray7u5scBAXOfGxB51hX9tp8GhuzJYpiBUXQ2WuskJcktV9yzVeWHPFELWA43c8D1nEDN8Q1Q9RqNNnTPQKPwmMijm7sF99NWM_XWEPOm5NnZieQ675vO8baeAQZg0K_ZuwNeYYs3rqbbWF56OEXZmKVimRli9EpJ36Pw2R9f2Klzp0Xkpxc07AL7-EwFbSghG0mHwLWtKzMPLgbUTLAYpphcfQkKS4l2zvmhackN-zXKMTaw1RrE6snhF-kfeRtW6wGilFufVORhvChHb08YYJCeZCjqe7XoknAtvXkPL3g6-gdjVDLlHUENS7IrdHfsAFR69qCSeFviO4-7eMlx73nYd17YilS1r89ujb-ziwVrnf2XGkMsOEPoXLhdXZxXo4NeiAZgLq4_8oKCzTFGApQXIAvUVVlKf3xy4fz2aFT8Ojcce3DRygvzSK4h3BedftuiMZmrTkIxGA00Y7zqLGlRjePLYtQXegilMH4Qhgo3VLq5IetwK2BA0tlGIUenvOF1phZw1zG8y7dXpjqXkm34KhwH6E0W65X72pki9fhrQ6SF6eDil4pau4-s-NYztVC9nwz6mSbF1O_OWX7yU0sc8oBq4pbMe8kMp44ELrHgkvomKLC0kI_dFTn0K-eFJHDXCnlgwFtRwkZyVq-n_c5U5OnQQ7CqV4uCR8VbQzCaiiC-TE6F1NeCetdrOUtCculudxLC589Ty_EddfQEQNFumYdDY4VEh2zMYpcvK8E5q7FbaxqjKwG1XiqVrJZ73KXPV-U-Fjvrmc1lSpe3u3yYb5ZZbpa8Am8Jo-dqZ7Hl8pQ9ao-90vdbD04F3XZ0Mt4pE-UNa1kVPe009LYKVBIaJ0k1zP1b8ZzW6-q0mgcshGSXnxeprAt5S3kHDmgwiDu77W_nx8n3mOrWcrQpCW--lxi28BD_VwQn6qsnv1RP3TzxhNvMsTR9CHEf_8Lh1rCHQ"
+      },
+      {
+        "title": "ASUS TUF Gaming Gold",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSiuFUn059JDDY6-_apyA9NF13E_IDz4KC3-DGkJzKAHkw_th6ZyOkgYWwwF_ju_QOj6f115Ox3blrp9ykj7P5BttqWvQrKbtp9IjcuJwg",
+        "price": "$129.99",
+        "extracted_price": 129.99,
+        "original_price": "$150",
+        "extracted_original_price": 150,
+        "reviews": 85,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eYwanHicbVTLrqNGEI3mC7LIL8zKskTT3WCyM8aAscHmjdkgHo15Pwx-YOVr7iSRJstJpGzzGzOLfEu4WU8vzuZUnao-qqp_f_jxjeR_n-CYhiPjH4570I_DiQ3oS79WP3fXNrnFY578iSCHOBphsAIcojmOZfDnOBzDqr3MLAAYsCtqhTFiOZZGLEV9yUiYVHlDjmlKrkIbz2Ecw6IVNScjlgYUR7Ms-COvwwv5n_4LQEAzFMQIrTDEFAIszX26JsNX-rQJMAIMzaBZAuMVC7gZfzkZRyH4PvdbfyPX6euuCkcyjIv4dr2SZlxcSEOu4Zi3zSIhQzm23eK0WXTDbRG3ddc27zFXUpFwIMmCpmj8DsyiIY_fLt37F75T6lOdJ18wyyCGXnEQrFY0xhCyn7r7-JZd3i7V2214y6o30vzeht09jb99-GnbPoTN8Njodtc5gkGZhf4gtZifa59X7RVlbfVHApMw2uI2LnGRyD4gpSOGDY9Vj99FNhojekcnspH5UgU01yii0tgTi7ctMdNsW6fdrfOyBJ6Pt4rrF3ybbLXxaIk377WmtNIRSOEopqXiqOEVU-oo1VGng81tSXWewgn0Kq1oRMIwkrAXOZXr1lltgk5LoJ9HcPu0KPXpi_zRg9VZo4GdyLweSc9Orf3wYIuj3cQgKbvapPRn7HR6LK1edqnjeFtOpqgZzktxjVITnBJIKswO7tbwDMnvNFGdDBM04WuNfDGjY1pTTM-XdODLoUs9bSspDk6H3FobbWA8iFsN1ssZfFj1duWAsy02up21rqBgA1aFb4tFVDi5ZSWOIYk7vzYObqn1WulLamlYllxZVtXdPWicdRfzsaXtkiI5apRSOPWz0MQM-c56spzMDWnFsAsDn8vBFIFyTiQ_iz3nZbyyk-UleQjW-FyDs1qJLylXeEPWpqPrG5GrI0fmcSj5B79QjLC5jKqX9Dpt1OFWwaar8L8-h2v6lVqLeDSPuFFvsGdOoRgxB7AK1lOPnkig6a5-_DzvGmIQDVnIrejf47Ytc_Ltw49BYJJ50MnStIzTRyistdp_hHDZDsfhFk_9dmciOqUnDe2xTVSFqMMy1fWEHNghRiVMo4SC_D0nZnVSWLylTdiIt4kdYVCtdrNfPRVNwT5XIqp9tPzd90T8EfKL9XbzXi1RnG147_ysMAcoHlpx9vVVelOzlGvBdrV4EAyGy93-XB7nblIBiydHFq2WehcRnFkDoUfKWgmZclTru9ANTdk8jZsXQclpKTbCSYWGKYYUr6_f33uethPmxHnhZoyijInra0qH7a32l14c1JZUJcCO9PU9C5u1tj7yKxcEs0N4uIQmN8_vpRyI77WIM7VerSvusWGpxy69pvKOEmS_nc7tRtC6fWWBIBJTr9tfAjnnW0bY76vbUtqUB7lmMnjJnntNDqaiVeVD2wXj-qBdbbjkDoJ6aNKJvFDZX3m1feTDLk_NGoUJ6bLsEhD3rr6UbtM2am8mEpuN3CtyZH8tKBCbgk_YG3d8dO5x6c263nWni7c-b5yLizPDoOdTsGS5lyzIgTsdTsOyt7m7AJ14vkDpP_8BE-jydA"
+      },
+      {
+        "title": "Lian Li SX 850W Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSmCArVCxM_9zJJVRKG_bQca6-s8qJm8edSdvkW53G-GgfiIIkHuTNAZI9KGsrjowB2CsHuhrrJd2cATO_8v3Dx7E8C1MiYkIayej4wnjD1Q100xts59749FaE",
+        "price": "$119.99",
+        "extracted_price": 119.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=G4tti3icHVTLrqNGEE3yBfMTs7IsNd28OjtjjME2YN42G6sNjeHSPAzYvvhrRvdmRposZyJlm9-YWeRbYqcWpZLq1KlTpVL9-8uHN1r8vUVDRgYx3thr7jz0W-kAT-eZ-bXtmvSSDEX6nUeYx5AXOJnDPMRYEoWvCRkIa05F-hfHiQKSZFkAMi9ATgBQwN9ySlJW1NTOMtqpTfLEIciJCEKO43gR8BIGWPizqMiJ_p__jrHMCbwEeSwCWZIkAfPvXdp_-ny-0G78YTAy0H6YJJeuo_UwOdGadmQomnqS0r4cmnaynU_a_jJJmqpt6iemo4ySnqYT-BD1dOKkprfPp_bZ7yEGA4HHSOYe8wEoceC9KtJvgiTyIpQxFGUeICDy8nt7Hd7y09uJvV36t5y90fpLQ9prlvz89X3RJfP5NVGcoG1D1QX-In2xUKglGtZ9Lt6HGkZJyVZhzQKfYTOuhLlbMptAwYmWw40w975HqRKruemX5WDeTS4dAZfChHO48Oq8hIXFHOQ_YqoryIOh46n5ktzjpakqbVJpVlK7Arnnle1xnqettg7k3BhwRqTJ0Clb16xerwlglsvczLmzc7x4HYJlq9qqwtEAEz863T2Qc0ddK00uDM0IAwJXC7-MtxbLX-IyQS7Q2n3ZVlaZO8doMVLm8k7IiOuHImG5vWdKG-2Ce6jNbrTCa6cS7H2J9cjPg2PVXj3QWlYZa9YLW9sL_OKpIR9WcWNHA0mBMRLkMqqar75r7AKWg7jSXtOdpT-wVgpXXaCy4hiexmBnEqPUFgkyhJhp-2C5h4RhI4Wp70Yr47FPPwa5vy_jTaCHqh0lf7z2XfYDzDRh8GyxvHoZmAObbg83f4TFAvsKfA2DczH7nZNkXuQhkhCW0ZekacqC_vztw-Hg0cfd0annu9uPSJ1ZVXwjaNr0dn9JxvPC8HiYwdHi10JAzRU1-2nmOCndSH3Clyg7pgAp14J6bLuShAX0UK1dRmlAByYbZ6s8g-N4WBerI2hujXKNd5rwESmT2WL-7JauwgW5tnH-4vVI2zSazvx7uRvrqV6pQWQlveqKuIjO-9J-qMlUQduGuuY34Emihg8Onr9lkp_SseArxyAR8XRvO8zvlE-3U61WtyZyPY0AxZk97VlnGeqjUEDo4Y_HXEyqLoOkuVTxdJccKn_JUi44OrNrTuqZNbMVOeIOjw0J_Yl4ONaUU9nTeNfw2LPOZsXwbS6Bm5F1mW4AVY-bcd_MVatdM587HLVs165PB71QGlFdr9llupyXG70Sc3TKX9eWfhhfGlPfNO1hmG2sLkBTvFHNTZ2N9M6X504xm1vRG0XmVTxJaZvnpwONruZ91c6b2jx76VLKB3w_hno8U1dI8NSYShds39rInu4evLvOcLTLuajDUyTkrgsDfphK-K6r-iEaN9t-eg7wVUVh8ngI2T__AbdUwMQ"
+      },
+      {
+        "title": "Thermaltake Toughpower GT 850W Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRp51R-pbl3y92cyqSVlpDaVEhE-72WNlNoc3H_U3cUz2S152Dc42hoR1gowZaWdtvcicyleRSc--2Rm7TpU35dwVBFg-snjL-QzRaumeEHp2U3o9BgsVxs",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$110",
+        "extracted_original_price": 110,
+        "reviews": 78,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AnlVTHicdVTLsptGEE35C7zIL3ilUhUwMyCyk8RLSDzEU5cNhZhBIIaHBAihytdcx65ylnaqss1v2It8S3SzTnrRm9N9-nRXd__90_tXUvxpgz5Lej7aWVv20ne2EHOny9L40l4bPKR9gb9BIEKRg4hdsCLkRFHg0Zc06RPanN7QBYQICuKChZAHArNA7NecJJgWNbGyjFylJi3wVwEhkREWUBTYJxGPGPb3okpO5F_0G1oInAAQEkRBAIKAAIc-XnH3HdrrmGUXUEAiAAzHAw4ueBYufrUdS4r_B_x0Gch1-r6hSU-6fpYO1yup-9mJ1OSa9EVTzzDpyr5pZ_Z61nbDLG2qtqnfYq6EkqQjeMYxHHpz_Kwm46dT-xT5x3_V-lg9e0MCD3kOQcCj55wEDgkf21v_mp9eT_R16F5z-krqz03S3rL0x7uf5WaU1t243vttG0gO49ZBZ6r54FGa7QPxHvpK7XvUfynYc1qyg1PqEKtBEfqtFjAmE1Z64nn6zWDaXeAFEQnpkIZsZoXy3awC3pN1GDBtuGdXBeYcFATOzgRRFlaI2XNoOE5sF8qRZsqsiX16dhiUuOA0ujJVSECtQMpt18eOU911rJrIk6LqyFEzpKe7J7fXo0ZhVMsworTDyoJJ_aixtNwPVSc0w3TCoU4NDe-8si-PHN4kZ5_1qig3StN0y3Yya321Z1vGklkmqFjVV5wq8ZUm0vCUquaLw4xTwqTjAURDcnZkLC_G4Kzo0RknXkBVw1slWHW6oMaDJSt3R23upITIDcVzFNLaCY0pUPODDxzfCVvGrVDnKCLdl8oFl2brHnQ1PJhbouiGoZjbqFJ0XOvQ5MyrJTtbj8UHQzVvgdyze-CwmBVHz0cQM3SHfSSZPuMqrP6C1ShPD8HDeeS2d8BFwi7RS8W-GFR5qIW-cjRzssLIj8IUJiAYHbW1celzURiV4aHViUKhUSuXp476t3t3zb4zSwX1rsWXNzdj1oxF7Hj0Jq6QRW_F3QP_Uix_YZ9HxEMOCEBcgM9p05QF-fHufRy75LnpZO56jv0BSEuzisYEzJvO6oZ0usgbF3IZN5lwi3xi6MTo5tl-j8lO6FJYguyIGbC6FcSlti4gmXNBrQyT0IOYLjYXs7wwxyneFvqRacZmdYsOCvoAVrOlvH6rhvVATm5tlJ_dDii7RtGo9ygPUz3XKskPzbSTHF4swstLaT3VZBJS7EBTvIZ5I5GCJweEYyZ4mEwFrPabJExczbX79YNAbM-VWrIN4LhKwqz2yzd7yzM30jMRAfD0x2POp9U145JmqKL5IY0rT6WY9Y_75S1P6qW5tFaLkI2fE0LdKXHFSFmdyo5EhwaKrnkxKiqOa4EZN9k10zaMpEXN9NKsJbPdUo-Nj0p2aLenWCtWDS9tt3SYq-typ1V8Dk75fWtq8XRuDG3XtHG_3JlXH8zFnWTs6mwiD1heriujGYtuU2RuBRNM2jw_xSS8GQ-9XTe1cXGxKuS9-DgGWrSUdIBcKSLCIFpjG1rzw5P3cN3sleFS1MEpRLnjcD7s54L40CQtDqed3c0vvniTQJA-P1D21z9IBPL0"
+      },
+      {
+        "title": "ASRock SL-850G 850W 80 Plus Gold Fully Modular ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRJIxNYkdT2IUaijE7Gg_FNWL8HXWY29GUCDwBFcLfyvWdsuY_lalwCLPOOKN3mFOFXWt36XOGQQppypby1UIlp7A5tLjwW85PkpMjSy35Cft-uuY7GhXymyA",
+        "price": "$79.99",
+        "extracted_price": 79.99,
+        "original_price": "$130",
+        "extracted_original_price": 130,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5S0cZ3icHVTLrqNGEE3yBfMTs7IsAd0N7uyMAYNtsM3bbCygm8fl_fDza6I7mZEmy0mkbPMbM4t8S3BKqtpUnXNKVaX696cP7zT_-wDGJBz5YLffst04HIQzl3ZL_WvbN-QSjzn5EwIMMQcRu2Ax5DAWePQ1DsewbNIpu2AAZgCHBcBDiARGEJhvGQ1Jmdd0nyS0l5p4KmN5AUEoYCQIPI_5Bc8Lf-RVmNL_03-xC8AjyDMYCIKAOGEhIPZTT4bfPncX2j--a2U40mGcxZe-p_U4S2lN-3DMm3pG6FCMTTs7rGbtcJnFTdU29aumpyUNB0pmHMOhV-BnNb19TttXPzxiIeK4BUQLxEMW8Cz-VOXkGxJ4yHOIBxgsEBRYjv_UXsf3LH1Py_fL8J6V77T-0oTtNYl__PxJ7uPV6hqLR6dtXclkrEo5kTUp7HU7WMUw0nUZ-mCjEMmE4do0dcUsrYpFJy677mxXm7xz3MXTKnFpKcbE4-507u56tQzs52Zv-MbOB6c79VyLKmJy8sU28uNR55QDkTfd8SnfApsk-hqyJ8fYmI5bOiB7szx3o8uoDWzz5sijr3us5rJ4ZzC4dDhku6zCe67i-kz2tKUliKvNkzAscm1XdybsiVEGIhksYTAXVfdJXzFMuSyDt-DN8IKRsNkQceUlXht16IqMbYta7G-eelmye0fn7KK9WcydNYqs0G1zJH6pOGsWGIo50MrwrAJ38Vpp3FobbXY5WpK4Pz2VNrprvlNmTFApd-Ib6l7GBuE2vSOVeeSmD8fXQ61Q5BhoKCiN2vNd88i4WeS4sgna-14i0-mZFbVd1ec0ECry7_ehT74zSwWN1p4fveAkim82n5KeoAiL2kHueUNgh9uvrLCAPOSAAPACfombpsjpj18-nM8Wne6Ozi3bPHwE0tKoglsI5s2wHy7xo5M1C3IJ9zDgFjlU31B9mCfHI6E7YYhhAZKIMEC85tQqDxsByZwFauXyEEZwLhdaZxQdEz3O23wTMc2tEa-Br6CPQJwt5dVLjWxcOby2wbTUASi7RlFL-1n4j3quVpLjGfEgmTzOve5U7KduEgkpB1dV7IZ5kUjuxAHhLRFsQh85rI5a6IWWah3G1ZNCcpgrtXTQgWkpISMely974QxNmoAIgClGUcbHVZ9wYXOpgrkfnyt7XRLWiY7LaxbWS2O5Fxcee54mhIY0tHCgiGkx0MBvILaMTq9KfFsJzE1L-kTVGEkNmsepWUlGuy1t9hwpid9u07Oaiw0vbbflZb5eFTu14jOQZvetoZ4fb42u7pr2PC53Ru-AOd5J-q5OHvQJi64X9eaWD1qeWBUMCW2zLD1T76o_N-2qqfXOImshG_EzctVgKW0AsqSAChe8v7Xefu5PvH6vHZVLl9du6qHMNDkHjnMBP1VJPXuP3WGYdw6-SsCNp4eQ_PMfLgG_3g"
+      },
+      {
+        "title": "ASRock 850W Gold Full Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTKlH-TkpEn8_oxM7nEmI33wmD3k2Dz6Etn_4PNHN0jbLlSsifR7ivaJuqkM5ZzncXZ0RD8sfueULu4KMiz63ztyi4emZlfGESkOBjm2JSfQtaONpOKI-Tc",
+        "price": "$84.99",
+        "extracted_price": 84.99,
+        "original_price": "$150",
+        "extracted_original_price": 150,
+        "reviews": 2,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=R0u2tXicdVQ5ruNGEDV8ggl8hYkEAeyFouhMFDctJMWtSXYiUGRz-VwlUtKX4NP88Riww7EBp77GTOCzmN-x3UEFXa_ee11dqL-_-_DGyj8PaMzicUH31g6cx-EgHGF-Xhm_9pcuvSZjmf6OkYhFiHmwBCKGoigs-F-TeIzrLp-y_HLJI4ghWMIlXHCIh-KXgsVpXbbMyjJ2kbvkHcYtOQwQnuAThYiBAH4rmzhn_6b_AIBbYkGEkOPBpAAQj5efLunwFR_WRwAFJC7QEk02BATQAgjCTwfHko__k_x8vrLL4-umjkc2jLPkermwdpzlrGWXeCy7dpayoRq7fnZYz_rhOku6pu_ad8yF1SweWDqDHOTfw2LWsvvnvP_X5X9ofWrK9AsvLPACLkWMBQ4Ji-kpn_rb-Fbkb3n9dh3eivqNtb90cX_Lkm_f_6B0d3k93Ne23_dEdji3qtf0KRGiUMeBOYobBbs10VyNAA_yPKlrzfC2dur3nCGbJNXSIOQojIBKmE-1VCPYrorAafq1X0WvVrC8M33bBIGDyXMFAw1sXM3mIt_m43ozxnqRGV6ROZp5NRXHTILCdYHUUY6DZkWiNCx8T6nXKaSPWDYNqhDfeJpeqmx3BJiO_UIrT4vupBo3bqCipKXaKVArFqY0UOuDH0o3SyNRQszM1HuFNKPqv9CFE-Q8U02J-b2f-FuJoO6VkfpMQ7qxNN4zfNUiKPXMipK0VoAPX6EZ9As37C_Ri5nFQV3uQ2lIaopPjQNMdcufPDUKdOPuEhV5QFynxCETzoqQqtPQ2Tv1hvcINe2nOqQNDUijPmxA4wiIL45ijymRXKOu5ZMuATr1PahMOw7A1OPicSqBNd2rIdw8SUu2LBBLzyNDCitXBdso1WiRhOTpPIuDF6ZlDFZ81IDIqNWnVm4lRzcfVkC9CBLoQ7GhvhidPOIwMv1NNWo-MP34xSkSUrc_vw6X7Cu3UvnRtXCbwyxgCr6QratL7EbXlq9o1WDR-49AWOIFhmiaxSX_S9J1Vcm-ff_heHTZNOls7nrO4SOSV2ZD7zGad4M1XJPHWdm4GGbwYeId7zNjy4xhntl2yvbCkOAKZaeUQ9KtZG592Aq8Al3UqteHMKJjvdyczerMnR7HXbk9cd29k240VPmPSJqtlPW7WrolSnzrafHiDkjdd6pee88qfLRzvZH9wEwG2VmIZXCOKmtyk8m8eiC66nXcO4lMJg6M75ngpexR4sbexEHs6u5hXD8ZTg9ztZUPBnJcNeYke_V-3uvMjTwV8ghN8XQqFklzyWDcXRs6D5Nj42l1CvyTvboVcbsyV5a0DMBx6hA_5LErUlXKq4HRsMOia56Nphbva4G7b7JLpm84WafdI-rWstnvag8cT2oW9rv8qJdSt5B3u_o619bVXm8WBcqL152pHx8vnaHvu_44rvbmxUdzcS8b-zZ7sCeuzhfJ6O7lsCkzt8FxyvqiyI8suBnPbb_uWuPspppQjOLzRHS6kreId2XKhKto3fvAmocTb3jZ2Or1XLYkD_hi2hY-HueC-NRl_Rg89odhfvbFm4xIMm2g7K9_AENF8bs"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Wattage",
+        "items": [
+          {
+            "name": "Any Wattage",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zwWZL3icbVTLsqM2EE3NF2SRX5iVy1UC8TDZGcsYYwts3peNC5AwXPOQDTaGysek7iSpmiwnqcq3zCzyLeFmPVp0STqnT0utVv_7w49vtPjnALss7qRob-24a9ce5BN_vi7xZ3ZryD3tCvKXABVB4QWRW3CKwCuKLImf07iLy-Y8oTIA0gIAIPA8XEAgywB-yWlMyqKmVpbRG2rSibaQOUlUFgqYVIAIJFGGfxZVfKb_w39z8kKRJLAQoCzyE1eEivzpRtqv_GF1EkRZ4oEg86KsCJzECRL_y8G20On72O_XO70NX7dl3NG2m6X3243W3exMa3qLu6KpZ4S2l65hs8Nqxtr7LG0q1tTvnBstadxSMuMBL74baVbT_vcze7_Cd0J9qgryZdqepgtFljmOF4QpIZ_Yo3vLz2_n8u3evuXlG63_aGL2yNJvH35aNz1atf3q6DHmIxs4tWF7nicSjw2-FomOziyH7zDWNDHmOWyifHDG6MVdcQXmDBOPPjRD26XIHPFaNGLeePqh-kg1v4lrf0UDTrLXLMRQfTiv_ou56a4uFz2T17LYBy0MOfUY1eY9gvYV68zz63Lr80-Tlr6x91mdoGhLtMm_ZMxyfcHhmvHoPWNvLFUPluExxJ0VemO84bCDyMF2vTGoTd3Wo5v_SlzHy4Nj6bshZ18j0GlB9dziylT9NeMihLkjH3H2JudwuR2xvpzW5BLBFxG7Zu66mPd0TSO6KlKPad4lUl-AcsCgM72NrfvBuaNuPtqbXkwv_t58NWM3LPsImhJGZmP5pI-1ckg8n_crtrYQUS2NPKlmIzu8cAnSVAyeeVAZUqQZ94Q3sA1Z7lzIxUbLZ-xHNanZI-WiQ6JHWeASK6gZO4Z5HwfHPgHEtuGLo3HLkWyinKAodtfKHocaSLklDEejTj3N3BSGauvmYAWRi322SoCRE0_U_NKvMRDtpMwHV8tfCdL4kLfr357tLfsKlprYOZbwQNnYmuGgxveRydcKDB6Qp0es6_7n6aMIksBDmedE7o-0aS4F_fbhx9PJoVOh07nj2oePEC3NKupjOG9aq72nw3W9dQQ-4wdT2IkexQbF7Tw7Hgndy20qXGCWEDDVS0Gd8mDI4pp3YK3dB7mDp3KxvZqXK0iG064wEtD0jfqIQk38CNXZcr16j0YMfx0_WJS_Oi3U9o2ml-54CYd6rlfIC8y0RbakFMH15WJNp8mQqB18XXMb8C6C_ElDEPpMdgkdCqE6buMgdnTn0K1GKpDDXKvRAUPb0WKgHpfv493P3KLJUYRwskmSS2l1y_i4uVfRPExPlbspCeclx-Ujj-ulubTURcCdpgyJ7Tl2lEhTz5eWRmEjKI55xVWp9CsZ9NvslulbgPSoGV6aFTLZrnS5U6JlIdudT3qhNhLa7cr7fLO67PVKyuE5f-5M_TS8NljfN-zULffmzYNzZY_wvs4GOgqX603FTV-02yJzKiEmlOX5-USDBx4NtmpqfHXIRs47ZUx8PVoiA4oOiqh8V6yeBdY8nHTD2_ao3a9F7Z8DMbdt3hO6uayMOtJPwbA_tPOrpzwQ9NOpA2W__gduEvLj"
+          },
+          {
+            "name": "750W",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=O_wsNXicbVTLsqM2EE3NF2SRX5iVy1UC8TDZGcsYYwts3peNC5AwXPMQBj-g8jV3MqlKlpNUzbfMLPIt4WY9WnRJOqdPS61W__vTz2-0-HqAfRb3UrS3dlzbdwf5xJ_bJf6TXRtyS_uC_C1ARVB4QeQWnCLwiiJL4p9p3Mdlc55QGQBpAQAQeB4uIJBlAL_kNCZlUVMry-gVNelEW8icJCoLBUwqQASSKMO_iio-0__hfzh5oUgSWAhQFvmJK0JF_nQl3Tf-sDoJoizxQJB5UVYETuIEif_tYFvo9GPsc3uj1-Hbtox72vWz9Ha90rqfnWlNr3FfNPWM0O7SN2x2WM1Yd5ulTcWa-p1zpSWNO0pmPODFdyPNavr4fGbvV_hBqE9VQb5M29N0ocgyx_GCMCXkE7v3b_n57Vy-3bq3vHyj9R9NzO5Z-v3DL-vmgVbdY3X0GPORDZzasD3PE4nHBl-LREdnlsP3GGuaGPMcNlE-OGP04q64AnOGiUcfmqHtUmSOeC0aMW88_VC9p5rfxLW_ogEn2WsWYqjenVf_xdz0rctFz-S1LPZBB0NOPUa1eYug3WKdeX5dbn3-adLSN_Y-qxMUbYk2-ZeMWa4vOFwzHr1n7I2l6sEyPIa4t0JvjDccdhA52K43BrWp23p09V-J63h5cCx9N-TsNgK9FlTPLa5M1V8zLkKYO_IRZ29yDpfbEevLaU0uEXwRsWvmrot5T9c0oqsi9ZjmXSL1BSgHDHrT29i6H5x76uajvXmI6cXfm69m7IblI4KmhJHZWD55xFo5JJ7P-xVbW4iolkaeVLORHV64BGkqBs88qAwp0oxbwhvYhix3LuRio-Uz9qOa1OyectEh0aMscIkV1Iwdw_wRB8dHAohtwxdH45Yj2UQ5QVHsrpU9DjWQcksYjkadepq5KQzV1s3BCiIX-2yVACMnnqj5pV9jINpJmQ-ulr8SpPEhb9e_P7tr9g0sNbF3LOGOsrEzw0GNbyOT2woMHpCnR6zrx6_TRxEkgYcyz4ncH2nTXAr6_cPPp5NDp0Knc8e1Dx8hWppV9IjhvOms7pYO7XrrCHzGD6awEz2KDYq7eXY8ErqXu1S4wCwhYKqXgjrlwZDFNe_AWrsNcg9P5WLbmpcWJMNpVxgJaB6Neo9CTfwI1dlyvXqPRgx_Hd9ZlL86HdT2jaaX7ngJh3quV8gLzLRDtqQUQftysabTZEjUDr6uuQ14F0H-pCEIj0x2CR0KoTpu4yB2dOfQr0YqkMNcq9EBQ9vRYqAel-_j3c_coslRhHCySZJLaXXN-Li5VdE8TE-VuykJ5yXH5T2P66W5tNRFwJ2mDIndOXaUSFPPl45GYSMojtniqlQeKxk8ttk107cA6VEzvDQrZLJd6XKnRMtCtjuf9EJtJLTblbf5ZnXZ65WUw3P-3Jn6aXhtsL5v2Klf7s2rB-fKHuF9nQ10FC7tVcXNo-i2ReZUQkwoy_PziQZ3PBps1dS4dchGzntlTHw9WiIDig6KqHxTrAcLrHk46YbX7VG7tUXtnwMxt23eE_q5rIw60k_BsD9089ZT7gj66dSBsq_r86JQIcmJbucR77UqSjmsp_8BnIL6Ug"
+          },
+          {
+            "name": "850W",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zwWZL3icbVTLsqM2EE3NF2SRX5iVy1UC8TDZGcsYYwts3peNC5AwXPOQDTaGysek7iSpmiwnqcq3zCzyLeFmPVp0STqnT0utVv_7w49vtPjnALss7qRob-24a9ce5BN_vi7xZ3ZryD3tCvKXABVB4QWRW3CKwCuKLImf07iLy-Y8oTIA0gIAIPA8XEAgywB-yWlMyqKmVpbRG2rSibaQOUlUFgqYVIAIJFGGfxZVfKb_w39z8kKRJLAQoCzyE1eEivzpRtqv_GF1EkRZ4oEg86KsCJzECRL_y8G20On72O_XO70NX7dl3NG2m6X3243W3exMa3qLu6KpZ4S2l65hs8Nqxtr7LG0q1tTvnBstadxSMuMBL74baVbT_vcze7_Cd0J9qgryZdqepgtFljmOF4QpIZ_Yo3vLz2_n8u3evuXlG63_aGL2yNJvH35aNz1atf3q6DHmIxs4tWF7nicSjw2-FomOziyH7zDWNDHmOWyifHDG6MVdcQXmDBOPPjRD26XIHPFaNGLeePqh-kg1v4lrf0UDTrLXLMRQfTiv_ou56a4uFz2T17LYBy0MOfUY1eY9gvYV68zz63Lr80-Tlr6x91mdoGhLtMm_ZMxyfcHhmvHoPWNvLFUPluExxJ0VemO84bCDyMF2vTGoTd3Wo5v_SlzHy4Nj6bshZ18j0GlB9dziylT9NeMihLkjH3H2JudwuR2xvpzW5BLBFxG7Zu66mPd0TSO6KlKPad4lUl-AcsCgM72NrfvBuaNuPtqbXkwv_t58NWM3LPsImhJGZmP5pI-1ckg8n_crtrYQUS2NPKlmIzu8cAnSVAyeeVAZUqQZ94Q3sA1Z7lzIxUbLZ-xHNanZI-WiQ6JHWeASK6gZO4Z5HwfHPgHEtuGLo3HLkWyinKAodtfKHocaSLklDEejTj3N3BSGauvmYAWRi322SoCRE0_U_NKvMRDtpMwHV8tfCdL4kLfr357tLfsKlprYOZbwQNnYmuGgxveRydcKDB6Qp0es6_7n6aMIksBDmedE7o-0aS4F_fbhx9PJoVOh07nj2oePEC3NKupjOG9aq72nw3W9dQQ-4wdT2IkexQbF7Tw7Hgndy20qXGCWEDDVS0Gd8mDI4pp3YK3dB7mDp3KxvZqXK0iG064wEtD0jfqIQk38CNXZcr16j0YMfx0_WJS_Oi3U9o2ml-54CYd6rlfIC8y0RbakFMH15WJNp8mQqB18XXMb8C6C_ElDEPpMdgkdCqE6buMgdnTn0K1GKpDDXKvRAUPb0WKgHpfv493P3KLJUYRwskmSS2l1y_i4uVfRPExPlbspCeclx-Ujj-ulubTURcCdpgyJ7Tl2lEhTz5eWRmEjKI55xVWp9CsZ9NvslulbgPSoGV6aFTLZrnS5U6JlIdudT3qhNhLa7cr7fLO67PVKyuE5f-5M_TS8NljfN-zULffmzYNzZY_wvs4GOgqX603FTV-02yJzKiEmlOX5-USDBx4NtmpqfHXIRs47ZUx8PVoiA4oOiqh8V6yeBdY8nHTD2_ao3a9F7Z8DMbdt3hO6uayMOtJPwbA_tPOrpzwQ9NOpA2W__gduEvLj"
+          },
+          {
+            "name": "1000W",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gYnsSHicbVRLsqs2EE1lBRlkCxm5XCUQH5OZsYwx1wKb_2XiAiQM13yEwcZQWc19Sapehi-pSrbyMshaws04GnRJOqdPS61W__PNd--0-PMI-yzupehgvXBt3x3lM39p1_gzuzXknvYF-V2AiqDwgsitOEXgFUWWxM9p3Mdlc5lRGQBpBQAQeB6uIJBlAL_kNCZlUVMry-gNNelMW8mcJCorBcwqQASSKMPfiiq-0P_gPzh5pUgSWAlQFvmZK0JF_nQj3Vf-uDkLoizxQJB5UVYETuIEif_paFvo_P_YL-2d3sav-zLuadcv0vvtRut-caE1vcV90dQLQrtr37DFcbNg3X2RNhVr6g_OjZY07ihZ8IAXP4y0qOnwy4V9XOF_Qn2qCvJl3p6nK0WWOY4XhDkhn9ijf88v75fy_d695-U7rX9tYvbI0r-__X7bDGjTDZuTx5iPbODUhu15nkg8NvpaJDo6sxy-x1jTxJjnsIny0ZmiV3fDFZgzTDz50AxtlyJzwlvRiHnj6YfqI9X8Jq79DQ04yd6yEEP14bz5r-aub10ueiZvZXEIOhhy6imqzXsE7RbrzPPrcu_zT5OWvnHwWZ2gaE-02b9kzHJ9weGa6eQ9Y28qVQ-W4SnEvRV6U7zjsIPI0Xa9KahN3dajm_9GXMfLg1PpuyFntxHotaB67nFlqv6WcRHC3ImPOHuXc7jcT1hfz2tyjeCriF0zd13Me7qmEV0Vqcc07xqpr0A5YtCb3s7W_eDSUzef7N0gplf_YL6ZsRuWQwRNCSOzsXwyxFo5Jp7P-xXbWoiolkaeVLORHV65BGkqBs88qAwp0ox7whvYhix3ruRqo_Uz9qOa1OyRctEx0aMscIkV1IydwnyIg9OQAGLb8NXRuPVEdlFOUBS7W-WAQw2k3BqGk1GnnmbuCkO1dXO0gsjFPtskwMiJJ2p-6dcYiHZS5qOr5W8EaXzI2_XPz-6WfQVrTewdS3igbOrMcFTj-8TktgKjB-T5Eet6-HH-KIIk8FDmOZH7NW2aa0H__va789mhc6HTpePaxx8gWptVNMRw2XRWd0_Hdrt3BD7jR1N4ET2KDYq7ZXY6EXqQu1S4wiwhYK6Xgjrl0ZDFLe_AWruPcg_P5WrfmtcWJOP5pTAS0AyN-ohCTfwBqov1dvMRjRj-Nn6wKH9zOqgdGk0v3ekajvVSr5AXmGmHbEkpgvb1as2nyZCoHX1dcxvwIYL8WUMQhkx2CR0LoTrt4yB2dOfYbyYqkONSq9ERQ9vRYqCe1h_jw8_co9lRhHC2SZJLaXXL-Li5V9EyTM-VuysJ5yWn9SOP67W5ttRVwJ3nDIndJXaUSFMv145GYSMojtniqlSGjQyGfXbL9D1AetSMr80GmeyldLlzomUhe7mc9UJtJPTyUt6Xu831oFdSDi_588XUz-Nbg_VDw879-mDePLhUDggf6mykk3BtbypuhqLbF5lTCTGhLM8vZxo88GSwTVPj1iE7Oe-VKfH1aI0MKDooovJdsQYWWMtw1g1v-5N2b4vavwRibtu8J_RLWZl0pJ-D8XDslq2nPBD007kDZX9t83WhQpIT3c4j3mtVdztgpMJ_AZjY-qM"
+          }
+        ]
+      }
+    ]
+  }
+}

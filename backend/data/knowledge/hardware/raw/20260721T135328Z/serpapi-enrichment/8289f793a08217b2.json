@@ -1,0 +1,883 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a2eb333eed3ab82f11a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bdefhXB4AInXs-1W0HgdWQ/6a5f7a2eb333eed3ab82f11a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bdefhXB4AInXs-1W0HgdWQ/6a5f7a2eb333eed3ab82f11a.json_with_pixel_position",
+    "created_at": "2026-07-21 13:54:54 UTC",
+    "processed_at": "2026-07-21 13:54:54 UTC",
+    "google_url": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&oq=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bdefhXB4AInXs-1W0HgdWQ/6a5f7a2eb333eed3ab82f11a.html",
+    "total_time_taken": 3.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card gpu chipset power_connectors recommended_psu_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card gpu chipset power_connectors recommended_psu_w",
+    "total_results": 541,
+    "time_taken_displayed": 0.81,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Noisy or Quiet? PNY RTX 5080 OC Triple Fan Review",
+      "link": "https://www.youtube.com/watch?v=NRRDum5auOY",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/JeEm85XiO7AOt7P4k5kfxoA5A781bSXMuqwZAFUlkXk.jpeg",
+      "channel": "iVadim",
+      "duration": "9:01",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcROBsYP3XHtWoB1bMzkN3D8aZXLZGyDgy-cmg",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Meet the PNY RTX 5080 OC Triple Fan",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/JeEm85XiO7AOt7P4k5kfxlB0bowepVGTBShhjc9_vDFUxrjrJa63lXQrcAinhI7e.jpeg"
+        },
+        {
+          "time": "00:28",
+          "title": "What's in the box?",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=28",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/JeEm85XiO7AOt7P4k5kfxgWS10-wj4GkPfPWYO0oY8TXV7w5-UXdtb4bV43hifZc.jpeg"
+        },
+        {
+          "time": "01:02",
+          "title": "A closer look at the graphics card",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=62",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/JeEm85XiO7AOt7P4k5kfxliwlac36jioeHXdXCS7KJYZ9Qo42hVXMVwezyBK-313.jpeg"
+        },
+        {
+          "time": "02:24",
+          "title": "I didn't expect to see this on a base-model",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=144",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/JeEm85XiO7AOt7P4k5kfxj2rtliBvoSteDlXSO6odIUs7O76XWA2x7k-LtZbOjhU.jpeg"
+        },
+        {
+          "time": "03:44",
+          "title": "Power connector access",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=224",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/JeEm85XiO7AOt7P4k5kfxuWMc0aH64A7R5AeixZNO8wjXtrnEAA7Q0rouk3Wep7L.jpeg"
+        },
+        {
+          "time": "04:09",
+          "title": "Dimensions",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=249",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdUE44Z7FMyQ9S4xklp7Zd8Qn4NScr3mFRLIKxWMgrjQ&s="
+        },
+        {
+          "time": "04:27",
+          "title": "Weight",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=267",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJwWekdHu8cL7unbQ2AdPtCvuXwl0zkxhOIu2nsVfPyg&s="
+        },
+        {
+          "time": "04:42",
+          "title": "What it looks like in a PC",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=282",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPs2CJHmKR1vCO9fqH6uhYin-A6s4pRwWe0oLFUehm0w&s="
+        },
+        {
+          "time": "06:01",
+          "title": "100% Full load GPU behaviour",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=361",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzkPqn-sZdyzI_kGrE-MEwZuTlhhGgDsmcQPWaxbonMw&s="
+        },
+        {
+          "time": "06:47",
+          "title": "Noise Test",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=407",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsn2oR77D0p0UJjclbl82PRDGqBXG5NI7AxHfIuPup2w&s="
+        },
+        {
+          "time": "08:07",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=NRRDum5auOY&t=487",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJH1hfVt04QsSeAM7nP5lwvBD_J82h5BaKG8SllNxj3g&s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Did PNY Make The Perfect RTX 5080?",
+      "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/OySdrEerDgyGRcYJgYFgmiIgNQAHOH3MEpyq5S5y5VY.jpeg",
+      "channel": "iVadim UNBOX",
+      "duration": "11:19",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT8gytHeDRYRohJvNntAjM3wCgXyG2mkZ7_Ew",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "What's in the box?",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnBWn4KyF4qSHXRZiAKdG9H95CNOBMbh5kdFtCJ4aXQg&s="
+        },
+        {
+          "time": "03:20",
+          "title": "A closer look at the graphics card",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=200",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxfDgq_0yuvLsUFsBOXWkMjF0sH2QkAFdh8ji-PrCGTw&s="
+        },
+        {
+          "time": "04:42",
+          "title": "I didn't expect to see this on a base-model",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=282",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2F_n0GBrMSvyXwzkNkEGUZagTmHhgb3eWj3O_jH6K5A&s="
+        },
+        {
+          "time": "06:02",
+          "title": "Power connector access",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=362",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlrFIpqjgF5yRMm5NHPqPVH9oGxmUq4cUyFrpyMWu-5w&s="
+        },
+        {
+          "time": "06:27",
+          "title": "Dimensions",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=387",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrmRuooPMeWFP_yIvOTjOWI9Ub-z42ueB2dz7HtZZutg&s="
+        },
+        {
+          "time": "06:45",
+          "title": "Weight",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=405",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0mHnaNmdamkVg88Cc9kWWUoMS2rAHMhmYdBPhu093rg&s="
+        },
+        {
+          "time": "07:00",
+          "title": "What it looks like in a PC",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=420",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKoJO53RzR2vxKHR9RK9qarFBHk3DqRlAXRH1xl9u9qQ&s="
+        },
+        {
+          "time": "08:19",
+          "title": "100% Full load GPU behaviour",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=499",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAo8cJG3w8GRmqdlGtqxniiH5N0fkfg0fVFWRj8oNIYA&s="
+        },
+        {
+          "time": "09:05",
+          "title": "Noise Test",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=545",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMpXx-mA3owbtb_FDLufoG5S_I2aPMG7B_TF7gCVFRSA&s="
+        },
+        {
+          "time": "10:25",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=zc0e9zN2Fds&t=625",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5fKpMVqdBh5KE3wf4wXWW2aUv7GV69Q9VsG3yL8EfnQ&s="
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "The GPU Small Builds Have Been Waiting For | PNY GeForce ...",
+      "link": "https://www.youtube.com/watch?v=tTfLRkeLfX4&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/xZwHSJYc5y2s1P9wpqQz7U48u3EFA92vyaTXOUldJSY.jpeg",
+      "channel": "Scan Computers",
+      "duration": "2:29",
+      "platform": "YouTube",
+      "date": "Apr 28, 2026",
+      "snippet": "The PNY GeForce RTX 5080 Slim is a dual-slot GPU with Nvidia's Blackwell architecture, offering next-gen performance for compact builds.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQaFoHmBR5mn4r60TqVz3012CJmZvi86LqWdw"
+    },
+    {
+      "position": 4,
+      "title": "I Tested Cheap vs Most Expensive RTX 5080",
+      "link": "https://www.youtube.com/watch?v=7fauMTV3yxY",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a2eb333eed3ab82f11a/images/YIV91jMtGAIeF77jtgH37lMaKjgvTXVPKvpf_V0xIlY.jpeg",
+      "channel": "iVadim",
+      "duration": "17:37",
+      "platform": "YouTube",
+      "date": "Jan 30, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=0"
+        },
+        {
+          "time": "00:47",
+          "title": "Price difference",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=47"
+        },
+        {
+          "time": "02:10",
+          "title": "Advantages of a big graphics card",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=130"
+        },
+        {
+          "time": "02:39",
+          "title": "Cheap small GPU tested",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=159"
+        },
+        {
+          "time": "08:03",
+          "title": "Expensive big GPU tested",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=483"
+        },
+        {
+          "time": "10:00",
+          "title": "Gaming (Performance) mode on SUPRIM SOC",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=600"
+        },
+        {
+          "time": "12:46",
+          "title": "Silent mode on SUPRIM SOC",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=766"
+        },
+        {
+          "time": "15:11",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=7fauMTV3yxY&t=911"
+        }
+      ]
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSR3ubtjFourfO6_20L3EZhxbi4gzDpH45PBGBM_eXec3EMupv_1mJJpJMkWyLhntuNiqht8B0s3PdJW1dWspQTbBDT6-H-eV7OrABu-XdSRujqHnqo-fPd",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "rating": 4.7,
+      "reviews": 458,
+      "price": "$1,256.99",
+      "extracted_price": 1256.99,
+      "original_price": "Usually $1,276",
+      "extracted_original_price": 1276,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "1wE-fnicdZNNjqNGAIWlnCG3QJGqCoqf7IJx4aYHbIp_srBwFTY0hV0NuG2j3CF3cM9EmixnImWba3ROk86sk8VbfdL79Bbv13vd_umv5L6a-hf3rB-e9sXmum11PQSf5XDiZza1_A8IVYQNAEwLGTrSwHuMz6yaKnE6tPyrZloYa7pm6AAgzdQsqH9p6oqL9liv9_t6cE7s3xYELYAh0nTzvQgiAxja721fHepv_KthIoR1iHRLV6GKAYTgdeDjm7ZZbCEAmvpuNSHEUIVYBRj8sqFrZ_s_8NPzuR5ubz9vgkJxa3IaWK3QOFcwMIECdddWXMehhuIOlWxapiyqgSsHeVZY08qxnhR5utTDlp2Ox5pNp2FUhpqd-r4-8ppv5XjeXj4d5LdZ_2F_7Vv-BRu6piOsaRCZ2ASWar7Kl-neHD6ez6L-634Q9_N4b8S9Pv52quTLnv393ffL08VZjJdFmEiZOhTEjj-viV0EqlfxlZcmHRlDtQMpmjBNyiF2pzVP5Ri53bVMmVpk13W0bPx4bsIkpl6QJDBBeI4iOK5dvE9X9IGl3hyvSpERuo9VmQYOmavOujKXwRIEbpRoMFYDL5rt5zVpRpocbn4vPjBS5j4Muqyb5nj2HlkvhjQJSHn0sgIGL5HDwxgKSWOBGLRiSshjOPOzv2weqtxuGQi1LGumXW85fkZH34V2IHhOe-EG2QgzV27S5XTjnYaqFUnDDqYxKB8rNLkciiByCC07HIRHHxYJkSynDnPsKup4Frnc_pDgaU2sZ99N83gp_LCXmwgGuM5SP1uAmd2giFwP89QiYSL2FWoo7WSUz15LVfqcdqQvEtrtEiuKkPDCY1lGhDg7NGpxfsA7WGrFEy9oFoy0T2NGGAyflvMOgcuO8EW94jMly4gA-MDcsuEuRFRNUIlkn6W2lqMOBWJ5cVvPpqvgts7KKIfNUPSTCGDp1FnQJIn0WAJQIgSmudjH0Dt-vI7D_g38RPAUrfH1h-L22KU1qK962mvZObPLo_vBlmP4IzTM9x8iYBnINP8BQQNFIw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1wE-fnicdZNNjqNGAIWlnCG3QJGqCoqf7IJx4aYHbIp_srBwFTY0hV0NuG2j3CF3cM9EmixnImWba3ROk86sk8VbfdL79Bbv13vd_umv5L6a-hf3rB-e9sXmum11PQSf5XDiZza1_A8IVYQNAEwLGTrSwHuMz6yaKnE6tPyrZloYa7pm6AAgzdQsqH9p6oqL9liv9_t6cE7s3xYELYAh0nTzvQgiAxja721fHepv_KthIoR1iHRLV6GKAYTgdeDjm7ZZbCEAmvpuNSHEUIVYBRj8sqFrZ_s_8NPzuR5ubz9vgkJxa3IaWK3QOFcwMIECdddWXMehhuIOlWxapiyqgSsHeVZY08qxnhR5utTDlp2Ox5pNp2FUhpqd-r4-8ppv5XjeXj4d5LdZ_2F_7Vv-BRu6piOsaRCZ2ASWar7Kl-neHD6ez6L-634Q9_N4b8S9Pv52quTLnv393ffL08VZjJdFmEiZOhTEjj-viV0EqlfxlZcmHRlDtQMpmjBNyiF2pzVP5Ri53bVMmVpk13W0bPx4bsIkpl6QJDBBeI4iOK5dvE9X9IGl3hyvSpERuo9VmQYOmavOujKXwRIEbpRoMFYDL5rt5zVpRpocbn4vPjBS5j4Muqyb5nj2HlkvhjQJSHn0sgIGL5HDwxgKSWOBGLRiSshjOPOzv2weqtxuGQi1LGumXW85fkZH34V2IHhOe-EG2QgzV27S5XTjnYaqFUnDDqYxKB8rNLkciiByCC07HIRHHxYJkSynDnPsKup4Frnc_pDgaU2sZ99N83gp_LCXmwgGuM5SP1uAmd2giFwP89QiYSL2FWoo7WSUz15LVfqcdqQvEtrtEiuKkPDCY1lGhDg7NGpxfsA7WGrFEy9oFoy0T2NGGAyflvMOgcuO8EW94jMly4gA-MDcsuEuRFRNUIlkn6W2lqMOBWJ5cVvPpqvgts7KKIfNUPSTCGDp1FnQJIn0WAJQIgSmudjH0Dt-vI7D_g38RPAUrfH1h-L22KU1qK962mvZObPLo_vBlmP4IzTM9x8iYBnINP8BQQNFIw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSsDYYbBIp2mUwHLW0ZB3WXM1etxMTsZ5iNHCPcWJEHXh4omeq5Z2xC6hoQxmHzf6XawifhpGdO5kNUtgT-b0JEN51RjTFa03be8dECATZG3s6ifF734Ig7RA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk9zd0HItj4cB5A6Q2-pR8BmGxtNeaH4P-0si5EnFKv6CmkQAsfZfKKp8ncY_R4p18pkyunqUnshR192Er9VaUHVKI30w",
+      "source": "Dell",
+      "title": "PNY GeForce RTX 5080 Graphics Card",
+      "rating": 4.8,
+      "reviews": 23,
+      "price": "$1,454.99",
+      "extracted_price": 1454.99,
+      "original_price": "Usually $1,590",
+      "extracted_original_price": 1590,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "5_E1zXicdVBLjqNGGJZyhtwCjVRVQAHZNbaBITZuHlXgysLCFKYwzwZs3NbcIXdwz0SaWU4iZZtrdE4TS9kmm0_69f36Xr_e8_LPjdMf06m52GdcnI675-u-xNgHX_uh4-dsKvnvGEAMMQJYgQrUIJI142uWTmndFSX_jmSsa5oOFFVBGCMNy99FnvK6bPPt8ZgPyy57aCiGrMlAQ6qBIEAGQEj7VjZpkf9Lq1AFqooeaEAFYAhU9Dbw8V15XuwfhyIjoOnqw15VHn8y_PQcbJf7_yG_vJzz4fX9l2dvJ9m51Q1ZLgVRIqlABxLEtinZy2WgSfaQ9qLMpEU6cKnoz1Imyn7MJ6nv5nzYZ13b5tnUDaM05FnXNHnLc77vx_N-_lL0j9h__Jf7W_MYRdWwgpGuGaquA2wAHb_1l-kuis_nc53_dS_q-3m8i_qet791aX85Zn__8OOqm5eLcV74pO_pMgDhiSpRVJs0FmHQinSHijltTeHLnoitblpHq1tE-dWT3fEg14SAeuYOlTMo4Jp68yERMkue5B21Ji9xF5njrQ7guszjaUGTHkWOmFLgvqYVJ5vITfzEJcGNs9TmEU_oyU-8YyQ_TVwOLgF0060dbOLG7Q4N23mV0cc0cLNHaFL3tU8KGJFr7DeVEpP6GpJaYW0tguoK1kkx-fXTlFZ05DFDXm3QTP4Ieeuy3MleU0scPVIAH3oOt8RMIvESIcPfJrt5Q3qVRq5zQH21QxRw22CMZGpqsTqzdZneTG-zFKUHXJwAvqVOUGaN-NmL9St_qLFEOOGK2SFiJmvF2QdEIfZ0CZ36FjdsyGkQEMTjTWISEu1ufgi7IGENS6praDEzjWuH0b7yE96kTgU5FQuv6hVeefamcUc_rn2-sqwtNWdyIqEF4MfMZoLbEAUyQQz1TUxNJUHVo_dqtkvXDBzvdRuzwGv6mBOgrhNvHVfWJbbqU0SNBYXGkkLXy6PA_Hwdh-M7eLLUKdziDzd3NZzkHMSqvNLwsVoHw85px5ew-AlquoIVBAwN6cY_fGtG4w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5_E1zXicdVBLjqNGGJZyhtwCjVRVQAHZNbaBITZuHlXgysLCFKYwzwZs3NbcIXdwz0SaWU4iZZtrdE4TS9kmm0_69f36Xr_e8_LPjdMf06m52GdcnI675-u-xNgHX_uh4-dsKvnvGEAMMQJYgQrUIJI142uWTmndFSX_jmSsa5oOFFVBGCMNy99FnvK6bPPt8ZgPyy57aCiGrMlAQ6qBIEAGQEj7VjZpkf9Lq1AFqooeaEAFYAhU9Dbw8V15XuwfhyIjoOnqw15VHn8y_PQcbJf7_yG_vJzz4fX9l2dvJ9m51Q1ZLgVRIqlABxLEtinZy2WgSfaQ9qLMpEU6cKnoz1Imyn7MJ6nv5nzYZ13b5tnUDaM05FnXNHnLc77vx_N-_lL0j9h__Jf7W_MYRdWwgpGuGaquA2wAHb_1l-kuis_nc53_dS_q-3m8i_qet791aX85Zn__8OOqm5eLcV74pO_pMgDhiSpRVJs0FmHQinSHijltTeHLnoitblpHq1tE-dWT3fEg14SAeuYOlTMo4Jp68yERMkue5B21Ji9xF5njrQ7guszjaUGTHkWOmFLgvqYVJ5vITfzEJcGNs9TmEU_oyU-8YyQ_TVwOLgF0060dbOLG7Q4N23mV0cc0cLNHaFL3tU8KGJFr7DeVEpP6GpJaYW0tguoK1kkx-fXTlFZ05DFDXm3QTP4Ieeuy3MleU0scPVIAH3oOt8RMIvESIcPfJrt5Q3qVRq5zQH21QxRw22CMZGpqsTqzdZneTG-zFKUHXJwAvqVOUGaN-NmL9St_qLFEOOGK2SFiJmvF2QdEIfZ0CZ36FjdsyGkQEMTjTWISEu1ufgi7IGENS6praDEzjWuH0b7yE96kTgU5FQuv6hVeefamcUc_rn2-sqwtNWdyIqEF4MfMZoLbEAUyQQz1TUxNJUHVo_dqtkvXDBzvdRuzwGv6mBOgrhNvHVfWJbbqU0SNBYXGkkLXy6PA_Hwdh-M7eLLUKdziDzd3NZzkHMSqvNLwsVoHw85px5ew-AlquoIVBAwN6cY_fGtG4w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcT0QvGXFqDxaW7Xscae8BXbvt6cHJn02RaAIybClBkhiSkqrnqWijPFuWh1POJiMKR08xrxi7UrUz7yMNO_Yj90taldSBUa8tJRba3ieMy1l4rJz0LQvMUw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "PNY GeForce RTX 5080 ARGB OC Graphics Card",
+      "rating": 4.8,
+      "reviews": 424,
+      "price": "$1,319.99",
+      "extracted_price": 1319.99,
+      "original_price": "$1,400",
+      "extracted_original_price": 1400,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "TsTuTnicbVNLjuM2EAVyhtxCG5IS9clubEtyu9tySzIpW1kYskibskiJLcvtD3KH3ME9E2CynAmQba7ROU3UWc_iAQU81PsUUL_fefX3fKp3Ra9ew5O9P-zWz5dNZdsx-Kq7lp3KvmLfXORBy3SQC70Bluk6X8uiL2S7r9h303E8G5iWA2zPG2YIwTfBCyarhi92O95N2rJif0EH2p5tYwhcx7JMaGHP_bNSxZ7_z3-HwEJokLFtxzORg0wXvXXs-I6exxsbYGxaAwmxbX6Ewe5vz8lisvkx9-XlxLvr-6_P0doIedB2JTeS5crAwAUGtMOREU4miWOEXaFFVRrjomPGXp-MUlT6yHtDt2febcq2aXjZt93R6HjZKsUbxtlGH0-b85e9_gj9A_M3NRwMO7ZlI_ejJnQ8Fzv4Tb_2d7H_fDpJ_s99L--n413IO2_-aAv9uiv__elnvz1PxsfzOCZa00kCUtAiVusmPkQB89lDCiCe1_AxpbQmUrxk2WWW-LMlMeVhnsJ4TkU_V-6ZTGWfIu9c-PmtrL0-a9gjWwZTlsJVGYg4AULl08RiJO_mdX6NFSZbxFaDRsMPQTdXFsinI8IDkZfmKGSrSKem7Ll_6eIrPG1rXNGbNJegf8pvLEup95gq3ZOQPmShrBb-ZZeraMEVFlsobitEp1v66Uz9aBSr5BrXQbUmAmQqoMNOy64wIYReUkWzJfAuhR_F21pW6RiesmWJ1iCZ5ZkWJGTXAj3gOUjqVCU0Vt6R-7CNprN1CZMi8rXgGT6yLCdZiMdrRZ-eaI75lM2J9CGrfUBXbDK_xX1yyDGF-YHeonpbQTV4Xtcyahe-bFZmEpU1s9ZI9HkTvPBaDLgUiaKgOAgcBeK5XOVT0tDhTcRqsWSKoV5z6acBgA9lmAsWQpSYBOVIq4yOrBWqUST9c1jNRsk0ui6GjEupD1zJXaoIzg7ymKm8XZD2RlF7iwjekRCOPl-O3e4dfApwny5sYvqMvd4sebuYC5Tz6zhge-tJPy7Pv0DHtWwLAc9BHvgPTOpJQw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TsTuTnicbVNLjuM2EAVyhtxCG5IS9clubEtyu9tySzIpW1kYskibskiJLcvtD3KH3ME9E2CynAmQba7ROU3UWc_iAQU81PsUUL_fefX3fKp3Ra9ew5O9P-zWz5dNZdsx-Kq7lp3KvmLfXORBy3SQC70Bluk6X8uiL2S7r9h303E8G5iWA2zPG2YIwTfBCyarhi92O95N2rJif0EH2p5tYwhcx7JMaGHP_bNSxZ7_z3-HwEJokLFtxzORg0wXvXXs-I6exxsbYGxaAwmxbX6Ewe5vz8lisvkx9-XlxLvr-6_P0doIedB2JTeS5crAwAUGtMOREU4miWOEXaFFVRrjomPGXp-MUlT6yHtDt2febcq2aXjZt93R6HjZKsUbxtlGH0-b85e9_gj9A_M3NRwMO7ZlI_ejJnQ8Fzv4Tb_2d7H_fDpJ_s99L--n413IO2_-aAv9uiv__elnvz1PxsfzOCZa00kCUtAiVusmPkQB89lDCiCe1_AxpbQmUrxk2WWW-LMlMeVhnsJ4TkU_V-6ZTGWfIu9c-PmtrL0-a9gjWwZTlsJVGYg4AULl08RiJO_mdX6NFSZbxFaDRsMPQTdXFsinI8IDkZfmKGSrSKem7Ll_6eIrPG1rXNGbNJegf8pvLEup95gq3ZOQPmShrBb-ZZeraMEVFlsobitEp1v66Uz9aBSr5BrXQbUmAmQqoMNOy64wIYReUkWzJfAuhR_F21pW6RiesmWJ1iCZ5ZkWJGTXAj3gOUjqVCU0Vt6R-7CNprN1CZMi8rXgGT6yLCdZiMdrRZ-eaI75lM2J9CGrfUBXbDK_xX1yyDGF-YHeonpbQTV4Xtcyahe-bFZmEpU1s9ZI9HkTvPBaDLgUiaKgOAgcBeK5XOVT0tDhTcRqsWSKoV5z6acBgA9lmAsWQpSYBOVIq4yOrBWqUST9c1jNRsk0ui6GjEupD1zJXaoIzg7ymKm8XZD2RlF7iwjekRCOPl-O3e4dfApwny5sYvqMvd4sebuYC5Tz6zhge-tJPy7Pv0DHtWwLAc9BHvgPTOpJQw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR8rMEQUaCtNaRs_g31M6eo_RHjONqn2q_kzLKv_3J9VsLIIKs-D4FjX8zwyCuRp3DKm9mTs2Qbrs3NFcXaBryi9oDVLt2W1pfAp0RULuVMhBnMYzZZSw9PCA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "PNY NVIDIA GeForce RTX 5080 Slim OC Graphics Card",
+      "rating": 4.0,
+      "reviews": 4,
+      "price": "$1,299.99",
+      "extracted_price": 1299.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "7JnrS3icbZHNjqtGEIWV52FD09CY7IINeGYMjBu6-cnCwnQbsPnpAWxjK--QV4g890a6WeZGyjavMXmSLEOkLK9Um9I59dUp1c8PXv3prsUhG5uLc0bF8ZC8TrsKoa38RfQdO-djxb7CBdQANOSFrC6QDIAB9S95NmZ1V1TsD6Bq0ICqrioIQbAwVFkxfi95xuqq5f7hwPtVl__nQ7puqFA3FBkhsFBmIvitarKC_6-ruoFUtDA0baZpaDar7z0bPpTX5c4AKtLRXPoMQBBpqvbTK_ZXu29rn9_OvL99_PjqJZLD7a7PuYTDWNLmGySAHFNyViusS06fibLKpWXWM6kQZykvKzHwURLdlfe7vGtbno9dP0g9z7um4S3jbCeG8-76uRBz6q_fWP7eVOyXd3EZH2Xx6Xyu-V-Pon6ch0dZP3j7a5eJyyH_-7t_rEu-XPb5ckuEoCssB3EhR-vkngNL3csg2df45kZGTyPsYtsC_poSDM2VJycjadOJAHwL1-LGyWSFzvSWEqLkMVV85xmGkb3Zh5TylblKIF4nJxpnlL1Rmx2yKNdww9TMmXAig4mfXNWnZcCgcHiTTDw2IXHASC37krb4mjZlv43tIYXpOq_pMgVm4xHvkkR0SGMPcZLarC3unC4gsW0Hz92GCkqd0sxgou4j4-6e6skDz0NA6xW36OAeCXCj8czb2g4sHOTU7qOj7ZHQ7KgDlpiaPra0aAvNa9aS0QvTZp65B9b2xmzqJorYsgiccG2k0UnzeMQmXNvmvrUvGcQhBsYLjtM4c4Y7aYwsmRPTk5GxKD2EdYpIjI_uvX7KWpoQp7iyBgNiPz9tQQ2pLGAYUmsTiYBaJLBl8JQ7ackcoGBIlFQRTURNNVZOildbV6d6NvHau_lRGrrHk7IJy1eXjNb8gxdCBPYd7RI01pXJuKaWMD9NQ3_4kH-wtTHwEYEWY5e7Wt8n6Cspvy1tVqgb8RJevwf6QkWqIhu6Ysj_Asg7OoQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7JnrS3icbZHNjqtGEIWV52FD09CY7IINeGYMjBu6-cnCwnQbsPnpAWxjK--QV4g890a6WeZGyjavMXmSLEOkLK9Um9I59dUp1c8PXv3prsUhG5uLc0bF8ZC8TrsKoa38RfQdO-djxb7CBdQANOSFrC6QDIAB9S95NmZ1V1TsD6Bq0ICqrioIQbAwVFkxfi95xuqq5f7hwPtVl__nQ7puqFA3FBkhsFBmIvitarKC_6-ruoFUtDA0baZpaDar7z0bPpTX5c4AKtLRXPoMQBBpqvbTK_ZXu29rn9_OvL99_PjqJZLD7a7PuYTDWNLmGySAHFNyViusS06fibLKpWXWM6kQZykvKzHwURLdlfe7vGtbno9dP0g9z7um4S3jbCeG8-76uRBz6q_fWP7eVOyXd3EZH2Xx6Xyu-V-Pon6ch0dZP3j7a5eJyyH_-7t_rEu-XPb5ckuEoCssB3EhR-vkngNL3csg2df45kZGTyPsYtsC_poSDM2VJycjadOJAHwL1-LGyWSFzvSWEqLkMVV85xmGkb3Zh5TylblKIF4nJxpnlL1Rmx2yKNdww9TMmXAig4mfXNWnZcCgcHiTTDw2IXHASC37krb4mjZlv43tIYXpOq_pMgVm4xHvkkR0SGMPcZLarC3unC4gsW0Hz92GCkqd0sxgou4j4-6e6skDz0NA6xW36OAeCXCj8czb2g4sHOTU7qOj7ZHQ7KgDlpiaPra0aAvNa9aS0QvTZp65B9b2xmzqJorYsgiccG2k0UnzeMQmXNvmvrUvGcQhBsYLjtM4c4Y7aYwsmRPTk5GxKD2EdYpIjI_uvX7KWpoQp7iyBgNiPz9tQQ2pLGAYUmsTiYBaJLBl8JQ7ackcoGBIlFQRTURNNVZOildbV6d6NvHau_lRGrrHk7IJy1eXjNb8gxdCBPYd7RI01pXJuKaWMD9NQ3_4kH-wtTHwEYEWY5e7Wt8n6Cspvy1tVqgb8RJevwf6QkWqIhu6Ysj_Asg7OoQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQGNfVapDVd6SZzhMqte1R--BSEFo7cMF4bpI7L_Hzwbpd1w0sGIGv2RbiBfUMs9ZS_RGYzqhXHFUTCAfQz8Ipk_W6xZw-0155NfXLQletoN9-QIw9BdtZJYQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQtMbVpOUVjwbyAS6S0QA7uGiVOBT-1Ppv8Hl-afythqX6tlehsEhg3qnuUCZo4eEdgcenE5BNanbUn99OpR2g4deklWQ",
+      "source": "Jawa.gg",
+      "title": "PNY GeForce RTX 5080 Overclocked Triple Fan Graphics Card",
+      "rating": 4.8,
+      "reviews": 41,
+      "price": "$1,349.00",
+      "extracted_price": 1349.0,
+      "original_price": "Usually $1,926",
+      "extracted_original_price": 1926,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "t7CU6nicbZNLrqNGFIalrCG7QC3VAzBkFszDpgO2y1RhyMDCVGHe0Bjb2Moesgff7kjdw-5ImWYbN6uJb497cibfkf7_fNL58yGKf7xFnyVjc3HO6rHMovW0L1R1Az73Q8fP6Vjwb0jXdKDBma5gCN_GTPucJmNSd8eC_w01DHX1CSHGigp0HcnK11wkvC5ascoyMZhd-rYnywoEGgZQ1WYqUjQZ4y9FkxzFd_4NQYhVWVYRmgFtpunP1JeBn17Rer6faRAACGeKrOiqqmOE8R9rsjL3P2afPpzFcHv9fe1HkiPsbkiFRIKdpAANSFB1DMkxTTKTnCHp8yKV5snApWN_ltK86E9ilPruKoZ92rWtSMduOEmDSLumES0XfN-fzvvrp2P_VvoH4S9Nwb8qM_V5iaZrAD29aIosv_SX8ZEfP57Ptfj3cawf59Mjrx-i_atL-kuW_vfTz1Z3Neen63xD-56ZBAQOCSjUdwfb9YJFhSIKrszyo1U4jcF9KRMr9ilzk6Qh5jaIS9KyMwlixQv8druL3diCpdcaJ24bKKYp8OkGBTDfbmluhg3JeeW7UeCyrTMVgkLg0fEWQd_gtmulIasiOo20qi8U1t0BjMahgMuIkSLY2VnU1Fm4SPEBeohgitId8z3HrYKGLES7xIzKtxi4LS39VQImk7THKammOS_55YDy-dZkN1oy8sw8PXvfOOX3ANgGufsbseh33iIfE2SXnqM3ETZoWrlDEPCS1fTmB76ywyxg1pjFLcs299w4lBREmCVho8-DRQxjquw4NlpSupgDJQpN4mzgEgeVu41gnnvoet0EdhXadEotPyPMWBDgX9MbJBHidx_VgFcsX1nKBxa61sGkd1HaflzXFjPj9xvKV1EFQ2_nDunTrccoIsza2gAuUyfOuQO_e4lR34TMkHeoQn5tXZ3CNcjCv63CmKQov3ilX8ZOvoltewwrF3hOvE5rbWQWAYz5-ON0GrJX8KutjNuVMr2Lbu8rJoCYVNbI4Tk04tb5zehPm1-eXymrMgL6DGna__fWRUc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=t7CU6nicbZNLrqNGFIalrCG7QC3VAzBkFszDpgO2y1RhyMDCVGHe0Bjb2Moesgff7kjdw-5ImWYbN6uJb497cibfkf7_fNL58yGKf7xFnyVjc3HO6rHMovW0L1R1Az73Q8fP6Vjwb0jXdKDBma5gCN_GTPucJmNSd8eC_w01DHX1CSHGigp0HcnK11wkvC5ascoyMZhd-rYnywoEGgZQ1WYqUjQZ4y9FkxzFd_4NQYhVWVYRmgFtpunP1JeBn17Rer6faRAACGeKrOiqqmOE8R9rsjL3P2afPpzFcHv9fe1HkiPsbkiFRIKdpAANSFB1DMkxTTKTnCHp8yKV5snApWN_ltK86E9ilPruKoZ92rWtSMduOEmDSLumES0XfN-fzvvrp2P_VvoH4S9Nwb8qM_V5iaZrAD29aIosv_SX8ZEfP57Ptfj3cawf59Mjrx-i_atL-kuW_vfTz1Z3Neen63xD-56ZBAQOCSjUdwfb9YJFhSIKrszyo1U4jcF9KRMr9ilzk6Qh5jaIS9KyMwlixQv8druL3diCpdcaJ24bKKYp8OkGBTDfbmluhg3JeeW7UeCyrTMVgkLg0fEWQd_gtmulIasiOo20qi8U1t0BjMahgMuIkSLY2VnU1Fm4SPEBeohgitId8z3HrYKGLES7xIzKtxi4LS39VQImk7THKammOS_55YDy-dZkN1oy8sw8PXvfOOX3ANgGufsbseh33iIfE2SXnqM3ETZoWrlDEPCS1fTmB76ywyxg1pjFLcs299w4lBREmCVho8-DRQxjquw4NlpSupgDJQpN4mzgEgeVu41gnnvoet0EdhXadEotPyPMWBDgX9MbJBHidx_VgFcsX1nKBxa61sGkd1HaflzXFjPj9xvKV1EFQ2_nDunTrccoIsza2gAuUyfOuQO_e4lR34TMkHeoQn5tXZ3CNcjCv63CmKQov3ilX8ZOvoltewwrF3hOvE5rbWQWAYz5-ON0GrJX8KutjNuVMr2Lbu8rJoCYVNbI4Tk04tb5zehPm1-eXymrMgL6DGna__fWRUc"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSBO_7g3OIr-srewUI0Mu6pZ4USOZiqxMieJkOa6CJpVELjmYpCY9Tsv5RiL8dnsNWFLmmw6OIW7fswUip2b0RBu7GwzC9gKSr9PlRXaekLTYxZat-dTZg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "PNY GeForce RTX 5080 ARGB EPIC-X OC Graphics Card",
+      "rating": 5.0,
+      "reviews": 13,
+      "price": "$1,345.19",
+      "extracted_price": 1345.19,
+      "original_price": "$2,114",
+      "extracted_original_price": 2114,
+      "extensions": [
+        "36% OFF"
+      ],
+      "immersive_product_page_token": "JBMSiXicdZLNjqNGFIWV50GRqgoKQ3aDMbiZptwUUBiysHCBzT8VbGxs5R3yCpF7JtLMsidStnmNzpNkGZR1srrS_c7VOdK5vzzy8g93LQ7pub3Yo3qsDvHLtCtV1QNfxNBnIz-X2RuWdU3XAQYYQqwhDalfeHpOm_5YZt8g0mSgKouZ6gu8AADityJPs6bs8s3hkA9mz2eZqqtYQVBFMpTnA6gr8GvZpsf8X_w2b1V1gXWEoKYBoMPF65Cd3pWX5Q4ukKYomowAngecVcri5xe6MXf_Az__NObD7f3HFxJLdm71A88lGmwlDDQgQdU2JNs06UKyh1QUJZeW6ZBJRzFKvCjFKT9Lor_mw473XZfzcz-cpCHnfdvmXZZnO3Ead9fPRzGn_v2_3F_bMvv1VVzOj-L4aRyb_M_HsXmMp0fRPPLutz4VlwP_67u_Vxe-XA586YVCMJMCv2mcsMZ1tLUYh3TpoiukQI83azZ60XThlVGH9dSzgK43do8i9gFRZqFEpjiTs2u65efUPN6YbI3pSn9m62KVyM7MjNCFRczujbsHT1cuNwmJGuDKT3cPWiJq8SbeGiSVicuirE6CjLomtaLAYB4z0n197lhnUF4XKYtYmnTkI4EMP0dnM-iKcd8xEoTKza2K1kdWRUxi0TttKHAEDUjLoaD7VaLyIMZhl5ihmV3CFiup5Vw8ZN3ydcL20VTxcHLzhtrEcmCyNi5exRSvonFQWya9J44HhMkZ7ciaFlmttz7AsRsxQaqCMOj0PtNwcvdwVpGGoaIKrTlryHyvTox9qGGvhLOvkF3gXWPZKnj4dHMRYymCyyh0Qn9r-Aw5QxAkNQkITBGFYV37FoBP3E6KzIaIyiFKkGgjZihbVCPSrK526Rh0TW6bKPF9a3VlK0uNAgunkF6TdrKilkzumhRxM3cSFd2n6TQc3sEHC5_9DZ6-j28fa5aDfFJZq0RjZCSd_WyIk_cDXGiKqiCgz1-m_QNLZTfE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=JBMSiXicdZLNjqNGFIWV50GRqgoKQ3aDMbiZptwUUBiysHCBzT8VbGxs5R3yCpF7JtLMsidStnmNzpNkGZR1srrS_c7VOdK5vzzy8g93LQ7pub3Yo3qsDvHLtCtV1QNfxNBnIz-X2RuWdU3XAQYYQqwhDalfeHpOm_5YZt8g0mSgKouZ6gu8AADityJPs6bs8s3hkA9mz2eZqqtYQVBFMpTnA6gr8GvZpsf8X_w2b1V1gXWEoKYBoMPF65Cd3pWX5Q4ukKYomowAngecVcri5xe6MXf_Az__NObD7f3HFxJLdm71A88lGmwlDDQgQdU2JNs06UKyh1QUJZeW6ZBJRzFKvCjFKT9Lor_mw473XZfzcz-cpCHnfdvmXZZnO3Ead9fPRzGn_v2_3F_bMvv1VVzOj-L4aRyb_M_HsXmMp0fRPPLutz4VlwP_67u_Vxe-XA586YVCMJMCv2mcsMZ1tLUYh3TpoiukQI83azZ60XThlVGH9dSzgK43do8i9gFRZqFEpjiTs2u65efUPN6YbI3pSn9m62KVyM7MjNCFRczujbsHT1cuNwmJGuDKT3cPWiJq8SbeGiSVicuirE6CjLomtaLAYB4z0n197lhnUF4XKYtYmnTkI4EMP0dnM-iKcd8xEoTKza2K1kdWRUxi0TttKHAEDUjLoaD7VaLyIMZhl5ihmV3CFiup5Vw8ZN3ydcL20VTxcHLzhtrEcmCyNi5exRSvonFQWya9J44HhMkZ7ciaFlmttz7AsRsxQaqCMOj0PtNwcvdwVpGGoaIKrTlryHyvTox9qGGvhLOvkF3gXWPZKnj4dHMRYymCyyh0Qn9r-Aw5QxAkNQkITBGFYV37FoBP3E6KzIaIyiFKkGgjZihbVCPSrK526Rh0TW6bKPF9a3VlK0uNAgunkF6TdrKilkzumhRxM3cSFd2n6TQc3sEHC5_9DZ6-j28fa5aDfFJZq0RjZCSd_WyIk_cDXGiKqiCgz1-m_QNLZTfE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSRg72YRxxKA4ssEd6UdqxV8w9iHR1HdeoH7-CEkfqCU63KJokULurFQ0CO5tKQQ9JTLACrZ6YB2kKl77mwgjJPP1gYKagQyrSMozvoT3pVfP52vmP5ZWOCt-Y",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTKZHT_jl51xxFUQC2yEF0pG008WoY7K5TvTkOLAXVWBKKWZGz6n8TC7zIwWHLAqtnX6n8TgxsdexRpSYPiEYV0VlMsKI-K_yHN25c",
+      "source": "PayMore Cary",
+      "title": "NVIDIA GeForce RTX 5080 16GB DP x3 + HDMI x1 GDDR7 Graphics Card",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$1,179.99",
+      "extracted_price": 1179.99,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "B7qm4XicbdDLjqNGFAZgKc-Qt0Aj1QUKyK5tKLDTLre5u7KwMFU2mGtjaNzWvEPewT0TaWY5iZRtXqPzNPFkPetf5z_nO7_fZPH3yu0O6VC_OCM5ng7bp8uuIGQDvnR9K8ZsKMSfCJmqqhNNRRoBiJgQwS9ZOqRVeyzEN2ToSFNVjAnABtQ1gr_lMhVV0cj14SB7q82-d-i6SqCBDAw0A2hIQ-RrUadH-X_8FyRY0wkyIISmCjUTEIO89eL8jp7mO-M-gE0DARUjqEJVB-Djk7e2dj_OPj-Psn99_-2JbRVH0rbPpOIFiaIBAyiQODPFsSxPV5w-7fIiU-ZpL5RjNypZXnRnOShdO8l-l7VNI7Oh7c9KL7O2rmUjpNh153E3fT5231E_WP5W319yp6h3jIp0oiOMsQneupfhlh8_jWMl_7kdq9t4vuXVTTZ_tGn3csj-_elnu52s-Xmab8KuiywPBFYGfaTZQZwvsqod9sEMZw7dbkrYr-zlKYEUbkrzhVEzlVaVr6MHJGJaemUO7h2tdz8rw_nVc7RQNiwJysGKXHraBrOKRzRMkdDYHD4HpTkTcT6PY35JI5oECbuGwdIRBcyDhqtxwB5ltaQpGOZB7SH_lB-4xYiHH6aAVr3nRpY4Vc9-RKvAzdWYsqfQXcJVOHCvDLHvLlFIOZaJIMk11MJmq3nWbC4dnqflZcoS2jHK_biGWoCFGzheu22iMIh4y202yprn4TUvvLqF3BHBHmidCPM0dqnvwZzvbdGlpbf1w2XBUDU9JouBu7NphZbJHlRFaLMDO3FVUK4yx5tHeDPFzoC29UYVUKx4FGppzNe87sY4HuyILi_cWVyZLZLgxCYeDoe7iW5wtBJXb-R2i5ltX7LKhHtXLLZ4gxO8LGQc-hTARXZ3CQciD4eIo66Oo5maoBKxyp6cYjnzXPa6jrkfOaa9cni_P1U0rS_TJh4iZpcXRinxgT0xizefLuf-8A4eqDb4a-3yYfv6axlJIC8kqtV4jGe8cR5n3XnzC9QNlagImDoyjP8Ao-ZEUA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=B7qm4XicbdDLjqNGFAZgKc-Qt0Aj1QUKyK5tKLDTLre5u7KwMFU2mGtjaNzWvEPewT0TaWY5iZRtXqPzNPFkPetf5z_nO7_fZPH3yu0O6VC_OCM5ng7bp8uuIGQDvnR9K8ZsKMSfCJmqqhNNRRoBiJgQwS9ZOqRVeyzEN2ToSFNVjAnABtQ1gr_lMhVV0cj14SB7q82-d-i6SqCBDAw0A2hIQ-RrUadH-X_8FyRY0wkyIISmCjUTEIO89eL8jp7mO-M-gE0DARUjqEJVB-Djk7e2dj_OPj-Psn99_-2JbRVH0rbPpOIFiaIBAyiQODPFsSxPV5w-7fIiU-ZpL5RjNypZXnRnOShdO8l-l7VNI7Oh7c9KL7O2rmUjpNh153E3fT5231E_WP5W319yp6h3jIp0oiOMsQneupfhlh8_jWMl_7kdq9t4vuXVTTZ_tGn3csj-_elnu52s-Xmab8KuiywPBFYGfaTZQZwvsqod9sEMZw7dbkrYr-zlKYEUbkrzhVEzlVaVr6MHJGJaemUO7h2tdz8rw_nVc7RQNiwJysGKXHraBrOKRzRMkdDYHD4HpTkTcT6PY35JI5oECbuGwdIRBcyDhqtxwB5ltaQpGOZB7SH_lB-4xYiHH6aAVr3nRpY4Vc9-RKvAzdWYsqfQXcJVOHCvDLHvLlFIOZaJIMk11MJmq3nWbC4dnqflZcoS2jHK_biGWoCFGzheu22iMIh4y202yprn4TUvvLqF3BHBHmidCPM0dqnvwZzvbdGlpbf1w2XBUDU9JouBu7NphZbJHlRFaLMDO3FVUK4yx5tHeDPFzoC29UYVUKx4FGppzNe87sY4HuyILi_cWVyZLZLgxCYeDoe7iW5wtBJXb-R2i5ltX7LKhHtXLLZ4gxO8LGQc-hTARXZ3CQciD4eIo66Oo5maoBKxyp6cYjnzXPa6jrkfOaa9cni_P1U0rS_TJh4iZpcXRinxgT0xizefLuf-8A4eqDb4a-3yYfv6axlJIC8kqtV4jGe8cR5n3XnzC9QNlagImDoyjP8Ao-ZEUA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQij3DIt6fAwPPhp5r5w-NI154U3wPqD0155PJI0sQ2jSyBTrBXDKEN5_GWrpXyilG_zoKI5W3q_4wF6m0tw4hzt9RbglfyEsUHoqUTCe71kRXCjsG89cud2g",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "PNY GeForce RTX 5080 Triple Fan Graphics Card",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": "$1,384.52",
+      "extracted_price": 1384.52,
+      "immersive_product_page_token": "kI-MLXicbY_LjuNEAEXF91hI9XDZLnYkfiSh43TKdtkxi6hS5cRvux3nqfkHfgGlZ5CGJYPElt9ovoQlzWxhfa7uPfenR1b8sZz1ezE2Z-9kHMr95vm6LQxjDT73Q6dOcizUF2iZ0KIWRJjqmGJqmdZnKUZRd4d3amKCkQEINCGEgCJokN_yTKi6aLPVfp8NdicL9TvUAcH_9mALUYwQMkz8a9GIQ_aVf4E6IbpOqYHBe5AaBJHXQR3f0PN0CykmuklNi1IATUQti3x4Zit7-__s08spG25vPz77G83L3G6QmcbCRCPAAho0vInm2TYzNW8QfV5IbSoGpR36kybzoj9mo9Z3l2zYyq5tMzl2w1EbMtk1TdaqTG3742l7-XTov0r_d_y1KdTPr_15fOSHj6dTnf35ONSP0_GR14-s_aUT_Xkv__rmb-csp9NBTtdR33ObgdBZkqcYbnaOq--qMRGzBV5H6TEK3RceW4ihdC2cqx3CFLOKnP0kXUVIx8yd3wNn9H13wcOST4Oad6KA0HcnRmrzu4yuyw1YTHY8vUetWomZW_OZfw65Ow8TDkScYtU6l8ClcQL8q4r91q_WegDGSezmZejAeN2wJmwZ2wEwslnayDBdxm0-cE91slqCwKlZ3Cyxqq6ctf1ExrkRuVSkXn1aJXnMq57FlQN3WBJ1r0fGVbezF3zluYyVc7Rs8ypzLjdWwS4FNF9xduF3pssoN1jpA277TVimT8JR8_f3t8y7TgVyC1ayH0LP75J7PoR2vhAzFvgJL0XDlu9eUN0ZYQ0fVOnvGSKzOPTzJa_RBlIomlSImGxEm5NNOEmkvajWjb94ig7XXe1eUpy6YSsDF8C59NJceRAxHKEU9U3MJ3qCKuTXzsUrFhM282-rOA2CxO8j3g_rkkUcp-HKcZDymBFglym3ukUxaz9ej8P-DXzvkjFYGd_eF85Q4gzEBDumsa-e2LCZtceX4PAdNC3d0BGgJrLoP7R5OSU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kI-MLXicbY_LjuNEAEXF91hI9XDZLnYkfiSh43TKdtkxi6hS5cRvux3nqfkHfgGlZ5CGJYPElt9ovoQlzWxhfa7uPfenR1b8sZz1ezE2Z-9kHMr95vm6LQxjDT73Q6dOcizUF2iZ0KIWRJjqmGJqmdZnKUZRd4d3amKCkQEINCGEgCJokN_yTKi6aLPVfp8NdicL9TvUAcH_9mALUYwQMkz8a9GIQ_aVf4E6IbpOqYHBe5AaBJHXQR3f0PN0CykmuklNi1IATUQti3x4Zit7-__s08spG25vPz77G83L3G6QmcbCRCPAAho0vInm2TYzNW8QfV5IbSoGpR36kybzoj9mo9Z3l2zYyq5tMzl2w1EbMtk1TdaqTG3742l7-XTov0r_d_y1KdTPr_15fOSHj6dTnf35ONSP0_GR14-s_aUT_Xkv__rmb-csp9NBTtdR33ObgdBZkqcYbnaOq--qMRGzBV5H6TEK3RceW4ihdC2cqx3CFLOKnP0kXUVIx8yd3wNn9H13wcOST4Oad6KA0HcnRmrzu4yuyw1YTHY8vUetWomZW_OZfw65Ow8TDkScYtU6l8ClcQL8q4r91q_WegDGSezmZejAeN2wJmwZ2wEwslnayDBdxm0-cE91slqCwKlZ3Cyxqq6ctf1ExrkRuVSkXn1aJXnMq57FlQN3WBJ1r0fGVbezF3zluYyVc7Rs8ypzLjdWwS4FNF9xduF3pssoN1jpA277TVimT8JR8_f3t8y7TgVyC1ayH0LP75J7PoR2vhAzFvgJL0XDlu9eUN0ZYQ0fVOnvGSKzOPTzJa_RBlIomlSImGxEm5NNOEmkvajWjb94ig7XXe1eUpy6YSsDF8C59NJceRAxHKEU9U3MJ3qCKuTXzsUrFhM282-rOA2CxO8j3g_rkkUcp-HKcZDymBFglym3ukUxaz9ej8P-DXzvkjFYGd_eF85Q4gzEBDumsa-e2LCZtceX4PAdNC3d0BGgJrLoP7R5OSU"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the PNY 5080 a good GPU?",
+      "type": "ai_overview",
+      "page_token": "Gn5O-nicHdBRboIwAADQ7DJ-CoXJMhOzDC1FFiFS22J_FiwI2AKddAP92112qp1myd4R3vePajr5-5DVxuhhaVnjOM6rvq9UORd9a-XDrROWyJU65UIuvScPvJzFCg6jv-5Hf0-0ppvUxl26LjNlDtSnoktVbNdkz4KgPFRTkr3eMQpuWEYDd2p316afRcj7vVNHB8iTUuqGQBAyNIWY7CZBtCoJxVg-wwRy-wSjC0V0oJQPgnGTQ-VhBQGV9bYIY3Rs6fVoRypBtsvglCTMvJ2YWZMG5AmhJoYD4DTWOSULzBamuKsNcQkObLAViNcFAk7qEoc7umXUf8wc6cQKjqiJ_DSMbwnj-ChNU8oAZrb6oO2UFRDemYogAb7HuwDhS-TOzuJr5c7-x1bv59Ys9bWv_gDjKniT",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Gn5O-nicHdBRboIwAADQ7DJ-CoXJMhOzDC1FFiFS22J_FiwI2AKddAP92112qp1myd4R3vePajr5-5DVxuhhaVnjOM6rvq9UORd9a-XDrROWyJU65UIuvScPvJzFCg6jv-5Hf0-0ppvUxl26LjNlDtSnoktVbNdkz4KgPFRTkr3eMQpuWEYDd2p316afRcj7vVNHB8iTUuqGQBAyNIWY7CZBtCoJxVg-wwRy-wSjC0V0oJQPgnGTQ-VhBQGV9bYIY3Rs6fVoRypBtsvglCTMvJ2YWZMG5AmhJoYD4DTWOSULzBamuKsNcQkObLAViNcFAk7qEoc7umXUf8wc6cQKjqiJ_DSMbwnj-ChNU8oAZrb6oO2UFRDemYogAb7HuwDhS-TOzuJr5c7-x1bv59Ys9bWv_gDjKniT",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJJcyB0aGUgUE5ZIDUwODAgYSBnb29kIEdQVT8iLCJsayI6IkdocHBjeUIwYUdVZ2NHNTVJRFV3T0RBZ1lTQm5iMjlrSUdkd2RRIiwiYnMiOiJjNDJRdXdyQ01CU0djYzNrV0tMQzJjVEpXaFNFRGdVZHhFVkZsT3BZMDlNbVVKS2Fwc1MtZ1ktdFdPb05CN2NEM18tZEdfRkpaMW1BNFFpYjFSRW03dFNGQ0ZLbFlsaHM5b0hYcFZUVU9KZlZCMDd6a3Zpa0ZfSUt4RmVEUWdIakdPV0JSNmxqNjhCVGJ5RGh4QTFGbGozVTdlNVFVNDNuVW1pOEQ1Rm9JVmNXTlRBbEpUS2pkT0JjWjk2SURtMmphWFA1UXlNUkdZYzhNczJlc1VnUzFDZ1p3Z21OUlpSdnQ4dTRMdGJ6d0J2UV9vX3M2eEZOVnJGMjZ3WSIsImlkIjoiZmNfTUhwZmF0bXZHdTZnamZZUHhfaTY2UTBfOSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJJcyB0aGUgUE5ZIDUwODAgYSBnb29kIEdQVT8iLCJsayI6IkdocHBjeUIwYUdVZ2NHNTVJRFV3T0RBZ1lTQm5iMjlrSUdkd2RRIiwiYnMiOiJjNDJRdXdyQ01CU0djYzNrV0tMQzJjVEpXaFNFRGdVZHhFVkZsT3BZMDlNbVVKS2Fwc1MtZ1ktdFdPb05CN2NEM18tZEdfRkpaMW1BNFFpYjFSRW03dFNGQ0ZLbFlsaHM5b0hYcFZUVU9KZlZCMDd6a3Zpa0ZfSUt4RmVEUWdIakdPV0JSNmxqNjhCVGJ5RGh4QTFGbGozVTdlNVFVNDNuVW1pOEQ1Rm9JVmNXTlRBbEpUS2pkT0JjWjk2SURtMmphWFA1UXlNUkdZYzhNczJlc1VnUzFDZ1p3Z21OUlpSdnQ4dTRMdGJ6d0J2UV9vX3M2eEZOVnJGMjZ3WSIsImlkIjoiZmNfTUhwZmF0bXZHdTZnamZZUHhfaTY2UTBfOSJ9"
+    },
+    {
+      "question": "Why is the PNY 5080 so cheap?",
+      "type": "ai_overview",
+      "page_token": "WlMjLHicHdDbboIwGADg7GW8nAWDiyZmES0HM-po6Q_0ZsEWRVoOTqbTu73LnmpPs2X339X39W2Orf55uFTD0J_n4_H1en08dN3BlI-ya8bF-dbKsSyM2RVSz6dPU-t5Lxf4I3RXp9CNed_DmqLEtwj1QctAD0VAJ6kX3l-g95OUmjxzz5Hv2WWjJ5lNXZU6kECVRzAzDBNfpIcr114T1eCUjYOEoSGsLIvwzhZ6U2T2ZiDIaRUXoQoUY8j4KaaDYOhW1Ms7QR5ssVMzriqJZ5Hk8ArYJGCpQtSbS4ZMm9dLi5r-ExIa58hb_XnBbIwoB1cAuaW46qkGDhNvkyBocaUIC9wmz-igtLJIo07CmLj0Zj2pBY3c7hhzepe1aXhGakDOltqzabTGiLVuCxa_ycyrdq2ImTFDHI_28rKYjP4_F2_7Zpj3793hF5exgV0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WlMjLHicHdDbboIwGADg7GW8nAWDiyZmES0HM-po6Q_0ZsEWRVoOTqbTu73LnmpPs2X339X39W2Orf55uFTD0J_n4_H1en08dN3BlI-ya8bF-dbKsSyM2RVSz6dPU-t5Lxf4I3RXp9CNed_DmqLEtwj1QctAD0VAJ6kX3l-g95OUmjxzz5Hv2WWjJ5lNXZU6kECVRzAzDBNfpIcr114T1eCUjYOEoSGsLIvwzhZ6U2T2ZiDIaRUXoQoUY8j4KaaDYOhW1Ms7QR5ssVMzriqJZ5Hk8ArYJGCpQtSbS4ZMm9dLi5r-ExIa58hb_XnBbIwoB1cAuaW46qkGDhNvkyBocaUIC9wmz-igtLJIo07CmLj0Zj2pBY3c7hhzepe1aXhGakDOltqzabTGiLVuCxa_ycyrdq2ImTFDHI_28rKYjP4_F2_7Zpj3793hF5exgV0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJXaHkgaXMgdGhlIFBOWSA1MDgwIHNvIGNoZWFwPyIsImxrIjoiR2hoM2FIa2dhWE1nY0c1NUlEVXdPREFnYzI4Z1kyaGxZWEEiLCJicyI6ImM0MlF1d3JDTUJTR2NjM2tXS0xDMmNUSldoU0VEZ1VkeEVWRmxPcFkwOU1tVUpLYXBzUy1nWS10V09vTkI3Y0QzXy1kR19GSloxbUE0UWliMVJFbTd0U0ZDRktsWWxoczlvSFhwVlRVT0pmVkIwN3prdmlrRl9JS3hGZURRZ0hqR09XQlI2bGo2OEJUYnlEaHhBMUZsajNVN2U1UVU0M25VbWk4RDVGb0lWY1dOVEFsSlRLamRPQmNaOTZJRG0yamFYUDVReU1SR1ljOE1zMmVzVWdTMUNnWndnbU5SWlJ2dDh1NEx0Ynp3QnZRX29fczZ4Rk5WckYyNndZIiwiaWQiOiJmY19NSHBmYXRtdkd1NmdqZllQeF9pNjZRMF85In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJXaHkgaXMgdGhlIFBOWSA1MDgwIHNvIGNoZWFwPyIsImxrIjoiR2hoM2FIa2dhWE1nY0c1NUlEVXdPREFnYzI4Z1kyaGxZWEEiLCJicyI6ImM0MlF1d3JDTUJTR2NjM2tXS0xDMmNUSldoU0VEZ1VkeEVWRmxPcFkwOU1tVUpLYXBzUy1nWS10V09vTkI3Y0QzXy1kR19GSloxbUE0UWliMVJFbTd0U0ZDRktsWWxoczlvSFhwVlRVT0pmVkIwN3prdmlrRl9JS3hGZURRZ0hqR09XQlI2bGo2OEJUYnlEaHhBMUZsajNVN2U1UVU0M25VbWk4RDVGb0lWY1dOVEFsSlRLamRPQmNaOTZJRG0yamFYUDVReU1SR1ljOE1zMmVzVWdTMUNnWndnbU5SWlJ2dDh1NEx0Ynp3QnZRX29fczZ4Rk5WckYyNndZIiwiaWQiOiJmY19NSHBmYXRtdkd1NmdqZllQeF9pNjZRMF85In0%3D"
+    },
+    {
+      "question": "Will the RTX 5080 require a new power connector?",
+      "type": "featured_snippet",
+      "snippet": "The 5080 adapter will likely require 3 PCIE power cables just like the 4080. I wouldn't recommend daisy chaining so make sure your PSU has 3 PCIE cables available. Wait for reviews to come out prior to release to verify this, and if its not the case then just buy a new PSU with a 5080.",
+      "title": "New PSU for RTX 5080 or not? : r/buildapc - Reddit",
+      "date": "Jan 7, 2025",
+      "link": "https://www.reddit.com/r/buildapc/comments/1hvktve/new_psu_for_rtx_5080_or_not/",
+      "displayed_link": "https://www.reddit.com › buildapc › comments › new_ps...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABaklEQVR4AYWTA4xeQRSFbxXbteKktm3GqRWXUW1EteOkDGubcbG2bVtn_y8vk91ZTnIy99175vrZsgOrPWiJjQjhlhZbQugWQEaHrSO_4-P7POgSE0KYboLTpQMttrDuHresHyRlJAaYbS1w3bteI_-cOkC7Vi9TtQTUuGelNL8tE1ezAAZ3k27VONO50cF3xvvXwJXhMMIUNCcwbBxLrUGUlw9U_PuLALK2TpaGBxznhLfmut1SXiQOdzfH47jpGE1pun3KI-bGxHH1qOMNb436SDmvtlEc6qR2UncHGR02DlzXTCMNaqq8e0HVkMP_SVuNkckdZHTY4MDlDW9dE5m1Uksr8Q5JFy5d0aGjxwAyOmwAblsT3RipJ-_GWUXkl-NIj58-l5kBZHTYBMdNgbfeImGoPrZLEX_D9C-zmAcAGR229o_v-6u8xPLaLxFz5wFARucWratVPoXBw3wP6LzIwF_lLtH779wKcMx4kN4XvzsAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJXaWxsIHRoZSBSVFggNTA4MCByZXF1aXJlIGEgbmV3IHBvd2VyIGNvbm5lY3Rvcj8iLCJsayI6IkdpOTNhV3hzSUhSb1pTQnlkSGdnTlRBNE1DQnlaWEYxYVhKbElHRWdibVYzSUhCdmQyVnlJR052Ym01bFkzUnZjZyIsImJzIjoiYzQyUXV3ckNNQlNHY2Mza1dLTEMyY1RKV2hTRURnVWR4RVZGbE9wWTA5TW1VSkthcHNTLWdZLXRXT29OQjdjRDNfLWRHX0ZKWjFtQTRRaWIxUkVtN3RTRkNGS2xZbGhzOW9IWHBWVFVPSmZWQjA3emt2aWtGX0lLeEZlRFFnSGpHT1dCUjZsajY4QlRieURoeEExRmxqM1U3ZTVRVTQzblVtaThENUZvSVZjV05UQWxKVEtqZE9CY1o5NklEbTJqYVhQNVF5TVJHWWM4TXMyZXNVZ1MxQ2dad2dtTlJaUnZ0OHU0THRiendCdlFfb19zNnhGTlZyRjI2d1kiLCJpZCI6ImZjX01IcGZhdG12R3U2Z2pmWVB4X2k2NlEwXzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJXaWxsIHRoZSBSVFggNTA4MCByZXF1aXJlIGEgbmV3IHBvd2VyIGNvbm5lY3Rvcj8iLCJsayI6IkdpOTNhV3hzSUhSb1pTQnlkSGdnTlRBNE1DQnlaWEYxYVhKbElHRWdibVYzSUhCdmQyVnlJR052Ym01bFkzUnZjZyIsImJzIjoiYzQyUXV3ckNNQlNHY2Mza1dLTEMyY1RKV2hTRURnVWR4RVZGbE9wWTA5TW1VSkthcHNTLWdZLXRXT29OQjdjRDNfLWRHX0ZKWjFtQTRRaWIxUkVtN3RTRkNGS2xZbGhzOW9IWHBWVFVPSmZWQjA3emt2aWtGX0lLeEZlRFFnSGpHT1dCUjZsajY4QlRieURoeEExRmxqM1U3ZTVRVTQzblVtaThENUZvSVZjV05UQWxKVEtqZE9CY1o5NklEbTJqYVhQNVF5TVJHWWM4TXMyZXNVZ1MxQ2dad2dtTlJaUnZ0OHU0THRiendCdlFfb19zNnhGTlZyRjI2d1kiLCJpZCI6ImZjX01IcGZhdG12R3U2Z2pmWVB4X2k2NlEwXzkifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between PNY 5080 and 5080 OC?",
+      "type": "ai_overview",
+      "page_token": "8zcrynicHdBdbpswAABg7TJ9bGJoshEpqsbAcaPBaoNt8MtkbBIXbCCE5oe3XWFn6Kl2mmm7wafv14d969o_n36baRrOm8Xier0-Hvv-aOtH1buFPN87tVDS2kqqdrP-vAbPB7WNLyr8NqoQ02FgEVlmOeN5CzzJGa4bUbKWSeVWgDtTVp7OqhgcWGRetU1mvtN-2t7mhN-yHJC7pLe-ysVYs-GVs_0PgsyoGn1NfS2IDy_YsVAxei9d4CS3KZkNF47MqmEvPIZCeV8AQWSdQRvVNoAYkAtB4qmOTVe6_Zi4PWbxGeTQxtgFgPgiUuhl1jal3wv9pDpI1XKyJIfvmNpT2bGz9PZF0oSnBNllni39Cuoi6zSVdDXGRqcZCl1ZkEm3GqROn4S1uIbBkDaCJGH_huk_n3UMpRHf3XYiBiPvbC9BIDjSq7wwCYHCVOirR_HDQV22_sP_6-3Pg5s2w9gf_wLtv45b",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8zcrynicHdBdbpswAABg7TJ9bGJoshEpqsbAcaPBaoNt8MtkbBIXbCCE5oe3XWFn6Kl2mmm7wafv14d969o_n36baRrOm8Xier0-Hvv-aOtH1buFPN87tVDS2kqqdrP-vAbPB7WNLyr8NqoQ02FgEVlmOeN5CzzJGa4bUbKWSeVWgDtTVp7OqhgcWGRetU1mvtN-2t7mhN-yHJC7pLe-ysVYs-GVs_0PgsyoGn1NfS2IDy_YsVAxei9d4CS3KZkNF47MqmEvPIZCeV8AQWSdQRvVNoAYkAtB4qmOTVe6_Zi4PWbxGeTQxtgFgPgiUuhl1jal3wv9pDpI1XKyJIfvmNpT2bGz9PZF0oSnBNllni39Cuoi6zSVdDXGRqcZCl1ZkEm3GqROn4S1uIbBkDaCJGH_huk_n3UMpRHf3XYiBiPvbC9BIDjSq7wwCYHCVOirR_HDQV22_sP_6-3Pg5s2w9gf_wLtv45b",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gUE5ZIDUwODAgYW5kIDUwODAgT0M/IiwibGsiOiJjNU5TVDhsTVMwc3RTczFMVGxWSVNpMHBUMDNOVXlqSXExUXdOYkF3VUVqTVM0RXc4cE1CIiwiYnMiOiJjNDJRdXdyQ01CU0djYzNrV0tMQzJjVEpXaFNFRGdVZHhFVkZsT3BZMDlNbVVKS2Fwc1MtZ1ktdFdPb05CN2NEM18tZEdfRkpaMW1BNFFpYjFSRW03dFNGQ0ZLbFlsaHM5b0hYcFZUVU9KZlZCMDd6a3Zpa0ZfSUt4RmVEUWdIakdPV0JSNmxqNjhCVGJ5RGh4QTFGbGozVTdlNVFVNDNuVW1pOEQ1Rm9JVmNXTlRBbEpUS2pkT0JjWjk2SURtMmphWFA1UXlNUkdZYzhNczJlc1VnUzFDZ1p3Z21OUlpSdnQ4dTRMdGJ6d0J2UV9vX3M2eEZOVnJGMjZ3WSIsImlkIjoiZmNfTUhwZmF0bXZHdTZnamZZUHhfaTY2UTBfOSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lUWmtjbDlZVjNsalVTMHdORE5UWlhoSmRYQk1WREUzZUdoWmJVUjJPVFpqYURSMU5UbHdjV2w2VW5veVZXcEpVbFUzYmxGemN6Rk5ZM2RWZFVoV1lXZGtXRVoxT0VFNExVWjRaR0p5V1U5amRHeFpRMFJKV1Y5R1VSSVhUVWh3Wm1GMGJYWkhkVFpuYW1aWlVIaGZhVFkyVVRBYUlrRkVjM0k1WmxKelRtOHhVR3hPZHpKZlUwaHRibVV4Vm0xUk1XVjJlbXBuWmxFIiwiZmN2IjoiMyIsImVpIjoiTUhwZmF0bXZHdTZnamZZUHhfaTY2UTAiLCJxYyI6ImN3WEJNUktDUUF3RlVHc3FHX3RfQkN4RU93N2lqRHVReEVEQkpwTmRCaWc4anZma3ZlYnQtWURLMTRJRVVYYzgybGVMZTZjamxEbWUwQmg4bWdrMEJFTjlCVTJ6RjZsdzJ5UVNXYzVDMWFJZ2hHeFpKTE53OHJLbTdYcjVfVC0zX2dRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gUE5ZIDUwODAgYW5kIDUwODAgT0M%2FIiwibGsiOiJjNU5TVDhsTVMwc3RTczFMVGxWSVNpMHBUMDNOVXlqSXExUXdOYkF3VUVqTVM0RXc4cE1CIiwiYnMiOiJjNDJRdXdyQ01CU0djYzNrV0tMQzJjVEpXaFNFRGdVZHhFVkZsT3BZMDlNbVVKS2Fwc1MtZ1ktdFdPb05CN2NEM18tZEdfRkpaMW1BNFFpYjFSRW03dFNGQ0ZLbFlsaHM5b0hYcFZUVU9KZlZCMDd6a3Zpa0ZfSUt4RmVEUWdIakdPV0JSNmxqNjhCVGJ5RGh4QTFGbGozVTdlNVFVNDNuVW1pOEQ1Rm9JVmNXTlRBbEpUS2pkT0JjWjk2SURtMmphWFA1UXlNUkdZYzhNczJlc1VnUzFDZ1p3Z21OUlpSdnQ4dTRMdGJ6d0J2UV9vX3M2eEZOVnJGMjZ3WSIsImlkIjoiZmNfTUhwZmF0bXZHdTZnamZZUHhfaTY2UTBfOSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "c5JPanicxZXbcqpIFIYfYJ5jqKkiETQeU0Xt6gZFEo3pJCbRG4pD2yBHASXmbt5lnmqeZhoUA4ma2rtq16wL-sDq1aub_2P9_Y9r-86_f_xlJUkYX3NcmqY1EgTExTUj8Dgt3voGtwjcODKsH5YrYJ8hrrCOme1GuGKMWOAZbAvjYbjQEm8jr9tkuZjdv6l2u414Jl8uqLoW4yWN_raMOZWjD-fPK4kOanEN-7WeeY-xHk1wj9QafL1Xm3CaRx3A7zUC7OxBgEIHypfXIiDouwCgnz3FD78iTL_kluYjCGnE3EM8GY_kjd0HNOA99HtWDIC8mzTOJXJTHQ6yJQqC2SEUcZfoZzt2NFi0qDw6akdewn3c4ujNs3tlpijVOHTfvppPoeouSjkIyqZneXeCAJZSYKXk9kyuYgAkmTwicuwrly0E1n2xjw54-qE4k1Ad8pwe0abO2YZl5J0ozuQpPvX4YKiKraXtvTZEx0ZjSyRuJzITsmnN3hBn6NTPDTQTm6ql8j_ycb1Rb_G9q073IufCiA9gxBUwpq6rT4ajMQpqoxqsl6ggh1spWTb5cPSai8s7smB_xaSfd7bFq6DowADRxR8LB5ICUwAKNJuZ1iTyVdE09hEqcjugMQY5FXly4q7dByqrgpDDgpKOhp_2K2cAi_CiQtkr5uSKdyVjkV6bc4BkXA2FrP5OfvBx7zKBzQrfAJVG4u6IiEBYPYqyO0Gz5Jd9GEKljOZ0fEPI4WeUL1L2CR32_UiqSh_9BESc9s_yesrOcbM3Agr5f1JzhQJvfOnz0p2WvqLbuTYN5Jmiqe-mIQ7T46oPPP0n6oHxv3ORV4ugqBZHuLC-4SKvFuR0tdiLKC24yP1uoXiSCydvq9Vi-KlaHOPipsrF6WrxwUWWynku4Dku4Cku6A__CxfoBBdFtShx4XyqFvBwq9nUBxc_Xy20X6sWOSZ411RLx3pJTpaQQToKhnxrpOit90nSdOfu5qFNonC-7qfflpCFl1x7muleqLZ5DRs3yda8UOlEcI1NZiXc381YGQ-CyMDsw9Mr2-K7PFtvy5CVJemhw8qRFlq2wYpaZLIkXLOGZYcxTtgwSHGkGoHvYyMJopiNMmY97GeJhPFaTRnPjQKB11rqVKdiXSfPHdFbtx1R38Z-e1R3TcmarQw5aHTqk6crMJWixVRSxzLvqe2mOWii5_dwszCnD_xyHj3KOJFn5urlcTV2bl037jmSMndWXWSi5yvFvBy8bV8cQrarVrSaz0c3I2i0L2lwSQcvSHtf8C08edKkFOV5xcJK0ue3th-mzS7jRYZAFdgk4A6BFwINIFJ5iQRMtYC2KZUqExuaiuON0DB7i16rw2t6t6V125jxSLINhR7PxH4k1P8DLFYz3g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=c5JPanicxZXbcqpIFIYfYJ5jqKkiETQeU0Xt6gZFEo3pJCbRG4pD2yBHASXmbt5lnmqeZhoUA4ma2rtq16wL-sDq1aub_2P9_Y9r-86_f_xlJUkYX3NcmqY1EgTExTUj8Dgt3voGtwjcODKsH5YrYJ8hrrCOme1GuGKMWOAZbAvjYbjQEm8jr9tkuZjdv6l2u414Jl8uqLoW4yWN_raMOZWjD-fPK4kOanEN-7WeeY-xHk1wj9QafL1Xm3CaRx3A7zUC7OxBgEIHypfXIiDouwCgnz3FD78iTL_kluYjCGnE3EM8GY_kjd0HNOA99HtWDIC8mzTOJXJTHQ6yJQqC2SEUcZfoZzt2NFi0qDw6akdewn3c4ujNs3tlpijVOHTfvppPoeouSjkIyqZneXeCAJZSYKXk9kyuYgAkmTwicuwrly0E1n2xjw54-qE4k1Ad8pwe0abO2YZl5J0ozuQpPvX4YKiKraXtvTZEx0ZjSyRuJzITsmnN3hBn6NTPDTQTm6ql8j_ycb1Rb_G9q073IufCiA9gxBUwpq6rT4ajMQpqoxqsl6ggh1spWTb5cPSai8s7smB_xaSfd7bFq6DowADRxR8LB5ICUwAKNJuZ1iTyVdE09hEqcjugMQY5FXly4q7dByqrgpDDgpKOhp_2K2cAi_CiQtkr5uSKdyVjkV6bc4BkXA2FrP5OfvBx7zKBzQrfAJVG4u6IiEBYPYqyO0Gz5Jd9GEKljOZ0fEPI4WeUL1L2CR32_UiqSh_9BESc9s_yesrOcbM3Agr5f1JzhQJvfOnz0p2WvqLbuTYN5Jmiqe-mIQ7T46oPPP0n6oHxv3ORV4ugqBZHuLC-4SKvFuR0tdiLKC24yP1uoXiSCydvq9Vi-KlaHOPipsrF6WrxwUWWynku4Dku4Cku6A__CxfoBBdFtShx4XyqFvBwq9nUBxc_Xy20X6sWOSZ411RLx3pJTpaQQToKhnxrpOit90nSdOfu5qFNonC-7qfflpCFl1x7muleqLZ5DRs3yda8UOlEcI1NZiXc381YGQ-CyMDsw9Mr2-K7PFtvy5CVJemhw8qRFlq2wYpaZLIkXLOGZYcxTtgwSHGkGoHvYyMJopiNMmY97GeJhPFaTRnPjQKB11rqVKdiXSfPHdFbtx1R38Z-e1R3TcmarQw5aHTqk6crMJWixVRSxzLvqe2mOWii5_dwszCnD_xyHj3KOJFn5urlcTV2bl037jmSMndWXWSi5yvFvBy8bV8cQrarVrSaz0c3I2i0L2lwSQcvSHtf8C08edKkFOV5xcJK0ue3th-mzS7jRYZAFdgk4A6BFwINIFJ5iQRMtYC2KZUqExuaiuON0DB7i16rw2t6t6V125jxSLINhR7PxH4k1P8DLFYz3g"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "PNY GeForce RTX 5080 Models GPUs",
+      "link": "https://www.pny.com/geforce-rtx-5080-models",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.pny.com%2Fgeforce-rtx-5080-models&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECDIQAQ",
+      "displayed_link": "https://www.pny.com › geforce-rtx-5080-models",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png",
+      "snippet": "Three 8-pin supplementary power connectors Total graphics power 360 W Required system power 850 W2 Microsoft Windows ® 11 64-bit, Linux 64-bit Internet ...",
+      "snippet_highlighted_words": [
+        "Total"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Three 8-pin supplementary power connectors Total graphics power 360 W Required system power 850 W2 Microsoft Windows ® 11 64-bit, Linux 64-bit Internet ...",
+          "source_info_link": "https://www.pny.com/geforce-rtx-5080-models",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.pny.com%2Fgeforce-rtx-5080-models&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pny.com%2Fgeforce-rtx-5080-models",
+      "source": "PNY.com"
+    },
+    {
+      "position": 2,
+      "title": "Does anyone have the PNY RTX 5080 OC? : r/nvidia",
+      "link": "https://www.reddit.com/r/nvidia/comments/1inxig7/does_anyone_have_the_pny_rtx_5080_oc/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnvidia%2Fcomments%2F1inxig7%2Fdoes_anyone_have_the_pny_rtx_5080_oc%2F&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECEUQAQ",
+      "displayed_link": "260+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I've managed to order one, it was only slightly above MSRP. I'd went with a TUF or a Gaming Trio/OC from the other vendors but their prices are literally ...",
+      "about_this_result": {
+        "source": {
+          "description": "The build quality is decent, the backplate is metal, and the RGB looks nice. You can slide the maximum power limit to 110%, Memory stays below ...",
+          "source_info_link": "https://www.reddit.com/r/nvidia/comments/1inxig7/does_anyone_have_the_pny_rtx_5080_oc/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fnvidia%2Fcomments%2F1inxig7%2Fdoes_anyone_have_the_pny_rtx_5080_oc%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fnvidia%2Fcomments%2F1inxig7%2Fdoes_anyone_have_the_pny_rtx_5080_oc%2F",
+      "source": "Reddit · r/nvidia"
+    },
+    {
+      "position": 3,
+      "title": "PNY GeForce RTX 5080 16GB OC GDDR7 PCI Express ...",
+      "link": "https://www.bestbuy.com/product/pny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/JXF2C46ZZH/sku/11013309",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fpny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black%2FJXF2C46ZZH%2Fsku%2F11013309&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECDMQAQ",
+      "displayed_link": "https://www.bestbuy.com › product › sku",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Built with NVIDIA Blackwell and equipped with blistering-fast GDDR7 memory, it lets you run the most graphically demanding games and creative applications with ...",
+      "snippet_highlighted_words": [
+        "NVIDIA",
+        "GDDR7"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 276
+          },
+          "extensions": [
+            "4.8(276)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Built with NVIDIA Blackwell and equipped with blistering-fast GDDR7 memory, it lets you run the most graphically demanding games and creative applications with ...",
+          "source_info_link": "https://www.bestbuy.com/product/pny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/JXF2C46ZZH/sku/11013309",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fpny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black%2FJXF2C46ZZH%2Fsku%2F11013309&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fpny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black%2FJXF2C46ZZH%2Fsku%2F11013309",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/product/pny-geforce-rtx-5080-16gb-oc-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/JXF2C46ZZH/sku/11013309"
+    },
+    {
+      "position": 4,
+      "title": "PNY RTX 5080 Slim OC Review",
+      "link": "https://www.techpowerup.com/review/pny-rtx-5080-slim-oc/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fpny-rtx-5080-slim-oc%2F&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECGIQAQ",
+      "displayed_link": "https://www.techpowerup.com › review › pny-rtx-5080...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "date": "Apr 15, 2026",
+      "snippet": "The PNY GeForce RTX 5080 Slim OC is the only custom-design dual-slot RTX 5080 on the market, ideal for compact and multi-GPU builds.",
+      "snippet_highlighted_words": [
+        "PNY GeForce RTX 5080",
+        "5080",
+        "GPU"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0
+          },
+          "extensions": [
+            "5.0",
+            "Review by W1zzard (TPU)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The PNY GeForce RTX 5080 Slim OC is the only custom-design dual-slot RTX 5080 on the market, ideal for compact and multi-GPU builds.",
+          "source_info_link": "https://www.techpowerup.com/review/pny-rtx-5080-slim-oc/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fpny-rtx-5080-slim-oc%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Freview%2Fpny-rtx-5080-slim-oc%2F",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 5,
+      "title": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan ...",
+      "link": "https://www.amazon.com/PNY-GeForce-Overclocked-Graphics-2-9-Slot/dp/B0DTJFZ4YS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FPNY-GeForce-Overclocked-Graphics-2-9-Slot%2Fdp%2FB0DTJFZ4YS&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECDEQAQ",
+      "displayed_link": "https://www.amazon.com › PNY-GeForce-Overclocked-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card (16GB GDDR7, 256-bit, Boost Speed: 2730 MHz, PCIe® 5.0, HDMI®/DP 2.1, 2.99-Slot, NVIDIA Blackwell ...",
+      "snippet_highlighted_words": [
+        "PNY NVIDIA GeForce RTX",
+        "5080",
+        "Graphics Card",
+        "16GB GDDR7",
+        "NVIDIA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card (16GB GDDR7, 256-bit, Boost Speed: 2730 MHz, PCIe® 5.0, HDMI®/DP 2.1, 2.99-Slot, NVIDIA Blackwell ...",
+          "source_info_link": "https://www.amazon.com/PNY-GeForce-Overclocked-Graphics-2-9-Slot/dp/B0DTJFZ4YS",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FPNY-GeForce-Overclocked-Graphics-2-9-Slot%2Fdp%2FB0DTJFZ4YS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FPNY-GeForce-Overclocked-Graphics-2-9-Slot%2Fdp%2FB0DTJFZ4YS",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/PNY-GeForce-Overclocked-Graphics-2-9-Slot/dp/B0DTJFZ4YS"
+    },
+    {
+      "position": 6,
+      "title": "PNY GEFORCE RTX™ 5080 16GB",
+      "link": "https://www.pny.com/file%20library/company/support/product%20brochures/geforce%20graphics/english/rtx-5080-16gb-triple-fan-oc-brochure.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.pny.com%2Ffile%2520library%2Fcompany%2Fsupport%2Fproduct%2520brochures%2Fgeforce%2520graphics%2Fenglish%2Frtx-5080-16gb-triple-fan-oc-brochure.pdf&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECDQQAQ",
+      "displayed_link": "https://www.pny.com › geforce graphics › english",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png",
+      "snippet": "Three 8-pin supplementary power connectors • 850 W or greater system power supply2 • Microsoft Windows® 11 64-bit, Windows 10 64-bit, Linux 64-bit … or 8K 165 ...",
+      "snippet_highlighted_words": [
+        "850"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Three 8-pin supplementary power connectors • 850 W or greater system power supply2 • Microsoft Windows® 11 64-bit, Windows 10 64-bit, Linux 64-bit … or 8K 165 ...",
+          "source_info_link": "https://www.pny.com/file%20library/company/support/product%20brochures/geforce%20graphics/english/rtx-5080-16gb-triple-fan-oc-brochure.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAdElEQVR4AWN4unP1OgTYtI5hk4IACmBYzcmACtYJoAmsljR0RQCg7BKtW_8QoImTYYnh36f9ULDk42VJkMAtf1cbMAh9ChF42HT5318w-LdTACjw7yiDZ9c8MJjlygASuAy0jBMCGEC2PNyE7g41DJeSJgAA22ZNMyo5ARsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.pny.com%2Ffile+library%2Fcompany%2Fsupport%2Fproduct+brochures%2Fgeforce+graphics%2Fenglish%2Frtx-5080-16gb-triple-fan-oc-brochure.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pny.com%2Ffile%2520library%2Fcompany%2Fsupport%2Fproduct%2520brochures%2Fgeforce%2520graphics%2Fenglish%2Frtx-5080-16gb-triple-fan-oc-brochure.pdf",
+      "source": "PNY.com"
+    },
+    {
+      "position": 7,
+      "title": "One of the few RTX 5080 you can actually buy... PNY RTX ...",
+      "link": "https://www.youtube.com/watch?v=Shx4V5FYOLM&vl=en",
+      "displayed_link": "44.3K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbOwuG1oLmtcXwfHsQiptXQpJEdsq6jvO9jt96DmT-OYoip9YiwKLRqA&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "This card is definitely good it has nothing wrong going on and it's a lot cheaper than other counterparts and it's also readily available.",
+      "duration": "7:21",
+      "about_this_result": {
+        "source": {
+          "description": "This card is definitely good it has nothing wrong going on and it's a lot cheaper than other counterparts and it's also readily available.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DShx4V5FYOLM&vl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DShx4V5FYOLM%26vl%3Den",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQq0RHyEOpCljQwkbBD-v9RljMESxcRcLyjTA",
+      "source": "YouTube · ImWateringPSUs"
+    },
+    {
+      "position": 8,
+      "title": "PNY GeForce RTX 5080 OC 16GB 256-Bit GDDR7 DLSS ...",
+      "link": "https://www.newegg.com/pny-technologies-inc-oc-vcg508016tfxpb1-o-geforce-rtx-5080-16gb-graphics-card-triple-fans/p/N82E16814133899?srsltid=AfmBOoq-X1qLuJPneop_gQoxcQyCJJFx_yJqG7YN-svuKBFQPL00p2kZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fpny-technologies-inc-oc-vcg508016tfxpb1-o-geforce-rtx-5080-16gb-graphics-card-triple-fans%2Fp%2FN82E16814133899%3Fsrsltid%3DAfmBOoq-X1qLuJPneop_gQoxcQyCJJFx_yJqG7YN-svuKBFQPL00p2kZ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0QFnoECD0QAQ",
+      "displayed_link": "https://www.newegg.com › ... › PNY Technologies, Inc.",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Model, VCG508016TFXPB1-O · NVIDIA RTX 5080, ZT-B50800D-10P, PRIME-RTX5080-16G ; Memory Size, 16GB, 16GB GDDR7, 16GB, 16GB ; Memory Interface, 256-Bit, 256-Bit, 256 ...",
+      "snippet_highlighted_words": [
+        "NVIDIA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Model, VCG508016TFXPB1-O · NVIDIA RTX 5080, ZT-B50800D-10P, PRIME-RTX5080-16G ; Memory Size, 16GB, 16GB GDDR7, 16GB, 16GB ; Memory Interface, 256-Bit, 256-Bit, 256 ...",
+          "source_info_link": "https://www.newegg.com/pny-technologies-inc-oc-vcg508016tfxpb1-o-geforce-rtx-5080-16gb-graphics-card-triple-fans/p/N82E16814133899?srsltid=AfmBOoq-X1qLuJPneop_gQoxcQyCJJFx_yJqG7YN-svuKBFQPL00p2kZ",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fpny-technologies-inc-oc-vcg508016tfxpb1-o-geforce-rtx-5080-16gb-graphics-card-triple-fans%2Fp%2FN82E16814133899%3Fsrsltid%3DAfmBOoq-X1qLuJPneop_gQoxcQyCJJFx_yJqG7YN-svuKBFQPL00p2kZ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fpny-technologies-inc-oc-vcg508016tfxpb1-o-geforce-rtx-5080-16gb-graphics-card-triple-fans%2Fp%2FN82E16814133899%3Fsrsltid%3DAfmBOoq-X1qLuJPneop_gQoxcQyCJJFx_yJqG7YN-svuKBFQPL00p2kZ",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/pny-technologies-inc-oc-vcg508016tfxpb1-o-geforce-rtx-5080-16gb-graphics-card-triple-fans/p/N82E16814133899?srsltid=AfmBOoq-X1qLuJPneop_gQoxcQyCJJFx_yJqG7YN-svuKBFQPL00p2kZ"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "PNY GeForce RTX 5080 16GB OC review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+GeForce+RTX+5080+16GB+OC+review&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+OC+review"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY RTX 5080 review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+RTX+5080+review&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+RTX+5080+review"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY NVIDIA GeForce RTX 5080 EPIC-X RGB Overclocked Triple Fan 16GB GDDR7 PCIe 5.0 Graphics card",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+NVIDIA+GeForce+RTX+5080+EPIC-X+RGB+Overclocked+Triple+Fan+16GB+GDDR7+PCIe+5.0+Graphics+card&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+NVIDIA+GeForce+RTX+5080+EPIC-X+RGB+Overclocked+Triple+Fan+16GB+GDDR7+PCIe+5.0+Graphics+card"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY 5080 OC",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+5080+OC&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+5080+OC"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY GeForce RTX 5080 16GB OC GDDR7 PCI Express 5.0 Graphics card with Triple Fan Black",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+GeForce+RTX+5080+16GB+OC+GDDR7+PCI+Express+5.0+Graphics+card+with+Triple+Fan+Black&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+OC+GDDR7+PCI+Express+5.0+Graphics+card+with+Triple+Fan+Black"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY NVIDIA GeForce RTX ™ 5080 epic-x ™ ARGB OC Triple Fan Graphics Card",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+NVIDIA+GeForce+RTX+%E2%84%A2+5080+epic-x+%E2%84%A2+ARGB+OC+Triple+Fan+Graphics+Card&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+NVIDIA+GeForce+RTX+%E2%84%A2+5080+epic-x+%E2%84%A2+ARGB+OC+Triple+Fan+Graphics+Card"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY GeForce RTX 5080 models",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+GeForce+RTX+5080+models&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+models"
+    },
+    {
+      "block_position": 1,
+      "query": "PNY 5080 RGB control",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=PNY+5080+RGB+control&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+5080+RGB+control"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GBIqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAF6BAgdEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyFQgBEgVCbGFjazoKCM3JaBDPyWgwAFi1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAJ6BAgdEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?hl=en&q=pci+express+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyGwgBEgtQQ0kgRXhwcmVzczoKCJzpLBCg6SwwAFi1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAN6BAgdEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&q=hdmi+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyFAgBEgRIRE1JOgoI05ErENeRKzAAWLWxIGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAR6BAgdEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?hl=en&q=pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=Eg2aAQoKCBACOAFABEgBGBQqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAV6BAgdEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w+for+sale&gl=us&shoprs=GBIqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAZ6BAgdEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w+for+sale"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w+sale&gl=us&shoprs=EgRKAhgBGAYqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyEwgGEgdPbiBzYWxlGAIiBEoCGAFYtbEgYAE&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAd6BAgdEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w+sale"
+    },
+    {
+      "query": "DVI",
+      "link": "https://www.google.com/search?hl=en&q=dvi+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyEwgBEgNEVkk6CgjTkSsQ1ZErMABYtbEgYAE&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAh6BAgdEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dvi+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?hl=en&q=displayport+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyGwgBEgtEaXNwbGF5UG9ydDoKCNORKxDYkSswAFi1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAl6BAgdEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "13 – 14 in long",
+      "link": "https://www.google.com/search?hl=en&q=13+in+long+to+14+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=EhoqGAjLnGISEgkAAADg0Ip0QBEAAAAgrr91QBgBKltwbnkgZ2Vmb3JjZSBydHggNTA4MCAxNmdiIGdkZHI3IGdyYXBoaWMgY2FyZCBncHUgY2hpcHNldCBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93MlkIARIRMTMg4oCTIDE0IGluIGxvbmciGioYCMucYhISCQAAAODQinRAEQAAACCuv3VAKhwKGDEzIGluIGxvbmcgdG8gMTQgaW4gbG9uZxgBOggIy5xiEAAwBli1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAp6BAgdEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=13+in+long+to+14+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Active",
+      "link": "https://www.google.com/search?hl=en&q=active+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyGAgBEgZBY3RpdmU6DAjdrusBEOGu6wEwAFi1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAt6BAgdEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=active+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Under 12 in long",
+      "link": "https://www.google.com/search?hl=en&q=under+12+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=EhEqDwjLnGISCREAAAAAAABzQBgBKltwbnkgZ2Vmb3JjZSBydHggNTA4MCAxNmdiIGdkZHI3IGdyYXBoaWMgY2FyZCBncHUgY2hpcHNldCBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93MjUIARIQVW5kZXIgMTIgaW4gbG9uZyIRKg8Iy5xiEgkRAAAAAAAAc0AqAhgBOggIy5xiEAAwBli1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKAx6BAgdEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+12+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "12 – 13 in long",
+      "link": "https://www.google.com/search?hl=en&q=12+in+long+to+13+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=EhoqGAjLnGISEgkAAAAAAABzQBEAAADg0Ip0QBgBKltwbnkgZ2Vmb3JjZSBydHggNTA4MCAxNmdiIGdkZHI3IGdyYXBoaWMgY2FyZCBncHUgY2hpcHNldCBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93MlkIARIRMTIg4oCTIDEzIGluIGxvbmciGioYCMucYhISCQAAAAAAAHNAEQAAAODQinRAKhwKGDEyIGluIGxvbmcgdG8gMTMgaW4gbG9uZxgBOggIy5xiEAAwBli1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKA16BAgdEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=12+in+long+to+13+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?hl=en&q=replacement+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GBIqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyDwgSEgtSZXBsYWNlbWVudGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKA56BAgdEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Over 14 in long",
+      "link": "https://www.google.com/search?hl=en&q=over+14+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=EhEqDwjLnGISCQkAAAAgrr91QBgBKltwbnkgZ2Vmb3JjZSBydHggNTA4MCAxNmdiIGdkZHI3IGdyYXBoaWMgY2FyZCBncHUgY2hpcHNldCBwb3dlcl9jb25uZWN0b3JzIHJlY29tbWVuZGVkX3BzdV93MjQIARIPT3ZlciAxNCBpbiBsb25nIhEqDwjLnGISCQkAAAAgrr91QCoCGAE6CAjLnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKA96BAgdEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+14+in+long+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?hl=en&q=four+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyFggBEgRGb3VyOgwI75WyAhCGlrICMABYtbEgYAE&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBB6BAgdEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=four+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "GDDR",
+      "link": "https://www.google.com/search?hl=en&q=gddr+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyFAgBEgRHRERSOgoIg9Q6EOiUazAAWLWxIGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBF6BAgdEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gddr+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Dual Slot",
+      "link": "https://www.google.com/search?hl=en&q=dual+slot+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyGwgBEglEdWFsIFNsb3Q6DAii8uoBEKTy6gEwAFi1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBJ6BAgdEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dual+slot+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?hl=en&q=white+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyFQgBEgVXaGl0ZToKCM3JaBDSyWgwAFi1sSBgAQ&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBN6BAgdEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "VR Ready",
+      "link": "https://www.google.com/search?hl=en&q=vr+ready+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyGggBEghWUiBSZWFkeToMCN6M8AEQ34zwATADWLWxIGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBR6BAgdEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vr+ready+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Ray Tracing Support",
+      "link": "https://www.google.com/search?hl=en&q=ray+tracing+support+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyJQgBEhNSYXkgVHJhY2luZyBTdXBwb3J0OgwI467rARDkrusBMANYtbEgYAE&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBV6BAgdEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ray+tracing+support+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "Under $1,000",
+      "link": "https://www.google.com/search?hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w+under+%241%2C000&gl=us&shoprs=Eg0SCxEAAAAAZc3NQRgBGAUqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyJQgFEgxVbmRlciAkMSwwMDAYAiINEgsRAAAAAGXNzUEYASoCGAFYtbEgYAE&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBZ6BAgdEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w+under+%241%2C000"
+    },
+    {
+      "query": "360 watt TDP",
+      "link": "https://www.google.com/search?hl=en&q=360+watt+tdp+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=EhsqGQjQrusBEhIJAAAAAACAdkARAAAAAACAdkAYASpbcG55IGdlZm9yY2UgcnR4IDUwODAgMTZnYiBnZGRyNyBncmFwaGljIGNhcmQgZ3B1IGNoaXBzZXQgcG93ZXJfY29ubmVjdG9ycyByZWNvbW1lbmRlZF9wc3VfdzI8CAESDDM2MCB3YXR0IFREUCIbKhkI0K7rARISCQAAAAAAgHZAEQAAAAAAgHZAKgIYAToJCNCu6wEQADAGWLWxIGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBd6BAgdEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=360+watt+tdp+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    },
+    {
+      "query": "8-pin",
+      "link": "https://www.google.com/search?hl=en&q=8-pin+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w&gl=us&shoprs=GAEqW3BueSBnZWZvcmNlIHJ0eCA1MDgwIDE2Z2IgZ2RkcjcgZ3JhcGhpYyBjYXJkIGdwdSBjaGlwc2V0IHBvd2VyX2Nvbm5lY3RvcnMgcmVjb21tZW5kZWRfcHN1X3cyFwgBEgU4LXBpbjoMCNGu6wEQ067rATAAWLWxIGAB&sa=X&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Qip4GKBh6BAgdEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=8-pin+pny+geforce+rtx+5080+16gb+gddr7+graphic+card+gpu+chipset+power_connectors+recommended_psu_w"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=10&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8NMDegQIThAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=10&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAE",
+      "3": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=20&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAG",
+      "4": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=30&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAI",
+      "5": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=40&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAK",
+      "6": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=50&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAM",
+      "7": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=60&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAO",
+      "8": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=70&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAQ",
+      "9": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=80&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAS",
+      "10": "https://www.google.com/search?q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=MHpfatmvGu6gjfYPx_i66Q0&start=90&sa=N&sstk=AU9db-Aoq7ZvhLabQH5QbtX7pAXv5vz7yWAmwQo1ZxHqoByWiZ62rwAe_36N1ZolObz5aq1EqC8w7q2JWIi5VqMJuRWrndS9x0mmaQ&ved=2ahUKEwjZh9bx9eOVAxVuUMMIHUe8Lt0Q8tMDegQIThAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PNY+GeForce+RTX+5080+16GB+GDDR7+Graphic+Card+gpu+chipset+power_connectors+recommended_psu_w&start=90"
+    }
+  }
+}

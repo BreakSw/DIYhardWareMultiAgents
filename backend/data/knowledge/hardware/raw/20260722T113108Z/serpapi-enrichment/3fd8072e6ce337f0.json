@@ -1,0 +1,493 @@
+{
+  "search_metadata": {
+    "id": "6a60aa40ff3b7a7d130859b1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9EBSUqe4V-NzQGKjdwPPkQ/6a60aa40ff3b7a7d130859b1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/9EBSUqe4V-NzQGKjdwPPkQ/6a60aa40ff3b7a7d130859b1.json_with_pixel_position",
+    "created_at": "2026-07-22 11:32:16 UTC",
+    "processed_at": "2026-07-22 11:32:16 UTC",
+    "google_url": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power_connectors+recommended_psu_w&oq=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power_connectors+recommended_psu_w&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9EBSUqe4V-NzQGKjdwPPkQ/6a60aa40ff3b7a7d130859b1.html",
+    "total_time_taken": 7.19
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ASUS GeForce RTX 5080 PRIME Graphics Card gpu chipset power_connectors recommended_psu_w",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ASUS GeForce RTX 5080 PRIME Graphics Card gpu chipset power_connectors recommended_psu_w",
+    "total_results": 371000,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "ASUS GeForce RTX 5080 PRIME Graphics Card gpu chipset power connectors recommended psu w",
+    "showing_results_for": "ASUS GeForce RTX 5080 PRIME Graphics Card gpu chipset power connectors recommended psu w"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "PSU Wattage Requirements for RTX 5080 PCs",
+      "link": "https://www.tiktok.com/@robeytech/video/7550318214446599455?lang=en",
+      "thumbnail": "https://serpapi.com/searches/6a60aa40ff3b7a7d130859b1/images/lW_y3gEu7E4a-LjGP0zLzP1eajVQZD8q6ovmsUw0uTA.jpeg",
+      "channel": "robeytech",
+      "duration": "1:20",
+      "platform": "TikTok",
+      "date": "Sep 15, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcS9pm5SwkGgAhTmGw_45Cb2EYpEvTZAPZeeMQ"
+    },
+    {
+      "position": 2,
+      "title": "is a 850w power supply enough to run a new 5080 GPU?",
+      "link": "https://www.youtube.com/watch?v=w03nsNR_hkE&vl=en-US",
+      "thumbnail": "https://serpapi.com/searches/6a60aa40ff3b7a7d130859b1/images/jvvVpYxGCQJ-saWT7YJ8BfYK62-746bUGMOsuYGxMbw.jpeg",
+      "channel": "It's the Dave Show",
+      "duration": "3:19",
+      "platform": "YouTube",
+      "date": "Jul 2, 2025",
+      "snippet": "Replace your old power supply with a Corsair RM850E, using its cables to connect to your new RTX 5080.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTxSgBYQ5wItiFy-QAa9qlqjwAMGY9xYvzSNA"
+    },
+    {
+      "position": 3,
+      "title": "RTX 5090 Recommended Power Supplies - Value to High ...",
+      "link": "https://www.youtube.com/watch?v=9JBeKrbHOZI",
+      "thumbnail": "https://serpapi.com/searches/6a60aa40ff3b7a7d130859b1/images/mhKYrpDp_1pA0DqDnusQ2K3SPFnEdjj0zm22mRXS4Fs.jpeg",
+      "channel": "Pixovert",
+      "duration": "12:54",
+      "platform": "YouTube",
+      "date": "Jan 22, 2025",
+      "snippet": "The RTX 5090 needs 575W, with a recommended system power of 1000W. ATX 3.1 & PCIe 5.1 PSUs are recommended.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTcvGcYE5C-6CpNNsgAj9H7BiFcrd-znovc6A"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What connectors are needed for RTX 5080 PSU?",
+      "type": "ai_overview",
+      "page_token": "R_3kY3icHdBLboJAAADQ9DIuhRGhqYlpivxKZZr5A5sGBxFl-CimfHa9S0_V07TpBd7ifX2rc1P9PMTl_d71G00bhmF5atuTOi5lW2tZPzVSk5lSh0xWG-vRAs-F3Lr9YO_awUas67iDdep5lnAUIoYqcO3qHOTswOCMXUBIHJm4yXcJVz5h4flYp6_cgYD60QzrfGIOfIMKTYToM61MhAQa8jnk0M0DTJkp_XzkAipR84sI8EqCaM0JiCGHE1L2lbJwkD4OIvVU4oudMTFek4qHFMBbIvKRUk_PeTcx3ZwPAqSpUndKGfFAOP7ZpQxCizJQJ42tM_4y7Cm87ZmH_XNo4wBO7yLFEtgRqjojM8pLFKsVYiOKVv2aCTRBYRp4tptFIT-3xuJ_bPtR1PdNd2tPvwteeCY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=R_3kY3icHdBLboJAAADQ9DIuhRGhqYlpivxKZZr5A5sGBxFl-CimfHa9S0_V07TpBd7ifX2rc1P9PMTl_d71G00bhmF5atuTOi5lW2tZPzVSk5lSh0xWG-vRAs-F3Lr9YO_awUas67iDdep5lnAUIoYqcO3qHOTswOCMXUBIHJm4yXcJVz5h4flYp6_cgYD60QzrfGIOfIMKTYToM61MhAQa8jnk0M0DTJkp_XzkAipR84sI8EqCaM0JiCGHE1L2lbJwkD4OIvVU4oudMTFek4qHFMBbIvKRUk_PeTcx3ZwPAqSpUndKGfFAOP7ZpQxCizJQJ42tM_4y7Cm87ZmH_XNo4wBO7yLFEtgRqjojM8pLFKsVYiOKVv2aCTRBYRp4tptFIT-3xuJ_bPtR1PdNd2tPvwteeCY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiV2hhdCBjb25uZWN0b3JzIGFyZSBuZWVkZWQgZm9yIFJUWCA1MDgwIFBTVT8iLCJsayI6IkdoZHlkSGdnTlRBNE1DQndjM1VnWTI5dWJtVmpkRzl5Y3ciLCJicyI6ImMtUHk1TklKejBnc1VVak96OHRMVFM3Skx5cFdTQ3hLVmNoTFRVMUpUVkZJeXk5U0NBcUpVREExc0RCUUNBZ090VGVTbEJJdktxbUFDQlFVbHlMcDR3cmdVZ0ViQlZTblVKNVlVcEtZbnFxUVdZeHNGRWlYdmNSc0RpTlZLZVZ5a0ZLUUNiaVZjc1Z6NllKTnpNN01TMUhJVDFNb3lDOVBMVUpZcVpDU253cDBMc1F4cGNXcDlrWjZVanJsSkdqZ3N1YVNkazdNVV9BRWNSUU1qY0k4QXNLREVDNDFrcEdTU2daS1owS2x5eklLeW92ZzBnS01BQSIsImlkIjoiZmNfUnFwZ2FwcnpNTWZicHRRUDAtM2stQVFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiV2hhdCBjb25uZWN0b3JzIGFyZSBuZWVkZWQgZm9yIFJUWCA1MDgwIFBTVT8iLCJsayI6IkdoZHlkSGdnTlRBNE1DQndjM1VnWTI5dWJtVmpkRzl5Y3ciLCJicyI6ImMtUHk1TklKejBnc1VVak96OHRMVFM3Skx5cFdTQ3hLVmNoTFRVMUpUVkZJeXk5U0NBcUpVREExc0RCUUNBZ090VGVTbEJJdktxbUFDQlFVbHlMcDR3cmdVZ0ViQlZTblVKNVlVcEtZbnFxUVdZeHNGRWlYdmNSc0RpTlZLZVZ5a0ZLUUNiaVZjc1Z6NllKTnpNN01TMUhJVDFNb3lDOVBMVUpZcVpDU253cDBMc1F4cGNXcDlrWjZVanJsSkdqZ3N1YVNkazdNVV9BRWNSUU1qY0k4QXNLREVDNDFrcEdTU2daS1owS2x5eklLeW92ZzBnS01BQSIsImlkIjoiZmNfUnFwZ2FwcnpNTWZicHRRUDAtM2stQVFfNCJ9"
+    },
+    {
+      "question": "What PSU wattage is needed for 5080?",
+      "type": "featured_snippet",
+      "snippet": "RECOMMENDED PSU TABLE FOR NVIDIA 30/40/50 SERIES",
+      "table": [
+        [
+          "NVIDIA RTX 50 Series"
+        ],
+        [
+          "Core Ultra 5"
+        ],
+        [
+          "NVIDIA RTX 5080",
+          "Recommend (OC)",
+          "850W"
+        ],
+        [
+          "NVIDIA RTX 5080",
+          "Standard(Gaming)",
+          "850W"
+        ],
+        [
+          "NVIDIA RTX 5070 Ti",
+          "Recommend (OC)",
+          "750W"
+        ]
+      ],
+      "formatted": {
+        "core_ultra_5": [
+          {
+            "core_ultra_5": "NVIDIA RTX 5080",
+            "nvidia_rtx_50_series": "Recommend (OC)",
+            "unknown": "850W"
+          },
+          {
+            "core_ultra_5": "NVIDIA RTX 5080",
+            "nvidia_rtx_50_series": "Standard(Gaming)",
+            "unknown": "850W"
+          },
+          {
+            "core_ultra_5": "NVIDIA RTX 5070 Ti",
+            "nvidia_rtx_50_series": "Recommend (OC)",
+            "unknown": "750W"
+          }
+        ]
+      },
+      "title": "850W",
+      "link": "https://www.msi.com/blog/recommended-psu-table",
+      "displayed_link": "https://www.msi.com › blog › recommended-psu-table",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEVHcEyUt7qyjJHLY2e0iIymnqHKY2jlNDvuEx3vCxfdP0XAdnrtGyTsLDTuREjtAAu_d3z1oaP85-j61tf0lZe-eHzwVlr5zMz3tbf3urz--vrzh4q7e3-rlJfvTVLxXWGXt7n2qqyTur3619jKbHDyfYC6f4PFa3Bs5HR4AAAAKHRSTlMAK7Xxm27a_____-z_____uf____-i________k4P__1f_Nv___6_R1XirrgAAAKdJREFUeAE1T8UBxDAMO46cOnWZGfefsJjTzyB6XHi-3u_P8_HH96cAgv5976vDYBhXBOycXx4xxPhBGIEpPhYxkiQNsrxIS0J1LGpq0gwiSdsC9bHoIFmQ9aUrYO6OxaA4G8vEbRJhfVlPPBeNQWNKmS7fRZooVQxq6XMtBiVR0TekZmXDroSglcaX1UYfNJs8nUkPD4taQUTUVcVuNJG2s-3veVZwBx3LC0BopyawAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiV2hhdCBQU1Ugd2F0dGFnZSBpcyBuZWVkZWQgZm9yIDUwODA/IiwibGsiOiJHaU4zYUdGMElIQnpkU0IzWVhSMFlXZGxJR2x6SUc1bFpXUmxaQ0JtYjNJZ05UQTRNQSIsImJzIjoiYy1QeTVOSUp6MGdzVVVqT3o4dExUUzdKTHlwV1NDeEtWY2hMVFUxSlRWRkl5eTlTQ0FxSlVEQTFzREJRQ0FnT3RUZVNsQkl2S3FtQUNCUVVseUxwNHdyZ1VnRWJCVlNuVUo1WVVwS1lucXFRV1l4c0ZFaVh2Y1JzRGlOVktlVnlrRktRQ2JpVmNzVno2WUpOek03TVMxSElUMU1veUM5UExVSllxWkNTbndwMExzUXhwY1dwOWtaNlVqcmxKR2pnc3VhU2RrN01VX0FFY1JRTWpjSThBc0tERUM0MWtwR1NTZ1pLWjBLbHl6SUt5b3ZnMGdLTUFBIiwiaWQiOiJmY19ScXBnYXByek1NZmJwdFFQMC0zay1BUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiV2hhdCBQU1Ugd2F0dGFnZSBpcyBuZWVkZWQgZm9yIDUwODA%2FIiwibGsiOiJHaU4zYUdGMElIQnpkU0IzWVhSMFlXZGxJR2x6SUc1bFpXUmxaQ0JtYjNJZ05UQTRNQSIsImJzIjoiYy1QeTVOSUp6MGdzVVVqT3o4dExUUzdKTHlwV1NDeEtWY2hMVFUxSlRWRkl5eTlTQ0FxSlVEQTFzREJRQ0FnT3RUZVNsQkl2S3FtQUNCUVVseUxwNHdyZ1VnRWJCVlNuVUo1WVVwS1lucXFRV1l4c0ZFaVh2Y1JzRGlOVktlVnlrRktRQ2JpVmNzVno2WUpOek03TVMxSElUMU1veUM5UExVSllxWkNTbndwMExzUXhwY1dwOWtaNlVqcmxKR2pnc3VhU2RrN01VX0FFY1JRTWpjSThBc0tERUM0MWtwR1NTZ1pLWjBLbHl6SUt5b3ZnMGdLTUFBIiwiaWQiOiJmY19ScXBnYXByek1NZmJwdFFQMC0zay1BUV80In0%3D"
+    },
+    {
+      "question": "What kind of power connector does a 5080 use?",
+      "type": "ai_overview",
+      "page_token": "iqf6r3icHdBLbuIwAIBhzWVYloQUKpBQJUNC8RB34sTxY1MlNiQhzgPqqcG7ucucqqdp1f2vb_H_-6-bvv389VEbM76vplNr7UM1DJU-Psihmxbv915OZaF1Wch2tXha-M8nuQ7_7sHmsgcJGcd8i72UIEI8eFMZf8yiEaWMG0ogS_3EKsddTMc_qK88PFtiPvsOQnhFAaTxbO5kZ0T67WSNDwqqeuZqEHfqgFkeKHK7lCEEaGZYefej48tgea8zmVc35UCDouVWUuvHrQpEN55Vjjnd1e41SzykxSvv0aFkcMMcuhY71HDdzo8supCsTjNKbiTaG6qXTHnzRerrxzxU25LAPqxVKhnoOQP3Y-sj0UGroiiJN54r7j4geGgSgp086y7fioLuBCAt_C2oNHGH98KTVpyxoawOEgoLZScn-bEOJj8_12-nzqzG61B9AR0_hPI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iqf6r3icHdBLbuIwAIBhzWVYloQUKpBQJUNC8RB34sTxY1MlNiQhzgPqqcG7ucucqqdp1f2vb_H_-6-bvv389VEbM76vplNr7UM1DJU-Psihmxbv915OZaF1Wch2tXha-M8nuQ7_7sHmsgcJGcd8i72UIEI8eFMZf8yiEaWMG0ogS_3EKsddTMc_qK88PFtiPvsOQnhFAaTxbO5kZ0T67WSNDwqqeuZqEHfqgFkeKHK7lCEEaGZYefej48tgea8zmVc35UCDouVWUuvHrQpEN55Vjjnd1e41SzykxSvv0aFkcMMcuhY71HDdzo8supCsTjNKbiTaG6qXTHnzRerrxzxU25LAPqxVKhnoOQP3Y-sj0UGroiiJN54r7j4geGgSgp086y7fioLuBCAt_C2oNHGH98KTVpyxoawOEgoLZScn-bEOJj8_12-nzqzG61B9AR0_hPI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiV2hhdCBraW5kIG9mIHBvd2VyIGNvbm5lY3RvciBkb2VzIGEgNTA4MCB1c2U/IiwibGsiOiJHaXgzYUdGMElHdHBibVFnYjJZZ2NHOTNaWElnWTI5dWJtVmpkRzl5SUdSdlpYTWdZU0ExTURnd0lIVnpaUSIsImJzIjoiYy1QeTVOSUp6MGdzVVVqT3o4dExUUzdKTHlwV1NDeEtWY2hMVFUxSlRWRkl5eTlTQ0FxSlVEQTFzREJRQ0FnT3RUZVNsQkl2S3FtQUNCUVVseUxwNHdyZ1VnRWJCVlNuVUo1WVVwS1lucXFRV1l4c0ZFaVh2Y1JzRGlOVktlVnlrRktRQ2JpVmNzVno2WUpOek03TVMxSElUMU1veUM5UExVSllxWkNTbndwMExzUXhwY1dwOWtaNlVqcmxKR2pnc3VhU2RrN01VX0FFY1JRTWpjSThBc0tERUM0MWtwR1NTZ1pLWjBLbHl6SUt5b3ZnMGdLTUFBIiwiaWQiOiJmY19ScXBnYXByek1NZmJwdFFQMC0zay1BUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiV2hhdCBraW5kIG9mIHBvd2VyIGNvbm5lY3RvciBkb2VzIGEgNTA4MCB1c2U%2FIiwibGsiOiJHaXgzYUdGMElHdHBibVFnYjJZZ2NHOTNaWElnWTI5dWJtVmpkRzl5SUdSdlpYTWdZU0ExTURnd0lIVnpaUSIsImJzIjoiYy1QeTVOSUp6MGdzVVVqT3o4dExUUzdKTHlwV1NDeEtWY2hMVFUxSlRWRkl5eTlTQ0FxSlVEQTFzREJRQ0FnT3RUZVNsQkl2S3FtQUNCUVVseUxwNHdyZ1VnRWJCVlNuVUo1WVVwS1lucXFRV1l4c0ZFaVh2Y1JzRGlOVktlVnlrRktRQ2JpVmNzVno2WUpOek03TVMxSElUMU1veUM5UExVSllxWkNTbndwMExzUXhwY1dwOWtaNlVqcmxKR2pnc3VhU2RrN01VX0FFY1JRTWpjSThBc0tERUM0MWtwR1NTZ1pLWjBLbHl6SUt5b3ZnMGdLTUFBIiwiaWQiOiJmY19ScXBnYXByek1NZmJwdFFQMC0zay1BUV80In0%3D"
+    },
+    {
+      "question": "Can I use 12VHPWR for 5080?",
+      "type": "ai_overview",
+      "page_token": "kvlKUXicHdDdboIwGIDh7GY8VFvEDROz-FNEwnCWfi16skBR6myBCBPxbPeyq9rVzOwG3jx5v3_0qTj_PsWqaap6Mhi0bdvPyzLXh74szSCpu0IOZKJ1msjzZPw8Rq9HOSV1O1-U7XwLVcWXdBgBDYI4TLZntQbseEnsnhJTBdFdldJkJhI1TnDoMaEUEFUfSPMVEdukHG604PRNNPpQcESJozYe3zCTMeFVgQBUpyzvtlo3FOt3QL4N0ECEh11ihTplPotcx-bEvz6McUZGOABtM0MXe2JHkimSIZfF-AXvrMzmn9QFi16ylYxc5N_kKlPS88cMkNkV8yHwWRuw8BKAS1cnf069sNuIPaPW7NFFKF1yDIKvgaAOvHUnxP4OHhntjEN7R3mdWr3_Y9OPo2km1aXM_wBwXXcI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kvlKUXicHdDdboIwGIDh7GY8VFvEDROz-FNEwnCWfi16skBR6myBCBPxbPeyq9rVzOwG3jx5v3_0qTj_PsWqaap6Mhi0bdvPyzLXh74szSCpu0IOZKJ1msjzZPw8Rq9HOSV1O1-U7XwLVcWXdBgBDYI4TLZntQbseEnsnhJTBdFdldJkJhI1TnDoMaEUEFUfSPMVEdukHG604PRNNPpQcESJozYe3zCTMeFVgQBUpyzvtlo3FOt3QL4N0ECEh11ihTplPotcx-bEvz6McUZGOABtM0MXe2JHkimSIZfF-AXvrMzmn9QFi16ylYxc5N_kKlPS88cMkNkV8yHwWRuw8BKAS1cnf069sNuIPaPW7NFFKF1yDIKvgaAOvHUnxP4OHhntjEN7R3mdWr3_Y9OPo2km1aXM_wBwXXcI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiQ2FuIEkgdXNlIDEyVkhQV1IgZm9yIDUwODA/IiwibGsiOiJHaHBqWVc0Z2FTQjFjMlVnTVRKMmFIQjNjaUJtYjNJZ05UQTRNQSIsImJzIjoiYy1QeTVOSUp6MGdzVVVqT3o4dExUUzdKTHlwV1NDeEtWY2hMVFUxSlRWRkl5eTlTQ0FxSlVEQTFzREJRQ0FnT3RUZVNsQkl2S3FtQUNCUVVseUxwNHdyZ1VnRWJCVlNuVUo1WVVwS1lucXFRV1l4c0ZFaVh2Y1JzRGlOVktlVnlrRktRQ2JpVmNzVno2WUpOek03TVMxSElUMU1veUM5UExVSllxWkNTbndwMExzUXhwY1dwOWtaNlVqcmxKR2pnc3VhU2RrN01VX0FFY1JRTWpjSThBc0tERUM0MWtwR1NTZ1pLWjBLbHl6SUt5b3ZnMGdLTUFBIiwiaWQiOiJmY19ScXBnYXByek1NZmJwdFFQMC0zay1BUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2MyTmhka1l5UzBSMloxUjJibk52U25CM1UzWjRWR2hvVEhkNGRuaFdjelIyZVVoM0xWQkJNbXhwTW1kUlluVlpPWEJuU0VsVGRsSk5SR0k1VVVsVmVVVk1TR3huZVdZeU1tVTRXbXgxWkRoNFZrWjViMnhaYlRsS2R4SVhVbkZ3WjJGd2NucE5UV1ppY0hSUlVEQXRNMnN0UVZFYUlrRkVjM0k1WmxNeVluUnFhamhuUTFGRGJUWmZiR1kzTW0xMFgydGtRM0JwZEdjIiwiZmN2IjoiMyIsImVpIjoiUnFwZ2FwcnpNTWZicHRRUDAtM2stQVEiLCJxYyI6ImN3WEJzUTNETUF3RXdOUkdpb3p3STdnSjRDNUZsa2dyVUc5WmhVU0NsR0EzM2oxM3l5X0ZEQlR1NmtMNHVQQmV0eFhtdFJIRmt4MVZBcEk4bzlpRUhOV0NBNlluSGFLOVU0WjZ3Q25hR250bWhzWEUtWHJjMy1YNS1RTSIsInF1ZXN0aW9uIjoiQ2FuIEkgdXNlIDEyVkhQV1IgZm9yIDUwODA%2FIiwibGsiOiJHaHBqWVc0Z2FTQjFjMlVnTVRKMmFIQjNjaUJtYjNJZ05UQTRNQSIsImJzIjoiYy1QeTVOSUp6MGdzVVVqT3o4dExUUzdKTHlwV1NDeEtWY2hMVFUxSlRWRkl5eTlTQ0FxSlVEQTFzREJRQ0FnT3RUZVNsQkl2S3FtQUNCUVVseUxwNHdyZ1VnRWJCVlNuVUo1WVVwS1lucXFRV1l4c0ZFaVh2Y1JzRGlOVktlVnlrRktRQ2JpVmNzVno2WUpOek03TVMxSElUMU1veUM5UExVSllxWkNTbndwMExzUXhwY1dwOWtaNlVqcmxKR2pnc3VhU2RrN01VX0FFY1JRTWpjSThBc0tERUM0MWtwR1NTZ1pLWjBLbHl6SUt5b3ZnMGdLTUFBIiwiaWQiOiJmY19ScXBnYXByek1NZmJwdFFQMC0zay1BUV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "R2ifZnicxVXrcqpIEH6AfY5lf5AI3qKmijo1XFRENOMt0T8WN0FFBhmUmH_nXfap9ml2ADWQYLJnq7Z2qqCnp3uG7p7--H7-6a697V-__eGEoY8fGSaKopKNkO1aJQPtGA2fPINZIRcHhvPDdrkDphyXszzqdOSqlIE5lrLW3Gjv25ofvKnqSvdD-MTeV7f3AFLJdm6pa9jakNNfN5hZMuS1_b0qEqWES5ZXcsP6WDncH04DuVRhy63SkNF2xAH8twOCUfyCQCKK9MksEst3BwABgDHg35ekDzIeUaLxfOwMgJyKosGnjpIsJH5LtdWMTzrXofZFJLyc13Ecf_qdURzm5-yKlsA142lOKxwFRjsV7XNMUcZ0K2c-d8lkJ1TBUxz01eEs5Wy8MF6eJ1YRiV1QFWT0RaikOMqcf5WBLdtfuJGaCEqTPyemis9kI2PapBFZRg-IKDNrwzGSSYDj_hQmLRZ1-o15s9cb1wNnVn94QeFY2888Y7NqaZAxdOLnIs20zKWzZH8kerlSrrOtaqN5lwDDwFdk4CwyHBfVerNxpGxqpX6JL2dgYV_yyg5I9MIEJfns-uHO58k72QGVZL64mKZXp4qc2yhstqShAX_-TjNubz7KIOASjFAEi7yiggQWSSsJqTzbMu3Cv999tolk8PH3IOWsyVYbvL4vyyDbkDDfwFsIetd65k4mvwd5JKTnT-3URbQtkEtZyhdAIqHKENhpkS5Xcg7qlDmbxODEk028OOahRNCfliNNPT02BpSdv-wRyI-2zdsClD7fwz8YwtegSEK_AOBDP2dx0LX6uvnaG06ROh6yi_bbvG3wg8q0Zx5gcd-jnf4LlGD878hICGN6JYzPyIDfICMhDHibMM5KdEGGELeCwgu3kMHLBYShfiKMAmQ4ch4Ztwnjiox46RtkwK-QAdNQCpDRLkDG-AYyUsLIIANiOUcYl9nlp_GOjF8nDOHfEEaCEysVefY4bOybLNJ2XF88aZHHHp5DeVhTw9Nk1QmXId__nkVWu_Bxp5nu3XJtPvKVXngy75ZkAT1aJrXnwHg6pjtWGwWGRY8mL3SdbbL000hWJboTaL6zNjAtaIFJ2_6BNpy1j62Q9lFkBbSBPM8yQhRgOogRu7M8EgXt4wMdUTs3QByrNWoTZf0w0DsvirkWQ2-0bpVxbTRREOqp-q7b9-6h3sWr5uzwdOxs35S-cT_caouZvlq0e5uO0TlO94MWZifKrO_vX7pwAKS9vJh7btdF--rTpDxYqJtInDRMxPrPR3PWbvZ83Nm8iUPr5VlU1NUmSKLBHGxr5XUks4M-pkgJsMWVqV1gcKRRazYYQPBs8wYQ5oShbPIg8kSksShsaEsLH7lmXW_VHvRapV5ZNVatBrWzw5PPtVgKewFX_htbCCzt",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=R2ifZnicxVXrcqpIEH6AfY5lf5AI3qKmijo1XFRENOMt0T8WN0FFBhmUmH_nXfap9ml2ADWQYLJnq7Z2qqCnp3uG7p7--H7-6a697V-__eGEoY8fGSaKopKNkO1aJQPtGA2fPINZIRcHhvPDdrkDphyXszzqdOSqlIE5lrLW3Gjv25ofvKnqSvdD-MTeV7f3AFLJdm6pa9jakNNfN5hZMuS1_b0qEqWES5ZXcsP6WDncH04DuVRhy63SkNF2xAH8twOCUfyCQCKK9MksEst3BwABgDHg35ekDzIeUaLxfOwMgJyKosGnjpIsJH5LtdWMTzrXofZFJLyc13Ecf_qdURzm5-yKlsA142lOKxwFRjsV7XNMUcZ0K2c-d8lkJ1TBUxz01eEs5Wy8MF6eJ1YRiV1QFWT0RaikOMqcf5WBLdtfuJGaCEqTPyemis9kI2PapBFZRg-IKDNrwzGSSYDj_hQmLRZ1-o15s9cb1wNnVn94QeFY2888Y7NqaZAxdOLnIs20zKWzZH8kerlSrrOtaqN5lwDDwFdk4CwyHBfVerNxpGxqpX6JL2dgYV_yyg5I9MIEJfns-uHO58k72QGVZL64mKZXp4qc2yhstqShAX_-TjNubz7KIOASjFAEi7yiggQWSSsJqTzbMu3Cv999tolk8PH3IOWsyVYbvL4vyyDbkDDfwFsIetd65k4mvwd5JKTnT-3URbQtkEtZyhdAIqHKENhpkS5Xcg7qlDmbxODEk028OOahRNCfliNNPT02BpSdv-wRyI-2zdsClD7fwz8YwtegSEK_AOBDP2dx0LX6uvnaG06ROh6yi_bbvG3wg8q0Zx5gcd-jnf4LlGD878hICGN6JYzPyIDfICMhDHibMM5KdEGGELeCwgu3kMHLBYShfiKMAmQ4ch4Ztwnjiox46RtkwK-QAdNQCpDRLkDG-AYyUsLIIANiOUcYl9nlp_GOjF8nDOHfEEaCEysVefY4bOybLNJ2XF88aZHHHp5DeVhTw9Nk1QmXId__nkVWu_Bxp5nu3XJtPvKVXngy75ZkAT1aJrXnwHg6pjtWGwWGRY8mL3SdbbL000hWJboTaL6zNjAtaIFJ2_6BNpy1j62Q9lFkBbSBPM8yQhRgOogRu7M8EgXt4wMdUTs3QByrNWoTZf0w0DsvirkWQ2-0bpVxbTRREOqp-q7b9-6h3sWr5uzwdOxs35S-cT_caouZvlq0e5uO0TlO94MWZifKrO_vX7pwAKS9vJh7btdF--rTpDxYqJtInDRMxPrPR3PWbvZ83Nm8iUPr5VlU1NUmSKLBHGxr5XUks4M-pkgJsMWVqV1gcKRRazYYQPBs8wYQ5oShbPIg8kSksShsaEsLH7lmXW_VHvRapV5ZNVatBrWzw5PPtVgKewFX_htbCCzt"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "New PSU for RTX 5080 or not? : r/buildapc",
+      "link": "https://www.reddit.com/r/buildapc/comments/1hvktve/new_psu_for_rtx_5080_or_not/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1hvktve%2Fnew_psu_for_rtx_5080_or_not%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECBQQAQ",
+      "displayed_link": "60+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I probably already partially know the answer to my question, but it's better to be sure about it: I'm planning to buy the RTX 5080 as soon as it ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "[RTX 5080] Should I use the included adapter with ...",
+            "link": "https://www.reddit.com/r/nvidia/comments/1ipi5u2/rtx_5080_should_i_use_the_included_adapter_with/",
+            "answer_count": 43,
+            "date": "Feb 14, 2025"
+          },
+          {
+            "title": "Existing 750 watt power supply for new RTX 5080 ...",
+            "link": "https://www.reddit.com/r/buildapc/comments/1inveld/existing_750_watt_power_supply_for_new_rtx_5080/",
+            "answer_count": 52,
+            "date": "Feb 12, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "It recommends a 850W PSU so you meet the requirement. Almost all GPUs come with the adapter you need. The 5080 adapter will likely require 3 PCIE power cables.",
+          "source_info_link": "https://www.reddit.com/r/buildapc/comments/1hvktve/new_psu_for_rtx_5080_or_not/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1hvktve%2Fnew_psu_for_rtx_5080_or_not%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1hvktve%2Fnew_psu_for_rtx_5080_or_not%2F",
+      "source": "Reddit · r/buildapc"
+    },
+    {
+      "position": 2,
+      "title": "ASUS Prime GeForce RTX™ 5080 OC Edition 16GB GDDR7",
+      "link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rtx5080-o16g%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECBcQAQ",
+      "displayed_link": "https://www.asus.com › graphics-cards › prime-rtx5080-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png",
+      "snippet": "Perfect PSU for the GeForce RTX 50 Series. Pair with the ROG Strix Platinum Series PSU and enjoy reliable power for your graphics card.",
+      "snippet_highlighted_words": [
+        "ROG Strix Platinum Series PSU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Perfect PSU for the GeForce RTX 50 Series. Pair with the ROG Strix Platinum Series PSU and enjoy reliable power for your graphics card.",
+          "source_info_link": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwZgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Zgv8Ygv8Zgv8YgP8Zgv9Zhn3yAAAADnRSTlMA88JArW-T4oMPVBwpBfIsl3AAAADqSURBVDiNhZPrEoQgCIUhNW-57_-4K6IGm7n8aGrOmU_gGIAqg2hgV59aOz2QIfwB7BAnG843vVTxOOqjbABXfkdEAgAQIi4NtioZgBD2DWCFcQmIyqlLkNcI0VvhbnVdcro27wIw97NAGL0eCk3H7nVG5Pe_gDvleLTMJEIBAmcqEal-ugFDEpF2kaYBJ6DTXbs7-ASEIQM4gcBuZvroFieiezt9Wm4un8b30YtrOUYjgDGfcXq0w2I6ggBMtxxG7pbACDcO9jO_ku92HOB8k3UNC_af6XnFjO-_WVD0h6VOnM60ktsqqvQF_ZESETHBaI8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rtx5080-o16g%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fgraphics-cards%2Fprime%2Fprime-rtx5080-o16g%2F",
+      "source": "ASUS"
+    },
+    {
+      "position": 3,
+      "title": "What case and power supply for 5080 gpu?",
+      "link": "https://www.facebook.com/groups/372119787729533/posts/1236018408006329/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F372119787729533%2Fposts%2F1236018408006329%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECB0QAQ",
+      "displayed_link": "50+ comments · 6 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "A 1000w or 1200w power supply is recommended, with a single 12vhpwr cable, to support the 5080 GPU. Skyler Reaper. Definitely dont need 2 psu's ...",
+      "snippet_highlighted_words": [
+        "A 1000w or 1200w power supply is recommended"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What power supply for a 5080?",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1276020590672777/",
+            "date": "Feb 10, 2026"
+          },
+          {
+            "title": "Connecting RTX 5080 to PSU: 1to1 or 3to1?",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1007574807517358/",
+            "date": "Mar 14, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A 1000w or 1200w power supply is recommended, with a single 12vhpwr cable, to support the 5080 GPU. Skyler Reaper. Definitely dont need 2 psu's ...",
+          "source_info_link": "https://www.facebook.com/groups/372119787729533/posts/1236018408006329/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F372119787729533%2Fposts%2F1236018408006329%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F372119787729533%2Fposts%2F1236018408006329%2F",
+      "source": "Facebook · Pc, Gaming, Setups, and building advice.",
+      "read_more_link": "https://www.facebook.com/groups/372119787729533/posts/1236018408006329/"
+    },
+    {
+      "position": 4,
+      "title": "The best power supplies for your GeForce RTX 50 series ...",
+      "link": "https://rog.asus.com/articles/guides/how-to-choose-a-power-supply-for-your-new-gaming-pc/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Farticles%2Fguides%2Fhow-to-choose-a-power-supply-for-your-new-gaming-pc%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECBgQAQ",
+      "displayed_link": "https://rog.asus.com › ARTICLES › GUIDES",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "If you're gunning for the new GeForce RTX 5080, you'll want a high-end power supply like the ROG Thor 1000W Platinum III, which contains all the same features ...",
+      "snippet_highlighted_words": [
+        "ROG Thor 1000W Platinum III"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you're gunning for the new GeForce RTX 5080, you'll want a high-end power supply like the ROG Thor 1000W Platinum III, which contains all the same features ...",
+          "source_info_link": "https://rog.asus.com/articles/guides/how-to-choose-a-power-supply-for-your-new-gaming-pc/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Farticles%2Fguides%2Fhow-to-choose-a-power-supply-for-your-new-gaming-pc%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Farticles%2Fguides%2Fhow-to-choose-a-power-supply-for-your-new-gaming-pc%2F",
+      "source": "ROG",
+      "read_more_link": "https://rog.asus.com/articles/guides/how-to-choose-a-power-supply-for-your-new-gaming-pc/"
+    },
+    {
+      "position": 5,
+      "title": "Power connectors query for the 5080",
+      "link": "https://forums.guru3d.com/threads/power-connectors-query-for-the-5080.457801/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fforums.guru3d.com%2Fthreads%2Fpower-connectors-query-for-the-5080.457801%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECBoQAQ",
+      "displayed_link": "https://forums.guru3d.com › threads › power-connectors...",
+      "favicon": "https://serpapi.com/searches/6a60aa40ff3b7a7d130859b1/images/x4VOgljn56Xrd4ADBpZoUPJU3k_4MwZUyQM6SEUPPCI.png",
+      "date": "Sep 19, 2025",
+      "snippet": "The 12v-2x6 connector is easily good enough for 350W. The PCIE connections to the adapter are well within operational limits at 350W total, even ...",
+      "snippet_highlighted_words": [
+        "350W"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 12v-2x6 connector is easily good enough for 350W. The PCIE connections to the adapter are well within operational limits at 350W total, even ...",
+          "source_info_link": "https://forums.guru3d.com/threads/power-connectors-query-for-the-5080.457801/",
+          "icon": "https://serpapi.com/searches/6a60aa40ff3b7a7d130859b1/images/x4VOgljn56Xrd4ADBpZoUAJJSsJ-GKBFj9i6UC4a_mf7_5XQIyL1fwg6rvc79v8H.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fforums.guru3d.com%2Fthreads%2Fpower-connectors-query-for-the-5080.457801%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fforums.guru3d.com%2Fthreads%2Fpower-connectors-query-for-the-5080.457801%2F",
+      "source": "www.guru3d.com",
+      "read_more_link": "https://forums.guru3d.com/threads/power-connectors-query-for-the-5080.457801/"
+    },
+    {
+      "position": 6,
+      "title": "What Power Supply Unit (PSU) should I buy for my Nvidia RTX ...",
+      "link": "https://help.corsair.com/hc/en-us/articles/32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fhelp.corsair.com%2Fhc%2Fen-us%2Farticles%2F32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECDkQAQ",
+      "displayed_link": "https://help.corsair.com › en-us › articles › 324656443...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAiElEQVR4Ad3JEQzEMBhA4d_h3G00h9FsrsM6TEuTUr14OSyVj4pzOZsuGQ1r75Zhm86zl2efPLZ-vNPkKtC1Ip5Q0UN9x525hJeRNhyWTicpi0t8qx7mqTSromZrgFCiwSvQAEuBA7hrwOfYQ4DIVY4T_CCxr1uJkVPdIGfNJ7OW1Ugt28mj-wMye1P69mxfdQAAAABJRU5ErkJggg.png",
+      "date": "Jun 9, 2025",
+      "snippet": "RTX 5080 Power Consumption: 360 watts; NVIDIA recommends an 850-watt PSU for optimal performance. Recommended Corsair PSUs. RM850x. 850-watt PSU ...",
+      "snippet_highlighted_words": [
+        "850-watt PSU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "RTX 5080 Power Consumption: 360 watts; NVIDIA recommends an 850-watt PSU for optimal performance. Recommended Corsair PSUs. RM850x. 850-watt PSU ...",
+          "source_info_link": "https://help.corsair.com/hc/en-us/articles/32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAiElEQVR4Ad3JEQzEMBhA4d_h3G00h9FsrsM6TEuTUr14OSyVj4pzOZsuGQ1r75Zhm86zl2efPLZ-vNPkKtC1Ip5Q0UN9x525hJeRNhyWTicpi0t8qx7mqTSromZrgFCiwSvQAEuBA7hrwOfYQ4DIVY4T_CCxr1uJkVPdIGfNJ7OW1Ugt28mj-wMye1P69mxfdQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fhelp.corsair.com%2Fhc%2Fen-us%2Farticles%2F32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhelp.corsair.com%2Fhc%2Fen-us%2Farticles%2F32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU",
+      "source": "corsair.com",
+      "read_more_link": "https://help.corsair.com/hc/en-us/articles/32465644341265-What-Power-Supply-Unit-PSU-should-I-buy-for-my-Nvidia-RTX-5000-series-GPU"
+    },
+    {
+      "position": 7,
+      "title": "RTX 5080 PSU Requrements (will a 750w cut it?)",
+      "link": "https://forums.overclockers.co.uk/threads/rtx-5080-psu-requrements-will-a-750w-cut-it.19002056/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fforums.overclockers.co.uk%2Fthreads%2Frtx-5080-psu-requrements-will-a-750w-cut-it.19002056%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECBsQAQ",
+      "displayed_link": "https://forums.overclockers.co.uk › ... › Graphics Cards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAM2YAM2YAMGQBN20FTpUDPnlGMF0AJmAAIV0ALGPRHieUobSotMO2wM2Hlayfq7zFzdg6UHBVZHiLKEd-jaVgcIkjKh5OAAAAAXRSTlP9g-pWxwAAAGpJREFUeAHtj8UBgDAMAPG6w_6rcsgT2gHgqvGkq9O_8mnjAG_GcYIX4zz3A_blNAopJAjBhx-HrGrRC0ZhrHHgvbchWOdsTCnnoejbaFyIq7PWYrTBbRkjoR3WE6kEcIE6ul10ac75G6vs5GcGeZAOruEAAAAASUVORK5CYII.png",
+      "date": "May 8, 2025",
+      "snippet": "I have a 750W PSU. Checking the power requirements on the RTX 5080 pages it seems to require an 850W GPU if both the CPU and GPU are overclocked.",
+      "snippet_highlighted_words": [
+        "PSU",
+        "power",
+        "RTX 5080",
+        "GPU",
+        "GPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I have a 750W PSU. Checking the power requirements on the RTX 5080 pages it seems to require an 850W GPU if both the CPU and GPU are overclocked.",
+          "source_info_link": "https://forums.overclockers.co.uk/threads/rtx-5080-psu-requrements-will-a-750w-cut-it.19002056/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAM2YAM2YAMGQBN20FTpUDPnlGMF0AJmAAIV0ALGPRHieUobSotMO2wM2Hlayfq7zFzdg6UHBVZHiLKEd-jaVgcIkjKh5OAAAAAXRSTlP9g-pWxwAAAGpJREFUeAHtj8UBgDAMAPG6w_6rcsgT2gHgqvGkq9O_8mnjAG_GcYIX4zz3A_blNAopJAjBhx-HrGrRC0ZhrHHgvbchWOdsTCnnoejbaFyIq7PWYrTBbRkjoR3WE6kEcIE6ul10ac75G6vs5GcGeZAOruEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fforums.overclockers.co.uk%2Fthreads%2Frtx-5080-psu-requrements-will-a-750w-cut-it.19002056%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fforums.overclockers.co.uk%2Fthreads%2Frtx-5080-psu-requrements-will-a-750w-cut-it.19002056%2F",
+      "source": "Overclockers UK Forums",
+      "read_more_link": "https://forums.overclockers.co.uk/threads/rtx-5080-psu-requrements-will-a-750w-cut-it.19002056/"
+    },
+    {
+      "position": 8,
+      "title": "PSU compatibility with rtx 5080 8 pin / 16 pin",
+      "link": "https://linustechtips.com/topic/1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Flinustechtips.com%2Ftopic%2F1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin%2F&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8QFnoECBwQAQ",
+      "displayed_link": "https://linustechtips.com › ... › New Builds and Planning",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEz_TAD_TQD_TQD_TQD_TAD_TQD_TQD_TQD_TQD_TQD_TAD_TQD_TQD_TQD_TQD_TQDEnGHCAAAAEXRSTlMAHVOAkGvl_9e49SWgwsw_DLuDk4sAAADvSURBVHgBddMHFoQgDATQkAhDqHv_0-4DY9ex-21ApCOOZVmEHT3jAxBVIxD8jThBsj1AkPhsBahk5huAcpjCMEvEGt3vS2FglgBLKsnuZeQIKB_SiTp4IoQOTEunGcFsA-iEjSyM0aIgE2tfXAXigB8r5q5DXpGIBg5JmHHEoDO2jj1MEq_IK1RPTWjRNxx36PLArr3ueHtsPDZNiPGF4KMpd8xw1gmGlV0vrBMljO5LO_56SYBh8tbxE61nDAWnIZtwYAafBtvSvKMKhFTIoibqf0Q0EHopsKQ8xLDcS9OqOVtp3ou6qbZbUX__Dn-fFw3AZ_rqvQAAAABJRU5ErkJggg.png",
+      "date": "Feb 13, 2025",
+      "snippet": "850W psu is what's recommended for that card.",
+      "snippet_highlighted_words": [
+        "850W psu"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "850W psu is what's recommended for that card.",
+          "source_info_link": "https://linustechtips.com/topic/1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEz_TAD_TQD_TQD_TQD_TAD_TQD_TQD_TQD_TQD_TQD_TAD_TQD_TQD_TQD_TQD_TQDEnGHCAAAAEXRSTlMAHVOAkGvl_9e49SWgwsw_DLuDk4sAAADvSURBVHgBddMHFoQgDATQkAhDqHv_0-4DY9ex-21ApCOOZVmEHT3jAxBVIxD8jThBsj1AkPhsBahk5huAcpjCMEvEGt3vS2FglgBLKsnuZeQIKB_SiTp4IoQOTEunGcFsA-iEjSyM0aIgE2tfXAXigB8r5q5DXpGIBg5JmHHEoDO2jj1MEq_IK1RPTWjRNxx36PLArr3ueHtsPDZNiPGF4KMpd8xw1gmGlV0vrBMljO5LO_56SYBh8tbxE61nDAWnIZtwYAafBtvSvKMKhFTIoibqf0Q0EHopsKQ8xLDcS9OqOVtp3ou6qbZbUX__Dn-fFw3AZ_rqvQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Flinustechtips.com%2Ftopic%2F1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flinustechtips.com%2Ftopic%2F1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin%2F",
+      "source": "Forums - Linus Tech Tips",
+      "read_more_link": "https://linustechtips.com/topic/1601387-psu-compatibility-with-rtx-5080-8-pin-16-pin/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Recommended PSU for 5080 and 9800X3D",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=Recommended+PSU+for+5080+and+9800X3D&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Recommended+PSU+for+5080+and+9800X3D"
+    },
+    {
+      "block_position": 1,
+      "query": "RTX 5080 Super PSU requirements",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=RTX+5080+Super+PSU+requirements&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RTX+5080+Super+PSU+requirements"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS Prime RTX 5080 review",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=ASUS+Prime+RTX+5080+review&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+Prime+RTX+5080+review"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS 5080 Prime power connector",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=ASUS+5080+Prime+power+connector&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+5080+Prime+power+connector"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS NVIDIA GeForce RTX 5080 Prime overclocked",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=ASUS+NVIDIA+GeForce+RTX+5080+Prime+overclocked&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+NVIDIA+GeForce+RTX+5080+Prime+overclocked"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS NVIDIA GeForce RTX 5080 Prime Overclocked Triple Fan 16GB GDDR7 PCIe 5.0 graphics card",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=ASUS+NVIDIA+GeForce+RTX+5080+Prime+Overclocked+Triple+Fan+16GB+GDDR7+PCIe+5.0+graphics+card&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+NVIDIA+GeForce+RTX+5080+Prime+Overclocked+Triple+Fan+16GB+GDDR7+PCIe+5.0+graphics+card"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS PRIME NVIDIA GeForce RTX 5080 16GB GDDR7 PCI Express 5.0 graphics card Black",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=ASUS+PRIME+NVIDIA+GeForce+RTX+5080+16GB+GDDR7+PCI+Express+5.0+graphics+card+Black&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+PRIME+NVIDIA+GeForce+RTX+5080+16GB+GDDR7+PCI+Express+5.0+graphics+card+Black"
+    },
+    {
+      "block_position": 1,
+      "query": "5080 PSU 750w",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&gl=us&hl=en&q=5080+PSU+750w&sa=X&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5080+PSU+750w"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=10&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8NMDegQIOBAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=10&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=20&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=30&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=40&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=50&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=60&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&sca_esv=85b946b4252f7f97&gl=us&hl=en&ei=RqpgaprzMMfbptQP0-3k-AQ&start=70&sa=N&sstk=AU9db-BFZ3f5b1c5aQHGg7We5b8sFlFius5jxHYpLVdQStxng0AFwg17UwigMbiwp7VJ4AUJNYTnvRcED1FnAM1gZcOSOXr3gPWFNg&ved=2ahUKEwiartvxl-aVAxXHrYkEHdM2GU8Q8tMDegQIOBAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+GeForce+RTX+5080+PRIME+Graphics+Card+gpu+chipset+power+connectors+recommended+psu+w&start=70"
+    }
+  }
+}

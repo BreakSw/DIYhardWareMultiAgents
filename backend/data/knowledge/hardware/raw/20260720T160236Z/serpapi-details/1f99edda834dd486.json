@@ -1,0 +1,528 @@
+{
+  "search_metadata": {
+    "id": "6a5e46d9919dfa4ae1454715",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CewiRS8NSsP04n6h-iC1mQ/6a5e46d9919dfa4ae1454715.json",
+    "created_at": "2026-07-20 16:03:37 UTC",
+    "processed_at": "2026-07-20 16:03:37 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=LEZeavWbL9WSwbkPtc-DuAQ&q=latest+current+generation+desktop+PC+cooler+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A8391184176592329673%2Ccatalogid%3A14964418537986077221%2Cgpcid%3A12887591491827228384%2CheadlineOfferDocid%3A12936600876652645116%2Crds%3APC_12887591491827228384%7CPROD_PC_12887591491827228384%2CimageDocid%3A1455767023380780264%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+cooler+component+released+2025+2026+new%2Cmid%3A576462894470635762%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0S3VxT2J4LVVLV1E0S1ROSTVEbzNlZ1ZhcEhjQ2NySGxYalB1cTVmQnFFR25TdHFuRXhmdWhDODhwWXQyX0FOa3VHWGpJNWdSNlYzcTRPTWQ1S2xGLVNWLWc4WktxZzhwNk1zcEFlQnFFOUhoelFYNzQtRkJUSTVOTmU1aVZhQUxzMEpPTktpeGhEakNsUWVNQ1VpSUN2TzRPNXVvUnZiMnVfbGFHWVNtcVJNVk83S2VWclZNVjFYT3JsaHYxQ0lvUlV5QWpXclFyRmQ4NXJhckx0dk5xQjFNQ0VvM2NPQ2VjdlRlRWd5WkgzVzZlVFpLRENNaGFQQWJuSE9USS04TXY2d2ctak0wRmp4XzRzRkdVaU5aWHdRVWVFT1Z1YllEWDF0Z0hucXczYjhLWHZOVWozMXNKNXVpcHpfb0NFejJ1aUI1MWgSF0xFWmVhdldiTDlXU3dia1B0Yy1EdUFRGiJBRHNyOWZTN3dqbGM5SXdZQ2M4R281cXJ5d0RNVlZMekFn%2Cxsrf%3AAF5tSO6nSvZ0Z2HkbgYXuTa0BoFWBXOhJQ%3A1784563245077%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/CewiRS8NSsP04n6h-iC1mQ/6a5e46d9919dfa4ae1454715.html",
+    "prettify_html_file": "https://serpapi.com/searches/CewiRS8NSsP04n6h-iC1mQ/6a5e46d9919dfa4ae1454715.prettify",
+    "total_time_taken": 2.12
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "M_eSgHicdVO5juNGELX9BQ78AZsPBuhu3l5MoIOUhqJI8WoeiUCxWyLFFknxkCjCXzN7AOtw14BT_8Zu4C9xYI0dGq6gCoX3UK8KqPfndz--0Px3Q41pcgl2hhK4112x6dLHeT-xP9VNRfq0y8kXmVMglHkoiYKCOKSIEvcpTbqEVYec_AZ5ReR5KAucpMgikCSE4OeMJoTlJbX2e9rMq_SVhxROFAGQJVEUkMgLEIq_5qfkQP_Bv0BeECRRAojjZCDJ4E5515D2K7-ZbSGSZUlQ7lJQRncBmZP5XzaONd_-D_jh3NPm9tVgSUfb7iHtm4aW3cOBlrRJurwqHwhti66qHzazh7SqGG3u5VRX5SutoYwmLSUPCCDhNYkPJb1-ONT_3vFfuXennHy-b8-LSFZ4XgIid-_Qu_rSvWSH933P6B8vB_bSty8Ze6HlxyqpL_v02w8_qdV1PmuvM9uvazx3gMvhwUM6b2BsYKgCFzqW62F1N5oshnGWqtnRRubNXQxRwqYw9fDJLjXNQYJHllrvhNmJBNncmmfXILRvIdCshMPLYFHrZkBck0Vj6jkbL7Chi4aFgc3ACFI-KLohHrOrWcAxVTX2OtPys4oyLTJHu3MK3b_vYXknHyY4zmx_GNdqvfGKrqaLTE0Ks_UDbNoQ165vIm90NmaIL34Z5-sS73cLbXmHuxTrJi5kzkU4SFls4qMWeZzeJstosAG7-AwLdlCHKdNuzsnmzVDP0mIApBAG-6iZNsCXNTI3NsJHwhzmBEQIisOIx5hhrTYc1TSThWbbgd67quK7LuC9MEIEpV1SgKtzqvlwdEanIDjxhSRYEgcHWPNgDCPG1GCugRhkfRqmY3TMjGAZWzioxnVoru731Omy3u-AqdGjDhP_Ga6Dg6uBQQtOOCOM5N6chT5H8gROQXSDKvE1Z5HrU2dp3qwg9kyOnHeLteCGJLbRmneQDNNQFwhwTMziNS208v3QNvuvYKIJnWuJpXuJQYyWxe4Qhb2XgGmlBdPQynT7ZyjJvCByiBfuvvt4_-Mip9--_2uizp4mRMdq0sLdwS7wes0pHDXCjVRZrEcXKmXFqpglu2aBbsKabGWcGCV67Kb7if32zXbr0rtl6KN7_5SniXmKrwlgG93mLjm3kPR2mm2GVbWPz7Jb9L7i5ZGdjkez6qXm2efF9Dg6z2aisUu-XcjPEptvyTKB1Sr2nIA7acPO5cmGbU91byX8GZns7Zs5fkoH7bLVG8iBiLWGAOLhWbbkcaoNE_VxWpbh82FNXRqtr-rkHm_fmM_zJ4HjnhaZfIM-13WcvRsDuZONcasxs-QR0Ve3Vq9W5iXKx1a5DuzKTYqbGY7DNcK0cOydPUbpPIR5hjKK-A4s26l2uRa3DKuIB1uQ-41RbFTXcnmD8zUE-hlJXk0eUGMzQcuszPvwZpxLKTcqNz3n1cxaT7aSeNq5Z01RDlSfisrNKasrsXfnhJ-eKS4ASOziAHDcwHY9X82J-KinV3lFfVkM9lOlI8pE8rV-2bVnY3-uT3P7ppnbdBO4t9NmUgvZwi4K1RaUZqq3x8LXO7d_9L3ob6YQ8iE"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSu-lDwhkR3RzPIgz8YO-DyLU0dL0XLQoMOZ3c-h4-n4wZnJuHAYdsfxa0IC-qGyHF7cdV5Nyg_ReT50nFH-JXy9Ewuf3bA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQkzwuAhHx7MPwCcrjmezvsrj1U3eG1sMR6YrzcZ5EAD_7JsS5RmzEZk9K53NcSkknxuHesBwKG1Hd-WbP9y4TYs-0-lkYcQrQn_D8CB45WqkPqbJJcC0Fihnw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSlPQQuNQgMmOpuGjPCpJIKbOocyp6Uc8xDNBc5_9RAk9aOnJQ3QFtJfOpC8df-0K9Lam0n3QDgI6l0hKDwi2cEYQHov3FFgPCWcaEnqYotWofK5rJRewvtwA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQc2VzRPd__N0Mksm0rplGAm2fbkCc_5JKgAlcVr_aQv9li32Rz1dQHm-uiaB2Je0_dm5pgeVqKGPbHdewIRRc0wXgaVfYdZBC7Ib5hScI",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ3I8_1GowiiTr-kz4fXA9fT9c1z4lILoPQnmOIwZQeHa7y-pYHB2beJQJksqgX_MAvz43g9YRFp6HN8ZA-2cIC_QFA7oXzRoxYg7NIlNJHgEYvQMBsbMKb",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSYXI3_T5eMUcam82Dhi_UO6iVXGus60MwWs79u45IrrpK_rix_7nV7lAAaw_1wiQVB7uxhZA3vLwhtQF-8406Qx5mBP1xC05PJi01GN3VfBLa6M1szbI7ytg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTJTccyKX9O0GM0xTTzOLqjcBqmwdewc5VvTqMoP_3rrg1r-QOdhFqckjCaNaNgHGUZdelifCx8MB8SZD3F7wRsEsLVk5bqk2VqAzz_kPEVK0ziWGCTtVq0zc8",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ7BMUo2gh71cydN1wdfkDemZrnUkLtNcLVf6DkI8YdN5ANnNhGrJGZKeQaSv6dgZgHSkJKRT6qX_RKQt5Tkp-9cmaGOH7D5eeVWHQTbIk_BpPsLuk6TM1LoA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRqbcxRph9VVVkkNLQqIUlp4ya4FTKi8eAuHgvRROCbAIHvHsXOdIXGhNo4uW9yulvxceo25Bo27waelbyO1vdAaBk8nTZiTIiUAyU43SIQ_U4Ks9gXQm3fsg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSP0Ib6ehzAhb7L_FiuxCgbjhbXbcT9I7fIwegtVdeaAPO0LxY4jNW0gCQgUfRRWmGQom4OTXCen2xnYqW5GT7wI5EpxhJE88JxHByCWLRpe3vgyjRMmDI",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSMpT4BkM4y1mvEgvFK8AEItrsmJX66PpUFthZ1-0yH_7ZzfT9RbE5ZT6ttPotEhSDEYaVIT6NxQ8DBPcueCNgS03NautW7XSr8i-PJsS9T-1s6xi0erJ66yg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTPZ_fxP1c-dvaj_gEZ5CHOyNxfHgsmMdN7NbsOifaDLWi8WOFTU8GwwmVqK7OFcUdelA8q9mKESVOsbwAp-b0EkUW64yg72jWZzTWIAVTtHIvW9Z0qYwzVxww",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSoKpilvNMA7mDuQP9hCvinteQlBS_FPzPpvZvB1qpfL3r2WzgHYpgQuAuFzGlCOz4r9KyAeLlxj5xK14wJcW6oDsH9NCb1nouVUiPeP9svNpM5pRk7lwEHIw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSxyNVUP7ndiVBfWd8yHP51XDnQe9-hvAtA7E9KvkcWorCm39IOsBQBWN9xvBJtKByI5uLnu2PzGvDFsh1CYWvpOIejr3vRYLD1CuYG3bVVdSr3p8yeJqsoQQ"
+    ],
+    "title": "Noctua NH-D15 Premium CPU Cooler",
+    "brand": "Noctua",
+    "reviews": 1313,
+    "rating": 4.9,
+    "price_range": "$154-$158",
+    "stores": [
+      {
+        "name": "Quiet PC",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.quietpc.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.quietpc.com/nh-d15?countryid=us",
+        "title": "Noctua NH-D15 Dual Radiator Quiet CPU Cooler with two NH-A15 Fans",
+        "rating": 4.9,
+        "reviews": 69,
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $72.52",
+          "30-day returns"
+        ],
+        "price": "$111.98",
+        "extracted_price": 111.98,
+        "shipping": "+ $72.52",
+        "shipping_extracted": 72.52,
+        "total": "$184.50",
+        "extracted_total": 184.5
+      },
+      {
+        "name": "Walmart - Tulibao-USA",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.walmart.com/ip/Noctua-CPU-Cooler-S2011-1156-1155-1150-AM2-2-3-3-FM1-2-2-140mm-12V-Retail-NH-D15/799200671?wmlspartner=wlpa&selectedSellerId=102854833&selectedOfferId=3DFE5EEDD8173386A00D9E039A7D2AE6&conditionGroupCode=1",
+        "title": "Noctua Nh-d15 6 heatpipe with Dual Nf-a15 140mm fans, Size: 140 mm",
+        "payment_methods": "PayPal, Google Pay, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery"
+        ],
+        "price": "$153.99",
+        "extracted_price": 153.99,
+        "shipping": "Free",
+        "total": "$153.99",
+        "extracted_total": 153.99
+      },
+      {
+        "name": "Techinn.com",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tradeinn.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.tradeinn.com/techinn/en/noctua-nh-d15-cpu-fan/137820796/p?utm_source=google_products&utm_medium=merchant&id_producte=11863276&country=us&srsltid=AfmBOoohZb_W8rmqRjspoKVaU8EuakRkJhn6Y4lDgzLMOT9uajqbTF7-HFg",
+        "title": "Noctua Nh-d15 Cpu Fan Brown",
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $56.99",
+          "30-day returns"
+        ],
+        "discount": "10% off",
+        "price": "$115.99",
+        "extracted_price": 115.99,
+        "original_price": "$128.88",
+        "extracted_original_price": 128.88,
+        "shipping": "+ $56.99",
+        "shipping_extracted": 56.99,
+        "total": "$172.98",
+        "extracted_total": 172.98
+      }
+    ],
+    "stores_next_page_token": "EITOmXica15aklmSk3pTwS8_uaQ0UcHPQ9fF0FQhoCg1N7M0V8E5IFTBOT8_J7VoSXF-USbz4ty8fC4ACIkTIQ",
+    "about_the_product": {
+      "description": "The CPU cooler from Noctua no wonder were able to convince several times in various test reports with their very good cooling performance, so that the manufacturer Noctua NH-D15 with the new strikes proven ways. The processing of the new model follows on seamlessly from the excellent quality of its predecessor. The connections between heat pipes and fins are soldered and the plates at the edges additionally braced. Due to its wider heatpipe layout and two NF-A15 140-mm-Premium fans with PWM support for fully automatic speed control the NH-D15 can improve the efficiency of the award-winning NH-D14 again. With these tricks Noctua achieves a very good stability and durability.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "Noctua"
+        },
+        {
+          "title": "Color",
+          "value": "Brown"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Design (Lighting, Pump)",
+        "items": [
+          {
+            "key_point": "Unattractive",
+            "snippet": "there are only 2 downsides to this cooler.. the ugly fans, and the massive size. just about managed to fit into a NZXT H440 with less than 10mm of clearance to",
+            "user": "Bemused",
+            "date": "10y",
+            "source": "scan.co.uk"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "If you dont mind the look there is little which is more effective than this cooler. Excellent build quality as always",
+            "date": "6y",
+            "source": "digitec.ch"
+          }
+        ]
+      },
+      {
+        "title": "Ease of Installation",
+        "items": [
+          {
+            "key_point": "Easy to install",
+            "snippet": "other than that everything else is as you would expect from noctua. insultingly easy to install, quiet and cool. Scan service and delivery great as always",
+            "user": "Bemused",
+            "date": "10y",
+            "source": "scan.co.uk"
+          },
+          {
+            "key_point": "Easy to assemble",
+            "snippet": "Make it sure it fits with your RAM as it may be too big so you only can use one fan. Comes well packaged and super easy to set up",
+            "user": "Stuart",
+            "date": "5y",
+            "source": "cclonline.com"
+          },
+          {
+            "key_point": "Quality instructions",
+            "snippet": "One of the best coolers I've had. It is barely audible and it cools really well. Easy to assemble and has a clear manual.",
+            "date": "3y",
+            "source": "cyberport.de/"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "pros": [
+              "Delivering great cooling performance",
+              "Looks very sleek and elegant"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.relaxedtech.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.relaxedtech.com/reviews/noctua/nh-d15-versus-closed-loop-liquid-coolers/1",
+            "date": "10y",
+            "source": "RelaxedTech",
+            "title": "Noctua's NH-D15 Versus Five High End Closed Loop Liquid Coolers"
+          },
+          {
+            "pros": [
+              "Quieter operations",
+              "Better cooling",
+              "Enhanced RAM compatibility"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tech-critter.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tech-critter.com/unboxing-review-noctua-nh-d15/",
+            "date": "12y",
+            "source": "Tech Critter",
+            "title": "Unboxing & Review: Noctua NH-D15"
+          },
+          {
+            "pros": [
+              "Great cooling performance",
+              "Two fans"
+            ],
+            "cons": [
+              "Heavy"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/best-noctua-cpu-coolers/",
+            "date": "2y",
+            "source": "XDA",
+            "title": "Best Noctua CPU coolers in 2024"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 7
+      },
+      {
+        "stars": 2,
+        "amount": 3
+      },
+      {
+        "stars": 3,
+        "amount": 11
+      },
+      {
+        "stars": 4,
+        "amount": 91
+      },
+      {
+        "stars": 5,
+        "amount": 1201
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQGLCilrvX_F_kCKNK0-1AKMmIGRBtLv39YlOLt6RHaNAusTX7_afSFG9QDM5nUGcUAeQdg7Nn0_UI5vfar0nCGpAHQR8GJ7g",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTntMemv6L4TYBgcl14P4XyVsgT-2TAFfZ_GoJkof3tjfQL_HUEs-6oITUKtQoF0T_mmq0eUJa_hjlHoNiqlUV00es5p_I6ew",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQTGG4AKmbgpXsnsfqs1HjUiITq8Lp4RDdF-p36LEuw-8MVI51G_ANhWuBI_1ojPxAUgWFCDZU9-2yYqWUagRyWI7U_L00h",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSFFcVxu1zBFlw-PxJy0U7BkIENG2gylM1nv8cB8lSmx27BF6v4vnfUBBfS0QN2qdmW5K1_DQUEZU2yyVXwvYPl_tJd1OWS",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ9g4To8HGMvVHSbN1ylJv461500DmhtCI4H0rMY8ZnILfdJ1zlcDXlysIAUgb1RipXVeYdUGIrwLW34O8j6oGjnuNxClEd",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQbJykdvr4we33xQZ-VD_KykDaMy5ER42gxMMjsNOJs7aGgwa1AT894An2Pq2cqf1LRfCJN9CrejEw9U6YRnmhaqelhkj5YLQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSAHVhtsm4WuO8Ie-YZXtsHjR_7626W5lAaFLAHrZoagF2Furpjz0-BexzLTQXnqA-QWbcXO3RDpuxPVOBLHJtPxUAfT00z",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSRGBgU-Ndsmw9cmatDULNk8qf0Dbwd0w2C8mpUofE-2TekqxkW-T_OYj8Xw2FBZnFooYjOIeXz0Km5cWju4PQyE3IXUNI1og",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRlmP8RKbcCw8x-mdyIK5O8ukPoyw9OEVhYS9KkTyYxRTgE7wlHlCzsWry8WC_eLTaqdjBn097-6KOodYUFRFEwMjoauBg_Fw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQgC92m853RgEw_paNZuYilG4x-B9dtoLuFsQk676STAlTZpxlFQRrzc30Kh_kkMxzgQgR4JlyN0J7KmjX10BZMFOUf4jiv",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSoDEg48c7oKuP3-wH5uM7lKFY4wb-bCBWQQCk1VjUvnKip-_rs21_dEjsfdKkwoWfUO-d69EMvbBZVT9iURuC3Dt8D3o-nFA"
+    ],
+    "user_reviews": [
+      {
+        "title": "9850X3D All good",
+        "text": "I bought this for a friends new setup on a whim, based on previous experience of it on another socket many years ago, and knowledge its a bit of a mainstay. I was however not aware that the NH-D15 G2 exists and is recommended as the goto iteration for AM5 before purchasing! eeek\n\nHowever, I needn't of worried. Its reported that the G2 iteration is slightly better with 2 to 3 degrees gains -- but its also a good £30 to £40 more expensive. Not a lot more money, so you may want to consider it. But in practice in a scenario where stock clocks is the goal, this NH-D15 non-G2 is performing decent at 47 degrees idle on a 9850X3D (generally hotter CPU since higher binned and so higher clocks) with only the central fan connected (we forgot second fan and will come back to it).\n\nSo yes, after all these years its still a decent cooler and has that Noctua quality to it. Very clear instructions and well thought out packaging as well. There's probably cheaper alternatives but -- this like most noctua coolers has a generous 6 year warranty and a very good customer service reputation.",
+        "source": "overclockers.co.uk",
+        "rating": 5,
+        "date": "4 weeks ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2caRtLOuLToXstjBAIbQkKyLEbgwkvuSO8cbBV7DTq3zsL_nGmco2-v7c7qJDRwUG6bw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Excellent for its physics, but not so much for assembly method.",
+        "text": "Cannot be failed by its ability to chill and cool, but when it comes to fitting it on motherboard...ohh boy.\nIt's size means that you will be operating in very tight places. Attachment to a CPU is easy enough, but the gimmicky manipulation starts, when you try attaching the fan to the grill with this ridicules ancient-boomer clip, that not only defy your manual skills, but also damages the grills themselves.\nAnd you cannot pre-attached the fan to the grill, because otherwise you wont be able to screw it to a CPU, as it blocks access to screws.\nStupidity.\nWe are at 2024 and yet the companies insists on using these rubbish pre-modern age solutions.\nThe clip would be acceptable on smaller cooler, but not on this size.\nThere are better attachment solutions available, you know? Like screws.\nA solution that Cooler Master have chosen.\nI am taking 2 stars off for that.\nI had to reattach it several times, my fingers are scratched and my logical mind screams: WHY!\nFor my second backup built, I chose Cooler Master. Because of that.",
+        "source": "galaxus.ch",
+        "rating": 3,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2h05FZUb_cEimsCyvGQN3sOI73SHgDmCic6EOUguCv0mDwB_cLiWpqlu2m13i4uX6Hww=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Best Cooler I have ever had",
+        "text": "Better cooling performance than the all in one that I had previously and absolutely silent during normal PC use.",
+        "user_name": "Wozar",
+        "source": "scorptec.com.au",
+        "rating": 5,
+        "date": "3 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK26rhzGrSpca6j9f3wfAlCDrkOgyQ5WbQqmFKNjx45mLX_IQomDWyx4Qqb1bUMZHmo3-w=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQGLCilrvX_F_kCKNK0-1AKMmIGRBtLv39YlOLt6RHaNAusTX7_afSFG9QDM5nUGcUAeQdg7Nn0_UI5vfar0nCGpAHQR8GJ7g"
+        ]
+      },
+      {
+        "text": "Truely magnificent! Product was wrapped nicely with 2 layers of bubble wrap with fragile labelling. I have yet to mount it but all components are present with no damage. Can't wait to see how it performs.",
+        "user_name": "k4meng",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "4 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK33pjtzWKdpLW0GQ3jrXIG3A9uxDIt3wg_lDbp0AxuOJp6zLjcskWamTGckSHsbADujqw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTntMemv6L4TYBgcl14P4XyVsgT-2TAFfZ_GoJkof3tjfQL_HUEs-6oITUKtQoF0T_mmq0eUJa_hjlHoNiqlUV00es5p_I6ew",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQTGG4AKmbgpXsnsfqs1HjUiITq8Lp4RDdF-p36LEuw-8MVI51G_ANhWuBI_1ojPxAUgWFCDZU9-2yYqWUagRyWI7U_L00h",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSFFcVxu1zBFlw-PxJy0U7BkIENG2gylM1nv8cB8lSmx27BF6v4vnfUBBfS0QN2qdmW5K1_DQUEZU2yyVXwvYPl_tJd1OWS"
+        ]
+      },
+      {
+        "title": "Famous for a reason",
+        "text": "Very effective cooler. Large though, if you have a small Mobo or case you may struggle.",
+        "user_name": "Onsh",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "4 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK05VndRkVglVjNAzCyREg_RkufZCm4hvlfC6dnBgQiD8Ah06vDiEUd0CdOSdW7Bta4EtQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ9g4To8HGMvVHSbN1ylJv461500DmhtCI4H0rMY8ZnILfdJ1zlcDXlysIAUgb1RipXVeYdUGIrwLW34O8j6oGjnuNxClEd"
+        ]
+      },
+      {
+        "title": "Beats similary priced AIO water coolers",
+        "text": "Fitting:\n\nThe bracket and tools supplied fitted easily, allowing the heatsink (which is sizable) to be easily bolted down at good pressure. Fans (two included) slide down and fit on the front of each set of fins, with a set of wire clips. ( a little fiddly but I have used worse).\n\nThe new design has a cut out so cleared my ram modules without any issue.\n\nPerformance:\n\nMuch better than the Coolmaster Liquid Pro 140 AIO (twin 14\"fan) it replaced. Keeps my OC Intel I7 8700k (5.0GHz) around 65c on full load, and just a few degrees above ambient on idle.\n\nDefinitely closer to any Custom loop setup I have had than any AIO I have tried.\n\nNoise:\n\nNo louder than any of the AIO (CM/Corsair) units I have used with twin fans, if anything because of the large fans, I hear it spin up the fans less.\n\nSize:\n\nBIG check the size before you buy, that being said, it fitted into my Corsair 400C and because of the redesign slotted over my RAM.\n\nOverall:\n\nBetter then similar priced AIO coolers, with easy fitting and amazingly good build quality, not sure why I even bothered with AIO cooler to start with.\n\nIf you have the space you will not get a better air cooler ( or from the ones I have had an AIO either)",
+        "user_name": "Aramil1701",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "7 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0f-R9u1pj3cvLdiXY54IxnsfP6TjhOIh7Fc88qURU37ADSXZw8NpjFgeNOEPSwCXdkPw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQbJykdvr4we33xQZ-VD_KykDaMy5ER42gxMMjsNOJs7aGgwa1AT894An2Pq2cqf1LRfCJN9CrejEw9U6YRnmhaqelhkj5YLQ"
+        ]
+      },
+      {
+        "title": "Noctua NH-D15 Dual Radioator Quiet CPU Cooler",
+        "text": "I was concerned that I was not giving the Ryzen 7 1700-X the proper cooling it deserved having been sent the CPU from a different supplier to scan that on the web page said it came with fan when it didn't. I had been using an Asus Red LIon Square cooler prior to the Noctua install. I wasn't able to use the second fan due to the height of the RAM modules but it was an awful lot easier to install than the standard 'rocker-lock' that you normally expect with AMD cooling hardware! There was a delay in delivery due to waiting for the AMD mount points but I was prepared to wait. I was originally looking at what was available for the CPU and was looking at CoolerMaster. I was advised by the pre-sales Team that there was a better cooler, the Noctua but a bit more expensive. It is well worth the extra cost for piece of mind - I also purchased Noctua CPU cleaning wipes to remove the old thermal paste. The instructions for fitting are brilliantly clear and the hardware comes well packaged and protected from damage. I would highly recommend this fan to anyone thinking of upgrading their CPU cooler. I've never been keen on Liquid cooled CPU's after hearing horror stories. Air Cooled is bes and I can see no point in having a cooler with rainbow colours - You spend your time looking at the screen of a computer, not its innards - unless you are intending to have A CPU/PSU/Mobo rainbow disco party!",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "5 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23r66avmJdvDqa1p2EzrvhGClOVbJqjWQ8tFP802fp9ZNViq2Eb7ZffsS_H9FO82m34g=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSAHVhtsm4WuO8Ie-YZXtsHjR_7626W5lAaFLAHrZoagF2Furpjz0-BexzLTQXnqA-QWbcXO3RDpuxPVOBLHJtPxUAfT00z",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSRGBgU-Ndsmw9cmatDULNk8qf0Dbwd0w2C8mpUofE-2TekqxkW-T_OYj8Xw2FBZnFooYjOIeXz0Km5cWju4PQyE3IXUNI1og",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRlmP8RKbcCw8x-mdyIK5O8ukPoyw9OEVhYS9KkTyYxRTgE7wlHlCzsWry8WC_eLTaqdjBn097-6KOodYUFRFEwMjoauBg_Fw",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQgC92m853RgEw_paNZuYilG4x-B9dtoLuFsQk676STAlTZpxlFQRrzc30Kh_kkMxzgQgR4JlyN0J7KmjX10BZMFOUf4jiv",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSoDEg48c7oKuP3-wH5uM7lKFY4wb-bCBWQQCk1VjUvnKip-_rs21_dEjsfdKkwoWfUO-d69EMvbBZVT9iURuC3Dt8D3o-nFA"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Noctua NH-D15 CPU Cooler Unboxing & Installation",
+        "link": "https://www.youtube.com/watch?v=9rhB8RUebYU&vl=en",
+        "source": "YouTube",
+        "channel": "Techscrew Home",
+        "duration": "2:27",
+        "thumbnail": "https://i.ytimg.com/vi/9rhB8RUebYU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mQEbkcFJ-tlI821zkjoZEfcbZo6w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSqZ2Lrn4NzGTO9IKjgiQvt89caH7Da_ILFkA"
+      },
+      {
+        "title": "The Ultimate Air Cooler? Noctua NH-D15 G2 In-Depth Review",
+        "link": "https://www.youtube.com/watch?v=4BeuDnx46EI",
+        "source": "YouTube",
+        "channel": "StorageReview",
+        "duration": "11:25",
+        "thumbnail": "https://i.ytimg.com/vi/4BeuDnx46EI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mC9iV-MPwSwJKur9c0XnqSCIDEyQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRoJ32F-KkppyY1ySp3JSr9BJtxtyLZKPvzNQ"
+      },
+      {
+        "title": "The King is Back: Noctua NH-D15 G2 vs 4 Top 360mm AIOs!",
+        "link": "https://www.youtube.com/watch?v=9YR6Y77iG58",
+        "source": "YouTube",
+        "channel": "Gadget Joe",
+        "duration": "19:36",
+        "thumbnail": "https://i.ytimg.com/vi/9YR6Y77iG58/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kFLbtd0zDfrc0dX8mGxThIz71pAA"
+      },
+      {
+        "title": "Return of the King - Noctua NH-D15 G2 Review",
+        "link": "https://www.youtube.com/watch?v=0zqPICl5zjA",
+        "source": "YouTube",
+        "channel": "Hardware Canucks",
+        "duration": "22:03",
+        "thumbnail": "https://i.ytimg.com/vi/0zqPICl5zjA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kAjcUktjkg0pJBOHGueqJe6RrDAw"
+      },
+      {
+        "title": "I Built the Ultimate BLACKOUT Noctua PC… | Next-Gen NH-D15 G2 ...",
+        "link": "https://www.youtube.com/watch?v=U7CtsyzVPhw",
+        "source": "YouTube",
+        "channel": "Mr Matt Lee",
+        "duration": "14:10",
+        "thumbnail": "https://i.ytimg.com/vi/U7CtsyzVPhw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mJzoeLV6RhM0sBRaVYsxSnn2uS_Q"
+      },
+      {
+        "title": "Noctua NH-D15S premium CPU cooler with an LGA 1700 install ...",
+        "link": "https://www.youtube.com/watch?v=9MGNT7jPfiU",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "19:06",
+        "thumbnail": "https://i.ytimg.com/vi/9MGNT7jPfiU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k2kI-GK56VtR9ZYLjQLpSihmZ0tw"
+      },
+      {
+        "title": "How To Install The Noctua NH-D15 G2 - Intel LGA 1700 Installation ...",
+        "link": "https://www.youtube.com/watch?v=S46QX0F7NW0",
+        "source": "YouTube",
+        "channel": "PC Jack",
+        "duration": "1:46",
+        "thumbnail": "https://i.ytimg.com/vi/S46QX0F7NW0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k8nf1z2ozpXORuu9jt7TeWdUyXlg"
+      },
+      {
+        "title": "[Hardware Canucks] Return of the King - Noctua NH-D15 G2 ...",
+        "link": "https://www.reddit.com/r/hardware/comments/1e5zse8/hardware_canucks_return_of_the_king_noctua_nhd15/",
+        "source": "Reddit",
+        "channel": "Hardware Canucks",
+        "duration": "22:03",
+        "thumbnail": "https://i.ytimg.com/vi/0zqPICl5zjA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kAjcUktjkg0pJBOHGueqJe6RrDAw"
+      },
+      {
+        "title": "Noctua NH-D15 G2 Review & Benchmarks, HBC & LBC ...",
+        "link": "https://www.youtube.com/watch?v=heriTDWIU2g",
+        "source": "YouTube",
+        "channel": "Gamers Nexus",
+        "duration": "36:53",
+        "thumbnail": "https://i.ytimg.com/vi/heriTDWIU2g/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l-w-mb1UmkjjPg2evKA9wXrUCszw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSYkXFnJe458I38YpW4CvrPcs3J0Te3-5m9eQ"
+      },
+      {
+        "title": "(REVIEW) noctua nh-d15, premium cpu cooler with 2x nf-a15 pwm ...",
+        "link": "https://www.youtube.com/watch?v=Nd1IycH8-nM",
+        "source": "YouTube",
+        "channel": "Live Free",
+        "duration": "6:08",
+        "thumbnail": "https://i.ytimg.com/vi/Nd1IycH8-nM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k1wLevy1TIxfUINg3-GIeE_wpZgg"
+      },
+      {
+        "title": "The Noctua NH-D15 CPU Cooler: Installation Guide for AMD’s AM4 ...",
+        "link": "https://www.youtube.com/watch?v=FEnAYX07yz0",
+        "source": "YouTube",
+        "channel": "The Tech Buyer's Guru",
+        "duration": "11:14",
+        "thumbnail": "https://i.ytimg.com/vi/FEnAYX07yz0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lil0YPi3nML_U4j7w7x19db7RzgQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ_KJRsbImy5P9m9FV-hJiMFpGo8rLAtAWbsg"
+      },
+      {
+        "title": "Noctua D15 G2 Chromax... meets NCase M3.",
+        "link": "https://www.youtube.com/watch?v=Ss2gIM2Ebrw",
+        "source": "YouTube",
+        "channel": "Machines & More",
+        "duration": "6:47",
+        "thumbnail": "https://i.ytimg.com/vi/Ss2gIM2Ebrw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kcpeEUO7P-vD5GDn334Saf81MqIQ"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Noctua NH-D15 chromax.black 140mm Dual Fan CPU Air Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQ_gO5IjgK5_JLhNtG5OvzaYzkcDnBbmzk6yQib7i2-VaDIsqhH4bFsqOYEg3YP70ahFx6j1OxpYXAB0IXpAF0xOf2Qd8iS0mhUn6EsZ3NaJPRWy8UBHPvB",
+        "price": "$139.99",
+        "extracted_price": 139.99,
+        "reviews": 216,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eR-1xXicbVTLrqNGEI1mnUUW-YVZWVeiaZ7ZGQP25QI2zZuNxaNtMM3DgA1Y-Zo7mZEmy5lI2eY3Zhb5lnCznlarenGq6tRRVfW_P_3yiou_dSXC8d1PdNG3x6Q8DOmTfFtbn9uuyW7pUGRfBSgCIDCA51iRhrTI8fBzGg8xac5vKCNSLFyuwLCABiLLUV9yHGekqPH-dMKd3KRF9hfgOChyjMAKAs0CHgCKpv4sqviM_8e_ggWBAHCQ5iHP8bQAuA9d1n-jD5sjy7OQA5BjKIameJFlBPr3A9rLxx9jH6833M3fdBIPuB9W6a3rcD2szrjGXTwUTb3KcF8OTbs6bFZp0xDcLU_VNvWbW4cJjnucrWiKZt8Mt6rx-PHcvlX5A7YPVZF9YXmO4Wh2kUgJgGEYQfjQ3ofX_Px6Jq-3_jUnr7j-1MTt_ZR-f_er0ozyph83ltu2nowoG0qHjAJDRDQUUFFs-sbDVrPS8tMhKc0N8iPX8aTQJERNVeTHJRkNR3lE9HRJH1GsBwal-9SMfHZrK1Pteq3rXPI68q3RIZqD61bdyyEIiUShunVc4o24yvTUbwujzBX3gZ7tIKcix2S9KpdjogZu1aqJosxpNWw9ClXhJR8DiKTIEx1XIbO9taaYYhnPa3NcZyhWzDIComHXnm5vQBnSpmZekBbDdpPsNN1W0JB4ETCcM7Q80_JlFISPaONQ6GrSme3SKkmrnEm3Ue_5Htxvp8BUSY3o6OaRqIqAibylQuSakreNSBxoVbZDdUSpDApaaG-JiWQNGaXApG7O2sGa9S8eynYWY13SKXRzB6vhbIP2tGjrDDXbe6pqpgFSF24_kpGWKKiIa1JaMDvgmrgJITCtplPqT5y3aE5k07Vp4poKY6sPrfMrL882wHecTDZqlUqBVEfbdptR6n1baBLamfPej2wkS3vjIvXRwx2zOpIt0jKxa5JFW2lfci2BOfpj6rvTN2qtsoO952vhWa2jCqKCtFOoS0TBL3N7Mtnj-Bvgl1XjIANEyMNPywCXBf7-7ue1snkP5XWmeUrcg-RslZ5hQBFiPTjwzZ7c6Dvm8_Kl3MRJt6Vn1siOghfrNf00SKe19R5Kq-PRxsu-4CfbQYe3bGYVjTFFDpoF7wXc8lov5YfppTlFV8Eub67oFKGVPi5mc-O7Z5fh0ssyS2askntx3ArPPJGP2S4GzcvSOR9W6pTYTHYgx6q97WPmSpvkjVf2FrJ0Uu9HrQOQCkmvs1Q0PQt74SGp01p5kuo6eD4b2MahMSrr5bzFmc_yEshCuNhtLszAhcMAreThC4OgP44qMWuGzrSXudeaF_MeFo9eHCcywnU5m8FjGkMPl8hKrEeYygEocjrHNDNQu15S72M5555CM9SRKtxOLw-KvbcZHboqTd02WSwyDO9j_bCmd3ld3IJZv9Z8oTd2ei2azd5YH3muSuyrKopnrEmcOKO6GTMrucaMdMVeSVGxVZ4pL-pAb8gvcsY9aekovGBX4PyTJA6ZuOZd9bYb-qt-uraVbM2qeUwPvj1Xh3XL5lurLBWLFTtJ6y-lqw327cl1wuX3Of3zH-Sa9A4"
+      },
+      {
+        "title": "Noctua NH-D15 G2 chromax.black CPU Air Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSMhlUOePRvHyE69wPbw5Ys74SwkhtxO51OvmKv4AQrseOYVnZRQlCI5gKOmc5z4ZzoPDJKEbV11Kx76HI2RKotXOXSfCclaZtbLeboW2LK7bttA9LNirlONg",
+        "price": "$169.95",
+        "extracted_price": 169.95,
+        "reviews": 4,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Jnfc5XicdVS7ruM2EA22TpEiv7DVxQVIUc90liX5WpZpi5IoW40hi7Qt62k9_BDyNXezC2zKTYC0-Y3dIt8S3aQMwmJI4MycQw5n5q_vfnjl6R-OGfH4Gu4dLfRu-2zdJc9GP3E_103F-qRL2W8q0iBURajIkiYgQZMV9DmJuzivjin7HSqqogiqpkIFyVAdT4r85cRjlqclXx0OvDGqZGSRBFFRoQoFVVUkKElQRb-mRXzk_8IIKYIoIiBpoiqOjCoSPzSs_Squp7tRWZAQ0ACEyngBpEka_HlNVsbuf8CPl543j69OHne87Z6Svml42T0decmbuEur8onxNuuq-mk9fUqqKufNuBV1Vb65NTznccvZkwAE6c3ITyW_fTzWyT_P_a_chyJlXyRFFkdIRiOojoGy_KG-dq-n4-sxf-3b11P-ystPVVxfD8m3dz-a1c2YtrepG9Q1NQjwrXrtg1PtbWo3sfAlyogd0SPa0vyyRPWDB6QMCqnCKPc9kOuE2n0C9ZqBuuBlXawo85nBprwk7nIKnSDUrklO5SjXB1x0zbbE6UaAL75PXM8kRVKIkgczIUZYZwN2vZzZmOJ0FWLgn8kZQ70kG2K5NOrwjER7M6pImQkURPJ-Zp-j0T8MJd0v87MLahpZZL4NNOAh2w590hPfiuj5KMR-7lHqojiztl5GCMtcSMqahpYrbkNbTADc-hntwjM9kAIDMmOeQ0-6j46SN5CFN-hXapJLArU0HvQb8-1yubGwG6gwNvN-adCAzqqRn6wiqPu4sDxssM4trTkpiIcHU8KCReNNfkj8AHjQvGMz7zyhBkkZBX6WQ0bdR0TxS4JqMSpP4RKwiuVJt9pY08CU5MjssDuY9yQkvT-T4r1PvTgDnjXYTVjQE5vC0B-zvywtMP5JGc3qGQPWdZbaOnnBj1UYeezM4AYQOTxjHMzYYW_oFR9zTc76sISTO80o-eXeNoevYGJJnbdSSnVulVGBSJrX962j5yZfPOoDlna3n8amE8dSE6GGFPRprOAs5d_efT8xp--RMWE2NeMW7o9uRpdLpCHubNZKtcp74cqVU7bIpvG-mQkPacl2Ko2dUnju9MPEfY_0p93O42PD8GfPJ-s3NlxEtxjka9tF1xTNFLvVT-v7ojpEF9XL-kDz062bDGdc9UozD0Q5OQ9kjmMrv6a7mTpXcmPHXmJYLSKfhKiw7ntPZOt8V9T9KhYvAs7fdA06iiV367qzG4jANm8dCUT3ubpSB926T8xnvSw38-OSe3y7vJmTcb3F4bkxBkoIjXZ2Uh8wQF2H3P0Qqp3qDDsrx6UoMHvxaO1qga_bdGi12z2_oUn2wJvhfttSnhF37w7bxNjA9CScuCB24KXVreste5yoKYhgB9KgcbK16a080UGBJYB-ymJNFJWQO-uJ8HIq037zcC6lkjqVl1zSarpaTnaKXOy9i6VpR27rsvYgZXVj7v4Si_qF0wyA2M2OgEYNbJfGwmDys53c1AUPVDk86FrHtIkSWP1L116cw6UuDPdh4V2yDr1HsZ7U0mnmZpnpSlqj2-05C-zO658DfztOn8OffwNdkPKh"
+      },
+      {
+        "title": "Antec A400i RGB Air CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTeWNPEhWdWxaUeoLfPqzT46SfRXKYWmMXS7YBl2wjjSHow_NRa8K86QP1ZLO0-yHap88C4Erh5yj6UwbVMke9OeHr3dYXOs2iuY4IN4hnwa5XdQypK1eNHAQ",
+        "price": "$35.00",
+        "extracted_price": 35.0,
+        "reviews": 5,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WeOW5nicbVTLrqNGEI1mnUUW-YVZWVeigQY6O2PANobGvA0bi0fbYJ7m4Qear7mTGWmynETKNr8xs8i3hJv19KJarXOqTlV3V_370y-vJP9bk0MS3fxYQ759j4v9kLxI49L80nZNOiZDnv4pMAgAgQU8BxHN0IjjmS9JNERlc55RHggChIgShBkCCPEU-pqRKC3zmhinE-mkJplpgEWcgBAUaMBCTgAz9Y-8is7kf_gvwDAcz9M0xwJujsCyiOY_dmn_jd6vjvNpFqAgggziOAYKAHzYW4Z0_DH26TqS7vlNK6OB9MMiGbuO1MPiTGrSRUPe1IuU9MXQtIv9apE0TUm6eavapn6jdaQkUU_SBU3R8M1wi5rcP53btyp-oPaxytOvkOdYjp4vZs4fzAUC6mN7G16z8-u5fB3716x8JfXnJmpvp-T7u1_l5i6t-vvKdNvWkyzKkVw2sCnoFm2TKl5oK9sHqTIOSwoO5exk1bjxPeRatSrr_nCLn-CAy7Rz1_o9XEPfd8RVXEDJLpBqT0qGPYuLQHsKp3AV0ohxC8QldGp7B_FqVqVGSo_WHOwmLlwl7uBrrodNCg-uazm42j6t0jpF3hIQD0HDS6G1kYE-KRdfEcNI8fZpmUKn8GjTb9cBEJtkDVf4gmnslqLtqFNMlSOuxVvkwzZ13DuRFDOmSyqW0mviD1xcpVTsWKLlqrkJ1NBkxG0ip4Ne6pAcvJ3JyLQhlZuAsjhDHsJQDrl4sm5B5fVzTir2MLT9zLcmERhS2oa0tSWHsIvWMIxlUMUbsYxp9Ig2ahs45RhRwmRJ3hZXLcSUTpu1srWdzPCU8mIVAbRktTfdYYcL9NB9r9OBWukuygIqdJOLUidlpriMejEPWLdd3CdKYiuT2vmVl6Ur4DtOKum1QiVArMN1u04p5bbOVdHa4Kfhh44h6wNey8-geGysg7gyFAuTjaXadWrGB2XnuYj5_dF3p2_UUoGDbXAVu8uyZRgWHNOz54vacpx3kTvkx-ZvgBfmFmJYgBie_Tx_4CIn39_9vJRX7xlpmaqeHPUgPpuFp-sMYoh22PONUY70jfBZsStWUdyt6SfU06PgRVpNvwziaWm-Z8TF8WiTuV_Ii-1Y-7douArvEVXuVZO55cyaV3sx2z92zSm8CnYxusjJAzOZLrgZ-W7rslxymawtjpTylh_XwpYvpWO6iUCzCx3LZyrlEdtsui-PVTsaEXulcfmmK3mzWPJQbke1AwwVlL0GqfCxFQxhEpXHUn4R6_qwPevEJoF-l5fzevPDW2l2hAwz23UmPIHLDANjxpMvDII2HZUS1yydqrtnrzY7fAvyqUf3R3lnlsUTH6bHPfBIYZmxOQWJdAB5RmeEZgdq04vK7V48M0-mWepI5W6nFXvZNmxWY1yFpsZVGs1jiveJtl_Sm6zOx8NTu9Z8rjV2cs2blaEvjzxXxfZVQehMVJFDT6tu7vOTXyNWvBKvoKjILM6UF3ag16WdlHIvanIXdsQVOP8koiFFS95Vxs3QX7XTta0k86ngY7L37We1X7YwW5tFIZsQdaLaXwpXHezxxXWCefqc_vkPQ8nvYg"
+      },
+      {
+        "title": "Noctua NH-U12S chromax.Black CPU Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQcE_jSzvTq82YVJfgtwUn4NpH9usdfyGXfsMlCHE7ohIjx-u0HeVEHvh9zD6KWQ05b4BVyL_WLIlO6PbW7Szv1E4tqqcpiPctMFljQ7vVbxDWeTo0wbWK5jA",
+        "price": "$89.58",
+        "extracted_price": 89.58,
+        "reviews": 145,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=J4A39nicdVS5juNGEDU2duDAv-BoMAC7m6czSTwkiod4NUUmAsluiRw2D5HUCX_NrHeBdbg24NS_sRv4W6xZwJldQVXwqt6rAqrq7-9-eKXVn5aW0uwc55YSB5e83kzFs3qaeZ_6oSOnYqrI7zJSAJB5IImCAhFURAl9KrIpY93hgQKRF4DCyZIgiAjIHC9zn0uaEVa11N3v6aB2RUX-AIIs848MUZKRCIHCAwh_q5rsQP_FkciLEHJIVBAvChKniO8HMn7hN4sdECESeIHjHiwcADxCSP5l47vq7n_AD8cTHW5fLJZNdJyeitMw0HZ6OtCWDtlUde0ToWM9df3TZvFUdB2jwyM0fde-pQ2U0Wyk5AlyUHhz4lNLLx8O_bdG_0PufVORz4L0NsBjRKgIIo8kXnjfn6fX8vB6YK-n8bVkr7T92GX9eV98ffej1l3UxXhZeFHfY9XngriGPi6AB1LdhhMI0Aq4UW_mTXHfcn4UsR5kGvNIqycu7r1gSaYATomr-xfC_JuPamDDdGNj-R5A4mNmjjHrBK9Oma_pWhaW26RdAYzxydZ6HyPG5ypT_ZqlBJmRg9JtoB84aigg1rSrvdSTHKadA3su2pIbDck1bcA-hKtrtvWPJC4v-T3NClZGRTONBSCeh9i2WOqXcEu6UFPMDJRujvwXbIDaNsomiKYOt_XktGwfwNILa3MbQLYOm4l3GhllHPGL2NdCTuetGMd-6NtF5EwWJigzrk0GUyPepgKJyejqJQ44-5bEGucvcVeomlAYUxyGOijQvCXM1NMa19FLGQZLP0xBjzMDW2HIItfg-VAtpuKuh-k9XeO21_xaCJOYoBzriwiWiyDWz8HSPNlLMyMaBsGDNwcpdLbJPYmVuV9HgX43h7jBJVmAhy5R7VbnCjBvU6M3CKefjcqc-0vn5sZpGMTKEFcgTDX_GHEln7C-dTUzpOpcz1AnuLHv_3odh_0XbqYLU-CKDb8uy1ma1iIa-cOL2YsiftEGJc69n4H07Zp4oDwW7eNjg-uKfn33_Uxb_ITUGTGxlo0gP3g1tm2kIGptN1LnshM8U6ms1_UiywcD3gSb7GScWS18nub7mfcTmj_tdgF9HAx9DkJ_88bmNOkl49jG9NC5QoZkjvNyc113-_QoB_UpUsIq8Yr7i9OdpGEV8WLxcvdXTqazc7Uz5JXE1B1ZZqBbp6Efo0a_5gFPNmzX9Cc344_QYW-6Kn6IFVf9vDMHgLiEjZbApdeV7Mr3uX6dac_ztt2uDjYNaGJftNnD3uqclfooFBB6eKOUbyBC04S8_B7Lk2zddzpzWh4Sc30bzW7tnJPqPiqXK7ugWX1ztvfrJcG09r3cuyeFugVVCUsK-YlbjnP9fKlvJdYgz-24KhqseqMFbsBbKNIhd1qQTOF5KabWZgaXZVudtjfr2EqV1QXFseoWrj3bSWKTB0ddUQ7UnIvKzW-7C_HyY8bPjxTXHJd59YHD6QBGW12rRHw2i4u8ppEsxvu5MhFlJkX6aTmNR2t_7BvVu-nOrtjEwa3ZzHqhNLy61jxBGebm-FJH5hScnqMweXyf_V__AGTw8SM"
+      },
+      {
+        "title": "Corsair A500 High Performance Dual Fan CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTFDVXMCE_8M9TItieHCdxkGbuBFXNr4ZUXjmtQOXuhXUDbPnI6cC5RHpI685fcqsNP63rxxNqBLjqd7IuoGlhBq_nt3vfmvGkLjrt06UbGIWtpJxYzYPPW",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$110",
+        "extracted_original_price": 110,
+        "reviews": 80,
+        "rating": 4.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=esxW8HicdVTLrqNGEI1mnUUW-YWsrCt10zyzM-ZhY4PNqzFsLEy3DeZpwDZG-Zo7mZEmy5lI2eY3Zhb5lnCTZZRaVLVUVefotPr0X9_98EqzPzZqRON7cNxIgfs45rs-eVFuc_tT09bklvQZ-SIiCUKRhQLPSQxiJF5An5K4j4v6nJHfIZAkluElwHCsKEKehVD4nNKYFFlFt6cTbZU6eZuDAEocBznAQoaD7BvOb1kZn-k__S8SEiCCEEqsJLAcAyey9y3pvrK7xQFCnuehCAUkMGA68RLif9k5W-XwP80P1xttn183RdzTrp8lt7alVT8704q2cZ_V1YzQLu_rZrZbzJK6Lmg7lbKpq7exlhY07iiZMZOot8TPKvr4cG7-1fFfuvdlRj5zAs_yjAAAZIE43RHHv2_u_Wt6fj0Xr7fuNS1eafWxjpv7Kfn27ke1fiiL7rGw_abBigPc_Ry5QXQxkWUR1fBIQTL74jO-b1X-PgJxQDxrjyN6iSBZatpRt5AJOIvqwxAXlmIDbvD1oopyK4w8jFwmBF5VON5eZY8XjduPhetpOA5zyXFgo0QaLlw1GiOF6MFSfkSKFmCVMMcAB45ueTFyNpiBiquktacWFUYrxiks5ziSMgrqB8m5EhekcXKpSy4Rv4eSY2O8dFA0hihaW0GjU99oHSjXjt6XFgCsvzQM5wnlqNAUnKuPjV-YMaNxpo8bUjUZVXPO82Hp-tCxNCf2kHENPNIGWv4wtejuoTQMEV66ujZiaF3IJXy6mKwcZF1tGPauPrjRiMHGMwZaWthZGiwZieZ5Ru0HTR-pkuxeCJo0jFSN9jZw7D2yelchtZNrqgMiZBb4HhZyaaq96YKhMJGxOubDzqssLgZFjUGzJEHYEy13tdFogxKnZAEDzyOKWWkggXIV6Y1OgHbXM0N2ltZzG0Su4-Ftkje2VWLfQtotyLUo0IeTj6yc5nifjKn869C1p69grnG9u-VLdp2m8yjKedSx54vR8Dy-qK0UHO2foSCyHI9YONmG_Ti94Dyj3959P1cXPyFlTgysxh08nu0cmyaSEN3sd0K9LW7MnQppvs4X8bHVmSdnkoOI403FvPTyaW7_hOTZ4eDSyTD0xfWc3RuaVUaPSfnOsNE9Q7pgdHK6G9b1KbqKbn7zJS8L7WS8WPVNaFc-yyeX0VlZsVbcs4MuroRCOZBlDOt15DkBKrXh6LJkVxzK5raN2StjFW-8Cp7IkkG7H4wWIhAW3YYD0bASt-Ioa8NcfZGrar86m9SloflQ51O87VkrZVrkEJqynopP6KO-R_ZxDMRe3IwHrbAqliHG-tkZ9dq6h9nYSY-heKB5_rT24_AIMc0d-2iPYaLsYZYyKWXYHiw7Wbs_8meKVYYFB5D57Sbfqe7WZTfI1xhwW5BYYlkhoJvdnFmmVXbbPzfXSsg2tZtcs3qxNecHgS-P7lWTpDM1ZF56OtVkHvt4jVn5SnEOQGznZ4CjFnamslYI_2IkD3FNfZEPTrLUE2ku-Npt2XfXzenalIr91KxDsgvcZ7mbN1yq23mu2pzUykZ3yX2jd28vvhdOv8_pz78BH9zyBQ"
+      },
+      {
+        "title": "Hydrogon D120 ARGB CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRhyOte-ZT-CgoFqkHsU-e_i6SbAcuks9OaU7-ft0-4V6bNjG4Xn75rt8Jwsd8-l2k9lZ70gaiH5YaQ0WDxBLwgfTqRDUkIqy8HnmdB8BNRweuhTgb5zgBJ",
+        "price": "$46.00",
+        "extracted_price": 46.0,
+        "reviews": 3,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LFntHnicdVS7ruM2EA22TpEiv7CVcQGR1DOdZT1sWZatt8XGkEXakvW0JNuSkK-5m11gU24CpM1v7Bb5lvgGKZPBYAjMOcNDkDP867sfXmn2h6liGt_DoymF7uOY7_rkRbnN7c9NW5Nb0mfkNxFJAIgsEHhOgghKvIA-J3EfF_U5I78DwD_9CTGsiFieF3kgfUlpTIqsotvTibZKnbzxeBYCVmIQEAHDMYhHvPBrVsZn-i8OWI5DzyRCSGAQhIIEPrSk-8ruFgfACjzkJJbnWAk-WZLEMz_vnK1y-B_w4_VG2_GrWcQ97fpZcmtbWvWzM61oG_dZXc0I7fK-bma7xSyp64K2z6Vs6uqN1tKCxh0lM8hA7i3ws4o-Pp6bfw76H3Ifyox84QSe5aEoiZwoAl5iOfihufev6fn1XLzeute0eKXVpzpu7qfk27sf1fqhLLrHwvabJlAcxlODhXdJO8xoeLvEWz_svSRvCgyseM8Etr13xjCvhyAIUBSmQwKHnECS2RnzwDoJ42U9hr6lm373sBRZDaD4cIti6essG_pDT7VCjX2sOZOhOjAIk4vMhSE7xJeiP4YA0TxlSeFcrckwbB87ier4VJPUYJliOzfaUFcne_IfUdgbNkz3toe57bJpsF7wm3ywTE8zPbVR3QpPQVUDvLf84xTUZCkjusctBhvkLp0W69wuCpy9ozuxBwzLzoBpe4YbqD3CmmVZzACskshhyZU2w22Jmq7pxaqJR-IkrydHWbGJt4JW7rgR0rpEHRApmslXz72PZNVVQR2VG-CqGnI0qw_2zjK84BQX9WhPKgxA2niKPzjQuMZ72Up0i6e5MW21Qj7CwQt0rAU6WcdFswlVTY8KrOMCn3DhgFgnjb_cDFgfeFddudr0vJcySMkChJ5HlE2lMQmQK6w3OmG0u54ZsrO0xm2I_eiC11HQhFZgcXHpxBG0lj50rsdyNdg5vmBYoF-Grj19ZeYa17tbYT22t60zOpe1ae1VGvoGKNercb227J-AILIcj1ggIYH79OzgPKPf3n0_VxfvkTInRqDGHTie7TzYbJCEqLnfCfW2uME7FdJ8nS_iY6vDkduQgxjEZgVfevk0t98jeXY4uPQ5MPTF9Zzd225WiR8xU-wMG90zpAtGJ6e7YV2f8FV085sveVlkJ9PzjW5Cu_JZPrlMzsqKteKeHXRxJRTKgSxjUK-x54So1Iajy5JdcSib2zZmr9Aq3nSV4CmWDNr9YLQAMVHRmRyDh5W4FSdZG-bqi1xV-9V5Q10abR7q_GlvddZKeRY-J_EZ9VQcgY_6HtnHKRR70ZwOWmFVLCTGeuyMem3do2zqpMdQPNA8H639NDyigOaOfbSnKFH2IEthSiHbM8tO1u6PfEwDFbLMgcn81sx3qrt1WRP5GmRuCxJLLCuE1NzN4TKtstt-NK-VkJm1m1yzerHdzA8CXx7dqyZJZ2rIvDQ6Vf0g9vEas_KVBjnDxHZ-ZgLcgm6jrBXCvxjJQ1xTX-TDkyz1RJoLvnZb9t3VPF2bUrFHzToku9Ady9284VLdznPV5qRWNrpL7hu9e3vxvej5-5z-_BtR9PQz"
+      },
+      {
+        "title": "Noctua NH-D15 G2 CPU Fan",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQwlJvJjZ5P4xmBrcjJjY0-hr27-asIRPzh4CaroUtv7L_EyXpgCwFhaqL-rib_wHWQPy6amn_dF9GVNybi-4lx86-EnT2l",
+        "price": "$169.99",
+        "extracted_price": 169.99,
+        "reviews": 120,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=U9pzBnicbVS7sqNGEHVt7MCBf8HRrVs1wxtnkgBJCEbiLUhUwIwEYngIkHiUv-aud6vWoe0qp_6N3cDfYl3H7qBP0I_Tdaq7__nuhzeS_2WoEYkfQWLIgTMkxaFPX5X7wvrStDW-p32O_5BYGUKJg6LAywzLyILIfknjPqb1Jcd_QlGGvMAByLGAYQXAQxn-npEY07wi-_OZtEqdvudxjMiynCiyosjJT4QM-1texhfyX_wP-b2NIIsCCzhZ5uQnfmxx95U5rE6CzEoiYBlRkBgBSEDgxV8O9l45_X_s0-1O2umrQeOedP1Lem9bUvUvF1KRNu7zunrBpCv6unk5rF7SuqakfULZ1NV7WksoiTuCXxjA8O9OeKnI8OnSvE_5P2wfyxz_zosCJzASgIwgiQzLSuBj8-jfssvbhb7du7eMvpHqcx03j3P67cOPaj0oq25YWV7T-IoNHNockKI1IaXb6EineI0p8u3Zruyd6dHcVzUhcJFtO7BH5QA9b-ycgA-Tq_9IPb-2A9lHMy5jX47QnFnJlW7wlSpRyd_QkTYxgxTTrwd_trl4HYLYRy5m-AgX6nhkdDPW_JrksEgh3aXrUfXUC8Aa5fA1gpYHqRFYIKR-kACec6G2tjwAkjlzfFqMuIzMIzNSh8pjAvrAu0aqW5iDN_t7Xx0D5CE7hP6QVpETUns2legcMXaf-FGMjvpjr_alA_WtXeAGbSIhAjaygcV6hV1bXhbYczZbhW-4V-wGV2rY14wPgT1GFXX3q6ceG3-fzhqPoNxZgBuSUt86qv4IVH5yNhF8qpi5TMhF16wnNJyRa81uoKFkYw9OqY9hMDa4UpmAFsD0-o15jZpAy1bmnGlBAVHkmX0y43PiocBUsjrw5R0KOkeb9TYo_QyvYOC6WDErDaRwWUXrZo2B9ljn-tLeoGkfRK4P5dYu5Amv-cxU7YJs_M6icrF3l6G5CSeTLqtfx649fwULje-dvbib2vvenuzrzkBHlQSeDsvddtrtkPUzFCWOF1gOyqzIf34ucJGTbx--X6irn1hlgXVfjTuYXJ6imSYrs8Q4HsR6T-_Mg4hZsStWcdKumYk38UnyY6NiXvvleWH9xC5fTieHPO-FvDqufXjvhspoiAE96Bb7yNm1qHfL7DDu6nN0k5zi7sluHlrpfEX1XWy3Hiek19neolijj_y0lrYiVU54E8N6F7l2wJbamDgcPtBT2dz3MXdjEH3nVfwnWTpqj5PeQva5a53Bg2jcSntpXmrjQn1dVtVxezGJQ0JzUBdPe69DW-VZyLPs068zaYIe2_eslcyB1EvGfNIoqjgG67up0-sdeoT53MnDSAd2UUzoOI9D6JPCthJrDlPlCPOMyQjD9WDTLbXHUEyZrzIcOIHca43ioDp7hzNYT2PAfYVjmePEgBiHBbPJqvx-nIxbJeZG7aS3vF7tzcVJFMrEuWmyfCH6UpAnu6oHbCW3mFveiF8AEFvFBfhRCztT2SlYeNXTQdoRTxKC81LusbwQPe2-6bubcb41pWJNGjqlh8CZysOi4bO1VRSqxcvtUu-uhaf3zv3Vc8Pn9zn__S_oDfYK"
+      },
+      {
+        "title": "Noctua NH-U12S CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSrjg8jycFqyhdNgwGU0UG4I3QJAASx5JRrbmS6U1aKq0XclpjTInQa720KGLFI1r2DeYUfx7s6NPZGmu9jnb4QfFqMuuUy",
+        "price": "$84.99",
+        "extracted_price": 84.99,
+        "reviews": 185,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=j15IaXicdVS50uJGELYdO_BLbET9VXPodIYQEggh0DU6EkrHgIROJAES5af517tV63DtKqd-jd3Az-HQ_BvbHXTX9Nc9X8_R_fd3P73S_E99GdLo5sW66Nn3uNgPyYt8nZuf2q5Jr8mQp78LWIRQYCDPsSLCSOR4_CmJhqhsTk-U5xFgBYHjeJ4FCIqCyH7OaJSWeU13xyPt5CbJ0z8gw0OIBEbkAQNYnmUZBv6WV9GJfsM_Y5FFAuQQEHmERZ7Dwvsu7b8w-8UBAu4pAsAMwwsCxgzi4C97aycf_gf8cLnSbvqil9FA-2GWXLuO1sPsRGvaRUPe1LOU9sXQtLP9YpY0TUm7p6napn4L62hJo56mMwQQ-6a4WU3vH07tt2P8B9376lk_y3MMhwTx6Qccfq7Q-_Y2vGan11P5eu1fs_KV1h-bqL0dk6_f_7O8JYtFlyxMt22JbAEbEIYUlhcuoOx45d1AA0twqaUVGEOZbGKc-Y7LIge7DPHJg8jazlZD30KlE5ylYVtl5hZbNXEsGIIQb_1wFyrWzTyHIFWzYyIXoytbGx8uGVJaN1Iq7RYQznLLzK7SRSJLJH4-T_DQ0G51AkalnBPPgrrLLoh3H0mV9mkB60RpI8MNc-ecmUHB6oHH6lswls6KqMnK8qiTTi4YA8Mz7q7LVgaAZwNoC1cRGaJkrYOgo_uWS-XTkPpGb1cmG3nDenvWtjFQYFqxloG3D7cQ21gdDFrORxOZOADM3VGNs_G8jwgonqcWD91LWNsvnVAVWB-He9trpp2jsZ6q1CZRFJdIQeSlsosGJazGtYvCTexYEVWynbEsJ7tU8lgRRgdLEiGl5-RQsuUQGoQEu2V6plViKw-t8yqSpQvoOU4qb2sFJFCqQ7VVU6Dc1FyTrJUx7bzQ9Zw1iAEkkV8-ApQGpGpJ4CtyslqP9jlsIsTWv459d_wC5go72Dt-M3XXnTVZ541u-EvquRqsNutpszHMnyEvMCyHGShinv34_KVFTr_-8ON8uXiH5XmqkWXUw_hkFmS7xSKmur_nm115RTfKZ8WmWERxp6KJ3aYHgUR6jV4G6Tg332FpdjjY9NkU9MV2rP3bbkYV3iNQ7jUT33Ks8lovZftx0xzDi2AXV1d08sBMHmejufLd2mW45Pyw1kaklLf8oAprvpQP6SqCzSZ0LA9XyhjbTLovD1V73UXMBRnlG69MnmTJqNwOWgcxCMpeZ0E4roWd8JCUcb58keraX5-21KbB9r6cP-Utz1jLz0QW46dWM2GCLh4GbMYPTxgE_XFQSqNmUKptpl5rNsYtyB-9eB_LO54Xk-E_xntAaGGZsfkIEtmHeYYyipgBrHpJud2LKSNLxIADyN1OL_ZLe2czOnYVBK6LNHpraY_q-zlaZXV-9Sf9UvO53tjJJW8Wu-38wHNVbF8UUTxRTeLEyaqbe2rGl4iRLpQUAERmcQIk7GC_lTdyyr1oyV3YUFfgvKMkDqk4513luhr6i368tJVsTopxSPaePVX7ectmqlkUS5MVO0nrz4WrDfb1xXWC54Q5_vUvliTm9w"
+      },
+      {
+        "title": "Noctua NH-D15 chromax.black CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcS-ZI1ulSh2SwZIG7CYZ4pHe3kJ-3xFr1hq6GbVi8WGpeHdiZO5R8NIeuvfDdOeL9EC0P9gPCoGKBqSDqHj9r4fxLpw2G38t8FCuxijh50",
+        "price": "$110.59",
+        "extracted_price": 110.59,
+        "reviews": 845,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=QaIfLHicdZS7zqNGFICjrVOkyCtsZf3SDMM1nTHGGHMxlwGbxsLM2GCuBnwB5Wn-za60KTeR0uY1dos8S_iTMsoUZ4pzzvdppHPmr-9-eKXZH8YyovE9PBpS6D2O-bZPXpTb3PnctDW5JX1GfhORBKHIQoHnJAYxEi-gz0ncx0V9zsjvEEDIQUEUOYaHImQlToRfUhqTIquofTrRVqmTicILgONZxEwoUZI4DkDh16yMz_Tf9CQQGJblWEkAIuInEPOhJd1Xdrs4QDAxp3p2MiAoMIwAhJ-3rq0c_if58Xqj7fDVKOKedv0subUtrfrZmVa0jfusrmaEdnlfN7PtYpbUdUHb6Sqbunora2lB446SGQMY7i3ws4o-Pp6b5J_n_lf3oczIF07gWZ7hecQgwCABSsKH5t6_pufXc_F6617T4pVWn-q4uZ-Sb-9-XNYPZdE9Fg5umkBxgRc-sbkkg1lEcRJYuluohpP3qrvsF6Hq3vYjqZ0SDFgzn06ohvGO1DaGrj-6ajSmi31lZfuCnCzVbRycPALkrjwsKRZT1Fauascq4kn4XEf5vo-KYnNEch5jk7X9oLSgGyWKyx1RpPkrTnHCBMYh2YRVELpLCztFMsRqcTG1JnfC1DYBucRMoNKyaMnKArHmDpYHuGC3RpZi1RbjKr5mjk7lwDCXdpaS6nuoa0FuLSKtYfxVcHcL2fCX-Jlg9ZIA2DlMAX2o6gk2n0eAe6y5MCmDIK7kC8HSBueBZuLU9lUVxAs44IoAG6fX_ei2xzKHSWF5WDkPcUmy_S7I3BACUhDW8FPkFpJtXfS7xzR3UpkoQoFLg2hzLGERVMUGh8_-CAolGoM6WEWly3AagSlwQcTHOFV9prfDixyEF8uwV8Td71R9P5qeOuptWAYpWcDQ94liVipIoFxFq2ZFgHpfZbrsatZghxEOFKtyUKq5-DEGFx0YmAvMKgJOyKnWuH4mo-7-8uza01cwV7nes3nirxRE3GaV5ud1mu-0ZRw0Wx3EyeOnad9YjkcslJDAf5omOM_ot3ffz5eL90iZEz1Yxh08np08ME0kIWrstkJtFzfmToU03-SL-NiumIEzyUEMYqNiXnr5NHfeI3l2OHh0Whj64vnu9o1mldEjBsVWd9A9QytB7-R0-9zUp-gqevkNS362d5LxYtU3oV1jlk8uo7u2poG5Z4eVuBYK5UC0GNabyHdDVKrPo8eSbXEom5sds1fGKt68SjDJkqd6P-gtRGBfdAYHoudatMVRVp_z5YtcVbv12aQe3ZuP5Xw6b33WWpkaOYSmuErFAWLU98g5jqHYi8Z4UAurYhmib4ZOrzfWfZ-NnfR4Fg80zwdrNz4f-4DmrnN0xn2i7GCWMill2B5onazeH_mQBkuGBQeQ4dbIt0vP9lgDYZUBtwWJJZYVQmps54yWVtltNxjXSsiM2kuuWb2wzflB4Mujd1Ul6Ux1mZcGt6ofxDleY1a-0iAHIHbyMwiiFnamslEI_6InD3FDsciHJ1nqiTQXsHrT-u5qnK5NqTiDah2SbegN5XbecOnKyfOlw0mtrHeXHOu9d3vB_n76fU5__g3is_LA"
+      },
+      {
+        "title": "Noctua NH-L9i Low Profile 37mm CPU Heatsink and Fan, LGA1200, LGA1151",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRKbz43eEDljby1soxWKXWzMNJy_8ffxuXfJHJ5nVCy89q_wi3vZGhbcbiVF__fg-okqIAYxXGrRimjy3-hc3MlHEsI2-Pl4blGNRyFWeRFv5PFYTc6qG_-dQ",
+        "price": "$44.95",
+        "extracted_price": 44.95,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Q-nS3XicNVPNzqM2FG277qIv0VX0SWDz213-SEKAxPwnmwiwEwgOEDAJ8DTVN52RpstppW77GjOLPktJpXpxrSufe8-xdM4_3_30TrK_jOWRRI8gNtTAecb5niVvi3aKPld1iduEZfgPBao8rwi8LIkqgECVZPg5iVhEy0uG_-QFVRIEXhGhrCoSJ8sA8F9SEmGaFWR3PpN6USYvnCSpvCDIgOd4KPISFKD8e3aLLuT_dwECTlKlkUp-oQRR_lDj5teP95bU_VeDRow0bJK0dU0KNrmQgtQRy8pigkmTs7Ka7OeTpCwpqcfrVpXFC1YTSqKG4AnggPgq0qQgz4-X6j9OoCiyOMpSeQWMwhWoCB9uGf4iypIgAUUd9XISHDvwoXqw9_TyfqHvbfOe0ndSfCqj6nFOvn1_XZbP-bx5zpBXVf7C5lxNm0WuVQcr64F8K0M-NVHhg90i4XaBRoOrdfWuSLAhGrw1TfH6aMXg0lu85scc7_uuf3dhDsww6RLNH2zARE8zGQqqPlkiMfb1pb2ujISm1KWHIQLHygp96rv0cQAYmoEOEV-Vzo0FWKPI5ZiPQ1rgFc8hzuZNzZ5H7rE7uDqLxl0Jr0rWmtaOltpBgdNDzhgOmsGEGzHmVMHTUGcE_DYOS-YMloT9lB1hyUJAj4HmCZ7X9aaXMn_Vdb5PkQVo7mt2u0yTPuIreggR83Nu_K3e4bWFjsC-2wWexV2ZIc8ekiu9efmFP4aoN5d-7YZYcGAy2Mvubq7U7U6jI7eWIfRb19Tnr9xUE5mzk7C7WkBsV6s0v2zSPFwvI7_a61yUPH_hZUUQR5fxKpSlT6Mv8ox8--HH6XL-M1xMse4vo4aPLyj3TROqkBjhXi53tAUPIqf5Np9Hcb0CvWjik-JHRgHe2Ow8RT_D2eR0cshoQ_LmuPb-tc26HZ8RR_c6go8MrmS9maX7bluej3fFyVtPdbMDSoarVbZyvfEEKbkO9saKNPrITitlI9PFCa8jvtweXTuAN62LHQHv6elWtbtIuAOLvngX_kiWdNrjpNc85A60MUTu2G2UnTLMtG66fJsVRbi5mMQhB_O5nI7nNWdtFuOgCOFYV6nS8x5kDKJ4CBSmGMNJo1YhAKxv-0Yvt9bjkA2N-uzoE07z3gqH7nnwSW6jGA2HZBHyWQpSAgTGrZuZ9njmfeovgcCduMyrjXy_dHaOYEBPA1w7x9ErRAEx9lOwTousDXvjXsiZUTrJPSvnO3N6kqVb7Nw1Vb0QfSapvV2UT4zieyTM7mT0DReh_ML5x5pvzMV2gaU3PXkqW-IpUnCeqQyrU9nT2jVr7sb5Xt0WqNesU7IPnP62n1ZiukJ5PsZGrWd6c809nTntm-cexkyf__4Xdqmwaw"
+      },
+      {
+        "title": "Noctua NH-U9S CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRIJ03tsOdO1JKU165dGHkqPPlUfGmk3NQAcYjkktyrMFc6rfzZHFTQH1CEq0aQVnDGdS91tWJqv7wd8w6x1d4tJuFsE8-IRkGJbObEH7njjtZuMtXMEGLiyQ",
+        "price": "$92.95",
+        "extracted_price": 92.95,
+        "reviews": 10,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=O0xMd3icbVTLrts2EG277qI_kZVxAVLUszvLellXki3qZXFjyBJt6eppSbZlo19z0wRIl0mBbvsbyaLf0WV1gS5DgIcgzsycgwGH__zwyyst_rJUQpNrdLCkyLsdyu2YPimXpfup69vsko5F9kVEEoQiCwWekxjESLyAPqXJmFTtaWYFBKAoCJCH8xYBx0L-c06TrCoaujkeaa-0aZH9CUXEAhZAwHBQAHO8xKI_ijo50f95XuQkTkKcKPIs4GchyL7vs-Ers13tWZ6RWMhIaFaHkAWigH7b4o2y_z734Xyh_f2rVSUjHcZFeul72oyLE21on4xF2ywyOpRj2y22q0XathXt56Pu2uYtrKcVTQaaLZjZ6xvwi4bePpy62eaX76i9r4vsMyfwMyVKLCsAHs035n13HV_z0-uper0Mr3n1SpuPbdJdj-m3H_9Vr-lq1acrN-i6UMHAKzmYguloBafRrzklMciEyxvc7BzLq2OUNCT2atx7NWf4IAyCFXgkYcBiDxp-OTW7h4ZCLW9SKHehv55sJbcDtaqcnT0ld7jeBKMV6vDq-8TDoAWZL2t2JQ8bg7xkhnbLNMnHarX1Aw0mahckAEP8go-OmsVpOUaOQXTPcO-bKD8SAz88xSmCyoxSXQo36lTFwKwIIFcP4shlyAoz06xlko0hs1h3YlKRM95phVeHu0TPzYzpzjiAcajbyNrJefAg2EWkSgPpGNZZ5anqFKPc8GEwYaRByz-NaSQNdoU9XBH3wIwo0rM-DCQlDqvZA9ZCTSI2k3IEzKhClAbpw7lDm0TaNmS61QFWToZihjxUkCKzCHyM01KdMBBv2NBM-kIYaxd6ieJU5GV9w1XgaQ-zj-owz1Yw8v1MsRsNzD1uiN7pGdCuemHK2HDmvpBg7ottB1zp1DlKHmZ8iIgTl1NMlXxNavLs-ET-fRr641ew1LjR2_CZrysow52el6d1Xu4MNQm7rQmS9PYrFESW4xELJSTwH-dHWhb0208_L9XVO6QsMzNUkwEeTm4Z2jaSELV2W6HdVBfmSoW8fC5XyaHXmTtnZ3sxTKyGeRrl49J9h-TFfu_ReSbok-fj7Vs1pya3BFRb00XXAumCOcj5dnpuj-QseuUlkPwidtPHi9NehH4dsHz68sBrJ9Gqa7HXxbVQKfvMSGD7THwcoVqbDh6bbat93V02CXtmnOpNVwlnsXTSrnuzhwjE1WBxgExrcSM-ZG1aqk9y0-zWJ5t6NLZv6nJeb3nOWpkTOYRm1HPxDgM0jsg9PCJxFK3HXquchmUy8_k-mO2zc42LxyDdpuqGluXd2T2mWxzSErsH9xGnyg4WOZNThh2BMcja9Vbe81BlWLAHRdBb5Vb1Nh5roUBjwGWVJW8jHVFru2SMvCkuu7t1boTCar30XLSrjb3cC3x98M6aJJ2oKfPSHTftLXMP54SVzzQsAUjc8gRC0sPBVp6VjH8y05v4TAORj46yNGbSUgi0izEOZ-t47mrFvWvOPt1G3r3eLjsu192yVF1O6mVzeCkDc_QuT4Efzz_M8e__AOlf5_M"
+      },
+      {
+        "title": "Noctua NH-D15S chromax Black CPU Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSaknhPWHFRHisxOnMy0g3hn_xvLRAk7GQFsWlNjASI8_AY0lgeKRZpR991A_zNseP7tY3xP6rocbwqXTQZ6UKjYIJrWPdI3KZwRhQwuR6wf_1rG_dP6hQV",
+        "price": "$109.99",
+        "extracted_price": 109.99,
+        "reviews": 327,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zRNehXicbZTLrqNGEIajWWeRRV5hVtaR6G7AkJ2xARtj7jSGjYXptrkZMGBjozzNmcxIk-VkpGzzGjOLPEs4WU8vqkuqqu-vUl_-_emXV5r9rcsRje_BURcDdzgWVp-8rG4L-3PT1uSW9Bn5S0AiAAIL5jwnQgRFfo4-J3Efl_U5I18B4lkoiBzDQg5AEUABCl9SGpMyq6h5OtF2VSdvFI5jGThRpmQG8mjy_8wu8Zn-H_4KIC8InMABwDIMP-cFUWA-tKT7Bq3lAQBGmNiIg2A-ARAPxd8tx1wdfhz7eL3R9vlNL-Oedv0subUtrfrZmVa0jfusrmaEdkVfNzNrOUvquqTttF2aunpLa2lJ446SGWQg92b4WUWHj-fmbYofqH24ZOQLN-dZHgqciAR-GlNkwYfm3r-m59dz-XrrXtPylVaf6ri5n5Lv736V62G17Ial7TcNXjmMW8nQU5WcBGTtLYFiI801g8Z1VMyaqjY6gRj7WMtsZAy0ALeEaTQbKzrOycbdpzs7SM1YZVmyinhzv4AJ5Hp3r2WOUl7togbHoNkF6sMyGMe2vZL1cQpCf4PcXBpNWYYhTriwcNYRdCw3x4yPk4Hm0SXyRX0PHyZmuDb0FN6oHCvJDSnO7adfYOyqLLRRMxpFA5Jgg6gLLBeI66joZacsO9-Te08uXXetGUfIYbtwzABHsqdoAJepFaLkcVRT2cSkjrCU75_Acab-aE4ao3DCiClt3w9HNydLGpRBsFYuGHLriFEaFxi8sZc5R2kQlaPOzhfjETdD5Gl3KisYeyFjjJHmVMUYrMuWjFIUMo9c97UxRk7gXwSOrhMYV_XzWBSMfVG2ScHVuwCsdwGX25WBdnuiR2VpunI_TD14dE9K2yNgD0NXGbU2uOCULEHgeWS1qxQmAVIVqY1KGOWuZprkrI2nGUQeveD8OBLk42hMxgQZXiqF-1QxSklyy9LaAez88eja0zdmoUxHZ_LEU1eIOI2aFudNWuzXcowbS2PiZPgNzAWW4xELRDTnP00XuMjo93c_L-Tle7RaEA3LcQeOZ7vAux0SEdX31rw2yxu803labItlfGxV-OR25CDgWK_gSy-dFvZ7JM0OB5dO74W-uJ5jvdGMSzTETGlpNrpnSJ1rnZRaj219iq6CW9x80ctCOxlzo77N243P8kk-OhsjVsp7dlCFzbxcHcg6BvU28pwAXZTH0WWJVR4uzc2M2Ss0yjfdFZ7EkodyP2gtQExYdjrHRI-NYAqjpDwW8otUVfvNeUddGu4GeTGttzpjs5oKOYQmq6bCE_io75F9HAOhF_TxoJRGxUKibZ-dVm-Ne5iNnTg8ygEtiqexHx9DiGnh2Ed7DJPVHmQpTClke2bdScp9KJ4pliHLHJjMb_XCkl3TZXXkK5C5LUkssuw8oLq1gOu0ym77p36t5pleu8k1q5fmbnGY85eje1VE8Uw1iRefTlUPxD5eY1a6UlwwTGwXZwZHLeh2q-2K8C9aMghb6gt8cJLEnoiLua_c1n131U_X5rKyn4pxSKzAfV6sRcOlql0Uss2JraR1eeFrvXt78b1w-n1O__wHtc7xUA"
+      }
+    ]
+  }
+}

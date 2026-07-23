@@ -1,0 +1,1281 @@
+{
+  "search_metadata": {
+    "id": "6a5e462a5abea52b9f0fef33",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fAhH99RZLE47Z9T6d30iqQ/6a5e462a5abea52b9f0fef33.json",
+    "created_at": "2026-07-20 16:00:42 UTC",
+    "processed_at": "2026-07-20 16:00:42 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=HEZeasuoBtahptQP7eeFeQ&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A4084916337978460302%2Ccatalogid%3A3801191157424235316%2Cgpcid%3A17713626550279445159%2CheadlineOfferDocid%3A7386765004794324721%2Crds%3APC_17713626550279445159%7CPROD_PC_17713626550279445159%2CimageDocid%3A11533534133784552918%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+psu+component+released+2025+2026+new%2Cmid%3A576462765000125059%2Cpvt%3Ahg%2Coapvfc%3AEosDCswCQUppVDR0S0lCdnoza3lYQ0RwdTF2VlUyREc2cDltRHhzQkdnZUFFMDJqT2ZFY3B0Nzk4V2RfbGVJWmNJOThKbHRGdzM2UTJyblpvRzBQVXNKM0NFRDA4LXdFUHl4VFdKNXFXRnljZXo5b0dOekdwLTdzNm5Xd25VRVR1VThrelRqUDZrYk4wdGc4QTNycWRnNF9VQXFaVEtCWkt0NThoUVhzRFNkYTh1RGQ5T3FMUzRUZmZNVVVSd2F1NTRhQzV1a0EwRXJhbTV4SFd1Rmg2TmJOWDYtS2VHTDRGTDdMM1pJTXhhUnhfX2Z4ZkRwcUV3REVRU1JJQlBMUnVFeUR2QVcxYlpSRkcyMmRZVXhQaXg4amd6b2d1Q0FMTDctbjVfUU5SQjJrWUtPU1JUSXd0SHVrN0FwSGJIYl9XMkFYNy1aV0phU3c4VFpHd2sSFkhFWmVhc3VvQnRhaHB0UVA3ZWVGZVEaIkFEc3I5ZlRHSy1aMUg4S2lYWmNRTjhWYTd3U0Z0RjJhVHc%2Cxsrf%3AAF5tSO5Wvrw14VQc_OyXghvZyqB3o6r_2w%3A1784563228399%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/fAhH99RZLE47Z9T6d30iqQ/6a5e462a5abea52b9f0fef33.html",
+    "prettify_html_file": "https://serpapi.com/searches/fAhH99RZLE47Z9T6d30iqQ/6a5e462a5abea52b9f0fef33.prettify",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "mYUBW3icdVTLsuI2EE3yBanKD8yeokqWZQOZuguDbcCAwbIljDeUsQQCP7ENvqbma-48qibLSSrr_EKWM4t8S3xnnWihRZ8-Ot19qvXPDz-_8POfMyPgYXXLx3UoitrZDDg3ufO5KHN2i-oz-x2BIRpJqiwPRoMhUoEM4OcorMMkP3WoPASSNJIkZYAggrIiS-oXwUOWnDO-Ph55qedRlzaQh-pAVQBAgxGSIRpA6bdzGp74d_iPji93XCR1KkOkKHAkDd-XrPqKNpO9NBhIsgpVRQGwYyNFUkbvNnit7_8H_Hi98bL9Ok_Cmld1L7qVJc_q3olnvAzrc571GK_iOi96m0mvqG69KE-LPHvNKXnSTYOzHgRQeb3UXsabj6fie5X_ofU-PbMvykBFKvzeH5CgArpwca9fxOnD7Zbwv15OycutehHJC88-5WFxP0bffvrFyCt9UjUThxQF1TFwQTJhWf4I5WTnANwwz4Q0IS02IhjpSY1n4uHELAuIaa506-rBwNzJY2A_YkQhPh6m1NqmtrX2xOIww1P2WEHiWe0hKe74MXaoby9WwDaxrqGlz0wySxA12cL2TR9nySXwc-UA2JrHrFl67GGnis-gQjHFEvVENxl8JXpQ7mLUsGmEHM9uoy3ObHNEHd8MqVFPtnENbE_khIoHNu145wkJTx3Fk80VeWASpIFNKXUZNCXbw8J5UCkERoN9Sxw8ilyTSTg9QS-11lt9V7uQzjwdTz2drVZSYXm-ECQTRx8GKIhxExEqY4NiIlmWk4xXJKMmJxg6NHreJYWL46hdpTigvnBC_4TClKkHyCQHmCtPj-rDhR4JUVznYpVbUm-6d4jrM-DOaGkDs3Gn1nyXjPxVbO7sVgopKASRo25uxYzByjVjYW5TKiKZ3p0Mi3A2BoRqcrCl04Aa4Tw2jUieK0GCZ27HX5ETcmGy63zC3kVsdx6TCQgAvliCzqIPz1V5_Ao0U6ndtbK9l42EqBPt161_EvegvY7lXC33sPlVel0TVYZwKI9Gn6I8j8_8249_a8bkSWNWp3xfnpbX2w6Ncq2vp-v7tFWiuzYenkOxAIquahlbXqZKgDLc3x_NW3K0tbdvdPpUPXw-tfliCCpRLRUQPM-H6-HjuXByo28m5qwYNjbN9kajvZ63b_Z7l3crxvuuhzdPmp0GTSj3h7NUGz_bCMd2sl4s0vsaTtFB25w0c2wtx9y2mobMGC_5uCX9De2frUdaJdXz5FxfR01-17dwsmZKWJ1d1GQKybJFuvRMcnr7xp7rT91_8bRbW1ZzqwJJjQ6Y3xt7sJ2GbecxhCQy7bO8y_rJliId0IXOxcVM59TpG-6BxEoXka8TwfobEq6a-UbdtHZ2VUSuncVgNi7zPXvwus14Z_e4dZCmS_DKBoNi7i72Q-1yHPP2cJhrQMxrjYHn83Xi1FEbZOTuwv66NHaSMcEXturfLCj8kJ4ACkN2b9aIObvObGXZ2KBON1V8n56vdZLdEmvbdXp1j_G1CjdGcCG68S9UXOBw"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRQrNZU9hL73VW8vzty7QWpmP56A3p_FeABMUlUrxvv3ZbazLpNO_ha6krGLsJ_c2QLuuG2JkQaiXdRHo3EjleMsN7CgG5_gw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTSuVMZ-uSb-eeWiTTVGXVGppmYzybKZeFR46usj3BE-TFXqLem32zW3s8HTT9sRddvp4p23KsheupfyFjA98wz3PSDvS1pJnKnFmPl0jc6E60fYZ9Yc24QxQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRN8XWNniUVeR-z9YogTkAmWakqSgkIaESX8v5dLYKTp_zZ66WsNwudX_GET4JOfxBwZ3rsRtRrHatb5bWTNCI1Ttcf5Ymnb7hDq2C1g2Lpwn2KsmNcWzKx1A",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR03RByiutu4KUtlULBXbMHimLd3CdtXae2Uql1TWkmTjQNJTZXclTxql0sZ6UKGYKV9QIs2hALbnkv4IIKx9CSlCQ-5KpSfAPKwpK_YCJ36lq8ai-OluE",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTiFTrluDeC6Csh-RSuMTGNZGZZLQkq0osSLnQuMvvCN6BLwgdlGQHHfpastux6WuVoipdLXjm9UfDAES3l3ybiHGJJ1eyoCW793f8WCKtevAsd3FXUQQylxw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS-7CA1Cqb46eAIsJEa9odT_fgp69YOCKJ5iZUgAJAEXwrXsEUCRMlhFp1j9eBSnc77m26FCH6UmQ3Pv4b7OD3eCaqd58eeCX6Hzgw6OOQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTqcZzcJbz-bUPO8uE8HPHxGzEOoAxNdbyAALTb_SLWnv-4rkvwoOtStHLzbDU4Uai4BUWe7wtBqBRiRPGrbOE8rvdBwpz4mUqyUjDowks",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRK7bpOWWCezyRVh1n8twwgfvMqwQFqMyhjbUAIEZMmDwHs5_Ych_T-k5FsWYpEMtLOPs6gWP8gR9buIu1BHGz0LbLGqQamoIGVcZQkpEI",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTZcBCfS8Ge3YR7eP1OsE8QV-ZSx9LBpmHW-yfwrIEQ8jAQjuQTRrpOYN88uHq7FHZAmuSYvbvYGB-ASjdqN6xc-gPuhkx7ipb9d3g7FIw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRw1bev7iwbmFE8rQqqZ2MLMvJnUFw3wqistqVgyq2o-cAmryjga0OB3HlbdKOk9zJJAuztUGVPlN0lnc3S-qvNyPI9gQ2dUxbgIsf293TTDez-zoI2pfBGpg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRbJUk0qkEnehrPNaXxW6IxKvWsM9xtZ_r3MdhWk1hqxEthCIgSoVCBuuFFyM9DNpNqTAlsmeyFhaiy1ZH6EOi_oW1k9xomsIgq-yHIEKPEzfdwK-90e4e3XmI",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRt5SRNAr7ZbbP3sU1gtArhMpkJeBg91n4VKAoPhfhbGMNgexyPROFVhcBrVeEgdQO-oUqMQNpPO_UrqOAZqZpnMu6nSxcQd9AlOWCeEE_fFnbnX4nBJyfkAQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRbMDhKI-iuQoQQhJzxBKvRDoB_uSxd4tMKrHfJaJdyBtQA-j_bzE458vC4sQXjnsZFrcwX0Vf8X76vpXURiXCp3nY8flSn6HnRZuQfk83WaDglQvSxZwZJlQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcResp0aWcl0IOcTWoQUJlCh7g--mEY7varjJo4HBcNM7jjExE9hnm_u0Gl1_bwvvl5MQnVfGBjVsBjXWgd41yHa8IqByMzqMnMy7Q18UHyUXZebBhG7lyKi"
+    ],
+    "title": "MSI MAG A850GL 850W Modular Power Supply",
+    "brand": "MSI",
+    "reviews": 1031,
+    "rating": 4.7,
+    "price_range": "$108-$120",
+    "stores": [
+      {
+        "name": "Newegg Business",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.neweggbusiness.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-17-701-021&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-power+supplies-_-msi-_-9B17701021&source=region&negg_topt=0&srsltid=AfmBOooMoROqgMnXXd7M-0XQXl5OMCQ4GansPqan_sdQtLYeAwtzLH_jDI8",
+        "title": "MSI MAG A850GL PCIE5, Fully Modular Compact Gaming 850W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 Ready, Native Dual-color 12V-2x6 cable, 10 Year War",
+        "rating": 4.6,
+        "reviews": 200,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "15-day returns"
+        ],
+        "price": "$105.99",
+        "extracted_price": 105.99,
+        "shipping": "Free",
+        "total": "$105.99",
+        "extracted_total": 105.99
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/msi-mag-a850gl-pcie5-850w-full-modular-atx-3-1-ready-80-plus-gold-power-supply-black/J3P7TXLPW5/sku/6562432?utm_source=feed",
+        "title": "MSI - MAG A850GL PCIE5 850W Full Modular ATX 3.1 Ready 80 Plus Gold Power Supply - Black",
+        "rating": 4.6,
+        "reviews": 1927,
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed",
+          "15-day returns"
+        ],
+        "discount": "18% off",
+        "price": "$105.99",
+        "extracted_price": 105.99,
+        "original_price": "$129.99",
+        "extracted_original_price": 129.99,
+        "shipping": "Free",
+        "total": "$105.99",
+        "extracted_total": 105.99
+      },
+      {
+        "name": "Walmart",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.walmart.com/ip/MSI-MAG-A850GL-PCIE5-850W-Power-Supply-Internal-5-V-DC-22-A-3-3-12-25-40-12-0-3-2-5-A-Output-850-W-4-12V-Rails-1-Fan-s-NVIDI/1270814111?wmlspartner=wlpa&selectedSellerId=0",
+        "title": "Msi - MAG A850gl Pcie 5.0, 80 Gold Fully Modular Gaming Psu, 12vhpwr Cable, ATX 3.0 Compatible, 850w Power Supply",
+        "rating": 4.3,
+        "reviews": 3711,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Free 90-day returns"
+        ],
+        "discount": "34% off",
+        "price": "$129.99",
+        "extracted_price": 129.99,
+        "original_price": "$199.00",
+        "extracted_original_price": 199.0,
+        "shipping": "Free",
+        "total": "$129.99",
+        "extracted_total": 129.99
+      }
+    ],
+    "stores_next_page_token": "mSmEj3ica15aklmSk3pTwzfYU8HX0V3B0cLUwN1HAUiGK_jmp5TmJBYpBOSXpxYpBJcWFORULinOL8pkXpybl88FAHUkFPg",
+    "about_the_product": {
+      "title": "MAG A850GL PCIE5 | Power Supply | Overflow With Power",
+      "link": "https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5",
+      "displayed_link": "msi.com",
+      "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.msi.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "The MAG A850GL PCIE 5 power supply overflows with potency, a hallmark of the MAG series that aligns with gamers' pursuit of excellence. Infused with military-inspired elements, these gaming products have evolved into symbols of resilience. Efficiency matters, impacting performance and power use. The 80 PLUS Gold certification pledges lower energy consumption and higher efficiency. Compact and efficient, the A850GL PCIE 5 optimizes space and cable organization. Unneeded connectors are eliminated, reducing clutter and simplifying builds. Unused cables find refuge in the included cable pack. Cable organization, a common woe, finds a solution. Flat cables streamline management, enhancing airflow and orderliness. The power supply's fan employs fluid dynamic bearing, balancing cooling and noise. DC to DC and Full Bridge merge for higher efficiency and stable voltage, adapting swiftly to different needs. Sufficient power reigns, as the single rail supply caters to high-performance GPUs and CPUs with 5 CPU & PCI-E slots. Safety is paramount. Protective mechanisms ensure stability, empowering worry-free operation. In essence, the A850GL PCIE 5 L epitomizes power, space-efficiency, cable harmony, and safety. A pinnacle of technology in the MAG series, empowering triumphant gaming while embodying its spirit.",
+      "features": [
+        {
+          "title": "80 PLUS Rating",
+          "value": "80 Plus Gold"
+        },
+        {
+          "title": "Certifications",
+          "value": "80 Plus Gold"
+        },
+        {
+          "title": "Protection Features",
+          "value": "Over Current, Overheating, Over power, Over voltage, Short circuit"
+        },
+        {
+          "title": "Connectors",
+          "value": "20+4 pin ATX"
+        },
+        {
+          "title": "Modular",
+          "value": "Yes"
+        },
+        {
+          "title": "Cables",
+          "value": "Fully modular"
+        },
+        {
+          "title": "Form Factor",
+          "value": "ATX"
+        },
+        {
+          "title": "Supported Voltages",
+          "value": "-12V"
+        },
+        {
+          "title": "Supported Standards",
+          "value": "ATX 3.0"
+        },
+        {
+          "title": "Efficiency",
+          "value": "90%"
+        },
+        {
+          "title": "Power Factor Correction",
+          "value": "Active"
+        },
+        {
+          "title": "Continuous Power",
+          "value": "850W"
+        },
+        {
+          "title": "Peak Power",
+          "value": "3X GPU Power Excursion (up to 1800 watts)"
+        },
+        {
+          "title": "Load Regulation",
+          "value": "Stable output voltage, Quick voltage adjustment for different usage scenarios"
+        },
+        {
+          "title": "Output Wattage",
+          "value": "850 W"
+        },
+        {
+          "title": "Rail Configuration",
+          "value": "Single 12V rail"
+        },
+        {
+          "title": "Maximum Current",
+          "value": "0.3 A (-12V)"
+        },
+        {
+          "title": "Input Voltage",
+          "value": "100 - 240 V"
+        },
+        {
+          "title": "Input Current",
+          "value": "8 A (@110v)"
+        },
+        {
+          "title": "Input Frequency",
+          "value": "47 - 63 Hz"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Active"
+        },
+        {
+          "title": "Fan Size",
+          "value": "120 mm"
+        },
+        {
+          "title": "Fan Type",
+          "value": "Fluid Dynamic Bearing"
+        },
+        {
+          "title": "Lifetime",
+          "value": "10 Year"
+        },
+        {
+          "title": "Dimensions",
+          "value": "150 mm (width)"
+        },
+        {
+          "title": "Cable Length",
+          "value": "60 cm (motherboard power cable)"
+        },
+        {
+          "title": "Weight",
+          "value": "6.39 lb"
+        },
+        {
+          "title": "Color",
+          "value": "White, Black"
+        },
+        {
+          "title": "Material",
+          "value": "Premium copper alloy (connectors)"
+        },
+        {
+          "title": "Lighting",
+          "value": "No"
+        },
+        {
+          "title": "Operating Temperature",
+          "value": "Up to 105C (capacitor rating)"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "NVIDIA SLI supported"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Gaming PCs"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Gamers"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Modularity",
+        "items": [
+          {
+            "snippet": "The cables are modular and flat (except the 12VHPWR), so cable routing is going to be easy.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.eteknix.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.eteknix.com/msi-mag-a850gl-80-plus-gold-power-supply-review/12/",
+            "source": "eTeknix",
+            "title": "MSI MAG A850GL 80 Plus Gold Power Supply Review"
+          },
+          {
+            "snippet": "is also easy to slot into a PC build thanks to its fully modular design, which removes the clutter of unnecessary cables for",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-power-supplies-for-rtx-4070-super/",
+            "source": "GeekaWhat",
+            "title": "Best Power Supplies to Buy for the RTX 4070 SUPER"
+          },
+          {
+            "cons": [
+              "Somewhat rigid cables"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          },
+          {
+            "snippet": "but also a native 16 pin PCIe 5 connector which means we can use one single 16 pin power cable.",
+            "timestamp": "From 0:13",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQeJARGDaa_T9mql-_UWnt-RBR02xAA-akBJXyHGCOKmVogrbB3b15aDANkSNQG6ZoAvZjuE9YlGd7bxNtHym8fgD-dGoETVRjzelPhvg",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tiktok.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tiktok.com/@tonytechbytes/video/7333750800587427114",
+            "user": "tonytechbytes",
+            "date": "Feb 2024",
+            "source": "TikTok"
+          },
+          {
+            "snippet": "the full modular design allows for clean cable.",
+            "timestamp": "From 0:56",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR8UdkROqhXlFGufhG6ph2Fy1lphn0_3gQ_r1Oeoah80rmc1EiYIpD8Z-S0wHyAoLBUonTqLbAccZB_h3s4k7XwJdRH0XpB69NVb93JoRA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=l55C52kcVVU&t=56",
+            "user": "PcShopHub",
+            "date": "Nov 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Compact case users where adapter cables create cable management challenges",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          }
+        ]
+      },
+      {
+        "title": "Reliability (Fan, Capacitors)",
+        "items": [
+          {
+            "snippet": "(simulating dusty case conditions), the PSU continued operating at elevated temperatures that would have triggered OTP on",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          },
+          {
+            "cons": [
+              "Not suitable for users who want silent operating products"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/msi-mag-a850gls-pcie5-atx-v3-1-psu-review/",
+            "date": "1y",
+            "source": "Hardware Busters",
+            "title": "MSI MAG A850GLS PCIE5 ATX v3.1 PSU Review"
+          },
+          {
+            "key_point": "Reliable",
+            "snippet": "My pc is running well and never has power outage.\nThe only issue so far , the fan started making a noise it probably needs clean up or lubricante, I didnt",
+            "user": "Kevin",
+            "date": "9mo",
+            "source": "walmart.com"
+          },
+          {
+            "key_point": "Stays cool",
+            "snippet": "Great power supply does it's job great without overheating. Good for it's price too since its a bit cheaper for its price range. Fully modular as well which I",
+            "user": "James",
+            "date": "9mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Lacks durability",
+            "snippet": "Power supply fan bearings went bad after 60 days. Makes a grinding noise whenever it runs. MSI support makes it difficult to try and get support since this",
+            "user": "BilboBaggins",
+            "date": "1y",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Sturdy",
+            "snippet": "stays cool, and delivers stable voltage. High-quality components and solid build. Fits perfectly, system runs smoothly without issues. Highly recommend.",
+            "user": "JasonM",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Wattage",
+        "items": [
+          {
+            "snippet": "At 850W it's plenty powerful, and in my testing, it can exceed that significantly for short bursts, and its efficiency",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.eteknix.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.eteknix.com/msi-mag-a850gl-80-plus-gold-power-supply-review/12/",
+            "source": "eTeknix",
+            "title": "MSI MAG A850GL 80 Plus Gold Power Supply Review"
+          },
+          {
+            "snippet": "At 425W DC output, the PSU drew 502W from the wall, wasting 77W as heat.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          },
+          {
+            "pros": [
+              "Plenty of power at an affordable price"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psu-gaming-pc/",
+            "date": "1mo",
+            "source": "GameRant",
+            "title": "The Best PSUs For Your Gaming PC in 2024"
+          },
+          {
+            "snippet": "this full modular 80 plus gold certified PSU packs 850 watts of power into a compact.",
+            "timestamp": "From 0:23",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR8UdkROqhXlFGufhG6ph2Fy1lphn0_3gQ_r1Oeoah80rmc1EiYIpD8Z-S0wHyAoLBUonTqLbAccZB_h3s4k7XwJdRH0XpB69NVb93JoRA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=l55C52kcVVU&t=23",
+            "user": "PcShopHub",
+            "date": "Nov 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Powerful",
+            "snippet": "Looks sharp, powerful, and works so far. It comes with everything you need. Plus there's a nice bag for all the cables.\nIf I have any complaints, it is that the",
+            "user": "JeremyJ",
+            "date": "2y",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "MSI's MAG A850GL PCIE5 850W is the best power supply for the RTX 4070 Ti SUPER.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-power-supplies-for-the-rtx-4070-ti-super/",
+            "source": "GeekaWhat",
+            "title": "Best Power Supplies to Buy for the RTX 4070 Ti SUPER"
+          }
+        ]
+      },
+      {
+        "title": "Efficiency (Rating, 80 PLUS)",
+        "items": [
+          {
+            "snippet": "This indicates the PSU dissipates heat adequately, though the Bronze efficiency rating means it generates more waste heat",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          },
+          {
+            "snippet": "the modest pricing, the A850GL PCIE5 offers an 80 Plus Gold efficiency rating, so any excess power draw is fairly minimal",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-power-supplies-for-the-rtx-4070-ti-super/",
+            "source": "GeekaWhat",
+            "title": "Best Power Supplies to Buy for the RTX 4070 Ti SUPER"
+          },
+          {
+            "snippet": "The MSI MAG A850GL 80 Plus Gold Power Supply is available now from Amazon with an MSRP of just £119.99.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.eteknix.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.eteknix.com/msi-mag-a850gl-80-plus-gold-power-supply-review/12/",
+            "source": "eTeknix",
+            "title": "MSI MAG A850GL 80 Plus Gold Power Supply Review"
+          },
+          {
+            "pros": [
+              "Fully modular design and 80 Plus Gold efficiency"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          },
+          {
+            "pros": [
+              "Performance is good across the board",
+              "Performs well"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.nikktech.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.nikktech.com/main/articles/pc-hardware/power-supplies/13992-msi-mag-a850gl-pcie5-power-supply-unit-review?start=7",
+            "date": "2y",
+            "source": "NikkTech",
+            "title": "MSI MAG A850GL PCIE5 Power Supply Unit Review"
+          },
+          {
+            "snippet": "so this is not an ordinary 850 watt power supply from MSI with 80 plus gold efficiency because it features not only ATX 3.0 compatibility.",
+            "timestamp": "From 0:06",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQeJARGDaa_T9mql-_UWnt-RBR02xAA-akBJXyHGCOKmVogrbB3b15aDANkSNQG6ZoAvZjuE9YlGd7bxNtHym8fgD-dGoETVRjzelPhvg",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tiktok.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tiktok.com/@tonytechbytes/video/7333750800587427114",
+            "user": "tonytechbytes",
+            "date": "Feb 2024",
+            "source": "TikTok"
+          },
+          {
+            "key_point": "Easy to install",
+            "snippet": "Modulars are easy to install and use. Everything's working great so far (will update this review if I ever encounter a concern)This has no RGB lighting (for",
+            "date": "1y",
+            "source": "lazada.com.ph"
+          },
+          {
+            "key_point": "Easy to set up",
+            "snippet": "More than plenty of ports and not much difference in price when compared to lower wattage options. Easy to setup and runs very quietly.",
+            "user": "JonathanC",
+            "date": "1y",
+            "source": "bestbuy.com"
+          },
+          {
+            "pros": [
+              "Fully modular design and 80 Plus Gold efficiency"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          }
+        ]
+      },
+      {
+        "title": "Noise",
+        "items": [
+          {
+            "snippet": "I measured 32 dBA at idle, which is audible in quiet environments.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          },
+          {
+            "snippet": "The only major caveat to picking up the A850GL PCIE5, is the lack of any control of power incursions or fan curves.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-power-supplies-for-the-rtx-4070-ti-super/",
+            "source": "GeekaWhat",
+            "title": "Best Power Supplies to Buy for the RTX 4070 Ti SUPER"
+          },
+          {
+            "pros": [
+              "Very quiet",
+              "Power supply operates very quietly"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ldlc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ldlc.com/en/reviews/PB00562324.html",
+            "date": "1mo",
+            "source": "LDLC",
+            "title": "MSI MAG A850GL PCIE5 reviews"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "faulty and had a bad bearing within 2 weeks of purchasing. Second one has been quiet and worked well so far. 5 stars if I did not have to replace it so quickly.",
+            "user": "AaronL",
+            "date": "9mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "cons": [
+              "Average noise is high at both voltage inputs"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/msi-mag-a850gl-pcie5-850w-psu-review/9/",
+            "date": "2y",
+            "source": "Hardware Busters",
+            "title": "MSI MAG A850GL PCIE5 850W PSU Review - Page 9 of 11"
+          }
+        ]
+      },
+      {
+        "title": "Form Factor (ATX, Dimensions)",
+        "subtitle": "ATX, EPS",
+        "items": [
+          {
+            "snippet": "MSI MAG A850GL PCIE5 Power Supply Unit, 850W, 80 Plus Gold, Fully Modular, ATX 3.0, PCIe 5.0 GPU Support, Black Flat Cables",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          },
+          {
+            "snippet": "The build quality is very good on the exterior, with this unit retaining a very compact form factor for this level of power.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.eteknix.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.eteknix.com/msi-mag-a850gl-80-plus-gold-power-supply-review/12/",
+            "source": "eTeknix",
+            "title": "MSI MAG A850GL 80 Plus Gold Power Supply Review"
+          },
+          {
+            "pros": [
+              "ATX 3.0 and PCIe 5.0 compatible",
+              "Fully modular PSU"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psu-gaming-pc/",
+            "date": "1mo",
+            "source": "GameRant",
+            "title": "The Best PSUs For Your Gaming PC in 2024"
+          },
+          {
+            "snippet": "is its compliance with the latest PCIe 5.1 and ATX 3.1 standards ensuring compatibility with nextG GPUs and motherboards.",
+            "timestamp": "From 0:46",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR8UdkROqhXlFGufhG6ph2Fy1lphn0_3gQ_r1Oeoah80rmc1EiYIpD8Z-S0wHyAoLBUonTqLbAccZB_h3s4k7XwJdRH0XpB69NVb93JoRA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=l55C52kcVVU&t=46",
+            "user": "PcShopHub",
+            "date": "Nov 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "the compact size is another plus especially for smaller builds where space is at a premium.",
+            "timestamp": "From 1:12",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR8UdkROqhXlFGufhG6ph2Fy1lphn0_3gQ_r1Oeoah80rmc1EiYIpD8Z-S0wHyAoLBUonTqLbAccZB_h3s4k7XwJdRH0XpB69NVb93JoRA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=l55C52kcVVU&t=72",
+            "user": "PcShopHub",
+            "date": "Nov 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Compact footprint",
+              "PSU's chassis finish looks good"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/msi-mag-a850gl-pcie5-850w-psu-review/2/",
+            "date": "2y",
+            "source": "Hardware Busters",
+            "title": "MSI MAG A850GL PCIE5 850W PSU Review - Page 2 of 11"
+          },
+          {
+            "snippet": "The compact size of the A850GL PCIE5 should further help with cable management saving more space that can be reserved for",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-power-supplies-for-the-rtx-4070-ti-super/",
+            "source": "GeekaWhat",
+            "title": "Best Power Supplies to Buy for the RTX 4070 Ti SUPER"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "items": [
+          {
+            "key_point": "Attractive",
+            "snippet": "Looks sharp, powerful, and works so far. It comes with everything you need. Plus there's a nice bag for all the cables.\nIf I have any complaints, it is that the",
+            "user": "JeremyJ",
+            "date": "2y",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "Very high quality power supply. Good, rigid cables, connectors are made of high-quality materials. It operates quietly under load and handles my build without",
+            "user": "Mvgetsar",
+            "date": "1y",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "supply offers excellent value by coming in at a very competitive price point, while remaining incredibly quiet under load",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/best-power-supplies-for-the-rtx-4070-ti-super/",
+            "source": "GeekaWhat",
+            "title": "Best Power Supplies to Buy for the RTX 4070 Ti SUPER"
+          },
+          {
+            "pros": [
+              "Less noisy than double ball bearings",
+              "Increased lifetime"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/msi-mag-a850gl-pcie5-850w-psu-review/",
+            "date": "2y",
+            "source": "Hardware Busters",
+            "title": "MSI MAG A850GL PCIE5 850W PSU Review"
+          },
+          {
+            "snippet": "In real world use the MAG A850GL delivers consistent stable power whether you're pushing a high-end GPU like an RTX 4080.",
+            "timestamp": "From 1:25",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR8UdkROqhXlFGufhG6ph2Fy1lphn0_3gQ_r1Oeoah80rmc1EiYIpD8Z-S0wHyAoLBUonTqLbAccZB_h3s4k7XwJdRH0XpB69NVb93JoRA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=l55C52kcVVU&t=85",
+            "user": "PcShopHub",
+            "date": "Nov 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Fan bearing quality seems adequate based on my testing, with no rattling or clicking noises observed during the two-week",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/msi-mag-a850gl-pcie5-psu",
+            "source": "Vivid Repairs",
+            "title": "MSI MAG A850GL PCIE5 PSU Review"
+          },
+          {
+            "pros": [
+              "Supports 2X Power Excursion",
+              "Comes with a yellow-tipped 12VHPWR connector"
+            ],
+            "cons": [
+              "Can be noisy at times"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgamerant.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://gamerant.com/best-psus-under-100/",
+            "date": "2y",
+            "source": "GameRant",
+            "title": "Best PSUs Under $100 In 2024"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 28
+      },
+      {
+        "stars": 2,
+        "amount": 9
+      },
+      {
+        "stars": 3,
+        "amount": 20
+      },
+      {
+        "stars": 4,
+        "amount": 83
+      },
+      {
+        "stars": 5,
+        "amount": 891
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTMyP_EyYswSkF0BuDGp2laZvoeRhtR__a4k5nqzHtG2ewUI0VY_yU90x2nv_EZy7JaJ9q5Jp8xXMx057SakMlHxPHAaSHDhA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTZxWwQUqmfs-UBScMaSFWabZHv9ljWPgjaIT35TwDCXqvQrIhYPh7gvKoM5Rx181_d78becXbGA7aQe-mk2IP3K-HAlb9M",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTgc6Mpd66FZpsUKrBUxoEjUebqeAMHohVJ_zRCD8g5ea80Y4TwKwmmR8nK2eopHFPCNWSh7CCiAyKE8MHBcLXhKFEttUJ_yQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSCFttedQEcYVIK8DJB-86A_k_FXwKowKkNkyRyrLUb3YrxhyMDEH-dcnpnTq4zsjsJrC7KsvHUqBsrsL36MMW9m7GBrV-g9A",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRm8pXfgVIOZ_jdLZBGZvXBCF7BmtpxaCUgJdMdP3v_LZx_zZhqVz-u1-ew5LXS0Lc9zcPNWPldqyNXbnBDEuGq_XnTuHtPEg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSaswODvclUX2R117kOxZ1OJ0ivlXmfoHjSsIiRiYUdikB-3NhnsKueKndFP8V5--8B7f1fuaq51rvpnXi1_vNvBpELXXML",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRMXylrlzgmbStPbcZWLkVE0TVXx_nlQaO2i6sVfqHwm8mcJFAnYikVC622nKKOAikfayEJEw-ekCai1Obv_MMaMvrlnzxJ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQYd2GYeH3JdnbUKN2uAW92nEKUBq3i9qiwu9HlCike33hhUOCvNgGST_MYv3cHXwG5vLyoG9udfPmWbQti4FEqS_J2Wr8OZQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRKRgY5C9QAM0M4_WEV9iul3_o2f1vkvopVuGcAWHsCDiC8dyC0mxucGfBTId6QsEKs0iLOctnK5CDyH1l2zTGKMQ8Ylrfrog"
+    ],
+    "user_reviews": [
+      {
+        "title": "very good psi for modern builds",
+        "text": "I recently installed this power supply in my build and so far it's been great. The white design looks really clean and matches my setup perfectly. Installation was straightforward since it's fully modular, so cable management was easy and not messy at all.\nIt runs quiet and I haven't noticed any issues with power delivery, even under load while gaming. I like that it's ready for newer GUs with the PCle 5 connector, so it feels pretty future-proof. Overall it feels like a reliable unit and good value for the price. 👍👍",
+        "user_name": "angelita",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0kL96HQbhvgwdYZAWOmKvhDlLWyT3HMAbMrv2VLVDt76ClE6VyuS6r6VLvEdBhAVO70w=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTMyP_EyYswSkF0BuDGp2laZvoeRhtR__a4k5nqzHtG2ewUI0VY_yU90x2nv_EZy7JaJ9q5Jp8xXMx057SakMlHxPHAaSHDhA"
+        ]
+      },
+      {
+        "title": "BEWARE",
+        "text": "There are a lot of reports of loud fan noise; this review is not exactly about that, but it is definitely related to the fan.\n\nPrecisely 1 day before my 30-day return window, the fan decided to end its life loudly late at night.\nI noticed a fan bearing noise, the fan speed then started to go high and low in a short cycle and increased in intensity. At that point, I didn't trust the PSU anymore and started the return process right away. 12h later, I have a new PSU from another brand already installed and working.",
+        "user_name": "Luiz",
+        "source": "bestbuy.ca",
+        "rating": 1,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3o-Z8TKBj3fAotRmPv7nWtZcavp_SpT0Yp4cug3YOsJBj6pVoy_-DC56YrBU6bcjAXEg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "very good psi for modern builds",
+        "text": "I recently installed this power supply in my build and so far it's been great. The white design looks really clean and matches my setup perfectly. Installation was straightforward since it's fully modular, so cable management was easy and not messy at all.\nIt runs quiet and I haven't noticed any issues with power delivery, even under load while gaming. I like that it's ready for newer GUs with the PCle 5 connector, so it feels pretty future-proof. Overall it feels like a reliable unit and good value for the price. 👍👍",
+        "user_name": "angelita",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0kL96HQbhvgwdYZAWOmKvhDlLWyT3HMAbMrv2VLVDt76ClE6VyuS6r6VLvEdBhAVO70w=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTMyP_EyYswSkF0BuDGp2laZvoeRhtR__a4k5nqzHtG2ewUI0VY_yU90x2nv_EZy7JaJ9q5Jp8xXMx057SakMlHxPHAaSHDhA"
+        ]
+      },
+      {
+        "text": "Performance:stable and ample power\nProduct Quality:super good quality and good packaging as well\nModular Design:includes a bag for the extra cables\n\nA very good power supply although personally the only downside I see on this is the SATA and molex wires as they are long. It doesn't fit what I wanted but it still works I just hoped you can have the option to chain them instead of it being one fully chained thing. Anyways still a very great product I'll recommend to everyone",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTZxWwQUqmfs-UBScMaSFWabZHv9ljWPgjaIT35TwDCXqvQrIhYPh7gvKoM5Rx181_d78becXbGA7aQe-mk2IP3K-HAlb9M"
+        ]
+      },
+      {
+        "text": "Product Quality:Havent tested yet\nPerformance:Hopefully good\nBest Feature:Completely modular\n\nThis has a B rating on the PSU tier list from cultists network's spreadsheet. The only mediocre part they pointed out was the emergency features & a weak fan, but other than that its pretty alright for what its worth",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTgc6Mpd66FZpsUKrBUxoEjUebqeAMHohVJ_zRCD8g5ea80Y4TwKwmmR8nK2eopHFPCNWSh7CCiAyKE8MHBcLXhKFEttUJ_yQ",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSCFttedQEcYVIK8DJB-86A_k_FXwKowKkNkyRyrLUb3YrxhyMDEH-dcnpnTq4zsjsJrC7KsvHUqBsrsL36MMW9m7GBrV-g9A",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRm8pXfgVIOZ_jdLZBGZvXBCF7BmtpxaCUgJdMdP3v_LZx_zZhqVz-u1-ew5LXS0Lc9zcPNWPldqyNXbnBDEuGq_XnTuHtPEg"
+        ]
+      },
+      {
+        "title": "🔌👍🔥🙆‍♂This power supply is worth the purchase.",
+        "text": "This is a great power supply everything is attached to it it doesn't come in one huge cable even if it did I still will enjoy it it regulates power very well and it keeps my machine really quiet for my other powerful parts I highly recommend this to other customers.",
+        "user_name": "Manny",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3MaSlGUGoqhLLEyovRTlRO2lzDjzoRc4f_oAmTyclrsfGiIB9_LyB44ZRYQbURNUqOPQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSaswODvclUX2R117kOxZ1OJ0ivlXmfoHjSsIiRiYUdikB-3NhnsKueKndFP8V5--8B7f1fuaq51rvpnXi1_vNvBpELXXML",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRMXylrlzgmbStPbcZWLkVE0TVXx_nlQaO2i6sVfqHwm8mcJFAnYikVC622nKKOAikfayEJEw-ekCai1Obv_MMaMvrlnzxJ"
+        ]
+      },
+      {
+        "text": "Great PSU for the RTX4080S. Clean case with the 12VHPWR single cable. Almost unheard next to an already silent card running at 100%. Great bang for your buck. Came in proper fragile packaging and the delivery was super fast! Will definitely use microless for future PC parts purchases.",
+        "user_name": "David",
+        "source": "microless.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3sMld7aGf8G9jTaDZlt5Dedwr4b4tmI0iAVFNsqZ9Z5pHjx2WbU12YKdX53Xv1_Mb_aA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQYd2GYeH3JdnbUKN2uAW92nEKUBq3i9qiwu9HlCike33hhUOCvNgGST_MYv3cHXwG5vLyoG9udfPmWbQti4FEqS_J2Wr8OZQ",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRKRgY5C9QAM0M4_WEV9iul3_o2f1vkvopVuGcAWHsCDiC8dyC0mxucGfBTId6QsEKs0iLOctnK5CDyH1l2zTGKMQ8Ylrfrog"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Don’t Buy Before Watching This! MSI MAG A850GL PCIE5 Brutal ...",
+        "link": "https://www.youtube.com/watch?v=YuBlFCg-0fg",
+        "source": "YouTube",
+        "channel": "Brutal Reviews",
+        "duration": "2:37",
+        "thumbnail": "https://i.ytimg.com/vi/YuBlFCg-0fg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kDt0RoAY0pcpJyfFb8JAVCM-Ob5Q",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTY5fSN5QtCyKi8ojdNvnvLaOPC8HMGWFNIaw"
+      },
+      {
+        "title": "Review - MSI MAG A850GL PCIE 5.1 & ATX 3.1 Gaming Power ...",
+        "link": "https://www.youtube.com/watch?v=l55C52kcVVU",
+        "source": "YouTube",
+        "channel": "PcShopHub",
+        "duration": "3:13",
+        "thumbnail": "https://i.ytimg.com/vi/l55C52kcVVU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lmpPUcEwmjHkT5RYzXq0aq5Mh-tQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTMDxtAefEC545aMt0k29klXNgJMcwa-OzGEA"
+      },
+      {
+        "title": "MSI MAG A850GL PCIe 5 Power Supply Unboxing and First Look",
+        "link": "https://www.youtube.com/watch?v=T6m7onuAdiU",
+        "source": "YouTube",
+        "channel": "Unpacked Technologies",
+        "duration": "5:50",
+        "thumbnail": "https://i.ytimg.com/vi/T6m7onuAdiU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l0vxy5EXHnkg18OxEHuYjzhHO4_g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRVRyzt80fyxjiP3i2gm5vD720ejY420shuvQ"
+      },
+      {
+        "title": "MSI Mag A850GL PSU wiring guide",
+        "link": "https://www.youtube.com/watch?v=xfqIfT2ot20",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "12:42",
+        "thumbnail": "https://i.ytimg.com/vi/xfqIfT2ot20/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mQFyhe525jyYoCVUsrso_cHiKJwQ"
+      },
+      {
+        "title": "What 850W Builders Get Wrong About PSU Connectors (MSI MAG ...",
+        "link": "https://www.youtube.com/shorts/Zu0vjZU1z8o",
+        "source": "YouTube",
+        "channel": "MasteriTech",
+        "duration": "1:40",
+        "thumbnail": "https://i.ytimg.com/vi/Zu0vjZU1z8o/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3mf1LR-rDVMwRsWm0PiNHJT1bq8Pg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQz8ScMAz4EtBlxh4WxLSDACmR5QXPbbMWKag"
+      },
+      {
+        "title": "The Perfect Power Supply for YOUR Gaming PC - MSI MAG A850GL ...",
+        "link": "https://www.youtube.com/shorts/xsz7IuceAZc",
+        "source": "YouTube",
+        "channel": "thainatech",
+        "duration": "1:04",
+        "thumbnail": "https://i.ytimg.com/vi/xsz7IuceAZc/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3kOZDmgd_PLhgwk7GOHpijD1DhsAQ"
+      },
+      {
+        "title": "MSI MAG 850GL PCIE 5 White Gaming Power Supply Review",
+        "link": "https://www.youtube.com/watch?v=UedGYGqQOi8&vl=en",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "9:05",
+        "thumbnail": "https://i.ytimg.com/vi/UedGYGqQOi8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m4t8dSEYnwp1a9pjyhKbDicWSmKw"
+      },
+      {
+        "title": "Is this normal? From the MSI A850GL : r/pcmasterrace",
+        "link": "https://www.reddit.com/r/pcmasterrace/comments/1tsh263/is_this_normal_from_the_msi_a850gl/",
+        "source": "Reddit",
+        "channel": "CarDry9966",
+        "duration": "0:20",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTvufwsCltm74dWIcEFGP-dbKJMcIepSgsWLeMNRB8ms1vEA&s="
+      },
+      {
+        "title": "MSI A850gl PSU : r/pcmasterrace",
+        "link": "https://www.reddit.com/r/pcmasterrace/comments/1p9uggp/msi_a850gl_psu/",
+        "source": "Reddit",
+        "channel": "Geeneric_name",
+        "duration": "0:15",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHfMV9Mo0-n5Cb__vjKLcUi9V4E1fKMgS4sgBxeyxwdu1mUQ&s="
+      },
+      {
+        "title": "MSI MAG A850GL PCIE5 Power Supply - Unboxing and Installation",
+        "link": "https://www.youtube.com/watch?v=pRvaL0uVZi0",
+        "source": "YouTube",
+        "channel": "UNITY IMPORT",
+        "duration": "13:10",
+        "thumbnail": "https://i.ytimg.com/vi/pRvaL0uVZi0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l3Nq4N9Zj0UvXEtT_QHJd7QbVc7g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSVyivPPA8yBD1JI12UTtXFVMJZ92kw3n4ouA"
+      },
+      {
+        "title": "You my psu is acting crazy!! MSI MAG A850GL. I got it 7 months ago ...",
+        "link": "https://www.reddit.com/r/pchelp/comments/1tza2zc/you_my_psu_is_acting_crazy_msi_mag_a850gl_i_got/",
+        "source": "Reddit",
+        "channel": "K4zuhiraMiller",
+        "duration": "0:24",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrV1i72pMEQWPZ_Iz3gTt9xIcIaOB8eWBVgOZ-ppPx1DYJhA&s="
+      },
+      {
+        "title": "REVIEW (2026): MSI MAG A850GL Power Supply. ESSENTIAL ...",
+        "link": "https://www.youtube.com/watch?v=CgcCrfTOPXA",
+        "source": "YouTube",
+        "channel": "Comparative Reviews",
+        "duration": "0:40",
+        "thumbnail": "https://i.ytimg.com/vi/CgcCrfTOPXA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l6GWxHU2LCKYB3LtJ8JIiByUE1Qw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSxs8x2cqwE8ijkd8NbBiAoEwSwNKrV14eVNw"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Hello everyone, I bought an mis A850GL psu after 5-6 months I noticed this buzzing sound from it, only when I start my pc then disappear any idea how to fix this!? Thanks",
+        "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4248351015448247/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "11 months ago",
+        "comments": 12,
+        "items": [
+          {
+            "snippet": "I expected a good psu for $125 and at that price point, this much noise is unacceptable.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4248351015448247/#:~:text=I%20expected%20a%20good%20psu%20for%20$125,price%20point%2C%20this%20much%20noise%20is%20unacceptable."
+          },
+          {
+            "snippet": "When the fan isnt spinning its obviously very quiet but when i start gaming and have discord open and also my music player open, the fan turns on and has this a",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4248351015448247/#:~:text=When%20the%20fan%20isnt%20spinning%20its%20obviously,fan%20turns%20on%20and%20has%20this%20a"
+          },
+          {
+            "snippet": "However, recently its been auto-powering off randomly without warning or error logging - making me suspect the PSU is finally dying from its environment.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4248351015448247/#:~:text=However%2C%20recently%20its%20been%20auto%2Dpowering%20off%20randomly,PSU%20is%20finally%20dying%20from%20its%20environment."
+          }
+        ]
+      },
+      {
+        "title": "MSI MAG A850GL PCIE5 Power Supply Unit Review : r/MSI_Gaming",
+        "link": "https://www.reddit.com/r/MSI_Gaming/comments/1nu5g03/msi_mag_a850gl_pcie5_power_supply_unit_review/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "9 months ago",
+        "items": [
+          {
+            "snippet": "It delivers stable and clean power, and the 850W capacity with PCIe 5.0 support makes it future-proof for high-end GPUs.",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1nu5g03/msi_mag_a850gl_pcie5_power_supply_unit_review/#:~:text=It%20delivers%20stable%20and%20clean%20power%2C%20and,support%20makes%20it%20future%2Dproof%20for%20high%2Dend%20GPUs."
+          },
+          {
+            "snippet": "Overall, this PSU gives me confidence in system stability and I would definitely recommend it to anyone looking for a dependable power supply",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1nu5g03/msi_mag_a850gl_pcie5_power_supply_unit_review/#:~:text=Overall%2C%20this%20PSU%20gives%20me%20confidence%20in,anyone%20looking%20for%20a%20dependable%20power%20supply"
+          },
+          {
+            "snippet": "The noise level is comparable to a 9700 XT running at 1350 RPM.",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1nu5g03/msi_mag_a850gl_pcie5_power_supply_unit_review/#:~:text=The%20noise%20level%20is%20comparable%20to%20a%209700%20XT%20running%20at%201350%20RPM."
+          }
+        ]
+      },
+      {
+        "title": "[PSU] MSI MAG A850GL PCIE 5 & ATX 3.0 Gaming Power Supply - Full Modular - 80 Plus Gold Certified 850W ($139.99 - 30% = $97.99) : r/buildapcsales",
+        "link": "https://www.reddit.com/r/buildapcsales/comments/1855llt/psu_msi_mag_a850gl_pcie_5_atx_30_gaming_power/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "Seems to check off all the right stuff: newer MAG version, ATX 3.0, PCIe 5.0, 80+ Gold, dual color 16-pin cables, flat cables.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1855llt/psu_msi_mag_a850gl_pcie_5_atx_30_gaming_power/#:~:text=Seems%20to%20check%20off%20all%20the%20right,Gold%2C%20dual%20color%2016%2Dpin%20cables%2C%20flat%20cables."
+          },
+          {
+            "snippet": "(Psu) $69.99 w/ 20.00 coupon - MSI mpg a850gs pcie5, fully modular gaming 850w power supply, 80+ Gold, dual 12v-2x6 cables, atx 3.1 & PCIe 5.1 ready, 10 year wa",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1855llt/psu_msi_mag_a850gl_pcie_5_atx_30_gaming_power/#:~:text=(Psu)%20$69.99%20w/%2020.00%20coupon%20%2D%20MSI,&%20PCIe%205.1%20ready%2C%2010%20year%20wa"
+          },
+          {
+            "snippet": "This product had intermittent and audible coil whine while IDLE and its something people should be aware of and not swept aside due to 'bad luck'.",
+            "link": "https://www.reddit.com/r/buildapcsales/comments/1855llt/psu_msi_mag_a850gl_pcie_5_atx_30_gaming_power/#:~:text=This%20product%20had%20intermittent%20and%20audible%20coil,not%20swept%20aside%20due%20to%20'bad%20luck'."
+          }
+        ]
+      },
+      {
+        "title": "MSI Announces the MAG GL Series ATX 3.0 Power Supplies",
+        "link": "https://www.techpowerup.com/forums/threads/msi-announces-the-mag-gl-series-atx-3-0-power-supplies.310153/",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 years ago",
+        "items": [
+          {
+            "snippet": "The power supply is 140x150x86 mm, which means it can also easily fit in most of the micro-ATX chassis.",
+            "link": "https://www.techpowerup.com/forums/threads/msi-announces-the-mag-gl-series-atx-3-0-power-supplies.310153/#:~:text=The%20power%20supply%20is%20140x150x86%20mm%2C%20which,fit%20in%20most%20of%20the%20micro%2DATX%20chassis."
+          },
+          {
+            "snippet": "ATX 3.0 standard means the power supply can hold up to 2x total power excursion and 3x GPU power excursion while using native 16 Pin PCIe connectors that can pi",
+            "link": "https://www.techpowerup.com/forums/threads/msi-announces-the-mag-gl-series-atx-3-0-power-supplies.310153/#:~:text=ATX%203.0%20standard%20means%20the%20power%20supply,16%20Pin%20PCIe%20connectors%20that%20can%20pi"
+          },
+          {
+            "snippet": "Just from the mentioned features alone, you can tell that it is a power supply unit designed to fully tackle the latest high-performing graphics cards while mai",
+            "link": "https://www.techpowerup.com/forums/threads/msi-announces-the-mag-gl-series-atx-3-0-power-supplies.310153/#:~:text=Just%20from%20the%20mentioned%20features%20alone%2C%20you,the%20latest%20high%2Dperforming%20graphics%20cards%20while%20mai"
+          }
+        ]
+      },
+      {
+        "title": "MSI MAG A850GL PCIE5 thoughts? : r/PcBuild",
+        "link": "https://www.reddit.com/r/PcBuild/comments/1nf01ki/msi_mag_a850gl_pcie5_thoughts/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "10 months ago",
+        "comments": 11,
+        "items": [
+          {
+            "snippet": "I haben the 750watt versions on 2 builds. Both running fine without an issue.",
+            "link": "https://www.reddit.com/r/PcBuild/comments/1nf01ki/comment/ndsn8a0/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "The fan speed is set high even at low loads, so you may find it noisy.",
+            "link": "https://www.reddit.com/r/PcBuild/comments/1nf01ki/comment/ndsrxsa/",
+            "votes": 2
+          },
+          {
+            "snippet": "The fan speed is set high even at low loads, so you may find it noisy.",
+            "link": "https://www.reddit.com/r/PcBuild/comments/1nf01ki/msi_mag_a850gl_pcie5_thoughts/#:~:text=The%20fan%20speed%20is%20set%20high%20even,loads%2C%20so%20you%20may%20find%20it%20noisy."
+          },
+          {
+            "snippet": "The only thing I did see, was a coil whine issue on one video, which probably isn't that common however is there a fix if that does happen?",
+            "link": "https://www.reddit.com/r/PcBuild/comments/1nf01ki/msi_mag_a850gl_pcie5_thoughts/#:~:text=The%20only%20thing%20I%20did%20see%2C%20was,there%20a%20fix%20if%20that%20does%20happen?"
+          },
+          {
+            "snippet": "After just eight months started making a horrendously loud buzzing sounds.",
+            "link": "https://www.reddit.com/r/PcBuild/comments/1nf01ki/msi_mag_a850gl_pcie5_thoughts/#:~:text=After%20just%20eight%20months%20started%20making%20a%20horrendously%20loud%20buzzing%20sounds."
+          }
+        ]
+      },
+      {
+        "title": "System shut down after 30 minutes of gaming, MSI MPG A850G PCIE5 enough ? : r/MSI_Gaming",
+        "link": "https://www.reddit.com/r/MSI_Gaming/comments/1e3zgij/system_shut_down_after_30_minutes_of_gaming_msi/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "850W PSU is more than enough for this build - I run a 7900XTX and 7700X off a 850W PSU. What are your CPU and GPU temperatures while gaming? There could be another component that is faulty - sucks that it's been RMA'ed twice already,",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1e3zgij/comment/ldbgwry/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "Could be a defective power supply check event viewer couple before critical in windows .",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1e3zgij/comment/ldcqy43/",
+            "votes": 1
+          },
+          {
+            "snippet": "System shut down after 30 minutes of gaming, MSI mpg a850g pcie5 enough ? : r/msi_gaming",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1e3zgij/system_shut_down_after_30_minutes_of_gaming_msi/#:~:text=System%20shut%20down%20after%2030%20minutes%20of,mpg%20a850g%20pcie5%20enough%20?%20:%20r/msi_gaming"
+          },
+          {
+            "snippet": "It is now working perfectly even at high demand.",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1e3zgij/system_shut_down_after_30_minutes_of_gaming_msi/#:~:text=It%20is%20now%20working%20perfectly%20even%20at%20high%20demand."
+          },
+          {
+            "snippet": "System shut down after 30 minutes of gaming, MSI mpg a850g pcie5 enough ?",
+            "link": "https://www.reddit.com/r/MSI_Gaming/comments/1e3zgij/system_shut_down_after_30_minutes_of_gaming_msi/#:~:text=System%20shut%20down%20after%2030%20minutes%20of%20gaming%2C%20MSI%20mpg%20a850g%20pcie5%20enough%20?"
+          }
+        ]
+      },
+      {
+        "title": "[PSU] MSI - MAG A850GL, 80+ GOLD Fully Modular 850W, 12V-2x6 Cable, ATX 3.1 & PCIE 5.1, 10 Year Warranty ($129.99 - $10 Rebate - $20USD Steam Code) [Newegg] : r/bapcsalescanada",
+        "link": "https://www.reddit.com/r/bapcsalescanada/comments/1htbl6x/psu_msi_mag_a850gl_80_gold_fully_modular_850w/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "The fan is not loud per se, but the speed seem to be fixed pretty high no matter the power load.",
+            "link": "https://www.reddit.com/r/bapcsalescanada/comments/1htbl6x/psu_msi_mag_a850gl_80_gold_fully_modular_850w/#:~:text=The%20fan%20is%20not%20loud%20per%20se%2C,pretty%20high%20no%20matter%20the%20power%20load."
+          },
+          {
+            "snippet": "250Hz, 1000-nits, 100% DCI-P3, mini-LED Display, i9-14900HX, RTX 4090, 32GB DDR5 RAM, 1TB SSD.",
+            "link": "https://www.reddit.com/r/bapcsalescanada/comments/1htbl6x/psu_msi_mag_a850gl_80_gold_fully_modular_850w/#:~:text=250Hz%2C%201000%2Dnits%2C%20100%25%20DCI%2DP3%2C%20mini%2DLED%20Display%2C%20i9%2D14900HX%2C%20RTX%204090%2C%2032GB%20DDR5%20RAM%2C%201TB%20SSD."
+          },
+          {
+            "snippet": "(USA-OR)(H) RTX 2070 Super FE, 2TB PCIe 4.0 SSD, Apple Watch bands (W) PayPal, Local Cash",
+            "link": "https://www.reddit.com/r/bapcsalescanada/comments/1htbl6x/psu_msi_mag_a850gl_80_gold_fully_modular_850w/#:~:text=(USA%2DOR)(H)%20RTX%202070%20Super%20FE%2C%202TB%20PCIe,Apple%20Watch%20bands%20(W)%20PayPal%2C%20Local%20Cash"
+          }
+        ]
+      },
+      {
+        "title": "gpu connecting but dont have enough 8 pin cables( 2 left 3 needed) : r/PcBuildHelp",
+        "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f0gnn8/gpu_connecting_but_dont_have_enough_8_pin_cables/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "No cpu power cables will not work on gpu. I repeat don't do it. Doesn't the 850gl come with 3 pcie cables? I remember i had one and im sure it came with 3",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f0gnn8/comment/ljsgtcg/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "You'll be fine if you use both PCIE 6+2 cables from the PSU and plug one of the pigtails into the GPU. bUvpLHZ.png (827×1228) () 3080 TDP is 320W. You will get up to 75W base power delivery from the motherboard via the PCIe expansion slot PCIe 6+2 pin cables are spec'ed* for 150W power delivery each (75+150+150) = 375W *specs are not limits. So a quality PSU and cable from a reputable manufacturer will likely be able to handle significantly more. ATX 3.0 explained: Why Intel just gave power supplies a major overhaul | PCWorld",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f0gnn8/comment/ljsun46/",
+            "votes": 1
+          },
+          {
+            "snippet": "You will get up to 75W base power delivery from the motherboard via the PCIe expansion slot",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f0gnn8/gpu_connecting_but_dont_have_enough_8_pin_cables/#:~:text=You%20will%20get%20up%20to%2075W%20base,the%20motherboard%20via%20the%20PCIe%20expansion%20slot"
+          },
+          {
+            "snippet": "PCIe 6+2 pin cables are spec'ed* for 150W power delivery each",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f0gnn8/gpu_connecting_but_dont_have_enough_8_pin_cables/#:~:text=PCIe%206+2%20pin%20cables%20are%20spec'ed*%20for%20150W%20power%20delivery%20each"
+          },
+          {
+            "snippet": "No cpu power cables will not work on gpu.",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f0gnn8/gpu_connecting_but_dont_have_enough_8_pin_cables/#:~:text=No%20cpu%20power%20cables%20will%20not%20work%20on%20gpu."
+          }
+        ]
+      },
+      {
+        "title": "Replacing PSU fan to reduce noise : r/PcBuildHelp",
+        "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f5s3al/replacing_psu_fan_to_reduce_noise/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "Could you check and make sure the sound is coming from PSU? Sound from GPU gets blamed on PSU a lot, because it very close. It's rare for PSU fan to be making a lot of noise.",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f5s3al/comment/lkv3ew2/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "Did you fix your problem?, I'm on the same boat I opened the PSU and realized that the integrated fan uses 2 PINs, most fans nowadays use 3 or 4, there's also a difference in wattage and amperage which makes finding a replacement harder. 😫",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f5s3al/comment/lnne3vd/",
+            "votes": 1
+          },
+          {
+            "snippet": "Better noise suppression for removing background noise",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f5s3al/replacing_psu_fan_to_reduce_noise/#:~:text=Better%20noise%20suppression%20for%20removing%20background%20noise"
+          },
+          {
+            "snippet": "There was also a problem where the 2-pin connector of the adapter didn't fit into the fan header because of the plastic housing around it, so I had to file the ",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f5s3al/replacing_psu_fan_to_reduce_noise/#:~:text=There%20was%20also%20a%20problem%20where%20the,it%2C%20so%20I%20had%20to%20file%20the"
+          },
+          {
+            "snippet": "So I've been running the MSI A850GL for about 4 months now and the sound it makes at idle is making me want to pull my hairs out, my room is dead silent but the",
+            "link": "https://www.reddit.com/r/PcBuildHelp/comments/1f5s3al/replacing_psu_fan_to_reduce_noise/#:~:text=So%20I've%20been%20running%20the%20MSI%20A850GL,my%20room%20is%20dead%20silent%20but%20the"
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "MSI MAG A750BN PCIE5 III 750W Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQzIIyRR0Y1ZzpYETOSHCpZBVJ1ICqPj0sweqqiwmbA-f6CobJ3LaMhPmpV0JVFsSbWC8IuOo3rbYVFjATAqW9yGA1AAgQxFBy4U-LYtF4",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$80",
+        "extracted_original_price": 80,
+        "reviews": 9,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BhT3u3icbVRJzuJGFE5ygixyhV4hpPJQHrIzeMKAjacy1AYZV4ENnrANxiin-TvdUmfZaWWda3QvIuUmMVl3qfQW7736vjfoq39--PmNZn-ZGqZxe6tmXZzWnbsRKdWp-6luKnJLuoz8yQOJlxmB40RZlHgBcID9lMRdnFenjHxhGF6WWAChIHMCw4AxQfqc0pjkWUmd45E2apWMKCwUOFmQBSiInCyynADAH1kRn-j_4S8jCsPzssxLoiwwMuRlIL1vSPuV3cz3giiMVxQFIPBAlETAir9tPEfdfz_24XqjzfB1kccdbbtJcmsaWnaTEy1pE3dZVU4IbS9dVU8280nd3iZJVdRV-cppaD4Og5IJC1j4MsKkpP2HU_1q4TtU74uMfIaiwAusNBY9uiEDWel9fe_e0tPbKX-7tW9p_kbLj1Vc34_Jt59-0apenbf93A3rGqkeCHSCKUptzGB9zXbamk3vhCOpg3BuR56AjG6XsF6NzLqhBQ7cCCIvSDdoWy-3oPaDKL8RgEp8xkN4gRDrckMC28MlMtZAjg9PT48RtqLQ2iKTMESzr4EBdVrOMhTqj6jI12szXe-2CfTLCnoAHddnvNly9jEKcX9gvTJQcZtotkMj7LlFDQ5Pnfe0jtkVXY1ZnIZPMneiTggZvcT5zI8uKIrLHHrqLEAgT0PdMqmhN-5FN7YskyHdUg8GPida3kTm6eGXNfCRfKOGnMelO6wjvcUhXoyzsHZl7UWIpFGgPAJOYZMzWjiay9KSCPacMVBBnp7xMLFZQzcKHzaXrhKwG0iAd-Scrw6arR_YrkSqtVhrdRwjUni52x_y00C3aUWRVx_QGibaiQ0CcnU0--zlORNs3Qc1R2pNPiYAPFGeMm7ReSgPfR10TVSgNOGqPijsa3RGzoGZCYHuNQTpZyOzZp5pD06E_UPoVeO-dMzqqy1TF0FuXQ_RQ0t0mSXmriMmKX9_tM3xK1B02PkO3K6NzRavomMaVMfBtwbfw4FxOS-a06_MqMFRSizP8ZD_mFTVJaPffvxX0ebvOFUhFtLi--q0ut52vFwpU7Vw7sYAk7syk7I4XQKoCkpJVmcDYr70pvujfsuPtvKOm01UNEK0zy01bLqUQJu2KwjwYyE50vNRu5U21XPdrKXeRuVe65XXeb3b7306ioxO_cDbvKqwC9zH3FQyC2X2sHnvYufOclncHdbgD8rmpOgzazWjttX3oUloQ2dDON2gaWY9izZvH_Osu8p9dVcjdu4QGLeZz_clDMtyWawCPTy9WO2FOnJBjhvtzrGs_tZiRkgOHr33thgZ8RAXhGXDRLczbldO8wjxKkBLlaZnvVggd6qNq7nA0cNd5ymZbsJ43S82wmawyytMKyVLRXPWVHvypN1Q0pBLZoPLKyrDXoko1gt_uZeU83FGh8NhoYB00SkEPLLr3O2SAZfh3WenTqPtGG3uncl6erPYdBujE-DjmNx7hyfuLkUmXPU26IpNe7kb2bXLy1tuRWO_V_94ubbxRsPnUNXGL-X493_L_-dP"
+      },
+      {
+        "title": "ASRock PRO Series PRO-850G 850W ATX 3.1 Compatible 80 Plus Gold Certified Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRBsd54CKjWbJNOmI5gl92bxPWlkj0RJBDIh-ZybW9z-gJxcyTw9sqkEqu-nWnFHurVN0ZcQon6rzgrvKnt_5M3hx48d2SdnIotIxm1Rw2bymInjbVYnIgIKsY",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$90",
+        "extracted_original_price": 90,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4fXEMXicdVTLrqNGFEzyBVnkF7KyLNENjSE7MA-by8O8bTYW0G3zBgM2tpWvuZMZabKcjLLOb8wsIuVPwp110ouzOKfrVFVL1X9_9-Mryf_cyBGJh2srjnHWjfZuRYhC7I9d3-JrOub4D4biGB6wNL3iVxzDUjQFP6bxGFftOcefwQohluVWPEtxHM-yKxahTxmJcZU3xDqdSC-16bwFQR4gBgAKUIinaR5A-Htex2fybfwZ0BxYcYhfMYAFLIN4lobvejx8YXbrI4A8RCsW0mBFwRUzU_D8rzvHko7_M3x_uZL-8WVbxSMZxkV67XvSjIszaUgfj3nbLDAZyrHtFrv1ohuui7Stu7Z5u9OTan4OgheQguitsIuGTO_P3TeV_8H1rs7xp7nJsJDjITub4LjZ3LvuNr5m59dz9XodXrPqlTQf2ri7ndKvP_wkt5O0Hqa17XddIDmUC7rCCCMp3WeXFB5Q5FV0JPNPp6iCxBMZTDujp3aM35iy81SgH5p77Hf2ocHVodJOWDWmpBGeSXUGLkSq7p0pt4y28QYrzh7rsWqGcT2AuMIBCbGtB5FvFDPOBUYK-dpXOyXwsz6oUeE8tyBo2oe9z67hxtFSFY8RUHxS49YEmRfVNq3vcTRrFJONqNhV-_QCR_FB1sWg0_SAg0apUF6RwUOlZKFnKklYZfgZ3e2nDZLZbChFyNlnXeqjl6jqKq-OGNMrQQyrm1fyGxviaIbkehiUMRwNyzd9nzIzT5InTx0Nfd_CmApap0wprzEfjszDoOKnSMatDfi7EWauWeLKCs-T44NtGA4w8g_ID5U-lUQx2Qc6KTM7ovjcLpwsKqreo3wmUPje8e8PX9Y0a5-ZRAaqpZqtISuG6QPVgDOmNC8JbbgKNfZhHWQp3U5ebV7CIrASILKe4vQ4UAo110RnYz6sMHKIGlW4vnskwCoO70oQMnfTqzTSpEzStMhtIue3-9CfvlCCgkbXQntD3e0jPTxlXnt6uNrDdSJPLYttf_5lDgqD5nwwNIOYD2nbljn5-v0_grz-mZYErAVyfNPP-uV6YPhWWEq1dVMfKL0JIpfH2QuFJFZosF6oKGIaZ3k8KdfqZAo_0-JCCuYVw3NPVJO8cNSQDTqiovuWs7jnvbNbealUyqbjJjNojvIkvJ033PHokjllZOl6zu5NhVlHU0wvuU0tiHeTcUqzsl5e6psFVSYRdmdBETVdJKY2Tf4Gk56ID3-5C5a59qyHariv8_HCT-1NCuHawigecpeZGuQ3zUute4p_fmM1t9LMhWh6rgdL06brEAE2TRxym8xVqMaPuMYQ-qli5vShWVZhwEhU8CKRrFDqbWAvZTfxSzR36Ms6w8udHxvTdsfuHmZzQVkr5NlqI_btET_J-GiIT6fiw2YECcALXq26rfty5ITiJJJHkmwFKtuOAqbu-WVtj-kjavybC5dWLx-AvHYKbCyvGsz2cXCmmDjGt8lisH3Igg3SJ5Ma691Q3tT8MlbNtdLC2e_FPZWXId7JUeFL8vylnP76FzNo50I"
+      },
+      {
+        "title": "MSI MAG 1000W Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQs5JEDjdiY60qD7v3zeWJRLJA0pOaTR1o5y29QaDwX1DoHdmEDf7HraxQZ8Fzd5WDfbB8521gjlWUDCXdNdzKpOVBSCc9Ms9uY6qdBpUURuiY1r5sn7XQr",
+        "price": "$102.20",
+        "extracted_price": 102.2,
+        "reviews": 100,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=h3zVznicbVTNzqM2FG37BF30FWYVRQKDCekOwl9IgPBnApvIAScQzE-AhOTTPM03nZGmyxmp677GzKJS36R8XY8XV_I95_jca_n6n59-fSXFX4aaENzfGnnAeTu4uwUhGnE_t12T3dKhyL7yjMgvWYHjFsuFyAsMx4DPKR4wbc4TCqbtcskCbgFFuICMyIhfcoIzWtTEOZ1IpzRpkX1ZTASeZeGCXwhLDrA892dR4TP5H_3KLicZM6VZkRcFjmch-NBl_TewWx2WIgsZwHEc5MXJiZ8s3u88Rzn8GPt4vZHu-W1N8UD6YZbeuo7Uw-xMatLhoWjqWUb6cmja2W41a_vbLG2qtqnfOB2h002QbAYYAN-CMKvJ-PHcvpX4A6sP1dQYXAi8AKDALXkWLMWlIHxo78Nrfn4909db_5rTV1J_anB7P6Xff_lNbUZl1Y8rN2xbpHhMYLRXS4UgCPPLNkjuFrX9MOK5TDddP8j3R-XMeVr4xHvtEpQWewQURahlLZprgb6EjsqyuNRcS6NmFiSxX7YuVijEXN5ERm5gzlsdS0rxxXz6FQrcfaI4KOcTZBpbZMa2kTFYTx9J3V5t1bxhZqlbgK59QMeJT4NSu6dq2yEdCqFKV1bg3bFuwqSW946ejJah3SydXcfIeib0zCcXu0YVjNOyhRYDcyugblJqia0mZkTleBtkz0Ax1-iSxy6gQgLyCynRygP9CyoHJ2bbwUImG6imG6pshKPE8pScS17QZs95pVfCSYuUmPHcUDdvVp2ohHq8zZiaXZ6hF9p6BtYAqyn067bOjKyIEGWPyO7T6KGlKqyzyNwGxprNIng7Gt7drQaQ6A1zDGiS1rmJlTxy63xwg1z29_ThlwM47imNa8SjSvU1ZuiiCuUp14xBZV-jC3KOrCwEmtdlSLvohSl7hv10osQn4bAKq1y2UELDGmFsoDgOknzytIIgsWMA5T8efXf6xkgaHHxHQF1LwXWxjPKjGPgPopaEs5V1eoDS7-w0gNNTAzzHQ_gpbZqyIN9__ldSV-84RcpMpOL79ry93mJ-2UhzpXLu-hOmd0kWC5xvGKgIUp1tLzpM-NqbH07ajZ5s6R0nzxQ0HdG_7Iluk43I9Hm_hUzyWIuO-PJo3Uada1QzWnG0UX1QR-ltvekOB59MQ0bmfuDt3qqwq2TE3Fw0Kkl-2LxX2tTZbKq7A3T-KO3OkiabW5nY5jiGRkY6Ij_D-Q7NC_Ol6mn_WBXDdTk2dyUCKyeDuC98fqxhWNebahto4fnN1V4rkxfkuCnGjmmOtz5hhfTokftoLyIdP3GVARCmml1wcT2nEeIVBm0Ukl-0ao3cueofwxJOGe66yrP5LsTWuN4Ju6ddX2HeSEW-MOSuOWQvZHjWJORS-enyksKCa7ZYtGt_cxCly0kmz-NxLTH5epAy5lFcV-6QPpM6vPtg7nRqzKor75JZ85sJ8j1GZ4bHOLuPDp-5cY4MuB1tZqh2fXnXi-tA6xs1o6nfq38qrz3eqcklVNTpSzn9_R8Sl-OY"
+      },
+      {
+        "title": "CORSAIR RMe Series RM850e ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRDMxFJoNs0MK6PxD8wtH-C2jPYo-W7DkmZHCXniZj55CHfQ_6RPxthyOl7x10GKIvQiFaEnd__q16osFzSkDecrLyz_wAmGkD9wGZ_Mx8r",
+        "price": "$119.99",
+        "extracted_price": 119.99,
+        "original_price": "$145",
+        "extracted_original_price": 145,
+        "reviews": 794,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=S_--nXicbVTLrqNGEE3yBVnkF2ZlWWqap7MD87C5NthAN2M2Fqbbbt4YsDFWvuZOEmmynERZ5zdmFpHyJ-FG2SVdUkldp6pO15Gq__zq21ea_r4yIhp3t1rrY9b0-51MqUn3H5u2JrekT8mvAlCEBSfxvLyQFUECPIAfk7iPi_oyofx056WFoIiyyEvKYiEKnxiNSZFW1D2faavXSUp-46achQB5AUgQAnnB86L0S1rGF_ovDjmOEyVFFv4hk4AigQ8t6T7D3fIoiEDmZEFegIU4mSQJwg87z9WP_4_9dL3Rdvy8LuKedv0subUtrfrZhVa0jfu0rmaEdnlfN7PdctZ0t1lSl01dveW0tJjEoGQGARTfnDSr6PDTpUnehPgv1YcyJZ9EWRIkKE4VisxBhZekD829f2WX10vxeuteWfFKq5_ruLmfky_ffGfUg77shuUeNQ3WPeCHzYgycxfzXuOFBgxNR9iEGBHQbzxYsGDVsKhsHoiLlthiY8w5IAD9GBS4jjLzEWXM2VYXcQvM5SFURsfqn9sgHwnXBATY3Cnv80PFlu-f7IwrTSeQ2ScTwTAvusBkGweaNw-IDAVrgEAEDlAME4zvpGCaG6jQy8z1FkWxi0i8NbC2Lz3NB4-9V134GJInsgrD4-3Atzphm2GL6MxEFleGBhN9jLexEW1iRLSA09rgad9IET3Rs8gOcA0TpAgeJrznc5UPh8EpH32oa9U-i4ZDiR-nCvFRWQ9hVjzi3K7iwnwiZHpbvO5xhj3EmcAJVCHim3ya-55wHnS4yHKMhUYzJniVrR9Q40ZPLcV6AoPcMYnJrKSKNGz1OLIiKc7BGHDFHqF174Tceg97ceJzt4FWYI54OBc1arEqNInlIOJN2vkm6NuwxCzh6yEonWuYYffEaVJgei3BZmaltuatnNENoyDJilWS23svZLskX3REt69xYA6eESFSRVufY9WPj649fwaqKfa-K-G2KeBVXoTspAT-gxo55R19nRxF9Xtu2kFR4qHAC6L4c1LXeUq_fP2Xaizf8bpKbGzE981lc70dhEWtzvXSvVujmNxVTUlj9gJEXVIrssksMRIqb348m7fi7KjveG2m46lF93xPLYe-KKBj3UYE0WOtuMrz0exrY24W5qpRBgdXR2NQ385b3fHo02nJ6NwPvN3bK5wyGmJ-rqxKVXs4gpc7hfvyUt5daAkndXdRTc3eaNSxhwGtCG2pNqL5Ds9T-1l2RfdYpv11MdR3PYRLl4hxl_rCUImoql7KTWCiyxurs9YnLpHnJ39wbXu4dREnJSeP3gdHDq14jEsCIUpMJ-UP1bwIsaAD_KJTlpnlGu_nhn9CuThF-OuSkfkOxdthvZN2o1NdRVarKZNXWlsfyZP2Y0URn2jjXlB1Dl6JLDdr_-WoqNlZo-PptFYBW_cqAY_0utz3yRhV6O7DudsaB85YehnZzm82ZO9jfAFCHJP74Apkf2B4JW4GB_TlrsvvVnrti-pW2OE079U_59cu3hlRhnRj-lLOf_wNhAjk_Q"
+      },
+      {
+        "title": "Gigabyte 850W PSU",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQRF6oROUgHA-H5a9wndYODtnVvFiwaDkF2jV1hIaCvWJTKvj_Oj3wxIPKalYeLNdMyIWlDKRipgdj_-xLbfdfRanyu8EyUln2ZLWt7PNZoDAJwYpkeQhLX",
+        "price": "$89.99",
+        "extracted_price": 89.99,
+        "original_price": "$140",
+        "extracted_original_price": 140,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-Di5J3icHVNJrttGFIxvkEt4JQhoNkdlR4qkJEqc2U2Jm48W2RIpzoMG6jTG_7EBZ-kEWeca9iJAbhJ-96IW_eq9egXU-_eXX19p9vdaiyjpr7UykLQZXEekVKfu16ark2s8ZMmfHJC4BSOwrLgQJU4ALIBfYzKQoj5P1YXIsFBkJI6TRJ4TJQYw31JKkiKrqH060U6t44k2sRiBA4DhWE7kwDRM-iMryZn-LP_FsBJgObhgoMSzoiBKLMe-dUn_6XN7pd34fVOQgfbDLL52Ha2G2ZlWtCNDVlezhPb5UDczZzlr-ussrsumrt45HS0mYzSZQQD5dxBmFb1_Pjc_BYHISywD2YXIQzDtL4jiW5kl33hR4AQoSRI7MQQwwVtzG17T8-u5eL32r2nxSqsvNWlup_jHhzeti5fLW6y4qGmw6gG_0AZTixDWosACXm3qRhGvvL1f6o2t1_AQRKOLja0bYousdcuCUWn7zA5D90EC3CYhw-HAUkiVuAl45EeUEE_1lONlwwQVZpEWhaYeecd18vCKJjBLvYrDJMKM4hzQY4z2aRAA_moyeDX1rj2kuyhMRqR7DlknHqq8g7-OnOCZjl7OcXbIMeSpqKTCILoUTgQe25hprD2UuBiY0NN6FkG9D3VPpzhdhWENw1zfUtSYEZbYsIhKl9EVr8DIKg3DDq3heEk5kyn6QE-WXoj5UFvs_dyFKDw_PRU93dzC9irBu8ArPTC0ZmXxGHmjmy92x8dm78OBRKH-pBfFPsCGWIi_oXVj4tXAoNAkm1zXYnbDR4Vh4UrjXWi0PsS2B_htmEfEDevHEaZP9NRNM4x_f_Td6TuQdX7wbQF3TQFbcRGmRynwH1TLKWupm_iFl39jpnzzAgunjPL8l7iu84z--PCfrC0_sqqcGFgjt915114P3KKW52pp31YjH99kRcpIugW8KshVsrus-IirvPnLSb8WJ0v-yCozFU8j-ueeriy6lUCf9jseRI-NZEvPR-PW2lwv9HUj3SdHL9pdfn_vfS8vPp1CT-d-4DnvW1hldCfsXFqXsvKwOC-3Cnu7LW82XHFH2TnLumLsFGoZ9ztaJ7SjyojmDp5nxrPsi_6xzIZ2ca9vagiXdsKTPvO5e8WjqtqWu0BH53dVa6NOWjzLTniwDeN-7SNGiI8evd0tMVyRkZQJhCjWrYw9VPMixJwK8Fal6UUvN9ida_4R5fz0w7bLNJk7iJj3jSM4o1W1fFrLWSqula5-SZ50GCuK2FgZXU5WGdgmoths_O2LJF9OCh2Px40M0s0gT-eQtUt3iMeoQjcfzu1OOzDa0rsk5vxqwHRP8BlwhCS3u80l7iHFa353t8BQOn1-W2XtUFTXwggnv61_ytueOFp0Qao2Xfjpn_8BIPWwpg"
+      },
+      {
+        "title": "Thermaltake Toughpower GT 850W Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRp51R-pbl3y92cyqSVlpDaVEhE-72WNlNoc3H_U3cUz2S152Dc42hoR1gowZaWdtvcicyleRSc--2Rm7TpU35dwVBFg-snjL-QzRaumeEHp2U3o9BgsVxs",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$110",
+        "extracted_original_price": 110,
+        "reviews": 82,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lkb9GHicdZTLzuI2FMfbPkEXfYVZISTn4ly6SwgB8vE55GInZINCbEjAuUACAdSn-aYz0nQ5U3Xd15hZVOqbNHTdenEs-X-Of8f2Of7rux_fWPHHfJqwtL3UZpfmTeetVMZs5n1qzjW9ZF1Bv8hAk3VBkSRVVzVZARIQP2Vpl_J6_1Q1WYayqmuCLCuSCjQofM5ZSnlRMXe3Y2erzgr6WYVQB0O4rgpQ0BQIhN-KMt2zf9UvUFNFVYJwIKiSqkJJhO_PtP0qryYbQdBkFerSgFUkUdYUQdZ-Wfmutfkf8cPpws73rwuedqztRtnlfGZVN9qzip3TrqirEWXtsaub0WoyatrLKKvLpq6ePmfGh7tgdCQCET6NMqpY_2HfDEn-_l-s9-VwNqgqsiJCWVKgLsqqCNX3zbV7y_dve_52ad9y_saqj3XaXHfZtx9-mta9NWn7iYebhlg-CICuELsx0YOKCWi7xDZg-iAJiW4tmekxJo6VCEm9BgIIH1jMRKEOiGn5YnJHRx-50bTHVd0Ry2xI7BQBuKXbo9Cxyl_hEvYktCvKUbrESUVDnsagE9AxX-EjllzLaWhJYEAwQJzKIdFRVCaKV_pwiQX8Gu2FYCY4ATfXtDLjwcdCkqOE3KlSzFN6cGI_goJ3MGeUJw0lC_DK7TYthBxZvES2J3qiICKbEr-kdRaue1-gCzc2CzwjQojtxxbse1baL-yQ3MhUx9vIv6WVn3vc5P7MKcPQbljZSYjni9c4v3p8cfdCM_FjJ_SAH7M4OUYcJbgyrRALErIo2saUUKwnoeCjNfB69DCPZO7kQZRYwcwnYST30TQvgxlyELBjar3efZyBLfExeiDu47wKDvmDcA7CuVl4oFls57RJJJskJQhs0J2jkuSZVPdhiU7RgbhbwVRC2z9TYh9mhWP6c3R3owQvCfWjAzpm2L4N7wORaMceaeqwFG4Rb25pyP1fb-159xUYNuwCV1bTWB-r-mV5wKsgHs8e4UnVb95NWO9_FoYmgs_6k4bpY1bXx4J9-_5vYzp5J1kGdcg0vS73y9NlLeu1MbZK9zq7w-xqmFqR5i8AWopR0eVhBhO58sebnX3hO2S8k8yRRYYt2kfMZoi9aKDN2yUEyW2hudrj1nj1dGxze95oPSLVZtobz_GM22wCNnQZGwehv3pmgcqkT6WxNi8N84Zk_4i4-_JSXl1xJm-N1d6wTWdpMuT0PZ5TdmbmHY9XZFw4j7Ll7W1SdCe9r69WJE5cCtO2COS-griqXsplaOP9k4oW1sCCkjTYtes4_aVNBCXb-uzaIzWapfe0pKKIMxsV0roa84jIFiAvFssPdrkg3ngabPERDivSaZLT8Qqnr_1ipazuqDrBvDaKXJ2b53pDH6y7VwxLmXn3ZMMSxBNV1WYRvGw047Az2X27XRggX3QGBbfiNPG67J5U-BqIY_c8XQvTiX-gr-OLI-ZxSvZATlN67V2ZeuuczOGyR6ArV-3xOitOHa8u3BnKszoFu-OpTVfT5ICt6fCl7P78ByFm484"
+      },
+      {
+        "title": "RAIDMAX RX-850AED 850W ATX 3.1 PCIe Gen 5 Ready Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRFSWxK6xx-ShGRInSGF_DA2jFMKXP-ldqiuYZ5Eef4rpQMZZPGcqlxsnb_Q5KSQKJdBEjvTXkn2tWh7GiblIWcBViexQ-d2t6mBxOmldiBxCOAlgdnFmXJ",
+        "price": "$49.99",
+        "extracted_price": 49.99,
+        "original_price": "$70",
+        "extracted_original_price": 70,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wBZZcHicNVNLrqNGFE3vIJvokYVUFGBMZmADBtt8DRgmT2WqbDD_j8FmNa330i11hp0o42yjexApOwkvUmpw63PPPece6dbfP_38StI_t3JEUHevpB4ldW9bPCEKsb_WbYXvcZ_i31mwYgV6yTC8wK_YJWAA_BqjHuXVdc5CATKAZ1m4XLJwxQOaZr4lBOE8LYl5uZB2U8Up_oPmwQzkZh6OBjOjwNHCb2mBruT_PEczNC_MkCXkeDgfubcWd58-N3fSPr9rOepJ1y_ie9uSsl9cSUla1KdVucCky_qqXljrRd3dF3FV1FX5jmlJPjsjeAEB5N7DclGS8fO1_k-QnvsQIMsyc_urWXXFLN-KFH_j-CW7hKsV5KDAzq45-FYP_Wtyfb3mr_fuNclfSfmlQvVwiX98eJPbeL0eYsn26trfOMDN9dtBxg3KtUfgKeUhwK1dKKqvJrco01M7OExObkAE8RhvEmAG8uT6ek1uSURUx_bkvnVvGfAYXTXk_nmmsY5zxzxCIY-BUznl9UG8KPCKxDwyzvqo-AdHwe7-lGtRluu4jKxwiiwP6BkGxiEM_NKVjXF_TEDo0qUnR6l7unKRlzz9rQwxHXEuiDxP9oADbTpQ_CMJjMYvHmxYYCMq8M7P-m2Q-6UTKDu8TaKz72iO7FuemvdnNZqIHE4uk-zCk9KFWTXfk-QMIskI9MqdlJ2p2MAGeName2PCw1HRC3sSAcnyMSwEz51y9wCjgMjOaDvayYU9igJlIjfJDGGNDI8bvG198NWe9oID0jJFjhmNi_IDbWTG48DkjbuNIFL01PBrhpRScT7GPZKFO5LlXx9de_kORIXrXZPl0UmgeOG-v3mWe6LU6djwwsN-0OH1F3oecG7JQJaZty9xVWUp-fHhH1Fef2Q2ItZ9GQ376765h6xQidSmMAf1ycWDKK1SlOwAt1mKJd7fVC5iS4d6uSj3_GKIHxlpsfFnim46EdUguxXokm7PgeihrczV9KjtSqaUXNnWq9Hwyxd5FN_Xe93Li0vmoSeUe3Ss9y6MIhoRQ622hSg9DNbJjNzc7YrBhCp7Fq2rqEj6XiKGPo7eFpOWSE-Psnwq1aeiy7vHOu0bYayGTQDXJuZQl7rsWHJeWe6K_VHxru-qhraZtTiGmWNo6vp47yJ6GZ8dMowGH6joiQoMoRcrRsqEJZUHPrsB_m5DkptSaL5Nye7Zy7j5hWnWCaYsDx1GzVpaT6NsuKQS04TfSm31gifSP0viMbH0tFlxQ8MG83ytubuXlXi7SOR5PmsiSLRexOCRNmu7j59R6Q0upMxWDml57dzwgbrrMDkh_wpYhPAwmiy2w8TfcvvRAH1hddmgpk2fl_dcD2a_jXvJmg5ZcnTzNvL8wy9__QtXprQB"
+      },
+      {
+        "title": "ASUS TUF Gaming Gold",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSiuFUn059JDDY6-_apyA9NF13E_IDz4KC3-DGkJzKAHkw_th6ZyOkgYWwwF_ju_QOj6f115Ox3blrp9ykj7P5BttqWvQrKbtp9IjcuJwg",
+        "price": "$129.99",
+        "extracted_price": 129.99,
+        "original_price": "$150",
+        "extracted_original_price": 150,
+        "reviews": 141,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xvgB73icbVTLrqs2FG37BR30FzqKIpmHA3QG4ZGnAYMhYRIR7ATCM0BCEvVrzm0r3Q5vq477G_cOKvVPyun4WvKy5LW9915bWv7nm-_fWPbXwohY3N1qrY_TpncdiTGTuR-btqa3pM_oHyKQRYWbCYKkSLI4AwLgPyZxHxf1eWQ5DnKSDGQIxZHnRQmATymLaZFVzD6dWKvXyRimzCRRBooiiRLPAYWXJO73rIzP7H_6T07g-DEzFEUZChCInMQrH1rafead-QGK3IyfiWMKCGWJU0b82cG2fvg69-v1xtrn52UR96zrJ8mtbVnVT86sYm3cZ3U1oazL-7qZOPNJ090mSV02dfUe07JinAWjEx7w8B1mk4oNv56bdwlfKfWhzOgnKM3EGS8rAifLPITjnD409_4tPb-di7db95YWb6z6rY6b-yn58t0PRj3o826Yu6RpAh0DL9BISLiHW7rgKFAevVDgC_S0vRiPZJGiJH-0W3AGUd7fEr7JE5-aAa889iB64iribfJYxuWKuDzKmE8x4ugKAcSFYSDsCbwwUxUSU8lpnvTbMM0Ygci2OBGXzdUro9K3KNznTb4vztCz4D7yOII4bclCGLngLGADl0cS1NiPepcUm6CkMbKUvW8ZvMdzlu1HGyygdVyoMApqSCt8o8aKI4tGC41gExloh80CevxqgcuUCxdosQ9lkYQP3h81xmOPXqGE7i56bUFh-TvcbHaaSEpc-qZZHHdNlJgJRJwLKY-FSE9f6GIA9FoBl8PB0UInP1-5ERm3Yep2gB-swE4CFB_voiq-LJ9-RfGGQJwYgevm8BWSwI118xL50YsaSomE1CE5uuyF7ROZlLhCsI4CFEd6Ar1XYSZCkUYXU9_meBGS3DNB34ZlkCZCPfgluoaXwD5y2sw3cUsD82JlKw0v0NMOI7x9qfxxR42joDlkhwcW0A0L98ORwIYWWkHnnPDLo2tPn4Fqwt6zRSneKVNJuW0uxPF2U-vlXyXl4T64_fmn0WsinAm8KIzHb0ld5xn78u2_qjH_UdBVugqM-L45b663vajU6lQv7bv1hMld1eQsTtcA6jO1opuLBSOxwtPDybwVJ6T-KGgTPRhTdK8dsxBby6BLuw0E0WMp2_Lr0bi1MTULc9HIAwqqgzGo7-v93eHgsdFkbOr52HnvApXREAtTeVGq2gOJOEeFvV6Xd5u3xKPqnFVTW200hlbDQBaUtUx7kqkTTLPVq-yK7jHP-qsy1Hc95Oc2hXGXeeJQQVJV63Ljm-T8XhUt9bHW6LYR9_ZqNdy6iJslR8zuA5JCK37GJeV5kpgoE_bVtAgDUQfBWmfpxSyXgTs1vCPJ4XgjXOcpnTok3g5LZ-Y8UXWFaa1mqbTQ2vpAX6x_VowIifZ0RVXn-CuVpGbprQ-yejlp7Hk8LlWQLnuVgkd2nbt98owqcvf4qd0ae86Y4wvdTm8rPt3FwRmIcUzvgy1Sd58GC7gZEOhLp8vvVnbti-pWrMJR79U75dcudozoQnRj_FJOf_8H1PHhHA"
+      },
+      {
+        "title": "ApexGaming AG-850M V2 Gaming PSU",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRXPZqjl9EHPcZ4nH-sVAYTPmWLKRCa7Ga2DjNSlfJHlsiqM_IiU0e0WuIJKYbPwDS-Uf9X-QOwBEuchS4coP2x7lbkIr4iavgCAbQCgXAoAgReahHerzzC",
+        "price": "$129.90",
+        "extracted_price": 129.9,
+        "reviews": 4,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wSkjkHicbVTJrqNGFE3yBVnkF3plWSqGApwdmMET2AaqeK6NhamywRSDDTbYyte8TrfUWXairPMb3YtI-ZPwepvU4i7uOXfWqb-_-_GVZX_OLMLi5lYZbZzW7XajMmaz7af6WtFb0mb0dxlo8kRQJEmdqJqsAAmIn5K4jXl1GlBNmYiiKgCgQQUKgjQRwOeUxZRnJVsfj-xqVslAewMUOFEUWRFkVYKyDH_LivjEvsF_CJImwyG9Kk-ABiYa1FT4_kqbL-Jmuh8CJhNpcAnqBIgTSZDFXzb-2tz_P_bhcmPXx5c5j1vWtKPkdr2ysh2dWMmucZtV5YiyJm-rerSZjurmNkqqoq7KN86V8WEXjI5EIMI3o4xK1n041d9G-G-p90VGP0N1GEqUh81osiwDqGrv63v7mp5eT_z11rym_JWVH6u4vh-Trz_8ZFWdOW266RbVNTZ9EPB64-I5JKhd-RgXcdSbAfB6gnXgIxoSq2-2Z35x814KecoDQKTojJ9bkQZBTrYR5isU-TJDXjRwIQoE4DrCLC7TXYBotraIERS48R0Xhg4FiJ_62GqbEPXYw3gWOOmDltvHLiRFKHbdoeQrD7SEcuKGYBIHplcFAi6IhXP3yc3oxZBc0_DQk-a-w40gguIq2j1CzNcobxEzfcW3dREXwvblSVOEAHTtdLnjXhpigwROn_sckxhYXZT3MClt18_7GbLJlNm1EoJF5Uo2JmX6Ql-QEPAUHRDZhZyL4ZMKXu4vh95XREoV15qIhNvzg8BLbNPSixZRYC3mkUWECPmAIjsmkr0ktmeHRX3cPe0bzYnni-nZi1ovPHNArLqOcW3S0gU7TFbI5juv9Gq3TJ9huPDi8-LmAS-MuL9Bll0E0jawQXuNCpwmUtWFhXcZ7rE-CIYS2v6VYvvsZAvDn3mPdUQCjElERWiwAvaIpx0JjXvi-BcWpS1FibBDgv9r31yPX4BuwzZYK2XjPHvsOI5-xKvmRmePNncjY-mz7c_CIEGoSKIsyVD9mFRVnrGv3_-jW9N3kqnTBbbi--q0utx28qTSx2axvjsPmNx1Q8vidAmgqeglXZ0dSOTSH--P9o0fPf2dZIxMPKRoni_M8dhSA03arCAg_Vxba8--3lbW2Ob2rNY6D5d7q9Pf3lvcfh-wQWRsHIT-5q0LryBdLI21WaEbvSf7ucfXy2VxX4uOfNA3J902FiuDeYuuQzPKrsx4oPEGj7PFs2h400-z9jLpqrsZidM1hXGTBXJXQlSWy2IV2uj0VtWbm0MtKEmD3a0Xi-7WEEFJDj67d54aOfEjLqgoosT2MmlXjnmEZRPgpcnSs13M8XZsBQeUw8EjXaYpHW9Q7HbzjbJ5eOUFppWeperMuFZ7-mTto2RISozHVtZNQbxQVa3nwXKv6eejwR6Hw1wH6bzVKeizy3TbJg9SonsgjtdXaydYU_9M3fFtIaYvMT4BOY7pvVvLdLtL8QyuukFuxabJ7052aXl544tomPcSHPNLE28sckamNXwpx7_-BbXv5lY"
+      },
+      {
+        "title": "Lian Li Edge Full Modular Power Supply Gold-ATX",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSlF8cPRGSB5AJ_Hw1lG7W1McRhawyX0xZBb0vHA50ukS5p-DTVDHnrUEUznyxNeI0cRZvxpULaKsxokBgdrEd0dTR24B_waQwMACvyMArhM3FItO9e5KNSBg",
+        "price": "$127.95",
+        "extracted_price": 127.95,
+        "reviews": 82,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qz8MUXicbZRLzqNGEMeTnCCLXCEryxLdPAzZgXnY2OZNY7Ox2nTbYJ4GbGyU03yTRJosJ1HWucbMIlJuEj5lO7WoRVX1_1fV6up_vvn-jWZ_rbSY4u5eKz1Om951FpTq1P3YtDW5J31G_uAYkZOAwLILaSFyAsMy8GOCe1zUl4z8CaDASvxCYgUecMICshwjfUopJkVWUft8pq1aJ5MKC0TILwSBmwpFVhJEnvs9K_GF_p-W4AJKkJckkQULIDHsAn5oSfcZOssjYAHk2AkuAiAAwPMM-NnxbPX49dyvtzttX5_XBe5p18-Se9vSqp9daEVb3Gd1NSO0y_u6mTnLWdPdZ0ldNnX1XtPSYroLSmaQgfy7E2YVHX69NO8tfgX1oczIp2kqToCixPGcwAsSBNyH5tG_pZe3S_F2797S4o1Wv9W4eZyTL9_9oNWDuuyGpRs2DVI9xt8nPYK9aWum40ZWGJX9mJTkHu4VD6mFHxrW2RoTNhg9LmTSHa4a47TXXVJ4PdLTwQr79hAhZ7cqihCmvW_0Wz8ohsDgB2LEexSK4LBHW1IW12BUVkQjPg48HeteRXJt8EF6jqLG8CPgxaFe2KviGQQawIznoNJlqY6W1lWPE9CwNNRYYuh7Mso8ycGAmfUY5k23hxqH9WTieYKlxmOgmzaCT8PNYzuKnqxfAtODfYEMkY-1NAz3ae9pZuGGKbL1OPCvO-gCZRmp1hjqiu-HgHNRc02YBKDcK63c2-0m7R3QMYbAjgN3cK9FjfUiDpHXEdXDvg_cmCErO3CBV0hCjBThhBCO9vlA8-chYPQiMYB-qgrkaya0fdD4WsJaujYcyr5P1ITBOdFdSCoXmqtgr-8SaPqRVmwRJKUXkOqUxyMpdr7O9G1UojRh6yEorVt0RfYJKEKgey1B-tXITMVbWS87ioMoOIyTTnti45u1UkoP5ACxJPfHGGFEzklksb88u_b8mZF1vvdtoeqM8YkMw5DPaNvdyerV57tI2XjU_QlMK8gL7PQQOX7xW1LXeUa_fPuvrC1_ZFWZmEjDj-1le7sfOKmW52ppP4wXnzxkRcxwumF4VZArsr0afMxV3vx41u_F2ZJ_ZJWZiiaJbtxTw6IbkenSbssz8XMt2uL4bNxam-uFvmrEwULVURvkd3s_dzz6dFoyOvcDz3nvwirjAbNzcVXKytPivNwq7M2mfNjQ4E6yc5F1xdwq1DKHIVwR2lLlFc4dNM_MseyK7rnM-ps01A81gkub8LjLfG6o-LCqNuU20MPLO9VaqxOLZ9nJH2zTHO5dDITk5NHHYC0iA79wSSAME93K2EM1LyLEqQzaqDS96uUauXPNP4U5P0XY2zIlcyfEu2HtCM7Lqm58WstZulgpbX0kI-1fFQ3ZRHm5nKwCeCOLRbP2N0dRvp4V-jqd1jKTrnuZMM_stnT75BVX4cOHc7vVDkBbeleym99NmO4xujAcxuQx2BxxDyla8dvBYvrS6fKHkd36oroXZjTNe_PP-a3DjhZfQ1WbvpTz3_8B4c3kVQ"
+      },
+      {
+        "title": "ASRock 850W Gold Full Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTKlH-TkpEn8_oxM7nEmI33wmD3k2Dz6Etn_4PNHN0jbLlSsifR7ivaJuqkM5ZzncXZ0RD8sfueULu4KMiz63ztyi4emZlfGESkOBjm2JSfQtaONpOKI-Tc",
+        "price": "$84.99",
+        "extracted_price": 84.99,
+        "original_price": "$150",
+        "extracted_original_price": 150,
+        "reviews": 2,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jsSA6XicdVTLrqNGEE3yBVnkF2ZlWWoaMJAdGAPG12Bejc3GArptME_zMGDla-5kRposJ1HW-Y2ZRaT8SbizTnpRavWpqnOqpNN_f_fjK0n_1DYBCdu-krowqTvrwBGiEOtT3VS4j7sU_84AnhGoFU1zAsczK0AD-CkOuzCvrjPK8jxLQwZSPOThDLJQ-JyQEOdpSczLhTRyFb-lAR4wFM3M6VAQBIbiqN_SIrySb_AfFDWTcAKEgKUEgaNoluHfN7j9whzWZwpytLCieZoR5htFryiO--Vgm_L5f8AP954005dtHnak7RZx3zSk7BZXUpIm7NKqXGDSZl1VLw7rRd32i7gq6qp8y2lIPm-D4AUEkH0Lq0VJhg_X-pvK_-B6X6T4M8utmBXkBYbhAM2t5lHe14_uNbm-XvPXvn1N8ldSfqzC-nGJv_7w06Ya5HU7rC2vrpFsA8eVKHKskz2N2BB0FnbFCR_tDKmd5hZ42HtsijU0WMdAjgvcG2VMx7ctY92UXXQztkdgaJFSq0cQ7LCSDC6t--Rmdw4cU8sXLL9AGVH23R4mSZzrg3eTcstTaIwQOD43o-nikajC1gF2bypYsz2WcWVxsn082CmARok9y0dPz1Mqoo47z8fVHm4p5Oq9k1HSKeueNkSS7xl6tBHcWJFAXOa3GAhTrApHyz0NJzqQfUUZg8KQjSNqMY0a56brRo5035U0pCW7sKyNvSJVgTqaUR5PewqbAW2j_azVfRpgryqZDWauHCH3WBdzneN4LAqg4qOs7UKPzT1QQ1c2DgGl7ILSHjEUVq7HQ0dRagTHJFINOrhZXeRaNL4FwHO3TCxvp70WuKjIddsbm_DpsXamMBHUN8HG1vZZkmI36e0ShSTrLjZsHQV0zbzXJKarwS2Mu39DZkRJK1exG4yUm5rqkq0Zk-kH7glhL5KT0S_01oI1iFQFzSrWUS7t_Fzfn7JA-nVsm8sXICps55irslWfI1JVVbygl7bH2tRle1_a2cT6mZpdyK5mz81u4j7GVZWl5Ov3_4ib9TtaFrGONuHj5fpy70-MUIlLuTAf6sTGD1Hi0zDZAVZeiSV-ualswJT28nxR-vxiiO9oaSGjuUX7PBLVIDsetEn7woJg3PIm_xxrq9oslVzRan4wUHneDOLbeas7nx0yu4wsHdc-vKkwimAI6SWvFaI0GoydGbm52xUPE6pMJB6uoiLpLxIx9GHwNEwaIk3e8oCWqf4s2rwd12l3F4bqIftwbWI2bFOHGUrWK8td8eIq3vWN1djKMxdL03M8mbo-9G1AreLIJo_B4Hw1nMICQ-jFipHSp3KZ-4iRAdrJJLkpxRZZy40TeRk7v9D3dYKXBy_cD9vD6jAZ5Z1NKjFNOE1qqjN-km4qiUfH0mQxokzBO-a4euvszrx4u0hkiqKtCJJtJ2Iwpve11cVTUHoPBy7NZnOiNmv7hvfLXofJMURXwIQhfgwmg61TgjT2ZTBAVxza7KGm9y4v-1z353nvziW7t-FhE9w8eTN_KZe__gW3h-Vy"
+      },
+      {
+        "title": "PowerSpec 850 Watt 80 Plus Gold ATX Fully Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQMHJ0vXdfep-IScoSqJ1m3AEYxBlxk5P_t0HXJuD6LGTdsYeTCEeOO_xPQPELa4UogQKIkzMJXgfyMSrQGEexMtqnXmDiB",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mDAEs3icLVPLrqM2GO68QV9iVlEkwIZAdxAggSQkQGwSNkcOdgIJt3BPnqY6pzPSdDlTdd3XmFlU6puUU9WLf2F__i7W579_-vmVJX8ujZCRui20hsRl4-5mjJnM_VJWBW2jJqHfICdDhZcAmCkzGUoc4IQvEWlIWlwS-gfP8YoCBVkRIS8rM0mSZsrXmBGaJjnbns-s0ovoPxzgZ4IMBAXIvKjwM3kGf08ycmH_n4sji8gpPBShwgmcCDjwVtH610_3llWP71ZKGlY3k6itKpY3kwvLWUWapMgnlNW3pignu_mkrNtJVGRlkb9jKpaO0RidCJwgvg9pkrP-06UcBb8pUBLh6BcCKAFJEkeDb1lCv4ozCUqCzMkyUMZUkqK8lV3zGl9eL-lrW7_G6SvLPxek7M7Rjw9vRhXN512kuagsse5xfsCXBONiA5wNOTgOFWJ7q9s7TwgLZpRXD0cgyunR5eTB0WmOcq1gpgv3XOo4AR96uuaHKLV9dByiwNtTjneD_RHgq2afjJBgM70TUD4RKAaCzKeTYbwxUveUeShA3mFEShtkPN0DLcgt9kMcCpugabFJw2hp98eb7ZwWTXY8IOF0SHt3P-rcSoyXTohRLZCsgTjXLCrYC4RK18e4pAvFo9iZe1l8CAPlRoIB4IVjnQzH3udxcczMDcZh4KBoWAfhPcrTzT73LCdQ4FGoxROmSYgvQ4DDBz5o_QZsGizQK-XE2-lpzsneFqN9qJGAH91YB19oSBiYT3bVtkehJA4SO7QsN3jR8CjYEOtmGhGwxDD1VmP2xfiWz1Nq3_ZpKjHTAQjxV2xEgy_AZ7SIfhvq6vydU02x8bcSexrQhkIqd0rbDmtvXVHNX3Ei2l5-GVsJRQkIYydE-XNUFLeE_fjwj2rMPwJdpTY2SLe-rO_tESqFOtWzbbd4iFGnanJC4pFEl9Scrq8LMYS5N305m216dtSPQJvoeKSonwe2cNhK5uq4XotcOFjyVn4OpVsYUzM1l6XcOzh_MXr1fb3fe3nx2dh5NvX33u7dhZOFPQFTeZmp2uBA7-ak29Uq67bCAp7U3UU1NXutMcfue7SkrGLaA013eJrYz6xO62GeNHelLzo9EOZbKpI68WGfiyjPV9l6b6LLu6pj6aOWCMA4j1vb7ts65KXo5LGud2bBgjxIRgUBRaaTgGM-TQMMdQ6vdBZfzczC7tTwT-gmjjvgPo_pdIfIprd20u7h5HcxLtQkni21qnihT9Y8coZApD1cqOq8cKezWWn5qxdZvZ419jidLJWLrUal3JDc524TPcIcdb4w3VbGkTfm3pVupq0txAeCLxwkhHb9FlL3GOOluO4drsl29a1bJPcmzdvUDsa8d_98u9dkZ4RXpBvjDz__9S-CwrOI"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Wattage",
+        "items": [
+          {
+            "name": "Any Wattage",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7NVEYHicdVRNzqNGEE1ygkg5w6wsS03TgJ0dGLCNbWwaaGM2FqbbgPk1YPiwcppvMiNNlpNo7jKziJSbhG_WSS9qUVWvXlU9Vf_9w8-vLPmy0nwWNI9SaYO4aq2DxJjOrE9VXdJH2Cb0TwRmaM6JPC_NpRkSAQ_gpzBog6yMxig_Axw35zhBQhBBXuA58XPMApolBdtfr6xWy3BMk_iZKIkCAEiaIx4iCXJ_JHkQse_hv0Y8P2IRN7LMkCDAOTd7X9PmKzoszpwkcbwIRUEAcEQjgRPmvx3wXj3_T_DD_cHq4es6C1rWtJPwUdesaCcRK1gdtElZTChr0rasJofFpGoek7DMq7J4y6lZNm6D0QkEUHgz4qRg_Yeo-t7lf3C9zxP6WZBEJMLv8wEOCmB0V137GkevUfb6aF7j7JUVH8ug6q7ht59-0cpGXTT9wnKriqgY2CBb0KJ8Bnx2sgDuqaNDkrkD1kIYqlmLV_HTSmnhu7q-U427A339xCvAfKaIQHy9LIlxzE1j78Sbywov6XMHXccYLlnV4adiEc_c7ICpY1VGW4_q7ipDRKcb09M9XGQ33yuFC6B7ltJ-69CnmQsehQLBBHPEiced4Lur-vUpRT1dhshyzCE84sLU58Ty9IBo7eKYtsB04tIl8RPrZnpyYg4vLcHh9Z37xK6f-yYhxKZQ50wHx9aTcAHQeuwZ8cUhyNYph_MIOrmxP6qn1oZk5ah46ah0t-Mqw_Hi2C3iqwd95Ke4D13CY41glzMMK1N2bkF05mJokfDllFU2TsNhl2OfeLEVeBEKcipeIOUsoO8cNWwvN3J1XcG2bkZ9dNvDWMe1PQrsFalNoPf20lifsrm3S_WTOXABAVXs8uG4t2pFYWPraawfcxKHPOmsAsfBSgEukXn_SJY-0YJ1qmshvxb8DK_sEb9zI2TD7DTqhJ1bfDw5lHeBD_DNiMkq_P2lqa9fgawLrb0Xjl3dc4hY4Xk_eFHc-cNd4UuxPsP-V-7tQEQewhk_n38MyzJN2Lcf_5G1xTtelakxcnfbaHt_nNC8lKdqvu-WgxB2sjJLgngDBFWUC7q9LQUfFXh6vuqP7GrK73hlopKxRPP02NJkmxlo4mYrAP9lPdvPni-VVWpTPdNX1aw3SXHWevntveHOZ5uNR8amtoMPb12Yud8H_HS2ymXlxUQ4NbP9ZpN3e7hEF_kQybpibBVmGn3vriirmTK40wOZJsYzb7LmZZG093lfduoRLvZUCJrERn0huEWxybeO7kZvrOZaHbnGf2O0p71h9I_G58TwglnXm9JxGQyj5hC6oW4m_KmYZkeCVEA2Kotver4m1lSzL24qjB7-vojp9OAGu359EA-DWdyFuJSTWFopdXmmT9YOBRvlVwYLySoH71SSqrW9Oc_k21Vhw-WylkG8bmUKXpL7wmrDwS_czobTfa2dOG2Bb3Q3fRgw9gISARQEtOv3iFqnUXxh25ugzQ9N2i2Te5sVj8w4jvPe7Wt6b4KD5t9cVRt_lOsXLUKJcjS7y3I-bCKSXJb6Lej_Bc2N6sI"
+          },
+          {
+            "name": "750 W",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ROtqfXicdVRNzqNGEE1ygkg5w6wsR03TYDs7MGAb29g00AY2FqbbgPk1YPiwcppvMiNNlpMod5lZRMpNwjfrpBe1qKpXr6qeqv_-7sdXlvy1Vn0WNI9SboO4as3jjDGNmZ-quqSPsE3oHwjM0YITeX62mM2RCHgAP4VBG2RlNEb5OeC4BccJMwQR5AWeEz_HLKBZUrDD9cpqpQzHtBk_F2eiAACaLRAP0Qxyvyd5ELFv4T9HPD9iETeyzJEgwAU3f1_T5gs6Ls_cbMbxIhQFAcARjQROWPx6xAfl_D_BD_cHq4cvmyxoWdNOwkdds6KdRKxgddAmZTGhrEnbspocl5OqeUzCMq_K4i2nZtm4DUYnEEDhzYiTgvUfoupbl__B9T5P6GdhJiIRfpsPcFAAo7vq2tc4eo2y10fzGmevrPhYBlV3Db_-8JNaNsqy6ZemU1VEwcAC2ZIW5TPgM88EuKe2BknmDFgNYahkLV7HTzOlhe9o2l7R7zb0NY-XgfFMEYH4elkR_ZQb-sGOt5c1XtHnHjq2PlyyqsNP2SSusd0DQ8OKhHYu1Zx1hohGt4arubjIbr5bChdADyyl_c6mTyMXXAoFggnmiB2PO8F3R_FrL0U9XYXItI0hPOHC0BbEdLWAqO3ylLbAsOPSIfETa0bq2TGHV6Zg89reeWLHz32DEGJRqHGGjWPzSbgAqD129fhiE2RplMN5BO1cP5wUr7UgWdsKXtkK3e-5SrfdOHaK-OpCH_kp7kOH8Fgl2OF03czkvVMQjTkYmiR88bLKwmk47HPsEzc2AzdCQU7FC6ScCbS9rYTt5UaujiNY5k2vT057HOs4lkuBtSa1AbTeWukbL1u4-1TzjIELCKhihw_HvVVrChtLS2PtlJM45ElnFjgO1jJwiMT7J7LyiRpsUk0N-Y3gZ3htjfi9EyELZt6oE7Zv8cmzKe8AH-CbHpN1-NtLU1-_AEkTWusgnLq65xAxw_NhcKO484e7zJdifYb9L9zbgYg8hHN-sfgYlmWasK_f_yOpy3e8IlF95O520e7-8NCilKZKfuhWgxB2kjxPgngLBEWUCrq7rQQfFXh6vmqP7GpI73h5opCxRPN02cpg2zlo4mYnAP9lMz_Mny-VWapTLdPW1bw3SHFWe-ntveHOZ4uNR8amlo2Pb10Yud8H_HS-ziX5xUA4NbLDdpt3B7hCF-kYSZqs72Rm6H3vrCmrmTw40yOZJvozb7LmZZm090VfdsoJLg9UCJrEQn0hOEWxzXe25kRvrMZGGbnGf2O03kHX-0fjc2J4wazrjdlpFQyj5hA6oWYkvFdMsxNBCiBbhcU3Ld8Qc6paFycVRg9_X8Z0enSCfb85isfBKO5CXEpJPFvLdXmmT9YOBRvllwcTSQoH73Q2qzbW9jyXbleZDZfLRgLxppUoeEnuS7MNB79wOgtOD7XqceoS3-h--tBh7AYkAigIaNcfEDW9UXxh1xugzY9N2q2Se5sVj0w_jfPerWt6b4Kj6t8cRR1_lOuXn9UIJfLJ6C6rxbCNSHJZabfgZWNuIsp7LgbeiWbbyOENW4po_y8kAfMH"
+          },
+          {
+            "name": "850 W",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7NVEYHicdVRNzqNGEE1ygkg5w6wsS03TgJ0dGLCNbWwaaGM2FqbbgPk1YPiwcppvMiNNlpNo7jKziJSbhG_WSS9qUVWvXlU9Vf_9w8-vLPmy0nwWNI9SaYO4aq2DxJjOrE9VXdJH2Cb0TwRmaM6JPC_NpRkSAQ_gpzBog6yMxig_Axw35zhBQhBBXuA58XPMApolBdtfr6xWy3BMk_iZKIkCAEiaIx4iCXJ_JHkQse_hv0Y8P2IRN7LMkCDAOTd7X9PmKzoszpwkcbwIRUEAcEQjgRPmvx3wXj3_T_DD_cHq4es6C1rWtJPwUdesaCcRK1gdtElZTChr0rasJofFpGoek7DMq7J4y6lZNm6D0QkEUHgz4qRg_Yeo-t7lf3C9zxP6WZBEJMLv8wEOCmB0V137GkevUfb6aF7j7JUVH8ug6q7ht59-0cpGXTT9wnKriqgY2CBb0KJ8Bnx2sgDuqaNDkrkD1kIYqlmLV_HTSmnhu7q-U427A339xCvAfKaIQHy9LIlxzE1j78Sbywov6XMHXccYLlnV4adiEc_c7ICpY1VGW4_q7ipDRKcb09M9XGQ33yuFC6B7ltJ-69CnmQsehQLBBHPEiced4Lur-vUpRT1dhshyzCE84sLU58Ty9IBo7eKYtsB04tIl8RPrZnpyYg4vLcHh9Z37xK6f-yYhxKZQ50wHx9aTcAHQeuwZ8cUhyNYph_MIOrmxP6qn1oZk5ah46ah0t-Mqw_Hi2C3iqwd95Ke4D13CY41glzMMK1N2bkF05mJokfDllFU2TsNhl2OfeLEVeBEKcipeIOUsoO8cNWwvN3J1XcG2bkZ9dNvDWMe1PQrsFalNoPf20lifsrm3S_WTOXABAVXs8uG4t2pFYWPraawfcxKHPOmsAsfBSgEukXn_SJY-0YJ1qmshvxb8DK_sEb9zI2TD7DTqhJ1bfDw5lHeBD_DNiMkq_P2lqa9fgawLrb0Xjl3dc4hY4Xk_eFHc-cNd4UuxPsP-V-7tQEQewhk_n38MyzJN2Lcf_5G1xTtelakxcnfbaHt_nNC8lKdqvu-WgxB2sjJLgngDBFWUC7q9LQUfFXh6vuqP7GrK73hlopKxRPP02NJkmxlo4mYrAP9lPdvPni-VVWpTPdNX1aw3SXHWevntveHOZ5uNR8amtoMPb12Yud8H_HS2ymXlxUQ4NbP9ZpN3e7hEF_kQybpibBVmGn3vriirmTK40wOZJsYzb7LmZZG093lfduoRLvZUCJrERn0huEWxybeO7kZvrOZaHbnGf2O0p71h9I_G58TwglnXm9JxGQyj5hC6oW4m_KmYZkeCVEA2Kotver4m1lSzL24qjB7-vojp9OAGu359EA-DWdyFuJSTWFopdXmmT9YOBRvlVwYLySoH71SSqrW9Oc_k21Vhw-WylkG8bmUKXpL7wmrDwS_czobTfa2dOG2Bb3Q3fRgw9gISARQEtOv3iFqnUXxh25ugzQ9N2i2Te5sVj8w4jvPe7Wt6b4KD5t9cVRt_lOsXLUKJcjS7y3I-bCKSXJb6Lej_Bc2N6sI"
+          }
+        ]
+      }
+    ]
+  }
+}

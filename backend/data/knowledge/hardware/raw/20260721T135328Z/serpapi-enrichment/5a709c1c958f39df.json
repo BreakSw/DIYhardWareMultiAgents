@@ -1,0 +1,490 @@
+{
+  "search_metadata": {
+    "id": "6a5f7aa573bf596cd470bbda",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WfP3nGNvE8hR50tcgFwQ_w/6a5f7aa573bf596cd470bbda.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/WfP3nGNvE8hR50tcgFwQ_w/6a5f7aa573bf596cd470bbda.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:53 UTC",
+    "processed_at": "2026-07-21 13:56:53 UTC",
+    "google_url": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&oq=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/WfP3nGNvE8hR50tcgFwQ_w/6a5f7aa573bf596cd470bbda.html",
+    "total_time_taken": 12.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Corsair Vengeance RGB Pro 32GB DDR4 3200MHz CL16 Dual Channel Memory Kit memory module_count",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Corsair Vengeance RGB Pro 32GB DDR4 3200MHz CL16 Dual Channel Memory Kit memory module_count",
+    "total_results": 433,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is Corsair Vengeance RGB Pro DDR4 RAM 32GB good?",
+      "type": "ai_overview",
+      "page_token": "G6lGOHicHdBdbpswAABg7TJ9bOwkdEqkaJKHIWGNUwz-wS-Ta36cYAeUoEJ42w12iJ2qp6m07wjfn3_ufG0_v_21w9Dft4vFOI7PTdc1rno2nV_o--NqFkY7965Nu335_gJ_1GaHPwr082ZQyvqehxTkITrpqAFURn2Jp5hfGHi_FFCxaU2AxfyKZubBnPGEKddCIvmjkgcoZ875TFQuo1V2sW-VJIEGZGBh-UtgpSno1q-C1MzbFZ8dTjn1qd-cjbSe5WgSjmISkzct6LKc0YHlpct9EryKKCScghLapPIGKkHCHNgiZ27WjC9FyE-FiMYjM6Nu22XO7pBiuNdOBczRVQmc0C28ZB4O3MNIt0F7ZNM9A5sEWzWLPfKFRI-UqaNp3Y1hl54kLTJc0vicILonj5NQtMJDQaUNclbWIqaq8vbAfDPpOF0SvllnkNCn2nzsVk__p3e_az9s-1vXfAHI3otw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=G6lGOHicHdBdbpswAABg7TJ9bOwkdEqkaJKHIWGNUwz-wS-Ta36cYAeUoEJ42w12iJ2qp6m07wjfn3_ufG0_v_21w9Dft4vFOI7PTdc1rno2nV_o--NqFkY7965Nu335_gJ_1GaHPwr082ZQyvqehxTkITrpqAFURn2Jp5hfGHi_FFCxaU2AxfyKZubBnPGEKddCIvmjkgcoZ875TFQuo1V2sW-VJIEGZGBh-UtgpSno1q-C1MzbFZ8dTjn1qd-cjbSe5WgSjmISkzct6LKc0YHlpct9EryKKCScghLapPIGKkHCHNgiZ27WjC9FyE-FiMYjM6Nu22XO7pBiuNdOBczRVQmc0C28ZB4O3MNIt0F7ZNM9A5sEWzWLPfKFRI-UqaNp3Y1hl54kLTJc0vicILonj5NQtMJDQaUNclbWIqaq8vbAfDPpOF0SvllnkNCn2nzsVk__p3e_az9s-1vXfAHI3otw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJJcyBDb3JzYWlyIFZlbmdlYW5jZSBSR0IgUHJvIEREUjQgUkFNIDMyR0IgZ29vZD8iLCJsayI6IkdpOXBjeUJqYjNKellXbHlJSFpsYm1kbFlXNWpaU0J5WjJJZ2NISnZJR1JrY2pRZ2NtRnRJRE15WjJJZ1oyOXZaQSIsImJzIjoiYzMyUXZZN0NNQkNFUmV1S09zV3gwa0Y5d2FTUGprU0NLeUtkVWtCdDhNYXhSR3hrUnlEeEN2ZlN0dzRfUVlBb2R6M3plWFlZc3ZqSFEyYWRGOXJCQ28xQ1liWUk1V0lPdjg1Q25wY0psTjhGekRodGxMVXk1ZFBvUzN2WVhqeUhtOGVwRGV6Skk2Vkx3SW1HUExRSkhsYXdNWDNUTVdZOGpvdmxxWU9HTjZpc0F5VWFiVlRLSjlHbjltZGYwRFgxcVFNOTZGakdSbGVjcmZxTXZ0VzczU1VrUkI5WEVrbHVrWG9KLXh1d2JGMkxGa2pYMWdoU1Z4VTZESmRzc0QwaW1oZTlDQ1B2Sm1vbzVYazBQNzdIUEZjVk1QMUVwUTBIX3ciLCJpZCI6ImZjX3NYcGZhcHJBRkxySWtQSVA5dFhIR1FfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJJcyBDb3JzYWlyIFZlbmdlYW5jZSBSR0IgUHJvIEREUjQgUkFNIDMyR0IgZ29vZD8iLCJsayI6IkdpOXBjeUJqYjNKellXbHlJSFpsYm1kbFlXNWpaU0J5WjJJZ2NISnZJR1JrY2pRZ2NtRnRJRE15WjJJZ1oyOXZaQSIsImJzIjoiYzMyUXZZN0NNQkNFUmV1S09zV3gwa0Y5d2FTUGprU0NLeUtkVWtCdDhNYXhSR3hrUnlEeEN2ZlN0dzRfUVlBb2R6M3plWFlZc3ZqSFEyYWRGOXJCQ28xQ1liWUk1V0lPdjg1Q25wY0psTjhGekRodGxMVXk1ZFBvUzN2WVhqeUhtOGVwRGV6Skk2Vkx3SW1HUExRSkhsYXdNWDNUTVdZOGpvdmxxWU9HTjZpc0F5VWFiVlRLSjlHbjltZGYwRFgxcVFNOTZGakdSbGVjcmZxTXZ0VzczU1VrUkI5WEVrbHVrWG9KLXh1d2JGMkxGa2pYMWdoU1Z4VTZESmRzc0QwaW1oZTlDQ1B2Sm1vbzVYazBQNzdIUEZjVk1QMUVwUTBIX3ciLCJpZCI6ImZjX3NYcGZhcHJBRkxySWtQSVA5dFhIR1FfMyJ9"
+    },
+    {
+      "question": "Is 32GB 3200MHz RAM good for gaming?",
+      "type": "ai_overview",
+      "page_token": "Am164XicHdDNboIwAADg7GU8CpXMBROzjFlkTCAUWmgvS2lBtOVniqLc9i57qj3Nll2_4_f1rQ-t-nkY6mHozyvDGMdxvu-6vS7nomsMfr63whBc64ILtVo-LcFzJdbwAp3Xzzcnxn1PNshMDuASa1vjrG4oqXGmWMs02cRHBoOtzcNW8tS8LQotHtGi3pXqbMZY0hKDZWCGnsBylwNoJlvtc5MCMTmVmGSVpZIWUFgRpAPOUVuSMMmIndO01qFSI8n9KfL0O1dMZzm7oqO7o6mLZNMDDNxFYvksAS8WIexaQDtKXReVkF2K1FesCXFqslA2t45aaEPw4Et8q7lGLazZlHlOQ3PnHmMWCKVPGOo4yhFNoETbg-8gL7xHGUsQdkHpdiNqGA8SEFHQ10IhT-SO82cBy3prVonr2pr9b64_qmZY9adu_wt2-YL0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Am164XicHdDNboIwAADg7GU8CpXMBROzjFlkTCAUWmgvS2lBtOVniqLc9i57qj3Nll2_4_f1rQ-t-nkY6mHozyvDGMdxvu-6vS7nomsMfr63whBc64ILtVo-LcFzJdbwAp3Xzzcnxn1PNshMDuASa1vjrG4oqXGmWMs02cRHBoOtzcNW8tS8LQotHtGi3pXqbMZY0hKDZWCGnsBylwNoJlvtc5MCMTmVmGSVpZIWUFgRpAPOUVuSMMmIndO01qFSI8n9KfL0O1dMZzm7oqO7o6mLZNMDDNxFYvksAS8WIexaQDtKXReVkF2K1FesCXFqslA2t45aaEPw4Et8q7lGLazZlHlOQ3PnHmMWCKVPGOo4yhFNoETbg-8gL7xHGUsQdkHpdiNqGA8SEFHQ10IhT-SO82cBy3prVonr2pr9b64_qmZY9adu_wt2-YL0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJJcyAzMkdCIDMyMDBNSHogUkFNIGdvb2QgZm9yIGdhbWluZz8iLCJsayI6IkdpTnBjeUF6TW1kaUlETXlNREJ0YUhvZ2NtRnRJR2R2YjJRZ1ptOXlJR2RoYldsdVp3IiwiYnMiOiJjMzJRdlk3Q01CQ0VSZXVLT3NXeDBrRjl3YVNQamtTQ0t5S2RVa0J0OE1heFJHeGtSeUR4Q3ZmU3R3NF9RWUFvZHozemVYWVlzdmpIUTJhZEY5ckJDbzFDWWJZSTVXSU92ODVDbnBjSmxOOEZ6RGh0bExVeTVkUG9TM3ZZWGp5SG04ZXBEZXpKSTZWTHdJbUdQTFFKSGxhd01YM1RNV1k4am92bHFZT0dONmlzQXlVYWJWVEtKOUduOW1kZjBEWDFxUU05NkZqR1JsZWNyZnFNdnRXNzNTVWtSQjlYRWtsdWtYb0oteHV3YkYyTEZralgxZ2hTVnhVNkRKZHNzRDBpbWhlOUNDUHZKbW9vNVhrMFA3N0hQRmNWTVAxRXBRMEhfdyIsImlkIjoiZmNfc1hwZmFwckFGTHJJa1BJUDl0WEhHUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJJcyAzMkdCIDMyMDBNSHogUkFNIGdvb2QgZm9yIGdhbWluZz8iLCJsayI6IkdpTnBjeUF6TW1kaUlETXlNREJ0YUhvZ2NtRnRJR2R2YjJRZ1ptOXlJR2RoYldsdVp3IiwiYnMiOiJjMzJRdlk3Q01CQ0VSZXVLT3NXeDBrRjl3YVNQamtTQ0t5S2RVa0J0OE1heFJHeGtSeUR4Q3ZmU3R3NF9RWUFvZHozemVYWVlzdmpIUTJhZEY5ckJDbzFDWWJZSTVXSU92ODVDbnBjSmxOOEZ6RGh0bExVeTVkUG9TM3ZZWGp5SG04ZXBEZXpKSTZWTHdJbUdQTFFKSGxhd01YM1RNV1k4am92bHFZT0dONmlzQXlVYWJWVEtKOUduOW1kZjBEWDFxUU05NkZqR1JsZWNyZnFNdnRXNzNTVWtSQjlYRWtsdWtYb0oteHV3YkYyTEZralgxZ2hTVnhVNkRKZHNzRDBpbWhlOUNDUHZKbW9vNVhrMFA3N0hQRmNWTVAxRXBRMEhfdyIsImlkIjoiZmNfc1hwZmFwckFGTHJJa1BJUDl0WEhHUV8zIn0%3D"
+    },
+    {
+      "question": "Is 32GB of DDR4 RAM still good?",
+      "type": "ai_overview",
+      "page_token": "GfXLfXicHdBfboIwAIDx7DI-Kn-3aWKWdFDR2CKVttCXBVsVpQhqHeLb7rJT7TRbdoAv-eX7-taHU_XzZEpj2utkNOq6brhvmr3eDmVTj4prf5IjWWi9KWQ1eX55tt92chreQvB-noOEti0LiLV2xghRnIuZ50sbOyLQhofswFmLMpf6aNb5mMGbgOi-gWqFKwMYWywkHNM4AEfpvPZ_nY0fpaZc5UtqrLULccz1Na2USyNiFXZjFQFLthEoiXX38mz-IDYxOFDnZYrjpC49CZlJI71iEcEpg5mqPWeZgQvhJWR1mSNLxWm2v28Y8NIa2tgVp5yqTEVlJzlZYcc_Fs7dDUvx4BGo8wz0CRVIVvpCQ53EGcnXoSKzwwKQCPcxF2miQfjn7sWJ0JgJvgmRh6xxoxz_ug10qigBg538nLqD_5vTj11tJu2l2f8CBTiAHA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GfXLfXicHdBfboIwAIDx7DI-Kn-3aWKWdFDR2CKVttCXBVsVpQhqHeLb7rJT7TRbdoAv-eX7-taHU_XzZEpj2utkNOq6brhvmr3eDmVTj4prf5IjWWi9KWQ1eX55tt92chreQvB-noOEti0LiLV2xghRnIuZ50sbOyLQhofswFmLMpf6aNb5mMGbgOi-gWqFKwMYWywkHNM4AEfpvPZ_nY0fpaZc5UtqrLULccz1Na2USyNiFXZjFQFLthEoiXX38mz-IDYxOFDnZYrjpC49CZlJI71iEcEpg5mqPWeZgQvhJWR1mSNLxWm2v28Y8NIa2tgVp5yqTEVlJzlZYcc_Fs7dDUvx4BGo8wz0CRVIVvpCQ53EGcnXoSKzwwKQCPcxF2miQfjn7sWJ0JgJvgmRh6xxoxz_ug10qigBg538nLqD_5vTj11tJu2l2f8CBTiAHA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJJcyAzMkdCIG9mIEREUjQgUkFNIHN0aWxsIGdvb2Q/IiwibGsiOiJHaDVwY3lBek1tZGlJRzltSUdSa2NqUWdjbUZ0SUhOMGFXeHNJR2R2YjJRIiwiYnMiOiJjMzJRdlk3Q01CQ0VSZXVLT3NXeDBrRjl3YVNQamtTQ0t5S2RVa0J0OE1heFJHeGtSeUR4Q3ZmU3R3NF9RWUFvZHozemVYWVlzdmpIUTJhZEY5ckJDbzFDWWJZSTVXSU92ODVDbnBjSmxOOEZ6RGh0bExVeTVkUG9TM3ZZWGp5SG04ZXBEZXpKSTZWTHdJbUdQTFFKSGxhd01YM1RNV1k4am92bHFZT0dONmlzQXlVYWJWVEtKOUduOW1kZjBEWDFxUU05NkZqR1JsZWNyZnFNdnRXNzNTVWtSQjlYRWtsdWtYb0oteHV3YkYyTEZralgxZ2hTVnhVNkRKZHNzRDBpbWhlOUNDUHZKbW9vNVhrMFA3N0hQRmNWTVAxRXBRMEhfdyIsImlkIjoiZmNfc1hwZmFwckFGTHJJa1BJUDl0WEhHUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJJcyAzMkdCIG9mIEREUjQgUkFNIHN0aWxsIGdvb2Q%2FIiwibGsiOiJHaDVwY3lBek1tZGlJRzltSUdSa2NqUWdjbUZ0SUhOMGFXeHNJR2R2YjJRIiwiYnMiOiJjMzJRdlk3Q01CQ0VSZXVLT3NXeDBrRjl3YVNQamtTQ0t5S2RVa0J0OE1heFJHeGtSeUR4Q3ZmU3R3NF9RWUFvZHozemVYWVlzdmpIUTJhZEY5ckJDbzFDWWJZSTVXSU92ODVDbnBjSmxOOEZ6RGh0bExVeTVkUG9TM3ZZWGp5SG04ZXBEZXpKSTZWTHdJbUdQTFFKSGxhd01YM1RNV1k4am92bHFZT0dONmlzQXlVYWJWVEtKOUduOW1kZjBEWDFxUU05NkZqR1JsZWNyZnFNdnRXNzNTVWtSQjlYRWtsdWtYb0oteHV3YkYyTEZralgxZ2hTVnhVNkRKZHNzRDBpbWhlOUNDUHZKbW9vNVhrMFA3N0hQRmNWTVAxRXBRMEhfdyIsImlkIjoiZmNfc1hwZmFwckFGTHJJa1BJUDl0WEhHUV8zIn0%3D"
+    },
+    {
+      "question": "What is the difference between Corsair Vengeance and Vengeance Pro?",
+      "type": "ai_overview",
+      "page_token": "cF9W9XicHdFLjpswAABQ9TKznICBVIkUVXL4DQ1OMdgGbypiExhsPp0w44Rd79JlT9TTtOr-7d7PX_p1VH8-_e6WZb7tNxtjzHM7Ta1unsU0bOrbYxQbUWt9qYXabz9v7S9XcQim2_F4MzAj80x9bOU2nDJgH9GKemF3gLI7FYS4F919y4vUsMB7kRZxTwRlwkFGDrjnFr6ivjPSkWeibJyz-8eF8B80pB52oJv6iDVlh7DfroXTjZWqlmKwo2ztvtYgodgJKfZpTnT7aOLMq6z5VOWWTYFwUqszPEgY6bW62LsFkfCd6nkqbMkbP_gnAq_qU5OBnVMzjRof-0XMVRomMQqTLQUJw2R-l6AFIoQjYS8u1xkQg3fKY6ykoiMv0ZYOwZ3rCsgypLyci6DjK4vhUJXwkRGeCqXfSKCzc4mrPJA4ek0gjtHjzHjOiso9RztCFcWyICtXsy1pYqoezkTD6Bwt8OkqPg7O0_-Fw_frsOznt6n9C4X_k-Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cF9W9XicHdFLjpswAABQ9TKznICBVIkUVXL4DQ1OMdgGbypiExhsPp0w44Rd79JlT9TTtOr-7d7PX_p1VH8-_e6WZb7tNxtjzHM7Ta1unsU0bOrbYxQbUWt9qYXabz9v7S9XcQim2_F4MzAj80x9bOU2nDJgH9GKemF3gLI7FYS4F919y4vUsMB7kRZxTwRlwkFGDrjnFr6ivjPSkWeibJyz-8eF8B80pB52oJv6iDVlh7DfroXTjZWqlmKwo2ztvtYgodgJKfZpTnT7aOLMq6z5VOWWTYFwUqszPEgY6bW62LsFkfCd6nkqbMkbP_gnAq_qU5OBnVMzjRof-0XMVRomMQqTLQUJw2R-l6AFIoQjYS8u1xkQg3fKY6ykoiMv0ZYOwZ3rCsgypLyci6DjK4vhUJXwkRGeCqXfSKCzc4mrPJA4ek0gjtHjzHjOiso9RztCFcWyICtXsy1pYqoezkTD6Bwt8OkqPg7O0_-Fw_frsOznt6n9C4X_k-Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gQ29yc2FpciBWZW5nZWFuY2UgYW5kIFZlbmdlYW5jZSBQcm8/IiwibGsiOiJjNU55S3M5SUxGSElMRllveVVoVlNNbE1TMHN0U3MxTFRsVklTaTBwVDAzTlUwak9MeXBPekN4U0tFdk5TMDlOQk1razVxVWc4UXFLOGdFIiwiYnMiOiJjMzJRdlk3Q01CQ0VSZXVLT3NXeDBrRjl3YVNQamtTQ0t5S2RVa0J0OE1heFJHeGtSeUR4Q3ZmU3R3NF9RWUFvZHozemVYWVlzdmpIUTJhZEY5ckJDbzFDWWJZSTVXSU92ODVDbnBjSmxOOEZ6RGh0bExVeTVkUG9TM3ZZWGp5SG04ZXBEZXpKSTZWTHdJbUdQTFFKSGxhd01YM1RNV1k4am92bHFZT0dONmlzQXlVYWJWVEtKOUduOW1kZjBEWDFxUU05NkZqR1JsZWNyZnFNdnRXNzNTVWtSQjlYRWtsdWtYb0oteHV3YkYyTEZralgxZ2hTVnhVNkRKZHNzRDBpbWhlOUNDUHZKbW9vNVhrMFA3N0hQRmNWTVAxRXBRMEhfdyIsImlkIjoiZmNfc1hwZmFwckFGTHJJa1BJUDl0WEhHUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFVXRXpjVkJwVjJSbmVGRkNNVkp6ZWxob1kydDRYMUJsVTJ4Qk5tTkVSRnBTV1VsdkxVOHlSM2cwTkZOdmMwVjVkbEYyVFVscVNuVmFkVFJFZFRFMlozTnFkbWQ0UjNOT1VYRXpMVWd3UTNkUlZsaDJla2d5UWs5d1p4SVdjMWh3Wm1Gd2NrRkdUSEpKYTFCSlVEbDBXRWhIVVJvaVFVUnpjamxtVkU4MlZXMTFRazFtTTJwQlJrZE1WM2QxY1RGb05sUTJXWFJTUVEiLCJmY3YiOiIzIiwiZWkiOiJzWHBmYXByQUZMcklrUElQOXRYSEdRIiwicWMiOiJjLU9LU2M0dktrN01MRklvUzgxTFQwM01TMDVWS0VwUFVpZ295bGN3TmdJeVVsS0tUSUFzQTRQY2pDcUY1QnhETTRXVTBzUWNoZVNNeEx5ODFCeUYzTlRjX0tKS2hlek1FaGd6TnotbE5DYzFQam1fTks5RWdLR1c3N2V6UFFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gQ29yc2FpciBWZW5nZWFuY2UgYW5kIFZlbmdlYW5jZSBQcm8%2FIiwibGsiOiJjNU55S3M5SUxGSElMRllveVVoVlNNbE1TMHN0U3MxTFRsVklTaTBwVDAzTlUwak9MeXBPekN4U0tFdk5TMDlOQk1razVxVWc4UXFLOGdFIiwiYnMiOiJjMzJRdlk3Q01CQ0VSZXVLT3NXeDBrRjl3YVNQamtTQ0t5S2RVa0J0OE1heFJHeGtSeUR4Q3ZmU3R3NF9RWUFvZHozemVYWVlzdmpIUTJhZEY5ckJDbzFDWWJZSTVXSU92ODVDbnBjSmxOOEZ6RGh0bExVeTVkUG9TM3ZZWGp5SG04ZXBEZXpKSTZWTHdJbUdQTFFKSGxhd01YM1RNV1k4am92bHFZT0dONmlzQXlVYWJWVEtKOUduOW1kZjBEWDFxUU05NkZqR1JsZWNyZnFNdnRXNzNTVWtSQjlYRWtsdWtYb0oteHV3YkYyTEZralgxZ2hTVnhVNkRKZHNzRDBpbWhlOUNDUHZKbW9vNVhrMFA3N0hQRmNWTVAxRXBRMEhfdyIsImlkIjoiZmNfc1hwZmFwckFGTHJJa1BJUDl0WEhHUV8zIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "g87LE3icxZXdkqo4EIAfYJ9juXGOgCMzOlXUqQRRcRTFn_m7ofiJQQXiEBxG78677FPt02xEUXDUqbNVW9sXJN10Op3QH_3rL38WLv7-o-zF8ZI-8HySJGVMCPZR2SEBb9F16PBT4tPI8X56voxCDvvyinLrD_mWc6gscGgm05fl1FpGoNmNtMVAG9Tjl3bL4NLVsmlbFM1Z8M855U2ePRZ_3jaYUqZlFJbr7gAhO-qjOi5XBLFe7vNWwBzAfysYzLYPDDSmaF9eKwAb3wUA6vapHP2yMGrOLUk1CFnE1EO5GA-nw0wFLOAAhpJHAWjtjM61RDpFtbldohlwewhN2SV6KueOBrPRyGtn5cxLuI-bHb16da-taFoxDttXNVOTUdxFywcxtubXdNo3AGokwEvw45VcFQIaLTwy8LmvnJcl8AbZPjYQ2IfiXczqUODtiA0iP3M8J51EdFueyrgukFYTRFr7eU30sK27_eXnQHIbOnxv6THmHZv5-cRykWt6pvAz1cWKKAn12_vaTcqFQw9g0AIYE9-3--1uzyDlbhmKOSrw4VZywoxwePaajf2hviyA2RVjNZ2ss1ckm0CyXXxc2GxoMAEgQ7O6rbUG_lrRLJkzVKRyQKMHUirS5JTduA-UrwqMDwtyddQ-2S-fAczCKxpjL7O1jg6GUmRQYde2OEDSK4YyPHVXfnC0d-nDaoFvYOQ0ZXdEA0NYPIq2O0E158dMrChfgfHG9A7Gh59RukjbJ3TY95hUkT72CbAyUa_yekmucbMXDLLyP6nmPAWqn3T8d-T9kD4f6af4_ANvJvNGS4j1sXG-6klg_0Y_cP53LtJuQbJucYYL7xsu0m6BL3eLfRElGRep3yNULnKxSMdit2ifdItzXHSKXBy7hXHSLY5cbFO5zgW8xgW8xAX74X_hwrjARdYtclwsTroFPNzq1nTk4ve7hfXvukWKCdoNxdaxmuOLLaQ5fCKBKNwiRYs7OFakZlUd_gjX424Mvm0h0yB-CCzXvzFn7gOsdOK1e2MyA3lALvcuKySi1iwqPaEQIyt0UGnYgqVBREq3FTZpNIZVNhOEXntTUrriXamxsvyS4llhiPxSDwUkWpceZ3Ep2E0D4q58ZDpkFcZc4EdEFixpPB3WknE3vNtUHDJubl4JTGLDftKrktWai6Y_2jiSICj4bTSxJH2qrnq0IhnmSB3RpN7SLYlWlqNY0wP1eWCN7we2TdfGWzSB720hWQs1ONHwiwlH63aDfoj0KVneTSqTjTSaDmHdUHRCB9qcdlCtUlPTrKj8NhSk4Wt4b-uUY9dBkSxyQeTIrBCrGOgGeMbQAQqrMgWDiUXYmLCK5ahjmYh-yBW3Pq1L94Jl1ySrdoe4AMfrpVwXOBpGsvgPW6AykA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g87LE3icxZXdkqo4EIAfYJ9juXGOgCMzOlXUqQRRcRTFn_m7ofiJQQXiEBxG78677FPt02xEUXDUqbNVW9sXJN10Op3QH_3rL38WLv7-o-zF8ZI-8HySJGVMCPZR2SEBb9F16PBT4tPI8X56voxCDvvyinLrD_mWc6gscGgm05fl1FpGoNmNtMVAG9Tjl3bL4NLVsmlbFM1Z8M855U2ePRZ_3jaYUqZlFJbr7gAhO-qjOi5XBLFe7vNWwBzAfysYzLYPDDSmaF9eKwAb3wUA6vapHP2yMGrOLUk1CFnE1EO5GA-nw0wFLOAAhpJHAWjtjM61RDpFtbldohlwewhN2SV6KueOBrPRyGtn5cxLuI-bHb16da-taFoxDttXNVOTUdxFywcxtubXdNo3AGokwEvw45VcFQIaLTwy8LmvnJcl8AbZPjYQ2IfiXczqUODtiA0iP3M8J51EdFueyrgukFYTRFr7eU30sK27_eXnQHIbOnxv6THmHZv5-cRykWt6pvAz1cWKKAn12_vaTcqFQw9g0AIYE9-3--1uzyDlbhmKOSrw4VZywoxwePaajf2hviyA2RVjNZ2ss1ckm0CyXXxc2GxoMAEgQ7O6rbUG_lrRLJkzVKRyQKMHUirS5JTduA-UrwqMDwtyddQ-2S-fAczCKxpjL7O1jg6GUmRQYde2OEDSK4YyPHVXfnC0d-nDaoFvYOQ0ZXdEA0NYPIq2O0E158dMrChfgfHG9A7Gh59RukjbJ3TY95hUkT72CbAyUa_yekmucbMXDLLyP6nmPAWqn3T8d-T9kD4f6af4_ANvJvNGS4j1sXG-6klg_0Y_cP53LtJuQbJucYYL7xsu0m6BL3eLfRElGRep3yNULnKxSMdit2ifdItzXHSKXBy7hXHSLY5cbFO5zgW8xgW8xAX74X_hwrjARdYtclwsTroFPNzq1nTk4ve7hfXvukWKCdoNxdaxmuOLLaQ5fCKBKNwiRYs7OFakZlUd_gjX424Mvm0h0yB-CCzXvzFn7gOsdOK1e2MyA3lALvcuKySi1iwqPaEQIyt0UGnYgqVBREq3FTZpNIZVNhOEXntTUrriXamxsvyS4llhiPxSDwUkWpceZ3Ep2E0D4q58ZDpkFcZc4EdEFixpPB3WknE3vNtUHDJubl4JTGLDftKrktWai6Y_2jiSICj4bTSxJH2qrnq0IhnmSB3RpN7SLYlWlqNY0wP1eWCN7we2TdfGWzSB720hWQs1ONHwiwlH63aDfoj0KVneTSqTjTSaDmHdUHRCB9qcdlCtUlPTrKj8NhSk4Wt4b-uUY9dBkSxyQeTIrBCrGOgGeMbQAQqrMgWDiUXYmLCK5ahjmYh-yBW3Pq1L94Jl1ySrdoe4AMfrpVwXOBpGsvgPW6AykA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "CORSAIR Vengeance RGB PRO DDR4 RAM 32GB ...",
+      "link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B081XWLQKS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FCorsair-VENGEANCE-3200MHz-Compatible-Computer%2Fdp%2FB081XWLQKS&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECBgQAQ",
+      "displayed_link": "https://www.amazon.com › Corsair-VENGEANCE-3200...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "32 GB RAM, Memory Technology: DIMM, Memory Speed: 3200 MHz, Compatible Devices: Desktop computers with Intel Z390, AMD 400 Series, 500 or X570 chipsets.",
+      "snippet_highlighted_words": [
+        "32 GB",
+        "Memory",
+        "Memory",
+        "3200 MHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "32 GB RAM, Memory Technology: DIMM, Memory Speed: 3200 MHz, Compatible Devices: Desktop computers with Intel Z390, AMD 400 Series, 500 or X570 chipsets.",
+          "source_info_link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B081XWLQKS",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FCorsair-VENGEANCE-3200MHz-Compatible-Computer%2Fdp%2FB081XWLQKS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FCorsair-VENGEANCE-3200MHz-Compatible-Computer%2Fdp%2FB081XWLQKS",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B081XWLQKS"
+    },
+    {
+      "position": 2,
+      "title": "VENGEANCE® RGB PRO 32GB (2 x 16GB) DDR4 DRAM ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16?srsltid=AfmBOooKPDYt-ph4DWhbMCPijkn3SbXItXvs1q8qEX5K3X_VC0C0Qxav",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmw32gx4m2e3200c16%2Fvengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16%3Fsrsltid%3DAfmBOooKPDYt-ph4DWhbMCPijkn3SbXItXvs1q8qEX5K3X_VC0C0Qxav&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECB0QAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "3200MHz C16 Memory Kit. Current price: $315.99$315.99 qualifies for free shipping Order today for estimated delivery by 07/24/2026-07. NO WIRES REQUIRED",
+      "snippet_highlighted_words": [
+        "3200MHz",
+        "Memory Kit"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "3200MHz C16 Memory Kit. Current price: $315.99$315.99 qualifies for free shipping Order today for estimated delivery by 07/24/2026-07. NO WIRES REQUIRED",
+          "source_info_link": "https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16?srsltid=AfmBOooKPDYt-ph4DWhbMCPijkn3SbXItXvs1q8qEX5K3X_VC0C0Qxav",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmw32gx4m2e3200c16%2Fvengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16%3Fsrsltid%3DAfmBOooKPDYt-ph4DWhbMCPijkn3SbXItXvs1q8qEX5K3X_VC0C0Qxav&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmw32gx4m2e3200c16%2Fvengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmw32gx4m2e3200c16%3Fsrsltid%3DAfmBOooKPDYt-ph4DWhbMCPijkn3SbXItXvs1q8qEX5K3X_VC0C0Qxav",
+      "source": "corsair.com"
+    },
+    {
+      "position": 3,
+      "title": "CORSAIR VENGEANCE RGB PRO 32GB (2x16GB) DDR4 ...",
+      "link": "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHHF83J",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black%2FJ39QHHF83J&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECC0QAQ",
+      "displayed_link": "https://www.bestbuy.com › product › corsair-vengeance-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Number Of Modules: 2 Memory Capacity (Total): 32 gigabytes. Running at 3200MHz, it ensures smooth multitasking and snappy responsiveness.",
+      "snippet_highlighted_words": [
+        "Number Of Modules: 2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Number Of Modules: 2 Memory Capacity (Total): 32 gigabytes. Running at 3200MHz, it ensures smooth multitasking and snappy responsiveness.",
+          "source_info_link": "https://www.bestbuy.com/product/corsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHHF83J",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black%2FJ39QHHF83J&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black%2FJ39QHHF83J",
+      "source": "Best Buy"
+    },
+    {
+      "position": 4,
+      "title": "[RAM] Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 ...",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/wmjd1r/ram_corsair_vengeance_rgb_pro_32gb_2x16gb/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2Fwmjd1r%2Fram_corsair_vengeance_rgb_pro_32gb_2x16gb%2F&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECCkQAQ",
+      "displayed_link": "20+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4-3200 C16 Desktop memory – White - $117.99. It's especially noticeable in the 1% frames in video ...",
+      "snippet_highlighted_words": [
+        "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4-3200 C16 Desktop memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4-3200 C16 Desktop memory – White - $117.99. It's especially noticeable in the 1% frames in video ...",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/wmjd1r/ram_corsair_vengeance_rgb_pro_32gb_2x16gb/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2Fwmjd1r%2Fram_corsair_vengeance_rgb_pro_32gb_2x16gb%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2Fwmjd1r%2Fram_corsair_vengeance_rgb_pro_32gb_2x16gb%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 5,
+      "title": "Corsair Vengeance Rgb Pro 32GB",
+      "link": "https://www.ebay.com/shop/corsair-vengeance-rgb-pro-32gb?_nkw=corsair+vengeance+rgb+pro+32gb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ebay.com%2Fshop%2Fcorsair-vengeance-rgb-pro-32gb%3F_nkw%3Dcorsair%2Bvengeance%2Brgb%2Bpro%2B32gb&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECCsQAQ",
+      "displayed_link": "https://www.ebay.com › ... › Memory (RAM)",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+      "snippet": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200MHz Memory Kit Pre-Owned $154.99 Buy It Now … known for its high-speed performance and dynamic multi-zone RGB ...",
+      "snippet_highlighted_words": [
+        "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200MHz Memory Kit"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200MHz Memory Kit Pre-Owned $154.99 Buy It Now … known for its high-speed performance and dynamic multi-zone RGB ...",
+          "source_info_link": "https://www.ebay.com/shop/corsair-vengeance-rgb-pro-32gb?_nkw=corsair+vengeance+rgb+pro+32gb",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ebay.com%2Fshop%2Fcorsair-vengeance-rgb-pro-32gb%3F_nkw%3Dcorsair+vengeance+rgb+pro+32gb&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fshop%2Fcorsair-vengeance-rgb-pro-32gb%3F_nkw%3Dcorsair%2Bvengeance%2Brgb%2Bpro%2B32gb",
+      "source": "eBay"
+    },
+    {
+      "position": 6,
+      "title": "Corsair Vengeance RGB PRO - Specs, Review and Testing ...",
+      "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U",
+      "displayed_link": "54.5K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9YW812GvpQmzkaQRxdXDfjFW1GxuKi87mAQ_MLI6JJIlnH6prh7LsRg&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "We will be covering the Corsair Vengeance RGB PRO Detailed Review show you the specs and features of the DDR4 32gb 3200Mhz rgb memory and a ...",
+      "duration": "4:22",
+      "key_moments": [
+        {
+          "time": "00:08",
+          "title": "Specs",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=8"
+        },
+        {
+          "time": "00:48",
+          "title": "Review",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=48"
+        },
+        {
+          "time": "02:00",
+          "title": "Dram Module",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=120"
+        },
+        {
+          "time": "02:26",
+          "title": "Latency",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=146"
+        },
+        {
+          "time": "02:55",
+          "title": "Lighting",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=175"
+        },
+        {
+          "time": "03:07",
+          "title": "Dram",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=187"
+        },
+        {
+          "time": "03:29",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=IVzhT0jPp-U&t=209"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We will be covering the Corsair Vengeance RGB PRO Detailed Review show you the specs and features of the DDR4 32gb 3200Mhz rgb memory and a ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIVzhT0jPp-U&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIVzhT0jPp-U",
+      "source": "YouTube · True Tech Finds"
+    },
+    {
+      "position": 7,
+      "title": "CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) 288-Pin ...",
+      "link": "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236570?srsltid=AfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black%2Fp%2FN82E16820236570%3Fsrsltid%3DAfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECCcQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Corsair",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMW32GX4M2E3200C16 ; Combo Savings:$138.00 ; Subtotal:$820.96.",
+      "snippet_highlighted_words": [
+        "CORSAIR Vengeance RGB Pro 32GB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMW32GX4M2E3200C16 ; Combo Savings:$138.00 ; Subtotal:$820.96.",
+          "source_info_link": "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236570?srsltid=AfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black%2Fp%2FN82E16820236570%3Fsrsltid%3DAfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black%2Fp%2FN82E16820236570%3Fsrsltid%3DAfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236570?srsltid=AfmBOopVQgQ08B2XuwJEEbb-x2Ak7FewE-0m5rTjtQ0hZ65NnyJ0_8ks"
+    },
+    {
+      "position": 8,
+      "title": "Vengeance PRO RGB Review - 3200MHz CL16 iCUE DDR4 ...",
+      "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU",
+      "displayed_link": "100.7K+ views · 7 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0nKKNjYUtfZZqyscdTFjCBUJRUYHmbeYvbY2sJcRvH8Rnd4jk75gajA&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Corsair have released their RGB memory with 14 individual lighting zones, and also included XMP Profiles on today's model with 3200MHz CL16 ...",
+      "duration": "4:47",
+      "key_moments": [
+        {
+          "time": "00:53",
+          "title": "Specs",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=53",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmtvt1tuvAeJTrX8ttdNNVHYd6QAlzMB_94o5hh3_MPQ&s="
+        },
+        {
+          "time": "01:11",
+          "title": "Overclocking",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=71",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcBoThZGw2kDefqqwSPsoD2EAIXkSeNhbBggNrZr5hgA&s="
+        },
+        {
+          "time": "01:27",
+          "title": "ICUE Software",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=87",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTslLXWKUR3u6N-DQLS8PSz5TF-ZXu9nvejsRGxzaIIng&s="
+        },
+        {
+          "time": "01:44",
+          "title": "ICUE software issues",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=104",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvGYev-Ol8pwEVpxJGOW2eXsKY6dnX-yfrkaimmMQHRA&s="
+        },
+        {
+          "time": "02:06",
+          "title": "Pricing",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=126",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMRtl-BrmL5e0l4VYiItSlqe2PBQ8g7lHhTvXBpG3D3w&s="
+        },
+        {
+          "time": "02:37",
+          "title": "Thermal Performance",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=157",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHXq7oP39sA2WC0YR8-AOChPC5m7AmUe6GcsZKSqK_fg&s="
+        },
+        {
+          "time": "03:01",
+          "title": "Up to 4000MHz XMP profiles",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=181",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbVOL9jX15IgEgikuLS06WgDw7utP6FCKSc-3dBcdB8Q&s="
+        },
+        {
+          "time": "03:11",
+          "title": "Vengeance RGB vs Vengeance PRO",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=191",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRv4_0UcLk3yIvUxv3_KONMLZy88004YrPRgVu59ulNgA&s="
+        },
+        {
+          "time": "03:28",
+          "title": "Final thoughts",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=208",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBbAUxVcp2koDLrq2Onasnc-V5GsvF0IfVm-NMEbGZFQ&s="
+        },
+        {
+          "time": "04:17",
+          "title": "Giveaway",
+          "link": "https://www.youtube.com/watch?v=sYn1I4Nz5AU&t=257",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpaQ6_BqKhnxa9qcPPCCKK2bUBfwzRzBJ_vOImk7P-Xw&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Corsair have released their RGB memory with 14 individual lighting zones, and also included XMP Profiles on today's model with 3200MHz CL16 ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsYn1I4Nz5AU&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsYn1I4Nz5AU",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQW-f4PSqtSUZ-S_3Xgm9QxkFtPpN8Cq1dnDg",
+      "source": "YouTube · Tech YES City"
+    },
+    {
+      "position": 9,
+      "title": "Corsair Vengeance RGB Pro RAM review: In a class of its ...",
+      "link": "https://www.windowscentral.com/corsair-vengeance-rgb-pro-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.windowscentral.com%2Fcorsair-vengeance-rgb-pro-review&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQFnoECCUQAQ",
+      "displayed_link": "https://www.windowscentral.com › Hardware › Desktops",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEVHcEz_twL_uQH_uQHpMVHvO016AFd3AFZ1AFR6AFn_uQH_uQHxPUzzQEzxOk6BAF17AFjRJlaDAF50AFP_uALzQEyDAF52AFXtOU7dKVSDAF5-AFr_uQH_tQLyP0zKBlzPAF2AAFv5hS3VAV2lAF6CAF3-rgT_uQH3cjblK1SXAF78nhTzQUvSAF2DAF71Xj73bzaDAF7yQEzzQExLTNd_AAAANHRSTlMANcZrV8Zyzbo0_596__-x_wr_yuGx6eEx_1-kEP_b_-AQ2__ejv9a_____-7v1_-wfpERLdSlygAAAM9JREFUeAHV0NUBQkEMBdHB3d3dHfrvjWQvWsI7v7MaIiYWjyeQZCqVRNKZbM5a3hRwxVKpVC7iKlWTI553MaBWcuUakKt7bNAMsQm0SkELaNe9dijkgwTdkvS69Ot1rwOGiiPGapPJFEteZ2jraDQv68rJYrFUXGFCW5dksVhM6oLbWFpvtXFnca_WJ2iu1we148k2VkM7I7H1-qKYTC4WdcmBXF9tDMu9WgWQmlqp67ORGh_Fz2yohHbjx9FjDVPz1ubPfdx6EMwG5xVR9ARKUBawdvX5agAAAABJRU5ErkJggg.png",
+      "date": "Sep 21, 2020",
+      "snippet": "The 32GB memory kit hits the sweet spot for most builds, and ... You get two 16GB DRAM modules at 3200MHz and CL16, and the RGB light ...",
+      "snippet_highlighted_words": [
+        "two 16GB DRAM modules at 3200MHz and CL16"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 32GB memory kit hits the sweet spot for most builds, and ... You get two 16GB DRAM modules at 3200MHz and CL16, and the RGB light ...",
+          "source_info_link": "https://www.windowscentral.com/corsair-vengeance-rgb-pro-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEVHcEz_twL_uQH_uQHpMVHvO016AFd3AFZ1AFR6AFn_uQH_uQHxPUzzQEzxOk6BAF17AFjRJlaDAF50AFP_uALzQEyDAF52AFXtOU7dKVSDAF5-AFr_uQH_tQLyP0zKBlzPAF2AAFv5hS3VAV2lAF6CAF3-rgT_uQH3cjblK1SXAF78nhTzQUvSAF2DAF71Xj73bzaDAF7yQEzzQExLTNd_AAAANHRSTlMANcZrV8Zyzbo0_596__-x_wr_yuGx6eEx_1-kEP_b_-AQ2__ejv9a_____-7v1_-wfpERLdSlygAAAM9JREFUeAHV0NUBQkEMBdHB3d3dHfrvjWQvWsI7v7MaIiYWjyeQZCqVRNKZbM5a3hRwxVKpVC7iKlWTI553MaBWcuUakKt7bNAMsQm0SkELaNe9dijkgwTdkvS69Ot1rwOGiiPGapPJFEteZ2jraDQv68rJYrFUXGFCW5dksVhM6oLbWFpvtXFnca_WJ2iu1we148k2VkM7I7H1-qKYTC4WdcmBXF9tDMu9WgWQmlqp67ORGh_Fz2yohHbjx9FjDVPz1ubPfdx6EMwG5xVR9ARKUBawdvX5agAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.windowscentral.com%2Fcorsair-vengeance-rgb-pro-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.windowscentral.com%2Fcorsair-vengeance-rgb-pro-review",
+      "source": "Windows Central",
+      "read_more_link": "https://www.windowscentral.com/corsair-vengeance-rgb-pro-review"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "CORSAIR VENGEANCE RGB PRO 32GB 3200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=CORSAIR+VENGEANCE+RGB+PRO+32GB+3200MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAgkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+VENGEANCE+RGB+PRO+32GB+3200MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair VENGEANCE RGB PRO 32GB 3600MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+VENGEANCE+RGB+PRO+32GB+3600MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+VENGEANCE+RGB+PRO+32GB+3600MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "CORSAIR Vengeance PRO DDR4 32GB 3200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=CORSAIR+Vengeance+PRO+DDR4+32GB+3200MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+Vengeance+PRO+DDR4+32GB+3200MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance RGB PRO 16GB 3200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+Vengeance+RGB+PRO+16GB+3200MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+PRO+16GB+3200MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance RGB PRO 32GB (2x16GB) DDR4 3200",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+Vengeance+RGB+PRO+32GB+%282x16GB%29+DDR4+3200&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+PRO+32GB+%282x16GB%29+DDR4+3200"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance DDR4 32GB 3200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+Vengeance+DDR4+32GB+3200MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+DDR4+32GB+3200MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "CORSAIR Vengeance RGB PRO 16GB (2x8GB) DDR4 3200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=CORSAIR+Vengeance+RGB+PRO+16GB+%282x8GB%29+DDR4+3200MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+Vengeance+RGB+PRO+16GB+%282x8GB%29+DDR4+3200MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance DDR4 32GB 3600MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Corsair+Vengeance+DDR4+32GB+3600MHz&sa=X&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+DDR4+32GB+3600MHz"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=10&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8NMDegQIQRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=10&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAE",
+      "3": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=20&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAG",
+      "4": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=30&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAI",
+      "5": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=40&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAK",
+      "6": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=50&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAM",
+      "7": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=60&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAO",
+      "8": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=70&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAQ",
+      "9": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=80&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAS",
+      "10": "https://www.google.com/search?q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=sXpfaprAFLrIkPIP9tXHGQ&start=90&sa=N&sstk=AU9db-Dr1CWKvbEPwLS7nW-iIjmoF1gAqsZurtUVdYkGj77YP81C12uqEzcEuoF4FPEhycm7cSm3RKbb3ASL3tp8fFBAE7NiEazemw&ved=2ahUKEwja3JGv9uOVAxU6JEQIHfbqMQMQ8tMDegQIQRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+RGB+Pro+32GB+DDR4+3200MHz+CL16+Dual+Channel+Memory+Kit+memory+module_count&start=90"
+    }
+  }
+}

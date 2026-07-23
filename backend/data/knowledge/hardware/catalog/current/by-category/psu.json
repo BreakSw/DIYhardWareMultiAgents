@@ -1,0 +1,701 @@
+[
+  {
+    "category": "psu",
+    "brand": "ASUS",
+    "model": "ASUS Pro WS 3000W 80 Plus Platinum Modular Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "efficiency_rating": "80 PLUS Platinum",
+      "form_factor": "ATX, EPS",
+      "modular_type": "Yes"
+    },
+    "price": {
+      "reference_usd": "799.99",
+      "reference_cny": "5412.79",
+      "offers": [
+        {
+          "merchant": "Newegg.com - PC Power Tech",
+          "url": "https://www.newegg.com/atx-3-1-3000-w-80-plus-platinum-certified-power-supply-black-asus-pro-ws-3000p/p/N82E16817320061?item=9SIC4WSKW68734&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-power+supplies-_-asus-_-9SIC4WSKW68734&source=region&negg_topt=0&srsltid=AfmBOoq612-oCyyoe1yLdELuK_rgF-0oCcpUI3LVd_KW-_J542Q9yMGlgIY",
+          "price_usd": "972.32",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/708629/Pro_WS_3000_Watt_80_Plus_Platinum_ATX_Fully_Modular_Power_Supply_-_ATX_31_Compatible",
+          "price_usd": "799.99",
+          "availability": "unknown",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.centralcomputer.com/asus-pro-ws-3000w-platinum-power-supply-80plus-platinum-atx12v-active-pfc.html?srsltid=AfmBOop9RuUceK72JWkrEVlMko_qdhGjaVIywcnSh_7qSk26x44sNEF2W0k",
+          "price_usd": "799.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/atx-3-1-3000-w-80-plus-platinum-certified-power-supply-black-asus-pro-ws-3000p/p/N82E16817320061?item=9SIC4WSKW68734&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-power+supplies-_-asus-_-9SIC4WSKW68734&source=region&negg_topt=0&srsltid=AfmBOoq612-oCyyoe1yLdELuK_rgF-0oCcpUI3LVd_KW-_J542Q9yMGlgIY"
+    ],
+    "fetched_at": "2026-07-20T16:02:51.833603+00:00",
+    "content_hash": "d710be0158659f7356c507fc188b9be9ea2e2c95542b69227d169936b44f9b5e",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "atx_version",
+        "pcie_connectors",
+        "wattage_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "atx_version",
+      "pcie_connectors",
+      "wattage_w"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "1"
+    }
+  },
+  {
+    "category": "psu",
+    "brand": "ASUS",
+    "model": "ASUS ROG Thor 1200W Platinum III ROG Equalizer Edition PSU (2026) (80 PLUS Platinum Certified, ATX 3.1, GaN MOSFET, GPU-First Intelligent Voltage... |",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "1200W",
+      "efficiency_rating": "80 PLUS Platinum"
+    },
+    "price": {
+      "reference_usd": "799.0",
+      "reference_cny": "5406.09",
+      "offers": [
+        {
+          "merchant": "DropReference",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&prds=productid%3A17950110795141280762%2CheadlineOfferDocid%3A17950110795141280762%2CimageDocid%3A16549509820095821782%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "799.0",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&prds=productid%3A17950110795141280762%2CheadlineOfferDocid%3A17950110795141280762%2CimageDocid%3A16549509820095821782%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-20T16:02:39.680128+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "atx_version",
+        "form_factor",
+        "modular_type",
+        "pcie_connectors"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "atx_version",
+      "form_factor",
+      "modular_type",
+      "pcie_connectors"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260720T160236Z\\serpapi\\psu.json"
+    },
+    "content_hash": "51f2cdccb807771b69c6bad8b9898241ab70d624e4c740796ba5534e26e0b9e3"
+  },
+  {
+    "category": "psu",
+    "brand": "CORSAIR",
+    "model": "Corsair HX1500i Modular Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "1500 Watt",
+      "efficiency_rating": "80 PLUS Platinum",
+      "form_factor": "ATX",
+      "atx_version": "PCIe 5.1, ATX 3.1",
+      "modular_type": "Yes",
+      "pcie_connectors": "ATX connector: 1, EPS Connector: 2, SATA Connector: 8"
+    },
+    "price": {
+      "reference_usd": "389.99",
+      "reference_cny": "2639.04",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/corsair-hx1500i-atx-3-1-compatible-1500-w-up-to-92-efficiency-power-supplies-black/p/N82E16817139343?item=N82E16817139343&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-power+supplies-_-corsair-_-17139343&source=region&negg_topt=0",
+          "price_usd": "349.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Corsair.com",
+          "url": "https://www.corsair.com/us/en/p/psu/CP-9020309-NA/hx1500i-fully-modular-ultra-low-noise-platinum-atx-1500-watt-pc-power-supply-cp-9020309-na?srsltid=AfmBOorZaINNc-cbRRbvDxL3luZmqNymCA3FnfRVCdLvf8qx9N2uizFLVQs",
+          "price_usd": "389.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/corsair-hxi-series-hx1500i-80-plus-platinum-fully-modular-ultra-low-noise-atx-3-1-and-pcie-5-1-power-supply-black/J39TSCHW9V/sku/6618663?utm_source=feed",
+          "price_usd": "389.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/692509/corsair-hxi-series-hx1500i-1500-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible",
+          "price_usd": "389.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.corsair.com/us/en/p/psu/cp-9020215-na/hxi-series-fully-modular-atx-power-supply-cp-9020215-na"
+    ],
+    "fetched_at": "2026-07-20T16:02:44.557360+00:00",
+    "content_hash": "ac9802fb001893eba4a60dcda552a5dd7f26edee8b80674bf61b0e20439ac7ba",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:HTTPStatusError",
+        "zyte:HTTPStatusError",
+        "brightdata:HTTPStatusError",
+        "apify:HTTPStatusError"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "psu",
+    "brand": "CORSAIR",
+    "model": "Corsair RMx Series RM850x Fully Modular Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "efficiency_rating": "80 PLUS Gold",
+      "form_factor": "ATX, EPS",
+      "modular_type": "Yes"
+    },
+    "price": {
+      "reference_usd": "139.99",
+      "reference_cny": "947.18",
+      "offers": [
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.centralcomputer.com/corsair-cp-9020270-na-rm850x-850w-atx12v-3-1-80-plus-gold-certified-full-modular-black.html?srsltid=AfmBOorvOhnGBv1vmbIEMNoSVvacy2PocZwnHFl5gC6PcGN8sTbbVJ-qjb8",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Corsair.com",
+          "url": "https://www.corsair.com/us/en/p/psu/CP-9020270-NA/rmx-series-rm850x-fully-modular-power-supply-cp-9020270-na?srsltid=AfmBOoojxVcuBFGwr-M8m_yJS_aM92dd4LSePMHuDVYw16x3tZJTdWarrsM",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/corsair-rmx-series-rm850x-cybenetics-gold-fully-modular-atx-power-supply-black/J39QHTJW78/sku/6587623?utm_source=feed",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.corsair.com/us/en/p/revival-series/cp-9020270-na-rv/rmx-series-rm850x-fully-modular-power-supply-revival-series-cp-9020270-na-rv"
+    ],
+    "fetched_at": "2026-07-20T16:02:54.087750+00:00",
+    "content_hash": "65bba098f08ade7e6bd0c50b827a316562995dd43ddca0e1e6807282f6deb1c2",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "atx_version",
+        "pcie_connectors",
+        "wattage_w"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "atx_version",
+      "pcie_connectors",
+      "wattage_w"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "2"
+    }
+  },
+  {
+    "category": "psu",
+    "brand": "Cooler Master",
+    "model": "Cooler Master MWE Gold 850 V2 Full Modular 80 Plus Gold ATX Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "850 W",
+      "efficiency_rating": "80 Plus Gold",
+      "form_factor": "ATX",
+      "atx_version": "ATX 12V",
+      "modular_type": "Yes",
+      "pcie_connectors": "2 EPS Connectors"
+    },
+    "price": {
+      "reference_usd": "119.99",
+      "reference_cny": "811.96",
+      "offers": [
+        {
+          "merchant": "dealtargets USA",
+          "url": "https://dealtargets.com/products/cooler-master-mwe-gold-850-v2-fully-modular-850w-80-gold-efficiency-quiet-hdb-fan-2-eps-connectors-high-temperature-resilience-5-year-warranty-gold-v2-gold-v2-850-v2-modular?variant=51526045696301&utm_source=google&utm_medium=organic&utm_campaign=Multifeeds_US&utm_content=Cooler+Master+MWE+Gold+850+V2+Fully+Modular%2C+850W%2C+80%2B+Gold+Efficiency%2C+Quiet+HDB+Fan%2C+2+EPS+Connectors%2C+High+Temperature+Resilience%2C+5+Year+Warranty%2C+Gold+v2+Gold+V2+850+V2+Modular&currency=USD&srsltid=AfmBOoo08x610iaCavTV-7ODaGg5NLVjGS6FIzfbDPaQ9LKmEnaaqNicV7E",
+          "price_usd": "102.4",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/Cooler-Master-MWE-Gold-850-V2-Fully-Modular-850W-80-Gold-Efficiency-Quiet-HDB-Fan-2-EPS-Connectors-High-Temperature-Resilience-5-Year-Warranty/401128184?wmlspartner=wlpa&selectedSellerId=0",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Target",
+          "url": "https://www.target.com/p/cooler-master-mwe-gold-v2-full-modular-80-plus-gold-power-supply-unit-mpe8501afaagus/-/A-1001316591?TCID=OGS&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=56-0&srsltid=AfmBOooEXQtbjMZL34cXgPloqtQWBWX2vYkT_Shwfm6f3nZMg1inYD6EfFk",
+          "price_usd": "120.49",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://legacy.coolermaster.com/en-us/products/mwe-gold-850-v2-full-modular/"
+    ],
+    "fetched_at": "2026-07-20T16:03:01.860416+00:00",
+    "content_hash": "42aade7967d820005331d572317a060bf864efb0363e9f8b717e6aeccb26f22d",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "psu",
+    "brand": "Corsair",
+    "model": "Corsair CP-9020273-NA 750W RM750x Shift White Cybenetics Fully Modular Low-Noise ATX Power Supply 80 PLUS Gold Rated",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "750W",
+      "efficiency_rating": "80 PLUS Gold"
+    },
+    "price": {
+      "reference_usd": "139.99",
+      "reference_cny": "947.18",
+      "offers": [
+        {
+          "merchant": "Central Computers",
+          "url": "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&prds=productid%3A11396762973113497955%2CheadlineOfferDocid%3A11396762973113497955%2CimageDocid%3A12643780290779644282%2Crds%3APC_12514090120473792635%7CPROD_PC_12514090120473792635%2Cpvt%3Ahg&hl=en&gl=us&udm=28",
+          "price_usd": "139.99",
+          "availability": "unknown",
+          "provider": "serpapi-archive"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.google.com/search?ibp=oshop&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&prds=productid%3A11396762973113497955%2CheadlineOfferDocid%3A11396762973113497955%2CimageDocid%3A12643780290779644282%2Crds%3APC_12514090120473792635%7CPROD_PC_12514090120473792635%2Cpvt%3Ahg&hl=en&gl=us&udm=28"
+    ],
+    "fetched_at": "2026-07-20T16:02:39.680128+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "atx_version",
+        "form_factor",
+        "modular_type",
+        "pcie_connectors"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "atx_version",
+      "form_factor",
+      "modular_type",
+      "pcie_connectors"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "archived_shopping_result",
+      "path": "raw\\20260720T160236Z\\serpapi\\psu.json"
+    },
+    "content_hash": "431a026558af29ca7b383b86a9d3c3d8a7989a6298cff760625af169f81be9c3"
+  },
+  {
+    "category": "psu",
+    "brand": "MSI",
+    "model": "MSI MAG A850GL 850W Modular Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "850 W",
+      "efficiency_rating": "80 Plus Gold",
+      "form_factor": "ATX",
+      "atx_version": "ATX 3.0",
+      "modular_type": "Yes",
+      "pcie_connectors": "20+4 pin ATX"
+    },
+    "price": {
+      "reference_usd": "105.99",
+      "reference_cny": "717.23",
+      "offers": [
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-17-701-021&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-power+supplies-_-msi-_-9B17701021&source=region&negg_topt=0&srsltid=AfmBOooMoROqgMnXXd7M-0XQXl5OMCQ4GansPqan_sdQtLYeAwtzLH_jDI8",
+          "price_usd": "105.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/msi-mag-a850gl-pcie5-850w-full-modular-atx-3-1-ready-80-plus-gold-power-supply-black/J3P7TXLPW5/sku/6562432?utm_source=feed",
+          "price_usd": "105.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/MSI-MAG-A850GL-PCIE5-850W-Power-Supply-Internal-5-V-DC-22-A-3-3-12-25-40-12-0-3-2-5-A-Output-850-W-4-12V-Rails-1-Fan-s-NVIDI/1270814111?wmlspartner=wlpa&selectedSellerId=0",
+          "price_usd": "129.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.msi.com/Power-Supply/MAG-A850GL-PCIE5"
+    ],
+    "fetched_at": "2026-07-20T16:02:45.148235+00:00",
+    "content_hash": "aa238c307617f7fb23705992c333a66e04108f10ba35d2ce040457cd0de3752a",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "psu",
+    "brand": "NZXT",
+    "model": "NZXT 850W ATX 3.1 80 Plus Gold Fully Modular Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "850W",
+      "efficiency_rating": "80 PLUS Gold",
+      "form_factor": "ATX, EPS",
+      "modular_type": "Yes"
+    },
+    "price": {
+      "reference_usd": "119.99",
+      "reference_cny": "811.86",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/nzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us/p/N82E16817116050?item=N82E16817116050&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-power+supplies-_-nzxt-_-17116050&source=region&negg_topt=0",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/nzxt-c-850w-atx-3-1-80-plus-gold-fully-modular-power-supply-black/J3GWJHQJKG/sku/6586151?utm_source=feed&extStoreId=599",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "NZXT",
+          "url": "https://nzxt.com/products/c850-gold-atx?variant=40575822364744&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopB2mLFzUb1OMmLg-CHqYxI7dN8xqSHRZ9uoATWeFYL8W1jFeUnnn8",
+          "price_usd": "144.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.newegg.com/nzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us/p/N82E16817116050?item=N82E16817116050&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-power+supplies-_-nzxt-_-17116050&source=region&negg_topt=0",
+      "https://nzxt.com/products/c850-gold-atx?srsltid=AfmBOooPdSvfEBg_zWAU0UjxBjc1J9eDNKBN7xWS0IxDUdHWG8WpQCc9",
+      "https://www.amazon.com/NZXT-C850-Gold-ATX-3-1/dp/B0D1VDTX8B",
+      "https://nzxt.com/products/c850-gold-core?srsltid=AfmBOor-CzBgxPc86ElqcgogO_uxYnpuJumSPkK9ZoX7in2yfRz5rale",
+      "https://www.bestbuy.com/product/nzxt-gold-core-850w-atx-3-1-pcie-5-1-80-plus-gold-cybenetics-platinum-fully-modular-power-supply-black/J3GWJHQLHH",
+      "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+%22atx_version%22+pcie_connectors&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQIUBAB",
+      "https://www.youtube.com/watch?v=ef0Xwp99C9o",
+      "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+%22pcie_connectors%22&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQINBAS",
+      "https://www.newegg.com/nzxt-atx12v-v3-1-eps12v-v2-92-850-w-80-plus-gold-certified-power-supplies-black-pa-8g2bb-us/p/N82E16817116050?srsltid=AfmBOooFe7kcxzZ-w2z1omngDPZNzcdSmfoNZBLPEeRbrBT-Gc5uljdp",
+      "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+%22atx_version%22+pcie_connectors&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQIWhAB",
+      "https://www.lttlabs.com/products/power-supplies/nzxt-c850-gold-atx-3-1",
+      "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+atx_version+%22pcie_connectors%22&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQISRAB",
+      "https://www.kitguru.net/components/power-supplies/zardon/nzxt-c850-atx-3-1-psu-white-review/",
+      "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=NZXT+850W+ATX+3.1+80+Plus+Gold+Fully+Modular+Power+Supply+psu+%22atx_version%22+pcie_connectors&sa=X&ved=2ahUKEwjVxv369uOVAxVn4ckDHdOvNXIQ5t4CegQITxAB"
+    ],
+    "fetched_at": "2026-07-21T13:59:25.765758+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "atx_version",
+        "pcie_connectors"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "atx_version",
+      "pcie_connectors"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "56c6addefe6c82fe5516401a73b566be14e65f94c539691f30103fdb65ab304b",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "48"
+    }
+  },
+  {
+    "category": "psu",
+    "brand": "Seasonic",
+    "model": "Seasonic PRIME PX-1600W Modular 80 Plus Platinum ATX 3.0 Power Supply",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "1600 W",
+      "efficiency_rating": "80 PLUS Platinum",
+      "form_factor": "ATX",
+      "atx_version": "ATX 3.1",
+      "modular_type": "Yes",
+      "pcie_connectors": "8 x 8 pin PCI Express power with detachable 2 pin section"
+    },
+    "price": {
+      "reference_usd": "447.72",
+      "reference_cny": "3029.69",
+      "offers": [
+        {
+          "merchant": "Walmart - Tech Wave",
+          "url": "https://www.walmart.com/ip/Seasonic-ATX3-PRIME-PX-1600-Prime-Px-3-0-Series-Px-1600-Power-Supply-1600-Watt/5119634018?wmlspartner=wlpa&selectedSellerId=102558361",
+          "price_usd": "469.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Provantage",
+          "url": "http://www.provantage.com/seasonic-ssr-1600pd2~7SESN07T.htm?source=googleps&srsltid=AfmBOooJmdAiqhHqk2OprinY6wfgsr_CpF8xmB-qJ0D8AAQPK2YAC-rKcF0",
+          "price_usd": "447.72",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Grooves-Inc.com",
+          "url": "https://www.grooves-inc.com/sea-sonic-prime-1600-atx-seasonic-hardware-electronic-pZZa1-2100910722.html?currency=USD&language=en&_z=us&srsltid=AfmBOoqdt7nWYRzN40xrQDFlfPMZdmeGYtS79056ZSA-QdV919fG1_C_7Rg",
+          "price_usd": "441.87",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://seasonic.com/atx3-1-prime-px/"
+    ],
+    "fetched_at": "2026-07-20T16:02:48.061606+00:00",
+    "content_hash": "17ec3b24ece11194e97b4106861b615e1f7ed9faeb1b74ae702d5ef7cf1e8ae1",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "psu",
+    "brand": "Thermaltake",
+    "model": "Thermaltake Smart BM3 Bronze",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "wattage_w": "650W",
+      "efficiency_rating": "80Plus Bronze",
+      "form_factor": "ATX",
+      "atx_version": "ATX12V 3.0/ EPS12V",
+      "modular_type": "Yes",
+      "pcie_connectors": "7 x 4 pin internal power"
+    },
+    "price": {
+      "reference_usd": "79.99",
+      "reference_cny": "541.29",
+      "offers": [
+        {
+          "merchant": "Walmart",
+          "url": "https://www.walmart.com/ip/Thermaltake-Smart-BM3-650W-80Plus-Bronze-ATX-3-0-PCIE-5-0-Ready-Semi-Modular-Power-Supply-105-C-221-F-Japanese-Capacitor-5-Year-Warranty-PS-SPD-0650M/5022323979?wmlspartner=wlpa&selectedSellerId=0",
+          "price_usd": "79.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/thermaltake-smart-bm3-80-bronze-pcie-gen-5-atx-3-0-650w-semi-modular-power-supply-black/J39ZPC9W9V/sku/6569208?utm_source=feed&extStoreId=885",
+          "price_usd": "59.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Thermaltake USA",
+          "url": "https://thermaltakeusa.com/products/smart-bm3-bronze-650w-tt-premium-edition-ps-spd-0650mnfabx-3?srsltid=AfmBOorLleEuQZUkIwwRd2o5DifWlQJgVXKD7p3B-00ZknHwoQxrqdCB7EQ",
+          "price_usd": "79.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://thermaltakeusa.com/products/smart-bm3-bronze-650w-tt-premium-edition-ps-spd-0650mnfabx-3"
+    ],
+    "fetched_at": "2026-07-20T16:03:00.230677+00:00",
+    "content_hash": "d7191fe2c932f79597b96981b9411d8d6984e5e01e88f6bc38ab9b3b5ff8a5f6",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  }
+]

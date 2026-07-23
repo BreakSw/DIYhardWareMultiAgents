@@ -1,0 +1,403 @@
+{
+  "search_metadata": {
+    "id": "6a5f7ac96adf279ed53f2780",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/i7smC31KGVX9HgBfu9eaSw/6a5f7ac96adf279ed53f2780.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/i7smC31KGVX9HgBfu9eaSw/6a5f7ac96adf279ed53f2780.json_with_pixel_position",
+    "created_at": "2026-07-21 13:57:29 UTC",
+    "processed_at": "2026-07-21 13:57:29 UTC",
+    "google_url": "https://www.google.com/search?q=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&oq=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/i7smC31KGVX9HgBfu9eaSw/6a5f7ac96adf279ed53f2780.html",
+    "total_time_taken": 5.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Dell 64GB DDR4 SDRAM Memory Module memory cas_latency module_count voltage",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Dell 64GB DDR4 SDRAM Memory Module memory cas_latency module_count voltage",
+    "total_results": 43,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the voltage of DDR4 3200mhz?",
+      "type": "ai_overview",
+      "page_token": "e5lPf3icHdBdToMwAADgeJk9DgobxiWLETdAHJ38tbQvhpW_0VLYYAN88y6eytOY-B3h-_4RZ8l_H5JqGLp-oyjjOC7Lti1FvmRto6T9LJnCUiFOKeMb49EAzwXb7vvRfG1H04-7Du0CNay5zji8Q76-IuBKpFMQ8ex2wsAnwL1AjU-ezI5M6xKYCCMGoqeJCShvAbSnKbXpW1QjI9ImkSML-pxaoVbV3l6dI5WrUZyNodb1gYgBUsmQOwixvZgDTPRIdT8I7nUirEsmaQ15EJBECL95sjxt6LMEqhC7bZiY1dEhXwHKYCjK0NK7G7NpxTDCYQOTo_OygpZZRPFwoKol7bNrBg6cj5jGuRQWxNPKw_2MmvUh3mVVICucc0GwDd7TXSUXBbtv9cX_2PazaIZNd23LP87gebs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=e5lPf3icHdBdToMwAADgeJk9DgobxiWLETdAHJ38tbQvhpW_0VLYYAN88y6eytOY-B3h-_4RZ8l_H5JqGLp-oyjjOC7Lti1FvmRto6T9LJnCUiFOKeMb49EAzwXb7vvRfG1H04-7Du0CNay5zji8Q76-IuBKpFMQ8ex2wsAnwL1AjU-ezI5M6xKYCCMGoqeJCShvAbSnKbXpW1QjI9ImkSML-pxaoVbV3l6dI5WrUZyNodb1gYgBUsmQOwixvZgDTPRIdT8I7nUirEsmaQ15EJBECL95sjxt6LMEqhC7bZiY1dEhXwHKYCjK0NK7G7NpxTDCYQOTo_OygpZZRPFwoKol7bNrBg6cj5jGuRQWxNPKw_2MmvUh3mVVICucc0GwDd7TXSUXBbtv9cX_2PazaIZNd23LP87gebs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB2b2x0YWdlIG9mIEREUjQgMzIwMG1oej8iLCJsayI6IkdoUmtaSEkwSURNeU1EQnRhSG9nZG05c2RHRm5aUSIsImJzIjoiYy1PeTQxSUp6MGdzVWNnc1ZpakpTRlVveTg4cFNVeFBWY2hQVTNCeENUSlJNRFl5TU1qTnFMSTNFcE1TU1VrcGdndkFGSEk1Y2NuQzlDZEN0T1NtNXVZWFZTcms1cWVVNXFUYVM3emlOWktUa2ltSHF3R2JncUtHcTRyTEV0a05FRkdGdFB5aVhLQWdrQUxxS2k3SlRNNEd1YW80UHlVek54ZGlVNUNqcjczRVB5OGpLeW1MY2hMMWcxMVJsSmpMVmNObGhXSjNZa1ZtYm1tdVFuSmlRV0p5WmtrbFNBdFFkMlplT3RCRXNLVmc3VERQWFM4d3NwYXlMQ2ZXQUxDdFNBWUlNQUlBIiwiaWQiOiJmY196bnBmYXFlVkpjVzhwODRQX01LS2dBZ18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB2b2x0YWdlIG9mIEREUjQgMzIwMG1oej8iLCJsayI6IkdoUmtaSEkwSURNeU1EQnRhSG9nZG05c2RHRm5aUSIsImJzIjoiYy1PeTQxSUp6MGdzVWNnc1ZpakpTRlVveTg4cFNVeFBWY2hQVTNCeENUSlJNRFl5TU1qTnFMSTNFcE1TU1VrcGdndkFGSEk1Y2NuQzlDZEN0T1NtNXVZWFZTcms1cWVVNXFUYVM3emlOWktUa2ltSHF3R2JncUtHcTRyTEV0a05FRkdGdFB5aVhLQWdrQUxxS2k3SlRNNEd1YW80UHlVek54ZGlVNUNqcjczRVB5OGpLeW1MY2hMMWcxMVJsSmpMVmNObGhXSjNZa1ZtYm1tdVFuSmlRV0p5WmtrbFNBdFFkMlplT3RCRXNLVmc3VERQWFM4d3NwYXlMQ2ZXQUxDdFNBWUlNQUlBIiwiaWQiOiJmY196bnBmYXFlVkpjVzhwODRQX01LS2dBZ18yIn0%3D"
+    },
+    {
+      "question": "What is a DDR4 memory module?",
+      "type": "featured_snippet",
+      "snippet": "DDR4 stands for Double Data Rate Fourth Generation. It refers to the fourth generation of DDR (Double Data Rate) memory technology used in computers.",
+      "title": "DDR4 RAM Guide: Benefits & Installation - HP® Tech Takes",
+      "date": "Aug 27, 2024",
+      "link": "https://www.hp.com/us-en/shop/tech-takes/what-is-ddr4-ram-and-how-to-install",
+      "displayed_link": "https://www.hp.com › what-is-ddr4-ram-and-how-to-install",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAflBMVEVHcEwNTdk-cd____-Sp-sAQdcBStgBStgBSdgAPNazwvH___8BStgASNgiWNsAN9bI1_YMTdkARNhoh-QAPtent-6fsu0MVNutuu7b5fkAP9aFnugyaN8cXNwARdf5_f8AGdPv9f0ACtHr8v0AM9YLTtlQeuK_zvN2k-bU4PiIysO8AAAAKnRSTlMAHJLb___amqr______6j__8v__________5P____b________2____9vO4UkxAAAAtUlEQVR4AS2PAwIEQQwEs0Z3loOz-f8HrmvMVGQmCKM4SbNANvKiBJXUal2nrNHUnNB2OWfXo6-ViTFJPr0n6wbW-SK2O8dAMmqCfQnbzX18kJTJEaepxjjHOF1kerG_3vb3x_P5uO9fFKqHO881PiFOKKlxODt0Fq_Z5i2H13V_m-vVzjaZBL7s_a7_4GvtWTWYxEyn5vVFbYyu8i2pBt-C5Kw-kbH74dORuWwEh_-1Tg9L-iPkBQ4mE7-A9gAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgRERSNCBtZW1vcnkgbW9kdWxlPyIsImxrIjoiR2h4M2FHRjBJR2x6SUdFZ1pHUnlOQ0J0WlcxdmNua2diVzlrZFd4bCIsImJzIjoiYy1PeTQxSUp6MGdzVWNnc1ZpakpTRlVveTg4cFNVeFBWY2hQVTNCeENUSlJNRFl5TU1qTnFMSTNFcE1TU1VrcGdndkFGSEk1Y2NuQzlDZEN0T1NtNXVZWFZTcms1cWVVNXFUYVM3emlOWktUa2ltSHF3R2JncUtHcTRyTEV0a05FRkdGdFB5aVhLQWdrQUxxS2k3SlRNNEd1YW80UHlVek54ZGlVNUNqcjczRVB5OGpLeW1MY2hMMWcxMVJsSmpMVmNObGhXSjNZa1ZtYm1tdVFuSmlRV0p5WmtrbFNBdFFkMlplT3RCRXNLVmc3VERQWFM4d3NwYXlMQ2ZXQUxDdFNBWUlNQUlBIiwiaWQiOiJmY196bnBmYXFlVkpjVzhwODRQX01LS2dBZ18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgRERSNCBtZW1vcnkgbW9kdWxlPyIsImxrIjoiR2h4M2FHRjBJR2x6SUdFZ1pHUnlOQ0J0WlcxdmNua2diVzlrZFd4bCIsImJzIjoiYy1PeTQxSUp6MGdzVWNnc1ZpakpTRlVveTg4cFNVeFBWY2hQVTNCeENUSlJNRFl5TU1qTnFMSTNFcE1TU1VrcGdndkFGSEk1Y2NuQzlDZEN0T1NtNXVZWFZTcms1cWVVNXFUYVM3emlOWktUa2ltSHF3R2JncUtHcTRyTEV0a05FRkdGdFB5aVhLQWdrQUxxS2k3SlRNNEd1YW80UHlVek54ZGlVNUNqcjczRVB5OGpLeW1MY2hMMWcxMVJsSmpMVmNObGhXSjNZa1ZtYm1tdVFuSmlRV0p5WmtrbFNBdFFkMlplT3RCRXNLVmc3VERQWFM4d3NwYXlMQ2ZXQUxDdFNBWUlNQUlBIiwiaWQiOiJmY196bnBmYXFlVkpjVzhwODRQX01LS2dBZ18yIn0%3D"
+    },
+    {
+      "question": "What is the module format for a stick of sodimm DDR4 RAM?",
+      "type": "featured_snippet",
+      "snippet": "DDR4 SO-DIMMs are high-speed and low power memory modules that use 512Mx8bits DDR4 SDRAM in FBGA package and a 4K-bit serial EEPROM on a 260-pin printed circuit board. DDR4 SO-DIMMs are dual In-Line memory modules and are intended for mounting into 260-pin edge connector sockets.",
+      "title": "260Pin DDR4 2133 SO-DIMM 4GB~8GB Based on 512Mx8 ...",
+      "link": "https://www.transcend-info.com/products/images/modelpic/695/Datasheet%20DDR4%20SO-DIMM%20based%20on%204Gb_V1.0.pdf",
+      "displayed_link": "https://www.transcend-info.com › images › modelpic",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAjVBMVEVHcEzstcnIVni0EETCQWjWgZr____hn7S-PmC9N1zDSWvTdJHahJ_UfJa-N17KXnyxAzrKXny3JU3Rdo_MaoPdlKr62enww9WvADazDUDem6_qscXCS2vARGbFU3K5K1O0FkTJXHz___-3IEvTepTUepb__P-_P2LPa4i9OF3IX3vFU3LHV3bAN2GqACUVERfcAAAAL3RSTlMAJHSEh1sBTeT_nkw5ZrOj_5j_otWaIzX__1ky1MHC__-EB_92hxTJf_W087E5OrE9GeoAAAClSURBVHgBLctVAoJQFEXRTTe8MC52t85_eF6F9XmCQRBGUZykjLK8KKu6aYuGv87YsXAeNTHT2fyPxmRgxZh-MCNcsOxFGWNEiuVqvaFzW7UzZrfdhFqxDFC5yB5WIjv6FXA4iqngdN7lyASo9XGBtNJdcQVuInfU_Xjh4VLYiGwgLSWBmbPwLIobdGaKWhw9imV-TPgLVvdXXD4Lf2HE7P15Bwy-AQgN15WLHlgAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb2R1bGUgZm9ybWF0IGZvciBhIHN0aWNrIG9mIHNvZGltbSBERFI0IFJBTT8iLCJsayI6ImM1T3lLTTlJTEZISUxGWW95VWhWeU0xUEtjMUpWVWpMTDhvRkNnSXBoVVNGNHBMTTVHeUZfRFNGNHZ5VXpOeGNoWlNVSWhPRm9zUmNBQSIsImJzIjoiYy1PeTQxSUp6MGdzVWNnc1ZpakpTRlVveTg4cFNVeFBWY2hQVTNCeENUSlJNRFl5TU1qTnFMSTNFcE1TU1VrcGdndkFGSEk1Y2NuQzlDZEN0T1NtNXVZWFZTcms1cWVVNXFUYVM3emlOWktUa2ltSHF3R2JncUtHcTRyTEV0a05FRkdGdFB5aVhLQWdrQUxxS2k3SlRNNEd1YW80UHlVek54ZGlVNUNqcjczRVB5OGpLeW1MY2hMMWcxMVJsSmpMVmNObGhXSjNZa1ZtYm1tdVFuSmlRV0p5WmtrbFNBdFFkMlplT3RCRXNLVmc3VERQWFM4d3NwYXlMQ2ZXQUxDdFNBWUlNQUlBIiwiaWQiOiJmY196bnBmYXFlVkpjVzhwODRQX01LS2dBZ18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb2R1bGUgZm9ybWF0IGZvciBhIHN0aWNrIG9mIHNvZGltbSBERFI0IFJBTT8iLCJsayI6ImM1T3lLTTlJTEZISUxGWW95VWhWeU0xUEtjMUpWVWpMTDhvRkNnSXBoVVNGNHBMTTVHeUZfRFNGNHZ5VXpOeGNoWlNVSWhPRm9zUmNBQSIsImJzIjoiYy1PeTQxSUp6MGdzVWNnc1ZpakpTRlVveTg4cFNVeFBWY2hQVTNCeENUSlJNRFl5TU1qTnFMSTNFcE1TU1VrcGdndkFGSEk1Y2NuQzlDZEN0T1NtNXVZWFZTcms1cWVVNXFUYVM3emlOWktUa2ltSHF3R2JncUtHcTRyTEV0a05FRkdGdFB5aVhLQWdrQUxxS2k3SlRNNEd1YW80UHlVek54ZGlVNUNqcjczRVB5OGpLeW1MY2hMMWcxMVJsSmpMVmNObGhXSjNZa1ZtYm1tdVFuSmlRV0p5WmtrbFNBdFFkMlplT3RCRXNLVmc3VERQWFM4d3NwYXlMQ2ZXQUxDdFNBWUlNQUlBIiwiaWQiOiJmY196bnBmYXFlVkpjVzhwODRQX01LS2dBZ18yIn0%3D"
+    },
+    {
+      "question": "What is the maximum capacity of a single DDR4 dimm module?",
+      "type": "featured_snippet",
+      "snippet": "The DDR4 standard allows for DIMMs of up to 64 GB in capacity, compared to DDR3's maximum of 16 GB per DIMM.",
+      "title": "DDR4 SDRAM - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/DDR4_SDRAM",
+      "displayed_link": "https://en.wikipedia.org › wiki › DDR4_SDRAM",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAD-_v7MzMw7OzsAAACVlZVJSUnm5uampqYXFxfZ2dkBAQGzs7MnJyeGhoZpaWl5eXkOJSOoAAAAAXRSTlMAQObYZgAAAGpJREFUeAFtz7UBxEAQBMHtgwXpKP9kn_k13pTXIsLH5OfD74d_SLlUtFTL2Tx0E2xvWL-gQQYBzeDRBni9QSoJegeUG6AKMyCtB7R9Q8OZ9gD6anV0mzzBd8X2nF5AVJjKGzYAO4yRv_wzhDIC9UYsU1MAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYXhpbXVtIGNhcGFjaXR5IG9mIGEgc2luZ2xlIEREUjQgZGltbSBtb2R1bGU/IiwibGsiOiJHamwzYUdGMElHbHpJSFJvWlNCdFlYaHBiWFZ0SUdOaGNHRmphWFI1SUc5bUlHRWdjMmx1WjJ4bElHUmtjalFnWkdsdGJTQnRiMlIxYkdVIiwiYnMiOiJjLU95NDFJSnowZ3NVY2dzVmlqSlNGVW95ODhwU1V4UFZjaFBVM0J4Q1RKUk1EWXlNTWpOcUxJM0VwTVNTVWtwZ2d2QUZISTVjY25DOUNkQ3RPU201dVlYVlNyazVxZVU1cVRhUzd6aU5aS1RraW1IcXdHYmdxS0dxNHJMRXRrTkVGR0Z0UHlpWEtBZ2tBTHFLaTdKVE00R3VhbzRQeVV6TnhkaVU1Q2pyNzNFUHk4akt5bUxjaEwxZzExUmxKakxWY05saFdKM1lrVm1ibW11UW5KaVFXSnlaa2tsU0F0UWQyWmVPdEJFc0tWZzdURFBYUzh3c3BheUxDZldBTEN0U0FZSU1BSUEiLCJpZCI6ImZjX3pucGZhcWVWSmNXOHA4NFBfTUtLZ0FnXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2J6bDBUVXg0YTNSWFRtZFhkalZhUlVSeFNHWllhVnBVVUhsamFFNWxPVTUyZDJkMFJYcDVSbkZ5UkVONFQwaFROR2QwVm5jeGFERlhaMGMzTmpGdFNVUlNha1JRZVZVeGFtNVNVMlUyU0ZKSVdGRmxUVFJUVGxOMFVSSVhlbTV3Wm1GeFpWWktZMWM0Y0RnMFVGOU5TMHRuUVdjYUlrRkVjM0k1WmxNMWVXSlVlazVVUlV4RFVFcG1WMlZ5UzBGVFVscHpPWE4xU0ZFIiwiZmN2IjoiMyIsImVpIjoiem5wZmFxZVZKY1c4cDg0UF9NS0tnQWciLCJxYyI6ImMtUHlTa25OeVZFd00wbFBVa2hKS1RKUktFNHBTc3hWeUUzTnpTLXFWTWpOVHluTlNZWHhraE9MNDNNU1MxTHprbUV5OGNuNXBYa2xDbVg1T1NXSjZha0NETFc1TFpyMkFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYXhpbXVtIGNhcGFjaXR5IG9mIGEgc2luZ2xlIEREUjQgZGltbSBtb2R1bGU%2FIiwibGsiOiJHamwzYUdGMElHbHpJSFJvWlNCdFlYaHBiWFZ0SUdOaGNHRmphWFI1SUc5bUlHRWdjMmx1WjJ4bElHUmtjalFnWkdsdGJTQnRiMlIxYkdVIiwiYnMiOiJjLU95NDFJSnowZ3NVY2dzVmlqSlNGVW95ODhwU1V4UFZjaFBVM0J4Q1RKUk1EWXlNTWpOcUxJM0VwTVNTVWtwZ2d2QUZISTVjY25DOUNkQ3RPU201dVlYVlNyazVxZVU1cVRhUzd6aU5aS1RraW1IcXdHYmdxS0dxNHJMRXRrTkVGR0Z0UHlpWEtBZ2tBTHFLaTdKVE00R3VhbzRQeVV6TnhkaVU1Q2pyNzNFUHk4akt5bUxjaEwxZzExUmxKakxWY05saFdKM1lrVm1ibW11UW5KaVFXSnlaa2tsU0F0UWQyWmVPdEJFc0tWZzdURFBYUzh3c3BheUxDZldBTEN0U0FZSU1BSUEiLCJpZCI6ImZjX3pucGZhcWVWSmNXOHA4NFBfTUtLZ0FnXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "sToGNXicxVXdkqI4FH6AfYW5XW5sBRW7tauoqYB_qLSNtm23NxRCDMpPbAKN9t2-yz7VPs3GKAqOOjVTtbWnCpITTs5Pcj6-v_72loH7zx_fnChak0eeT5KkhDBGHixZ2OdNsg0sfoE9ElrOd4Lj0IJLW7KcEPuQQ54UE87xJBhw20-pyllEEji4lL6C9cL8gK89a1pf18VnQ-v3EUAccycZc5PAFY22WRHe4OnL_bPapEqJlGBQatjPEM7DIWygUkUoN0pD3vSpAfgvRQUILAF9IToF7MmLApB-2wUCoLV7Kye71E0rY5YwTZapR2ahXPWH2LBsAerwWQ5qDgGgs1-0biXSy6vt3RZVl3dFqMo-0XO5VJqcjnpWuygXPsoHv2np4s1YO1HVvB8at2WwJT0fpZ91ou-W39l0qAPYTICToP6NXBUMmh001tGlW87KGjjPaZw5EOhF8TaifSjw85AOZX5pORabhGTXnspLQ8Dtr2DWKFaGT9Ac15ctd9FZTd66783F6A3w1pzaedi0oW04hvCd6eVKuSY0qg_1O4YLixyBQXLAmHjefNgdaDouDUpyOYOK_X2eFbNbHF085vTwLmw4HDFqsck2_YTTiYx1uvm0sd1U5QSAFJrirtea6MeOpr4voILJERoaYKhgySn78eAo2xUIHTdk-qh7Fi-bgZy6V1SKvXStczLQlTwGFXps7hEkWt6V7rRUFlseH0yGspjDN9AzmrIvUUeynC9F3VcgZux2F4NoK-szqvcQOv6M2Cb1kNAx7impPProFSBl0rqJ12tyCzcHQSBt_7NuzqGAvLaw5vrGc1x5fy-vJqPJuD3vbFYrol_ueuzPf4EPrP8ZFwe2wClbXMCF8xNcMLZA19ni0ERJigtm15eVq7hw2Zhni-4ZW1zCRS-PixNb6GdsccLFLpXbuJBv4UK-hgv6w_8BF_oVXKRskcGFe8YWe6cpW5xw8etsYf4eWzCYwP2Qp454ha5TSLE9m3WLuBhv-vV47fU23WIl7Omo5_6cQhZ-9OibtndnLO1HudKLtvadQRfwI7S5D6kJPa9wL3bkQrM5Egvj5ghoBQ36ONwWNGzHHiz4e80yieGZEQysbcFnXwwLx0FU-MReZCLI-V6IJcF8mMlrw4xbiqIOnOAjUcsv4764_XioPgkvjlMPN8povBRn03v3ta1P62I7sZajRQVGb4tkNHCKw6nbHqsvZKptniq9N3Oziuvbt8FqghKjXH7VFl_6fZRUN7NerWgVq9WtC6FBnNAVF--aOv4SxEhjyRApxoq_Nmprv0Y4P7Qk2mUiAk86mCLZAgptIQXRB9MnoXfFEcs0IPmUKnZj0ag9COa8XjPr97Q2FG3XUkPgSBBK5X8B5VIv9g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sToGNXicxVXdkqI4FH6AfYW5XW5sBRW7tauoqYB_qLSNtm23NxRCDMpPbAKN9t2-yz7VPs3GKAqOOjVTtbWnCpITTs5Pcj6-v_72loH7zx_fnChak0eeT5KkhDBGHixZ2OdNsg0sfoE9ElrOd4Lj0IJLW7KcEPuQQ54UE87xJBhw20-pyllEEji4lL6C9cL8gK89a1pf18VnQ-v3EUAccycZc5PAFY22WRHe4OnL_bPapEqJlGBQatjPEM7DIWygUkUoN0pD3vSpAfgvRQUILAF9IToF7MmLApB-2wUCoLV7Kye71E0rY5YwTZapR2ahXPWH2LBsAerwWQ5qDgGgs1-0biXSy6vt3RZVl3dFqMo-0XO5VJqcjnpWuygXPsoHv2np4s1YO1HVvB8at2WwJT0fpZ91ou-W39l0qAPYTICToP6NXBUMmh001tGlW87KGjjPaZw5EOhF8TaifSjw85AOZX5pORabhGTXnspLQ8Dtr2DWKFaGT9Ac15ctd9FZTd66783F6A3w1pzaedi0oW04hvCd6eVKuSY0qg_1O4YLixyBQXLAmHjefNgdaDouDUpyOYOK_X2eFbNbHF085vTwLmw4HDFqsck2_YTTiYx1uvm0sd1U5QSAFJrirtea6MeOpr4voILJERoaYKhgySn78eAo2xUIHTdk-qh7Fi-bgZy6V1SKvXStczLQlTwGFXps7hEkWt6V7rRUFlseH0yGspjDN9AzmrIvUUeynC9F3VcgZux2F4NoK-szqvcQOv6M2Cb1kNAx7impPProFSBl0rqJ12tyCzcHQSBt_7NuzqGAvLaw5vrGc1x5fy-vJqPJuD3vbFYrol_ueuzPf4EPrP8ZFwe2wClbXMCF8xNcMLZA19ni0ERJigtm15eVq7hw2Zhni-4ZW1zCRS-PixNb6GdsccLFLpXbuJBv4UK-hgv6w_8BF_oVXKRskcGFe8YWe6cpW5xw8etsYf4eWzCYwP2Qp454ha5TSLE9m3WLuBhv-vV47fU23WIl7Omo5_6cQhZ-9OibtndnLO1HudKLtvadQRfwI7S5D6kJPa9wL3bkQrM5Egvj5ghoBQ36ONwWNGzHHiz4e80yieGZEQysbcFnXwwLx0FU-MReZCLI-V6IJcF8mMlrw4xbiqIOnOAjUcsv4764_XioPgkvjlMPN8povBRn03v3ta1P62I7sZajRQVGb4tkNHCKw6nbHqsvZKptniq9N3Oziuvbt8FqghKjXH7VFl_6fZRUN7NerWgVq9WtC6FBnNAVF--aOv4SxEhjyRApxoq_Nmprv0Y4P7Qk2mUiAk86mCLZAgptIQXRB9MnoXfFEcs0IPmUKnZj0ag9COa8XjPr97Q2FG3XUkPgSBBK5X8B5VIv9g"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Dell Memory Upgrade - 64GB - 2RX4 DDR4 RDIMM 3200 ...",
+      "link": "https://www.dell.com/en-us/shop/dell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu/apd/aa783423/memory",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu%2Fapd%2Faa783423%2Fmemory&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECBgQAQ",
+      "displayed_link": "https://www.dell.com › ... › Memory Upgrades",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png",
+      "snippet": "DRAM memory module. Technology. DDR4 SDRAM. Form Factor. DIMM 288-pin. Speed. 3200 ... Voltage. 1.2 V. Miscellaneous. Pricing Type. Upgrade. Explore other server ...",
+      "snippet_highlighted_words": [
+        "1.2 V"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DRAM memory module. Technology. DDR4 SDRAM. Form Factor. DIMM 288-pin. Speed. 3200 ... Voltage. 1.2 V. Miscellaneous. Pricing Type. Upgrade. Explore other server ...",
+          "source_info_link": "https://www.dell.com/en-us/shop/dell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu/apd/aa783423/memory",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu%2Fapd%2Faa783423%2Fmemory&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu%2Fapd%2Faa783423%2Fmemory",
+      "source": "Dell",
+      "read_more_link": "https://www.dell.com/en-us/shop/dell-memory-upgrade-64gb-2rx4-ddr4-rdimm-3200-mt-s-not-compatible-with-skylake-cpu/apd/aa783423/memory"
+    },
+    {
+      "position": 2,
+      "title": "Dell Memory Upgrade - 1Rx8 DDR4 SODIMM 3200 MT/s",
+      "link": "https://www.dell.com/en-us/shop/dell-memory-upgrade-8-gb-1rx8-ddr4-sodimm-3200-mt-s/apd/aa937595/memory",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-memory-upgrade-8-gb-1rx8-ddr4-sodimm-3200-mt-s%2Fapd%2Faa937595%2Fmemory&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECCAQAQ",
+      "displayed_link": "https://www.dell.com › ... › Memory Upgrades",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png",
+      "snippet": "Drivers, Manuals & Support $199.99 Limited Stock. General Capacity 8 GB. DDR4 SDRAM Form Factor. OEM grade quality parts.",
+      "snippet_highlighted_words": [
+        "4 SDRAM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Drivers, Manuals & Support $199.99 Limited Stock. General Capacity 8 GB. DDR4 SDRAM Form Factor. OEM grade quality parts.",
+          "source_info_link": "https://www.dell.com/en-us/shop/dell-memory-upgrade-8-gb-1rx8-ddr4-sodimm-3200-mt-s/apd/aa937595/memory",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-memory-upgrade-8-gb-1rx8-ddr4-sodimm-3200-mt-s%2Fapd%2Faa937595%2Fmemory&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-memory-upgrade-8-gb-1rx8-ddr4-sodimm-3200-mt-s%2Fapd%2Faa937595%2Fmemory",
+      "source": "Dell"
+    },
+    {
+      "position": 3,
+      "title": "Dell AA799110 64GB DDR4 2Rx4 3200MHz PC4-25600 ...",
+      "link": "https://www.serversupply.com/MEMORY/PC4-25600/64GB/DELL/AA799110_347208.htm?srsltid=AfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.serversupply.com%2FMEMORY%2FPC4-25600%2F64GB%2FDELL%2FAA799110_347208.htm%3Fsrsltid%3DAfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECCIQAQ",
+      "displayed_link": "https://www.serversupply.com › MEMORY › DELL",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIAQgKCgELDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcrNzc3Nzc3Nys3Nzc3Kzc3Nzc3NzcrKzc3NysrN__AABEIABAAEAMBIgACEQEDEQH_xAAWAAEBAQAAAAAAAAAAAAAAAAAFAwD_xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEBhEAEkEHIUIFCBMXMf_EABUBAQEAAAAAAAAAAAAAAAAAAAUE_8QAGREBAAIDAAAAAAAAAAAAAAAAAQBhAxEj_9oADAMBAAIRAxEAPwBr1MiRIZLzZx0lLneFYjtxnGo03x0MjSdPsCx2YbkXuCDzrVrtRbo75I-vGJ2FvzB40Pb9JUTVdQlqiRfbGZAyF8gY8gM8aB6uSyRK7n__2Q.jpeg",
+      "snippet": "DELL AA799110 64gb (1x64gb) 2rx4 3200mhz Pc4-25600 Cl24 Ecc Registered Dual Rank X4 1.2v Ddr4 Sdram 288-pin Rdimm Genuine DELL Memory Module For 14g And 15g ...",
+      "snippet_highlighted_words": [
+        "1.2v"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DELL AA799110 64gb (1x64gb) 2rx4 3200mhz Pc4-25600 Cl24 Ecc Registered Dual Rank X4 1.2v Ddr4 Sdram 288-pin Rdimm Genuine DELL Memory Module For 14g And 15g ...",
+          "source_info_link": "https://www.serversupply.com/MEMORY/PC4-25600/64GB/DELL/AA799110_347208.htm?srsltid=AfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIAQgKCgELDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcrNzc3Nzc3Nys3Nzc3Kzc3Nzc3NzcrKzc3NysrN__AABEIABAAEAMBIgACEQEDEQH_xAAWAAEBAQAAAAAAAAAAAAAAAAAFAwD_xAAkEAACAQMDAwUAAAAAAAAAAAABAgMEBhEAEkEHIUIFCBMXMf_EABUBAQEAAAAAAAAAAAAAAAAAAAUE_8QAGREBAAIDAAAAAAAAAAAAAAAAAQBhAxEj_9oADAMBAAIRAxEAPwBr1MiRIZLzZx0lLneFYjtxnGo03x0MjSdPsCx2YbkXuCDzrVrtRbo75I-vGJ2FvzB40Pb9JUTVdQlqiRfbGZAyF8gY8gM8aB6uSyRK7n__2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.serversupply.com%2FMEMORY%2FPC4-25600%2F64GB%2FDELL%2FAA799110_347208.htm%3Fsrsltid%3DAfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.serversupply.com%2FMEMORY%2FPC4-25600%2F64GB%2FDELL%2FAA799110_347208.htm%3Fsrsltid%3DAfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7",
+      "source": "ServerSupply.com",
+      "read_more_link": "https://www.serversupply.com/MEMORY/PC4-25600/64GB/DELL/AA799110_347208.htm?srsltid=AfmBOoqp4FaYgB_oRuOixuMcM5Oo2W7QZryQd-d3oRT8sAlQlLDV3cB7"
+    },
+    {
+      "position": 4,
+      "title": "Dell LRDIMM Computer Memory (RAM) for sale",
+      "link": "https://www.ebay.com/b/Dell-LRDIMM-Computer-Memory-RAM/170083/bn_106860846",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ebay.com%2Fb%2FDell-LRDIMM-Computer-Memory-RAM%2F170083%2Fbn_106860846&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECCEQAQ",
+      "displayed_link": "https://www.ebay.com › ... › Memory (RAM)",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+      "snippet": "Dell Total Capacity Total Capacity 32 GB(10) 64 Number of Modules Number of Modules. Shop on eBay $479.99. Shop on eBay $479.99 Free shipping … 64 GB Memory ...",
+      "snippet_highlighted_words": [
+        "Dell",
+        "Modules",
+        "Modules",
+        "64 GB Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dell Total Capacity Total Capacity 32 GB(10) 64 Number of Modules Number of Modules. Shop on eBay $479.99. Shop on eBay $479.99 Free shipping … 64 GB Memory ...",
+          "source_info_link": "https://www.ebay.com/b/Dell-LRDIMM-Computer-Memory-RAM/170083/bn_106860846",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ebay.com%2Fb%2FDell-LRDIMM-Computer-Memory-RAM%2F170083%2Fbn_106860846&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fb%2FDell-LRDIMM-Computer-Memory-RAM%2F170083%2Fbn_106860846",
+      "source": "eBay"
+    },
+    {
+      "position": 5,
+      "title": "750-ADMT Dell Server Memory Shop Now",
+      "link": "https://www.compudevices.com/750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers?srsltid=AfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.compudevices.com%2F750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers%3Fsrsltid%3DAfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECDcQAQ",
+      "displayed_link": "https://www.compudevices.com › ... › Server Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZklEQVR4AcTXAwwcQRTG8alt27YV1lZc27Ybp7bbOKlt27Zt25r-65fJ3s2ccpv8wt33vvUb9aJa2U04jENB2o8NmImOKIEEUFDWjZ2eQIfJF9zHKjRFSiiENcB3vMFdXME1PMQHaOEz9qAh4iLkAA-xGB1REbmQEZmQH9UwGNvxRhz3GuORGgoBB3iGKSiOOGYRUeevxKiJNfgkrtpyZIGCc4CjqI5YUA6bGaQbHoh6q5AOCtYAm5DH_jRbgzTGS1F3JuLbAuxGDntza4BEGI3PovZ7tISCZ4DbKOdwr-MhBZIhtthf3oLxsrlwClm8AnxDfyh4NY6BAhiGjTiBI1iMdkgrmk8wmxv6egU4iYw-msdFB9zwUfAr9qImJuILtB8HkMYMMBIKXmfeA--gLV7hE7TFa9SRAV6hktn8j0p4CB1mY2SAc0jnESAm5kFHwFYZYBPieQTIgAvQEXBZBliMmB4BiuApdAQ8kAEWRTlA9G_BWaSN3kNofw0fQYfZWPNDNALKx1XoFcCH6DO0xRvUNQOcQAY_n-JOuOnnU7wPtTAp2E_xN_Sz_IwKYgQ24ySOYSnai2EjiUOIfr5-x7dQ1uF3HB8pkdzP73iCn99xVjOAtAvZwzSQjDVCfEArr4HEtAG5wjCSNTJGsllIAKeh9DCqhjCUdsF9UW810jsNpcJTTEJRxHZ4NhKhOlbhoxjLVyKr37Hc4gEWoD3KIwfSIyPyogoGYiveGO_7RKSxLEycfcNr3MYlXMF9vPdYmu1FozAszZx9xQOsQXOkclmcbsYRHA7CERzEJsxGZ5TEj3ERm3sAMUESDjpb4zsAAAAASUVORK5CYII.png",
+      "snippet": "Dell - 750-ADMT 64GB (1x64GB) 2rx4 3200mhz Pc4-25600 Cl24 ECC Registered Dual Rank X4 1.2v DDR4 SDRAM 288-pin RDIMM Memory Module with Fast Shipping and 30 Days ...",
+      "snippet_highlighted_words": [
+        "1.2v DDR4 SDRAM 288-pin RDIMM Memory Module"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dell - 750-ADMT 64GB (1x64GB) 2rx4 3200mhz Pc4-25600 Cl24 ECC Registered Dual Rank X4 1.2v DDR4 SDRAM 288-pin RDIMM Memory Module with Fast Shipping and 30 Days ...",
+          "source_info_link": "https://www.compudevices.com/750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers?srsltid=AfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZklEQVR4AcTXAwwcQRTG8alt27YV1lZc27Ybp7bbOKlt27Zt25r-65fJ3s2ccpv8wt33vvUb9aJa2U04jENB2o8NmImOKIEEUFDWjZ2eQIfJF9zHKjRFSiiENcB3vMFdXME1PMQHaOEz9qAh4iLkAA-xGB1REbmQEZmQH9UwGNvxRhz3GuORGgoBB3iGKSiOOGYRUeevxKiJNfgkrtpyZIGCc4CjqI5YUA6bGaQbHoh6q5AOCtYAm5DH_jRbgzTGS1F3JuLbAuxGDntza4BEGI3PovZ7tISCZ4DbKOdwr-MhBZIhtthf3oLxsrlwClm8AnxDfyh4NY6BAhiGjTiBI1iMdkgrmk8wmxv6egU4iYw-msdFB9zwUfAr9qImJuILtB8HkMYMMBIKXmfeA--gLV7hE7TFa9SRAV6hktn8j0p4CB1mY2SAc0jnESAm5kFHwFYZYBPieQTIgAvQEXBZBliMmB4BiuApdAQ8kAEWRTlA9G_BWaSN3kNofw0fQYfZWPNDNALKx1XoFcCH6DO0xRvUNQOcQAY_n-JOuOnnU7wPtTAp2E_xN_Sz_IwKYgQ24ySOYSnai2EjiUOIfr5-x7dQ1uF3HB8pkdzP73iCn99xVjOAtAvZwzSQjDVCfEArr4HEtAG5wjCSNTJGsllIAKeh9DCqhjCUdsF9UW810jsNpcJTTEJRxHZ4NhKhOlbhoxjLVyKr37Hc4gEWoD3KIwfSIyPyogoGYiveGO_7RKSxLEycfcNr3MYlXMF9vPdYmu1FozAszZx9xQOsQXOkclmcbsYRHA7CERzEJsxGZ5TEj3ERm3sAMUESDjpb4zsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.compudevices.com%2F750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers%3Fsrsltid%3DAfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.compudevices.com%2F750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers%3Fsrsltid%3DAfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9",
+      "source": "Compu Devices",
+      "read_more_link": "https://www.compudevices.com/750-admt-dell-64gb-1x64gb-2rx4-3200mhz-pc4-25600-cl24-ecc-registered-dual-rank-x4-1-2v-ddr4-sdram-288-pin-rdimm-genuine-dell-memory-module-for-14g-and-15g-poweredge-servers?srsltid=AfmBOoqMTG9j-ubX4pcpizjI5TYkDb_cnWwsjNWYBhCf5TnDhLGvSF-9"
+    },
+    {
+      "position": 6,
+      "title": "DDR4 Memory Modules",
+      "link": "https://www.dell.com/en-us/shopping/ddr4-memory-modules",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshopping%2Fddr4-memory-modules&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECBwQAQ",
+      "displayed_link": "https://www.dell.com › en-us › shopping › ddr4-memo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png",
+      "snippet": "A 64GB dual rank DDR4 RDIMM memory upgrade … a lower voltage than previous generations, typically around 1.2V, which helps reduce power consumption and heat ...",
+      "snippet_highlighted_words": [
+        "64GB",
+        "DDR4",
+        "memory",
+        "voltage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A 64GB dual rank DDR4 RDIMM memory upgrade … a lower voltage than previous generations, typically around 1.2V, which helps reduce power consumption and heat ...",
+          "source_info_link": "https://www.dell.com/en-us/shopping/ddr4-memory-modules",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshopping%2Fddr4-memory-modules&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshopping%2Fddr4-memory-modules",
+      "source": "Dell"
+    },
+    {
+      "position": 7,
+      "title": "Axiom 64GB DDR4-2666 ECC LRDIMM for Dell",
+      "link": "https://www.amazon.com/Axiom-64GB-DDR4-2666-LRDIMM-Dell/dp/B074W5D1M1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FAxiom-64GB-DDR4-2666-LRDIMM-Dell%2Fdp%2FB074W5D1M1&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECB0QAQ",
+      "displayed_link": "https://www.amazon.com › Axiom-64GB-DDR4-2666-L...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "High-performance memory upgrade for Dell systems. 64GB DDR4-2666 ECC LRDIMM for increased capacity and improved performance. High-speed DDR4-2666 memory ...",
+      "snippet_highlighted_words": [
+        "64GB DDR4-2666 ECC LRDIMM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "High-performance memory upgrade for Dell systems. 64GB DDR4-2666 ECC LRDIMM for increased capacity and improved performance. High-speed DDR4-2666 memory ...",
+          "source_info_link": "https://www.amazon.com/Axiom-64GB-DDR4-2666-LRDIMM-Dell/dp/B074W5D1M1",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FAxiom-64GB-DDR4-2666-LRDIMM-Dell%2Fdp%2FB074W5D1M1&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FAxiom-64GB-DDR4-2666-LRDIMM-Dell%2Fdp%2FB074W5D1M1",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Axiom-64GB-DDR4-2666-LRDIMM-Dell/dp/B074W5D1M1"
+    },
+    {
+      "position": 8,
+      "title": "Dell 64Gb Ddr4 Sdram Memory Module - AA810828",
+      "link": "https://hssl.us/dell--new-64gb-ddr4-sdram-memory-module-aa810828/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fhssl.us%2Fdell--new-64gb-ddr4-sdram-memory-module-aa810828%2F&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECB4QAQ",
+      "displayed_link": "https://hssl.us › dell--new-64gb-ddr4-sdram-memory-mo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUCIGEBIGEAHF8AHmAAGmMAFmIAAFQAAEwAHGMAAFsAE1o4S37____y9PistMkAAEvf4-vX3OdSXYYAD1o0R3wAC1no6_FGUHwAF10vOW2EjqoAAFYAAD5YZo6iqL2ZoLeMl7IaMWx9haXKztpocJMAADEAKGrAydk5RHQXJWN0fp1JWYXBxNJcooQ5AAAA-ElEQVR4AczQhbLCMBBA0d0Gkvfq3uDU9f-_j50qDuOckditAqBCGMKVcQ96jK3W6xUX7Dpgf7T3L1SkuarpxDBBgRlatk4c10MKfL1nBmwJhNPvhZFcAnuj3AVku_sU8J8L5G6yfxp4h-NpdA6fBWqsL54-IjiE7wP0RJKGbwIAxr0o257Mo_E8IEx6nIv8i__w-4F1FSjFk0CUS4A8CXUSXgUgq3QOAL1oez6fk5gtAap1cyat7FeSkx2DayzgREUgUpVE7eMrSPqJjLIDySIJT6FVOgfHcZ1S4PNApJHVdVaVinnrqkTA3VHuum4nT3zcx_oyZHkACXAmcquDMLcAAAAASUVORK5CYII.png",
+      "snippet": "RAM Module CAS Latency: CL22 Device. Memory Voltage: 1.20 V Memory Rank: Dual-rank Note: Images may not be exact, please check specifications.",
+      "snippet_highlighted_words": [
+        "Memory Voltage: 1.20 V"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "RAM Module CAS Latency: CL22 Device. Memory Voltage: 1.20 V Memory Rank: Dual-rank Note: Images may not be exact, please check specifications.",
+          "source_info_link": "https://hssl.us/dell--new-64gb-ddr4-sdram-memory-module-aa810828/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUCIGEBIGEAHF8AHmAAGmMAFmIAAFQAAEwAHGMAAFsAE1o4S37____y9PistMkAAEvf4-vX3OdSXYYAD1o0R3wAC1no6_FGUHwAF10vOW2EjqoAAFYAAD5YZo6iqL2ZoLeMl7IaMWx9haXKztpocJMAADEAKGrAydk5RHQXJWN0fp1JWYXBxNJcooQ5AAAA-ElEQVR4AczQhbLCMBBA0d0Gkvfq3uDU9f-_j50qDuOckditAqBCGMKVcQ96jK3W6xUX7Dpgf7T3L1SkuarpxDBBgRlatk4c10MKfL1nBmwJhNPvhZFcAnuj3AVku_sU8J8L5G6yfxp4h-NpdA6fBWqsL54-IjiE7wP0RJKGbwIAxr0o257Mo_E8IEx6nIv8i__w-4F1FSjFk0CUS4A8CXUSXgUgq3QOAL1oez6fk5gtAap1cyat7FeSkx2DayzgREUgUpVE7eMrSPqJjLIDySIJT6FVOgfHcZ1S4PNApJHVdVaVinnrqkTA3VHuum4nT3zcx_oyZHkACXAmcquDMLcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fhssl.us%2Fdell--new-64gb-ddr4-sdram-memory-module-aa810828%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhssl.us%2Fdell--new-64gb-ddr4-sdram-memory-module-aa810828%2F",
+      "source": "HSSL Technologies"
+    },
+    {
+      "position": 9,
+      "title": "DELL 64GB DDR4 RAM Module",
+      "link": "https://www.servershop24.de/en/dell-64gb-ddr4-ram-module/a-132373/?srsltid=AfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.servershop24.de%2Fen%2Fdell-64gb-ddr4-ram-module%2Fa-132373%2F%3Fsrsltid%3DAfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQFnoECB8QAQ",
+      "displayed_link": "https://www.servershop24.de › ... › PC4-2666 › 64GB",
+      "snippet": "DELL 64GB 4DRx4 PC4-2666V-L DDR4 Load Reduced Server-RAM Module LR-DIMM ECC - SNP4JMGMC/64G ; CAS: 19 ; Voltage: 1.2V ; Special feature: - ; Part No.: SNP4JMGMC/64G.",
+      "snippet_highlighted_words": [
+        "DELL 64GB 4DRx4 PC4-2666V-L DDR4 Load Reduced Server-RAM Module"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DELL 64GB 4DRx4 PC4-2666V-L DDR4 Load Reduced Server-RAM Module LR-DIMM ECC - SNP4JMGMC/64G ; CAS: 19 ; Voltage: 1.2V ; Special feature: - ; Part No.: SNP4JMGMC/64G.",
+          "source_info_link": "https://www.servershop24.de/en/dell-64gb-ddr4-ram-module/a-132373/?srsltid=AfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.servershop24.de%2Fen%2Fdell-64gb-ddr4-ram-module%2Fa-132373%2F%3Fsrsltid%3DAfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.servershop24.de%2Fen%2Fdell-64gb-ddr4-ram-module%2Fa-132373%2F%3Fsrsltid%3DAfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ",
+      "source": "ServerShop24.de",
+      "read_more_link": "https://www.servershop24.de/en/dell-64gb-ddr4-ram-module/a-132373/?srsltid=AfmBOopwcP92fuEXUqnEamGn_j56D4_cym711Wi6B-SCzZcYpIXXvJHJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "SNPP2MYXC/64G",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=SNPP2MYXC%2F64G&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=SNPP2MYXC%2F64G"
+    },
+    {
+      "block_position": 1,
+      "query": "Dell Memory Upgrade 8GB 1rx16 DDR4 SODIMM 3200 MT/s",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Dell+Memory+Upgrade+8GB+1rx16+DDR4+SODIMM+3200+MT%2Fs&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+Memory+Upgrade+8GB+1rx16+DDR4+SODIMM+3200+MT%2Fs"
+    },
+    {
+      "block_position": 1,
+      "query": "64GB DDR4 3200",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=64GB+DDR4+3200&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64GB+DDR4+3200"
+    },
+    {
+      "block_position": 1,
+      "query": "64GB DDR4 RAM 3600MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=64GB+DDR4+RAM+3600MHz&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64GB+DDR4+RAM+3600MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "64GB RDIMM DDR5",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=64GB+RDIMM+DDR5&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64GB+RDIMM+DDR5"
+    },
+    {
+      "block_position": 1,
+      "query": "Dell Memory Upgrade 32gb",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Dell+Memory+Upgrade+32gb&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+Memory+Upgrade+32gb"
+    },
+    {
+      "block_position": 1,
+      "query": "Dell AA783422",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Dell+AA783422&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+AA783422"
+    },
+    {
+      "block_position": 1,
+      "query": "Dell Support",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Dell+Support&sa=X&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+Support"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=znpfaqeVJcW8p84P_MKKgAg&start=10&sa=N&sstk=AU9db-AdA_S7RfB3L6blR3SQ3nC5T5Qep8Kkz2zZYhsPcmLVLivmf7xQpRG9hPwXy-8yjpEhGTAt0hfRmL9oZXarLOyUC5fjyaVYyw&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ8NMDegQIORAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=znpfaqeVJcW8p84P_MKKgAg&start=10&sa=N&sstk=AU9db-AdA_S7RfB3L6blR3SQ3nC5T5Qep8Kkz2zZYhsPcmLVLivmf7xQpRG9hPwXy-8yjpEhGTAt0hfRmL9oZXarLOyUC5fjyaVYyw&ved=2ahUKEwintIy99uOVAxVF3skDHXyhAoAQ8tMDegQIORAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dell+64GB+DDR4+SDRAM+Memory+Module+memory+cas_latency+module_count+voltage&start=10"
+    }
+  }
+}

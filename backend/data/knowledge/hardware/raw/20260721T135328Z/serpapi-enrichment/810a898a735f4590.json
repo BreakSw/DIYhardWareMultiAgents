@@ -1,0 +1,404 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b1dbd17310b0c3cc0f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zdn9MvzIz9XQ84v6TZzqZg/6a5f7b1dbd17310b0c3cc0f4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zdn9MvzIz9XQ84v6TZzqZg/6a5f7b1dbd17310b0c3cc0f4.json_with_pixel_position",
+    "created_at": "2026-07-21 13:58:53 UTC",
+    "processed_at": "2026-07-21 13:58:53 UTC",
+    "google_url": "https://www.google.com/search?q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&oq=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zdn9MvzIz9XQ84v6TZzqZg/6a5f7b1dbd17310b0c3cc0f4.html",
+    "total_time_taken": 1.49
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "TEAMGROUP T-Create Master DDR5 6400 MHz ECC RDIMM Memory Kit ctcmd storage endurance_tbw form_factor interface protocol sequential_read_mb_s sequential_write_mb_s",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "TEAMGROUP T-Create Master DDR5 6400 MHz ECC RDIMM Memory Kit ctcmd storage endurance_tbw form_factor interface protocol sequential_read_mb_s sequential_write_mb_s",
+    "total_results": 441,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is 6400 MHz DDR5 RAM good?",
+      "type": "ai_overview",
+      "page_token": "xjr9sXicHdBLUoMwAADQ8TJdCqQttp3pONIaaJVUQhIgGycEaQrho9Bi2XkXT-VpdFy9_fv61qe6_LmJVd-33cowhmG4PTbNUb_dyqYyRHetpSGF1qmQ5cq-s637XK4fu8HZNIMT0LZlW2yGoL0cYpxTwoTQ0CUFnZFa2Umk3kPteIihfVKruV9wWxC9x1v4gty-9vVi7nsZJGY3-NMSYOiAhJozcrU-pclZCvSFRuqcTpHAVO1knG2Rl8xI2Xtk5BdZYZvVyknBngZs-cSifvvnnFY6ChhDVGe7CDrPBGgeFHIMvVancQY5SEJoqnPmcpXBxRCypeVXlk_ZgyU3ViQsWLinvYM9dD1EPEyBNXK3jcm0nB2i-YgA9IWJCwkR9GPOg6rFk1xe1tPJ_9j6Na_6VfvRHH8BzW53Ig",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xjr9sXicHdBLUoMwAADQ8TJdCqQttp3pONIaaJVUQhIgGycEaQrho9Bi2XkXT-VpdFy9_fv61qe6_LmJVd-33cowhmG4PTbNUb_dyqYyRHetpSGF1qmQ5cq-s637XK4fu8HZNIMT0LZlW2yGoL0cYpxTwoTQ0CUFnZFa2Umk3kPteIihfVKruV9wWxC9x1v4gty-9vVi7nsZJGY3-NMSYOiAhJozcrU-pclZCvSFRuqcTpHAVO1knG2Rl8xI2Xtk5BdZYZvVyknBngZs-cSifvvnnFY6ChhDVGe7CDrPBGgeFHIMvVancQY5SEJoqnPmcpXBxRCypeVXlk_ZgyU3ViQsWLinvYM9dD1EPEyBNXK3jcm0nB2i-YgA9IWJCwkR9GPOg6rFk1xe1tPJ_9j6Na_6VfvRHH8BzW53Ig",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IklzIDY0MDAgTUh6IEREUjUgUkFNIGdvb2Q/IiwibGsiOiJHaGxwY3lBMk5EQXdJRzFvZWlCa1pISTFJSEpoYlNCbmIyOWsiLCJicyI6ImMxMk93UXVDTUJqRjZicVRSQVV0Z2xmM1NDeURUcU1RdElNWENUb3ZOMTBIR2JoRjRGLWZNNVBvLXIzM2U3LVBIQW05R0J6MnZvODBhUkJGV1lqc2xLTFVXckJnUWVlUFBxMVVBeUhxRURXdnVwUnN5YlJGcjV1OGx0ektIMnBHSnkxbDBRY0RFSk5Wb2wtb25ybUMwTklOSXo1REZ4OXRybzFsd1pwQ19aZkt1eXQxZGxjaU83SzhLVzdoTEVxaTRNWktZNGZuV1RDbTN2Zm83STcwUm04IiwiaWQiOiJmY19IbnRmYXRfMElfdTJtTFFQNXAtVmtRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IklzIDY0MDAgTUh6IEREUjUgUkFNIGdvb2Q%2FIiwibGsiOiJHaGxwY3lBMk5EQXdJRzFvZWlCa1pISTFJSEpoYlNCbmIyOWsiLCJicyI6ImMxMk93UXVDTUJqRjZicVRSQVV0Z2xmM1NDeURUcU1RdElNWENUb3ZOMTBIR2JoRjRGLWZNNVBvLXIzM2U3LVBIQW05R0J6MnZvODBhUkJGV1lqc2xLTFVXckJnUWVlUFBxMVVBeUhxRURXdnVwUnN5YlJGcjV1OGx0ektIMnBHSnkxbDBRY0RFSk5Wb2wtb25ybUMwTklOSXo1REZ4OXRybzFsd1pwQ19aZkt1eXQxZGxjaU83SzhLVzdoTEVxaTRNWktZNGZuV1RDbTN2Zm83STcwUm04IiwiaWQiOiJmY19IbnRmYXRfMElfdTJtTFFQNXAtVmtRY181In0%3D"
+    },
+    {
+      "question": "Is T-create RAM good?",
+      "type": "ai_overview",
+      "page_token": "GM9TlnicHdDbboIwAIDh7GW8HC1ON0zMMoSCKBIpLdibBQpyKocJW9G7vcueak8zsxf4k-___hFlW_8-RMU49sNKUaSUj3nX5SJ75F2jxMO15QqPhUhiXq-Wz0v4euZrc5D6ppP6kfQ9NXyAwQJQAuGp1oLEYCGx2O0UIZOok-eqkPI5UU9QM0Kr2CYNG0KrX2R2gROoA3ITTaymOwzGMAJI5xVD2JLSM47SjVLkqlRPG01NgkO5DwRNIe19dJiIyCUD4nLvdYHhLKmJ9KAtdpgUH8dmdDLbhb7lX2JETQr8NjNYRRptH7bUSa0tRqD4TC1WpOhFYqpBt4EuoW-Qb2AYQ1RZpaP79uHqhQwTIkpsPs3v1ouH6sk1fIPZbEOQUxFzAH496bMz_1rPZ__H1u_nZlz1ly7_A5u8di8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GM9TlnicHdDbboIwAIDh7GW8HC1ON0zMMoSCKBIpLdibBQpyKocJW9G7vcueak8zsxf4k-___hFlW_8-RMU49sNKUaSUj3nX5SJ75F2jxMO15QqPhUhiXq-Wz0v4euZrc5D6ppP6kfQ9NXyAwQJQAuGp1oLEYCGx2O0UIZOok-eqkPI5UU9QM0Kr2CYNG0KrX2R2gROoA3ITTaymOwzGMAJI5xVD2JLSM47SjVLkqlRPG01NgkO5DwRNIe19dJiIyCUD4nLvdYHhLKmJ9KAtdpgUH8dmdDLbhb7lX2JETQr8NjNYRRptH7bUSa0tRqD4TC1WpOhFYqpBt4EuoW-Qb2AYQ1RZpaP79uHqhQwTIkpsPs3v1ouH6sk1fIPZbEOQUxFzAH496bMz_1rPZ__H1u_nZlz1ly7_A5u8di8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IklzIFQtY3JlYXRlIFJBTSBnb29kPyIsImxrIjoiR2hScGN5QjBJR055WldGMFpTQnlZVzBnWjI5dlpBIiwiYnMiOiJjMTJPd1F1Q01CakY2YnFUUkFVdGdsZjNTQ3lEVHFNUXRJTVhDVG92TjEwSEdiaEY0Ri1mTTVQby1yMzNlNy1QSEFtOUdCejJ2bzgwYVJCRldZanNsS0xVV3JCZ1FlZVBQcTFVQXlIcUVEV3Z1cFJzeWJSRnI1dThsdHpLSDJwR0p5MWwwUWNERUpOVm9sLW9ucm1DME5JTkl6NURGeDl0cm8xbHdacENfWmZLdXl0MWRsY2lPN0s4S1c3aExFcWk0TVpLWTRmbldUQ20zdmZvN0k3MFJtOCIsImlkIjoiZmNfSG50ZmF0XzBJX3UybUxRUDVwLVZrUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IklzIFQtY3JlYXRlIFJBTSBnb29kPyIsImxrIjoiR2hScGN5QjBJR055WldGMFpTQnlZVzBnWjI5dlpBIiwiYnMiOiJjMTJPd1F1Q01CakY2YnFUUkFVdGdsZjNTQ3lEVHFNUXRJTVhDVG92TjEwSEdiaEY0Ri1mTTVQby1yMzNlNy1QSEFtOUdCejJ2bzgwYVJCRldZanNsS0xVV3JCZ1FlZVBQcTFVQXlIcUVEV3Z1cFJzeWJSRnI1dThsdHpLSDJwR0p5MWwwUWNERUpOVm9sLW9ucm1DME5JTkl6NURGeDl0cm8xbHdacENfWmZLdXl0MWRsY2lPN0s4S1c3aExFcWk0TVpLWTRmbldUQ20zdmZvN0k3MFJtOCIsImlkIjoiZmNfSG50ZmF0XzBJX3UybUxRUDVwLVZrUWNfNSJ9"
+    },
+    {
+      "question": "How much does 64 GB of DDR5 cost?",
+      "type": "ai_overview",
+      "page_token": "39sllHicHdBdToMwAADgeBkfHaVDkyWLGUIZRKottPy8GGhhlX8droM37-KpPI2J3xG-75_ufWh_by5qnqfzbrPRWt-dxvHUVXdi7DfFeRnERhRdVxai3d0_3IPHWuzdL99--vBtwqaJO9SIGkTi1V4YOFmlYy-FJ8eiCa5Jq0IKVEqPOMqYtZDGjsqjtIoe6BeerbI5mJGBwtSYtIwPIHQCk5p5Xa4-qDy6jc2zVSH8HHq4YSm68AE7keFC0XUmRgGhiMOsYToHLqzSYFsyK0w8dY6TnAmIXgkI2qqnW84FZIZaGVNL1lo2b2deuqgtWY4rLknBhcaepCRh8DlV1FXSLwfaZymtQ7erZRzMMUIEp4eZ9zPNruM7YXQVTddzV2vuqatIgJ27NMwdVUt4mOPV12zgF5xKKPVtLS57ePv_uX-r-3k3fY6nP0XagzU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=39sllHicHdBdToMwAADgeBkfHaVDkyWLGUIZRKottPy8GGhhlX8droM37-KpPI2J3xG-75_ufWh_by5qnqfzbrPRWt-dxvHUVXdi7DfFeRnERhRdVxai3d0_3IPHWuzdL99--vBtwqaJO9SIGkTi1V4YOFmlYy-FJ8eiCa5Jq0IKVEqPOMqYtZDGjsqjtIoe6BeerbI5mJGBwtSYtIwPIHQCk5p5Xa4-qDy6jc2zVSH8HHq4YSm68AE7keFC0XUmRgGhiMOsYToHLqzSYFsyK0w8dY6TnAmIXgkI2qqnW84FZIZaGVNL1lo2b2deuqgtWY4rLknBhcaepCRh8DlV1FXSLwfaZymtQ7erZRzMMUIEp4eZ9zPNruM7YXQVTddzV2vuqatIgJ27NMwdVUt4mOPV12zgF5xKKPVtLS57ePv_uX-r-3k3fY6nP0XagzU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgNjQgR0Igb2YgRERSNSBjb3N0PyIsImxrIjoiR2lCb2IzY2diWFZqYUNCa2IyVnpJRFkwSUdkaUlHOW1JR1JrY2pVZ1kyOXpkQSIsImJzIjoiYzEyT3dRdUNNQmpGNmJxVFJBVXRnbGYzU0N5RFRxTVF0SU1YQ1Rvdk4xMEhHYmhGNEYtZk01UG8tcjMzZTctUEhBbTlHQnoydm84MGFSQkZXWWpzbEtMVVdyQmdRZWVQUHExVUF5SHFFRFd2dXBSc3liUkZyNXU4bHR6S0gycEdKeTFsMFFjREVKTlZvbC1vbnJtQzBOSU5JejVERng5dHJvMWx3WnBDX1pmS3V5dDFkbGNpTzdLOEtXN2hMRXFpNE1aS1k0Zm5XVENtM3ZmbzdJNzBSbTgiLCJpZCI6ImZjX0hudGZhdF8wSV91Mm1MUVA1cC1Wa1FjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgNjQgR0Igb2YgRERSNSBjb3N0PyIsImxrIjoiR2lCb2IzY2diWFZqYUNCa2IyVnpJRFkwSUdkaUlHOW1JR1JrY2pVZ1kyOXpkQSIsImJzIjoiYzEyT3dRdUNNQmpGNmJxVFJBVXRnbGYzU0N5RFRxTVF0SU1YQ1Rvdk4xMEhHYmhGNEYtZk01UG8tcjMzZTctUEhBbTlHQnoydm84MGFSQkZXWWpzbEtMVVdyQmdRZWVQUHExVUF5SHFFRFd2dXBSc3liUkZyNXU4bHR6S0gycEdKeTFsMFFjREVKTlZvbC1vbnJtQzBOSU5JejVERng5dHJvMWx3WnBDX1pmS3V5dDFkbGNpTzdLOEtXN2hMRXFpNE1aS1k0Zm5XVENtM3ZmbzdJNzBSbTgiLCJpZCI6ImZjX0hudGZhdF8wSV91Mm1MUVA1cC1Wa1FjXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the fastest DDR5 RAM?",
+      "type": "ai_overview",
+      "page_token": "UnbbKHicHdBfbpswHABg9TJ9bDA0mRYpquYGQ1CgxbF_Bl4qsENIMH823DjhbXfZqXaaSv2O8P39p899-__h2hgzTuvFwlr7dBqGkz4-yaFblNO9lwtZal2Vsl2vfqzQSy03_ucOv_7e4ZSPI2ypc0CDq0SSshDu4pJMZUjej2eUUzc2MGOR91GrLsW0B0p5WOC3betK72QESdg-i5-rGb8VqOlTHukqWGZCpIYh1YtQIXAVB__GJQILWXTnOhK0W6Iqo0umf66oIJr7DWHcd-hMJtjiq4Ci3nMzVhe1LQVo4NTGGSTQYxN7jc0dhCG4FXKGbg9jWOjkcAyebeXms3KA-o3aVT3t8ozWsa9rxSLDCEmT7JeBztD8NpxTTmd50R0X4_moGxsHDREseVe-40lPhSngIgnGNmbkruxjLa8b7_H7c_NRd2Y9_hlOX2OGhGs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UnbbKHicHdBfbpswHABg9TJ9bDA0mRYpquYGQ1CgxbF_Bl4qsENIMH823DjhbXfZqXaaSv2O8P39p899-__h2hgzTuvFwlr7dBqGkz4-yaFblNO9lwtZal2Vsl2vfqzQSy03_ucOv_7e4ZSPI2ypc0CDq0SSshDu4pJMZUjej2eUUzc2MGOR91GrLsW0B0p5WOC3betK72QESdg-i5-rGb8VqOlTHukqWGZCpIYh1YtQIXAVB__GJQILWXTnOhK0W6Iqo0umf66oIJr7DWHcd-hMJtjiq4Ci3nMzVhe1LQVo4NTGGSTQYxN7jc0dhCG4FXKGbg9jWOjkcAyebeXms3KA-o3aVT3t8ozWsa9rxSLDCEmT7JeBztD8NpxTTmd50R0X4_moGxsHDREseVe-40lPhSngIgnGNmbkruxjLa8b7_H7c_NRd2Y9_hlOX2OGhGs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZhc3Rlc3QgRERSNSBSQU0/IiwibGsiOiJHaEJtWVhOMFpYTjBJSEpoYlNCa1pISTEiLCJicyI6ImMxMk93UXVDTUJqRjZicVRSQVV0Z2xmM1NDeURUcU1RdElNWENUb3ZOMTBIR2JoRjRGLWZNNVBvLXIzM2U3LVBIQW05R0J6MnZvODBhUkJGV1lqc2xLTFVXckJnUWVlUFBxMVVBeUhxRURXdnVwUnN5YlJGcjV1OGx0ektIMnBHSnkxbDBRY0RFSk5Wb2wtb25ybUMwTklOSXo1REZ4OXRybzFsd1pwQ19aZkt1eXQxZGxjaU83SzhLVzdoTEVxaTRNWktZNGZuV1RDbTN2Zm83STcwUm04IiwiaWQiOiJmY19IbnRmYXRfMElfdTJtTFFQNXAtVmtRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmExTnFjMHhvY0VSVUxXNXZWM2h1ZEhreVJYbFBMVWhzYkRCc2VqRkllamxRVEZFeE5GcEpUR2MxTkZCeExYcG9aVVZrWDFKVFdHVkNRWGwwYVdWTVVHUkRhRVJWY1hsMVpVSlFkM3BMYldFM04xWlRRVGxIUTBRNGR4SVhTRzUwWm1GMFh6QkpYM1V5YlV4UlVEVndMVlpyVVdNYUlrRkVjM0k1WmxNdGNYTkNPSGRSVURaVk1FTkhaSEpITFdrNGNUbEVPVUoyYUVFIiwiZmN2IjoiMyIsImVpIjoiSG50ZmF0XzBJX3UybUxRUDVwLVZrUWMiLCJxYyI6ImMwMk5NUTdDTUJBRW9hWGlCV2lmUUFHMFBNVnl6cGRna2ZPRjgwVVJTSHdHaWJmd0xTd3F1dFdzWm5meldqdEhHVXpuQ1E0eWpzNlFXSjBOS2RrUnA4Ti1EN2s4d0VTd2xFVWdMR3AzWEhNVG5DU2h1bG9jR0Z6U2JMRVFCLThXOUdvUy1raXRSQzV0c0dYR1pPcEtPcUx5YmViaU9ZNmh2YVlnWGFqX2NMSHNfS1BiMWZQOTJaMl8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZhc3Rlc3QgRERSNSBSQU0%2FIiwibGsiOiJHaEJtWVhOMFpYTjBJSEpoYlNCa1pISTEiLCJicyI6ImMxMk93UXVDTUJqRjZicVRSQVV0Z2xmM1NDeURUcU1RdElNWENUb3ZOMTBIR2JoRjRGLWZNNVBvLXIzM2U3LVBIQW05R0J6MnZvODBhUkJGV1lqc2xLTFVXckJnUWVlUFBxMVVBeUhxRURXdnVwUnN5YlJGcjV1OGx0ektIMnBHSnkxbDBRY0RFSk5Wb2wtb25ybUMwTklOSXo1REZ4OXRybzFsd1pwQ19aZkt1eXQxZGxjaU83SzhLVzdoTEVxaTRNWktZNGZuV1RDbTN2Zm83STcwUm04IiwiaWQiOiJmY19IbnRmYXRfMElfdTJtTFFQNXAtVmtRY181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "XDQo8nicxZXrcqJIFMcfYJ9j-UJUvGViqqipbkDFSxTFySRfKGja9gK0oUFivmztu-xT7dNsi2LAUadmq7b2WNIXus85DefH_8-_vGWw_vu3PxZRtGGPlUqSJGVCKfFwGVG_YrNdgCpz6rEQLb4uPBkHAqNxiPDSldEipD4WiCfHTNht5bqAmCwJeCl3g2huR5akW3HNHxjj5qb0bW0gIXUnW47N8IpHe1-xilXhl_XvdZUPyqyMg3LLHWPshCPcIuWaVG2VRxXb5wvAf2k6gGAJAOE_PR2emwKIcdsFAUDbX5VsnXJyo-WWJekIQn47DaRc9UfSZqkB7nAMg-aCAdA5TK5vJdIrDtv7LboB9xnpyiHRc7t0NJi1Rn500S7chEe_2dEbN2PtTdeLfnhczUqnjGIUPe_E2E-_pN2RAbCagEVC-jdyVSg0O8Q0yKW3nLcNWIyzOA6Q-IuquITXoVRxQt5UK0u0QGknZPvyVMyWRLUu06BRelLRe_RK0CD-bgZoWu28d0pJBTl8nUdtF7vWwpK-puNqrdqUWvUvD3cpF4idwGAFMGae54y6g6FBy4MyrOaoIKenkrP95OTiY84e3oUNx0dMtLSzy27RrAOpwTd_bmyrOkwAyNBs7GtNJT9WNPd9gYrUTmgMQUpFmpxyaI-O8lVByGlDro66Z_HyGcDMvaJz9rK5zucCQykyqEz2fGWQDIuujIV2KD84PQI_go3TIdJYRo525XBEg0BYPIp-OEEjt27_YggvZeOVj3uEnD5G6Sb9mNAhbiGpIn38FRBlpt3k9Zrd4uZoBGTlf1bNBQqw97Lub_1azey8DqI2tIgD7Xv9-5gZl6ue-s4v6AH6n7k4qgXN1OICF4ufcJEWD7muFsciSjIu0nV9qFzl4iAJRbXonqnFJS56RS4-1cI4U4tPLvap3OaifYsLeI0L_sH_gQvjCheZWuS4WJ-pxcFpphafXPy6Wjj_Ti1STPChKUpHvCJXJaSznva9e1Pqeu1oOaCWx4KOOqD-yw6Rn0rI3I8efdv17qyl-whrvWjn3ll8gj5iV3iTTQ0MO5PRbCyaJSXEdoTFoc0iHIqqOmmK9w1JEofdD1FTFHGi6sOhOMQ-DXdifxmJKEK-K7KIhjbBIg7cOLQDhK3IScQ5DX1rbiN-U1wG3CHvY3ET0ogi6okMv8U4iJa2Z_GoruU7FstPJuEywums4HshlSW70fO2dfghaRO1rfW20XvU9NnabFGgSU_NUqiw-5XC3Ie3gV-qk2d6H5tmrzXbzqqrqTOZ1X28au-eh4NNXY-xTUtvdtLbvqobffXWlFabb0NHnU4Vc9zov7TUmjnpI4W-NOuT2gdrj0czw1FixILuJMHzxISvRpoXk6tJvPV4iNhZC36IZF7IDQKeDPBMIAIKr1KF8D_l_4SXg8CQbWG2lWtua95qfpFs56FpP9xjwSfRbiO3JIEFoVz9B6oNVIs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XDQo8nicxZXrcqJIFMcfYJ9j-UJUvGViqqipbkDFSxTFySRfKGja9gK0oUFivmztu-xT7dNsi2LAUadmq7b2WNIXus85DefH_8-_vGWw_vu3PxZRtGGPlUqSJGVCKfFwGVG_YrNdgCpz6rEQLb4uPBkHAqNxiPDSldEipD4WiCfHTNht5bqAmCwJeCl3g2huR5akW3HNHxjj5qb0bW0gIXUnW47N8IpHe1-xilXhl_XvdZUPyqyMg3LLHWPshCPcIuWaVG2VRxXb5wvAf2k6gGAJAOE_PR2emwKIcdsFAUDbX5VsnXJyo-WWJekIQn47DaRc9UfSZqkB7nAMg-aCAdA5TK5vJdIrDtv7LboB9xnpyiHRc7t0NJi1Rn500S7chEe_2dEbN2PtTdeLfnhczUqnjGIUPe_E2E-_pN2RAbCagEVC-jdyVSg0O8Q0yKW3nLcNWIyzOA6Q-IuquITXoVRxQt5UK0u0QGknZPvyVMyWRLUu06BRelLRe_RK0CD-bgZoWu28d0pJBTl8nUdtF7vWwpK-puNqrdqUWvUvD3cpF4idwGAFMGae54y6g6FBy4MyrOaoIKenkrP95OTiY84e3oUNx0dMtLSzy27RrAOpwTd_bmyrOkwAyNBs7GtNJT9WNPd9gYrUTmgMQUpFmpxyaI-O8lVByGlDro66Z_HyGcDMvaJz9rK5zucCQykyqEz2fGWQDIuujIV2KD84PQI_go3TIdJYRo525XBEg0BYPIp-OEEjt27_YggvZeOVj3uEnD5G6Sb9mNAhbiGpIn38FRBlpt3k9Zrd4uZoBGTlf1bNBQqw97Lub_1azey8DqI2tIgD7Xv9-5gZl6ue-s4v6AH6n7k4qgXN1OICF4ufcJEWD7muFsciSjIu0nV9qFzl4iAJRbXonqnFJS56RS4-1cI4U4tPLvap3OaifYsLeI0L_sH_gQvjCheZWuS4WJ-pxcFpphafXPy6Wjj_Ti1STPChKUpHvCJXJaSznva9e1Pqeu1oOaCWx4KOOqD-yw6Rn0rI3I8efdv17qyl-whrvWjn3ll8gj5iV3iTTQ0MO5PRbCyaJSXEdoTFoc0iHIqqOmmK9w1JEofdD1FTFHGi6sOhOMQ-DXdifxmJKEK-K7KIhjbBIg7cOLQDhK3IScQ5DX1rbiN-U1wG3CHvY3ET0ogi6okMv8U4iJa2Z_GoruU7FstPJuEywums4HshlSW70fO2dfghaRO1rfW20XvU9NnabFGgSU_NUqiw-5XC3Ie3gV-qk2d6H5tmrzXbzqqrqTOZ1X28au-eh4NNXY-xTUtvdtLbvqobffXWlFabb0NHnU4Vc9zov7TUmjnpI4W-NOuT2gdrj0czw1FixILuJMHzxISvRpoXk6tJvPV4iNhZC36IZF7IDQKeDPBMIAIKr1KF8D_l_4SXg8CQbWG2lWtua95qfpFs56FpP9xjwSfRbiO3JIEFoVz9B6oNVIs"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "TEAMGROUP T-Create Master 64GB 4x16GB DDR5 6400 ...",
+      "link": "https://www.ebay.com/itm/287426875670",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F287426875670&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECBkQAQ",
+      "displayed_link": "https://www.ebay.com › ... › Memory (RAM)",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+      "snippet": "This TEAMGROUP T-Create Master Overclocking memory kit features a robust DDR5 RDIMM (Registered ECC DIMM) architecture, specifically engineered for high-end ...",
+      "snippet_highlighted_words": [
+        "TEAMGROUP T",
+        "Create Master",
+        "memory kit",
+        "DDR5 RDIMM",
+        "ECC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This TEAMGROUP T-Create Master Overclocking memory kit features a robust DDR5 RDIMM (Registered ECC DIMM) architecture, specifically engineered for high-end ...",
+          "source_info_link": "https://www.ebay.com/itm/287426875670",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F287426875670&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F287426875670",
+      "source": "eBay"
+    },
+    {
+      "position": 2,
+      "title": "TEAMGROUP T-CREATE Launches MASTER DDR5 OC R ...",
+      "link": "https://www.teamgroupinc.com/en/news-detail/master-ddr5-oc-r-dimm/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.teamgroupinc.com%2Fen%2Fnews-detail%2Fmaster-ddr5-oc-r-dimm%2F&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECBsQAQ",
+      "displayed_link": "https://www.teamgroupinc.com › Home › Newsroom",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUPepX-AAAAEXRSTlMADjlZanW77__JHqubRymL3qQYv9EAAAC8SURBVHgB1dCFgQQgDATAhQgbvP9qP-9ewA3ugkdVqqiZSi34QbzxU-jnhD5eu6au3fuucrzFxovD5Avf9HOQIodGwW8dGDm2IGOO8Xv4ZQznsjlqz44K7FIzAUoGklHQLpex3c6gM14GDcm5hYt6za-wUtp42fYgNWJyjL2c43DlsOHlQkhsuHfPmv0aYTlYkYIOVHoORihH9p-4xoKEw1u6VvRjmZYV27Kqfn7fLPifepyK_5WlUvG4ngBiiAesxkeGRgAAAABJRU5ErkJggg.png",
+      "date": "Sep 22, 2023",
+      "snippet": "The T-CREATE MASTER memory module is an overclocking ECC Registered DIMM memory available in frequencies of 6000 MHz, 6400 MHz, and 6800 MHz.",
+      "snippet_highlighted_words": [
+        "T",
+        "CREATE MASTER memory",
+        "ECC",
+        "memory",
+        "MHz",
+        "6400 MHz",
+        "MHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The T-CREATE MASTER memory module is an overclocking ECC Registered DIMM memory available in frequencies of 6000 MHz, 6400 MHz, and 6800 MHz.",
+          "source_info_link": "https://www.teamgroupinc.com/en/news-detail/master-ddr5-oc-r-dimm/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUPepX-AAAAEXRSTlMADjlZanW77__JHqubRymL3qQYv9EAAAC8SURBVHgB1dCFgQQgDATAhQgbvP9qP-9ewA3ugkdVqqiZSi34QbzxU-jnhD5eu6au3fuucrzFxovD5Avf9HOQIodGwW8dGDm2IGOO8Xv4ZQznsjlqz44K7FIzAUoGklHQLpex3c6gM14GDcm5hYt6za-wUtp42fYgNWJyjL2c43DlsOHlQkhsuHfPmv0aYTlYkYIOVHoORihH9p-4xoKEw1u6VvRjmZYV27Kqfn7fLPifepyK_5WlUvG4ngBiiAesxkeGRgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.teamgroupinc.com%2Fen%2Fnews-detail%2Fmaster-ddr5-oc-r-dimm%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.teamgroupinc.com%2Fen%2Fnews-detail%2Fmaster-ddr5-oc-r-dimm%2F",
+      "source": "TeamGroup",
+      "read_more_link": "https://www.teamgroupinc.com/en/news-detail/master-ddr5-oc-r-dimm/"
+    },
+    {
+      "position": 3,
+      "title": "T-CREATE MASTER Ai DDR5 OC R-DIMM Workstation ...",
+      "link": "https://www.teamgroupinc.com/community/en/blog-detail/professionals-workstation-memory/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.teamgroupinc.com%2Fcommunity%2Fen%2Fblog-detail%2Fprofessionals-workstation-memory%2F&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECCkQAQ",
+      "displayed_link": "https://www.teamgroupinc.com › Home › Blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUPepX-AAAAEXRSTlMADjlZanW77__JHqubRymL3qQYv9EAAAC8SURBVHgB1dCFgQQgDATAhQgbvP9qP-9ewA3ugkdVqqiZSi34QbzxU-jnhD5eu6au3fuucrzFxovD5Avf9HOQIodGwW8dGDm2IGOO8Xv4ZQznsjlqz44K7FIzAUoGklHQLpex3c6gM14GDcm5hYt6za-wUtp42fYgNWJyjL2c43DlsOHlQkhsuHfPmv0aYTlYkYIOVHoORihH9p-4xoKEw1u6VvRjmZYV27Kqfn7fLPifepyK_5WlUvG4ngBiiAesxkeGRgAAAABJRU5ErkJggg.png",
+      "date": "Jul 17, 2024",
+      "snippet": "The T-CREATE MASTER Ai DDR5 WORKSTATION MEMORY exhibited at COMPUTEX 2024 featured a new specification of 256 GB (8x 32 GB) 6400 MHz with high bandwidth and ...",
+      "snippet_highlighted_words": [
+        "T",
+        "CREATE MASTER",
+        "DDR5",
+        "MEMORY",
+        "6400 MHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The T-CREATE MASTER Ai DDR5 WORKSTATION MEMORY exhibited at COMPUTEX 2024 featured a new specification of 256 GB (8x 32 GB) 6400 MHz with high bandwidth and ...",
+          "source_info_link": "https://www.teamgroupinc.com/community/en/blog-detail/professionals-workstation-memory/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUPepX-AAAAEXRSTlMADjlZanW77__JHqubRymL3qQYv9EAAAC8SURBVHgB1dCFgQQgDATAhQgbvP9qP-9ewA3ugkdVqqiZSi34QbzxU-jnhD5eu6au3fuucrzFxovD5Avf9HOQIodGwW8dGDm2IGOO8Xv4ZQznsjlqz44K7FIzAUoGklHQLpex3c6gM14GDcm5hYt6za-wUtp42fYgNWJyjL2c43DlsOHlQkhsuHfPmv0aYTlYkYIOVHoORihH9p-4xoKEw1u6VvRjmZYV27Kqfn7fLPifepyK_5WlUvG4ngBiiAesxkeGRgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.teamgroupinc.com%2Fcommunity%2Fen%2Fblog-detail%2Fprofessionals-workstation-memory%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.teamgroupinc.com%2Fcommunity%2Fen%2Fblog-detail%2Fprofessionals-workstation-memory%2F",
+      "source": "TeamGroup",
+      "read_more_link": "https://www.teamgroupinc.com/community/en/blog-detail/professionals-workstation-memory/"
+    },
+    {
+      "position": 4,
+      "title": "TEAMGROUP CTCMD564G6400HC32AQC01 T-Create ...",
+      "link": "https://www.newegg.com/team-group-64gb/p/N82E16820985124?srsltid=AfmBOorDWYWuQs0qrrFzPlxbbUZuzkQnGa1LeaFxRF8yB5NYAPuhWI2H",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fteam-group-64gb%2Fp%2FN82E16820985124%3Fsrsltid%3DAfmBOorDWYWuQs0qrrFzPlxbbUZuzkQnGa1LeaFxRF8yB5NYAPuhWI2H&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECCYQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Team Group",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Buy TEAMGROUP CTCMD564G6400HC32AQC01 T-Create Master 64GB kits(16GBx4) DDR5 6400 (PC5-51200) Overclock ECC RDIMM CL32 1.4V One-rank Server Memory HYNIX IC with",
+      "snippet_highlighted_words": [
+        "TEAMGROUP CTCMD564G6400HC32AQC01 T-Create Master"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy TEAMGROUP CTCMD564G6400HC32AQC01 T-Create Master 64GB kits(16GBx4) DDR5 6400 (PC5-51200) Overclock ECC RDIMM CL32 1.4V One-rank Server Memory HYNIX IC with",
+          "source_info_link": "https://www.newegg.com/team-group-64gb/p/N82E16820985124?srsltid=AfmBOorDWYWuQs0qrrFzPlxbbUZuzkQnGa1LeaFxRF8yB5NYAPuhWI2H",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fteam-group-64gb%2Fp%2FN82E16820985124%3Fsrsltid%3DAfmBOorDWYWuQs0qrrFzPlxbbUZuzkQnGa1LeaFxRF8yB5NYAPuhWI2H&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fteam-group-64gb%2Fp%2FN82E16820985124%3Fsrsltid%3DAfmBOorDWYWuQs0qrrFzPlxbbUZuzkQnGa1LeaFxRF8yB5NYAPuhWI2H",
+      "source": "Newegg"
+    },
+    {
+      "position": 5,
+      "title": "TEAMGROUP T-CREATE EXPERT DDR5 6400MHz - Review",
+      "link": "https://www.youtube.com/watch?v=ljvNwvRoPbQ",
+      "displayed_link": "16.3K+ views · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b1dbd17310b0c3cc0f4/images/jmoGBaeLsf-_B9Pw1Qxvu6Mh3cWWE3UaVFoYm4nRxxA.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "When looking for memory modules that are reliable and stable, yet kinda low-profile, TEAMGROUP T-Create Expert DDR5 stand out always.",
+      "duration": "5:07",
+      "about_this_result": {
+        "source": {
+          "description": "When looking for memory modules that are reliable and stable, yet kinda low-profile, TEAMGROUP T-Create Expert DDR5 stand out always.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DljvNwvRoPbQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DljvNwvRoPbQ",
+      "source": "YouTube · PC Crazy"
+    },
+    {
+      "position": 6,
+      "title": "TEAMGROUP T-CREATE EXPERT DDR5-6400 64 GB review",
+      "link": "https://migovi.com/en/review-teamgroup-t-create-expert-ddr5-6400-64-gb/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fmigovi.com%2Fen%2Freview-teamgroup-t-create-expert-ddr5-6400-64-gb%2F&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECC4QAQ",
+      "displayed_link": "https://migovi.com › Hardware EN",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEz________________________________nu7zHVFe-LDHNbG_68fLZlJa2AAO7HiS5EBngqKnTgIP25OX03t_u0dHBOz_pncOUAAAACXRSTlMAM4fD6P9hFz-euvUKAAAA-UlEQVR4AXzSBYLEIBAEQKw3ipPN_396M0HO6ZVI4SBGpNIGMFpJ8TMvgh7z-kZLp87Lp634lXViQxf8mdqy-RsN2wvAth-nRYs9j30D8KoVnQ8hRtssxhB9eqpKAGSkuWKO_OQBSKGAQshfy2bbQwGU0MDlg998iI7RxeeBUQtT0Z70ktFT-7aiEahYqG0eRer3hKjo6Z6qBoAGdmKgAeyFYmvP3NvV0fCA8M486T2G-w5xR0ctFJnnSdPlmeB7oBLymXbcuSoZ33SUvHw8QodalSsSRurZ1IV3dwYn3XcCxeacLV7zLZtv9vyYsE5sfjQ_hitR480OAAVmFl7KAbj_AAAAAElFTkSuQmCC.png",
+      "date": "Nov 2, 2025",
+      "snippet": "In this article, Migovi conducts an in-depth review of the DDR5-6400 RAM kit, 64 GB capacity, model CTCWD564G6400HC40BDC01 in white. Is 64 GB ...",
+      "snippet_highlighted_words": [
+        "DDR5-6400 RAM kit, 64 GB capacity"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this article, Migovi conducts an in-depth review of the DDR5-6400 RAM kit, 64 GB capacity, model CTCWD564G6400HC40BDC01 in white. Is 64 GB ...",
+          "source_info_link": "https://migovi.com/en/review-teamgroup-t-create-expert-ddr5-6400-64-gb/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEz________________________________nu7zHVFe-LDHNbG_68fLZlJa2AAO7HiS5EBngqKnTgIP25OX03t_u0dHBOz_pncOUAAAACXRSTlMAM4fD6P9hFz-euvUKAAAA-UlEQVR4AXzSBYLEIBAEQKw3ipPN_396M0HO6ZVI4SBGpNIGMFpJ8TMvgh7z-kZLp87Lp634lXViQxf8mdqy-RsN2wvAth-nRYs9j30D8KoVnQ8hRtssxhB9eqpKAGSkuWKO_OQBSKGAQshfy2bbQwGU0MDlg998iI7RxeeBUQtT0Z70ktFT-7aiEahYqG0eRer3hKjo6Z6qBoAGdmKgAeyFYmvP3NvV0fCA8M486T2G-w5xR0ctFJnnSdPlmeB7oBLymXbcuSoZ33SUvHw8QodalSsSRurZ1IV3dwYn3XcCxeacLV7zLZtv9vyYsE5sfjQ_hitR480OAAVmFl7KAbj_AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fmigovi.com%2Fen%2Freview-teamgroup-t-create-expert-ddr5-6400-64-gb%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmigovi.com%2Fen%2Freview-teamgroup-t-create-expert-ddr5-6400-64-gb%2F",
+      "source": "migovi.com",
+      "read_more_link": "https://migovi.com/en/review-teamgroup-t-create-expert-ddr5-6400-64-gb/"
+    },
+    {
+      "position": 7,
+      "title": "TEAMGROUP 192GB T-Create Master DDR5 6400",
+      "link": "https://www.bhphotovideo.com/c/product/1964346-REG/teamgroup_ctcmd5192g6400hc32eqc01_256gb_t_create_master_288_pin.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1964346-REG%2Fteamgroup_ctcmd5192g6400hc32eqc01_256gb_t_create_master_288_pin.html&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECCQQAQ",
+      "displayed_link": "https://www.bhphotovideo.com › ... › Computer Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____15OP14uL89fX67-7EQT27BgC7CwDgqKbpvr23AADVgX_ALinIUk--JiC_Kybnubjsyci8EgjYjoy9Hhe8Fw7GSkfksbDy2Ni9ISS8Fh7VbDH_zkb_zz7fhDa7GSS9Hxn_1EjMUyzIRyvDOTXnljr5vELyr0C5BBXjjTP-yEXDOSjLYmXupj7RYS_omTvXbSLrnS7OTwDhrLDyzbL_4Zb83613_CScAAAA2ElEQVR4Ad2PhWEDMQwA_QwBPTOYQk4xtP9oVRgXaM7sM0jkv6Hp2gGcGjjVcTSPa8Syjzgu8Xzb9k1CBjgOD3I0hiN2EEYADso4gbF1kantAIyzlzLNSRFBWXnpaxlGZd20XQ-OhpLePxsBsJozgVdtm8KNxDl2TPSMl3DgVg6lTPrJdDrrcftBpgH-M18w1cMSpJTDW5m4pvmxUHz6WSv_Kc_Etqvmq18q9f0skV7VfV-z7l5mTnrgp10s2t92tZd2GsmDDPIj6812u1lvdgYhIS4D8k78ARh8F93FnTAXAAAAAElFTkSuQmCC.png",
+      "snippet": "Boost the performance of your desktop workstation with the 192GB T-Create Master DDR5 6400 MHz ECC RDIMM Memory. Designed to help professionals complete large- ...",
+      "snippet_highlighted_words": [
+        "192GB T-Create Master DDR5 6400 MHz ECC RDIMM Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Boost the performance of your desktop workstation with the 192GB T-Create Master DDR5 6400 MHz ECC RDIMM Memory. Designed to help professionals complete large- ...",
+          "source_info_link": "https://www.bhphotovideo.com/c/product/1964346-REG/teamgroup_ctcmd5192g6400hc32eqc01_256gb_t_create_master_288_pin.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____15OP14uL89fX67-7EQT27BgC7CwDgqKbpvr23AADVgX_ALinIUk--JiC_Kybnubjsyci8EgjYjoy9Hhe8Fw7GSkfksbDy2Ni9ISS8Fh7VbDH_zkb_zz7fhDa7GSS9Hxn_1EjMUyzIRyvDOTXnljr5vELyr0C5BBXjjTP-yEXDOSjLYmXupj7RYS_omTvXbSLrnS7OTwDhrLDyzbL_4Zb83613_CScAAAA2ElEQVR4Ad2PhWEDMQwA_QwBPTOYQk4xtP9oVRgXaM7sM0jkv6Hp2gGcGjjVcTSPa8Syjzgu8Xzb9k1CBjgOD3I0hiN2EEYADso4gbF1kantAIyzlzLNSRFBWXnpaxlGZd20XQ-OhpLePxsBsJozgVdtm8KNxDl2TPSMl3DgVg6lTPrJdDrrcftBpgH-M18w1cMSpJTDW5m4pvmxUHz6WSv_Kc_Etqvmq18q9f0skV7VfV-z7l5mTnrgp10s2t92tZd2GsmDDPIj6812u1lvdgYhIS4D8k78ARh8F93FnTAXAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1964346-REG%2Fteamgroup_ctcmd5192g6400hc32eqc01_256gb_t_create_master_288_pin.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1964346-REG%2Fteamgroup_ctcmd5192g6400hc32eqc01_256gb_t_create_master_288_pin.html",
+      "source": "B&H Photo",
+      "read_more_link": "https://www.bhphotovideo.com/c/product/1964346-REG/teamgroup_ctcmd5192g6400hc32eqc01_256gb_t_create_master_288_pin.html"
+    },
+    {
+      "position": 8,
+      "title": "TEAMGROUP T-Create Master Overclocking DDR5 R- ...",
+      "link": "https://www.amazon.com/TEAMGROUP-T-Create-Overclocking-PC5-48000-Workstation/dp/B0CLDJ4NT6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FTEAMGROUP-T-Create-Overclocking-PC5-48000-Workstation%2Fdp%2FB0CLDJ4NT6&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECCcQAQ",
+      "displayed_link": "https://www.amazon.com › TEAMGROUP-T-Create-Ove...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "T-CREATE MASTER DDR5 OC R-DIMM comes with exchanges free-of-charge for non-man-made damage under a simple applying procedure.",
+      "snippet_highlighted_words": [
+        "T-CREATE MASTER DDR5 OC R-DIMM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "T-CREATE MASTER DDR5 OC R-DIMM comes with exchanges free-of-charge for non-man-made damage under a simple applying procedure.",
+          "source_info_link": "https://www.amazon.com/TEAMGROUP-T-Create-Overclocking-PC5-48000-Workstation/dp/B0CLDJ4NT6",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FTEAMGROUP-T-Create-Overclocking-PC5-48000-Workstation%2Fdp%2FB0CLDJ4NT6&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FTEAMGROUP-T-Create-Overclocking-PC5-48000-Workstation%2Fdp%2FB0CLDJ4NT6",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/TEAMGROUP-T-Create-Overclocking-PC5-48000-Workstation/dp/B0CLDJ4NT6"
+    },
+    {
+      "position": 9,
+      "title": "MASTER DDR5 WORKSTATION MEMORY BLACK 128GB ...",
+      "link": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/master-r-dimm-ddr5-black/master-r-dimm-ddr5-black-CTCMD5128G6800HC34BOC01/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.teamgroupinc.com%2Fen%2Fproduct-detail%2Fmemory%2FT-CREATE%2Fmaster-r-dimm-ddr5-black%2Fmaster-r-dimm-ddr5-black-CTCMD5128G6800HC34BOC01%2F&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQFnoECCMQAQ",
+      "displayed_link": "https://www.teamgroupinc.com › Home › Product",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUPepX-AAAAEXRSTlMADjlZanW77__JHqubRymL3qQYv9EAAAC8SURBVHgB1dCFgQQgDATAhQgbvP9qP-9ewA3ugkdVqqiZSi34QbzxU-jnhD5eu6au3fuucrzFxovD5Avf9HOQIodGwW8dGDm2IGOO8Xv4ZQznsjlqz44K7FIzAUoGklHQLpex3c6gM14GDcm5hYt6za-wUtp42fYgNWJyjL2c43DlsOHlQkhsuHfPmv0aYTlYkYIOVHoORihH9p-4xoKEw1u6VvRjmZYV27Kqfn7fLPifepyK_5WlUvG4ngBiiAesxkeGRgAAAABJRU5ErkJggg.png",
+      "snippet": "T-CREATE MASTER DDR5 OC R-DIMM is an overclocking ECC Registered DIMM memory. Equipped with 64 GB of memory capacity, the product can have a memory capacity ...",
+      "snippet_highlighted_words": [
+        "T-CREATE MASTER DDR5 OC R-DIMM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "T-CREATE MASTER DDR5 OC R-DIMM is an overclocking ECC Registered DIMM memory. Equipped with 64 GB of memory capacity, the product can have a memory capacity ...",
+          "source_info_link": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/master-r-dimm-ddr5-black/master-r-dimm-ddr5-black-CTCMD5128G6800HC34BOC01/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUjGBUPepX-AAAAEXRSTlMADjlZanW77__JHqubRymL3qQYv9EAAAC8SURBVHgB1dCFgQQgDATAhQgbvP9qP-9ewA3ugkdVqqiZSi34QbzxU-jnhD5eu6au3fuucrzFxovD5Avf9HOQIodGwW8dGDm2IGOO8Xv4ZQznsjlqz44K7FIzAUoGklHQLpex3c6gM14GDcm5hYt6za-wUtp42fYgNWJyjL2c43DlsOHlQkhsuHfPmv0aYTlYkYIOVHoORihH9p-4xoKEw1u6VvRjmZYV27Kqfn7fLPifepyK_5WlUvG4ngBiiAesxkeGRgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.teamgroupinc.com%2Fen%2Fproduct-detail%2Fmemory%2FT-CREATE%2Fmaster-r-dimm-ddr5-black%2Fmaster-r-dimm-ddr5-black-CTCMD5128G6800HC34BOC01%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.teamgroupinc.com%2Fen%2Fproduct-detail%2Fmemory%2FT-CREATE%2Fmaster-r-dimm-ddr5-black%2Fmaster-r-dimm-ddr5-black-CTCMD5128G6800HC34BOC01%2F",
+      "source": "TeamGroup",
+      "read_more_link": "https://www.teamgroupinc.com/en/product-detail/memory/T-CREATE/master-r-dimm-ddr5-black/master-r-dimm-ddr5-black-CTCMD5128G6800HC34BOC01/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "TEAMGROUP 128GB T-CREATE EXPERT DDR5 6400 MHz UDIMM Memory kit 2 x 64GB Black",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=TEAMGROUP+128GB+T-CREATE+EXPERT+DDR5+6400+MHz+UDIMM+Memory+kit+2+x+64GB+Black&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAggEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+128GB+T-CREATE+EXPERT+DDR5+6400+MHz+UDIMM+Memory+kit+2+x+64GB+Black"
+    },
+    {
+      "block_position": 1,
+      "query": "Teamgroup t create expert overclocking 10l ddr5 96gb",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Teamgroup+t+create+expert+overclocking+10l+ddr5+96gb&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Teamgroup+t+create+expert+overclocking+10l+ddr5+96gb"
+    },
+    {
+      "block_position": 1,
+      "query": "TEAMGROUP 96GB DDR5",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=TEAMGROUP+96GB+DDR5&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+96GB+DDR5"
+    },
+    {
+      "block_position": 1,
+      "query": "Teamgroup t create classic 32gb ddr4 3200 mhz 2x16gb",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Teamgroup+t+create+classic+32gb+ddr4+3200+mhz+2x16gb&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Teamgroup+t+create+classic+32gb+ddr4+3200+mhz+2x16gb"
+    },
+    {
+      "block_position": 1,
+      "query": "Teamgroup t create classic ttccd416g3200hc22dc01 16gb 2 x 8gb 3200mhz ddr4 cl22 memory",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Teamgroup+t+create+classic+ttccd416g3200hc22dc01+16gb+2+x+8gb+3200mhz+ddr4+cl22+memory&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Teamgroup+t+create+classic+ttccd416g3200hc22dc01+16gb+2+x+8gb+3200mhz+ddr4+cl22+memory"
+    },
+    {
+      "block_position": 1,
+      "query": "Teamgroup t create expert 32gb 2x16gb 3200mhz cl16 ddr4 desktop memory",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Teamgroup+t+create+expert+32gb+2x16gb+3200mhz+cl16+ddr4+desktop+memory&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Teamgroup+t+create+expert+32gb+2x16gb+3200mhz+cl16+ddr4+desktop+memory"
+    },
+    {
+      "block_position": 1,
+      "query": "Teamgroup t create expert 32 gb 2 x 16 gb ddr4 3200 cl16 memory",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Teamgroup+t+create+expert+32+gb+2+x+16+gb+ddr4+3200+cl16+memory&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Teamgroup+t+create+expert+32+gb+2+x+16+gb+ddr4+3200+cl16+memory"
+    },
+    {
+      "block_position": 1,
+      "query": "Ctccd564g5600hc46dc01",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Ctccd564g5600hc46dc01&sa=X&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ1QJ6BAgiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ctccd564g5600hc46dc01"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=Hntfat_0I_u2mLQP5p-VkQc&start=10&sa=N&sstk=AU9db-DguQk1ygIJV_mEC1JVxqvoS8ya7W86kYkj_6kt19Y72YmQ7LlLYeOArVRiExHJnnBZsHv9U9c02VToLAdRTtDWQ3-Vdvzf0g&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ8NMDegQIRRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=Hntfat_0I_u2mLQP5p-VkQc&start=10&sa=N&sstk=AU9db-DguQk1ygIJV_mEC1JVxqvoS8ya7W86kYkj_6kt19Y72YmQ7LlLYeOArVRiExHJnnBZsHv9U9c02VToLAdRTtDWQ3-Vdvzf0g&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ8tMDegQIRRAE",
+      "3": "https://www.google.com/search?q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=Hntfat_0I_u2mLQP5p-VkQc&start=20&sa=N&sstk=AU9db-DguQk1ygIJV_mEC1JVxqvoS8ya7W86kYkj_6kt19Y72YmQ7LlLYeOArVRiExHJnnBZsHv9U9c02VToLAdRTtDWQ3-Vdvzf0g&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ8tMDegQIRRAG",
+      "4": "https://www.google.com/search?q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=Hntfat_0I_u2mLQP5p-VkQc&start=30&sa=N&sstk=AU9db-DguQk1ygIJV_mEC1JVxqvoS8ya7W86kYkj_6kt19Y72YmQ7LlLYeOArVRiExHJnnBZsHv9U9c02VToLAdRTtDWQ3-Vdvzf0g&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ8tMDegQIRRAI",
+      "5": "https://www.google.com/search?q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=Hntfat_0I_u2mLQP5p-VkQc&start=40&sa=N&sstk=AU9db-DguQk1ygIJV_mEC1JVxqvoS8ya7W86kYkj_6kt19Y72YmQ7LlLYeOArVRiExHJnnBZsHv9U9c02VToLAdRTtDWQ3-Vdvzf0g&ved=2ahUKEwjf-53j9uOVAxV7G4YAHeZPJXIQ8tMDegQIRRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TEAMGROUP+T-Create+Master+DDR5+6400+MHz+ECC+RDIMM+Memory+Kit+ctcmd+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=40"
+    }
+  }
+}

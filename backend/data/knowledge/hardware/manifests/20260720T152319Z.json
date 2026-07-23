@@ -1,0 +1,232 @@
+{
+  "batch_id": "20260720T152319Z",
+  "status": "completed",
+  "market": "US",
+  "categories": [
+    "cpu",
+    "gpu"
+  ],
+  "discovered_count": 6,
+  "accepted_count": 0,
+  "rejected_count": 6,
+  "provider_calls": [
+    {
+      "provider": "ecb",
+      "status": "completed",
+      "published_at": "2026-07-20"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "cpu",
+      "result_count": 3
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 3480,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 1664,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 2116,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+      "latency_ms": 3002,
+      "error": "ConnectError"
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "latency_ms": 5512,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "latency_ms": 3410,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "latency_ms": 1107,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "latency_ms": 3861,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 2045,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 1094,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 1540,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 353,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "gpu",
+      "result_count": 3
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 2444,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 912,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 1882,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "gpu",
+      "title": "ASUS TUF-RTX3060TI-O8G-V2-GAMING NVIDIA GeForce RTX 3060 Ti Graphic Card",
+      "latency_ms": 1395,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "latency_ms": 419,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "latency_ms": 309,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "latency_ms": 355,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card",
+      "latency_ms": 343,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "gpu",
+      "title": "EVGA GeForce RTX 2060 Graphic Card",
+      "latency_ms": 330,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "gpu",
+      "title": "EVGA GeForce RTX 2060 Graphic Card",
+      "latency_ms": 315,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "gpu",
+      "title": "EVGA GeForce RTX 2060 Graphic Card",
+      "latency_ms": 358,
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "gpu",
+      "title": "EVGA GeForce RTX 2060 Graphic Card",
+      "latency_ms": 349,
+      "error": "HTTPStatusError"
+    }
+  ],
+  "provider_status": {
+    "ecb": "completed",
+    "serpapi": "completed",
+    "firecrawl": "failed",
+    "zyte": "failed",
+    "brightdata": "failed",
+    "apify": "failed"
+  },
+  "created_at": "2026-07-20T15:23:19.700533+00:00"
+}

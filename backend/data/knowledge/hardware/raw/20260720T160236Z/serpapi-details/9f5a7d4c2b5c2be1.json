@@ -1,0 +1,1382 @@
+{
+  "search_metadata": {
+    "id": "6a5e461e2c2bb435ad00c300",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/99gP9Fuj77Wsbr-ILPLJuQ/6a5e461e2c2bb435ad00c300.json",
+    "created_at": "2026-07-20 16:00:30 UTC",
+    "processed_at": "2026-07-20 16:00:30 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=HEZeasuoBtahptQP7eeFeQ&q=latest+current+generation+desktop+PC+psu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A3791237216953746563%2Ccatalogid%3A1827221940156931966%2Cgpcid%3A4683053058202397439%2CheadlineOfferDocid%3A11921243202879682834%2Crds%3APC_4683053058202397439%7CPROD_PC_4683053058202397439%2CimageDocid%3A9686544970432505948%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+psu+component+released+2025+2026+new%2Cmid%3A576462728001049872%2Cpvt%3Ahg%2Coapvfc%3AEosDCswCQUppVDR0S051THg0UXR5REgtc0NYX3BYTFprTEw5RjJnV1ZoeVdTRlZVN1lpM2dnQ1UxakR1NGdZOEw0cjl2ZXR5c0prWXJyTWxfbzJpWlFVZUZMdXE1aVdZTkxTbm9Gc3hFTmZtU0lFdW45bkxydE05R0tuMDRrZ0Y5OWdJZ3lPV0hZZWpCWUZOckVlWll5NWFkWFpIaXNUem94TmVURWViSFdUM1BQak9UbXE3dVlpQnJodWljR1QwNDl0cGFvVG1zSUh5NTlxSUJyYUdPQzZ1aVRib21sZ0NBN3JlZHJsS3dOSVllb3AxTndIa2RZLXp4WjlRVkR0ak5PaVRYSVRZbThPdkhNZXlsXzVoNmZuWHA2Vy14d0wyMVJQVDNFTnNBbjBiRDJ2dWJ0aV9DNzNfNnl2TmU3eGNRcW96NUVhQjh3aGdzZ2w3aDgSFkhFWmVhc3VvQnRhaHB0UVA3ZWVGZVEaIkFEc3I5ZlJxd0t0N05xRFRRR1RodDV1aVpVQ3BkSjdKR1E%2Cxsrf%3AAF5tSO5Wvrw14VQc_OyXghvZyqB3o6r_2w%3A1784563228399%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/99gP9Fuj77Wsbr-ILPLJuQ/6a5e461e2c2bb435ad00c300.html",
+    "prettify_html_file": "https://serpapi.com/searches/99gP9Fuj77Wsbr-ILPLJuQ/6a5e461e2c2bb435ad00c300.prettify",
+    "total_time_taken": 11.68
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "q-R2YnicbVPJrqNGFE3yBZHyA723LBVDYUjrLcCAbezHTGGzsTBVNphiMGBjrP6a14PUWXZHWecXsuxe5FvCy7pLV7W4507nSOffn359IdlfSy0icXutlC5O686xZ4ToxPlcNxW-Jl2Gv3IziWG5GcsIEuRmvAAF7nMSdzGtTiPKiOyMZRmJBwwUJI6RBOFLSmJMs5JYxyNp1CrJ8J8MI7EMy3MsYMWZJIisyPF_ZEV8Iv_jX8eUAHlemoGxBgIo8eL7BrffWHu-5wWRA3AMcezmpBnPSe9s11L3P8Y-Xq6kGb6taNyRtpsk16YhZTc5kZI0cZdV5QSTNu-qemLPJ3V7nSRVUVfla01D6KgFwZNxGHz9hElJ-o-n-vXEH6x6X2T4C5wJvDCKIALAAF4SZ-z7-ta9pKcP1yslf7-c6Mu1fUnpCyk_VXF9Oybff_lNq1p13vZzJ6hrpLrAA5DxlycQbF3oaqcuAeZuyyk7X68bX-uhezZKxEQVQdh3aYRMhtbPLC4dJrjHucuYCxxZWg-SM2WjcUYC6ibcGoMf3o-Hh1GHVEdRED3jrcbECEd-fvcPhbRIuFT3i6gLANVxyMNDfh-wBqALuuuz6jYR2EErxEbEURuBNIrCeh4GkZXkiIaUQjPU81CvV_HWDEgh8X6BAjdEmafj4JlRnDiXgsNW4zCitVMaFQ7p2WWc3lQpSBb6DS2Yhxek0PTp3QuMYRdg23lE441udmCZNgKmYnIGjZZG63HY8hClB06--yVexawbbbY1H56pi3IXxDm0x76dh9zo4Kc2zlMz2tJ2-0CVWUTXcCmzaGB4DPrhGRkOUk3dL03lcFYyVzVYHBogRpJqPsyjWVLWLwKOLEw3CSXBDFDqnFMuXuBHxPZcrJ48PU_1sEBpwqGbU7ppvFRAgGQuCtEiQlq8ynUt4VYwosYdgw6YAN5d3XVdxq2wikaONXI4JffOeO0y2od72xy_AVmHnWfB8Nb0DI-cZG8N21N6i4aLwlVCs2f735mZyI8uZEcTSdKnpKryjHz_-R9Zmz_J2Bg33zanzeW646VKnqqFdVsMMLnJipjF6RpAVZBLvDkvYMSX7nR_1K_0aMpv36joqX1sR8ZkLYI2bTcQRPeVaImPe-1U2lSn-rIWexOVe62XX9_bN_u9R0aHkannu_aTPMrcx9xUXBaycjd5NzeptV4XN4td8AfZPsm6YmwUYhp9HywxaYgyBFMbTTPjUbS0vc-z7iL11U0N2bmFYdxmHt-XMCjLdbHx9eD09o25Up8gxz3tLMPor23ECMnBJbfenIWLeIgLzLJBopsZtyunNES8CtBaJelZL1bImWreIcjhmOEu8xRP7SB-7le2YA9meYFpJWfpbKk01R4_SDeUJOASZXB4WWXYC57N6pW33ovy-aiQ4XBYySBddTIG9-wyd7pkiMrg5rFTq9F2jDZ3z_h5ejXYdBujE-DjGN96i8fOLkVLuOlN0BV2m98W2aWj5ZUa4cj04h3zSxvbWnQOVO0_6lDgiA"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRRgu9y2nwSNGLyuCpekFPNBHDSy44VeyLVsxo9mbht7LnA-poKC2YVpcWb4WxyKCS7QTr-Uppr-6EZae8d6x9plzNjr5Sj_Q",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSykNOrDmYYJ4UptVrMFXiBa3vhuTo5RtPttmty6iHuZDskLOw1U18dTUeGt4aHbIgLC1O7mltWaCLs3fUJRfL3JB6rACaE",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRBcflJwfsa5aOYH65N70HYbdAxAoObQN5vqBDIgrzfzD-HpF8Ps_oglc5glpXx02HCFnkO8GP4CaNS6N2l6KP6g4cL7-TZ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQawWUX_2pLbO9Chi0FOrQOPV7oo9E2-q9v8qoESXEbm-OiIjduIX_oJfkg8ESzpLPurlKp8sZ4O3rNFCLTipUbmoHT7Y6Arw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTOVvsom0MR_gNjalmeca4GqMimI51pgwNrsYcxEVxhob3mZcbkK5-TT38N3Hq1DGNLebFnMk1DWxmoPOP4DdwgbdbqEy9roA",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTdyzTRmBNeBe7lcLYlP0rF1ZjJeELHLqsJeNK9JfIAax3DDo0Ivl1L3kIPeE_eRTharlh1eNamqPGOe4Wto-eCTlGV-PMe",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQzCq8fDz3BOnDx3onKty1XV-wopEw7ogQMFlZqwPXwk6rwVeOcmUkE1rR8xnU4xhYjSJxe1SchLQoPnhU7KakkC4Y0tqxtFQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRsoy-ktds0AbsFTtEpmey8Xf3c1KS3Z-IVsEinid-kIEcbAUdtdFLOJDn8EBR5ocaMt6H-8z39x2eQQfqyQZ1S_R2chNP-",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQa-mt0YHOe3H7HK8vOEIhzx7t3TPb6LLJACoBPFPNHVZmlfSulr8nGefXyyXJGcSAWLKSA6WXRav7ffSEBCUkEFnRl1FB37w",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSZPyYjb9OWReT25pZbDjc_o49iBN8hohJ41hMLVEFp_N-fnGhY5UauHKdw9ApaSi2CAZbQT4yY8A_TD8_Wksq_7m-ijAkS",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSAaSWcVuEw0oH2503yWAvrfOR5CBim4UoxtlvzQGywEIihgNF3npKnVIZ6hiwGAQYqZo6TcFjkKYHGlIWQdKkrtQFUmu7R"
+    ],
+    "title": "Corsair HX1500i Modular Power Supply",
+    "brand": "CORSAIR",
+    "reviews": 97,
+    "rating": 4.7,
+    "price_range": "$350-$445",
+    "stores": [
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/corsair-hx1500i-atx-3-1-compatible-1500-w-up-to-92-efficiency-power-supplies-black/p/N82E16817139343?item=N82E16817139343&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-power+supplies-_-corsair-_-17139343&source=region&negg_topt=0",
+        "title": "CORSAIR HX1500i (2025) Fully Modular Ultra-Low Noise ATX Power Supply with 12V-2x6 Cable – ATX 3.1 & PCIe 5.1 Compliant, Cybenetics Platinum Efficienc",
+        "rating": 4.4,
+        "reviews": 2240,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "discount": "10% off",
+        "price": "$349.99",
+        "extracted_price": 349.99,
+        "original_price": "$389.99",
+        "extracted_original_price": 389.99,
+        "shipping": "Free",
+        "total": "$349.99",
+        "extracted_total": 349.99
+      },
+      {
+        "name": "Corsair.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.corsair.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.corsair.com/us/en/p/psu/CP-9020309-NA/hx1500i-fully-modular-ultra-low-noise-platinum-atx-1500-watt-pc-power-supply-cp-9020309-na?srsltid=AfmBOorZaINNc-cbRRbvDxL3luZmqNymCA3FnfRVCdLvf8qx9N2uizFLVQs",
+        "title": "CORSAIR HX1500i Fully Modular Ultra-Low Noise Platinum ATX 1500 Watt PC Power Supply",
+        "rating": 4.5,
+        "reviews": 536,
+        "payment_methods": "PayPal, Google Pay, Amazon Pay & more accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Sun",
+          "Free 60-day returns"
+        ],
+        "price": "$389.99",
+        "extracted_price": 389.99,
+        "shipping": "Free",
+        "total": "$389.99",
+        "extracted_total": 389.99
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/corsair-hxi-series-hx1500i-80-plus-platinum-fully-modular-ultra-low-noise-atx-3-1-and-pcie-5-1-power-supply-black/J39TSCHW9V/sku/6618663?utm_source=feed",
+        "title": "CORSAIR - HXi Series HX1500i 80 PLUS Platinum Fully Modular Ultra Low-Noise ATX 3.1 and PCIE 5.1 Power Supply - Black",
+        "rating": 4.6,
+        "reviews": 1927,
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Sat",
+          "15-day returns"
+        ],
+        "price": "$389.99",
+        "extracted_price": 389.99,
+        "shipping": "Free",
+        "total": "$389.99",
+        "extracted_total": 389.99
+      },
+      {
+        "name": "Micro Center",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.microcenter.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.microcenter.com/product/692509/corsair-hxi-series-hx1500i-1500-watt-80-plus-platinum-atx-fully-modular-power-supply-atx-31-compatible",
+        "title": "Corsair HXi Series HX1500i 1500 Watt 80 Plus Platinum ATX Fully Modular Power Supply - ATX 3.1 Compatible",
+        "rating": 4.9,
+        "reviews": 496,
+        "payment_methods": "Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "30-day returns"
+        ],
+        "price": "$389.99",
+        "extracted_price": 389.99,
+        "total": "$389.99",
+        "extracted_total": 389.99
+      }
+    ],
+    "stores_next_page_token": "JpJusHica15aklmSk3pTxTm_qDgxs0jBI8LQ1MAgU8E3P6U0J7FIISC_PLVIIbi0oCCncklxflEmy-LcvHwuAGY_FTQ",
+    "about_the_product": {
+      "title": "HX1500i Fully Modular Ultra-Low Noise Platinum ATX 1500 Watt PC Power Supply",
+      "link": "https://www.corsair.com/us/en/p/psu/cp-9020215-na/hxi-series-fully-modular-atx-power-supply-cp-9020215-na",
+      "displayed_link": "corsair.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.corsair.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "features": [
+        {
+          "title": "80 PLUS Rating",
+          "value": "80 PLUS Platinum"
+        },
+        {
+          "title": "Certifications",
+          "value": "PCIe 5.1 compatible, Cybenetics Platinum, Intel® ATX 3.1 certified"
+        },
+        {
+          "title": "Protection Features",
+          "value": "Overcurrent protection (OCP)"
+        },
+        {
+          "title": "Connectors",
+          "value": "ATX connector: 1, EPS Connector: 2, SATA Connector: 8"
+        },
+        {
+          "title": "Modular",
+          "value": "Yes"
+        },
+        {
+          "title": "Cables",
+          "value": "Fully Modular"
+        },
+        {
+          "title": "Form Factor",
+          "value": "ATX"
+        },
+        {
+          "title": "Supported Voltages",
+          "value": "+12V, +5V"
+        },
+        {
+          "title": "Supported Standards",
+          "value": "PCIe 5.1, ATX 3.1"
+        },
+        {
+          "title": "Efficiency",
+          "value": "Platinum"
+        },
+        {
+          "title": "Power Factor Correction",
+          "value": "Active PFC"
+        },
+        {
+          "title": "Continuous Power",
+          "value": "1500 Watts"
+        },
+        {
+          "title": "Peak Power",
+          "value": "Close to 1700 watts (before safely shutting down), 1692W (before shut down)"
+        },
+        {
+          "title": "Load Regulation",
+          "value": "0.9% (on the 12V rail)"
+        },
+        {
+          "title": "Ripple and Noise",
+          "value": "40 mV (maximum on the 12V rail)"
+        },
+        {
+          "title": "MTBF",
+          "value": "100,000 hours"
+        },
+        {
+          "title": "Lifetime",
+          "value": "10 Year (warranty)"
+        },
+        {
+          "title": "Output Wattage",
+          "value": "1500 Watt"
+        },
+        {
+          "title": "Rail Configuration",
+          "value": "Single rail, Multi-rail"
+        },
+        {
+          "title": "Maximum Current",
+          "value": "125A (+12V rail)"
+        },
+        {
+          "title": "Input Voltage",
+          "value": "100-240 V AC"
+        },
+        {
+          "title": "Standby Power",
+          "value": "3.6W"
+        },
+        {
+          "title": "Input Current",
+          "value": "Real-time power draw (in)"
+        },
+        {
+          "title": "Input Frequency",
+          "value": "47 - 63 Hz"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Air cooled"
+        },
+        {
+          "title": "Fan Size",
+          "value": "140mm"
+        },
+        {
+          "title": "Fan Control",
+          "value": "Zero RPM mode"
+        },
+        {
+          "title": "Fan Type",
+          "value": "Fluid Dynamic Bearing"
+        },
+        {
+          "title": "Fan Noise Level",
+          "value": "A- (Cybenetics Noise)"
+        },
+        {
+          "title": "Dimensions",
+          "value": "200 mm (length)"
+        },
+        {
+          "title": "Cable Length",
+          "value": "65 cm (2 x power 8 pin +12V with detachable 4 pin section modular cable)"
+        },
+        {
+          "title": "Weight",
+          "value": "4.6 kg"
+        },
+        {
+          "title": "Color",
+          "value": "Black"
+        },
+        {
+          "title": "Material",
+          "value": "100% Japanese electrolytic capacitors"
+        },
+        {
+          "title": "Lighting",
+          "value": "Dual-color header"
+        },
+        {
+          "title": "Acoustic Noise",
+          "value": "A- (Cybenetics Noise)"
+        },
+        {
+          "title": "Operating Temperature",
+          "value": "105°C rated (Japanese electrolytic capacitors)"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Multi-GPU ready"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "next-gen GPUs"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Users prioritizing system reliability and performance insights, Discerning enthusiasts"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Modularity",
+        "items": [
+          {
+            "snippet": "Length and connector spacing on all the cables is perfectly fine.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-shift-2025-psu-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i Shift (2025) PSU Review"
+          },
+          {
+            "snippet": "It's fully modular and the cables have a braided sleeve for each individual wire, giving it a strong, premium look.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/best-power-supply",
+            "source": "IGN",
+            "title": "The Best Power Supply for Your Gaming PC in 2026"
+          },
+          {
+            "snippet": "give you a closer up look can't see any of the cables.",
+            "timestamp": "From 1:37",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRyz7NpiLt3gyripkcpy7KO_gbDkOj-y-SQl8yjxT4Mc0j2dTCZSKDtPgGs7KOcXOm4DRGvBdKRMoVEhl0qJNBm0i-BFBefP6_o9tzngg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=w-7VxWYo2cc&t=97",
+            "user": "Jordan Ash",
+            "date": "Jul 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Dual 12V-2×6 connectors",
+              "Eliminating the need for a six-pin PCIe power connector"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/corsair-hx1500i-shift-atx-v3-1-psu-review/",
+            "date": "9mo",
+            "source": "Hardware Busters",
+            "title": "Corsair HX1500i Shift ATX v3.1 PSU Review"
+          },
+          {
+            "snippet": "reason number seven rigid cables while the fully modular design is a plus the cables can be quite stiff.",
+            "timestamp": "From 0:55",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSIAhqcFgytgDT3n_YZT8Y3wfhtbXrGsKvXHFBsABWVvgAubzlV41pR4Kww0oM-Unp1y8FnCXKpFFlxzLRivS-DwDJJ_JqYZetM-JsLFdA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=-nCq4ATpH64&t=55",
+            "user": "Critical Reviews",
+            "date": "Oct 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "accommodate both PCIe and EPS requirements, meaning that not all of the EPS/PCIe cables can be installed simultaneously",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "The HX1500i is a fully modular power supply.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/psus/corsair-hx1500i-1500w-power-supply-review/",
+            "source": "OC3D",
+            "title": "Corsair HX1500i 1500W Power Supply Review"
+          },
+          {
+            "snippet": "You won't find 12VHPWR connectors in the HX1500i's bundle, but this is not a problem since you can order one from Corsair.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/corsair-hxi-series-1500-w/",
+            "source": "TechPowerUp",
+            "title": "Corsair HXi Series 1500 W Review"
+          },
+          {
+            "snippet": "The CORSAIR HX1200i and HX1500i fully modular ATX power supplies are now available through the CORSAIR webstore and",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fthepcenthusiast.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://thepcenthusiast.com/corsair-releases-hx1200i-and-hx1500i-pcie-5-1-psu/",
+            "source": "ThePCEnthusiast",
+            "title": "Corsair Releases HX1200i and HX1500i PCIe 5.1 PSU with Upgraded 12V-2x6 Connectors"
+          }
+        ]
+      },
+      {
+        "title": "Reliability (Fan, Capacitors)",
+        "items": [
+          {
+            "snippet": "140 mm Fluid Dynamic Bearing Fan (NR140P)",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/corsair-hxi-series-1500-w/",
+            "source": "TechPowerUp",
+            "title": "Corsair HXi Series 1500 W Review"
+          },
+          {
+            "snippet": "Highest grade 105c rated Japanese Nippon Chemi Con capacitors.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "Thermal efficiency testing shows it remains well within design parameters, supporting long-term reliability.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "this power supply features a 140mm fluid dynamic bearing fan which provides exceptionally quiet and durable.",
+            "timestamp": "From 0:18",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQZn6q8h1rvi7cg-Mt3Q_Pss3zkg9HgHc_McHK6P-ozxieVEaBQkVZL-G8oQ1bOXwHdbtK3pilLqt9qkaN6Qvye2Z1z2TaAnW6yrBcXdg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=SVzkFHHIf0I&t=18",
+            "user": "CurrentProductReviews",
+            "date": "Dec 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Quality, FDB fan",
+              "10-year warranty",
+              "Full power at 47°C",
+              "Top build quality"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/corsair-hx1500i-review/",
+            "date": "3y",
+            "source": "Hardware Busters",
+            "title": "Corsair HX1500i PSU Review. The Beast!"
+          },
+          {
+            "snippet": "experience built with highquality Japanese 105° C rated electrolytic capacitors.",
+            "timestamp": "From 0:43",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQZn6q8h1rvi7cg-Mt3Q_Pss3zkg9HgHc_McHK6P-ozxieVEaBQkVZL-G8oQ1bOXwHdbtK3pilLqt9qkaN6Qvye2Z1z2TaAnW6yrBcXdg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=SVzkFHHIf0I&t=43",
+            "user": "CurrentProductReviews",
+            "date": "Dec 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Runs stably under gaming loads",
+              "Exceptional wattage capacity"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.vividrepairs.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.vividrepairs.co.uk/corsair-hx1500i-shift-psu-review",
+            "date": "7mo",
+            "source": "Vivid Repairs",
+            "title": "CORSAIR HX1500i SHIFT. Built-in iCUE LINK System Hub PSU Review"
+          },
+          {
+            "snippet": "nice and visible little protection on the power inlet.",
+            "timestamp": "From 2:51",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRyz7NpiLt3gyripkcpy7KO_gbDkOj-y-SQl8yjxT4Mc0j2dTCZSKDtPgGs7KOcXOm4DRGvBdKRMoVEhl0qJNBm0i-BFBefP6_o9tzngg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=w-7VxWYo2cc&t=171",
+            "user": "Jordan Ash",
+            "date": "Jul 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "The PSU is also backed up by a 10-year warranty.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/psus/corsair-hx1500i-1500w-power-supply-review/",
+            "source": "OC3D",
+            "title": "Corsair HX1500i 1500W Power Supply Review"
+          },
+          {
+            "snippet": "robust feature set make it an excellent choice for high-performance systems requiring substantial, reliable power delivery",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          }
+        ]
+      },
+      {
+        "title": "Wattage",
+        "items": [
+          {
+            "snippet": "The primary +12V rail can handle a whopping 125A -- which is considerable.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "Its 1,500W capacity is more than enough for even multi-GPU configurations and all the headroom you need for transient spikes",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/best-power-supply",
+            "source": "IGN",
+            "title": "The Best Power Supply for Your Gaming PC in 2026"
+          },
+          {
+            "snippet": "speed appears conservative given the unit's 1500-watt capacity, reflecting confidence in the underlying thermal architecture",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "systems if you're running a mid-tier PC with one GPU and fewer power- hungry components you might not need a 1500 W unit.",
+            "timestamp": "From 3:24",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgdQkqE_Nt09jwYXSo1nhF6v1COq_ghgUIvs1xCvq_ZQoFbImGtRRujgpUlMqz37ObVrD52NMWdr2uvLRFt7mwytC5n-jrea7s62TDwA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=hu2eiaISYYE&t=204",
+            "user": "Reviewsinside",
+            "date": "Jun 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Low inrush current with 115V input",
+              "Dead low vampire power",
+              "Efficient 5VSB rail"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/corsair-hx1500i-review/",
+            "date": "3y",
+            "source": "Hardware Busters",
+            "title": "Corsair HX1500i PSU Review. The Beast!"
+          },
+          {
+            "key_point": "Powerful",
+            "snippet": "card. My PC uses nearly 1100w without the 2nd graphics card. Nice and quiet too. Highly recommend for those that need a lot of power.",
+            "user": "Stephen S.",
+            "date": "1y",
+            "source": "pccasegear.com"
+          },
+          {
+            "snippet": "The HX1500i can deliver 25A across the +3.3V and +5V rails.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          }
+        ]
+      },
+      {
+        "title": "Efficiency (80 PLUS, Rating)",
+        "items": [
+          {
+            "snippet": "measured 91.7% at 115 VAC and 92.8% at 230 VAC, figures more than high enough to earn this unit its Platinum certification",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "excellent Cybenetics Platinum certification -- which is a much more important certification than the dated 80 Plus platform",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "The HX1500i is rated as Platinum in the 80 PLUS and Cybenetics schemes, and it also has a Cybenetics A- noise rating, which",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/corsair-hxi-series-1500-w/",
+            "source": "TechPowerUp",
+            "title": "Corsair HXi Series 1500 W Review"
+          },
+          {
+            "snippet": "it's an 80 plus platinum efficiency.",
+            "timestamp": "From 2:12",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKdw1_pQxpEeX5ygweTLjffwySQaTFf5yV29_Hs728kcEL1CyJ6KYZ22LfLqoiVZfm-atLWq3uTvPngss2mmb0GZzEBhcukHOqtoLLYDw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=UVh1YtRxvno&t=132",
+            "user": "GBruker",
+            "date": "Jun 2024",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Achieved 91%+ efficiency levels",
+              "Best voltage ripple results"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/psus/corsair-hx1500i-1500w-power-supply-review/3/",
+            "date": "1y",
+            "source": "OC3D",
+            "title": "Corsair HX1500i 1500W Power Supply Review"
+          },
+          {
+            "snippet": "series is designed with 80 plus platinum efficiency.",
+            "timestamp": "From 0:44",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRY-McCo4_QoKyMpQwL9WOdrfBUfEzx_vxACVsLxcDB7DxXleFi87UPKpLlTYzAObhcupnebz8IuZP7vZaU7s7hc7VNiRUDWNC-OsvgXlk",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=OtSM9txvwpc&t=44",
+            "user": "CurrentProductReviews",
+            "date": "Jul 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Corsair and CWT have opted for smaller heatsinks due to the physical dimensions and rated Platinum levels of efficiency.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "conditions, the HX1500i demonstrated excellent efficiency characteristics, achieving Cybenetics Platinum certification across",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "the $390 price and oversized chassis present barriers, its outstanding efficiency, zero-RPM operation, and robust feature set",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          }
+        ]
+      },
+      {
+        "title": "Noise",
+        "items": [
+          {
+            "snippet": "Along the bottom are graphs highlighting power efficiency and fan noise levels under various load conditions.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-shift-2025-psu-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i Shift (2025) PSU Review"
+          },
+          {
+            "pros": [
+              "Silent operation"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/corsair-hx1500i-review/",
+            "date": "3y",
+            "source": "Hardware Busters",
+            "title": "Corsair HX1500i PSU Review. The Beast!"
+          },
+          {
+            "snippet": "one of the highlights of this PSU is its ultra low noise operation.",
+            "timestamp": "From 1:02",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR9XAOpCgjENUWE9yBfag9IVoNaCSZL9_3NrUnfQ8jE5QEov38ISJnB9h0NDKULLiHz3u8nywao8WgRxpnnAGW4AapaG5KkuN01aqcR9g",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=5PyHnyrr-oM&t=62",
+            "user": "Best Tech Review",
+            "date": "Nov 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "the 140 mm fluid dynamic bearing fan is another key feature delivering near silent operation.",
+            "timestamp": "From 1:22",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgdQkqE_Nt09jwYXSo1nhF6v1COq_ghgUIvs1xCvq_ZQoFbImGtRRujgpUlMqz37ObVrD52NMWdr2uvLRFt7mwytC5n-jrea7s62TDwA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=hu2eiaISYYE&t=82",
+            "user": "Reviewsinside",
+            "date": "Jun 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "warranty and more than enough capacity for multiple GPUs, even if you have 2 rtx 5090s for example.\n\nVery quiet and reliable so far too.",
+            "user": "Avon257",
+            "date": "9mo",
+            "source": "scan.co.uk"
+          },
+          {
+            "snippet": "Corsair and CWT have opted for smaller heatsinks due to the physical dimensions and rated Platinum levels of efficiency.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "Under normal ambient conditions, the HX1500i demonstrated excellent efficiency characteristics, achieving Cybenetics Platinum",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "While the $390 price and oversized chassis present barriers, its outstanding efficiency, zero-RPM operation, and robust",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          }
+        ]
+      },
+      {
+        "title": "Form Factor (ATX, Dimensions)",
+        "subtitle": "ATX, EPS",
+        "items": [
+          {
+            "snippet": "With its new 2025 HXi line, Corsair has revamped the lineup to meet the newer ATX 3.1 and PCIe 5.1 specifications.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/psus/corsair-hx1500i-1500w-power-supply-review/",
+            "source": "OC3D",
+            "title": "Corsair HX1500i 1500W Power Supply Review"
+          },
+          {
+            "snippet": "It is a very large PSU, though, with a longer footprint, so make sure your case actually has the space for it before you buy",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.ign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.ign.com/articles/best-power-supply",
+            "source": "IGN",
+            "title": "The Best Power Supply for Your Gaming PC in 2026"
+          },
+          {
+            "snippet": "it's ATX 3.1 certified meaning it supports the latest PCIe Gen 5 platforms.",
+            "timestamp": "From 0:38",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgdQkqE_Nt09jwYXSo1nhF6v1COq_ghgUIvs1xCvq_ZQoFbImGtRRujgpUlMqz37ObVrD52NMWdr2uvLRFt7mwytC5n-jrea7s62TDwA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=hu2eiaISYYE&t=38",
+            "user": "Reviewsinside",
+            "date": "Jun 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "and uh yes it says it's pretty quiet that's how it looks these are the sizes it's 200 mm length 86 mm tall 150 mm uh with that these are the sizes.",
+            "timestamp": "From 2:16",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKdw1_pQxpEeX5ygweTLjffwySQaTFf5yV29_Hs728kcEL1CyJ6KYZ22LfLqoiVZfm-atLWq3uTvPngss2mmb0GZzEBhcukHOqtoLLYDw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=UVh1YtRxvno&t=136",
+            "user": "GBruker",
+            "date": "Jun 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "make sure you your case uh supports this size before you order this power supply cuz this is a pretty lengthy power supply 200 mm is pretty lengthy.",
+            "timestamp": "From 2:32",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKdw1_pQxpEeX5ygweTLjffwySQaTFf5yV29_Hs728kcEL1CyJ6KYZ22LfLqoiVZfm-atLWq3uTvPngss2mmb0GZzEBhcukHOqtoLLYDw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=UVh1YtRxvno&t=152",
+            "user": "GBruker",
+            "date": "Jun 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Corsair and CWT have opted for smaller heatsinks due to the physical dimensions and rated Platinum levels of efficiency.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "This places the HX1500i on the longer side of the ATX power supply spectrum.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/psus/corsair-hx1500i-1500w-power-supply-review/",
+            "source": "OC3D",
+            "title": "Corsair HX1500i 1500W Power Supply Review"
+          },
+          {
+            "snippet": "robust feature set make it an excellent choice for high-performance systems requiring substantial, reliable power delivery",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "items": [
+          {
+            "snippet": "The visual design is very well-balanced, making the HX1500i visually appealing but not extravagant and/or kitschy.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "design others might find it a bit too plain if you're looking for RGB lighting and flashy designs.",
+            "timestamp": "From 1:52",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRw5-sl0vgNX5OSkhtPcFSpd571c9DBnlXc2KEYqlfoJTKXP2j1UeavZO9LqYXqPBdZMiBfKNc_2EXdB-UAGZQaiUKc3i2pWhLl0MKuiQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=oXQLsSxTjlo&t=112",
+            "user": "Critical Reviews",
+            "date": "Oct 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "Good Quality PSU, has you would expect from Corsair. Only problem it didn't fit my Case.",
+            "user": "James M57",
+            "date": "1mo",
+            "source": "scan.co.uk"
+          },
+          {
+            "snippet": "Technically, this CWT OEM partner design has already proven itself very capable with the previous HX1500i (non-Shift) model.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-shift-2025-psu-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i Shift (2025) PSU Review"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "delivers exceptional electrical performance and premium build quality with comprehensive digital monitoring capabilities",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1500i-2025-atx-3-1-power-supply-review",
+            "source": "Tom's Hardware",
+            "title": "Corsair HX1500i (2025) ATX 3.1 power supply review"
+          },
+          {
+            "snippet": "The CORSAIR HX1500i is the best power supply for gaming PC builds, offering 1500W of Platinum efficiency and iCUE monitoring",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.eneba.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.eneba.com/hub/gaming-gear/best-power-supply-for-gaming-pc/",
+            "source": "Eneba",
+            "title": "Best Power Supply for Gaming PC: 11 PSUs for 2026"
+          },
+          {
+            "snippet": "And can handle power spikes without breaking a sweat at 1500 W it's geared towards power hungry systems like gaming rigs or workstations.",
+            "timestamp": "From 0:44",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRgdQkqE_Nt09jwYXSo1nhF6v1COq_ghgUIvs1xCvq_ZQoFbImGtRRujgpUlMqz37ObVrD52NMWdr2uvLRFt7mwytC5n-jrea7s62TDwA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=hu2eiaISYYE&t=44",
+            "user": "Reviewsinside",
+            "date": "Jun 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Cope with heavy abuse without sweating",
+              "High performance"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fhwbusters.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://hwbusters.com/psus/corsair-hx1500i-review/",
+            "date": "3y",
+            "source": "Hardware Busters",
+            "title": "Corsair HX1500i PSU Review. The Beast!"
+          },
+          {
+            "snippet": "the key selling points of this power supply is the low noise, smooth power delivery operation, even at loads up to 1200 watts",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/power-supplies/zardon/corsair-hx1500i-gen-4-2025-power-supply-review/all/1/",
+            "source": "KitGuru",
+            "title": "Corsair HX1500i (Gen 4 2025) Power Supply Review"
+          },
+          {
+            "snippet": "bit more complex than required, but it is richly featured, and the ability to have custom fan speed profiles is a vital asset",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/corsair-hxi-series-1500-w/",
+            "source": "TechPowerUp",
+            "title": "Corsair HXi Series 1500 W Review"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 1
+      },
+      {
+        "stars": 3,
+        "amount": 3
+      },
+      {
+        "stars": 4,
+        "amount": 9
+      },
+      {
+        "stars": 5,
+        "amount": 82
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTDjmdNDB63VsWLcf9Pw-DSs7Rnx3KJvzAvuwVFnnI7BWUAIHH6CdjFhlAMCE7lUOWY9cq9ATaFr3vBprWzp74RcaXPGYe_gA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRyz9NrDuv6QRtF7dFIN0i1paFHBI4lSy_6422V28nVY7-ykKNPj038VIVeN0wLmsygQeikGGE6Xzd-oUT-bmihLjb3frirMA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQovPQxFZQHveusx0zuQY5_tSnrCnEwTnWRriap-FVoewHbS6Y",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRqVf8uNt3aSQmDxqyEZN4wGvzdVFALoglm-w6fDBhNA-hsM3UCkpk7cY7Ksfh5JLj22ee-_FZYoustkJGz2qx1QGta_F2I",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSoPEDG75eCS0iFSGFgmlgPhCRb9D5iMhQO_ppvtvQT81hljKoJEVbyD_LZmKF5iYsEInk-AXn_sTxWMuzhbMZtolOBUWbPIg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTfoWAcAoEir08--sjbISnwJkshzFxU96KQ5ffji_y6JyoPtPeE9Y8PVMF8_bPR1G_Gx4FAzBc1zMf-f5_Pv9lUMbqo-PWnxw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRKonKwYFi4Sba2yXDA5DAnFPRnRJ911PqxYg4H_lcrW9xTzKC08RsHgNyJH_8-hjaHoBNf3FMroeuL6AZ5aCXh5JZDyLEU"
+    ],
+    "user_reviews": [
+      {
+        "title": "An awesome PSU",
+        "text": "A top notch PSU as you'd expect from Corsair will handle any thing you throw at it solid build set of cables are really good and looks professional in a build. Used with icube the corsair interface it gives you all the information needed powers my Asus Astrul GPU and more. I'd recommend this and it's got a 10 year no quibble guarantee amazing. Also Scan delivery and service a 🌟🌟🌟🌟🌟 can't fault them as always cheers guys.",
+        "user_name": "TheTrickster",
+        "source": "scan.co.uk",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0tORLI2lNFTm4mStYuEyZ5GgWh_c-5XLzUnW6nj_5HjzO7_mGhx6Gpk6cTWiEZXcfngw=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "Noise:naturally quiet and only will use fan when more power is being drawn\nBuild quality:high japanese quality, built to last\n\nseller used superb triple packaging wrap technique and bubble wrap combo to ensure the entire product and box itself is never damaged during delivery",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Overclocking and Future Proofing",
+        "text": "This is a absolute pleasure for those who want power and headspace! The guide was pretty easy to understand, especially for first time builders like myself! My specs show I would use around 900W at most but with future upgrades like getting a new GPU and or overclocking it would definitely spike up to the 1400W and even then that still leaves me with 100W of headroom! The PSU comes with all the necessary cables you need so you won't have to worry at all if you feel like you’re missing something. I would classify this as a high end PSU so the chamces of you needed an extra CPU power cable is slim to none!",
+        "user_name": "CarlyA",
+        "source": "bestbuy.com",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0efOqTGmQJGfJiv07-gQcl3LNLoWTwxZfOLd0974YcMQggV5vRD74JFcZrp2Ga40KD3g=w40-h40-c0x00000000-cc",
+        "incentivized": true,
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTDjmdNDB63VsWLcf9Pw-DSs7Rnx3KJvzAvuwVFnnI7BWUAIHH6CdjFhlAMCE7lUOWY9cq9ATaFr3vBprWzp74RcaXPGYe_gA",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRyz9NrDuv6QRtF7dFIN0i1paFHBI4lSy_6422V28nVY7-ykKNPj038VIVeN0wLmsygQeikGGE6Xzd-oUT-bmihLjb3frirMA"
+        ]
+      },
+      {
+        "text": "Great power supply, shame it doesn't come with the new 12v connector yet",
+        "user_name": "Mark C.",
+        "source": "novatech.co.uk",
+        "rating": 5,
+        "date": "3 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0PM3Mh0D3ddKtI4ScjrjOkyHoJrEzkPcOIlgvoQAh7L1LCqJbaGQbNcnU8A06VyqQWww=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQovPQxFZQHveusx0zuQY5_tSnrCnEwTnWRriap-FVoewHbS6Y"
+        ]
+      },
+      {
+        "text": "De lo mejor que se puede comprar a día de hoy. Aunque no traiga el cable de 12 pines para las nuevas rtx 4000, el adaptador se puede conseguir oficial de corsair por 20/30 euros. Yo lo tengo con una 4090 y va perfecto. La distribución de cables es mucho mejor y hace que el aire refrigere mejor la torre.",
+        "user_name": "Jesús R. M.",
+        "source": "coolmod.com",
+        "rating": 5,
+        "date": "3 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK069MKUDukpip5wO98dhaWPQ-9ZwDDEECMo2nkpr9v-AzKkohPCKK1BOwCUWEdweEo4yw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRqVf8uNt3aSQmDxqyEZN4wGvzdVFALoglm-w6fDBhNA-hsM3UCkpk7cY7Ksfh5JLj22ee-_FZYoustkJGz2qx1QGta_F2I",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSoPEDG75eCS0iFSGFgmlgPhCRb9D5iMhQO_ppvtvQT81hljKoJEVbyD_LZmKF5iYsEInk-AXn_sTxWMuzhbMZtolOBUWbPIg"
+        ]
+      },
+      {
+        "title": "Super Netzteil",
+        "text": "Gewohnt gute Corsair Qualität, nutze es für die Astral 5090. Das 12v High Power Kabel ist von bemerkenswert guter Qualität, keine Probleme bis jetzt.",
+        "user_name": "Basti",
+        "source": "mediamarkt.ch",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2l3LCAUG1kB_2xeOEipApz2fIaGGU99Db4sDN80I09HyTU47Iyt0CNFziP_pd8R_8S8A=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTfoWAcAoEir08--sjbISnwJkshzFxU96KQ5ffji_y6JyoPtPeE9Y8PVMF8_bPR1G_Gx4FAzBc1zMf-f5_Pv9lUMbqo-PWnxw"
+        ]
+      },
+      {
+        "text": "Hàng đóng gói cẩn thận. Có hoá đơn, tem bảo hành của shop và nhà phân phối. Chưa ráp máy nên chưa test dc. Hy vọng ko có vấn đề gì. Đánh giá 5* ủng hộ shop trước rồi tính sau. Haha 😆",
+        "user_name": "babyboyy007",
+        "source": "shopee.vn",
+        "rating": 5,
+        "date": "3 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2cvs7M81AGEOa-fzGi-Vi9IQ_8kQlVaN4q27ofo7Tb9N031wdKP3bYEIjwer4VwIp_Xw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRKonKwYFi4Sba2yXDA5DAnFPRnRJ911PqxYg4H_lcrW9xTzKC08RsHgNyJH_8-hjaHoBNf3FMroeuL6AZ5aCXh5JZDyLEU"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "A MONSTER ATX 3.1 PSU! - Corsair HX1500i 1500W Platinum ...",
+        "link": "https://www.youtube.com/watch?v=w-7VxWYo2cc",
+        "source": "YouTube",
+        "channel": "Jordan Ash",
+        "duration": "4:46",
+        "thumbnail": "https://i.ytimg.com/vi/w-7VxWYo2cc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nZEe4X1HH9u0rQ2mEzJDpKsy4zRQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR5o7fxKUnd1czwrTECnH3YU_XASsOBp_WE6Q"
+      },
+      {
+        "title": "CORSAIR HX1500i Review: Is This Ultra-Low Noise Power Supply ...",
+        "link": "https://www.youtube.com/watch?v=hu2eiaISYYE",
+        "source": "YouTube",
+        "channel": "Reviewsinside",
+        "duration": "6:17",
+        "thumbnail": "https://i.ytimg.com/vi/hu2eiaISYYE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mOUmsqyHQ0M4s6sGR7bZs8POkPMw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcS9hRMZJbO8HYPOTqq1-dykR8E_5aVpvqlXpw"
+      },
+      {
+        "title": "Review: Corsair HX1500i (2025) – 1500W Platinum, ATX 3.1 & Ultra ...",
+        "link": "https://www.youtube.com/watch?v=5PyHnyrr-oM",
+        "source": "YouTube",
+        "channel": "Best Tech Review",
+        "duration": "4:24",
+        "thumbnail": "https://i.ytimg.com/vi/5PyHnyrr-oM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m73s4f2AeirTbssZdK7dXaAU49xw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRunOV7ECrQMbo0NCWsQYQGDHy40yKbTMqAcw"
+      },
+      {
+        "title": "Corsair HX1500i (2025) Review - 10 Reasons Not to Buy ⚠️",
+        "link": "https://www.youtube.com/watch?v=oXQLsSxTjlo",
+        "source": "YouTube",
+        "channel": "Critical Reviews",
+        "duration": "3:00",
+        "thumbnail": "https://i.ytimg.com/vi/oXQLsSxTjlo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k0bUBEVbO-c-RGuhWwSo9CQn3nwA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQeuAuWs2es3ID17mwLhqIXs0xYTZ9xfp1yyA"
+      },
+      {
+        "title": "Review CORSAIR HX1500i (2025) Fully Modular Ultra-Low Noise ...",
+        "link": "https://www.youtube.com/watch?v=DeM6tLmAhNk",
+        "source": "YouTube",
+        "channel": "The Select Grid",
+        "duration": "1:34",
+        "thumbnail": "https://i.ytimg.com/vi/DeM6tLmAhNk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mVkvglHciVZAOiwyVdEYKHJGo-MQ"
+      },
+      {
+        "title": "REVIEW (2026): Corsair HX1500i Power Supply. ESSENTIAL details.",
+        "link": "https://www.youtube.com/watch?v=OtSM9txvwpc",
+        "source": "YouTube",
+        "channel": "CurrentProductReviews",
+        "duration": "0:54",
+        "thumbnail": "https://i.ytimg.com/vi/OtSM9txvwpc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kHCk0vApTw50-LuLG0zzzy6fwOZg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ5r8DkHqRlUJ_GbSinLYxhTZFlNEenEU6LyA"
+      },
+      {
+        "title": "Corsair HX1500i 1500W Platinum Modular ATX Power Supply ...",
+        "link": "https://www.youtube.com/watch?v=UVh1YtRxvno",
+        "source": "YouTube",
+        "channel": "GBruker",
+        "duration": "21:38",
+        "thumbnail": "https://i.ytimg.com/vi/UVh1YtRxvno/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l5owhHpQFR2O3erfp4Ck3N2OylCA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQ0Tki9X6t_VB7BFkbnv1gIbDJQ3c5swMcgXg"
+      },
+      {
+        "title": "Corsair HX1500i 1500w Power Supply PSU Review",
+        "link": "https://www.youtube.com/watch?v=rD8dz-2I54M",
+        "source": "YouTube",
+        "channel": "Digital David",
+        "duration": "6:56",
+        "thumbnail": "https://i.ytimg.com/vi/rD8dz-2I54M/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3llzD6wb6mHd1krbc6OsZxpdLcLyw"
+      },
+      {
+        "title": "Corsair HX1500i installation guide with 600w 12vhpwr adapter and ...",
+        "link": "https://www.youtube.com/watch?v=kq2B2HKNjRY",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "11:31",
+        "thumbnail": "https://i.ytimg.com/vi/kq2B2HKNjRY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mz4xzVtvAkmSf1ODneQojTUoC65w"
+      },
+      {
+        "title": "Corsair HX1500i (2025) Review – 1500W ATX 3.1 Platinum PSU for ...",
+        "link": "https://www.youtube.com/watch?v=iDyp87GhzTk",
+        "source": "YouTube",
+        "channel": "Tech Deals Hub",
+        "duration": "2:31",
+        "thumbnail": "https://i.ytimg.com/vi/iDyp87GhzTk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ncDNVWidBirQ7gnC0UpClrLjJbYQ"
+      },
+      {
+        "title": "Yes, this is about a PSU! The HX1500i Shift PSU.",
+        "link": "https://www.youtube.com/shorts/VlMHG-C1aUg",
+        "source": "YouTube",
+        "channel": "Robeytech",
+        "duration": "1:22",
+        "thumbnail": "https://i.ytimg.com/vi/VlMHG-C1aUg/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3kEBMp4TkurvILnGdr9gA1l5MZZpA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcR83oNVN7Al9QeECz2d95qsP5J4KQRZkQ4KvA"
+      },
+      {
+        "title": "Unlock CORSAIR HX1500i’s Hack to Tame Wild GPU Power Spikes",
+        "link": "https://www.youtube.com/watch?v=EGDnvrRUyJo",
+        "source": "YouTube",
+        "channel": "Best Buys Reviewed",
+        "duration": "5:18",
+        "thumbnail": "https://i.ytimg.com/vi/EGDnvrRUyJo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lEvyF9Y0Oy4jZdznZ2TGipmLIbWw"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Corsair HX1500i Shift (2025) PSU Review | [H]ard|Forum",
+        "link": "https://hardforum.com/threads/corsair-hx1500i-shift-2025-psu-review.2044062/",
+        "source": "HardForum",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fhardforum.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "9 months ago",
+        "items": [
+          {
+            "snippet": "Efficiency is also fantastic, hitting over 94% at around 50% load.",
+            "link": "https://hardforum.com/threads/corsair-hx1500i-shift-2025-psu-review.2044062/#:~:text=Efficiency%20is%20also%20fantastic%2C%20hitting%20over%2094%25%20at%20around%2050%25%20load."
+          },
+          {
+            "snippet": "Load regulation is tight and we appreciate that the unit has the same wide array of protection features sometimes missing on other units in the same class.",
+            "link": "https://hardforum.com/threads/corsair-hx1500i-shift-2025-psu-review.2044062/#:~:text=Load%20regulation%20is%20tight%20and%20we%20appreciate,on%20other%20units%20in%20the%20same%20class."
+          },
+          {
+            "snippet": "Again, we rate noise levels as some of the best we have recorded and the power delivery is smooth, even at loads up to 1200 watts.",
+            "link": "https://hardforum.com/threads/corsair-hx1500i-shift-2025-psu-review.2044062/#:~:text=Again%2C%20we%20rate%20noise%20levels%20as%20some,even%20at%20loads%20up%20to%201200%20watts."
+          }
+        ]
+      },
+      {
+        "title": "Is the Corsair HX1500i (2025) 12V-2x6 cable safe for high-wattage power delivery? : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1qqjqqj/is_the_corsair_hx1500i_2025_12v2x6_cable_safe_for/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 months ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "stop: PSU connectors are not subjected to PCIe specifications and can handle anything the manufacturer design it for.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1qqjqqj/comment/o2i7tjw/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "I have mine since may last year and it can handle very well my Astral 5090. No issues with 600w usage so far.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1qqjqqj/comment/o2hjaxh/",
+            "votes": 1
+          },
+          {
+            "snippet": "No issues with the cables, this PSU is like a tank, also you will get two cables for the GPU inside the box.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1qqjqqj/is_the_corsair_hx1500i_2025_12v2x6_cable_safe_for/#:~:text=No%20issues%20with%20the%20cables%2C%20this%20PSU,cables%20for%20the%20GPU%20inside%20the%20box."
+          },
+          {
+            "snippet": "This model does not have a native 12V-2x6 connector on the PSU side.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1qqjqqj/is_the_corsair_hx1500i_2025_12v2x6_cable_safe_for/#:~:text=This%20model%20does%20not%20have%20a%20native%2012V%2D2x6%20connector%20on%20the%20PSU%20side."
+          },
+          {
+            "snippet": "Some people mention that the inner pins of the 12V-2x6 connector feel loose and can move slightly when pushing or pulling the cable.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1qqjqqj/is_the_corsair_hx1500i_2025_12v2x6_cable_safe_for/#:~:text=Some%20people%20mention%20that%20the%20inner%20pins,slightly%20when%20pushing%20or%20pulling%20the%20cable."
+          }
+        ]
+      },
+      {
+        "title": "Ax1600i vs Hx1500i 2025 : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1koknz5/ax1600i_vs_hx1500i_2025/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "The recent atx 3.1 certified on the hx does give peace of mind.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1koknz5/ax1600i_vs_hx1500i_2025/#:~:text=The%20recent%20atx%203.1%20certified%20on%20the%20hx%20does%20give%20peace%20of%20mind."
+          },
+          {
+            "snippet": "If you are on the fence, spend the extra to get the GaN Transistors, extremely good efficiency and longevity.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1koknz5/ax1600i_vs_hx1500i_2025/#:~:text=If%20you%20are%20on%20the%20fence%2C%20spend,GaN%20Transistors%2C%20extremely%20good%20efficiency%20and%20longevity."
+          },
+          {
+            "snippet": "The AX1600i is still, years after its release, one of the very best PSUs on the market.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1koknz5/ax1600i_vs_hx1500i_2025/#:~:text=The%20AX1600i%20is%20still%2C%20years%20after%20its,the%20very%20best%20PSUs%20on%20the%20market."
+          }
+        ]
+      },
+      {
+        "title": "New HX1500i Shift announced at Computex 2025 : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/1krka33/new_hx1500i_shift_announced_at_computex_2025/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Absolute genius to put the icue link in the PSU.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1krka33/new_hx1500i_shift_announced_at_computex_2025/#:~:text=Absolute%20genius%20to%20put%20the%20icue%20link%20in%20the%20PSU."
+          },
+          {
+            "snippet": "From my research/understanding, the extra connector is designed to provide additional power to the PCIe slots on the board for users who have multiple and/or po",
+            "link": "https://www.reddit.com/r/Corsair/comments/1krka33/new_hx1500i_shift_announced_at_computex_2025/#:~:text=From%20my%20research/understanding%2C%20the%20extra%20connector%20is,for%20users%20who%20have%20multiple%20and/or%20po"
+          },
+          {
+            "snippet": "However I am disappointed that there's only two PCIe connectors on these models.",
+            "link": "https://www.reddit.com/r/Corsair/comments/1krka33/new_hx1500i_shift_announced_at_computex_2025/#:~:text=However%20I%20am%20disappointed%20that%20there's%20only%20two%20PCIe%20connectors%20on%20these%20models."
+          }
+        ]
+      },
+      {
+        "title": "CORSAIR HX1500i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR iCUE Software Compatible - 80 PLUS Platinum Efficiency - Newegg.com (529.99-158= 371.99 plus shipping from US) : r/bapcsalescanada",
+        "link": "https://www.reddit.com/r/bapcsalescanada/comments/1iciieh/corsair_hx1500i_fully_modular_ultralow_noise_atx/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Corsair hx1500i fully modular ultra-low noise ATX power supply - ATX 3.0 & pcie 5.0 compliant - fluid dynamic bearing fan - corsair icue software compatible - 8",
+            "link": "https://www.reddit.com/r/bapcsalescanada/comments/1iciieh/corsair_hx1500i_fully_modular_ultralow_noise_atx/#:~:text=Corsair%20hx1500i%20fully%20modular%20ultra%2Dlow%20noise%20ATX,%2D%20corsair%20icue%20software%20compatible%20%2D%208"
+          },
+          {
+            "snippet": "CORSAIR HX1500i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR iCUE Software Compatible - 8",
+            "link": "https://www.reddit.com/r/bapcsalescanada/comments/1iciieh/corsair_hx1500i_fully_modular_ultralow_noise_atx/#:~:text=CORSAIR%20HX1500i%20Fully%20Modular%20Ultra%2DLow%20Noise%20ATX,%2D%20CORSAIR%20iCUE%20Software%20Compatible%20%2D%208"
+          },
+          {
+            "snippet": "1440W continuous load.",
+            "link": "https://www.reddit.com/r/bapcsalescanada/comments/1iciieh/corsair_hx1500i_fully_modular_ultralow_noise_atx/#null"
+          }
+        ]
+      },
+      {
+        "title": "Corsair link, cannot find multi rail mode setting on HXi series PSU.",
+        "link": "https://forum.corsair.com/forums/topic/124782-corsair-link-cannot-find-multi-rail-mode-setting-on-hxi-series-psu/",
+        "source": "Corsair Community",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fforum.corsair.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "10 years ago",
+        "items": [
+          {
+            "snippet": "With Corsair Link Digital support, you can monitor power supply performance, toggle single rail or multi rail mode, and control fan speed directly from your des",
+            "link": "https://forum.corsair.com/forums/topic/124782-corsair-link-cannot-find-multi-rail-mode-setting-on-hxi-series-psu/#:~:text=With%20Corsair%20Link%20Digital%20support%2C%20you%20can,control%20fan%20speed%20directly%20from%20your%20des"
+          },
+          {
+            "snippet": "What AXi adds is the ability to set the trip point for the OCP as well.",
+            "link": "https://forum.corsair.com/forums/topic/124782-corsair-link-cannot-find-multi-rail-mode-setting-on-hxi-series-psu/#:~:text=What%20AXi%20adds%20is%20the%20ability%20to,trip%20point%20for%20the%20OCP%20as%20well."
+          },
+          {
+            "snippet": "HXi is an analog PSU, which extra circuits added that allow you to monitor certain features.",
+            "link": "https://forum.corsair.com/forums/topic/124782-corsair-link-cannot-find-multi-rail-mode-setting-on-hxi-series-psu/#:~:text=HXi%20is%20an%20analog%20PSU%2C%20which%20extra,that%20allow%20you%20to%20monitor%20certain%20features."
+          }
+        ]
+      },
+      {
+        "title": "HX1500i Why are there 3 out of 5 star reviews? Anyone have it? : r/Corsair",
+        "link": "https://www.reddit.com/r/Corsair/comments/xx2m8q/hx1500i_why_are_there_3_out_of_5_star_reviews/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 years ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "I have this PSU, no problems so far in the couple weeks I have had it. It is quiet and I have not heard any coil whine - this is on a 230V mains supply. The iCUE software works well. Runs around 84% efficiency at idle on at 120W. Above 90% efficiency on loads above 200W. The only downside is the modular cables are shorter than expected, and only the ATX motherboard cable is braided.",
+            "link": "https://www.reddit.com/r/Corsair/comments/xx2m8q/comment/iribijb/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "I’ve heard nothing but great things about the newest model.",
+            "link": "https://www.reddit.com/r/Corsair/comments/xx2m8q/comment/ira4qrv/",
+            "votes": 2
+          },
+          {
+            "snippet": "The iCUE software works well.",
+            "link": "https://www.reddit.com/r/Corsair/comments/xx2m8q/hx1500i_why_are_there_3_out_of_5_star_reviews/#:~:text=The%20iCUE%20software%20works%20well."
+          },
+          {
+            "snippet": "Above 90% efficiency on loads above 200W.",
+            "link": "https://www.reddit.com/r/Corsair/comments/xx2m8q/hx1500i_why_are_there_3_out_of_5_star_reviews/#:~:text=Above%2090%25%20efficiency%20on%20loads%20above%20200W."
+          },
+          {
+            "snippet": "Runs around 84% efficiency at idle on at 120W.",
+            "link": "https://www.reddit.com/r/Corsair/comments/xx2m8q/hx1500i_why_are_there_3_out_of_5_star_reviews/#:~:text=Runs%20around%2084%25%20efficiency%20at%20idle%20on%20at%20120W."
+          }
+        ]
+      },
+      {
+        "title": "Monitoring power as you test? Discovered this while testing my new setup, Corsair hx1500i has great Linux power monitoring capacity. Also re-discovered why geekbench6 sucks for real testing: hint, power load went DOWN in muti-core testing vs. single core. : r/threadripper",
+        "link": "https://www.reddit.com/r/threadripper/comments/18ndqvs/monitoring_power_as_you_test_discovered_this/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "power +12v: 258.00 W",
+            "link": "https://www.reddit.com/r/threadripper/comments/18ndqvs/monitoring_power_as_you_test_discovered_this/#:~:text=power%20+12v:%20258.00%20W"
+          },
+          {
+            "snippet": "power +12v: 248.00 W",
+            "link": "https://www.reddit.com/r/threadripper/comments/18ndqvs/monitoring_power_as_you_test_discovered_this/#:~:text=power%20+12v:%20248.00%20W"
+          },
+          {
+            "snippet": "case temp: +47.2°C (crit = +70.0°C)",
+            "link": "https://www.reddit.com/r/threadripper/comments/18ndqvs/monitoring_power_as_you_test_discovered_this/#:~:text=case%20temp:%20+47.2%C2%B0C%20(crit%20=%20+70.0%C2%B0C)"
+          }
+        ]
+      },
+      {
+        "title": "HX1500i for a 5090 — Good or Bad ? : r/buildapc",
+        "link": "https://www.reddit.com/r/buildapc/comments/1pch26r/hx1500i_for_a_5090_good_or_bad/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 months ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "It's literally one of the best psu out there, idk what more are you looking for other than the extra 100W from the seasonic.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pch26r/comment/nrxktvm/",
+            "top_answer": true,
+            "votes": 4
+          },
+          {
+            "snippet": "The differences will be incredibly minor. You're worried about a 97 vs a 99.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pch26r/comment/nrxlpla/",
+            "votes": 1
+          },
+          {
+            "snippet": "I don't like the HX1500i for its track record, but it works well in my 5090 build.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pch26r/hx1500i_for_a_5090_good_or_bad/#:~:text=I%20don't%20like%20the%20HX1500i%20for%20its,it%20works%20well%20in%20my%205090%20build."
+          },
+          {
+            "snippet": "They're interchangeable pinouts and, as long as they share the same ATX standard, should work with most other Corsair PSUs as well.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pch26r/hx1500i_for_a_5090_good_or_bad/#:~:text=They're%20interchangeable%20pinouts%20and%2C%20as%20long%20as,with%20most%20other%20Corsair%20PSUs%20as%20well."
+          },
+          {
+            "snippet": "It's literally one of the best psu out there, idk what more are you looking for other than the extra 100W from the seasonic.",
+            "link": "https://www.reddit.com/r/buildapc/comments/1pch26r/hx1500i_for_a_5090_good_or_bad/#:~:text=It's%20literally%20one%20of%20the%20best%20psu,than%20the%20extra%20100W%20from%20the%20seasonic."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Corsair AX1600i Digital ATX Power Supply CP-9020087-NA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRLdCfJNVYoUge8njWZS4TdeAPAXDtAmUj9fkkdPpRKO7pMzucVxdFz0bh4i6Pwa0EW-z0ya5a1AZ3bGrmXZRjB5VQZomNcC2kHqJPH6AzwZjDpNDjueylK",
+        "price": "$999.00",
+        "extracted_price": 999.0,
+        "reviews": 67,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vC4ppXicdVTN0qpGEE3yBFnkFbKyrIJh-DE7kB_lU0RgBmRjjcwo6PCjoKiVp_lubqqS5U0q67zGvYtU5U2ClW3Si17MOWdOd1d1__XVt--s-GNmpYy019roSN50a19lzGbrX5pLTa9ZV9DfJHUiAkkFojKRJRUqsiL9kpGO8PowoJqsaIqkiYoqAEV7ceRPOSOUFxVb7ffsYtbZiyYpEAqaKAiSqqiyOgGTX4uSHNi_MIQACqoEJhqAkqgAqGkfLrT9DP3pVhRlbdBAOFEHlgaECZR-9IOVuf0f8OP5yi6Pz3NOOtZ2o-x6ubCqGx1YxS6kK-pqRFl76upm5E9HTXsdZXXZ1NWLc2F8GAajIyAA-ZWUUcX6j4dmKPL3__L6UBb0k6wqUAHqEJIIRDBwPjS37j0_vB_4-7V9z_k7q36uSXPbZ1---c6qe3Pa9tM1ahpsBkLIJ0JUYoiQvF_NPBJIdJ5ICG5EYxGf5IaUeE4dDS6Q-4i4l2I7uGcSDXcJrcK4sSPEE1SlCcMuwtb9sRaNfSIax0DSYRALcmC6190zPe7ivAos6qzjFgZPXR64GwLcMHDENnhiaYk9M0z0J33mcFPyBToeniHCNbHcPXGQFJy6PrTzZBMHYgYmZ_oQ0QbzOI10kApBTp1D5x3zcH1K98Hx9GScW9RyDSpxwiIOArsJlzYvIh7UG5C2u1NzJJy7O5vyEGBnkTRBKFF_jXKMUX6JxLzLyiZdxE2Bkdsy24jICTseDpzlDHW04lMcGdNA9IL0dICpwJEX5XDpeAjFExSBHBAJl4jzZujDJkevj8tgHsStTETDTMT8HltUog4WUofbUWWIcYyL9IRnzHJ9DPI8de4JAfgZ4RQF0bpbckqW4jK0hQ7HJc53wF6HsQ1WM0NA2LhuYrnZifbFKVwjmHmP1TCdUGqENDnJLHJ9ZnX-bpZe4uNc2Az66OhtvIRXP93by_6zoNtyF66UTCknPdHicJ8l8oYksVvweV89njP9B1HV4LCCAIoTVfk5q-tTwb58_bduTb-XTJ262CK3xWFxvm7gpNbHZrm6OQ85u-mGVpD8TZBNRa_o4ujIKayC8XZvX_ne07-XjJGJhy_aZ8Icj71pQpu3C1lI73NtpT3vzbq2xja3Z43We7jaWr3-ipduuw3ZsGVsHEaB_6rCK9OeSGNtVurG3YPByeOrt7fytgIO3On-QbcNd2Ewz-17NKPswowHGvt4XLjPsuXtfVp050lf38wYTFdUJm0Rwr6SUVW9lYvIRoeXqzc3By9Zkoa8Wbluf21TUcl2Abv1nho75EFKCgDKbK-QNtWYxxiaAn4zWX60yzlej61wh07y8CKdpzkd-4gs-7mv-A-vOst5rRe5OjMu9ZY-WfeoGJIy47GGuimCM1XVZh6-bTX9uDfYY7eb60I-73Qq3IvzdN1lj7RCtxCMVxdrI1rT4EiX46sL8oTggwAJobd-Bel6k-OZvOg9oSv99nRzinPHqyt346Hfc7g_nVviW-kRmdZwUvZ__gNm7-Ur"
+      },
+      {
+        "title": "NZXT C1500 Platinum ATX 3.1 PC Gaming Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT7DGtbKci_FypS8MILu57G8HrIzVGK7I4h5ABOwJfibrA9ekfUccBs38uuqKE86zdEs25jccalG6JlZ50bGwifIkWrw7aQO0cvLKvTrkCh9TN7FQBjP-KR3w",
+        "price": "$419.48",
+        "extracted_price": 419.48,
+        "reviews": 13,
+        "rating": 4.1,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=M9BCSnicdVRLzqNGEE5ygixyhawsSw1088gOzNsesHk0NhsL6LaNzcuADVg5zT-ZkSbLSZR1rjGziJSbxFa2SS1qUV91f1-Vquqvb75_o_kfphbTpLvVSp-cmn6zFijV6eZT09bklvU5-Y0TJIblBJbhJcQJkEc89ylL-qSoj08UchBBQRIZyAMIoQh48PlEE1LkFXUPB9qqdfZKExAQRQRFXpQA4niRQ7_mZXKk_8ICC6HASRwAPGIkCQEBvW9J9wWuF3uG5SHgGV4ELBQZiWEgkn5ee666_x_ww_VG2-mLVSQ97fpZdmtbWvWzI61om_R5Xc0I7S593czWi1nT3WZZXTZ19cppafFsBiUzFrDo5fhZRYcPx-Yp8vf_4npf5uQzEnjIs8--sM_qGEEQwfvm3r-djm_H4u3WvZ2KN1p9rJPmfsi-fveDVg_qohsWm7BpsOoBHxTIq44oC9HDY-OLFxWtY9TANXU2fhQtxniXgRjT0J68sK_SM_GoMXJOpVu7bQHSy8CGoEnIxeGJpltbhjhbtkbBliCsa484ireRRiY_whusFbbD2Dhm-yQpPcOpTr33cDxsKhZm7TCKmiELGX3DYtY3Ys5RrRHr0pg-vCI474aAw1pk2EGwxVFcNCvXJKYTnOKwHDeB0Y0pK0GvOMKA1a9bVlr41QWmqr2KjPGGDekQmxZKtTHYXZpqUynmBnixVxIzBowRagXnXOwpxgqKOaX3I-Kmkd4RTeLTUl_sIuTGlfxwmJDdhaOVnJ3unR5bYegtcZRBXyc6MbIeB_YmA0VPQ2YdcmQknJI4l8aPI7zG5W4KIkdzDcgE2CmTSHKp7jlpOQAv8lpXde5BiC9Ya1a-6Zi7hzelRXzO1HjlcXaTRYzrBhtfBz2OSnxKWX3jRzrrmgoIsXJ7amxSRm-N3FY805ncKPZSM4MkxGc_iA_vzsXNO1tjXNgT0Ys8eMRbv3SqX8auPXwBso563-UzvpSGRIz8Q7ZFu2Qb2XlhDdX0MOWfGEGEr1GDjCTwH7O6vuT067d_y9riR06ViY215L46rq63HZRqea6W7t2YUHaXFTFPTkuAVF6uyOpsoBhW3nx_0G_FwZF_5JSZip9fdI8tNRy6FEF36lYIxKMluuJjbDa1NtcL3WzEwcHVXhvkl73e7fc-fW4ZnfuBt36pcMp4SLi5aJayMjrQuziFu1yWd5c1YCqvj7Ku2CuFOvYwhCahLVWmcL7G89x-lF3RjYu8v0pDfVcjduESlHS5D4cKhVW1LFeBHh5frI6lPrkQxz39zrXt4dbFDJ-lHr0PjhAZyZSUhGXDTHdyblfNiwhDFeClSk9nvbTwZq75aXhBzwh3XZzIfB0m7wZrza8np7qiUy3nJ8FU2npPHrSfKhpymTJtoKwy7JUIQmP5y70onw8KndLUksHJ6mUCxvy62PTZFFfh3WfnbqvtGG3hncm7-c1mT9sEHwFMEnIfXEg2uxM20WpwQF-uu8vdyK99Ud0KO3rWe_UPl2uXrLX4HKra86Qc_vwHBuzkCg"
+      },
+      {
+        "title": "Corsair HXi Series 1500W ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS-My6bTVUIeYgVry-tYNGAH9-2Xwd5GqKhho75vTeaC8ux7chZ-vCXbI4QxyrOuQSkvJanvcqt7ThurxUWwi92HjJftmfhOtvfrBAAwq4_my7gUX5RSeua",
+        "price": "$437.15",
+        "extracted_price": 437.15,
+        "reviews": 97,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YCreFHicbVS5zuM2GEzeIC-RyjBAUXc6yZIsy7ZuUb_VGLRIW7JO6_CFPM2_2QCbcjdIndfYLQLkLVJGblKFIL6CM_xmSHD413c_vNP8D1NPKO7HRh1w1g6eK1JqUO9T2zVkTIecfGFFmYGsCBlB5lmRE3iB_ZTiAZfNKSe_MwKQRZblJInjIMNIQBb4zxnFpMxr6hyPtNOa9MUTJTDBEAoSL_GMKAOG_S2v8In-h3NAFDnAAJkFDCdxEvOhI_1X6C72nCCxgJ-mBAFkZZFj5Z9d39H2_499vIy0e3xdlXig_TBLx66j9TA70Zp2eMibekZoXwxNO3MXs7YfZ2lTtU394nS0nG6DktnUjH8VYVbT28dTO3n8IolAECcpAfKQYxgZCsyHKiefeVHgBChCCUzuOVkS4Yf2Orxnp_dT-T7271n5TutfG9xej-m37__Rr-li0aULL2pbpPkgNI14u7S3CPkhNrMKI-Khp42xIXu7p38JUXn0QjImbJvEbyd-FzBMCIhAi2ybIBL6T2RjeEekkC-JYbj-m39PTaPchX4VVxzArA5RbdQxKq_bqtVjLSt8_f6IY9uK9DIJdUbzziuGRgW3DckTM7bp5cw9ZY1dyPhjuGxdJ7LdbZ30UVkuCJCzEMl32yDWNi5ZpJFnGNlhUPBFGhlr27D0bcWMSWwfw7O92LJ-Fy3RMqyQs9VJlESJipGR7IqUC4uyopFskiKZMN4iwH7g6DSEOgedWD7HUXSn1V0Nq7Y7FL7gFbaFYBvHJrn6cGgSNjsmZso4eoaDM9qlZ2u1g-2DxAwI9O0zfbNyWpZvOLRzBJMiimR74l3J0mIpsowEqZV_VpvDm_LcoEwInkibvFsJmwYGGFBcoewADS-IDeiYKoiQOu5ivj0wRrfMLdU37YcTJwGJ-BgxGRec1YGc_XwXp8A7GzWK-KNj-vekSNRf7n13_AoUgx8Ch3fTIxcktvHcjrJSLoNyTKFRCc8BKz-9wjDFbHpksij-mjZNkdNv3_-t6IsfWU0hFtLxdXPaXMYdJzfKXKuc6_LBp1dFlXKcrQGvCUpNNucln3C1P98fjbE82sqPrDrT0NSif77RpU3XEuizfsOD5L6SHOl5b71GnxulYbbSzUb1Xr8pr_Hat98HdAoSnQeh775c2FVyw-xcMitFvducX9ils15XVwcuuYPinhRDtTYqta3bLTIJ7aj6iOYumufWs-rL_r7Ih4t8a65aDBcO4XGfB9yt5qO6Xleb0IhOL1V7pU1aPMtOdedY1m3sE0ZIDz693mwxXuIHrgiEUWrYObur52WMOA2gtUazs1GtkDfXg0NU8NMKe1lkZO5GeHtbuYL7sOsLnzVKnomm2jV78qTDo6YRm6oPj1M0Bl6IKLarYL2XlPNRpY_DYaWAbDUoBNzzy8Ib0kdSR9cAzp1O3zH6wj-T7Xy0YPaG0QlwGJPrzeGIt8uQyW9uNhgqty-uy_wylPVYWvF03ktwLC49dvXkHGn69G0c__wXp4HbwA"
+      },
+      {
+        "title": "CORSAIR HXi Shift Series ATX Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTksWlDn6AENEvdNTDryUBiYiEmbi_UKAx324t_oyN7YraS4jiB4UNJIJk7BUGwdoY39gwGf9qTpIE8fnMRZqjMfMLy7ZFH09WCKGQjoAKdq9MVYgY8fkcyNg",
+        "price": "$449.99",
+        "extracted_price": 449.99,
+        "reviews": 3,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EzWipHicbVTNrqM2FG77BF30FbqKIhmbn9AdhJ8kN4HwY7hhEwF2AhcbSCAhifo0dzojTZdTqeu-xsyiUt-kRN3WiyPL3zn-vnN8jv_-7sd3Wv65MBOadpdG79Oi7b2tQqlFvc_tuSGXvC_JH0hRBYgUKMiqhBRRlmT0OU_7lDXHEZVlqEgQiQBChCQIVRV-KWhKWFlT93CgZ6PJn24KBKqCZEWRVXkmzmRZ_b3k6ZH-BysiUmQoIElShXErAkX5cCbdV7id76GgKrMxXAYqEpCqKory69Z3jf3_Yx9PF3q-f12ytKddP8kv5zOt-8mR1vSc9mVTTwjtqr5pJ9v5pO0uk7zhbVM_fc6UjaWgZAIBlJ5GntR0-HhsnxL_h-oDL8kXSZFFGc5URZ0hKMoIqR_aa_9eHN-P7P3SvRfsndafmrS9HvJvP_xkNoMx74a5h9s2MnwQVNEDL_whQ5GQ1yQk0KkIyO_rACBaESkUmkfKKyEzJea_sluKrD57FLHPVhsfHKU4ZssIqCxDjhVEbJnx5RBXjAWhs8lAcqZ2X-24tQpRUmYWibzaBDu2Mklk4QRWkMTOwsO9G0ELO4-kCOooJvi2zhZOv6ujIq7IJsFkkdkVIIu28dgKJPzmR1xo3ZDd_fi23YSrBj-qhx_63BeiJWY7KbSWUmg2AGPQR6HFsZCcI1syKPdNHOllAAgjoRNmfCOkNr55TE8JP_avUG1iDkACjj2Oe5jDzZDYUpTGLN1hD1Bbsvxq1IuKixcmeoZwn3D1TrgjEjtyU7AKHH47JRBLOK5EakQnDyXVDjPmW22xiT1hrHeT2MR3YIsiq-gpJ9sd9s2U-2mysAoSarcgdjhlap9z9SViq9gXrHnM-8UGNIE1phTzqMig5QWxBd2FDsacLrtYajPBOtvlSvcXzt2NE-y9ruKxDvek9uXAdKKNFbGE6VfXZCisbmmIHP-3W3c-fAWaJfWBK23zgxgkjvXYXFSN2QG75NDi8qNPtV8EZSaO8wfFsRmVT3nTVCX99v0_mjn_GRkaWUVmel0f16fLTlQbbWpw92rfpfyq6bMyLV6AZMhaTdZvtpSItT_dH6wLOzjaz0ifGNF4Rfd4pbZDX2agK7q1BJLbcubOHrfWa8ypxaxFOxucqN6bg_Zcz7j9PqDjkNFpEPrbpwqHJ0OKprMF1_SbI_qVw9yXF351oS1m2vaoWfpqrVNnNQx4QeiZ6nc83UbTcvXgHetu87I_qUNzNWI4d4mUdmUgDrWE6_qFr0MLH5-sztIYuSSERrtzV6vh0iWCnGc-vQ6OEtvpPeUEQpxbTol29ZTFkWiA6MWgxZvFl5E3NYMMV9J4gk7zgky3ON0My628vTv1SSoarSyUhX5u9uRB-3tNMcr1uydqhgBPRFHaZfCyn2lvB53es2ypgWLZawTcytPc6_PxtfE1gFP3bO4Ec-6_kc30soLFaxodgZim5Dq4IvF2RbSQ1oMDer7tqqtdnnpWX8ZmG_M9BYfq1KVbM3nDhjl-KYe__gVbCeUw"
+      },
+      {
+        "title": "be quiet! Straight Power 12 1500W 80 PLUS Platinum Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS-0rHWPQTq-z1i_LmDVoC2vT3Mox45UcrEfHKYzhksD_ci44U-IoF5op46MeBTP5gH6Y6a7fekIxd3YG_RIEkbgh4hyY02j2aRZC7DdzR-Q6ZIL61vOvLg",
+        "price": "$289.99",
+        "extracted_price": 289.99,
+        "reviews": 17,
+        "rating": 4.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4ASCnHicbVTLruJGEE3yBVnkF7JCSO32OzsbP7gGbPxqQ2-QcTfY0H6ADcYoX3MnEylZTqKs8xszi0j5kxgpu6QWtag6XedUlar_-urbd1r8MTcxTdtbrXdp3nT-WqbUov4vzbUmt6wryG-8rHKQlyEnqSIvC5Io8b9kaZey-liQ3zke8pwgShyn8ooCoAAk9VNOU8KKinqHA70adfbCKTwvA4EHQOBGtMrLkvprUaZH-m-eF1URcqogAUHggKJAUfxwJe1nsJ7tOF6QocTLiipBedTBST-uA8_Y_W_q4-VGr8PnN5Z2tO0m2e16pVU3OdKKXtOuqKsJoe25q5vJejZp2tskq8umrl6YK2XjLCiZQADFl5MmFe0_HptR4af_Mn0ox7AoS4IEBVUe1UuyqsjCh-bevefH9yN7v7XvOXun1c912twP2ZdvvjPr3pi1_cyPmwYZAQh5stgCDFa8bvpJfo42jhtXuMcVG5BlOShxHsGZiXvDqYMzOQcml8SmDyMblyix6tDu0lXinlKgAmw1B89kABuBGM0bYz_jdM90pCTCNk6408izCKF68QwmIEg8glicnTByrayP-GYdAxck5sMJnthYmY6-LXMzTVDqbbBOeCTgGPGU5SJGgZOV2RCc2HJbPjbIWD23ceP5T32GzKbD8-aOOG1A50dIDHaOkHoKY1SHEOcBR3QXYS_i8nUArWFVZj2J9GvCYuAh5eFzwTWsGhAk4hwBDhLbsenc4TLb1beMSQl7TYsDSdL4GJJTaIvnVdJhF-Z9BMhmZaAlgY4QGpa95fVTVIoFhpaRJP5zFePHqAOvYHBLORXGBnYQ8vltte22oGujRAUxyy8uI0MUIWllCoIfm09k6Nx-Y2F3wwya1KEFOpSUKN9Dyw8TC3pzHcRIv20Tsdlz1tUuHD2Yu4OX4HDsHdIRgyPrgGznEsdshksy-JFThFEGsWkFPz3a6-Ez0CyxCz1xnR2EELvWc3VTNWaH7JZBq5SeXar9wMnKeGs8FDhVln_O6vpc0C9f_62Zs-95QyMOMtP78ri83LaCWmtTo_Tu9iBmd01XijRfANGQtIosT7aIhSqY7g7WjR1c7XtenxhoLNE-N9R26UIBbd4uRYAfb4qnPB-NX5tTi1nzRuldVO3MXnvZ691uF9Lxxug0jIL1S4Vb4j7lp8q81PSHKwRnl3mLRXn3oC3stfVRs3RnqVPX6ft4TuiV6kM8XaNp4TzLlrWPWdFd1L6-GwmceURM2yIU-kqMq2pRLiMrPr5Y3Tdj5BJ5fvRbz3H6W4s5KdsH9N67cmKnQ1oSCOPMcotxv1OWIMEAaGHQ_GSVb8ifmuE-PotjhL_McjJdx-mqf1tL68GtLmJea0Uuz_VrvSNP2g0VjflMH3xBMzh4IbLcvIWLnaKdDjod9vs3DeRvnUbAo7jM_C4bcBXfQzj1ruaWM2fBiaymNwfmmxQdgZCm5N57AvG3OZqLy94FXbluz3e7uHSsujEnGfu9hIfzpU3XJj7Fhjl-KYc__wF9fN9M"
+      },
+      {
+        "title": "Beefy Fully Modular 1500W Power Supply Reliable & Quiet",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcR0aJM55VWWaqMs44ZDfgoAdRxIdc-TKGZckaQKFJUhq-QDo76_Mi6sU8eevfIBgUHpnxF7AVEF0VnOcdTFJ6Z-GRFIY1BxF-13dAoPYQeu",
+        "price": "$554.95",
+        "extracted_price": 554.95,
+        "original_price": "$1,139",
+        "extracted_original_price": 1139,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xi7dlHicHVPLrqNGEE3-ID8xK8tSN03zyA4M-N28DNhsrtp022DzssEG-2uiO5mRJsuZKOv8xswiUv4kOK1WLfpU16lTOvXPT7-88-yvmRlz2twqvaVp3bqOzLnF3S_1tWK3pM3YNySrUECyACUVI1mUsIS-JLSleXUcUKgIsiBAVQQQSyqCqiR9TTlleVZy-3DgV6NKMvYnlBGCEoYyVBWgQlGVEf4jK-iR_49_UyWEBhoBi4qoSAgjCXy8sua3T5cbvz6-z3Pa8qYdJbfrlZft6MhLfqVtVpUjxptzW9UjZzKqm9soqYq6Kl85V54PwjgbCUDAryCNSt59OtYvPlFSEMDDVQYAqbKI1I9Fxr5iWRKlQZECAASiqsjCx_revqfH92P-fmve0_ydl58rWt8PyY-fT2bVTSZNp7tBXYeGB_zCwn7EIlfoqxilgEaeTop6Tc9t7z_NLoQhZkUvhGiNyZTA_czDgRmbMTg_ksJCocG8ZBqTjZX6YZSKkRmvdiVxd4KF4mnobEFNdyC82Nu0CaesXwc5DWcLYcjfbsJ6Rc5tmwhNb1tqGpXz3j2lp8CwHAqO7R6QaD8jUjwjJTXjnM-stbvV-3WePILNYu4VreQ_k2cgeGdfMJ8hzB8EkXVyti7xMy8IDBeJpece1HvfSiUXkZVvhs4eeGU09EqnrUdh3lABmmbKVmFY57tITQMzT9kp7ZhlufvCutFI9WhfZW7gPZNTXgSg6nYbi2xMlZBhDpuiE-3QK1c-QAwokG0t6Lq_98318B1oFm59G-_up2hL1ct-AWSye_a07DHSqiaIjr9CWREHjwoiVGXlc1JV54z_-PlfzZx8QIbGFqFJ76vj6nLbiWqljY3Cvk8fOLlrupLRdAmwIWklW52mOBZLb_x2sG75gWgfkD4ywqFE89zyKeFLBTRps8Ig7ueKrTz72q3MsZVbs1rpSFi-mZ32Oq9_b28-H6zLx_7Gc15dkCLuKBors0LTeyJ6Z5Lby2Vxt4WpuNeco2bpi5XOyaLrghnjV64_grETjrPFs2jypp9k7UXtqrsRCRObYdpkvtiVOCjLZbHaWMHxxUrmxsCFERrizl4sulsTQynZe_zeETma0gctmCAEiUUytCvHeRSKBgiXBk9PVjEP3bHp74MzHl7QZZKysRPQdTd3JOdBygtOKy1L5Zl-rd7Yk7ePkgco0R-uqBlQuDBZruf-8k3RTgedP_b7uQbSeasx0GeXidsmj7gM7r4wtq_mDpoT78TW49tCSLc0PAKRUnbvbJG5uzSc4VVHQFs4zfk-zS5tXt7yRTTovfiH86WhjhkPJjeHRT38_R8JCZ-n"
+      },
+      {
+        "title": "Corsair HX1500i Shift Icue 80 Plus Platinum 1500w Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQMqAgf3kzuDcgswBA22sL6zLCWAw66y-byoU20cygSiHM3IcS0xumL6kS8WKMvzcsaaJggUqMp2tU3BI0cmfOl-KA5llm8lvgbIt6i7UAr2u2eZwpaKgWObA",
+        "price": "$361.57",
+        "extracted_price": 361.57,
+        "original_price": "$402",
+        "extracted_original_price": 402,
+        "reviews": 4,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IsK9yXicdVTLrqNGEE3yBVnkF2ZlWaKB5pEdGLDNtcGAu7HZWJhuDHbzMGCDrXzNncxIk-Ukyjq_MbOIlD8JN1lG6UUt-lTXOVWl039-8_0rzX9fmBGN21uld3FWd95GptSi3qe6qcgt6XLyqyCrgBdkHkgqFGRRgpLwKYm7mFWnnPwGBMgLiqJCBcoQqLLIqfznjMaE5SV105Q2RpWMVRRJgooIRAgUWZABlAH4JS_iE_0XlgGnqACqQACiLAFRUpX3DWm_iJvZAQi8qvJQUAUoiwKEiizCnza-axz-B_xwvdHm8WXJ4o623SS5NQ0tu8mJlrSJu7wqJ4S2l66qJ5vZpG5vk6Qq6qp8y2koG6dByYTnePgWpElJ-w-nOvmn1_9yvS9y8hnKkijxUAKKIqhwTODf1_fuNTu9ntjrrX3N2CstP1ZxfU-Tr9_9YFa9MWv7mYfqGhs-F-z083q35v2zrTtWnSalCVc7nO54FlFcY4eRdg3IJjDwer3Tn3QGUgcwkYb2xt1ZEFmZu51b6fqMK4yGZcxhjFkdObvapAtzIDgyPc4pQqZyBPmNd6nzIERPr7SxX1hdNFetGOv6fhuJ0Y5E_hmB49PkA8Fe77loc5yzNOJAl_DWlgDiB1tncQQIjliaLNg6erIr3XpPJNTIBzrCZyfwZ-DmomjpCQg4F3ZHYX2JgI8CnjSEU_fxluThme1cZHe0gE8aMoCZnfphNgSMXcJz0jvAhNHCxwGyiqjIKv-SDR4X4eNlKI4hKUMTeuvtOKvQWvkGGvwFgfE5ixIzq6hhoR1nDfuLOsQ8CbdmxuMLnq22Pk6sbO49se0h0idCJiVnuwlMJm0veLl_ANe1_Guy2HcJOz3pTh-1ZBi_aRF0dtxiMTbMwOI6HBY4O_KWF4QW7y50DmH9tg9hfQRWM89t3V84DzeMAg_b6ZYnBmLqyjVJsONUIw4hiy1r4W0jHXG-8PPQNukXTrNgF7hwfz-Hu1i9Hm1OdvbPIS4HKGhVi8LTj0BWxNGDvDi6TfmYVNUlp1-__UszZ-8EQyM2NuP76rS63vaiWmlTo3Dv8wdM7pqu5HH2wkFD0kqyOs9hJJb-9JBaN5Y62jtBnxh4LNE-d3Tu0BeFa7N2BbloWCqu8hxqrzKnFrMWtdI7uDyYvfZ23t4dDgEdXUanwdbfvKlwiqiPhamyKDR9cET_4jD35aW4u_xcPGqbk2bp9kqnjt33aEFoQ_UHmm7wNLefRcvaYZZ3V7Wv7kbIz9xxqW0eiH0JUVm-FKuthU5vrM7SGLmgIIxx79p2f2sjICVHn957Rw7n8SMuCM-jxHJyYV9OWYhFg8MvBs3OVrHE3tQMjugCxxvhOsvIdIPidb_cSJuHU15hVml5Ji_0pjqQJ-0eJUVCoj88UTMAfyWyXC-Dl4OinVOdPo7HpcZly04j3JBfZ16XPKIS3QN-6jbmHpgz_0zW05vNZ7sYnzgxjsm9d0Xi7TO8gKve4bpi017u8_zasfLG7HDs9xqkl2sbb8zojAxz_FLSP_4GccPj-g"
+      },
+      {
+        "title": "Corsair HX1000i Power Supply",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRx7JagASaQKam1ROUROSPT0QRH8AI1SWtg40X8c-goGwdU-_FwpGwNNjd1FkN060e0lu3azI9h9UxSP78hUPRA0ZtPXYBSwQQ_Ea7bE9HuDaZ6b_ZLRUHOyQ",
+        "price": "$464.99",
+        "extracted_price": 464.99,
+        "reviews": 68,
+        "rating": 4.1,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gZg1UXicbVRN0ptGEI1vkEt4pVLVzPCfHUigXwYxiEFio0IwEohfARJCldN8jl3lLO1U1rmGvUhVbpFlUNaeRS_mdc97r6t7_v7p5zeW_DnXfRY0t1Jrg7hq7Y3EmMHsz1VdRrewTaKvnKRAxEkIiorASbwoiNznMGiDrDwPqIQEHiFZgbLMK1AcMsGXmAVRlhTMOp1YPS3DJPqiCEMdL8hA4iEECqdwvyd5cGb_o39AGQAR8AIHAeJFgEQEpQ911HxDm8kBcZATBgGKLEAAZEmE4q8bYk0PP8Y-Xm-s7r8tsqBlTTsKb3XNinZ0ZgWrgzYpi1HEmrQtq9FmMqqa2ygs86osXjk1y4ZWsGiEABJeQRwVrPt4rgaNX39A9SEfnAmSyItIQoMFCHhFltCH6t6-xee3c_Z2a97i7I0Vn8qgup_C7-_-1e_hZFKHE9utKjolYKt3T8-BVxP5KU7jS8Tt-QjpT5tbPkJAPEaz3ue0IHouINHj7XpHLu4ugy4wTHeWERtWCQEPfQeJTeii8734ahdVtvWg7nnU9iFOrbkKtrBKyYwsojlpWOYbeK6RECq5dyGEFQYlO7U_zhZCtMseplGtnAInO6j3VH-Urg4DlruIpS8sI8Rd9Dsu7nzOv1KkpKEX66aBL56bVd6uMl3DfO6fUbGntPOKaB6iRYuzFAauT44z3zdTOnEzeqVPn490YYov8czXK8jy6s4yIzB70PsI10GRBSZqiU2z23au1Z6nTMI8QszFMXOjwJxjPUjxxswfeE2Vyp8Rut8t4REpXLTF5VAnsq3dObPqblHjQTyhO0JqYCADr8C9lynOepu59g7b23k0JflS32_xLMhcxwAt9XIaH5FhO56BrLkGXKrd9p5QHaFRz5KlRua4tzzfMTNiOIjkxwudHOdx6sBlazrwburYsNwK-C4ufns09ekbUA2hdSzBJAfXCL3zuhk3tR_STaDxIg2L5HL-BUoyP-wY4qEiKZ_CskwT9v3dP6o-ec9N1WhJ9eC-Pq-vtz2vlOp4mlv3WS-Ed1WTkyBeAWEqqkW0vswEny_I-HAybtkJq-85bTSlwxPNc8dmmK1k0MTNWgD-YyFb8vNR2aU-NjJjXskdpsVB79TXedUdDg4bFomNnS3ZvFTg3O8CbizPc1V7YJ6kOLNWq_xuoRl_VDdn1dCWa43hZde584jVTOvd8YaOk-Uzb7LmMUnaq9KV96mHJlYkBE3i8F0huEWxytdbwz2_WPFiOnAJHDfEvbVcdrfGh2J4JOzeYcmbBX0wDANyQwMn3L4YZx7lp4Cupiy-GPmC2mPdObqpMNxw10kcjTduYHaLjbjpcXEV4lJNYmkYq_IQPVnbF8zlQq23eXUK0TWSpGrhrA6yejlprD8eFyqIF60agUdyndht2PuFe3fQ2Kr1PdQn5BKZ49sSxbuAngEfBNG9s_jI3sd0Lqw7DNp806T3WXJts-KWLb3B79U5pdcm2Oj-xZ3qw7dx-us_T_bbjw"
+      },
+      {
+        "title": "Corsair HXi HX1200i Power Supply",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSi1hz-_Kdlk6ZS0-t1Q0D7SCyoTo84Bu48KTxMjtpyNmPa8BRx9cbPiVFvtEZGQvErqXlfrBGTS8R4Pj_jeeAexPki0aRsocPEs1CjtHj4byDpd6f-oqFR",
+        "price": "$313.57",
+        "extracted_price": 313.57,
+        "reviews": 48,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-x48snicbVTLrqNGEE3yBVnkF2ZlWYJumkd2YMA2tsE8urHZWJhuGy5PG2ywla-5kxlpspxEWec3ZhaR8ifhRsoq6UUtuqrPqVNVXX9-8_0ry35fGBGL21utdXHadO5WYsxk7qfmWtNb0mX0VygpPIAS4EUFQUkQkQg_JXEXF_U5o7_xnCQDAUiAg4oMOJmTofg5ZTEtsoo5pxO76nXyTxySBVEUkMRBUeEgBAr_S1bGZ_avX5QQhFCQZWnkkmVZFN9fafsFbGcHOIIrCo9G9JFdRDJSftp6jn74f9-Hy41dH1-WRdyxtpskt-uVVd3kzCp2jbusriaUtXlXN5PtbNK0t0lSl01dvcVcWTFWg9EJ4AB6M-KkYv2Hc5O8VeK_VO_LjH5GkiiIQFaAiBSeUzhBfN_cu9f0_HouXm_ta1q8supjHTf3U_L1ux-MutdnbT9zcdMQ3eN8jkCHaC-YpFYMzLsLozudpzrGxuOoLwHG6WYDImQX5najR3lSIrzHtuCElCQk9Z1Fg-Ndujoa6dMH6cU2qHY0rGVkKq4TaL0LyS7O0xWrjGdkEEwg7V1eQRg2K39ncu7TRntSIEZMPSJ55-IBkpz4VKe3dWC1drUfPD2q6QsdYpM-_Ao_8K4eiIERDYmwqQzB5hQ_yM1nYiDggyFOsAJ9XinCKjV2vMezxZIjed3hfIip7s0YsfJRT-_xZuphug8K4kX8ErpF3tMyRQHm4Tq0gG0SEkA8HHd0Z-vWLQl5MwgLvINps8ktbtR42wSaE-XFg1a0doO0YaUSeUF0icqoTsJ2CEgzJ7m9DHZ7aJfpPiBkSzlluSlpE2KXO-JhzJusvDl9xka0CiqTY0GEHZ1mBKCrX3qDja0VrTw7mHdojRPf5DoSliQ9AtP1QxM4C43DRLvtQ9QcefM6zyzNW9gPJ4y8zZMQb261tDD3m3nHbUpCWOiCgE-BX6V5kpvez0N7PX3hVBN1voM23gGbSXhet9P2GiVkG2uCSJIqezn_yEuyME4fEHhFUj4mdZ1n7Ou3f6nG7B3UVWoRI76vz-vLbS8otTrVS-c-f6DkrmpyFqcrDumiWtH1yxxFQuVNDyfzVpxs9R3UJjoZIdrnjs1ttpK5Nm3XiIuGpezIz6Fxa2NqFuaikXubVAejV9_O27vDwWfjJ2NTP_C2b1nYZdTHcCovSlUbbMEbW-2sVuXdAXPhqG7PqqlZa43ZVt_jBWVXpj3wdEummfUs26IdZll3Ufr6rodg5lAUt5kv9BXCVbUq14GJz2-s9lIfucadMdq9Y1n9rY14MTl67N7bUjiPH3FJAcCJaWdwX02LcVR1jqx0lr6Y5ZK4U8M_4hyNN_AyS-l0i-NNv9yK24ddXVBaq1kqLbRrfaBP1j0qhmGiPVxB1XlwoZLULP3VQVZfThp7HI9LlUuXnUq5IbvM3C55RBW--2DqXI09b8y8F7qZ3iyQ7mJy5oQ4pvfeEai7T8kCrXub68ptm9_n2aUrqlthhaPei3_KL228NaIXrBvjSjn98TfNFuR8"
+      },
+      {
+        "title": "SilverStone SX1000R 1000W Cybenetics Platinum Fully Modular SFX-L Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSNRCRB1m9L-1RFWe_udu4JcmYWuFaMWELfs1t6muCOSLfred92YMYFEhVKL59VWxHc9TtysQQysKX2OFcj1rk8dE24Fa_vGGr4bI5v6sgl5OlnKUfDLz7IOA",
+        "price": "$354.49",
+        "extracted_price": 354.49,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Xy9CXnicHVNLrqNGFE3vIJvokWWJX_HJDAzYxjaGMgU2EwtTZcAuPgYM2KuJ3ku31Bl2RxlnG92DSNlJcN_BHdzPOedK5_77y69vJPt7YYQkau6l1kZp1bqORIhJ3C9VXeJ73Gb4Gy8pLMdLHCsqgJcEEYj8lzhqI1omGf6LFQWWFXhZFhSJ5zgFMDzzNSURpllBtuczqfUyfs1xAiMyIs-OQAzLyxIrgT-zPErIz_43oEiCLImAG5EkmVUkTnivcfP7p9ud1I_vSxq1pGkn8b2uSdFOElKQOmqzsphg0lzbspo4s0nV3CdxmVdl8ZqpCR0vI3jCMRx4JXFSkP5TUv3kk0XA8yILZAFwCifKovieZ_grkERB5OSxAjjxJZl7r7r2LU3eEvp2b95S-kaKz2VUdef4x4d3o45nsy7WXFRVvg4Zb4EP7iXVd6apxQuqn5iBRjkFMFcMeAUzRP1LaFSN7Wv9poC38GqWmFIXLVLPRpAiz3pgDvanS7i1Tct0OdtBfCruOFs7cFAnRvxEptWeaLrxF9Ww3i8faJ7am6vN-Lz_9DzN3AW267EhCC4hezIGxqYJOFwVww_ADC7SEFLcwyDtvWDT23sI7TnWoR8OXsAMPjUZn_HP5Mo2LqOwnl8O8YXewnnVxp7KhYGV209bPBlhsHmGXYgA7xbWZh2wjMtYDqYKPSDsumzqnRC2RuQqZlUGj3unReXs2Q2PryyPzIQP_QpEc3rDCEdxkLTYhMNGW-53rB-FgdkdfM067A9CvIAQzUF6ymmHgiZaXk0j5pcgpPbSQ9AjOiygZ5W7PUxtRNuIt84QQT9mKwCR8cfQ1OfvjGqCdrcFG3hE5si2bqZNHca-E2mC6MdFdkl-Y6XRDCLPCaP9lM9xWV4z8uPDf6ox-8jrKrZ8I-rWyfp2PwhKqU71fNvNHyDuVE3OonTFAF1UC7y-zEEoFHB6PJt3erbVj7w20f0RonnuydwmK5lp0mYNmHBYylv5OVRuaUxNai4qubf94mj06itee8fjjoyeJ9OdB52XCjsP-4ifyotc1QZbgFebblervNtyc-GkOolqatZaI7bV92iBSU20B5o6_jSznnlDm2GWtTelLzs94GZbDKIm2wl9AVBRrPK1Z6LkxWov9ZFr_I8xH7aW1d-bkBXjEyRdb0vBPHpEOeY4FJt2xh-KKQ18QWf8lU7Si5kvfXdq7E7oCsYKf5uleOqgaNMvHdF52MUNpKWapdJCq8sjfpL2URDEx9rDFVSd5W5YkqrlbnWU1ctZI4_Taaky6bJVMTNkt5nbxo-wQN2Om25r48AaM3jBm-nd4tJ95CeMEEW467cCdg-pvwDr3mba3Gmu3Ty7tbS4UysY773tztdbEzlGeEG6MX74-Z__ARMgslg"
+      },
+      {
+        "title": "Corsair HX850i 850W Power Supply",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSnp8UadIcPCb4dUpdGE5zVEENJuiHsJkOPa3Cc40c-SbOhlOteribOFy2jZ8u_R-PYT8bFb-7tFmB_XVw2HvkHYmFa5BUyWUPhOjbBQPbif8yQ1fljeQ5o",
+        "price": "$390.00",
+        "extracted_price": 390.0,
+        "reviews": 62,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hJgbYnicbVTLrqNGEE3yBVnkF7KyLEFDG8gOzMPGNphHN4aNhem2wTxtwBgrX3MniTRZTqKs8xszi0j5k3ClLKcXpVZV9Tl1Sjr9zzffv9Hsr5UW0bjta6WL06Zz9gKlOnU-Nvea9EmXkT84QWIBJwB2IUFO4BdwwX1M4i4u6ktG_mQFIAB-SvMiKwEGiNxC-pTSmBRZRe3zmd7VOplQAM8yIhAlXpQYAYq8JIHfszK-0P_LkAWAY0RRAvx0hQzDfLiT9jPYL48Cx4o8x3MMBKIIGCgK8Oe9a6vHr9d-vfX0Pn5eF3FH226W9Pc7rbrZhVb0HndZXc0IbfOubmb75axp-1lSl01dvffcaTHtgpLZJAS-h8WsosOvl-Z9xK9QfSgz8gkKC34xKQOCAOFCEDjxQ_Po3tLL26V469u3tHij1W913DzOyZfvftDqQV22w9JBTYNVl_GYaIP9tLMNiHelW3usYlh5d4tLK_S1IvWQW55woyRI790DxjZycy8gmqenqyi3bHxosojTufigoySIsK03LcWSgkps7A7NE6EWhMFzG5fu3Sufrp93LvYvr_Cg-DErvwgb9b5meicj3UQGLOLc7alqWVQtYqq66qnsFKeE5-0hB66mhzgwmx0jjVsUNVQjpgvgaGPnSVYO9MphPHDRNvKVp72yCl83n1bQwsiQXn5QLKKXtYxAswgCkfevxcZHrhcBF_q6kjvIRc7VfKCy0XYgHJAGt0mlY9svdoHejD5X6D4qWoTcjqjWGFbh81Rhx9PSZvdyN4lOlmEQrZMScSGnDN4hf1mAdVCgAxeQTZxDzS2igQTs1s_NM7maqsPiReArDwRwaR9SJi6IZ6P0HL3IsNPWTKwqEV3tXsiPzrSUMlSmusOKns50OChxegK640349kphEFb6MIDNidXvRmYq7soa7SByTwA7blA8PQNqDqM_EoPNQqR1cWmmUdBpmLOqX57t_fyZkXXYeTYsTsvrOjdgv04jpCXHBW2QEOfD0rz8xAoiPxlwcpMkMr8ldZ1n9Mu3_8ra8kdOlYmJtfixvWxvfchLtTxXS_thjDB5yIqYxemGgepCrsj2asCIr9z58az3xdmSf-SUmYoniPZ1oIZFNyLTpu0WMtFzLdri69k4tTbXC33ViIOFq6M2yO_n_d3x6NHJZHTu-e7-fQqrjIaYm4urUlaeFu_mVmFvNuXDBgZ_kvcXWVfMrUItcxjQitA7VUY03-N5Zr7Ktmify6y7SUP9UAOwtAmM28zjhwqiqtqUW19Hl3dWa61OXJDjphjapjn0bcQukpNLH4MlBEY8xiUBACW6lXFhNS8CzKsM3qg0verlGjtzzTuhHE4Z7rZMyXyP4t2w3i_2o1XdYFrLWSqslHt9JC_ajRVFXKKMDi-rLLgRQWjW3uYoytezQsfTaS0z6bqTCfPMbkunS8aoQg8PzO27FrLa0r2S3bw3QXqI8YXh45g8BpsnTpjiFdwOFtOV-zZ_GNmtK6q-MINJ780757c23mvRFana9KWc__4PkxDk0w"
+      },
+      {
+        "title": "NZXT C1500 3.1 5.1 1500w 80 Plus Modular Power Supply",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR3cpTlAafX5MLiHkgMnq9cl_fXSf0bVcejbdwFCHczsGC8bePsRqzm7okj9MB-xvf-8qVhJ8L5d1eBdKZjK6hEc6YGs8FRqUa1KywNfgteJgz8FCDJBpXD",
+        "price": "$348.81",
+        "extracted_price": 348.81,
+        "reviews": 14,
+        "rating": 4.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rMbElHicdZTLrqNGEIaTPEEWeYVZWZagocHOjltj8DHYXJrLxsJ0GzBXG2xsK09zJjPSZDmJss5rzCwi5U3CSbZJL2pRX1X9Vd2q_vOb719p8ftKi2nSX1t5SPJu2G1FShHdfeouLbmmQ0F-5cQlCzgRsMISciIvQIH7lCZDUrXZRJciCyEDIeBYgYfMFAA_5zQhVdFQ-3ikF7VN_ykiCqzIM5zAAlGYEnjwS1EnGf0X8-zkBuxyqsNDdsmw3PL9hfRf-K2yZyG3YCYO2IkIHCNO-KetY6v7_4Efzld6eXwxqmSg_TBLr5cLbYZZRht6SYaibWaE9uXQdrOtMuv66yxt665t3mIutJoug5IZYAB8M8KsoeOHrJua_O2_tN7XBfkMRYEXgLjgALeAgihM7u42vObZa1a9XvvXvHqlzcc26W7H9Ot3P2jtqCr9qOz8rsOqw3h6rtASua7m3J0VcV_C6uQ1zibGuEw9pLslWYfg7sYAclFQMk5tnhyEsKWwJdYQOmBSe-ziufEdPdU0niDsE1w5UYDsWCvHQGFNW63qDZM9nMpZH4ATkmB5x9jiDyoJgxVCsY_MOIyVGJtbe5V3XlPpceOPMbi3vsLGtmY8aYhy72SdsY4vcdPZrp5zsTYOSRg3qZ4fcV09orp9RCfCJJwVxICYFoudqFy6hNPGzao7O3p8t04ZHz4JFz6zMXzK7Y7NgKWiS3yqToeVvCLaEkd4M6SoGt3KMWKUjUGI_cBz4o3ujwSwR6txIhr6g68S31t1cMMZjOXvRsx2W1wT7HkIu75jEbwDuDaPO5CBlLPKQ0genmdqiepEJGCgq3fA82KP6vCcIsuNq-XO1zojQSXwTrGxYx3DDeUHbTo3RRMrGcZtJBcxAw5qnB8A2rkBAvZKZnwsX6MAdgcWXfTClJ2V9bCD2Ema9Gkx0EjUDBLP6oh-v27YCAYoryNsnTcNbn6-95fjF0ZCcHBtWB2Uk1Hq8Grksa-le4F2vpiUo2JmP7Ligp9WEPDscsF8TNu2LOjXb_-SNOUdp0rExFpye8lezteIX7bSXK3tm_6A6U2SF0WSrxmoClJDXk46jPnGme-P6FodLekdJ89UPJXonyHVLbpeMH3ev0AmvhsLe_G8d7tWm6MKrbrFaOFmr43S23nL2-9dOm0Znbues33rwqrjMeHmi1UtyXeLd0qrstfr-mYDnT9I20xCsvkiU8scR39F6IXKD3--xfPCfNZ91d-VYjgvx_amBkCxCUz6wuXHBvpNs65fPORnb6qWoU5akOMmG9mmOV77mBXSg0NvoyUGevJIagKAPz1rwUXNvAowrzJ4rdL8hGoD7-aae_BLOHm4s5KT-dZPNqOxFbYPqznDvJWKXFzJl3ZPnnR4NNTnUvmx4yWVBWciip3hrvcL6XSU6eNwMCQmNwaJMPfirOyG9DFtz80Fc_uiRaymOCeymV9NkIcJzhg-SchttHmyi3K8gi-jxQz1ti9venEequZamcE079k9luc-2WrxyVe16Us5_vE3M73j3Q"
+      }
+    ]
+  }
+}

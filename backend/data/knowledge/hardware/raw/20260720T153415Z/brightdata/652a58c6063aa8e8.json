@@ -1,0 +1,7 @@
+{
+  "provider": "brightdata",
+  "status": "failed",
+  "data": {},
+  "error": "HTTPStatusError",
+  "latency_ms": 421
+}

@@ -1,0 +1,2854 @@
+{
+  "batch_id": "20260722T113108Z",
+  "status": "completed",
+  "market": "US",
+  "categories": [
+    "cpu",
+    "gpu",
+    "motherboard",
+    "memory",
+    "storage",
+    "psu",
+    "cooler",
+    "case"
+  ],
+  "discovered_count": 52,
+  "accepted_count": 6,
+  "rejected_count": 46,
+  "provider_calls": [
+    {
+      "provider": "ecb",
+      "status": "completed",
+      "published_at": "2026-07-21"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "cpu",
+      "result_count": 37
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i9-12900K Processor",
+      "latency_ms": 3119,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "failed",
+      "category": "cpu",
+      "title": "Intel Core i9-12900K Processor",
+      "latency_ms": 888,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "zyte",
+      "status": "failed",
+      "category": "cpu",
+      "title": "Intel Core i9-12900K Processor",
+      "latency_ms": 1497,
+      "error": "HTTPStatusError",
+      "status_code": 400
+    },
+    {
+      "provider": "brightdata",
+      "status": "failed",
+      "category": "cpu",
+      "title": "Intel Core i9-12900K Processor",
+      "latency_ms": 917,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "apify",
+      "status": "failed",
+      "category": "cpu",
+      "title": "Intel Core i9-12900K Processor",
+      "latency_ms": 1168,
+      "error": "HTTPStatusError",
+      "status_code": 401
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "latency_ms": 9301,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "missing_fields": [
+        "boost_clock",
+        "memory_types",
+        "pcie_version",
+        "socket",
+        "tdp_w",
+        "threads"
+      ],
+      "latency_ms": 4577,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "latency_ms": 3317,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core Processor",
+      "latency_ms": 1216,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "AMD Ryzen 9 9950X 16-Core Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "latency_ms": 1949,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i5-12600KF Processor",
+      "missing_fields": [
+        "boost_clock",
+        "memory_types",
+        "pcie_version",
+        "socket",
+        "tdp_w",
+        "threads"
+      ],
+      "latency_ms": 1453,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i3-12100F Desktop Processor",
+      "latency_ms": 2204,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i3-12100F Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i3-12100F Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i3-12100F Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "cpu",
+      "title": "Intel Core i3-12100F Desktop Processor",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "cpu",
+      "title": "Intel Core i3-12100F Desktop Processor",
+      "missing_fields": [
+        "boost_clock",
+        "memory_types",
+        "pcie_version",
+        "socket",
+        "tdp_w",
+        "threads"
+      ],
+      "latency_ms": 4436,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "gpu",
+      "result_count": 39
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "latency_ms": 1066,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "gpu",
+      "title": "PNY GeForce RTX 5080 16GB GDDR7 Graphic Card",
+      "missing_fields": [
+        "chipset",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "latency_ms": 15001,
+      "error": "ReadTimeout",
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Intel Arc Pro B70 Graphic Card",
+      "latency_ms": 2584,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Intel Arc Pro B70 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Intel Arc Pro B70 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Intel Arc Pro B70 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Intel Arc Pro B70 Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Intel Arc Pro B70 Graphic Card",
+      "missing_fields": [
+        "chipset",
+        "recommended_psu_w"
+      ],
+      "latency_ms": 2348,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+      "latency_ms": 3377,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "gpu",
+      "title": "ASUS GeForce RTX 5080 PRIME Graphics Card",
+      "missing_fields": [
+        "chipset",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "latency_ms": 7532,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "latency_ms": 2646,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 4000 Blackwell Graphic Card",
+      "missing_fields": [
+        "chipset",
+        "length_mm",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "latency_ms": 1647,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "latency_ms": 2547,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9060 XT Gaming",
+      "latency_ms": 1805,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9060 XT Gaming",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9060 XT Gaming",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9060 XT Gaming",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Gigabyte Radeon RX 9060 XT Gaming",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "latency_ms": 893,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Dell NVIDIA RTX 6000 Ada Generation 48 GB GDDR6",
+      "missing_fields": [
+        "vram_gb"
+      ],
+      "latency_ms": 1836,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "latency_ms": 3216,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "gpu",
+      "title": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition Graphics Card",
+      "missing_fields": [
+        "chipset",
+        "power_connectors",
+        "recommended_psu_w"
+      ],
+      "latency_ms": 1648,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "gpu",
+      "title": "Sapphire PULSE Radeon RX 9060 XT Graphics Card",
+      "latency_ms": 1224,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire PULSE Radeon RX 9060 XT Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire PULSE Radeon RX 9060 XT Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire PULSE Radeon RX 9060 XT Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "gpu",
+      "title": "Sapphire PULSE Radeon RX 9060 XT Graphics Card",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi",
+      "status": "completed",
+      "category": "motherboard",
+      "result_count": 37
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "motherboard",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "latency_ms": 983,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "motherboard",
+      "title": "MSI MEG X870E GODLIKE MAX Motherboard",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 4378,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "completed",
+      "category": "motherboard",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "latency_ms": 1909,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "completed",
+      "category": "motherboard",
+      "title": "MSI MPG X870E Carbon WiFi Motherboard",
+      "missing_fields": [
+        "m2_slots",
+        "max_memory_gb",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 7533,
+      "error": null,
+      "status_code": null
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "latency_ms": 316,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B760M Gaming Plus WIFI DDR4 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 283,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "latency_ms": 293,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 290,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER X3D ICE ATX Motherboard",
+      "latency_ms": 282,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER X3D ICE ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER X3D ICE ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER X3D ICE ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER X3D ICE ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER X3D ICE ATX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 278,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock X870E Taichi Motherboard",
+      "latency_ms": 285,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock X870E Taichi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock X870E Taichi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock X870E Taichi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock X870E Taichi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock X870E Taichi Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 278,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS Republic of Gamers Crosshair X870E Glacial AM5 E-ATX Motherboard",
+      "latency_ms": 289,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS Republic of Gamers Crosshair X870E Glacial AM5 E-ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS Republic of Gamers Crosshair X870E Glacial AM5 E-ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS Republic of Gamers Crosshair X870E Glacial AM5 E-ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS Republic of Gamers Crosshair X870E Glacial AM5 E-ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS Republic of Gamers Crosshair X870E Glacial AM5 E-ATX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 276,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte X870 GAMING WIFI6 Motherboard",
+      "latency_ms": 283,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870 GAMING WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870 GAMING WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870 GAMING WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870 GAMING WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte X870 GAMING WIFI6 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 288,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B850 Gaming X WIFI6E Motherboard",
+      "latency_ms": 296,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B850 Gaming X WIFI6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B850 Gaming X WIFI6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B850 Gaming X WIFI6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B850 Gaming X WIFI6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B850 Gaming X WIFI6E Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 305,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock Rack W680D4U-2L2T/G5 Server Motherboard",
+      "latency_ms": 292,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Rack W680D4U-2L2T/G5 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Rack W680D4U-2L2T/G5 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Rack W680D4U-2L2T/G5 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Rack W680D4U-2L2T/G5 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock Rack W680D4U-2L2T/G5 Server Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 288,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "NZXT N9 X870E Gaming Motherboard",
+      "latency_ms": 295,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "NZXT N9 X870E Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "NZXT N9 X870E Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "NZXT N9 X870E Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "NZXT N9 X870E Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "NZXT N9 X870E Gaming Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 278,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte X870e Aorus Elite X3D Motherboard",
+      "latency_ms": 296,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870e Aorus Elite X3D Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870e Aorus Elite X3D Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870e Aorus Elite X3D Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870e Aorus Elite X3D Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte X870e Aorus Elite X3D Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 276,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MEG X870E Ace MAX Motherboard",
+      "latency_ms": 281,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E Ace MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E Ace MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E Ace MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MEG X870E Ace MAX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MEG X870E Ace MAX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 277,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "GIGABYTE B550M Gaming X WIFI6 Motherboard",
+      "latency_ms": 278,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE B550M Gaming X WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE B550M Gaming X WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE B550M Gaming X WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE B550M Gaming X WIFI6 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "GIGABYTE B550M Gaming X WIFI6 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 295,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Supermicro EPYC 4004/ Ryzen 7000 Server Motherboard",
+      "latency_ms": 286,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Supermicro EPYC 4004/ Ryzen 7000 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Supermicro EPYC 4004/ Ryzen 7000 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Supermicro EPYC 4004/ Ryzen 7000 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Supermicro EPYC 4004/ Ryzen 7000 Server Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Supermicro EPYC 4004/ Ryzen 7000 Server Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 284,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870-PLUS WIFI Motherboard",
+      "latency_ms": 282,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870-PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870-PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870-PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870-PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870-PLUS WIFI Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 722,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Aorus Z590 AORUS ULTRA Motherboard",
+      "latency_ms": 279,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Aorus Z590 AORUS ULTRA Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Aorus Z590 AORUS ULTRA Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Aorus Z590 AORUS ULTRA Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Aorus Z590 AORUS ULTRA Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Aorus Z590 AORUS ULTRA Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 285,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870E-PLUS WIFI7 Motherboard",
+      "latency_ms": 285,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870E-PLUS WIFI7 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870E-PLUS WIFI7 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870E-PLUS WIFI7 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870E-PLUS WIFI7 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS TUF Gaming X870E-PLUS WIFI7 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 291,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER Motherboard",
+      "latency_ms": 282,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "GIGABYTE X870E AORUS MASTER Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 281,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI PRO X870E-P WIFI Motherboard",
+      "latency_ms": 287,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI PRO X870E-P WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI PRO X870E-P WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI PRO X870E-P WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI PRO X870E-P WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI PRO X870E-P WIFI Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 282,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte Z890 AORUS ELITE WIFI7 Motherboard Intel Core Ultra 16+1+2 phases VRM",
+      "latency_ms": 284,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z890 AORUS ELITE WIFI7 Motherboard Intel Core Ultra 16+1+2 phases VRM",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z890 AORUS ELITE WIFI7 Motherboard Intel Core Ultra 16+1+2 phases VRM",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z890 AORUS ELITE WIFI7 Motherboard Intel Core Ultra 16+1+2 phases VRM",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z890 AORUS ELITE WIFI7 Motherboard Intel Core Ultra 16+1+2 phases VRM",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte Z890 AORUS ELITE WIFI7 Motherboard Intel Core Ultra 16+1+2 phases VRM",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 281,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS ROG Strix Gaming Motherboard",
+      "latency_ms": 287,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS ROG Strix Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS ROG Strix Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS ROG Strix Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS ROG Strix Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS ROG Strix Gaming Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 280,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Biostar B760mx2-e Motherboard",
+      "latency_ms": 289,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Biostar B760mx2-e Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Biostar B760mx2-e Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Biostar B760mx2-e Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Biostar B760mx2-e Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Biostar B760mx2-e Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 283,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock A520M-HDV Micro ATX Motherboard",
+      "latency_ms": 281,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock A520M-HDV Micro ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock A520M-HDV Micro ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock A520M-HDV Micro ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock A520M-HDV Micro ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock A520M-HDV Micro ATX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 282,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MAG X870E TOMAHAWK MAX WIFI ATX Gaming Motherboard",
+      "latency_ms": 279,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E TOMAHAWK MAX WIFI ATX Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E TOMAHAWK MAX WIFI ATX Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E TOMAHAWK MAX WIFI ATX Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E TOMAHAWK MAX WIFI ATX Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MAG X870E TOMAHAWK MAX WIFI ATX Gaming Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 280,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte X870E AORUS PRO X3D ICE Motherboard",
+      "latency_ms": 276,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870E AORUS PRO X3D ICE Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870E AORUS PRO X3D ICE Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870E AORUS PRO X3D ICE Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte X870E AORUS PRO X3D ICE Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte X870E AORUS PRO X3D ICE Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 290,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B550M DS3H AC R2 Motherboard",
+      "latency_ms": 287,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550M DS3H AC R2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550M DS3H AC R2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550M DS3H AC R2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550M DS3H AC R2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B550M DS3H AC R2 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 278,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 Motherboard",
+      "latency_ms": 293,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 292,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MAG X870 TOMAHAWK WIFI Motherboard",
+      "latency_ms": 285,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870 TOMAHAWK WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870 TOMAHAWK WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870 TOMAHAWK WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870 TOMAHAWK WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MAG X870 TOMAHAWK WIFI Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 284,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B550 Gaming X V2 Motherboard",
+      "latency_ms": 293,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550 Gaming X V2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550 Gaming X V2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550 Gaming X V2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte B550 Gaming X V2 Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte B550 Gaming X V2 Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 291,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock Z590 Steel Legend WiFi 6E Motherboard",
+      "latency_ms": 294,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Z590 Steel Legend WiFi 6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Z590 Steel Legend WiFi 6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Z590 Steel Legend WiFi 6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASRock Z590 Steel Legend WiFi 6E Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASRock Z590 Steel Legend WiFi 6E Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 284,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 ATX Motherboard",
+      "latency_ms": 292,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS PRIME B760-PLUS D4 ATX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 300,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte Z590 Aorus Elite Lga 1200 Intel Gaming Motherboard",
+      "latency_ms": 278,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z590 Aorus Elite Lga 1200 Intel Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z590 Aorus Elite Lga 1200 Intel Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z590 Aorus Elite Lga 1200 Intel Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Gigabyte Z590 Aorus Elite Lga 1200 Intel Gaming Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Gigabyte Z590 Aorus Elite Lga 1200 Intel Gaming Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 282,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "latency_ms": 287,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI X870E GAMING PLUS WIFI Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 281,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS PRIME B840-PLUS WIFI ATX Motherboard",
+      "latency_ms": 290,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B840-PLUS WIFI ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B840-PLUS WIFI ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B840-PLUS WIFI ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "ASUS PRIME B840-PLUS WIFI ATX Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "ASUS PRIME B840-PLUS WIFI ATX Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 289,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MAG X870E Tomahawk WiFi Motherboard",
+      "latency_ms": 283,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E Tomahawk WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E Tomahawk WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E Tomahawk WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "MSI MAG X870E Tomahawk WiFi Motherboard",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "MSI MAG X870E Tomahawk WiFi Motherboard",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 284,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi-details",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Minisforum BD775i SE & BD895i SE Motherboard AMD Ryzen Mini-ITX",
+      "latency_ms": 279,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "firecrawl",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Minisforum BD775i SE & BD895i SE Motherboard AMD Ryzen Mini-ITX",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "zyte",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Minisforum BD775i SE & BD895i SE Motherboard AMD Ryzen Mini-ITX",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "brightdata",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Minisforum BD775i SE & BD895i SE Motherboard AMD Ryzen Mini-ITX",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "apify",
+      "status": "skipped",
+      "category": "motherboard",
+      "title": "Minisforum BD775i SE & BD895i SE Motherboard AMD Ryzen Mini-ITX",
+      "error": "disabled_after_nonretryable_http_error"
+    },
+    {
+      "provider": "serpapi-enrichment",
+      "status": "failed",
+      "category": "motherboard",
+      "title": "Minisforum BD775i SE & BD895i SE Motherboard AMD Ryzen Mini-ITX",
+      "missing_fields": [
+        "chipset",
+        "form_factor",
+        "m2_slots",
+        "max_memory_gb",
+        "memory_slots",
+        "memory_type",
+        "pcie_slots",
+        "socket"
+      ],
+      "latency_ms": 281,
+      "error": "HTTPStatusError",
+      "status_code": 429
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "memory",
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "storage",
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "psu",
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "cooler",
+      "error": "HTTPStatusError"
+    },
+    {
+      "provider": "serpapi",
+      "status": "failed",
+      "category": "case",
+      "error": "HTTPStatusError"
+    }
+  ],
+  "provider_status": {
+    "ecb": "completed",
+    "serpapi": "failed",
+    "serpapi-details": "failed",
+    "firecrawl": "failed",
+    "zyte": "failed",
+    "brightdata": "failed",
+    "apify": "failed",
+    "serpapi-enrichment": "failed"
+  },
+  "coverage": {
+    "cpu": 10,
+    "gpu": 10,
+    "motherboard": 2,
+    "memory": 0,
+    "storage": 0,
+    "psu": 5,
+    "cooler": 5,
+    "case": 5
+  },
+  "created_at": "2026-07-22T11:31:08.231040+00:00"
+}

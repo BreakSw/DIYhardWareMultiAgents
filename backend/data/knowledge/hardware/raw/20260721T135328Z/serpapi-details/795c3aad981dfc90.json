@@ -1,0 +1,1444 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b0410b5cf3b75f228e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0IFAG4f-ISpfeo9Hm3xf6A/6a5f7b0410b5cf3b75f228e4.json",
+    "created_at": "2026-07-21 13:58:28 UTC",
+    "processed_at": "2026-07-21 13:58:28 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=33pfaruNC5uy5NoPrIC3qAY&q=latest+current+generation+desktop+PC+storage+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A12330227635384189951%2Ccatalogid%3A4518589843544086038%2Cgpcid%3A9610344649859355535%2CheadlineOfferDocid%3A5982621773464233642%2Crds%3APC_9610344649859355535%7CPROD_PC_9610344649859355535%2CimageDocid%3A11720163776047290303%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+storage+component+released+2025+2026+new%2Cmid%3A576462255869220646%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0S3ZXZld4NHhGeEx5Q0VLeGhQV1o2RTFkLXB6dGl3ajVqVzNmNkt2NXY4VlpEUE1KaHZoWmNKWG55RkpDYjFoejMwRG5oT3daVktYUkN2d1o2cHFfZkJqd1ZuaXlIM2UwWFF5Zm10dV9kS3h3UjQ0NmtSTUdVRWtfNmZWdFQyVjc1cnJLOXRKeHJjcHBJaEVINi1yODh3cUcwdVJLVnNLVXBwd28zR2pXV1RYY182UDg3UjZwd0hIZjN0cG9Ccm95X1ZFVGVqM0tXclBJNUV1SHJFQlQ1TXQxRWEwdjhnVE01M29jeFBVM29oU1Jvb1JDNjNiX2pqLU9JMGpWelhmcUlTNnMyd0MwZVVKTnpsWks0cXVFUHdIYXB6Ykptck04UmxFNTk4TS0xbzFiNTFxZkVVazBOdjFGNnl1NUpORUgxVjExZ2MSFzMzcGZhcnVOQzV1eTVOb1BySUMzcUFZGiJBRHNyOWZUNEdKVVR5bDBlWE5vU2RQTWdXMF82UVhRUWR3%2Cxsrf%3AAF5tSO5zaQs-TEdq_AG8HMXMLFB9hhVTTA%3A1784642271512%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/0IFAG4f-ISpfeo9Hm3xf6A/6a5f7b0410b5cf3b75f228e4.html",
+    "prettify_html_file": "https://serpapi.com/searches/0IFAG4f-ISpfeo9Hm3xf6A/6a5f7b0410b5cf3b75f228e4.prettify",
+    "total_time_taken": 7.3
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "v5eXlnicbVTJrqNGFE3yBVnkA3r_ZAmKwZDWW4AN2NiAmYphgzBVNjMYg41Rvub1IHWWnZayzW90L_IlWYTX667FLdUdzq07_vvTry84-5ui2lPcDfqKGR6M3hy67Yq6CMGntmvQkPQZ-kICiiIAWLIUQ3E0yfE8Q35K4j4um3OG_qIZkmM4nqMphqYJjiUo7nOKY1RmNTZOJ9ytm2RWY3gOsIBcLimapWfEmfyZVfEZfxd_IcklIEiWWi5Zgl4CnqAI6l2Hrl_BYRXxLElQ9GzHcwxPMQxDMX8cLGMd_Vj24TLg7vFVK-MeX_unZOg6XPdPZ1zjLu6zpn5C-Fr0Tft0WD1d-6abf_GUNFXb1K96HS5xfMXoCRCAeSXsU43vH87taxg_cPeuytBnZsnSLAAMw7E8AMT8eNfe-pf0_H4YSvzPy7l8Ga4vafmC649N3N5OybdffpOa-3p1va9Mt23h2iJsKvTDEtH6JlWwNDImAfdYSU1INsBy5GLviyxSSirO4QVOeqUXPdD9gIZlK7kSuYs3YeNV-s5TGMYq2nWQyw3OtbulMI1DoRgWfeAWOkAzXrKRT2GhXhAZDrFfbjXg3j1ZZsKKJBDkC5tKKTc3Cb3qbcdF0PL6k16FHpLNB8wTMqnVveFbO7xR82QjqrEEt3pGPox1SiVuckdQ3cNa30NfvCPATRZofUhaQUBywF2fZ-zwjoh0G-Y6kSj8Kql4xidDGSrwohG9n5SiqruQtDeqbJYm6fjmaHnSHeVpDSWC1ACfY1mE8924pHo7kupaz_XMB-1l7_KqprQeLtMqcUtHr7UHIrR7COHOqdurV1yJxIeyu0HbYM5pULR9UhC0W42y7hS0YxPjcZIz3ZHHsIAwnkQD5bKi1yWpu61huecR5tIYAs2WJ21KlDBNamiYEySxA40jKT5sd-a7cqhkqmht9Ifhha4uoR2EFnNci6UnMTcXWKbjIV-T55zA1HI9i3o_XrvTV0KQmd42mCk2rwtHQpdIULiN5mt7WeTTFDqO8Du55F5HCSxJhgQfk6YpMvzt5_8EafUsIBVK8eDYSBQW0oNdDaV3UBft4WiAKaKlFO4PmdANm2TRGAqmVyprq7ezbd7fvokiG88jgxe2Yx2ehbnm93jua_XOO4dyqo4-lnfH_LS4WFL-WI4Xpe0zx-fZjfCoGndd3zK1P3PM1cL45mixgh1znATbRych4HCvOHu6sDNtst0FjsZw9riGz3Nt2prd0SEg8uvGJB7GMToB0LLVeFjIBY0e1lilYLoI38_bN_p2_cxQ1GyYrfxqSm9A2olC4B1H897hLPC6yo8KqkWS4TAr_6Ja7S7uCE3I5eMOuVejdpuYvM3crmabh09uIvNwjMb12tPFix2si3mt-VFzVk9tKurK6lSERNITSg8Wh6gLHIls4eIgud5AiEeKW46VFo5WcOCzdRac97Q_KZE1XhN95TpmCsKhLAxP1Pdhcsx3ZZXhhSJPeR8NN2koxkmri8tia-Sj0HLCRC_3dXJhDa3ettEq2EsOvvXHk8EarL0yDGkb0wVhhBqnW87WHRYJld0Qm53_B1TT8Qg"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSqbminsN-Kdrq4Esrj5NnOhoAvADCuyy5yd8EbwLH2z98fU0a1CnXhExc5F7Vw-gIOa-qN2N_6Y0pglyj-ikFui_6rsEuyWkxfg-I3Ksvt4SILKWgvBegI",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ-vOfqbnOYDoYx53WMp7BxDvxDQbjhpuPXdKFdqGciZE-vvcNIZ_dzFOl6pJ2qzGQgAKTipCEEz0yqvm84CFCmifpdiC9A4K30OIirI8ObopRhRUij8IMjG_4",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSCBgOAS7JlLMDM8sSLwq1bcnkv9ofVslTGm2vaVdJ4Oj46-n27uC_sNNTTqAETocxpjXZwJO6bVV1bnwxrcRaeLglRhWtkGUgptdFw-yHBRXVfXd_nPeknfyo",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRO6YVPmu9enxPRyouTsfEimCe8usVfsKjMwInfkiKxm_KMsr73hcY1JEQJZH4Ppmkq7PF3P5b2NYYuZpYAeQfaX2MdKbcF-H6ViqydVVcYXcssVmOuMn1qPQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcROpvUFGmcQ2RsfcCMbt6pGWbQiTaHn5-80V9f8ehEpCqIQn-7Y_BUF4NLQ4bBeeH51QVym_nIUwvh3v3QTSQxR_f60dTpIxKD0lELlG9dDiY4ZPyIJDLDyM1E",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQgEMhlL9g4FYGGJ5fW4zsdP2OLFbXCb5K8EaTOQcLp7z73DGDOA9fCyEdVZFRsEIje7tZocqr3yQO67TW1APGPUZsBnHmT39um7XmDhTZ-",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcToFyjMvqqee_UmRqINiE-IxJRpvb8mwJv7excezptRX4vbIpLT8_JH8IazKUCfcl9kVIJuiCcx9nZ7J3sHXYJICJtBUS_I-KmGObXhm_NoTzE6dYaJ68O3qQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR_ApveHPBX7pjMCRi8zxTIqfiyOQk6NmvcixRX7Ncdy-gkcNhj_A8YzRH1r5_Dc4MB0_6t-Sw7iI8PNy4MNKyLPZy6YklEieiBD6-Vrn0O7RIF3nuIEYZC",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTEgl0T2VLjqfxghTV10vIF9cOuzHyYYZ9T9E04LrsXgXTtDqMXLAPIOsIe6TupuIWJucMvOXp6JQvWXzy3oFAAMF5QtMA7VQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTHvE22xlrWBHxagd02Bjo0fgrtwfKyHNtM0ldQBudUXz4AEM-ttXOEKFSww74ODApBLezg3czV-7jnYZX9p_3FARUH2qx1nDa0dfXfqRMY4Vb8h9I8BvvmnD8"
+    ],
+    "title": "WD My Book Desktop Hard Drive WDBBGB",
+    "brand": "Western Digital",
+    "reviews": 4491,
+    "rating": 4.4,
+    "price_range": "$1,010-$1,214",
+    "stores": [
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/wd-my-book-24tb-black/p/N82E16822234577?item=N82E16822234577&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-hard+drives+-+desktop+external-_-western+digital-_-22234577&source=region&negg_topt=0",
+        "title": "WD My Book 24TB Desktop Hard Drive WDBBGB0240HBK-NESN Black",
+        "rating": 4.4,
+        "reviews": 2235,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$1,089.99",
+        "extracted_price": 1089.99,
+        "shipping": "Free",
+        "total": "$1,089.99",
+        "extracted_total": 1089.99
+      },
+      {
+        "name": "WD Store",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.westerndigital.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd?sku=WDBBGB0240HBK-NESN",
+        "title": "WD 24TB My Book Desktop Hard Drive - WDBBGB0240HBK-NESN",
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Wed - Thu",
+          "Free 30-day returns"
+        ],
+        "price": "$1,319.99",
+        "extracted_price": 1319.99,
+        "shipping": "Free",
+        "total": "$1,319.99",
+        "extracted_total": 1319.99
+      },
+      {
+        "name": "Target",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.target.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.target.com/p/wd-my-book-24tb-3-5-desktop-hard-drive-wdbbgb0240hbknesn/-/A-1008951485?TCID=OGS&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=56-2&srsltid=AfmBOoqxvvmCZlOfq2NSiSebU09zk7vGZoM-MpRjuaKyjVZkSMxFurJcqlA",
+        "title": "WD My Book 24TB 3.5\" Desktop Hard Drive WDBBGB0240HBKNESN",
+        "rating": 4.5,
+        "reviews": 2594,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Jul 23 – 29",
+          "30-day returns"
+        ],
+        "price": "$1,213.74",
+        "extracted_price": 1213.74,
+        "shipping": "Free",
+        "total": "$1,213.74",
+        "extracted_total": 1213.74
+      }
+    ],
+    "stores_next_page_token": "GG1vOHica15aklmSk3pTJdxFwbdSwSk_P1vBJbU4uyS_QMEjsShFwaUosyxVIdzFycndaUlxflEm8-LcvHwuAFX9FEo",
+    "about_the_product": {
+      "title": "4TB My Book",
+      "link": "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd",
+      "displayed_link": "westerndigital.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.westerndigital.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "My Book desktop storage comes equipped with WD Backup software for Windows and Apple Time Machine compatibility to help make sure your photos, videos, music and documents don’t get lost. You can set it to run automatically to your schedule. Just pick the time and frequency to back up important files from your system. The My Book desktop hard drive also works great with AcronisTrue Image WD Edition software to schedule full system backups.",
+      "features": [
+        {
+          "title": "Type",
+          "value": "HDD"
+        },
+        {
+          "title": "Use",
+          "value": "Desktop, External"
+        },
+        {
+          "title": "Device Compatibility",
+          "value": "Mac, macOS 11+, Windows"
+        },
+        {
+          "title": "Interface",
+          "value": "USB 3.0, USB 3.2 Gen 1"
+        },
+        {
+          "title": "Wireless Connectivity",
+          "value": "No"
+        },
+        {
+          "title": "Durability",
+          "value": "Shock tolerance"
+        },
+        {
+          "title": "Read Speed",
+          "value": "200.4 MB per second (average sequential read speed with Windows)"
+        },
+        {
+          "title": "Write Speed",
+          "value": "93.2 MB per second (average rate with Windows)"
+        },
+        {
+          "title": "Rotational Speed",
+          "value": "5400 RPM"
+        },
+        {
+          "title": "Cache",
+          "value": "128 MB"
+        },
+        {
+          "title": "Data Encryption",
+          "value": "Yes"
+        },
+        {
+          "title": "Security Highlights",
+          "value": "Password protection"
+        },
+        {
+          "title": "Form Factor",
+          "value": "Desktop"
+        },
+        {
+          "title": "Design Highlights",
+          "value": "Desktop"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Data backup"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Media professionals"
+        },
+        {
+          "title": "Power Source",
+          "value": "AC adapter"
+        },
+        {
+          "title": "Power Consumption",
+          "value": "3600 W"
+        },
+        {
+          "title": "Removable",
+          "value": "Not made to be user-accessible, Drive replacements allowed (some dual drive models)"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Data Transfer Speed",
+        "items": [
+          {
+            "snippet": "the same file on the My Book and sending it back to the testbed was unsurprisingly faster at 0:32 (112 MBps sequential)",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.laptopmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.laptopmag.com/reviews/storage/western-digital-my-book-4tb",
+            "source": "Laptop Mag",
+            "title": "Western Digital My Book 4TB Review - 2013 - LAPTOP Magazine"
+          },
+          {
+            "snippet": "the Innov8 on the Mac-based Blackmagic Disk Speed Test: 177MBps read and 176MBps write versus 185MBps read and 181MBps write",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcmag.com/reviews/western-digital-my-book",
+            "source": "PCMag",
+            "title": "Western Digital My Book Review"
+          },
+          {
+            "snippet": "Years ago, before USB-C/Thunderbolt 3 speeds were attainable by consumers, USB 3.1 Gen 2 speeds were enough to work from, but",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          },
+          {
+            "cons": [
+              "Slow read and write speeds compared to SSD"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.androidpolice.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.androidpolice.com/best-external-ssds-chromebooks/",
+            "date": "1y",
+            "source": "Android Police",
+            "title": "Best external hard drives and SSDs for Chromebooks in 2025"
+          },
+          {
+            "snippet": "we found consistent write speeds in raid 0 mode using 2 gigabyte test files of 380 megabytes.",
+            "timestamp": "From 1:32",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTUjl2jRGVTNbvrtEw9QL4xbkmB1pxmE8x0cxtOfdLr1CNB9d9Y9195X-HK0EH_0H0XRk3Hr-ycufinK7p3qNKBVrah9fiSwrnVZ_jgkA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=oJ8XHZp7P7c&t=92",
+            "user": "Audioholics",
+            "date": "Mar 2013",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Reads and writes data faster than any other HDD"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techgearlab.com/reviews/electronics/external-hard-drive/western-digital-my-book-desktop",
+            "date": "9mo",
+            "source": "TechGearLab",
+            "title": "Western Digital My Book Desktop Review | Tested & Rated"
+          },
+          {
+            "snippet": "compatibility though it works with both USB 3.0 and 2.0 to get the full speed you'll need to connect it to a USB 3.0 0 port.",
+            "timestamp": "From 3:39",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSm6m1DUSF75hXH1HCDn0lcw9vL65ev2y_Tj0m7dtRgpdh0dlZQ13OgnLrR_mNfq6rodnz-vIsIgB4kdCL7xjVe2hFNlUh2PNw_amCe1w",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=02peC8kL7C0&t=219",
+            "user": "Reviewsinside",
+            "date": "Jun 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "which is their maximum capacity This one goes up to 26 terabytes.",
+            "timestamp": "From 0:55",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSwYaGcpQzpt_xi6OziaruPtRDdMmweUbY0-IO-EFCJ7ljGsEKX5mq5aMTCrvRK438GOUIDBecyxLEHqxGrj2OC0AodP0aQCXg976p3Trs",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=yk5wXULNg2Y&t=55",
+            "user": "goldfries",
+            "date": "Oct 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Fast",
+            "snippet": ":-) SPEED: The drive is faster than I expected. It took about 1 day to copy 5.14 TB to it via USB 3. Those were mostly music files 3MB to 60mb plus some videos",
+            "user": "Dave N.",
+            "date": "9y",
+            "source": "neweggbusiness.com"
+          },
+          {
+            "key_point": "Easy to set up",
+            "snippet": "It's very easy to use and easy to setup. It's really just plug and play. I created a share for this storage and I'm using it to storage all the data from all of",
+            "user": "Anonymous",
+            "date": "5y",
+            "source": "newegg.com"
+          },
+          {
+            "snippet": "But, compared to SATA and NVMe SSDs the My Book is slow.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techradar.com/reviews/western-digital-my-book-8tb-2020",
+            "source": "TechRadar",
+            "title": "Western Digital My Book 8TB (2020) review"
+          },
+          {
+            "snippet": "I tested the 8TB version of the drive and via USB 3.0 and it did well, with the sustained copy speed averaging some 170MBps",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-fall-2016-review/",
+            "source": "CNET",
+            "title": "WD My Book (Fall 2016) review: A good (if ho-hum) external hard drive"
+          },
+          {
+            "snippet": "however, illustrate that these 6Tb drives are not particularly speedy, taking about 12 hours to completely read or write",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgoughlui.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://goughlui.com/2015/10/25/review-western-digital-my-book-6tb-usb-3-0-external-hard-drive/",
+            "source": "Gough's Tech Zone",
+            "title": "Review: Western Digital My Book 6Tb USB 3.0 External Hard Drive"
+          }
+        ]
+      },
+      {
+        "title": "Design (Color, Case)",
+        "items": [
+          {
+            "snippet": "is mostly a shiny black fingerprint-attracting finish, and is designed to stand vertically, as a book in a bookshelf might",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgoughlui.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://goughlui.com/2015/10/25/review-western-digital-my-book-6tb-usb-3-0-external-hard-drive/",
+            "source": "Gough's Tech Zone",
+            "title": "Review: Western Digital My Book 6Tb USB 3.0 External Hard Drive"
+          },
+          {
+            "snippet": "But unlike the portable drive, which is available in six colors, the My Book comes only in black, making it kind of boring.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-fall-2016-review/",
+            "source": "CNET",
+            "title": "WD My Book (Fall 2016) review: A good (if ho-hum) external hard drive"
+          },
+          {
+            "snippet": "For those curious, getting the physical drive out of the enclosure probably involves destroying the case.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techradar.com/reviews/western-digital-my-book-8tb-2020",
+            "source": "TechRadar",
+            "title": "Western Digital My Book 8TB (2020) review"
+          },
+          {
+            "snippet": "it it'll take up like two or three spaces unless you put at the very end i I really don't like this type of design.",
+            "timestamp": "From 1:21",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRafLlVObU6PO9z86-JJHk29qh2zUJqUimKjtmFeEYM2_qmNyC3r-U2z9tzMQtAya0qdrwbwkaz9Z0r81wUvjlinszG8yCJLju7b_gP3A",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=Tf1d5EZ5B6U&t=81",
+            "user": "Babbling Boolean",
+            "date": "Jan 2013",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "black look to it very inconspicuous it's not going to stick.",
+            "timestamp": "From 1:00",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQC-6ecnlOZaylRZvTHAEwKOt_z08de0DQaqFd6WUk61b4MPS6rbVPmuo18s-ptp-yFqDSroSZBtQ5Sry8JCK5umPNbyn1LASbbJQrBjxg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=QS9pyyFFPVY&t=60",
+            "user": "What's your Forte ?",
+            "date": "May 2020",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Attractive",
+            "snippet": "Pros - looks great, tons of storage. Helium drive fully enclosed so dust is now a non-issue except for cleaning of outer case. I've always trusted WD drives",
+            "user": "Robert",
+            "date": "9y",
+            "source": "bestbuy.ca"
+          },
+          {
+            "snippet": "Its curved surface does look like the spine of a book, with a single white led near the center for power/disk activity",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fuk.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://uk.pcmag.com/hard-drives/18746/western-digital-my-book-4tb",
+            "source": "PCMag",
+            "title": "Western Digital My Book (4TB) - Review 2012"
+          },
+          {
+            "snippet": "Bands of matte gray plastic surround its vents and accent its face, which has a blue LED indicator.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.laptopmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.laptopmag.com/reviews/storage/western-digital-my-book-4tb",
+            "source": "Laptop Mag",
+            "title": "Western Digital My Book 4TB Review - 2013 - LAPTOP Magazine"
+          },
+          {
+            "snippet": "Since this hard drive comes with two separate sets of cables, it would be nice if it had some sort of case or maybe a way to",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          }
+        ]
+      },
+      {
+        "title": "Storage Capacity",
+        "items": [
+          {
+            "snippet": "In addition to the $159 4TB model, WD offers 2TB and 3TB options for $99.99 and $130, respectively.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.laptopmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.laptopmag.com/reviews/storage/western-digital-my-book-4tb",
+            "source": "Laptop Mag",
+            "title": "Western Digital My Book 4TB Review - 2013 - LAPTOP Magazine"
+          },
+          {
+            "snippet": "case to find out for sure, but there were many sources online that stated the hard drive is a WD Red with a 5400 RPM spin",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          },
+          {
+            "snippet": "and the prices are reasonable down to the 4 GB size a 4 GB version of this is $125 this drive is $250.",
+            "timestamp": "From 0:21",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQzMcPASAyJAPrW8dGfKc57a7wio5zwO87QiuhyrCy_1KQ2vbl_x3m400SI0z0bkAGsuVnffmB6HQmO_q2d_0nmHxdafT7tqOgGTYOVvDk",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=VnG1jDghTiE&t=21",
+            "user": "Tech Deals",
+            "date": "Jun 2016",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "now there is a 1 tbte internal hard drive 7200 RPM installed on this.",
+            "timestamp": "From 2:29",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQzMcPASAyJAPrW8dGfKc57a7wio5zwO87QiuhyrCy_1KQ2vbl_x3m400SI0z0bkAGsuVnffmB6HQmO_q2d_0nmHxdafT7tqOgGTYOVvDk",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=VnG1jDghTiE&t=149",
+            "user": "Tech Deals",
+            "date": "Jun 2016",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "to 3 cents per gigabyte for the My Book, much less than most of the drives we've tested over the past couple of years",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcmag.com/reviews/western-digital-my-book",
+            "source": "PCMag",
+            "title": "Western Digital My Book Review"
+          },
+          {
+            "snippet": "The Western Digital MyBook 6Tb external drive is based around a Western Digital 6Tb Green drive, placed inside an enclosure",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgoughlui.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://goughlui.com/2015/10/25/review-western-digital-my-book-6tb-usb-3-0-external-hard-drive/",
+            "source": "Gough's Tech Zone",
+            "title": "Review: Western Digital My Book 6Tb USB 3.0 External Hard Drive"
+          },
+          {
+            "snippet": "To make matters worse, the new My Book has a more expensive suggested retail price starting at $130 for 3TB all the way up to",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-fall-2016-review/",
+            "source": "CNET",
+            "title": "WD My Book (Fall 2016) review: A good (if ho-hum) external hard drive"
+          },
+          {
+            "snippet": "Most models feature a single 3.5'' hard drive mounted in an enclosure that is not made to be user-accessible, although some",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techradar.com/reviews/western-digital-my-book-8tb-2020",
+            "source": "TechRadar",
+            "title": "Western Digital My Book 8TB (2020) review"
+          },
+          {
+            "snippet": "models are available from today, and of course, there are lesser-capacity My Book models available, all the way down to 3TB",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/news/wd-my-book-22tb-and-44tb-external-hdds",
+            "source": "Tom's Hardware",
+            "title": "WD Injects 22TB HDDs Into My Book External Drive Lineup for Capacities up to 44TB"
+          }
+        ]
+      },
+      {
+        "title": "Durability",
+        "items": [
+          {
+            "snippet": "The covers have a smooth, matte finish that resists fingermarking and scratching.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.photoreview.com.au&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.photoreview.com.au/reviews/peripherals/storage-peripherals/western-digital-my-book-home-edition-500gb-external-hard-disk-drive/",
+            "source": "Photo Review",
+            "title": "Western Digital My Book Home Edition 500GB External Hard Disk Drive"
+          },
+          {
+            "snippet": "when I took that plastic wrap off that drive I could feel the static charge building up be careful always be sure to discharge.",
+            "timestamp": "From 5:57",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQzMcPASAyJAPrW8dGfKc57a7wio5zwO87QiuhyrCy_1KQ2vbl_x3m400SI0z0bkAGsuVnffmB6HQmO_q2d_0nmHxdafT7tqOgGTYOVvDk",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=VnG1jDghTiE&t=357",
+            "user": "Tech Deals",
+            "date": "Jun 2016",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Quality build",
+            "snippet": "High quality, reliable hardware and software. My perspective: Best available on the market My second WD My Book External Drive. Had the first drive for over 10",
+            "user": "57472591",
+            "date": "4y",
+            "source": "officedepot.com"
+          },
+          {
+            "snippet": "Even after all the stress tests, the hard drive was cool and I didn't notice it whirring too much either.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          },
+          {
+            "snippet": "Ruggedized drive features: keeping your data high and dry",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcmag.com/reviews/western-digital-my-book",
+            "source": "PCMag",
+            "title": "Western Digital My Book Review"
+          },
+          {
+            "snippet": "The MyBook backup device meets the demanding requirements for durability, shock tolerance, and long-term reliability.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          }
+        ]
+      },
+      {
+        "title": "Portability (Weight, Size)",
+        "items": [
+          {
+            "snippet": "While the 6.6 x 5.45 x 1.9-inch drive is hefty at 2 lbs., we appreciate its slick, subdued look.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.laptopmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.laptopmag.com/reviews/storage/western-digital-my-book-4tb",
+            "source": "Laptop Mag",
+            "title": "Western Digital My Book 4TB Review - 2013 - LAPTOP Magazine"
+          },
+          {
+            "snippet": "This is important to note because while the MyBook is technically portable, you want to be cautious about how you move it",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          },
+          {
+            "snippet": "by 139.3 by 49mm) the new drive is essentially the larger version of the My Passport, both in psychical size and capacity",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-fall-2016-review/",
+            "source": "CNET",
+            "title": "WD My Book (Fall 2016) review: A good (if ho-hum) external hard drive"
+          },
+          {
+            "snippet": "um so right off the bat it it does look very heavy.",
+            "timestamp": "From 1:37",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRafLlVObU6PO9z86-JJHk29qh2zUJqUimKjtmFeEYM2_qmNyC3r-U2z9tzMQtAya0qdrwbwkaz9Z0r81wUvjlinszG8yCJLju7b_gP3A",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=Tf1d5EZ5B6U&t=97",
+            "user": "Babbling Boolean",
+            "date": "Jan 2013",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "um and it's it's not bad it feels pretty okay in the hand i mean it's a external hard drive so you might be carrying it around in your backpack.",
+            "timestamp": "From 1:41",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRafLlVObU6PO9z86-JJHk29qh2zUJqUimKjtmFeEYM2_qmNyC3r-U2z9tzMQtAya0qdrwbwkaz9Z0r81wUvjlinszG8yCJLju7b_gP3A",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=Tf1d5EZ5B6U&t=101",
+            "user": "Babbling Boolean",
+            "date": "Jan 2013",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "drive note this does come in smaller sizes.",
+            "timestamp": "From 0:17",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQzMcPASAyJAPrW8dGfKc57a7wio5zwO87QiuhyrCy_1KQ2vbl_x3m400SI0z0bkAGsuVnffmB6HQmO_q2d_0nmHxdafT7tqOgGTYOVvDk",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=VnG1jDghTiE&t=17",
+            "user": "Tech Deals",
+            "date": "Jun 2016",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "It measures 6.7 by 1.9 by 5.5 inches (HWD) and weighs 2.02 pounds.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcmag.com/reviews/western-digital-my-book",
+            "source": "PCMag",
+            "title": "Western Digital My Book Review"
+          },
+          {
+            "snippet": "My Book drives take up very little desk space and are easily swapped between computers.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.photoreview.com.au&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.photoreview.com.au/reviews/peripherals/storage-peripherals/western-digital-my-book-home-edition-500gb-external-hard-disk-drive/",
+            "source": "Photo Review",
+            "title": "Western Digital My Book Home Edition 500GB External Hard Disk Drive"
+          },
+          {
+            "snippet": "The drive itself feels fairly weighty, and no doubt because it is a six platter drive with 12 heads, pushing the envelope of",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgoughlui.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://goughlui.com/2015/10/25/review-western-digital-my-book-6tb-usb-3-0-external-hard-drive/",
+            "source": "Gough's Tech Zone",
+            "title": "Review: Western Digital My Book 6Tb USB 3.0 External Hard Drive"
+          }
+        ]
+      },
+      {
+        "title": "Software",
+        "items": [
+          {
+            "snippet": "Software installation is wazard-based and straightforward.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.photoreview.com.au&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.photoreview.com.au/reviews/peripherals/storage-peripherals/western-digital-my-book-home-edition-500gb-external-hard-disk-drive/",
+            "source": "Photo Review",
+            "title": "Western Digital My Book Home Edition 500GB External Hard Disk Drive"
+          },
+          {
+            "snippet": "SmartWare lets you setup smart backup and recovery of your important files.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fuk.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://uk.pcmag.com/hard-drives/18746/western-digital-my-book-4tb",
+            "source": "PCMag",
+            "title": "Western Digital My Book (4TB) - Review 2012"
+          },
+          {
+            "snippet": "now as for the software built in uh Westerners does included a number of different.",
+            "timestamp": "From 3:29",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRafLlVObU6PO9z86-JJHk29qh2zUJqUimKjtmFeEYM2_qmNyC3r-U2z9tzMQtAya0qdrwbwkaz9Z0r81wUvjlinszG8yCJLju7b_gP3A",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=Tf1d5EZ5B6U&t=209",
+            "user": "Babbling Boolean",
+            "date": "Jan 2013",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Plenty of room to back up all your files",
+              "Easy-to-use apps"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.laptopmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.laptopmag.com/reviews/storage/western-digital-my-book-4tb",
+            "date": "12y",
+            "source": "Laptop Mag",
+            "title": "Western Digital My Book 4TB Review - 2013 - LAPTOP Magazine"
+          },
+          {
+            "snippet": "and the My Book here also comes with a license for Acronis backup software.",
+            "timestamp": "From 1:08",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSk3mfUQ7VI7VUWd7DOp1hOvGvZi6qlh_f4wPWlDaZp8Hg5h6lswRQIjlqlEgwjuah8HGtnpmd2rvqqjt5pZ8Y_uuubuDxI8OBzVqQdmDg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rHL0z7gXTxs&t=68",
+            "user": "Lon.TV",
+            "date": "Apr 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Software for device management",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          },
+          {
+            "pros": [
+              "Perfect for system backups and media storage"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pocnetwork.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pocnetwork.net/product-reviews/review-8tb-western-digital-my-book-external-usb-3-0-hard-drive/",
+            "date": "9y",
+            "source": "Poc Network // Tech",
+            "title": "Review: 8TB Western Digital My Book External USB 3.0 Hard Drive"
+          },
+          {
+            "pros": [
+              "Supports a high level of encryption"
+            ],
+            "cons": [
+              "Doesn't support USB-C"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-fall-2016-review/",
+            "date": "9y",
+            "source": "CNET",
+            "title": "WD My Book (Fall 2016) review: A good (if ho-hum) external hard drive"
+          },
+          {
+            "pros": [
+              "Drive and inclusions are packed neatly and safely"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgoughlui.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://goughlui.com/2019/06/02/quick-review-western-digital-my-book-10tb-external-usb-3-0-hard-drive/",
+            "date": "7y",
+            "source": "Gough's Tech Zone",
+            "title": "Quick Review: Western Digital My Book 10TB External USB 3.0 Hard Drive"
+          }
+        ]
+      },
+      {
+        "title": "Performance",
+        "items": [
+          {
+            "snippet": "Its performance was as expected, with sequential transfers pretty much reaching the speeds we expect, although the",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgoughlui.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://goughlui.com/2015/10/25/review-western-digital-my-book-6tb-usb-3-0-external-hard-drive/",
+            "source": "Gough's Tech Zone",
+            "title": "Review: Western Digital My Book 6Tb USB 3.0 External Hard Drive"
+          },
+          {
+            "cons": [
+              "Lacking performance",
+              "Not very fast"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-home-edition-500gb-review/",
+            "date": "18y",
+            "source": "CNET",
+            "title": "WD My Book Home Edition 500GB review: WD My Book Home Edition 500GB"
+          },
+          {
+            "snippet": "so you're not going to be getting this for its performance it's more about its capacity.",
+            "timestamp": "From 1:53",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSk3mfUQ7VI7VUWd7DOp1hOvGvZi6qlh_f4wPWlDaZp8Hg5h6lswRQIjlqlEgwjuah8HGtnpmd2rvqqjt5pZ8Y_uuubuDxI8OBzVqQdmDg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rHL0z7gXTxs&t=113",
+            "user": "Lon.TV",
+            "date": "Apr 2023",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Performs well",
+            "snippet": "So far it has performed well, as expected. My problems started with placing the order. First, I could not use Paypal to pay for the order. Customer Service said",
+            "date": "9y",
+            "source": "bestbuy.ca"
+          },
+          {
+            "snippet": "And, having an SSD in your system won't improve the performance of this unit.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techradar.com/reviews/western-digital-my-book-8tb-2020",
+            "source": "TechRadar",
+            "title": "Western Digital My Book 8TB (2020) review"
+          },
+          {
+            "pros": [
+              "Good high-performance dual-drive storage",
+              "High-performance and large capacity"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.storagereview.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.storagereview.com/review/wd-my-book-pro-review",
+            "date": "10y",
+            "source": "StorageReview.com",
+            "title": "WD My Book Pro Review - StorageReview.com"
+          },
+          {
+            "snippet": "With a good mix of capacity, pricing, and performance, it's a shoo-in as our latest Editors' Choice for desktop external hard",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fau.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://au.pcmag.com/hard-drives/46779/western-digital-my-book",
+            "source": "PCMag",
+            "title": "Western Digital My Book - Review 2017"
+          },
+          {
+            "snippet": "the drive in RAID0, which increases performance and lets operating systems see the two internal drives as a single volume",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/news/wd-my-book-22tb-and-44tb-external-hdds",
+            "source": "Tom's Hardware",
+            "title": "WD Injects 22TB HDDs Into My Book External Drive Lineup for Capacities up to 44TB"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "With a good mix of capacity, pricing, and performance, it's a shoo-in as an Editors' Choice pick for desktop external hard",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fme.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://me.pcmag.com/en/hard-drives-1/8206/the-best-external-hard-drives-in-the-uae-saudi-arabia",
+            "source": "PCMag",
+            "title": "The Best External Hard Drives for 2026 in the UAE and Saudi Arabia"
+          },
+          {
+            "snippet": "great about the My Book is that it is remarkably easy to configure and use, being the definition of a plug-in-and-go scenario",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techradar.com/reviews/western-digital-my-book-8tb-2020",
+            "source": "TechRadar",
+            "title": "Western Digital My Book 8TB (2020) review"
+          },
+          {
+            "pros": [
+              "Up to 22TB storage",
+              "Good performance (for a hard drive)"
+            ],
+            "cons": [
+              "Uses old USB 3.0 interface"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.macworld.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.macworld.com/article/668430/best-external-hard-drive-for-mac.html",
+            "date": "3w",
+            "source": "Macworld",
+            "title": "Give your Mac a low cost storage boost with the best hard drives we've tested"
+          },
+          {
+            "snippet": "Fast transfer speeds at 600 megabytes per second it outpaces many competitors in the same category.",
+            "timestamp": "From 3:00",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSm6m1DUSF75hXH1HCDn0lcw9vL65ev2y_Tj0m7dtRgpdh0dlZQ13OgnLrR_mNfq6rodnz-vIsIgB4kdCL7xjVe2hFNlUh2PNw_amCe1w",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=02peC8kL7C0&t=180",
+            "user": "Reviewsinside",
+            "date": "Jun 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Plus, WD has introduced a series of easy-to-use apps to increase the My Book's functionality.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.laptopmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.laptopmag.com/reviews/storage/western-digital-my-book-4tb",
+            "source": "Laptop Mag",
+            "title": "Western Digital My Book 4TB Review - 2013 - LAPTOP Magazine"
+          },
+          {
+            "pros": [
+              "Worked great with Android"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techgearlab.com/reviews/electronics/external-hard-drive/western-digital-my-book-desktop",
+            "date": "9mo",
+            "source": "TechGearLab",
+            "title": "Western Digital My Book Desktop Review | Tested & Rated"
+          },
+          {
+            "snippet": "While I like the look of the new WD My Book, I feel it doesn't have enough to justify its comparatively high cost.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cnet.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cnet.com/reviews/wd-my-book-fall-2016-review/",
+            "source": "CNET",
+            "title": "WD My Book (Fall 2016) review: A good (if ho-hum) external hard drive"
+          },
+          {
+            "pros": [
+              "Very high storage capacities available at a low cost-per-terabyte"
+            ],
+            "cons": [
+              "Requires an external power source"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fimagen-ai.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://imagen-ai.com/valuable-tips/best-hard-drives-for-photographers/",
+            "date": "10mo",
+            "source": "Imagen AI",
+            "title": "The Best Hard Drives for Photographers in 2026: A Complete Guide - Imagen"
+          },
+          {
+            "snippet": "The device is easy to use out of the box and it comes pre-loaded with the WD software utilities.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fmacsources.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://macsources.com/wd-6tb-mybook-backup-storage-device-2022-review/",
+            "source": "MacSources",
+            "title": "WD 6TB MyBook Backup Storage Device 2022 REVIEW"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 313
+      },
+      {
+        "stars": 2,
+        "amount": 93
+      },
+      {
+        "stars": 3,
+        "amount": 210
+      },
+      {
+        "stars": 4,
+        "amount": 701
+      },
+      {
+        "stars": 5,
+        "amount": 3174
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTHyvklOIvcgDsajF3tnHhFwzAvA2VL5HErZLMXuBUa9DabFj_g7DV0OaoTZNADpOVnaYZl5UIbwYw_wsWYcaRFrj7gxcSa_Q",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTPQaCmAeTK8GZNx4qkjepAkT-A-LlmyZDeaNWyEV_p8ugAAdh_d0LpzZEXkLZiUxOwGOz2D5GKRKwzYLFjbuLUlvFzQTuh",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSuS_UkzsrVMHsvXyCVQIFHMmgu-FNvURUZnngxwmur6igvVXwIHNXv_NGZRPt-VyFcZt9NYsISO6OaLzXXG272rPTt9EnT",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQCxJkAinoHNS_z6ADmm66o9C4lZGTx08ChlslCnAtgpng4vtlYqmwhhyLsWbemGLdtEHRMAAc7mSh2h2JtLkfPXT6-kpTL",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQKZ8ZxBSz-lXbg3I4ugrOfJkeY1CMi_wCq4VupIPfMXWfWcPk2N7OX-r9VCvNRP2waIW96yWoyYxITzF5oTi7-L_Qogea5",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSYOzqCbIemVL2k_ve7KMO4gWm5aT6qX6vA6xn_rwBGp2l8srx7HVT5Ignj8CWvs8IrvEsjSjdJkl-0gYmdSzHNVz33sfkmYQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSB-SkVx2o1a4UsQnjLFfxHppOT06_YvzmBASOPvntM1LX3NpwnmGkS_T_eKUKWIeOR99u_zD_IOVAzrNP3ES_BrH1w-4rGxw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ2TxpsQ6XB-NgbAjCcWZ2H4_35LLnvwC2sSdtDt-x_rAJN_8KyE-NgHEC78rJKGP5oe82_QZA-sWuVqqrOcwzQN7m625kLKA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTa40qzlpGHtcT4CteGDsYlHeG6og30lom19FBojxJEYkZpWNz587cccJoui7u5jhEIuVax-xIEp8DI57kObkYiq7Ykpuv5",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQJog0ls8-ALR2awVJfJIYCLRallLQDGhAc4IPVwF7AK9VkrtQd-XTkxtb97ZEX7ySV1M3sueD6_lUD7nHKwHOLTG4oPrlxmQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQBYJ-eAEa2xFk0duzlIM7_9pR68TkAkvFT4K8SU5A40sHDhA9Tjij7Z8s554a3o4ecyRM3Yek9ppvkG5gmbdi0jPXy55TRxw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQKLSfet4176P0gr8g-m77zNwtHjJhCJDwYXnY89NAGooIYapATkjDrVIoZhN5AzinLdYOmjqLPH0lcwPIcNUeq2D7H9tVKBw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRAeAfSGnkhDNtns-khfngB3GBTbaTENFhA5TGnpRBPJjrBIGiF3qFLwaGfLQJokPGf-HjEbbKtX1TkCQH2u39Q2fKi1V_Y",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSXdW1_fk3NX7ka4HyIYE98VpAmNHdJ9Mg3uuXIV6b4vlITw61wEZTvsjQUbiopaSsgpbpXf5CUYRe9nWoqKu6VpOm09fnZtQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcToFIW-VDDq-aIRrCCIG4cbGQ9p7QDTWCOYPIv9bIP9qDNbQnSWkZjfdSGd8tJjnS0KVE7A88r4CuO9qVggbbjQiP1QwPYB_w",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTLsGno54duV2j9NtrVUjEcM0BhhahCbQKYYnk5iWalWBNjtLKqnTXL4FwMQu9hqZwezeCelWBSz6-jt-9Eh67Gt9hPBhdwaQ"
+    ],
+    "user_reviews": [
+      {
+        "title": "Reliable Hardware Delivered to My Front Door 1Hr",
+        "text": "I have several WD Externals of various ages, they seem to last a good long time. Not sure if I have had an external fail yet. Works great especially if you have good USB 3.0 or 3.2 ports that can keep up with it and take full advantage of its high speed interface. I have a lot of machines for the work that I do and needed something fast and reliable to transfer a lot of files, store them, and then quickly return them to the server when it was ready after a recent equipment failure. Being able to order one up quickly on Walmart.com and have it brought to my home office in an hour is amazingly convenient and helpful. Where else can you get a 4TB external USB 3.0 HDD at 7:30 at night? Thank you.",
+        "user_name": "Chris",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1hXtrG6nkujjNdZM7vLTdEuq138okUuXQVT7CEaxlYwKXr9-1rcsqS9zYT2do_7DD2HQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTHyvklOIvcgDsajF3tnHhFwzAvA2VL5HErZLMXuBUa9DabFj_g7DV0OaoTZNADpOVnaYZl5UIbwYw_wsWYcaRFrj7gxcSa_Q"
+        ]
+      },
+      {
+        "title": "Problems with the drive I received (12 TB My Book)",
+        "text": "Unfortunately the drive I received here is a bum. From day one, it made loud grinding noises. My other drives do not make these noises. When I checked the drive, it didn't show errors so I checked the cords with alternatives I knew to be working well. The noise was not consistent so I attempted to load files. The files wouldn't show correctly as if they weren't loading onto the drive. When I closed the folder and reopened, they were there. This is also not normal behavior. I also noticed intermittent behaviors were the drive would load much slower than the rest (including another 12 tb with matching files). Sometimes taking 15-20 minutes (I'd give up on it loading and go do something else only to come back and it's loaded). It has caused disk utility to crash and I haven't had that happen before. DU only crashes or loads very slowly when this drive is connected. Sometimes the drive doesn't connect at all. I reached out for support but will likely have to exchange under warranty. I feel there is something not right and I have numerous WD EHD's, this one is not behaving normally. I have a concern of being forced into a refurbished option but my drive is only 2.5 months old and has had this problem since day one. I wish I'd gone with my gut for the exchange before the first 30 days. I am also concerned I will now have additional shipping costs despite that this drive was sent to me like this.",
+        "user_name": "Idon'tlistmynameusually",
+        "source": "westerndigital.com",
+        "rating": 1,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3Tyomi_4IV6zZOXBel91SkyWSdmWAas85lDHczFyipmH5NlEdtyFetYP1z31gx485xCQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Reliable Hardware Delivered to My Front Door 1Hr",
+        "text": "I have several WD Externals of various ages, they seem to last a good long time. Not sure if I have had an external fail yet. Works great especially if you have good USB 3.0 or 3.2 ports that can keep up with it and take full advantage of its high speed interface. I have a lot of machines for the work that I do and needed something fast and reliable to transfer a lot of files, store them, and then quickly return them to the server when it was ready after a recent equipment failure. Being able to order one up quickly on Walmart.com and have it brought to my home office in an hour is amazingly convenient and helpful. Where else can you get a 4TB external USB 3.0 HDD at 7:30 at night? Thank you.",
+        "user_name": "Chris",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1hXtrG6nkujjNdZM7vLTdEuq138okUuXQVT7CEaxlYwKXr9-1rcsqS9zYT2do_7DD2HQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTHyvklOIvcgDsajF3tnHhFwzAvA2VL5HErZLMXuBUa9DabFj_g7DV0OaoTZNADpOVnaYZl5UIbwYw_wsWYcaRFrj7gxcSa_Q"
+        ]
+      },
+      {
+        "title": "Quality Has Gone Down .",
+        "text": "Western Digital has been my go too drive for years ; I have 8 ( functional ) ones left . I find it strange though how my older ones are still going strong , yet I just had a newer one fail after about a year .\n\nI take acceptional care of these drives .I don't even use them for gaming ; their purpose is video storage and retrieval . Never have I dropped one , or even moved it without powering it off. Yet . Today . I heard the click of death . This is caused by mechanical failure . The platter on my drive is missalligned with the head , causing a clicking noise .\n\nCome too find out , these drives are notorious for sudden failure without any warning . Had I heard ANYTHING worrying , I would have pulled my data off of it and treated like a drive prone too fail at any moment .",
+        "user_name": "Johnathan",
+        "source": "pegasusselectronics.com",
+        "rating": 3,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2PZFLxiyJIY6J1s1ts36A9nMKrQakcEnnzT4E_n1A_j2oljkn1hPwI9awGTQzpjNFUFw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTPQaCmAeTK8GZNx4qkjepAkT-A-LlmyZDeaNWyEV_p8ugAAdh_d0LpzZEXkLZiUxOwGOz2D5GKRKwzYLFjbuLUlvFzQTuh"
+        ]
+      },
+      {
+        "text": "Value For Money:Great\nPerformance:As expected\nBest Feature:Build quality\n\nBeen using this for about a week and a half now, putting through its paces. Speed is what you would expect from your typical external HDD. I love the build quality, it's all plastic but it's not cheap at all. Feels real nice in the hands. The rubber feet on the bottom are nice and thick, ensuring air passes through with no trouble. WD software is easy to use as usual. Setting passwords and security settings with the app is seamless. Highly recommend this drive.",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSuS_UkzsrVMHsvXyCVQIFHMmgu-FNvURUZnngxwmur6igvVXwIHNXv_NGZRPt-VyFcZt9NYsISO6OaLzXXG272rPTt9EnT",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQCxJkAinoHNS_z6ADmm66o9C4lZGTx08ChlslCnAtgpng4vtlYqmwhhyLsWbemGLdtEHRMAAc7mSh2h2JtLkfPXT6-kpTL",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQKZ8ZxBSz-lXbg3I4ugrOfJkeY1CMi_wCq4VupIPfMXWfWcPk2N7OX-r9VCvNRP2waIW96yWoyYxITzF5oTi7-L_Qogea5",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSYOzqCbIemVL2k_ve7KMO4gWm5aT6qX6vA6xn_rwBGp2l8srx7HVT5Ignj8CWvs8IrvEsjSjdJkl-0gYmdSzHNVz33sfkmYQ"
+        ]
+      },
+      {
+        "title": "$500 paperweight.",
+        "text": "My drive has not updated on its own since March of this year. I do photography on the side, so I set it to automatically update often. I contacted customer service and both techs told me to do something via my laptop rather than via the drive software. It caused my laptop to freak out and warnings popped up everywhere. \"File-History-Core= Unusual condition was encountered during finalization of a backup cycle for configuration.\" This happened constantly, as well as: \"This Snap-in performed a non-valid operation and has been unloaded.\" When I finally managed to conduct a backup cycle on my laptop as I was told by the tech and attempted to load it onto the MyBook Duo, it refused to do it, saying that the drive didn't have a copy of my most recent files. Of course it doesn't, the drive hasn't performed a backup in 9 months. When I tried using the WD Discovery, it says that it is no longer supported and to install the new software via a link. When I try to load the new software, it says that my device is not eligible for install. When I click on WD Backup, nothing happens. Nothing. Not even a popup saying, \"You're outta luck.\" All those pictures in the comments of being able to see what the drive is doing in other reviews? Nope, haven't seen those screens since March. Since the WD software is no longer supported, you will have to do manual backups on your device and drop them onto your WD. Unfortunately, mine won't let me. Here's the link: https://support-in.wd.com/app/answers/detailweb/a_id/25298/~/using-windows-file-history-backup-and-restore-to-a-wd-external-drive",
+        "user_name": "Tara B.",
+        "source": "pegasusselectronics.com",
+        "rating": 1,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0tORLI2lNFTm4mStYuEyZ5GgWh_c-5XLzUnW6nj_5HjzO7_mGhx6Gpk6cTWiEZXcfngw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSB-SkVx2o1a4UsQnjLFfxHppOT06_YvzmBASOPvntM1LX3NpwnmGkS_T_eKUKWIeOR99u_zD_IOVAzrNP3ES_BrH1w-4rGxw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ2TxpsQ6XB-NgbAjCcWZ2H4_35LLnvwC2sSdtDt-x_rAJN_8KyE-NgHEC78rJKGP5oe82_QZA-sWuVqqrOcwzQN7m625kLKA",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTa40qzlpGHtcT4CteGDsYlHeG6og30lom19FBojxJEYkZpWNz587cccJoui7u5jhEIuVax-xIEp8DI57kObkYiq7Ykpuv5",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQJog0ls8-ALR2awVJfJIYCLRallLQDGhAc4IPVwF7AK9VkrtQd-XTkxtb97ZEX7ySV1M3sueD6_lUD7nHKwHOLTG4oPrlxmQ",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQBYJ-eAEa2xFk0duzlIM7_9pR68TkAkvFT4K8SU5A40sHDhA9Tjij7Z8s554a3o4ecyRM3Yek9ppvkG5gmbdi0jPXy55TRxw",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQKLSfet4176P0gr8g-m77zNwtHjJhCJDwYXnY89NAGooIYapATkjDrVIoZhN5AzinLdYOmjqLPH0lcwPIcNUeq2D7H9tVKBw"
+        ]
+      },
+      {
+        "title": "WARNING BEFORE YOU BUY!",
+        "text": "Not what I purchased. I immediately new something was wrong when i couldn't put any of the cables in and saw the holes not lining up. Further inspection lead me to the tiny motherboard with no scew inside it. And a 500GB sata drive and not the 14336GB in the product description. I was ripped off.",
+        "user_name": "Walter95",
+        "source": "officedepot.com",
+        "rating": 1,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0Ye23Vw4N8hsN6MHsvYdL3K7kLFmwP5dqQqJZI9RFm8JTC3QBsaii5X90CfQJlHAKx7Q=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRAeAfSGnkhDNtns-khfngB3GBTbaTENFhA5TGnpRBPJjrBIGiF3qFLwaGfLQJokPGf-HjEbbKtX1TkCQH2u39Q2fKi1V_Y",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSXdW1_fk3NX7ka4HyIYE98VpAmNHdJ9Mg3uuXIV6b4vlITw61wEZTvsjQUbiopaSsgpbpXf5CUYRe9nWoqKu6VpOm09fnZtQ",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcToFIW-VDDq-aIRrCCIG4cbGQ9p7QDTWCOYPIv9bIP9qDNbQnSWkZjfdSGd8tJjnS0KVE7A88r4CuO9qVggbbjQiP1QwPYB_w",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTLsGno54duV2j9NtrVUjEcM0BhhahCbQKYYnk5iWalWBNjtLKqnTXL4FwMQu9hqZwezeCelWBSz6-jt-9Eh67Gt9hPBhdwaQ"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "WD My Book External Drive for Mac and Windows PC!",
+        "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU",
+        "source": "YouTube",
+        "channel": "NeGI Tech",
+        "duration": "12:55",
+        "thumbnail": "https://i.ytimg.com/vi/ChZ3wMAlEvU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k8AXy1UizX5oEKG5tDg0m5j22KDQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTuYVUaJC-haugUb2ggzF1TzTvSLO2jYXUJQA"
+      },
+      {
+        "title": "WD 18TB My Book Review: Is This Massive External Drive Worth the ...",
+        "link": "https://www.youtube.com/watch?v=02peC8kL7C0",
+        "source": "YouTube",
+        "channel": "Reviewsinside",
+        "duration": "6:43",
+        "thumbnail": "https://i.ytimg.com/vi/02peC8kL7C0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n4OWa4uYRYnz9HNCDCZVzxERgC1A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQxOtcYvrGiT4NX_pNnKF0M-RlyHY-cKaV-aQ"
+      },
+      {
+        "title": "WD My Book External Drive for Mac and Windows PC!",
+        "link": "https://www.youtube.com/watch?v=yEmQf8mUSvw",
+        "source": "YouTube",
+        "channel": "FishBee Product Reviews",
+        "duration": "2:50",
+        "thumbnail": "https://i.ytimg.com/vi/yEmQf8mUSvw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ncb9VGnlGBdT4Ht97fvXrdz7I6og"
+      },
+      {
+        "title": "Western Digital 4TB My Book Unboxing and Review",
+        "link": "https://www.youtube.com/watch?v=Tf1d5EZ5B6U",
+        "source": "YouTube",
+        "channel": "Babbling Boolean",
+        "duration": "7:29",
+        "thumbnail": "https://i.ytimg.com/vi/Tf1d5EZ5B6U/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lGuCcIxzCibXY6KfrIRs20GxfLuQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRPuhJMx4brOPQmxZ5Axl8hlHS9jcuYqXg3nA"
+      },
+      {
+        "title": "WD 8TB My Book Hard Drive From Costco | Review & Speed Test",
+        "link": "https://www.youtube.com/watch?v=mQlWoFTyA4o",
+        "source": "YouTube",
+        "channel": "Greg Toope",
+        "duration": "9:22",
+        "thumbnail": "https://i.ytimg.com/vi/mQlWoFTyA4o/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lN5zuiSPyRDPozW6ADOLRcCwfqMw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTsExd4iBZAbC2LyZVFiWZyB0_JVH5E6D0MDw"
+      },
+      {
+        "title": "Unboxing the HUGE WD 8TB My Book | Best Backup Drive for Your ...",
+        "link": "https://www.youtube.com/watch?v=xwj5u5GWp8o",
+        "source": "YouTube",
+        "channel": "PulsarTECH",
+        "duration": "9:59",
+        "thumbnail": "https://i.ytimg.com/vi/xwj5u5GWp8o/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nv_6_vAXkKLmTS1S8JO2WyZnxN8A"
+      },
+      {
+        "title": "Western Digital (WD) My Book 8 TB USB 3.0 Desktop-Festplatte || Im ...",
+        "link": "https://www.youtube.com/watch?v=kYjnc54jpjs",
+        "source": "YouTube",
+        "channel": "Pascals Tech Check",
+        "duration": "15:58",
+        "thumbnail": "https://i.ytimg.com/vi/kYjnc54jpjs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kRtldl0NV3yqDvHyW8TXen82OEnw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRiw0CvJKVIKUsM56VViu8F6X-kZfoqyhd-FA"
+      },
+      {
+        "title": "Disco duro externo WD My Book de 8TB - Unboxing en español",
+        "link": "https://www.youtube.com/watch?v=qUdR8SSQBtQ",
+        "source": "YouTube",
+        "channel": "Tecnopirata",
+        "duration": "6:02",
+        "thumbnail": "https://i.ytimg.com/vi/qUdR8SSQBtQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m_Lx2tOUPamE0SUU3k2-c7HlonEw"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Warning about Western Digital MyBook and other NAS drives",
+        "link": "https://bcgforums.com/threads/warning-about-western-digital-mybook-and-other-nas-drives.9131/",
+        "source": "Backcountry Gallery Photography Forums",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fbcgforums.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 years ago",
+        "items": [
+          {
+            "snippet": "Security for your data is top notch and you can really lock down access as well as extend secure access to anyone else.",
+            "link": "https://bcgforums.com/threads/warning-about-western-digital-mybook-and-other-nas-drives.9131/"
+          },
+          {
+            "snippet": "The two things that impress me the most about this setup, and I am certain that other vendors probably offer equally good solutions, is that I can monitor the h",
+            "link": "https://bcgforums.com/threads/warning-about-western-digital-mybook-and-other-nas-drives.9131/"
+          },
+          {
+            "snippet": "While it is not perhaps the simplest of devices to set up, it offers a guided setup that will get the system up and running.",
+            "link": "https://bcgforums.com/threads/warning-about-western-digital-mybook-and-other-nas-drives.9131/"
+          }
+        ]
+      },
+      {
+        "title": "Beware of WD borderline fraud behaviour(non-US) : r/DataHoarder",
+        "link": "https://www.reddit.com/r/DataHoarder/comments/jp5fgy/beware_of_wd_borderline_fraud_behaviournonus/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 years ago",
+        "items": [
+          {
+            "snippet": "They run way hotter than my other drives.",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/jp5fgy/beware_of_wd_borderline_fraud_behaviournonus/"
+          },
+          {
+            "snippet": "The drive was reaching 60C(140F) temperature even during the current approaching winter season in my region that too during night time when outside temps are in",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/jp5fgy/beware_of_wd_borderline_fraud_behaviournonus/"
+          },
+          {
+            "snippet": "Theyre terrible 3 of them in my fractal case bring up all the temps to 10C hotter on all my other hard drives im not taking any risks.",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/jp5fgy/beware_of_wd_borderline_fraud_behaviournonus/"
+          }
+        ]
+      },
+      {
+        "title": "WD \"My Book\" 12TB USB drive hangs Windows 11 Pro on boot",
+        "link": "https://www.elevenforum.com/t/wd-my-book-12tb-usb-drive-hangs-windows-11-pro-on-boot.13295/",
+        "source": "Windows 11 Forum",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.elevenforum.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 years ago",
+        "items": [
+          {
+            "snippet": "However, freezes as well as non-system disk messages while booting are also common.",
+            "link": "https://www.elevenforum.com/t/wd-my-book-12tb-usb-drive-hangs-windows-11-pro-on-boot.13295/"
+          },
+          {
+            "snippet": "It's a little hard to understand, since you have to select the ``recovery'' UEFI option in order to get to the boot loader.",
+            "link": "https://www.elevenforum.com/t/wd-my-book-12tb-usb-drive-hangs-windows-11-pro-on-boot.13295/"
+          },
+          {
+            "snippet": "Legacy MBR installation, no TPM, no Secure Boot, no WDDM 2.0 graphics drivers, no SSE4.",
+            "link": "https://www.elevenforum.com/t/wd-my-book-12tb-usb-drive-hangs-windows-11-pro-on-boot.13295/"
+          }
+        ]
+      },
+      {
+        "title": "Acronis Failing on Backups to Western Digital My Book 8TB",
+        "link": "https://www.elevenforum.com/t/acronis-failing-on-backups-to-western-digital-my-book-8tb.27323/",
+        "source": "Windows 11 Forum",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.elevenforum.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "The GUI interface is almost identical to standard Windows partition managers -- at boot choose the correct keyboard, the the next default option and you'll get ",
+            "link": "https://www.elevenforum.com/t/acronis-failing-on-backups-to-western-digital-my-book-8tb.27323/"
+          },
+          {
+            "snippet": "UEFI, Secure Boot, TPM 2.0, Macrium Reflect X",
+            "link": "https://www.elevenforum.com/t/acronis-failing-on-backups-to-western-digital-my-book-8tb.27323/"
+          },
+          {
+            "snippet": "900 mbs (ethernet), wifi 6 typical 350-450 mb/s both up and down",
+            "link": "https://www.elevenforum.com/t/acronis-failing-on-backups-to-western-digital-my-book-8tb.27323/"
+          }
+        ]
+      },
+      {
+        "title": "WD Mybook 8Tb shucking",
+        "link": "https://forums.servethehome.com/index.php?threads%2Fwd-mybook-8tb-shucking.21991%2F=",
+        "source": "ServeTheHome",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fforums.servethehome.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 years ago",
+        "items": [
+          {
+            "snippet": "All in all I am pretty happy with the 8TB drives, they are 5400rpm but perform really well!",
+            "link": "https://forums.servethehome.com/index.php?threads%2Fwd-mybook-8tb-shucking.21991%2F="
+          },
+          {
+            "snippet": "I tried these in a few different whitebox systems as well as a Supermicro SC846, and experienced no issues whatsoever.",
+            "link": "https://forums.servethehome.com/index.php?threads%2Fwd-mybook-8tb-shucking.21991%2F="
+          },
+          {
+            "snippet": "On the bottom of the hard drive, you can find the pcb used to provide power and usb3 connection:",
+            "link": "https://forums.servethehome.com/index.php?threads%2Fwd-mybook-8tb-shucking.21991%2F="
+          }
+        ]
+      },
+      {
+        "title": "WD My Book overheating? : r/DataHoarder",
+        "link": "https://www.reddit.com/r/DataHoarder/comments/q0nn4x/wd_my_book_overheating/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "4 years ago",
+        "comments": 5,
+        "items": [
+          {
+            "snippet": "My apologies for this being poorly organized: I don't look super often so I'm not seeing the same things. When you see someone say they had a hard disk overheat, my question would be: what was the behavior you saw and why do you think it was heat related? Hard disks have loads of unfavorable performance characteristics that people might mistakenly attribute to heat but are in reality related more to, just, spinning hard disks have poor performance compared to the flash and SSD storage people are becoming more used to. Did the drive heat up when you copied a bunch of files to it, then slow down? That was because the cache filled and because small files are slow regardless of media, not because anything overheated. As far as I know, these don't really just run hotter because they are bigger disks. A 3TB/5400RPM hard disk should output about the same amount of heat as an 18TB/5400RPM disk does, I suppose the big exception these days is with heat/energy assisted magnetic recording, but as …",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/q0nn4x/comment/hf9sein/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "The drives will run hot regardless of size. I farm chia and having a small fan blowing into the case makes a huge difference. It would not be something I would want normally though. Maybe think about buy a SSD ?",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/q0nn4x/comment/hf9f98j/",
+            "votes": 1
+          },
+          {
+            "snippet": "I've checked reviews and a lot of people say this drive runs quite hot (~50C) and overheats quickly.",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/q0nn4x/wd_my_book_overheating/"
+          },
+          {
+            "snippet": "fixed my overheating issue",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/q0nn4x/wd_my_book_overheating/"
+          },
+          {
+            "snippet": "Use Command Strips or another velcro/fastener to just mount the thing on the side of the table/on the side of a computer/on the wall/wherever.",
+            "link": "https://www.reddit.com/r/DataHoarder/comments/q0nn4x/wd_my_book_overheating/"
+          }
+        ]
+      },
+      {
+        "title": "WD 18TB My Book Desktop External Hard Drive Noise : r/pchelp",
+        "link": "https://www.reddit.com/r/pchelp/comments/16w7xpk/wd_18tb_my_book_desktop_external_hard_drive_noise/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "Immediately transfer important files off of it, and once you do that transfer any other files that you don’t want to loose. That sounds like a failing hard drive (most likely a bearing or internal power supply, as that wouldn’t appear on most monitoring software or would cause enough disruption to trigger a warning, but once it fails enough to trigger a warning it would be too late probably). Either eject the drive and now and transfer data later (it could still deteriorate if you let it wait too long) or transfer the data off of it now.",
+            "link": "https://www.reddit.com/r/pchelp/comments/16w7xpk/comment/k2v995f/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "My 18TB MyBook makes clicking sounds - bought in june 2022 - the drive is still somewhat accessible and has been like this for weeks, but makes \"squeaking sounds\" combined with clicking sounds when in use. I'm currently transferring all data data to a new drive, but I can only transfer small portions at a time, as the transfer rate suddenly lowers to 0 and 355 kb/s - and sometimes the drive returns an I/O error.",
+            "link": "https://www.reddit.com/r/pchelp/comments/16w7xpk/comment/k3x2027/",
+            "votes": 1
+          },
+          {
+            "snippet": "It has 6,529 hours on in and it checks all good with crystaldiskinfo and WD software.",
+            "link": "https://www.reddit.com/r/pchelp/comments/16w7xpk/wd_18tb_my_book_desktop_external_hard_drive_noise/"
+          },
+          {
+            "snippet": "The noise is intermittent but enough during the day that it has become quite annoying.",
+            "link": "https://www.reddit.com/r/pchelp/comments/16w7xpk/wd_18tb_my_book_desktop_external_hard_drive_noise/"
+          },
+          {
+            "snippet": "I dropped it on the floor months ago and when I plug it in there is just a clicking sound and its not read by Windows.",
+            "link": "https://www.reddit.com/r/pchelp/comments/16w7xpk/wd_18tb_my_book_desktop_external_hard_drive_noise/"
+          }
+        ]
+      },
+      {
+        "title": "Can a WD My Book be used as an internal HDD?",
+        "link": "https://forums.tomshardware.com/threads/can-a-wd-my-book-be-used-as-an-internal-hdd.3090213/",
+        "source": "Tom's Hardware",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fforums.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 years ago",
+        "comments": 7,
+        "items": [
+          {
+            "snippet": "Since you do not already \"own\" this WD external USB drive and are primarily seeking information only on whether you may be able to use the installed HDD in that device internally in a PC should the need arise sometime in the future...allow me to provide another option that I believe you should at least consider, OK?\n\nIn my opinion, you, as well as most PC users, would be much better served by purchasing a USB external enclosure + a HDD/SSD for their backup/storage strategies rather than a commercial \"one-piece\" unit such as the WD unit you're considering.\n\nThe advantages of doing so are significant. First of all, virtually any USBEHD enclosure you purchase will accommodate both 2 1/2\" & 3 1/2\" drives. That's a real advantage. Then you can purchase the HDD (or SSD) YOU want, not the HDD that's usually installed in the commercial product. Rest assured the drive YOU purchase will invariably prove superior to the commercial product. And you can select whatever disk capacity YOU want.\n\nAnot…",
+            "link": "https://forums.tomshardware.com/posts/19253181/",
+            "top_answer": true
+          },
+          {
+            "snippet": "It's hit and miss with the WD drives. Some of them are regular SATA drives in an enclosure with a USB interface. Some of them have a special board on the drive which only has a USB interface, not SATA. The latter will not work as an internal drive as there's no way to plug it into a SATA port. You will have to search for the exact model external drive you're thinking of buying, and search Google to see if anyone else has opened it up.\n\nThe Seagate and Toshiba/Hitachi external drives are generally safe, as they all have a SATA interface. There's usually a translation layer on the larger drives to bypass complications due to MBR/GPT and 512/4k sectors. So you will not be able to access info stored on them via the enclosure if you mount the drive internally. Some of the My Book drives also have an encryption layer which cause the same problem. But none of this is a problem if you plan to reformat the drive after installing it internally.",
+            "link": "https://forums.tomshardware.com/threads/can-a-wd-my-book-be-used-as-an-internal-hdd.3090213/post-19241396"
+          },
+          {
+            "snippet": "My chief problem with them is their bulk although I have noticed the newer models are getting more compact in size.",
+            "link": "https://forums.tomshardware.com/threads/can-a-wd-my-book-be-used-as-an-internal-hdd.3090213/"
+          },
+          {
+            "snippet": "Another significant advantage is that your HDD (or SSD) that you install in a USB external enclosure can always be easily removed and installed in a PC should t",
+            "link": "https://forums.tomshardware.com/threads/can-a-wd-my-book-be-used-as-an-internal-hdd.3090213/"
+          },
+          {
+            "snippet": "And you can select whatever disk capacity YOU want.",
+            "link": "https://forums.tomshardware.com/threads/can-a-wd-my-book-be-used-as-an-internal-hdd.3090213/"
+          }
+        ]
+      },
+      {
+        "title": "WD My Book 5TB 3.5\" Ext HD (WDBFJK0050HBK-NESN) encryption/enclosure failure - My Passport",
+        "link": "https://community.wd.com/t/wd-my-book-5tb-3-5-ext-hd-wdbfjk0050hbk-nesn-encryption-enclosure-failure/166640",
+        "source": "Western Digital",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fcommunity.wd.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "10 years ago",
+        "items": [
+          {
+            "snippet": "However the access to the files you may have on the unit is not encrypted, unless you download the application WD Security and create a password for the drive.",
+            "link": "https://community.wd.com/t/wd-my-book-5tb-3-5-ext-hd-wdbfjk0050hbk-nesn-encryption-enclosure-failure/166640"
+          },
+          {
+            "snippet": "The Drive and it's contents are NOT readable in Windows Explorer",
+            "link": "https://community.wd.com/t/wd-my-book-5tb-3-5-ext-hd-wdbfjk0050hbk-nesn-encryption-enclosure-failure/166640"
+          },
+          {
+            "snippet": "The encryption is already on the hard drive.",
+            "link": "https://community.wd.com/t/wd-my-book-5tb-3-5-ext-hd-wdbfjk0050hbk-nesn-encryption-enclosure-failure/166640"
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Glyph Blackbox PRO RAID",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSanozioHCYKLREVtbsjsBLKdSIv-AIrTqr2g0GEdyzevOCqfpCywOYY7dciV11TGeH5eyTGXsuOvHkPyipfagBgEO4ZnR2WaygsV4jpAEHm7uPYoINOwOL",
+        "price": "$1,649.99",
+        "extracted_price": 1649.99,
+        "original_price": "$1,980",
+        "extracted_original_price": 1980,
+        "reviews": 20,
+        "rating": 4.1,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ACgMOHicdVTLzqM2FK667qKLvkJXUSRjMIHuSLgk_AGCubOJCHYCgQAhkBDUp_mnM9J0Oa3UbV9jZtFnKf-0u6pe2NY5Puf7js_lr2--f6X5HyzbHJO2N1eofyKz3rWbFXuVoo9NW5M-7XLyOwNZFkC44FnEChwjiCJiPqZJl5T1KSe_cQwnigLPCiy7YFiERA5-ymhCyryi1vFIW7lO37wwAPEcmA5GZBaQ4XkO_ZpfkhP9Vw9ZZhKJC4gARFBcIA69a8ntM7db7ZkJHbCCCESeFxBa8ALD_rzDlrz_H-X7a0_b52ejTDp662Zp37a06mYnWtE26fK6mhF6K7q6me1Ws1tXtxOPWVpfmrp6e9fSkiY3SmZw4vK28bOKPt6fmn-Y_hfv3SUnn6Yrx0PEs1MkIkICC9819-41O72eytf-9pqVr7T6UCfN_Zh--fYHpX7Iq9tjZXtN48sYOBfxZrnLgchq4nlYTmHxjCubdT21djyUxaBxiF-iOBA3IdNwXqhqtIi3ka83QeU9knGJSKHzBEYdHglv-RJr--LSCuK1HxDDU9Sdv87ioNCLrde1mDk9CMChORIDe51ju9hIgZnjorFI1bDxutkmcsQlmih7Hgd9hdypEqPIa5jIw23qnrjUj42oIBwBzJBozTUFKRexehICjMl4QsYYb2wgJoQpVRsON6yWlaVhiEM1TnIAcSmwCbNhYj_rzVHPI6jKdvDgIi_ucUCWwUXnfU_0rMBgHHZ5jTyTj1VpTIMMBKXEHoLhha7j2FcNlIw4srzN01HL4wE0iHrKMzrHx4mbhSFRsGqe_dFGpjacI0CK5NJkUVnefd8YLS3jHQVpftm0VJaADdDG8uMmCZgw9siVhLjE4fTHShZMuYC2J94OZeqowBiJFmdEK1tc-YNRLYHnS0_zEkcxUDgt15d4bT6nHHh-MdxjDY8-jMPk0j3MUK-xuwH2mAHqSyMpcfXLcGuPn4Gkos6xeBNJZbRRR_F4hScivkBd3Pr24imI0k_MQuB4bmqaqc64D2ldFzn98u13krL6kZUlovtK0rsOWUpz5cmv-jLY6fNmd7DguOeUzN_ucqnt1-m8tjTKrXTe0e8nx378yC5n-71Dp46hc8fFuzdvUzSPBCKkP0R3V46XQ0jVl8P5OL9i5fxcDFet6XI3FPm19LzUnlzdc707CeiGKb27RqJR1x5GyQnJUYoE2mnuliuc3Bgdb073Q_wVVfYnKOMRNxX_wsUQnG9rGzytw_4IYcNfht1cLTjyxMMlg-NV-rre7MyNPBkilv1qnq_Cy5jdofKylKLgMNiPluZR0F7CfcE2RLFctAqvOm5ekhYY0lk9vBDvZlVenTD3SdpWfP0MmfXe3h32gywH5vLqRHKBGCHc1yf92GRLU1sdixikHdA6ON_t28hVmMaf7xQv6MHywAqL4WLEA452Yi7n0WnLhaO2x8MtNVeea2cw7svCCpbmNk4P55fyktO5po7nbt_flb4YRqMqrvONdR6kRpBGbrGt0itvGdWm2a-ireLSe3c4WrzFOyvLUjYJVwArNgRzKievn6dsfid8fpqmz_HPvwEDWPPJ"
+      },
+      {
+        "title": "Glyph StudioRAID",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRGb8g1_aLc-EGvzLLANxGvIFhv_n1szp9drX_k329ikjfW7U-XWZZv48NCC7jI4pQf4pNflOvBHOLkec41kIE_LeS_-abrotQtLKJlULy8kyq9yvMU_C2lzQ",
+        "price": "$799.99",
+        "extracted_price": 799.99,
+        "original_price": "$950",
+        "extracted_original_price": 950,
+        "reviews": 25,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9uG5a3icbVTJrqNGFI16nUUW-YWsLEtVTIbsMC5j8wyYqRg2FobCxoxmsAHla16nW-osO5GyzW90L_It4bWy7FrUou4595x7pFv__vDTK0n_puk6CZtek9h-ZLXq2Owl-i76n-qmivuoS-O_IEXTgKJWHM3SPAN5QWDhpyjswry6fCszPM0ykOFZbsbNGIr5fCVhnKcl0ZOENJsqesOtWIGhAOD4FU0JUABzwz_SIryQ_-s8hDygVxRc0cKK51gA2fdN3H6hjtKJ5wRO4CGguRWkBQECwPx2NPXN6fu1D_eeNOMXNQ870naLqG8aUnaLCylJE3ZpVS5i0mZdVS-O0qLtqmZ2sYiqoq7KN1xDchK2JF5Q8zxvF7coyfPDpZ59_vkdufdFGn9mVxzDUSsWcmBFzxhOeF8_utfr5fWSv_bt6zV_JeXHKqwfSfT13c-oem6k9ikZTl3jjQmsfD9GGaLPOPCI3HHRTgV2Ue8tKkYqYnM8bblzcZUtGHTxRuPM0hitXJz0XcBF6AmtrVmEhZa72zhV7atm5GoXu4PhuLWH8Xrv5tdbjIRDXAR0jGNZQ5p7Lus28sybn6_bg1NrIRBo56bcQphjXG43gY0rXKpT7GBNR0GqAfbFLVgXo2tmwviFZP7TzzVgeXXvl_UU5IFiotoLHBja1JOxqHqyZqph47uDYOVk8egB9WllAIRlzGoyzhy8rnBuMDauKQfFNC6DFAOBslIw6Bvtru-urolwEtG15lHsTpUVN5bZMfRwbtI5tHfbmz17MHE-qnAPbWcoAgDl2M6RXeRPs7xavpMnGqUhUqDRBgKDZa03sNKFRc4SlKfqnIVf8F2M6hZnW6hOaDBRnoTOcDiD-qHbl444iqFvg8B0oKzS-B7sHGsL5mzk4BrLeWOWeFDLNXCwOGpF4AcAMXKqrM2dNupuYAbbipmzZ4l8gToOlHkOQ3OUtUEp24MTUCplrn8f2ib5AsQt21k6F1-ODN6lNLk9pDtMlLJdD1DOLndX_BWueIZjKBqy8-59jKoqS8nXdz-KSPqF3oixglHY21a8Fpdo5KQ-d4_Ksj6edWo6MeiKD8dUbPpdtKx0mTCSwlnK42IZz1_o9eJ0ssi8MGRp2ebxrds8zTOkWFZ5CvYxn4qzR7Yv51uyvJvoNq6Gu1x3qe0J3E4ci8rZlI9U6S4825qEPGw1lIltDJNoeXEi-jzpZPvAZFaqTpazJKch-Ka6wbOU-gzqknthAgrc2p0BRv18Siiq5orhuNxmTDyaQ3Glprv47bzxtP1mJrI0_Y2eSl4xXR8UelmLvnsejGdDUt9tCu-U0XWMdJuVvLti1i9hA1Txtj2_xE6rl04Vwsf82pRcNXpwdzKO59Ow2bja-m75m4yFvHeqLkpSX9eaLCVZAKIOyB21PJ4a30awxssjctwerM80vxoKNRhM_yikm9S_HBhvkk_m0Eaa5NjGlQr6PNPdtXYIovPtJS9SspS306079Q_UZ8Okltl9uddvg1jz4sSsDmV053S13NcnyT8gmzy6c6JzOmdJuo72IZMBPVB5zbT3Tr-M6PQRc-ll_n2Sf_4Dr0D1EQ"
+      },
+      {
+        "title": "My Book Pro 8TB Dual-Drive Tbolt2 Mac OS X RAID Storage",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTLdheKilsZdCuheddo8SrTRRQjhc1Cp4zCl7xTNG-BM3eHUe5yE2q8U-_4AuWztudrI1e_rPf8KBwdvR8WvrOyY6AM2wLrkS6ZN35lRFk78NTtabN883oFnQ",
+        "price": "$846.00",
+        "extracted_price": 846.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=m757PHicLVS5ruNGELQdO_BPbCQIGM5weDijKJI6Hu9TTAQeI5HiKZKSKH6N8Z53gXW4NuDUv7Eb-FvMt3AHHXR3VU1hGv3vD7-8kvxvhNpT1N00Ed-eWGuMbiuiq3D43HZNekuGPP2LgggBCFkGYcTRFMfzmPqcRENUNuf3NgNYimXmgJjiOAqzNPySkSgt85ropxPp1k3yPocwCzCNGUTzDEtBjmKoP_IqOpP_-4DHgAM8wwDA4HdOFr51af_bx-uNdM-vahkNpB8Wya3rSD0szqQmXTTkTb1ISV8MTbswxEU_NN1MuUiaqm3q97mOlCTqSbqAAOL3xCxq8vh4bmfRP2nIAoBYxMwuEMUCGvBvVZ5-wSxDz34YBHkOcZiH4K29D6_Z-fVcvt7616x8JfWnJmrvp-Tbj29Sl4jiPVmZbtt6aws4UnZJKEuxPRmm8DEkCnWxKxe6GxUGUyapUwpi2ExuNWAHrRQLaqEq8b6WU9cIek6KdqEGi8ktZMOpWxhCakOq8kpK66nVmWJtLJQE7lOleEd3yz6WMAqR5qpe6cUSgCayQveS2nG92vtSmKtO2CcuX4YbARObKq06XKVPyrVQa5DAUjS33BM5uweAt2Kwqy2gZbEkH8xigHG1WzuOO1p1--JLmpI4B-SUWTT7uEeAQ74sYBOljF1rD9U9oJTaac5ang7OSgxdSvVAWxFfu4eetgk9a-UooxKhAqfQiuwC9-7akz0nM013Z8ZBurUpAUfjNjAnDYSVDCJ_UNJAeiYby3LXWxiWWW0652hbyFKCtjgs57qfOpaym4L5PS6gnvpGDlwwAEvSNMfP-shPfh_77vQVCDIebJ1JzwbtbXJELnfxSp12db8aKaU4X33hV4rlaIaGiMIcwp-Spily8u2nnwVJ_IDWQrrzpOjm2OlKWEpPRryVvrFbtkasw-lIS5n3YuRCd9sky0ZXCC3uGHt3P9vm4wNaLY5Hm8z7S5a2YxnvbFoVPiKI8e7BO0Y5VXFA5H18OS2vlnR5suNVaYfcCXhmIzyrxl3X93w3nDncW4TcHTVSiGOOk2AH6Uk4cGRQnBe6sHN1st0lOY7hd9W1N0upj7CtmT0dQnDpNyZ46vHxBGHLVKOxlAs6fVpjlcHpKnyPd5y2Xc9AjNB3eC4G1fzlUNqvhIMfj-ajI_nB76rgWKA2lXQHi8F1Z7X7qAOqcJHjfer2eu02EXWfq13NNM-A2hxNIz6O67Wvra72YV3MRyM4Nufdqc1WmiKeihAkA1AGuDSO3cGRqNZbGpLr38AqRhw7Vmo4WgeDz9f54fxCB5NytMY-0UTXMTMY3spC91faS5jEl31Z5WSpyNNlON7u0q0YJ7UursutfhmFlhMmmn2pkyujq_W2PYqHF8kh9yE-6YzO2KKuS9uILoAeqpxmOVv3tkxQfk-Z_Dwfg9M__wGQvr_5"
+      },
+      {
+        "title": "LaCie 1big Dock 24TB Hard Disk Drive",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRIFLrq6ER0PwYcpqIjtWjcxCYmfMoAHFsF0nxQ90me7I11U2HcNxjRof3tcDE-3Kv1U28pG0QPzh4PXinRXeii2LTzNwQ_1kirPQLOYkd0DpSa1tM2jGOOlQ",
+        "price": "$1,209.00",
+        "extracted_price": 1209.0,
+        "reviews": 3,
+        "rating": 2.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hIL34XicdZS5zuM2FIWT1CnyEqkMA6RWK50syfImStYuNoYW2pa1WostC3mafzIDTMpJgLR5jZkiz5Ey8qRNWBAgv3t47r0g-dc3P7yR9A-ark9h0yOJ7Z8sqoxmI9E3MfhYN1XSx12a_A4pmgYUxXM0Sy8YuBAEFn6Mwy7Mq_MLLwADaR6wAi9QFBRYjhY-XUiY5GlJ9NOJNHIVp8lvHM0LAidAFgKKh-wUDH9Ni_BM_sWTDrIsw0CB53iBXQiQf9ck7WfGkI4QUixgaX6Ck_2CBzwHfjZMXT7-D3x_60nz_KzlYUfabhb3TUPKbnYmJWnCLq3KWULarKvqmSHN2q5qpjRmcVXUVfmKa0hOwpYkMwpQ7GviZiV5vD_X8ave__B7V6TJJ5bnGI6iWHbBTY0A0-Jdfe_eLue3c_7Wt2-X_I2UH6qwvp_iL9_-rdxjSWpi6eDUtSubwFbMjW2vbgcAJR9AhFyE4lHrkhE7Ti5cAphBs6y3TtYhKxOyMHM9W2UYrByemrcKEtqk3BJdtCsegkxgwnVu2FTSmhn2iO-69jobAo-1LRWxCMDUKy87y41hpIKB-DVMMrTBJZ7YahcDtENe1yA5l8PVdkh8jT5k8O7DWtJgRgUgoG2QZ6EiWCRHne5vnrFrrjxnGGIquVqrHHtFPkayMiK49PbOdmu7Zotk_PCB60dq9YhAbcUgppOsziIFyaaHN45TDwEFZcsZ1pga7DBHhiYHrJajIPCE3qUV1rURwAUOsIKwpgy15VwO0dX0tOyyc9SWTUaUxRbUnNENsL1UYuiG2E0MNxOkg41RUqxUf8Qplg8UVuDeWi-fppw3nrKamnQe9y6W4mLIHVvroqK1VkAbExVfEjVvzNIdtHIJHFd8olcOQGHUdLs01-ipe9jE7qU_eJ3lFhtKdwXOc2tGu8ZP5C9XoWpmXoGWvwxtc_oMxBXbWTqXnA3GXac0ud6lGzxty3Y5QDU73zzxJ8gvGI6haMguaPZDXFVZSr58972oSD_SsphsXSXsbStZinPlyUl97hnbeW1EOjUeGeXi7o1UbPp1PK90lTDSlrO297N1ePxIL2fHo0WmV0Hmlm0ar9Omah7hdHe3D8E28rGIfLLaRdfT_GYq1yc_3NS6S21f4Nbis6gcubyn2-68YFuTkLuthSqxD8MoWn5yEoMF6VR7z2RWqo2WMyfHAX91ld3JSnvguuR2DKbAtV0fwFOPjieKqrliMOarjEme5lBcqPEmfh0vHdrIk5Cl6a_yVPKL8XKnlN1SDLxoODwakgZeU_jHjK4TRbdZyb9tzXoXNkATr6tolzitXjpVCO_TblNy1dOH6-PBiI6DLHtoebMCOWPhwj9W5-2pviyRKp0yDOIOqB01N45NYCuwdueG4ng9WEb0gh8KDQ9mYAipnAbnPeOP6tEc2hhJjn24ULjPM91boj2Oo-suL1IyV1fjtTv2d6XPhlErs9t8o18HsV6II8Pvy_jG6Vq5qY9SsFdscu-ik87pnCXpurIJmQzoWFsg0944_Tym03vCpefphzn9-Q-e3uxy"
+      },
+      {
+        "title": "Oyen Digital HDX Pro C USB-C 3.2 Gen 2 External Enterprise Hard Drive",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQWFgj4q7Cthx4zWF8ijkz3m80seHFsordq-IwJMQcvo77w7q8GcFjMJFiqiFP4m2YVRcFIZZSX90Pjdng7m5Yw371LTqmlEm2zi25ywL-HlFVYN85l0U0_Aw",
+        "price": "$859.00",
+        "extracted_price": 859.0,
+        "reviews": 3,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f5WB0HicbVTLrqNGEI1mnUUW-YVZWZZ4NBiyAwzY2DRvMGwQj7Z5gzHYGOVr7s2MNFlOImWb35hZ5FvCvevplmrRp06dququ_u-nX15Q_g9JdueoH6FAjU8Ktnq_F8gr53_p-jYdkyFP_8YJksQIYkOTFMkAnGFZCv-SRENUtZd3mGI3OL4BBMFuaIwlKYB9zVCUVnmDtPMZ9ds2efdjMYKmGZbGaIYGDCBp8GdeRxf0jv_FUhucxQAF2A1D4zi2mNc-vX0jdCHcAHzZGEtRBEUtbJYAv-umtg1_jH26jqh_flOraEC3YZWMfY-aYXVBDeqjIW-bVYpu5dB2K11Y3Ya2X5JYJW3dtc2bX48qFN1QuiIwgnoz9KpBj0-X7i3NH8i91nn6ldrQgCaW8kiawQnAMOC1uw8v2eXlUr2Mt5esekHN5zbq7ufk-4dfxfaxFW4PwXC6zt2amC2x58gxD1FdtY6rlEmhGImT8THOSrZjeqimBL_xKWcn9V7F4Q4OVbPhpRhPjVSuIkvMes3JBiR3oiNJrUkmT6fqji7hgwDv3LSGduKx7dFLgSNP-9ShPHVndhHpkFGhLJdpmsibCnVWsaRk60CkKLWsDNNlNUhUOiQ7zZVx2sfYrVd1hV9xwC5d03ezCpadbpQwCEj-keDpM5IYAtaKZ4rD7NlKbRZKkTT7Gbqm4NapYHjB3XPdwfVY25InwxazW-IpGCREEEgMgJiE-YQiJbYSRE46Ia8CkVRpEcmX3gk2LiE-LDshYBnMS8_6oGIla5cejDLtbZIPYk86JPVjimyDSnCeiuZMPnq4kTrSFdpQckX2ppIKUAkHg2J39Goc-s0F-JUrBU-88KQ9iMkWc6vLHMuDDItg8JuUjklIuV43OpjSIVu1JEydUznIlv73ZuNOasNjjss9YR34ASYCOVd4cwefmhdYVsU3hvMYVGfAYxEqyJM6uA1yu1AyE2N3ScObf0y3_vwN4yRqsLSNsE-u8KFLTlJa52mXpVaI76WcwtvLb_iGATQgSJxiSPpz0rZljr5_-JkThY_klksVV4xG20p5bi0-aWGsPF1Zd3qsEXMIxMw96jnXj7tk3WoyAoJCW8r9YhmPjyS_CkMLLQOD1pZt6m_Rlmoe0fLWlQdr69VcxyckHeLivL6aYvHcTFe5G3L7xNI77lm3zra558pwYaibidDdViMZ2cY0c9YpPXM-gwbZPoLSytXZctYonIJ31a27SKmPoGvoAwgIrLjtDOypxeGZIDq6nvS1VIL0aU51RsxX7n298eB-uxApknyn58KpnrM7IR54zvfiyXj0KPe9vj6FJdmlomZTwumqmN0h6jGVK6T4kDo3rXHaCL8vp31Dt88TvgsNPQ6n7daD_NXytyWFM6ewvSjnLuOhLJzLAEsGTB6ItR72vi0u87XWRccbMT4mmc1Uq8Fk-jqbb3P_cgSnWQ7N6ZZAwbGNjAjGqtQ8Hh6DJC4OVZ2jtSzNxRCOd3Esp1ltyut6rxUT1zHcDDbHJrnSmtrsu1Dwj6KN7kN81miNtgRNE_cRKDEtUBlo2ntnXCdkfk_p_LL8Pud__wfSvvOd"
+      },
+      {
+        "title": "Buffalo DriveStation Quad USB HD-QH",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQbaaiOnuqgFoP8rNmx-Bhn-CxzUIo3P-O9L04o1-OAG47QKvyJB3seDxuvge2ZD2g8-fgj37SaWBUB78mtJDifIcqtB6aVhtEtgGLAJRUq",
+        "price": "$1,374.99",
+        "extracted_price": 1374.99,
+        "reviews": 5,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bbhggHicdVS7sqNGEHVt7MCBf8GRSlXM8HYmYEDiCpB4DIKEQjAIxFMISYjy19z1btU6XLvKqX9jN_C3mLtO7Qk6mO7Tp_vUnPn7ux9eSfEnTXdZ3N9Mmb09WbPd9RuZvqyCT13fprdkKNI_AKRpCkKeo1laYIAgiiz4lMRDXLWnIv1dFBiKYgDD84LIQooRIfM5J3FaFQ2xsoz0SpvMZQyAM5ShIQAiA3nIC-C3oo5P5N80T9GQnfuztMhDwFMCK77v0-sXZidHgBIgQwkUDwSWZ2hKBCz4ZWdbSvQ_yQ-XG-mfX4wqHsh1WCS3vifNsDiRhvTxULTNIiXXcmi7xU5eXIe2n8dYJG3dtc1bXU8qEl9JuoAUZN8Ct2jI48OpS97U-A--93WRfmZ5juEgy9FQnBdgGJF9392H1_z0eqpeb9fXvHolzcc27u5Z8vXdj6h9KPL1Ie-9rsOKTTmluPcdwHpepXta3ljqCSRNXhBFakJXokNfGG1FOphqOx0rrHpKHqe0Wtua_WJrohZUweRQAWMjVU68ChiopENknl00mo4fsq5nYlOtWGNKM6MOHUwBHcPwZuFgcA-pRmY9LMVU_Sp8Sd2KNv2qwWhwQ4xdR827WM0fiS9C26tK82xOpnoaj143HKAoG2esx1B9OlPlO3SnkxK0IWL1eUYuVTe0g7owBVKcaOM6pPLY90X5iMYH1kTfVvNLgEXVQyFr-5iKPdCHamrhgwntc7oNSj3DyGRjr4sJCjFB-QPX1dmRKdZQA3rrp5SndrIBxTU5YD2oVArX6SY-dMasDRP7J9ZZhxqm0RS6yUBwut7Dqtt66t1AaLRwSCVwADZI29jTTQOkMsEiE6LNwzjnVjKpdFxv2D2QnD2Vt0EZWgGdgqQSHJWa1dTCPNWq3m7waDQS5eHV06zDIKQQoxW6ZK_Np-WHdnyupuAshQSXLIaVG1ehltRiZmh5jxEY4smWfh2vffaFWqns4Fi8vEku5mOneknpZOM6T50IbNSCBe3pZ8ALDMdAGrACzX1M2rYsyNd336-Q_BOtrFIdo_jmOqm0WqInJ98qf6cvu93RglPEoBxvd8Wqv62TZWtphJF1ztHvJ2f_-ImWFlHkkNkxZOm49u6t27zNI57NqT9Ed1dN9fFA1JfjOVtebHR-8uNF64bCPYjcevWsW09p7oU-nAT2ahNyd41YI-5-nFbOIc1WgUAGzd0ypVMYk-MtSTSG31gVPFMZj7BruBcmhNT5ut5TT-sYZRB2XD3ulmrJpE97rHM4XVbfzhvO3CgzkKXpb_BCPtRTfofoRVoF_nHcP3pSBH5fH6KS7lJkuax8uOh29xL3lLE6q8eX1LtajdfG4D7f9g3XPg9gHe13x2hUFN-ULk6glCwQDlF70rMul0xNzsr5zQyUNsDlLuoDF4EOL3fI82-UdKQFfqyNcLSDnVgoRXDaModJi-zxmpiy5-7z2XRVafmSuQ2T4_mlqguy1NTpPES3O7qV42Q05WW5sc7jqhNWE8Nvm-TCWUaz6SI52CKX3IdjZnEW58iWhTYxU1JWaAim7W682zKhi3vKFaf598n--gdOIPLp"
+      },
+      {
+        "title": "OWC Mercury Elite Pro Quad RAID Storage OWCMEQCT",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSJW9_kBhTih6BUReeOh5VSgcZyYAHJN89c5QwJgiCPqd7ftgjc5wGwgqz79sSDIDXPsJaqATeLDCvpOUKfX30R8upOQkT0XEfTyX79OUGAW7Uo1XivvWWrkg",
+        "price": "$1,938.08",
+        "extracted_price": 1938.08,
+        "reviews": 14,
+        "rating": 3.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8YrkRXicbVS7zqNWEI62TpEir7CVZYlzuNikAwzY2FzMndMgLsfmDsZgY7RP8292pU25iZQ2r7Fb5Fni_1fKnZGmmG---WaKmX9_-uUF53-TZHeK-lET6PFBa63R7wTywgVfur5Nx2TI078AJEkCwhVD0uSaAmuWpcGXJBqiqj2_wZAAa4qFEDDsE6cokv2a4Sit8gbrpxPuN23yWkewFAEZQDMrYv00lqDYP_I6OuP_cUBBhiUpwNIsy5KAXK2Jj316_QYNIYTk05kVZBiGpkmCoQnqg2Hqm_DH2KfLiPvHN7WKBnwdFsnY97gZFmfc4D4a8rZZpPhaDm23MITFdWj75xSLpK27tnmt63GFoytOF5CA9GtgFg2-fzp3zzn__IHcxzpPv9IrhmIgxQASrGjIAor42N2Gl-z8cq5exutLVr3g5nMbdbdT8v3dr2J73wjXu3B0us7dmIRV8UYsakPQ8H0wmwyCWabLIMNO1qSe1iBP8ZxapGKRnczatR2nE1yo3B1bGs0C6bqbjrZb8dhPm8hlDReC0iLVOZGng1srfCppbkQiKvK5ARHd3nNoyrKzOSW1S2KjySq0o-WxvAqkwnHdrVtK0LFRo7mSEc_V1nSQbG8z1yJMNS27ydtmV63h7vbGDXR_94g8SUs8VoudNAj8To9K9q5utUIXJzEgXDUCO4CdITrW0sP1tMgH1cGBmmwVR0KtO8GuWEltUOSUzuzIkhaD7mL5aAxqc3R9t7IAchMRDbhAAIlaYc3VFc0cqRUJaVXcPSnQ3p6lRwRMz3Q7FG1cRm2y1q4q-eCBrVkPejRLO1yDzPYrwgHKRSUUOpIl9eBljEukR6soKWxXtA_ZKoaKrdmSbUOziSCYHVepjw0y1BpJsa81CRQtiVDnVEZZKle92biT2vCE43IPrUYBIkRKzhXe3GoP3UMmbpSbXSaz7qRd7B0pxy5JTTIFLF-puKpqS-L536drf_pGcBI9WPpK2CUX7W5ITlJap2mbpVYIdlJOg_b8G1itKYaCJKDXJPM5adsyx9_f_cyJwntyw6WKK0ajbaU8txQfjDBWnqEsOyPW4RxSYuYejJzrx22ybHUZU4LCWMrtbB3v70l-EYYWfh4MXlq2abx2e25zjyBNK3fWNqq5jn0s7ePitLyYYvFYTRe5G3LbZ5kt96hbZ9PccmU4r-mrifHNViMZ28dp5iw_PXHBGg-yfaBKK1dny1nicEJvqhv3KaXeUdcwewpBorhuj8RDj8MThB1TT8ZSKqn0YU51BucL92avPG23eRJpknyj54Jfz9kNinueC7x4Ot57nAdeX_thSXapqNu04F8Us9tHPaFyhRTvU-eqN04bgdsz2zdM-_DBNjwacThtNp7GX6xgU9Jg7YftWTl1Ga_JwqlERDIQ8gCXRtgHtgg6d2mIjjcSfEyuV1OtoskMDDbf5MH5QPmzHJrTNdEExz5mEI1VqXu8dkBJXOyrOsdLWZqLIRxv4lhOs9qUl-VOLyauW3MztTo0yYXR1WbXhUJwEG18G-KTzuiMJei6uIuoktCRutZMe-eMy4TMbymTn5_f5_TPfwTV9e4"
+      },
+      {
+        "title": "OWC Gemini Thunderbolt Dock And Dual-Drive HDD RAID External Storage",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSYGvC6FvQphYd4DOteajo4HYlUNh49s1cGI3EmtnmUUCl3trfmoSQrrtv1ITmdaXPl2Lgvu1x6hbcSvfXx1588U5sWVOUtLjYEBxT3TRVTCO7Dk7e8xL6F_w",
+        "price": "$1,859.99",
+        "extracted_price": 1859.99,
+        "reviews": 14,
+        "rating": 3.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qODXNXicbVTLrqNGEI2yziKL_EJWliUaaAzZYV42NmAezWuDgMY25mkeNqB8zZ1MpGQ5iZRtfmNmkW-J7yjL1KIWder0OVVS9T_ffP-W5X9RVHuOu1EX4DhDvTl1e4G688FvbdfgMR1y_CcgKYogyQ1DQYqlActxEPyWxkNcNpd3GJIcRzMbuOFYekOzLMFyn65ZjMu8zozzOevEJn3voziK48CGIxnIQZblmA33e17Fl-w_nAYkZCiCYCGAFAfJDct96HD_mTwJEWQBgJCFDAeJdwuQBj-fLEOM_h_7eB-zbv6slfGQ9cMqHbsuq4fVJauzLh7ypl7hrC-Gpl2dhFU_NN3LxSptqrap3_u6rMziPsMrkiDhe2JWdfb8eGlfPv_4H7kPVY4_wQ1DM-RmQ5KQJRiaI8CH9jG8XS9vl_Jt7N-u5VtW_9rE7eOcfvn2B6l5ikL_FEzUtq5oEXZ9FbFrzho50BYhwyNSd7Hiiuimt2Yh30K_3LnVnk5Q8UyU9oxqeetIxIQQmPQiPKW1NsSE5ZkIGBaC2xiovem3R8-3VFSiySEhHd62pblgH8kajVEZ27KupwjYGLUPLF2oI4L77FbmgduK9q08a8iifdAyDiin8HYtQ8-dka8e4sqytZvuuKXbG6IG3TIkgsrKPbF4egpN6SV3N10su6LraUQ6IxcvYY37-GYuiQL9WNSB41-eqQ0OIcGN6bKH7kvbEd3KreQx8Ky9XVqGXulXfVfuDJknE0klHUc9JBIUQxs8NF8_Wt6VcEt10Am8wzsd6MgirUU92ZJEafXV8dBgOgiDrILQlkpoFXDGC-4duRh0EdFBXaIQyITpXyjkbH1cX-jXPh-uJC-hNwz6IsupyzFmKbsh0AaHUs861QBMAD1GtC0T2oKV8IqVsrNqd9LqLYFcftarMAgJiVZydWvt9NnwQsvx5ED3ShMr8g0XwAgVtdM84FlOStqLCp0itH6Z-u78meBlONjG5jiqsxA9Ap8jSG0SLmLSJy2e18Ld_AlsWJqhSQpAltr8mjZNkWdfvv2Ol4QfKZHHqivFo2PjLb-WZkYYS--krttTYpBLREtX93jK-W7cpevGUDJaUBlbfVxs8_kjtV1FkZ29DiZb2451en_tNc0zJiFUn5xzKpcq8TP5kNzO67sl3ebNdFfaIXd8jtnxc9UgsX7k6nBhYW9l2cPRYiVzzGnhbR-f-YDNBsU50oWda4uN1lk0hV9VRfclpT3DtmYOdEgSt35nErORRGeSbJlqOq3lgsazNVVXcrnzX-Odp-_FFxFS1Fd6LvjVcn2Q0mHLB14ymc8uywOvq_yooFosGQ4U_LtqtYe4IzT-JicHjHqjRk0MHq9qVzPN7INdZJ6SaBJFT9_e7UAsIGD9qLmo5_a61RXhXIREOhDKQK5PURc4Emjd9UlC3khsE4rdTJUWTlZw4nIxDy5H2l-UyJr6VBeQY17JcCwLw9vqxzBNboeyyrO1Ii-3IRof0lhMi1YX9_XeuE18y_ILvTnW6Z0xtHrfRkJwlJzsMSRngzEYWzAMaR_TBWGEGqtbzh6N65TKH5jJL6_f5_z3vz3C83c"
+      },
+      {
+        "title": "LaCie 2big RAID STHJ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcT741mu6PGWPaflNhAw8AjC_giOeZQtCFtAaUh8ixndrTjQ05laXm0Y669BM42x2e2xRrsnbDiDSb51zVqZg6ulTAhbyyJ1SJyw4vfDFXQ",
+        "price": "$1,899.99",
+        "extracted_price": 1899.99,
+        "reviews": 57,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Rc5chHicdVS7sqNGEHVt7MCBf8GRSlXDwAByhnhJXAHiNSASFTAjCfEUIAlU_pq7XlfZ4a6rnPo3dgN_i3VvbE_QwXSfc_p0zfQ_3_3wSvO_WLY9JN3VktF1Qlaz7dYye5F2v7ddQ67ZkJM_GciyAEKBZxErcoy4WCDm9ywZkrI55uQLizgg8AJaAIAEyAIEF59PNCFlXlP7cKCd0mRvLAxAPAdYdiFChhdZUUDwj7xKjvQ9_0UQEUKQFUWOY59MIoL8x470X7mtvGd4BAX2DcMAlmcElmWEX7aurez_J_npcqXd9NUsk4H2wyy7dh2th9mR1rRLhrypZ4T2xdC0s60864eme7Yxy5qqbeq3uo6WNOkpmUEA0VvgZzW9fzq270b-Q-9jlZPPSOA5HgqQgwg9TXIIfGxvw-vp-HosX6_966l8pfVvTdLeDtm3Dz-qzV2R-7vsBG2LFRf4GulpaGimvlD8MENklUH3QS6-btUOiC8pGHQfB8DV4k0aGDszWqN4tZxoMRQRYzhZsQZJiLde6d7CAtcB1Fwzwh4BOHBK4xbqdxBHuAtqDHAVcEmFb2HortOVoYSK0WXaYshU4tvYMrKATKQ-bZyaDJ6OJicYaj9nXrwSQ8eX7unjVFtn0hNmOaU15j122aSMymSrZkqwyyTRsvJx--xTi7NHMcXqKcxWJ8bBi3DHtENcG00YZYzD4heiLlTfP3mBPrgpLEZX17ogWio7hvCkPLXZWX3WWwauWy5W3RjrI7DDYempbRtiA0eMlVtgKJNwuOxwW7sa7p0A3GOIJktH9wTiMgBDkhUNQzAOsY9zU9dMMyC5VRswLiwzDcTJxmSy1MXBgc-Z5EwbQLcMAweEZ-1usVocVySxdWNMqh1raieN-oGnAfNB9PhE9LJzazya9RIEWJqsKt7FQOX03Fi6K2uyw9hPKq0wMQnM2kVm2LJmrfGeYqi41OSwlkCgL5a_jn13-AokDQ2eLWyuxiTvb7toAaA5ykcl7dOWTHP54vzMCCLHc5BlkMgKv2VNU-T024fvJVX-iVUkYmA1ufoeWUpzdeLlaxlujXm7TW342HPqCW-2udRdV9m8sXXKyQbvGbej59x_Ypez_d6jzx9D557vbt_Ynm6eU0TIuC_8bfmo0ohqL-n5ML-46nkSxoveDrkfLfiVNFVNoNS33BiOIupdSm--mejUd8aH5EXkIO1E-nzGG67wcvPhBXO6H-N3VQU_pcx73Nb8CxdDcO5XDpjsdH-AsOWrcTvXCo5M7lid4OMivZ83nLVWnkDEsu_wXI6qx-kG1ZeltAvT0bl3NN-FXRXtC7Ylqu0jOboYbvuSdMCUzlr6QoLeroMmYW7P267mmyliVntnm-5HRQmt5cXbKQVixGjfHI1De1paunwoYpANQB_gfLvvdr7KtHi-VYPwCpbpczOMlRmP7m67yJV8d9xw0UPfu2OfWXLgOycYX8vCDpfWJs7S80tZ5XSua4_zsL_e1GsxPsy6uMzX9nmUWlF6cMKmzi68bdbrdi_vNqpPb0N6sHmb92TbVtcJVwA7NkXL9dfBdZ6x-Y3w-fG5fQ5__wv3gvXf"
+      },
+      {
+        "title": "OWC Mercury Elite Pro Dual RAID USB Storage Solution",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcR2k9EuGct1KQRGpgmWP0zb6DWE3NeK4L4ppuneat6hFE_Q9AYI2FJZLMBcM-ebuAWVPksOUtKvRC2RXg1Nt0ap0q01Y4lFYHFD4pSJ-pEb",
+        "price": "$1,499.99",
+        "extracted_price": 1499.99,
+        "reviews": 41,
+        "rating": 4.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0-07JHicdVS7sqNGEHVt7MCBf8GRSlUzwAByxktI6DKIp4CE4iWBeAqBBJS_5q53q9bhlquc-jd2A3-LuWuH9gQdzOnT53RXz_z13Q-vaf4HSbbnsBuwgIYJ4ebY7QXyxnmf2q5JhrjPk98hQZKAIBiaRCRLQXazQfBTHPZh2VzeYESQDKQRhQiWYRFNkfTmc5aGSZnXqXY-p53YxP-UQRTNEohBDGQZxC5Ff8ur8JL-izMIURSCDAFJQC8qFNy875L7F-ooBBCxNLFh0eICEjTJLJn0L0dDE4P_AT_chrSbvqhl2Kf3fhUPXZfW_eqS1mkX9nlTr5L0XvRNuzoKq3vfdIuPVdxUbVO_5XVpmYb3NFkRgEBvgV7V6fPDpf3m9D_03ld58hkxNEUTLADMhqU2ACDyffvoX7PL66V8He6vWfma1h-bsH2c46_vfpSapyjcn4Jut60jGsAk-UMkS09HbrXQ3oMX24NhXUCfjGdLLENzV0y46JG9Uzpc9c8QYFsvxsZzylAtLpS5c856sRlxyZuhvNGcEt_0KoEWkWwjGd30E37o133vk_7OnfeEXht3vWKRBRXRI9U5lB3oX42HLyYn8wSdtHCsmICjWSSlJcPMltrK2mErthLRdrej5WS-R2aeUSBo2GUVFeigFw2Kdkpul8UzKvEcwwakVw4aLj_hq1HF5PbgyxmIZMjHEyAXXaDX2Rg6-Ootc4gJp0nF8mCTzs4EiuLIipvUZWmLCu_Z29w69VZYbvYukcw-GE9R4WPsKge_VvbJtVh0kkHdedApt4TpZs9TkciWY48YUFO0xXLoOKIKeXB661uixtjZVDHkb_Y2JowKIk3CmeNkelghOyHgbZmIZJWJotqt4tVb0qsNwrkae23XAM2RzC1Q50T2s0QuO6N2RrXmge1wE658zwcSJecKb-zwpJ18wz9JFC6dfWhDkMy4NXOIsXV5YpAMuIBqUmLy1_Henb8Abot6U2NeBmUSgofnbgChjsJFjO5Rm0xr4ab_DBmWoimCXLaRZD7GTVPk6dd333OS8BMpconiSOFgmQnPraWJFobydFTW7THSiDmgpMx5OeZcN-zidaPJKSUotKk8Lqb-_InkV0FgpsuLSdemZRzfqi3dPEMCIeW5sY7lXEVuuj1E1_P6ZkjXiRlvctvnlruhd9xUNbZYP3Klv7DobqTpw1JDObX0ceZMNzlzHpv2svVCFWauzqa9ToPR_6YqOouU-vTbmj5QPgGu950OJi0KzgTR0tV4XG8LKpmMscqI-cZ9O288vBcXIiLJb_RccKs5exDSgee8UzTqzy7NvVNXuUFBtomkWUhwb4rRHsIOqNx1Gx0S-67VdhPCx3Lb1XQzuXAX6McoGEXxhPmb6YnLirNu0FyUc5vxWBbOhQ_iHsg9sT4GnWdJsHXWR8k-DYCPSJYZK9UfDe-4ycXcu7xQ7iwHxniPsWBbekb4Q1loJx6_-HF0PZRVnq7l7Xztg-EhDcU4q3VxW--168i1LDdTzEsd32hNrfdtIHgvkpU--uis0RptCpom7UOqAJqvstiw9vawjsn8kdD5Zfl9zn_-DUtW9HY"
+      },
+      {
+        "title": "OWC Mercury Elite Pro Dual RAID USB Storage Solution",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQdZo0R9aPHusA1T-AnYXnt1P1GZ-uQiMSTyIOikJqxkyfFqM0rdXDUg89fbvls8sLUa-Qz50HMV2vuTP9ISWTSK3TR8OSemW3vN1NdcqFyoDGkitg_4WKl",
+        "price": "$1,830.41",
+        "extracted_price": 1830.41,
+        "reviews": 64,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uOqxJnicbZS5ruM2FIaDqVOkyCukMgxI1GI5nazN1rUka6OWxpAl2tpFa7ElIU9zJzPApJwESJvXmCnyLNGdtMOCBX_-5zuH5OG_P_z0irK_KQpfo3bQBWaYGL05tQeBuvPBJ9w2yRD3WfIXCSiKAGDDUgzF0SS33TLkpzjqo7K5vck0R2-2HAGILcWBDUFzDPU5RVFSZjUyrlfUik2cJX-CRaUokmMARbA0SZPk5o-sim7of5mkN8yW40hmQdH0htxw4H2bdF_ASThvAUuCDUnTJMvQgFnibH47WYZ4_r724T6gdvqilVGPun4VD22L6n51QzVqoz5r6lWCuqJv8OokrLq-aZckVnFT4aZ-29eiEkUdSlaAAMzbxK5q9Pxww29pfgf3vsqSz8yGpVnALTJLciRJAfY9fvSv6e31Vr4O3WtavqL6YxPhxzX--u5nqXmKQvcUTBdjKFqEI8mESWzL2JfxxVfVgCqPdkFQsFQb6N4Is7YMVOlTMJFzCLazJyePWIF54MBe8-VSk9Rd5FmTW2DR83GpFwfqovShT4yhsy-Ppq9TyDswoYInKKW6W42HUNY7BN0-BkVvlSaASkdrRemaBVkZirrXPJwnjva0AUmGiny1qQMTS4lh5ck9AeXTlaEQuOQTKdtIh7rneqocAbxAw8mFW9ElaCpRGN2TdMaV8YstQlH3U00rYaXLKQ48OYf5LnX2WIxyebDd0lv4z8sepzpRMlYV90G-czVZbmJZ3nsVk8EZMjqEZFLopO7JnqXotl5iPSqxYAHr4XnS5Cmwd4DV61IKkQvbqDSpJbYYQ7iL85TVihGElJojv3wmldwnfiKZdWrarlUuNehwtqpoj0FUl5bnWVpU4zpyy9zbN5MrJoLjjbUjdbZMaHOihGmilK1Vw1Grd4QL-UmvwiAkJFrJ1J211yfDC11IJH7gWb6_vP-Lm6gu3FkBtVxZITF6kXb-DOvfx669fiF4meltgy2m1r_tQo5s7LvDy-ZzdqaaThOm4H9dmoNmaUCRDEdxH-OmKTL09d2PvCT8Qol8okIpGhw72fFraWKFofRO6hqfLgaYz_RyKMdTxrfDPl43hoJoQWVt9XGzzecv1G51PttoaRi0th3r9BZtqeYZAYZRn1vnVM7VxUfyyyW_ru-WlE-b8a7gPnP8Lbvnp6pxxfqRqf2NYzoLoYejRQpyzHHmbT-58gGHesU50oWdabPtrtF5DL9RRbigtGeIa_aFDgGRd3uTmIzL-QoAZqvxtJYLOpmssUrBfOe_jTeffhAXI0NR3-yZ4Fdz-gDSy44PvMtoPluUBV5b-eeCwolkOIzg31ULv0QtofG5fHlJ3M6o3SYiH8tqW7PN5JP7s3m6nEdR9PTd3Q7EgiE5_9zc1CtOd7oiXIuQiHtC6cH6dG4DRyIxXJ8k1xuI3YXiNmOlhaMVnLaZmAW3I-3Pytkau1gXXMdMQTiUheHt9GMYX_KXssrQWpHnvD8PD2koxlmri_v6YOQjjzl-pjfHOr6zhlYf8FkIjpKDHv3larAGawuGIR0iuiCMUON0yzm4wzqmskfCZrfl97n-8x-sL_at"
+      },
+      {
+        "title": "Glyph Blackbox PRO RAID Desktop Drive Thunderbolt 3",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR_hGck9U5kCq9YnEfT3rRCTs1L1vRcJ_5MW9mb16QASPNMmEeD-5QqEt4872EgkSfEZT2mXTBKlANpmHXCRkvVlZYX9xQBxMIAwge1p7etj4KuheDapZHV",
+        "price": "$1,099.99",
+        "extracted_price": 1099.99,
+        "original_price": "$1,300",
+        "extracted_original_price": 1300,
+        "reviews": 49,
+        "rating": 4.1,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cekaQXicbVTLrqNGEI1mnUUW-YWsLEtNNy9nx9v2NWDemI0FNBgMBszDYJSvuZMZabKcRMo2vzGzyLeEO8pyqlstdZ86dapK6vr3h59ek_xvhJo0bAdNoIYnpdXHdiegO3f61LQ1HuI-x38RECEAIUMjCrEkwW42FPEpDvuwrC9vML0YYCiSoBEgGHrD0OTnLAlxmVeJnqZJK9bxmx-CCJAEySCGpUiwbIb5I7-Fl-R_nKJJhgA0zULEwg1kaXbzvsXdF3gUzoghGAAQvQFgA-klDIN-O5q6eP4-9uE-JO3zi1qGfdL1q3ho26TqV5ekStqwz-tqhZOu6OtmdRRWXV-3SxaruL41dfXm1yZlEnYJXkEAqbeDXlXJ-OHSLHn--R2597ccf6aWumlILQtSS6coCN43j_41u7xeytehe83K16T6WIfNI42_vvtZqkdR6EbBcJrGFU1g-dkpkHnZLTXJk_qb5Te058up6jWe7eEiLDaq4QWCUbpmUExHuywDVZYFx9fqWDF9C2GoKgZ0JFm2t1g0t9kjubptLMkHl9AeNtiPukOkoejyqm_mtsunJuK7wNFMt3B7p-ihjwIZS42oi84cyZfRvu6lSNrrVlWPPiFXqi-PJmEAq9QmfOUtLPWzCvvUKnlat3fAtgvSK4Kr6mk7bBFaSGh-XGHN9iY7rILcdEraVTJFU0YYEixyXbOKpCw1IDYCn7dPKEBGqVk2MkFSUJrj71Bo802EMtJ1tK0L6tEp-SmGhBCJpeEV2eTAja8R7hT5DfChNPsELmxbVhYfLUb44F7LOdriwN423gm6wCnLk3vFQ1IZk-oRS_0bIrzKCIOg0z12DKRNr7vaSwTMPb6VXQyCnS67Q1BubstdMGU3t-RAjZ_AkoE6YyXIsFK2ZuVOasUDx-We2i04BUAilXzPm1vtqXuBdXCznXHDUlx0T-yRk-fIB82We8NTp4PvLH1t-N-nrk2_AE6mekuni2frX_iAJWrrbnOyMc72syIzTBXcrwTDkjQJEUGxiP0Y13WRJ1_f_chJwi9I5PDelcLBtjDPraUnLQyld9yvm2Okw_lMSpl7OOZcO2zjda0rCSnsaWv_uFjG-AviV-ezlSwfJllbtnl8i7ZUM4aQovbjxj6W8y3yE_kluqbruyldn8x0V5o-t_0NveWet9oRq0e-7y8s1ZlJ8rDVUElsY5o5y8cpd2KTXrEPZGHl6mw56-Q8Bd9URXeRUsegqegXMoDg2m0N8NSjcwphQ9-m41ouSPw0p1sG5zv3zd542k5ciBRC3-i54N_m7AGlF547edFkjG2Sn7z25p8L1GBJtynBv-_N5iVsgcpd5egFO51eOXVIPJbXtqLrp09sz8YxOk-i6Gn83TqJBUWw_rm-7NMm4zVFSIsAxD1Qerg-ntuTLRGNuz5KjjcAPkIsM93UYDJPx00u5qfLgfRn5WxOXawJjm1kMBjKQvd47RDE0fWlvOXJWpHna38eHtJQTLNaFff1Tr9OXMNyM8kcqvhO62q1a87C6SDZyaOPUp3WaUvQdWkXkgXQA5XVTHvnDOsY5Q9M55dl-qT__Ad88fRl"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Any Color",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ws1tb3icbVTJzqNGEI7mnEMOeYU5WZagWQy5sdvYgNma5YIw3TY7GGMbozzNP5mRkmMyUp5lcsizhH_O6UO1uqq-r7qruurfH356w8XfFNWf0-FuSsz9xZjdcdhJ1FWIfu-HDt2zsUBfSUBRBAAblmIojiY5nmfI37N0TOvuUqC_aIbkGI7naIqhaYJjCYr7M8cpqosWW-czHuQuW9wYngMsIDcbimbphXERfxRNesHfzV9JcgMIkqU2G5agN4AnKIL6NKDbN3CUEp4lCYpecDzH8BTDMBTz69Gx5OT_bZ-vdzy8vhl1OuLbuMruw4DbcXXBLR7SsejaFcK3auz61VFa3cZuWG6xyrqm79p3vwHXOL1htAIEYN4Fu2rx8_Olf3_G_4T71BToT2bD0iwADMOxPADEcvjUP8a3_PJ2qd_ut7e8fsPtly7tH-fsnw8_K91Tlm5Pyfb7HsoO4VJxGNeINre5hpWJsQl4wFpuQ7IDjqdWh1BkkVZTaQmvcDYbsxqBGUY0rHvFV8h9uo27oDH3gcYwTtXLUal2uDSejsZ0HoVSWI2RX5kALXzZVj3HlX5FZHxPw3pnAP8ZqCoTNySBIF-5VE75pU2Yzeh6PoJOMJ7NJg6Qar9gmZFZqx-s0NnjrV5mW1FPFbgzC_JlyTmV-dkTQf0AW_MAQ_GJADc7oA8h6UQRyQFfvizc8RMR-S4uTSLTeClreCYkYxVq8GoQY5jVom76kHS3umrXNumF9uQEyhOVeQsVgjQAX2JVhMve-aT-OJG6bJZmEYL-evB53dD6ANd5k_m1Z7bGCxHGM4Zw77X9LahuRBZC1d-iXbTkNKr6MasI2m8m1fQq2nOJ6TSrhempU1xBmM6ihUpVM9uaNP3ecvzLBEtlioHhqrMxZ1qcZy207BmS2IPWiRRfrr_ofTXWCl10tubLCmLfVNAeQoc5yWIdKMzDB47tBSg01CUnMHf8wKF-m27D-RshqMzoWsyc2re1p6BrImjc1giNgyryeQ49T_iF3HDvTQQ2JEOCL1nXVQX-58OPgiJ9pGQB6VBJ756LRGGtvFjpXgdHfd0fTxaYE1rJ4eFYCMN9m607S8O0pLOu_ri49vMjJa6SxMVLw-C16znHd7al8s90-df6k_eO9dycQqzuT-V5fXWU8rWZrlo_Fl7Is1vh1XS-3D4KfbxwzM3B-OEZqYY9e5oFN0RnIeLwqHkHunILY3b9NU6m-HtUGS6hlir1LbunY0CUt61NvKxTcgagZ5vpuFYrGr2cqcnBfBW-r3ecuZMXIENR3-GFFDZz_gDKXhSi4DTZzwEXUTA0YVJRPVIsj5HCq-70-3QgDKFUT3vk36zW71LysWiHlu1eIblN7OMpmWQ5MMWrG8nVMuDCpLvo5z4XTU06VzGRjYQ2gvUxGSJPIXu4Pip-cCfEE8VtpsaIJyc68oVcRJcDHc5a4ky3zJR8z85BfK8rKxDNQ5ydyn3dFHitqXM5JveHcq-m2Wir63pnlZPQc8JMbw5tdmUto931iRQdFA8_xtPZYi3WlSxL2aV0RVixwZmOt_Pv64wqHogtLsv0OX9VLkQhbs0eN_5V9HbEbusU_wGnXvk2"
+          },
+          {
+            "name": "Black",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ws1tb3icbVTJzqNGEI7mnEMOeYU5WZagWQy5sdvYgNma5YIw3TY7GGMbozzNP5mRkmMyUp5lcsizhH_O6UO1uqq-r7qruurfH356w8XfFNWf0-FuSsz9xZjdcdhJ1FWIfu-HDt2zsUBfSUBRBAAblmIojiY5nmfI37N0TOvuUqC_aIbkGI7naIqhaYJjCYr7M8cpqosWW-czHuQuW9wYngMsIDcbimbphXERfxRNesHfzV9JcgMIkqU2G5agN4AnKIL6NKDbN3CUEp4lCYpecDzH8BTDMBTz69Gx5OT_bZ-vdzy8vhl1OuLbuMruw4DbcXXBLR7SsejaFcK3auz61VFa3cZuWG6xyrqm79p3vwHXOL1htAIEYN4Fu2rx8_Olf3_G_4T71BToT2bD0iwADMOxPADEcvjUP8a3_PJ2qd_ut7e8fsPtly7tH-fsnw8_K91Tlm5Pyfb7HsoO4VJxGNeINre5hpWJsQl4wFpuQ7IDjqdWh1BkkVZTaQmvcDYbsxqBGUY0rHvFV8h9uo27oDH3gcYwTtXLUal2uDSejsZ0HoVSWI2RX5kALXzZVj3HlX5FZHxPw3pnAP8ZqCoTNySBIF-5VE75pU2Yzeh6PoJOMJ7NJg6Qar9gmZFZqx-s0NnjrV5mW1FPFbgzC_JlyTmV-dkTQf0AW_MAQ_GJADc7oA8h6UQRyQFfvizc8RMR-S4uTSLTeClreCYkYxVq8GoQY5jVom76kHS3umrXNumF9uQEyhOVeQsVgjQAX2JVhMve-aT-OJG6bJZmEYL-evB53dD6ANd5k_m1Z7bGCxHGM4Zw77X9LahuRBZC1d-iXbTkNKr6MasI2m8m1fQq2nOJ6TSrhempU1xBmM6ihUpVM9uaNP3ecvzLBEtlioHhqrMxZ1qcZy207BmS2IPWiRRfrr_ofTXWCl10tubLCmLfVNAeQoc5yWIdKMzDB47tBSg01CUnMHf8wKF-m27D-RshqMzoWsyc2re1p6BrImjc1giNgyryeQ49T_iF3HDvTQQ2JEOCL1nXVQX-58OPgiJ9pGQB6VBJ756LRGGtvFjpXgdHfd0fTxaYE1rJ4eFYCMN9m607S8O0pLOu_ri49vMjJa6SxMVLw-C16znHd7al8s90-df6k_eO9dycQqzuT-V5fXWU8rWZrlo_Fl7Is1vh1XS-3D4KfbxwzM3B-OEZqYY9e5oFN0RnIeLwqHkHunILY3b9NU6m-HtUGS6hlir1LbunY0CUt61NvKxTcgagZ5vpuFYrGr2cqcnBfBW-r3ecuZMXIENR3-GFFDZz_gDKXhSi4DTZzwEXUTA0YVJRPVIsj5HCq-70-3QgDKFUT3vk36zW71LysWiHlu1eIblN7OMpmWQ5MMWrG8nVMuDCpLvo5z4XTU06VzGRjYQ2gvUxGSJPIXu4Pip-cCfEE8VtpsaIJyc68oVcRJcDHc5a4ky3zJR8z85BfK8rKxDNQ5ydyn3dFHitqXM5JveHcq-m2Wir63pnlZPQc8JMbw5tdmUto931iRQdFA8_xtPZYi3WlSxL2aV0RVixwZmOt_Pv64wqHogtLsv0OX9VLkQhbs0eN_5V9HbEbusU_wGnXvk2"
+          },
+          {
+            "name": "Other",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GfCuCXicbVS5zuM2EA5Sp0iRV0hlGJCow1I63bZsSdZFHY0hi7Tuw7Jsy0Ke5t8kwKbcLJJn2S3yLNG_dVgMwZn5viFnOPPvdz--4eIfiuovyXA3Jeb-YszuOOwk6ipEH_uhQ_d0LNBnElAUAcCGpRiKo0mO5xnyY5qMSd1lBfqLZkiO4XiOphiaJjiWoLhPOU5QXbTYulzwIHfp4sbwHGABudlQNEsvjIv4s2iSDH8zfybJDSBIltpsWILeAJ6gCOrDgG5fwFE68SxJUPSC4zmGpxiGoZhfj44ln_7f9vv1jofXF6NORnwbV-l9GHA7rjLc4iEZi65dIXyrxq5fHaXVbeyG5RartGv6rn33G3CNkxtGK0AA5l2wqxY_f8_692f8T7gPTYE-MRuWZgFgGI7lASCWw4f-Mb7l2VtWv91vb3n9hts_uqR_XNKv3_-kdE9Zuj0l2-97KDuES8VhXCPa3OYaVibGJuABa7kNyQ44nlodQpFFWk0lJbzC2WzMagRmGNGw7hVfIffJNu6CxtwHGsM4VS9Hpdrh0ng6GtN5FEpgNUZ-ZQK08KVb9RJX-hWR8T0J650B_GegqkzckASCfOVSOeWXNmE2o-v5CDrBeDGbOECq_YJlSqatfrBCZ4-3epluRT1R4M4syJcl51Tqp08E9QNszQMMxScC3OyAPoSkE0UkB3w5W7jjJyLyXVyaRKrxUtrwTEjGKtTg1SDGMK1F3fQh6W511a5t0gvtyQmUJyrzFioEaQC-xKoIl73zSf1xJnXZLM0iBP314PO6ofUBrvMm9WvPbI0XIoxnDOHea_tbUN2INISqv0W7aMlpVPVjWhG030yq6VW05xLTeVYL01OnuIIwmUULlapmtjVp-r3l-NkES2WKgeGqszGnWpynLbTsGZLYg9aZFF-uv-h9NdYKXXS25ssKYt9U0B5ChznLYh0ozMMHju0FKDTUJScwd_zAoX6bbsPlCyGozOhazJzYt7WnoOtJ0LitERoHVeTzHHqe8Au54d6bCGxIhgR_pF1XFfjr9z8IivQzJQtIh0py91wkCmvlxUr3Ojjq6_54tsB8opUcHo6FMNy36bqzNExLOuvqj8y1nz9T4up0cvHSMHjtes7xnW2p_DNZ_rX-5L1jPTfnEKv7c3lZXx2lfG2mq9aPhRfy7FZ4NZ0vt49CHzOOuTkYPzwj0bBnT7PghugiRBweNe9AV25hzK6_xqcp_hZVhkuopUp9y-7pGBDlbWsTL-t8ugDQs810XKsVjV7O1ORgvgrf1jvO3MkLkKGob_BCCps5fwBlLwpRcJ7s54CLKBia8FRRPVIsj5HCq-70-2QgDKFUz3vk36zW7xLysWiHlu1eIbk92cfzaZLlwBSvbiRXy4ALT12mX_pcNDXpUsVEOhLaCNbH0xB5CtnD9VHxgzshniluMzVGPDnRkS_kIsoOdDhrJ2e6pabke3YO4ntdWYFoHuL0XO7rpsBrTZ3L8XR_KPdqmo22uq53VjkJPSfM9ObQplfWMtpdf5Kig-Lhx3i-WKzFupJlKbuErggrNjjT8Xb-fZ1SxQOxRbZMn8vfSkYXYmA-zhr_2mfwgbS8TrP_AJ4x-oA"
+          }
+        ]
+      },
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gF1IlHicbVTJ0qM2EE7lnEMOeYWcXK4CsRhyY7exAbOJ5eICJJsdjLGNqTzNP0mqJsfJVPIsM4c8S_jnHB1ape7-vpa61f3vdz--4eIfiurPyXA3Jeb-YszuOOwk6ipEH_uhQ_dsLNBnElAUAcCGpRiKo0mO5xnyY5aMSd1dCvQXzZAcw_EcTTE0TXAsQXGfcpygumixdT7jQe6yxY3hOcACcrOhaJZeGBfxZ9EkF_zN_JkkN4AgWWqzYQl6A3iCIqgPA7p9AUfpxLMkQdELjucYnmIYhmJ-PTqWfPp_2-_XOx5eX4w6GfFtXGX3YcDtuLrgFg_JWHTtCuFbNXb96iitbmM3LLdYZV3Td-2734BrnNwwWgECMO-CXbX4-fulf3_G_4T70BToE7NhaRYAhuFYHgBiOXzoH-Nbfnm71G_321tev-H2jy7pH-fs6_c_Kd1Tlm5Pyfb7HsoO4VJxGNeINre5hpWJsQl4wFpuQ7IDjqdWh1BkkVZTSQmvcDYbsxqBGUY0rHvFV8h9so27oDH3gcYwTtXLUal2uDSejsZ0HoUSWI2RX5kALXzZVj3HlX5FZHxPwnpnAP8ZqCoTNySBIF-5VE75pU2Yzeh6PoJOMJ7NJg6Qar9gmZFZqx-s0NnjrV5mW1FPFLgzC_JlyTmV-dkTQf0AW_MAQ_GJADc7oA8h6UQRyQFfvizc8RMR-S4uTSLTeClreCYkYxVq8GoQY5jVom76kHS3umrXNumF9uQEyhOVeQsVgjQAX2JVhMve-aT-SEldNkuzCEF_Pfi8bmh9gOu8yfzaM1vjhQjjGUO499r-FlQ3Iguh6m_RLlpyGlX9mFUE7TeTanoV7bnElM5qYXrqFFcQJrNooVLVzLYmTb-3HP8ywVKZYmC46mzMmRbnWQste4Yk9qCVkuLL9Re9r8ZaoYvO1nxZQeybCtpD6DCpLNaBwjx84NhegEJDXXICc8cPHOq36TacvxCCyoyuxcyJfVt7CrqeBI3bGqFxUEU-z6HnCb-QG-69icCGZEjwR9Z1VYG_fv-DoEg_U7KAdKgkd89ForBWXqx0r4Ojvu6PqQXmE63k8HAshOG-zdadpWFa0llXf1xc-_kzJa5OJxcvDYPXrucc39mWyj-T5V_rT9471nOThljdp-V5fXWU8rWZrlo_Fl7Is1vh1XS-3D4KfbxwzM3B-OEZiYY9e5oFN0RnIeLwqHkHunILY3b9NT5N8beoMlxCLVXqW3ZPx4Aob1ubeFnp6QxAzzbTca1WNHo5U5OD-Sp8W-84cycvQIaivsELKWzm_AGUvShEQTrZzwEXUTA04amieqRYHiOFV93p98lAGEKppnvk36zW7xLysWiHlu1eIbk92cf0NMlyYIpXN5KrZcCFp-6in_tcNDXpXMVENhLaCNbH0xB5CtnD9VHxgzshphS3mRojnpzoyBdyEV0OdDhrJ2e6Zabke3YO4ntdWYFoHuIsLfd1U-C1ps7leLo_lHs1zUZbXdc7q5yEnhNmenNosytrGe2uP0nRQfHwY0zPFmuxrmRZyi6hK8KKDc50vJ1_X2dU8UBscVmmz_lv5UIXYmA-Uo1_7S-wSDW1TJ7_AZ1I-ls"
+          },
+          {
+            "name": "3 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=M68NInicbVTLrqNGEI1mnUUW-YVIkSxL0DwM2ZmnjQ2YV4PZIEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c0QmduTMdpDvxWpy_r4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0FBzHiWZKg6BnHcwxPMQxDMX8ebFOKfmz7dLnh_vmqV_GAr8MiufU9boZFihvcx0PeNguEr-XQdouDuLgObT_fYpG0ddc2b349rnB8xWgBCMC8CXbR4MentHt7xg_Cfaxz9JVZsTQLAMNwLA8AMR8-dvfhJUtf0urldn3JqhfcfG7j7n5Ovn_4VW4fknh9iJbXdVCyCYcKg7BCtLHJVCyPjEXAPVYzC5ItsF2l3AcCi9SKigt4gZNRG-UAjOBIw6qTPZncxZuw9Wtj56sMY5eddCyUFhf6w1aZ1qVQDMvh6JUGQDNfslHOYaldEBne4qDa6sB7-IrChDVJIMiXDpVRXmERRj04roeg7Q9now59pFhPWCRk0mh7M7B3eKMVyUbQYhlujZx8mlJGJV7yQFDbw8bYw0B4IMBNNugCSNrHI8kBT0pn7vCBiGwbFgaRqLyY1DwTkKECVXjRiSFIKkEzPEg6G02xKot0A2u0ffmBiqyBMkHqgC-wIsB5bz1Su59ITTIKIw9Ad9l7vKarnY-rrE68yjUa_YkI_RFCuHOb7uqXVyIJoOJt0PY45_RYdkNSErRXj4rhlrTrEONpUnLDVcawhDCeBBMVimo0FWl4nWl76QgLeQyB7iiTPiVqmCUNNK0JktiF5okUno436z0lVHNNsDfG0_RDz5DRDkKbOUlC5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVWCvM4JjMFFvXpSujS7RWuY0e6HtF4LMMuu76D3LFvTURWJEMCT4nbVvm-PuHn9ey-BslrZEG5fjmOkhYL-UnK94q_6Atu8PJBFNEyxncH_J1f9sky9ZUMS1qrKPdU8d6_EYJiyhy8NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsZv2sW09q7rk2pBxztTG-u3qsYtcap7UToPP6yOFBdfd06eT65HhLHI3he1QJzqHmKnUNu6NDQBTXjUU8zVN0BqBj6_GwVEoaPe2xzsB0Wb-vN5yxlWYgQ1Hv8FwM6im7A3knrI_-abQePc6Pfl8HUUl1SDZdRgwumt3t4p7Q14Vy2iHvajZeG5P3Wds3bPsMyE1kHU7RKEm-IVyco1TOAy6I2lQ7d5lgqOK5DIlkINQBLA9Rf3RlsoPLg-z5N0I4UdxqrPVwtI8HPpfyY7qng0mN7PGaGKLnWhkIb1Vp-oKxD5NTsavqHC9VZSqG6HaXb-U46U15WW7NYlx33HqiV_smubCm3my7SDzuZRffh9PZZE3WEU1T3sZ0SZihzhm2u_Vuy4TK74jN03n6nF9_l1M6F3zjflL55y6F-UlVinjc6tvUnuKgq3apNW03dv4_dDwBJg"
+          },
+          {
+            "name": "4 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hzFrm3icbVTLrqNGEI1mnUUW-YVIkSxL0DwM2ZmnjQ2YV4PZIEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c0QmduTMdpDvxWpy_r4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0FBzHiWZKg6BnHcwxPMQxDMX8ebFOKfmz7dLnh_vmqV_GAr8MiufU9boZFihvcx0PeNguEr-XQdouDuLgObT_fYpG0ddc2b349rnB8xWgBCMC8CXbR4MentHt7xg_Cfaxz9JVZsTQLAMNwLA8AMR8-dvfhJUtf0urldn3JqhfcfG7j7n5Ovn_4VW4fknh9iJbXdVCyCYcKg7BCtLHJVCyPjEXAPVYzC5ItsF2l3AcCi9SKigt4gZNRG-UAjOBIw6qTPZncxZuw9Wtj56sMY5eddCyUFhf6w1aZ1qVQDMvh6JUGQDNfslHOYaldEBne4qDa6sB7-IrChDVJIMiXDpVRXmERRj04roeg7Q9now59pFhPWCRk0mh7M7B3eKMVyUbQYhlujZx8mlJGJV7yQFDbw8bYw0B4IMBNNugCSNrHI8kBT0pn7vCBiGwbFgaRqLyY1DwTkKECVXjRiSFIKkEzPEg6G02xKot0A2u0ffmBiqyBMkHqgC-wIsB5bz1Su59ITTIKIw9Ad9l7vKarnY-rrE68yjUa_YkI_RFCuHOb7uqXVyIJoOJt0PY45_RYdkNSErRXj4rhlrTrEONpUnLDVcawhDCeBBMVimo0FWl4nWl76QgLeQyB7iiTPiVqmCUNNK0JktiF5okUno436z0lVHNNsDfG0_RDz5DRDkKbOUlC5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVWCvM4JjMFFvXpSujS7RWuY0e6HtF4LMMuu76D3LFvTURWJEMCT4nbVvm-PuHn9ey-BslrZEG5fjmOkhYL-UnK94q_6Atu8PJBFNEyxncH_J1f9sky9ZUMS1qrKPdU8d6_EYJiyhy8NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsZv2sW09q7rk2pBxztTG-u3qsYtcap7UToPP6yOFBdfd06eT65HhLHI3he1QJzqHmKnUNu6NDQBTXjUU8zVN0BqBj6_GwVEoaPe2xzsB0Wb-vN5yxlWYgQ1Hv8FwM6im7A3knrI_-abQePc6Pfl8HUUl1SDZdRgwumt3t4p7Q14Vy2iHvajZeG5P3Wds3bPsMyE1kHU7RKEm-IVyco1TOAy6I2lQ7d5lgqOK5DIlkINQBLA9Rf3RlsoPLg-z5N0I4UdxqrPVwtI8HPpfyY7qng0mN7PGaGKLnWhkIb1Vp-oKxD5NTsavqHC9VZSqG6HaXb-U46U15WW7NYlx33HqiV_smubCm3my7SDzuZRffh9PZZE3WEU1T3sZ0SZihzhm2u_Vuy4TK74jN03n6nF9_l1M6F3zjflL55y6F-UlVinjc6tvUnuKgq3apRWw3dv4_csoA3A"
+          },
+          {
+            "name": "6 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-weRJ3icbVTLrqNGEI1mnUUW-YVIkSxL0DwM2ZmnjQ2YV4PZIEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c0QmduTMdpDvxWpy_r4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0FBzHiWZKg6BnHcwxPMQxDMX8ebFOKfmz7dLnh_vmqV_GAr8MiufU9boZFihvcx0PeNguEr-XQdouDuLgObT_fYpG0ddc2b349rnB8xWgBCMC8CXbR4MentHt7xg_Cfaxz9JVZsTQLAMNwLA8AMR8-dvfhJUtf0urldn3JqhfcfG7j7n5Ovn_4VW4fknh9iJbXdVCyCYcKg7BCtLHJVCyPjEXAPVYzC5ItsF2l3AcCi9SKigt4gZNRG-UAjOBIw6qTPZncxZuw9Wtj56sMY5eddCyUFhf6w1aZ1qVQDMvh6JUGQDNfslHOYaldEBne4qDa6sB7-IrChDVJIMiXDpVRXmERRj04roeg7Q9now59pFhPWCRk0mh7M7B3eKMVyUbQYhlujZx8mlJGJV7yQFDbw8bYw0B4IMBNNugCSNrHI8kBT0pn7vCBiGwbFgaRqLyY1DwTkKECVXjRiSFIKkEzPEg6G02xKot0A2u0ffmBiqyBMkHqgC-wIsB5bz1Su59ITTIKIw9Ad9l7vKarnY-rrE68yjUa_YkI_RFCuHOb7uqXVyIJoOJt0PY45_RYdkNSErRXj4rhlrTrEONpUnLDVcawhDCeBBMVimo0FWl4nWl76QgLeQyB7iiTPiVqmCUNNK0JktiF5okUno436z0lVHNNsDfG0_RDz5DRDkKbOUlC5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVWCvM4JjMFFvXpSujS7RWuY0e6HtF4LMMuu76D3LFvTURWJEMCT4nbVvm-PuHn9ey-BslrZEG5fjmOkhYL-UnK94q_6Atu8PJBFNEyxncH_J1f9sky9ZUMS1qrKPdU8d6_EYJiyhy8NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsZv2sW09q7rk2pBxztTG-u3qsYtcap7UToPP6yOFBdfd06eT65HhLHI3he1QJzqHmKnUNu6NDQBTXjUU8zVN0BqBj6_GwVEoaPe2xzsB0Wb-vN5yxlWYgQ1Hv8FwM6im7A3knrI_-abQePc6Pfl8HUUl1SDZdRgwumt3t4p7Q14Vy2iHvajZeG5P3Wds3bPsMyE1kHU7RKEm-IVyco1TOAy6I2lQ7d5lgqOK5DIlkINQBLA9Rf3RlsoPLg-z5N0I4UdxqrPVwtI8HPpfyY7qng0mN7PGaGKLnWhkIb1Vp-oKxD5NTsavqHC9VZSqG6HaXb-U46U15WW7NYlx33HqiV_smubCm3my7SDzuZRffh9PZZE3WEU1T3sZ0SZihzhm2u_Vuy4TK74jN03n6nF9_l1M6F3zjflL55y6F-UlVinjc6tvUnuKgq3apBbYbO_8fctQA3g"
+          },
+          {
+            "name": "8 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LHk2S3icbVTLrqNGEI1mnUUW-YVIkSxL0DwM2ZmnjQ2YV4PZIEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c0QmduTMdpDvxWpy_r4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0FBzHiWZKg6BnHcwxPMQxDMX8ebFOKfmz7dLnh_vmqV_GAr8MiufU9boZFihvcx0PeNguEr-XQdouDuLgObT_fYpG0ddc2b349rnB8xWgBCMC8CXbR4MentHt7xg_Cfaxz9JVZsTQLAMNwLA8AMR8-dvfhJUtf0urldn3JqhfcfG7j7n5Ovn_4VW4fknh9iJbXdVCyCYcKg7BCtLHJVCyPjEXAPVYzC5ItsF2l3AcCi9SKigt4gZNRG-UAjOBIw6qTPZncxZuw9Wtj56sMY5eddCyUFhf6w1aZ1qVQDMvh6JUGQDNfslHOYaldEBne4qDa6sB7-IrChDVJIMiXDpVRXmERRj04roeg7Q9now59pFhPWCRk0mh7M7B3eKMVyUbQYhlujZx8mlJGJV7yQFDbw8bYw0B4IMBNNugCSNrHI8kBT0pn7vCBiGwbFgaRqLyY1DwTkKECVXjRiSFIKkEzPEg6G02xKot0A2u0ffmBiqyBMkHqgC-wIsB5bz1Su59ITTIKIw9Ad9l7vKarnY-rrE68yjUa_YkI_RFCuHOb7uqXVyIJoOJt0PY45_RYdkNSErRXj4rhlrTrEONpUnLDVcawhDCeBBMVimo0FWl4nWl76QgLeQyB7iiTPiVqmCUNNK0JktiF5okUno436z0lVHNNsDfG0_RDz5DRDkKbOUlC5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVWCvM4JjMFFvXpSujS7RWuY0e6HtF4LMMuu76D3LFvTURWJEMCT4nbVvm-PuHn9ey-BslrZEG5fjmOkhYL-UnK94q_6Atu8PJBFNEyxncH_J1f9sky9ZUMS1qrKPdU8d6_EYJiyhy8NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsZv2sW09q7rk2pBxztTG-u3qsYtcap7UToPP6yOFBdfd06eT65HhLHI3he1QJzqHmKnUNu6NDQBTXjUU8zVN0BqBj6_GwVEoaPe2xzsB0Wb-vN5yxlWYgQ1Hv8FwM6im7A3knrI_-abQePc6Pfl8HUUl1SDZdRgwumt3t4p7Q14Vy2iHvajZeG5P3Wds3bPsMyE1kHU7RKEm-IVyco1TOAy6I2lQ7d5lgqOK5DIlkINQBLA9Rf3RlsoPLg-z5N0I4UdxqrPVwtI8HPpfyY7qng0mN7PGaGKLnWhkIb1Vp-oKxD5NTsavqHC9VZSqG6HaXb-U46U15WW7NYlx33HqiV_smubCm3my7SDzuZRffh9PZZE3WEU1T3sZ0SZihzhm2u_Vuy4TK74jN03n6nF9_l1M6F3zjflL55y6F-UlVinjc6tvUnuKgq3apRW83dv4_ct4A4A"
+          },
+          {
+            "name": "10 TB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4_-oc3icbVTJzqNGEI7mnEMOeYU5WZagWQy5sdvYgNma5YIw3TY7GGMbozzNP5mRkmMyUp5lcsizhH_O6UO1uqq-r7qruurfH356w8XfFNWf0-FuSsz9xZjdcdhJ1FWIfu-HDt2zsUBfSUBRBAAblmIojiY5nmfI37N0TOvuUqC_aIbkGI7naIqhaYJjCYr7M8cpqosWW-czHuQuW9wYngMsIDcbimbphXERfxRNesHfzV9JcgMIkqU2G5agN4AnKIL6NKDbN3CUEp4lCYpecDzH8BTDMBTz69Gx5OT_bZ-vdzy8vhl1OuLbuMruw4DbcXXBLR7SsejaFcK3auz61VFa3cZuWG6xyrqm79p3vwHXOL1htAIEYN4Fu2rx8_Olf3_G_4T71BToT2bD0iwADMOxPADEcvjUP8a3_PJ2qd_ut7e8fsPtly7tH-fsnw8_K91Tlm5Pyfb7HsoO4VJxGNeINre5hpWJsQl4wFpuQ7IDjqdWh1BkkVZTaQmvcDYbsxqBGUY0rHvFV8h9uo27oDH3gcYwTtXLUal2uDSejsZ0HoVSWI2RX5kALXzZVj3HlX5FZHxPw3pnAP8ZqCoTNySBIF-5VE75pU2Yzeh6PoJOMJ7NJg6Qar9gmZFZqx-s0NnjrV5mW1FPFbgzC_JlyTmV-dkTQf0AW_MAQ_GJADc7oA8h6UQRyQFfvizc8RMR-S4uTSLTeClreCYkYxVq8GoQY5jVom76kHS3umrXNumF9uQEyhOVeQsVgjQAX2JVhMve-aT-OJG6bJZmEYL-evB53dD6ANd5k_m1Z7bGCxHGM4Zw77X9LahuRBZC1d-iXbTkNKr6MasI2m8m1fQq2nOJ6TSrhempU1xBmM6ihUpVM9uaNP3ecvzLBEtlioHhqrMxZ1qcZy207BmS2IPWiRRfrr_ofTXWCl10tubLCmLfVNAeQoc5yWIdKMzDB47tBSg01CUnMHf8wKF-m27D-RshqMzoWsyc2re1p6BrImjc1giNgyryeQ49T_iF3HDvTQQ2JEOCL1nXVQX-58OPgiJ9pGQB6VBJ756LRGGtvFjpXgdHfd0fTxaYE1rJ4eFYCMN9m607S8O0pLOu_ri49vMjJa6SxMVLw-C16znHd7al8s90-df6k_eO9dycQqzuT-V5fXWU8rWZrlo_Fl7Is1vh1XS-3D4KfbxwzM3B-OEZqYY9e5oFN0RnIeLwqHkHunILY3b9NU6m-HtUGS6hlir1LbunY0CUt61NvKxTcgagZ5vpuFYrGr2cqcnBfBW-r3ecuZMXIENR3-GFFDZz_gDKXhSi4DTZzwEXUTA0YVJRPVIsj5HCq-70-3QgDKFUT3vk36zW71LysWiHlu1eIblN7OMpmWQ5MMWrG8nVMuDCpLvo5z4XTU06VzGRjYQ2gvUxGSJPIXu4Pip-cCfEE8VtpsaIJyc68oVcRJcDHc5a4ky3zJR8z85BfK8rKxDNQ5ydyn3dFHitqXM5JveHcq-m2Wir63pnlZPQc8JMbw5tdmUto931iRQdFA8_xtPZYi3WlSxL2aV0RVixwZmOt_Pv64wqHogtLsv0OX9VLkQhbs0eN_5V9JTnbusU_wGoqfl5"
+          },
+          {
+            "name": "12 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=DJ7h7nicbVTLrqNGEI1mnUUW-YVsYlmC5mHIDszDxgbMq3lsLEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c1YM7cnY7SHfrumLkL4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0Fh_WRZ0mComcczzE8xTAMxfx5sE3p-GPbp8sN989XvYoHfB0Wya3vcTMsUtzgPh7ytlkgfC2Htlsc1ovr0PbzLRZJW3dt8-bX4wrHV4wWgADMm2AXDX58Sru3Z_wg3Mc6R1-ZFUuzADAMx_IAEPPhY3cfXrL0Ja1ebteXrHrBzec27u7n5PuHX-X2Ia2vj7XldR2UbMKhoiCqEG1sMhXLI2MRcI_VzIJkC2xXKfeByCK1ouICXuBk1EY5ACMIaVh1sieTu3gTtX5t7HyVYeyyk8JCaXGhP2yVaV0KxbAcQq80AJr5ko1yjkrtgsjoFgfVVgfew1cUJqpJAkG-dKiM8gqLMOrBcT0EbX84G3XkI8V6wiIhk0bbm4G9wxutSDaiFstwa-Tk05QyKvGSB4LaHjbGHgbiAwFuskEXQNIOQ5IDnpTO3NEDEdk2KgwiUfl1UvNMQEYKVOFFJ4YgqUTN8CDpbDTFqizSDazR9uUHKrIGygSpA77AigjnvfVI7X4iNckojDwA3WXv8Zqudj6usjrxKtdo9Cci9EcE4c5tuqtfXokkgIq3QdtwzmlYdkNSErRXj4rhlrTrEONpUnLDVcaohDCeRBMVimo0FWl4nWl76QgLeYyA7iiTPiVqlCUNNK0JktiF5okUn4436z0lUnNNtDfG0_Qjz5DRDkKbOUli5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVEBRmcExmiq3r0pXR5Sio3EYP9L0i8lkGXVf4g1xxb00EViRDgs9J25Y5_v7hZ0Fe_0ZJAtKgHN9cB4nCUn6y61vlH7RldziZYDrScgb3h1zob5tk2Zoqptca62j31LEev1Hi4nh08NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsRnjWrSc191wbUo652hjfXT1WsWuNk-AE6CyEHB5Ud0-XTq5PjrfExzF6jyrBOdRcpa5hd3QEiOK6sYineTqeAejYejwslZJGT3usMzBdhPf1hjO20gxkKOodnq-DesruQN6JQuifRuvR4zz0-zo4llSHZNNl1sFFs7td3BO6UCinHfKuZuO1MXmftX3Dts-A3Bytw-k4SpJviBcnlMp5wAXHNtXOXSYa6vpcRkQyEOoAlodjH7oy2cHlQfb8GyGeKG411no02uGBz6U8TPd0MKlHe7wmxtpzrQxEt6o0fdHYR8mp2FV1jpeqMhXD8XaXb-U46U15WW7NYhQ6Tpjo1b5JLqypN9vuuA73sovvw-lssibrrE1T3sZ0SZiRzhm2u_Vuy4TK74jN03n6nF9_l1M6F33jflL55y6F-UlVinjcGtvUnuKgq3apN-q5SITp_3fuAcc"
+          },
+          {
+            "name": "14 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=JYic_3icbVRJruM2EA16nUUWuUI2MQxI1GApO2u0ZUuyJmrYGLJIax4sy7Ys5DS_0w10lp0Gcpbfi5wl-n_dXBTBqnqvyCpW_ffTLy84_5eiunPc3wyRuT0Zoz30W5G6rMMvXd-iWzLk6BsJKIoAYMVSDMXRJMfzDPkliYe4atMc_UMzJMdwPEdTDE0THEtQ3NcMx6jKG2yez7iX2mR2Y3gOsIBcrSiapWfGWfyd13GK383fSHIFCJKlViuWoFeAJyiC-tij6ys4iEeeJQmKnnE8x_AUwzAU8-fBNqXjj22fLjfcP1_1Kh7wdVgkt77HzbBIcYP7eMjbZoHwtRzabnEQF9eh7edbLJK27trmza_HFY6vGC0AAZg3wS4a_PiUdm_P-EG4j3WOvjIrlmYBYBiO5QEg5sPH7j68ZOlLWr3cri9Z9YKbz23c3c_J9w-_yu1DEq8P0fK6Dko24VBREFWINjaZiuWRsQi4x2pmQbIFtquU-0BgkVpRcQEvcDJqoxyAEYQ0rDrZk8ldvIlavzZ2vsowdtlJYaG0uNAftsq0LoViWA6hVxoAzXzJRjlHpXZBZHSLg2qrA-_hKwoT1SSBIF86VEZ5hUUY9eC4HoK2P5yNOvKRYj1hkZBJo-3NwN7hjVYkG0GLZbg1cvJpShmVeMkDQW0PG2MPA-GBADfZoAsgaYchyQFPSmfu6IGIbBsVBpGovJjUPBOQkQJVeNGJIUgqQTM8SDobTbEqi3QDa7R9-YGKrIEyQeqAL7AiwHlvPVK7n0hNMgojD0B32Xu8pqudj6usTrzKNRr9iQj9EUG4c5vu6pdXIgmg4m3QNpxzGpbdkJQE7dWjYrgl7TrEeJqU3HCVMSohjCfBRIWiGk1FGl5n2l46wkIeI6A7yqRPiRplSQNNa4IkdqF5IoWn4816T4nUXBPsjfE0_cgzZLSD0GZOklD5MnP3gG25Pgp0Zc4JzGzPt6m_xmt_fiXWCjM4JjPF1nXpyuhyXKvcRg_0vSLwWQZdd_0HueLemgisSIYEn5O2LXP8_cPPa1n8jZLWSINyfHMdJKyX8pMVb5V_0Jbd4WSC6UjLGdwf8nV_2yTL1lQxLWqso91Tx3r8RgmL49HBc8PgpePahze2ufKPeP7X2oN3D9VUnwKs7E7FeXmx5eK5Gi9qN-RuwLOb9bNuPam559qQcszVxvju6rGKXWuc1k6AzuuQw4Pq7unSyfXJ8Zb4OEbvUSU4h5qr1DXsjo4AUVw3FvE0T8czAB1bj4elUtLoaY91BqbL-n294YytNAMZinqH52JQT9kdyDthHfqn0Xr0OA_9vg6OJdUh2XQZMbhodreLe0JfF8pph7yr2XhtTN5nbd-w7TMgN0frcDqOkuQbwsUJpXIecMGxTbVzlwmGKp7LiEgGQh3A8nDsQ1cmO7g8yJ5_I4QTxa3GWo9GOzzwuZSH6Z4OJvVoj9fEED3XykB0q0rTF4x9lJyKXVXneKkqUzEcb3f5Vo6T3pSX5dYsxnXHrSd6tW-SC2vqzbY7iuFedvF9OJ1N1mQd0TTlbUyXhBnpnGG7W--2TKj8jtg8nafP-fV3OaVzwTfuJ5V_7lKYn1SliMetsU3tKQ66apd6oyEKRJj-D3c2AaI"
+          },
+          {
+            "name": "16 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eN0nJnicbVTLrqNGEI1mnUUW-YVsYlmC5mHIDszDxgbMq3lsLEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c1YM7cnY7SHfrumLkL4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0Fh_WRZ0mComcczzE8xTAMxfx5sE3p-GPbp8sN989XvYoHfB0Wya3vcTMsUtzgPh7ytlkgfC2Htlsc1ovr0PbzLRZJW3dt8-bX4wrHV4wWgADMm2AXDX58Sru3Z_wg3Mc6R1-ZFUuzADAMx_IAEPPhY3cfXrL0Ja1ebteXrHrBzec27u7n5PuHX-X2Ia2vj7XldR2UbMKhoiCqEG1sMhXLI2MRcI_VzIJkC2xXKfeByCK1ouICXuBk1EY5ACMIaVh1sieTu3gTtX5t7HyVYeyyk8JCaXGhP2yVaV0KxbAcQq80AJr5ko1yjkrtgsjoFgfVVgfew1cUJqpJAkG-dKiM8gqLMOrBcT0EbX84G3XkI8V6wiIhk0bbm4G9wxutSDaiFstwa-Tk05QyKvGSB4LaHjbGHgbiAwFuskEXQNIOQ5IDnpTO3NEDEdk2KgwiUfl1UvNMQEYKVOFFJ4YgqUTN8CDpbDTFqizSDazR9uUHKrIGygSpA77AigjnvfVI7X4iNckojDwA3WXv8Zqudj6usjrxKtdo9Cci9EcE4c5tuqtfXokkgIq3QdtwzmlYdkNSErRXj4rhlrTrEONpUnLDVcaohDCeRBMVimo0FWl4nWl76QgLeYyA7iiTPiVqlCUNNK0JktiF5okUn4436z0lUnNNtDfG0_Qjz5DRDkKbOUli5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVEBRmcExmiq3r0pXR5Sio3EYP9L0i8lkGXVf4g1xxb00EViRDgs9J25Y5_v7hZ0Fe_0ZJAtKgHN9cB4nCUn6y61vlH7RldziZYDrScgb3h1zob5tk2Zoqptca62j31LEev1Hi4nh08NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsRnjWrSc191wbUo652hjfXT1WsWuNk-AE6CyEHB5Ud0-XTq5PjrfExzF6jyrBOdRcpa5hd3QEiOK6sYineTqeAejYejwslZJGT3usMzBdhPf1hjO20gxkKOodnq-DesruQN6JQuifRuvR4zz0-zo4llSHZNNl1sFFs7td3BO6UCinHfKuZuO1MXmftX3Dts-A3Bytw-k4SpJviBcnlMp5wAXHNtXOXSYa6vpcRkQyEOoAlodjH7oy2cHlQfb8GyGeKG411no02uGBz6U8TPd0MKlHe7wmxtpzrQxEt6o0fdHYR8mp2FV1jpeqMhXD8XaXb-U46U15WW7NYhQ6Tpjo1b5JLqypN9vuuA73sovvw-lssibrrE1T3sZ0SZiRzhm2u_Vuy4TK74jN03n6nF9_l1M6F33jflL55y6F-UlVinjcGtvUnuKgq3apNxq5SITp_3f0Acg"
+          },
+          {
+            "name": "18 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mKhP03icbVRJruM2EA16nUUWuUI2MQxI1GApO2u0ZUuyJmrYGLJIax4sy7Ys5DS_0w10lp0Gcpbfi5wl-n_dXBTBqnqvyCpW_ffTLy84_5eiunPc3wyRuT0Zoz30W5G6rMMvXd-iWzLk6BsJKIoAYMVSDMXRJMfzDPkliYe4atMc_UMzJMdwPEdTDE0THEtQ3NcMx6jKG2yez7iX2mR2Y3gOsIBcrSiapWfGWfyd13GK383fSHIFCJKlViuWoFeAJyiC-tij6ys4iEeeJQmKnnE8x_AUwzAU8-fBNqXjj22fLjfcP1_1Kh7wdVgkt77HzbBIcYP7eMjbZoHwtRzabnEQF9eh7edbLJK27trmza_HFY6vGC0AAZg3wS4a_PiUdm_P-EG4j3WOvjIrlmYBYBiO5QEg5sPH7j68ZOlLWr3cri9Z9YKbz23c3c_J9w-_yu1DEq8P0fK6Dko24VBREFWINjaZiuWRsQi4x2pmQbIFtquU-0BgkVpRcQEvcDJqoxyAEYQ0rDrZk8ldvIlavzZ2vsowdtlJYaG0uNAftsq0LoViWA6hVxoAzXzJRjlHpXZBZHSLg2qrA-_hKwoT1SSBIF86VEZ5hUUY9eC4HoK2P5yNOvKRYj1hkZBJo-3NwN7hjVYkG0GLZbg1cvJpShmVeMkDQW0PG2MPA-GBADfZoAsgaYchyQFPSmfu6IGIbBsVBpGovJjUPBOQkQJVeNGJIUgqQTM8SDobTbEqi3QDa7R9-YGKrIEyQeqAL7AiwHlvPVK7n0hNMgojD0B32Xu8pqudj6usTrzKNRr9iQj9EUG4c5vu6pdXIgmg4m3QNpxzGpbdkJQE7dWjYrgl7TrEeJqU3HCVMSohjCfBRIWiGk1FGl5n2l46wkIeI6A7yqRPiRplSQNNa4IkdqF5IoWn4816T4nUXBPsjfE0_cgzZLSD0GZOklD5MnP3gG25Pgp0Zc4JzGzPt6m_xmt_fiXWCjM4JjPF1nXpyuhyXKvcRg_0vSLwWQZdd_0HueLemgisSIYEn5O2LXP8_cPPa1n8jZLWSINyfHMdJKyX8pMVb5V_0Jbd4WSC6UjLGdwf8nV_2yTL1lQxLWqso91Tx3r8RgmL49HBc8PgpePahze2ufKPeP7X2oN3D9VUnwKs7E7FeXmx5eK5Gi9qN-RuwLOb9bNuPam559qQcszVxvju6rGKXWuc1k6AzuuQw4Pq7unSyfXJ8Zb4OEbvUSU4h5qr1DXsjo4AUVw3FvE0T8czAB1bj4elUtLoaY91BqbL-n294YytNAMZinqH52JQT9kdyDthHfqn0Xr0OA_9vg6OJdUh2XQZMbhodreLe0JfF8pph7yr2XhtTN5nbd-w7TMgN0frcDqOkuQbwsUJpXIecMGxTbVzlwmGKp7LiEgGQh3A8nDsQ1cmO7g8yJ5_I4QTxa3GWo9GOzzwuZSH6Z4OJvVoj9fEED3XykB0q0rTF4x9lJyKXVXneKkqUzEcb3f5Vo6T3pSX5dYsxnXHrSd6tW-SC2vqzbY7iuFedvF9OJ1N1mQd0TTlbUyXhBnpnGG7W--2TKj8jtg8nafP-fV3OaVzwTfuJ5V_7lKYn1SliMetsU3tKQ66apd6oykKRJj-D3c8AaM"
+          },
+          {
+            "name": "22 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eMrSpnicbVTLrqNGEI1mnUUW-YVsYlmC5mHIDszDxgbMq3lsLEy3eT-MsY1RvuZOZqTJcjJSvuXOIt8S7l1PL6rVVXVOdVd11X8__fKC838pqjvH_c1YM7cnY7SHfrumLkL4petbdEuGHH0jAUURAKxYiqE4muR4niG_JPEQV22ao39ohuQYjudoiqFpgmMJivua4RhVeYPN8xn3UpvMbgzPARaQqxVFs_TMOIu_8zpO8bv5G0muAEGy1GrFEvQK8ARFUB97dH0Fh_WRZ0mComcczzE8xTAMxfx5sE3p-GPbp8sN989XvYoHfB0Wya3vcTMsUtzgPh7ytlkgfC2Htlsc1ovr0PbzLRZJW3dt8-bX4wrHV4wWgADMm2AXDX58Sru3Z_wg3Mc6R1-ZFUuzADAMx_IAEPPhY3cfXrL0Ja1ebteXrHrBzec27u7n5PuHX-X2Ia2vj7XldR2UbMKhoiCqEG1sMhXLI2MRcI_VzIJkC2xXKfeByCK1ouICXuBk1EY5ACMIaVh1sieTu3gTtX5t7HyVYeyyk8JCaXGhP2yVaV0KxbAcQq80AJr5ko1yjkrtgsjoFgfVVgfew1cUJqpJAkG-dKiM8gqLMOrBcT0EbX84G3XkI8V6wiIhk0bbm4G9wxutSDaiFstwa-Tk05QyKvGSB4LaHjbGHgbiAwFuskEXQNIOQ5IDnpTO3NEDEdk2KgwiUfl1UvNMQEYKVOFFJ4YgqUTN8CDpbDTFqizSDazR9uUHKrIGygSpA77AigjnvfVI7X4iNckojDwA3WXv8Zqudj6usjrxKtdo9Cci9EcE4c5tuqtfXokkgIq3QdtwzmlYdkNSErRXj4rhlrTrEONpUnLDVcaohDCeRBMVimo0FWl4nWl76QgLeYyA7iiTPiVqlCUNNK0JktiF5okUn4436z0lUnNNtDfG0_Qjz5DRDkKbOUli5cvM3QO25foo0JU5JzCzPd-m_hqv_fmVEBRmcExmiq3r0pXR5Sio3EYP9L0i8lkGXVf4g1xxb00EViRDgs9J25Y5_v7hZ0Fe_0ZJAtKgHN9cB4nCUn6y61vlH7RldziZYDrScgb3h1zob5tk2Zoqptca62j31LEev1Hi4nh08NwweOm49uGNba78I57_tfbg3UM11acAK7tTcV5ebLl4rsaL2g25G_DsRnjWrSc191wbUo652hjfXT1WsWuNk-AE6CyEHB5Ud0-XTq5PjrfExzF6jyrBOdRcpa5hd3QEiOK6sYineTqeAejYejwslZJGT3usMzBdhPf1hjO20gxkKOodnq-DesruQN6JQuifRuvR4zz0-zo4llSHZNNl1sFFs7td3BO6UCinHfKuZuO1MXmftX3Dts-A3Bytw-k4SpJviBcnlMp5wAXHNtXOXSYa6vpcRkQyEOoAlodjH7oy2cHlQfb8GyGeKG411no02uGBz6U8TPd0MKlHe7wmxtpzrQxEt6o0fdHYR8mp2FV1jpeqMhXD8XaXb-U46U15WW7NYhQ6Tpjo1b5JLqypN9vuuA73sovvw-lssibrrE1T3sZ0SZiRzhm2u_Vuy4TK74jN03n6nF9_l1M6F33jflL55y6F-UlVinjcGtvUnuKgq3ap99RzkQjT_wF39QHI"
+          },
+          {
+            "name": "24 TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gF1IlHicbVTJ0qM2EE7lnEMOeYWcXK4CsRhyY7exAbOJ5eICJJsdjLGNqTzNP0mqJsfJVPIsM4c8S_jnHB1ape7-vpa61f3vdz--4eIfiurPyXA3Jeb-YszuOOwk6ipEH_uhQ_dsLNBnElAUAcCGpRiKo0mO5xnyY5aMSd1dCvQXzZAcw_EcTTE0TXAsQXGfcpygumixdT7jQe6yxY3hOcACcrOhaJZeGBfxZ9EkF_zN_JkkN4AgWWqzYQl6A3iCIqgPA7p9AUfpxLMkQdELjucYnmIYhmJ-PTqWfPp_2-_XOx5eX4w6GfFtXGX3YcDtuLrgFg_JWHTtCuFbNXb96iitbmM3LLdYZV3Td-2734BrnNwwWgECMO-CXbX4-fulf3_G_4T70BToE7NhaRYAhuFYHgBiOXzoH-Nbfnm71G_321tev-H2jy7pH-fs6_c_Kd1Tlm5Pyfb7HsoO4VJxGNeINre5hpWJsQl4wFpuQ7IDjqdWh1BkkVZTSQmvcDYbsxqBGUY0rHvFV8h9so27oDH3gcYwTtXLUal2uDSejsZ0HoUSWI2RX5kALXzZVj3HlX5FZHxPwnpnAP8ZqCoTNySBIF-5VE75pU2Yzeh6PoJOMJ7NJg6Qar9gmZFZqx-s0NnjrV5mW1FPFLgzC_JlyTmV-dkTQf0AW_MAQ_GJADc7oA8h6UQRyQFfvizc8RMR-S4uTSLTeClreCYkYxVq8GoQY5jVom76kHS3umrXNumF9uQEyhOVeQsVgjQAX2JVhMve-aT-SEldNkuzCEF_Pfi8bmh9gOu8yfzaM1vjhQjjGUO499r-FlQ3Iguh6m_RLlpyGlX9mFUE7TeTanoV7bnElM5qYXrqFFcQJrNooVLVzLYmTb-3HP8ywVKZYmC46mzMmRbnWQste4Yk9qCVkuLL9Re9r8ZaoYvO1nxZQeybCtpD6DCpLNaBwjx84NhegEJDXXICc8cPHOq36TacvxCCyoyuxcyJfVt7CrqeBI3bGqFxUEU-z6HnCb-QG-69icCGZEjwR9Z1VYG_fv-DoEg_U7KAdKgkd89ForBWXqx0r4Ojvu6PqQXmE63k8HAshOG-zdadpWFa0llXf1xc-_kzJa5OJxcvDYPXrucc39mWyj-T5V_rT9471nOThljdp-V5fXWU8rWZrlo_Fl7Is1vh1XS-3D4KfbxwzM3B-OEZiYY9e5oFN0RnIeLwqHkHunILY3b9NT5N8beoMlxCLVXqW3ZPx4Aob1ubeFnp6QxAzzbTca1WNHo5U5OD-Sp8W-84cycvQIaivsELKWzm_AGUvShEQTrZzwEXUTA04amieqRYHiOFV93p98lAGEKppnvk36zW7xLysWiHlu1eIbk92cf0NMlyYIpXN5KrZcCFp-6in_tcNDXpXMVENhLaCNbH0xB5CtnD9VHxgzshphS3mRojnpzoyBdyEV0OdDhrJ2e6Zabke3YO4ntdWYFoHuIsLfd1U-C1ps7leLo_lHs1zUZbXdc7q5yEnhNmenNosytrGe2uP0nRQfHwY0zPFmuxrmRZyi6hK8KKDc50vJ1_X2dU8UBscVmmz_lv5UIXYmA-Uo1_7S-wSDW1TJ7_AZ1I-ls"
+          },
+          {
+            "name": "26 TB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=M5TR3HicbVTJzqNGEI7mnEMOeYU5WZagWQy5sdvYgNma5YIw3TY7GGMbozzNP5mRkmMyUp5lcsizhH_O6UO1uqq-r7qruurfH356w8XfFNWf0-FuSsz9xZjdcdhJ1FWIfu-HDt2zsUBfSUBRBAAblmIojiY5nmfI37N0TOvuUqC_aIbkGI7naIqhaYJjCYr7M8cpqosWW-czHuQuW9wYngMsIDcbimbphXERfxRNesHfzV9JcgMIkqU2G5agN4AnKIL6NKDbN3CUEp4lCYpecDzH8BTDMBTz69Gx5OT_bZ-vdzy8vhl1OuLbuMruw4DbcXXBLR7SsejaFcK3auz61VFa3cZuWG6xyrqm79p3vwHXOL1htAIEYN4Fu2rx8_Olf3_G_4T71BToT2bD0iwADMOxPADEcvjUP8a3_PJ2qd_ut7e8fsPtly7tH-fsnw8_K91Tlm5Pyfb7HsoO4VJxGNeINre5hpWJsQl4wFpuQ7IDjqdWh1BkkVZTaQmvcDYbsxqBGUY0rHvFV8h9uo27oDH3gcYwTtXLUal2uDSejsZ0HoVSWI2RX5kALXzZVj3HlX5FZHxPw3pnAP8ZqCoTNySBIF-5VE75pU2Yzeh6PoJOMJ7NJg6Qar9gmZFZqx-s0NnjrV5mW1FPFbgzC_JlyTmV-dkTQf0AW_MAQ_GJADc7oA8h6UQRyQFfvizc8RMR-S4uTSLTeClreCYkYxVq8GoQY5jVom76kHS3umrXNumF9uQEyhOVeQsVgjQAX2JVhMve-aT-OJG6bJZmEYL-evB53dD6ANd5k_m1Z7bGCxHGM4Zw77X9LahuRBZC1d-iXbTkNKr6MasI2m8m1fQq2nOJ6TSrhempU1xBmM6ihUpVM9uaNP3ecvzLBEtlioHhqrMxZ1qcZy207BmS2IPWiRRfrr_ofTXWCl10tubLCmLfVNAeQoc5yWIdKMzDB47tBSg01CUnMHf8wKF-m27D-RshqMzoWsyc2re1p6BrImjc1giNgyryeQ49T_iF3HDvTQQ2JEOCL1nXVQX-58OPgiJ9pGQB6VBJ756LRGGtvFjpXgdHfd0fTxaYE1rJ4eFYCMN9m607S8O0pLOu_ri49vMjJa6SxMVLw-C16znHd7al8s90-df6k_eO9dycQqzuT-V5fXWU8rWZrlo_Fl7Is1vh1XS-3D4KfbxwzM3B-OEZqYY9e5oFN0RnIeLwqHkHunILY3b9NU6m-HtUGS6hlir1LbunY0CUt61NvKxTcgagZ5vpuFYrGr2cqcnBfBW-r3ecuZMXIENR3-GFFDZz_gDKXhSi4DTZzwEXUTA0YVJRPVIsj5HCq-70-3QgDKFUT3vk36zW71LysWiHlu1eIblN7OMpmWQ5MMWrG8nVMuDCpLvo5z4XTU06VzGRjYQ2gvUxGSJPIXu4Pip-cCfEE8VtpsaIJyc68oVcRJcDHc5a4ky3zJR8z85BfK8rKxDNQ5ydyn3dFHitqXM5JveHcq-m2Wir63pnlZPQc8JMbw5tdmUto931iRQdFA8_xtPZYi3WlSxL2aV0RVixwZmOt_Pv64wqHogtLsv0OX9VLkQhbs0eN_5V9HZgt3WK_wCnaPk4"
+          }
+        ]
+      }
+    ]
+  }
+}

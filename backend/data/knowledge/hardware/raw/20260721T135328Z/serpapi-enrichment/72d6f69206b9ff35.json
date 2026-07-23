@@ -1,0 +1,513 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b0ce642501e0ca00e0c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b6VgfZugcBk6GPjxw6p6ow/6a5f7b0ce642501e0ca00e0c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/b6VgfZugcBk6GPjxw6p6ow/6a5f7b0ce642501e0ca00e0c.json_with_pixel_position",
+    "created_at": "2026-07-21 13:58:36 UTC",
+    "processed_at": "2026-07-21 13:58:36 UTC",
+    "google_url": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&oq=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b6VgfZugcBk6GPjxw6p6ow/6a5f7b0ce642501e0ca00e0c.html",
+    "total_time_taken": 2.23
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "WD My Book Desktop Hard Drive WDBBGB storage endurance_tbw protocol sequential_read_mb_s sequential_write_mb_s",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "WD My Book Desktop Hard Drive WDBBGB storage endurance_tbw protocol sequential_read_mb_s sequential_write_mb_s",
+    "total_results": 475,
+    "time_taken_displayed": 0.59,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is WD My Book still supported?",
+      "type": "ai_overview",
+      "page_token": "gxWBHnicHdDbboIwGADg7GV2OcEDCyZmCdKKZMVQ2h_lZoEWrdJyUCbq3d5lT7Wn2bIn-JLv61sf6-rn6ar6vr3MR6NhGF4OTXPQ5YtozCi_3GsxErnWRS6qufPq2G97sUCfa2_Zrb2Yty341EomyubImsI2m2RcGo70ObZdXOCqF34YF6AN0-6xxLRLIWxlSqYJeO_8pJo8oBWrlSe30MWpCrNVdCZ8tgEzW6W-UmyFr4xBt7MuA4yjoEhnTgLrMUEQE-R21OodhiUi2G03KOJ_rpcYN85ZNPAAbG6Ru6zajiHISKByYUUdHdsTYAqXPCSlL1fUutV5lS1LHXrJg1KkJEoCanap60g-ncEju8kgiosUnKzGlNLmGHP6ECdtuGm3cJK7Db-x3K8eSZotBURQ-rgj1XCTPAzl8LwX18Xk-f9z8bE3_bw9N4df7AuChg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gxWBHnicHdDbboIwGADg7GV2OcEDCyZmCdKKZMVQ2h_lZoEWrdJyUCbq3d5lT7Wn2bIn-JLv61sf6-rn6ar6vr3MR6NhGF4OTXPQ5YtozCi_3GsxErnWRS6qufPq2G97sUCfa2_Zrb2Yty341EomyubImsI2m2RcGo70ObZdXOCqF34YF6AN0-6xxLRLIWxlSqYJeO_8pJo8oBWrlSe30MWpCrNVdCZ8tgEzW6W-UmyFr4xBt7MuA4yjoEhnTgLrMUEQE-R21OodhiUi2G03KOJ_rpcYN85ZNPAAbG6Ru6zajiHISKByYUUdHdsTYAqXPCSlL1fUutV5lS1LHXrJg1KkJEoCanap60g-ncEju8kgiosUnKzGlNLmGHP6ECdtuGm3cJK7Db-x3K8eSZotBURQ-rgj1XCTPAzl8LwX18Xk-f9z8bE3_bw9N4df7AuChg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiSXMgV0QgTXkgQm9vayBzdGlsbCBzdXBwb3J0ZWQ/IiwibGsiOiJHaDFwY3lCM1pDQnRlU0JpYjI5cklITjBhV3hzSUhOMWNIQnZjblJsWkEiLCJicyI6ImMzMlF2US1DTUJCSDQzcVRocTJKZXFzZkU3b1REWU1Nemd4T1lCdmFnQnhwQzVYXzNtb2tnY1M0WHQ3djVmTGdCS3ZFWUJyanRjY3pVWW5HcXFwQzB6WU5hU3Q0Rks3WlVobDBIQjg5NWo4SXVNSC1RZzQ1WVlLdEVXT1plRnFoNjZ4Q21XbU9YS3RPUk9HT2JhVG5MWDNva2ZnSERTVWNVcGxaOUM5WTZkM0N2Qm1NVmFIc2hNUTcxVlpUSjdUcG9fRElRamVhdWUtTV81M0JGb0pwaklMSUZ3allZaWlRRDlmNTdBVSIsImlkIjoiZmNfREh0ZmFvenVOOVc2cXRzUG1lemZxUUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiSXMgV0QgTXkgQm9vayBzdGlsbCBzdXBwb3J0ZWQ%2FIiwibGsiOiJHaDFwY3lCM1pDQnRlU0JpYjI5cklITjBhV3hzSUhOMWNIQnZjblJsWkEiLCJicyI6ImMzMlF2US1DTUJCSDQzcVRocTJKZXFzZkU3b1REWU1Nemd4T1lCdmFnQnhwQzVYXzNtb2tnY1M0WHQ3djVmTGdCS3ZFWUJyanRjY3pVWW5HcXFwQzB6WU5hU3Q0Rks3WlVobDBIQjg5NWo4SXVNSC1RZzQ1WVlLdEVXT1plRnFoNjZ4Q21XbU9YS3RPUk9HT2JhVG5MWDNva2ZnSERTVWNVcGxaOUM5WTZkM0N2Qm1NVmFIc2hNUTcxVlpUSjdUcG9fRElRamVhdWUtTV81M0JGb0pwaklMSUZ3allZaWlRRDlmNTdBVSIsImlkIjoiZmNfREh0ZmFvenVOOVc2cXRzUG1lemZxUUVfNSJ9"
+    },
+    {
+      "question": "How do I use WD My Book external hard drive?",
+      "type": "ai_overview",
+      "page_token": "NjZPt3icHdBRboIwAIDh7DI-TirCMhOzDCmi0yqFFu3LAq2KawtsIkXedpedaqeZ2Qn-L__3jzqX8vehLZqmvkyGQ2PM46mqTurwyCs9zC63kg95plSecTlxn1zwcuRTeF14s8-FF5G6pj62kpk1QqRouFW7mAYeksuSj4RExHGRL9RBU4-k3TL3vUuyq6vI9rIEijHXghwkpRS89rxEb1h2KwHVWvgsXe3YmhHAMtikiUYzTtiWB0FGkkJRDZYYNrckVFuusI9t2GUSy1w7bg7re1saLGmcB7TjCq2iHl15akxMgB1boI8Dr6VzZYRFo_0oqDZkGW3m-9tqVzg0YSUsBIxDrPfpsyvI2KE960SIojylLisDjHF1jgju-YfSRDYAp6BNQ4H2OnIOpbBzm8EdoIaEAtzNY2EGR95O7cH_z-n7UTeT-qs6_QFknIOF",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NjZPt3icHdBRboIwAIDh7DI-TirCMhOzDCmi0yqFFu3LAq2KawtsIkXedpedaqeZ2Qn-L__3jzqX8vehLZqmvkyGQ2PM46mqTurwyCs9zC63kg95plSecTlxn1zwcuRTeF14s8-FF5G6pj62kpk1QqRouFW7mAYeksuSj4RExHGRL9RBU4-k3TL3vUuyq6vI9rIEijHXghwkpRS89rxEb1h2KwHVWvgsXe3YmhHAMtikiUYzTtiWB0FGkkJRDZYYNrckVFuusI9t2GUSy1w7bg7re1saLGmcB7TjCq2iHl15akxMgB1boI8Dr6VzZYRFo_0oqDZkGW3m-9tqVzg0YSUsBIxDrPfpsyvI2KE960SIojylLisDjHF1jgju-YfSRDYAp6BNQ4H2OnIOpbBzm8EdoIaEAtzNY2EGR95O7cH_z-n7UTeT-qs6_QFknIOF",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiSG93IGRvIEkgdXNlIFdEIE15IEJvb2sgZXh0ZXJuYWwgaGFyZCBkcml2ZT8iLCJsayI6IkdpbG9iM2NnZEc4Z2RYTmxJSGRrSUcxNUlHSnZiMnNnWlhoMFpYSnVZV3dnYUdGeVpDQmtjbWwyWlEiLCJicyI6ImMzMlF2US1DTUJCSDQzcVRocTJKZXFzZkU3b1REWU1Nemd4T1lCdmFnQnhwQzVYXzNtb2tnY1M0WHQ3djVmTGdCS3ZFWUJyanRjY3pVWW5HcXFwQzB6WU5hU3Q0Rks3WlVobDBIQjg5NWo4SXVNSC1RZzQ1WVlLdEVXT1plRnFoNjZ4Q21XbU9YS3RPUk9HT2JhVG5MWDNva2ZnSERTVWNVcGxaOUM5WTZkM0N2Qm1NVmFIc2hNUTcxVlpUSjdUcG9fRElRamVhdWUtTV81M0JGb0pwaklMSUZ3allZaWlRRDlmNTdBVSIsImlkIjoiZmNfREh0ZmFvenVOOVc2cXRzUG1lemZxUUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiSG93IGRvIEkgdXNlIFdEIE15IEJvb2sgZXh0ZXJuYWwgaGFyZCBkcml2ZT8iLCJsayI6IkdpbG9iM2NnZEc4Z2RYTmxJSGRrSUcxNUlHSnZiMnNnWlhoMFpYSnVZV3dnYUdGeVpDQmtjbWwyWlEiLCJicyI6ImMzMlF2US1DTUJCSDQzcVRocTJKZXFzZkU3b1REWU1Nemd4T1lCdmFnQnhwQzVYXzNtb2tnY1M0WHQ3djVmTGdCS3ZFWUJyanRjY3pVWW5HcXFwQzB6WU5hU3Q0Rks3WlVobDBIQjg5NWo4SXVNSC1RZzQ1WVlLdEVXT1plRnFoNjZ4Q21XbU9YS3RPUk9HT2JhVG5MWDNva2ZnSERTVWNVcGxaOUM5WTZkM0N2Qm1NVmFIc2hNUTcxVlpUSjdUcG9fRElRamVhdWUtTV81M0JGb0pwaklMSUZ3allZaWlRRDlmNTdBVSIsImlkIjoiZmNfREh0ZmFvenVOOVc2cXRzUG1lemZxUUVfNSJ9"
+    },
+    {
+      "question": "What is the Western Digital hard drive controversy?",
+      "type": "ai_overview",
+      "page_token": "KQQGRHicHdDBkpowAADQ6c_scQ2gdHTG2SklAVuNSyCB5NIJiYgmQLqLQr31F_oN_ap-TTs9vuv7-dteevPnw692HN37ZrGYpun5PAxne3pWQ7eQ7z96tVDS2loqswk_ht5Lo7bwrqLPbyrKqHMsJqBAZpaGxLIbU5HCqQYMYu9TkHtkqf31BSfEaWZ8BaflCaKjfPBV1q2-i2QeddFyDN1DWnYrO-tq0FLJDBA9nwXQtzwhu0NBbB23KI8zoNJoJ017PPXRjpejpSWY60B8zWN0rZEJCiggTvCeFnhf-W2oKux0tzbcd6_cIC_vUHVIVjeBUFVc8aQZa2iCaIn0nTI8YCuiA0COMzurxPEjZFkOdSN9vMOeY7DVME9Jx8t1qOlyxR5i1inO6pKFokeEkOGSUfJQV9vRvmWVP-a8J0GB_pl-qcqevBZACEqzpSzJnmZPjbpvg6f_19tvTTdu3Ntw_gtWkoyn",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KQQGRHicHdDBkpowAADQ6c_scQ2gdHTG2SklAVuNSyCB5NIJiYgmQLqLQr31F_oN_ap-TTs9vuv7-dteevPnw692HN37ZrGYpun5PAxne3pWQ7eQ7z96tVDS2loqswk_ht5Lo7bwrqLPbyrKqHMsJqBAZpaGxLIbU5HCqQYMYu9TkHtkqf31BSfEaWZ8BaflCaKjfPBV1q2-i2QeddFyDN1DWnYrO-tq0FLJDBA9nwXQtzwhu0NBbB23KI8zoNJoJ017PPXRjpejpSWY60B8zWN0rZEJCiggTvCeFnhf-W2oKux0tzbcd6_cIC_vUHVIVjeBUFVc8aQZa2iCaIn0nTI8YCuiA0COMzurxPEjZFkOdSN9vMOeY7DVME9Jx8t1qOlyxR5i1inO6pKFokeEkOGSUfJQV9vRvmWVP-a8J0GB_pl-qcqevBZACEqzpSzJnmZPjbpvg6f_19tvTTdu3Ntw_gtWkoyn",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgV2VzdGVybiBEaWdpdGFsIGhhcmQgZHJpdmUgY29udHJvdmVyc3k/IiwibGsiOiJHakozYUdGMElHbHpJSFJvWlNCM1pYTjBaWEp1SUdScFoybDBZV3dnYUdGeVpDQmtjbWwyWlNCamIyNTBjbTkyWlhKemVRIiwiYnMiOiJjMzJRdlEtQ01CQkg0M3FUaHEySmVxc2ZFN29URFlNTXpneE9ZQnZhZ0J4cEM1WF8zbW9rZ2NTNFh0N3Y1ZkxnQkt2RVlCcmp0Y2N6VVluR3FxcEMwellOYVN0NEZLN1pVaGwwSEI4OTVqOEl1TUgtUWc0NVlZS3RFV09aZUZxaDY2eENtV21PWEt0T1JPR09iYVRuTFgzb2tmZ0hEU1VjVXBsWjlDOVk2ZDNDdkJtTVZhSHNoTVE3MVZaVEo3VHBvX0RJUWplYXVlLU1fNTNCRm9KcGpJTElGd2pZWWlpUUQ5ZjU3QVUiLCJpZCI6ImZjX0RIdGZhb3p1TjlXNnF0c1BtZXpmcVFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgV2VzdGVybiBEaWdpdGFsIGhhcmQgZHJpdmUgY29udHJvdmVyc3k%2FIiwibGsiOiJHakozYUdGMElHbHpJSFJvWlNCM1pYTjBaWEp1SUdScFoybDBZV3dnYUdGeVpDQmtjbWwyWlNCamIyNTBjbTkyWlhKemVRIiwiYnMiOiJjMzJRdlEtQ01CQkg0M3FUaHEySmVxc2ZFN29URFlNTXpneE9ZQnZhZ0J4cEM1WF8zbW9rZ2NTNFh0N3Y1ZkxnQkt2RVlCcmp0Y2N6VVluR3FxcEMwellOYVN0NEZLN1pVaGwwSEI4OTVqOEl1TUgtUWc0NVlZS3RFV09aZUZxaDY2eENtV21PWEt0T1JPR09iYVRuTFgzb2tmZ0hEU1VjVXBsWjlDOVk2ZDNDdkJtTVZhSHNoTVE3MVZaVEo3VHBvX0RJUWplYXVlLU1fNTNCRm9KcGpJTElGd2pZWWlpUUQ5ZjU3QVUiLCJpZCI6ImZjX0RIdGZhb3p1TjlXNnF0c1BtZXpmcVFFXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is WD My Book good?",
+      "type": "ai_overview",
+      "page_token": "AgI053icHdBfToMwHADgeJk9bgW2GZcsRrYWplkXOn6F9cXQ4v7RQh1VhDfv4qk8jYnfEb7vH32pq9-7_OycbReTSdd141PTnPTbWDVmUrR9rSaq0FoWqlrM7-fe41EtcduFq6YLE7CWrxna68NUrvWNQ_mxRXa3jfWlRDZL4CGRFfXpEIo0KM0-Z--AWVZe6SANFemwGVh6BhawVkSen-FZS-uq59VsAPzl77B9AURxAY23je2H5ESA71YpJrk0DlLjXdjAGlrRVgXlVfo8OqRsIyNa7MFrgbMqq2ZTjulKxmfCDXbCiFWRJ3uC2KaMxFkG1kuvOqc1QcoLncitUZyQ6PIcspj2u0xAgnTPg6dAxTQuCThAyJNr0me6cRJoyoDXo6P6XAaj_7Hl69G4hb01pz_pJ3j0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AgI053icHdBfToMwHADgeJk9bgW2GZcsRrYWplkXOn6F9cXQ4v7RQh1VhDfv4qk8jYnfEb7vH32pq9-7_OycbReTSdd141PTnPTbWDVmUrR9rSaq0FoWqlrM7-fe41EtcduFq6YLE7CWrxna68NUrvWNQ_mxRXa3jfWlRDZL4CGRFfXpEIo0KM0-Z--AWVZe6SANFemwGVh6BhawVkSen-FZS-uq59VsAPzl77B9AURxAY23je2H5ESA71YpJrk0DlLjXdjAGlrRVgXlVfo8OqRsIyNa7MFrgbMqq2ZTjulKxmfCDXbCiFWRJ3uC2KaMxFkG1kuvOqc1QcoLncitUZyQ6PIcspj2u0xAgnTPg6dAxTQuCThAyJNr0me6cRJoyoDXo6P6XAaj_7Hl69G4hb01pz_pJ3j0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiSXMgV0QgTXkgQm9vayBnb29kPyIsImxrIjoiR2hGcGN5QjNaQ0J0ZVdKdmIyc2daMjl2WkEiLCJicyI6ImMzMlF2US1DTUJCSDQzcVRocTJKZXFzZkU3b1REWU1Nemd4T1lCdmFnQnhwQzVYXzNtb2tnY1M0WHQ3djVmTGdCS3ZFWUJyanRjY3pVWW5HcXFwQzB6WU5hU3Q0Rks3WlVobDBIQjg5NWo4SXVNSC1RZzQ1WVlLdEVXT1plRnFoNjZ4Q21XbU9YS3RPUk9HT2JhVG5MWDNva2ZnSERTVWNVcGxaOUM5WTZkM0N2Qm1NVmFIc2hNUTcxVlpUSjdUcG9fRElRamVhdWUtTV81M0JGb0pwaklMSUZ3allZaWlRRDlmNTdBVSIsImlkIjoiZmNfREh0ZmFvenVOOVc2cXRzUG1lemZxUUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VsRTRRazlxTUhVeWIyMXZXbGxrVVZKQ01tb3hUMFpVY1VscWNEVkdNblF4YmxnMFJ6WlJVbHBIT0Rsc2VFUmlURlZRVkhOYU9UWkdWeTF3VUZWc1pVZGlSRUpTYTJka1MzY3dkakpIVlVWYVZYSndSRXh4ZW5aR1p4SVhSRWgwWm1GdmVuVk9PVmMyY1hSelVHMWxlbVp4VVVVYUlrRkVjM0k1WmxJelRuUjBjSGxVYzFwTk9GWm5MUzFvTlVWdVZWbERSMjVqV25jIiwiZmN2IjoiMyIsImVpIjoiREh0ZmFvenVOOVc2cXRzUG1lemZxUUUiLCJxYyI6ImMwM0lzUTJEUUF3RjBOUlVLVExBMzRRNlU1eHNiSkVUY0NZLXc0bUNGWmtKS1ZWZS1iclNCTXNCTnBzZ1dxZXdGUjl5Z1hqZUZVMllSMFlOY3hvVldtUnpLb09tNEliVkxXeXdHVldfbTViSU5DZFhrclJ3cXZfWlBJZi05dms0cjllN3Z3RSIsInF1ZXN0aW9uIjoiSXMgV0QgTXkgQm9vayBnb29kPyIsImxrIjoiR2hGcGN5QjNaQ0J0ZVdKdmIyc2daMjl2WkEiLCJicyI6ImMzMlF2US1DTUJCSDQzcVRocTJKZXFzZkU3b1REWU1Nemd4T1lCdmFnQnhwQzVYXzNtb2tnY1M0WHQ3djVmTGdCS3ZFWUJyanRjY3pVWW5HcXFwQzB6WU5hU3Q0Rks3WlVobDBIQjg5NWo4SXVNSC1RZzQ1WVlLdEVXT1plRnFoNjZ4Q21XbU9YS3RPUk9HT2JhVG5MWDNva2ZnSERTVWNVcGxaOUM5WTZkM0N2Qm1NVmFIc2hNUTcxVlpUSjdUcG9fRElRamVhdWUtTV81M0JGb0pwaklMSUZ3allZaWlRRDlmNTdBVSIsImlkIjoiZmNfREh0ZmFvenVOOVc2cXRzUG1lemZxUUVfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "yVX8S3icxZXhcqJIEIAf4J5j-WNOMWgSU0VtzQBRSNSwXtTkDwXMOKDAKINB82_f5Z7qnuYGFAOJmtqturqukqGbnp6emf7sn38HfrT45w_dS5Ilu2000jStE0pJgOsuDRs220ZuY0YDFrvedxLIayYwuo5d7CPZ9WIaYsELZBwJ21dZElwmiwL2ZbWXzGz6th50JlerhD2G-G22MjUhDydbjs3wnK-2mbOG1eCPxTdJ5Uqd1XFU76BHjJ14iDukfik2O_Vhww65A_hvhQA_exCgc0X_9FkBxPwqANCyp_LuV4TRSm5prkHII-Yeysl4JB98DfCAjzBqewyA7s7onkvEqKp32RTdhNkmdGWX6Ec5tjVYjGZZOypHPsJ93GLrrbNrZaLr1Th8Xc3KTWZ1Fb0cxMzMz_nr0ARYTYGXkvszuSoUqF0yMsmxWy7LEniPxToOEPlFNRDhdSg2nJgPzYbvem7-ErOsPJW_OiLt3oFY7022dBD1Bmi43Dy2kTqAq-4gIQ3X4X4BtRFGlmeJ33O9edlsix3p-uYi58JlBzBYBYynIHCGvYe-SesPddgsUUEOp1KSzPjj6DEXh3dkwv6Iye7StsUnWrxAavLJ7xPvVB2mABRotrJaU8nniuaxj1CRywGNPsipyJNTduM-ULkqCDlMKNVR78N65QxgEV7ROXuFrVvxrmSs8GNbHCDpV0OZnrYrPzjauwxhq8I3MEuastuiSSCsbkXf7aBV8ssuhvBSNl-4bhBy-DPKJ-n7hA7rvidVpY9fAVGetLO8npJz3OyFgKL8P1RzhYK1jaYp6OK-aHY0sJWc6Jmh-cNUsszjVU9D5xf6gfu_c5F3C1p0iyNceF9wkXcLcrpb7IsoLbjI_e6hcpKLRT5Wu0XvQ7c4xoVR5eJ0t3jnIkvlPBfwHBfwFBf8D_8TF-YJLopuUeJi8aFbwMOpZqZ3Ln69W9i_1y1yTPBuqLaO9ZycbCEavnaflpORtOqPEonReKzpRp92Hu7dr1vILExuQxsFF5aPbuGlkWzRhcUN9BYjYSVP1Fp_W4OULmoqZouELms9O0Y1NfZfcW2iQtiFNZbQ2Ca4hiO0ju3IxVbipLVlTBPq0qDG8GqNo8S3AyvGNrJCx2JlYxr7Cc6tQhjEVBbtq95mOtmY7fHUXMfJnNj3E0bbL6NQkp7d4Elpo5WhzjZEv1yNxgpdGHNDVOkylUI09cl22fSen9t9b7j8YbSw0pS0bowmbWMzTQdGj27vTY-w1h25o_4iGKPm2_V8_NL_02VaNBm_RvjJaWpLd96NzD7GGs6zYnL4ghDcGv4rSIUwdmVeki0CBiaYEOgChdebQviP8l_KL1Zgrm1h9ipfos6s074Wbeembd9c8XAk2S7ljiiwKJab_wKP0UR9",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yVX8S3icxZXhcqJIEIAf4J5j-WNOMWgSU0VtzQBRSNSwXtTkDwXMOKDAKINB82_f5Z7qnuYGFAOJmtqturqukqGbnp6emf7sn38HfrT45w_dS5Ilu2000jStE0pJgOsuDRs220ZuY0YDFrvedxLIayYwuo5d7CPZ9WIaYsELZBwJ21dZElwmiwL2ZbWXzGz6th50JlerhD2G-G22MjUhDydbjs3wnK-2mbOG1eCPxTdJ5Uqd1XFU76BHjJ14iDukfik2O_Vhww65A_hvhQA_exCgc0X_9FkBxPwqANCyp_LuV4TRSm5prkHII-Yeysl4JB98DfCAjzBqewyA7s7onkvEqKp32RTdhNkmdGWX6Ec5tjVYjGZZOypHPsJ93GLrrbNrZaLr1Th8Xc3KTWZ1Fb0cxMzMz_nr0ARYTYGXkvszuSoUqF0yMsmxWy7LEniPxToOEPlFNRDhdSg2nJgPzYbvem7-ErOsPJW_OiLt3oFY7022dBD1Bmi43Dy2kTqAq-4gIQ3X4X4BtRFGlmeJ33O9edlsix3p-uYi58JlBzBYBYynIHCGvYe-SesPddgsUUEOp1KSzPjj6DEXh3dkwv6Iye7StsUnWrxAavLJ7xPvVB2mABRotrJaU8nniuaxj1CRywGNPsipyJNTduM-ULkqCDlMKNVR78N65QxgEV7ROXuFrVvxrmSs8GNbHCDpV0OZnrYrPzjauwxhq8I3MEuastuiSSCsbkXf7aBV8ssuhvBSNl-4bhBy-DPKJ-n7hA7rvidVpY9fAVGetLO8npJz3OyFgKL8P1RzhYK1jaYp6OK-aHY0sJWc6Jmh-cNUsszjVU9D5xf6gfu_c5F3C1p0iyNceF9wkXcLcrpb7IsoLbjI_e6hcpKLRT5Wu0XvQ7c4xoVR5eJ0t3jnIkvlPBfwHBfwFBf8D_8TF-YJLopuUeJi8aFbwMOpZqZ3Ln69W9i_1y1yTPBuqLaO9ZycbCEavnaflpORtOqPEonReKzpRp92Hu7dr1vILExuQxsFF5aPbuGlkWzRhcUN9BYjYSVP1Fp_W4OULmoqZouELms9O0Y1NfZfcW2iQtiFNZbQ2Ca4hiO0ju3IxVbipLVlTBPq0qDG8GqNo8S3AyvGNrJCx2JlYxr7Cc6tQhjEVBbtq95mOtmY7fHUXMfJnNj3E0bbL6NQkp7d4Elpo5WhzjZEv1yNxgpdGHNDVOkylUI09cl22fSen9t9b7j8YbSw0pS0bowmbWMzTQdGj27vTY-w1h25o_4iGKPm2_V8_NL_02VaNBm_RvjJaWpLd96NzD7GGs6zYnL4ghDcGv4rSIUwdmVeki0CBiaYEOgChdebQviP8l_KL1Zgrm1h9ipfos6s074Wbeembd9c8XAk2S7ljiiwKJab_wKP0UR9"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "4TB My Book",
+      "link": "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.westerndigital.com%2Fproducts%2Fexternal-drives%2Fwd-my-book-usb-3-0-hdd&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECBkQAQ",
+      "displayed_link": "https://www.westerndigital.com › ... › External HDD",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABOElEQVR4Ae3WAURDURiG4XMJQ0EaYFFJBYxuoBBEBAEAkUTAFYBKAtIAECgACFEkGVpAoIAhcU1DoKCMcnovYY7_P3d3YDgfDwAv4DNhYQOxyW07iinj2VLNxpgzwlYfPsawhWHjbDlNE8Sme2_Pu1jpDkhgcY1pJaCODnYWT6wbEMPiApET8IIrJ-AGiRSQ6eAYI0KA_XeGkhCQORACflDJDXC0sYFICMg8oiIE_GLdCbA4zA-QnYsBQFMIyLwKAff9Btx6AtpKQEsIaISAEBACQkAI6DfgyBPQUAKehIC7ogHf2DRMCWiirASsCQF7RQJSxJ4_kGJc-QOXhgkB1V4D6igbpgS8Y0Z5RF-YEAJaiHoJqGHIc8k-MW-YErBvmBBwKl2yoqd0AbM5p7SknNKqfErDwgZgfyjfpx8VQOC1AAAAAElFTkSuQmCC.png",
+      "snippet": "The My Book drive is your dependable desktop storage companion, dedicated to protecting your entire digital world. With capacities reaching up to 26TB.",
+      "snippet_highlighted_words": [
+        "My Book drive"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The My Book drive is your dependable desktop storage companion, dedicated to protecting your entire digital world. With capacities reaching up to 26TB.",
+          "source_info_link": "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABOElEQVR4Ae3WAURDURiG4XMJQ0EaYFFJBYxuoBBEBAEAkUTAFYBKAtIAECgACFEkGVpAoIAhcU1DoKCMcnovYY7_P3d3YDgfDwAv4DNhYQOxyW07iinj2VLNxpgzwlYfPsawhWHjbDlNE8Sme2_Pu1jpDkhgcY1pJaCODnYWT6wbEMPiApET8IIrJ-AGiRSQ6eAYI0KA_XeGkhCQORACflDJDXC0sYFICMg8oiIE_GLdCbA4zA-QnYsBQFMIyLwKAff9Btx6AtpKQEsIaISAEBACQkAI6DfgyBPQUAKehIC7ogHf2DRMCWiirASsCQF7RQJSxJ4_kGJc-QOXhgkB1V4D6igbpgS8Y0Z5RF-YEAJaiHoJqGHIc8k-MW-YErBvmBBwKl2yoqd0AbM5p7SknNKqfErDwgZgfyjfpx8VQOC1AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.westerndigital.com%2Fproducts%2Fexternal-drives%2Fwd-my-book-usb-3-0-hdd&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.westerndigital.com%2Fproducts%2Fexternal-drives%2Fwd-my-book-usb-3-0-hdd",
+      "source": "Western Digital",
+      "read_more_link": "https://www.westerndigital.com/products/external-drives/wd-my-book-usb-3-0-hdd"
+    },
+    {
+      "position": 2,
+      "title": "WD My Book External Drive for Mac and Windows PC!",
+      "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU",
+      "displayed_link": "2.6K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b0ce642501e0ca00e0c/images/oaQ1zrVsGng-0oyaklsK4pPKr572RUzHTl7lX7Rpmjc.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "In this video, we unbox and review the Western Digital 4TB My Book Desktop External Hard Drive. test data transfer speeds, backup software, and ...",
+      "duration": "12:55",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUcN-mJLQJm96INUHVCppu6HCguH9MeiPe3uN8aw7M3A&s="
+        },
+        {
+          "time": "01:45",
+          "title": "Features Overview (Backup, Encryption, Warranty)",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=105",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5kwyh_fb-tCXiL2xxVNgW8JiU4tBu-Hgx8EidVweswg&s="
+        },
+        {
+          "time": "02:24",
+          "title": "Why HDD Over SSD?",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=144",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQzziU7H3QSvH7vIKjWTTMsZ4nhRxbkv-9ZJSxD0wV_w&s="
+        },
+        {
+          "time": "03:12",
+          "title": "Unboxing the WD My Book 4TB :- First Impressions & Build Quality",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=192",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8u6eLJwTidFVLio1ohMn9_TF87OjydFwsZv9KB674cA&s="
+        },
+        {
+          "time": "05:30",
+          "title": "Connecting & Setting Up the Drive",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=330",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaAFSMv8yZGoFO9gZ03XIxVxkrne_o3AmLOS0zg_j6mA&s="
+        },
+        {
+          "time": "06:11",
+          "title": "Data Transfer Speed Test",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=371",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfVRQMMvMegAH4qHE45tYifjgPFBTF0aqjn5GbkujoIQ&s="
+        },
+        {
+          "time": "08:13",
+          "title": "Key Advantages of WD My Book",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=493",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbwBQDVuVmZBrSMsYYUH2n3VnDwtiH0CN6_IEox4GTMg&s="
+        },
+        {
+          "time": "10:07",
+          "title": "CrystalDiskMark Performance Test (SSD vs HDD)",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=607",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5S8FVqCJL8NZegaBRYwTySUtyZNMTewMZFywz4w7J4A&s="
+        },
+        {
+          "time": "11:25",
+          "title": "Final Thought & Outro",
+          "link": "https://www.youtube.com/watch?v=ChZ3wMAlEvU&t=685",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqsokSsDfPSLMoZgrzgWcVpeSRJnNir0ZhNVODqvITcw&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video, we unbox and review the Western Digital 4TB My Book Desktop External Hard Drive. test data transfer speeds, backup software, and ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DChZ3wMAlEvU&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DChZ3wMAlEvU",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTuYVUaJC-haugUb2ggzF1TzTvSLO2jYXUJQA",
+      "source": "YouTube · NeGI Tech"
+    },
+    {
+      "position": 3,
+      "title": "My Book",
+      "link": "https://www.westerndigital.com/en-kz/products/external-drives/wd-my-book-usb-3-0-hdd?sku=WDBBGB0040HBK-NESN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.westerndigital.com%2Fen-kz%2Fproducts%2Fexternal-drives%2Fwd-my-book-usb-3-0-hdd%3Fsku%3DWDBBGB0040HBK-NESN&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECCEQAQ",
+      "displayed_link": "https://www.westerndigital.com › ... › External HDD",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABOElEQVR4Ae3WAURDURiG4XMJQ0EaYFFJBYxuoBBEBAEAkUTAFYBKAtIAECgACFEkGVpAoIAhcU1DoKCMcnovYY7_P3d3YDgfDwAv4DNhYQOxyW07iinj2VLNxpgzwlYfPsawhWHjbDlNE8Sme2_Pu1jpDkhgcY1pJaCODnYWT6wbEMPiApET8IIrJ-AGiRSQ6eAYI0KA_XeGkhCQORACflDJDXC0sYFICMg8oiIE_GLdCbA4zA-QnYsBQFMIyLwKAff9Btx6AtpKQEsIaISAEBACQkAI6DfgyBPQUAKehIC7ogHf2DRMCWiirASsCQF7RQJSxJ4_kGJc-QOXhgkB1V4D6igbpgS8Y0Z5RF-YEAJaiHoJqGHIc8k-MW-YErBvmBBwKl2yoqd0AbM5p7SknNKqfErDwgZgfyjfpx8VQOC1AAAAAElFTkSuQmCC.png",
+      "snippet": "My Book desktop hard drive is ready to use out of the box so you can start transferring files, saving your memories and backing up right away. It comes with all ...",
+      "snippet_highlighted_words": [
+        "My Book desktop hard drive is ready to use out of the box"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My Book desktop hard drive is ready to use out of the box so you can start transferring files, saving your memories and backing up right away. It comes with all ...",
+          "source_info_link": "https://www.westerndigital.com/en-kz/products/external-drives/wd-my-book-usb-3-0-hdd?sku=WDBBGB0040HBK-NESN",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABOElEQVR4Ae3WAURDURiG4XMJQ0EaYFFJBYxuoBBEBAEAkUTAFYBKAtIAECgACFEkGVpAoIAhcU1DoKCMcnovYY7_P3d3YDgfDwAv4DNhYQOxyW07iinj2VLNxpgzwlYfPsawhWHjbDlNE8Sme2_Pu1jpDkhgcY1pJaCODnYWT6wbEMPiApET8IIrJ-AGiRSQ6eAYI0KA_XeGkhCQORACflDJDXC0sYFICMg8oiIE_GLdCbA4zA-QnYsBQFMIyLwKAff9Btx6AtpKQEsIaISAEBACQkAI6DfgyBPQUAKehIC7ogHf2DRMCWiirASsCQF7RQJSxJ4_kGJc-QOXhgkB1V4D6igbpgS8Y0Z5RF-YEAJaiHoJqGHIc8k-MW-YErBvmBBwKl2yoqd0AbM5p7SknNKqfErDwgZgfyjfpx8VQOC1AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.westerndigital.com%2Fen-kz%2Fproducts%2Fexternal-drives%2Fwd-my-book-usb-3-0-hdd%3Fsku%3DWDBBGB0040HBK-NESN&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.westerndigital.com%2Fen-kz%2Fproducts%2Fexternal-drives%2Fwd-my-book-usb-3-0-hdd%3Fsku%3DWDBBGB0040HBK-NESN",
+      "source": "Western Digital",
+      "read_more_link": "https://www.westerndigital.com/en-kz/products/external-drives/wd-my-book-usb-3-0-hdd?sku=WDBBGB0040HBK-NESN"
+    },
+    {
+      "position": 4,
+      "title": "WD My Book 8TB USB 3.0 desktop hard drive with ...",
+      "link": "https://www.dell.com/en-us/shop/wd-my-book-8tb-usb-30-desktop-hard-drive-with-password-protection-and-auto-backup-software/apd/a9281557/storage-drives-media",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fwd-my-book-8tb-usb-30-desktop-hard-drive-with-password-protection-and-auto-backup-software%2Fapd%2Fa9281557%2Fstorage-drives-media&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECCQQAQ",
+      "displayed_link": "https://www.dell.com › ... › Accessories › Portable Drives",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png",
+      "snippet": "My Book desktop storage comes equipped with WD Backup software and Apple Time Machine compatibility to help make sure your photos, videos, music and documents",
+      "snippet_highlighted_words": [
+        "My Book desktop storage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My Book desktop storage comes equipped with WD Backup software and Apple Time Machine compatibility to help make sure your photos, videos, music and documents",
+          "source_info_link": "https://www.dell.com/en-us/shop/wd-my-book-8tb-usb-30-desktop-hard-drive-with-password-protection-and-auto-backup-software/apd/a9281557/storage-drives-media",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUGcssAcMoAdc0Bd80AbcoAb8oqgtFyo9u10O2zzOtypt3B2_E0htIAaciXwedknNlTmdmqyeoAbMmrxOf0-v651e_K4vXt9vyEs-Lm8fo7ktdIjdSUuON-tuT___8gfM7f6_h7tORqq-BWndqKvObV6fh6qt5gldZPj9VQlNeL8PxHAAAAvUlEQVR4Ae0QhQGDMKyW4u5Wwfn_wLnCCVsb9wT90sP4we94J49HKEXsYgF-lcmFvH1gmKZlAMa243rcDwDCiDxz4yTN8sKGsorqsqnaOO7EhzN3Za78qgyV06iLU385udeLtB2KnGbi4JTeKKpURGQSVel5WiCAp3MKgtRynWKepjC3lrUT28Lh7myrqTJl7JqpQ7hTFFOXqstc99XdIdgue4OcJdAtCMJmnuf1eRgAwFfO8E0GYIw9fP93BgirDkstg1v7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fwd-my-book-8tb-usb-30-desktop-hard-drive-with-password-protection-and-auto-backup-software%2Fapd%2Fa9281557%2Fstorage-drives-media&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fwd-my-book-8tb-usb-30-desktop-hard-drive-with-password-protection-and-auto-backup-software%2Fapd%2Fa9281557%2Fstorage-drives-media",
+      "source": "Dell"
+    },
+    {
+      "position": 5,
+      "title": "WD My Book 8TB Desktop Storage | Unboxing, Speed Test ...",
+      "link": "https://www.youtube.com/watch?v=tRmYNtyg69s",
+      "displayed_link": "95.6K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREabqI3fOnXLKGjgCS04Yamsy41GOIQznt309JSBQioo_UoRBiXfH6ag&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "In this video, we will look at the WD 8TB My Book Desktop Storage Hard Drive. This WD external drive features, Auto backup, Password protection ...",
+      "duration": "10:48",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro & Unboxing",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzcRa0mwO0MRCcmVYsSxSyIUIqSenwcZpWWERyLkTfEQ&s="
+        },
+        {
+          "time": "00:48",
+          "title": "Specs",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=48",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWZh3DVdMX-1y5MkGeNpAHSdJqmznpDvPime3OsY_2Ug&s="
+        },
+        {
+          "time": "01:51",
+          "title": "First Impressions",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=111",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE_GfAl7_ZPXr79UYqJHBnh3zVWVDam9k02ehMgWIdtg&s="
+        },
+        {
+          "time": "03:00",
+          "title": "Hardware Setup",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=180",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIRRQjqTq3jOwkK7Uey6iUMl49jjFC7WcFEugIKMC_sw&s="
+        },
+        {
+          "time": "04:05",
+          "title": "Drive Properties",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=245",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMwRyrQnJgEhuHnVDxG1cbmNyRf-gS9C354giHdjr_tA&s="
+        },
+        {
+          "time": "05:23",
+          "title": "Speed Test",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=323",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPzXbIQevWLZSsSlJ0izWmS8WEmhIeBWppqDaOH_6zfQ&s="
+        },
+        {
+          "time": "07:13",
+          "title": "Software Overview",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=433",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3SYMLg9D9tgqJ_edbpADDkbmjY0bVj1IpEj_O1GQ_qw&s="
+        },
+        {
+          "time": "07:55",
+          "title": "Eject & Set Password",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=475",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRo4xLjmhHEXHuvKXaI27SAdLttmpqFTFWMA46na3brWw&s="
+        },
+        {
+          "time": "08:19",
+          "title": "Apps & Utilities",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=499",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6y37eNNCY5MTggfcSuk_jQt7V9ul2RaLLAPesFopzeQ&s="
+        },
+        {
+          "time": "10:23",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=tRmYNtyg69s&t=623",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQv39-bYQfMNvazfuPialKZ__Mt65-azfYjtEnfCzh9Bw&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video, we will look at the WD 8TB My Book Desktop Storage Hard Drive. This WD external drive features, Auto backup, Password protection ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtRmYNtyg69s&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtRmYNtyg69s",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTi-wq8aRVayVuuzvJZ23EAzjsIY4GoWsi6UQ",
+      "source": "YouTube · Northern Viking Everyday"
+    },
+    {
+      "position": 6,
+      "title": "My Book™ Desktop Storage",
+      "link": "https://files.bbystatic.com/4qJasjMWMcrQHIcoQoPHLg%3D%3D/05939ca5-3e61-437a-aef9-79364c718538",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Ffiles.bbystatic.com%2F4qJasjMWMcrQHIcoQoPHLg%253D%253D%2F05939ca5-3e61-437a-aef9-79364c718538&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECCAQAQ",
+      "displayed_link": "https://files.bbystatic.com › ...",
+      "snippet": "Equipped with password protection and perfectly paired with. WD Backup for PC or Apple Time Machine for Mac, My Book desktop storage helps keep your files safe.",
+      "snippet_highlighted_words": [
+        "My Book desktop storage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Equipped with password protection and perfectly paired with. WD Backup for PC or Apple Time Machine for Mac, My Book desktop storage helps keep your files safe.",
+          "source_info_link": "https://files.bbystatic.com/4qJasjMWMcrQHIcoQoPHLg%3D%3D/05939ca5-3e61-437a-aef9-79364c718538"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Ffiles.bbystatic.com%2F4qJasjMWMcrQHIcoQoPHLg%3D%3D%2F05939ca5-3e61-437a-aef9-79364c718538&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffiles.bbystatic.com%2F4qJasjMWMcrQHIcoQoPHLg%253D%253D%2F05939ca5-3e61-437a-aef9-79364c718538",
+      "source": "bbystatic.com",
+      "read_more_link": "https://files.bbystatic.com/4qJasjMWMcrQHIcoQoPHLg%3D%3D/05939ca5-3e61-437a-aef9-79364c718538"
+    },
+    {
+      "position": 7,
+      "title": "Western Digital 4TB My Book Desktop External Hard Drive ...",
+      "link": "https://www.amazon.com/Western-Digital-Desktop-External-Drive/dp/B01LQQHL4E",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FWestern-Digital-Desktop-External-Drive%2Fdp%2FB01LQQHL4E&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECCUQAQ",
+      "displayed_link": "https://www.amazon.com › Western-Digital-Desktop-Ext...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "My Book Desktop External Hard Drive, USB 3.0, External HDD with Password Protection and Backup Software. Massive capacity, up to 22TB capacity.",
+      "snippet_highlighted_words": [
+        "My Book Desktop External Hard Drive"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My Book Desktop External Hard Drive, USB 3.0, External HDD with Password Protection and Backup Software. Massive capacity, up to 22TB capacity.",
+          "source_info_link": "https://www.amazon.com/Western-Digital-Desktop-External-Drive/dp/B01LQQHL4E",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FWestern-Digital-Desktop-External-Drive%2Fdp%2FB01LQQHL4E&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FWestern-Digital-Desktop-External-Drive%2Fdp%2FB01LQQHL4E",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 8,
+      "title": "My Book™ - Desktop Storage - User Manual",
+      "link": "https://documents.westerndigital.com/content/dam/doc-library/en_gb/assets/public/wd/product/external-storage/my_book/my-book-new/my-book-new-user-manual.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fdocuments.westerndigital.com%2Fcontent%2Fdam%2Fdoc-library%2Fen_gb%2Fassets%2Fpublic%2Fwd%2Fproduct%2Fexternal-storage%2Fmy_book%2Fmy-book-new%2Fmy-book-new-user-manual.pdf&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECCIQAQ",
+      "displayed_link": "https://documents.westerndigital.com › product",
+      "snippet": "This drive offers high capacity in a sleek desktop device. It features ultra-fast USB 3.0 connectivity, local and cloud backup, and password protection",
+      "snippet_highlighted_words": [
+        "drive",
+        "desktop"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 46
+          },
+          "extensions": [
+            "46 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This drive offers high capacity in a sleek desktop device. It features ultra-fast USB 3.0 connectivity, local and cloud backup, and password protection",
+          "source_info_link": "https://documents.westerndigital.com/content/dam/doc-library/en_gb/assets/public/wd/product/external-storage/my_book/my-book-new/my-book-new-user-manual.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fdocuments.westerndigital.com%2Fcontent%2Fdam%2Fdoc-library%2Fen_gb%2Fassets%2Fpublic%2Fwd%2Fproduct%2Fexternal-storage%2Fmy_book%2Fmy-book-new%2Fmy-book-new-user-manual.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocuments.westerndigital.com%2Fcontent%2Fdam%2Fdoc-library%2Fen_gb%2Fassets%2Fpublic%2Fwd%2Fproduct%2Fexternal-storage%2Fmy_book%2Fmy-book-new%2Fmy-book-new-user-manual.pdf",
+      "source": "Western Digital"
+    },
+    {
+      "position": 9,
+      "title": "My Book Desktop Storage",
+      "link": "https://gzhls.at/blob/ldb/7/1/3/a/5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fgzhls.at%2Fblob%2Fldb%2F7%2F1%2F3%2Fa%2F5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQFnoECB8QAQ",
+      "displayed_link": "https://gzhls.at › blob › ldb",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABqUlEQVR4AXVSA4xdQRSd2nGjNk6tuGER1GHzWTOq3bWDtW3btm3btr13_32beflPJznje-aK8HFY5n7toNzT_qDMo-mg3GOJIa4VHnaHFV5XiSQeOhw5oPB00RhsawgS3Dogd3cisojDAmPNZQ59eEzlBTf_xcJ902SWZz4Eagtlc0QOyD1c6aXMKgOGZ5aBD7VdFsebAwoPRzZm6jb-tL2zA4it7R3oHV-A2t4pqO6ehAdmyYJwDj_1uEIwYfSwtH0MEONzK3D-cxjHQII2RDM04-b0G3-gMImsljDg070RBRZxc-NnJFB89SlmHrxxyoXI0m6WOiEVfJEFggNf4LN3EfPAJrEetJFc3c8XmOeEgPlDmEXthXDxaziTWOfUJqEADQE7jB6Ud44DondiAc5-DGIffvEpFhdQeFgTbE8sCR48sUhlvVhe24SankmmhANTS2ICW4dlbpcJAtuTXrxyzIHJhVXggy-A5ScU2JYHZZ5Z9PLUcx-4a5gISpssDm8bJFCBTPLR_RCackSwPWk4EtzCn_nGHGB7YodhhrFHkLjGhNGYtbELNP8QQaywV1MAAAAASUVORK5CYII.png",
+      "snippet": "The My BookTM drive is trusted desktop storage designed to complement your personal style with a massive amount of space to store your photos,.",
+      "snippet_highlighted_words": [
+        "My BookTM drive"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The My BookTM drive is trusted desktop storage designed to complement your personal style with a massive amount of space to store your photos,.",
+          "source_info_link": "https://gzhls.at/blob/ldb/7/1/3/a/5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABqUlEQVR4AXVSA4xdQRSd2nGjNk6tuGER1GHzWTOq3bWDtW3btm3btr13_32beflPJznje-aK8HFY5n7toNzT_qDMo-mg3GOJIa4VHnaHFV5XiSQeOhw5oPB00RhsawgS3Dogd3cisojDAmPNZQ59eEzlBTf_xcJ902SWZz4Eagtlc0QOyD1c6aXMKgOGZ5aBD7VdFsebAwoPRzZm6jb-tL2zA4it7R3oHV-A2t4pqO6ehAdmyYJwDj_1uEIwYfSwtH0MEONzK3D-cxjHQII2RDM04-b0G3-gMImsljDg070RBRZxc-NnJFB89SlmHrxxyoXI0m6WOiEVfJEFggNf4LN3EfPAJrEetJFc3c8XmOeEgPlDmEXthXDxaziTWOfUJqEADQE7jB6Ud44DondiAc5-DGIffvEpFhdQeFgTbE8sCR48sUhlvVhe24SankmmhANTS2ICW4dlbpcJAtuTXrxyzIHJhVXggy-A5ScU2JYHZZ5Z9PLUcx-4a5gISpssDm8bJFCBTPLR_RCackSwPWk4EtzCn_nGHGB7YodhhrFHkLjGhNGYtbELNP8QQaywV1MAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fgzhls.at%2Fblob%2Fldb%2F7%2F1%2F3%2Fa%2F5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgzhls.at%2Fblob%2Fldb%2F7%2F1%2F3%2Fa%2F5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf",
+      "source": "gzhls.at",
+      "read_more_link": "https://gzhls.at/blob/ldb/7/1/3/a/5c91ff6cc1c97c530cc9b9e74eaad8aa8e43.pdf"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "WD My Book 4TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+My+Book+4TB&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+4TB"
+    },
+    {
+      "block_position": 1,
+      "query": "WD My Book software",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+My+Book+software&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+software"
+    },
+    {
+      "block_position": 1,
+      "query": "WD My Book external hard drive not working",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+My+Book+external+hard+drive+not+working&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+external+hard+drive+not+working"
+    },
+    {
+      "block_position": 1,
+      "query": "WD My Book 1TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+My+Book+1TB&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+1TB"
+    },
+    {
+      "block_position": 1,
+      "query": "WD My Book 6TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+My+Book+6TB&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+6TB"
+    },
+    {
+      "block_position": 1,
+      "query": "WD My Book 8TB Amazon",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+My+Book+8TB+Amazon&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+8TB+Amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "My Book external hard drive not showing up",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=My+Book+external+hard+drive+not+showing+up&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=My+Book+external+hard+drive+not+showing+up"
+    },
+    {
+      "block_position": 1,
+      "query": "WD 4TB My Book Desktop External Hard drive WDBBGB0040HBK NEWM",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=WD+4TB+My+Book+Desktop+External+Hard+drive+WDBBGB0040HBK+NEWM&sa=X&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+4TB+My+Book+Desktop+External+Hard+drive+WDBBGB0040HBK+NEWM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=10&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=10&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=20&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=30&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=40&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=50&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=60&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=70&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=80&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=DHtfaozuN9W6qtsPmezfqQE&start=90&sa=N&sstk=AU9db-BpIP4GIMSlf_dXORIS4GSu5dheBT0U33JncdtmGVNt7vZDoziqTl6oLhUuMLYGpS_pDMKzMT1Oq4UDu_QQ07_Xls9eE7QGBQ&ved=2ahUKEwiMpOfa9uOVAxVVnWoFHRn2NxUQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=WD+My+Book+Desktop+Hard+Drive+WDBBGB+storage+endurance_tbw+protocol+sequential_read_mb_s+sequential_write_mb_s&start=90"
+    }
+  }
+}

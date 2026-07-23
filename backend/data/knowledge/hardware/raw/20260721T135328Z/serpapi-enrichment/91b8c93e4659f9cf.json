@@ -1,0 +1,850 @@
+{
+  "search_metadata": {
+    "id": "6a5f7bbdb13aa7b41145e028",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8R0U9fAALV4pXTw5FyxXSg/6a5f7bbdb13aa7b41145e028.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8R0U9fAALV4pXTw5FyxXSg/6a5f7bbdb13aa7b41145e028.json_with_pixel_position",
+    "created_at": "2026-07-21 14:01:33 UTC",
+    "processed_at": "2026-07-21 14:01:33 UTC",
+    "google_url": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&oq=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8R0U9fAALV4pXTw5FyxXSg/6a5f7bbdb13aa7b41145e028.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "CORSAIR 3500X RS-R ARGB Mid-Tower PC Case case drive_bays max_cooler_height_mm max_gpu_length_mm psu_form_factor supported_motherboard_form_factors supported_radiators",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "CORSAIR 3500X RS-R ARGB Mid-Tower PC Case case drive_bays max_cooler_height_mm max_gpu_length_mm psu_form_factor supported_motherboard_form_factors supported_radiators",
+    "total_results": 473,
+    "time_taken_displayed": 0.59,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "CORSAIR 3500X RS-R ARGB Black Tempered Glass Mid Tower PC Case",
+      "price": "£69.98",
+      "extracted_price": 69.98,
+      "old_price": "£120",
+      "extracted_old_price": 120,
+      "link": "https://www.scan.co.uk/products/corsair-3500x-rs-r-argb-black-mid-tower-tempered-glass-reverse-connection-3x-rs120r-fans-usb-32-type",
+      "source": "scan.co.uk",
+      "shipping": "Free",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFIkGi5AuabcD7pHsn2UQHyEo.webp",
+      "extensions": [
+        "Sale"
+      ],
+      "publisher": "By smec",
+      "publisher_link": "https://smec.shopping/?utm_source=google&utm_medium=css"
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "CORSAIR 3500X RS-R ARGB Tempered Glass Mid-Tower PC Case, Black",
+      "price": "£119.99",
+      "extracted_price": 119.99,
+      "link": "https://www.overclockers.co.uk/corsair-3500x-rs-r-argb-tempered-glass-mid-tower-pc-case-black-cas-crs-06096.html",
+      "source": "Overclockers UK",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFIokrmWaXLh8suJ6rrLf8vXc.webp",
+      "extensions": [
+        "+£7.99 shipping"
+      ],
+      "publisher": "By Adference Shopping",
+      "publisher_link": "http://shopping.adference.io/"
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "CORSAIR 3500X RS-R ARGB ATX Mid-Tower PC Case - Black",
+      "price": "£126.98",
+      "extracted_price": 126.98,
+      "link": "https://business.currys.co.uk/catalogue/computing/components-upgrades/pc-cases/corsair-3500x-rs-r-argb-atx-mid-tower-pc-case-black/N511175W?cidp=Froogle&affiliate=ppc",
+      "source": "Currys Business",
+      "shipping": "Free by 7/29",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFImqtbRns5KGP0BW-GTOqS1o.webp",
+      "publisher": "By Genie",
+      "publisher_link": "https://www.genieshopping.co.uk/?utm_campaign=byl-gsm1home"
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "CORSAIR 3500X RS-R ARGB Panoramic Mid-Tower PC Case – 3x Pre-Installed RS120-R ARGB Fans, GPU Anti-Sag Arm, Fits up to 10x 120mm Fans, Reverse Connect",
+      "price": "£69.99",
+      "extracted_price": 69.99,
+      "link": "https://uk.royaldeals.co.uk/product/corsair-3500x-rsr-argb-panoramic-midtower/B0FJ2Y9GK1/",
+      "source": "Royal Deals",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFImYBpb6YGf-X1S-VYn6UOK0.webp",
+      "extensions": [
+        "3+ more offers"
+      ]
+    },
+    {
+      "position": 5,
+      "block_position": "top",
+      "title": "Corsair 3500x Rs-r Argb Mid-tower Pc Case",
+      "price": "£119.99",
+      "extracted_price": 119.99,
+      "link": "https://www.corsair.com/uk/en/p/pc-cases/CC-9011322-WW/3500x-rs-r-argb-mid-tower-pc-case-cc-9011322-ww",
+      "source": "Corsair.com",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFIqcC_MjUasJs6VahJ_bshro.webp",
+      "extensions": [
+        "+£19.99 shipping"
+      ],
+      "publisher": "By Genie",
+      "publisher_link": "https://www.genieshopping.co/?utm_campaign=byl-gaff1home"
+    },
+    {
+      "position": 6,
+      "block_position": "top",
+      "title": "CORSAIR 3500X RS-R ARGB White Tempered Glass Mid Tower PC Case",
+      "price": "£69.98",
+      "extracted_price": 69.98,
+      "old_price": "£120",
+      "extracted_old_price": 120,
+      "link": "https://www.scan.co.uk/products/corsair-3500x-rs-r-argb-white-mid-tower-tempered-glass-reverse-connection-3x-rs120r-fans-usb-32-type",
+      "source": "scan.co.uk",
+      "shipping": "Free",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFItaQzzxYKW37LNUAQ06_caE.webp",
+      "extensions": [
+        "Sale"
+      ],
+      "publisher": "By smec",
+      "publisher_link": "https://smec.shopping/?utm_source=google&utm_medium=css"
+    },
+    {
+      "position": 7,
+      "block_position": "top",
+      "title": "CORSAIR 3500X RS-R ARGB Tempered Glass Mid-Tower PC Case, White",
+      "price": "£119.99",
+      "extracted_price": 119.99,
+      "link": "https://www.overclockers.co.uk/corsair-3500x-rs-r-argb-tempered-glass-mid-tower-pc-case-white-cas-crs-06097.html",
+      "source": "Overclockers UK",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/DpvYGFZRrRMtVXUEejKFIib3am3ArXCQpA2F_y2mx2o.webp",
+      "extensions": [
+        "+£7.99 shipping"
+      ],
+      "publisher": "By Adference Shopping",
+      "publisher_link": "http://shopping.adference.io/"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQkhAUgVoleykKQmHz4Sy4fUE-hysGyWpTFN1jMpt-5UomMkH3b2Wt_2fmIKeSRMGhhMHgPk97Cf0MKUw7ypvCj6hFJZVgaMnnb8o2v1TqLeE-YrH-0SBMZWg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "CORSAIR 3500X RS-R ARGB Mid-Tower PC Case",
+      "rating": 4.9,
+      "reviews": 161,
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "original_price": "$120",
+      "extracted_original_price": 120,
+      "delivery": "Free delivery",
+      "extensions": [
+        "33% OFF"
+      ],
+      "immersive_product_page_token": "qg93W3icdZBNcqNGGIarcoUcQ-WqbmiQyM4SPzI2ktVAI_WGarpbgGkERkhCrrlD7iDPJDVZzqSyzjWc00T2ahZJ1Vff4n3e7_fXiyz_Oq77LetN_8F_asub_DF_9mC4-tp2jTjwvhR_QmDqE9OwDAAgQLo51k3rK2c9U01eiu_aBF3D0iHUTIDGCI2tb4VkQpU7udxuZWc3_KPLGFkTqAPzajOtCYAa-KOsWS4_-HcIDOOKjTGCFtIgmhjaayf2b-hxlkLD0kxrPDGsa6mBLHhd4tMjXtrp_8AvzwfZnd9-ny1xeHuHR_p19_UIhzd4dIu96SgoxU3UnGQ3epyNZmwvR_w9ia48yjRj5_2oZkPKm0bJLi1kmRd9WtcfYt4eUiV3eV-8K-3-kG6brk63jPdNN9of2rbpeinSuukL2WUN68SPjv0Plo6Jkr1rX_L240X_cclrXYpvxthEpjaxrgQAYJiG_toe-0uRfz4clPz7kqvLYX8p1EXufmtYe9zyf3762Wn29mx_mq3itiU2BmGt2phgGgLFFnowBMANA5tUSSUwm7edVPQuWzcahflJRvHAHTjj0Oq45h-WSdBHgFTMLoaFRje4MrYLB3pBCR_YHKtVhRsG-iKe-1Q4RCeav8SeAZKILJeJ3ybR1E52dB7EKxRWQ7t62sA4cWtexXADqLvSBpfWysheqLNwp4iu8Y55_iyunTM_w4KqqVpBKwwBmWdzDLL1AnNCfQz6Bw5pksX7U6jiXswXTNq4jRNFCRjAgpBgGcIzeXKVcDgSu-I-qq6jiXPOvGrInmiISTvjLkd8LVzu-sdAtWtJLLV0qIvjygjXvA_c4IXA9phVBDFHnTPbMYinQmxPaVa7sYjdBYHTPq6LHY2IllT-SihylrUbxBF9SeqJLh0A5E75meceJMEzpi3upMc1ulYn5raOqItTMm-T2CXxpqLeSm9Cd0c3wqOFsOl95LTP3Kt6Cqc7HvMhhg67q1yH63cGVYtt4hj30ZquqOOb-Ik8h5oDWAVgpBx9A_Jh4fHPw77bvoFb1-jDJToGD06cPDQ4AWmixVt_SO3yNpp6Iv8FjifIRBqykI6MfwFIW2XT",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qg93W3icdZBNcqNGGIarcoUcQ-WqbmiQyM4SPzI2ktVAI_WGarpbgGkERkhCrrlD7iDPJDVZzqSyzjWc00T2ahZJ1Vff4n3e7_fXiyz_Oq77LetN_8F_asub_DF_9mC4-tp2jTjwvhR_QmDqE9OwDAAgQLo51k3rK2c9U01eiu_aBF3D0iHUTIDGCI2tb4VkQpU7udxuZWc3_KPLGFkTqAPzajOtCYAa-KOsWS4_-HcIDOOKjTGCFtIgmhjaayf2b-hxlkLD0kxrPDGsa6mBLHhd4tMjXtrp_8AvzwfZnd9-ny1xeHuHR_p19_UIhzd4dIu96SgoxU3UnGQ3epyNZmwvR_w9ia48yjRj5_2oZkPKm0bJLi1kmRd9WtcfYt4eUiV3eV-8K-3-kG6brk63jPdNN9of2rbpeinSuukL2WUN68SPjv0Plo6Jkr1rX_L240X_cclrXYpvxthEpjaxrgQAYJiG_toe-0uRfz4clPz7kqvLYX8p1EXufmtYe9zyf3762Wn29mx_mq3itiU2BmGt2phgGgLFFnowBMANA5tUSSUwm7edVPQuWzcahflJRvHAHTjj0Oq45h-WSdBHgFTMLoaFRje4MrYLB3pBCR_YHKtVhRsG-iKe-1Q4RCeav8SeAZKILJeJ3ybR1E52dB7EKxRWQ7t62sA4cWtexXADqLvSBpfWysheqLNwp4iu8Y55_iyunTM_w4KqqVpBKwwBmWdzDLL1AnNCfQz6Bw5pksX7U6jiXswXTNq4jRNFCRjAgpBgGcIzeXKVcDgSu-I-qq6jiXPOvGrInmiISTvjLkd8LVzu-sdAtWtJLLV0qIvjygjXvA_c4IXA9phVBDFHnTPbMYinQmxPaVa7sYjdBYHTPq6LHY2IllT-SihylrUbxBF9SeqJLh0A5E75meceJMEzpi3upMc1ulYn5raOqItTMm-T2CXxpqLeSm9Cd0c3wqOFsOl95LTP3Kt6Cqc7HvMhhg67q1yH63cGVYtt4hj30ZquqOOb-Ik8h5oDWAVgpBx9A_Jh4fHPw77bvoFb1-jDJToGD06cPDQ4AWmixVt_SO3yNpp6Iv8FjifIRBqykI6MfwFIW2XT"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQe5A4PlHfZ8kE1I3zNFVefLAOBqw3rGuU3v05i-YJhqAy_mIENQjcDHF3qSouPrHArC2vj5WjFJovMHXCbVfmDqu0RO3AVKyrZWPGs7kxNErrTwAymjZSI",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSFWx_HBs9gYYx68Hl3qAa8U2RAv5lJy_ahpFeT4cfRuzKj6sivkaUD_TdLX83---Ys1YRG_7IPpXVITooP3vZJ6IpKvvA9RCQ",
+      "source": "Corsair.com",
+      "title": "Corsair 3500X RS-R ARGB Mid-Tower ATX Desktop Case",
+      "rating": 4.8,
+      "reviews": 83,
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "original_price": "$120",
+      "extracted_original_price": 120,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "33% OFF"
+      ],
+      "immersive_product_page_token": "6K4sVnicdZNJjuNGEEUBX8HHEArITE6idyVxUKmaSXFKDhuCxUyRlDikSGpE38F3UHXbaC_bhte-Rvk0ZjW86IW9CSDeD-DjfyB-vrPqz1M0brNRXn9Y73j1UGyKgwk95wvvO3rMx4r-jgQRyUBEcxkKogCRLIEveTZmdVdMqqACBSEZTXwuAFFQ5fnXkmW0rlpmb7es17q8on9AIACkIBEIkihLcyiKc-W3qskK9q8uimhiaC5KQFWgrIpz4bWnw5u4WaZw2qGE1GkqApKQAtT5x41ra-n_iJ8PR9Zf335d2q73-OTOBAmAaOZ6D-7s0TUXM6uiD353Zv1ss5wts4HN8vdB--rE0pfsOsya7JLmXVezPi1ZVZRj2jTfYMGPac3aYizfCR-O6bbrm3Sb5WPXz4Yj510_Mpo23Viy_qXLevr9xfDdSZ_RKntnnwv-rYP_SPLaVPSrpMiijCRZmAqGsqgI8is_jfey-HQ81uyve1Hfj8O9rO-s_aXL-Gmb__3Dj3o3aMvhvHQCzonmAg9cuH8jV1fHyA4k7GmlGe71M96XPAH1BofUfjFLixHrRnYLiKMk9kP1ktU5YqF0tnSyj1v8RAknTu2MNLKQbyZ2HJF1EqoDFsprXNNnrBm3GKqj7xtGGNFVuIQdXjkSbcnRb8hzUJPBq-DFAokTtvTwsr9gXzBOAVRri5CNEwQg0Wnk7ajktG6Id2vi1-rKafAJG3QZo-7qNhwmgbpnO-fCDAMnEfkQIPWQN-OUAR7zQD0Eujtizbphg4CkXne-DrOkIVlwWxAKDC2O3NIL3W1gjk0c8JWF1jLRa33ykSwTutbNXTJ_sSVIkpzaumYrY4d35ObunLNtkhDveeNrieG05elDSHvqBxeHuPbLihpUI9esgVW-WpS2v2jZqgRhcyG5TnhWu9j312MA8C4IqRA3sWivnkYilLsAlUPoLyxnz20HiJ7RJjE1k5JqybOv80Nu7scELto8yC8B1LOnvaHnwpM05RtclHQY0kOE5ggb-BzXKnCEtcOikk--xA_zT5eh376BR0MaPVsGg59XShZrrffgPz6rp1Wpp6Yb9UrxE1Tmojx9pCoKovwPuJ9mqA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6K4sVnicdZNJjuNGEEUBX8HHEArITE6idyVxUKmaSXFKDhuCxUyRlDikSGpE38F3UHXbaC_bhte-Rvk0ZjW86IW9CSDeD-DjfyB-vrPqz1M0brNRXn9Y73j1UGyKgwk95wvvO3rMx4r-jgQRyUBEcxkKogCRLIEveTZmdVdMqqACBSEZTXwuAFFQ5fnXkmW0rlpmb7es17q8on9AIACkIBEIkihLcyiKc-W3qskK9q8uimhiaC5KQFWgrIpz4bWnw5u4WaZw2qGE1GkqApKQAtT5x41ra-n_iJ8PR9Zf335d2q73-OTOBAmAaOZ6D-7s0TUXM6uiD353Zv1ss5wts4HN8vdB--rE0pfsOsya7JLmXVezPi1ZVZRj2jTfYMGPac3aYizfCR-O6bbrm3Sb5WPXz4Yj510_Mpo23Viy_qXLevr9xfDdSZ_RKntnnwv-rYP_SPLaVPSrpMiijCRZmAqGsqgI8is_jfey-HQ81uyve1Hfj8O9rO-s_aXL-Gmb__3Dj3o3aMvhvHQCzonmAg9cuH8jV1fHyA4k7GmlGe71M96XPAH1BofUfjFLixHrRnYLiKMk9kP1ktU5YqF0tnSyj1v8RAknTu2MNLKQbyZ2HJF1EqoDFsprXNNnrBm3GKqj7xtGGNFVuIQdXjkSbcnRb8hzUJPBq-DFAokTtvTwsr9gXzBOAVRri5CNEwQg0Wnk7ajktG6Id2vi1-rKafAJG3QZo-7qNhwmgbpnO-fCDAMnEfkQIPWQN-OUAR7zQD0Eujtizbphg4CkXne-DrOkIVlwWxAKDC2O3NIL3W1gjk0c8JWF1jLRa33ykSwTutbNXTJ_sSVIkpzaumYrY4d35ObunLNtkhDveeNrieG05elDSHvqBxeHuPbLihpUI9esgVW-WpS2v2jZqgRhcyG5TnhWu9j312MA8C4IqRA3sWivnkYilLsAlUPoLyxnz20HiJ7RJjE1k5JqybOv80Nu7scELto8yC8B1LOnvaHnwpM05RtclHQY0kOE5ggb-BzXKnCEtcOikk--xA_zT5eh376BR0MaPVsGg59XShZrrffgPz6rp1Wpp6Yb9UrxE1Tmojx9pCoKovwPuJ9mqA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQkhAUgVoleykKQmHz4Sy4fUE-hysGyWpTFN1jMpt-5UomMkH3b2Wt_2fmIKeSRMGhhMHgPk97Cf0MKUw7ypvCj6hFJZVgaMnnb8o2v1TqLeE-YrH-0SBMZWg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ6U5z0g-Y_gx_msO_pJeZ16KpSFcKMjwHUb5h-oq1RpOnXPEZ4jxVa-aYoGVka-gxNb_jszcxHijYccpp98fiq4gt3V93fumARvltn0wE",
+      "source": "Newegg Business",
+      "title": "Corsair 3500X RS-R ARGB Mid-Tower PC Case",
+      "rating": 4.9,
+      "reviews": 132,
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "original_price": "$120",
+      "extracted_original_price": 120,
+      "delivery": "Free delivery",
+      "extensions": [
+        "33% OFF"
+      ],
+      "immersive_product_page_token": "KdkVc3icdZNLbuNGFEWBbCHLEAywfpSYmSV-JNqUzCJZlDgRKFaJv6JI8yPJQu8he5C7E3SG3UHG2Yazmsge9SCZvMG9Bw949-L9ehX5X8d1v4971X60iya_S5_SZwt47temrfmQ9Dn_DrGK1TEYjyeaAgCAY6J9TeI-lnWa8z8BQZqqAAiQqiJljJUb-C0TMZf5Qaz2e9HqdfLOwTGaADxRMUYTQm4swH_kVZyKD_87UAiZAETGGGgY3kACX1veveGn2RagCR6rEIEJAuoEqhOM4KcnutK3_2N-eR5E-_L2-2xFvfsFHSGiKOsR9e7o6J5a05GT8zu_Pol29DQbzeJOjJL3wdv8KLa7-KUbVfF5m9S1FO02E3ma9duq-hDTZthKcUj77F1pumG7r9tqu4-Tvm5H3dA0ddsLvq3qPhPtro5b_iPR_YC0Mc_jd-1L2nxE9B-XvFY5_0bGtwbgBCuaqiECMMSvzbG_ZunnYZDi72sqr0N3zeRVHH6r4-a4T_756Wej7vRZd5q5QdMwnSpeRRRuUTUxGWKVtmKXab_Tswf_BZxDVp59K1GYSWGssHhX2I0oZEvXAXDgcogPElA9c3y2XIUFs7yqeYgCs2UoQGGoFTuDDPxASyb5KpZ87ejGxQ0YdObTfWy6KDEpWTLtIgxuh5IdV-weegcDCst2hYzKXcEVUZ4pC4mVzJcVCxWwZM3MZfySGEQ6vu1RIzKd6uz76_TkKlm2Kc19ZBGTVnThlqa88Z1jnSHLQRfJ6TP3ZfUY8MtGyopaJxJBqrshmQV6ZvghYSzo8IbZcYDKS1JlBQcGue3H7iWyYyMASSktz4zMDYwKZ75Ay3k0pXBZc3P6ns3eged9VNlwV2HMSjvwK-BTwLzg4qCVB-xd2LReDp68MNJXa14k0AZ-wI_0sjjFQbPkcrrhwJ4uUQJ3ph2tFTN3coCjwqxvuTQeTDzzEG24FWVcjx58o3lOrLKPwPSQBMk5AEa8KE0jQQsSyeWFrekhZJFNX8Cczu1nVzkrYRUdHDYdhD7VXcX4fO7a_Ztyb5LeW6nxcYMGbm9Kfl4-zsqHQmhywe1Ck-kvYDy5fT3EGkZ4_C9M8mWE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KdkVc3icdZNLbuNGFEWBbCHLEAywfpSYmSV-JNqUzCJZlDgRKFaJv6JI8yPJQu8he5C7E3SG3UHG2Yazmsge9SCZvMG9Bw949-L9ehX5X8d1v4971X60iya_S5_SZwt47temrfmQ9Dn_DrGK1TEYjyeaAgCAY6J9TeI-lnWa8z8BQZqqAAiQqiJljJUb-C0TMZf5Qaz2e9HqdfLOwTGaADxRMUYTQm4swH_kVZyKD_87UAiZAETGGGgY3kACX1veveGn2RagCR6rEIEJAuoEqhOM4KcnutK3_2N-eR5E-_L2-2xFvfsFHSGiKOsR9e7o6J5a05GT8zu_Pol29DQbzeJOjJL3wdv8KLa7-KUbVfF5m9S1FO02E3ma9duq-hDTZthKcUj77F1pumG7r9tqu4-Tvm5H3dA0ddsLvq3qPhPtro5b_iPR_YC0Mc_jd-1L2nxE9B-XvFY5_0bGtwbgBCuaqiECMMSvzbG_ZunnYZDi72sqr0N3zeRVHH6r4-a4T_756Wej7vRZd5q5QdMwnSpeRRRuUTUxGWKVtmKXab_Tswf_BZxDVp59K1GYSWGssHhX2I0oZEvXAXDgcogPElA9c3y2XIUFs7yqeYgCs2UoQGGoFTuDDPxASyb5KpZ87ejGxQ0YdObTfWy6KDEpWTLtIgxuh5IdV-weegcDCst2hYzKXcEVUZ4pC4mVzJcVCxWwZM3MZfySGEQ6vu1RIzKd6uz76_TkKlm2Kc19ZBGTVnThlqa88Z1jnSHLQRfJ6TP3ZfUY8MtGyopaJxJBqrshmQV6ZvghYSzo8IbZcYDKS1JlBQcGue3H7iWyYyMASSktz4zMDYwKZ75Ay3k0pXBZc3P6ns3eged9VNlwV2HMSjvwK-BTwLzg4qCVB-xd2LReDp68MNJXa14k0AZ-wI_0sjjFQbPkcrrhwJ4uUQJ3ph2tFTN3coCjwqxvuTQeTDzzEG24FWVcjx58o3lOrLKPwPSQBMk5AEa8KE0jQQsSyeWFrekhZJFNX8Cczu1nVzkrYRUdHDYdhD7VXcX4fO7a_Ztyb5LeW6nxcYMGbm9Kfl4-zsqHQmhywe1Ck-kvYDy5fT3EGkZ4_C9M8mWE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTFaPX8UXyTpjNxJUOd7P1R22KTXCogSVZ--dX0Y8sp3aC1rdbEVZ9ug0HxUFBOV783l3Upwo-GbDr-aqYRFfvvElnqsSUR7MwwyfO9RUvU2rF9e7YnxnXQqQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSFWx_HBs9gYYx68Hl3qAa8U2RAv5lJy_ahpFeT4cfRuzKj6sivkaUD_TdLX83---Ys1YRG_7IPpXVITooP3vZJ6IpKvvA9RCQ",
+      "source": "Corsair.com",
+      "title": "Corsair 3500X Mid-Tower PC Case",
+      "rating": 4.9,
+      "reviews": 62,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "8-GsV3icdZDNjqNGFIWlvEIew2qpqigwZGebH5tu46agypiNhakyYIqfBvzT1rxD3sE9k2iynERZ5zU6TxN3splNNlf3nvPpSuf8fBPFn6do2CeD5j65h7Z4yJ6zFwcG_te2a_gxHQr-OwIagAZAGCNFw_dFAV_TZEhkkxX8D6goBtK0MQTIuIMK0gztWy4SLotarPZ70ZlNev-i6bpiAB1ouoGRoSg6Mn4rqiQT_9m6piKAsQ4M7Q6pWAXGW8f7d_w820KkqoYC4dgw7o6mQ3UMPz2Tlbn9H_PLy1F0r--_zlYkmCzISFEBiEYkeCCjCXGmo2XBH8LmLLrR82w0S3oxSj8G74qT2O6S135UJZdt2jRSdNtcFFk-bKvqXzFrj1sp6mzIP5S2P273TVdt90k6NN2oP7Zt0w2Cb6tmyEW3a5KOf0_03yFdwovkQ_uStR8VYKxphoIBuLcw1sZIA9pbVfBv6ljDGtI1DBC416yP9bf2NNzy7PPxKMVft0zejv0tlzdR_9Ik7Wmf_v3Dj1bTm7P-PPNp2zKTgNBmia_kyeZKVWap011kIUrlbGdJdWcZF8HaJohc16956TkpWLIp9is49avyLCrvuFpDEiJvugqlubxKtpuzMKAqZpKqiR3n7BDnwrqcPOr5XshrXxqrVZQOcS2jneLFDLLevxLfl-7LjsppOM_bcG2by3qKPJRDYrdu6Niv60PuhGWu8sq9CnrZx4xciGld0ih3Pduod_J-I9Jz6g3UbjcpBTBWeO9Hkytx1OVa8mBlskVgWjiYN4AgOIg5IWztskTyjjK3oGihpNZZTSBTA2ScudP2y4OvUsZWnsl8Qj2Fl_ExpbYTIVYTFnfrkimh452XdXZZzpuBwntyh2_8QxzEIWvjeX6KEQO70t2T2n4MYXllJmereTzlki1oFMcsdJ-FZBWD8mUjdUCdFq-j6VQ4AyU28zfUDnklyZKe8dLeBHYdb7gT59yMH0OrfUmdcojhtE5peqHQShalbaXKQo0leYqAWu6cuKMBtHxgwLjq8dLyLgkz9vwwufrQ-nzpu_07mNjqEKy05LRRjtzdlPziPc3Kx4Mw5IK7B0NmP8GxjjWMsIEVPP4HCQ9lqw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8-GsV3icdZDNjqNGFIWlvEIew2qpqigwZGebH5tu46agypiNhakyYIqfBvzT1rxD3sE9k2iynERZ5zU6TxN3splNNlf3nvPpSuf8fBPFn6do2CeD5j65h7Z4yJ6zFwcG_te2a_gxHQr-OwIagAZAGCNFw_dFAV_TZEhkkxX8D6goBtK0MQTIuIMK0gztWy4SLotarPZ70ZlNev-i6bpiAB1ouoGRoSg6Mn4rqiQT_9m6piKAsQ4M7Q6pWAXGW8f7d_w820KkqoYC4dgw7o6mQ3UMPz2Tlbn9H_PLy1F0r--_zlYkmCzISFEBiEYkeCCjCXGmo2XBH8LmLLrR82w0S3oxSj8G74qT2O6S135UJZdt2jRSdNtcFFk-bKvqXzFrj1sp6mzIP5S2P273TVdt90k6NN2oP7Zt0w2Cb6tmyEW3a5KOf0_03yFdwovkQ_uStR8VYKxphoIBuLcw1sZIA9pbVfBv6ljDGtI1DBC416yP9bf2NNzy7PPxKMVft0zejv0tlzdR_9Ik7Wmf_v3Dj1bTm7P-PPNp2zKTgNBmia_kyeZKVWap011kIUrlbGdJdWcZF8HaJohc16956TkpWLIp9is49avyLCrvuFpDEiJvugqlubxKtpuzMKAqZpKqiR3n7BDnwrqcPOr5XshrXxqrVZQOcS2jneLFDLLevxLfl-7LjsppOM_bcG2by3qKPJRDYrdu6Niv60PuhGWu8sq9CnrZx4xciGld0ih3Pduod_J-I9Jz6g3UbjcpBTBWeO9Hkytx1OVa8mBlskVgWjiYN4AgOIg5IWztskTyjjK3oGihpNZZTSBTA2ScudP2y4OvUsZWnsl8Qj2Fl_ExpbYTIVYTFnfrkimh452XdXZZzpuBwntyh2_8QxzEIWvjeX6KEQO70t2T2n4MYXllJmereTzlki1oFMcsdJ-FZBWD8mUjdUCdFq-j6VQ4AyU28zfUDnklyZKe8dLeBHYdb7gT59yMH0OrfUmdcojhtE5peqHQShalbaXKQo0leYqAWu6cuKMBtHxgwLjq8dLyLgkz9vwwufrQ-nzpu_07mNjqEKy05LRRjtzdlPziPc3Kx4Mw5IK7B0NmP8GxjjWMsIEVPP4HCQ9lqw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSZVRfcAlUoW3xwQL1v3a_HiGyuPjXJC9tT4gEfb8WI4YY1XqehflS_LKkVNAbzMvnoKkoeNQq8y0x8wpwFBMbZVszijI8vMdxDbJr8H4-NECWM5Kc47cn6Mw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQOIzZ73zQg8QP74izrjxPYBJ7zen0CVERJWFVJro6UGVbsfCt8s8h3Qb-U3hPDsC4lIuPPQwj4moDZVLGzrLPs234JDR8",
+      "source": "Ingenieurbüro Ulrike Seelmann",
+      "title": "Corsair 3500X ARGB Mid-Tower PC Case",
+      "rating": 4.7,
+      "reviews": 290,
+      "price": "$64.00",
+      "extracted_price": 64.0,
+      "immersive_product_page_token": "KeUUn3icbZNJkqNGGIUjfAUfQ1ERSTJ7V4hBRZWQBGSqyI0iIREgkkGAEK3oO_gOqm472st2h9e-Rvk0lnrVi978i--9t_in369p8c_4OuzpoLgv7qEtHrJ1dnSEYPOl7Rp2SoaCfRMEDYgylFQoyVCVVU2C-peEDpQ32V0WVRlAoGqqokJFg6qoiV_zlDJe1Olqv087s0kK9rcka0ASVE3WJUEToa4B_a-ioln6Xf4mqOCmA0kTbnkB6gqQxLeO9e9wPd9pElAkRdChePMoqi7L2se1vzJ3P9c-H09p9-H9z_nKDx6f_JkoA_A684MHf_boO8ZsWbCHsDmn3Ww9n81pn86Se2FdMaa7mH7oZxWddknT8LTb5WmR5cOuqr7DrD3teFpnQ34nbX_a7Zuu2u1pMjTdrD-1bdMNKdtVzZCnXdzQjv3o6H-wdJQV9M4-Z-19QD9p5K0q2FdZvWGo6TeiaeptE_pbOw7XPPt0OvH032vGr6f-mvNrWv_R0HbcJ__98qvV9Oa8P883qG2x6YOgEkK24IVn-TC1hnxrsX1q5TCobIua7pCYHCfVcN7iXA7FfI6R62FA5ktLNnCI5DC0ATrkXYQ2U4TcZYDaRcybM3VcN4Bsjw_ZQB19QRGekgBcGC_PKcfCUmj92MlfKJyCJSylDfbP21J4Xore2hNbK7BYGG8nbxUAsLLkwKuGRVriacuJ7F-Mw8urLb6CCNDKHyPoyxHgNK7sKeY2CRZ8JND2wu0UkEA4Lx0fEgcMNMSr8JJM2MxxXEmDZxtuYJI9svMwvuRTeDBcz9KP9GJskG0bBFuQIK-O6zxH5u3qMVkTYJesZjISyQLXnk1gfiQIm7HghhHCz8hmboQZX5m5R0qhjiA3IrEUY5MNVDSOdMHWIfSA5_CR2a6yRDL1LAw2guclmB-Q49Ko7OESsQmJvMPlNG7K6bJc-CVBE0zELLBrEjGH5Mwkz6HVHhOnHIhg1AlKJiRY9Km0rUR8kgn3m6jmSmIScMsKniMXyYWP0cUIiMPGJbQNz0k-TX23fwePtjwEKwX0YVKoNDLr4CF8fNbHRW7tHP-1U7Pfbl8qKRKUdEmUlP8B0qVl2w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KeUUn3icbZNJkqNGGIUjfAUfQ1ERSTJ7V4hBRZWQBGSqyI0iIREgkkGAEK3oO_gOqm472st2h9e-Rvk0lnrVi978i--9t_in369p8c_4OuzpoLgv7qEtHrJ1dnSEYPOl7Rp2SoaCfRMEDYgylFQoyVCVVU2C-peEDpQ32V0WVRlAoGqqokJFg6qoiV_zlDJe1Olqv087s0kK9rcka0ASVE3WJUEToa4B_a-ioln6Xf4mqOCmA0kTbnkB6gqQxLeO9e9wPd9pElAkRdChePMoqi7L2se1vzJ3P9c-H09p9-H9z_nKDx6f_JkoA_A684MHf_boO8ZsWbCHsDmn3Ww9n81pn86Se2FdMaa7mH7oZxWddknT8LTb5WmR5cOuqr7DrD3teFpnQ34nbX_a7Zuu2u1pMjTdrD-1bdMNKdtVzZCnXdzQjv3o6H-wdJQV9M4-Z-19QD9p5K0q2FdZvWGo6TeiaeptE_pbOw7XPPt0OvH032vGr6f-mvNrWv_R0HbcJ__98qvV9Oa8P883qG2x6YOgEkK24IVn-TC1hnxrsX1q5TCobIua7pCYHCfVcN7iXA7FfI6R62FA5ktLNnCI5DC0ATrkXYQ2U4TcZYDaRcybM3VcN4Bsjw_ZQB19QRGekgBcGC_PKcfCUmj92MlfKJyCJSylDfbP21J4Xore2hNbK7BYGG8nbxUAsLLkwKuGRVriacuJ7F-Mw8urLb6CCNDKHyPoyxHgNK7sKeY2CRZ8JND2wu0UkEA4Lx0fEgcMNMSr8JJM2MxxXEmDZxtuYJI9svMwvuRTeDBcz9KP9GJskG0bBFuQIK-O6zxH5u3qMVkTYJesZjISyQLXnk1gfiQIm7HghhHCz8hmboQZX5m5R0qhjiA3IrEUY5MNVDSOdMHWIfSA5_CR2a6yRDL1LAw2guclmB-Q49Ko7OESsQmJvMPlNG7K6bJc-CVBE0zELLBrEjGH5Mwkz6HVHhOnHIhg1AlKJiRY9Km0rUR8kgn3m6jmSmIScMsKniMXyYWP0cUIiMPGJbQNz0k-TX23fwePtjwEKwX0YVKoNDLr4CF8fNbHRW7tHP-1U7Pfbl8qKRKUdEmUlP8B0qVl2w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRLVjvexOwXNTHl2VBqUTCVDV9EyPW91f6C6gcGx_xC9M2NXmOhBDPcsVNc_03QICyeTnlrApqlxNCIQ0439oMkmY64WjY6UTY8j1mWKQZKgpV5XGZ3stDgIQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSFWx_HBs9gYYx68Hl3qAa8U2RAv5lJy_ahpFeT4cfRuzKj6sivkaUD_TdLX83---Ys1YRG_7IPpXVITooP3vZJ6IpKvvA9RCQ",
+      "source": "Corsair.com",
+      "title": "CORSAIR 3500X ARGB All-In-One Bundle",
+      "price": "$504.97",
+      "extracted_price": 504.97,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "SYbvZHicTZLLjptIFIaV50EtVVHcKru2DcakgXYBBWaDgCoD5tqA3W6_RF5h5E5mlFkm0aznNTJPM-5eZXMW3_frSOfo_3zl1T-naN6ns2I9WIehuisei6c19LbfhrFnx3yu2A9RgggoKsCKIgNVxbICv-XpnDZ98WYxFEUsiuhmMVSgAtD3kqesqTru7vd8XPX5LSZhAGRZlQBGQERQwjL8u2rTgr_rnxBBjLCIJaRKIoQSQBi_jmz64-vTkY8vv_5ausS73xAByQBEAvHuiHBP1gvBrtid3z_zUXhcCst04kL-NthYnXiSpS-T0KbnJO_7ho9JyauinJO2fYfFcEwa3hVz-UaG6Zjs-7FN9mk-96MwHYehH2fOkrafSz5mfTqy3xPTb5ExZVX6xr4Ww_s5IlBvv8AqkhQkapqiyeC1rdh3WVUkRdSwBkQNAVXG2utwmq9l8eV4bPi_16K5Hqdr2Vx592efDqd9_t-Hqz7ulstTvtgGw0BXBHgHG-Q1PVG02GXg3AQBq2g7dHTFpp3PXH9NTCI2Bm1h4FUAOSsLRVBDPIpfqB5XzsWQ3EBWsqiccoPUAY2NbWc9uuH0nK_LQwA3cIucjW-wix8OF75miywgDQ2IGwAwRxeycy7N6IHSsc0FyGBcZy35ZHeN50VsSENsZitrbyMyZB3ZuDQ2qbk4OXBzeaClFaC45jQ-24AciU50uy6dGDYSqa0wjMogNG-7GlI7LSY2xMQ16ZQhou9CZ-nqMPaissz8jbwVHSmgOso8aD1QYrN298IDbOSrxrSR8eyLzZrpsufo0GKGdqaQPMWGQ9LzJmRNCeLWAE492F47PKce7II1O5OL4Qekr7YBueSHpqW6ZdnRcMg7pyYrwyQeDHPdmmIDPz34-ux50Nluv5yncf8L3Bvy7LkKmPy8UtPdqvPu_PtP-GSWerIm0agWH6GqSYokSremS8r_EtgyCQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SYbvZHicTZLLjptIFIaV50EtVVHcKru2DcakgXYBBWaDgCoD5tqA3W6_RF5h5E5mlFkm0aznNTJPM-5eZXMW3_frSOfo_3zl1T-naN6ns2I9WIehuisei6c19LbfhrFnx3yu2A9RgggoKsCKIgNVxbICv-XpnDZ98WYxFEUsiuhmMVSgAtD3kqesqTru7vd8XPX5LSZhAGRZlQBGQERQwjL8u2rTgr_rnxBBjLCIJaRKIoQSQBi_jmz64-vTkY8vv_5ausS73xAByQBEAvHuiHBP1gvBrtid3z_zUXhcCst04kL-NthYnXiSpS-T0KbnJO_7ho9JyauinJO2fYfFcEwa3hVz-UaG6Zjs-7FN9mk-96MwHYehH2fOkrafSz5mfTqy3xPTb5ExZVX6xr4Ww_s5IlBvv8AqkhQkapqiyeC1rdh3WVUkRdSwBkQNAVXG2utwmq9l8eV4bPi_16K5Hqdr2Vx592efDqd9_t-Hqz7ulstTvtgGw0BXBHgHG-Q1PVG02GXg3AQBq2g7dHTFpp3PXH9NTCI2Bm1h4FUAOSsLRVBDPIpfqB5XzsWQ3EBWsqiccoPUAY2NbWc9uuH0nK_LQwA3cIucjW-wix8OF75miywgDQ2IGwAwRxeycy7N6IHSsc0FyGBcZy35ZHeN50VsSENsZitrbyMyZB3ZuDQ2qbk4OXBzeaClFaC45jQ-24AciU50uy6dGDYSqa0wjMogNG-7GlI7LSY2xMQ16ZQhou9CZ-nqMPaissz8jbwVHSmgOso8aD1QYrN298IDbOSrxrSR8eyLzZrpsufo0GKGdqaQPMWGQ9LzJmRNCeLWAE492F47PKce7II1O5OL4Qekr7YBueSHpqW6ZdnRcMg7pyYrwyQeDHPdmmIDPz34-ux50Nluv5yncf8L3Bvy7LkKmPy8UtPdqvPu_PtP-GSWerIm0agWH6GqSYokSremS8r_EtgyCQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQghz6YWN5Hdk1_xhu1LYZ23wUOI-eM8iwHDN15zRKlqPtZHRUWmf4fsqx77BtfnoeefzpZ4iiJ-GXapnV8YL3sZTrVbxbFioqH7CkeEsircJBEUF8TUQHP7g",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSFWx_HBs9gYYx68Hl3qAa8U2RAv5lJy_ahpFeT4cfRuzKj6sivkaUD_TdLX83---Ys1YRG_7IPpXVITooP3vZJ6IpKvvA9RCQ",
+      "source": "Corsair.com",
+      "title": "Corsair iCUE LINK 3500X RGB Mid-Tower PC Case",
+      "rating": 4.6,
+      "reviews": 39,
+      "price": "$159.99",
+      "extracted_price": 159.99,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "gFr-8HicbZPLjqNGFIaV57FaquJmyM4XCptuoF1AcdkgXFVcDIYyBre7lXfIK0TumUSTZTLKOq_ReZFs0z2rWWRzFt__6RzpSP_PN17_dYnHIh81-8E-iPqufCxPFvR3X8TQs4mONftTliWgSQBATYOKAeeqDr_QfMzbvqzZVwhVIMuyBgxNN1QIoQL0Pyqes7buuFcUfFj39H2LYmiaqsiq9K4rmqKrBvi9PuYl_xZ_hYryYRiyJGm6DHTdgMrrwM5v0uMq0yCY64qsA0UHqgyBIhk_PWJvnf1_9vk08eH57beVh_3FFs9kFYB4hv07PFtgazlzanYX9E98mD2uZqv8zGf0Y7ChvvBsnz-fZ8f8mtG-b_mQVbwuqzE7Hr_BUkxZy7tyrD6IOE9Z0Q_HrMjp2A-z8yREP4ycZcd-rPiw7_OBfW-cv1OGnNX5B_tcim8f0BSoQl1XjDnQwVw25ur89VizX17FZbxV5adpavnft7K9Tedb1d5492ufi0tB__nhX_OSrFYDXe1CIcgaA78RgsasDToke6hakhcqpaR1SFSdw2grcUI8IjGyk5InTlKx36QaNsfQN687ikjP5IUSkRamL8RPIvsUQ3zPw0YlUf8Ure1D2LQgCNJ2F29lB-H7sGvXSbuA5ICBt7EnDy2LNLQRRqzjFmx8CSm4SX2_teX4BRVhi5r9UQ2C5qwmAdu5Hdo5z7BjjS1TWDmeSdYJGHcuuIIYUMWt4SE3rw4nbuogVLEAK3lLQEqwuQ-w4Kax8wL7gYVETSU1jKw2Tonr-BvSuQfn_WZ63UeNhFHVkQNznE4UHhK7BFyLqLVtTJZtEhkPGKTTXhbOfsOwY17rkGARxcsglq4ildk2aPqXfWBP7gGPzFLHEBE3gM5ILcN2LCIIYs1D1N7TQwJZLKaUpI--TAbfck_ssPBRlybMSiu2Tu8DU5yo1YwpXHY0pNcQmvm2QSaVt2rauppHlkdsuQpFTCLIPrpr1lEL1XRDTm7YyLQxP13PQ_EGFkgdfU8D54DW8zxZd_5dsLg3LpvKzCwcD_PyR_jeEU2RFEN5L99_n_9YtQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gFr-8HicbZPLjqNGFIaV57FaquJmyM4XCptuoF1AcdkgXFVcDIYyBre7lXfIK0TumUSTZTLKOq_ReZFs0z2rWWRzFt__6RzpSP_PN17_dYnHIh81-8E-iPqufCxPFvR3X8TQs4mONftTliWgSQBATYOKAeeqDr_QfMzbvqzZVwhVIMuyBgxNN1QIoQL0Pyqes7buuFcUfFj39H2LYmiaqsiq9K4rmqKrBvi9PuYl_xZ_hYryYRiyJGm6DHTdgMrrwM5v0uMq0yCY64qsA0UHqgyBIhk_PWJvnf1_9vk08eH57beVh_3FFs9kFYB4hv07PFtgazlzanYX9E98mD2uZqv8zGf0Y7ChvvBsnz-fZ8f8mtG-b_mQVbwuqzE7Hr_BUkxZy7tyrD6IOE9Z0Q_HrMjp2A-z8yREP4ycZcd-rPiw7_OBfW-cv1OGnNX5B_tcim8f0BSoQl1XjDnQwVw25ur89VizX17FZbxV5adpavnft7K9Tedb1d5492ufi0tB__nhX_OSrFYDXe1CIcgaA78RgsasDToke6hakhcqpaR1SFSdw2grcUI8IjGyk5InTlKx36QaNsfQN687ikjP5IUSkRamL8RPIvsUQ3zPw0YlUf8Ure1D2LQgCNJ2F29lB-H7sGvXSbuA5ICBt7EnDy2LNLQRRqzjFmx8CSm4SX2_teX4BRVhi5r9UQ2C5qwmAdu5Hdo5z7BjjS1TWDmeSdYJGHcuuIIYUMWt4SE3rw4nbuogVLEAK3lLQEqwuQ-w4Kax8wL7gYVETSU1jKw2Tonr-BvSuQfn_WZ63UeNhFHVkQNznE4UHhK7BFyLqLVtTJZtEhkPGKTTXhbOfsOwY17rkGARxcsglq4ildk2aPqXfWBP7gGPzFLHEBE3gM5ILcN2LCIIYs1D1N7TQwJZLKaUpI--TAbfck_ssPBRlybMSiu2Tu8DU5yo1YwpXHY0pNcQmvm2QSaVt2rauppHlkdsuQpFTCLIPrpr1lEL1XRDTm7YyLQxP13PQ_EGFkgdfU8D54DW8zxZd_5dsLg3LpvKzCwcD_PyR_jeEU2RFEN5L99_n_9YtQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQzzSInbM4OBvi7dXqNW6Vhvsjz43ZiMpWgh3vV1acGBhH4HO0YwjVxdMtx2E_zFNt7YIQaBkrTW6QIUNXCmaFhad3uyP3Eqx0IhDaUUMfPje0JbWRd-hSGDw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - HR Selects",
+      "title": "3500X RS ARGB Panoramic Mid-Tower PC Case 3X Pre-Installed Fans, High Airflow, Spacious Interior, GPU Anti-Sag, Reverse Connection Motherboard Compat",
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "XXYRmnicbY9JbtswGIXR8wgGNDvuzoOGKrEcUwNlbQSapEXZlMRocOxeolcInKRFumtRdN1rpKepnVUW3bzF9394eP-XEy1-75NugzrTu_G2ohjkt_mdowTLF9HUpMddQX6YuqwZQ_PKVAzN0BRt-IJRh3idF-ThJ6OI8KKii82GNrMa_8__XpQop2_HX4ppGLIpjwx1qBqjs3Gljx4b0j483_W0Ob5-my5AMP4EJM2Q5UQCwQBIY-BMpHlBBmF9TxvpdipNUUslfAnSFHuardGxlUp0yHBdc9pkjBY567KyfIO56DNOq7xjFyLaPtvUTZltEO7qRmp7IeqmoyQr647RZl2jhrw32ndKg0iBLuw5F-d3Hh7LS4h9d2L5U99z-ueU81Pfnhg_0eprjcR-g_9-YFbdTqft_WQZCRHPgBy6bLvegZiWkR6qIw3ziQ-3Xu9D3IHKvsYxKCOeriKHuBSyIIKsSeWDDmw_wFYc-pWQlzC_XyQ-CHddGSieE7vnXstH2CYWkLm6iLm12ikV4mCHI2VB7EhZVRxFLilSZ2es5W4Z2zstLhQAEyZj21Zp5C1Xir-kZToBIXFoFd_6MlPWW9ZiRcyDJD7Ok3QeJ-TzquzgDUzNuQUWMDr3qtGRhmlKFCZCmbcQ8h5XwFxbuoK5SEJH1EFk7_2oVXHiq9j1oMVSFbqgXCVLNdgdrlE1ETeQLFPNduexD5zCmwDXPy5gGkAuar8UXqqeN8PDjPCJG8H6CKDixI5w1mpcPR3aZvMqj22jCxam3Ia4GKLVrAoG4fh6tHeZlTkgaYb5R2V4pZu6qo90TTf_AY65FAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XXYRmnicbY9JbtswGIXR8wgGNDvuzoOGKrEcUwNlbQSapEXZlMRocOxeolcInKRFumtRdN1rpKepnVUW3bzF9394eP-XEy1-75NugzrTu_G2ohjkt_mdowTLF9HUpMddQX6YuqwZQ_PKVAzN0BRt-IJRh3idF-ThJ6OI8KKii82GNrMa_8__XpQop2_HX4ppGLIpjwx1qBqjs3Gljx4b0j483_W0Ob5-my5AMP4EJM2Q5UQCwQBIY-BMpHlBBmF9TxvpdipNUUslfAnSFHuardGxlUp0yHBdc9pkjBY567KyfIO56DNOq7xjFyLaPtvUTZltEO7qRmp7IeqmoyQr647RZl2jhrw32ndKg0iBLuw5F-d3Hh7LS4h9d2L5U99z-ueU81Pfnhg_0eprjcR-g_9-YFbdTqft_WQZCRHPgBy6bLvegZiWkR6qIw3ziQ-3Xu9D3IHKvsYxKCOeriKHuBSyIIKsSeWDDmw_wFYc-pWQlzC_XyQ-CHddGSieE7vnXstH2CYWkLm6iLm12ikV4mCHI2VB7EhZVRxFLilSZ2es5W4Z2zstLhQAEyZj21Zp5C1Xir-kZToBIXFoFd_6MlPWW9ZiRcyDJD7Ok3QeJ-TzquzgDUzNuQUWMDr3qtGRhmlKFCZCmbcQ8h5XwFxbuoK5SEJH1EFk7_2oVXHiq9j1oMVSFbqgXCVLNdgdrlE1ETeQLFPNduexD5zCmwDXPy5gGkAuar8UXqqeN8PDjPCJG8H6CKDixI5w1mpcPR3aZvMqj22jCxam3Ia4GKLVrAoG4fh6tHeZlTkgaYb5R2V4pZu6qo90TTf_AY65FAE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSZ3ue-NUFBSm4-fuy6CQ90BDYxThSe2jweIHOcMsPRRVru9zu7l7sWPrsSliyxETYo8yOMczPoG_H17eqwdhmuSppQ2gkRRn0ME_neSKLI",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRN6sX3rO7m0OQZeahXcjHEzxZOjjLLHHXT8ULFEx7xqo3acYRqW1Zhzd6Mby7_8sYKC2MoJ0lxq_v5l1c4Cjb2G0u",
+      "source": "Intrex Computers",
+      "title": "Corsair 3500X ARGB ATX Case with Window, No Power Supply, USB3.1 Type-C, and 3 x 120mm ARGB Fans - CAS-3500XARGB",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "immersive_product_page_token": "QirmGHicdZBLbtswEIbR8wgBSD3sqLtEluW4Nh09SCnaCLRIS4olk5Uovy7RKwROH0iXbdF1r5GepnZX3XQx_-L7_xnMzIcTr35uE7WiajCdTR9ldVXcF-89GPovshWsz1XFfkDLALZtGBBCyzIsOAQD6yWnitaiqNjTt5JTVlcbvliteDsS-X9avlYNLfhf_7s5vIY20IcQwLN7bQILPLese_r0vuft4fWLswjCm7tAMywAEi0IrwLtJvButXnFriKx461272gO7biWX4S11ZZnS3rotIbus1yImrdZyauiVFnT_IWF7LOabwpVXojs-mwl2iZb0VyJVut6KUWrOMsaoUreLgVt2b-J7p9IS1lFL-xTIc_XPD03F5FbdSqLj31f81-noj713amsT3zzWVC5XeW_35Su6Byn2936WEoyCkCI2QYltZPqRLH1VOGYkRCreRRfH3iTwijBZuzWB2wwL_UUWerQ4964iQhCFNgj4hIHx-CYr89FbIvFNlnE5SMnCPjAJvEmCAguj-gxhz542KGIUHbMAWvS-xCou7TZ78k6nQVJKtjYVZGudjOCBMZTOsMCPiTyuHCnDnehnI8DB2FLLUZkHOGpmdfITA1fX8bITyfpON8QEHhlj10iUiDHCUAti9PLPDx3ix0ZoV0KCYldct6OGRFWkzBBW9qUvlumejwJmofE18P1_h3d3MpZzPzUGE_mBAVeNb0NJuiwiNOQe4TmoDSwfreL3cIKjfL8KXTEEEm-locltoOP-65dvYKbsaXCxQB0UV4N6cNoE15FN-_s7aR0My9I2mHxFg6vzYGpm7ZpmIM_b9sTeg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=QirmGHicdZBLbtswEIbR8wgBSD3sqLtEluW4Nh09SCnaCLRIS4olk5Uovy7RKwROH0iXbdF1r5GepnZX3XQx_-L7_xnMzIcTr35uE7WiajCdTR9ldVXcF-89GPovshWsz1XFfkDLALZtGBBCyzIsOAQD6yWnitaiqNjTt5JTVlcbvliteDsS-X9avlYNLfhf_7s5vIY20IcQwLN7bQILPLese_r0vuft4fWLswjCm7tAMywAEi0IrwLtJvButXnFriKx461272gO7biWX4S11ZZnS3rotIbus1yImrdZyauiVFnT_IWF7LOabwpVXojs-mwl2iZb0VyJVut6KUWrOMsaoUreLgVt2b-J7p9IS1lFL-xTIc_XPD03F5FbdSqLj31f81-noj713amsT3zzWVC5XeW_35Su6Byn2936WEoyCkCI2QYltZPqRLH1VOGYkRCreRRfH3iTwijBZuzWB2wwL_UUWerQ4964iQhCFNgj4hIHx-CYr89FbIvFNlnE5SMnCPjAJvEmCAguj-gxhz542KGIUHbMAWvS-xCou7TZ78k6nQVJKtjYVZGudjOCBMZTOsMCPiTyuHCnDnehnI8DB2FLLUZkHOGpmdfITA1fX8bITyfpON8QEHhlj10iUiDHCUAti9PLPDx3ix0ZoV0KCYldct6OGRFWkzBBW9qUvlumejwJmofE18P1_h3d3MpZzPzUGE_mBAVeNb0NJuiwiNOQe4TmoDSwfreL3cIKjfL8KXTEEEm-locltoOP-65dvYKbsaXCxQB0UV4N6cNoE15FN-_s7aR0My9I2mHxFg6vzYGpm7ZpmIM_b9sTeg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTSxP-gTuayMjGxfNoXuXHn8nKBHPeDPd48AcaHbRQEM8-knMPAPZiHJQyrCoO6uYmuwLiUHG593FrRhXVACLHPv6cX2ttdKMvJ7KMcUo1I19Rwc2dOSCS-dA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Glovibe Tech",
+      "title": "3500X RS Reverse Fan ARGB Mid-Tower PC Case 3X Pre-Installed Fans, Panoramic Glass, Spacious Interior, GPU Anti-Sag, Reverse Connection Motherboard Co",
+      "price": "$254.99",
+      "extracted_price": 254.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "NiN3KXicdZDNbptAFIXV50GRGLBx6C5gsIMNDsOv2VhjZvjzYCYwOLZfoq8QOUmrdNlWXfc10qepnVU23RzpfufcK5375UTK37uYZ4gr1tyqWHmV3-X3E-C5r6xtcJ_yEv8CiqIMVRUAMBiJ1-AygNcUcUSbvMSPPwqCMC23ZJFlpB036X9Wvpc1ysm7_1NVz1BWRtJIUURZlK-B9NTi7vHlvift4e2bvoDezS0U5KEoxgL0rqBwAyeaYJf4ym8eSCvc6YKOOiKkF8FtuSOrNTp0Qo32q7RpKGlXBSnzgq_q-h3mrF9Rss15cSGs61dZ09arDKW8aYWuZ6xpOcGruuEFadcNavHHRPch0iJcogt7ydm5zeNTfRG246cif-57Sv6ccnrqu1NBT2T7tUFsl6V_PxVG0-l696C5AWPhGIq-aVZBFcYBTTkJGtGrTRQDPLWlvR5MrA3xQBWZTApMKLkbp4ZGUkaBKdsbvLQpNhKgWUHNCxSFsWcG3KUsSanJkG_JkWHOg21470gq96Y2wKKqk62WpXG6d0JHs2UHrbeuCA0gucCEKdXaJEz3aFxAe6odF3GhB8ZeTKOhhOViTnxbTChz12HB1z4cePR82yg6VOFgfQx1FDszXxxyp84P8yg5OlQ7BJuh7Ilwm4yXIDGGEFE6tY-J5Pu2PA-agSeyJNgUzCgSKZrCehm7krfZz9BWY_MIu4lsTu3QgZPS0uDUOSyixI8qy3N8KqLzz_Bk6Nu-A84ddacOZ_6Y0tQPted912Zv4o055N5CQbul3GNrucF7Z65vZhVR6S22KpXmn8HoeqAMpIE6kAejf_NBFD4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NiN3KXicdZDNbptAFIXV50GRGLBx6C5gsIMNDsOv2VhjZvjzYCYwOLZfoq8QOUmrdNlWXfc10qepnVU23RzpfufcK5375UTK37uYZ4gr1tyqWHmV3-X3E-C5r6xtcJ_yEv8CiqIMVRUAMBiJ1-AygNcUcUSbvMSPPwqCMC23ZJFlpB036X9Wvpc1ysm7_1NVz1BWRtJIUURZlK-B9NTi7vHlvift4e2bvoDezS0U5KEoxgL0rqBwAyeaYJf4ym8eSCvc6YKOOiKkF8FtuSOrNTp0Qo32q7RpKGlXBSnzgq_q-h3mrF9Rss15cSGs61dZ09arDKW8aYWuZ6xpOcGruuEFadcNavHHRPch0iJcogt7ydm5zeNTfRG246cif-57Sv6ccnrqu1NBT2T7tUFsl6V_PxVG0-l696C5AWPhGIq-aVZBFcYBTTkJGtGrTRQDPLWlvR5MrA3xQBWZTApMKLkbp4ZGUkaBKdsbvLQpNhKgWUHNCxSFsWcG3KUsSanJkG_JkWHOg21470gq96Y2wKKqk62WpXG6d0JHs2UHrbeuCA0gucCEKdXaJEz3aFxAe6odF3GhB8ZeTKOhhOViTnxbTChz12HB1z4cePR82yg6VOFgfQx1FDszXxxyp84P8yg5OlQ7BJuh7Ilwm4yXIDGGEFE6tY-J5Pu2PA-agSeyJNgUzCgSKZrCehm7krfZz9BWY_MIu4lsTu3QgZPS0uDUOSyixI8qy3N8KqLzz_Bk6Nu-A84ddacOZ_6Y0tQPted912Zv4o055N5CQbul3GNrucF7Z65vZhVR6S22KpXmn8HoeqAMpIE6kAejf_NBFD4"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "nRmLFHicxZXtcrI4FIAvYK9j-WMr-C2dYd5JEBXrF1LbvvuHQYgBBUMJivbf3ste1V7NBhQLrdp5d2ZnzwwJOZycnCTn4fz5l-du1n__Rp0oCugDz8dxXMaEYA-VLeLzJj1sLH5JPBpazg_sSVvKOZ6ENtxhJ9U4i0oCh1xp9xotzag5GA5WgXuPp_itV9E1Lp0tGQuTohVzvl9R3uBZs_691mGDMi2jTVm0pwgtwgkScbkqVMTyhDd9ZgD-W8HATRoMVDZQv3yWAda-cwCUpJU_7DI3Ss4sTkcQMo-phXzVH047VwHM4RRuGg4FoHdUWrcCGRSH3WSKqsFkE6p8DPSzXNoazHotP7ooFz7Ck99s6_WbayWiqkU_bF3FSFVacRU170RL1D_T14kGUCcGTowfb8QqE9DpYV3Dl245LwFwptk6CyCwi-JtzPJQ4Bch6yq8azlW-hLSJD3lJ1EgvS4I1f7LgYw3_bE9CfbTht0Zw7feOMK8tWB2HjFtZBuOIfxIx5VqpSGItVb7LuXComcwaAGMuectJv3hSCPlYRlWclTg86nkJFHOLh5zdngXJpyOGB8v7ZB9ItkLJBqb_DGx21FhDECGZj3JtQ7-mtHM9wUqUjmjMQIpFWlw8rE_OcpnBcbnCbk86n9aLx8BzNzLKmMv0_UK1oWIZXZs6zMko6IrzVGO6Qf1k8kE1gt8Ay03ko9b1DCExa2oxx3Uc3bJxWCWytofbDzA-PwzSiepp4DO634EVaSPXQGW58pNXq_JLW5OgkGW_p-yuUDB1rRfY9BDI0ETFXCoLTY_qb0avtYM7XLWE3_xC_XA-t-5SKsFyarFBS6cb7hIqwW-Xi1OSRRnXKR2j1C-ysU67YvVov-pWlziYlDk4nq1-OAiCeU2F_AWF_AaF-yH_4UL7QoXWbXIcbH-VC3g-VQT1QcXv14tzH9XLVJM0LErlo7tCl8tIQpqWfPgRa-9jfSoRkn4rKiDERGHj9b3JWTpRw--aXt3hms_wOogOth3BlOQB2Rzb5I8melAnZVqDUF4Lc30-1kJzHqwNHLt-ycSo7A0lUsyA7JkJY0dujvEAD3Qkm_uDYsQD4WGg1zsRIbvp0ocbA0PbXDkJJqAbo0lCX1jaVoRCUt0GwQkjFi0PokcFC6IGdp5C5ozCU3bNRMd53shkQSzDtXu-zJuDeC48-6MD9uDaK33m011dD-05Vl3tFOV2Km031_mDcVQI1XsvKwF7O6fJnJzHO3dCLU0T4ua4XPF1PSG5lB5huY7d0j6KyV0ZbXZxmZT159nQZU-bsNWoz6Ut7gGwu2-Vl3oXT0Wop3x5gntti7iNC4qORBgH71G9rzN-aElsWyuYzDWwAtmrMksVWXMHsKemOUERy3TQHQnVW1xKTZagrloN8x2E3E-jg6BJAoc3YRS5R8lklFm",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nRmLFHicxZXtcrI4FIAvYK9j-WMr-C2dYd5JEBXrF1LbvvuHQYgBBUMJivbf3ste1V7NBhQLrdp5d2ZnzwwJOZycnCTn4fz5l-du1n__Rp0oCugDz8dxXMaEYA-VLeLzJj1sLH5JPBpazg_sSVvKOZ6ENtxhJ9U4i0oCh1xp9xotzag5GA5WgXuPp_itV9E1Lp0tGQuTohVzvl9R3uBZs_691mGDMi2jTVm0pwgtwgkScbkqVMTyhDd9ZgD-W8HATRoMVDZQv3yWAda-cwCUpJU_7DI3Ss4sTkcQMo-phXzVH047VwHM4RRuGg4FoHdUWrcCGRSH3WSKqsFkE6p8DPSzXNoazHotP7ooFz7Ck99s6_WbayWiqkU_bF3FSFVacRU170RL1D_T14kGUCcGTowfb8QqE9DpYV3Dl245LwFwptk6CyCwi-JtzPJQ4Bch6yq8azlW-hLSJD3lJ1EgvS4I1f7LgYw3_bE9CfbTht0Zw7feOMK8tWB2HjFtZBuOIfxIx5VqpSGItVb7LuXComcwaAGMuectJv3hSCPlYRlWclTg86nkJFHOLh5zdngXJpyOGB8v7ZB9ItkLJBqb_DGx21FhDECGZj3JtQ7-mtHM9wUqUjmjMQIpFWlw8rE_OcpnBcbnCbk86n9aLx8BzNzLKmMv0_UK1oWIZXZs6zMko6IrzVGO6Qf1k8kE1gt8Ay03ko9b1DCExa2oxx3Uc3bJxWCWytofbDzA-PwzSiepp4DO634EVaSPXQGW58pNXq_JLW5OgkGW_p-yuUDB1rRfY9BDI0ETFXCoLTY_qb0avtYM7XLWE3_xC_XA-t-5SKsFyarFBS6cb7hIqwW-Xi1OSRRnXKR2j1C-ysU67YvVov-pWlziYlDk4nq1-OAiCeU2F_AWF_AaF-yH_4UL7QoXWbXIcbH-VC3g-VQT1QcXv14tzH9XLVJM0LErlo7tCl8tIQpqWfPgRa-9jfSoRkn4rKiDERGHj9b3JWTpRw--aXt3hms_wOogOth3BlOQB2Rzb5I8melAnZVqDUF4Lc30-1kJzHqwNHLt-ycSo7A0lUsyA7JkJY0dujvEAD3Qkm_uDYsQD4WGg1zsRIbvp0ocbA0PbXDkJJqAbo0lCX1jaVoRCUt0GwQkjFi0PokcFC6IGdp5C5ozCU3bNRMd53shkQSzDtXu-zJuDeC48-6MD9uDaK33m011dD-05Vl3tFOV2Km031_mDcVQI1XsvKwF7O6fJnJzHO3dCLU0T4ua4XPF1PSG5lB5huY7d0j6KyV0ZbXZxmZT159nQZU-bsNWoz6Ut7gGwu2-Vl3oXT0Wop3x5gntti7iNC4qORBgH71G9rzN-aElsWyuYzDWwAtmrMksVWXMHsKemOUERy3TQHQnVW1xKTZagrloN8x2E3E-jg6BJAoc3YRS5R8lklFm"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "CORSAIR 3500X Series - mid-tower case",
+      "link": "https://www.corsair.com/us/en/explorer/diy-builder/cases/3500x-mid-tower-case/?srsltid=AfmBOorGupZiRt9DciNtjIBasrajxSIEG1vl6hF0ylOV_4FuFNJR7aGi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fdiy-builder%2Fcases%2F3500x-mid-tower-case%2F%3Fsrsltid%3DAfmBOorGupZiRt9DciNtjIBasrajxSIEG1vl6hF0ylOV_4FuFNJR7aGi&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECBkQAQ",
+      "displayed_link": "https://www.corsair.com › ... › CORSAIR 3500X Series",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "Length 460mm Width 240mm Height 506mm Maximum GPU Length 410mm Maximum CPU FAN. The 3500X supports mITX, mATX, ATX and E-ATX (up to 305mm x 277mm) motherboards ...",
+      "snippet_highlighted_words": [
+        "3500X"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Length 460mm Width 240mm Height 506mm Maximum GPU Length 410mm Maximum CPU FAN. The 3500X supports mITX, mATX, ATX and E-ATX (up to 305mm x 277mm) motherboards ...",
+          "source_info_link": "https://www.corsair.com/us/en/explorer/diy-builder/cases/3500x-mid-tower-case/?srsltid=AfmBOorGupZiRt9DciNtjIBasrajxSIEG1vl6hF0ylOV_4FuFNJR7aGi",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fdiy-builder%2Fcases%2F3500x-mid-tower-case%2F%3Fsrsltid%3DAfmBOorGupZiRt9DciNtjIBasrajxSIEG1vl6hF0ylOV_4FuFNJR7aGi&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fdiy-builder%2Fcases%2F3500x-mid-tower-case%2F%3Fsrsltid%3DAfmBOorGupZiRt9DciNtjIBasrajxSIEG1vl6hF0ylOV_4FuFNJR7aGi",
+      "source": "corsair.com"
+    },
+    {
+      "position": 2,
+      "title": "CORSAIR 3500x: Now Available with Reverse Fans",
+      "link": "https://www.corsair.com/us/en/explorer/diy-builder/cases/corsair-3500x-now-available-with-reverse-fans/?srsltid=AfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fdiy-builder%2Fcases%2Fcorsair-3500x-now-available-with-reverse-fans%2F%3Fsrsltid%3DAfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECBsQAQ",
+      "displayed_link": "https://www.corsair.com › explorer › diy-builder › cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "date": "Sep 9, 2025",
+      "snippet": "The 3500X LX-R RGB case comes with iCUE LINK LX-R RGB 120mm fans. And like the RS-R ARGB fans, they do too, come with a reverse rotor design.",
+      "snippet_highlighted_words": [
+        "3500X",
+        "case",
+        "RS",
+        "R ARGB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 3500X LX-R RGB case comes with iCUE LINK LX-R RGB 120mm fans. And like the RS-R ARGB fans, they do too, come with a reverse rotor design.",
+          "source_info_link": "https://www.corsair.com/us/en/explorer/diy-builder/cases/corsair-3500x-now-available-with-reverse-fans/?srsltid=AfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fdiy-builder%2Fcases%2Fcorsair-3500x-now-available-with-reverse-fans%2F%3Fsrsltid%3DAfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fdiy-builder%2Fcases%2Fcorsair-3500x-now-available-with-reverse-fans%2F%3Fsrsltid%3DAfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB",
+      "source": "corsair.com",
+      "read_more_link": "https://www.corsair.com/us/en/explorer/diy-builder/cases/corsair-3500x-now-available-with-reverse-fans/?srsltid=AfmBOoqwu9jbtObxOh6lvQPQC8jihLdHDjX32Q2wkV0A06yepbOZercB"
+    },
+    {
+      "position": 3,
+      "title": "3500X Mid-Tower Case - Built to Show Off",
+      "link": "https://www.youtube.com/watch?v=hhOBM7zuV-k",
+      "displayed_link": "13.1K+ views · 10 months ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bbdb13aa7b41145e028/images/JjusyI4OMlWNgIGE_B0hnP6heo4OBL24rt_1ENGqffg.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "The CORSAIR 3500X RS-R ARGB Mid-Tower Case brings smart updates to a proven favorite, now with reverse rotor RGB fans for better lighting ...",
+      "duration": "0:57",
+      "about_this_result": {
+        "source": {
+          "description": "The CORSAIR 3500X RS-R ARGB Mid-Tower Case brings smart updates to a proven favorite, now with reverse rotor RGB fans for better lighting ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhhOBM7zuV-k&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhhOBM7zuV-k",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRvIjQuOF66nYDtwXFJBY_2INf08hTh1QrCyg",
+      "source": "YouTube · CORSAIR"
+    },
+    {
+      "position": 4,
+      "title": "[Case] CORSAIR 3500X RS-R ARGB Mid-Tower PC ...",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1qq06tr/case_corsair_3500x_rsr_argb_midtower_pc_case_3x/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1qq06tr%2Fcase_corsair_3500x_rsr_argb_midtower_pc_case_3x%2F&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECDcQAQ",
+      "displayed_link": "20+ comments · 5 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "[Case] CORSAIR 3500X RS-R ARGB Mid-Tower PC Case + 3X Pre-Installed RS120-R ARGB Fans $60 @ Amazon (after clip coupon). Case · amazon.com. Open.",
+      "snippet_highlighted_words": [
+        "CORSAIR 3500X RS-R ARGB Mid-Tower PC Case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Case] CORSAIR 3500X RS-R ARGB Mid-Tower PC Case + 3X Pre-Installed RS120-R ARGB Fans $60 @ Amazon (after clip coupon). Case · amazon.com. Open.",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/1qq06tr/case_corsair_3500x_rsr_argb_midtower_pc_case_3x/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1qq06tr%2Fcase_corsair_3500x_rsr_argb_midtower_pc_case_3x%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1qq06tr%2Fcase_corsair_3500x_rsr_argb_midtower_pc_case_3x%2F",
+      "source": "Reddit · r/buildapcsales",
+      "read_more_link": "https://www.reddit.com/r/buildapcsales/comments/1qq06tr/case_corsair_3500x_rsr_argb_midtower_pc_case_3x/"
+    },
+    {
+      "position": 5,
+      "title": "EXPLORE: 3500X RS-R ARGB Mid-Tower PC Case - Corsair",
+      "link": "https://www.corsair.com/us/en/explorer/products/19503/?srsltid=AfmBOopv2J1XZ8kQwPtrattgUp-iZcIy4z1tEUkIp8WsvBfJzgnoofrj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fproducts%2F19503%2F%3Fsrsltid%3DAfmBOopv2J1XZ8kQwPtrattgUp-iZcIy4z1tEUkIp8WsvBfJzgnoofrj&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECDYQAQ",
+      "displayed_link": "https://www.corsair.com › explorer › products",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "3500X RS-R ARGB Mid-Tower PC Case. VIEW MANUAL / QUICK START GUIDE Shop Now. CORSAIR 3500X: NOW AVAILABLE WITH REVERSE FANS 1. Customer Support Warranty ...",
+      "snippet_highlighted_words": [
+        "3500X RS-R ARGB Mid-Tower PC Case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "3500X RS-R ARGB Mid-Tower PC Case. VIEW MANUAL / QUICK START GUIDE Shop Now. CORSAIR 3500X: NOW AVAILABLE WITH REVERSE FANS 1. Customer Support Warranty ...",
+          "source_info_link": "https://www.corsair.com/us/en/explorer/products/19503/?srsltid=AfmBOopv2J1XZ8kQwPtrattgUp-iZcIy4z1tEUkIp8WsvBfJzgnoofrj",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fproducts%2F19503%2F%3Fsrsltid%3DAfmBOopv2J1XZ8kQwPtrattgUp-iZcIy4z1tEUkIp8WsvBfJzgnoofrj&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fexplorer%2Fproducts%2F19503%2F%3Fsrsltid%3DAfmBOopv2J1XZ8kQwPtrattgUp-iZcIy4z1tEUkIp8WsvBfJzgnoofrj",
+      "source": "corsair.com"
+    },
+    {
+      "position": 6,
+      "title": "CORSAIR 3500X RS ARGB Panoramic Mid-Tower PC ...",
+      "link": "https://www.amazon.com/CORSAIR-3500X-RS-R-ARGB-Mid-Tower/dp/B0FJ2ZBK8J",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-3500X-RS-R-ARGB-Mid-Tower%2Fdp%2FB0FJ2ZBK8J&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECDUQAQ",
+      "displayed_link": "https://www.amazon.com › CORSAIR-3500X-RS-R-AR...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "The CORSAIR 3500X RS-R ARGB Mid-Tower Glass PC Case offers powerful cooling and bold visuals in a clean, modern design framed by wraparound tempered glass ...",
+      "snippet_highlighted_words": [
+        "offers powerful cooling and bold visuals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The CORSAIR 3500X RS-R ARGB Mid-Tower Glass PC Case offers powerful cooling and bold visuals in a clean, modern design framed by wraparound tempered glass ...",
+          "source_info_link": "https://www.amazon.com/CORSAIR-3500X-RS-R-ARGB-Mid-Tower/dp/B0FJ2ZBK8J",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FCORSAIR-3500X-RS-R-ARGB-Mid-Tower%2Fdp%2FB0FJ2ZBK8J&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FCORSAIR-3500X-RS-R-ARGB-Mid-Tower%2Fdp%2FB0FJ2ZBK8J",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/CORSAIR-3500X-RS-R-ARGB-Mid-Tower/dp/B0FJ2ZBK8J"
+    },
+    {
+      "position": 7,
+      "title": "Corsair 3500x ARGB build guide with RS120 RGB fans and ...",
+      "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk",
+      "displayed_link": "203.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbxXbYJOE0ebfjF3D-Zh0noXZu1k4CoXikqhnyhu1UKM0vjwc3eIK98A&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "In this video I'm showing you how to craft an awesome looking PC inside this Corsair 3500x case. the wiring, setup and installation of ...",
+      "duration": "44:11",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Hello",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZgpY1Z6YaD70nifmPm-kNEMoyyz3RVZRrFI6Ha9crRg&s="
+        },
+        {
+          "time": "00:54",
+          "title": "Initial overview",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=54",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfd15HJdSU_dPGO09LjjWx07lwvDJ_-63peHbWSqD8mw&s="
+        },
+        {
+          "time": "03:08",
+          "title": "Motherboard support",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=188",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkXNZpYSNPfskVIaA9JwQb1OvpbHECW-b3C97oGsFJqg&s="
+        },
+        {
+          "time": "03:40",
+          "title": "Standard fan wiring",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=220",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTW90pl9b-9vsKQVpVr9C2DuhgfxuazgPqcpxOfTJIitQ&s="
+        },
+        {
+          "time": "05:15",
+          "title": "Initial Cable Tidying",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=315",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRH-04xMZcVSqLysVgsUTrT_B0IL5EZLwbmlKR6oc5_bA&s="
+        },
+        {
+          "time": "05:43",
+          "title": "PSU wiring guide",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=343",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKreD2PQQ0nLs9kZTpKA_XCda0wIB97KAiKiX0huuIVQ&s="
+        },
+        {
+          "time": "08:30",
+          "title": "GPU power cables",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=510",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYyjh4HT5O68BZ-RzQctZtjy25z6YVwC_v2NmMg9V4UQ&s="
+        },
+        {
+          "time": "12:08",
+          "title": "More cable tidying",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=728",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkgD9-KWfCa6aAhUE9i6uBbILs9rngC1OQvrFP0OuMhw&s="
+        },
+        {
+          "time": "13:16",
+          "title": "Motherboard prep",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=796",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6gA0hgxdUEs317MHToyGePJVdBQhHxZJHVwAS4pi6Zw&s="
+        },
+        {
+          "time": "14:54",
+          "title": "H150i Elite Setup",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=894",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJqhEi56hjtMdzPrR0coz1PrhnXWH_WESlP-zs_4VTjw&s="
+        },
+        {
+          "time": "17:08",
+          "title": "Accessories box and screws",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1028",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRV-nR8Fr7RhGbkXvw1gkwtIBCELUaYVfqbpV4FnE1ebA&s="
+        },
+        {
+          "time": "18:07",
+          "title": "Plug in power cables",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1087",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT0xyzkVaFsIAQ0LqgK9ls9OzVBKyNh4N3KyyOwQl_xQ&s="
+        },
+        {
+          "time": "21:07",
+          "title": "Top panel connections",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1267",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAYPefT0VYWERarZIWftYrHWswdio_AUCP172X7UsDMw&s="
+        },
+        {
+          "time": "23:06",
+          "title": "Extra fan wiring logic",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1386",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdptOWhT3ceyV9WBR1tG9nLnZbptLpLSgeOawzwdERhQ&s="
+        },
+        {
+          "time": "27:10",
+          "title": "SSD install",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1630",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqURdh0AQDyEl8WrrFb0s5WvuXCbRsrVT9RYc9xakr5w&s="
+        },
+        {
+          "time": "29:46",
+          "title": "Bottom fan install",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1786",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXHzTkr7wFV-ixehFQ8If8lVwLJsrR65w_m59HTc1HMg&s="
+        },
+        {
+          "time": "31:12",
+          "title": "AIO mounting",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=1872",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf_l55pLfgFiP-n0JtXmadUgu2XKFYwVftqM9v3yGjHg&s="
+        },
+        {
+          "time": "35:05",
+          "title": "Rear fan install",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2105",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTleQ3MIpB-ev3VWKzWoTErQtaU2XGIqZYPmQBs2D5Fkg&s="
+        },
+        {
+          "time": "36:55",
+          "title": "GPU install",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2215",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5MEfPjaCHqs8_tpxLq4gpgRi35oEx5U8xO4mxD2PpUw&s="
+        },
+        {
+          "time": "37:31",
+          "title": "Putting doors on",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2251",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRA_8JVgzy5y60ngAj7EIcAy84jAzZ4UEUZJM80HKG0iQ&s="
+        },
+        {
+          "time": "38:23",
+          "title": "Peel",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2303",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQx24gUcH7Z2mxSvlmqBomr3-kyT1rFx9K0BNhvh6EAdw&s="
+        },
+        {
+          "time": "39:27",
+          "title": "Bios fan settings",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2367",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjjvLCqReEISHX-aSwKYW9jm5OagReGkL8nQhjvoIRfg&s="
+        },
+        {
+          "time": "41:00",
+          "title": "Windows install",
+          "link": "https://www.youtube.com/watch?v=0ehyBqSP4Sk&t=2460",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcygjJweB2OgOxLh7LBFXfEUPvhbJdJPZR58FIaki34w&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video I'm showing you how to craft an awesome looking PC inside this Corsair 3500x case. the wiring, setup and installation of ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0ehyBqSP4Sk&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0ehyBqSP4Sk",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSiiHDXJHbZzKUy-6RxDW8uR9qhPGhiTq9xmg",
+      "source": "YouTube · The Provoked Prawn"
+    },
+    {
+      "position": 8,
+      "title": "CORSAIR - 3500X RS-R ARGB ATX Mid-Tower PC Case",
+      "link": "https://www.bestbuy.com/product/corsair-3500x-rs-r-argb-atx-mid-tower-pc-case-white/J39TSCSJYC",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-3500x-rs-r-argb-atx-mid-tower-pc-case-white%2FJ39TSCSJYC&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECD0QAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Computer Cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "The CORSAIR 3500X RS-R ARGB Mid-Tower Glass PC Case delivers bold lighting, strong airflow, and a clean, modern look with wraparound tempered glass.",
+      "snippet_highlighted_words": [
+        "delivers bold lighting, strong airflow, and a clean, modern look"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The CORSAIR 3500X RS-R ARGB Mid-Tower Glass PC Case delivers bold lighting, strong airflow, and a clean, modern look with wraparound tempered glass.",
+          "source_info_link": "https://www.bestbuy.com/product/corsair-3500x-rs-r-argb-atx-mid-tower-pc-case-white/J39TSCSJYC",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-3500x-rs-r-argb-atx-mid-tower-pc-case-white%2FJ39TSCSJYC&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-3500x-rs-r-argb-atx-mid-tower-pc-case-white%2FJ39TSCSJYC",
+      "source": "Best Buy"
+    },
+    {
+      "position": 9,
+      "title": "CORSAIR 3500X RS-R ARGB Mid-Tower PC Case",
+      "link": "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww/p/N82E16811139244?srsltid=AfmBOoo0FpuPRakf82ss-deMuzH5DxsBMiuNGwCBZkGdM4PdIvkk1ZmL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fcorsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww%2Fp%2FN82E16811139244%3Fsrsltid%3DAfmBOoo0FpuPRakf82ss-deMuzH5DxsBMiuNGwCBZkGdM4PdIvkk1ZmL&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQFnoECDoQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Computer Cases › Corsair",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Elevate your PC build with the CORSAIR 3500X RS-R ARGB Mid-Tower Case. Enjoy 3 pre-installed ARGB fans, GPU anti-sag support, and tempered glass design.",
+      "snippet_highlighted_words": [
+        "CORSAIR 3500X RS-R ARGB Mid-Tower Case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Elevate your PC build with the CORSAIR 3500X RS-R ARGB Mid-Tower Case. Enjoy 3 pre-installed ARGB fans, GPU anti-sag support, and tempered glass design.",
+          "source_info_link": "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww/p/N82E16811139244?srsltid=AfmBOoo0FpuPRakf82ss-deMuzH5DxsBMiuNGwCBZkGdM4PdIvkk1ZmL",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww%2Fp%2FN82E16811139244%3Fsrsltid%3DAfmBOoo0FpuPRakf82ss-deMuzH5DxsBMiuNGwCBZkGdM4PdIvkk1ZmL&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-atx-mid-tower-steel-tempered-glass-case-computer-cases-atx-form-black-cc-9011322-ww%2Fp%2FN82E16811139244%3Fsrsltid%3DAfmBOoo0FpuPRakf82ss-deMuzH5DxsBMiuNGwCBZkGdM4PdIvkk1ZmL",
+      "source": "Newegg"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "CORSAIR 3500X manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=CORSAIR+3500X+manual&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "CORSAIR 3500X rs r argb MANUAL",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=CORSAIR+3500X+rs+r+argb+MANUAL&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+rs+r+argb+MANUAL"
+    },
+    {
+      "block_position": 1,
+      "query": "CORSAIR 3500X dimensions",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=CORSAIR+3500X+dimensions&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+dimensions"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair 3500x motherboard screws",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+3500x+motherboard+screws&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+3500x+motherboard+screws"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair 3500x installation guide",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+3500x+installation+guide&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+3500x+installation+guide"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair 3500X GPU bracket",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+3500X+GPU+bracket&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+3500X+GPU+bracket"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair 3500X front panel replacement",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+3500X+front+panel+replacement&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+3500X+front+panel+replacement"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair 3500X ARGB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+3500X+ARGB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+3500X+ARGB"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYEiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAF6BAgfECk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+nearby&gl=us&hl=en&shoprs=CAEYAyqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMgwIAxIGTmVhcmJ5GAJYr7EgYAE&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAJ6BAgfECo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+nearby"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?q=new+CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYCiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMgcIChIDTmV3WK-xIGAB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAN6BAgfECs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYCiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMggIChIEVXNlZFivsSBgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAR6BAgfECw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYEiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAV6BAgfEC0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+sale&gl=us&hl=en&shoprs=CAEYEiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAZ6BAgfEC4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+sale"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+sale&gl=us&hl=en&shoprs=CAESBEoCGAEYBiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhMIBhIHT24gc2FsZRgCIgRKAhgBWK-xIGAB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAd6BAgfEC8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYEiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAh6BAgfEDA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Gaming Desktop Computer Cases",
+      "link": "https://www.google.com/search?q=gaming+desktop+computer+cases+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYCSqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMiEICRIdR2FtaW5nIERlc2t0b3AgQ29tcHV0ZXIgQ2FzZXNgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAl6BAgfEDE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+desktop+computer+cases+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYEiqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAp6BAgfEDI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Under $150",
+      "link": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+under+%24150&gl=us&hl=en&shoprs=CAESDRILEQAAAACj4aFBGAEYBSqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMiMIBRIKVW5kZXIgJDE1MBgCIg0SCxEAAAAAo-GhQRgBKgIYAVivsSBgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAt6BAgfEDM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+under+%24150"
+    },
+    {
+      "query": "Desktop Computer Cases",
+      "link": "https://www.google.com/search?q=desktop+computer+cases+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYCSqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhoICRIWRGVza3RvcCBDb21wdXRlciBDYXNlc2AB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKAx6BAgfEDQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computer+cases+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?q=desktop+computers+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYCSqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhUICRIRRGVza3RvcCBDb21wdXRlcnNgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKA16BAgfEDU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Fans, Heatsinks & Cooling",
+      "link": "https://www.google.com/search?q=fans%2C+heatsinks+%26+cooling+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYCSqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMh0ICRIZRmFucywgSGVhdHNpbmtzICYgQ29vbGluZ2AB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKA56BAgfEDY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=fans%2C+heatsinks+%26+cooling+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYASqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhcIARIFQmxhY2s6DAixzf4BELLN_gEwAFivsSBgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKA96BAgfEDc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYASqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhcIARIFV2hpdGU6DAixzf4BELPN_gEwAFivsSBgAQ&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKBB6BAgfEDg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    },
+    {
+      "query": "For Gaming",
+      "link": "https://www.google.com/search?q=corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+gaming&gl=us&hl=en&shoprs=CAEYASqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhwIARIKRm9yIEdhbWluZxgCOgoIxNN3EMXTdzADWK-xIGAB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKBF6BAgfEDk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+for+gaming"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+free+shipping&gl=us&hl=en&shoprs=CAESBFICEAEYGSqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKBJ6BAgfEDo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators+free+shipping"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?q=gaming+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&gl=us&hl=en&shoprs=CAEYASqnAWNvcnNhaXIgMzUwMHggcnMgciBhcmdiIG1pZCB0b3dlciBwYyBjYXNlIGNhc2UgZHJpdmVfYmF5cyBtYXhfY29vbGVyX2hlaWdodF9tbSBtYXhfZ3B1X2xlbmd0aF9tbSBwc3VfZm9ybV9mYWN0b3Igc3VwcG9ydGVkX21vdGhlcmJvYXJkX2Zvcm1fZmFjdG9ycyBzdXBwb3J0ZWRfcmFkaWF0b3JzMhYIARIGR2FtaW5nOgoI5oI6EOeCOjADWK-xIGAB&sa=X&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQip4GKBN6BAgfEDs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+corsair+3500x+rs+r+argb+mid+tower+pc+case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=10&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8NMDegQITRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=10&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAE",
+      "3": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=20&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAG",
+      "4": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=30&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAI",
+      "5": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=40&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAK",
+      "6": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=50&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAM",
+      "7": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=60&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAO",
+      "8": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=70&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAQ",
+      "9": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=80&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAS",
+      "10": "https://www.google.com/search?q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=vXtfat6JLJjpi-gPgqG1SQ&start=90&sa=N&sstk=AU9db-B9u78cWTydsz1zka5oDEPib9HO3poE3TSsngghgt9lNjPeF6e9bIquC5r4otu4XOEYAZvXmrTz9xoxkw5MPyVzOB_TX8EsqQ&ved=2ahUKEwie3I6v9-OVAxWY9AIHHYJQLQkQ8tMDegQITRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+3500X+RS-R+ARGB+Mid-Tower+PC+Case+case+drive_bays+max_cooler_height_mm+max_gpu_length_mm+psu_form_factor+supported_motherboard_form_factors+supported_radiators&start=90"
+    }
+  }
+}

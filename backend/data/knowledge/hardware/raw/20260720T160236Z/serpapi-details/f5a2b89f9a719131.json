@@ -1,0 +1,1563 @@
+{
+  "search_metadata": {
+    "id": "6a5e462ed02d2a28a4a532d3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/p_XDt54vOx9z-_jjz7yjug/6a5e462ed02d2a28a4a532d3.json",
+    "created_at": "2026-07-20 16:00:46 UTC",
+    "processed_at": "2026-07-20 16:00:46 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=LEZeavWbL9WSwbkPtc-DuAQ&q=latest+current+generation+desktop+PC+cooler+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A546854980751986401%2Ccatalogid%3A9961339861918630472%2Cgpcid%3A6911225950307150214%2CheadlineOfferDocid%3A5133182338517319440%2Crds%3APC_6911225950307150214%7CPROD_PC_6911225950307150214%2CimageDocid%3A3387060399581723851%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+cooler+component+released+2025+2026+new%2Cmid%3A576462858445701569%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0S2FEbmMzMVl2UjlqU2dtd2pleGFhSUpQeW5WVnZHTXQzZnlyYmJzRHVnM2E1OGMzT2tnaEd0cUM0STdGSURGTW1EbkdORVNNMlhMOXJYdE5RZUdMTldBdHhqVjZhbUhqVDJ1Z0pKaEg4aWdqYmNXOVhIZUtXRXEyTkZDU25JUnQxZUN4YmFqSXpEV1lxNlgzZUVYem5MX1IxMnZoRzZOWUE4YmltWlBxUlFwMkdHQTU2LVhPamRCbHNYdE9YbVA5dnV4cmZ6ZHJKMGxiNG1mVG1RNVhiSV9sWjZLOGtMc3RaTlRVNHV6OUE4TzBpc05DSWl3OXlKMnpGZFdjZG5NZDJxLTY0aWdSWVhCTXFXVEtweVM1dWNxdEpqLUFtM0NDcTVBTWE5b1JlNEI5MjdiQnZvVXBPWFlHSm0zRXNsYW1uNVhaelgSF0xFWmVhdldiTDlXU3dia1B0Yy1EdUFRGiJBRHNyOWZRNnA5SDd0MkFJbjd2b0IyeUFJM0sxYzZvdU1B%2Cxsrf%3AAF5tSO6nSvZ0Z2HkbgYXuTa0BoFWBXOhJQ%3A1784563245077%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/p_XDt54vOx9z-_jjz7yjug/6a5e462ed02d2a28a4a532d3.html",
+    "prettify_html_file": "https://serpapi.com/searches/p_XDt54vOx9z-_jjz7yjug/6a5e462ed02d2a28a4a532d3.prettify",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "H90hDXicbZS5juNGEIZtP4EDP8DmgwG6edOLCUSRlETxEO8jEUh2S6TYPCSSEkX4aWYPYB2uA6d-jd3AT-LAGjh1B11A1Yeuvwpd9fcPP7_i8k9dSXB6DTNdDN1bVu2G_FkeF_aX7tKiMR9K9JVlOIFlRAHwLBQFjgHwS54OKWmPJfpDFDlI0w83FKHA0YDhqa8FThEpG2wdDvgit_kDYx8QFCiaFljI01BkGPB7WadH_F_44ecBB2hRZAXIU2_Uhwvqv1G75Z4TIaQoVmQBDXjIAgoyv-0cS97_f-zTecSX-zedpAPuh6d8vFxwMzwdcYMv6VC2zRPCfTW03dNu-ZS3LcGXh6m7tnnDLpjgtMfoiQIU-3ZxTw2-fTp2byr_J9uH-q1BPMdwlMAKDMPyALKc-KG7Dq_F8eM4EvzX65G8jv1rQV5x87lNu-sh__7TL0p7k5f9bWn7XRfIDnApVclqYzYCQvkncvYpNCCqI3ilFq7f2Thkw6BJ1l5kz0lD7nGtzc46aAxKgdbKmD1qaFIFgdw3gOuhles7Ky-ESlYhywlM0yCFYUVajBTWSXxkeARJaF2cg1NSZP7DyhpMQLdNlSOThugc12ZkBcUm8YfIiZS7VyWyT7Ga39hT4ptMXKtnN-qUAJLJJMc58YMY16wRwc1kNEnrzIkV-sqDI0NIpMkn6s2o0Nr2fEoPil1aO8tsbT70iHEWLFjUBExeJ1yy1rbGairNFayDFXTMoCjdQOzDU6Jbq8HIaSf1yKOidcBZj_e9WepywMpuSGgrIluj6VaJik7JijUTWZt0LwaPetwwKJZepEaBMtxwYEAUmhNSurPuq4MBTDn3AskLFTaDGjGVDWucUGk3yTWIpF2okrVbg9mJzD4O4fjQlGJydFUwqWEdFIig0pNJ5NOoTKEE4jtUkK86q1KTnLV5t8LEMZsF68oIGJWqZSdEZWBzx76qGaCf4jm5Ih9KH6f-cvgGFio7uBbXuNcEJNS6yo5xNHopkFo1lCKr0OxfIS8wLEdTDAt4_vPjG1cl_v7jPwtl-bJAWqCkPcyOdhUYBi3SWI92fGuRkbpivqi21TLNLivqzhpoLwSp3lDPg3RY2O_f7fcufkwMfnY9Z_eyMOvklgKy02z6WtIrXuulYjdt20NyFtxq9EWvjO18PpntyF82PsPlp9nZmKlKruV-JWx4Iu_ROoXtNvGckK7VKXMZtCP7uhutlDlTJnn_Tg5e8km97rULpEFMep0FybQRLGGW1GmhPEtNE22OBnZxbNyUxeO8f2du5BeWpl9WhXCHPj0MtJ3NoTAI-rxXidkwFNK2915rt-Y1LudevE3kRi-quxnN0y0OcOXYmT3HuRzBsqAKTDEDWPeSer1V9yJQKAbsQelf9GqnuJbL6LSvUmBcovSxufgQ67sFtS6acozu-rnhS71183PZLi1jsee5OnPPqigesSZx4t1p2huys3PKSGccVACkdnUEQXKBvSFvZcQ9a_lN2GJf4MKDJA5IXPC-Oq6H_qwfzl0t23fV3Oe70L3Xu0XHFiu7qhSbFS-S1p8qXxvc8dn34n8BwOrwmw"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRz6yXaLLPy8T1SpMRl45Ok31g4_Ud0giA4mhN4_fV5C70-OSGBZnkbzEbrxUX6A8wgh-FZiqMhqBkcstOUyDf74bAzeJOogwf9VTLnVz-Z",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQfFTBfaFK8m4FRy_EaKVhBJpwrSKCB6Gw4tFo8qpxrOUY9FMYyyaYYFp0pOD2S7uFp-wDoUBWi6aygCOUDk9PTnRSqyDUKBaaT31ZbcqDx_C9ZJ_k6WugDhQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTyObPfI7glNuGxL78vOoq2WBzLQfKpXBTdAjYtRa8mkelL9MQ8JySLCWAL2DUe-jZQrzVvs5aVyaCyD9oul2IUohkAr5QAaoCKQotOuw1LDHXcBzDks3rO8g",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQfnaZCl32ZJlPTs39Hiqiyak4bJLqpyqTDAElRItXHE19GCGV1OhIdrEWo9TWwfHrjxQWyeoV4c06SVRydB48_kC1KLHqDzeO-95zyoQ6b44CoMYXWX-V0",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRGIb9_lXnb5WU3RiYaX6bMcaxqoElMznNwJzjpYQmfnzl2vhfECa28nxd9U25fSo8mTaf677o64ArtNXPJVIATh2Ffua-expFJT70-xYqDtxzaAiBisty6og",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRZQW2o5H1vq8Gk_h_RuNBqqPpba03zkjcSLlhRzErl0SHbU1UwZwlRVztOk1SAxdmEmxMBxkRaNSJAVlBJEWSDuyXHDqtt6vl9RujFu4bhbepOuNTKO2NsfQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS2VUBmIXbrMVAaQQ1vxTnSe0BTa0XvUqQnqklEAaf6rh526xjXarhA96hjoB6uEJNYhZa6PPIdPXW8N8-SbyGwyKfLUsDE1AgpFtejICElQf4hglWXFEIevp8",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcR-IoCTJ-eH66dkDZT8h5bPWk5tjBj_P4H5c-6W2V0Ucz_hPtgLn9SHk8ePs8rJM6AVKEh77ElvrWBtnYzNrWnYUI1aHNSIVokW77hMKMngd4wG8UA5H1-StFQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQWPdczApvaU-yOt-dicQGLcIdA3Yd59PcNVL6p50moEP4t2OcIBmR3SSxTvAkSWWnmItZAlQ9PBFkhRBc3vU2Q0Z58Tqcw8ObzeHzo9_nPHS7KNtVKfHP2mg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQVS36uwOlC6noBJJM6hZMPX-G1zF8Qdu37w85fLgKJTUXU_YXNRZCYJhugz93YTbq6A7yze4DJ-3C_QxcRhjZC-NcqiAQ43HeXHfres345zypA2KLoY_6QohY",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTuyUe9a6bL3rodgvVdqNSEteFLnC4RvE4oBKYb42CaawgHCeQoAUoWNBhgFzHffu19bVz99aAGpmYZUCUECMwuPisqQj0XMzbAOiH1pQ-RHC_ohmTJL51XiWc",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQMoomztOnSzwI65CFrWf-SOTG7_Si-3ziBymRSH4gCAx1mq4u2shpauEWZatJJLtLRxNvRNKoPpqdddFnS3ELsYegGZ5rY6Ww3mVCPgoFQBcJyw8BtDde6",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcReDQrkriwRIJFZj5eFwyU2noWbfW9Zj-Xn6-yA4vnj6ind7ecZXNdDU01tYy_QSF1R8ScqdVXgTTLvlqwlF3QcaDVMIL4-vQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcS5tAj4ePILtvVI39P3i8HaHx1jNN3zBuVKrHmmQJ2PC0G_foZJDgwhxTUMKkFYS4oS6MUqPsZHXqQvc0JQtonR_ANjwZbN"
+    ],
+    "title": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+    "brand": "NZXT",
+    "reviews": 510,
+    "rating": 4.5,
+    "price_range": "$260-$268",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/nzxt-kraken-elite-rgb-360mm-2024-radiator-1x-single-frame-rgb-core-fan-liquid-cooler-with-2-72-60fps-display-black/J3GWJHQ74C/sku/6597523?utm_source=feed",
+        "title": "NZXT - Kraken Elite RGB 360mm 2024 Radiator (1x Single-Frame RGB Core Fan) Liquid Cooler with 2.72\" 60FPS Display - Black",
+        "rating": 4.6,
+        "reviews": 1927,
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed",
+          "15-day returns"
+        ],
+        "discount": "6% off",
+        "price": "$279.99",
+        "extracted_price": 279.99,
+        "original_price": "$299.99",
+        "extracted_original_price": 299.99,
+        "shipping": "Free",
+        "total": "$279.99",
+        "extracted_total": 279.99
+      },
+      {
+        "name": "Micro Center",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.microcenter.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.microcenter.com/product/686404/nzxt-elite-rgb-360mm-all-in-one-liquid-cpu-cooling-kit-black?bvstate=pg%3A2%2Fct%3Ar&storeid=055",
+        "title": "NZXT Kraken Elite RGB 360mm All in One Liquid CPU Cooling Kit - Black",
+        "rating": 4.9,
+        "reviews": 496,
+        "payment_methods": "Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "30-day returns"
+        ],
+        "price": "$279.99",
+        "extracted_price": 279.99,
+        "total": "$279.99",
+        "extracted_total": 279.99
+      },
+      {
+        "name": "B&H Photo-Video-Audio",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bhphotovideo.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bhphotovideo.com/c/product/1847734-REG/nzxt_rl_kr36e_b2_360mm_kraken_elite_rgb.html?kw=NZRLKR36EB2&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooUa5TYGWldt3KwAjXXua06mD0cBuJWdTzkZv5ORAuwViTpyz_lrBk",
+        "title": "NZXT 360mm Kraken Elite RGB All-in-One Liquid Cooler (Black)",
+        "rating": 4.9,
+        "reviews": 118892,
+        "payment_methods": "PayPal, Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Wed",
+          "Free 30-day returns"
+        ],
+        "discount": "7% off",
+        "price": "$259.99",
+        "extracted_price": 259.99,
+        "original_price": "$279.99",
+        "extracted_original_price": 279.99,
+        "shipping": "Free",
+        "total": "$259.99",
+        "extracted_total": 259.99
+      }
+    ],
+    "stores_next_page_token": "XbqM0nica15aklmSk3pT1y8qIkTBuygxOzVPwTUnsyRVIcjdScHR01_BJ7OwNDNFwTk_Pye1SMEpJzE5e0lxflEm8-LcvHwuABfLF4w",
+    "about_the_product": {
+      "title": "Kraken Elite 360 RGB | 360mm AIO w/ IPS LCD & RGB",
+      "link": "https://nzxt.com/products/kraken-360-elite-rgb-1",
+      "displayed_link": "nzxt.com",
+      "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2",
+      "description": "The Kraken Elite 360mm RGB liquid cooler is a powerful and quiet CPU cooling solution. It's powered by the custom-designed NZXT Turbine pump, which delivers a 10% boost in CPU cooling performance compared to its predecessor. The 2.72-inch IPS LCD screen offers a sharp 640x640 resolution, smooth 60 Hz refresh rate, and wide viewing angles. You can showcase your favorite GIF or image, track real-time system performance, and integrate with Spotify, YouTube, and more. The RGB ring can be customized with dynamic lighting effects or synchronized with on-screen content and other RGB devices. The RGB Core single-frame fan provides optimal airflow.",
+      "features": [
+        {
+          "title": "Socket Compatibility",
+          "value": "AMD Socket AM4, AMD Socket AM5, Intel Socket LGA 1200/115X, Intel Socket LGA 1700, Intel Socket LGA 1851"
+        },
+        {
+          "title": "Material",
+          "value": "Aluminum (radiator), Copper (cold plate)"
+        },
+        {
+          "title": "Cooling Capacity",
+          "value": "10% boost in CPU cooling performance (compared to Kraken Elite 240 RGB RGB (2023))"
+        },
+        {
+          "title": "Liquid Cooling Support",
+          "value": "Yes"
+        },
+        {
+          "title": "Radiator Support",
+          "value": "360mm"
+        },
+        {
+          "title": "Airflow",
+          "value": "75.12 CFM per fan"
+        },
+        {
+          "title": "Cooling Noise Level",
+          "value": "30.00 dBA per fan"
+        },
+        {
+          "title": "Cooling TDP",
+          "value": "257W (on average, noise-normalized with Intel i7-14700K)"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Liquid cooling"
+        },
+        {
+          "title": "Fan Mount Size",
+          "value": "120mm"
+        },
+        {
+          "title": "Included Fans",
+          "value": "1 (F360 RGB Core Fan)"
+        },
+        {
+          "title": "Fan Diameter",
+          "value": "120 mm"
+        },
+        {
+          "title": "Fan Speed",
+          "value": "500 - 2,400 ± 250 RPM per fan"
+        },
+        {
+          "title": "Water Cooling Ready",
+          "value": "Yes"
+        },
+        {
+          "title": "Bearing Type",
+          "value": "Fluid Dynamic Bearing"
+        },
+        {
+          "title": "Cooling Static Pressure",
+          "value": "3.3 mm H2O per fan"
+        },
+        {
+          "title": "Depth",
+          "value": "27 mm (radiator)"
+        },
+        {
+          "title": "Height",
+          "value": "120 mm (fan)"
+        },
+        {
+          "title": "Width",
+          "value": "120 mm (fan)"
+        },
+        {
+          "title": "Weight",
+          "value": "3.42 lbs"
+        },
+        {
+          "title": "Lighting",
+          "value": "RGB"
+        },
+        {
+          "title": "Design Highlights",
+          "value": "RGB lighting"
+        },
+        {
+          "title": "Lighting Type",
+          "value": "RGB"
+        },
+        {
+          "title": "Lighting Highlights",
+          "value": "RGB ring, 8 LEDs per fan"
+        },
+        {
+          "title": "Power Connector",
+          "value": "8-pin for PWM & RGB"
+        },
+        {
+          "title": "Voltage",
+          "value": "12V DC (pump)"
+        },
+        {
+          "title": "Current",
+          "value": "0.3A (12V DC, pump)"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Gaming PC"
+        },
+        {
+          "title": "Typical Users",
+          "value": "PC builders"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Pre-applied thermal paste, Extended rubber tubing with braided sleeving, RGB lighting"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Size (Radiator, Weight)",
+        "items": [
+          {
+            "snippet": "The radiator is aluminum and measures 360mm long.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/nzxt-kraken-elite-360-review/",
+            "source": "XDA",
+            "title": "NZXT Kraken Elite 360 review: Beefy cooling for a flagship AMD or Intel CPU"
+          },
+          {
+            "snippet": "Elite 360mm weighs in at a bit of an exorbitant amount, costing around $100-$125 more than some of the options out there",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pocnetwork.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pocnetwork.net/product-reviews/nzxt-kraken-elite-360mm-radiator-cpu-liquid-cooler/",
+            "source": "Poc Network // Tech",
+            "title": "NZXT Kraken Elite 360mm Radiator CPU Liquid Cooler (Review)"
+          },
+          {
+            "snippet": "The unit is fairly heavy, so it's wise to pre‐route your cables, install the radiator first, and then mount the water block",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/nzxt-kraken-elite-360-rgb-v2-2024-cooler-review/",
+            "source": "GeekaWhat",
+            "title": "NZXT Kraken Elite 360 RGB V2 Cooler Review"
+          },
+          {
+            "snippet": "and as you can see you can have the 420 mil radiator at the top and still use the 120 mm fan at the rear as well.",
+            "timestamp": "From 7:20",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQixxBrJXG1bbbOL_Wx7qiF2VmXBroq7XKpTwZvs7HUdQh7CuZrn86lOAaig7oWx8Cn6TAd9l7HCL5O5Jou9RRk15qZykUWr2j5Fyi4H8Y",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=3PLxVLzkar4&t=440",
+            "user": "The Provoked Prawn",
+            "date": "May 2025",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "the 240 mm version is the one that starts at $119.99.",
+            "timestamp": "From 1:48",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKLjuWkUYgPNAWETsrgZW8X1dvvdPtcE9XjQkNJj7G8riH8PW4v5G8mTe-Z8U9i5aJ2y0DNHF2OpON4eujepJr0hfbrTksIYqGH8hFzRY",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=f9STtu6s9fA&t=108",
+            "user": "KitGuruTech",
+            "date": "Jul 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "this model includes two 420 mm fans as standard and the rear 120 mm.",
+            "timestamp": "From 0:37",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQixxBrJXG1bbbOL_Wx7qiF2VmXBroq7XKpTwZvs7HUdQh7CuZrn86lOAaig7oWx8Cn6TAd9l7HCL5O5Jou9RRk15qZykUWr2j5Fyi4H8Y",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=3PLxVLzkar4&t=37",
+            "user": "The Provoked Prawn",
+            "date": "May 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Good temperature regulation",
+            "snippet": "System cools significantly as advertised. However, my system hangs on boot when the AIO system is plugged into the proper USB header. Boots up fine when ever I",
+            "user": "Odysseus",
+            "date": "6mo",
+            "source": "nzxt.com"
+          },
+          {
+            "snippet": "of sizing options, of course, the 420 mm-long tubing, and a full-fat aluminum radiator, with a six-year warranty piled on top",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/cooling/nzxt-kraken-elite-360-rgb-2024-cooler-review/",
+            "source": "PC Gamer",
+            "title": "NZXT Kraken Elite 360 RGB (2024) liquid cooler review"
+          },
+          {
+            "snippet": "It still is quite noisy, so for any fellow ITX builders out there, maybe consider something smaller if you want to cut out as",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/nzxt-kraken-elite-360-rgb-review/",
+            "source": "GamesRadar+",
+            "title": "NZXT Kraken Elite 360 RGB review: \"Has some solid design points that make installation a lot easier\""
+          }
+        ]
+      },
+      {
+        "title": "Compatibility (Sockets, CPU)",
+        "items": [
+          {
+            "snippet": "Mounting for modern AMD and Intel platforms",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/liquid-cooling/nzxt-kraken-elite-360-rgb-review",
+            "source": "Tom's Hardware",
+            "title": "NZXT Kraken Elite 360 RGB Review: The best on the market – and priced like it"
+          },
+          {
+            "snippet": "Out of the box, the cooler supports Intel's LGA 1851/1700/1200/115x and AMD's AM5/AM4 sockets.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cgmagonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cgmagonline.com/review/hardware/nzxt-kraken-elite-360-rgb-aio/",
+            "source": "CGMagazine",
+            "title": "NZXT Kraken Elite 360 RGB AIO Cooler Review"
+          },
+          {
+            "snippet": "Core i5-13600K or an AMD Ryzen 9 7950X, you will have no trouble keeping the processor cool with the NZXT Kraken Elite 360",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/nzxt-kraken-elite-360-review/",
+            "source": "XDA",
+            "title": "NZXT Kraken Elite 360 review: Beefy cooling for a flagship AMD or Intel CPU"
+          },
+          {
+            "snippet": "and its height means reaching components next to it like M. 2 bays or swapping out the best RAM for gaming could be tricky",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/nzxt-kraken-elite-360-rgb-review/",
+            "source": "GamesRadar+",
+            "title": "NZXT Kraken Elite 360 RGB review: \"Has some solid design points that make installation a lot easier\""
+          },
+          {
+            "snippet": "just like all the other versions here and again you have the Intel CPU bracket on this by default.",
+            "timestamp": "From 7:29",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQoVXyrVZdCJ9FeyeBflxxFA7G5n1xl5AzVeAK1OuUFP4fvp5GqLF6WfH5y2yfPy9iO_D1KNYzqkr0yd5XWVeAowRjfGBGyTcZtzqVtNw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=SIgXkQxEvVE&t=449",
+            "user": "1 Up Nerdcore",
+            "date": "Jun 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "for all Intel and AMD sockets including the latest AM5 socket as well cables are a bit cumbersome.",
+            "timestamp": "From 1:31",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSvTyrkQL3ll0MXUiib7iwJ8lwIa7n17f7O8wY9MBw2j9e1sayrc6dZl20CfobWJRAIvtOJ-6yRlHpVxJkzxuSzxL9q-HXv6C8ZZ4aJqQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rNqbRVZr8rU&t=91",
+            "user": "LevelUP Gaming & Tech",
+            "date": "Jan 2024",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Great built-in modes to show CPU temperatures"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cubed3.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cubed3.com/tech/reviews/accessories/nzxt-kraken-elite-360-rgb",
+            "date": "1y",
+            "source": "Cubed3",
+            "title": "NZXT Kraken Elite 360 RGB Review"
+          },
+          {
+            "snippet": "but it's very easy to wire this into your system it's also flexible because it will work with LG 1700 socket motherboards 1851.",
+            "timestamp": "From 2:46",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTXW5rxg3BZ6QGdRMAhMpuy9ba22c_V_Ng0otZfLXNB3gpTm9lKoZpG5IklgnE0hUIsP_9zqQCHc-WRx-v7Vztmd5-OnM94AuM36I6l4bM",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=hGF4XZQYtTg&t=166",
+            "user": "The Provoked Prawn",
+            "date": "Nov 2024",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Good compatibility",
+            "snippet": "I've used this AIO with a 9800x3d and a 9950x3d and love it. What seperates this AIO from the others is the ability to use a gif search instead of having to",
+            "user": "dancinbananna22",
+            "date": "6mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "The new Kraken Elite comes with mounting brackets for the most popular CPU sockets which includes Intel® LGA 1851/1700",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nzxt.com/blogs/news/zxt-releases-the-new-kraken-elite-featuring-enhanced-cpu-cooling-performance-and",
+            "source": "NZXT",
+            "title": "NZXT Releases The New Kraken Elite Featuring Enhanced CPU Cooling Performance and a Stunning New LCD Screen"
+          },
+          {
+            "snippet": "Installation: Install easily with pre-applied thermal paste, a single breakout cable, and tool-free mounting brackets for the",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/news/cases_cooling/nzxt-gives-their-kraken-elite-series-a-huge-v2-upgrade-at-gamescom-2024/",
+            "source": "OC3D",
+            "title": "NZXT gives their Kraken Elite series a huge V2 upgrade"
+          },
+          {
+            "pros": [
+              "Up to 10% greater CPU cooling performance"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fthegamingstuff.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://thegamingstuff.com/news/nzxt-releases-the-new-kraken-elite-featuring-enhanced-cpu-cooling-performance-and-a-stunning-new-lcd-screen/",
+            "date": "1y",
+            "source": "The Gaming Stuff",
+            "title": "NZXT Releases The New Kraken Elite Featuring Enhanced CPU Cooling Performance and a Stunning New LCD Screen"
+          }
+        ]
+      },
+      {
+        "title": "Design (Pump, Lighting)",
+        "items": [
+          {
+            "snippet": "CoolIT, the aptly named NZXT Turbine pump increases flow rates and head pressure to deliver high-quality, consistent cooling",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nzxt.com/blogs/news/diving-deep-into-the-new-kraken-elite-pump",
+            "source": "NZXT",
+            "title": "Diving Deep Into the New Kraken Elite Pump"
+          },
+          {
+            "snippet": "AIO Cooler blends practicality with luxury, offering advanced cooling technology and eye-catching design in a single package",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cgmagonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cgmagonline.com/review/hardware/nzxt-kraken-elite-360-rgb-aio/",
+            "source": "CGMagazine",
+            "title": "NZXT Kraken Elite 360 RGB AIO Cooler Review"
+          },
+          {
+            "snippet": "Surrounding this screen is an RGB ring light that adds extra dynamic lighting to the mix.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/cases_cooling/nzxt-kraken-elite-rgb-v2-240-280-and-360-cpu-cooler-review/",
+            "source": "OC3D",
+            "title": "NZXT KRAKEN ELITE RGB V2 series CPU Cooler Review"
+          },
+          {
+            "snippet": "design with a single RGB zone so obviously this opaque blade will illuminate with RGB.",
+            "timestamp": "From 8:17",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKLjuWkUYgPNAWETsrgZW8X1dvvdPtcE9XjQkNJj7G8riH8PW4v5G8mTe-Z8U9i5aJ2y0DNHF2OpON4eujepJr0hfbrTksIYqGH8hFzRY",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=f9STtu6s9fA&t=497",
+            "user": "KitGuruTech",
+            "date": "Jul 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Image and color display is still quite good"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fpcunboxing.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://pcunboxing.com/en/nzxt-kraken-elite-360-rgb/",
+            "date": "1mo",
+            "source": "PC Unboxing",
+            "title": "NZXT Kraken Elite 360 RGB All-in-One Watercooling Unboxing Review"
+          },
+          {
+            "snippet": "and the new Kraken Elite but it does look good it is a nice looking display i like the look of the uh widescreen display on this Elite version.",
+            "timestamp": "From 15:17",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKLjuWkUYgPNAWETsrgZW8X1dvvdPtcE9XjQkNJj7G8riH8PW4v5G8mTe-Z8U9i5aJ2y0DNHF2OpON4eujepJr0hfbrTksIYqGH8hFzRY",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=f9STtu6s9fA&t=917",
+            "user": "KitGuruTech",
+            "date": "Jul 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Powerful pump motor with a speed of up to 2800RPM"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/cooling/james-dawson/nzxt-kraken-280-rgb-and-kraken-elite-360-rgb-review/",
+            "date": "3y",
+            "source": "KitGuru",
+            "title": "NZXT Kraken 280 RGB and Kraken Elite 360 RGB Review"
+          },
+          {
+            "snippet": "the pump inside is Acetch Gen 7 if I remember correctly it uses DC for power it's a classic three pin connector.",
+            "timestamp": "From 3:39",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSvTyrkQL3ll0MXUiib7iwJ8lwIa7n17f7O8wY9MBw2j9e1sayrc6dZl20CfobWJRAIvtOJ-6yRlHpVxJkzxuSzxL9q-HXv6C8ZZ4aJqQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rNqbRVZr8rU&t=219",
+            "user": "LevelUP Gaming & Tech",
+            "date": "Jan 2024",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Quality lighting",
+            "snippet": "This does a great job of keeping my 5090 graphics card cool. The RGB also adds nice visuals.",
+            "user": "NiallM",
+            "date": "7mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Attractive",
+            "snippet": "Performs well and looks great. But the fact that it barely works with the CAM software and that's the only software that will run it almost ruined the deal for",
+            "user": "Logan",
+            "date": "1y",
+            "source": "nzxt.com"
+          },
+          {
+            "snippet": "but what I can say is that the NZXT's Kraken Elite 360 RGB has some solid design points that make installation a lot easier",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/nzxt-kraken-elite-360-rgb-review/",
+            "source": "GamesRadar+",
+            "title": "NZXT Kraken Elite 360 RGB review: \"Has some solid design points that make installation a lot easier\""
+          },
+          {
+            "snippet": "This particular model has no RGB lighting, though you'll still need to use the NZXT CAM software suite to manage everything",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/nzxt-kraken-elite-360-review/",
+            "source": "XDA",
+            "title": "NZXT Kraken Elite 360 review: Beefy cooling for a flagship AMD or Intel CPU"
+          },
+          {
+            "snippet": "As well as offering a fancy LCD on the pump unit, the NZXT Kraken Elite 360 RGB is also available in black and white",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.custompc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.custompc.com/best-aio-cooler-2024",
+            "source": "Custom PC",
+            "title": "Best AIO cooler 2024"
+          },
+          {
+            "key_point": "Well made",
+            "snippet": "Well made and easy to install. The instructions were specific and the product feels like very nice quality.",
+            "user": "ThomasS",
+            "date": "7mo",
+            "source": "bestbuy.com"
+          },
+          {
+            "key_point": "Lacks durability",
+            "snippet": "Pump stopped working in less than 8 months. Next does not cross ship so I had to take the component out in order to send back before they would send a",
+            "user": "JAMESB",
+            "date": "3mo",
+            "source": "bestbuy.com"
+          }
+        ]
+      },
+      {
+        "title": "Ease of Installation",
+        "items": [
+          {
+            "snippet": "Single breakout cable simplifies installation",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pocnetwork.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pocnetwork.net/product-reviews/nzxt-kraken-elite-360mm-radiator-cpu-liquid-cooler/",
+            "source": "Poc Network // Tech",
+            "title": "NZXT Kraken Elite 360mm Radiator CPU Liquid Cooler (Review)"
+          },
+          {
+            "snippet": "The copper contact plate, pre-applied with thermal paste, simplifies installation, making it accessible even for those new to",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cgmagonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cgmagonline.com/review/hardware/nzxt-kraken-elite-360-rgb-aio/",
+            "source": "CGMagazine",
+            "title": "NZXT Kraken Elite 360 RGB AIO Cooler Review"
+          },
+          {
+            "snippet": "so just make sure you're paying attention to that the install is pretty straightforward.",
+            "timestamp": "From 6:41",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQoVXyrVZdCJ9FeyeBflxxFA7G5n1xl5AzVeAK1OuUFP4fvp5GqLF6WfH5y2yfPy9iO_D1KNYzqkr0yd5XWVeAowRjfGBGyTcZtzqVtNw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=SIgXkQxEvVE&t=401",
+            "user": "1 Up Nerdcore",
+            "date": "Jun 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "process what you have is you have to remove the original brackets that are already placed you have pre-instal pre-applied thermal paste.",
+            "timestamp": "From 3:59",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTrrXaWVyftPEor0jw6j0zLbdRrQRIEQMsAFC2TIhXi7SqfYBZsAmJVok-ddQxwqvgoYsBYJnpnqbmVOsHqc18QfUty36thlfHQlJrkTw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=WE-SM6wSuS4&t=239",
+            "user": "PC Crazy",
+            "date": "Feb 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Easy to install",
+            "snippet": "Ease of install puts this at #1 for me! The LCD display is awesome for displaying current PC stats along with customization of a GIF or picture carousel",
+            "user": "IsaacW",
+            "date": "1y",
+            "source": "bestbuy.com"
+          },
+          {
+            "snippet": "Cabling has been minimised, making the installation process simple.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/cases_cooling/nzxt-kraken-elite-rgb-v2-240-280-and-360-cpu-cooler-review/",
+            "source": "OC3D",
+            "title": "NZXT KRAKEN ELITE RGB V2 series CPU Cooler Review"
+          },
+          {
+            "snippet": "The Kraken Elite features a large copper contact plate to cover even the largest of CPUs, with pre-installed thermal paste",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/liquid-cooling/nzxt-kraken-elite-360-rgb-review",
+            "source": "Tom's Hardware",
+            "title": "NZXT Kraken Elite 360 RGB Review: The best on the market – and priced like it"
+          },
+          {
+            "snippet": "Installation: Install easily with pre-applied thermal paste, a single breakout cable, and tool-free mounting brackets for the",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nzxt.com/blogs/news/zxt-releases-the-new-kraken-elite-featuring-enhanced-cpu-cooling-performance-and",
+            "source": "NZXT",
+            "title": "NZXT Releases The New Kraken Elite Featuring Enhanced CPU Cooling Performance and a Stunning New LCD Screen"
+          },
+          {
+            "snippet": "copper cold plate comes with pre‐applied thermal paste, and the entire water block installation can be completely tool‐less",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/nzxt-kraken-elite-360-rgb-v2-2024-cooler-review/",
+            "source": "GeekaWhat",
+            "title": "NZXT Kraken Elite 360 RGB V2 Cooler Review"
+          },
+          {
+            "snippet": "The assembly instructions outline everything clearly, and some diagrams and steps really do feel like they streamline what",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/nzxt-kraken-elite-360-rgb-review/",
+            "source": "GamesRadar+",
+            "title": "NZXT Kraken Elite 360 RGB review: \"Has some solid design points that make installation a lot easier\""
+          }
+        ]
+      },
+      {
+        "title": "Noise Level",
+        "items": [
+          {
+            "snippet": "It operated quietly, with noise levels so low it was barely noticeable, even during performance benchmarking.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cgmagonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cgmagonline.com/review/hardware/nzxt-kraken-elite-360-rgb-aio/",
+            "source": "CGMagazine",
+            "title": "NZXT Kraken Elite 360 RGB AIO Cooler Review"
+          },
+          {
+            "snippet": "That's likely as these fans actually spin quite slowly by comparison, a boon for noise levels (with the F360 RGB Core only",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/cooling/nzxt-kraken-elite-360-rgb-2024-cooler-review/",
+            "source": "PC Gamer",
+            "title": "NZXT Kraken Elite 360 RGB (2024) liquid cooler review"
+          },
+          {
+            "pros": [
+              "Low noise"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.custompc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.custompc.com/best-aio-cooler-2024",
+            "date": "2y",
+            "source": "Custom PC",
+            "title": "Best AIO cooler 2024"
+          },
+          {
+            "snippet": "but if it crosses that threshold it becomes more and more audible at max you can clearly hear it regarding the fans.",
+            "timestamp": "From 3:56",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSvTyrkQL3ll0MXUiib7iwJ8lwIa7n17f7O8wY9MBw2j9e1sayrc6dZl20CfobWJRAIvtOJ-6yRlHpVxJkzxuSzxL9q-HXv6C8ZZ4aJqQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rNqbRVZr8rU&t=236",
+            "user": "LevelUP Gaming & Tech",
+            "date": "Jan 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "but as you as you saw in the graphs from 79 to 80 on 79 it was dead silent on 80 it was running at maximum speed which was around 2400 RPMs.",
+            "timestamp": "From 10:47",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTrrXaWVyftPEor0jw6j0zLbdRrQRIEQMsAFC2TIhXi7SqfYBZsAmJVok-ddQxwqvgoYsBYJnpnqbmVOsHqc18QfUty36thlfHQlJrkTw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=WE-SM6wSuS4&t=647",
+            "user": "PC Crazy",
+            "date": "Feb 2025",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "The pump is very quiet, even at high speed. The display isn't excessively large, but it's also small. The resolution is high, and uploading GIF background",
+            "user": "Drunkenstein",
+            "date": "6mo",
+            "source": "store.nzxt.com"
+          },
+          {
+            "snippet": "Low noise levels",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/liquid-cooling/nzxt-kraken-elite-360-rgb-review",
+            "source": "Tom's Hardware",
+            "title": "NZXT Kraken Elite 360 RGB Review: The best on the market – and priced like it"
+          },
+          {
+            "pros": [
+              "2,800 RPM whisper-quiet operation",
+              "Decently quiet"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pocnetwork.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pocnetwork.net/product-reviews/nzxt-kraken-elite-360mm-radiator-cpu-liquid-cooler/",
+            "date": "2y",
+            "source": "Poc Network // Tech",
+            "title": "NZXT Kraken Elite 360mm Radiator CPU Liquid Cooler (Review)"
+          },
+          {
+            "snippet": "It still is quite noisy, so for any fellow ITX builders out there, maybe consider something smaller if you want to cut out as",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/nzxt-kraken-elite-360-rgb-review/",
+            "source": "GamesRadar+",
+            "title": "NZXT Kraken Elite 360 RGB review: \"Has some solid design points that make installation a lot easier\""
+          }
+        ]
+      },
+      {
+        "title": "Accessories (Fans, Screws)",
+        "items": [
+          {
+            "snippet": "The NZXT Kraken Elite RGB 360 features three F120 RGB core fans.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.wepc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.wepc.com/cpu/guide/best-cpu-cooler-with-a-screen/",
+            "source": "WePC",
+            "title": "Best CPU cooler with a screen in 2026 - our top LCD AIO coolers"
+          },
+          {
+            "snippet": "You also get a splitter cable as well, so if you don't intend to plug it into the AIO's breakout cable, you can instead go",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/cooling/nzxt-kraken-elite-360-rgb-2024-cooler-review/",
+            "source": "PC Gamer",
+            "title": "NZXT Kraken Elite 360 RGB (2024) liquid cooler review"
+          },
+          {
+            "snippet": "and there's also a three pin header that connects up to the motherboard.",
+            "timestamp": "From 11:20",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKLjuWkUYgPNAWETsrgZW8X1dvvdPtcE9XjQkNJj7G8riH8PW4v5G8mTe-Z8U9i5aJ2y0DNHF2OpON4eujepJr0hfbrTksIYqGH8hFzRY",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=f9STtu6s9fA&t=680",
+            "user": "KitGuruTech",
+            "date": "Jul 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "these are the F120 RGB core fans it's a classic 120 mil fan 25 mm thick.",
+            "timestamp": "From 4:03",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSvTyrkQL3ll0MXUiib7iwJ8lwIa7n17f7O8wY9MBw2j9e1sayrc6dZl20CfobWJRAIvtOJ-6yRlHpVxJkzxuSzxL9q-HXv6C8ZZ4aJqQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rNqbRVZr8rU&t=243",
+            "user": "LevelUP Gaming & Tech",
+            "date": "Jan 2024",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Remarkable thermal management capabilities"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cgmagonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cgmagonline.com/review/hardware/nzxt-kraken-elite-360-rgb-aio/",
+            "date": "1y",
+            "source": "CGMagazine",
+            "title": "NZXT Kraken Elite 360 RGB AIO Cooler Review"
+          },
+          {
+            "snippet": "so it's pretty easy to use across a variety of them comes with pre-applied thermal paste.",
+            "timestamp": "From 2:59",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTXW5rxg3BZ6QGdRMAhMpuy9ba22c_V_Ng0otZfLXNB3gpTm9lKoZpG5IklgnE0hUIsP_9zqQCHc-WRx-v7Vztmd5-OnM94AuM36I6l4bM",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=hGF4XZQYtTg&t=179",
+            "user": "The Provoked Prawn",
+            "date": "Nov 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "The three fans are NZXT's own F120P blowers with fluid dynamic bearings, and NZXT expects this kit to last for many years",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/nzxt-kraken-elite-360-review/",
+            "source": "XDA",
+            "title": "NZXT Kraken Elite 360 review: Beefy cooling for a flagship AMD or Intel CPU"
+          },
+          {
+            "snippet": "and finally a USB connector so that you can customize the pump header's display and fan speeds through NZXT Cam software",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.gamesradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.gamesradar.com/hardware/desktop-pc/nzxt-kraken-elite-360-rgb-review/",
+            "source": "GamesRadar+",
+            "title": "NZXT Kraken Elite 360 RGB review: \"Has some solid design points that make installation a lot easier\""
+          },
+          {
+            "snippet": "*️⃣ Large copper contact plate, pre-installed thermal paste",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/liquid-cooling/nzxt-kraken-elite-360-rgb-review",
+            "source": "Tom's Hardware",
+            "title": "NZXT Kraken Elite 360 RGB Review: The best on the market – and priced like it"
+          },
+          {
+            "snippet": "The Radiator features three 120mm fans that work to keep it cool while in operation.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pocnetwork.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pocnetwork.net/product-reviews/nzxt-kraken-elite-360mm-radiator-cpu-liquid-cooler/",
+            "source": "Poc Network // Tech",
+            "title": "NZXT Kraken Elite 360mm Radiator CPU Liquid Cooler (Review)"
+          }
+        ]
+      },
+      {
+        "title": "Airflow (Fan, Fans)",
+        "items": [
+          {
+            "snippet": "Performance: High static pressure fans provide strong airflow with Zero RPM Mode for silence at low loads in the Kraken",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nzxt.com/blogs/news/zxt-releases-the-new-kraken-elite-featuring-enhanced-cpu-cooling-performance-and",
+            "source": "NZXT",
+            "title": "NZXT Releases The New Kraken Elite Featuring Enhanced CPU Cooling Performance and a Stunning New LCD Screen"
+          },
+          {
+            "snippet": "Includes F140P/F120P Static Pressure fans",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pocnetwork.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pocnetwork.net/product-reviews/nzxt-kraken-elite-360mm-radiator-cpu-liquid-cooler/",
+            "source": "Poc Network // Tech",
+            "title": "NZXT Kraken Elite 360mm Radiator CPU Liquid Cooler (Review)"
+          },
+          {
+            "snippet": "and they are all PWM with a speed of up to 1,800 RPM the air flow is up to 78.86 CFM with air pressure of 2.57 mm H2O.",
+            "timestamp": "From 4:09",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSvTyrkQL3ll0MXUiib7iwJ8lwIa7n17f7O8wY9MBw2j9e1sayrc6dZl20CfobWJRAIvtOJ-6yRlHpVxJkzxuSzxL9q-HXv6C8ZZ4aJqQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=rNqbRVZr8rU&t=249",
+            "user": "LevelUP Gaming & Tech",
+            "date": "Jan 2024",
+            "source": "YouTube"
+          },
+          {
+            "cons": [
+              "Takes a while for fans and pump to spin up"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.custompc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.custompc.com/best-aio-cooler-2024",
+            "date": "2y",
+            "source": "Custom PC",
+            "title": "Best AIO cooler 2024"
+          },
+          {
+            "snippet": "but you can tune the fan speed.",
+            "timestamp": "From 19:23",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKLjuWkUYgPNAWETsrgZW8X1dvvdPtcE9XjQkNJj7G8riH8PW4v5G8mTe-Z8U9i5aJ2y0DNHF2OpON4eujepJr0hfbrTksIYqGH8hFzRY",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=f9STtu6s9fA&t=1163",
+            "user": "KitGuruTech",
+            "date": "Jul 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Includes three premium F120P fans",
+              "Impressive thermal performance"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.xda-developers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.xda-developers.com/nzxt-kraken-elite-360-review/",
+            "date": "3y",
+            "source": "XDA",
+            "title": "NZXT Kraken Elite 360 review: Beefy cooling for a flagship AMD or Intel CPU"
+          },
+          {
+            "snippet": "they are available in white so if you order a white cooler you get white fans these are the 140 mm versions the F-140s.",
+            "timestamp": "From 5:31",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTKLjuWkUYgPNAWETsrgZW8X1dvvdPtcE9XjQkNJj7G8riH8PW4v5G8mTe-Z8U9i5aJ2y0DNHF2OpON4eujepJr0hfbrTksIYqGH8hFzRY",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=f9STtu6s9fA&t=331",
+            "user": "KitGuruTech",
+            "date": "Jul 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Custom-designed NZXT Turbine pump delivers high flow rate and head pressure for powerful yet quiet CPU cooling.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/news/cases_cooling/nzxt-gives-their-kraken-elite-series-a-huge-v2-upgrade-at-gamescom-2024/",
+            "source": "OC3D",
+            "title": "NZXT gives their Kraken Elite series a huge V2 upgrade"
+          },
+          {
+            "snippet": "You can change the fan speeds, what sensors the cooler responds to, and much more!",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.tomshardware.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.tomshardware.com/pc-components/liquid-cooling/nzxt-kraken-elite-360-rgb-review",
+            "source": "Tom's Hardware",
+            "title": "NZXT Kraken Elite 360 RGB Review: The best on the market – and priced like it"
+          },
+          {
+            "snippet": "Utilizing a custom-designed pump in collaboration with CoolIT, the aptly named NZXT Turbine pump increases flow rates and",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nzxt.com/blogs/news/diving-deep-into-the-new-kraken-elite-pump",
+            "source": "NZXT",
+            "title": "Diving Deep Into the New Kraken Elite Pump"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "either - the Kraken Elite 360 RGB proved itself to be extremely powerful in our CPU cooling tests, and it's quiet as well",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.custompc.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.custompc.com/best-aio-cooler-2024",
+            "source": "Custom PC",
+            "title": "Best AIO cooler 2024"
+          },
+          {
+            "snippet": "In real-world testing, the Kraken Elite 360 demonstrated remarkable thermal management capabilities.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.cgmagonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.cgmagonline.com/review/hardware/nzxt-kraken-elite-360-rgb-aio/",
+            "source": "CGMagazine",
+            "title": "NZXT Kraken Elite 360 RGB AIO Cooler Review"
+          },
+          {
+            "snippet": "Now let's talk performance the Kraken Elite excels at cooling even during extended gaming sessions or heavy workloads.",
+            "timestamp": "From 2:01",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQRgkWTQxqi5CXr9BxOpnXVPxLXJQZS4alUqevrcW_ClSb9feBcQe-aucVW4feJoe8YW1EyYD3Fz2NKLCbxBb2puu2fDQRpjaxM8x2mLOA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.youtube.com/watch?v=ewvqB4uegKY&t=121",
+            "user": "Reviewsinside",
+            "date": "Apr 2025",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Powerful yet quiet CPU cooling",
+              "Strong airflow"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Foverclock3d.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://overclock3d.net/reviews/cases_cooling/nzxt-kraken-elite-rgb-v2-240-280-and-360-cpu-cooler-review/",
+            "date": "1y",
+            "source": "OC3D",
+            "title": "NZXT KRAKEN ELITE RGB V2 series CPU Cooler Review"
+          },
+          {
+            "snippet": "The new Kraken Elite is a big step up from its predecessor, offering cooling performance boosts across all radiator sizes.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https%3A%2F%2Fnzxt.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://nzxt.com/blogs/news/diving-deep-into-the-new-kraken-elite-pump",
+            "source": "NZXT",
+            "title": "Diving Deep Into the New Kraken Elite Pump"
+          },
+          {
+            "pros": [
+              "Full PWM control"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.kitguru.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.kitguru.net/components/cooling/james-dawson/nzxt-kraken-280-rgb-and-kraken-elite-360-rgb-review/",
+            "date": "3y",
+            "source": "KitGuru",
+            "title": "NZXT Kraken 280 RGB and Kraken Elite 360 RGB Review"
+          },
+          {
+            "pros": [
+              "Absolutely stunning IPS display"
+            ],
+            "cons": [
+              "Fans lack static pressure punch"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.pcgamer.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.pcgamer.com/hardware/cooling/nzxt-kraken-elite-360-rgb-2024-cooler-review/",
+            "date": "1y",
+            "source": "PC Gamer",
+            "title": "NZXT Kraken Elite 360 RGB (2024) liquid cooler review"
+          },
+          {
+            "snippet": "The tubing is flexible and long enough to route comfortably through most mid‐tower and full‐tower cases, making installation",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fgeekawhat.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://geekawhat.com/nzxt-kraken-elite-360-rgb-v2-2024-cooler-review/",
+            "source": "GeekaWhat",
+            "title": "NZXT Kraken Elite 360 RGB V2 Review"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 35
+      },
+      {
+        "stars": 2,
+        "amount": 13
+      },
+      {
+        "stars": 3,
+        "amount": 15
+      },
+      {
+        "stars": 4,
+        "amount": 60
+      },
+      {
+        "stars": 5,
+        "amount": 387
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTsbXTi0zQnWgwSNKId36dyWabnyf5Zw7gaeqyAUJK-SWyEFYcjk3xVxw8aKy8iiRxcqxJZ_DytGifvxaaWib_uFhmDI5pN1A",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ8Xab9TZRGxwvCv2wsUyGzIJwWb2QgAq6oeDPRLztL--ZoZHwBmiHrZHCPzmSt0wEgcwHHDIAf85YLudfO_FfBS5QxNz7d0w",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS8IbGVQXboFO8OpT_hxwUSR9OM4Tq22j_JDZU9173DcyukOa4NBKcUAfLBJT3j06pCynW5zEzcS9wEG3UhUhxNdHNOUzOM7w",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSso69JjOeJDBK8Wa5OqRA3ygQ3lpxf38MeUAlPOZoYuPHBKxfML6lKaNNHgTVglbPijzphNnhhsYcyXG0kbCdfvoDjfYp4",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSd6TNHdI_TEs2qBTUcZSLWLKYvo2wKBi3hZ2F1WIIQTpY2N9E",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT0msuF6G4DQj_K3AtK12D3fCcu5wJfUuIrB_rRJPr-LM90OESc",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR44CXjrZrnRdoWj5F4WYftYd5oyQiZsiShcC-Xvk0wFxYlVDh_vMk9fE3S4huWGzfFSepIbYzO3tVyOIRzrpWUM6rQug1c",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRVZ672ClLXcasSxAzL3EW42gL-wIw9mvV_FiAS5H2Pn_rH5cM",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRH1ipPCmCG1CXmERMvqWQ6nGsm7QvjS8PINK7J2-2IBPbJCM1g469dN5OZx5QpHESYbHLXFgL7mQoWucHzTnxhCeJ2n--5"
+    ],
+    "user_reviews": [
+      {
+        "title": "Good Quality, Large Screen, Some Burn In",
+        "text": "Cooler seems well put together. Easy enough installation with the singular cable connection into the radiator. Although I replaced it with another set fans to fit the rest of the build, the included unibody fan set is really clean.\n\nThe LCD screen, although an amazing size, resolution, and brightness, does seem to suffer from some temporary burn-in, which I'm not sure is normal. The burn in does go away within 15 - 45 mins when you change the graphic, but it's annoying just after you've changed it, as well as when you have temperature readouts, which can often sit at the same temperature for a period of time and then suddenly change, making it noticeable. I'm hoping I've just done something wrong with the seating of the cable and it's not a defective unit. The included pictures shows the burn-in after just 15 minutes of the graphic being on the screen from the screen being completely switched off.\n\nOtherwise, performs well and super quiet. Just a shame NZXT Cam doesn't link to ASUS' armory crate like everything else to sync up the lighting, but there's always SignalRGB.",
+        "user_name": "Taine S.",
+        "source": "computerorbit.com",
+        "rating": 4,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0jW6rm9GeNrVKWC3SSqKmZdOk29TMsSz2dfYPOT1kZlzwXUAg02VCIrQ2c-K7zfpVpiA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTsbXTi0zQnWgwSNKId36dyWabnyf5Zw7gaeqyAUJK-SWyEFYcjk3xVxw8aKy8iiRxcqxJZ_DytGifvxaaWib_uFhmDI5pN1A",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ8Xab9TZRGxwvCv2wsUyGzIJwWb2QgAq6oeDPRLztL--ZoZHwBmiHrZHCPzmSt0wEgcwHHDIAf85YLudfO_FfBS5QxNz7d0w",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS8IbGVQXboFO8OpT_hxwUSR9OM4Tq22j_JDZU9173DcyukOa4NBKcUAfLBJT3j06pCynW5zEzcS9wEG3UhUhxNdHNOUzOM7w",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSso69JjOeJDBK8Wa5OqRA3ygQ3lpxf38MeUAlPOZoYuPHBKxfML6lKaNNHgTVglbPijzphNnhhsYcyXG0kbCdfvoDjfYp4"
+        ]
+      },
+      {
+        "title": "NZXT destroyed my PC's cooling and offered no solution",
+        "text": "I am writing this because NZXT’s support has left me with an unusable workstation. I originally owned a Kraken Z73 that worked perfectly with my sTRX4 (Threadripper) setup. Following a warranty claim, NZXT support instructed me to permanently destroy my functional Z73 before they would ship a replacement.\n\nThey sent me the Kraken Elite 360, only for me to discover—and for them to later admit—that this unit is physically incompatible with the sTRX4 socket. The cold plate is too small to cover the CPU, and they do not offer a bracket for it.\n\nThe result? I followed their instructions, destroyed my original cooler, and now I have a \"replacement\" that doesn't fit and a dead computer. Instead of sending a compatible unit or offering a refund, they told me to \"contact AMD\" for a bracket that doesn't exist for this model.\n\nIf you are on a high-end platform, be very careful: NZXT’s RMA department does not seem to check compatibility before asking you to destroy your hardware. I am still waiting for a professional resolution.",
+        "user_name": "Paul",
+        "source": "store.nzxt.com",
+        "rating": 1,
+        "date": "5 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2metJ2y2LxkD5Vcbjg9i8eSJLspbRsat-Jgqy0Ae4KDt5_dCNHeq9uQPJEej87YZLmSg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Good Quality, Large Screen, Some Burn In",
+        "text": "Cooler seems well put together. Easy enough installation with the singular cable connection into the radiator. Although I replaced it with another set fans to fit the rest of the build, the included unibody fan set is really clean.\n\nThe LCD screen, although an amazing size, resolution, and brightness, does seem to suffer from some temporary burn-in, which I'm not sure is normal. The burn in does go away within 15 - 45 mins when you change the graphic, but it's annoying just after you've changed it, as well as when you have temperature readouts, which can often sit at the same temperature for a period of time and then suddenly change, making it noticeable. I'm hoping I've just done something wrong with the seating of the cable and it's not a defective unit. The included pictures shows the burn-in after just 15 minutes of the graphic being on the screen from the screen being completely switched off.\n\nOtherwise, performs well and super quiet. Just a shame NZXT Cam doesn't link to ASUS' armory crate like everything else to sync up the lighting, but there's always SignalRGB.",
+        "user_name": "Taine S.",
+        "source": "computerorbit.com",
+        "rating": 4,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0jW6rm9GeNrVKWC3SSqKmZdOk29TMsSz2dfYPOT1kZlzwXUAg02VCIrQ2c-K7zfpVpiA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTsbXTi0zQnWgwSNKId36dyWabnyf5Zw7gaeqyAUJK-SWyEFYcjk3xVxw8aKy8iiRxcqxJZ_DytGifvxaaWib_uFhmDI5pN1A",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ8Xab9TZRGxwvCv2wsUyGzIJwWb2QgAq6oeDPRLztL--ZoZHwBmiHrZHCPzmSt0wEgcwHHDIAf85YLudfO_FfBS5QxNz7d0w",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS8IbGVQXboFO8OpT_hxwUSR9OM4Tq22j_JDZU9173DcyukOa4NBKcUAfLBJT3j06pCynW5zEzcS9wEG3UhUhxNdHNOUzOM7w",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSso69JjOeJDBK8Wa5OqRA3ygQ3lpxf38MeUAlPOZoYuPHBKxfML6lKaNNHgTVglbPijzphNnhhsYcyXG0kbCdfvoDjfYp4"
+        ]
+      },
+      {
+        "title": "10/10 ⭐️ would recommend",
+        "text": "I had the previous model of the nzxt kraken aio pump and it was most likely faulty from the day I built my pc but it didn't start showing prominent issues until recently. Nzxt had me send it in under warranty but since that model was discontinued, they sent me out this one. The latest, upgraded model and it is 100% better than the last model. The installation was more simple and quick, the set up was easy to figure out and the screen displays so much more clearer photos and gifs. I absolutely love this aio pump and I appreciate nzxt customer support. They were very kind, patient and quick to respond to help me resolve my warranty replacement.",
+        "user_name": "Ambear",
+        "source": "nzxt.com",
+        "rating": 5,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1FpEPvxYNzJmgi0vHkhN1YMsTrjsGxHIIhZJzY4ZTYfs1hck4GCoqE1AcXbsbLjYdMYg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSd6TNHdI_TEs2qBTUcZSLWLKYvo2wKBi3hZ2F1WIIQTpY2N9E",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT0msuF6G4DQj_K3AtK12D3fCcu5wJfUuIrB_rRJPr-LM90OESc"
+        ]
+      },
+      {
+        "title": "Startup Issues, Stuck Loop, Not Worth $10",
+        "text": "I purchased the 420mm Kraken Elite less than 5 months ago and it has been nothing but a pain in the neck. First, my CPU was constantly spiking to 100 degrees and my computer would shut off on load, sometimes taking 10-15 times to get it to start. After a bunch of research I found out that NZXT AIOs are notoriously bad about getting \"stuck\" on startup. I turned off fast startup and it has fixed the issue about 50% of the time, but it's still not great and I needed to turn the fans on 100% to stop almost all (but not all) of the rest of the issues (a lot of angry NZXT buyers have said the same thing was needed). Second, upgrading the CAM software sent my computer into a catastrophic failure, not one, but two times (thankful for weekly backups and storing important files in the cloud). Overall, a very nice looking product that is far inferior to Corsair and other brands.ddd",
+        "user_name": "James K.",
+        "source": "store.nzxt.com",
+        "rating": 1,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1dnWVxBg_JNlHFd4onOhGYDguOz0FbD7EIViTmO38nfG5CabFtdWYAyIsG4ItT5NfLbg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR44CXjrZrnRdoWj5F4WYftYd5oyQiZsiShcC-Xvk0wFxYlVDh_vMk9fE3S4huWGzfFSepIbYzO3tVyOIRzrpWUM6rQug1c"
+        ]
+      },
+      {
+        "title": "Display Top, RGB & Noise Flop",
+        "text": "Very very good Display!\nBuild Quality is rly good too!\nThe RGB Ring is rly bad imo. It took months for NZXT to fix the Problem with the RGB Ring when using a big GIF. Rly Hard to set up white lightning.\nThe worst is the Pump. Its super loud. I have a Noctua Fan Set Up, that makes the Pump Jump out Even more! Cooling isnt better then other AIO. I gonna buy another AIO but Not a Kraken anymore.",
+        "user_name": "Markus",
+        "source": "store.nzxt.com",
+        "rating": 3,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3v19vq5Y-IZgZLwytsposeOLrAIJgOw4fCkXMjNbPrHX3zvAfmiyMyd3izCIWJLX-Eng=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRVZ672ClLXcasSxAzL3EW42gL-wIw9mvV_FiAS5H2Pn_rH5cM"
+        ]
+      },
+      {
+        "title": "Terrible option for an AIO if you expect their CAM software to be developed",
+        "text": "I've had a lot of NZXT AIO's - originally an Z63, a Kraken Elite RGB (pre 2024 model) and two Kraken Elite 280 RGB (post 2024) models. The reason I've had 2 2024 models is because the first one I received made a constant grinding noise at lower RPM. This was exchanged for another one - which did exactly the same. Checking online and this appears to be a common issue/defect with them and I was never convinced they would rectify the clear design flaw - so have kept it and ran it at higher RPM.\n\nHardware issues aside - where the overall solution is so drastically let down is in their software (CAM). It's riddled with bugs and imagine my surprise to find out that when I upgraded my GPU to an AMD RX 9070 XT that CAM did not support reading it's temperature. Upon further investigate this is due to NZXT allegedly sacking or letting go of their entire development team. This is primarily why the last release for this software was in January 2024 (almost 9 months ago now) - it clearly isn't in active development any longer and this is further evidenced by the fact that they have closed down their official NZXT CAM ideas forum.\n\nIf you're lookinf for an AIO - I'd strongly advise you look elsewhere - this is overpriced junk supported by outdated and bug riddled software. I've personally opted for a Lian Li HydroShift II and once that arrives - this will end up in the bin!",
+        "user_name": "Paul L.",
+        "source": "nzxt.com",
+        "rating": 1,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3PgHBcwEH1-u4oTS3VH5ZLLXBYd6ChoSxatYXtASDCLm5zXz_ndh4nEBcN7ERMoi5m2Q=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRH1ipPCmCG1CXmERMvqWQ6nGsm7QvjS8PINK7J2-2IBPbJCM1g469dN5OZx5QpHESYbHLXFgL7mQoWucHzTnxhCeJ2n--5"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "NZXT Kraken Elite, Kraken Plus & Kraken Core Review",
+        "link": "https://www.youtube.com/watch?v=O3rakN0NL0k",
+        "source": "YouTube",
+        "channel": "Hardware Canucks",
+        "duration": "22:10",
+        "thumbnail": "https://i.ytimg.com/vi/O3rakN0NL0k/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kOeJm7lE4TWTCp6UkmTgzJH45Mzg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT8zjp0Iq9rKTGnpZFAXQQytrbD9e52R3j1dQ"
+      },
+      {
+        "title": "How To Install NZXT Kraken Elite RGB AIO CPU Cooler",
+        "link": "https://www.youtube.com/watch?v=wYlkGpAqirE",
+        "source": "YouTube",
+        "channel": "Builds With V",
+        "duration": "15:30",
+        "thumbnail": "https://i.ytimg.com/vi/wYlkGpAqirE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nQ7G9qnHqLdESXUQk6tvxPHjbvNg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSRML_TZvFuuprQF4bGKDegHL523SZMuxHuQQ"
+      },
+      {
+        "title": "Premium AIO & Price - NZXT KRAKEN ELITE 360 RGB Review",
+        "link": "https://www.youtube.com/watch?v=WE-SM6wSuS4",
+        "source": "YouTube",
+        "channel": "PC Crazy",
+        "duration": "13:27",
+        "thumbnail": "https://i.ytimg.com/vi/WE-SM6wSuS4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m-I4_3HBXEAeMzKXkjxOPnJOretA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQYJtxFdYGcBOYl2Z7pAyVkahQSsszplYqnlw"
+      },
+      {
+        "title": "NZXT Kraken Elite 360 RGB Liquid Cooler Unboxing",
+        "link": "https://www.youtube.com/watch?v=nDc9OTs4CZg",
+        "source": "YouTube",
+        "channel": "Edge Unboxes",
+        "duration": "9:45",
+        "thumbnail": "https://i.ytimg.com/vi/nDc9OTs4CZg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lK9SR90xljeeb98LQEk6d9--3fRg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRM7TFACJXOussXmacp7so5VO1u6eLd3mBvZQ"
+      },
+      {
+        "title": "NZXT Kraken Elite 360 V2 2024 Review - Solid cooling performance ...",
+        "link": "https://www.youtube.com/watch?v=hGF4XZQYtTg",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "10:24",
+        "thumbnail": "https://i.ytimg.com/vi/hGF4XZQYtTg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mQlgt8lc7DOdS9QxpLndd2yghxlQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWMMSwXovgSiN_1IFP81NckeHWwzAHgu6I-Q"
+      },
+      {
+        "title": "NZXT Kraken Elite 360 RGB V2 2024 Setup and wiring guide",
+        "link": "https://www.youtube.com/watch?v=6oeIa9J_jkQ",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "20:21",
+        "thumbnail": "https://i.ytimg.com/vi/6oeIa9J_jkQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nPg4nETmHwud7CjExX2yPo_IwyZw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRAqY1x3NHc0zLxDxywuWed-DzrBaW8aes-9Q"
+      },
+      {
+        "title": "NZXT Kraken Elite 420 RGB build guide with push pull setup tips",
+        "link": "https://www.youtube.com/watch?v=VxZDi3SsqJc",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "18:12",
+        "thumbnail": "https://i.ytimg.com/vi/VxZDi3SsqJc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lEpAFXZq8a-TR1z4V-B73yZ4eVUw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQdAqIIqncS3m1CowQx9P_dMlf2THxliGuk_A"
+      },
+      {
+        "title": "How To install NZXT Kraken Elite 360 RGB AIO CPU Liquid Cooler ...",
+        "link": "https://www.youtube.com/watch?v=kE3gLjPTQ_k",
+        "source": "YouTube",
+        "channel": "it care & computers",
+        "duration": "14:38",
+        "thumbnail": "https://i.ytimg.com/vi/kE3gLjPTQ_k/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k0-KnB5rrsW3shtQv4igkid28Pog",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSvb268ADGfaAl65prFLFuIJMl_Id92XwZ42Q"
+      },
+      {
+        "title": "NZXT Kraken Elite 240 RGB wiring and setup guide",
+        "link": "https://www.youtube.com/watch?v=XasCJTiuu2c",
+        "source": "YouTube",
+        "channel": "The Provoked Prawn",
+        "duration": "22:43",
+        "thumbnail": "https://i.ytimg.com/vi/XasCJTiuu2c/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kq2JEbQTJhYGs11rb4-Xd2E0lPGQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRcgQu__UxRe1nc1apgNezVBWe4YkcHWPsjZw"
+      },
+      {
+        "title": "NZXT Kraken Elite 2024 360 280 240 AIO Review",
+        "link": "https://www.youtube.com/watch?v=sJidWnwlNHI",
+        "source": "YouTube",
+        "channel": "OC3D TV",
+        "duration": "9:55",
+        "thumbnail": "https://i.ytimg.com/vi/sJidWnwlNHI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kDsn6gQtzWo5quRHNBSELzVagAkw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTPZByDyaLPkz58IPFMP_fn4i7gqYUB_iC1sg"
+      },
+      {
+        "title": "Install Your CPU Water Cooler Like a Pro With The New Kraken Elite ...",
+        "link": "https://www.youtube.com/watch?v=m2SdHYGicr0",
+        "source": "YouTube",
+        "channel": "TimsComputerRepair",
+        "duration": "34:05",
+        "thumbnail": "https://i.ytimg.com/vi/m2SdHYGicr0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kVj9-zbYZGYF3btKU5dpi89DXNqg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQGX_tPiNzcHV6gAMnG5WLq2YhPxPAB7TTLJA"
+      },
+      {
+        "title": "New Design - NZXT KRAKEN ELITE 240 RGB | Review",
+        "link": "https://www.youtube.com/watch?v=dzJmpkgq4Bo",
+        "source": "YouTube",
+        "channel": "PC Crazy",
+        "duration": "12:29",
+        "thumbnail": "https://i.ytimg.com/vi/dzJmpkgq4Bo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nhLwmjfVKL2KtgaCV42wEthQ5ZJQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQYMoH_sZRj1uZdRcidnOMqtMK-Cdi0RCa_lw"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "NZXT Announces New-Generation Kraken and Kraken Elite Coolers and RGB H Series Cases",
+        "link": "https://www.techpowerup.com/forums/threads/nzxt-announces-new-generation-kraken-and-kraken-elite-coolers-and-rgb-h-series-cases.307495/",
+        "source": "TechPowerUp",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 years ago",
+        "items": [
+          {
+            "snippet": "The all-new Kraken series is available in 240 mm, 280 mm, and 360 mm sizes, offering outstanding performance with a quietly efficient 7th-generation Asetek pump",
+            "link": "https://www.techpowerup.com/forums/threads/nzxt-announces-new-generation-kraken-and-kraken-elite-coolers-and-rgb-h-series-cases.307495/#:~:text=The%20all%2Dnew%20Kraken%20series%20is%20available%20in,with%20a%20quietly%20efficient%207th%2Dgeneration%20Asetek%20pump"
+          },
+          {
+            "snippet": "This new generation of popular coolers offers NZXT's coveted design and high-quality cooling while displaying essential data via NZXT CAM, a free software allow",
+            "link": "https://www.techpowerup.com/forums/threads/nzxt-announces-new-generation-kraken-and-kraken-elite-coolers-and-rgb-h-series-cases.307495/#:~:text=This%20new%20generation%20of%20popular%20coolers%20offers,via%20NZXT%20CAM%2C%20a%20free%20software%20allow"
+          },
+          {
+            "snippet": "The Kraken Elite offers a 2.36'' LCD screen with higher resolution and frame rate, better viewing angle, and higher color accuracy.",
+            "link": "https://www.techpowerup.com/forums/threads/nzxt-announces-new-generation-kraken-and-kraken-elite-coolers-and-rgb-h-series-cases.307495/#:~:text=The%20Kraken%20Elite%20offers%20a%202.36''%20LCD,better%20viewing%20angle%2C%20and%20higher%20color%20accuracy."
+          }
+        ]
+      },
+      {
+        "title": "Has anyone had experience with the NZXT Kraken Elite AIO CPU Liquid Cooler?",
+        "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4236980786585270/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 12,
+        "items": [
+          {
+            "snippet": "Perfect for extreme overclocking, Gaming, and content creation, the NZXT Kraken Elite 360 keeps your system running smoothly and looking sharp!",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4236980786585270/#:~:text=Perfect%20for%20extreme%20overclocking%2C%20Gaming%2C%20and%20content,your%20system%20running%20smoothly%20and%20looking%20sharp!"
+          },
+          {
+            "snippet": "The Kraken Elite 360 can be used for extreme overclocking and content creation, but it requires careful configuration and cooling to prevent overheating.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4236980786585270/#:~:text=The%20Kraken%20Elite%20360%20can%20be%20used,careful%20configuration%20and%20cooling%20to%20prevent%20overheating."
+          },
+          {
+            "snippet": "With customizable LCD display, high performance and quiet pump, 360mm of cooling surface, and the classic NZXT purple haze glow bouncing off the walnut and blac",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/4236980786585270/#:~:text=With%20customizable%20LCD%20display%2C%20high%20performance%20and,glow%20bouncing%20off%20the%20walnut%20and%20blac"
+          }
+        ]
+      },
+      {
+        "title": "Will the Kraken Elite 360 RGB fit in the HydroShift?",
+        "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/9103641346348746/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 1,
+        "items": [
+          {
+            "snippet": "Perfect for extreme overclocking, Gaming, and content creation, the nzxt Kraken Elite 360 keeps your system running smoothly and looking sharp!",
+            "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/9103641346348746/#:~:text=Perfect%20for%20extreme%20overclocking%2C%20Gaming%2C%20and%20content,your%20system%20running%20smoothly%20and%20looking%20sharp!"
+          },
+          {
+            "snippet": "With customizable lcd display, high performance and quiet pump, 360mm of cooling surface, and the classic nzxt purple haze glow bouncing off the walnut and blac",
+            "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/9103641346348746/#:~:text=With%20customizable%20lcd%20display%2C%20high%20performance%20and,glow%20bouncing%20off%20the%20walnut%20and%20blac"
+          },
+          {
+            "snippet": "My main concern is that the RGB fans in the front are not static pressure fans and in order to use the AIO at full potential I would need to remove them and put",
+            "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/9103641346348746/#:~:text=My%20main%20concern%20is%20that%20the%20RGB,would%20need%20to%20remove%20them%20and%20put"
+          }
+        ]
+      },
+      {
+        "title": "Could a software issue cause NZXT Kraken Elite 360 AIO LCD screen recognition problems with an MSI B550 pro board?",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/987869323013108/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 17,
+        "items": [
+          {
+            "snippet": "The pump and fans and rgb on the fans works perfectly, keeps the CPU at reasonable temps, just no screen after a couple minutes of boot, it's driving me crazy, ",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/987869323013108/#:~:text=The%20pump%20and%20fans%20and%20rgb%20on,minutes%20of%20boot%2C%20it's%20driving%20me%20crazy%2C"
+          },
+          {
+            "snippet": "I do wish they did a better job with the sleeved cable that plugs into the radiator, but just a small thing no big deal.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/987869323013108/#:~:text=I%20do%20wish%20they%20did%20a%20better,just%20a%20small%20thing%20no%20big%20deal."
+          },
+          {
+            "snippet": "Never had one issue at all my lcd screen works as should amazing and my soft ware every thing else temps are stunning",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/987869323013108/#:~:text=Never%20had%20one%20issue%20at%20all%20my,ware%20every%20thing%20else%20temps%20are%20stunning"
+          }
+        ]
+      },
+      {
+        "title": "Whats is the difference between these AIOs? : r/NZXT",
+        "link": "https://www.reddit.com/r/NZXT/comments/16e05l0/whats_is_the_difference_between_these_aios/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "You can think of the Kraken Z73 as the previous generation Kraken Elite. The screen on the Kraken Elite is better in every way. Brighter, wider viewing angle, higher resolution, higher refresh rate, on-board MCU which supports features like the Web Integration modes and allows for real-time data visualizations. What will help is that you can think of all current and last gen (X and Z) Krakens on performance as the same. They all use the 7th Gen Asetek pump and the radiator is the same.However, current gen Krakens have the RGB Core fans which are hub lit fans with better airflow than previous AER RGB 2 ring lit fans that come with the X and Z. The Kraken 360 RGB is basically the current gen equivalent to the Kraken X73 RGB. We moved away from the infinity mirror and brought an LCD screen to this model but the screen is smaller, lower resolution, lower refresh rate and square (with a special lens to hide those edges) in comparison to the Z73 or Elite model. Ostensibly to keep the cost do…",
+            "link": "https://www.reddit.com/r/NZXT/comments/16e05l0/comment/jzshua4/",
+            "top_answer": true,
+            "votes": 8
+          },
+          {
+            "snippet": "When Buying a AIO you need to understand that 90% if not more use Asetek pumps as they hold the patent. so look out for the generation of pump they are using. If you find 2 AIO's with the same Generation of Pump but they have a huge price gap the only things left to factor is Radiator Materials Software (NZXT CAM is notoriously Buggy) Screen and looks FYI some older models of NZXT AIO's have Air bubble issues that appear in the first 6 months and are impossible to get rid off which leaves you with a PC that is constantly ticking no matter how many time you rotate it PC to get the bubble to float to the top. I am now using the new Kraken Elite 240 and the screen is amazing quality looks great. I did have a few issues to begin with where CAM tricked me into thinking I had Burnt screen a month in, but after a few tweaks I got it cleared.",
+            "link": "https://www.reddit.com/r/NZXT/comments/16e05l0/comment/jzt2h7i/",
+            "votes": 1
+          },
+          {
+            "snippet": "Brighter, wider viewing angle, higher resolution, higher refresh rate, on-board MCU which supports features like the Web Integration modes and allows for real-t",
+            "link": "https://www.reddit.com/r/NZXT/comments/16e05l0/whats_is_the_difference_between_these_aios/#:~:text=Brighter%2C%20wider%20viewing%20angle%2C%20higher%20resolution%2C%20higher,Web%20Integration%20modes%20and%20allows%20for%20real%2Dt"
+          },
+          {
+            "snippet": "The Kraken 360 screen is a 1.54'' 240x240 square screen vs. the 2.36'' 640x640 circular screen of the Elite.",
+            "link": "https://www.reddit.com/r/NZXT/comments/16e05l0/whats_is_the_difference_between_these_aios/#:~:text=The%20Kraken%20360%20screen%20is%20a%201.54'',2.36''%20640x640%20circular%20screen%20of%20the%20Elite."
+          },
+          {
+            "snippet": "I did have a few issues to begin with where CAM tricked me into thinking I had Burnt screen a month in, but after a few tweaks I got it cleared.",
+            "link": "https://www.reddit.com/r/NZXT/comments/16e05l0/whats_is_the_difference_between_these_aios/#:~:text=I%20did%20have%20a%20few%20issues%20to,a%20few%20tweaks%20I%20got%20it%20cleared."
+          }
+        ]
+      },
+      {
+        "title": "What could be causing the CPU overheating issue in my PC with an NZXT AIO liquid cooler?",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1307016714431699/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 11,
+        "items": [
+          {
+            "snippet": "With a quick clean and repaste my temps are perfect.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1307016714431699/#:~:text=With%20a%20quick%20clean%20and%20repaste%20my%20temps%20are%20perfect."
+          },
+          {
+            "snippet": "Some users report that NZXT's pre-applied thermal paste can be subpar, with better results after replacing it with high-quality alternatives like Noctua NT-H2 o",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1307016714431699/#:~:text=Some%20users%20report%20that%20NZXT's%20pre%2Dapplied%20thermal,with%20high%2Dquality%20alternatives%20like%20Noctua%20NT%2DH2%20o"
+          },
+          {
+            "snippet": "Whenever I run a game thats high load, such as beamng, ican get around 5 minutes of play time before my Pc shutsdown.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/1307016714431699/#:~:text=Whenever%20I%20run%20a%20game%20thats%20high,of%20play%20time%20before%20my%20Pc%20shutsdown."
+          }
+        ]
+      },
+      {
+        "title": "Why is my NZXT Kraken Elite not working properly?",
+        "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/3866138690336150/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 30,
+        "items": [
+          {
+            "snippet": "The pump is working just fine, but the 3 fans stop working after booting process is done ( around 15 seconds).",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/3866138690336150/#:~:text=The%20pump%20is%20working%20just%20fine%2C%20but,process%20is%20done%20(%20around%2015%20seconds)."
+          },
+          {
+            "snippet": "No boot on the pump display and the rgb fans flicker leds (one closest to the in cable is worse).",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/3866138690336150/#:~:text=No%20boot%20on%20the%20pump%20display%20and,closest%20to%20the%20in%20cable%20is%20worse)."
+          },
+          {
+            "snippet": "Even hooked the rgb to the controller and fans to motherboard and both worked as should.",
+            "link": "https://www.facebook.com/groups/PcBuildersCommunity/posts/3866138690336150/#:~:text=Even%20hooked%20the%20rgb%20to%20the%20controller,to%20motherboard%20and%20both%20worked%20as%20should."
+          }
+        ]
+      },
+      {
+        "title": "Why is Kraken Elite display orientation wrong after booting up?",
+        "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/7849667881746105/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "I do wish they did a better job with the sleeved cable that plugs into the radiator, but just a small thing no big deal.",
+            "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/7849667881746105/#:~:text=I%20do%20wish%20they%20did%20a%20better,just%20a%20small%20thing%20no%20big%20deal."
+          },
+          {
+            "snippet": "Worked flawlessly all day.",
+            "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/7849667881746105/#:~:text=Worked%20flawlessly%20all%20day."
+          },
+          {
+            "snippet": "The display is upside down, but i can't find the rotation option in icue.",
+            "link": "https://www.facebook.com/groups/lianlipcbuilds/posts/7849667881746105/#:~:text=The%20display%20is%20upside%20down%2C%20but%20i%20can't%20find%20the%20rotation%20option%20in%20icue."
+          }
+        ]
+      },
+      {
+        "title": "Is that back plate supposed to move like that? Kraken elite 360.",
+        "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/898402541959787/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "2 years ago",
+        "comments": 58,
+        "items": [
+          {
+            "snippet": "Somehow once you mount the copper plate to the ihs, it actually tightens the bracket making full contact to the CPU without it wiggling and whatnot.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/898402541959787/#:~:text=Somehow%20once%20you%20mount%20the%20copper%20plate,the%20CPU%20without%20it%20wiggling%20and%20whatnot."
+          },
+          {
+            "snippet": "The two guide wheels at the front are tight to the track but the two at the back aren't and alow you to tip the bed up at the back slightly and also twist it si",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/898402541959787/#:~:text=The%20two%20guide%20wheels%20at%20the%20front,back%20slightly%20and%20also%20twist%20it%20si"
+          },
+          {
+            "snippet": "All bearings have been replaced from blade grips down to all the transmission bearings.",
+            "link": "https://www.facebook.com/groups/pcbuilderandsetups/posts/898402541959787/#:~:text=All%20bearings%20have%20been%20replaced%20from%20blade%20grips%20down%20to%20all%20the%20transmission%20bearings."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "TRYX Panorama SE 360 ARGB Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSrC3TM33sP76oV5Jox2q5pmCzJyCMaTqvGnWsAjwTjpDupmFhX58MBXVi39OK4v0lqy5jjrKlf82Y-MPjfiPQ6cFTpU3zInVDRfNg730VFhf820HsIEvi9RAE",
+        "price": "$279.99",
+        "extracted_price": 279.99,
+        "reviews": 20,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=q3wuEXicbVS5ruM2FA2mTpEivzCV8QAuWtNZlmVblmRro2Q1hhbakrVai2Ub-Zo3SYBJOSnS5jdminxLZKQdgrgszrm8JA_P_feHn95p9re2DGh48yJN9Owxyvd9_CYPc_Nz09bJEPdZ8oVlOIFlRAHwLBQFjgHwcxz2YVGfs-QvzPMYIwRFkePRBDGC8CWlYVJkFd2dTrSV63ii8SzLQ5ZhIAcQQoAHkP0zK8Mz_R_GLAKsyIrTZBHksYjFT23SfUX7xVGAGDAi5DAHWCAAhoXg1721k4_fx36_DrR9fNWKsKddP4uHtqVVPzvTirZhn9XVLKFd3tfNbL-YxXVd0HZayqauXrSWFjTsaDJDALGvwM0qOv5-bl6n_E61T-XrgXiO4ZAgIo6DiEMAg0_NrX9Pz-_n4n3o3tPinVZ_1GFzO8XfPvy8rEd50Y0L020aIlvAdvW7XkLZJcaDlOc79RojUiTfRuopqczeh8FpRyRM_DMbAAMHZbHUlaTwIdnEMO8dx8TxOh0OF3WleZbrrAInuGyQbgM2epImXquKXSbbICdrUga-DoosfkowItYpecDaWVmVA-djSKSng9KLu1Sumk9S0xsfCU4My7eQhXocoH7wnzE2PAOHviSHjuFFiorsZSo5OFFCUIS7VQypm_QJTiXPLRApBOg4lqnL-UgQUeIcWoFjeXpuThx1Y8HUdH2X9WTlPt1toOum1ty7pa-lIbgcxshjt3aZ90YOZV2R1skqOflP6e7DYrfz1IUDDKD5LhMtk42lpKOxUlcEWrLmwcEk5hitwD3BLkNchRh5YOio4YiSNHRtLAls3PCpABcGBwOkbkhEzwdp6a56lXjiLUasoT8tj15I4yO2i1bBNc77rS6btgLurVeSNM6tvXWx9mElAZdIneGxQwIUsspUyVobj50X2MRjd0FVhGG5QZNmhq4oB83VR-IpCx0qZihL1W_3rj19BXOF7e0dY1Vka4O3Y-0pB64NBHVOZMk7dQWe_wJ5gWE5jBhOFMU_pg-cZ_Tbhx_ny8VHLM8TlSzDDkZnMye6PvmIav6er3fFgG6UT_NtvgijdoUerJ4cBRJqFXrrpdPc_Iil2fFo08kv9M12rP1rN6MMxknVvWriW4ZXvNpJ6f6-rU_BVbDzwRWd7GDGz4tRD3y7cRkuvjytjREqxS07roQNX8jHZB3CevvSHJfKPbKZZF8cy2bYhcwVGcWrrkymYvFduR3VdrLYoeg0FgT3jbATnpJyny_fpKryN2ed2vSgj8v5NF55xkaeElmMp7hKhQd0cd9jM3p6Qi9oz6NSGBWDEnX76NR6a9wO2bMTx3sx4nn-MPznfTwQmltmZD4PsezDLEUpRUwP1p2k3Mb8kZLl1NOOIHNbLd8v7Z3NaNhVEBgWSSgyDO9RbT9H67TKBv-hXSs-02o7vmb1YqfPjzxXRvZVEcUzVSVOfFhVPSZmdA0Z6UpJDkBo5mdAghZ2uryVE-5NjUdhS12B806S2CfinHeVYd13V-10bUrZfCjGMd579qPczxs2XZl5vjRZsZXU7pK7am8Pb65zmLrP6Z__AMZx7lI"
+      },
+      {
+        "title": "MSI MAG Coreliquid A15 cla",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR8YwQsLl2H-92ySKNbCE7uxQMLif9YR6kR9yI9haLDGmFzKWFuqmoZBZ_TWTQiMI5XrBvf-1zme116rjJbqO5DMCJ8vppPXkKo6H51snc3TiLETasp8XY-_Q",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$120",
+        "extracted_original_price": 120,
+        "reviews": 18,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lighp3icdVTLrqNGEI1mnUUW-YWsrq7UvCE7Y8A2F7d5dWPYWBjaBtM8DNiAla-5k0SaLEeRss1vzCzyLcFRlkkvqhd1qs6pqq7-65vv3kn-h6VHJL4HR0sJvOFY2H3yqt0WzqemrdNb0ufpZ4EXZYFXZCAJjCKLPGA-JXEf0_qcp78zvCiyLMexnMIqogxYGQifMxKnNK_I7nQirVYnT5wk8pLCynMOkWOBIgJO-i0v4zP518_JsigzgBHAzCGJEsuBj23afeHt5YFhWE4WlCcLDyRJESQg_GS7O-3wP85frjfSTl8sGvek61-SW9uSqn85k4q0cZ_X1UtKuqKvmxd7-ZLUNSXtfJVNXT1hLaEk7kj6wgJWeBrxpSLDL-fmH6H_QfexfLZprlBkBUEEEsvPAEX-2Nz79-z8fqbvt-49o--k-rWOm_sp-frhe70etGU3LB3UNFhzga-p2-SRVbEB1zvfNUKArylNl54urLwS59EF6ine8FucgoilfcqkWghg6yC48wO69xHPJquQ9yem8wxlTYL07q6GycOKEWsYwb3KoYkZIFatoOgtp6R8VKbM9gJNzGGU7l0NraLAD9xm5y9A-DBFXBQ80dzHUW-aZMl4xwra6bp--AXsIDJMN2CMkEMjwhndA0eAfrYJ9nAdX4wSFUqGMXoQ2phHkF0xQ7eQmXWgLMRoHI-6a0Y6k7mcuokvbu1Sg6bULFCJLy6bjVuKS1QtBj_oBleDdapHjceGrKsLS1j2q4TJ8phrEMFZ7Wtp5_hQc4rRilcR9daut131Y2TAWRPEPqW7kKGuV8hjFGxYgtMr3Ef6du6or-vCEWGIKaWwagLXNz1cQOwi97Zn-zi4GCbSje3RPz9QYHJRYTopLYB_QZ4BxjYocZYUru1eXDuuVICw2sFAuKXAwKvcVN01nHZB5HlcFoRVo5G9S529sQvWJnCXgEtYcx0WJuPrkPt57NrTF7AwhN7bSas9iydmoSNunLSLfF0P1npZG-Zrfv6RkWRemBeJlwAAv84vuMjJ1w_fLvTlD5y2SE2sxx1zPDsF3m45hSPW3pbqHb2xdyJlxVuxjI_tip2EbXqQcWxV7GuvnhbOD5z6cjh4ZF4Y8ur5rv3MBstoiAG1TYe759xKMjs1s8e3-hRdZa-4IcXPQyd5XGB9k9oN4sXk8nA3MDboPT-s5I1EtUO6jpn6LfLdgCuN8ejxqU0PZXPbxfyVhfTJq-GZLBmN-8FsGQ6EtLMEEI0beSc_VGNc6K9qVe035y3xSLgd9MV8nnFwo82BAsfNdpXJE4O4vuec4yOQe9l6HIx5rDybmm9TZ9Zv8B7mj04ZRjpwi2KC-8c4hJgUrnN0HmGi7Zk8YzPC8j1Yd6pxH4opwzrLgwPIUWsVtu7tPN7ikMGC2zKNFZ6XAmLZC3adVfltP1nXSsqt2kuueb3cbRcHSSyP3tVQlDMxVVGZ3KoeUud4jXn1SnABQOwUZ4Cjlum22puWiq9mMshvBMlicFKVPlUWEjJu6767WqdrU2rOZMBDYgfeVNqLRshWTlHojqC0qtldCmT23u0V-eH8-5z-_BvmLPKE"
+      },
+      {
+        "title": "MINECUBE 360 Ultra ARGB Sync AIO Liquid Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQweID5gQalsu1R6KNeNz4_RCMG0b5UD2CMSJiNu0byKPxNIJs6Y5Xh0OAUXE5JHCCzfAINn1Zr2oQlmz_-levnFzbTq8rbZ0j70XmFMnjpMu7wK5c2xr3t",
+        "price": "$399.99",
+        "extracted_price": 399.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WlFWYHicJVTJzqNGEE5yziEvMSfLUjfNmpsXwMaAzdIN5mKxtA1mNYu3pxn9f2akyXESKde8xswhzxKc9KH6UFXfIlXVPz_88kazv3Q5oOHVi3TJc25Rvuvj6XKYWV-atk6GuM-SrxzLixwriUDgoCTyLIBf4rAPi_qUJX9CAXEIspLAIsQKLCPyUPia0jApsopuj0faLus4S_5AgON5lhGkEYvnGJ6VpN-zMjzR_9McAxEQWJ4RJcBwDIM4_r1Nuo-fLgNtH9_0Iuxp10_ioW1p1U9OtKJt2Gd1NUlol_d1M9ktJnFdF7Qdv7Kpq1dZSwsadjSZMCPoK_CTit4-nZoXJYQjqTDqAvyoimMECN_Ll12BH3X8Z4pHIhJZ8N5c-7f09HYq3obuLS3eaPW5DpvrMf7-47vcxovFNZ5buGnI0gauDJCrBq6BLeCe08AHd5y4ZMAqXERy19vn9OqU5iYB_dkrczDWrqxCgp6SpLp_uukuMRzS1LbaDyGySfg0GKeElklkziqaJybpM_IIHxT46ZEcYGA7Dmh8HwQrIyfILRsrUnuVOtC088DEsoUcUmSBcmJjKMlEVdhRC94q0s6TCUPUnqUqy-EycR1kyhExsVGaOFbhxZGlJsYcNErND9xEd86B72HO99RCN5mitbDFxTDh9kV9x1AzovKu7BklJ7nJxh7x3XPM4Qr3SWUbcbFm6MokVCE9wc2ckKL0FFvHpaaYz9FLbtz2pek69tp31T4MPOVhy5JqytIlXtk2Vm8wKjlkERyuc0WO0ZoLCgsGvo0dOahMBpZ7pPEOnKfhOcAjH2udE98u49_uXXv8BmYK1ztbQfUZ8oAzGaP7Y3kWL6ubvlrUijbNTr9CQWQ5HjGsAAD4PM5TntHvP_08kxcf0HKWaEQOOxidrJwYBpIQ1f2dUG-LgblSIc03-SKMWpV5cEZyEEmoV8y0nx9n1gc0nxwODh3Hl04d19690MwyuIWg2GkWumZIFbRunu7um_oYXEQnH7DkZnsrfp7NehDaNWb5-Py012aoFNfsoIproVgeklUI603g2h4qlXvksMmuOJTNsA3ZC2MWL94lGcniu3I9aO24Y_ui0zkQ3NfiVnzOlftMns6ryl-fDOrQvXGTZ-N79Znr5djIITRGNRUfEKO-R1b09MRe1J8HpTArlkm0zaPT6o153WfPTrrdixua5Q_Tf95ve0Jz24qs5z5e-jBLmZQybA9W3Vy53vJHSmSGBQeQ4VbPd7KzdVgdYYUBwyIJJZYVPKrvZswqrbLBf-iXSsj02okvWb3YGrODwJeRc1Ek6US1OS897Kq-JVZ0Cdn5hY57AUIrPwEStLAzlptlwk-1-CZuKBZ57ziX-kSaCVgZVn130Y-XplxaD8U8xDvPeZS7WcOlqpXnssVJ7VzrzjnWemeYYnc_HoPj3_8Ceg695w"
+      },
+      {
+        "title": "Cooler Master MasterLiquid ML360R RGB 360 Elite Liquid AIO CPU Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRxgZq_E3EYcJAe6QWfwO8L2a8aP69Ba7YeKELERxXVv9v6m9UQfRKJwT2ov30WL7gPEQqMjgLs6Do1MCEHucZJTmtJ5nYC",
+        "price": "$89.99",
+        "extracted_price": 89.99,
+        "reviews": 128,
+        "rating": 3.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jnAEz3icbVTLrqNGEE2yziI_kZV1o6abZ3bGBvtyAfNqwGwsTLcNpgGbh41RvuZOZqTJLpNI2eY3Zhb5jizjm21Si6qS6nGOSlX111ffvdLiD1NLaHqN9qYS-bd96fTZ03KYux_PbUOGrC_IJ4EXZYFXZCAJnCKLPOA-ZmmfsuZYkN8QL3EQikCUEOBkTkSy8CmnKWFFTTeHA22XTfZIEwAQBFmUoChCBSoC4oVfiio90n_Dv3NQkoEiS4BXeCTxkiRC7l1Lus8_OIsd4hVBEgWRk6Ak8g8iPzneZrn7v8j7y0Db-2eTpT3t-lk2tC2t-9mR1rRN-6KpZ4R2Zd-cZ85iljUNo-3DVOemfktrKaNpR8kMAii8KXFW09v74_lB8df_YL2r3mbz8EUoiAghoEgAKfDd-dq_5sfXI3sdutecvdL6Q5Oer4fsy9d_a9dssWizhYvP53DpAb9UzmHIzhg2nIVZiaMbDHD-vNe4PIEJSCsXuTDsqEZSq7QPBCqHLU5sN078GNl-OLGNW1sTjbeQxLlOdFL4uqKmgb0lcIzJSnghIE82mAsS6MUWHE9eHeIsIlNQjjcfE2SXwkDD5JSWZGtPdm6vww0O1JqWHJesEyFASe4FRudCxffwdiJRPyRLC8acUWVMbdwoTwKmaG7kqSRknq0JbsoZRcB5ZaJ5brD2VhnKGV3nh0TTff80HzOWrH2sj0k1XnxE_GAiq-TBK63ZxVozx48e_Tj95q36cwCMaxZ6wgbz9xgIURrp6b5iF8JUK6nsu6cnQcgMw62SdVBpwI8Z8qse7zljtCdmW4AbiNZjfGIX-1TyFqc0VOMFHOgm1QC_PXlxWJEDLc-QTCzZAuzrYGyjKsyz0nO8k-ektQpwqHZ2JAwE6OGqMFRvbd83URK4kF3dgKneSi_3EbfNEEuspcqiFb5hxBoTn72fx649fAZzXej9jbSKYXjn5hpG4315ki_rm7leNLrxVBx_5CSZf6wT5CUAwIfHipYF_fLNt3Nt8T1azokRamnH7Y9uGVoWUhA1Y0dqNmyAVyrl5Uu5SPftCt4Fi-zkMDVr-NSrh7n7PVJnu51PHxdBn_zAc9662VVySwFzDBddC7SSjE7NnfGlOSQX2S8HrATF1s2mk90MUvuMeTE7Td6znersWuxW8rPEljuyTrnmJQm8CFX6uPd54rBddR42KX-BNnvDXYYPsGzUrzuj5RDYss4UQDI-yxt5UvVxrj2pdR0_Hy3q06110-YPeauzn5ePQgGhh17l8p3DqO-Ru58iuZfNaaczu-YhMV7undG82NdtMXXKbWQ3NC_vdjyNt21IS8_du9M2W8ZckcOcQr4H607Vr7fynoca5MEOFLg1S0fzNz5vIqxDMCxIqvC8FFHTmcN1XhdDfDcvtVSYjZ9dimaxseY7Saz2_kVXlCM1VFG5e3VzI-7-kvLqhYYlAKlbHkGYtFxnLV-WRHwyspv8QrEsRgdV6Ykyl7A-rPvuYh4u52rp3nV7lzmRf6-c-VnIV25Zaq6gtKrRnUps9P7whIPt48Mc_vwHFVbo8Q"
+      },
+      {
+        "title": "Arctic Liquid Freezer III Pro 360 CPU Water Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTInEYdVQVC6KA9ZEL2f6MamGMjCvFbYPNlAz7SIflSWVYhUtqBtjV9on-h6GbMi53my7eZ3ofklg93wjypnQTI9t241HTm78-8MKNDZfHC7aybh2tx8oY",
+        "price": "$99.98",
+        "extracted_price": 99.98,
+        "reviews": 417,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cAhjEXicbVTLrqNGEI1mnUUW-YWsriw1dPPKzjZgGxtsuqGx2VhAtw2XpwHbGOVr7mQiJctJpGzzGzOLfEt8pSynFlWLepyqUp3697sf3nj298YIeXQL4o0WkHuc7_pkol-n7u9NW7Nr0mfss4RkVUKaChRJ0FQZAeH3JOqjoj5n7C8BaBoSFQUBRUQAIUmVwOeUR6zIKr49nXir18l7nIwQhKKiiRACAQEgAuWPrIzO_H-_JENBUaEAVSRoQJJFDX5sWfdF3M2PoiggQdAkTUQSQFBTEfplh7f68du-T5crbx9fNkXU865_Sa5ty6v-5cwr3kZ9VlcvjHd5Xzcvu_lLUtcFb5-mbOrqPazlBY86zl5EIErvSn6p-P3TuXm2-ec30D6W7ztSZCSLqqpoMkQKlKD6sbn1b-n57Vy8Xbu3tHjj1W911NxOydcPPxr1XZ9397nrNw3VMSBCuGB7q3DypiQwNMIFbQ4jDj2PviaLBkf-sGS-JgU-6_egWMVL3NPAcpOAprFX1HGZPwKjCWwAUGQw3zOEBy2LNl7WPaa2FI65mBgSTJa4xgAH0UK4E2DV4VxoEt_Sk8pZ8iKXPJFFDJp74oUmodqCG_fBL03bXtAuKC0QimCMDasho_PwPdoluQaJTy9h2Q12zpqAMtuDjUFM7UDKXvZ9tov3K0B8W3LFYuVXlsUrZ-4AHMVU6xO_kfki77eG02LdyZJceiWBYDiL4YJ1vMYeRXZZjATgNhYw9nLt1aucgudnEQdasKWazsYUR5DJz71Yh_1qcDOB2CXteZGeElF4dWBa04WEnKo4UCERmDDtackKNlqz51yXZJwtkzEMvZGipHAcDAvMfBOGREDRoiG2b_lJUdxwbo1cx1FkhOtIOBATDG1Q0jTJ8Q6_4l1UzYBPZ50TSFcGTLrIrBleOo9tEHqxvxpJQA--eL-Toh7CMhwCH2e2wUxisB6bKf516NrTFzA1pZ5sFV-2hAm7DTO8uZ3KzBovLqMTSC6H6c9PnqAnXUSkACD89jzgPONfP3w_NeY_QX3KLGpEnRCf3ZzaNtQg3-x3Sr0truKNK2m-zudR3C7Eh2Szo0qjTSVO-tlp6v4EZy_HI-FPvvAJ8fDuvZpThvcIFDvLhbcMLhSrm6W7YV2fwotK8quvednBTcZXp74q7cpHcvI64pUTmcUtOy7UlVLoR7aMhHodejiApTnEBLFdcSyb6zZCF9Ep3nF1-gRLBvN2tFoBgkPRbSQQDit1q44zc5gak1lV7VdnmxN-sO_G9Cnvec5KfyZKED71IlUfgg_7HrrxGKi9uhmPZuFUSGTW-tFZ9dq5HbKx0-5DcYfT_OHsx-F-oDzHbuyOh0TfC1kqplxEPVh2M_N2zx8pNZ5_7Qgyv93kO4NsCdpA3xTBdc4iDSEl4JvdVFymVXbdPzaXSsk2NUkuWT3f2tOjIpcxuZiadubWTNYeuKrvzI0vEZpdOM0BiNz8DGjYCp2tr3UmT6zkrq65r8rBaab1TJsqvnld9t1lc7o0pe4-TOeY7ALyKHfTRkoXbp4brqS1M6t7zX2rJ9eJ7x2e3-f0z38F3fQV"
+      },
+      {
+        "title": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTtKzIE3LdqPjx4JFBzb0ltHq8eWBaiBesHynyWWVQQshjTc0JJQCcX8tvJgMT8d7d2E62h4wg0GZuJbNtECABvUf4JU7_KKok4tnXMyYA",
+        "price": "$99.99",
+        "extracted_price": 99.99,
+        "original_price": "$130",
+        "extracted_original_price": 130,
+        "reviews": 370,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=a__f1XicbVTLrqNGEI1mnUUW-YWsrix18yY7Y8A2NphXNzYbC-i2wWDAPGxA-Zo7mZEmy5lI2eY3Zhb5lvjOekrq6sWpqtNVOl3__fTLK83-2Wohje5BvJUD7xHndpfM1H7ufKqbivRJl5HPPCdIPCdLQOShLAkcgJ-SqIuK6pyRL5DhJR5ACfC8yLKSCATmc0ojUmQl3Z1OtFGrJCN_QwlKgiDKkBFZCAHPyoL4V3aNzvQ7_kUGEsM8j8x9j5IkWX7fkPYrYy-OLM-JgsjwgJcFhhVkSYZ_2O5OPf4Y-3DraTN-3RZRR9vuJembhpbdy5mWtIm6rCpfCG3zrqpf7MVLUlUFbZ7Xta7Kt7CGFjRqKXlhAMO_OeGlpI8P5_rtlT9ge399m5AocALDPzt7dslAAOD7-t69pufXc_Hat69p8UrLj1VU30_Jt3e_atVDXbSPhYPqGqsu8NCw9lllT7DemfschCiHNChsUurIBTX02GTwLvkUA6IcEF4nUA4RcrWoOD_oUp4i35k8Tc8spuYsrWiSC1mgpTwQDWLvWkwma9Q71R13vgF9NPDR0oAY1EYU4M6ZLDXOETgg1wpBHRI9jLx9YTu5W9C8Gg7Q3URMwpuwQB7TrYmfcgi6t3jldPQSei6jQRTg3kSDGms8T3W5jy8hk-QGj8p0xDCsfD0BFj4PYaGc4sBSQy1kvXyozVVtRdrQh1qx2SGns9ADEtWoXA11Vl6Eia7XqHQbb8kHB6iNBNeMj6CKc7dKYA79lcvTkuixlu53-3RlIivyEX_zgnqkWJkiwN_9QM5D1q0IJtfD5Tmz0sUUFZtAt5jQDy90j30rx7yFap4w6Ygu6SXCOTRZfDJxAVxkWJ5OqqhUdnjpTGEedvGkeToYmuCK0yR3bffi2k8cIKy0VsD3BOh4mRmKu7LGXRB6ZomGA4tH6-LedgEcAmQpKEhNJ9D9ZAFGx7eUP4e2OX0Fc53vvJ2IBAPOyH1Q3O39dM2M6eYQPGO922H-OxQljhdYhhOfOvv4FHCe0W_vfp5ri99YdU4MrEUtjM9Ojk2TlVm63dtitSt65k7FNN_kiyhulszIm-Qo4WhbMrNOOc2d31jl5Xj06PO_0Jnnu_ZbNesaPiJQ2IbD3jN2KRqtktrDpjqFN8nLeyT72cFJpotV9WKzRpyQXCZ3bUV6cc-OS2ktFuqRrCJYbULfDdirPsQeR-zieK37XcTdGKt441XxkywZ9PvRaCALDkW75UE4rKWdNCn6MNdmSlnu12eTevRgPrT5097yrLX6TORZ9umXqTRCxHYd68RTIHXSdjrqhVVyDDE2Y2tUG-t-yKZWfgzFg53no7WfhscB09x1Ymc6JOoeZimTUobrwKpV9PsjH1OsMRw4ggw129zWvJ3HbVmkM6BfkEjmODGgW3vOrNIy6_fj9laK2bbykltWLXbm_CgK19i76bJ8poYiyKNbVg_ixLeIU24U5wBETn4GOGxga6oblQgzI3lIG4okITgpckfkuYj0ftW1t-3pVl9VZ9StY2IH3ni15zWfLp081xxebhSjveTI6Lx-hvzDc_uc_v0fdP3zfw"
+      },
+      {
+        "title": "be quiet! Silent Loop 3 AIO Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQHv1yPbs-DleHLO9mLRtshm1Ax7yT0qAGTZ070F8DCEvPUi34itgarXFU_lKkCcjvdJDgnJBy1AYTGPlbkYzDh-7RlNY7zn2teKRFwG3Xw0YkVm4DpPTVh",
+        "price": "$139.90",
+        "extracted_price": 139.9,
+        "reviews": 251,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UvQ6TnicbVS5ruNGEDQ2duDAv-BIEDAzvJ2J4iFRJMX7SgQeI5HiKZISJcJf89ZrwA7XBpz6N3YDf4v5AIc7QQ_QVdXVaPTMv9_98IaLv1UxwvHDT1TOt6ekNMZ0Ldw35u9d32b3dCyyzxRJsxTJsYChIMfSJIC_p_EYV-2lyP6CECDEIrBQ6AWGkGKIzzmOs6po8PF8xr3Qpu88glqUJE2QBMWSC5VF9B9FHV_w_zi7lCABwSKG5ViCIwkWfuyz4QsytieKABxLkgSAJIkARbCA-sWwjsLp29in2x33ry9qFY94GFfpve9xM64uuMF9PBZts8rwUI5ttzK2q7RtK9wvV921zTutxxWOB5ytEEDUe6BXDZ4-XbqlzT-_4faxfp8RQ5M0oiADaBISBOKYj91jfMsvb5fq7T685dUbbn5r4-5xTr9--FFsJ2E7TFvT7TpPsIA954brcY_Q0UnV1SXTf47OLrLjQCc1fyySQFETeYJqUBWxm02a2PlHLzftnRLHQbbLgugRzHmMZfJl1d3ZF7t9eNUITeZyXEXXxM1fjm-px6Djcf1sPVFaPLqDhSwjkxVo2rB1AewjOXej8tnG6ALjmR99IVJsWEFHqAKnzo4mksoU5WQ854EDvNADUI8dKdJRh7K5mjWhqrSrAjM_g1qtq45oTiGInOMuko9BS9lOPjiom6yyMkMnaixXKjJZCkywH00A5-waoQRZBwfoelLlpS-7CO_yJvEtPrsueTkznPoCdMjtYsFq0jLyXI-dLUF64TLahY0iurPi2bW3c_wu1jwuyggT-IuH7u5Hq4qeeNf5Vs3OdqWQ5hy1OnShV47bo9-iqOS2nhjOJohas6qCSLA8HXpn1e2GVIQoESn76JRPt2ZtCTx7v_bytLQM62oZccMD1-MH3afuGZA8uVB4a6e_jn7kRk740oBl6fUFhghGLjJB6EPBlivNblyUypz163Poz1_ARqJG-8i4tALX2ePJW-rjXBfKfDMzb03Yt3DzM2RYkqIJRDIAwN-WBS4L_PXD9xtx-xMhbDLFE-MBJhez9DSN4AisBgbTHqs7emAmLw_lNk56Gb0oLTuxXqw2aD3y5435E8GvTicbL-8Fr23HMt6r6XU0xaAyFJN4FITMKAOfG89De45urF3eXc4pQjOdr3p7Z_q9S9Lpdbb2eixVj-Iks3umEk7ZLobtIXIsn6ilZ2KTmVGd6u5-jMkb0qt3X8FbzNKn9DgpPSRAWA0qBaLnnj2yMy89N-Kab5pgf9GwjUNtEjfLedfpe2ERUgSxRDlnX9AlxpEwk9lnR1adT1KlNyTKlMNrUNqD_giLeeCmZzURm_KlB_NzCj1cWmZizmEqBLDIUY4ROYLdwEuPqXzlnohIcAKF26ulIdpHm1QJV0Lgvs1ijiQZH6vGBi07WtyDl3prmEJt7fRWtNujtjkxdJ3YN4njLljhae5lNe2UmcktJvkb9koAYrO8AC_q4aAJByGj10o6sQfssrR_5rkx4zaMK91343BTz7euFsyXpJ9Sw7dftbHpqFw2y1I0Ka7nleFauspo39euEy6_z_mf_wAK-vHo"
+      },
+      {
+        "title": "Phanteks Glacier One 360M25G2-LCD All in One Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR_YFL-JNhKpeQOJ02E4-yHJd2Yz6CSOdVYDhuFy0pJy1QqAAWI5iwjvA_Y9EtTqrEGR5hxflLk7tVn7dwFlFJA0EED2o2HfVnADYIWPtlduiuzVGNPAQyp",
+        "price": "$149.99",
+        "extracted_price": 149.99,
+        "reviews": 14,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pQzS0HicbVS5rutGEjUcO5hgfsHRxQWazX0yUVwkimyJW1NiIlDslkR1cxFJSRThr7nPz4AntAdw6t94DuZbRndiV1AV1HJOFarqv9_944OWf3hWRvN7evD0NHoc2GYo3s3bLPi17RpyK4aS_CZLiiZLugZUWdA1RQLCr0U-5Lw5leR3RYcKUAGQdF3WIBBETf3tTHPCy5quj0famU1Rkv8Iog4kUZZFQYaCIomaArR_l1V-ov_3_w5lWQC6JkFZgBrQBagoXzrSf4Ob-V5TZVlWVagpMlBFVdFl5adNuDb3f-_7er3R7vnN4_lA--GtuHUdrYe3E61plw9lU78R2rOhad8287eiaTjtXqZqm_ozrKOc5j0lbxBA-VMpbzV9fD21nyz_Bu1L9TkhVZEUqOkvo4qiKOv6l_Y-fJxPHyf-ces_zvyD1r80eXs_Fn99_0-reZjz_jEPkrbFZghiB8V-shzXJjIJt1sEsZFN5z620CIE9jVjJPbT0TlUQ0ccl-XMnYoq6wlz0zwZUHix82wyhITjLK0G32fEzrm99FL9jmw7KLAeRnXIUmt8UItLiWCsM4zXB0fOEMPTenF2sTOgeMpuWyB4kRPOQ8uu0gXOg4oMO4H7ERtYXpEL5gyENali7j8Rt4RMCIR8a3uHupgOzJ4fFkTBjEFUu8jnyC5YG--gLW8BEOgciFlcgCLhdVHhZm3JY8IJPFgtDp2wj6xELOAwx9ASsaPJfh0888qVsUVC7LSImmj74uzFIOxiyx_CC49IMgTJhTsFb3HsnEYah2WUNINvug1N8PHAl49dOq4T6PIdQOPacuuU6SK1SB5cUBhh5CLgDmHMeQaFawzsxxbuJi82QF7vniHLrrE1GpltSD6U-wjrmEzLyAZjl1b4XLBwE17CTV4bIMFGj1L5RoCNndI1wgV6rtMszhaoDkQfopjkmZNlxEFbNAVPDOQuWdjNqz_j57Hvjt_AzJaHaC2v2OXcZuLMa1pjP1-EeXmDZLNqWjj7l6BqkqyIUHpdHfzltcCspH99_8PMmv8omjPiYivvhcMpYNj3xVej3najNmt-g3eqntmKzfND58Cn7JO9hnOvhu-DcZwFP4rG234f0de90PcoDjef1VCVPXLAN24g3kvRUd3eOG_GVXPMrlrEbokel7ugmC6ouandMpGU4jKFS5Tb_F7uHW2pcnNPFrnQrLI4TMXKHg-RRDZ8X7W3dS5dIeKfuCZ-gRWjfd-7nSCCHe89GWTjUltrk2GPM-vdqOvt8uTTiO78hzV7yWceWpqvRFkUX9o5a08hEYdBDA5Tqg2aN-1tjmoJEnf17N1mhe67cur1x8gf4ow90XYaHztMWRgcgmlXmFuhPMMzhdIAFr1h3x_secYWlMAelEnnsY0VrSPJExMbgtuc5LokqSn1NjO4ONflbfv0rrVaek1UXMtmvvZne1WpDtHV1vUTdQ1Ff4Z18yDB4ZpLxpViBkAesBPAWSf0vrkyifLuFg9tRRNNSY-GPhB9pib2bTH0V-94bSszeNpoX2zS6FltZq18dgLGrEDWO8PtLyxxh-j2nsS71_c5_vk_G0nzaA"
+      },
+      {
+        "title": "TRYX Stage 360mm AIO Cooler",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT32lPGsdteacAe-hvK3wqjqITlaXCF6nQ-Nyikowwih0tmJkGtaAcEx56ycn281S0B7ewafRz238wI_xrjsR1b2EB3sryNawTxnPtq2c4o",
+        "price": "$199.99",
+        "extracted_price": 199.99,
+        "reviews": 1,
+        "rating": 4.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=k36fh3icbVS5sqNGFHVN7MCBf2GiV6-qm2Z1JgQIIfalkUhUiG4JxCpAElL5a97YrhqH48Cpf2Mm8LeYV06ng9vBXc65p073vz_89EaLv001oektPphSHNwPpTtmr8p14X3u-pZcs7EgXziWFzlWEoHAQUnkWQA_Z-mYVu2pIH-xkEcAibzEC6woSRLPiF9ympKqaKhzPNJeabO5jJ-bJZYDIiMhAUksZMGfRZ2e6P9pRoQ8z0EGMPMUnuM4XvzUk-Er4y73HOABhJwEBYgkBopAZH91fUfZfz_3--VK-8dXs0pHOowv2bXvaTO-nGhD-3Qs2uaF0KEc2-7FXb5kbVvRfr7qrm3ey3pa0XSg5GWmwr0H_qWh999P3TvL76B9qt8FEnh23ltikDDrIwIefupu41t-ejtVb9fhLa_eaPNHm3a3Y_btw89qe1eWw33pRV2HFR-Eas4SzRpTrTsTbBQkzrskmka8ss9OlLhJmNxwbNhJXaleVU0hVrkEaekWasA_W0wUY2g9ZS07GyGuiBmf1yhZSR0uJ2ABi_Ofmp40Bgi2JPZ1fMtKaO2iEQfgxJHtAqZP26eNraSKvE1KQzMxzlPNZjEkpYkJwDFcJaWvURXnJi5HL4KBB3FKmhNr1eRpQd_wMA4jjPukyZfR1mb9uErwEjp421kBE40WJrxVGx1BORshkjh655MyVzNGRASpbHjONynoml3N3Sy9nTxkoIzBVrA6PULdnmy4nuKIc3Czg7Se0kyX0Q7kOY1GA8dcZEeTb1V5R1edaj2xTpSMybb5SGuOCaNukz0TGK46EJWj7ut-fWBI6K9yNcT4bAFjGzUYzJRvdlRtEiZxqFaZB726Y2TzZiTe06fP4pUke5WW-3UZaGDq4xrnWem7_tl300YGEZYHO-auBGh4VRiyr9sPJ058Z5X4NJraLYAbv5LyWQvZDG0nAxG3RX7iMwn6bRr641ew0LgxcLhNeZ4tgBZm28n7pe6nxZUh7qbtmMUvUBBZjkcMKwDA_DEbuCzotw8_LtTlR6QsiIHVdICHk1diy0ISoubWFVqnujI3KuTlplymh37FPDiL7EWcmg3zOsrHhfcRyS_7fUDn90Jfg9B336fZdXJPQeUaHroVaCUYg5y706Y9JhcxKK-RFBY7L3ue7fYq9OuI5bPz01_bqVbdiv1KXAuVsid6CttNEvoxqrXpELDErfZ1d3VS9sLY1TuugmewbNJue6OHCOyqweRAMq1FR5xtPS3UV7lptuuTRQO6s-7qYj7vffZamRs5hOa4ysUHjNA4Iu_wjMVRNJ97rbIbliHG5jEY7ca-7YrnIN2n6o4W5cPePqf7DtPS9w7ec5cpW1jkTE4ZdgT6IGu3e_nIscqwYA-KqDdLVw2cgDVRpDHguiSpxLJCTE13weh5U1y3D_PSCIXZBtmlaJeOtdgLfH0ILpoknagh89LDb9o78Q6XlJUvFJcApF55Ajjp4WApG4Xwr0Z2Fzc0Evn4KEsjkRZCpF31cbiYx0tXK95Ds_eZGweP2l10XL7yylL1OKmXjeFcRsYYXF-jcDf_Psd__gOXSvAn"
+      },
+      {
+        "title": "Corsair iCUE LINK TITAN 360 RX LCD Liquid CPU Cooler",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTls9mHjL1KryJn0QsMPk_o_VfqSFl43u7a6VJGrqPnE7WJnPMDAMmjpSEaN0ofYi-lVdgOpusXH48e4hH2P5gDfZVaaqQkMJMb1JHvHT7eWfwTcNLNohMr",
+        "price": "$197.99",
+        "extracted_price": 197.99,
+        "original_price": "$220",
+        "extracted_original_price": 220,
+        "reviews": 470,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rPoWyXicbVTLrrNGEo6yziKLeYWsjo4EzX12xoBvXBsabDYW0G2DaS7mYmyUpzn_JFKyTCJlm9f4s5hnGc6s04sqqev7-qsqVfV_v_n-gxR_mnpMkkeUmkrkT2npDtm7Nq68X9quwWM2FPg3gRdlgVdkRhJYRRZ5hv0lS4aENtcC_85KggREASiyIsqywMiy9FtOEkyLmjiXC-m0JltggJd5VlgQPCdLiiArDPi1qJIr-X_4D1bmeIkFkrRIKawoAk6Qv3S4_wrc9VngBVERRV4UJSAvXuaEH13oaOd_jv10H0n3-mrSZCD98JaNXUfq4e1KatIlQ9HUb5j05dC0b-76LWsaSrrFVW1Tf8I6QknSE_wGGCB8GvGtJtNP1_azin9Q-1J9dkha7oC0ZK4sLWJ5wH5pH8NHfv240o-x_8jpB6l_bpL2ccn-_vZfejNp635ae6htQw0yfu1NKNjNccXPIWejqIRrtLGjTEcMBPmaBOE2NXIab6_c6RYyMMCJr6mGxSicXbXbI5MfjhwEHmc9g4plgjDfWhujsGj8DPXn2tLb0C7YC94MFB_j0Q6wm0ZKjur9LatidLrBGM-0tY-h6-u2B8unZlVxk97wIS7zOTy2ezvEY6pTiEPjlKL8FrLhnDLsy0FsEwMD-TS-Y7R3nA2GyIBVdssfmc86GcpfNhLMwNhPGWBHa8k1ZS0O1e0rCZvZ2bY7vDEep7oESG8duKVDGAmnE4hbXNtDxrRCHIRxyLWhVbU-runoaHiOb1ANkKCmSLjFGt3BG21ixE6RFvsZ3TFexN79ozfF6JlDQDmvgl6kD05gqF5MVYNssBnMOPGChcsaU7jNHbKFNuSaZxDZqk9xHFH7BVlbQKjtbJ2W3nFv-pwRWXTnG8yzi6owz0rowht0k1plUKj2diSMmDHCTbFX4dZ-OVGMLG43wJkaHlXrkEMzieBgofwEN4JxqmkXbmz4n2ffXb4yK0MYfEc4lLe8jbmV2bTqeb2FSTEC7B6aFqz-zUryMoYc4CWGAT8vA1wW5O9vv1vp6x84bYX3oZ70bHr1ytCyOIUj5tGVGoeO4EGkvDyU6yTtNuAlWPgsh4lZg_dBvay8Hzj17Xz2ybIv5N0PoPv5ml3FU8JQd-9xj4LbSPtezd3nobnEd9kvR6QExcnL5pvdjFK3Q7yY3Wa4sxODPorzRt5JVDvjbcI2hziAEVcZz9TnsUvPVTs6CX8HNv3U1cJFLHsaj_O-YznmRHtTYOLnTnbkWTWeK_1drevj7moRn5ysSV8t55Nn77SFKHDcYje5_GIRNwycl86RPMjmfDaoXfMA7w-vft8c7MepmHtletKJW5Uv-zg_p1NISuil3nzKtCNb5CAngB-Yba8aj6l85aEOeObMFKgzS1f3HZ83OWQAZlzjROF5KSKmuwLbvC7G48u811JhNn52L5q1Y63Oklil_t1QlCvZq6LygnUzYS-9J7x6J2HJMIlXXpkw7tje0g4aFt_32SQfCJLF6KIqA1ZWEjLG7dDfzcu9rTTvZdjnzI38V-WuWiHfeGWpe4LSqfv-VqL94I_vKDgtv8_lr_8B7Tj07g"
+      },
+      {
+        "title": "YICHUHAOXI Frozen Notte 360 ARGB Water Cooling CPU Cooler Liquid Radiator 3 PWM Fans S-FDB Bearings White 1 Pack",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTBPOLMNKcEwg0JZxLOXnQ70VZtwg9MVQb6H1fhWINVLCLy2heBagrZAgs4ZhqycMncwU-UgBkrZ3MGCgSmNI2i16NCrXmTdHOdVMD4KFQVo-t6yCi7RJjI",
+        "price": "$119.17",
+        "extracted_price": 119.17,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SsGyYXicHVTJzqNGEE5yziEvMSfrlxqaNTdsFi-AzdbYXCyg22ZpFgM2tp8m-icz0uQ4iZRrXmPmkGcJTh2qDrV8VaWv6t8ffnkn-d-mFpH4FiamHHpjUu6G9E29Ks6XtmvwNR1y_JXnBInnZAmIPCNLAgeYL2k8xLQ55_hPSeAlRp5cIoC8wEBZhF8zEmOa12R7OpFObdIpjBdEieFYHrBQll_VOOGPvIrP5H_3X4wgyLzIQ5njeVFgRFHkwccO9799ulxJ9_hm0ngg_TBLr11H6mF2JjXp4iFv6hkmfTk07Wy3mKVNQ0k3mapt6ldYRyiJe4JnLGD5lxJmNRk_ndtXS5DlBCgyosSKDCNwoizAj9VrXFHgBHaaUwQCz7BQYD62t-E9O7-f6fu1f8_oO6k_N3F7O6Xff_yodelicUvnTtC2SHWBV7nPSAMAhTSy9Ey1yiEifmSYCKtBcG8iiAITRWFY6F1YUN0M108fMFuPurm9j8K4csekblFaAhAYrmUBW_CetoULWriGzgUGyrd73SIq9ZJlFNilzsel7iMqD0lBOVRkJfFTmBY2Qwq09VjEk4rjXAZHfkH7AM0PfoFRum97E9lBGDR8DDD1Ia1tHyOHtZeHMGKxwQwY3Fe-7lK_koHpMY4X4tEqzrz31ICvMSYO5JoYtHf2652F6GAZuuAvI8ai8yjS7kxYrE-xQW-4wtN-ZO5QZFui23VSRmoc4pvPtH4UDC4Cg29X2YmEw4jc1d43hjgK9YeryYatyZd06bqBMTJJxUMHBfGq1LUUrviI2kKi6zleWo8o6Nk9RIZfuZuDr4w2E7moXO-cKv393nenb0DR-cHbClBgh5XXksXbZvW8aOLCv8gtZk33oPw6sYHjhYkZIgDw88SnMifff_pZ0RYfoKrgNdLinknOToksC8qQmPud2Gzplb0RMSs35SJOOoN98BY-Sig2a_ZtmJ8U5wOcz45Hj0z0JW-e7-5e1ewqGmNAd2sH3nJoiOt-nu3um-YUXSSvvAaynx-c9FnYzVXsVgEnpMXTXdmxTm_50ZBWIlWPeBkzzSby3RBW-j3xOLyjx6q9bmPuwtr0hauiCSy967fjumMgONDe5EF0X0lb6TnX74r2Nq_r_epsEY8crFFTJnnl2St1SuQhnLSRSQ8mgMMAneQZSoNkPo86tWuOxevNo183G_t2yJ-9PN7pCJXyYe-f9_GASOk6ifM8pOqeyTM2Iyw3gGU_129j-ciQxnLgCPKgM8ud5m09zoSBzoLrAscyx4khMXcKu8zq_Lp_mJdazM3GSy95s9haylEUqsS76LJ8Juu5ID_cuhmxk1xibn4haDqe2CnPAEUd01vqRsXC2zodpQ0JJCE8zeUBy4oY6Nfl0F_M06WtVOeh28d0F3qPaqe0fGY4Zak5vNzN131RBuvBu74F_mF6Bqd__gNewr_e"
+      },
+      {
+        "title": "Thermalright Wonder Vision 360 UB ARGB 360mm OLED AIO Liquid CPU Cooling Kit",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSNpBn8bjC2r5ugn-btKv4HiwfG7xqt9M216UVl5GPylDc7zY-7hPg8z6yr5S6ff1FhrP5NxM3fLV2LN8E2uV1ssm5dpSbR",
+        "price": "$249.99",
+        "extracted_price": 249.99,
+        "reviews": 7,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZpG-73icdZTNrqM2GIarWXfRRW-hq-hI_uG3uxAgCSEQ_gObCLATOBAgQEJAvZoznUrtclqp297GzKLXUs7s68Vn2a8_P_an1_73ux_eaP63rkQ0fgSJLgbOkBSHPn2R70vr96atyT3tc_KZZTiBZUQB8CwUBY4B8Pc07uOyvswi5gGHeMAgXgSYFQWG-5zRmJR5Rc3zmbZynebkL8izAs9ikeGRwGAsYE6Af-TX-EK_6X_O0xziIAc4EQtQ5AQGfWxJ94U5rE6QnYcsz3CIQRzHYQFh8ZeDbcqn_xE_3e60Hb_oZdzTrl-k97alVb-40Iq2cZ_X1YLQrujrZnFYLdK6Lmk7d9emrt6XtbSkcUfJAgHEvgduUdHh06X5dg-AGQTgOwqJgAU8YIWP1_ca8dx8BoHh5zqxgMNI-Ng8-rfs8nYp3-7dW1a-0eq3Om4e5_Trhx-VepBX3bCyvKbxZRu4Gwma6-doun7rylodoqiLyxBHihikhdoHnn32KmuKUM0mRabTTWMQmAFrylZ2Aa9R4bE-ErPY1XA0GWZyLB80yLTQj4JZ9xy4fcb4wu7lC44Kwtq4wQlSCx-wAfXUzAiIaUAFOkpjer7NzZzRhSK2i3A012VuT9otmmw3XjMDOWZ6XGStVdnaERiVUWljisPnHkA1hhm0N6pNFGOIPF-OVRHR9bP2EantjYX3ZYlIQXLyqrZxKYUEW6xTETOootYtpU3olyiBvmF4T9VUL6MFy3vqqhm5io89akCKmsK5aiwJfNnw4GuCNCPyVScK_KeHSsVVsgOZvMnwy9YMfDNdQWD5EZvCZoxL9ZYGdry_ZoV51CR_soYQier-aOTGmt3ZqlTvj1nmqBk2FGvYV9LkqpFlV9IqKDWcuCWe-aG3jpC3Dh0VPNvg6mdpYR_sV_sQVxLwfKkzAvZOgOqvc02yN8ZoBpGzr_xHoMCAqNkrDewhLFQ9ASoMcQbJmthBRfCvz649fwFLle0dk8Mc6rdOQ1cvu-10U_iVexMbgnQ7XP4M-dnzs8cYHgD82-zgIqdfP3y_VFY_YXlJNF-JO5hcrMLf77GIqX488LVZ3tGD8lmxK1Zx0q7RyO7JSfBjvUIvvXReWj9haXE6OXR-MPTFce3D-27GNRpiUB40Cz9yvOa1TsoOz119jm6CU9w90c1DK51ejfrOt1uP4dLXyd4asVo-8tNa2PKlfCKbGNa7yLUDfFWficOQQ3m6NnczZm7IKN-5sj_D0qf6OGktxCAsO50F0XMrmMIkqc-l8iJV1XF72VOHhvtBWc7tPc_YynMii_Ec15kwQg_3PbaSKRB6QZ9OamlUDCLabuy0emc8wnzqxOFZDnhZjMZxeg6hTwvbSqwpTOUjzDOUUcT0YNNJ6mMoxsxXEANOIPdavTgojukwOvZUBO4rEosMwwdUPyzRJqvy-3HUbxWf67WT3vJ6Ze6XJ567Js5NFcUL1SROHO2qHoiV3GJGulG_ACC2igvwoxZ2e3knE-5FSwdhRz2BC86S2BNxyXvqfdN3N_18a66yNarGKT0Ezng9LBs2W1tFoVis2Epa91p4Wu_cXzw3nH-f8z__AcjZ8Pw"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Any Color",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZdwBb3icbVS5juNGEDUcO3DgLzDgaDBAN286E8VDoniI95EIJLslUmweEimJIvw1s94F1uE68LeMA3-LOXDqDqqAqlf1XjW665_vfnzD1V-GkuLsHuWGGHmPvN6Pxat8Wzlf-2uHbsVYoW8swwksIwqAZ6EocAyAX4tszEh3qtCfoshBml7CUIQCRwOGp76VOEOkarF9POKr3BULjF1AUKBoWmAhT0ORYcAfVZOd8H_pJc4DDtCiyAqQpz5Qn65oeKf26wMnQkhRrMgCGvCQBRRkftu7tnz4_9znyw1fn-8GyUY8jC_F7XrF7fhywi2-ZmPVtS8ID_XY9S_79UvRdQRfF9f0XfsBu2KCswGjFwpQ7IfhXlr8-HzqP1T-D9un5uOCeI7hKIEVGIblAWQ58VN_H9_K09uJvN2Gt5K84fZLl_X3Y_H39z8p3UNeD4-1E_R9KLvAo1Qlb8zZDAkVnMkloNCIqJ5gTS29oHdwxEZhm2782JnTljyTRp_dTdialAJtzZx9amwzBYEiMIHnI80LXM2PoJLXyHZDyzJJadqxniCFddMAmT5BEtqUl_CclnmweFmHKeh3mXJisghdksaK7bDcpsEYu7Hy9OtUDihWD1pnSgOLSRr14sW9EkIyWeQ0p0GY4IY1Y7idzDbt3Dm1o0BZcGSMiDQFRH2YNdo4fkAZYbnPGnedb6xFj5jk4YpFbcgUTcqlG31nalNlabAJNehaYVl5oThE59SwtdEsaDfzyTLRJuTspb8_S30BWNmLCG3HZGe2vZaq6JxqrJXK-mT4CVjm8aKwXPuxGofK-MChCVFkTUjpL0agjiaw5MIPJT9S2BzqxFK2rHlGldOm9zCW9pFKNl4DZje2hiSCt0VThsnJU8GkRk1YIoIqXyZxQKMqgxJInlBBgepqlS65G-tpR6lrtSvWkxEwa1XPz4jKwfaJA1U3wTAlc3pHAZR-n4br8R2sVHb0bK717ilIqU2dn5L45mdA6tRIiu1Sd36FvMCwHE0xLOD5L8sDriv89_c_rJT1L7S8QnqoZAPMT04dmiYt0tiI93xnkxt1x3xZ7-p1ll816sma6CCEmdFSr6N0XDm_0NLL4eDh5b_gV8939x_drCZ9ZIDsdYe-V7TG64NU7qddd0wvglffAtGvEqeYz1Z346_bgOGK8-xurUwl9-qgCVueyAe0yWC3S303oht1yj0G7cmh6W92xlwoi3zwyuFCVkzq_aBfIQ0SMhgsSKetYAuzpE4r5VVq23h7MrGHE_OhrJbzUWdt5aWQpenFaqXwhAE9jrSTz5EwCsZ8UInVMhTSd89B73bWPanmQXxM5EGv6qcVz9MjCXHtOrkzJ4Ucw6qkSkwxI9gMknp_1M8yVCgGHEAVXI16r3i2xxh0oFLgtkbZssP4CBv7FbUp2-oWP41Ly1dG5xWXqlvb5urAc03uXVRRPGFd4sSn23YP5OSXjJEuOKwByJz6BML0CgdT3smIe9WLh7DDgcBFR0kckbjiA_W2GYeLcbz0jew8VetQ7CPv2exXPVtqTl0rDiteJX0414E-erfXwE-W7XN8_1kpi0qO9TLVSIk08bndWD1ugot0NilzLY258y_m4_40"
+          },
+          {
+            "name": "Black",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZdwBb3icbVS5juNGEDUcO3DgLzDgaDBAN286E8VDoniI95EIJLslUmweEimJIvw1s94F1uE68LeMA3-LOXDqDqqAqlf1XjW665_vfnzD1V-GkuLsHuWGGHmPvN6Pxat8Wzlf-2uHbsVYoW8swwksIwqAZ6EocAyAX4tszEh3qtCfoshBml7CUIQCRwOGp76VOEOkarF9POKr3BULjF1AUKBoWmAhT0ORYcAfVZOd8H_pJc4DDtCiyAqQpz5Qn65oeKf26wMnQkhRrMgCGvCQBRRkftu7tnz4_9znyw1fn-8GyUY8jC_F7XrF7fhywi2-ZmPVtS8ID_XY9S_79UvRdQRfF9f0XfsBu2KCswGjFwpQ7IfhXlr8-HzqP1T-D9un5uOCeI7hKIEVGIblAWQ58VN_H9_K09uJvN2Gt5K84fZLl_X3Y_H39z8p3UNeD4-1E_R9KLvAo1Qlb8zZDAkVnMkloNCIqJ5gTS29oHdwxEZhm2782JnTljyTRp_dTdialAJtzZx9amwzBYEiMIHnI80LXM2PoJLXyHZDyzJJadqxniCFddMAmT5BEtqUl_CclnmweFmHKeh3mXJisghdksaK7bDcpsEYu7Hy9OtUDihWD1pnSgOLSRr14sW9EkIyWeQ0p0GY4IY1Y7idzDbt3Dm1o0BZcGSMiDQFRH2YNdo4fkAZYbnPGnedb6xFj5jk4YpFbcgUTcqlG31nalNlabAJNehaYVl5oThE59SwtdEsaDfzyTLRJuTspb8_S30BWNmLCG3HZGe2vZaq6JxqrJXK-mT4CVjm8aKwXPuxGofK-MChCVFkTUjpL0agjiaw5MIPJT9S2BzqxFK2rHlGldOm9zCW9pFKNl4DZje2hiSCt0VThsnJU8GkRk1YIoIqXyZxQKMqgxJInlBBgepqlS65G-tpR6lrtSvWkxEwa1XPz4jKwfaJA1U3wTAlc3pHAZR-n4br8R2sVHb0bK717ilIqU2dn5L45mdA6tRIiu1Sd36FvMCwHE0xLOD5L8sDriv89_c_rJT1L7S8QnqoZAPMT04dmiYt0tiI93xnkxt1x3xZ7-p1ll816sma6CCEmdFSr6N0XDm_0NLL4eDh5b_gV8939x_drCZ9ZIDsdYe-V7TG64NU7qddd0wvglffAtGvEqeYz1Z346_bgOGK8-xurUwl9-qgCVueyAe0yWC3S303oht1yj0G7cmh6W92xlwoi3zwyuFCVkzq_aBfIQ0SMhgsSKetYAuzpE4r5VVq23h7MrGHE_OhrJbzUWdt5aWQpenFaqXwhAE9jrSTz5EwCsZ8UInVMhTSd89B73bWPanmQXxM5EGv6qcVz9MjCXHtOrkzJ4Ucw6qkSkwxI9gMknp_1M8yVCgGHEAVXI16r3i2xxh0oFLgtkbZssP4CBv7FbUp2-oWP41Ly1dG5xWXqlvb5urAc03uXVRRPGFd4sSn23YP5OSXjJEuOKwByJz6BML0CgdT3smIe9WLh7DDgcBFR0kckbjiA_W2GYeLcbz0jew8VetQ7CPv2exXPVtqTl0rDiteJX0414E-erfXwE-W7XN8_1kpi0qO9TLVSIk08bndWD1ugot0NilzLY258y_m4_40"
+          },
+          {
+            "name": "White",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qfPLTnicbVS5rvM2Ew1Sp0iRV0h1cQGS2v_OshZbtiRrXxpDEmlLFrXYkm1ZyNPc70-ApEyKPMuXIs8SXaQNixlg5sycMwQ5f3_z_Qep_tyrKckeUb6XIu-Z14exeFfuK-fX_tbhezFW-HeO5UWOlUQgcFASeRbAX4tszGh3rvAfksRDhlnCUIIizwBWQL-XJMO0aol9OpGb0hULjFtAUEQMI3JQYKDEsuC3qsnO5N_0EhcADxhJ4kQooE_UlxsevqLD-shLECLESRxggAA5gCD708G1leN_536-3snt9XVPs5EM41txv91IO76dSUtu2Vh17RsmQz12_dth_VZ0HSW3xTV9137CboSSbCD4DQHEfRr-rSXPn8_9p8r_YPvSfF6QwLM8EjmRZTkBQI6XvvSP8aM8f5zpx334KOkHaX_psv5xKv769ge1eyrr4bl2gr4PFRd4SFPzxpzNkKLgQq8BwiNGPSW6VnpB75CIi8I23fixM6ctfSWNMbubsDWRCm3dnH00tpmKQRGYwPOx7gWu7kdQzWtsu6FlmbQ07dhIsMq5aYBNn2IZb8preEnLPFi8YsAU9LtMPbNZhK9JY8V2WG7TYIzdWH35daoEiDOC1pnSwGKTRrt6ca-GkE4WPc9pECak4cwYbiezTTt3Tu0oUBccHSMqTwHVnmaNN44foH1YHrLGXecba9EjJXm44nAbskWT8unG2Jn6VFk6bEIdulZYVl4oDdEl3dv6aBaMm_l0mWgT8vbS35_lvgCc4kWUsWO6M9teTzV8SXXOShVj2vsJWObxorBc-7EWh-r4JKEJcWRNWO2v-0AbTWAphR_KfqRyOTSopW4584Irp00fYSwfIo1uvAbMbmwNSQTvi6aM0LOngUmLmrDEFFe-QuOAwVUGZZC8oIoDzdUrQ3Y31suOUtdqV5ynYGDWmpFfMMrB9kUCzTDBMCVz-sABlP8_DbfTV7DSuNGz-dZ7pCBFmzo_J_Hdz4DcaZEc26Xh_A8KIsvxDGI5IAi_LA-4rshf3363Utc_MsoKG6GaDTA_O3VomozEkH18EDqb3tGDCGW9q9dZftPRizPxUQyzfYveR_m0cn5k5Lfj0SPLfyHvnu8ePrtZTfrMAD0YDvOoGF0wBrk8TLvulF5Fr74Hkl8lTjFfrO4u3LYByxeX2d1amUYf1VEXtwJVjniTwW6X-m7ENNqUeyw-0GPT3-2MvSKLfvIq4UJWTNrjaNwgAxI67DmQTlvRFmdZm1bqu9y28fZsEo8k5lNdLeezztoqSyHHMIvVS_EFA2YcGSefI3EU9_NRo1bLImzsXoPR7axHUs2D9Jzok1nVLyuep2cSktp1cmdOCiWGVYlKgtgRbAZZezzrVxmqiAVHUAW3fX1QPdtj90ygIXBf42zZYUJE9ocV2pRtdY9f-2srVPvOK65Vt7bN1VHgm9y7apJ0JobMSy-37Z7Yya8ZK19JWAOQOfUZhOkNDqayUzD_bhRPcUcCkY9OsjRiaSUE2n0zDtf96do3ivPSrGNxiLxXc1j1XKk7da06nHSTjeFSB8bo3d8DP1m2z-mroJZFpcRGmeq0xLr02m6snjTBVb6YyFzLY-5u7e05vORoehRVp2FU9lgP_gEYkgXS"
+          }
+        ]
+      },
+      {
+        "title": "Radiator Size",
+        "items": [
+          {
+            "name": "Any Radiator Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PdEq5XicbVRJruNGDA16nUUWuUKvPj5QpVnZWdZgyxqsedgYkqpsySoNtmRbFnKa30mAzrIDJGfpXuQs0Ue2XQsSIB_5SKLIf3_46Q1X_xhKirN7lBti5D3yej8Wr_Jt5Xzurx26FWOFvrAMJ7CMKACehaLAMQB-LrIxI92pQn-JIgdpejFDEQocDRie-lLiDJGqxfbxiK9yVywwdgFBgaJpgYU8DUWGAX9WTXbC_7sXOw84QIsiK0Ceekd9uqLhK7VfHzgRQopiRRbQgIcsoCDz69615cP3fb9fbvj6_GqQbMTD-FLcrlfcji8n3OJrNlZd-4LwUI9d_7JfvxRdR_B1UU3fte-wKyY4GzB6oQDFvgvupcWP30_9e5XfYfvUvA-I5xiOEliBYVgeQJYTP_X38a08vZ3I2214K8kbbv_osv5-LL59-FnpHvJ6eKydoO9D2QUepSp5Y85mSKjgTC4BhUZE9QRraukFvYMjNgrbdOPHzpy25Jk0-uxuwtakFGhr5uxTY5spCBSBCTwfaV7gan4ElbxGthtalklK0471BCmsmwbI9AmS0Ka8hOe0zINFyzpMQb_LlBOTReiSNFZsh-U2DcbYjZWnX6dyQLF60DpTGlhM0qgXL-6VEJLJIqc5DcIEN6wZw-1ktmnnzqkdBcqCI2NEpCkg6sOs0cbxA8oIy33WuOt8Yy31iEkerljUhkzRpFy60XemNlWWBptQg64VlpUXikN0Tg1bG82CdjOfLB1tQs5e8vuz1BeAlb2I0HZMdmbba6mKzqnGWqmsT4afgKUfLwrLtR-rcaiMDxyaEEXWhJT-YgTqaAJLLvxQ8iOFzaFOLGXLmmdUOW16D2NpH6lk4zVgdmNrSCJ4W2rKMDl5KpjUqAlLRFDlyyQOaFRlUALJEyooUF2t0iV3Yz3tKHWtdsV6MgJmrer5GVE52D5xoOomGKZkTu8ogNJv03A9fgUrlR09m2u9ewpSalPnpyS--RmQOjWSYrvUnV8gLzAsR1MMC3j-j-UD1xX-9uHHlbL-SMsrpIdKNsD85NShadIijY14z3c2uVF3zJf1rl5n-VWjnqyJDkKYGS31OkrHlfORll4OBw8v-4JfPd_dv2ezmvSRAbLXHfpe0RqvD1K5n3bdMb0IXn0LRL9KnGI-W92Nv24DhivOs7u1MpXcq4MmbHkiH9Amg90u9d2IbtQp9xi0J4emv9kZc6Es8s4rhwtZMan3g36FNEjIYLAgnbaCLcySOq2UV6lt4-3JxB5OzIeyWt57nLWVl0CWpheplcITBvQ40k4-R8IoGPNBJVbLUEjfPQe921n3pJoH8TGRB72qn1Y8T48kxLXr5M6cFHIMq5IqMcWMYDNI6v1RP8tQoRhwAFVwNeq94tkeY9CBSoHbGmXLDeMjbOxX1KZsq1v8NC4tXxmdV1yqbm2bqwPPNbl3UUXxhHWJE59u2z2Qk18yRrrgsAYgc-oTCNMrHEx5JyPuVS8ewg4HAhcdJXFE4ooP1NtmHC7G8dI3svNUrUOxj7xns1_1bKk5da04rHiV9OFcB_ro3V4DP1muz_HvZZkrKbLuuSY-d6ewyjX1nD3-AxV3-e4"
+          },
+          {
+            "name": "240 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gwDq2HicbVTJrqtGE46yziKLvEJWR0fqZubfGTPY2ICZh40FdBswzWCDbUB5mnP_REqWySLPcrPIs4SjbNOLKqnqq_qqSl319zfff-Dqz6OS4PQZZkcxdF9ZfRrzd_mxsX_t7x165GOFfmcZTmAZUQA8C0WBYwD8NU_HlHRFhf4QRQ7S9GqGIhQ4GjA89XuJU0SqFluXC77LXb7C2BUEBYqmBRbyNBQZBvxWNWmB_3Wvdh5wgBZFVoA89Yn6ckfDV-q0PXMihBTFiiygAQ9ZQEHmp5Njyef_9v18e-D7_PVI0hEP41v-uN9xO74VuMX3dKy69g3hoR67_u20fcu7juD7qpq-az9hd0xwOmD0RgGK_RTcW4tfPxf9Z5X_wfal-RwQzzEcJbACw7A8gCwnfumf40dZfBTk4zF8lOQDt790af-85H99-4PSveTt8Nraft8HsgNcSlWyxliMgFD-ldx8Co2I6gnW1NL1exuHbBi0yc6L7CVpyRw3-uLsgtagFGhpxuJRY5sqCOS-AVwPaa7vaF4IlaxGlhOYpkFKw4r0GCmsk_jI8AiS0K68BdekzPxVyzpMQH9IlYJJQ3SLGzOygnKf-GPkRMrs1YnsU6zut_aU-CYTN-rNjXolgGQySbEkfhDjhjUiuJ-MNumcJbFCX1lxZAyJNPlEfRk12tmeTx2D8pQ2zjbbmWs9YpwFGxa1AZM3CZfs9IOhTZWpwSbQoGMGZeUG4hBek6OljUZOO6lH1o52AWet-b1F6nPAym5IaCsiB6PttURF10RjzUTWp6MXg7UfNwzKrRepUaCMLxwYEIXmhJT-dvTV0QCmnHuB5IUKm0GdmMqeNa6ostvkGUTSKVTJzm3A4kTmEIfwsdaUYlK4KpjUsAlKRFDlySTyaVSlUALxDBXkq45W6ZKzM2crTByz3bCujIBRq3p2RVQG9jP2Vd0AwxQvyRP5UPr_NNwvX8FGZUfX4lr3mYCE2tVZEUcPLwVSp4ZSZJW6_T_ICwzL0RTDAp7_Zf3AdYX_-va7jbL9kZY3SA-UdIBZYdeBYdAijY_Rie8s8qCemC_rQ71Ns7tGzayBzkKQHlvqfZQuG_tHWno7n1287gt-dz3n9JnNbJJXCshJt-lnRWu8PkjlaTp0l-QmuPXDF70qtvPlanYP_r73GS6_Ls7eTFXyrM6asOeJfEa7FHaHxHNCulGnzGXQiZyb_mGlzI0yySevHKxk-aQ-z_od0iAmw5EFybQXLGGR1GmjvEttG-0LA7s4Nl7KZn2fceZeXgNZml6lVgoz9OlxpO1sCYVROC5nlZgtQyH9MA96dzCfcbUM4msiL3pTz2a0TK84wLVjZ_YS53IEq5IqMcWMYDdI6vNVz2WgUAw4g8q_H-uT4louc6R9lQKPLUrXG8aH-HjaULuyrR7RfLy1fHXs3PxWdVvL2Jx5rsncmyqKBdYlTpydtnshO7uljHTDQQ1AatcFCJI7HAz5ICPuXc9fwgH7AhdeJHFE4ob31cduHG7Hy61vZHtWzXN-Ct25OW16ttTsulZsVrxL-nCtfX10H---F6_X5_KVX7e5kkLzmWnifCiCKtPUazrt1znCOQ6dPo6cZ15JSxr15FDEsylviiwE_wAcfQYC"
+          },
+          {
+            "name": "280 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MNzhJXicbVTJrqtGE46yziKLvEJWR0fqZubfGTPY2ICZh40FdBswzWCDbUB5mnP_REqWySLPcrPIs4SjbNOLKqnqq_qqSl319zfff-Dqz6OS4PQZZkcxdF9ZfRrzd_mxsX_t7x165GOFfmcZTmAZUQA8C0WBYwD8NU_HlHRFhf4QRQ7S9GqGIhQ4GjA89XuJU0SqFluXC77LXb7C2BUEBYqmBRbyNBQZBvxWNWmB_3Wvdh5wgBZFVoA89Yn6ckfDV-q0PXMihBTFiiygAQ9ZQEHmp5Njyef_9v18e-D7_PVI0hEP41v-uN9xO74VuMX3dKy69g3hoR67_u20fcu7juD7qpq-az9hd0xwOmD0RgGK_RTcW4tfPxf9Z5X_wfal-RwQzzEcJbACw7A8gCwnfumf40dZfBTk4zF8lOQDt790af-85H99-4PSveTt8Nraft8HsgNcSlWyxliMgFD-ldx8Co2I6gnW1NL1exuHbBi0yc6L7CVpyRw3-uLsgtagFGhpxuJRY5sqCOS-AVwPaa7vaF4IlaxGlhOYpkFKw4r0GCmsk_jI8AiS0K68BdekzPxVyzpMQH9IlYJJQ3SLGzOygnKf-GPkRMrs1YnsU6zut_aU-CYTN-rNjXolgGQySbEkfhDjhjUiuJ-MNumcJbFCX1lxZAyJNPlEfRk12tmeTx2D8pQ2zjbbmWs9YpwFGxa1AZM3CZfs9IOhTZWpwSbQoGMGZeUG4hBek6OljUZOO6lH1o52AWet-b1F6nPAym5IaCsiB6PttURF10RjzUTWp6MXg7UfNwzKrRepUaCMLxwYEIXmhJT-dvTV0QCmnHuB5IUKm0GdmMqeNa6ostvkGUTSKVTJzm3A4kTmEIfwsdaUYlK4KpjUsAlKRFDlySTyaVSlUALxDBXkq45W6ZKzM2crTByz3bCujIBRq3p2RVQG9jP2Vd0AwxQvyRP5UPr_NNwvX8FGZUfX4lr3mYCE2tVZEUcPLwVSp4ZSZJW6_T_ICwzL0RTDAp7_Zf3AdYX_-va7jbL9kZY3SA-UdIBZYdeBYdAijY_Rie8s8qCemC_rQ71Ns7tGzayBzkKQHlvqfZQuG_tHWno7n1287gt-dz3n9JnNbJJXCshJt-lnRWu8PkjlaTp0l-QmuPXDF70qtvPlanYP_r73GS6_Ls7eTFXyrM6asOeJfEa7FHaHxHNCulGnzGXQiZyb_mGlzI0yySevHKxk-aQ-z_od0iAmw5EFybQXLGGR1GmjvEttG-0LA7s4Nl7KZn2fceZeXgNZml6lVgoz9OlxpO1sCYVROC5nlZgtQyH9MA96dzCfcbUM4msiL3pTz2a0TK84wLVjZ_YS53IEq5IqMcWMYDdI6vNVz2WgUAw4g8q_H-uT4louc6R9lQKPLUrXG8aH-HjaULuyrR7RfLy1fHXs3PxWdVvL2Jx5rsncmyqKBdYlTpydtnshO7uljHTDQQ1AatcFCJI7HAz5ICPuXc9fwgH7AhdeJHFE4ob31cduHG7Hy61vZHtWzXN-Ct25OW16ttTsulZsVrxL-nCtfX10H---F6_X5_KVX7e5kkLzmWnifCiCKtPUazrt1znCOQ6dPo6cZ15JSxr15FDEsyVviiwE_wAchAYD"
+          },
+          {
+            "name": "360 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PdEq5XicbVRJruNGDA16nUUWuUKvPj5QpVnZWdZgyxqsedgYkqpsySoNtmRbFnKa30mAzrIDJGfpXuQs0Ue2XQsSIB_5SKLIf3_46Q1X_xhKirN7lBti5D3yej8Wr_Jt5Xzurx26FWOFvrAMJ7CMKACehaLAMQB-LrIxI92pQn-JIgdpejFDEQocDRie-lLiDJGqxfbxiK9yVywwdgFBgaJpgYU8DUWGAX9WTXbC_7sXOw84QIsiK0Ceekd9uqLhK7VfHzgRQopiRRbQgIcsoCDz69615cP3fb9fbvj6_GqQbMTD-FLcrlfcji8n3OJrNlZd-4LwUI9d_7JfvxRdR_B1UU3fte-wKyY4GzB6oQDFvgvupcWP30_9e5XfYfvUvA-I5xiOEliBYVgeQJYTP_X38a08vZ3I2214K8kbbv_osv5-LL59-FnpHvJ6eKydoO9D2QUepSp5Y85mSKjgTC4BhUZE9QRraukFvYMjNgrbdOPHzpy25Jk0-uxuwtakFGhr5uxTY5spCBSBCTwfaV7gan4ElbxGthtalklK0471BCmsmwbI9AmS0Ka8hOe0zINFyzpMQb_LlBOTReiSNFZsh-U2DcbYjZWnX6dyQLF60DpTGlhM0qgXL-6VEJLJIqc5DcIEN6wZw-1ktmnnzqkdBcqCI2NEpCkg6sOs0cbxA8oIy33WuOt8Yy31iEkerljUhkzRpFy60XemNlWWBptQg64VlpUXikN0Tg1bG82CdjOfLB1tQs5e8vuz1BeAlb2I0HZMdmbba6mKzqnGWqmsT4afgKUfLwrLtR-rcaiMDxyaEEXWhJT-YgTqaAJLLvxQ8iOFzaFOLGXLmmdUOW16D2NpH6lk4zVgdmNrSCJ4W2rKMDl5KpjUqAlLRFDlyyQOaFRlUALJEyooUF2t0iV3Yz3tKHWtdsV6MgJmrer5GVE52D5xoOomGKZkTu8ogNJv03A9fgUrlR09m2u9ewpSalPnpyS--RmQOjWSYrvUnV8gLzAsR1MMC3j-j-UD1xX-9uHHlbL-SMsrpIdKNsD85NShadIijY14z3c2uVF3zJf1rl5n-VWjnqyJDkKYGS31OkrHlfORll4OBw8v-4JfPd_dv2ezmvSRAbLXHfpe0RqvD1K5n3bdMb0IXn0LRL9KnGI-W92Nv24DhivOs7u1MpXcq4MmbHkiH9Amg90u9d2IbtQp9xi0J4emv9kZc6Es8s4rhwtZMan3g36FNEjIYLAgnbaCLcySOq2UV6lt4-3JxB5OzIeyWt57nLWVl0CWpheplcITBvQ40k4-R8IoGPNBJVbLUEjfPQe921n3pJoH8TGRB72qn1Y8T48kxLXr5M6cFHIMq5IqMcWMYDNI6v1RP8tQoRhwAFVwNeq94tkeY9CBSoHbGmXLDeMjbOxX1KZsq1v8NC4tXxmdV1yqbm2bqwPPNbl3UUXxhHWJE59u2z2Qk18yRrrgsAYgc-oTCNMrHEx5JyPuVS8ewg4HAhcdJXFE4ooP1NtmHC7G8dI3svNUrUOxj7xns1_1bKk5da04rHiV9OFcB_ro3V4DP1muz_HvZZkrKbLuuSY-d6ewyjX1nD3-AxV3-e4"
+          },
+          {
+            "name": "420 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PLuHhHicbVTJrqtGE46yziKLvEJWR0fqZubfGTPY2ICZh40FdBswzWCDbUB5mnP_REqWySLPcrPIs4SjbNOLKqnqq_qqSl319zfff-Dqz6OS4PQZZkcxdF9ZfRrzd_mxsX_t7x165GOFfmcZTmAZUQA8C0WBYwD8NU_HlHRFhf4QRQ7S9GqGIhQ4GjA89XuJU0SqFluXC77LXb7C2BUEBYqmBRbyNBQZBvxWNWmB_3Wvdh5wgBZFVoA89Yn6ckfDV-q0PXMihBTFiiygAQ9ZQEHmp5Njyef_9v18e-D7_PVI0hEP41v-uN9xO74VuMX3dKy69g3hoR67_u20fcu7juD7qpq-az9hd0xwOmD0RgGK_RTcW4tfPxf9Z5X_wfal-RwQzzEcJbACw7A8gCwnfumf40dZfBTk4zF8lOQDt790af-85H99-4PSveTt8Nraft8HsgNcSlWyxliMgFD-ldx8Co2I6gnW1NL1exuHbBi0yc6L7CVpyRw3-uLsgtagFGhpxuJRY5sqCOS-AVwPaa7vaF4IlaxGlhOYpkFKw4r0GCmsk_jI8AiS0K68BdekzPxVyzpMQH9IlYJJQ3SLGzOygnKf-GPkRMrs1YnsU6zut_aU-CYTN-rNjXolgGQySbEkfhDjhjUiuJ-MNumcJbFCX1lxZAyJNPlEfRk12tmeTx2D8pQ2zjbbmWs9YpwFGxa1AZM3CZfs9IOhTZWpwSbQoGMGZeUG4hBek6OljUZOO6lH1o52AWet-b1F6nPAym5IaCsiB6PttURF10RjzUTWp6MXg7UfNwzKrRepUaCMLxwYEIXmhJT-dvTV0QCmnHuB5IUKm0GdmMqeNa6ostvkGUTSKVTJzm3A4kTmEIfwsdaUYlK4KpjUsAlKRFDlySTyaVSlUALxDBXkq45W6ZKzM2crTByz3bCujIBRq3p2RVQG9jP2Vd0AwxQvyRP5UPr_NNwvX8FGZUfX4lr3mYCE2tVZEUcPLwVSp4ZSZJW6_T_ICwzL0RTDAp7_Zf3AdYX_-va7jbL9kZY3SA-UdIBZYdeBYdAijY_Rie8s8qCemC_rQ71Ns7tGzayBzkKQHlvqfZQuG_tHWno7n1287gt-dz3n9JnNbJJXCshJt-lnRWu8PkjlaTp0l-QmuPXDF70qtvPlanYP_r73GS6_Ls7eTFXyrM6asOeJfEa7FHaHxHNCulGnzGXQiZyb_mGlzI0yySevHKxk-aQ-z_od0iAmw5EFybQXLGGR1GmjvEttG-0LA7s4Nl7KZn2fceZeXgNZml6lVgoz9OlxpO1sCYVROC5nlZgtQyH9MA96dzCfcbUM4msiL3pTz2a0TK84wLVjZ_YS53IEq5IqMcWMYDdI6vNVz2WgUAw4g8q_H-uT4louc6R9lQKPLUrXG8aH-HjaULuyrR7RfLy1fHXs3PxWdVvL2Jx5rsncmyqKBdYlTpydtnshO7uljHTDQQ1AatcFCJI7HAz5ICPuXc9fwgH7AhdeJHFE4ob31cduHG7Hy61vZHtWzXN-Ct25OW16ttTsulZsVrxL-nCtfX10H---F6_X5_KVX7e5kkLzmWnifCiCKtPUazrt1znCOQ6dPo6cZ15JSxr15FDEwLhuiiwE_wAbEgXe"
+          }
+        ]
+      }
+    ]
+  }
+}

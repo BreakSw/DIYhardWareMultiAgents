@@ -1,0 +1,11 @@
+.provenance-card { padding: 20px; border-radius: 18px; }
+.provenance-card.live { box-shadow: inset 3px 0 #2aa58f, inset 0 1px rgba(255,255,255,.82), var(--shadow); }
+.provenance-card.fallback { box-shadow: inset 3px 0 #d59043, inset 0 1px rgba(255,255,255,.82), var(--shadow); }
+.provenance-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 13px; }
+.provenance-head span { color: var(--muted); font: 8px "DM Mono", monospace; letter-spacing: .1em; }
+.provenance-head b { padding: 5px 8px; border-radius: 999px; color: var(--teal); background: var(--teal-light); font-size: 8px; }
+.provenance-card.fallback .provenance-head b { color: #9d6728; background: #f5e5c8; }
+.provenance-card p { display: flex; align-items: center; gap: 8px; margin: 8px 0; color: var(--muted); font-size: 9px; }
+.provenance-card p i { width: 7px; height: 7px; border-radius: 50%; background: #2aa58f; }
+.provenance-card.fallback p i { background: #d59043; }
+.provenance-card p strong { margin-left: auto; color: var(--ink); font: 9px "DM Mono", monospace; }

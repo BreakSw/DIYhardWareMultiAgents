@@ -1,0 +1,12 @@
+{
+  "query": "site:newegg.com 2TB NVMe SSD price Crucial P3 Plus 2TB",
+  "captured_at": "2026-07-22T11:45:00Z",
+  "shopping_results": [
+    {
+      "title": "Crucial P3 Plus 2TB PCIe 4.0 3D NAND NVMe M.2 SSD CT2000P3PSSD8",
+      "product_link": "https://www.newegg.com/p/pl?N=100&d=crucial+p3+plus+2tb",
+      "source": "Newegg",
+      "extracted_price": 313.45
+    }
+  ]
+}

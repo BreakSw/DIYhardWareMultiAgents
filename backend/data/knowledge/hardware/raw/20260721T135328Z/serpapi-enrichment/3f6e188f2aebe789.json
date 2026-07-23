@@ -1,0 +1,870 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a9fde1f33a0ab6e430c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/F-2JeKaZJjZcH2rgqu4tyw/6a5f7a9fde1f33a0ab6e430c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/F-2JeKaZJjZcH2rgqu4tyw/6a5f7a9fde1f33a0ab6e430c.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:47 UTC",
+    "processed_at": "2026-07-21 13:56:47 UTC",
+    "google_url": "https://www.google.com/search?q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&oq=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/F-2JeKaZJjZcH2rgqu4tyw/6a5f7a9fde1f33a0ab6e430c.html",
+    "total_time_taken": 1.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "N5 Z690 Gaming Motherboard motherboard m2_slots",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "N5 Z690 Gaming Motherboard motherboard m2_slots",
+    "total_results": 122,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "N5 Z690 Gaming Motherboard motherboard m2 slots"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "NZXT N5 Z690: Unboxing and Feature Overview",
+      "link": "https://www.youtube.com/watch?v=syg3VHU7UEc",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/JneMgTpX-ZK2h6KyVs5-nT4L2oJ-ENuUYV2TsAqId2M.jpeg",
+      "channel": "The Provoked Prawn",
+      "duration": "12:34",
+      "platform": "YouTube",
+      "date": "Dec 1, 2022",
+      "key_moments": [
+        {
+          "time": "00:38",
+          "title": "Cpu Compatibility",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=38",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/JneMgTpX-ZK2h6KyVs5-nS81p1PEQuian7VocauNMKDa0M73zsJfVgx1oKK_fKWN.jpeg"
+        },
+        {
+          "time": "02:25",
+          "title": "Connectivity",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=145",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/JneMgTpX-ZK2h6KyVs5-nWjxIWTrn-EKNe1wGqQ8ij8PAlpPM1CdOroUExiEkOtQ.jpeg"
+        },
+        {
+          "time": "02:44",
+          "title": "M2 Ports",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=164",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/JneMgTpX-ZK2h6KyVs5-nYb_ZpBu487M6KFitR5sga0Ef_M57n7JbqmndZ3KUT9c.jpeg"
+        },
+        {
+          "time": "03:17",
+          "title": "Installation",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=197",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/JneMgTpX-ZK2h6KyVs5-nZxZgWU3bGEz9TEHAKrFOLRGBrRfr09NKvUCu8fQ-TTt.jpeg"
+        },
+        {
+          "time": "04:04",
+          "title": "Installation Points",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=244",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/JneMgTpX-ZK2h6KyVs5-nX4qkgtGxpv5JEf50HXyzm2y0KB2DhCH0ADW4xIsUikk.jpeg"
+        },
+        {
+          "time": "04:40",
+          "title": "M2 Port",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=280",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3s9LltXpOumXIELtuPFfHlirp7h90JnLJC8jN256Ow&s="
+        },
+        {
+          "time": "06:06",
+          "title": "Connections",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=366",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLpnbSQ1bdWvaVCj4MwaT6dCi2n_v9mCW2xh69N7j6iw&s="
+        },
+        {
+          "time": "07:25",
+          "title": "Antennas",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=445",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSd2gdkLntgc5YDXUbIn4PXeDQFlfW7kkL-yDLD20KI7g&s="
+        },
+        {
+          "time": "07:56",
+          "title": "Usb",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=476",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3UWEYn413Ry1LyEaA0GwY4KkjzMikHgBGtODhx9UmKg&s="
+        },
+        {
+          "time": "08:30",
+          "title": "Sata Ports",
+          "link": "https://www.youtube.com/watch?v=syg3VHU7UEc&t=510",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu7zfNCVqZfj5wAsEYiELVjxY4wCdfaGrC1f-W_B4Sug&s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "NZXT N5 Z690 & N7 Z690 Review [VRM & Performance ...",
+      "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/Lqy3p30IJEfzcd_utgrR9jiV4FivABghqbuhGjtTC_A.jpeg",
+      "channel": "eTeknix",
+      "duration": "18:02",
+      "platform": "YouTube",
+      "date": "Jun 1, 2022",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=0"
+        },
+        {
+          "time": "01:14",
+          "title": "Z690 Chipset",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=74"
+        },
+        {
+          "time": "02:22",
+          "title": "Packaging",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=142"
+        },
+        {
+          "time": "02:47",
+          "title": "Style & Design",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=167"
+        },
+        {
+          "time": "03:56",
+          "title": "VRM Layout",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=236"
+        },
+        {
+          "time": "06:01",
+          "title": "Cooling",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=361"
+        },
+        {
+          "time": "06:25",
+          "title": "M.2 Storage",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=385"
+        },
+        {
+          "time": "06:58",
+          "title": "Expansion Slots",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=418"
+        },
+        {
+          "time": "07:22",
+          "title": "Rear I/O",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=442"
+        },
+        {
+          "time": "07:58",
+          "title": "Testing",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=478"
+        },
+        {
+          "time": "08:25",
+          "title": "Testing Components",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=505"
+        },
+        {
+          "time": "08:56",
+          "title": "Benchmarks",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=536"
+        },
+        {
+          "time": "12:57",
+          "title": "Power Consumption",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=777"
+        },
+        {
+          "time": "14:28",
+          "title": "VRM Testing",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=868"
+        },
+        {
+          "time": "15:14",
+          "title": "Are the features right for you?",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=914"
+        },
+        {
+          "time": "16:01",
+          "title": "Pricing",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=961"
+        },
+        {
+          "time": "16:43",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=C_qMQwM9oBg&t=1003"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "NZXT N5 Z690 Review - better than expected!",
+      "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/htF3GOhVCi8wgJv0axVJ7ukwk_-9xzFVcRqN1PZ02IY.jpeg",
+      "channel": "KitGuruTech",
+      "duration": "16:48",
+      "platform": "YouTube",
+      "date": "Jun 2, 2022",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Start",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=0"
+        },
+        {
+          "time": "00:57",
+          "title": "Unboxing and board layout",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=57"
+        },
+        {
+          "time": "02:08",
+          "title": "Removing the VRM heatsinks",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=128"
+        },
+        {
+          "time": "03:03",
+          "title": "I/O panel and on-board headers",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=183"
+        },
+        {
+          "time": "04:54",
+          "title": "M.2 installation is fiddly",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=294"
+        },
+        {
+          "time": "05:52",
+          "title": "Processor time",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=352"
+        },
+        {
+          "time": "06:37",
+          "title": "Test setup",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=397"
+        },
+        {
+          "time": "07:24",
+          "title": "Leo looks at the BIOS",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=444"
+        },
+        {
+          "time": "09:26",
+          "title": "It’s fun and games with NZXT CAM…",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=566"
+        },
+        {
+          "time": "10:11",
+          "title": "Cinebench R23 mobo behaviour",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=611"
+        },
+        {
+          "time": "11:21",
+          "title": "The benchmarks",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=681"
+        },
+        {
+          "time": "14:34",
+          "title": "So what does Leo think?",
+          "link": "https://www.youtube.com/watch?v=EY-iMXnHCOI&t=874"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "NZXT Z690 Motherboards - NZXT N5 - NZXT N7",
+      "link": "https://www.youtube.com/watch?v=kM9wG79Nr5o",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/o1MnmoeMz3gIbwAmFvhD2pkw0z7qR96IFC1NzPTeRA4.jpeg",
+      "channel": "Tech for Techs",
+      "duration": "16:24",
+      "platform": "YouTube",
+      "date": "Jun 29, 2022",
+      "snippet": "They're both z690 motherboards which basically means they're for 12 gem processors.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQxwJDuWpFzMs9O3rSCtyv7SQAK3YYwsZnzgA"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRYYHH6lYR9tp24n_RbuIISdk0tnUUYDkTAGAUgHnuTXyILZa9gcMYbmmtfY8bnp3UFcb63rcvohhk6ShXLqNWl0NZ6nS5P88_LOGEV7GZ3OgC3KfwBZwRipg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSyUKWjCILq73GTimxVT_NWyoRQOuGPckQI1lhccofV78f3_tWKDT4PkEWqSKOkJAfbqXiELFRrgqUTjjop3tsutz1K0p5B6EVc8i6mcBDE4DbE",
+      "source": "Optimist",
+      "title": "ASUS TUF Gaming Z690-PLUS WIFI Motherboard",
+      "rating": 4.2,
+      "reviews": 46,
+      "price": "$105.88",
+      "extracted_price": 105.88,
+      "original_price": "Usually $171",
+      "extracted_original_price": 171,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "PjtRdXicbZJJjttGFIaBnCG3aBipgWN2LYmD2C1KLLKqqNo0KJIiKU7VImUNyB1yB7UdwF46i2xzjc5pQiObLLx5eMAH_O97wP_7Pa_-6rDcJ8Nu7i0_VHIMNqOSVMWj8UUe--yUjlX2pw4B0iEyVd3UDdPEqm58SZMxafpiogqEKsYIQg3qAJtQUcxvZZ5kTdXl6_0-Py769HuIrkMTK1MKUIGhahoCX6s2KfL_sIGBCfSJKdMAWMEmejtmwzvazF8QggiZimEgABHQdU3VftuQ9eLlx-zz6yk_Xt9_8dUHoZngwUnaqiseVv1Y5sddnxyzh_b_O3oZmn4cPhfyu8gPAt_aKvum6pqiIWP6XjENhIEG3-TH8V4Wn06nJv_7XjT303Avm3ve_dEn8uM-_eenn63-vJgP53lApWQLAsLW56RmwrfLQWAKg4MF04N9Y_Tibw8e2sbyedc1Z94KlFmXatU9qqT2QHrIet-1e1H7t7UFQ-KSc7RgJ8Y9NYrL0wqvELFIu-3IknTMCTovWd2amvPhsm1SJeHmdkvJnOHmEtXqU-b4YVaXznST52yp0ogccksOhElGUaMR0ONtCO3MpTDCDSOdvGWxTERUHrgFSQiYWNmzOT_4NG_t-eQTC4vwyCmUhJb9DhfKrrX3O0d0opEdY2W1pvISdLLbQtsVIRQ7Bz490x4G2OMpN8M0ljy0mpo6AIiY0BgSkbQ1YBPjnX1igKHMuZwZsimra7DCtqSRHQSt7fBFsxStWgo6-s_c92k3k0FXKttodooWjZe5PgigzXxEZgKSfQDYki-8I3NnB4L9M6NQ425_2TnyNYTZE3MgyeOyZJyGNlJuqSPKFHmLsK7HJJ4BymbAd2wpgKU4lTcjrn9dcxFODrOIi2vUlEvhlEnq9mf_JuZpK6-pS1U_bsiny3Dcv4NHWx3Dta6kHrgaYf16k9ghZuR0obbfyHDjFL9C3VA0BU0tNFX1X7vfNmg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PjtRdXicbZJJjttGFIaBnCG3aBipgWN2LYmD2C1KLLKqqNo0KJIiKU7VImUNyB1yB7UdwF46i2xzjc5pQiObLLx5eMAH_O97wP_7Pa_-6rDcJ8Nu7i0_VHIMNqOSVMWj8UUe--yUjlX2pw4B0iEyVd3UDdPEqm58SZMxafpiogqEKsYIQg3qAJtQUcxvZZ5kTdXl6_0-Py769HuIrkMTK1MKUIGhahoCX6s2KfL_sIGBCfSJKdMAWMEmejtmwzvazF8QggiZimEgABHQdU3VftuQ9eLlx-zz6yk_Xt9_8dUHoZngwUnaqiseVv1Y5sddnxyzh_b_O3oZmn4cPhfyu8gPAt_aKvum6pqiIWP6XjENhIEG3-TH8V4Wn06nJv_7XjT303Avm3ve_dEn8uM-_eenn63-vJgP53lApWQLAsLW56RmwrfLQWAKg4MF04N9Y_Tibw8e2sbyedc1Z94KlFmXatU9qqT2QHrIet-1e1H7t7UFQ-KSc7RgJ8Y9NYrL0wqvELFIu-3IknTMCTovWd2amvPhsm1SJeHmdkvJnOHmEtXqU-b4YVaXznST52yp0ogccksOhElGUaMR0ONtCO3MpTDCDSOdvGWxTERUHrgFSQiYWNmzOT_4NG_t-eQTC4vwyCmUhJb9DhfKrrX3O0d0opEdY2W1pvISdLLbQtsVIRQ7Bz490x4G2OMpN8M0ljy0mpo6AIiY0BgSkbQ1YBPjnX1igKHMuZwZsimra7DCtqSRHQSt7fBFsxStWgo6-s_c92k3k0FXKttodooWjZe5PgigzXxEZgKSfQDYki-8I3NnB4L9M6NQ425_2TnyNYTZE3MgyeOyZJyGNlJuqSPKFHmLsK7HJJ4BymbAd2wpgKU4lTcjrn9dcxFODrOIi2vUlEvhlEnq9mf_JuZpK6-pS1U_bsiny3Dcv4NHWx3Dta6kHrgaYf16k9ghZuR0obbfyHDjFL9C3VA0BU0tNFX1X7vfNmg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQMwz6hICbemV7MNXN3Ip-vJvYcVh6nQQ3hL5M5l-QUYgLIkZ6retvhrLAJtUN-IZGrD7HbOVlWb8l3iACy4vsoLeP3WPI0YmIfiJWGUbTA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQz59HhD6_wy9Aas4GNo-WOLl8Wm1sfdTEADfadi3W3KzAOU1Cl-qnn87Sfcx_ajhDTFQn3I4S0TCbNopePOyJvEmxv-mzErtTI",
+      "source": "Tecisoft",
+      "title": "N5 Z690 Gaming Motherboard",
+      "price": "$276.10",
+      "extracted_price": 276.1,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "O5ggRXicTY7brpNaFEDj9-yYs65cfNttgRY3VC5rFXgxwKJAC-2SS1v5CX_BdKuJ59Fjcl79Df0aiU_Op5k5R0bGh3tR_3_Ccp_22dLevKzl4L0ZSFqXj9pX2Z3FmA-1-A6xBhSqKIBARaHzaAh9zdMhbc5lLf5TiUYVQjWoQEBUAAGk36oiFU19Krb7fdGtzvmMETQzmk6JghWVzCAi_9ZtWhZ_3t-hNushVlUAMNYVVUGYPHei__j53Vh073_-49KHRNHBg5W29al8cM5DVXTZOe3EQ_v3jt72zXnoP5dy1n7TINDBn0KgY4oJRM_tfKaqQhSkAoqgSqA21zzLy3Cvyk_j2BQ_7mVzH_t71dyL05dzKi_7_NeLZ6PLl8tLvvCYlHzlg4B5RJhHwo_yurPkIZsMyhsNcahfthasQyyi9OBuErNZCKCzuE1w0fCBWXIMLPlOQN7yyX6fR4njYvHkYLEsDA9HqLrGrYzD9gh9w7sxZlcBq-pkWgTewd3vTAf6kz3u-KINIockRnPm3L1kiME0qjbxUXd4uLDDg4_FzLPGtROcNOkp8XnUuLlVrfi62qQ1jBxcmQzqJG3BNYyEDCZ3G4ePk4soKkzJnZ1YMeY-BdYtTlbc5jsbhswcM5ik291t4JGYcmsYfdSwrWkTBqqTx4_Et8opW_nXuTQNmb5-Yg7d8hy60BhmT--yGwn8TZQd3GvSmlN8dF8HAZT52vfZ2gPxrjl5YZlujqaR4w1NGn8dAREk66TL29tm7gjylWijiXthGCOvqUYGjE-3vtv_BI8mHYItvWR4TZZlL7c9DDv7IJ1-WmcmNZzyFVQ1ohCEgKpT5TdSmgYH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=O5ggRXicTY7brpNaFEDj9-yYs65cfNttgRY3VC5rFXgxwKJAC-2SS1v5CX_BdKuJ59Fjcl79Df0aiU_Op5k5R0bGh3tR_3_Ccp_22dLevKzl4L0ZSFqXj9pX2Z3FmA-1-A6xBhSqKIBARaHzaAh9zdMhbc5lLf5TiUYVQjWoQEBUAAGk36oiFU19Krb7fdGtzvmMETQzmk6JghWVzCAi_9ZtWhZ_3t-hNushVlUAMNYVVUGYPHei__j53Vh073_-49KHRNHBg5W29al8cM5DVXTZOe3EQ_v3jt72zXnoP5dy1n7TINDBn0KgY4oJRM_tfKaqQhSkAoqgSqA21zzLy3Cvyk_j2BQ_7mVzH_t71dyL05dzKi_7_NeLZ6PLl8tLvvCYlHzlg4B5RJhHwo_yurPkIZsMyhsNcahfthasQyyi9OBuErNZCKCzuE1w0fCBWXIMLPlOQN7yyX6fR4njYvHkYLEsDA9HqLrGrYzD9gh9w7sxZlcBq-pkWgTewd3vTAf6kz3u-KINIockRnPm3L1kiME0qjbxUXd4uLDDg4_FzLPGtROcNOkp8XnUuLlVrfi62qQ1jBxcmQzqJG3BNYyEDCZ3G4ePk4soKkzJnZ1YMeY-BdYtTlbc5jsbhswcM5ik291t4JGYcmsYfdSwrWkTBqqTx4_Et8opW_nXuTQNmb5-Yg7d8hy60BhmT--yGwn8TZQd3GvSmlN8dF8HAZT52vfZ2gPxrjl5YZlujqaR4w1NGn8dAREk66TL29tm7gjylWijiXthGCOvqUYGjE-3vtv_BI8mHYItvWR4TZZlL7c9DDv7IJ1-WmcmNZzyFVQ1ohCEgKpT5TdSmgYH"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTompvrN2ATIRyagQDGxs-ABMdxV0AGEAYSgYt05IW6nWlM7mzSFSfq9JTT7IMQ7CeuRx-VMvV7Zo5tW3CGXOp2btXiaGbUjl9Uz3Y8gxAUlobmlDPh1Xk1",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "Asus TUF Gaming Z690-PLUS WIFI Motherboard",
+      "rating": 4.2,
+      "reviews": 49,
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "FURCHXicbZHLjqNGFIalPEPeojVK3bhUdk1D4WEM2FwKuzatMmDAFDaxoX1R3iHv4J6JNLOcjJRtXqPzNCFZZTG7o_P9-v9z-e1eNn_ucb-Vp82T9_5d0w_LxUBkUz2an_vjoRjzoSm-QQBMBHRsQAwpNUyomeBzLgepDlVT_EFNgDGZCNZMg5q6BujXupSFavZluN2WR_uQTzIdEIJNnWJdR8akxcT80nSyKv_D3yDRMMBkQmiKmMIMTF-PxekNLZ6eTRMRTMjUBgQBCg2i_7qIQvv5--zTL2N5vL79FGgPQqfgwZVds68e_MNQl8fNQR6Lh-7_NXo-qcNw-lT1_w76HcPXrim-aoZOdKRpECBMASDQfO1fhntdfRxHVf51r9R9PN1rdS_3vx9k_7LN__7hR-dwtp9O56dl2vfcjkCMIF52qpeg30Y7Ly1TgZYo4CWr-Txd4zgV53xV7IIugElaR4L1bsyia8joYq3EjWdqW2ZiltpRk9hrzefMnTzjsj2DGAy1RFE0z2js28IqXY353FplSrjxzsehU5FkdrguOyoih47LVlyKtJ7nnVZLpuac9TxKeCZTbx9nnvRZ7ySMBWvu8XDWH3mqzhvl3yLsLcou4nkLSOkEsxVsr0uk9tw9DQL4MFkVXemYKMGRv7Gt7WZXszhRw2bGawECIndK-aC28l3hp7Y391ePZNrxFoD6loN-Hmc9K3ZCTtpjdLPi0q5t4dKRZxrfZN4oHG9WpOC6bt9j6YhlBC6inFmt32rr4saeEsVkmESB3wq-cb2a4woELXUKN4CbDM7Xiq1ySP00u-znSatlXdTGqiKxM4TTnDh2_ZvIWDPd7kPW5TFD5Ja7os6RZ8dtO8iVBVJugcBlvQAOcRvPimbBNcxEwh06S5LCCl2qyxgOfgswb7Xr9Ps0ieGu2LHo4-V03L6BR6YNcagleTuv0_EFf_DFywXqHEHSj8tno3_8GRom0QlCwKCa8Q_PKjSk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FURCHXicbZHLjqNGFIalPEPeojVK3bhUdk1D4WEM2FwKuzatMmDAFDaxoX1R3iHv4J6JNLOcjJRtXqPzNCFZZTG7o_P9-v9z-e1eNn_ucb-Vp82T9_5d0w_LxUBkUz2an_vjoRjzoSm-QQBMBHRsQAwpNUyomeBzLgepDlVT_EFNgDGZCNZMg5q6BujXupSFavZluN2WR_uQTzIdEIJNnWJdR8akxcT80nSyKv_D3yDRMMBkQmiKmMIMTF-PxekNLZ6eTRMRTMjUBgQBCg2i_7qIQvv5--zTL2N5vL79FGgPQqfgwZVds68e_MNQl8fNQR6Lh-7_NXo-qcNw-lT1_w76HcPXrim-aoZOdKRpECBMASDQfO1fhntdfRxHVf51r9R9PN1rdS_3vx9k_7LN__7hR-dwtp9O56dl2vfcjkCMIF52qpeg30Y7Ly1TgZYo4CWr-Txd4zgV53xV7IIugElaR4L1bsyia8joYq3EjWdqW2ZiltpRk9hrzefMnTzjsj2DGAy1RFE0z2js28IqXY353FplSrjxzsehU5FkdrguOyoih47LVlyKtJ7nnVZLpuac9TxKeCZTbx9nnvRZ7ySMBWvu8XDWH3mqzhvl3yLsLcou4nkLSOkEsxVsr0uk9tw9DQL4MFkVXemYKMGRv7Gt7WZXszhRw2bGawECIndK-aC28l3hp7Y391ePZNrxFoD6loN-Hmc9K3ZCTtpjdLPi0q5t4dKRZxrfZN4oHG9WpOC6bt9j6YhlBC6inFmt32rr4saeEsVkmESB3wq-cb2a4woELXUKN4CbDM7Xiq1ySP00u-znSatlXdTGqiKxM4TTnDh2_ZvIWDPd7kPW5TFD5Ja7os6RZ8dtO8iVBVJugcBlvQAOcRvPimbBNcxEwh06S5LCCl2qyxgOfgswb7Xr9Ps0ieGu2LHo4-V03L6BR6YNcagleTuv0_EFf_DFywXqHEHSj8tno3_8GRom0QlCwKCa8Q_PKjSk"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQWdXKJ2kieyKQMPtmGYAhv4599aOQI7r3j2KZcFDE8mw8vHlqfaWKDA_5YgHWTRJqyyaQdEPNjkBgf4SELMaHEsoON8zuJLzfUwRKK-OuKx9rkys-3X5Ap",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - NexGear",
+      "title": "Gigabyte Z690 AORUS MASTER Motherboard",
+      "rating": 3.8,
+      "reviews": 24,
+      "price": "$303.60",
+      "extracted_price": 303.6,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "9tOc9HicbZNNjqNGFMelnCG3aI1Sn4Bn1zbGbtpgU1DFx6aFAbswBaZtbGOUO-QO7plIk-VMpGxzjc5p4iSbSMnm6Um_p__H4v10K8rfGtxu0uN6Yj99KNvOW3UkLbePxpf2sM9PWVfm37CGAAaQIg1jrOGRpuEvWdqlar8t81-hATGhhGLdgJoxMjQN4q-ySHNVNsVysykO5j67q-jQwAa6DziiBjEoHGm_lHW6Lf7BUNeoBiCEBvnLBhk6fTvkx3e0mrzAkW6MIIF3d42MyMgw9B9XbGm-_D_7_HoqDtf3H1z6kGgj8DBL67LZPjj7ThaH9T495A_1v3f0clT77vh52_4d5L-Cb3WZf6W6RjSkAwLond8P9Lf23N3k9tPppIrfb1t1Ox1vUt2K5ud92p432R_ffT_dX8zJ8TLxeNsKkwE_shuOnCEBPcs4lMWMtvm0f16a4iIa6-gP-cWdWxcPS-pH6sSmqnOwXKW1nDDL2vgVXQRz3oXzbZ8M6iBEMvZF3juhjBIAABMcpsru0gquFkLExVSBaGBVijnym_HBRSzlppiLuSs4h2VStztn50GBlOQ70YczGnlh7jGRY1FRFuBxy6A9SaL94AX21UEGXA-KxMCGiZB9aDKZXQEK59NLrmKQzGScYSaL3dNlGSaXNbB3buTGayBtLtRc1BDwEDo-Z7MM5U4cilcWWgsfb6-ikTgJbJDPCGXAoQGCNFdPhIH2XPAnzObjJZu6CwHHryJwn9zG3QjeD15IiBu1tjOFQ8p7koTtsK66Z38C5brxSAw5iYXYxHUMY6GafCdFDDKSVhYTgW0LqI7rkGqeyrAf2Cs3YkFRMZPD3Ax94FuIDNkskRmyTb-qujQaAy7GwJ1ZbQKmZFbaYzZ3r_e-zLHca1q7g4AeXESqjAVLWQmhPwXXopF1Yqnxp_542LyDR4t2_pIGWbWQ_HTGz05y7qEmECTtyXvR28ePUL8_A0EI6COq_wkiFjTC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9tOc9HicbZNNjqNGFMelnCG3aI1Sn4Bn1zbGbtpgU1DFx6aFAbswBaZtbGOUO-QO7plIk-VMpGxzjc5p4iSbSMnm6Um_p__H4v10K8rfGtxu0uN6Yj99KNvOW3UkLbePxpf2sM9PWVfm37CGAAaQIg1jrOGRpuEvWdqlar8t81-hATGhhGLdgJoxMjQN4q-ySHNVNsVysykO5j67q-jQwAa6DziiBjEoHGm_lHW6Lf7BUNeoBiCEBvnLBhk6fTvkx3e0mrzAkW6MIIF3d42MyMgw9B9XbGm-_D_7_HoqDtf3H1z6kGgj8DBL67LZPjj7ThaH9T495A_1v3f0clT77vh52_4d5L-Cb3WZf6W6RjSkAwLond8P9Lf23N3k9tPppIrfb1t1Ox1vUt2K5ud92p432R_ffT_dX8zJ8TLxeNsKkwE_shuOnCEBPcs4lMWMtvm0f16a4iIa6-gP-cWdWxcPS-pH6sSmqnOwXKW1nDDL2vgVXQRz3oXzbZ8M6iBEMvZF3juhjBIAABMcpsru0gquFkLExVSBaGBVijnym_HBRSzlppiLuSs4h2VStztn50GBlOQ70YczGnlh7jGRY1FRFuBxy6A9SaL94AX21UEGXA-KxMCGiZB9aDKZXQEK59NLrmKQzGScYSaL3dNlGSaXNbB3buTGayBtLtRc1BDwEDo-Z7MM5U4cilcWWgsfb6-ikTgJbJDPCGXAoQGCNFdPhIH2XPAnzObjJZu6CwHHryJwn9zG3QjeD15IiBu1tjOFQ8p7koTtsK66Z38C5brxSAw5iYXYxHUMY6GafCdFDDKSVhYTgW0LqI7rkGqeyrAf2Cs3YkFRMZPD3Ax94FuIDNkskRmyTb-qujQaAy7GwJ1ZbQKmZFbaYzZ3r_e-zLHca1q7g4AeXESqjAVLWQmhPwXXopF1Yqnxp_542LyDR4t2_pIGWbWQ_HTGz05y7qEmECTtyXvR28ePUL8_A0EI6COq_wkiFjTC"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT8Bz4kGmynhW0b24MycO0gjkyu_D5XPapgHGWoCE2YLvzOIoyExIU3-csF6HQ9XVuYI-z15UbreieZSXKALpJL6vHoox3RZV1hzRG_gcuLNk_8JkNh0QLLYg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ-hkG5Z4o-hyxxLvk5ZuuCSr2uT1B4TQyKic-6Ppt3LckXVPGjFP-K2b6TqVlkx6c9gW3RT64u9mXJrZAsHr18mB-H-bcCPobxF6E",
+      "source": "neweggbusiness.com",
+      "title": "MSI MPG Z690 FORCE WIFI Motherboard",
+      "rating": 4.6,
+      "reviews": 48,
+      "price": "$491.69",
+      "extracted_price": 491.69,
+      "original_price": "Usually $503",
+      "extracted_original_price": 503,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "GkcoSnicdZNLjttGEIaBnCG3GBjpbr6zG4kPkTMkRbK7SfVmQLIpkeLTIvVE7pA7aOwA9tIJkG2uMT6NaXiTRYLaFPD9qMJfqP_3e1H93QnDNh2zpWO_q4YpWE9iWu0e1U_DoefHfKr4X1AQJQRFQdVUDSgqhIqCPuXplDb9ruJ_IgSQClRZlDQByLMYiF_KIuVN1RX-dlsc9D6fZTJQJAXISINQ0NBcUP5ctemu-IEFed4CVVFWFFmFmqpo8PXAxzdxvXyBiqrJAEIgKwKUVEmCQPltHfr6y__Aj--PxeH69osnPTBZAw9W2lbd7sHtp7I4ZH164A_tv3v0Mjb9NH7cDfl3v_8x8bWt-BdJkUUZqRqSZSTMfgT1dThN93L34Xhsin_uu-Z-HO9lcy-6P_p0OG3zrz_9bPRnfTmelwEZBqqHABu09E2OcjTI2JrQBttiHMMxJ-X7HBEUkF7yV0NEcOlhSmsMaBW05aWwtKcoadKoGbYZZBI2vCbSF36O3WuOmn1k8XWK6ROm7jWzAMSGgRgyQxo7IzbCvZv0k2eVl6zhZoS0IL15G2qUHieS4ALoElruN8gQWKsBbnFCW-9ckLJ258tEtaNTsoO4ta-uqblR0l_cjvsYletsCY1Ny56fKQdUYCiLtZbcFtdUpxYHm0tARMB1XsZ7WyCJhwlqSi-hKNLZyOLhFkLPIK12Tltoxw2tqVCLRde4xcxDIO25Gdqb2HMzAkdPdxDHLKCdKW2usKaWtiKmjThQzxyJMIM2pIkTMMwpXw0HnzQ-qeBEsbN3gZOSfX5NBSctLOeUg_oWW80p6JiNCRCKlRc_YzPkXbgM2ssyrNVbCJzJpyQykXjLLVbmyNGjup7SZAEIXQDPMgcGDNGqnEW48q5-zHBBnIGR8wXHzChMz4gpu232Jcpb1ic3DsLE6z5cxsP2DTya0hT5Es7r55IcT8KTy04XKNM5bMMxeFGGx1_nXxRlcY6YoknKN3TKNbI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GkcoSnicdZNLjttGEIaBnCG3GBjpbr6zG4kPkTMkRbK7SfVmQLIpkeLTIvVE7pA7aOwA9tIJkG2uMT6NaXiTRYLaFPD9qMJfqP_3e1H93QnDNh2zpWO_q4YpWE9iWu0e1U_DoefHfKr4X1AQJQRFQdVUDSgqhIqCPuXplDb9ruJ_IgSQClRZlDQByLMYiF_KIuVN1RX-dlsc9D6fZTJQJAXISINQ0NBcUP5ctemu-IEFed4CVVFWFFmFmqpo8PXAxzdxvXyBiqrJAEIgKwKUVEmCQPltHfr6y__Aj--PxeH69osnPTBZAw9W2lbd7sHtp7I4ZH164A_tv3v0Mjb9NH7cDfl3v_8x8bWt-BdJkUUZqRqSZSTMfgT1dThN93L34Xhsin_uu-Z-HO9lcy-6P_p0OG3zrz_9bPRnfTmelwEZBqqHABu09E2OcjTI2JrQBttiHMMxJ-X7HBEUkF7yV0NEcOlhSmsMaBW05aWwtKcoadKoGbYZZBI2vCbSF36O3WuOmn1k8XWK6ROm7jWzAMSGgRgyQxo7IzbCvZv0k2eVl6zhZoS0IL15G2qUHieS4ALoElruN8gQWKsBbnFCW-9ckLJ258tEtaNTsoO4ta-uqblR0l_cjvsYletsCY1Ny56fKQdUYCiLtZbcFtdUpxYHm0tARMB1XsZ7WyCJhwlqSi-hKNLZyOLhFkLPIK12Tltoxw2tqVCLRde4xcxDIO25Gdqb2HMzAkdPdxDHLKCdKW2usKaWtiKmjThQzxyJMIM2pIkTMMwpXw0HnzQ-qeBEsbN3gZOSfX5NBSctLOeUg_oWW80p6JiNCRCKlRc_YzPkXbgM2ssyrNVbCJzJpyQykXjLLVbmyNGjup7SZAEIXQDPMgcGDNGqnEW48q5-zHBBnIGR8wXHzChMz4gpu232Jcpb1ic3DsLE6z5cxsP2DTya0hT5Es7r55IcT8KTy04XKNM5bMMxeFGGx1_nXxRlcY6YoknKN3TKNbI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT-CLkRYt0mJoulg4weTlHRGzIQj0B95r5Xhb7CmviQHdF0zt2vGSBRR2XSQ0GvPUdhVLb8jrDpKJosVv4EDua8ELGSmnuQGOqhUUhhLIKL",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "source": "eBay",
+      "title": "ASUS ROG Strix Z690-E GAMING WIFI Motherboard",
+      "rating": 4.3,
+      "reviews": 288,
+      "price": "$89.08",
+      "extracted_price": 89.08,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "xTCkGXicbZHLjqNGGIWlPEPeohWlbtxm1zYGhjbYLlOFzaZVUBgwxaUNtttW3iHv4J6JNFlOImWb1-g8TTxZZTG7I52j__90zq-3vPqrxf1ODOnU__hT1Y-r5UhEVTyaX_pDJ4_ZWMk_ITIxJhYxDFMDGBETWOhLJkahuqKSfxgWMADRIbmHDAQ1bBlfy1xIVbX5YrfLD3aX3WNYN3QNIWxpOvmmLaT9XjWiyP-z70-IqSGCCcQYAt3ASLPeDnJ4R8vps2kRaAGAgAVNrEMDQ-OXJV3Yz9_3Pr8c88Pl_edQe0h0Czy4oqna4iHoxjI_pJ04yIfm_xo9D6obh89F_w30Owffmkp-1Qyd6EiDCGgYm9ad9a0_jbey-HQ8qvzvW6Fux-FWqlve_taJ_rTL_vnhx1l3tqfDebpifc9tCtaKuszp11HjdBHmL0kjy7QJCd1zIXl3jpiazjdSy4DcJ2CG09o5SDQGIU_iSE10ymAYeDWhTngQ9uQpi5OKg_4j41vCUVKLClzTlp6CDXe3DdzLfTGu7RIGNS_FXh3n3IcrVmsZ53DOyhfB6Y7Gak4ZJ1FttWvsT3KXoIBp3qohKKwhCjcyYRvupSq7MGQNi2iG43q4yNq8pk6JFh518xqcV6ivQoedt8Dfxp7S80ZdAzW7rlgYL7xSj1VxFrwMBKZRNLOW2zrEObO8eJaIuIHHwPFticJeqskiqOkp9JJV6oWXUPkjh36TNLBNOYXMpssAQYdey0iiDoSOv6HAEZyNPPWknrkAhU0S5WoyirgcA9wPQTO7pLOe8dqZi2ZGJAsFs_lT4LJXFpVt0N47sR09cpSSjq8zRY-ra4Gzmbl2ELlmblJmyLfXdT2KzQQwPgGh6_T3jYhb-RN651zEyTp1HJq42iDZa7tWSbx2Sk5BUkYXeKBtOBF2Mvn0Ohx27-DR0cb1Qouyel6y4wk_BcnpFeocQdIfV89G__gBGibRCULAsDTjX0aJNmo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xTCkGXicbZHLjqNGGIWlPEPeohWlbtxm1zYGhjbYLlOFzaZVUBgwxaUNtttW3iHv4J6JNFlOImWb1-g8TTxZZTG7I52j__90zq-3vPqrxf1ODOnU__hT1Y-r5UhEVTyaX_pDJ4_ZWMk_ITIxJhYxDFMDGBETWOhLJkahuqKSfxgWMADRIbmHDAQ1bBlfy1xIVbX5YrfLD3aX3WNYN3QNIWxpOvmmLaT9XjWiyP-z70-IqSGCCcQYAt3ASLPeDnJ4R8vps2kRaAGAgAVNrEMDQ-OXJV3Yz9_3Pr8c88Pl_edQe0h0Czy4oqna4iHoxjI_pJ04yIfm_xo9D6obh89F_w30Owffmkp-1Qyd6EiDCGgYm9ad9a0_jbey-HQ8qvzvW6Fux-FWqlve_taJ_rTL_vnhx1l3tqfDebpifc9tCtaKuszp11HjdBHmL0kjy7QJCd1zIXl3jpiazjdSy4DcJ2CG09o5SDQGIU_iSE10ymAYeDWhTngQ9uQpi5OKg_4j41vCUVKLClzTlp6CDXe3DdzLfTGu7RIGNS_FXh3n3IcrVmsZ53DOyhfB6Y7Gak4ZJ1FttWvsT3KXoIBp3qohKKwhCjcyYRvupSq7MGQNi2iG43q4yNq8pk6JFh518xqcV6ivQoedt8Dfxp7S80ZdAzW7rlgYL7xSj1VxFrwMBKZRNLOW2zrEObO8eJaIuIHHwPFticJeqskiqOkp9JJV6oWXUPkjh36TNLBNOYXMpssAQYdey0iiDoSOv6HAEZyNPPWknrkAhU0S5WoyirgcA9wPQTO7pLOe8dqZi2ZGJAsFs_lT4LJXFpVt0N47sR09cpSSjq8zRY-ra4Gzmbl2ELlmblJmyLfXdT2KzQQwPgGh6_T3jYhb-RN651zEyTp1HJq42iDZa7tWSbx2Sk5BUkYXeKBtOBF2Mvn0Ohx27-DR0cb1Qouyel6y4wk_BcnpFeocQdIfV89G__gBGibRCULAsDTjX0aJNmo"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ7ld-6rCH3G2Xdnj-VNKC-bwvfPNSvmXHZGwt8XGbwqfQg0oAtP8ieBymQA641EVz-mUjRegsfbPgcfodpoJ9w4TggRY436oe0cTUV-yoXGAqQjTfZbwJ9",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Yongrui electronic Commerce Co., Limited",
+      "title": "ASRock Z690 Phantom Gaming-ITX/TB4 Mini ITX Motherboard",
+      "rating": 4.6,
+      "reviews": 5,
+      "price": "$354.23",
+      "extracted_price": 354.23,
+      "immersive_product_page_token": "c5F1OnicdZPLjqNGGIWlPEPeojVKVXHPzhgKx93gpoDismmVKWwuBSYGfEF5h3kH98xIM8tJpGzzGp2niUezySLZ_dL59R0dHZ33t6L6s5P6HRu2y_Uv76p-9J9HmVX7hf65Px74lI8V_wNCIMtQV6FmSJpkyEBX1c85G5k47Cv-u2FAA0i6qiNJkQHSdU3_WhaMi6orNrtdcbQO-f1NRwjIhqQDDWoqRDpE0peqZfviuwyRZhiSJMvq3UtFUAfS65EPb_Lz8gXe6aoGdGAAWVMQQpqKfnsmG-vlf8SPv07F8fr2k6c8ZKoBHhzWVt3-wT2MZXHcHtiRP7T_vtHLIA7j8HHf59_y_gfxta34V0VTZRWphqFpOtKAhrTX_jTeyv2HaRLFX7e9uE3DrRS3ovt0YP1pl__9w4_24Wwth_PSj_qeWgQErfFc4PXMkecEFpeLVbl0E3OOawL4vI5YSHteZ5Q7eHLB6G8rOKXUJAzv563Am9wW5iYWOwZ7O7aI6jq4jRrxxB0xuNLimiKv5tB8LGJXSufFzITn0RWnnhWd_RlfCMQVt9YgbAyc2QTRjsQhNZG3BCMNyRyG5i6wseu3ympb84BLkZzB_uTDzOaRcSRICd0W19zyAQ29K4n352zmmMQHwGLPJZII0gBcsngAcSMCYisDpZlN756svdTJ7KUBEo6LFzLFwvGSkrnz2tnEtPdqsfaTtRrFZMohdp9i-UxBluZ1Cf24fwziCGzRIPkd9cO2x4yKlCV8FQFsBzZXnhJzE7U8IIl_3jrj0utw7IrSZthssrq5BndOEHMUdmTl0kxsETknsJFpLM6k407Q3DuAXhJCb-VTmhKHnNNGDzCS59zJyhytraBpRpaYIKIm8BzcZ8CWnWptkpV33cRZwOpy5C1105BeuZSVPHGvYatUhN4zQBu6HSEfLsNx9wYWWBmDjRLmzVMZTSfp0c1OF6hSBOV-8l-0fvEz1PT7Iu7T0QxF-wdokjaK",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=c5F1OnicdZPLjqNGGIWlPEPeojVKVXHPzhgKx93gpoDismmVKWwuBSYGfEF5h3kH98xIM8tJpGzzGp2niUezySLZ_dL59R0dHZ33t6L6s5P6HRu2y_Uv76p-9J9HmVX7hf65Px74lI8V_wNCIMtQV6FmSJpkyEBX1c85G5k47Cv-u2FAA0i6qiNJkQHSdU3_WhaMi6orNrtdcbQO-f1NRwjIhqQDDWoqRDpE0peqZfviuwyRZhiSJMvq3UtFUAfS65EPb_Lz8gXe6aoGdGAAWVMQQpqKfnsmG-vlf8SPv07F8fr2k6c8ZKoBHhzWVt3-wT2MZXHcHtiRP7T_vtHLIA7j8HHf59_y_gfxta34V0VTZRWphqFpOtKAhrTX_jTeyv2HaRLFX7e9uE3DrRS3ovt0YP1pl__9w4_24Wwth_PSj_qeWgQErfFc4PXMkecEFpeLVbl0E3OOawL4vI5YSHteZ5Q7eHLB6G8rOKXUJAzv563Am9wW5iYWOwZ7O7aI6jq4jRrxxB0xuNLimiKv5tB8LGJXSufFzITn0RWnnhWd_RlfCMQVt9YgbAyc2QTRjsQhNZG3BCMNyRyG5i6wseu3ympb84BLkZzB_uTDzOaRcSRICd0W19zyAQ29K4n352zmmMQHwGLPJZII0gBcsngAcSMCYisDpZlN756svdTJ7KUBEo6LFzLFwvGSkrnz2tnEtPdqsfaTtRrFZMohdp9i-UxBluZ1Cf24fwziCGzRIPkd9cO2x4yKlCV8FQFsBzZXnhJzE7U8IIl_3jrj0utw7IrSZthssrq5BndOEHMUdmTl0kxsETknsJFpLM6k407Q3DuAXhJCb-VTmhKHnNNGDzCS59zJyhytraBpRpaYIKIm8BzcZ8CWnWptkpV33cRZwOpy5C1105BeuZSVPHGvYatUhN4zQBu6HSEfLsNx9wYWWBmDjRLmzVMZTSfp0c1OF6hSBOV-8l-0fvEz1PT7Iu7T0QxF-wdokjaK"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQwBX-mu2EqJ0_IF3-yjT3bgyvhu2Rkh7GGxymjEj3VXjZPbPk-KSJyzXR8qZPRT_cGi5S7NMi51bWpHhwdf_YiLopiZEKDLUedhTEUCRpvZ2J3sMgFBrH8",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXAKb1zSy-dyl5tbM3r-rOKmBBNP8OYjKIUWi7PJi5s1YCKF0ACukNz2WxIbDMugwqqbzhuJVvWFr2oGI0ANbE58d5DDvGE5yZRKA",
+      "source": "Ascendtech",
+      "title": "Asrock Z690-C/D5 Motherboard",
+      "price": "$84.99",
+      "extracted_price": 84.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "DADelXicTZBLjttGFEWR9TSCVBWLP8_6UxTFblLmr4qqicGfSIpFsUxRFKVNZAuB2jZgD50AmWYbzmpC9yiTh4d7H-49eL_fyubvgyJ36TF7dNa_NnL03484bap746sc-uKUj03xJ0SKjnVT0xAGCoKKYYKveTqmoq9-ugpcDENDmgkMdRnI_F6XaSGaQ7nZ7crhqc-XMwMDCE0DKzqAhq4BpJvfmi6tyjf7L7g04DdZ01VFRZqKwOtQHP_4_PFUDpcfv3nqHV_C71Zp1xyqO7cf63LI-nQo7rr_7-jDUfTj8XMl31oN82eitjBDCAFaUF-7pviu6hrW0CIijAFeuPGrnMZbXX06nUT5z60St9PxVotbefjSp3La5f_-8kqG_PFxyh_8WEr6FIAwtsaIzZeSeYEbPSjBkz_mZJwiUF-pzRNm36OCWkMZeY3XmTISBfMscSm7eWKWtwvBfN520KcHx88QZPwqtDwJOn6tcbqyVoHNcXhwKGP1OdxbG1c4srTomK34vqBF6EJHstURuG2s8NiZM8qxH1uStuRCKVUCwqOoA3BDtgq3xSMnM9xS_hwmxRSyIM4YjbjtKQmMR5rINI2pzFfQi1sD-QfRBvsHh7WCe4AL13JgqsgNJ_3FU2pCWz4VNkE5geSFketLIjht4WVjCc9jc-AScuHIWker6hx2c1MwFyx_2YYR7zMqPmagP_vBOsn23pl31nXbes9hCGVuB0Fs-2DLxMGPqnTdWiRX1ioXAY4sj_C9YJR4qRuJII0czU-KU0yLXZBwm6_yT_Nx2P0A95Y6hhs1ytuXOj5NyrPLpxlqFEEsT_4HXd6_g7qBNYwQ0E1V_w9lAQc_",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=DADelXicTZBLjttGFEWR9TSCVBWLP8_6UxTFblLmr4qqicGfSIpFsUxRFKVNZAuB2jZgD50AmWYbzmpC9yiTh4d7H-49eL_fyubvgyJ36TF7dNa_NnL03484bap746sc-uKUj03xJ0SKjnVT0xAGCoKKYYKveTqmoq9-ugpcDENDmgkMdRnI_F6XaSGaQ7nZ7crhqc-XMwMDCE0DKzqAhq4BpJvfmi6tyjf7L7g04DdZ01VFRZqKwOtQHP_4_PFUDpcfv3nqHV_C71Zp1xyqO7cf63LI-nQo7rr_7-jDUfTj8XMl31oN82eitjBDCAFaUF-7pviu6hrW0CIijAFeuPGrnMZbXX06nUT5z60St9PxVotbefjSp3La5f_-8kqG_PFxyh_8WEr6FIAwtsaIzZeSeYEbPSjBkz_mZJwiUF-pzRNm36OCWkMZeY3XmTISBfMscSm7eWKWtwvBfN520KcHx88QZPwqtDwJOn6tcbqyVoHNcXhwKGP1OdxbG1c4srTomK34vqBF6EJHstURuG2s8NiZM8qxH1uStuRCKVUCwqOoA3BDtgq3xSMnM9xS_hwmxRSyIM4YjbjtKQmMR5rINI2pzFfQi1sD-QfRBvsHh7WCe4AL13JgqsgNJ_3FU2pCWz4VNkE5geSFketLIjht4WVjCc9jc-AScuHIWker6hx2c1MwFyx_2YYR7zMqPmagP_vBOsn23pl31nXbes9hCGVuB0Fs-2DLxMGPqnTdWiRX1ioXAY4sj_C9YJR4qRuJII0czU-KU0yLXZBwm6_yT_Nx2P0A95Y6hhs1ytuXOj5NyrPLpxlqFEEsT_4HXd6_g7qBNYwQ0E1V_w9lAQc_"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the Z690 good for gaming?",
+      "type": "ai_overview",
+      "page_token": "ofRXn3icHdBRToMwAADQeJl9SoFtxiWLsUJBFLBAC-PHQMtgo6zo6sr48y6eytOY-I7wvn_E4dT_3hSdUuN5Yxha69tWylY0t0wORnW-npjBKiHqivWb9d3afNizrXvW8ElqiMk4UicBqTU5PA-tsujsGrQrhoLLjoyAO1Rl3hQnNlqzXK9CGmFCeRK6U1C6ZhwjaDVFh6uZpiHhKLXbieWTfs3EUJt4bgT8YLnKiI_nyO-mCAknOglNTDkTa4TER1-7nob4GGrct6ARwXPlBqjpsap9HjOzMysbrbj9qLh3tngG3_AxeEldmSJrOTOv7JgVOGnfq6qAgFAIIg-NJXCX3iGAiR9d47xMeS9VQ6IOF8Ikw_2x9kRBQReTPCGxR7PGh8lizy5be_E_tn3fD2ozfsr2D1XoeGQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ofRXn3icHdBRToMwAADQeJl9SoFtxiWLsUJBFLBAC-PHQMtgo6zo6sr48y6eytOY-I7wvn_E4dT_3hSdUuN5Yxha69tWylY0t0wORnW-npjBKiHqivWb9d3afNizrXvW8ElqiMk4UicBqTU5PA-tsujsGrQrhoLLjoyAO1Rl3hQnNlqzXK9CGmFCeRK6U1C6ZhwjaDVFh6uZpiHhKLXbieWTfs3EUJt4bgT8YLnKiI_nyO-mCAknOglNTDkTa4TER1-7nob4GGrct6ARwXPlBqjpsap9HjOzMysbrbj9qLh3tngG3_AxeEldmSJrOTOv7JgVOGnfq6qAgFAIIg-NJXCX3iGAiR9d47xMeS9VQ6IOF8Ikw_2x9kRBQReTPCGxR7PGh8lizy5be_E_tn3fD2ozfsr2D1XoeGQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiSXMgdGhlIFo2OTAgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiR2hkcGN5QjZOamt3SUdkdmIyUWdabTl5SUdkaGJXbHVadyIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiSXMgdGhlIFo2OTAgZ29vZCBmb3IgZ2FtaW5nPyIsImxrIjoiR2hkcGN5QjZOamt3SUdkdmIyUWdabTl5SUdkaGJXbHVadyIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9"
+    },
+    {
+      "question": "What CPUs does the Z690 support?",
+      "type": "ai_overview",
+      "page_token": "jq2S-nicHdBdTsIwAADgeBkfhW2AQkKMc638SLGlP1tfTNcCnWu3KcPh3ryLp_I0Jn5H-L5_XFGVv1eftm2b02ww6Lru5ljXR7e_0bUfqNNXpQdaOZcrXc4mt5Pg_qDn4LyMH9-XMWZNwxMy3Dm4VqmOnqmVeQoREXcj_YQU5uSSJ-ZFRY2lCQrTIM6waCsFwVinUEpHKBc2wBVfU3HpaWIimaKUCYdwVfYZlb0C0zYbwpItyAEBOyKsbBngSCSwIR6dczAuSE866p3dL1aSQlTkgtSGmgtZrJacWsf8MeSCFxpON_vKel2ykIZG7j1fbqnb7eDDKIvsyaRmzN00BtacN1HssxQVeNisnoXrDITYJMQqYeJtXBeYkV6_Oc-CuDbDi-CwWXMwnsjQRrI0YCOQwFxu8oUNGL4-6M95dP3_OX89-HbWfNTHP2_hg2M",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jq2S-nicHdBdTsIwAADgeBkfhW2AQkKMc638SLGlP1tfTNcCnWu3KcPh3ryLp_I0Jn5H-L5_XFGVv1eftm2b02ww6Lru5ljXR7e_0bUfqNNXpQdaOZcrXc4mt5Pg_qDn4LyMH9-XMWZNwxMy3Dm4VqmOnqmVeQoREXcj_YQU5uSSJ-ZFRY2lCQrTIM6waCsFwVinUEpHKBc2wBVfU3HpaWIimaKUCYdwVfYZlb0C0zYbwpItyAEBOyKsbBngSCSwIR6dczAuSE866p3dL1aSQlTkgtSGmgtZrJacWsf8MeSCFxpON_vKel2ykIZG7j1fbqnb7eDDKIvsyaRmzN00BtacN1HssxQVeNisnoXrDITYJMQqYeJtXBeYkV6_Oc-CuDbDi-CwWXMwnsjQRrI0YCOQwFxu8oUNGL4-6M95dP3_OX89-HbWfNTHP2_hg2M",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiV2hhdCBDUFVzIGRvZXMgdGhlIFo2OTAgc3VwcG9ydD8iLCJsayI6IkdodDNhR0YwSUdOd2RYTWdaRzlsY3lCNk5qa3dJSE4xY0hCdmNuUSIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiV2hhdCBDUFVzIGRvZXMgdGhlIFo2OTAgc3VwcG9ydD8iLCJsayI6IkdodDNhR0YwSUdOd2RYTWdaRzlsY3lCNk5qa3dJSE4xY0hCdmNuUSIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9"
+    },
+    {
+      "question": "Can Z690 run 14th gen?",
+      "type": "ai_overview",
+      "page_token": "MJuIfXicHdBLToNAGADgeJkuy7OYNmlMKDNUUoZ0Bgb8N4YOLS0zPCwows67eCpPo_EC3-L7-la3Rv48ZNdh6PqNpo3juCzbtlTnpWhrLe-nRmgiV-qUC7lxHh3j6SK2qB_dXTu6x6TruEd1xgsnrIoVmBgnBo3JjCZScz9FILmF9yf5YiQ3wzlKYyzmcBaJ0FNPvfMqaAFRi0kAXndvfKZQmBT_OcO5KSyuuh1DBj820ogrfojrYCcs8kliuSpkaRf-s030NU79cjoj-CBoIEcJCW_IPpUQHdI1SzKYaYan0FMRrUAnddFnesuwac_Ch6swA49JOeSZqyfc1YmPO9CR7d8Cl-7JFKXA8kpM3II79fHMTGmDv44PvAtipFagrlHYqGZxER9ba_E_tn291MOmu7flLxmDeDI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MJuIfXicHdBLToNAGADgeJkuy7OYNmlMKDNUUoZ0Bgb8N4YOLS0zPCwows67eCpPo_EC3-L7-la3Rv48ZNdh6PqNpo3juCzbtlTnpWhrLe-nRmgiV-qUC7lxHh3j6SK2qB_dXTu6x6TruEd1xgsnrIoVmBgnBo3JjCZScz9FILmF9yf5YiQ3wzlKYyzmcBaJ0FNPvfMqaAFRi0kAXndvfKZQmBT_OcO5KSyuuh1DBj820ogrfojrYCcs8kliuSpkaRf-s030NU79cjoj-CBoIEcJCW_IPpUQHdI1SzKYaYan0FMRrUAnddFnesuwac_Ch6swA49JOeSZqyfc1YmPO9CR7d8Cl-7JFKXA8kpM3II79fHMTGmDv44PvAtipFagrlHYqGZxER9ba_E_tn291MOmu7flLxmDeDI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiQ2FuIFo2OTAgcnVuIDE0dGggZ2VuPyIsImxrIjoiR2hWallXNGdlalk1TUNCeWRXNGdNVFIwYUNCblpXNCIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiQ2FuIFo2OTAgcnVuIDE0dGggZ2VuPyIsImxrIjoiR2hWallXNGdlalk1TUNCeWRXNGdNVFIwYUNCblpXNCIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9"
+    },
+    {
+      "question": "Is the NZXT N5 Z690 motherboard compatible with a 5060 GPU?",
+      "type": "featured_snippet",
+      "snippet": "Z690 boards are fine with ANY Pci-e gpu. The question is...do you have PSU enough for the video card? 5060 shouldn't be a problem.",
+      "title": "Z690 and nvidia 5060 : r/buildapc - Reddit",
+      "date": "Aug 3, 2025",
+      "link": "https://www.reddit.com/r/buildapc/comments/1mgcz7x/z690_and_nvidia_5060/",
+      "displayed_link": "https://www.reddit.com › buildapc › comments › z690_a...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABaklEQVR4AYWTA4xeQRSFbxXbteKktm3GqRWXUW1EteOkDGubcbG2bVtn_y8vk91ZTnIy99175vrZsgOrPWiJjQjhlhZbQugWQEaHrSO_4-P7POgSE0KYboLTpQMttrDuHresHyRlJAaYbS1w3bteI_-cOkC7Vi9TtQTUuGelNL8tE1ezAAZ3k27VONO50cF3xvvXwJXhMMIUNCcwbBxLrUGUlw9U_PuLALK2TpaGBxznhLfmut1SXiQOdzfH47jpGE1pun3KI-bGxHH1qOMNb436SDmvtlEc6qR2UncHGR02DlzXTCMNaqq8e0HVkMP_SVuNkckdZHTY4MDlDW9dE5m1Uksr8Q5JFy5d0aGjxwAyOmwAblsT3RipJ-_GWUXkl-NIj58-l5kBZHTYBMdNgbfeImGoPrZLEX_D9C-zmAcAGR229o_v-6u8xPLaLxFz5wFARucWratVPoXBw3wP6LzIwF_lLtH779wKcMx4kN4XvzsAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiSXMgdGhlIE5aWFQgTjUgWjY5MCBtb3RoZXJib2FyZCBjb21wYXRpYmxlIHdpdGggYSA1MDYwIEdQVT8iLCJsayI6IkdqUnBjeUJ1ZW5oMElHNDFJSG8yT1RBZ2JXOTBhR1Z5WW05aGNtUWdZMjl0Y0dGMGFXSnNaU0IzYVhSb0lEVXdOakFnWjNCMSIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00wc3pTV3h3YjJ4WWNqaENWR0V5WkcxM1gzUkpNRjlHZVdkVU5VcHRPR1ZDUjBwdWRXeGphbkJSVUZSWlRtSm1hMTlJUjI4dFZqRjROa1U1YWpGd1lsUm1PR3h0VTFGbFRIVTFUVU50YmxkdWFuWlZSSEJwUWtsVlFSSVhiak53Wm1GellrTktTUzFwY0hSUlVIUTBZV2xuUVRnYUlrRkVjM0k1WmxOUFNVOTFRemxNTURZeWFFNHlVbkpmYW0xdlRtaGFNWEE0TkVFIiwiZmN2IjoiMyIsImVpIjoibjNwZmFzYkNKSS1pcHRRUHQ0YWlnQTgiLCJxYyI6ImMtUFN6ek5WcURLek5GQklUOHpOekV0WHlNMHZ5VWd0U3NwUExFcEJaUnZGRi1ma2x4UUxNTlEta2xLMkJ3QSIsInF1ZXN0aW9uIjoiSXMgdGhlIE5aWFQgTjUgWjY5MCBtb3RoZXJib2FyZCBjb21wYXRpYmxlIHdpdGggYSA1MDYwIEdQVT8iLCJsayI6IkdqUnBjeUJ1ZW5oMElHNDFJSG8yT1RBZ2JXOTBhR1Z5WW05aGNtUWdZMjl0Y0dGMGFXSnNaU0IzYVhSb0lEVXdOakFnWjNCMSIsImJzIjoiYzMyUHZRckNNQlNGY2MzazRsOVZPSTlRUzFzb0RrVTZpSXM0S0VxMzlNZTBZSk9RcGloNVpKX0NhaDFFeFBWLTU3djNIaEtRMmFhR0xuTEVmbUNEQ1pIaExCUVlyVXJPUW1kaWpjb2E1Z2NqSzRKalFUV2kzYUZHSnZLUE5YVWpwVkE2ZE9iVzlQck1wTEo1Wjh3SEp3c3lqQ2p2SE5Wd0xGeGRnT1U4ZEViV0lHMkotU2JrUnBidmg3ZnhhWS10MTltVmFFY3FFVlJsU0VVbHFTNlRTNDVyMldvVW51M2JXTzhPNGZpZU9MN2x0cFc0dVdsd3I3dnd6MzY1VERiOTNnTSIsImlkIjoiZmNfbjNwZmFzYkNKSS1pcHRRUHQ0YWlnQThfOCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "SVpIvnicxZbdkqo4EIDv9z2ONzMjiD8jU0WdSvAPHVTUcY7eUPwZEDBKcNBzt--yT7UvsyegKDjq1Nmqre0qSTp0Op2kP9o___Kclfv3H__YYbgmLwwTRVERYYw8q2hgn9HIfmUwC-yRwLC_255grQrIE7aksP8QygWDCGzBcoRVeb3QiC52pSdnHSrDsKI5CNQLyXRB1TViLan33ZIwKkMf7rdygypFUrRWRd4cWpYeDCweFTm2xBcHjOZTA_DfCgJO_EBAoor06bUIkPKVA9CMn-LZLnXTzJhFiQYh9ZhYiDf9oaRxmoA6HMJV1SYAtA-Dxr1Aunm1FU-RFBhvQhIPgV7Kta3BtFWy2lW58hIe_aZbr9xdKxZJyvuh6zbVZEjJryJlnSjx8CzpDhRgNSJgR6h3J1YRg0YbjRV07Zazsgb2MF1HByy9KMZENA9ZRg9oU2IcwzaSTkDi9BQnPIvbLRBInfc97q86fXOw3g2rZqMPN-1-iBjD0KmhhzXTMlVbZb8neokrPXPVWq3-mIBhkBMZJEfGm-fpg86rrODiaxGWMlig07FkJB4cXT3n9PSyE8Sjl8MZo2bS2aeZi1MziBU6-Tyx1ZBgBEDKZiVOtgb6nNLU9xUsEjmxIYMEiyQ48dAeHWXTAqHThEwidS7Wy0YAU_eiROFLx9o561zEIj0290SJnHel2M1D_sHx0WQAKznAgZLRxMMWFQRhfivSYQeVjF18MYjmsjKneheh09comSQdAzqtew4qjx-9AiS-Ne8Ce0vugXMUBNL8v0znHAdkXF28teSoNLSc-roeVPT2T2kw6ZD36HraY1__jYpg_O9gJPUCp_XiChj2F2Ak9QLdrhfHLIpSMBK7HhRvguEmbb5edC7qxTUwunkwbteLMxhxKPfBgPfAgLfAoJ_8T2AoN8BI60UGDPeiXsDTqcZDZzB-v15o_65eJJxYhyZfPLZLdLOINMN556m2cepRp9PrvrlPP6eovvmhup4ffV1EFn744mum96g65gvkuuHefFTpAH6xzMJG6Fcf5jWefWhrvrNCDzIObSvQsRaYD362z6nEwyEp-F6ABVarBWOtxs8dpMhO3WYX5EP2Q8WuTAiZ7reIx5Nt5Lp9Y7hSbBkHdQs687LC1hpTTyN8tbLrLqe6-xTY7x_q7of1oQ1ncILU3nSoz1pai-u2PO51u-ySkPf70-3rbDTrrmdjN-L2XJ2fyz1S5nagyXqjQJ7CAUriIsLzqLPsLbTRZkAjDQyBplUFgb4C3hE0gEhzRkT0h-kvopdTIIamWoT-V62ZXP1ZN3XdeC5VyqWCj8L9WuDZAlkFQukXFownCA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SVpIvnicxZbdkqo4EIDv9z2ONzMjiD8jU0WdSvAPHVTUcY7eUPwZEDBKcNBzt--yT7UvsyegKDjq1Nmqre0qSTp0Op2kP9o___Kclfv3H__YYbgmLwwTRVERYYw8q2hgn9HIfmUwC-yRwLC_255grQrIE7aksP8QygWDCGzBcoRVeb3QiC52pSdnHSrDsKI5CNQLyXRB1TViLan33ZIwKkMf7rdygypFUrRWRd4cWpYeDCweFTm2xBcHjOZTA_DfCgJO_EBAoor06bUIkPKVA9CMn-LZLnXTzJhFiQYh9ZhYiDf9oaRxmoA6HMJV1SYAtA-Dxr1Aunm1FU-RFBhvQhIPgV7Kta3BtFWy2lW58hIe_aZbr9xdKxZJyvuh6zbVZEjJryJlnSjx8CzpDhRgNSJgR6h3J1YRg0YbjRV07Zazsgb2MF1HByy9KMZENA9ZRg9oU2IcwzaSTkDi9BQnPIvbLRBInfc97q86fXOw3g2rZqMPN-1-iBjD0KmhhzXTMlVbZb8neokrPXPVWq3-mIBhkBMZJEfGm-fpg86rrODiaxGWMlig07FkJB4cXT3n9PSyE8Sjl8MZo2bS2aeZi1MziBU6-Tyx1ZBgBEDKZiVOtgb6nNLU9xUsEjmxIYMEiyQ48dAeHWXTAqHThEwidS7Wy0YAU_eiROFLx9o561zEIj0290SJnHel2M1D_sHx0WQAKznAgZLRxMMWFQRhfivSYQeVjF18MYjmsjKneheh09comSQdAzqtew4qjx-9AiS-Ne8Ce0vugXMUBNL8v0znHAdkXF28teSoNLSc-roeVPT2T2kw6ZD36HraY1__jYpg_O9gJPUCp_XiChj2F2Ak9QLdrhfHLIpSMBK7HhRvguEmbb5edC7qxTUwunkwbteLMxhxKPfBgPfAgLfAoJ_8T2AoN8BI60UGDPeiXsDTqcZDZzB-v15o_65eJJxYhyZfPLZLdLOINMN556m2cepRp9PrvrlPP6eovvmhup4ffV1EFn744mum96g65gvkuuHefFTpAH6xzMJG6Fcf5jWefWhrvrNCDzIObSvQsRaYD362z6nEwyEp-F6ABVarBWOtxs8dpMhO3WYX5EP2Q8WuTAiZ7reIx5Nt5Lp9Y7hSbBkHdQs687LC1hpTTyN8tbLrLqe6-xTY7x_q7of1oQ1ncILU3nSoz1pai-u2PO51u-ySkPf70-3rbDTrrmdjN-L2XJ2fyz1S5nagyXqjQJ7CAUriIsLzqLPsLbTRZkAjDQyBplUFgb4C3hE0gEhzRkT0h-kvopdTIIamWoT-V62ZXP1ZN3XdeC5VyqWCj8L9WuDZAlkFQukXFownCA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "N5 Z690 Specs",
+      "link": "https://support.nzxt.com/hc/en-us/articles/37682479388443-N5-Z690-Specs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fsupport.nzxt.com%2Fhc%2Fen-us%2Farticles%2F37682479388443-N5-Z690-Specs&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECCQQAQ",
+      "displayed_link": "https://support.nzxt.com › en-us › articles › 376824793...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEX________b3t7g5OX3-fkAJi8AAQgAHidab3OYpadsfYEAMTmKl5p_jZBEX2MAFSF0hYnx8_OqtbbK0dLDyssCNj0jSE4AOUAvT1Q_xLXbAAAAAXRSTlNYJVYBoAAAAKlJREFUeAHUz0UWw0AMA9AqiZ1hDN3_ogGXcV-trPcHTyd8zS8D_hKbPTK0-9C9IHHPMihmbl4Qmltc8o4w1nmJ-4AI0RxJZPM7dja9nH_BXHRFyxooXFF1yXccIlFUqDxULlBHG66Y47in19AxOuj-aDFfsNBR7QQYA0z2aFSecYZkfsYmSk2QJFkamwOlR2uJMiSZyNqY7l8pYfFion4JZdvgTCZ4swMAU0oLTjX58nAAAAAASUVORK5CYII.png",
+      "date": "Jun 9, 2025",
+      "snippet": "DIMM Slots 4 Wireless Support WiFi 6E, Only supported on PCIe Gen 3 x1 Slots. Max Memory Capacity 128 GB Memory",
+      "snippet_highlighted_words": [
+        "DIMM Slots 4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DIMM Slots 4 Wireless Support WiFi 6E, Only supported on PCIe Gen 3 x1 Slots. Max Memory Capacity 128 GB Memory",
+          "source_info_link": "https://support.nzxt.com/hc/en-us/articles/37682479388443-N5-Z690-Specs",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEX________b3t7g5OX3-fkAJi8AAQgAHidab3OYpadsfYEAMTmKl5p_jZBEX2MAFSF0hYnx8_OqtbbK0dLDyssCNj0jSE4AOUAvT1Q_xLXbAAAAAXRSTlNYJVYBoAAAAKlJREFUeAHUz0UWw0AMA9AqiZ1hDN3_ogGXcV-trPcHTyd8zS8D_hKbPTK0-9C9IHHPMihmbl4Qmltc8o4w1nmJ-4AI0RxJZPM7dja9nH_BXHRFyxooXFF1yXccIlFUqDxULlBHG66Y47in19AxOuj-aDFfsNBR7QQYA0z2aFSecYZkfsYmSk2QJFkamwOlR2uJMiSZyNqY7l8pYfFion4JZdvgTCZ4swMAU0oLTjX58nAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fsupport.nzxt.com%2Fhc%2Fen-us%2Farticles%2F37682479388443-N5-Z690-Specs&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.nzxt.com%2Fhc%2Fen-us%2Farticles%2F37682479388443-N5-Z690-Specs",
+      "source": "NZXT"
+    },
+    {
+      "position": 2,
+      "title": "NZXT N5 Z690 LGA 1700 (Intel 12th Gen) ATX ...",
+      "link": "https://www.newegg.com/nzxt-n5-z690-n5-z69xt-w1-atx-motherboards-intel-intel-z690-lga-1700/p/N82E16813206005?srsltid=AfmBOopIJMoWnCIKYX3VUmGNXyKqtq2salf4HCBEXG93pye8BvEg3OvG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fnzxt-n5-z690-n5-z69xt-w1-atx-motherboards-intel-intel-z690-lga-1700%2Fp%2FN82E16813206005%3Fsrsltid%3DAfmBOopIJMoWnCIKYX3VUmGNXyKqtq2salf4HCBEXG93pye8BvEg3OvG&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECB8QAQ",
+      "displayed_link": "https://www.newegg.com › nzxt-n5-z690-n5-z69xt-w1-...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "NZXT N5 Z690 LGA 1700 (Intel 12th Gen) ATX Intel Motherboard with Wi-Fi. OUT OF STOCK. Intel Motherboard $354.20. Dedicated LGA1700 mounting bracket is ...",
+      "snippet_highlighted_words": [
+        "N5 Z690",
+        "Motherboard",
+        "Motherboard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NZXT N5 Z690 LGA 1700 (Intel 12th Gen) ATX Intel Motherboard with Wi-Fi. OUT OF STOCK. Intel Motherboard $354.20. Dedicated LGA1700 mounting bracket is ...",
+          "source_info_link": "https://www.newegg.com/nzxt-n5-z690-n5-z69xt-w1-atx-motherboards-intel-intel-z690-lga-1700/p/N82E16813206005?srsltid=AfmBOopIJMoWnCIKYX3VUmGNXyKqtq2salf4HCBEXG93pye8BvEg3OvG",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fnzxt-n5-z690-n5-z69xt-w1-atx-motherboards-intel-intel-z690-lga-1700%2Fp%2FN82E16813206005%3Fsrsltid%3DAfmBOopIJMoWnCIKYX3VUmGNXyKqtq2salf4HCBEXG93pye8BvEg3OvG&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fnzxt-n5-z690-n5-z69xt-w1-atx-motherboards-intel-intel-z690-lga-1700%2Fp%2FN82E16813206005%3Fsrsltid%3DAfmBOopIJMoWnCIKYX3VUmGNXyKqtq2salf4HCBEXG93pye8BvEg3OvG",
+      "source": "Newegg"
+    },
+    {
+      "position": 3,
+      "title": "NZXT N5 Z690 Review",
+      "link": "https://www.kitguru.net/components/motherboard/leo-waldock/nzxt-n5-z690-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.kitguru.net%2Fcomponents%2Fmotherboard%2Fleo-waldock%2Fnzxt-n5-z690-review%2F&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECCEQAQ",
+      "displayed_link": "https://www.kitguru.net › Component › Motherboard",
+      "favicon": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/KszQrjOA0ZaWoWwDr4HY2jmiWU84GXJPCNt8LtQAhyU.jpeg",
+      "date": "Jun 6, 2022",
+      "snippet": "Four M.2 connectors. Slots: 3 x PCIe ×16 slots … 2 x PCIe Gen 3 ×1 slots Supports AMD Quad CrossFireX x M.2 Socket (Key E), supports Type 2230 ...",
+      "snippet_highlighted_words": [
+        "2 x PCIe Gen 3 ×1 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Four M.2 connectors. Slots: 3 x PCIe ×16 slots … 2 x PCIe Gen 3 ×1 slots Supports AMD Quad CrossFireX x M.2 Socket (Key E), supports Type 2230 ...",
+          "source_info_link": "https://www.kitguru.net/components/motherboard/leo-waldock/nzxt-n5-z690-review/",
+          "icon": "https://serpapi.com/searches/6a5f7a9fde1f33a0ab6e430c/images/KszQrjOA0ZaWoWwDr4HY2lfEdFA_2JmeoYSUFy5w8JGbAbpo-4GfWY60IZDs77cl.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.kitguru.net%2Fcomponents%2Fmotherboard%2Fleo-waldock%2Fnzxt-n5-z690-review%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kitguru.net%2Fcomponents%2Fmotherboard%2Fleo-waldock%2Fnzxt-n5-z690-review%2F",
+      "source": "KitGuru"
+    },
+    {
+      "position": 4,
+      "title": "NZXT N5 Z690 Motherboard (Black)",
+      "link": "https://www.bhphotovideo.com/c/product/1720780-REG/nzxt_n5_z69xt_b1_n5_z690_motherboard_black.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1720780-REG%2Fnzxt_n5_z69xt_b1_n5_z690_motherboard_black.html&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECCAQAQ",
+      "displayed_link": "https://www.bhphotovideo.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____15OP14uL89fX67-7EQT27BgC7CwDgqKbpvr23AADVgX_ALinIUk--JiC_Kybnubjsyci8EgjYjoy9Hhe8Fw7GSkfksbDy2Ni9ISS8Fh7VbDH_zkb_zz7fhDa7GSS9Hxn_1EjMUyzIRyvDOTXnljr5vELyr0C5BBXjjTP-yEXDOSjLYmXupj7RYS_omTvXbSLrnS7OTwDhrLDyzbL_4Zb83613_CScAAAA2ElEQVR4Ad2PhWEDMQwA_QwBPTOYQk4xtP9oVRgXaM7sM0jkv6Hp2gGcGjjVcTSPa8Syjzgu8Xzb9k1CBjgOD3I0hiN2EEYADso4gbF1kantAIyzlzLNSRFBWXnpaxlGZd20XQ-OhpLePxsBsJozgVdtm8KNxDl2TPSMl3DgVg6lTPrJdDrrcftBpgH-M18w1cMSpJTDW5m4pvmxUHz6WSv_Kc_Etqvmq18q9f0skV7VfV-z7l5mTnrgp10s2t92tZd2GsmDDPIj6812u1lvdgYhIS4D8k78ARh8F93FnTAXAAAAAElFTkSuQmCC.png",
+      "snippet": "Utilizing the Z690 chipset, you get access to an LGA 1700 socket, four dual-channel DDR4 RAM slots, four SATA III ports, and four M.2 interfaces.",
+      "snippet_highlighted_words": [
+        "four M.2 interfaces"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Utilizing the Z690 chipset, you get access to an LGA 1700 socket, four dual-channel DDR4 RAM slots, four SATA III ports, and four M.2 interfaces.",
+          "source_info_link": "https://www.bhphotovideo.com/c/product/1720780-REG/nzxt_n5_z69xt_b1_n5_z690_motherboard_black.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____15OP14uL89fX67-7EQT27BgC7CwDgqKbpvr23AADVgX_ALinIUk--JiC_Kybnubjsyci8EgjYjoy9Hhe8Fw7GSkfksbDy2Ni9ISS8Fh7VbDH_zkb_zz7fhDa7GSS9Hxn_1EjMUyzIRyvDOTXnljr5vELyr0C5BBXjjTP-yEXDOSjLYmXupj7RYS_omTvXbSLrnS7OTwDhrLDyzbL_4Zb83613_CScAAAA2ElEQVR4Ad2PhWEDMQwA_QwBPTOYQk4xtP9oVRgXaM7sM0jkv6Hp2gGcGjjVcTSPa8Syjzgu8Xzb9k1CBjgOD3I0hiN2EEYADso4gbF1kantAIyzlzLNSRFBWXnpaxlGZd20XQ-OhpLePxsBsJozgVdtm8KNxDl2TPSMl3DgVg6lTPrJdDrrcftBpgH-M18w1cMSpJTDW5m4pvmxUHz6WSv_Kc_Etqvmq18q9f0skV7VfV-z7l5mTnrgp10s2t92tZd2GsmDDPIj6812u1lvdgYhIS4D8k78ARh8F93FnTAXAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1720780-REG%2Fnzxt_n5_z69xt_b1_n5_z690_motherboard_black.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1720780-REG%2Fnzxt_n5_z69xt_b1_n5_z690_motherboard_black.html",
+      "source": "B&H Photo"
+    },
+    {
+      "position": 5,
+      "title": "NZXT N5 Z690 review: A solid Intel Alder Lake ...",
+      "link": "https://www.windowscentral.com/nzxt-n5-z690-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.windowscentral.com%2Fnzxt-n5-z690-review&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECCMQAQ",
+      "displayed_link": "https://www.windowscentral.com › nzxt-n5-z690-review",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEVHcEz_twL_uQH_uQHpMVHvO016AFd3AFZ1AFR6AFn_uQH_uQHxPUzzQEzxOk6BAF17AFjRJlaDAF50AFP_uALzQEyDAF52AFXtOU7dKVSDAF5-AFr_uQH_tQLyP0zKBlzPAF2AAFv5hS3VAV2lAF6CAF3-rgT_uQH3cjblK1SXAF78nhTzQUvSAF2DAF71Xj73bzaDAF7yQEzzQExLTNd_AAAANHRSTlMANcZrV8Zyzbo0_596__-x_wr_yuGx6eEx_1-kEP_b_-AQ2__ejv9a_____-7v1_-wfpERLdSlygAAAM9JREFUeAHV0NUBQkEMBdHB3d3dHfrvjWQvWsI7v7MaIiYWjyeQZCqVRNKZbM5a3hRwxVKpVC7iKlWTI553MaBWcuUakKt7bNAMsQm0SkELaNe9dijkgwTdkvS69Ot1rwOGiiPGapPJFEteZ2jraDQv68rJYrFUXGFCW5dksVhM6oLbWFpvtXFnca_WJ2iu1we148k2VkM7I7H1-qKYTC4WdcmBXF9tDMu9WgWQmlqp67ORGh_Fz2yohHbjx9FjDVPz1ubPfdx6EMwG5xVR9ARKUBawdvX5agAAAABJRU5ErkJggg.png",
+      "date": "Jun 1, 2022",
+      "snippet": "the N5 Z690 has an additional M.2 slot (four in total versus three with the N7 Z690), though it's limited to PCIe 3.0 speeds.",
+      "snippet_highlighted_words": [
+        "N5 Z690 has an additional M.2 slot"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0
+          },
+          "extensions": [
+            "4.0",
+            "Review by Rich Edmonds"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "the N5 Z690 has an additional M.2 slot (four in total versus three with the N7 Z690), though it's limited to PCIe 3.0 speeds.",
+          "source_info_link": "https://www.windowscentral.com/nzxt-n5-z690-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEVHcEz_twL_uQH_uQHpMVHvO016AFd3AFZ1AFR6AFn_uQH_uQHxPUzzQEzxOk6BAF17AFjRJlaDAF50AFP_uALzQEyDAF52AFXtOU7dKVSDAF5-AFr_uQH_tQLyP0zKBlzPAF2AAFv5hS3VAV2lAF6CAF3-rgT_uQH3cjblK1SXAF78nhTzQUvSAF2DAF71Xj73bzaDAF7yQEzzQExLTNd_AAAANHRSTlMANcZrV8Zyzbo0_596__-x_wr_yuGx6eEx_1-kEP_b_-AQ2__ejv9a_____-7v1_-wfpERLdSlygAAAM9JREFUeAHV0NUBQkEMBdHB3d3dHfrvjWQvWsI7v7MaIiYWjyeQZCqVRNKZbM5a3hRwxVKpVC7iKlWTI553MaBWcuUakKt7bNAMsQm0SkELaNe9dijkgwTdkvS69Ot1rwOGiiPGapPJFEteZ2jraDQv68rJYrFUXGFCW5dksVhM6oLbWFpvtXFnca_WJ2iu1we148k2VkM7I7H1-qKYTC4WdcmBXF9tDMu9WgWQmlqp67ORGh_Fz2yohHbjx9FjDVPz1ubPfdx6EMwG5xVR9ARKUBawdvX5agAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.windowscentral.com%2Fnzxt-n5-z690-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.windowscentral.com%2Fnzxt-n5-z690-review",
+      "source": "Windows Central"
+    },
+    {
+      "position": 6,
+      "title": "N5 Z690 Downloads",
+      "link": "https://support.nzxt.com/hc/en-us/articles/35838458235675-N5-Z690-Downloads",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fsupport.nzxt.com%2Fhc%2Fen-us%2Farticles%2F35838458235675-N5-Z690-Downloads&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECCUQAQ",
+      "displayed_link": "https://support.nzxt.com › en-us › articles › 358384582...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEX________b3t7g5OX3-fkAJi8AAQgAHidab3OYpadsfYEAMTmKl5p_jZBEX2MAFSF0hYnx8_OqtbbK0dLDyssCNj0jSE4AOUAvT1Q_xLXbAAAAAXRSTlNYJVYBoAAAAKlJREFUeAHUz0UWw0AMA9AqiZ1hDN3_ogGXcV-trPcHTyd8zS8D_hKbPTK0-9C9IHHPMihmbl4Qmltc8o4w1nmJ-4AI0RxJZPM7dja9nH_BXHRFyxooXFF1yXccIlFUqDxULlBHG66Y47in19AxOuj-aDFfsNBR7QQYA0z2aFSecYZkfsYmSk2QJFkamwOlR2uJMiSZyNqY7l8pYfFion4JZdvgTCZ4swMAU0oLTjX58nAAAAAASUVORK5CYII.png",
+      "date": "Aug 18, 2025",
+      "snippet": "N5 Z690 Downloads · Manuals & Documentation · Drivers & Software · BIOS Updates ...",
+      "snippet_highlighted_words": [
+        "N5 Z690 Downloads"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "N5 Z690 Downloads · Manuals & Documentation · Drivers & Software · BIOS Updates ...",
+          "source_info_link": "https://support.nzxt.com/hc/en-us/articles/35838458235675-N5-Z690-Downloads",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEX________b3t7g5OX3-fkAJi8AAQgAHidab3OYpadsfYEAMTmKl5p_jZBEX2MAFSF0hYnx8_OqtbbK0dLDyssCNj0jSE4AOUAvT1Q_xLXbAAAAAXRSTlNYJVYBoAAAAKlJREFUeAHUz0UWw0AMA9AqiZ1hDN3_ogGXcV-trPcHTyd8zS8D_hKbPTK0-9C9IHHPMihmbl4Qmltc8o4w1nmJ-4AI0RxJZPM7dja9nH_BXHRFyxooXFF1yXccIlFUqDxULlBHG66Y47in19AxOuj-aDFfsNBR7QQYA0z2aFSecYZkfsYmSk2QJFkamwOlR2uJMiSZyNqY7l8pYfFion4JZdvgTCZ4swMAU0oLTjX58nAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fsupport.nzxt.com%2Fhc%2Fen-us%2Farticles%2F35838458235675-N5-Z690-Downloads&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.nzxt.com%2Fhc%2Fen-us%2Farticles%2F35838458235675-N5-Z690-Downloads",
+      "source": "NZXT",
+      "read_more_link": "https://support.nzxt.com/hc/en-us/articles/35838458235675-N5-Z690-Downloads"
+    },
+    {
+      "position": 7,
+      "title": "NZXT N5 Z690 Review: Late to the Party, but Worth it?",
+      "link": "https://www.tomshardware.com/reviews/nzxt-n5-z690-review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fnzxt-n5-z690-review&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQFnoECCIQAQ",
+      "displayed_link": "https://www.tomshardware.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png",
+      "date": "Jul 12, 2022",
+      "snippet": "NZXT N5 Z690 offers four M.2 sockets, Wi-Fi 6E and more for under $240.",
+      "snippet_highlighted_words": [
+        "four M.2 sockets"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.0
+          },
+          "extensions": [
+            "3.0",
+            "Review by Joe Shields"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "NZXT N5 Z690 offers four M.2 sockets, Wi-Fi 6E and more for under $240.",
+          "source_info_link": "https://www.tomshardware.com/reviews/nzxt-n5-z690-review",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fnzxt-n5-z690-review&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fnzxt-n5-z690-review",
+      "source": "Tom's Hardware"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NZXT N5 Z690",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+N5+Z690&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+N5+Z690"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT N5 Z690 Motherboard manual",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+N5+Z690+Motherboard+manual&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+N5+Z690+Motherboard+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT N5 Z690 BIOS update",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+N5+Z690+BIOS+update&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+N5+Z690+BIOS+update"
+    },
+    {
+      "block_position": 1,
+      "query": "Nzxt n5 z690 review",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=Nzxt+n5+z690+review&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nzxt+n5+z690+review"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT N5 Z690 M 2 Slots",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+N5+Z690+M+2+Slots&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+N5+Z690+M+2+Slots"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT N7 Z690 manual",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+N7+Z690+manual&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+N7+Z690+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT N7 Z690 Motherboard",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+N7+Z690+Motherboard&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+N7+Z690+Motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT Z690",
+      "link": "https://www.google.com/search?sca_esv=36d287bdbbc71431&hl=en&gl=us&q=NZXT+Z690&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+Z690"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?hl=en&q=ram+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhQIARIDUkFNOgsIw53EARDSx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAF6BAgeEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?hl=en&q=cpu+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhQIARIDQ1BVOgsIw53EARDTx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAJ6BAgeEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?hl=en&q=usb+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhQIARIDVVNCOgsIna07EOjk9wEwAFiysSBgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAN6BAgeEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?hl=en&q=pci+express+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhsIARILUENJIEV4cHJlc3M6Cgjr5ywQ7-csMABYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAR6BAgeEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?hl=en&q=atx+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhMIARIDQVRYOgoIm58rEKDHKzACWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAV6BAgeEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots+sale&gl=us&shoprs=EgRKAhgBGAYqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhMIBhIHT24gc2FsZRgCIgRKAhgBWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAZ6BAgeEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots+sale"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GBIqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAd6BAgeEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "DDR4",
+      "link": "https://www.google.com/search?hl=en&q=ddr4+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhQIARIERERSNDoKCLDHKxD2hzUwAFiysSBgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAh6BAgeEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr4+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GBIqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAl6BAgeEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "128 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=128+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABgQBEAAAAAAABgQBgBKi9uNSB6NjkwIGdhbWluZyBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90czI8CAESDjEyOCBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAABgQBEAAAAAAABgQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAp6BAgeEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=128+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?hl=en&q=ethernet+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhgIARIIRXRoZXJuZXQ6CgidrTsQoK07MABYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAt6BAgeEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&q=4+memory+slots+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMh4IARIONCBNZW1vcnkgU2xvdHM6CgiVq0kQmKtJMABYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKAx6BAgeEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "2 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&q=2+memory+slots+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMh4IARIOMiBNZW1vcnkgU2xvdHM6CgiVq0kQl6tJMABYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKA16BAgeEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2+memory+slots+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "3 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=3+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAAAEQBEAAAAAAAAEQBgBKi9uNSB6NjkwIGdhbWluZyBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90czI6CAESDDMgR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAABEARAAAAAAAABEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKA56BAgeEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&q=hdmi+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhUIARIESERNSToLCJ2tOxCwmusBMABYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKA96BAgeEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1iysSBgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBB6BAgeEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "64 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=64+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABQQBEAAAAAAABQQBgBKi9uNSB6NjkwIGdhbWluZyBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90czI7CAESDTY0IEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAFBAEQAAAAAAAFBAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBF6BAgeEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "192 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=192+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABoQBEAAAAAAABoQBgBKi9uNSB6NjkwIGdhbWluZyBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90czI8CAESDjE5MiBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAABoQBEAAAAAAABoQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBJ6BAgeEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=192+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?hl=en&q=ddr+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhMIARIDRERSOgoIsMcrELHHKzAAWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBN6BAgeEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?hl=en&q=gray+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhYIARIER3JheToMCNiM9QEQ6or1ATALWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBR6BAgeEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Intel",
+      "link": "https://www.google.com/search?hl=en&q=intel+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhUIARIFSW50ZWw6CgiarTsQm607MAJYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBV6BAgeEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?hl=en&q=replacement+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GBIqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBZ6BAgeEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?hl=en&q=displayport+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GAEqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMhwIARILRGlzcGxheVBvcnQ6CwidrTsQsZrrATAAWLKxIGAB&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBd6BAgeEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=GBIqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBh6BAgeEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=n5+z690+gaming+motherboard+motherboard+m2_slots+for+sale&gl=us&shoprs=GBIqL241IHo2OTAgZ2FtaW5nIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yX3Nsb3RzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBl6BAgeEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=n5+z690+gaming+motherboard+motherboard+m2_slots+for+sale"
+    },
+    {
+      "query": "32 GB Max RAM",
+      "link": "https://www.google.com/search?hl=en&q=32+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots&gl=us&shoprs=EhoqGAjovz0SEgkAAAAAAABAQBEAAAAAAABAQBgBKi9uNSB6NjkwIGdhbWluZyBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMl9zbG90czI7CAESDTMyIEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAEBAEQAAAAAAAEBAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQip4GKBp6BAgeEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=32+gb+max+ram+n5+z690+gaming+motherboard+motherboard+m2_slots"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&sca_esv=36d287bdbbc71431&hl=en&gl=us&ei=n3pfasbCJI-iptQPt4aigA8&start=10&sa=N&sstk=AU9db-AN83NzyqokcBsmFJc_QgR-cu6q03fQXpWFDuyojkRHcK0hU2g17Rc_QCNx3jvDTZMCqJe0MQ1Hk24nKFMyTgCjtVQowDOM8A&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ8NMDegQIRxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&sca_esv=36d287bdbbc71431&hl=en&gl=us&ei=n3pfasbCJI-iptQPt4aigA8&start=10&sa=N&sstk=AU9db-AN83NzyqokcBsmFJc_QgR-cu6q03fQXpWFDuyojkRHcK0hU2g17Rc_QCNx3jvDTZMCqJe0MQ1Hk24nKFMyTgCjtVQowDOM8A&ved=2ahUKEwiGjtem9uOVAxUPkYkEHTeDCPAQ8tMDegQIRxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=N5+Z690+Gaming+Motherboard+motherboard+m2_slots&start=10"
+    }
+  }
+}

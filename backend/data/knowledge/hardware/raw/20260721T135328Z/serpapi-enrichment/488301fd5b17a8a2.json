@@ -1,0 +1,545 @@
+{
+  "search_metadata": {
+    "id": "6a5f7ac495e0b39d70e5e000",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dVERTZ3C6CHo4ofR-dXYxg/6a5f7ac495e0b39d70e5e000.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/dVERTZ3C6CHo4ofR-dXYxg/6a5f7ac495e0b39d70e5e000.json_with_pixel_position",
+    "created_at": "2026-07-21 13:57:24 UTC",
+    "processed_at": "2026-07-21 13:57:24 UTC",
+    "google_url": "https://www.google.com/search?q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&oq=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dVERTZ3C6CHo4ofR-dXYxg/6a5f7ac495e0b39d70e5e000.html",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Kit DDR4-3200 PC4-25600 ECC LRDIMM 8Rx4 Load Reduced Server Memory by NEMIX RAM memory cas_latency module_count voltage",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Kit DDR4-3200 PC4-25600 ECC LRDIMM 8Rx4 Load Reduced Server Memory by NEMIX RAM memory cas_latency module_count voltage",
+    "total_results": 352,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcROhq4HLAnqrilGegn7dQmlEs-P3zhh3l9f3jx2aB_jRDgs3ve8LHncWgt5-kbWYvO21BD3zWMFhgc7HWEXb3gLtjEKvwu_8NZ-x0Czm-jfNmI8rr1GtNrv",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSj-emL1DmOaGvaNDNM4wuzprsfe3GFb4wF5eri6so8HPcM5FbUHz5a481FoCvOe4MxYS4YEOqLQDvtS8hA1vkeTXtvFkc",
+      "source": "nemixram.com",
+      "title": "Kit DDR4-3200 PC4-25600 ECC LRDIMM 8Rx4 Load Reduced Server Memory by NEMIX RAM",
+      "price": "$2,573.49",
+      "extracted_price": 2573.49,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "x9MHN3icJZDLsptGEIYrz0OdqplhuGUnJBDiHJA0MNw2LjSDxFVgCQTSS_gVUjp2qpylnaps8xrO04Q4vez_7-7v70_PrPhrsrpjOrwQhylq1-93D3wrT3v8tbu0fGB9wb8rSMSaLGEZSYoIMUCy-pWlfVq3p1kVAVAVSZQB0LCiKbNF_JZnKa-Lc7Y9HrPLqmUF_xNKEGrzqAKRhqEogbn-KJr0lP3UvyMEsIoVRdU0TZJUpIny-4Vff_vyccgu9x_ja9ELqxXBLyICQNgt8QuS5puCsVwKb2S1cRxBJRMW3tqUCySb0TMueNnlll0EJ2vay1043AXXcDaRQBaO0PzfY-n1Q5322ZndhWYOXGcfWDuce-HW1v0M9-XU_aSDGAMwR9U0pMpQk5Dy3hT8m6TI_71FFtGMjYACpffu1j_z0-dhXvX381Q_h-szr5_Z-fc27W5H9s8v78aFLZc3pu9p1wUrArxQig8FHNwyQKSkEgd5G9f2qxMwTMwuSqvuGoQ896uaZobb8tpNfT8g-8Z2GYU7Qu0Nj_RXgmz_EG4QMc1oa9qOW5tjQvnkQFI5UZDyxo3CSJ-8KJ68lX11RJdGjwr4Zd4dSlPPKqPnoTN51n50H_EjhW7rRXZIaF7S0sAx1BxmcEgAHIgHrQDm8j4ieSK2Iqu6R1rANYV54vv66K-1OEWJ765Nlxj2SA02xn4gH0w-hdQ06INLLs3XcRlMQZmYxF_AbZA0fl3LjqXvPMqmCMaAlw6OEJdJJRUEJGFAJzFcT6NXxz2p7Tspc90nmygz8jFpTPgW2G78YJhZhFCrBbzpztTfp5vKNJi4kZLa3LFIf2yjuo5DU_cNEru0CwKgOR603SRwh-TMPk_Xy_EHWJhS721xhaOP-m0RWhbR-IiscdgfYXY8rs-LX6GiYhkjhCURwX8B6kUcdA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=x9MHN3icJZDLsptGEIYrz0OdqplhuGUnJBDiHJA0MNw2LjSDxFVgCQTSS_gVUjp2qpylnaps8xrO04Q4vez_7-7v70_PrPhrsrpjOrwQhylq1-93D3wrT3v8tbu0fGB9wb8rSMSaLGEZSYoIMUCy-pWlfVq3p1kVAVAVSZQB0LCiKbNF_JZnKa-Lc7Y9HrPLqmUF_xNKEGrzqAKRhqEogbn-KJr0lP3UvyMEsIoVRdU0TZJUpIny-4Vff_vyccgu9x_ja9ELqxXBLyICQNgt8QuS5puCsVwKb2S1cRxBJRMW3tqUCySb0TMueNnlll0EJ2vay1043AXXcDaRQBaO0PzfY-n1Q5322ZndhWYOXGcfWDuce-HW1v0M9-XU_aSDGAMwR9U0pMpQk5Dy3hT8m6TI_71FFtGMjYACpffu1j_z0-dhXvX381Q_h-szr5_Z-fc27W5H9s8v78aFLZc3pu9p1wUrArxQig8FHNwyQKSkEgd5G9f2qxMwTMwuSqvuGoQ896uaZobb8tpNfT8g-8Z2GYU7Qu0Nj_RXgmz_EG4QMc1oa9qOW5tjQvnkQFI5UZDyxo3CSJ-8KJ68lX11RJdGjwr4Zd4dSlPPKqPnoTN51n50H_EjhW7rRXZIaF7S0sAx1BxmcEgAHIgHrQDm8j4ieSK2Iqu6R1rANYV54vv66K-1OEWJ765Nlxj2SA02xn4gH0w-hdQ06INLLs3XcRlMQZmYxF_AbZA0fl3LjqXvPMqmCMaAlw6OEJdJJRUEJGFAJzFcT6NXxz2p7Tspc90nmygz8jFpTPgW2G78YJhZhFCrBbzpztTfp5vKNJi4kZLa3LFIf2yjuo5DU_cNEru0CwKgOR603SRwh-TMPk_Xy_EHWJhS721xhaOP-m0RWhbR-IiscdgfYXY8rs-LX6GiYhkjhCURwX8B6kUcdA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcS_w59BKBmpMuup9ssv4HPwy48TJ3bT66VUDvpGI5jvCRjA4GCSdQ9crC_3fVoJKhjEaP7TZV0XUUag3ORAoRMmCy7SlNDtZTzSrQuiNJOf6u89E-MlPXqT",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - NEMIX RAM",
+      "title": "NEMIX RAM 256GB DDR4 3200MHz Server Memory Kit",
+      "price": "$1,999.99",
+      "extracted_price": 1999.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "b86feHicLY_NjptIFIWV50EtUX-As3MM2NAGNwUUmE2LLsrGTWGIDbbhBbKcV4icZKRkGY0023mNzNMMmWRzde8550rf-eMuDn_fVu0u7x-ox3Wj7YKnEV9e9wH-2p6aoufdofgLQJ0Ymq4BomF1hg0DQfSV510um_1PGyNdI8gwiDoDaDoInn0vRV7Iw1FsdjtxMhv-fw5qSCNAx0QzIETaTCffDnW-F799MAMqnP4BgFjHOgQz9OlUnD9-ed-L0_Dj-njoFNOk-AFBVVWeFvgBEm3arMVCWVPT8TzFoDesrJu8UKiY6EWhhOJ0ESfFE3VzGpSXQfEtz0kVOveU-pfG8_OzzDtx5INST52leOZNf-yUSyO7ie7Lvp3wPn6qf4720t3L_ed-Sv1z38t7f76X8i6OfzZ5e9nxf998sN47i0XvvAvitmUmVUPpZgwViVeRm6jULlp6sJBz7CddkpjljgP3msXMZqObB3Vriboj1PQfeUJZMJa4gOQaxnYdLs_jS1o8hWlR-SuJOGRP67SlrGbQA_LKR4leUDswFSyzNCB-SofcsndR7bOsynwflZt1tAVZCLRwRRkzK1yYtpNLtw1rO_GYg5hFMp642IeMsCVA27EciqhCXPUtBuXApe8Wy4wlFljEahtkCxVksOwZK0CI9kN0AF1uxiiJLJxEBd2k7xiFNPRX5aMXsTJ79VMfdjQd_eoFqlhUcksjS42pkwqrvGa1DdbM9bcjx3xFabxq1KJuj3EU5E5lWxw5JJNuHMPzLTnS7TqOSfFqO6EdI1_N4gA1amxOPaT1-XY-7X6oc5t04YZkD9g15mG_cjeexGIcyv75WB93637-FugG1jCEmCAI_wPQ7Ajl",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=b86feHicLY_NjptIFIWV50EtUX-As3MM2NAGNwUUmE2LLsrGTWGIDbbhBbKcV4icZKRkGY0023mNzNMMmWRzde8550rf-eMuDn_fVu0u7x-ox3Wj7YKnEV9e9wH-2p6aoufdofgLQJ0Ymq4BomF1hg0DQfSV510um_1PGyNdI8gwiDoDaDoInn0vRV7Iw1FsdjtxMhv-fw5qSCNAx0QzIETaTCffDnW-F799MAMqnP4BgFjHOgQz9OlUnD9-ed-L0_Dj-njoFNOk-AFBVVWeFvgBEm3arMVCWVPT8TzFoDesrJu8UKiY6EWhhOJ0ESfFE3VzGpSXQfEtz0kVOveU-pfG8_OzzDtx5INST52leOZNf-yUSyO7ie7Lvp3wPn6qf4720t3L_ed-Sv1z38t7f76X8i6OfzZ5e9nxf998sN47i0XvvAvitmUmVUPpZgwViVeRm6jULlp6sJBz7CddkpjljgP3msXMZqObB3Vriboj1PQfeUJZMJa4gOQaxnYdLs_jS1o8hWlR-SuJOGRP67SlrGbQA_LKR4leUDswFSyzNCB-SofcsndR7bOsynwflZt1tAVZCLRwRRkzK1yYtpNLtw1rO_GYg5hFMp642IeMsCVA27EciqhCXPUtBuXApe8Wy4wlFljEahtkCxVksOwZK0CI9kN0AF1uxiiJLJxEBd2k7xiFNPRX5aMXsTJ79VMfdjQd_eoFqlhUcksjS42pkwqrvGa1DdbM9bcjx3xFabxq1KJuj3EU5E5lWxw5JJNuHMPzLTnS7TqOSfFqO6EdI1_N4gA1amxOPaT1-XY-7X6oc5t04YZkD9g15mG_cjeexGIcyv75WB93637-FugG1jCEmCAI_wPQ7Ajl"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTJaIBJMUz8cTi8KbJkNZmHoOT7jOPUKJ0oNI8SIPFT9hivAIype3ox7adeqdzUfuCjIKzU3oN6QE8BEUT43ltP9xfvCqy0mB1eYDIVCN5k4Y57fmxf1EkA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSj-emL1DmOaGvaNDNM4wuzprsfe3GFb4wF5eri6so8HPcM5FbUHz5a481FoCvOe4MxYS4YEOqLQDvtS8hA1vkeTXtvFkc",
+      "source": "nemixram.com",
+      "title": "NEMIX RAM 1TB DDR4 3200MHz ECC RDIMM",
+      "price": "$9,369.99",
+      "extracted_price": 9369.99,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "02HuzXicJZDdrqM2FIXV50FHso35610SIL8micGEcDNybJJwYn4OITmBl-grVDkzlaaX05F629eYPk3RdF9traW19O392zPL_37M6iO_vVAiLLtut5se319PW_y1bip5E20u_8IWQLoBHQxtC9o6AJb9VfCWq-qUy-9Qx9DUITBt3cCmY2IInG_njEuVl9n6eMwatxJDi2EZCA4-tE1kWbY11PyZF_yU_bS_QwtAHZoQ6qYJAYBIN_FHI6-_f3m7ZU33432Zt5rrUvyiIwC0zQS_IMMcNm8y0VbUnROi2fSBtVXFpUazgT2TWpg196zRSFZUTacdOi3wyDzR6Ihoxf-a4NdPirdZKTqtGC5W2SdR3cpWu1eqHei-nOqfeIYDrAHKcOzhCttG5oBX5PKbYZnYHEiQMyjDQPxR39vn-fT5NnT98zyp5-36PKtnVv5R8fp-FP_-8uE1YjK5i_GW1XXsUhAmfrmb7VsCF5sEtWUIZS1CSFJ9D2m8eJBp3ATueMUuMknLqpd-jaLp-U6nDo_8xWR7ocv9hQYEvBs83oND4fXk0naspEHgypTGzhufGl04gQbZwTEv2nE6Gy_XU7pkSN35BA75II882R1eCZR9AA4oNnbToD_M9ij2To-MXfodo_0epK_bPrhEiQSBki1P6JKUkghP6ENehf7iLWQwCXekF-U5oTtViIuvGHI2JKLzA1AmU84tSNJgFxHIVfwukpG-igni8UKFrC1SN65ToDaBn4ZbpgJRMkT8CkkGIwqAsWLpIpvifqunfQLPTDzmSead39PCh6t4Eex7gcWMUjargCzqkkVbPr_4A-HcSBW9BTlAHD3q9bQ2yKtqhy_XkQfdBMBx6Prr2PM-P67N8QcY-UYbrvHLes3wMcKscDOb5TwhF3DtupEYnX6Flo1NjBA2dKT_ByusG0c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=02HuzXicJZDdrqM2FIXV50FHso35610SIL8micGEcDNybJJwYn4OITmBl-grVDkzlaaX05F629eYPk3RdF9traW19O392zPL_37M6iO_vVAiLLtut5se319PW_y1bip5E20u_8IWQLoBHQxtC9o6AJb9VfCWq-qUy-9Qx9DUITBt3cCmY2IInG_njEuVl9n6eMwatxJDi2EZCA4-tE1kWbY11PyZF_yU_bS_QwtAHZoQ6qYJAYBIN_FHI6-_f3m7ZU33432Zt5rrUvyiIwC0zQS_IMMcNm8y0VbUnROi2fSBtVXFpUazgT2TWpg196zRSFZUTacdOi3wyDzR6Ihoxf-a4NdPirdZKTqtGC5W2SdR3cpWu1eqHei-nOqfeIYDrAHKcOzhCttG5oBX5PKbYZnYHEiQMyjDQPxR39vn-fT5NnT98zyp5-36PKtnVv5R8fp-FP_-8uE1YjK5i_GW1XXsUhAmfrmb7VsCF5sEtWUIZS1CSFJ9D2m8eJBp3ATueMUuMknLqpd-jaLp-U6nDo_8xWR7ocv9hQYEvBs83oND4fXk0naspEHgypTGzhufGl04gQbZwTEv2nE6Gy_XU7pkSN35BA75II882R1eCZR9AA4oNnbToD_M9ij2To-MXfodo_0epK_bPrhEiQSBki1P6JKUkghP6ENehf7iLWQwCXekF-U5oTtViIuvGHI2JKLzA1AmU84tSNJgFxHIVfwukpG-igni8UKFrC1SN65ToDaBn4ZbpgJRMkT8CkkGIwqAsWLpIpvifqunfQLPTDzmSead39PCh6t4Eex7gcWMUjargCzqkkVbPr_4A-HcSBW9BTlAHD3q9bQ2yKtqhy_XkQfdBMBx6Prr2PM-P67N8QcY-UYbrvHLes3wMcKscDOb5TwhF3DtupEYnX6Flo1NjBA2dKT_ByusG0c"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQi9rMZUk3sN5dhdwjNOoB6ihh-s5oT8p-ikjtsrU5PC9bp9hNnxE7DXDdphgHxj7SjfiQf2rngD3bfD3M4hbXB--4PRLNYWsez1W9O2O4XCY801sx_o1P-",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSj-emL1DmOaGvaNDNM4wuzprsfe3GFb4wF5eri6so8HPcM5FbUHz5a481FoCvOe4MxYS4YEOqLQDvtS8hA1vkeTXtvFkc",
+      "source": "nemixram.com",
+      "title": "DDR4-3200 PC4-25600 RDIMM ECC Registered Memory by NEMIX RAM",
+      "price": "$5,890.89",
+      "extracted_price": 5890.89,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "pygNs3icJZLNjts2FIXR5xEGoCjqrzuPJVl2LXlEkbKtTcAh6T9RP2PJtqyXyCsUnqRAskwCdNvXSJ-maru4Fwf3AAffAe7Hhzz-2YfNjl2ecMRtp-mSlwFdT_sEfWnOtbjw7ii-I2TqrmsA3bUsAznAst0vnHVM1fuj-KFD3bJMy7AtA9qW6doQud8Okgl1rORqt5Nnr-ZjigGRDczRBDZyLN1xAPx6LNle_mf_0G1o2gCarmnYhgsgsoD5fhbt75_fLvJ8_3n77dhpnofRkwEB0F6m6Ama1qj86VRbYm8eRZqDe6QtayY0LEd2KbRUnq_yrEWyrM937fWuxX4032h4Emnl_zfO2g-KdbLid60cGyv5gdeXqtOutepGus_75l96ywHOWHAkcwCwdOC66L08im-mbSELmmMrZ9yma9nvzbV7HPafLmPUX4-9elzax0E9ZPVHzZrrjv_9y7t_5tPplT8ntGkyD4NUL4y4FINcL1pSbHUOcbsOVRJnwTKauWzlCyZVM11tgpMMEpD6h7dsrVQMFpn08DKlDcKVwFS5ME0BohV-Y746paHYMX0RbcG8E9nzgYRqk1UxyOn2FhVqHB9kJPfZrA_G7DKfqSrJmiGeKY_CZNjoTYFJ3L4OQcsLHLPTpGNBfqe0RWIT9MKLc1L0jVCqSP2bwXxcYlWbmDZEkMMyDZ-nBPKBbBIkRs1onAhva7CM6vSEA1LR25rsTeJlCxpkPfGzKId9gdd5uCT5egvMgcx6woyDwalLeKqnW7goX3URRt4EJkDHNBNz3s830j_c8jLQl9ki3g4c8RBjGtZAlE1FScLmReBzY27mKhq475hitrCImhivRXBbVwGOTouXRD_cRIhnq5B_6tvz7ieYBGaXrtDTakXRjiBaetKhR7aJCtDe7xM-2f-q2w6yEITIHN_jH2YlHJA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pygNs3icJZLNjts2FIXR5xEGoCjqrzuPJVl2LXlEkbKtTcAh6T9RP2PJtqyXyCsUnqRAskwCdNvXSJ-maru4Fwf3AAffAe7Hhzz-2YfNjl2ecMRtp-mSlwFdT_sEfWnOtbjw7ii-I2TqrmsA3bUsAznAst0vnHVM1fuj-KFD3bJMy7AtA9qW6doQud8Okgl1rORqt5Nnr-ZjigGRDczRBDZyLN1xAPx6LNle_mf_0G1o2gCarmnYhgsgsoD5fhbt75_fLvJ8_3n77dhpnofRkwEB0F6m6Ama1qj86VRbYm8eRZqDe6QtayY0LEd2KbRUnq_yrEWyrM937fWuxX4032h4Emnl_zfO2g-KdbLid60cGyv5gdeXqtOutepGus_75l96ywHOWHAkcwCwdOC66L08im-mbSELmmMrZ9yma9nvzbV7HPafLmPUX4-9elzax0E9ZPVHzZrrjv_9y7t_5tPplT8ntGkyD4NUL4y4FINcL1pSbHUOcbsOVRJnwTKauWzlCyZVM11tgpMMEpD6h7dsrVQMFpn08DKlDcKVwFS5ME0BohV-Y746paHYMX0RbcG8E9nzgYRqk1UxyOn2FhVqHB9kJPfZrA_G7DKfqSrJmiGeKY_CZNjoTYFJ3L4OQcsLHLPTpGNBfqe0RWIT9MKLc1L0jVCqSP2bwXxcYlWbmDZEkMMyDZ-nBPKBbBIkRs1onAhva7CM6vSEA1LR25rsTeJlCxpkPfGzKId9gdd5uCT5egvMgcx6woyDwalLeKqnW7goX3URRt4EJkDHNBNz3s830j_c8jLQl9ki3g4c8RBjGtZAlE1FScLmReBzY27mKhq475hitrCImhivRXBbVwGOTouXRD_cRIhnq5B_6tvz7ieYBGaXrtDTakXRjiBaetKhR7aJCtDe7xM-2f-q2w6yEITIHN_jH2YlHJA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcT4nCDzFsKBHwq9M0NwviXqX8adqHrGYmgmpc1z3nxD0i5MiYsYLUt7qgaWqKVACnvxnZVaVEZ8t_sUDaBJ58kLUvEkUenO1n19x-vrwYA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSj-emL1DmOaGvaNDNM4wuzprsfe3GFb4wF5eri6so8HPcM5FbUHz5a481FoCvOe4MxYS4YEOqLQDvtS8hA1vkeTXtvFkc",
+      "source": "nemixram.com",
+      "title": "NEMIX RAM DDR4 3200MHZ PC4-25600 4Rx4 ECC LRDIMM Load Reduced Server Memory Kit",
+      "price": "$10,216.49",
+      "extracted_price": 10216.49,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "g1AnAXicLZLbrqM2GIXV50FbssHG0LsQTkkD2XGAkNyMHNuBbMxhCDnxEn2FKnum0vRyWqm3fY3p0zTt9G7pX0tL3y-tnx_y-Oct7A7s_EIjTqxuWL2O6PJWrNCXrm_FmQ9H8Qc0dAsRSADBBAAdY2KBL5wNTLXFvza0LUCArpsGQJgQCGzwtZRMqGMjl4eD7N2W_5-zDN0AGBrEJoZpmvC3Y80K-Z__u25jomMbEBshYmNALPu9F6dfPn88y_7-7frTcdBcl6IXQwdAe52iFx2bT-VNp9qCurMo0ix6Q9qiZUKj8gkvhbaW_UX2WiTrtr9r-7sWe9Es1-gk0urvN85OHxQbZMPvWv18WckPvD03g3Zp1fCE-1x03-mxDU0EdIAINrGOdMN8r4_iKyYmMnXLJNggCFkYmO_dZXiUxafzs-uvR6Ee59OjVA_Z_Nqy7nLgf__w7vV8Or1wZ5V2XeZSsE7m6_3GH2WurmnQQZZxI3orPbmJe5GJiAcqpxUMechvfCzLdaA-bhUHNI87ZhTG3i-A8PyAKnHINsV9W5fNyvDAPrhd93k83-fdIqtpJaZQFwFUNFXhJp9ABncldbMDG3czBq1xC-yRJfE2rsqKp-11m2x1Hs5gMgrF83TY-c6ZGRlNGrqhG7jmOXXoWLIk66J1zuEuccLtKFwRlAmFsbP0hk0abEe5wQav6Z0F3WrVUD0JhYqyeUd1v4pHJ2V-PIt8h62rm5OFXSyqchCZcpfBDiUqfvbtGE2ynud-Jdx5Jd_KtWyc10UW93STjQmd5dIrr7vah4tsHm9HjnhIaRq2QNRdkyYrNqt8jxszvFP0LQa3K8vmFYPqwtJ4zBKV8cTDaaMa6qF70vBPt1N_-AYmPh7WS_SyXKbokKC0dqWVHlkeVeB0v0_4pPgREguZSNcRfq77HzlcIEQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=g1AnAXicLZLbrqM2GIXV50FbssHG0LsQTkkD2XGAkNyMHNuBbMxhCDnxEn2FKnum0vRyWqm3fY3p0zTt9G7pX0tL3y-tnx_y-Oct7A7s_EIjTqxuWL2O6PJWrNCXrm_FmQ9H8Qc0dAsRSADBBAAdY2KBL5wNTLXFvza0LUCArpsGQJgQCGzwtZRMqGMjl4eD7N2W_5-zDN0AGBrEJoZpmvC3Y80K-Z__u25jomMbEBshYmNALPu9F6dfPn88y_7-7frTcdBcl6IXQwdAe52iFx2bT-VNp9qCurMo0ix6Q9qiZUKj8gkvhbaW_UX2WiTrtr9r-7sWe9Es1-gk0urvN85OHxQbZMPvWv18WckPvD03g3Zp1fCE-1x03-mxDU0EdIAINrGOdMN8r4_iKyYmMnXLJNggCFkYmO_dZXiUxafzs-uvR6Ee59OjVA_Z_Nqy7nLgf__w7vV8Or1wZ5V2XeZSsE7m6_3GH2WurmnQQZZxI3orPbmJe5GJiAcqpxUMechvfCzLdaA-bhUHNI87ZhTG3i-A8PyAKnHINsV9W5fNyvDAPrhd93k83-fdIqtpJaZQFwFUNFXhJp9ABncldbMDG3czBq1xC-yRJfE2rsqKp-11m2x1Hs5gMgrF83TY-c6ZGRlNGrqhG7jmOXXoWLIk66J1zuEuccLtKFwRlAmFsbP0hk0abEe5wQav6Z0F3WrVUD0JhYqyeUd1v4pHJ2V-PIt8h62rm5OFXSyqchCZcpfBDiUqfvbtGE2ynud-Jdx5Jd_KtWyc10UW93STjQmd5dIrr7vah4tsHm9HjnhIaRq2QNRdkyYrNqt8jxszvFP0LQa3K8vmFYPqwtJ4zBKV8cTDaaMa6qF70vBPt1N_-AYmPh7WS_SyXKbokKC0dqWVHlkeVeB0v0_4pPgREguZSNcRfq77HzlcIEQ"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "0v9C63icxVXdcqpIEH6AfY7lhqgoGiVV1KkBiWJERZOo54biZxxUcAyDIrk777JPtU-zA4qBRE2drdraroKZbnq6e2b64_v1l7fcrP_-46cbhlvyUKlEUVRGGCMPlm3sV0wSb-zKAnsksN0fyBN3hHE9EW4YgneBDZeOaLsB9iET70WesYnIMXApHrrbhbkrjTW72dqG-ui9vl8hvc6k4UTDMglc0WyHFakYFfpa_8m3qVImZbgpC84IQisYQgGVa1xVKA8rpk8dwH8rCCyTFwIqVdQvn2WA9O8CACV5yx9-WRgl5xalmiTRiKmHfDUeSoelAmjAkbRpuASAztFo3yqkV1QfkyWqLiWbUOVjoZ_l0takbNTz2kW58FE6xc22Xr-ZKxFVLcaheRUjNenFLGo-iJ6Y5-l0qAPYjoAboacbtcoYtDtooqNLt5yXLXBHWR4LcPSiKg6ifchVrIAO1crSdu10EpCkPeVngcOdRxCo3WmMB5vuwBluD6OG0x5Ib51BiCq2Rf08bDrQMVyD-5Hq1Vq1wQl8s3WX4sImZ2CQAjBePM8advuajsv9slTNoQKdTyUniXF88Zizw7uw4HTE6HhpcfYJZxMJ63Txx8LHtipFAGTQrCe91kZfO5rGvoCKVM7Q0ECKirQ4-TieAuW7AqHzglwfdT_ly1cgZeFllWIvs3UK3oWKZXps6zNItGIo3VWO7SdNTi5DqV7AN9Bzmnzcoo4kqbgV9biDes4vuRhEW1n_SfUeQuefUbpIPRV0zvtRVBF99AqQ_KLcxOs1uYWbkyCQtf-nbi6gYGc6swh0oMbpggJi3trMibPqz3hDv9z12Ld-gw_s_x0XKVvgjC0u4ML9BhcpW6DrbHFqoijDRer3JMlXcbFOxyJbdD-xxSVc9Iq4uM4WH7hISrmNC-kWLqRruKA__C-40K_gImOLHC7Wn9hCOp9qYvrAxe-zhfnv2CKFCTwORerYrdBVClFg037ZTif8mzYJeYKDV0XtaVjoP9nfU8jCDx980_HujKXzINV6YezcGdSAH6DDvIlPy5Btt8f1El_jOHYk10u1xj2dKbLM9sdtVdPY1vhQZ_s0AzuGzs6GDjuBwR4GrAZ9HMSsFbMDRVNn7BhorH-02SYxPDOEGztmfezsPGjYeLcJ2T32QhNBxvcCLHJm04m0fVUYG2_GtAY6I-Jr0lv8HgjwvrR4Hkf9pmUJ7rxbM1_MKH5-VeaNuIlXo9fFOF6XlA5fH1Zn75Pw0MdLcxD3Z3P5yTIOr-slMfk5nsaRNd-_LJ5RNHWeN725z3uuWy8d_K5mufv7CZx5kJcWgAy5bjRJqyJiaR63ItlYLA2FoSdFoFhl_MAWaY_WERjoYIokG8i0AWVEH0yfiN40Q2zTgGQv1hxhITSanGm1Gmbrnm4WhfFWFDiGbAKx-g98hEPo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0v9C63icxVXdcqpIEH6AfY7lhqgoGiVV1KkBiWJERZOo54biZxxUcAyDIrk777JPtU-zA4qBRE2drdraroKZbnq6e2b64_v1l7fcrP_-46cbhlvyUKlEUVRGGCMPlm3sV0wSb-zKAnsksN0fyBN3hHE9EW4YgneBDZeOaLsB9iET70WesYnIMXApHrrbhbkrjTW72dqG-ui9vl8hvc6k4UTDMglc0WyHFakYFfpa_8m3qVImZbgpC84IQisYQgGVa1xVKA8rpk8dwH8rCCyTFwIqVdQvn2WA9O8CACV5yx9-WRgl5xalmiTRiKmHfDUeSoelAmjAkbRpuASAztFo3yqkV1QfkyWqLiWbUOVjoZ_l0takbNTz2kW58FE6xc22Xr-ZKxFVLcaheRUjNenFLGo-iJ6Y5-l0qAPYjoAboacbtcoYtDtooqNLt5yXLXBHWR4LcPSiKg6ifchVrIAO1crSdu10EpCkPeVngcOdRxCo3WmMB5vuwBluD6OG0x5Ib51BiCq2Rf08bDrQMVyD-5Hq1Vq1wQl8s3WX4sImZ2CQAjBePM8advuajsv9slTNoQKdTyUniXF88Zizw7uw4HTE6HhpcfYJZxMJ63Txx8LHtipFAGTQrCe91kZfO5rGvoCKVM7Q0ECKirQ4-TieAuW7AqHzglwfdT_ly1cgZeFllWIvs3UK3oWKZXps6zNItGIo3VWO7SdNTi5DqV7AN9Bzmnzcoo4kqbgV9biDes4vuRhEW1n_SfUeQuefUbpIPRV0zvtRVBF99AqQ_KLcxOs1uYWbkyCQtf-nbi6gYGc6swh0oMbpggJi3trMibPqz3hDv9z12Ld-gw_s_x0XKVvgjC0u4ML9BhcpW6DrbHFqoijDRer3JMlXcbFOxyJbdD-xxSVc9Iq4uM4WH7hISrmNC-kWLqRruKA__C-40K_gImOLHC7Wn9hCOp9qYvrAxe-zhfnv2CKFCTwORerYrdBVClFg037ZTif8mzYJeYKDV0XtaVjoP9nfU8jCDx980_HujKXzINV6YezcGdSAH6DDvIlPy5Btt8f1El_jOHYk10u1xj2dKbLM9sdtVdPY1vhQZ_s0AzuGzs6GDjuBwR4GrAZ9HMSsFbMDRVNn7BhorH-02SYxPDOEGztmfezsPGjYeLcJ2T32QhNBxvcCLHJm04m0fVUYG2_GtAY6I-Jr0lv8HgjwvrR4Hkf9pmUJ7rxbM1_MKH5-VeaNuIlXo9fFOF6XlA5fH1Zn75Pw0MdLcxD3Z3P5yTIOr-slMfk5nsaRNd-_LJ5RNHWeN725z3uuWy8d_K5mufv7CZx5kJcWgAy5bjRJqyJiaR63ItlYLA2FoSdFoFhl_MAWaY_WERjoYIokG8i0AWVEH0yfiN40Q2zTgGQv1hxhITSanGm1Gmbrnm4WhfFWFDiGbAKx-g98hEPo"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NEMIX RAM 256GB (4X64GB) DDR4 3200MHZ PC4 ...",
+      "link": "https://www.amazon.com/NEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge/dp/B0BWK8FQHD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FNEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge%2Fdp%2FB0BWK8FQHD&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECBgQAQ",
+      "displayed_link": "https://www.amazon.com › NEMIX-RAM-DDR4-3200-P...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "EXACT-MATCH UPGRADE — 256GB (4X64GB) kit DDR4-3200 (PC4-25600), 4Rx4 ECC, 1.2V, CL22, 288-pin LRDIMM. · VERIFIED FITMENT — The 288-pin Load-Reduced (LRDIMM) form ...",
+      "snippet_highlighted_words": [
+        "kit DDR4",
+        "3200",
+        "PC4",
+        "25600",
+        "ECC",
+        "LRDIMM",
+        "Load",
+        "Reduced",
+        "LRDIMM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "EXACT-MATCH UPGRADE — 256GB (4X64GB) kit DDR4-3200 (PC4-25600), 4Rx4 ECC, 1.2V, CL22, 288-pin LRDIMM. · VERIFIED FITMENT — The 288-pin Load-Reduced (\nLRDIMM) form ...",
+          "source_info_link": "https://www.amazon.com/NEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge/dp/B0BWK8FQHD",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FNEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge%2Fdp%2FB0BWK8FQHD&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FNEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge%2Fdp%2FB0BWK8FQHD",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/NEMIX-RAM-DDR4-3200-PC4-25600-PowerEdge/dp/B0BWK8FQHD"
+    },
+    {
+      "position": 2,
+      "title": "NEMIX RAM 4TB (16 x 256GB) DDR4 3200MHz PC4- ...",
+      "link": "https://www.newegg.com/nemix-ram-4tb-16-x-256gb/p/1X5-003Z-01RH1?srsltid=AfmBOorudWJU7p6rX0wDR11Tyxc160vChyAHhOje0PF7Ie-l0VLyuX9i",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fnemix-ram-4tb-16-x-256gb%2Fp%2F1X5-003Z-01RH1%3Fsrsltid%3DAfmBOorudWJU7p6rX0wDR11Tyxc160vChyAHhOje0PF7Ie-l0VLyuX9i&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECCIQAQ",
+      "displayed_link": "https://www.newegg.com › ... › NEMIX RAM",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Buy NEMIX RAM 4TB (16 x 256GB) DDR4 3200MHz PC4-25600 8Rx4 1.2V 288-PIN ECC LRDIMM Load Reduced Server Memory Kit with fast shipping and top-rated customer",
+      "snippet_highlighted_words": [
+        "DDR4 3200MHz PC4-25600 8Rx4 1.2V 288-PIN ECC LRDIMM Load Reduced Server Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy NEMIX RAM 4TB (16 x 256GB) DDR4 3200MHz PC4-25600 8Rx4 1.2V 288-PIN ECC LRDIMM Load Reduced Server Memory Kit with fast shipping and top-rated customer",
+          "source_info_link": "https://www.newegg.com/nemix-ram-4tb-16-x-256gb/p/1X5-003Z-01RH1?srsltid=AfmBOorudWJU7p6rX0wDR11Tyxc160vChyAHhOje0PF7Ie-l0VLyuX9i",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fnemix-ram-4tb-16-x-256gb%2Fp%2F1X5-003Z-01RH1%3Fsrsltid%3DAfmBOorudWJU7p6rX0wDR11Tyxc160vChyAHhOje0PF7Ie-l0VLyuX9i&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fnemix-ram-4tb-16-x-256gb%2Fp%2F1X5-003Z-01RH1%3Fsrsltid%3DAfmBOorudWJU7p6rX0wDR11Tyxc160vChyAHhOje0PF7Ie-l0VLyuX9i",
+      "source": "Newegg"
+    },
+    {
+      "position": 3,
+      "title": "RDIMM DDR4-3200 PC4-25600",
+      "link": "https://nemixram.com/collections/ddr4-3200-pc4-25600?srsltid=AfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnemixram.com%2Fcollections%2Fddr4-3200-pc4-25600%3Fsrsltid%3DAfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECB8QAQ",
+      "displayed_link": "https://nemixram.com › collections › ddr4-3200-pc4-2...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcExflUNYkTlglUNflUJglkNflURglkRhlkRglUNglkJhlkRdlD9XlC1-sTqvzYu0zph7rTuVvmF1qjPu8-fD2aqAsj2pxpD7_PmfwnW70qfg6tZkoBfY5c11pVFroTvo7-Kvypp7qlOIsGdjmjJhmy_K2sCRs390oV2IrnZbkzxelEARxKQyAAAALHRSTlMApjSJZg10myC9y7Rd_5SPoqmQ_______________l_______j_P_IzcdJT4F4SCcAAADtSURBVHgB3cnVoQIxFADRidsly24BfKL9l_TcXXHtgYnncF4pjcEq5bwHrTAEot9jyiSUg5BBJQpii9tjESkEZVBioy9rJHv2JUoiOFCkwPpFVOmEukfwFoVfO-uF-D3WpunX2rZ1vdeuX9vaNk0FNOCcdz46l2KJ64pb38XsERYBw9wqO58z1_P1jd4eReoi_M4bzJ-Adk36rfg9ej7Vv8j30rtvIX99hw7YI8RXhfdik32E-vv7f8LlO9TvOVdXV_MOrjtzB5fsUqOcxpPBIOc8GY_HeTxOeWL2mKazqYgVO5tNZ9vL-kNxVq0ALHgrMOhlQp4AAAAASUVORK5CYII.png",
+      "snippet": "4TB (16X256GB). Voltage. 1.2V. Add to cart. DDR4 3200MHZ PC4-25600 RDIMM 8RX4. Regular price $1,888 $1,888. DDR4 3200MHZ PC4-25600 RDIMM 2S2RX4. Select options.",
+      "snippet_highlighted_words": [
+        "DDR4 3200MHZ PC4-25600 RDIMM 8RX4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "4TB (16X256GB). Voltage. 1.2V. Add to cart. DDR4 3200MHZ PC4-25600 RDIMM 8RX4. Regular price $1,888 $1,888. DDR4 3200MHZ PC4-25600 RDIMM 2S2RX4. Select options.",
+          "source_info_link": "https://nemixram.com/collections/ddr4-3200-pc4-25600?srsltid=AfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcExflUNYkTlglUNflUJglkNflURglkRhlkRglUNglkJhlkRdlD9XlC1-sTqvzYu0zph7rTuVvmF1qjPu8-fD2aqAsj2pxpD7_PmfwnW70qfg6tZkoBfY5c11pVFroTvo7-Kvypp7qlOIsGdjmjJhmy_K2sCRs390oV2IrnZbkzxelEARxKQyAAAALHRSTlMApjSJZg10myC9y7Rd_5SPoqmQ_______________l_______j_P_IzcdJT4F4SCcAAADtSURBVHgB3cnVoQIxFADRidsly24BfKL9l_TcXXHtgYnncF4pjcEq5bwHrTAEot9jyiSUg5BBJQpii9tjESkEZVBioy9rJHv2JUoiOFCkwPpFVOmEukfwFoVfO-uF-D3WpunX2rZ1vdeuX9vaNk0FNOCcdz46l2KJ64pb38XsERYBw9wqO58z1_P1jd4eReoi_M4bzJ-Adk36rfg9ej7Vv8j30rtvIX99hw7YI8RXhfdik32E-vv7f8LlO9TvOVdXV_MOrjtzB5fsUqOcxpPBIOc8GY_HeTxOeWL2mKazqYgVO5tNZ9vL-kNxVq0ALHgrMOhlQp4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnemixram.com%2Fcollections%2Fddr4-3200-pc4-25600%3Fsrsltid%3DAfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnemixram.com%2Fcollections%2Fddr4-3200-pc4-25600%3Fsrsltid%3DAfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA",
+      "source": "nemix ram",
+      "read_more_link": "https://nemixram.com/collections/ddr4-3200-pc4-25600?srsltid=AfmBOopWH98cyu2VH4qyZJmKpWAjvmTyVsURZ-KTR8rZtBfAK5YlF5WA"
+    },
+    {
+      "position": 4,
+      "title": "Install NEMIX RAM 32GB DDR4 3200 ECC RDIMM | Dell ...",
+      "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4",
+      "displayed_link": "180+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7ac495e0b39d70e5e000/images/L-EdDP5faTacjiWxlnReq-rc7T-X4AFScqNxUZeYyfI.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "NEMIX RAM Part Number: MR25600-324 · Capacity: 32GB · Type: DDR4 ECC RDIMM · Speed: 3200MHz (PC4-25600) · Rank: 2Rx4 · Voltage: 1.2V.",
+      "duration": "2:32",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro: NEMIX RAM MR25600-324 Module",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOVNqDMK3y9h4BgyK2JvKVJ2Jk9PAJAweB2C9OkPRpjw&s="
+        },
+        {
+          "time": "00:26",
+          "title": "Dell Server Compatibility Showcase",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=26",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyFEdzH0LNUYpO1v_thA49MJxXEZfyEQjfg5fAk-shLA&s="
+        },
+        {
+          "time": "00:45",
+          "title": "Other Compatible Dell & EMC Models",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=45",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNIr0HaDrYA0xj739qi44rbUDIEVwOWho3LYljOPV5OA&s="
+        },
+        {
+          "time": "01:14",
+          "title": "Highlight Compatible OEM Modules",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=74",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHWY8gC1JtXs-8hxiOzWKQHYQ0hh4jv6kAgn_tz-44Kw&s="
+        },
+        {
+          "time": "01:37",
+          "title": "ASRock Motherboard Compatibility",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=97",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsu4OkhQ0VRwCrGtfdPStO36vJhzgPjcHQczEz1lCQmg&s="
+        },
+        {
+          "time": "01:53",
+          "title": "Memory Installation Tutorial",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=113",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7I-tui3RjNE5sweZ2oizo8xhSPyrShSqAZNdc-8gCCg&s="
+        },
+        {
+          "time": "02:10",
+          "title": "Conclusion & Where to Buy",
+          "link": "https://www.youtube.com/watch?v=ZfEU-N3YRU4&t=130",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGXu8hd07nmhRLbs3Jro7q7eSEiePqNRnjJsBT9VjLDw&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NEMIX RAM Part Number: MR25600-324 · Capacity: 32GB · Type: DDR4 ECC RDIMM · Speed: 3200MHz (PC4-25600) · Rank: 2Rx4 · Voltage: 1.2V.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZfEU-N3YRU4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZfEU-N3YRU4",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQFMQucEdpAmL9nfJBR16VFTVF7a0DYHKbN0w",
+      "source": "YouTube · NEMIX RAM"
+    },
+    {
+      "position": 5,
+      "title": "NEMIX RAM 2TB (8X256GB) DDR4 3200MHZ PC4-25600 ...",
+      "link": "https://www.neweggbusiness.com/product/product.aspx?item=9b-2sj-000n-004b3&srsltid=AfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.neweggbusiness.com%2Fproduct%2Fproduct.aspx%3Fitem%3D9b-2sj-000n-004b3%26srsltid%3DAfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECB4QAQ",
+      "displayed_link": "https://www.neweggbusiness.com › product › product",
+      "favicon": "https://serpapi.com/searches/6a5f7ac495e0b39d70e5e000/images/L-EdDP5faTacjiWxlnReqyUScGR16POjHzqRL6oy86c.png",
+      "snippet": "NEMIX RAM 2TB (8X256GB) DDR4 3200MHZ PC4-25600 8Rx4 1.2V CL22 288-PIN ECC LRDIMM Load Reduced Server Memory KIT Compatible with ASRock Rack ROMED8-2T AMD EPYC ...",
+      "snippet_highlighted_words": [
+        "NEMIX RAM",
+        "DDR4 3200MHZ PC4",
+        "25600 8Rx4",
+        "ECC LRDIMM Load Reduced Server Memory KIT"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NEMIX RAM 2TB (8X256GB) DDR4 3200MHZ PC4-25600 8Rx4 1.2V CL22 288-PIN ECC LRDIMM Load Reduced Server Memory KIT Compatible with ASRock Rack ROMED8-2T AMD EPYC ...",
+          "source_info_link": "https://www.neweggbusiness.com/product/product.aspx?item=9b-2sj-000n-004b3&srsltid=AfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk",
+          "icon": "https://serpapi.com/searches/6a5f7ac495e0b39d70e5e000/images/L-EdDP5faTacjiWxlnReqxn0c_vMxBLa85MxbAf8MkyvKDVVDEW9S6CdY90sC61F.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.neweggbusiness.com%2Fproduct%2Fproduct.aspx%3Fitem%3D9b-2sj-000n-004b3&srsltid=AfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.neweggbusiness.com%2Fproduct%2Fproduct.aspx%3Fitem%3D9b-2sj-000n-004b3%26srsltid%3DAfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk",
+      "source": "Newegg Business",
+      "read_more_link": "https://www.neweggbusiness.com/product/product.aspx?item=9b-2sj-000n-004b3&srsltid=AfmBOorAQTPlPm3IwWy3fcrk2Tj45GCf513zK6gGMNtd35sz_HcMJiAk"
+    },
+    {
+      "position": 6,
+      "title": "Price history for NEMIX RAM 256GB (8X32GB) DDR4 ...",
+      "link": "https://pangoly.com/en/price-history/d4e9b330-0cc5-4adf-c47c-08dd6ba34a3d",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fpangoly.com%2Fen%2Fprice-history%2Fd4e9b330-0cc5-4adf-c47c-08dd6ba34a3d&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECCMQAQ",
+      "displayed_link": "https://pangoly.com › price-history",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEz_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_XwuTPWllAAAAEnRSTlMAsKFyIEHd_ZPA7BFgMQeEzlLIiVeNAAABVUlEQVR4AW3PBZZAIQhA0WeBYKD73-ycP13XbuGHlEvlP63kJNrNCz-NaZ5KW7Xp2F3bz1Oi9nZh1cqQJJtPIbWW4yJC1dtI7p-rlnl3nZUtMa_wxjowam2emQKEbHrw6BlAzvGsEAE09ekDaIfduggQDW4HODnNDGgWSXPwLgntlFk2Ctd8AER-MDxdr358kRqUAmC53dty0BNCGUPrDDgVsOCBAkkLmyU1gQIWUztrEsGyeoydTzNwsE7qB80Mte1QHKIbQzhHQUcJ3zf5tgtXR2iimgV9Yq51OTEZeqGq6n1qqDLAKlcXsNMTeFlQ5xmQdT7HqUfitmneePNMUg9VAGrJORbAW3UA5JKCT1SpPKQOkDM5afOmJS08aKdkji-YcnpEPp7T4V3SE-w9l8maZbZBCJ8My6DJ7QIrvPNDl51uCcaaR_Pmp-YiJiIWi3-U4KcX03IORgqe5msAAAAASUVORK5CYII.png",
+      "snippet": "NEMIX RAM 256GB (8X32GB) DDR4 3200MHZ PC4-25600 2Rx4 1.2V. Server Memory KIT Compatible with ASRock Rack. In Stock In Stock $2,990.49 - Buy",
+      "snippet_highlighted_words": [
+        "NEMIX RAM 256GB (8X32GB) DDR4 3200MHZ PC4-25600 2Rx4 1.2V"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NEMIX RAM 256GB (8X32GB) DDR4 3200MHZ PC4-25600 2Rx4 1.2V. Server Memory KIT Compatible with ASRock Rack. In Stock In Stock $2,990.49 - Buy",
+          "source_info_link": "https://pangoly.com/en/price-history/d4e9b330-0cc5-4adf-c47c-08dd6ba34a3d",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEz_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_Xwv_XwuTPWllAAAAEnRSTlMAsKFyIEHd_ZPA7BFgMQeEzlLIiVeNAAABVUlEQVR4AW3PBZZAIQhA0WeBYKD73-ycP13XbuGHlEvlP63kJNrNCz-NaZ5KW7Xp2F3bz1Oi9nZh1cqQJJtPIbWW4yJC1dtI7p-rlnl3nZUtMa_wxjowam2emQKEbHrw6BlAzvGsEAE09ekDaIfduggQDW4HODnNDGgWSXPwLgntlFk2Ctd8AER-MDxdr358kRqUAmC53dty0BNCGUPrDDgVsOCBAkkLmyU1gQIWUztrEsGyeoydTzNwsE7qB80Mte1QHKIbQzhHQUcJ3zf5tgtXR2iimgV9Yq51OTEZeqGq6n1qqDLAKlcXsNMTeFlQ5xmQdT7HqUfitmneePNMUg9VAGrJORbAW3UA5JKCT1SpPKQOkDM5afOmJS08aKdkji-YcnpEPp7T4V3SE-w9l8maZbZBCJ8My6DJ7QIrvPNDl51uCcaaR_Pmp-YiJiIWi3-U4KcX03IORgqe5msAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fpangoly.com%2Fen%2Fprice-history%2Fd4e9b330-0cc5-4adf-c47c-08dd6ba34a3d&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpangoly.com%2Fen%2Fprice-history%2Fd4e9b330-0cc5-4adf-c47c-08dd6ba34a3d",
+      "source": "Pangoly"
+    },
+    {
+      "position": 7,
+      "title": "Memory By Specification",
+      "link": "https://nemixram.com/pages/memory-by-specification?srsltid=AfmBOopM5PsMO-zsuZVuU2itxmFDSNkE5NwOp3_Ie-IzdIPtET7S5ohN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnemixram.com%2Fpages%2Fmemory-by-specification%3Fsrsltid%3DAfmBOopM5PsMO-zsuZVuU2itxmFDSNkE5NwOp3_Ie-IzdIPtET7S5ohN&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECCAQAQ",
+      "displayed_link": "https://nemixram.com › pages › memory-by-specification",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcExflUNYkTlglUNflUJglkNflURglkRhlkRglUNglkJhlkRdlD9XlC1-sTqvzYu0zph7rTuVvmF1qjPu8-fD2aqAsj2pxpD7_PmfwnW70qfg6tZkoBfY5c11pVFroTvo7-Kvypp7qlOIsGdjmjJhmy_K2sCRs390oV2IrnZbkzxelEARxKQyAAAALHRSTlMApjSJZg10myC9y7Rd_5SPoqmQ_______________l_______j_P_IzcdJT4F4SCcAAADtSURBVHgB3cnVoQIxFADRidsly24BfKL9l_TcXXHtgYnncF4pjcEq5bwHrTAEot9jyiSUg5BBJQpii9tjESkEZVBioy9rJHv2JUoiOFCkwPpFVOmEukfwFoVfO-uF-D3WpunX2rZ1vdeuX9vaNk0FNOCcdz46l2KJ64pb38XsERYBw9wqO58z1_P1jd4eReoi_M4bzJ-Adk36rfg9ej7Vv8j30rtvIX99hw7YI8RXhfdik32E-vv7f8LlO9TvOVdXV_MOrjtzB5fsUqOcxpPBIOc8GY_HeTxOeWL2mKazqYgVO5tNZ9vL-kNxVq0ALHgrMOhlQp4AAAAASUVORK5CYII.png",
+      "snippet": "Browse memory by specification including RDIMM, LRDIMM, UDIMM, and SODIMM. Filter DDR4 and DDR5 RAM by type, speed, and compatibility. DDR4-3200 PC4-25600. ...",
+      "snippet_highlighted_words": [
+        "DDR4-3200 PC4-25600"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Browse memory by specification including RDIMM, LRDIMM, UDIMM, and SODIMM. Filter DDR4 and DDR5 RAM by type, speed, and compatibility. DDR4-3200 PC4-25600. ...",
+          "source_info_link": "https://nemixram.com/pages/memory-by-specification?srsltid=AfmBOopM5PsMO-zsuZVuU2itxmFDSNkE5NwOp3_Ie-IzdIPtET7S5ohN",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcExflUNYkTlglUNflUJglkNflURglkRhlkRglUNglkJhlkRdlD9XlC1-sTqvzYu0zph7rTuVvmF1qjPu8-fD2aqAsj2pxpD7_PmfwnW70qfg6tZkoBfY5c11pVFroTvo7-Kvypp7qlOIsGdjmjJhmy_K2sCRs390oV2IrnZbkzxelEARxKQyAAAALHRSTlMApjSJZg10myC9y7Rd_5SPoqmQ_______________l_______j_P_IzcdJT4F4SCcAAADtSURBVHgB3cnVoQIxFADRidsly24BfKL9l_TcXXHtgYnncF4pjcEq5bwHrTAEot9jyiSUg5BBJQpii9tjESkEZVBioy9rJHv2JUoiOFCkwPpFVOmEukfwFoVfO-uF-D3WpunX2rZ1vdeuX9vaNk0FNOCcdz46l2KJ64pb38XsERYBw9wqO58z1_P1jd4eReoi_M4bzJ-Adk36rfg9ej7Vv8j30rtvIX99hw7YI8RXhfdik32E-vv7f8LlO9TvOVdXV_MOrjtzB5fsUqOcxpPBIOc8GY_HeTxOeWL2mKazqYgVO5tNZ9vL-kNxVq0ALHgrMOhlQp4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnemixram.com%2Fpages%2Fmemory-by-specification%3Fsrsltid%3DAfmBOopM5PsMO-zsuZVuU2itxmFDSNkE5NwOp3_Ie-IzdIPtET7S5ohN&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnemixram.com%2Fpages%2Fmemory-by-specification%3Fsrsltid%3DAfmBOopM5PsMO-zsuZVuU2itxmFDSNkE5NwOp3_Ie-IzdIPtET7S5ohN",
+      "source": "nemix ram"
+    },
+    {
+      "position": 8,
+      "title": "DDR4 Ram",
+      "link": "https://serverpartdeals.com/collections/ddr4-ram",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fserverpartdeals.com%2Fcollections%2Fddr4-ram&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECB0QAQ",
+      "displayed_link": "https://serverpartdeals.com › collections › ddr4-ram",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzNpknNp0nNp0nNp0nNp0nNp0nNp0nMpEHKnzDQrlzaxZHfzqLLojrz-fb3___p5NDv8ObWu3rl271Kp3cVAAAAB3RSTlMAKG6mzCjt68q9vQAAAT9JREFUeAFskgei5CAMQ9MjA0aU-991Ezyk7ddMql8sUYaHxmleDs3TOvyladsvbdP_5f2jD7LsJgCdWJ516w5xPngnjVFs37qEyFPRy_GUQid6f2SmAkFJzIrAKN3F8mlkETSjwiyoBT2p9U906Ekdq1jau4Gjx96lge4arCXUGqVdRVs_VsOPnKM5xHpWNDHZNYu1WH8OwoDDPDDQt5so3WN-A57hBczDclvYXMjLYvkBmuwTKblKC6lvAIUF59WTXtXT7W9gl0ygAfUompEBc58-RqcnIDnH2Aws5NQBF1mdFKpjr7dhjv0WGkhGAp7-IlabahOkhErsUq-M22c3Qj1xzso9kYf2h9AAOCYzeW5oNKn-zr3BteVKeOu1sY-cqHwLlvAi8O2AXu8u-Ojf2FkIZT0SMi9m9mdEEgQAB5EcQmjbN6MAAAAASUVORK5CYII.png",
+      "snippet": "SK Hynix HMABAGR7A2R4N-XS 128GB DDR4 3200MHz 2S2Rx4 RDIMM ECC Server RAM (PC4-3200AA) Refurbished. Vendor: SK Hynix. Sale price $889.00. QUICK SHOP.",
+      "snippet_highlighted_words": [
+        "DDR4 3200MHz",
+        "ECC Server RAM",
+        "PC4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "SK Hynix HMABAGR7A2R4N-XS 128GB DDR4 3200MHz 2S2Rx4 RDIMM ECC Server RAM (\nPC4-3200AA) Refurbished. Vendor: SK Hynix. Sale price $889.00. QUICK SHOP.",
+          "source_info_link": "https://serverpartdeals.com/collections/ddr4-ram",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzNpknNp0nNp0nNp0nNp0nNp0nNp0nMpEHKnzDQrlzaxZHfzqLLojrz-fb3___p5NDv8ObWu3rl271Kp3cVAAAAB3RSTlMAKG6mzCjt68q9vQAAAT9JREFUeAFskgei5CAMQ9MjA0aU-991Ezyk7ddMql8sUYaHxmleDs3TOvyladsvbdP_5f2jD7LsJgCdWJ516w5xPngnjVFs37qEyFPRy_GUQid6f2SmAkFJzIrAKN3F8mlkETSjwiyoBT2p9U906Ekdq1jau4Gjx96lge4arCXUGqVdRVs_VsOPnKM5xHpWNDHZNYu1WH8OwoDDPDDQt5so3WN-A57hBczDclvYXMjLYvkBmuwTKblKC6lvAIUF59WTXtXT7W9gl0ygAfUompEBc58-RqcnIDnH2Aws5NQBF1mdFKpjr7dhjv0WGkhGAp7-IlabahOkhErsUq-M22c3Qj1xzso9kYf2h9AAOCYzeW5oNKn-zr3BteVKeOu1sY-cqHwLlvAi8O2AXu8u-Ojf2FkIZT0SMi9m9mdEEgQAB5EcQmjbN6MAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fserverpartdeals.com%2Fcollections%2Fddr4-ram&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fserverpartdeals.com%2Fcollections%2Fddr4-ram",
+      "source": "Server Part Deals",
+      "read_more_link": "https://serverpartdeals.com/collections/ddr4-ram"
+    },
+    {
+      "position": 9,
+      "title": "LRDIMM DDR4-3200 PC4-25600",
+      "link": "https://nemixram.com/collections/lrdimm-ddr4-3200-pc4-25600?srsltid=AfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnemixram.com%2Fcollections%2Flrdimm-ddr4-3200-pc4-25600%3Fsrsltid%3DAfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQFnoECCEQAQ",
+      "displayed_link": "https://nemixram.com › collections › lrdimm-ddr4-320...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcExflUNYkTlglUNflUJglkNflURglkRhlkRglUNglkJhlkRdlD9XlC1-sTqvzYu0zph7rTuVvmF1qjPu8-fD2aqAsj2pxpD7_PmfwnW70qfg6tZkoBfY5c11pVFroTvo7-Kvypp7qlOIsGdjmjJhmy_K2sCRs390oV2IrnZbkzxelEARxKQyAAAALHRSTlMApjSJZg10myC9y7Rd_5SPoqmQ_______________l_______j_P_IzcdJT4F4SCcAAADtSURBVHgB3cnVoQIxFADRidsly24BfKL9l_TcXXHtgYnncF4pjcEq5bwHrTAEot9jyiSUg5BBJQpii9tjESkEZVBioy9rJHv2JUoiOFCkwPpFVOmEukfwFoVfO-uF-D3WpunX2rZ1vdeuX9vaNk0FNOCcdz46l2KJ64pb38XsERYBw9wqO58z1_P1jd4eReoi_M4bzJ-Adk36rfg9ej7Vv8j30rtvIX99hw7YI8RXhfdik32E-vv7f8LlO9TvOVdXV_MOrjtzB5fsUqOcxpPBIOc8GY_HeTxOeWL2mKazqYgVO5tNZ9vL-kNxVq0ALHgrMOhlQp4AAAAASUVORK5CYII.png",
+      "snippet": "64GB (1X64GB) DDR4 3200MHZ PC4-25600 LRDIMM 4RX4. Sale price $599.99 ; 128GB (2X64GB) DDR4 3200MHZ PC4-25600 LRDIMM 4RX4. $1,198.99 ; 256GB (4X64GB) DDR4 3200MHZ ...",
+      "snippet_highlighted_words": [
+        "DDR4 3200MHZ PC4-25600 LRDIMM 4RX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "64GB (1X64GB) DDR4 3200MHZ PC4-25600 LRDIMM 4RX4. Sale price $599.99 ; 128GB (2X64GB) DDR4 3200MHZ PC4-25600 LRDIMM 4RX4. $1,198.99 ; 256GB (4X64GB) DDR4 3200MHZ ...",
+          "source_info_link": "https://nemixram.com/collections/lrdimm-ddr4-3200-pc4-25600?srsltid=AfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcExflUNYkTlglUNflUJglkNflURglkRhlkRglUNglkJhlkRdlD9XlC1-sTqvzYu0zph7rTuVvmF1qjPu8-fD2aqAsj2pxpD7_PmfwnW70qfg6tZkoBfY5c11pVFroTvo7-Kvypp7qlOIsGdjmjJhmy_K2sCRs390oV2IrnZbkzxelEARxKQyAAAALHRSTlMApjSJZg10myC9y7Rd_5SPoqmQ_______________l_______j_P_IzcdJT4F4SCcAAADtSURBVHgB3cnVoQIxFADRidsly24BfKL9l_TcXXHtgYnncF4pjcEq5bwHrTAEot9jyiSUg5BBJQpii9tjESkEZVBioy9rJHv2JUoiOFCkwPpFVOmEukfwFoVfO-uF-D3WpunX2rZ1vdeuX9vaNk0FNOCcdz46l2KJ64pb38XsERYBw9wqO58z1_P1jd4eReoi_M4bzJ-Adk36rfg9ej7Vv8j30rtvIX99hw7YI8RXhfdik32E-vv7f8LlO9TvOVdXV_MOrjtzB5fsUqOcxpPBIOc8GY_HeTxOeWL2mKazqYgVO5tNZ9vL-kNxVq0ALHgrMOhlQp4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnemixram.com%2Fcollections%2Flrdimm-ddr4-3200-pc4-25600%3Fsrsltid%3DAfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnemixram.com%2Fcollections%2Flrdimm-ddr4-3200-pc4-25600%3Fsrsltid%3DAfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7",
+      "source": "nemix ram",
+      "read_more_link": "https://nemixram.com/collections/lrdimm-ddr4-3200-pc4-25600?srsltid=AfmBOorEK05w7XhE-aJJBLug4yMX8wjvZHxIM3u38CfPKNyoSIhxuu-7"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Unbuffered",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=unbuffered+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyGggBEgpVbmJ1ZmZlcmVkOgoIhsIsEIfCLDAAWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAF6BAgbEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=unbuffered+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "3,200 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=3%2C200+mhz+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCISeahISCQAAAAAAAKlAEQAAAAAAAKlAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjcIARIJMywyMDAgTUh6IhoqGAiEnmoSEgkAAAAAAACpQBEAAAAAAACpQCoCGAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAJ6BAgbEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3%2C200+mhz+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAN6BAgbEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Two",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=two+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFQgBEgNUd286DAjBho4DENqFjgMwAFi3sSBgAQ&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAR6BAgbEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=two+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "16 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=16+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCIOeahISCQAAAAAAADBAEQAAAAAAADBAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjMIARIFMTYgR0IiGioYCIOeahISCQAAAAAAADBAEQAAAAAAADBAKgIYAToICIOeahAAMAZYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAV6BAgbEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=16+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=reviews+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYEip3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAZ6BAgbEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage+sale&shoprs=CAESBEoCGAEYBip3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyEwgGEgdPbiBzYWxlGAIiBEoCGAFYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAd6BAgbEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage+sale"
+    },
+    {
+      "query": "One",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=one+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFQgBEgNPbmU6DAjBho4DEPOGjgMwAFi3sSBgAQ&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAh6BAgbEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=one+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "256 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=256+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCIOeahISCQAAAAAAAHBAEQAAAAAAAHBAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjQIARIGMjU2IEdCIhoqGAiDnmoSEgkAAAAAAABwQBEAAAAAAABwQCoCGAE6CAiDnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAl6BAgbEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=256+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "128 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=128+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCIOeahISCQAAAAAAAGBAEQAAAAAAAGBAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjQIARIGMTI4IEdCIhoqGAiDnmoSEgkAAAAAAABgQBEAAAAAAABgQCoCGAE6CAiDnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAp6BAgbEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=128+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "2,666 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=2%2C666+mhz+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCISeahISCQAAAAAA1KRAEQAAAAAA1KRAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjcIARIJMiw2NjYgTUh6IhoqGAiEnmoSEgkAAAAAANSkQBEAAAAAANSkQCoCGAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAt6BAgbEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2%2C666+mhz+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "2,933 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=2%2C933+mhz+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCISeahISCQAAAAAA6qZAEQAAAAAA6qZAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjcIARIJMiw5MzMgTUh6IhoqGAiEnmoSEgkAAAAAAOqmQBEAAAAAAOqmQCoCGAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKAx6BAgbEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2%2C933+mhz+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Registered",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=registered+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyGggBEgpSZWdpc3RlcmVkOgoIhsIsEInCLDAAWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKA16BAgbEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=registered+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "8 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=8+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCIOeahISCQAAAAAAACBAEQAAAAAAACBAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjIIARIEOCBHQiIaKhgIg55qEhIJAAAAAAAAIEARAAAAAAAAIEAqAhgBOggIg55qEAAwBli3sSBgAQ&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKA56BAgbEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=8+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "32 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=32+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAESGioYCIOeahISCQAAAAAAAEBAEQAAAAAAAEBAGAEqd2tpdCBkZHI0IDMyMDAgcGM0IDI1NjAwIGVjYyBscmRpbW0gOHJ4NCBsb2FkIHJlZHVjZWQgc2VydmVyIG1lbW9yeSBieSBuZW1peCByYW0gbWVtb3J5IGNhc19sYXRlbmN5IG1vZHVsZV9jb3VudCB2b2x0YWdlMjMIARIFMzIgR0IiGioYCIOeahISCQAAAAAAAEBAEQAAAAAAAEBAKgIYAToICIOeahAAMAZYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKA96BAgbEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=32+gb+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=price+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYEip3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBB6BAgbEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage+for+sale&shoprs=CAEYEip3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBF6BAgbEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage+for+sale"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=four+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFggBEgRGb3VyOgwIwYaOAxDCho4DMABYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBJ6BAgbEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=four+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=black+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBN6BAgbEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gray+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFggBEgRHcmF5OgwI2Iz1ARDqivUBMAtYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBR6BAgbEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Dell",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=dell+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFAgBEgREZWxsOgoIg_M8EKXUPjABWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBV6BAgbEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dell+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=green+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFwgBEgVHcmVlbjoMCNiM9QEQ6Ir1ATALWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBZ6BAgbEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=green+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Under $1,500",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage+under+%241%2C500&shoprs=CAESDRILEQAAAMALWtZBGAEYBSp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyJQgFEgxVbmRlciAkMSw1MDAYAiINEgsRAAAAwAta1kEYASoCGAFYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBd6BAgbEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage+under+%241%2C500"
+    },
+    {
+      "query": "Samsung",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=samsung+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFwgBEgdTYW1zdW5nOgoIg_M8EO7mPTABWLexIGAB&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBh6BAgbEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=samsung+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=blue+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage&shoprs=CAEYASp3a2l0IGRkcjQgMzIwMCBwYzQgMjU2MDAgZWNjIGxyZGltbSA4cng0IGxvYWQgcmVkdWNlZCBzZXJ2ZXIgbWVtb3J5IGJ5IG5lbWl4IHJhbSBtZW1vcnkgY2FzX2xhdGVuY3kgbW9kdWxlX2NvdW50IHZvbHRhZ2UyFggBEgRCbHVlOgwI2Iz1ARDmivUBMAtYt7EgYAE&sa=X&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQip4GKBl6BAgbEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=blue+kit+ddr4+3200+pc4+25600+ecc+lrdimm+8rx4+load+reduced+server+memory+by+nemix+ram+memory+cas_latency+module_count+voltage"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=xHpfau-RMc78ptQPz4vjgQ4&start=10&sa=N&sstk=AU9db-BAu-cxe0zsVjv9ecbRMwf1UymlpyzBTjboh-FMScsNdXBF7FdgcAKJBmXUVq8vLRiWYrCx0-LXp0vbHSi08GddMfnU-5L-3g&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQ8NMDegQINhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=xHpfau-RMc78ptQPz4vjgQ4&start=10&sa=N&sstk=AU9db-BAu-cxe0zsVjv9ecbRMwf1UymlpyzBTjboh-FMScsNdXBF7FdgcAKJBmXUVq8vLRiWYrCx0-LXp0vbHSi08GddMfnU-5L-3g&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQ8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=xHpfau-RMc78ptQPz4vjgQ4&start=20&sa=N&sstk=AU9db-BAu-cxe0zsVjv9ecbRMwf1UymlpyzBTjboh-FMScsNdXBF7FdgcAKJBmXUVq8vLRiWYrCx0-LXp0vbHSi08GddMfnU-5L-3g&ved=2ahUKEwjvg7a49uOVAxVOvokEHc_FOOAQ8tMDegQINhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kit+DDR4-3200+PC4-25600+ECC+LRDIMM+8Rx4+Load+Reduced+Server+Memory+by+NEMIX+RAM+memory+cas_latency+module_count+voltage&start=20"
+    }
+  }
+}

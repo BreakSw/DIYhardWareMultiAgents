@@ -1,0 +1,732 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a915c9301318eeae2ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MzfrVLOLMN44w9SHgHmN5A/6a5f7a915c9301318eeae2ac.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MzfrVLOLMN44w9SHgHmN5A/6a5f7a915c9301318eeae2ac.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:33 UTC",
+    "processed_at": "2026-07-21 13:56:33 UTC",
+    "google_url": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&oq=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2_slots+max_memory_gb+pcie_slots+socket&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MzfrVLOLMN44w9SHgHmN5A/6a5f7a915c9301318eeae2ac.html",
+    "total_time_taken": 6.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ASUS ROG Crosshair X870E HERO BTF Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ASUS ROG Crosshair X870E HERO BTF Motherboard motherboard m2_slots max_memory_gb pcie_slots socket",
+    "total_results": 624,
+    "time_taken_displayed": 0.66,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "ASUS ROG Crosshair X870E HERO BTF Motherboard motherboard m2 slots max_memory_usage pcie slots socket",
+    "showing_results_for": "ASUS ROG Crosshair X870E HERO BTF Motherboard motherboard m2 slots max_memory_usage pcie slots socket"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The BTF Board you have been waiting for: ASUS ROG X870E ...",
+      "link": "https://www.youtube.com/watch?v=2URXj-53Xmk",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/gbcN1ufAlaFfK4VfIO2GIRZHrS__HUxmbjC1n1aZzts.jpeg",
+      "channel": "JCustom",
+      "duration": "11:53",
+      "platform": "YouTube",
+      "date": "Oct 1, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSwVHXBQOJgddewX1negl1KN4ysWfbcMsxu0g",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "intro and unbox",
+          "link": "https://www.youtube.com/watch?v=2URXj-53Xmk&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/gbcN1ufAlaFfK4VfIO2GIYYvb-TdDbdYYz2to3XHjm1Mus214ucg5zxmU-gNM_3o.jpeg"
+        },
+        {
+          "time": "02:43",
+          "title": "Board visuals",
+          "link": "https://www.youtube.com/watch?v=2URXj-53Xmk&t=163",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/gbcN1ufAlaFfK4VfIO2GIa2MkwPdq46OMltn8Wii-U_Q96_31vZxIXclM3lXsAhX.jpeg"
+        },
+        {
+          "time": "03:40",
+          "title": "pcie lane allocation",
+          "link": "https://www.youtube.com/watch?v=2URXj-53Xmk&t=220",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/gbcN1ufAlaFfK4VfIO2GIVQSxgoM81wQC4ZCJO3m2M94WlhRKxbCccT-zY8G9Q7-.jpeg"
+        },
+        {
+          "time": "07:49",
+          "title": "around the rest of the board",
+          "link": "https://www.youtube.com/watch?v=2URXj-53Xmk&t=469",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/gbcN1ufAlaFfK4VfIO2GIfkFiXTVIzmsl2VpYUBMtq408m2EtIoe_fvhm0p6sa1K.jpeg"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "ASUS ROG CROSSHAIR X870E HERO",
+      "link": "https://www.youtube.com/watch?v=Q8R2wp9BogY",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/p8JnAOKlPqdTFFbRxZHGCz4UJrscmr3b5--e_vda6MM.jpeg",
+      "channel": "Kleo Yan",
+      "duration": "1:34:21",
+      "platform": "YouTube",
+      "date": "Sep 5, 2025",
+      "snippet": "I will be sharing with you with this premium motherboard coming from ASUS known as the ROG Crosshair X870E Hero.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQXU4xh2PrMIwM3UgaFcrRTltYobzgyBxKPrA"
+    },
+    {
+      "position": 3,
+      "title": "Finally a new HIGH End BTF // ROG X870 HERO BTF",
+      "link": "https://www.youtube.com/watch?v=P1QyyrZh6p4",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/DUrchi3Y_9xir6zGUZvKM3bDkpYbAqYG93Da3mR6jRc.jpeg",
+      "channel": "GGF Events",
+      "duration": "18:18",
+      "platform": "YouTube",
+      "date": "Oct 16, 2025",
+      "snippet": "The main difference is that removable connector on the end of the card.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTn-amWYNDhFZXGhloMcuyNqvEEtIwYEt-NHQ"
+    },
+    {
+      "position": 4,
+      "title": "Unleash the Power: ASUS ROG Crosshair X870E Hero - The ...",
+      "link": "https://www.youtube.com/watch?v=2rp2pUYYJrI",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a915c9301318eeae2ac/images/MUSPkrbR9rIBT69oSMq7mijm1i3uitJ-8v91OLy3nIo.jpeg",
+      "channel": "Chris Mizo",
+      "duration": "13:13",
+      "platform": "YouTube",
+      "date": "Nov 14, 2024",
+      "snippet": "Unbox and review the Asus ROG Crosshair X870E Hero motherboard, featuring DDR5 RAM slots, Nitro Path DRM technology, and a premium design.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSiZBbcd9Ro_SpOB1uQuNON0Tnpn6XVH6qQXw"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTy7rUTD-z0ypHYnCv3HSVMLCNOGWoz_PLvwVsgtajoZVRMd3rLdId1AOGWdUi5v70vHhj9h7nvj3prwwKFayowxrVQ3iVvRqPAeyifW89d4VarRgwAeJ5o",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "ASUS ROG Crosshair X870E HERO BTF Motherboard",
+      "rating": 3.8,
+      "reviews": 7,
+      "price": "$788.99",
+      "extracted_price": 788.99,
+      "original_price": "$838",
+      "extracted_original_price": 838,
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "0V3ux3icbZBLjuM2EIaBnCG3MAKQ1Du7sS3ao25SLVKibG0MvawXZakluf3A3CF3cM8EmFn2LLLNNTqniRNkkcXUqoDvL1R99dstr_6Qh34fDwq3nfhS_VI8yc7vRo987YcuO6ZTlb2ZlqJBFRoK0EwdKIqufU3jKZZdUWXfTWghCyEAVAtqwAK6ht7KPM5kdcjd_T4fll16j2mWApGp6AZCOjLhPaZ-q9q4yP_Fb5ZhqIZ6H1dMQ9OAruqvQza-o6fFzkTQNE1w33svXdd03fj0xNzl7sfsy_MxHy7vyQce8BlzV7PF0I1jGVfDbGMawJ6tbebO5j6ekW4q8yHp4iGbtf_v0W6U3TTO2vi8a_O2Gy67Ipn1aZX_B8YubfLpS9H_Y_aDG17bu5Jm3C2QaSHdMC0T6Kb52r9Mt7L4fDzK_M9bIW_H8VbKW374vYv7l336108_291puRhPCy_oe7FkgAP2ENtZkwHrOQxxI7DFUz8CWdsgHzptinuarKJLoMha-MUpA_1T0mZrX9CFaBiLUKptoHmNgFPyDQuJzQIO5MFrtWd3MwdJU0wCzm3aNCd-YG7i03uenPIAevmGTOTqqXwpLtvaUSnED7HSoUw6B7KmC3_VoGBFdSGda97IJbeFyCQ9ilZ0rj0dWSOfIuTwSFJCEKuDhjpbNHXbmg3kOp_nGM_DGvcB2iokiEr_mu2Zj5sNoupWyDVH2RTI6IEgXPI6uORNdObAhnHrdMQvW1ZTLQEFylaQp01WuSF8JMHHEwlFTw8y5giuIhlcucBHAYJzWgfADTXbXzqH-88csfGuydI-xZsepKi0w0N08hQa85q2dEmxi0UohENcO9DoSoMbiAlff0RROzVUztdUwV4Uwku-lKFQ2CGs5zxddxyj8zFdRWVaU58FfZmHzRTB-ZhA9pJCTFeVM2drenHDyI9wybxgexGiJEyyzr_SOA_PXrgpGQVO7F0d9vk8Dvt38AFrE3d1angOPZFHruLdY6EaxS5bEQ23jeH9Cg1T1VUELdPSjb8BVHVJEA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0V3ux3icbZBLjuM2EIaBnCG3MAKQ1Du7sS3ao25SLVKibG0MvawXZakluf3A3CF3cM8EmFn2LLLNNTqniRNkkcXUqoDvL1R99dstr_6Qh34fDwq3nfhS_VI8yc7vRo987YcuO6ZTlb2ZlqJBFRoK0EwdKIqufU3jKZZdUWXfTWghCyEAVAtqwAK6ht7KPM5kdcjd_T4fll16j2mWApGp6AZCOjLhPaZ-q9q4yP_Fb5ZhqIZ6H1dMQ9OAruqvQza-o6fFzkTQNE1w33svXdd03fj0xNzl7sfsy_MxHy7vyQce8BlzV7PF0I1jGVfDbGMawJ6tbebO5j6ekW4q8yHp4iGbtf_v0W6U3TTO2vi8a_O2Gy67Ipn1aZX_B8YubfLpS9H_Y_aDG17bu5Jm3C2QaSHdMC0T6Kb52r9Mt7L4fDzK_M9bIW_H8VbKW374vYv7l336108_291puRhPCy_oe7FkgAP2ENtZkwHrOQxxI7DFUz8CWdsgHzptinuarKJLoMha-MUpA_1T0mZrX9CFaBiLUKptoHmNgFPyDQuJzQIO5MFrtWd3MwdJU0wCzm3aNCd-YG7i03uenPIAevmGTOTqqXwpLtvaUSnED7HSoUw6B7KmC3_VoGBFdSGda97IJbeFyCQ9ilZ0rj0dWSOfIuTwSFJCEKuDhjpbNHXbmg3kOp_nGM_DGvcB2iokiEr_mu2Zj5sNoupWyDVH2RTI6IEgXPI6uORNdObAhnHrdMQvW1ZTLQEFylaQp01WuSF8JMHHEwlFTw8y5giuIhlcucBHAYJzWgfADTXbXzqH-88csfGuydI-xZsepKi0w0N08hQa85q2dEmxi0UohENcO9DoSoMbiAlff0RROzVUztdUwV4Uwku-lKFQ2CGs5zxddxyj8zFdRWVaU58FfZmHzRTB-ZhA9pJCTFeVM2drenHDyI9wybxgexGiJEyyzr_SOA_PXrgpGQVO7F0d9vk8Dvt38AFrE3d1angOPZFHruLdY6EaxS5bEQ23jeH9Cg1T1VUELdPSjb8BVHVJEA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcT14yALVoVqI9lrfjVPpEAW0HGucMc0bvN96s6wbQGTjtdbcy_rr0nMPyL7mB26pRkxcqXpd-rUTO3HnE2a0T9lqwKbJfoUtpHVdu-GGJs",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "ASUS ROG Crosshair X870E HERO Motherboard",
+      "rating": 4.4,
+      "reviews": 179,
+      "price": "$569.99",
+      "extracted_price": 569.99,
+      "original_price": "$600",
+      "extracted_original_price": 600,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "KdPrV3icbVNLrqNGFJWyhuzCikRBFZjMng1lP_oB5lOUYWJBFQZMYQjgH-o9ZA9-3ZE6w05LmWYbL6uJX5RBBj279557z_3p_HrPqz_FsdunvRKYVnqrfio2og3bwbO_dH3LT2ys-B-yLksQyroKdEmDKtQA-MLSMRVtUfFvQJ7Lko5kCBQJSTqcS3P0tcxTLqpj7u73eW-07MGCNCQ_qtEcIW2uAajo6u9Vkxb5v_A3ADQJvVNJiqTp6qOHjl57PrzJm-VOg7oKEZS0OZCRKiNdVT9ufNfYfR_7_Msp729v2VNAgpnvrmbLvh2GMq362XauSeZsbfrubBHimd2OZd5nbdrzWfN_W94Noh2HWZNed03etP1tV2SzjlX5f8DQsjofPxfd-27fmeG1qfhXpKnw4aqKDtEjOFfga3ce72Xx6XQS-V_3QtxPw70U9_z4W5t25z37-4cfzfZiLIfL0iNdFxm-FJoYpY2-zKl-isInwKmOfbO0IsI3LgGRNyWNF-JrEBYwBoXCsXnLFL6Jthaw684lop0Sw5NzbE6-2Uk2tYhNroTVV8dWrDHf8quPOSSTcyYyhmnjdKxBMKSXmxtZUXAoLR9gypvOZY98RzzLMXEkYpRqTsuayV3LD4JwIoxsWmwjYMHQ4BdqopEpCUrMZ8QxTuKQK4yUCa-7s98gz1aIvJWEHZrAiomu-jhaRgQMflS-hFu8DnC3obRUvPrqxUCXM0PU6cQuuSEMDsSHiPo3NuE4r6_rtEmQB5wxnbjKVx7wG2tKDx7ITZQEk_MhPOJztHYC1mAjCa1Dtl7EWfh08w6LMTsk5uNedlx7U6xgg2wtIxN4n8jjM1N4HzbSLcRJS4XoXIpEeCjf_1KTI76G1OnZsYYxFSSg0kQNQYh5CbB8PbFVUrKDE_qkK3NajwlYDBnwzwxgZ1VZC3_t3Fya-JQg6pB6oqEDUxrZvE4qL4ol9uB3Ce-cCfufrkO_f5OeMBoDV3U0z3Iu9ksA8e6lgFqx4ysb4abWvJ-BNn9IVAb6_CGifwDpo0vW",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KdPrV3icbVNLrqNGFJWyhuzCikRBFZjMng1lP_oB5lOUYWJBFQZMYQjgH-o9ZA9-3ZE6w05LmWYbL6uJX5RBBj279557z_3p_HrPqz_FsdunvRKYVnqrfio2og3bwbO_dH3LT2ys-B-yLksQyroKdEmDKtQA-MLSMRVtUfFvQJ7Lko5kCBQJSTqcS3P0tcxTLqpj7u73eW-07MGCNCQ_qtEcIW2uAajo6u9Vkxb5v_A3ADQJvVNJiqTp6qOHjl57PrzJm-VOg7oKEZS0OZCRKiNdVT9ufNfYfR_7_Msp729v2VNAgpnvrmbLvh2GMq362XauSeZsbfrubBHimd2OZd5nbdrzWfN_W94Noh2HWZNed03etP1tV2SzjlX5f8DQsjofPxfd-27fmeG1qfhXpKnw4aqKDtEjOFfga3ce72Xx6XQS-V_3QtxPw70U9_z4W5t25z37-4cfzfZiLIfL0iNdFxm-FJoYpY2-zKl-isInwKmOfbO0IsI3LgGRNyWNF-JrEBYwBoXCsXnLFL6Jthaw684lop0Sw5NzbE6-2Uk2tYhNroTVV8dWrDHf8quPOSSTcyYyhmnjdKxBMKSXmxtZUXAoLR9gypvOZY98RzzLMXEkYpRqTsuayV3LD4JwIoxsWmwjYMHQ4BdqopEpCUrMZ8QxTuKQK4yUCa-7s98gz1aIvJWEHZrAiomu-jhaRgQMflS-hFu8DnC3obRUvPrqxUCXM0PU6cQuuSEMDsSHiPo3NuE4r6_rtEmQB5wxnbjKVx7wG2tKDx7ITZQEk_MhPOJztHYC1mAjCa1Dtl7EWfh08w6LMTsk5uNedlx7U6xgg2wtIxN4n8jjM1N4HzbSLcRJS4XoXIpEeCjf_1KTI76G1OnZsYYxFSSg0kQNQYh5CbB8PbFVUrKDE_qkK3NajwlYDBnwzwxgZ1VZC3_t3Fya-JQg6pB6oqEDUxrZvE4qL4ol9uB3Ce-cCfufrkO_f5OeMBoDV3U0z3Iu9ksA8e6lgFqx4ysb4abWvJ-BNn9IVAb6_CGifwDpo0vW"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTNJJJs8LmIx-WXzjTOHB9_WMWks3w9bV-KejYIgYg32cdatRSAy2QoYt4Xh7k0wiykmAEeC13gmR_kYs0yig1j4-hvalSYg9f6KrhABQ3MN_c7YefxWWQu",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "ASUS ROG CROSSHAIR X870E HERO BTF AMD X870E ATX Board with Hidden-connector Design and High-power GPU Slot for Clean Cable Management, 18+2+2 Power, D",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": "$743.99",
+      "extracted_price": 743.99,
+      "original_price": "$800",
+      "extracted_original_price": 800,
+      "delivery": "Free delivery",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "EToYw3icdY_NruI2AIXV50GVbOcH6O5CbEJ0k4DjGOINMnEgueTHNwkQ0LxDX2HEzFSaLttK3fY1bp-ky95WXXTRbo6Ozqez-L5_ZMWvZa0PsjUi7Mlb8e1xVTas6db-V9026pz2hfrZtiAyJ8YUTZGFxqYFLONrKntZNsdCffwpz6QqizoLD4esdZr0vx8_FpU8Zn_jXyA04GSCgGnZECBgAWijT63q3szVfAfHNjQRAnCMpsCY2PYUog8rGjq7_4FfXs9Ze3vbP0VxNKLhYjRvm67LZdGOtpMxwCMX03A0Y2TkN32etftGtmpU_bujXVc2fTeq5LCrsqppb7vjfqTTIvsHdE16yvovx_dJffxU_RX60j_y4-fzucx-exzLx7l75OUjq39opL4c0t-_-QNf0vm8TefrWGvuUBDdaS0cbya2ok9dz5E1Nlg8oPUpvcVGwBTWWAIBA7I0UgAvCivTr5eIodLelN4swsIU7mzuk-mz4MJURFQbt-wT7l8TTi78tB5kBXN_wz0O0mt8spZprWtGcuxzZbOT3_M4nyuYE4WgTDZwFYHkHt1nOEJCJDE2FcSmD8icFvC8cXyDvZBljHqPx1bLNlRLNxdJzV_kHGq6KFfKCQSF0-WGJEACWnNDee8eoeSi56XAjHiv7N1G1TSnLEF7li-TrdgG0PMlTq5ywU2KvELEGkduQBjwAb2frC1YD9kC6j1bmvvYt0LyZHC4tKLFoJ85LxUYwgjBmN29grq552_pNXLyl9DV56TKnT2exrEjWOzSnGNdxnjwEoNfKRp8CojmXMN9zbvQWUcEDed0IfL0JWA01nm2OfUCzro9pJcUkmBReDPqBrdwIyK-JU3olIG4B6-8bobUCfC61ssMdzfJxCGqcvp56NrDG3giVh-FdjBee8HVf45Msns-muPjTi18i1Sn8fo7OJ6YtongdDK1x38CPZ4zdg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EToYw3icdY_NruI2AIXV50GVbOcH6O5CbEJ0k4DjGOINMnEgueTHNwkQ0LxDX2HEzFSaLttK3fY1bp-ky95WXXTRbo6Ozqez-L5_ZMWvZa0PsjUi7Mlb8e1xVTas6db-V9026pz2hfrZtiAyJ8YUTZGFxqYFLONrKntZNsdCffwpz6QqizoLD4esdZr0vx8_FpU8Zn_jXyA04GSCgGnZECBgAWijT63q3szVfAfHNjQRAnCMpsCY2PYUog8rGjq7_4FfXs9Ze3vbP0VxNKLhYjRvm67LZdGOtpMxwCMX03A0Y2TkN32etftGtmpU_bujXVc2fTeq5LCrsqppb7vjfqTTIvsHdE16yvovx_dJffxU_RX60j_y4-fzucx-exzLx7l75OUjq39opL4c0t-_-QNf0vm8TefrWGvuUBDdaS0cbya2ok9dz5E1Nlg8oPUpvcVGwBTWWAIBA7I0UgAvCivTr5eIodLelN4swsIU7mzuk-mz4MJURFQbt-wT7l8TTi78tB5kBXN_wz0O0mt8spZprWtGcuxzZbOT3_M4nyuYE4WgTDZwFYHkHt1nOEJCJDE2FcSmD8icFvC8cXyDvZBljHqPx1bLNlRLNxdJzV_kHGq6KFfKCQSF0-WGJEACWnNDee8eoeSi56XAjHiv7N1G1TSnLEF7li-TrdgG0PMlTq5ywU2KvELEGkduQBjwAb2frC1YD9kC6j1bmvvYt0LyZHC4tKLFoJ85LxUYwgjBmN29grq552_pNXLyl9DV56TKnT2exrEjWOzSnGNdxnjwEoNfKRp8CojmXMN9zbvQWUcEDed0IfL0JWA01nm2OfUCzro9pJcUkmBReDPqBrdwIyK-JU3olIG4B6-8bobUCfC61ssMdzfJxCGqcvp56NrDG3giVh-FdjBee8HVf45Msns-muPjTi18i1Sn8fo7OJ6YtongdDK1x38CPZ4zdg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSkfRrzch-7d3Axkkg1uEg5BEqu5Wyx9RBeCEPmuBshSsdc-wQ5kXKw9ZPnaMPoGpu1lwYP4gU2zA8WXOWdzXa5O2-1f-naNnhrvpoEjTjwgGDLC-j_xi-3ow",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "ASUS ROG Crosshair X870E Dark Hero Motherboard",
+      "rating": 4.6,
+      "reviews": 9,
+      "price": "$719.99",
+      "extracted_price": 719.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "CJ9loHicdY9LjuM2FEWBrCG7MBogqX9mbVuyS9WSyqRE2ZwYFEVLsvVhSXL5g-whe3B1B-gMGw30NNuorCZO0oMMksEDHnAu3jv3l5usvtWt2vFeI67PL9W74qnu4m5YBZ9V3-VHMVb5V2joFrQs24bQALbmmFADnwUfed0V_2DNdHTHcgwdIgeZpga_lJLnddXKaLeT_bwTf-WADgAwLR05hoF0W4OO-VvV8EJ-59B2dKjdx7QcxzIMzUSvfT686U-zLbTur--BuwbQLcu5H9F-fsLRfPs_8NPzUfaXt-w9ScgER4vJrO-GoeRVP1nbFnAnSxdHk2nsTYJuLGWfdbzPJ82_d7Qd6m4cJg0_bxvZdP1lW2QTJSr5HQydOMjxU6H-1v8Pidemyr8Ylqmb6A7upYBhWw56VS_jrSw-Ho-1_P1W1LfjcCvrm2x_7bh62Yk_fvjR7U7z2XCarRKl6BwDsi90lsJNsC_1hKpDRms_X6szbcMomONrtC4feXIwJHU4XpwJa-o20cpd5vokbWtdzssZ1lwjdfEgF3Ufe_nIPafF-_xEGviUU-8sDz5i3kZfAVjJA47i5QbIpYswUL1AdME8fMlS9iJSoeVpeEjnuStorbOFmq6u5Tz01JGkpwsDxYW3-Sm5sjjzpiaPQxK7rE4pPQWpGuSalrxWKoSqSgAOxByfQzSMshlHBstANBsQppiEh_NDBkIYJ2X0IVV7vPB4fsV92pSPG8DckMBThs6jaIMLr3O4QmEvY4_I9cOVxtM2oyqJazYjmgAc0gYT2GRJvciorSV7VrM9nQVNdyFwepRuAlfXcEGBSjjyWYLG5xj6IfUYYV7O14AGBI00oCrgaf5Ir74XLQW8uw-iCQeajkRQtiFLGnxY0wcMEuKh81EsWCn2YYwTVcr0cO83HTKIXwT0wkXlT_EyvEQpi0XiozU6Qw6nV7aeXnDreyn1TywOeTZ39Wxd44_nod-9gfeeMZLIfBiq65YK8Fys7GMOSqmIsl_e2YVc_QQtWzd1BB3bMe0_AfImT6g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CJ9loHicdY9LjuM2FEWBrCG7MBogqX9mbVuyS9WSyqRE2ZwYFEVLsvVhSXL5g-whe3B1B-gMGw30NNuorCZO0oMMksEDHnAu3jv3l5usvtWt2vFeI67PL9W74qnu4m5YBZ9V3-VHMVb5V2joFrQs24bQALbmmFADnwUfed0V_2DNdHTHcgwdIgeZpga_lJLnddXKaLeT_bwTf-WADgAwLR05hoF0W4OO-VvV8EJ-59B2dKjdx7QcxzIMzUSvfT686U-zLbTur--BuwbQLcu5H9F-fsLRfPs_8NPzUfaXt-w9ScgER4vJrO-GoeRVP1nbFnAnSxdHk2nsTYJuLGWfdbzPJ82_d7Qd6m4cJg0_bxvZdP1lW2QTJSr5HQydOMjxU6H-1v8Pidemyr8Ylqmb6A7upYBhWw56VS_jrSw-Ho-1_P1W1LfjcCvrm2x_7bh62Yk_fvjR7U7z2XCarRKl6BwDsi90lsJNsC_1hKpDRms_X6szbcMomONrtC4feXIwJHU4XpwJa-o20cpd5vokbWtdzssZ1lwjdfEgF3Ufe_nIPafF-_xEGviUU-8sDz5i3kZfAVjJA47i5QbIpYswUL1AdME8fMlS9iJSoeVpeEjnuStorbOFmq6u5Tz01JGkpwsDxYW3-Sm5sjjzpiaPQxK7rE4pPQWpGuSalrxWKoSqSgAOxByfQzSMshlHBstANBsQppiEh_NDBkIYJ2X0IVV7vPB4fsV92pSPG8DckMBThs6jaIMLr3O4QmEvY4_I9cOVxtM2oyqJazYjmgAc0gYT2GRJvciorSV7VrM9nQVNdyFwepRuAlfXcEGBSjjyWYLG5xj6IfUYYV7O14AGBI00oCrgaf5Ir74XLQW8uw-iCQeajkRQtiFLGnxY0wcMEuKh81EsWCn2YYwTVcr0cO83HTKIXwT0wkXlT_EyvEQpi0XiozU6Qw6nV7aeXnDreyn1TywOeTZ39Wxd44_nod-9gfeeMZLIfBiq65YK8Fys7GMOSqmIsl_e2YVc_QQtWzd1BB3bMe0_AfImT6g"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRmgfoIeQWRw_szfIck_uuo_48ETrAcXGgSkrDDq5T2KfL2EjBontv0yKXxk4pWWmEKF4gb8WgYWPRQDJGXXRomHSSsZ7B1s9AnbgQuJHus4J-j52LEC5W8qg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "ASUS ROG Crosshair X870E DARK HERO Motherboard",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "iJA8s3icbZNLjuM2EIaBnCG3MAYQST2o7MZ62O0eS9aLtLkxJFG2ZFESW5KfyB1yB_dMgMlyZoBsc43OaeI8FgGSXeH__kLVj0L9dC-qX0Urd2mPImeRXqt3-5Xo4m4Ilp9l3_FjPlb8G8CKAnUDKBAYECk6NjX0OU_HVHT7PzEyNKwbhglNHRsmUiCEX8oi5aJqC3-3K3q7yyv-FUKgAqypDz_QMEIa0n-pmnRf_I2RjqGJsWqoBlThYyA0X3s-vMGVtYUIQIQUQzehZqpIxSr8cRX69vb_2aeXY9Ff37L3URJNQn82sfpuGMq06idrbCjOZO6E_mQau5NlN5ZFn3VpzyfNv2u4HUQ3DpMmvWyboun663afTWReFf-AocvrYvy0l39F--8Or03Fv2iGruoQm4ZpPjSsq9qrPI33cv_xeBTFb_e9uB-HeynuRftzl8rTLv_9u--d7mxbw9kKEimJHSpRM6JgHcJkpmiFI1kQh4tYMJbOziqlmsWaBUhqs1seypgpo5PG7MQac05q0Kf24uwdXLqhnk3X01PYyJG3YbWMQ_vht5gt7E0Cem82IALH55iy0wfKmb_mdVFf7CWV-rJlOne8HaEY-HF5WLaLc36bWikpba_OVQKJt4QiXiPZ5yK4ZLfFc5TwaaYwK6OkZ3UoM3rxl9QBPlnUnivrFDIYKAtZzITO4RKmDhnJISRZpdxIo-kRKseg5W0CRRjdXDdO3OekZaMniKTrUo0arw7nNdjQ0o2AKzKRX3k7XbH6gohgB3YoVe4wmNye1BgywuZT20OcBEq5Jg1HfB7OuC3cgLKOrIkfWWDFKLkxZ6N8iNnZq8AuSMppCMvd4wYrBgHbHFiagkUVE7H2nM24qc3AO3hPkSLrR-cqbjBiwksSiiMXXo75jJX5wYvDRJYFrUcGpkMGwlMOXG9WLabh3Lv6lEXFzDwxYr74MbGos0eZW0LW8BfablROO7ihcvrxMvS7N-W9q42Rrz8N1W1LcuVlH-AjV8pCRhKf3uF9EfwADKzqKgQmfnzjH75wTAM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iJA8s3icbZNLjuM2EIaBnCG3MAYQST2o7MZ62O0eS9aLtLkxJFG2ZFESW5KfyB1yB_dMgMlyZoBsc43OaeI8FgGSXeH__kLVj0L9dC-qX0Urd2mPImeRXqt3-5Xo4m4Ilp9l3_FjPlb8G8CKAnUDKBAYECk6NjX0OU_HVHT7PzEyNKwbhglNHRsmUiCEX8oi5aJqC3-3K3q7yyv-FUKgAqypDz_QMEIa0n-pmnRf_I2RjqGJsWqoBlThYyA0X3s-vMGVtYUIQIQUQzehZqpIxSr8cRX69vb_2aeXY9Ff37L3URJNQn82sfpuGMq06idrbCjOZO6E_mQau5NlN5ZFn3VpzyfNv2u4HUQ3DpMmvWyboun663afTWReFf-AocvrYvy0l39F--8Or03Fv2iGruoQm4ZpPjSsq9qrPI33cv_xeBTFb_e9uB-HeynuRftzl8rTLv_9u--d7mxbw9kKEimJHSpRM6JgHcJkpmiFI1kQh4tYMJbOziqlmsWaBUhqs1seypgpo5PG7MQac05q0Kf24uwdXLqhnk3X01PYyJG3YbWMQ_vht5gt7E0Cem82IALH55iy0wfKmb_mdVFf7CWV-rJlOne8HaEY-HF5WLaLc36bWikpba_OVQKJt4QiXiPZ5yK4ZLfFc5TwaaYwK6OkZ3UoM3rxl9QBPlnUnivrFDIYKAtZzITO4RKmDhnJISRZpdxIo-kRKseg5W0CRRjdXDdO3OekZaMniKTrUo0arw7nNdjQ0o2AKzKRX3k7XbH6gohgB3YoVe4wmNye1BgywuZT20OcBEq5Jg1HfB7OuC3cgLKOrIkfWWDFKLkxZ6N8iNnZq8AuSMppCMvd4wYrBgHbHFiagkUVE7H2nM24qc3AO3hPkSLrR-cqbjBiwksSiiMXXo75jJX5wYvDRJYFrUcGpkMGwlMOXG9WLabh3Lv6lEXFzDwxYr74MbGos0eZW0LW8BfablROO7ihcvrxMvS7N-W9q42Rrz8N1W1LcuVlH-AjV8pCRhKf3uF9EfwADKzqKgQmfnzjH75wTAM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQWgdl8JHC95trlVnOdvcC3Lkrskm3p0lFbMPp8VIx00B4Dt9Kvr26aE6BXokNgWd7dEm-qnehvr76eWRQQJevYPXT4y3HtqdiYP6FvTxcdQtCpAzdIEk-f6g",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - TECH EDGE",
+      "title": "ASUS ROG CROSSHAIR X870E HERO AM5 ATX Motherboard",
+      "price": "$1,199.99",
+      "extracted_price": 1199.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "BVuM0HicTZDbrpNAFIbj8xCTGWA4eLdpGdqmgJyGdm4aYCiwGQobeqB9AS99BdOtJnqpJt76Gvo0YvTCdbGykm_lz5f_7T2vvvNDt096KTBXybV6WbzmbdgOnv2p61t2yo4V-wZFXZkGaiqQIAKSogHxU5YcE94WFfsK5YkBUQTTliVZ0wD6UuYJ49Uhd_f7vJ-32fQmAqRLSBFFdQqCoior6HPVJEX-F8uKihCURQD-5CGANO25Z8O7D0-nvL_-TB-CKBB81xJmfTsMZVL1wmYSMoWF6buCEWLBbo9l3qdt0jOh-f8WdwNvj4PQJOOuyZu2v-6KVOiyKv8Hhjar8-OHovsjoiFV10UVyAAqqoiQKunPTcXePXfn470s3p9OPP9xL_j9NNxLfs8PH9ukO--zXy_emE_L2ey0NLyo68jcB-ECA8qxT-Px4hPDcC3Gab2UyGO5Di3Iw5CZeb1aEZMF5GbM8gUzyMFfROblFszLMoghDyQn8aFubm-cUN5e7bkDvQiuaeN0WW3KLPLGlBu2bfoLaqGSPjqjP2drRrZjuFmBFDjX8OBNLg9ytDCebLAFbNPK22blxHMy5mEZ5YSR0GLSlhvUxQ7xH53AJdoYY3rwoH92F06dNebNjwfgxrD2AKYMdDc7Kk_MhDMv8pDNdYnObdmNyyUJ8dZ-ZDG1fOrUdJOGhsxEFK5Jt3FMfA6uEBKuXWisHdm43KQWutAGX23o4KDBKAngIbLGM7H0WxSBZFljM5OWaOpyO_Ux0gq-Tnkr-Q2QSMMku4JNBtA-w7hMI_P9OPT7n-ABo2PgKo7qrZyLvQ5kvFsXslrsmGUj3NSq9wqqmqzIItQ1XVF_A8paCLo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BVuM0HicTZDbrpNAFIbj8xCTGWA4eLdpGdqmgJyGdm4aYCiwGQobeqB9AS99BdOtJnqpJt76Gvo0YvTCdbGykm_lz5f_7T2vvvNDt096KTBXybV6WbzmbdgOnv2p61t2yo4V-wZFXZkGaiqQIAKSogHxU5YcE94WFfsK5YkBUQTTliVZ0wD6UuYJ49Uhd_f7vJ-32fQmAqRLSBFFdQqCoior6HPVJEX-F8uKihCURQD-5CGANO25Z8O7D0-nvL_-TB-CKBB81xJmfTsMZVL1wmYSMoWF6buCEWLBbo9l3qdt0jOh-f8WdwNvj4PQJOOuyZu2v-6KVOiyKv8Hhjar8-OHovsjoiFV10UVyAAqqoiQKunPTcXePXfn470s3p9OPP9xL_j9NNxLfs8PH9ukO--zXy_emE_L2ey0NLyo68jcB-ECA8qxT-Px4hPDcC3Gab2UyGO5Di3Iw5CZeb1aEZMF5GbM8gUzyMFfROblFszLMoghDyQn8aFubm-cUN5e7bkDvQiuaeN0WW3KLPLGlBu2bfoLaqGSPjqjP2drRrZjuFmBFDjX8OBNLg9ytDCebLAFbNPK22blxHMy5mEZ5YSR0GLSlhvUxQ7xH53AJdoYY3rwoH92F06dNebNjwfgxrD2AKYMdDc7Kk_MhDMv8pDNdYnObdmNyyUJ8dZ-ZDG1fOrUdJOGhsxEFK5Jt3FMfA6uEBKuXWisHdm43KQWutAGX23o4KDBKAngIbLGM7H0WxSBZFljM5OWaOpyO_Ux0gq-Tnkr-Q2QSMMku4JNBtA-w7hMI_P9OPT7n-ABo2PgKo7qrZyLvQ5kvFsXslrsmGUj3NSq9wqqmqzIItQ1XVF_A8paCLo"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSdQX-YraVKdz_MCDtgrCWRCNu23qNviENjqGWtqGAsIx8QGvQq4x9DmFxe5mDAkg4X_5dFd3eEEj4wsgqatwUqM6seIafgoiutJMcE6ON4BDDOwrvgXN3C",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "ASUS X870E ROG Crosshair Glacial AMD AM5 eATX Motherboard",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$1,299.99",
+      "extracted_price": 1299.99,
+      "immersive_product_page_token": "EWV7PHicdY_NjqNGFIWV50GRqCqwTXaDobBpA6ag-NtYuCgDdvFjwD24Ne-QVxh5ZiJNlkmkbPMaHeVh0omyyCLZHJ17vnMX5_sHr38VbX_KBxSYdn6vvy33ogu70Xe-9kNX3NhUF78AGcpAUSECCwThUkULGX1l-ZSLrqyLjz9VPC9E3XLvdOKD0bH_efmxbvKS_81_XmrySoXqYgnQcqHBlaYon4ZifJX364OqLZbKagHREiFFhm_nhz3xjMN_oi_XGx_ur8d3AQ0k4lnSeujGscrrQUpWS9mUNibxJD3EktNNFR-OXT4UUvNvDw-j6KZRavL50PCmG-6H8ij1rOb_gLFjFz59Kd-i4uOn5i_pn6dHVX6-3QT_7VGKx218VOLB2x-6vH8-sd-_-cO8bdfr63bt076PDCIHwt7yhk7HjR36yH6KUAaYPO_dS7UtQkEj1F9DI9Ojl-x9cBZtgKvBRyQKhJ75F609osLhDd67Z4GDdgvTAIDQSGf_XE4UlIBZYONtyDbA2rNPyVvX1jNAzMgoqhBqxo72cwLxU9rqCbWqJGz795EhRBRVerDZzjQpkQPnmiXYdGiKjoAobkMRC7MX2ooLFcSkL67lbqqOXnojssjg18Dg1oRZTKFjqga1eoc2xKF0vhehfvPlcSaN7dAWJ16cztzU3F2CM2IIp4CRQqFWBwEwvXiSM9rjAnf3XVw85VEJisRVj5HuZOZ8oi8kDRM8JUgMEapSJpM9jXHlRfZI42zrJMKhuOocq4ApteMM6y0PhaCGuO8SFmA435iVVezshoT2FY8vUwb08W3jMwPYtWpbJxv37sUZIVa_dqweh42Y2abfho2pxhfhsbM9MNNO47DQP8_jcHqV32F1Cjy1vppCO-JhlV8mr50CWcmuK35v9J3_HViulIUCgbbSFtqfz3gtXg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EWV7PHicdY_NjqNGFIWV50GRqCqwTXaDobBpA6ag-NtYuCgDdvFjwD24Ne-QVxh5ZiJNlkmkbPMaHeVh0omyyCLZHJ17vnMX5_sHr38VbX_KBxSYdn6vvy33ogu70Xe-9kNX3NhUF78AGcpAUSECCwThUkULGX1l-ZSLrqyLjz9VPC9E3XLvdOKD0bH_efmxbvKS_81_XmrySoXqYgnQcqHBlaYon4ZifJX364OqLZbKagHREiFFhm_nhz3xjMN_oi_XGx_ur8d3AQ0k4lnSeujGscrrQUpWS9mUNibxJD3EktNNFR-OXT4UUvNvDw-j6KZRavL50PCmG-6H8ij1rOb_gLFjFz59Kd-i4uOn5i_pn6dHVX6-3QT_7VGKx218VOLB2x-6vH8-sd-_-cO8bdfr63bt076PDCIHwt7yhk7HjR36yH6KUAaYPO_dS7UtQkEj1F9DI9Ojl-x9cBZtgKvBRyQKhJ75F609osLhDd67Z4GDdgvTAIDQSGf_XE4UlIBZYONtyDbA2rNPyVvX1jNAzMgoqhBqxo72cwLxU9rqCbWqJGz795EhRBRVerDZzjQpkQPnmiXYdGiKjoAobkMRC7MX2ooLFcSkL67lbqqOXnojssjg18Dg1oRZTKFjqga1eoc2xKF0vhehfvPlcSaN7dAWJ16cztzU3F2CM2IIp4CRQqFWBwEwvXiSM9rjAnf3XVw85VEJisRVj5HuZOZ8oi8kDRM8JUgMEapSJpM9jXHlRfZI42zrJMKhuOocq4ApteMM6y0PhaCGuO8SFmA435iVVezshoT2FY8vUwb08W3jMwPYtWpbJxv37sUZIVa_dqweh42Y2abfho2pxhfhsbM9MNNO47DQP8_jcHqV32F1Cjy1vppCO-JhlV8mr50CWcmuK35v9J3_HViulIUCgbbSFtqfz3gtXg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSt54UK5iNjbEfCMcTMCdFyMXBBMyxuIOtSeGjAyGxx8xmJfbBZg2vnLlRIEaTgy54GmsILYIBWbD9kqC7rzEXB55X66d6sCpcyemoJDeA0_-H0IXwqh8ixwQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTSy2et80F8QOJVvJxoOLwDyUy5-s2pBKyIp2w-KkjWA87UkVC7tDDB0FhdpVme1XyCt7KCDy8KwgwMPVLOnjXsy2uV6b5YAIZXFg",
+      "source": "Provantage",
+      "title": "ASUS ROGCROSSHAIRX870E Rog Crosshair X870E Hero",
+      "rating": 4.2,
+      "reviews": 34,
+      "price": "$675.42",
+      "extracted_price": 675.42,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "1osm33icdZDNruM0AIXF81RIzm9TdtM2Sclt0pvEdlpvKsdx69zYSZqfTlrxDrzCqDODNCwBiS2vcXkSllwQCxawOTo6n87m-_7By19l3Z5oZ6RuQG_l1-dn2cCmj8MvbdcUIxvK4hfNNE0ATFsDNjDm2tzUTeMLowOVzbksPvwkOC1kWfPd6cS7dcP-5_JjqeiZ_81_ntu2YS0czdBs3V4Aw7LAx67oX_Xn1dGYz23H1BYL4ADNMMyFY333nOzWx_9mny8j726v-bsUpbNk589WXdP3gpbdbO_MgTvbuMlutoTeLGwGwbu8oV0xU__u-rGXzdDPFJ2Oiqumux3P-axlJf8H9A2r-PD5_DYVHz6qv6K9Dg9x_jSOkv_2OMvH2D-EfPD6h4a21xP7_as_3CtbrTq2ilHb4nUC4NqL4hcZhlWwyoF1CGUxpXXiMxXR8E5GhnFXuHKVQTZFmjywuzAJDG4UF1ui2hWHWA_3y-yQFRRpSc9gQCLk6WRf1EyLuhhMBq-CJ-oXOAdCT_X2mqTaKlWRytbuwPTIDV2vKvzW46g34T64UiBuEDGdqeCOwEErKuu0wy0hwLUyX7akbmWcyYpIcTtg8Z4YosEqOmUw-TaByQuthgPOpglCcYr2wTLG0ci00CSSbGM17FPlvg-VyKJ7cMEbbwN1oVI_KZEnnqhyJoQI5F4xUR_d93prYCMyiZtUXCXLaI293Z7IEC87tAkQ8uWY1cGhgGKIsx7ge7DJobA5IpK5yTYE2hq50-XN6D1HBMcQDUSPRJG1L0hZgCr8zLD083V1PwDsxsAKt5mTevo0Mp8I9hLBBLWCZ9VAtGWfa8mVaV7kl8Ey2US3XUZgmEUbDOQNuuIpq8UGKXLaQi8MDaFHWTTSell_mvru9AreedaQ7qzy4spF7nXOm6pdPaTAJBeH39RyG3-jzR3TNnVt4SzsxZ_tMTn1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1osm33icdZDNruM0AIXF81RIzm9TdtM2Sclt0pvEdlpvKsdx69zYSZqfTlrxDrzCqDODNCwBiS2vcXkSllwQCxawOTo6n87m-_7By19l3Z5oZ6RuQG_l1-dn2cCmj8MvbdcUIxvK4hfNNE0ATFsDNjDm2tzUTeMLowOVzbksPvwkOC1kWfPd6cS7dcP-5_JjqeiZ_81_ntu2YS0czdBs3V4Aw7LAx67oX_Xn1dGYz23H1BYL4ADNMMyFY333nOzWx_9mny8j726v-bsUpbNk589WXdP3gpbdbO_MgTvbuMlutoTeLGwGwbu8oV0xU__u-rGXzdDPFJ2Oiqumux3P-axlJf8H9A2r-PD5_DYVHz6qv6K9Dg9x_jSOkv_2OMvH2D-EfPD6h4a21xP7_as_3CtbrTq2ilHb4nUC4NqL4hcZhlWwyoF1CGUxpXXiMxXR8E5GhnFXuHKVQTZFmjywuzAJDG4UF1ui2hWHWA_3y-yQFRRpSc9gQCLk6WRf1EyLuhhMBq-CJ-oXOAdCT_X2mqTaKlWRytbuwPTIDV2vKvzW46g34T64UiBuEDGdqeCOwEErKuu0wy0hwLUyX7akbmWcyYpIcTtg8Z4YosEqOmUw-TaByQuthgPOpglCcYr2wTLG0ci00CSSbGM17FPlvg-VyKJ7cMEbbwN1oVI_KZEnnqhyJoQI5F4xUR_d93prYCMyiZtUXCXLaI293Z7IEC87tAkQ8uWY1cGhgGKIsx7ge7DJobA5IpK5yTYE2hq50-XN6D1HBMcQDUSPRJG1L0hZgCr8zLD083V1PwDsxsAKt5mTevo0Mp8I9hLBBLWCZ9VAtGWfa8mVaV7kl8Ey2US3XUZgmEUbDOQNuuIpq8UGKXLaQi8MDaFHWTTSell_mvru9AreedaQ7qzy4spF7nXOm6pdPaTAJBeH39RyG3-jzR3TNnVt4SzsxZ_tMTn1"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How many SSD slots does the ASUS ROG Crosshair X870E Hero have?",
+      "type": "featured_snippet",
+      "snippet": "2 slots, three of which are PCIe 5.0-ready to offer blistering 16 GB/s speeds, while the others offer still-impressive 8 GB/s over PCIe 4.0 interfaces. It also features a SlimSAS Connector, which supports PCIe 4.0 x4 mode via a transfer cable. The cable is purchased separately.",
+      "title": "ROG CROSSHAIR X870E HERO - Republic of Gamers｜ROG Global",
+      "link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero/",
+      "displayed_link": "https://rog.asus.com › motherboards › rog-crosshair-x87...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAtklEQVR4AWJwL_ChCA9BA15xaWkCcRgQJwExP7Ga3ID4OoBPMqgBGISh6GECcLD7DCAFAUioAkwgAQk4mCAcsDZ5JF2ycXhhbf4vf4AyQfYJAHN1xkQvKV2592YVYKzUhXooopzWvH7MK_LFL0x62Q0KJmxKZKIsMwTWtWNVOuZmWhMfCDLrRJj4zqSIDG_0D6t95JMkw5kF4dKIP8z3AITsKMQv_vpA9g-JNB-9YDwb8nkBEwMArg872EB3lxAAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBTU0Qgc2xvdHMgZG9lcyB0aGUgQVNVUyBST0cgQ3Jvc3NoYWlyIFg4NzBFIEhlcm8gaGF2ZT8iLCJsayI6ImN3WEJzUTJBTUF3RXdEMm9mZ1E2cU5qRkloWkdncnprVHdoc3o5MjBCUWR1cXgta0FsMXNRcUVMTFJ5bUxpUVA3RWtwN0V5ODZ6STd3cE1JZV93SCIsImJzIjoiYzJYUE1VX0RNQkFGWUpYUkV4T0t3c0JqWkt1OEZER1FBZzEwUVVpWXFxeHU0dUpJcEZmZHViVDhBWDQwTEZRMktZak9kX2U5ZC1xanA0b3hyZEhheFR1TUdVRmVLUWhxY29MZ0hhN014T0R4NFE0M1RDTGVOb3puODBHX3hOZ3h3ZHMzVjJTZlozcVlYX3BPRWFuX0sxWldBcVlYVkR0bHMxVWNmS2VvaWVwUHZRMnc3T0pKRXByRmJ3TVR1Tm44cEpmMzBJVS16VTkyc3NScFVsMExuUUJWS2t4OVVfbkV0TFNsZVVhV2E0bEoxMC0za1ZuSG5ZanQ3Y3pDWEYybzQxSDNUR29ncS1XU09NQlZWWkY5SGVnc1A0cnZwZ1pfcG9lOWJ3IiwiaWQiOiJmY19sbnBmYXIzU0VKYXlpLWdQbG9Ub3NRTV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBTU0Qgc2xvdHMgZG9lcyB0aGUgQVNVUyBST0cgQ3Jvc3NoYWlyIFg4NzBFIEhlcm8gaGF2ZT8iLCJsayI6ImN3WEJzUTJBTUF3RXdEMm9mZ1E2cU5qRkloWkdncnprVHdoc3o5MjBCUWR1cXgta0FsMXNRcUVMTFJ5bUxpUVA3RWtwN0V5ODZ6STd3cE1JZV93SCIsImJzIjoiYzJYUE1VX0RNQkFGWUpYUkV4T0t3c0JqWkt1OEZER1FBZzEwUVVpWXFxeHU0dUpJcEZmZHViVDhBWDQwTEZRMktZak9kX2U5ZC1xanA0b3hyZEhheFR1TUdVRmVLUWhxY29MZ0hhN014T0R4NFE0M1RDTGVOb3puODBHX3hOZ3h3ZHMzVjJTZlozcVlYX3BPRWFuX0sxWldBcVlYVkR0bHMxVWNmS2VvaWVwUHZRMnc3T0pKRXByRmJ3TVR1Tm44cEpmMzBJVS16VTkyc3NScFVsMExuUUJWS2t4OVVfbkV0TFNsZVVhV2E0bEoxMC0za1ZuSG5ZanQ3Y3pDWEYybzQxSDNUR29ncS1XU09NQlZWWkY5SGVnc1A0cnZwZ1pfcG9lOWJ3IiwiaWQiOiJmY19sbnBmYXIzU0VKYXlpLWdQbG9Ub3NRTV8zIn0%3D"
+    },
+    {
+      "question": "What are the slots in ASUS ROG Strix X870E EM 2?",
+      "type": "ai_overview",
+      "page_token": "vGNEHHicHdBfTsIwHADgeBkfZWWJCgkxGbANpMWV_dptL2ZrN-bonwlIZW_exVN5Go0X-B6-r2_1Zg4_N5f2fO5P09HIOXe3t3av6jth9ag8XY0YiVKpqhSH6f3DPXpqxGz5sQrm76sggb5nC-rtOAw43ntEt92Wu886ZbpO14ZGa1QCu6YQNnQo0I4xI8eTpgjlS2loUfBHlGiJdpHzyy7MqWoz1pFYaLnF4eRYxww2TFqcqiOH9oWy_EriIk8PNKKZddIjQJCKsFr3JLRnqhED02dYBfPaFIZyZLfxn6joPOXhR9IpV3nUQRQOXFMLHgJYEIUP5F1ydREeHpNuHSxbeapMoPNsNYDHnvNM9RsukyqaQOUTmlL7lgAdRKc0iygUejkknJ1SfznGGTjSkQ0AHgpOotIPdtLdNuIy82__P2evjT5P-6Pd_wKkjYUh",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vGNEHHicHdBfTsIwHADgeBkfZWWJCgkxGbANpMWV_dptL2ZrN-bonwlIZW_exVN5Go0X-B6-r2_1Zg4_N5f2fO5P09HIOXe3t3av6jth9ag8XY0YiVKpqhSH6f3DPXpqxGz5sQrm76sggb5nC-rtOAw43ntEt92Wu886ZbpO14ZGa1QCu6YQNnQo0I4xI8eTpgjlS2loUfBHlGiJdpHzyy7MqWoz1pFYaLnF4eRYxww2TFqcqiOH9oWy_EriIk8PNKKZddIjQJCKsFr3JLRnqhED02dYBfPaFIZyZLfxn6joPOXhR9IpV3nUQRQOXFMLHgJYEIUP5F1ydREeHpNuHSxbeapMoPNsNYDHnvNM9RsukyqaQOUTmlL7lgAdRKc0iygUejkknJ1SfznGGTjSkQ0AHgpOotIPdtLdNuIy82__P2evjT5P-6Pd_wKkjYUh",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc2xvdHMgaW4gQVNVUyBST0cgU3RyaXggWDg3MEUgRU0gMj8iLCJsayI6IkdoOWhjM1Z6SUhKdlp5QnpkSEpwZUNCNE9EY3daU0JsYlNBeUlITnNiM1J6IiwiYnMiOiJjMlhQTVVfRE1CQUZZSlhSRXhPS3dzQmpaS3U4RkRHUUFnMTBRVWlZcXF4dTR1SklwRmZkdWJUOEFYNDBMRlEyS1lqT2RfZTlkLXFqcDRveHJkSGF4VHVNR1VGZUtRaHFjb0xnSGE3TXhPRHg0UTQzVENMZU5vem44MEdfeE5neHdkczNWMlNmWjNxWVhfcE9FYW5fSzFaV0FxWVhWRHRsczFVY2ZLZW9pZXBQdlEydzdPSkpFcHJGYndNVHVObjhwSmYzMElVLXpVOTJzc1JwVWwwTG5RQlZLa3g5VV9uRXRMU2xlVWFXYTRsSjEwLTNrVm5IbllqdDdjekNYRjJvNDFIM1RHb2dxLVdTT01CVlZaRjlIZWdzUDRydnBnWl9wb2U5YnciLCJpZCI6ImZjX2xucGZhcjNTRUpheWktZ1Bsb1Rvc1FNXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc2xvdHMgaW4gQVNVUyBST0cgU3RyaXggWDg3MEUgRU0gMj8iLCJsayI6IkdoOWhjM1Z6SUhKdlp5QnpkSEpwZUNCNE9EY3daU0JsYlNBeUlITnNiM1J6IiwiYnMiOiJjMlhQTVVfRE1CQUZZSlhSRXhPS3dzQmpaS3U4RkRHUUFnMTBRVWlZcXF4dTR1SklwRmZkdWJUOEFYNDBMRlEyS1lqT2RfZTlkLXFqcDRveHJkSGF4VHVNR1VGZUtRaHFjb0xnSGE3TXhPRHg0UTQzVENMZU5vem44MEdfeE5neHdkczNWMlNmWjNxWVhfcE9FYW5fSzFaV0FxWVhWRHRsczFVY2ZLZW9pZXBQdlEydzdPSkpFcHJGYndNVHVObjhwSmYzMElVLXpVOTJzc1JwVWwwTG5RQlZLa3g5VV9uRXRMU2xlVWFXYTRsSjEwLTNrVm5IbllqdDdjekNYRjJvNDFIM1RHb2dxLVdTT01CVlZaRjlIZWdzUDRydnBnWl9wb2U5YnciLCJpZCI6ImZjX2xucGZhcjNTRUpheWktZ1Bsb1Rvc1FNXzMifQ%3D%3D"
+    },
+    {
+      "question": "Which ASUS motherboards are BTF?",
+      "type": "ai_overview",
+      "page_token": "2-7eTnicHdDNTsIwAADg-DIcpWWKkYSYDNYJSrHdum69mK4FCv3ZFGS4m-_iU_k0Gq_f8fv6dvtgf67O5nRqj5PhsOu6613T7NzmWjV-KI-fQQ2VdK6Wyk7Gd2P4sFXT5GMRz94WMWFtW8wpyNPLgh8KsvFoRbzhJIqDgEjqhL5UB9SSYC91ULdqhKxyiOBcvOSeRoQjIPh9kgOTFf3SM2j6jBVSJTdwg0RQaNUxr88sQjMS0WidYs69I7gXlFkDNcdjjvSsTsXTxhZA9gaIvoKZ1bwEyEmIUP64dIKtOjKiz2uGz2IPHWWtpcjNyxEMVa8Dc3j9Zx8lMNsscXFi9LEOsa_KRc9A8VSVrn3mmtTpPasjTHPa7AmjvTo4z8BypebxCdvukiUGEoDe5AFLlh6h9s6wwsS6G2zVeRoN_j-nr1t_mrTvze4XKHCDzQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2-7eTnicHdDNTsIwAADg-DIcpWWKkYSYDNYJSrHdum69mK4FCv3ZFGS4m-_iU_k0Gq_f8fv6dvtgf67O5nRqj5PhsOu6613T7NzmWjV-KI-fQQ2VdK6Wyk7Gd2P4sFXT5GMRz94WMWFtW8wpyNPLgh8KsvFoRbzhJIqDgEjqhL5UB9SSYC91ULdqhKxyiOBcvOSeRoQjIPh9kgOTFf3SM2j6jBVSJTdwg0RQaNUxr88sQjMS0WidYs69I7gXlFkDNcdjjvSsTsXTxhZA9gaIvoKZ1bwEyEmIUP64dIKtOjKiz2uGz2IPHWWtpcjNyxEMVa8Dc3j9Zx8lMNsscXFi9LEOsa_KRc9A8VSVrn3mmtTpPasjTHPa7AmjvTo4z8BypebxCdvukiUGEoDe5AFLlh6h9s6wwsS6G2zVeRoN_j-nr1t_mrTvze4XKHCDzQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJXaGljaCBBU1VTIG1vdGhlcmJvYXJkcyBhcmUgQlRGPyIsImxrIjoiR2g5M2FHbGphQ0JoYzNWeklHMXZkR2hsY21KdllYSmtjeUJoY21VZ1luUm0iLCJicyI6ImMyWFBNVV9ETUJBRllKWFJFeE9Ld3NCalpLdThGREdRQWcxMFFVaVlxcXh1NHVKSXBGZmR1YlQ4QVg0MExGUTJLWWpPZF9lOWQtcWpwNG94cmRIYXhUdU1HVUZlS1FocWNvTGdIYTdNeE9EeDRRNDNUQ0xlTm96bjgwR194Tmd4d2RzM1YyU2ZaM3FZWF9wT0Vhbl9LMVpXQXFZWFZEdGxzMVVjZktlb2llcFB2UTJ3N09KSkVwckZid01UdU5uOHBKZjMwSVUtelU5MnNzUnBVbDBMblFCVktreDlVX25FdExTbGVVYVdhNGxKMTAtM2tWbkhuWWp0N2N6Q1hGMm80MUgzVEdvZ3EtV1NPTUJWVlpGOUhlZ3NQNHJ2cGdaX3BvZTlidyIsImlkIjoiZmNfbG5wZmFyM1NFSmF5aS1nUGxvVG9zUU1fMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJXaGljaCBBU1VTIG1vdGhlcmJvYXJkcyBhcmUgQlRGPyIsImxrIjoiR2g5M2FHbGphQ0JoYzNWeklHMXZkR2hsY21KdllYSmtjeUJoY21VZ1luUm0iLCJicyI6ImMyWFBNVV9ETUJBRllKWFJFeE9Ld3NCalpLdThGREdRQWcxMFFVaVlxcXh1NHVKSXBGZmR1YlQ4QVg0MExGUTJLWWpPZF9lOWQtcWpwNG94cmRIYXhUdU1HVUZlS1FocWNvTGdIYTdNeE9EeDRRNDNUQ0xlTm96bjgwR194Tmd4d2RzM1YyU2ZaM3FZWF9wT0Vhbl9LMVpXQXFZWFZEdGxzMVVjZktlb2llcFB2UTJ3N09KSkVwckZid01UdU5uOHBKZjMwSVUtelU5MnNzUnBVbDBMblFCVktreDlVX25FdExTbGVVYVdhNGxKMTAtM2tWbkhuWWp0N2N6Q1hGMm80MUgzVEdvZ3EtV1NPTUJWVlpGOUhlZ3NQNHJ2cGdaX3BvZTlidyIsImlkIjoiZmNfbG5wZmFyM1NFSmF5aS1nUGxvVG9zUU1fMyJ9"
+    },
+    {
+      "question": "Does the X870E support ecc?",
+      "type": "featured_snippet",
+      "snippet": "This system supports ECC or non-ECC memory depending on which processor is installed. Mixing ECC and non-ECC modules is not recommended. Please refer to manual or CPU specifications for additional information.",
+      "title": "Memory for a ASUS - ProArt X870E-Creator WiFi Motherboard",
+      "link": "https://www.kingston.com/en/memory/search/model/110021/asus-proart-x870e-creator-wifi-motherboard",
+      "displayed_link": "https://www.kingston.com › memory › search › model",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABGElEQVR4AWJwL_CB40QGhsrJAELJEAZhGIiifz5472oxiHpTRYIXeIFCTS0TkPlZ5LyaJBMoFAkCr_G-7MK_ZLu1mXhpm15fe9cDhhsQlY4E0gBuegY6OQFVBKLlOfIZ8SMtOQCvhaBk8J0HvwzuOB6533E-E1yApgaiSkTQi4TBjmuKly8AUImg4A1xBanVTLABrpqnEC1MreULpV6LGpwZWHBMwn2kBAC2e2AIWgeihZML6qyASA-0DAocBce151xSTgr05sLg9HtZBwC7pECDghFoWv5_-J3sRHmW5l3aV9jc11q5Z8FqI2BsWiDNMa2805xVwA7MCnr732auZAUPPxf8FmqLCPkEaI5UsWH4Hw7MN8gGAADoqVd1oE3SFAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJEb2VzIHRoZSBYODcwRSBzdXBwb3J0IGVjYz8iLCJsayI6IkdoWmtiMlZ6SUhnNE56QmxJSE4xY0hCdmNuUWdaV05qIiwiYnMiOiJjMlhQTVVfRE1CQUZZSlhSRXhPS3dzQmpaS3U4RkRHUUFnMTBRVWlZcXF4dTR1SklwRmZkdWJUOEFYNDBMRlEyS1lqT2RfZTlkLXFqcDRveHJkSGF4VHVNR1VGZUtRaHFjb0xnSGE3TXhPRHg0UTQzVENMZU5vem44MEdfeE5neHdkczNWMlNmWjNxWVhfcE9FYW5fSzFaV0FxWVhWRHRsczFVY2ZLZW9pZXBQdlEydzdPSkpFcHJGYndNVHVObjhwSmYzMElVLXpVOTJzc1JwVWwwTG5RQlZLa3g5VV9uRXRMU2xlVWFXYTRsSjEwLTNrVm5IbllqdDdjekNYRjJvNDFIM1RHb2dxLVdTT01CVlZaRjlIZWdzUDRydnBnWl9wb2U5YnciLCJpZCI6ImZjX2xucGZhcjNTRUpheWktZ1Bsb1Rvc1FNXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2ExWkhiMnd3ZVZCYVVscDVhbGxzVjJkNlUzQmllREpwUlRsbFptWllaRmQwYkMwdGFFRXhTRWxyVEdWNldYQlNkMnRsY1ZSMWVEVkxPVVUyU2pCR2NtTXRNVlZRYVdSNFYzaDZla2xzV1c1clVrTnhibXR6UzFFMVp4SVhiRzV3Wm1GeU0xTkZTbUY1YVMxblVHeHZWRzl6VVUwYUlrRkVjM0k1WmxSSlFVdEZObEJFWTFFMVduSnlZbHBTVkVwRUxWbFlXRzFNTmtFIiwiZmN2IjoiMyIsImVpIjoibG5wZmFyM1NFSmF5aS1nUGxvVG9zUU0iLCJxYyI6ImMxWEpNUTVBUUJBRlVMWEtFZjRSUkVOQzRpZ3kxbUREWm1SbUpSUjdkd3FON2lVdlo3TFRvTExBcVppdDVCVlhVNWVNbFZVd3hobEI0dXRSU0tlX0s5Z3UwUkRvR2dJSDBYczRqUmJHNFR4X1otSTJqa1dXMnRUMUR3IiwicXVlc3Rpb24iOiJEb2VzIHRoZSBYODcwRSBzdXBwb3J0IGVjYz8iLCJsayI6IkdoWmtiMlZ6SUhnNE56QmxJSE4xY0hCdmNuUWdaV05qIiwiYnMiOiJjMlhQTVVfRE1CQUZZSlhSRXhPS3dzQmpaS3U4RkRHUUFnMTBRVWlZcXF4dTR1SklwRmZkdWJUOEFYNDBMRlEyS1lqT2RfZTlkLXFqcDRveHJkSGF4VHVNR1VGZUtRaHFjb0xnSGE3TXhPRHg0UTQzVENMZU5vem44MEdfeE5neHdkczNWMlNmWjNxWVhfcE9FYW5fSzFaV0FxWVhWRHRsczFVY2ZLZW9pZXBQdlEydzdPSkpFcHJGYndNVHVObjhwSmYzMElVLXpVOTJzc1JwVWwwTG5RQlZLa3g5VV9uRXRMU2xlVWFXYTRsSjEwLTNrVm5IbllqdDdjekNYRjJvNDFIM1RHb2dxLVdTT01CVlZaRjlIZWdzUDRydnBnWl9wb2U5YnciLCJpZCI6ImZjX2xucGZhcjNTRUpheWktZ1Bsb1Rvc1FNXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "PaqlT3icxZX9cqo4FMAfYJ9j-ceq-NFWO8PcTRAVW6vxY237D8NHDCgQSvBS73_3Xfap9mk2oChYtXN3ZmfPDCQnOTk5CefH-fmX6_jrv3_7w46igD1Uq3EcVwilxMUVk3pVnW19s7qkLgtN-xujm9DEjiWZdkg9LNiuhH2BuNKGCdvvUkMwmSQK2JFcP1jqYWOqDPStUyZjl84oQ0MhdSdphs7wiu_2sWJVrcpf698bHa5UWAX7lbY1xtgIR7hNKnWx1q6MqrrHDcB_KwQ4yYsAlSvqp2kZEPSVA6Akb_lol7lRcmZxqkHIPaYW8kV_JG0cBXCHY-jf2gyA3m5wfS2QQVHtJktUBJNDqPIu0FM5dzSYtSivnZUzk3DvNzt68-peiahq0Q_fV9HSIVTcRc07Qcnwa9odIYA7MbBj8nglVpmCTo9METn3lfMSAHuc7WMAkX-oqkV4HopVI-RNreqYtpl2Qpakpzxri7QX3zkGboDRPFiazXdr3CjLE1Uvw4WIqqbB7VyqW9jSbE38luq1eu1WbDfuWzcpFyY7gMEKYMxd1xj1n4aIVp4qsJajghxuJSd8EE7OXjPaH-rTAphdMVHSzjabolkH0mTxcWG3o8IYgAzNZpJrHfI5o3kwZ6hI5YDGEKRUpMHJu3bvKJ8VhBwW5PKof7JfPgKYuZdVzl421jsaILnIoDxJ-MogGRZdIVvZpR-c7oEfwWaBb4Bymrw7IiIQFo-i7k7QzNnxIZ6UrwC9cX1AyOFnlC5S9wHt9i0EVaRP4cucuXKV10tyjZu9EJCl_0k2FygA4mBy_9F2x9iqU9l_aQ11jIZWrE3I-aynnvEL9cD837lIqwXNqsUZLuwvuEiTh1yuFvskijMuUrtHKF_kYlcSitWif1ItznExKHJxrBbopFocuUhCuc5F9xoX8BIX_If_iQt0gYusWuS4WJ9UC3i41WToyMWvVwv931WLFBO8a4qlY7MiF0tItzvQrenzfS9SHf1t2H1Xmj_Q2p_PV_DrErL0ogdPt9wbzbEeYH0Qba0bjQ_QB2wJ7xKYzqelyahXkkPKmK07YemldS8qpb4yGZXgrFsa0sjGoUH10Cp5-X69xFwasZKnf2ge9mi41TZMJ7gUmA7ezzFqrnEkeG5IJVG_7feMD-MOvombd3q3CJrlzgR5bmtibcqiRVsMv3RBYD61ph_zt8VK9JCzanZ6Qa9WXjV7KHRnDQZeHx-DFoifolVjOou2cjxzZj9sNpryBNdeovnrZqvjlrb0Z-_x87o3jt76beNZ7WzNcOp3DDIMNn9CfzEI0qiYVNOazqsHtMVKFbzQlHgmNgl4RmBBoAlknmYy4Q_lT8y_p8BMXcPsu1S32sv27b2oG61bvXWHBY9E20BqiwLzQ6n2D_NwPbQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PaqlT3icxZX9cqo4FMAfYJ9j-ceq-NFWO8PcTRAVW6vxY237D8NHDCgQSvBS73_3Xfap9mk2oChYtXN3ZmfPDCQnOTk5CefH-fmX6_jrv3_7w46igD1Uq3EcVwilxMUVk3pVnW19s7qkLgtN-xujm9DEjiWZdkg9LNiuhH2BuNKGCdvvUkMwmSQK2JFcP1jqYWOqDPStUyZjl84oQ0MhdSdphs7wiu_2sWJVrcpf698bHa5UWAX7lbY1xtgIR7hNKnWx1q6MqrrHDcB_KwQ4yYsAlSvqp2kZEPSVA6Akb_lol7lRcmZxqkHIPaYW8kV_JG0cBXCHY-jf2gyA3m5wfS2QQVHtJktUBJNDqPIu0FM5dzSYtSivnZUzk3DvNzt68-peiahq0Q_fV9HSIVTcRc07Qcnwa9odIYA7MbBj8nglVpmCTo9METn3lfMSAHuc7WMAkX-oqkV4HopVI-RNreqYtpl2Qpakpzxri7QX3zkGboDRPFiazXdr3CjLE1Uvw4WIqqbB7VyqW9jSbE38luq1eu1WbDfuWzcpFyY7gMEKYMxd1xj1n4aIVp4qsJajghxuJSd8EE7OXjPaH-rTAphdMVHSzjabolkH0mTxcWG3o8IYgAzNZpJrHfI5o3kwZ6hI5YDGEKRUpMHJu3bvKJ8VhBwW5PKof7JfPgKYuZdVzl421jsaILnIoDxJ-MogGRZdIVvZpR-c7oEfwWaBb4Bymrw7IiIQFo-i7k7QzNnxIZ6UrwC9cX1AyOFnlC5S9wHt9i0EVaRP4cucuXKV10tyjZu9EJCl_0k2FygA4mBy_9F2x9iqU9l_aQ11jIZWrE3I-aynnvEL9cD837lIqwXNqsUZLuwvuEiTh1yuFvskijMuUrtHKF_kYlcSitWif1ItznExKHJxrBbopFocuUhCuc5F9xoX8BIX_If_iQt0gYusWuS4WJ9UC3i41WToyMWvVwv931WLFBO8a4qlY7MiF0tItzvQrenzfS9SHf1t2H1Xmj_Q2p_PV_DrErL0ogdPt9wbzbEeYH0Qba0bjQ_QB2wJ7xKYzqelyahXkkPKmK07YemldS8qpb4yGZXgrFsa0sjGoUH10Cp5-X69xFwasZKnf2ge9mi41TZMJ7gUmA7ezzFqrnEkeG5IJVG_7feMD-MOvombd3q3CJrlzgR5bmtibcqiRVsMv3RBYD61ph_zt8VK9JCzanZ6Qa9WXjV7KHRnDQZeHx-DFoifolVjOou2cjxzZj9sNpryBNdeovnrZqvjlrb0Z-_x87o3jt76beNZ7WzNcOp3DDIMNn9CfzEI0qiYVNOazqsHtMVKFbzQlHgmNgl4RmBBoAlknmYy4Q_lT8y_p8BMXcPsu1S32sv27b2oG61bvXWHBY9E20BqiwLzQ6n2D_NwPbQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ROG CROSSHAIR X870E HERO BTF",
+      "link": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-crosshair%2Frog-crosshair-x870e-hero-btf%2F&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECBkQAQ",
+      "displayed_link": "https://rog.asus.com › ... › MOTHERBOARDS FILTER",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "Latest M.2 Support: Three onboard PCIe® 5.0 M.2 slots and two PCIe® 4.0 M.2 slots, all with substantial cooling solutions; Abundant Connectivity: Dual USB4 ...",
+      "snippet_highlighted_words": [
+        "Three onboard PCIe® 5.0 M.2 slots and two PCIe® 4.0 M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Latest M.2 Support: Three onboard PCIe® 5.0 M.2 slots and two PCIe® 4.0 M.2 slots, all with substantial cooling solutions; Abundant Connectivity: Dual USB4 ...",
+          "source_info_link": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-crosshair%2Frog-crosshair-x870e-hero-btf%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-crosshair%2Frog-crosshair-x870e-hero-btf%2F",
+      "source": "ROG",
+      "read_more_link": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/"
+    },
+    {
+      "position": 2,
+      "title": "ROG CROSSHAIR X870E HERO BTF AMD ...",
+      "link": "https://www.insight.com/en_US/shop/product/ROGCROSSHAIRX870E3/ASUS/ROG+CROSSHAIR+X870E+HERO+BTF/ROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.insight.com%2Fen_US%2Fshop%2Fproduct%2FROGCROSSHAIRX870E3%2FASUS%2FROG%2BCROSSHAIR%2BX870E%2BHERO%2BBTF%2FROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY%2F&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECDEQAQ",
+      "displayed_link": "https://www.insight.com › Shop",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABW0lEQVR4AWJwL_ChKx5cFh4SLWG6JJLDAsO41XUpbZBp375HvHPKBeEsQLNlCIIwFIThDmoQDFZ7b1q0CFbtRWZv2qPdDvY2tGjvalfQMtDenvfBQw62k008MXxpN753_90bq38sPNTGiRAie6tOZJkQAOm3hKmVAiLFxkuoO1zQJUi8PXchMDu6Lb00vHBsLNfCllNaQhZEamagOTWWUyh6xkFyQoYtD0Mko8gQTqipgt7w1-DpTgvp2E2oospi0eJNpD1ir4IWFq75J0ujcd9SuibqSMddyGVXFz9x-rQ5CC_NUefcHE3g1hp2nYXlsYRspynk4b092AlpSXZ0bQhJZy41QchIyhKGKhB1kZCPBiJVm7oKucsIVd0qJ6To0R4kVSAqK1LiJnZkdFx6aTiIesH9HvaFqxBYgl8I98gAmLOrkPyV8OreIbOL0lTdpRx0DsDM__9H2JMn1po6d1TsCSsAAAAASUVORK5CYII.png",
+      "snippet": "Latest M.2 Support: Three onboard PCIe ® 5.0 M.2 slots and two PCIe ® 4.0 M.2 slots, all with substantial cooling solutions; Abundant Connectivity: Dual USB4 ...",
+      "snippet_highlighted_words": [
+        "Three onboard PCIe ® 5.0 M.2 slots and two PCIe ® 4.0 M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Latest M.2 Support: Three onboard PCIe ® 5.0 M.2 slots and two PCIe ® 4.0 M.2 slots, all with substantial cooling solutions; Abundant Connectivity: Dual USB4 ...",
+          "source_info_link": "https://www.insight.com/en_US/shop/product/ROGCROSSHAIRX870E3/ASUS/ROG+CROSSHAIR+X870E+HERO+BTF/ROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABW0lEQVR4AWJwL_ChKx5cFh4SLWG6JJLDAsO41XUpbZBp375HvHPKBeEsQLNlCIIwFIThDmoQDFZ7b1q0CFbtRWZv2qPdDvY2tGjvalfQMtDenvfBQw62k008MXxpN753_90bq38sPNTGiRAie6tOZJkQAOm3hKmVAiLFxkuoO1zQJUi8PXchMDu6Lb00vHBsLNfCllNaQhZEamagOTWWUyh6xkFyQoYtD0Mko8gQTqipgt7w1-DpTgvp2E2oospi0eJNpD1ir4IWFq75J0ujcd9SuibqSMddyGVXFz9x-rQ5CC_NUefcHE3g1hp2nYXlsYRspynk4b092AlpSXZ0bQhJZy41QchIyhKGKhB1kZCPBiJVm7oKucsIVd0qJ6To0R4kVSAqK1LiJnZkdFx6aTiIesH9HvaFqxBYgl8I98gAmLOrkPyV8OreIbOL0lTdpRx0DsDM__9H2JMn1po6d1TsCSsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.insight.com%2Fen_US%2Fshop%2Fproduct%2FROGCROSSHAIRX870E3%2FASUS%2FROG+CROSSHAIR+X870E+HERO+BTF%2FROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.insight.com%2Fen_US%2Fshop%2Fproduct%2FROGCROSSHAIRX870E3%2FASUS%2FROG%2BCROSSHAIR%2BX870E%2BHERO%2BBTF%2FROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY%2F",
+      "source": "Insight Enterprises",
+      "read_more_link": "https://www.insight.com/en_US/shop/product/ROGCROSSHAIRX870E3/ASUS/ROG+CROSSHAIR+X870E+HERO+BTF/ROG-CROSSHAIR-X870E-HERO-BTF-AMD-X870E-ATX-BOARD-WITH-HIDDEN-CONNECTOR-DESIGN-AND-HIGH-POWER-GPU-SLOT-FOR-CLEAN-CABLE-MANAGEMENT--18-2-2-POWER--DDR5--WIFI-7--5X-M-2--PCIE-5-0--USB4--ADVANCED-AI-PC-READY/"
+    },
+    {
+      "position": 3,
+      "title": "X870E Crosshair Hero M.2 Bandwidth - which slots should ...",
+      "link": "https://www.reddit.com/r/buildapc/comments/1pse0xw/x870e_crosshair_hero_m2_bandwidth_which_slots/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1pse0xw%2Fx870e_crosshair_hero_m2_bandwidth_which_slots%2F&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECDQQAQ",
+      "displayed_link": "9 comments · 7 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "X870E Crosshair Hero M.2 Bandwidth - which slots should I use for 3 M.2 drives while retaining x16 bandwidth for the GPU.",
+      "snippet_highlighted_words": [
+        "X870E Crosshair Hero M.2",
+        "slots",
+        "M.2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "X870E Crosshair Hero M.2 Bandwidth - which slots should I use for 3 M.2 drives while retaining x16 bandwidth for the GPU.",
+          "source_info_link": "https://www.reddit.com/r/buildapc/comments/1pse0xw/x870e_crosshair_hero_m2_bandwidth_which_slots/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1pse0xw%2Fx870e_crosshair_hero_m2_bandwidth_which_slots%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1pse0xw%2Fx870e_crosshair_hero_m2_bandwidth_which_slots%2F",
+      "source": "Reddit · r/buildapc",
+      "read_more_link": "https://www.reddit.com/r/buildapc/comments/1pse0xw/x870e_crosshair_hero_m2_bandwidth_which_slots/"
+    },
+    {
+      "position": 4,
+      "title": "ROG CROSSHAIR X870E HERO BTF - MOTHERBOARDS",
+      "link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/spec/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fmotherboards%2Frog-crosshair%2Frog-crosshair-x870e-hero-btf%2Fspec%2F&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECFkQAQ",
+      "displayed_link": "https://rog.asus.com › rog-crosshair › spec",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "4 x DIMM slots, max.256GB, DDR5 Supports up to 8200+MT/s(OC) with Ryzen™ 9000 Series Processors, 8600+MT/s(OC) with Ryzen™ 8000 Series Processors,",
+      "snippet_highlighted_words": [
+        "slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "4 x DIMM slots, max.256GB, DDR5 Supports up to 8200+MT/s(OC) with Ryzen™ 9000 Series Processors, 8600+MT/s(OC) with Ryzen™ 8000 Series Processors,",
+          "source_info_link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/spec/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fmotherboards%2Frog-crosshair%2Frog-crosshair-x870e-hero-btf%2Fspec%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fmotherboards%2Frog-crosshair%2Frog-crosshair-x870e-hero-btf%2Fspec%2F",
+      "source": "ROG",
+      "read_more_link": "https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x870e-hero-btf/spec/"
+    },
+    {
+      "position": 5,
+      "title": "Asus ROG CROSSHAIR X870E HERO - - - - PCIe lanes ...",
+      "link": "https://forums.tomshardware.com/threads/asus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fforums.tomshardware.com%2Fthreads%2Fasus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444%2F&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECDMQAQ",
+      "displayed_link": "https://forums.tomshardware.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____39_f09PTw8PDx8fH3___v7-_w2Njqs7Tlra7tx8fv0dLx3-DbSk7WAADXCRTihIbllJbXFh7YIynXEBnu7u7hfH7npqjlnZ_t7e3s7Ozhs7Tpvr_r6-vp6eno6Ojn7e3n5-fq6urgjI7k5OTdcXTl3t6ivEiiAAABCElEQVR4AazJRaKFMAxAURJSnBZ3aZ_tf4m_0PB9-O4kcrz3BIjwv6CPYCMf_yELQojDffhpAVoKozhKhEgR8achZLlUSsmikKX4rmgtlVJWdV1J2Vgk-MQWMZNdkhVKdVkvB0AcLyMkjEOBkOR5CjAiEhEyTseOZEOBxLXOYPRdOEu5EB-rQww4ipRaiI8JTqSWo1ip6LpGxpE7ML6uySGuk8vvG9X7fGwOYV9demiaXvNhPJe5ufS9aUrNx8oYbC5dVM1du92gxz32M91VVaHdbrwrepijAzt9rg9gsq2n6mdVPfVpxMBq008pn9oul12hfZnXHL-MXcD7XfCwWTL0MfxJk3IAABEpHYXV7W-LAAAAAElFTkSuQmCC.png",
+      "date": "Nov 28, 2024",
+      "snippet": "Only one 5.0 M.2. No AMD or Intel board will give you more than one 5.0 M.2 without eating lanes from the top PCIe slot. But note, if you ...",
+      "snippet_highlighted_words": [
+        "M.2",
+        "M.2",
+        "PCIe slot"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Only one 5.0 M.2. No AMD or Intel board will give you more than one 5.0 M.2 without eating lanes from the top PCIe slot. But note, if you ...",
+          "source_info_link": "https://forums.tomshardware.com/threads/asus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____39_f09PTw8PDx8fH3___v7-_w2Njqs7Tlra7tx8fv0dLx3-DbSk7WAADXCRTihIbllJbXFh7YIynXEBnu7u7hfH7npqjlnZ_t7e3s7Ozhs7Tpvr_r6-vp6eno6Ojn7e3n5-fq6urgjI7k5OTdcXTl3t6ivEiiAAABCElEQVR4AazJRaKFMAxAURJSnBZ3aZ_tf4m_0PB9-O4kcrz3BIjwv6CPYCMf_yELQojDffhpAVoKozhKhEgR8achZLlUSsmikKX4rmgtlVJWdV1J2Vgk-MQWMZNdkhVKdVkvB0AcLyMkjEOBkOR5CjAiEhEyTseOZEOBxLXOYPRdOEu5EB-rQww4ipRaiI8JTqSWo1ip6LpGxpE7ML6uySGuk8vvG9X7fGwOYV9demiaXvNhPJe5ufS9aUrNx8oYbC5dVM1du92gxz32M91VVaHdbrwrepijAzt9rg9gsq2n6mdVPfVpxMBq008pn9oul12hfZnXHL-MXcD7XfCwWTL0MfxJk3IAABEpHYXV7W-LAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fforums.tomshardware.com%2Fthreads%2Fasus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fforums.tomshardware.com%2Fthreads%2Fasus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444%2F",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://forums.tomshardware.com/threads/asus-rog-crosshair-x870e-hero-pcie-lanes-and-the-nvme-slots.3862444/"
+    },
+    {
+      "position": 6,
+      "title": "ROG Crosshair X870E Hero BTF AMD ATX Board with ...",
+      "link": "https://www.amazon.com/ROG-X870E-BTF-Hidden-Connector-high-Power/dp/B0FP3XLWXL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FROG-X870E-BTF-Hidden-Connector-high-Power%2Fdp%2FB0FP3XLWXL&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECDIQAQ",
+      "displayed_link": "https://www.amazon.com › ROG-X870E-BTF-Hidden-C...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "five onboard M.2 slots, three of which are PCIe 5.0-ready to offer blistering 16 GB/s speeds, while the others offer still-impressive 8 GB/s over PCIe 4.0 ...",
+      "snippet_highlighted_words": [
+        "five onboard M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "five onboard M.2 slots, three of which are PCIe 5.0-ready to offer blistering 16 GB/s speeds, while the others offer still-impressive 8 GB/s over PCIe 4.0 ...",
+          "source_info_link": "https://www.amazon.com/ROG-X870E-BTF-Hidden-Connector-high-Power/dp/B0FP3XLWXL",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FROG-X870E-BTF-Hidden-Connector-high-Power%2Fdp%2FB0FP3XLWXL&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FROG-X870E-BTF-Hidden-Connector-high-Power%2Fdp%2FB0FP3XLWXL",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 7,
+      "title": "Question about ASUS ROG Crosshair X870E Hero BTF",
+      "link": "https://www.galaxus.at/en/s1/questionandanswer/how-many-pcie-connections-does-the-mainboard-have-871433",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.galaxus.at%2Fen%2Fs1%2Fquestionandanswer%2Fhow-many-pcie-connections-does-the-mainboard-have-871433&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQFnoECDYQAQ",
+      "displayed_link": "https://www.galaxus.at › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA8UlEQVR4AbXLIWyDQBiG4U9PzxvUbM10vayunMJWkcxnDluf4IPAB4FFYTG4uiaYJnf37g-0XAnLzLL37sSXJyd-6b8w3MMuaQ7LCsEwcirlLHuNF1mwQbCH2QvMKyLDiFUNQ4XR2BMRJ-1q-uwtOXU079KNGb13AUlNqalzI4ngLTlvUSZZp3vNZ1LgJ_RTQKJHgI9oMWipM1tjE7HaYPsTOm_HuXCN2OPm5Oa4HR72OuJXyMdx-doeU56RXqrb2YpK6njGXCq45od91nOWvlbY5iUuUNbgqPImogU2HTvh57HgUrjsT3Gt0RQ2uOnP-A0whHn0lZHlugAAAABJRU5ErkJggg.png",
+      "snippet": "How many pcie connections does the mainboard have?",
+      "about_this_result": {
+        "source": {
+          "description": "The mainboard has two PCIe expansion slots: one PCIe 5.0 x16 slot and one PCIe 4.0 x16 slot. There are also five M.2 slots, three of which support PCIe 5.0 and ...",
+          "source_info_link": "https://www.galaxus.at/en/s1/questionandanswer/how-many-pcie-connections-does-the-mainboard-have-871433",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA8UlEQVR4AbXLIWyDQBiG4U9PzxvUbM10vayunMJWkcxnDluf4IPAB4FFYTG4uiaYJnf37g-0XAnLzLL37sSXJyd-6b8w3MMuaQ7LCsEwcirlLHuNF1mwQbCH2QvMKyLDiFUNQ4XR2BMRJ-1q-uwtOXU079KNGb13AUlNqalzI4ngLTlvUSZZp3vNZ1LgJ_RTQKJHgI9oMWipM1tjE7HaYPsTOm_HuXCN2OPm5Oa4HR72OuJXyMdx-doeU56RXqrb2YpK6njGXCq45od91nOWvlbY5iUuUNbgqPImogU2HTvh57HgUrjsT3Gt0RQ2uOnP-A0whHn0lZHlugAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.galaxus.at%2Fen%2Fs1%2Fquestionandanswer%2Fhow-many-pcie-connections-does-the-mainboard-have-871433&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.galaxus.at%2Fen%2Fs1%2Fquestionandanswer%2Fhow-many-pcie-connections-does-the-mainboard-have-871433",
+      "source": "galaxus.at"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "ROG Crosshair X870E HERO BTF price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ROG+Crosshair+X870E+HERO+BTF+price&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Crosshair+X870E+HERO+BTF+price"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS ROG CROSSHAIR X870E HERO BTF Manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ASUS+ROG+CROSSHAIR+X870E+HERO+BTF+Manual&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+CROSSHAIR+X870E+HERO+BTF+Manual"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Crosshair X870E Hero BTF white",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ROG+Crosshair+X870E+Hero+BTF+white&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Crosshair+X870E+Hero+BTF+white"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Crosshair X870E Hero BTF AMD ATX board",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ROG+Crosshair+X870E+Hero+BTF+AMD+ATX+board&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Crosshair+X870E+Hero+BTF+AMD+ATX+board"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Crosshair X870E HERO BTF release date",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ROG+Crosshair+X870E+HERO+BTF+release+date&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Crosshair+X870E+HERO+BTF+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "X870 BTF motherboard",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=X870+BTF+motherboard&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=X870+BTF+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS BTF motherboard AM5",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ASUS+BTF+motherboard+AM5&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+BTF+motherboard+AM5"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS ROG Crosshair X870E Hero BTF review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=ASUS+ROG+Crosshair+X870E+Hero+BTF+review&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+Hero+BTF+review"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=cpu+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhQIARIDQ1BVOgsIw53EARDTx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAF6BAgcEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ram+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhQIARIDUkFNOgsIw53EARDSx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAJ6BAgcEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gaming+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhYIARIGR2FtaW5nOgoIp607EKitOzADWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAN6BAgcEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=usb+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhQIARIDVVNCOgsIna07EOjk9wEwAFiysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAR6BAgcEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=atx+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhMIARIDQVRYOgoIm58rEKDHKzACWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAV6BAgcEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "AMD",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=amd+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhMIARIDQU1EOgoImq07EJytOzACWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAZ6BAgcEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=Eg2aAQoKCBACOAFABEgBGBQqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MiYIFBINR2V0IGl0IGJ5IFRodSINmgEKCggQAjgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAd6BAgcEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket+sale&shoprs=EgRKAhgBGAYqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhMIBhIHT24gc2FsZRgCIgRKAhgBWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAh6BAgcEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket+sale"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ethernet+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhgIARIIRXRoZXJuZXQ6CgidrTsQoK07MABYsrEgYAE&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAl6BAgcEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=hdmi+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhUIARIESERNSToLCJ2tOxCwmusBMABYsrEgYAE&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAp6BAgcEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=replacement+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GBIqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0Mg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAt6BAgcEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ddr+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhMIARIDRERSOgoIsMcrELHHKzAAWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKAx6BAgcEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "CPUs",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=cpus+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAkqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MggICRIEQ1BVc2AB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKA16BAgcEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpus+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "VGA",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=vga+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhQIARIDVkdBOgsIna07EK-a6wEwAFiysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKA56BAgcEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vga+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "ECC Support",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ecc+support+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhsIARILRUNDIFN1cHBvcnQ6Cgjw5ywQ8ecsMANYsrEgYAE&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKA96BAgcEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ecc+support+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=black+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1iysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBB6BAgcEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=displayport+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhwIARILRGlzcGxheVBvcnQ6CwidrTsQsZrrATAAWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBF6BAgcEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket+for+sale&shoprs=GBIqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBJ6BAgcEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket+for+sale"
+    },
+    {
+      "query": "4 Memory Slots",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=4+memory+slots+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+max_memory_usage+pcie+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0Mh4IARIONCBNZW1vcnkgU2xvdHM6CgiVq0kQmKtJMABYsrEgYAE&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBN6BAgcEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4+memory+slots+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+max_memory_usage+pcie+socket"
+    },
+    {
+      "query": "Under $500",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket+under+%24500&shoprs=Eg0SCxEAAAAAZc29QRgBGAUqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MiMIBRIKVW5kZXIgJDUwMBgCIg0SCxEAAAAAZc29QRgBKgIYAViysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBR6BAgcEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket+under+%24500"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gray+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhYIARIER3JheToMCNiM9QEQ6or1ATALWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBV6BAgcEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "DDR4",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ddr4+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhQIARIERERSNDoKCLDHKxD2hzUwAFiysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBZ6BAgcEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr4+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Extended ATX",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=extended+atx+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhwIARIMRXh0ZW5kZWQgQVRYOgoIm58rEJ_HKzACWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBd6BAgcEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=extended+atx+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Crossfire",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=crossfire+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAEqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MhkIARIJQ3Jvc3NmaXJlOgoI06pJENWqSTAAWLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBh6BAgcEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=crossfire+asus+rog+crosshair+x870e+hero+btf+motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=new+ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAoqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MgcIChIDTmV3WLKxIGAB&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBl6BAgcEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=used+ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&shoprs=GAoqZWFzdXMgcm9nIGNyb3NzaGFpciB4ODcwZSBoZXJvIGJ0ZiBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90cyBtYXhfbWVtb3J5X3VzYWdlIHBjaWUgc2xvdHMgc29ja2V0MggIChIEVXNlZFiysSBgAQ&sa=X&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQip4GKBp6BAgcEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "ROG CROSSHAIR X870E HERO M2 Setup Question",
+      "link": "https://www.reddit.com/r/buildapc/comments/1kowmsa/rog_crosshair_x870e_hero_m2_setup_question/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/buildapc",
+        "5 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/buildapc/comments/1kowmsa/rog_crosshair_x870e_hero_m2_setup_question/"
+        }
+      ]
+    },
+    {
+      "title": "What are the best m.2 slots to use in x870e crosshair hero to avoid impact ...",
+      "link": "https://www.reddit.com/r/ASUS/comments/1m6srg8/what_are_the_best_m2_slots_to_use_in_x870e/",
+      "date": "12 months ago",
+      "extensions": [
+        "r/ASUS",
+        "9 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/ASUS/comments/1m6srg8/what_are_the_best_m2_slots_to_use_in_x870e/n4m815y/",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "11 months ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/ASUS/comments/1m6srg8/what_are_the_best_m2_slots_to_use_in_x870e/n4mehlr/",
+          "extensions": [
+            "11 months ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/ASUS/comments/1m6srg8/what_are_the_best_m2_slots_to_use_in_x870e/n4nohsx/",
+          "extensions": [
+            "11 months ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=lnpfar3SEJayi-gPloTosQM&start=10&sa=N&sstk=AU9db-DHHrp3OxKQqQpW8Gl-sqFX5vCdWgHN5emTfaADY9eyU0j8WJwCk0GGPbVbBZkEepMI6aBhfx-PIhzllvoClKBuQdQXC5AMYA&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ8NMDegQIZxAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=lnpfar3SEJayi-gPloTosQM&start=10&sa=N&sstk=AU9db-DHHrp3OxKQqQpW8Gl-sqFX5vCdWgHN5emTfaADY9eyU0j8WJwCk0GGPbVbBZkEepMI6aBhfx-PIhzllvoClKBuQdQXC5AMYA&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ8tMDegQIZxAE",
+      "3": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=lnpfar3SEJayi-gPloTosQM&start=20&sa=N&sstk=AU9db-DHHrp3OxKQqQpW8Gl-sqFX5vCdWgHN5emTfaADY9eyU0j8WJwCk0GGPbVbBZkEepMI6aBhfx-PIhzllvoClKBuQdQXC5AMYA&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ8tMDegQIZxAG",
+      "4": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=lnpfar3SEJayi-gPloTosQM&start=30&sa=N&sstk=AU9db-DHHrp3OxKQqQpW8Gl-sqFX5vCdWgHN5emTfaADY9eyU0j8WJwCk0GGPbVbBZkEepMI6aBhfx-PIhzllvoClKBuQdQXC5AMYA&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ8tMDegQIZxAI",
+      "5": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=lnpfar3SEJayi-gPloTosQM&start=40&sa=N&sstk=AU9db-DHHrp3OxKQqQpW8Gl-sqFX5vCdWgHN5emTfaADY9eyU0j8WJwCk0GGPbVbBZkEepMI6aBhfx-PIhzllvoClKBuQdQXC5AMYA&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ8tMDegQIZxAK",
+      "6": "https://www.google.com/search?q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=lnpfar3SEJayi-gPloTosQM&start=50&sa=N&sstk=AU9db-DHHrp3OxKQqQpW8Gl-sqFX5vCdWgHN5emTfaADY9eyU0j8WJwCk0GGPbVbBZkEepMI6aBhfx-PIhzllvoClKBuQdQXC5AMYA&ved=2ahUKEwi99Z2i9uOVAxUW2QIHHRYCOjYQ8tMDegQIZxAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Crosshair+X870E+HERO+BTF+Motherboard+motherboard+m2+slots+max_memory_usage+pcie+slots+socket&start=50"
+    }
+  }
+}

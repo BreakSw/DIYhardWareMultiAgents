@@ -1,0 +1,808 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a4bd10c6a3a37b45e58",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5rGZBy1pX1uajlkO8x7YIA/6a5f7a4bd10c6a3a37b45e58.json",
+    "created_at": "2026-07-21 13:55:23 UTC",
+    "processed_at": "2026-07-21 13:55:23 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=Knpfatr7E7DXkPIPnLTpmA4&q=latest+current+generation+desktop+PC+gpu+component+released+2025+2026+new&gl=us&hl=en&cs=1&async=productid%3A752930972776763323%2Ccatalogid%3A16887400392075306444%2Cgpcid%3A17166082835030300345%2CheadlineOfferDocid%3A9802504903986372991%2Crds%3APC_17166082835030300345%7CPROD_PC_17166082835030300345%2CimageDocid%3A14308661249731377223%2Cisp%3Atrue%2Cquery%3Alatest+current+generation+desktop+PC+gpu+component+released+2025+2026+new%2Cmid%3A576462543154447226%2Cpvt%3Ahg%2Coapvfc%3AEowDCswCQUppVDR0SnB3cDlJcXMyMWhfeUVMTjJ6SHN6MVFtVV9TaU5qVjR3SlZJZ3ZGTTZ5b0doVmpGZlFvSm8yRU94S3BLSDgyZHVtNzc1eGRZUFdodllRQ2FIU2kzRGRQQmlzZi1fMkt2TlBERXcyaXBPODZUamgzNjRtZDIwdkRGNktYNThPSEhCRk5nNjVyM0htYkZoYngydG1YTFlBamxYY0VZbzQtRDduTHZkaWhoa012NXlyb1BCOUZnOEdqV0Utd0JzVHh0bXZKYjVvWnBpbjN3X01MemM0NTBmZ1E0TkllNFQtRWhZdUx2a1E1VVpkLTd6TlNLQVZXMWhONFNOenZLTnFzYmhrUWJKSzRRM2p1WG14Q202eGtYMXVtN0VtQzFfUDU1ZUVKRmFFV3d3aU5LYnlnSnNtSzZYb3IzcHpxY0p0Smp4ZGdpY2ESF0tucGZhdHI3RTdEWGtQSVBuTFRwbUE0GiJBRHNyOWZUSDY3QmlNSEtITVI0ZTdWRFM4R2N0bGVQUU1R%2Cxsrf%3AAF5tSO4-_RIfAEvWmBwlQZ0zJEmIRF0hPA%3A1784642067128%2C_fmt%3Ajspb",
+    "raw_html_file": "https://serpapi.com/searches/5rGZBy1pX1uajlkO8x7YIA/6a5f7a4bd10c6a3a37b45e58.html",
+    "prettify_html_file": "https://serpapi.com/searches/5rGZBy1pX1uajlkO8x7YIA/6a5f7a4bd10c6a3a37b45e58.prettify",
+    "total_time_taken": 5.44
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "TDY3XXicdZO7rttGEIYDF6lT5AHcHxxgyeVFjHEK8SpRIiVxyeWlEUguRUq8SlqKEpGnOU4MOKVjIG1ewy7yLKFdJzPANDOY-ecbzD8__PSaHf9aNd0hphdRE9Wg3C63zdrt6jn3sbu0pE_pkXwSeVaCQBJZURREAUIWfkxjGldtfiSfGWE2EzkAoMQCkYdA4DjuU5HFpDo22eZwyC5qmx7Jn9IMsDzgpKlwJkCRlSTmj2Md59n39GeGg2AmCAzLSSJkoCiyLHx_Idcv3FbZMyIjCGDGziAP4OQAcvyvW2ej7v8n-fu5zy6PL8sqptmVPqX95ZI19CnPmuwS02PbPJHsWtK2e9oqT3nXP6Vt3bXNt5pLVmXxNSNP7KT3WxCemmz4Pe--q_yPWe_rCREvCpzA8hxk-Gn_SbzwvrvR1yL_re-r7O_XvHrtr69F9Zo1H9q4ux3Sr29-1tpBVa6DsvO6DqsOQI0MU7Uy08B6WH5xyDxsuSdTQAtbsLBOMZbc2OPP-ORAVEVmBCPDdSM-AaTFdWdElX5D9ezheBKHoLxGav6IFpjaY8pkhhN5OmlJVTk7Vl96bDk6hrPb1dUYHZmDVVLWrWTNCdJHHMjbjRp5cZ2P9smhkbocSOkYdklD2y22SCsUp-Qb-4QfFihoWEZt2OQPYjChq1dyXN_DEOAoGXfUUUnvLqIy9os2BgxrB9UjYWRl40XNRiNnDDxKgDniRQGSIFqFJ3zzG7lLTjYMAGNltQVsV64jRgNuWVW2PvX0i4h4dzZmNAbjrly7RHAre73DUTBx29i6vcmaaO02-hjWxcXzzRUaHcdiO8Y3GG43XTUzaGgFExuA6W7UD57qMZGHV06t6xgSOHFeh03VoMamaIzCBC7HdNHdQ9ABVHdcZJAuZDWkA9qnRlSQxRI6LtF8g-4QlntXd4bE04BxNGVnYT82fuQhNYQTbxtpdOniJYhc4ju6xTmsDRID7zyPcX67Xy-HL2Cu8xRtuIRse-643l8Xu2ehOFtGAWlOZzVV5r8w4owTOBZIgJ9JH9K2LY_Z1zc_zjXlZU5MrMXXZHt9FL4UeJt5pGJclNWj4W8rAyUqIpDIkXtGfIIGduhCMzi4M2v-7u1-j7LpX7Jn5Drbl7ldR0MMKlOQl_4-EzwPx8gMGJnJ_C7cMkF_A8JmbSEqMxenLrw6adN9gtfKHDLtvvIKKl-0Ksens4EoVi3LFIt1fyqHXFMUO1wclfbdWxW_AGnFBdqConnbaBZHUHSv74_h7Jfm9tluEEBKst8_M-bOmk_27q29VF94CF-iyt8jgXbySczdOGcrEp7jIFWUsX_ekHYR1-bMwqSsDlf57oc59lgtMe4l7Za9HTENt7qfnPphtaNjgTxdmay3nvitrwajVk4_TV_4w5z1skXnjaHJzquzmRhdE4dsMQ5toAkszvZrpM337ejl0mmtH0mwuzFgHM41uEX64_xwnZEHjo06aazKCjnHEhZHncgd247wKiliOdwHV9hSL9Ce-5E_O7cu684jk6yUvFVyYUXdxWl_KwQ9z7hnUwdn4aAvBeieTh1Yi73ljRV1lI3e7W-e7g7_AvAT9F4"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcS2o2qKuazdMS26qv688OmYgUEj12PUuplKKnLkxHpl-ZmR7Vcd-lPjNWBH4VM52QB-XutI5v34AoUj06nazF82gYds_BBd",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT3oHfP3s1kBrFRvQ53zyMmc09qtDAhq3rfixYQGwHVQtUgudn2ndsTZwUbWNTcrqIsaxwiW3n4APKsNSoffQB7LDkootD3mRR5vQ2xm3NfKZ8CFq32hybP",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRRq7S77os7v6AGwAftCIRyvW8tOdxemsC_31J85_swT8-IlCAdaQ9xJNBJiCllrTPshZth_CEh4E6lQ1O4j9zB_ocdklC2z5kOqj-G6Xxvj-aUvYAX_qOJwA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRmtu6_qB2LEv98bYXjP-6U5vDAPiJAmFXsxLrOQmqlqmcY2H3r_M0spwxWqJjDLBGB_dhZN7aitv9JQ-rElj6XXt0M4cCDLOp9AEgxh6ndpdCj7sMbO5A8xQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTDTbEmtXQOpa0_uxG9X1BHvr6frGkkB_gWgQZyEQtigETtXNYNRSAVaSZBq6lfPif3phBdqMkZO4sBryRafcQCJ2olAlEK7X1cbMCK8X1pfszUMOkDqqS7J5M",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSwo4YPy1WXxipBiXiUiMu317gfH-FK5UQhlsth0kOiPhY35LPTsRjnKmmekeXXZXsPNjOC3HYf5i9JYKFzis5_H5Td5hODyDwF72zmmQvhnwSX_7HIieScUA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQWkFUML5kkxzX7X6XRVQTl3G_P-gnNYlCWKIKXUyPy83xaIwrck0fdGx0qHbd-IVw4ZjusgYU8Y7g7-Paa0dC1r0dbh3swUwAJzjf3yLeCF0EeNkjgfMyopSo",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRuiavI7L1lXriFWOojFahPf_QjXyDH8iRN6nM5PlfxB7o9P5whNa8YUXKKZtbT5-nOO3LPRCkj1OEJ28uqaOrVHyJk1nBo8jygc52vQFZTIyWoomRrpC47CQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTJO29Q7cbi_Mem3YCm50RTOA69agBYgKbN-LM6Vv1-M0VfE3INIcpPL9gL0xLdsN1RQARfffZUFKZKDZnYtESokfCsBzCV6Lf1ql3aH66q2o9eAUrpnCU-sw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTWZHFSBbaCTYxyFdBORcOVN67Nnm9Khgg-xAkSo0tOE_xV9SA5sVw4RAftj_4hBFvYhyqROYoyvMdnsucY8H8I5nk-Tq3o9JHMvzq2OCe59wYhBLHuFlULeg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSlx_Fz3TSMmDaNdxR4ANkJbZ41KFKCnyYVWi24kEcDe7L7uh_UDXesgHFd2DYZXcy3iLdLNKnQMl9eBp0QaFoiwngUx8oVtzVhJa7QV_GobGZbPNqVjpRhE9A"
+    ],
+    "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB GDDR6",
+    "brand": "XFX",
+    "reviews": 195,
+    "rating": 4.9,
+    "price_range": "$400-$510",
+    "stores": [
+      {
+        "name": "Newegg Business",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.neweggbusiness.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-14-150-910&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-video+cards+-+amd%2Fati-_-xfx-_-9B14150910&source=region&negg_topt=0&srsltid=AfmBOoouTyWu_lPaqP_uQClk1qHec1NKtv_UvYE89lQmjKb_LHrmVLmshsY",
+        "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition with 16GB GDDR6 HDMI 2xDP, AMD RDNA 4",
+        "rating": 4.6,
+        "reviews": 199,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "tag": "Most popular",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "15-day returns"
+        ],
+        "discount": "Usually $500",
+        "price": "$449.99",
+        "extracted_price": 449.99,
+        "original_price": "$449.99",
+        "extracted_original_price": 449.99,
+        "shipping": "Free",
+        "total": "$449.99",
+        "extracted_total": 449.99
+      },
+      {
+        "name": "Newegg.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.newegg.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.newegg.com/xfx-swift-rx-96tsw8gbq-radeon-rx-9060-xt-graphics-card-double-fans/p/N82E16814150913?item=N82E16814150913&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-video+cards+-+amd%2Fati-_-xfx-_-14150913&source=region&negg_topt=0",
+        "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition with 8GB GDDR6 HDMI 2xDP, AMD RDNA 4 RX 9060XT 8GB",
+        "rating": 4.4,
+        "reviews": 2235,
+        "payment_methods": "PayPal, Affirm, Zip accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$399.99",
+        "extracted_price": 399.99,
+        "shipping": "Free",
+        "total": "$399.99",
+        "extracted_total": 399.99
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "link": "https://www.bestbuy.com/product/xfx-swift-amd-radeon-rx-9060xt-oc-gaming-edition-8gb-gddr6-pci-express-5-0-gaming-graphics-card-black/J39HPQ83CH/sku/11013497?ref=212&loc=marketplace",
+        "title": "XFX - Swift AMD Radeon RX 9060XT OC Gaming Edition 8GB GDDR6 PCI Express 5.0 Gaming Graphics Card - Black",
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Jul 22 – Aug 3 $16.49"
+        ],
+        "price": "$423.99",
+        "extracted_price": 423.99,
+        "shipping": "+ $16.49",
+        "shipping_extracted": 16.49,
+        "total": "$440.48",
+        "extracted_total": 440.48
+      }
+    ],
+    "stores_next_page_token": "5OrkGXica15aklmSk3rTOsItQiG4PDOtRMHR10UhKDElNT9PIShCwdLAzEAhIkTB31nBPTE3My9dwTUlsyQTKGnh7qTg7uISZLakOL8ok3lxbl4-FwA5dBo2",
+    "about_the_product": {
+      "description": "Get ready to supercharge your gaming with the XFX Swift AMD Radeon RX 9060Xt OC Gaming Edition graphics card! This powerful GPU comes with a massive 16Gb of super-fast Gddr6 memory, ensuring smooth gameplay and stunning visuals even in the most demanding titles. Built on the advanced AMD Rdna 4 architecture, the RX 9060Xt delivers incredible performance for an amazing gaming experience. Experience games like never before with blazing-fast clock speeds, boosting up to an amazing 3320 MHz. Whether you're exploring vast open worlds or diving into intense multiplayer battles, this card provides the raw speed and power you need. It connects to your PC using the latest Pci-E 5.0 interface for lightning-fast data transfer, making sure there's no bottleneck. With its efficient dual-fan cooling system, your card stays cool even during long, intense gaming sessions, keeping performance at its peak. Connect multiple monitors with Hdmi and two DisplayPort outputs for an immersive setup. Kindly note that opened or used products are not eligible for a change-of-mind return.",
+      "features": [
+        {
+          "title": "Video Memory Type",
+          "value": "GDDR6"
+        },
+        {
+          "title": "Manufacturer",
+          "value": "AMD"
+        },
+        {
+          "title": "Clock Speed",
+          "value": "1900 MHz"
+        },
+        {
+          "title": "Boost Clock Speed",
+          "value": "OC"
+        },
+        {
+          "title": "Thermal Design Power (TDP)",
+          "value": "~170W"
+        },
+        {
+          "title": "Supports Overclocking",
+          "value": "Yes (OC Gaming Edition)"
+        },
+        {
+          "title": "GPU Video Memory Type",
+          "value": "GDDR6"
+        },
+        {
+          "title": "GPU Memory Clock Speed",
+          "value": "20 GHz"
+        },
+        {
+          "title": "GPU Memory Interface",
+          "value": "128-bit"
+        },
+        {
+          "title": "Discrete Graphics",
+          "value": "Yes"
+        },
+        {
+          "title": "Integrated Graphics",
+          "value": "No"
+        },
+        {
+          "title": "GPU Type",
+          "value": "Dedicated"
+        },
+        {
+          "title": "Output Resolution",
+          "value": "3840x2160"
+        },
+        {
+          "title": "Max Monitors Supported",
+          "value": "3"
+        },
+        {
+          "title": "Expansion Slot Type",
+          "value": "PCIe 5.0 x8"
+        },
+        {
+          "title": "GPU Model",
+          "value": "RX 9060 XT"
+        },
+        {
+          "title": "GPU Series",
+          "value": "Radeon RX"
+        },
+        {
+          "title": "GPU Chipset",
+          "value": "Radeon RX 9060 XT"
+        },
+        {
+          "title": "GPU For Use With",
+          "value": "Gaming"
+        },
+        {
+          "title": "GPU Stream Processors",
+          "value": "2048"
+        },
+        {
+          "title": "GPU Length",
+          "value": "10.63 in"
+        },
+        {
+          "title": "Ports",
+          "value": "HDMI"
+        },
+        {
+          "title": "Interface",
+          "value": "PCIe 5.0 x8"
+        },
+        {
+          "title": "GPU Recommended PSU",
+          "value": "550W"
+        },
+        {
+          "title": "GPU TDP",
+          "value": "~170W"
+        },
+        {
+          "title": "Display Output Type",
+          "value": "HDMI"
+        },
+        {
+          "title": "Max Display Resolution",
+          "value": "3840x2160"
+        },
+        {
+          "title": "Number Of Display Outputs",
+          "value": "3 (HDMI, 2xDP)"
+        },
+        {
+          "title": "Display Highlights",
+          "value": "Triple display support"
+        },
+        {
+          "title": "GPU Output Interface",
+          "value": "HDMI"
+        },
+        {
+          "title": "GPU DisplayPort Ports",
+          "value": "2"
+        },
+        {
+          "title": "GPU HDMI Ports",
+          "value": "1"
+        },
+        {
+          "title": "GPU Multi Monitor Support",
+          "value": "Yes (triple display)"
+        },
+        {
+          "title": "Cooling Type",
+          "value": "Dual Fan Cooling Solution"
+        },
+        {
+          "title": "GPU Architecture",
+          "value": "Rdna 4"
+        },
+        {
+          "title": "GPU Cooling Type",
+          "value": "Dual Fan Cooling Solution"
+        },
+        {
+          "title": "Suitable For Gaming",
+          "value": "Yes"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Gaming"
+        },
+        {
+          "title": "Length",
+          "value": "10.63 in"
+        },
+        {
+          "title": "Height",
+          "value": "0.04 in"
+        },
+        {
+          "title": "Width",
+          "value": "4.88 in"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Performance (Resolution, DLSS)",
+        "items": [
+          {
+            "pros": [
+              "Ray tracing",
+              "Vastly improved AI acceleration engine"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/xfx-radeon-rx-9060-xt-swift-oc-16-gb/",
+            "date": "1y",
+            "source": "TechPowerUp",
+            "title": "XFX Radeon RX 9060 XT Swift OC 16 GB Review"
+          },
+          {
+            "key_point": "Performs well",
+            "snippet": "No driver issues and works perfectly fine. Very happy.\n\nThe only con would be the noise the fans make when on quite high RPM. I have changed the curve",
+            "user": "rr11",
+            "date": "6mo",
+            "source": "scan.co.uk"
+          }
+        ]
+      },
+      {
+        "title": "Cooling (Fans, Temperature)",
+        "items": [
+          {
+            "key_point": "Quiet",
+            "snippet": "excellently for 1440p gaming on high settings at stable temperatures. Its well-built, makes close to no noise. Im very happy with the purchase, would recommend.",
+            "user": "Gorazd",
+            "date": "9mo",
+            "source": "mindfactory.de"
+          },
+          {
+            "key_point": "Stays cool",
+            "snippet": "Product Quality:runs really cool even with fan off\n\nGreat card from XFX. This is the first time I've used a radeon gpu and I am surprised that it wasn't any",
+            "date": "11mo",
+            "source": "shopee.ph"
+          }
+        ]
+      },
+      {
+        "title": "Design (Backplate, Size)",
+        "items": [
+          {
+            "key_point": "Good graphics",
+            "snippet": "Performance:Can play 1440p games on mid to high graphics, sometimes even in ultra with a few tweaks.\nCooling:Dual fans is good enough especially for a slightly",
+            "user": "meyoneyz",
+            "date": "2w",
+            "source": "shopee.ph"
+          },
+          {
+            "key_point": "Quality build",
+            "snippet": "my old RX 570. Great temps as well.\nQuality:The build quality is really nice. It somehow fit my mATX build.\n\nThe GPU was well packaged and delivered safely!",
+            "date": "6mo",
+            "source": "shopee.ph"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "pros": [
+              "Increased power limits of 181 W"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.techpowerup.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.techpowerup.com/review/xfx-radeon-rx-9060-xt-swift-oc-16-gb/",
+            "date": "1y",
+            "source": "TechPowerUp",
+            "title": "XFX Radeon RX 9060 XT Swift OC 16 GB Review"
+          },
+          {
+            "pros": [
+              "Fits a small form factor very well",
+              "Will fit well in any case size"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.thefpsreview.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://www.thefpsreview.com/2025/06/04/xfx-swift-amd-radeon-rx-9060-xt-oc-gaming-edition-16gb-video-card-review/",
+            "date": "1y",
+            "source": "The FPS Review",
+            "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 16GB Video Card Review"
+          },
+          {
+            "pros": [
+              "Outstanding thermals",
+              "Above average build quality",
+              "Low noise"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https%3A%2F%2Fpcper.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+            "link": "https://pcper.com/2025/06/xfx-swift-radeon-rx-9060-xt-16gb-oc-review/",
+            "date": "1y",
+            "source": "PC Perspective",
+            "title": "XFX Swift Radeon RX 9060 XT 16GB OC Triple Fan Gaming Edition Review"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 4
+      },
+      {
+        "stars": 4,
+        "amount": 8
+      },
+      {
+        "stars": 5,
+        "amount": 181
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSPAaqf0DmJD1Zc-0guR8fauI2zXTS-Q0U2kEh_D8UyPreDyddicDc0iwcUvCAT0dDdzqu4AJSvNQaVSYT5PoEDP0xImj1M",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRXvFcZtMOkZ0XQdrVa6CsxqpJPrUthMed58Nt3ErNJOxzKLFCncBnzG5t9U5iF-_3LrG0cA8RUoOyFyFiZznfoWVbQ401U",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRy4y13990_PW3s7BKWpnZhrSdYp6Etkwe-nZSbcX7C-SAZgznB0t-E32lcQJJ2P8o0qsfc3z9TzoWyn7_-HhN3bPh3KWq3",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSTIbqb_0OAkcaa_R0eazGdZHagJMZ9i0ObDsvthJ01rkKH8DIsTxRV4I8Mu1j5NjoHNiFnoqJyzV_Ns3hjNLNigpeXg69y",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQRN9nN3p4Pyk4etg9FsRPmqI6HQydeFSsBz3yHN30elqrF1hYMms4leUtEP59WBTpR6VpjaJWG6IOK6YoPkHaJ6ssICXmx",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTdy12w_R7ZkSLKxVtoQgvSjkK6_dq2Ar8UENIcl54FFJTEaITqGCvy70m_J5UTOG9C0Q8F0rFk1Rp54K3OdUAkI-z8lus3",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSMkiVOilhkx8D3hdEUBK3ysluBwwh_vfWuEFkxEKs4Ee4u0pXEpsQ6mXSpV__Nm4cs-vOqJwCdAbkPZOE1BNG6hbQO8uYp",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcShhaXaLXnhtATQqz0ePPbMp23VSYb0oInDgT6bxoig27dsjQkTYkit3Ux-tQ1Gpkpw4B4MgMhC17qW8Jkv6PiHmggdh32p-A",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTIfYfNrkw_D7QNeCvYtuS3z-qpvT_9F63V4HYewh1EbDooUPX-gxf-cCKD8RyDA7ZyhIOKgCEBus2vb7S41lVbqiVhARr6",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRojEErSZ-fLJbtqT2lrgvYr-lQVoU4YJYysLluUDhbXuFthgcG8B4N3tykFCAW2WrOlNjqJne6jPaJco21Weda6VQMd8QltQ"
+    ],
+    "user_reviews": [
+      {
+        "text": "Performance:Performance is very good, FPS jumped up to 140+ on almost 4k resolution and I'm already limiting it to performance mode to not strain the system.\nProduct Quality:Product is very good and the cooling is very sufficient. Hotspot is 72° on a very intense game. The only issues i have experienced is related to freesync (got some visible color issues) and hdr enabled (had a single crash and disabled afterwards)\nBest Feature:Seamless upgrade. Moved on from Nvidia to AMD and all i did was attach the card, turn on the system download the driver and game.\n\nWill need to clarify regarding the warranty as most warranties have a 3 year span. Packaging could be better with more bublewrap because i saw how the package was handled by the courier which was way different with how other couriers handle their high priced items.",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSPAaqf0DmJD1Zc-0guR8fauI2zXTS-Q0U2kEh_D8UyPreDyddicDc0iwcUvCAT0dDdzqu4AJSvNQaVSYT5PoEDP0xImj1M"
+        ]
+      },
+      {
+        "title": "Great card, not great software",
+        "text": "Card looks amazing, build quality is great, no issues at all.\nCame very well packaged however instructions aren’t amazing, not really that deep though. In terms of performance it really impressed me, those reviews online you see are all true it is very powerful especially at 1080p for the price.\n\nHowever, amds software is so bad, the adrenaline overlay just slows eveything down, settings are hard to find always tucked behind things and the drivers are really not very good. The newest ones had me crashing and spending lots of wasted time researching. I’ve rolled back to older drivers and the cards more stable now. Just be aware you will have software issues however if you stick with it and fix them then you’ll have a great time with this card.",
+        "user_name": "Daddy diddler 67",
+        "source": "scan.co.uk",
+        "rating": 4,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3MI5w3eN542pqpvJflXEcVXOPOXbt19mJaS4110bKPJQE1FDXTdaAVniXrqJswNur8lQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "Performance:Performance is very good, FPS jumped up to 140+ on almost 4k resolution and I'm already limiting it to performance mode to not strain the system.\nProduct Quality:Product is very good and the cooling is very sufficient. Hotspot is 72° on a very intense game. The only issues i have experienced is related to freesync (got some visible color issues) and hdr enabled (had a single crash and disabled afterwards)\nBest Feature:Seamless upgrade. Moved on from Nvidia to AMD and all i did was attach the card, turn on the system download the driver and game.\n\nWill need to clarify regarding the warranty as most warranties have a 3 year span. Packaging could be better with more bublewrap because i saw how the package was handled by the courier which was way different with how other couriers handle their high priced items.",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSPAaqf0DmJD1Zc-0guR8fauI2zXTS-Q0U2kEh_D8UyPreDyddicDc0iwcUvCAT0dDdzqu4AJSvNQaVSYT5PoEDP0xImj1M"
+        ]
+      },
+      {
+        "text": "Best Feature:16GB VRAM\nPerformance:Pretty good @1080p reso\nProduct Quality:runs really cool even with fan off\n\nGreat card from XFX. This is the first time I've used a radeon gpu and I am surprised that it wasn't any different from an nvidia gpu. Maybe because I do media consumption only and my backlog of games are ez for this card. What really amazes me the most is its temp. It barely gets to 35 degree celsius even with zero rpm mode enabled. I use a less aggressive fan curve though and zero rpm mode disabled with slight UV. Nice upgrade from gtx 1660 ti.",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK10f3_LqMu0EW50k0Emy8v12ycPlM6cnBt-pXseAtmz5-JWv3znN8khztoJ3WxDAmrFOA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRXvFcZtMOkZ0XQdrVa6CsxqpJPrUthMed58Nt3ErNJOxzKLFCncBnzG5t9U5iF-_3LrG0cA8RUoOyFyFiZznfoWVbQ401U",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcRy4y13990_PW3s7BKWpnZhrSdYp6Etkwe-nZSbcX7C-SAZgznB0t-E32lcQJJ2P8o0qsfc3z9TzoWyn7_-HhN3bPh3KWq3",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSTIbqb_0OAkcaa_R0eazGdZHagJMZ9i0ObDsvthJ01rkKH8DIsTxRV4I8Mu1j5NjoHNiFnoqJyzV_Ns3hjNLNigpeXg69y",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQRN9nN3p4Pyk4etg9FsRPmqI6HQydeFSsBz3yHN30elqrF1hYMms4leUtEP59WBTpR6VpjaJWG6IOK6YoPkHaJ6ssICXmx",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTdy12w_R7ZkSLKxVtoQgvSjkK6_dq2Ar8UENIcl54FFJTEaITqGCvy70m_J5UTOG9C0Q8F0rFk1Rp54K3OdUAkI-z8lus3"
+        ]
+      },
+      {
+        "text": "Performance:Can play 1440p games on mid to high graphics, sometimes even in ultra with a few tweaks.\nCooling:Dual fans is good enough especially for a slightly tight case like ch160 plus.\n\nIMO, 9060xt is the best bang for the buck GPU as of now. Excellent for 1080p, Decent for 1440p and can brute force 4k..\n\nReceived the item the next day after ordering, well packed and secured. Did stress and game testings and would like to apologize to seller if i was very late in clicking the order received.\n\n10/10 GPU\n10/10 Shop\n10/10 Service",
+        "user_name": "meyoneyz",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "2 weeks ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2PEodz9NtaP42DhmOeG9luFUmOjLZI8hkymD6zFb0w5ywbjADWyW3PFjrfWkHvPb0l9g=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSMkiVOilhkx8D3hdEUBK3ysluBwwh_vfWuEFkxEKs4Ee4u0pXEpsQ6mXSpV__Nm4cs-vOqJwCdAbkPZOE1BNG6hbQO8uYp"
+        ]
+      },
+      {
+        "text": "Product Quality:Relatively light weight, Good build Quality\nBest Feature:Price to Performance\nPerformance:Excellent\n\nThe packaging is very well done. I was shocked to find it being in a relatively large package. Turns out it is covered in at least two layers of packaging. Very well done seller. This is the second product I bought from this store and both of them were packaged well and with great quality. Definitely buy from this store.\n\nThank you!",
+        "user_name": "kiko545406",
+        "source": "shopee.ph",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0jAp3_oCiuDmSjeG-QW_ZoIkDIG1VgRgwU8SOZtOa6BBE9DHdpNUghg72Mox7zw4h7xg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcShhaXaLXnhtATQqz0ePPbMp23VSYb0oInDgT6bxoig27dsjQkTYkit3Ux-tQ1Gpkpw4B4MgMhC17qW8Jkv6PiHmggdh32p-A"
+        ]
+      },
+      {
+        "title": "Remember ATI?",
+        "text": "Very nice looking chip, not much of an upgrade to my 2070 Super but i wanted it more for Radeon, XFX, and to have a spare GPU just in case. Its pretty thick but doesnt need a GPU support. Love that it never goes over 50 degrees! Have tried 30+ games on it from late 90's up and all work perfectly, even runs the original Zoo Tycoon ^_^",
+        "user_name": "Rory",
+        "source": "scorptec.com.au",
+        "rating": 5,
+        "date": "5 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3tgu-KB-hIopSY8UV58ySi55cBF4dxOuOv5f0uZRUF1gojXnV8dgonCvxCCpQiFEy9IA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTIfYfNrkw_D7QNeCvYtuS3z-qpvT_9F63V4HYewh1EbDooUPX-gxf-cCKD8RyDA7ZyhIOKgCEBus2vb7S41lVbqiVhARr6",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcRojEErSZ-fLJbtqT2lrgvYr-lQVoU4YJYysLluUDhbXuFthgcG8B4N3tykFCAW2WrOlNjqJne6jPaJco21Weda6VQMd8QltQ"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 16GB ...",
+        "link": "https://www.youtube.com/watch?v=V8yq9G0cZ_E",
+        "source": "YouTube",
+        "channel": "The FPS Review",
+        "duration": "18:33",
+        "thumbnail": "https://i.ytimg.com/vi/V8yq9G0cZ_E/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mhMIchHQdbOXGwVdyI9EOBcR94OQ"
+      },
+      {
+        "title": "XFX RX 9060 XT Swift Review | Windows + Linux",
+        "link": "https://www.youtube.com/watch?v=zxYbY2TjBoQ",
+        "source": "YouTube",
+        "channel": "DontCallTechSupport",
+        "duration": "10:16",
+        "thumbnail": "https://i.ytimg.com/vi/zxYbY2TjBoQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3neKELq9l02SNMq7jxaxez2qCVpvA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSE3eYFbyVnlssPvygzP3rW6xgt8A5RawYLtQ"
+      },
+      {
+        "title": "XFX RX 9060 XT SWFT Review [Benchmarks | Overclocking | Power ...",
+        "link": "https://www.youtube.com/watch?v=p0zQE5cMaMU",
+        "source": "YouTube",
+        "channel": "eTeknix",
+        "duration": "15:44",
+        "thumbnail": "https://i.ytimg.com/vi/p0zQE5cMaMU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lzbf1KkhHQjb_9SOb0D9-XLbf8Kw"
+      },
+      {
+        "title": "Should you buy RX 9060 XT 8GB?",
+        "link": "https://www.youtube.com/watch?v=urDSvVtv6OI&vl=en",
+        "source": "YouTube",
+        "channel": "Cheap Bastard",
+        "duration": "6:03",
+        "thumbnail": "https://i.ytimg.com/vi/urDSvVtv6OI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3krBqY1TKh58d5QUb5qer8wHuiGgA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRajcwjWcJydLiK_0PfGXc4XXcPyLWCpOz-Zg"
+      },
+      {
+        "title": "RX 9060 XT 8GB - 1440p Gameplay Benchmarks",
+        "link": "https://www.youtube.com/watch?v=biYbkSkMyHU",
+        "source": "YouTube",
+        "channel": "RandomGaminginHD",
+        "duration": "9:19",
+        "thumbnail": "https://i.ytimg.com/vi/biYbkSkMyHU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kR6KsxALfl6xmBulgAG-ReUcIFjw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTjXRAZw787qrMFuEo_-dOWnVWWk3wBKlVtrw"
+      },
+      {
+        "title": "XFX RX 9060 XT 8GB Swift - A Mais rápida com 8GB VRAM por R ...",
+        "link": "https://www.youtube.com/watch?v=cTistj7Fzr4",
+        "source": "YouTube",
+        "channel": "Peperaio Hardware",
+        "duration": "9:55",
+        "thumbnail": "https://i.ytimg.com/vi/cTistj7Fzr4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n25b4MfPr6kTxpPR554_y1O2U5Vw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQZEEUkxMZX45nrEbqOApv7gEyEpJ8_TaSKNw"
+      },
+      {
+        "title": "XFX SWIFT RX 9060 XT vs RTX 5060 - AMD’s 16 GB Card ...",
+        "link": "https://www.youtube.com/watch?v=VdGKTlv9194",
+        "source": "YouTube",
+        "channel": "The Nerdy Thirties Review",
+        "duration": "14:34",
+        "thumbnail": "https://i.ytimg.com/vi/VdGKTlv9194/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kCajcg0RVjtcB654AhTrOn1zM3uw"
+      },
+      {
+        "title": "RX9060XT XFX 16GB - FULL Video: Unboxing, Installation and ...",
+        "link": "https://www.youtube.com/watch?v=JPKrzbyQ_fM",
+        "source": "YouTube",
+        "channel": "Rockm Gamer",
+        "duration": "11:20",
+        "thumbnail": "https://i.ytimg.com/vi/JPKrzbyQ_fM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3msZNd4vVPK1WgcVZwHh2rYcf3-tQ"
+      },
+      {
+        "title": "AMD XFX SWIFT OC 9060XT Review High End 3440 1440p ...",
+        "link": "https://www.youtube.com/watch?v=AQk12GfwC3I",
+        "source": "YouTube",
+        "channel": "FrogboyX1Gaming & Tech Reviews",
+        "duration": "47:26",
+        "thumbnail": "https://i.ytimg.com/vi/AQk12GfwC3I/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kooFQU_afjbsgLpCAhZN2eTUDS7w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTi5kvB-uSVHFSiZ1CX_AolpmpZF1ZMNGlENg"
+      },
+      {
+        "title": "XFX Swift RX 9060 XT OC 16GB Ekran Kartı İncelemesi ve VOK ...",
+        "link": "https://www.youtube.com/watch?v=QICjwSb0BYo",
+        "source": "YouTube",
+        "channel": "Volkan Oyun Kuvvetleri",
+        "duration": "11:26",
+        "thumbnail": "https://i.ytimg.com/vi/QICjwSb0BYo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lUIPCf3Rl-nTrt1Kf_Cpvg9VS6rQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTF2HLFZnHNLb4upxK9camg6wf_BLnTfCCXEg"
+      },
+      {
+        "title": "TLDR Review: RX 9060 XT 16GB",
+        "link": "https://www.youtube.com/watch?v=f3Ep42VwwL4",
+        "source": "YouTube",
+        "channel": "PCWorld",
+        "duration": "12:04",
+        "thumbnail": "https://i.ytimg.com/vi/f3Ep42VwwL4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3neXz629LQbnTuUhcN4mpIc9_eFCQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcStwOVL6Vd2lh7VwQIfvQveTQpjYZWkD0uCmw"
+      },
+      {
+        "title": "XFX Swift AMD Radeon RX 9060 XT 16GB",
+        "link": "https://www.youtube.com/watch?v=RgU4oD5BHok",
+        "source": "YouTube",
+        "channel": "Dzim GEEK ",
+        "duration": "6:27",
+        "thumbnail": "https://i.ytimg.com/vi/RgU4oD5BHok/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kw42mGdEs3_jzhtEM4GQH10CMR3g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQzgwhiK27vBBWy8gwOuyRK31f7Kkg7dJcKmQ"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "RX 9060xt 8GB constant driver crashes : r/AMDHelp",
+        "link": "https://www.reddit.com/r/AMDHelp/comments/1p5w0yt/rx_9060xt_8gb_constant_driver_crashes/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "7 months ago",
+        "comments": 4,
+        "items": [
+          {
+            "snippet": "I flip pc’s and just picked up a rx9060xt 8g for $200 and have installed in a PC I’m flipping, anyway I install windows it load its drivers everthing seems fine, I always install adrenaline for my customers. Tried to launch amd adrenaline and it was painfully slow so I knew immediately it was a driver conflict, I used ddu in safe mode and uninstalled all drivers make sure you delete everything with ddu registry entries and all. it’s pretty easy to use this software but it’s only going to do or not do based on what you tell it. Now it’s on base drivers and I reinstalled the latest release of adrenaline it’s 3/26 so whatever version that is, all is well now. I did notice I had no sensor data at all, none absolutely nothing when Microsoft loaded its drivers but after the ddu cleanup and reinstalled adrenaline everything works fine now, adrenaline is no longer painfully slow and all the sensors work. So my conclusion it’s a Microsoft issue not AMD, AMD’s drivers work fine but when you inst…",
+            "link": "https://www.reddit.com/r/AMDHelp/comments/1p5w0yt/comment/oa5y24q/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "Holy shit, these issues are getting worse and worse. Why is AMD/Microsoft not stepping in when so many people have issues? I just basically did a whole system upgrade thinking that it was fucked since I could not TS any of it, despite spending days on it. OP, tell me, are you normally on Windows 11? I have a theory it is some incompatibility issue with the AMD drivers and W11 because my issues started on my previous GPU, as soon as I upgraded from Windows 10 to 11. Within 2 weeks I had constant crashes, after each Windows update it got worse and I tried all of the above. I ended up taking my pc to a shop as it stopped booting - and then they told me it was my GPU and mobo, which I know 100% believe was not the case as I saw that my PC had Nvidia drivers so he probably tested a Nvidia GPU instead of AMD and just told me it happened only to my card. Which has been a waste of my money.",
+            "link": "https://www.reddit.com/r/AMDHelp/comments/1p5w0yt/comment/nqmird9/",
+            "votes": 2
+          },
+          {
+            "snippet": "9070 XT crashes in games after 30 mins unless I disable Windows fast startup",
+            "link": "https://www.reddit.com/r/AMDHelp/comments/1p5w0yt/rx_9060xt_8gb_constant_driver_crashes/"
+          },
+          {
+            "snippet": "Constant crashes on 9060XT!",
+            "link": "https://www.reddit.com/r/AMDHelp/comments/1p5w0yt/rx_9060xt_8gb_constant_driver_crashes/"
+          },
+          {
+            "snippet": "RX 9070XT keeps freezing/crashing",
+            "link": "https://www.reddit.com/r/AMDHelp/comments/1p5w0yt/rx_9060xt_8gb_constant_driver_crashes/"
+          }
+        ]
+      },
+      {
+        "title": "Is 9060xt 8gb good for 1080p gaming?",
+        "link": "https://www.facebook.com/groups/372119787729533/posts/1200026528272184/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "8 months ago",
+        "comments": 11,
+        "items": [
+          {
+            "snippet": "I'm really impressed on the performance.",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1200026528272184/"
+          },
+          {
+            "snippet": "It's a great card for 1080p, if you wanna tickles 1440p, I'd try for the 16gb version",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1200026528272184/"
+          },
+          {
+            "snippet": "The 9060xt 8gb is suitable for 1080p gaming, but the 16gb version is recommended for future proofing.",
+            "link": "https://www.facebook.com/groups/372119787729533/posts/1200026528272184/"
+          }
+        ]
+      },
+      {
+        "title": "rtx 5060 or rx 9060 xt 8gb : r/PHbuildapc",
+        "link": "https://www.reddit.com/r/PHbuildapc/comments/1lbcb7d/rtx_5060_or_rx_9060_xt_8gb/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "a year ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "xfx swift rx 9060xt 16gb tri fan 24.5k ( shipping not inclcuded)",
+            "link": "https://www.reddit.com/r/PHbuildapc/comments/1lbcb7d/comment/mxrf55c/",
+            "top_answer": true,
+            "votes": 7
+          },
+          {
+            "snippet": "get the most affordable 9060xt 16GB bro.",
+            "link": "https://www.reddit.com/r/PHbuildapc/comments/1lbcb7d/comment/mxriwgb/",
+            "votes": 7
+          },
+          {
+            "snippet": "its future proofing your build and also making your gpu last longer.",
+            "link": "https://www.reddit.com/r/PHbuildapc/comments/1lbcb7d/rtx_5060_or_rx_9060_xt_8gb/"
+          },
+          {
+            "snippet": "They only have 8 lanes of PCIE 5 which means massive performance hit.",
+            "link": "https://www.reddit.com/r/PHbuildapc/comments/1lbcb7d/rtx_5060_or_rx_9060_xt_8gb/"
+          },
+          {
+            "snippet": "The 9060XT 8gb and 16gb are using 16 lanes of PCIE 5 bus interface; no significant performance hit for PCIE 3 systems.",
+            "link": "https://www.reddit.com/r/PHbuildapc/comments/1lbcb7d/rtx_5060_or_rx_9060_xt_8gb/"
+          }
+        ]
+      },
+      {
+        "title": "RX 9060 XT Overclocking and undervolting results and questions : r/radeon",
+        "link": "https://www.reddit.com/r/radeon/comments/1sgcbo8/rx_9060_xt_overclocking_and_undervolting_results/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https%3A%2F%2Fwww.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "3 months ago",
+        "items": [
+          {
+            "snippet": "9070XT is an absolute beast after some overclocking and undervolting",
+            "link": "https://www.reddit.com/r/radeon/comments/1sgcbo8/rx_9060_xt_overclocking_and_undervolting_results/"
+          }
+        ]
+      },
+      {
+        "title": "XFX Swift Radeon RX 9060 XT OC Gaming Edition 8GB Video Card Review",
+        "link": "https://forums.thefpsreview.com/threads/xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-8gb-video-card-review.19316/",
+        "source": "The FPS Review",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https%3A%2F%2Fforums.thefpsreview.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL",
+        "date": "5 months ago"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "GIGABYTE Radeon RX 9060 XT Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQf-GyQI2wjAVMvNdjuBWDZusV-BshaA0LJqLr2ap-Z-z0dEDLUhK1aB9fOOcaWUpTvwZLbPGOc-h66YF52rx2nPGyOjN2QklIGn7MGLzR27n-zKB3uF1RM",
+        "price": "$469.99",
+        "extracted_price": 469.99,
+        "reviews": 51,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mn2miXicbVTLrqNGEE3yBVnlD2ZlXQmal8nOvGxjg01D89pYPNpg0zyMMWA0X3MnM9JkOYmUbX5jZpHvyDLcrKfVqs2pqlOnVaf_-eHnV3z5a1c156hrBVVQ_OK4PVZ7pylX7OemrdNH0l3SLwIHRIYSBSAIvMAzDGA-J1EXkTqbQY5mhSVHsTQnUgzH8Sz_JcdRSi4VPpzPuFXqZM6aG4gsz8yX4gEnLHn-90sZZfh_9E-aEzhhZmFEQVzy4pJmBPFDm96_gqN8Ejh2yVAzKS-IIgdYjlu-P8KDcvo-9vH2wO3z65ZEHb53i-TRtrjqFhmucBt1l7papPhedHWzOMqLrHkskrps6uotp8UER3ecLgAFuLfALyo8fMyaecY_vkP1oXzTL8ySAccyNMeyrAAA_6Hpu9c8e83I6-P-mpNXXH2qo6Y_J99-_FftE1luE9lCTeMqkLJLrXA2TW5QagfVvHS9sEnW4yUsLWBTZh8UiEKK5rlV40J1oM2rFpka6SIAB4u4PC7DEfsmCspuCJhcS8iSNcpRtQB9SJG2d7VcCYj-SBR4DQrOQ6VJhU56PKzFc6KFqlFtOaPUr8aU71wVdZavU_6U2mlBfJcyntBxr6mbgwR0BVSbm-1B5Cra3qysztHC1vJDH7tEirVwgJUJTIeocQU9g4YXuM43NmPWiUvYuKAobxNyoZOXdineLUeiHWBakEqfcFIZ7OW054255UtDUqY7tG6c9BrCxCEGdgPO2xAV0VJv0bmCNV0OipyFwBjMcjziYkuHvhbOOp5IDXXP0XyvGC8RZU7Y088JlbJGEYxmeR9ckHUWkZS4GE0fpL1BS2xYmjby6EuCxLXncQfXW9oabU3JOswTVwpsqgkQ6CzblbpQHUmMtHZ90SW4MZ8HL3Sgk58tYnKeA6cIpXo46WTvQBUSEkEvzGPEMb-N9_b8lVppXGcfeH7ZW9qSTeinhLywY_bqWumlnWPtrV9pYcnyLKDBbAPwKanr4oK__fTLSpXfMcoq1V01usfH-zP3RB8dVqHiunlBnhXX79Z2rNgpk0qhc7O52B7A0AS6f3aWxuodIy1OJxvPhsAvtgOPb93MMhwiiui8tPVOmEfIjWzdpyUae01wpP1HT_GHvWF3Et3CMkdlXCen2N3LK4auTwTlndSqJHOvt7XduYph6EK-f1yLIVNl2Qw2F7l-41XcmYwSd6yvbjp7VVeqwaZ2OJbjc7h5hX58MSubsuX4dHqhdctYzeetztwqcyHHMHMMiXey-a6RrkLmRBkgaXCL_NlM0-PlkNabqNSXhjuv7fkujV6QuQio8Xosumb7MEO6YnfjFZZPo56gQWXJTgdoP7_m_r6mFQIf8wwbb1gBhDcNmgIdrMhNj9dNFQUgn4baV3ng4tPeVlenekKZeN1rl9S3epqahltJ9aH2vD3nBeAoaNqNOJGC2PBSMPlFS6UG1BNzF2WhGMbB4Y8d8tWXx8TdYN_g5jbR8U7Oajnjd52zuZ76nNcyzL7oGnXjz9qWZ5zrtaH2wsNAE-mgfNCaU480Z5j_mvPf_wGbP-5a"
+      },
+      {
+        "title": "ASUS Radeon RX 9070 XT TUF Gaming Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSmc6JuIuoG8nWv5VEECWv_OoIdmOjfILaOAONnqHpKPl5wq_3ZdYN2DfhXdgeE8AtJvUAOMx88Z-HVQapfiBSNXOqfKwCe_CZTlYITVXYbil1y8FSx_phHpA",
+        "price": "$989.99",
+        "extracted_price": 989.99,
+        "reviews": 21,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tgfs-XicbVTLzqM2GG37BF31DbqKfsk2t9BdCJeEBBJsMIQNIkAgYC5JyA31af5pK02X00rd9jVmFn2OLkvU7XjxSZ-Oj8930fE_33z_nh3_WjXdIe7PkiapQbVdbpu129Uz_mN3btNr0h_TT5KAZA7IEpIkURI5DnEfk7iPWZsf0z8hP4WyKAhAEnlJ5pCMeOlTkcUpOzbZ5nDIzmqbHNM_OF5CSBB5mZP4FwUC-fdjHefZ_zCPBBlMgQA5mUeizIsy_HBOL5_Rdh4JEhKnAIjyyBV5gQdT-ect3qjR17FfT9fs_Py8ZHGfXfpJcj2fs6af5FmTneP-2DaTNLtUfdtNtvNJ3l0nSVt3bfO6c85YFl-ydIIAEl5BnDTZ_de8e5X4FakP9TgeYcxEJPAcFHj-1aX4obv170X-nrP36-W9YO9Z81sbd7dD8uXbf7VbMp-fk7njdR1VMSABtnD9uKRQZzvX1NZ-P7gaDeKSHojewQB4gh3sQAAEDgc2yFybuKrS7j35lAV2QFRGMNA56uItNXQYqmZgD9ShJbMyjy521YNLFnbgesIiqZhDVHwJVXqxdXkZA7vHwK7CBVNS1HEY2uqo2TuDDUOmH_xSv2MoE8ugdepiF6v20q_0o80VMWXK4Ne0xgRqidYt8aDwxMWhXTt9XFZPz9AbXzW3Gx_bDsIiMbDpG_BJ_KJzgIMSNTWy0ua9ILS9UqlT7yFamgl3QG4TTbb9oOsSVqxcl9rUxwdfY4Pv44CWdOkQ2IeMuTTAz8wQVIsqyBpSuC9ZZ-u2QWrTtPQCEcN5JBrfO_6DuXoi7H085kUQeizwfTokBqz20EG2lqOQVTAEY---hQjziA6dEQ-LhCo7Arqdh3qHUKUPtQfbe_rZOJoKXtjPjR96O98MEl25e4wOMVe0TgUDr06vWKMbnymtVcvcL4_L-fAZzHShJxvpfr6vhm1fmLMKbQeuqeSNG_lRuvPyn6A05UUeQTSFHPdb0rbVMfvy3Q8zbf4jp85Sk2rxZb-9PAtfDrzNbFwmLSr2bITbyiB7laRcqoTuiQh7ckf3bmcGB3dqzX7klEkUkWw0RPY2bmr7es2uw3sMmCkqSz_KRM-jMTEDqMDM73ZbGFxvQNysLdIr8Izrwqv3bRLt6Xo-42AbMa_olbPGclqeDNJT1bJMqVhfy-qea_O5vVsc5-1LV6WjGJBXfKAtejJrG83iUxI-6sfzfvIrc_tmNwSQ-T6K3qDpWLPxvHj2Uh2JAseNMWR-RMS-U0opd-McsXR3ioPRTMP1bZO2i7g2pxZNK3a4KA9_l1MPaXvjUfXd8mqHsOFXjxLXT6sdsAXyZGUibz1Oc30xoMrwdaxh4d9nyMsWnTfsTDRjJ3NvdE28Q8VwbwNNRDSL1kSbRe3g5XK51o9p4NwgGO6nGtxC_Xl6ungQALZJJw-sGo15rLjiqKdKh9qBu8hzqbo_7q647b1Ae7sOwgnfuqw7DXC_muftPBdXvbsoo1sh6nnGv5k6OIkHfSlybll2YC1dLW9gPZ5v9C66ebp7H_-aw9__AdCM7Pw"
+      },
+      {
+        "title": "Sapphire Pulse Radeon RX 9070 XT 16GB GDDR6 Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSfHNgl4MPG_1ZSt6iUMkIhXIwgcgXfZenHuubBHmizxlZ1zPq5_QijEw_4a5A752QV_0S5J3V_WBY4FKKNQ7DswA5yYg0K-becwiEBzZMG_PtT_UAz9nMYzA",
+        "price": "$789.99",
+        "extracted_price": 789.99,
+        "original_price": "$880",
+        "extracted_original_price": 880,
+        "reviews": 60,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XkZRzHicbVS7sqNGELX9BY78BxupbhUzvJ2JlyQkEAJmeCQUL4HECEYSEhK1X3PXu1XrcO0qp_6N3cDf4dBcxztBJ326z-kz0_PPDz-_loe_1i3dp_1F1EUtbJyV0258eppzn-mlK255fyi-iDyUWUYWoSgKosCykP2cp31KuupQ_AF4yPAiLwGJkXlB4iELvtRlWpBDW273-_KidfkEk2XACQwvA0lmJUniRcj_fjilVfl_-k_AQIETJAZwUBIngMxz0odLcf0KHTVhAQcYToAixwNOhEASuPeOu9WS7-c-nm_l5fl1RdK-vPaz_Ha5lG0_q8q2vKT9oWtnRXlt-o7OHHVW0dss7060a98wl5KU6bUsZpCB_FsQZm05fKzo2wjfofpwmuzhxUk65DkW8Bw3JaDwgd7717p6rcjr7fpak9ey_dSl9L7Pv_34r37PVfWSqztEKdZcxmNrFBjyCms2iEDT53rDZGx8s4DrZKxyjA37ioNY9QyiuJjGLo6GraGstuixjzUSBH6hhFOPLa547OO-PPHHLCB75NfHfFnxLnDTUseOxdh6CDCDiCzELX1iGIcFMXubifvSN3CMzHaD6QJjBO2gcOKFeY61_Jk1hY5HJUwNa3D9euktJ-6QHjAxlFgzIheaW0Q6mGkFKhvw3ATELlA_WIgqtrbjImQHaduN0Ykb_YURxWPN-8zuiRCwCoRGpNnrdEH4HMt3GxckCLseL2yIGLpMG76zGnzISHHNwthNgw56yFB3QcOnem8GQT75xU0z0WeAFWgbBnShNGmmEOG4zRrgpDree3q8wYyt5Xo9TJ6PAZY728etrxm2zRbedvEQCq0AQWAK2VLZ2H7lGWA35ou4zrESeQyNEOx3Hlb6WH-QDBmXxcFU3KX93Aax6-pyah9jN0O9k4Xzx455UO_tDuGKw9A-BQS3vz2ul_1XZm7wvbcVh8uwHp2-NucNdEa2beStnwRJEaHqVyBKnMBBACXAsp_yrmsO5beffpnr6jtWmxcm1tNr5lyfdSCHaDuPNYzrhjxb_r5eeJnmFWyhxP7Z4zNvgAONzHDvS9b8HavMksQrp4UoXzzfdd662ad4SBliCsoqSEoBIZx6ZggUUAY0ckB4uzPCdmN5vQIu7qlGp6zLkwxv1DkLuoSgulcuOqnw8bzweqxZlinWm9uxGSpdVe1oeVC7N14NT2SMvOZCfdl7867VLa7w4sfp8RzOQWM6L3brMZ6aJckLMHfWfDpvdfZKmwp5lp1iTILEE3qqHMXKTytIiuichtMyjbeXbdEt05MpWbhoyP6qPIKomt6xni0eTU9XNzsGLbd-HN3T0-pG12KqfG1CtJnc3FwXQCPubdKwDIY5ROWSojEy4ZyczWxB2zSC9Th0oS5AXCYbT58n3Ygq-bgxDkW4uwNmHM4n5h4bz_PTd0eecW2PyiNpiOceGrY-GIVCYTeyV1kVm-Ex-ILTo1B_uY382b3Tkp5HkK3VqlMrYd37y2NyrwWjKrkX02DOwt5YCax_PFJmI94sNJLeVbcGTe7I8Ifpr9n__R-hg-2c"
+      },
+      {
+        "title": "Yeston Sakura Radeon RX 9060 XT 16G GDDR6 Video Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQoqcn7jEbmZs-gws_Q8tWrXfxkczDkhUh7_uwv-_7PLz9rRzSbmNii21I6QpJ1FW2J0-oP-fkdFLrS9fRmjLPDUiKuW-0aaQX5ac1iEs3XIH8A7c3AOhip",
+        "price": "$479.00",
+        "extracted_price": 479.0,
+        "reviews": 1,
+        "rating": 1.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=X_P1OXicbVQ5suM2ELV9Ake-gSPVryLATXQmrhIlUtwALomKIiFSIriIojaWT_PHdtU4HLvKqa8xE_gcDk05HgSdPHS_1w_d-Oeb79_J8a910x3SoRc1UY0qZ-U0m6CrF9zHrm_zazYc808iDyWWkUQoioIosCxkP2bpkNK2mEBeAgACTmChyDGSNOekTyVJc3psyPZwIL3aZsf8TzBn55IgiRzgRcjwgsRy8PdjnRbkf_wPluE4fgJEiQVAFOYi5D70-eUzdJQdP2eZuQTmEgQiN5HMReZnx9uqu69jv56vpH9-XtF0IJdhll37njTDrCAN6dPh2DaznFyqoe1mjjIruussa-uubV53ekJJeiH5DDKQfwVh1pD7r0X3kvgVqg_1ywBR4ATIcyzgOY4TIRQ-dLfhvSzeC_p-vbyX9J00v7VpdztkX779V7tlitJniou6Dqse48NySwybcQM9ihig4JN5zyAQUE3vFmsGQVWyCSw3aaP3boMpYjshC4clDuyI1GaIK3MVM6UQh6YRsCVEOn0i1vP3UQu2GlB8Vh7CU8llqhcQqvP4VDA4sBg_StIkKB3L0Ia95kVho8f4hOsN0sa8ygYroC1C-gpNmjwgYasqNxksHTzKisWW3b6Sbr7GyxPuJmoZx0cAUJ0zEbRXtlpanpbcEzioxEhoPJoCPuUoaLraY3jWRQiietIW4me4NHWL2siHyYgp9dwA-yTKaw92PaJSmRvJLWxkFxvuI2sSx9eyZ4Zw79XlNjW8xMUVDJrkEAS5g8McINbiMoaGLrbH_ERRznj2BnljblCQIe_gIskhtB3jqUtLS1qX7QA5ydMbAHe79G52OPg2nPs6cMfMSMoMy7HPdDGCg-tjeUi0B90jvTeOpuwt7ec2TFC2zJ3AwPbeyF00es8sKnuvsm2k6odgSWMf2d4vj0t_-MwsdH7wt_zDSe6sIhT5vBVaseoPZRZyxjqk-uInIM45gYMAzgHL_Za1bXUkX777YaEpP7LqIjexll72zuVZhlKEtotExbis6LPhb2vD36t-zuZyEpx9fu_f4b2LzegQzK3Fj6w82-18Mi0EefMDz3lVs-vknjLUFORVuCMCQjj1zQjIgIRd7IDoemOE7cbyBxm8HEf1vs12e7xRFixodxSVg9xrtMCns-EPWLUsUyw311N1LzRFsePlUWlfvCqeyBhpzUXacvAXbaNZXO4nj_rxvJ_DynTe7MZnfGW_270B07UW03nl2St1SuRZdooJDXe-MHTySSyCtIA0j89pNC3TeH3b5u0yrc25hfOKHi7yI4wLjKC2Nx7V0K2udgIabv04efXTakfPYopsbUK0mdzcXAygUu86aViG9wVEZNmhMTbhgp7NvdE1aQzL8d5GmgAx2W18bbFrR1RIp41-zCP3Bpjxfq6ZW6I_z8_AG_lp4PxOGmlFfe9YseVRz-UOtiN7kRSxuj_ugeAMKNLeriN_9m4d6c4j2K-VolUKYT0Ey9PuVgp6Qbg3U2fOwkFfCWxwOnXMRrxaaKSDp2z1bndDenCf_prD3_8BCmjsnA"
+      },
+      {
+        "title": "ASUS TUF Gaming 3 Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQHqNK4ulXrt2e6nzQvoDzJQPmYgYOa61-VnNBGylvRwjOSajiOCYKrSl1qXJCiWJbnshQBcCe5DgxRBwoTJ5TYg44Ri_Izv-J_Ozs51JTF1e5INEMe0uFrZw",
+        "price": "$535.00",
+        "extracted_price": 535.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=On0LmXicJVNNrqNGEE5ygqxyg6ysJ0E3PyY7GwMGG-wHdIPZWBgw2DTQ_BnMBXKN6E1mpMlyEinbXGNmkbOEp5RUn9RV9fVX3ar697sf35Lb37uSXsOuERVx4-dH_VjuXVqsuM-0qeI-6m7xF5EHEmQkEYiiIAoQAvg5CruQVOkt_pPjBFbiRGYJl0vAiiIU-S9ZEsbkViaH6zVpNlU0ly05wMAZpCUjzgQGAumPWxGmyf9pABiBh6wgsuyShxBKYPmhidvfPtZ90jy_6iTskrZbRH3TJGW3SJMyacLuVpWLOGnzrqKLo7xIab-IqoJW5XtNk5AkbJN4ARjAv4OwKJPhY0pnvb9YjpN4BkrMkucZfu6aB9yHYn4rLwqcAHgOsjzHcSIAwgf66N6y9C0lb337lpG3pPxUhfRxjb59_6tS67Lc6-tXRCne2IxDVOWi4RoxmDG1-IQ8uwq8cYiLbO9CNCU5_xrP7nnURsU4RSweIo3VI0j3ib_iLT8jFxQcwsmawsJ-OoryDDVJDmE8Rr7lIldtbSUaAjRyoaZyrmfTQOPrCCnAAWOB76RNtqR0iLVNiszERazHqqGYebwNtukz9LriorCT6Z-mmAkKBxEn1lSMNtYNk1foQ1WwWANbLp6DkhmBrI6wrccKmkItGwJVbSNIDhGbqa8A60FhMGG5Rg5Opwugpc_QzCusKy4COc4D4tyt3CnUY-BZtVNYQ8SofTzqPt5YQ1CoI1KzvUMyN2TXBtLY3NVw9-q1oZ6rSgR1PiCWZ7pr_TTZvadW0ELqaGs2xey6wSCYz2NubaPfx7a5fmVWKt85B348BgOUhTReVkIl5s01izxO23lEXf3CiktO4AALlizkPkVVld-Sbz_8tFLkn-FmFRtYCdvLsX1mnuSjwyrYYJzl5Fnyj53mXDZODON14NYOf3EGMNCT4V_dpbn6Ga4X57OTzAOavDiufXy_zSqCIWSIIax175wICOHQMXx2zSYePR1Zv38wwmFvOt2abewiQ8Wlis4XvJdXkK3OBGXdulFIiu-15nR4Y5qGmO37ez6kiixbp-1Nrt51N3gWY6Qd5yvbzllVpWJysROMxfgcai83ji9W6TCOfDmfX1jj1VzN9s6z9M1MnLdtxoB4Z0fo6Poupm6YAhKf6tCPZHnqXw5xtQ0LY2niOCfXdj16pxQjMM_5mHdU762ALbndeLeLp1lNtsmk0c4AaD__5r7V2A2x-7mHrTesAEq2FE0nA6xIbVw0WoYnkE1D5SsCwMl57yirczWhVLrv1Vvsvz5YZhrqgnkE6rN-uvbEM7blUGkiOXHsWw6zmxqvKagm2EqymA_j4ArHDvnKSz_xtf2gCa0n9rKT00pOhV3nbu_nRyaoacK9GCpTC1dVF6B7v1NmL_YmmkhnyweVnh9IdYd59a___AeiQb1g"
+      },
+      {
+        "title": "Sapphire Nitro+ AMD Radeon RX 9060 XT Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSJ8aRQcwUWy_mjvvvzsJUzZHNznxLKxOYJhXsvHu_KGKWCUnvgVKHcMGcB4_x8RdIoqnRcZl-Fc1VCEDJzHPPMrOfBb-a1xEl3Uwty48RLjdqkX3inp6_HoA",
+        "price": "$323.48",
+        "extracted_price": 323.48,
+        "reviews": 120,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iTnpsHicbVS5sqNGFLX9BY78BxOpXhXdzSKcCQRICJBYmi1RsQkkGmghtFHzNW88UzUOx4FT_8ZM4O9waJ4d2h3coM899_S5Vaf__O7H1-L4-6alh2ToBUVYhvVuvWsNjzYL9jPtu_yaDcf8i8BBETGiAAWBF3iEIPqcJUNCunICOVYAQAAC5FgOzuFcmH-piiQnx7bYHg5Fv-yyY_6biFgRISCIHIDTkIkw__XYJGXxLyyIbwCDRI5DgjD1MehDn1--wp28F-fTDcMijodzVgRQ5Nn3O2e73P8_9vF8Lfrn1zVJhuIyzLJr3xftMCuLtuiT4di1s7y41ENHZzt5VtLrLOsa2rVvPX1BiuRS5DPIQO6t8LO2uH8s6T8O_iv1oXnzL_AsP5lHgGNZVoCQ_0Bvw2tVvpbk9Xp5rchr0X7qEno7ZN--_0u5ZbLcZ7KNKfWXDuPWwA7q6uoFTpyq5WjV1i6oyyGvOTbR1mwR5FVCYtZf-VHcgM4NLS4LMs4ORN7B88FGKk00y4g1tbdC6WGFZG0pJbBHcnea_J4pVRudKujBnGat84xqoDi1b2AMLLtWG0cRUeQ5VwuIZr6sgH2qUDw6Txuv2cTLaw8CPlXUox9YjxRHTEoqzlySSwodmjeqg2FMM0Q9f0VNrGZMXA8xrruHS3ITj6qFa_GW-RZ2A91wNQXZof70NAdhxU_sE9lkow0jSOVsrLYJ0ZXcI8_IN8dAi9jJjxarVbhdOUbUEiUL9TDGljv5pdmqcvAoRbjOkUliy4S64YXlGKh6F4VEchRO8WTmaWKq5jh6WAw551A8mr6_9Rsb2gRznh-HDiTAVaPRhJycnmy0dQFKVcVVpw1mWlxlvhS5DI0wHGzXl4ZYeZAUq7121CVnZT23QYwNzLCml1PciHjrd4wTxE8rIJrdlNAJOuBpD_TL49IfvjILlRvcLffYxXck82U-7_hOqPtDlQWstgmIuvgZCHOWZyGAc4DYT1nX1cfi2w8_LRT5HVouct1Xkku6uzyrQAzxdhEvfb-qybPlbhvNTZdujnIp9s4ul7p3eKeRHh68ubl4h6TZfu8WUyCKF9dzdm_TrCa-JwzReWkd7AseYz9x9RBIoAhotAPh9cbwW8N0Bwn0TlPhJu2yfeob8gKBbk9wNUi9Qkr_dNbcwV-api5UxvVU30tFlq1odZS7N92lP4kx4oYNldXgLrpWMdncjR_N43k_B7W-e7Fal3HldL9_AbptLqbzxrPWy4nIITTVmAR7lx-odBJKLykhyaNzEk5hGq8v27xbJY0-N_28JoeL9Aii0sdQSbVHPdD11YpBy24eJ6d5mt3omEyZbXSIjWmbxkUDS-JcpzesgvsC4mJF8RjpcEHOeqrRNolgNd67UOGhX-wNV1nsuxGX4slQj3lo3wAz3s8Nc4vV5_npOSPHOJZLxZHUxHWONaqOai5R2I3oIspCfX_cPX434FB5uY7c2bnRgp5HkG7kspNLfjN4q9P-VvFqWbAvusqc-YO65pF3OlHGEK5TpsjgyFuV7m9Y9e7TX3P442-ID-zf"
+      },
+      {
+        "title": "Gigabyte Radeon RX 9070 XT Gaming OC ICE 16G Graphics Card 16GB",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR68uqMB9elYZkoYw_paLBIyQQuVq3a6OQX4s7ypHJHGE1Po140UOmMxmhL-Su2y4PIv-vcrcniOA5oMTmmuzFItgzCDxafMLUWo3sUOZY",
+        "price": "$749.99",
+        "extracted_price": 749.99,
+        "reviews": 13,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gvW4Y3icbVS7zqtGGEzyBKnyBqmsX9oLF5PO3GzzG7CBXTCNxc1gc1vbYGyUp_lPEumkPImUNq9xTpHnSBn-tMkWU-zMtzNa7exfX337lp3-eG3YMequoiaqQbldb5uNx-oF95Fd27RPulP6SeSRhIEkIlEURAFjhD8mURdVbX5Kf4NAgJLESUiYzwHGc04QPxVZlFanJrOPx-yqtskkE3mIMARQmOQCDyY1-PVUR3n2L_07RJwgzCHk4VycWAnPIfhwTW-fwVY5zCVRQoCbY44HeEKIftw6tnr4X-rnS59dn5_XVdRlt26W9Ndr1nSzPGuya9Sd2maWZreya9lsq8xy1s-StmZt8665ZlUW3bJ0hgDi30GYNdnwc86mhJ_-6_ShnrZ5UeAExHMY8hzHiQgJH9i9eyvyt7x6629vRfWWNb-0Ebsfky9f_63dE0W5JsqOMEZVB7hleokBXTt1xe38qo9GOmY0vFOom55PZVIb0CUA73x2c-pkTIHDbA08HfAAOyJtbbU6h4RtQlDipKSqrzphtgr7JJBbzwvtGNxgupQe1KfMOYdW0iQg9oxlOBLOwqGcaHzpAfLYl2ntEf1kL4trqOXQ86yQAKOJRstwlvwpIXofozRygDRkesWI33VpI29pQMGUk0blY6Q0ZB6tbHv5KLOVPDpQgglNuKhk6g6VPCW7LsH6gyz1Z1wVrRUYw75OcUSl0F9RZtLQCdCAbI88ySp1wpXzjIkzmGUhRy4Ae1qtLTWHppZ3WbDoTA029GxptJYEC8BjRG44htYxKncgreHOJhZPqAbdigobSrcUV1qIC3kHQ2JByQxXKUz9hEs0PUqR7kaBPMaBJdjLxNXhbkyWYZFQee8Ctieo27lU7kLtUcVEvy5PhuysrKfth25adr1JzW7jw7NL1ly8DKPEL9ZOIPvJudjuqxT_9Lhdj5_BQuc71-Y7b3cvmHJZ5qRF1VbAB8HXBFz0q8UPUJwqxCGI5hDzvyRtW56yL998t9CU77G6SA2qRbd4e3sWvhQQexGqlBZl9Wz4--vSjVU3xakceheXj90BDWxvBEdvbi6-x_LscHCzqQ_Zi-s52_fTrDocIlAZgrz2D5lACI1cI4AyzHy238KgvwPB3phuJ8OrUxekjtvkENONssCwPVSk6OSrVuX0fFm6HVVN0xCLTX8uh1xTFGu_Ointu69KJzMgvXKBturcRdtoJpe64aN-PIeLXxrbF6txgavEh8MLNHbmYlrvc9ZanQZ5jCcMK__gCh2Tz2LuRTmq0v0lCqYyjf2LnbarqDbmJk3L6niTH_4-pwRp8fQQO7burRA23Ovj7NRPsx0dE-TJq4HIZrrNzW0J1crppwwrf1ggkq0YGfcGWlQXI16yJtqjYhzaQBMQzQ4bV1sc2pHk0nmjn9Jgd4dgHC41uIf68_L0nJEHjuUyaazKynVOJS5Oeioz1I74JiliOTwGT9h2JNBe-pG_OHeWscsI41clb5VceO281flwLwQ9z7gXQwcX4aivBeydzwxsxN4kY9U5iq2zw53o3jD9Ncc__wGvO-xh"
+      },
+      {
+        "title": "ASUS Radeon RX 9070 XT Prime OC Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSfz-MaWURfD9wgpyD_dnM8oa6PVjXQMdMTYGyFZow8PTjGapXOVjhkBLvcWXQj2gsbLPwso6YRJqYImaEhk-s9sqtC3tYlF0Dw7OVEZWzK",
+        "price": "$951.67",
+        "extracted_price": 951.67,
+        "reviews": 218,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qXFn63icbVS7zqNGFE7yBKnyBqmsX5rhaqczGIyxweYyg6GxuIwBM8DYxsZGeZp_syttyt1IafMau0WeI2X4t94pTnPOd9HR-ebfH35-JeXf64Yd4-4ia_JiX-1Wu2bjs3oufGSXNrulXZl9kkVuxoOZzMmyJEs8z_Ef07iLaZuX2WdemAkCJ3OSyE1leSZLAH4qSJzRsiHb45FcFm1aZn9BUYYjejoFkjgVJIGbgemfZR3n5Fv_szjlpwAC-Y2Mh1AYxd5dsusXbqceeCBIsxkAAIo8B6dTDgi_79zt4vD93vvzjVyeX1Y07si1m6S3y4U03SQnDbnEXdk2k4xcq65lk506ydltkrY1a5u3mQuhJL6SbMIBTnwr0qQh_fucvVn8jtS7elyPKEuCxIkCD0VBGI1z0jt2716L_DWnr7fra0FfSfOhjdn9mH798T_tnqrqJVUdxBheuMAr4ZWcHD4N7D0azM45RYUHlSZCrEiAW28QPmV1EbonpXU1O0JLMXYrk0eQlohSb7tnotXQPjzZi7iERYiVO8HKyq_ZPQLUDypIcQ35WLM3GGR3D1WPjDrAX4a9B3LOgtRzYNY5VcuHQWcEdebGtb1OuGKDmsJx9lkcYXvlYEtMNSaSk77CtWt4jW7hJrsgOgekKSCmemUZlpACFyV1t94abRcNBRefxjkdQeTbF5_Ozo6fAqvKjk6Db9GC9jiAe2xUfMazklAHRhT3_iJ_pIHORfXj5DbUzIbCTQymBNqjTfjsFnO6HdeRRajCu4OO_IXOMDSHEGAW6xlPDPwgWt87yG4tDushHfkgPru-sg_r4oqH4uhpLcwGvQrQdPCqiFqUCV5toi2KlglAng6dIV1GRYqV0AMsRFzneFjpIu1BE6RflqWpuIb93AYRCnTlFu4LYYN0iiqM0lGT6MWAjchHum34YKb88bhejl_AXBc7byt2vnMvmHpe5qjl6E7iD1KgSXxxM-a_QflbQiA3hbz4IW3bqiRff_plrqm_8ot5ZmItvia767MIZnu0nUcLjIuKPhvxvl56ycLL-EyJ_LMnJl7P9Sw090d_as1_5ZXJ4eCRMRDkxfPd3RubXUd9DKgpKavgQCSEcOyZe6hAErBwB_e3O5C2G8vrFHhx6wLVSZseErxR5zxsDxQVnXLRaI5P56XX4YVlmXKxuZ2qPtdU1Q6NUm3fdBd4FAOztbDXjM6bt41mCZkXPerHsz8Hlbl7sRsPeGpyOLxA07Hm43vD2avFCBR5fqwRDQ6e1DHlJOd-nHM0C8_xfgzTcHvZZq0R1-bUwllFj1flEYQ5RpyWLB9Vx1Y3O4KNsB6PqX5a7eBaIE_XJoc24zY31yVcUPc2ejCCfs4hYjA0hCY3p2czWbImDrli6Nu9JnGYHDaeNj-0A8pnp41eZnvnDsHQn2twj_Tn-em7gwhc22OzgVbUc8uKL0o9UxjXDvx1pspV_-h9adehvfZyG8Sze2eEnQeYrNW8VXNp3fnG6XAvJD0nwoupg7N01FcS759ODGzkm4UG2rnqVmeHO9L9fvxrjv_8D9v28Nk"
+      },
+      {
+        "title": "ASRock AMD Radeon RX 9070 XT Challenger Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSYXHysFbxuKzbsp3oQBMIgsh_JV_Vr_Mdp2PaVOaFAj8u9T9Di4HSPk6URFBT8TPmaI7KfqSMN2IGEsbKMSQriI5-2JqxqeNUnsjk6-93QpusZQU8TEf0_gQ",
+        "price": "$699.99",
+        "extracted_price": 699.99,
+        "original_price": "$740",
+        "extracted_original_price": 740,
+        "reviews": 205,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HB3dXnicbVTLrqNGEE3yBVnlD7KyrkQ3L5OdzdPYNObRjc3GwoAB0wZst42N8jV3MiNNlpNFtvmNmUW-I8tgZZtqqTZ16pzSUVf9_d2P73n157LpDgm7yLqsber1Yt2swu40Ez53lza7pazKvsgiVHhOkaEsS7LE85D_nCYsoW1RZX_wUygLMsfJvKgovMLJIv-lzJOMVk3uHg75RWvTETYVgazIIphKrzcyicLv1Skp8v_KwlRUpoooKArgocS_mD5csutXuFZ3MoQKhADwgixDjptKAvh17bva7v9rH8-3_PL8uqAJy69skt4ul7xhkyJv8kvCqraZZPm1Zm03WauTortN0vbUtc0Lc8lpnlzzbAI5KL6SNGny_mPRvUb8H6kPp9EdUZYECYoCD0RBEEaU9KG7s_eyeC_o--36XtL3vPnUJt39kH77_h_9nqrqJVU93HVE87mAoKWPH1pQo0UasRXiDQ7jrHLgQiRmy2Ke-tmQebmFxDycPT1O6Uik9JmGkuwUbxJQEsRdeS9Ermva1YYnPtJilEBaYR2EmWkfXY2y2DLufq0Eru4f4wi0CNM-MYEbcrSOmo5FpoHCiHiJZTsEKyIh5LjdlFxS220YGg7ZlFZKUeNGmZPpSA-pUsUWqfKmZAiSxRaW272p-JHmQGIoCw8z6FNjsTfKdVKz1Sp6CE6tRGmNLrkeG06EfO9IV8gysIPBMmnQ4PCo35NyQMC-bZsuDk8PP7H8ZWzNhYx0w77OetdkCzLYa0Tj1jUV5J3AnIQUBbh77Gta7o_EyCJDwuYjRjqBfuMzj7MjzAHRqx_IiYo-N-kNa9mQRouHR2Yi4sk6gdnWJXMxwWyLdS4wgDekZlymZL4NuG6LIfMCMmex_qB7bFzMyp77Fnq6URwmRrfwOEpjFVhuBMx4kwVxSB10KsQgUjYeyPjfHtfL4Ss3M0QWuCILvXvZqWezwC2ka4nfSZEu8eXNmv0C5KkgCRDAKeDFT2nb1lX-7YefZrr6M6_NMpvoyXW_vj7LkRm7s1gjpKzpsxHvSzPYa0HGZ_M4PAfiPuhh323tzSGcOrOf-flktwvycSHytyD01y82dIr7hKO2NF9Eu1zCmCSBvQFzkEfddg02tzsnuSsnYHNw8U8lPu3bdLcnK3XGg3ZHccnmF50W5Hg2A0Y0x7HlcnU71n2hqyraWpXavnQ1MopxylLY6BYLZm2jO8Jo0eP0ePbnqLbXb6gJuEDd73ZvwPac2RivPrTQxkaR58cc02gXSKybH-UiTApIs-052YzLNNze3Ky1kpM9dUhW08N1_oi2BcFQ35uPmnWLG4pBIywfR__0dNrBd7giXdoQr0Y3V1cTaNS_jTNYUT-DOLc6PGxtOKNne292TTL-7KFvN7oESb5bBfps1w64UI4ro8o23h1wQ38-cffYeJ6foT-InI-CThloTQO_qvmyMrJ5B9uBvyqqXPePPpTWDG_0t9sgnv17l3fnAeyXatGqhbRkoXXc3UvJKHLhzTa4s3QwFhIfHo8dt5JvDh4o81XX6HZ3bIT9eGsOf_0LYgfscA"
+      },
+      {
+        "title": "XFX Mercury AMD Radeon RX 9070XT OC Magnetic Air Edition with RGB 16GB GDDR6",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ56acCyhcB-hydjUcFAp1PYBQ6QoLY-M-4GtRq6Y-tZbT80cjUK7DNQzBvPaD1JB1lW2kr1bW25ItsyDP8Md3ILWlRpQ-YeSZBp7Q_N-2g-Lo6G0dmYnoh9w",
+        "price": "$779.99",
+        "extracted_price": 779.99,
+        "reviews": 69,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RwJLSXicdVTLsqM2EE3yBVnlD7Jy3SohXiY7gxG-2GBbIMBsXBhksBFvbGMqX3Mnk6pkOUlVtvmNmUW-I8tws060aC1Od5_uozr666tv3-jlj3VZn6O-lXV5GeS71125cetiIfxSt1Vyi_tL8kkWocIDRYayLMkSz0P-lzjqI1all-Q3SeSBzCk8JwqipMwVAXKfMhol7FLS7flM22UVT2mKyElQlAU4l4AkTq04-ddLEaX0X_h3Tp4LgBdkUZYFXhDmvMwJH9qk-yzstCPHcVAWpLkkA1mcy0CEUPlxh7fL4_-AH5sbbZ-fX1nU066fxbe2pWU_S2lJ26i_VOUsoV3eV_Vsp83S-jaLq6KuyvecljIadTSZQQDF9yDNSvr4mNb_TvkfXB-KSSFRloRpPeFdBUGQIZQ-1Pf-LUvfUvZ2694y9kbLn6uovp_jL1__rd9jTWtjbU_q2lti4Iz2_sSFAvEU5DCmEZR0XmCv3QuAVGcbl7cl32CFy6k9zSsQAwIdA_FWnkJyReSQ24ZLcIf5RLNHnG9XOQj18GpfdRhDViRI2VslElyU9yeutmIyiJbnZSTADQm8fA-y3Wa63SXGtDg8MUSPcIm2CVIbx2BPWigkAko24SE2WBRyFkgCe7D88Op76tMqzA0ZMYuZacVX5EQuGmwu5OyyZkQXr8locicNPB0e53bBiLXyDpGe9KdVzVOSNRSp5wBmm5jLB9-rswSgNmSMjzmsRkbW-_nQeV64cn3PI_oQRTwyLSBa1E0av3gVI30oXdLrBx-d3VL1IuYZ9qiSaT5EAMYWrLFP7BXV-5WrK22CkIhJf8O8_YjzR2_nCCTAC6i7GCixcTDaRkx0B3H7MTbCLPbUgwPqA4H93vHUPtQHdiKoNS6milf2c-uH2NV7aLnYd2AmOiWrbR11Xu6JnoEbd7UfXI7xPw1de_4MFkjsna0AXzq6fkqXvdtXxU1oVmRxaPLlZX1If3j3gzRZCc45Xvo5rqr8Qr98891C177nl4vE9PSoO-26Z-YrAdkuwuX0mjl7luJ9bTinpZPwiRq6jSOenAd81AczOLtza_E9r86OR4dOjqAvjot3793sInxEgJmS-uofqUSIFzlmwKkc9evDjgtudyBtN5bTq1yLi4wUpyo-nryNtuC56shI1qutzlLv2hhO7y0ty5Szze2aP1Jd0-zD6qJV77xLbyIDyloI9FXvLKpSt4TECYdieD4aPzd3L3bpAEc7HY8vnLm3FtN5r7Nfl1OhyPNTDJl_dKS-Vq9y6kYpZMmhiYLJTOPtZZtUq6gw55aX5OzcqYN_SD0C9ZMx5H39erNDrhTWwxUXT6sasQXSeG1CspnU3HQGt2T4Ns2w8h8LSOiqJuPBhAvWmCejLqMDzMZHFegS9Ohx4-iLYzWSVLlu0CUJ9ncOjI-mAPcQPZuni0cRYNuplZHlzMGXnM8uKFFrWI18p2hy_hgerrTrSaC_3Eaxwfea1s3IndZaWmmptO7d1fV4zySUUuHFRKCRzuhV4t3rtQYb-WaRkfVY26L6eCfIfUx_zfnPfwB2c-6P"
+      },
+      {
+        "title": "ASUS Dual Radeon RX 9060 XT White Edition Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRZmJw63YTf9Tb0yt1mvULofUqtfWwVa2im9IsXavw6Z7gTkcMtHppYuoCuHdc-8Sczt6zRy3qc7lToj1bste4F3mESyyC27lj04EyPPG9gd2BGF4uoKf8B",
+        "price": "$469.99",
+        "extracted_price": 469.99,
+        "original_price": "$500",
+        "extracted_original_price": 500,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=V4NGkHicJVNLzqNGEE5ygqxyg1lZlrqbl8nOYLCNDbaB5rWxMLQB00Bjgx9cINeI_smMNFlOFtnmGjOLnCX8Si1KpXp8X1Wp6t8ffn4jxd-bmp3j7ipp0iIo9-t9vXVZNee_sGuT9klXpF8lAckckCUkSaIkchziviRxF9MmK9K_ZOHdLciCOJMFgeORKH7NSZzSoia785lcF00ypnGiKHMykAV-xgMAOQGIfxZVnJH_wzySkYg4GUoCN5oQIv7jNb39_qntyfX1bU3jjty6SdJfr6TuJhmpyTXuiqaepORWdg2b7NVJxvpJ0lSsqd9zroSS-EbSCQJIeFfipCaPTxl755OALI89zMQZBIIA-BknfqzGUQVJ5EUk8BwUeJ6XEBI_snv3lmdvGX3rb285fSP15yZm93Py_cfftHatqv1aOWDGvIUNnDL1bT1fnVbJ09JmnBnomqUx1xqSZ6KvUbSEw843wtizN6T2KIbM2eJU2WkRnywo8vX8GmLj6mg69n37foA0TEtmub7hYq98mAjeiK4bpGbQXcoiRnRHyij0S0vHL-ianG7FHo1sRPkYMg9jjHY4PxPMBivw_BAw1bvMYYRGrmIEx6ALfdqbBTTNErqngHE-TSOvEvZ4meopNmKn0lXiG15YsYMTsMBbKH3owGcIKIu8fOUAb-nrcuNQmzsUkE89ndpeCdwyXboD7QMubxOQLqyVBU6VrETP9YhhPaJKf2I93zo0d2OoGHgJS3fpdQf_Fq9LXUu4tRBRyzyhbmuDEMRBFFg69SxOeZm-LLjaY3D8Ge9j7Y_n7Xr-Bua60Dk7Hk1vZPMSi4PbNVXPtys8D9tyUWzC7FcozXiRRxDNICd-TpqmLMj3n36Za-oHbjFPDU-Lb6f97ZX7coB382jheXlJX7Vw3yyd08JJuVSJ3NYRTs4DPVhoBGd3Zs4_cMrkeHTIeJ9k6rj2_h3NqqJHDKghKmv_SESMvdgxAqhA4rNwD4P-DsTd1nQ6BV7tKsfVqUmOJ2-rzjnYHCnOO-Wq0cy7tEun8xamaUj5tr-Uj0xTVStcFWrzzrvwRjIgb_hAW3XOvKk1k0-d6Fk9X4_WL4391Kod4Kin43EKjYM5H-W9zlovxkKB40YdUf_oiB1TLlLmxhmiadjGQaKqQz_dpc0qroyZ6aUlPd-Upx9mHkbaafksO7burQjW_OZ5sauX2Qy2CbJkYyC8Hbe5vS3hgtr92MPKf8wRJiuGh9BAc9oapyWr4xDlw6MJNBF55Lh1tPmxGXAmX7Z6kQaHOwTDo63APdJf7cu1BwHYlsPkgZbUsYuSyws9VRhqBu4mq1L5eD5ccd_hQJv2g9Dad0ZYO8DTRs0aNRM3nbu6HO-5qGeEnxo6aMWzvhY593JhYCv1Jh5oZ6s7nR3vWHcf4-uf__kP89C5lw"
+      },
+      {
+        "title": "Yeston ACE Radeon RX9060XT 16G GDDR6 Desktop Computer PC Video Graphics Card",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRkscx4PhQvFetmAEB68RLCV3JM4krWCwhB8PX_RMl7N7Ljhk-bCG1Q9UdhCOp5C-ErZuRxmz64ajzwivPx5ww-DvdGvMPFceLYMGj50xqAy2pNJPwIYWVCXA",
+        "price": "$469.00",
+        "extracted_price": 469.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Kc67wXicJVTLrqNGEE3yBVnlD7KyrkR3Q2OyMwZsY-DavM3GagMGmwbagMHma6I7mZEmy0mkbPMbM4t8S7hJLWrTp_qcqjqqf7778S29_LWt2Jl0jaiKSljsNrvKcFm54D-zpk7ucXdJvogClBAniVAUsYgRguhzTDpC6-yS_Akwz0MRChLPcTyHABSQ9CVPSUIvVfp6PqeNUsfvOIDnGEmSIElA5AGaYwn-filJlv73_geYA17iRTDFnMeihAX4oUnaXz_e7mnz_LqhpEvbbhbfmyatulmWVmlDuktdzZK0LbqazXbLWcbus7guWV29Y5qUpqRNkxnkoPCe8KxKh48Z-1_P1A_HQYgFDDEPoMhLH8qpW0HEPIZzXpiU4rk4n8MPrO_e8uwto2_39i2nb2n1qSasP8ffvv-gNvFy2cfy3mPMV2zOXesg4jbIUfyt5VLiqNFyj0zga8UQUw3ZwX5IVlKeBqA31Ug1_ESJUNR7YeQlKyCQEtysa361oeSfvMi2EcWp2rmub13MVfQ0fNZYITXSkikh8Puk1HdE09pg7e9cNfLddW76gFpxqA8u0jibWrJV-INXsZFQik1N6vcexU6hh0HI1v6KcbG2QQTYxFT84uQmrRVqjChJTbwcOaqwnzjQ_qpFByrpLt0MScWeBwdAT5P3JxWsIvioI1drYu6BE4-SQI1Ci4vR4WoricbKCX-IJiYjoKNZPphb0c4a7cYMk5w8ORAheW0p9Ek837DtTegr1hCV2sPTcsOhuUuArHsrULgrv9sHLdkUmhqjjRDRDR9rfmsEwvaAIjkKis4sckDWNkxG3Yyv8s4O4t8ebXP-yi00oXNe-ZOlPZ0eCTd7UZ7KvEYE5sX52Y79_hcgTt7jIYBzgMRPcV0Xl_TbDz8t1OXPSFkkuq-S9rRrn3kghd7rIlJ8Py_osxL67co5KU6CEjlyb45wcgY4sIMent25ufgZybPj0Ukn86Yvjmvv3n-zymggHNWxvAmOKfY8nzh6CGSQBuywA-G95_CrYTqdDBq7zL3yVMfHk28sFwjUR-rlndyoNPOvt5XT-Ypp6mJu3K_FkKnLpXVYX5b1O6_iT2SctOVDdd05i7pSTT5xokf5eA63oNB3L1blcM7ydDy-AH1vLqZ4r7M2ylQoIDTliAZHB3dMvoqZSzJIk8ONhJPvx_vLa1KvSanPTT8p6LmVH8Eh8z2onlaPomObuxWBit8-rnb5NOvRNrks3urQM6ZpGu0KKNS-TxrWwbCAXrpm3njQ4YLe9NOKVeQA83GoQxVDPz0ajro41qOXSVdDuyThvgfcONxKro-05-3p2qPA2ZbDpJEW1LEvBcovWiIzWI-olZZiMTwGF-86L1Rf7uO0_56l7DaC03aZ1csMbzt3fT32OdaylH_RNe6Gz9oGI_d6ZZwh3k1vpJ29fNXYsfc0d5jOwvnvfwEThMXT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,993 @@
+{
+  "search_metadata": {
+    "id": "6a5f7a7c71b492808fe38bbf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Gpx2BUDAV49ltC2yhyrEpQ/6a5f7a7c71b492808fe38bbf.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Gpx2BUDAV49ltC2yhyrEpQ/6a5f7a7c71b492808fe38bbf.json_with_pixel_position",
+    "created_at": "2026-07-21 13:56:12 UTC",
+    "processed_at": "2026-07-21 13:56:12 UTC",
+    "google_url": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2_slots&oq=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2_slots&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Gpx2BUDAV49ltC2yhyrEpQ/6a5f7a7c71b492808fe38bbf.html",
+    "total_time_taken": 7.7
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ASUS ROG Strix B650-A Gaming WIFI Motherboard motherboard m2_slots",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ASUS ROG Strix B650-A Gaming WIFI Motherboard motherboard m2_slots",
+    "total_results": 180,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "ASUS ROG Strix B650-A Gaming WIFI Motherboard motherboard m2 slots",
+    "showing_results_for": "ASUS ROG Strix B650-A Gaming WIFI Motherboard motherboard m2 slots"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Bargain AM5 Motherboard ASUS ROG Strix B650 A Gaming ...",
+      "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/55J25_GSuXM8e15MDL1TZBmq3zy4MKFF2R7jiP6GG6k.jpeg",
+      "channel": "Mike's unboxing, reviews and how to",
+      "duration": "16:04",
+      "platform": "YouTube",
+      "date": "Dec 8, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQoDqvNWBGWZqZis8JK1fu52-oTeCNN5W7T-w",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction: Model, Retail & Bargain Price!",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/55J25_GSuXM8e15MDL1TZPA5ZzybSZ2szhC-BLH-Jjpxdv-O4Os9oEwlzo6reSIm.jpeg"
+        },
+        {
+          "time": "00:36",
+          "title": "Key Features Overview (PCIe 5.0 M.2, Q-Release, RAM)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=36",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/55J25_GSuXM8e15MDL1TZAEheuMenXT77I1Zcr8izWwU9mMFuOAlFFtyOEv0qqkg.jpeg"
+        },
+        {
+          "time": "01:07",
+          "title": "Final Price Check & Finding Bargains (Join Our Discord!)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=67",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/55J25_GSuXM8e15MDL1TZLzQc8nstEa3Dc-1zmNVb-HB-wAcr8kO9di_h0JaIq3l.jpeg"
+        },
+        {
+          "time": "01:39",
+          "title": "Unboxing: What's in the box?",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=99",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/55J25_GSuXM8e15MDL1TZOz0DN4gUE5p6rtywVLHpuTJheq8JXUICm57EniNHpny.jpeg"
+        },
+        {
+          "time": "02:40",
+          "title": "Package Contents - Old School Extras! (SATA, Manual, Stickers)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=160",
+          "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/55J25_GSuXM8e15MDL1TZLSMTJosssF5VpCDqncb82In0mLtjdSZM4r_wVCY2XZ9.jpeg"
+        },
+        {
+          "time": "04:26",
+          "title": "Motherboard Physical Overview",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=266",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2fIPJg8aHJ5yuEnEwj4CYTX5mMtWs_UhGVMVxC5iGxg&s="
+        },
+        {
+          "time": "04:28",
+          "title": "VRM Setup (12+2+1, 60A Chokes) & Power Connectors",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=268",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2fIPJg8aHJ5yuEnEwj4CYTX5mMtWs_UhGVMVxC5iGxg&s="
+        },
+        {
+          "time": "05:32",
+          "title": "AM5 CPU Socket (A Warning for Used Boards!)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=332",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrC_qcs7AZZvR0Gm28qojFHzpo99kAzyD4OuQcdq2-yg&s="
+        },
+        {
+          "time": "05:55",
+          "title": "Fan, RGB Headers & Q-LED Diagnostics",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=355",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWEpy4H0q-EX_7F9Iad1aHUwD9jBQpoP40cWXz08aw1A&s="
+        },
+        {
+          "time": "07:02",
+          "title": "RAM Slots & DDR5 Speed Support (Up to 6400+)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=422",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTW_RB0oZ-8Ujrb0s3_MsjD7MUMsbBYV9BqbwqVPap6iA&s="
+        },
+        {
+          "time": "07:12",
+          "title": "Front Panel & GPU Q-Release Button",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=432",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTW_RB0oZ-8Ujrb0s3_MsjD7MUMsbBYV9BqbwqVPap6iA&s="
+        },
+        {
+          "time": "07:53",
+          "title": "SATA Ports & More Fan Headers",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=473",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_1OcKu85AmUAhuMmNFDoGEdYQqngRpFS4q-9PRCTESQ&s="
+        },
+        {
+          "time": "08:10",
+          "title": "M.2 & PCIe Slots Breakdown",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=490",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-3kg09a0A0ho1otFlsdKVtQOQNQWLU_zagl8rx1phCg&s="
+        },
+        {
+          "time": "08:16",
+          "title": "M.2 Slots (PCIe Gen 5 & Gen 4)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=496",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsQo5MZ44RaZX-ekZEti4ayPK5jXszObrAPdgCy9gWlA&s="
+        },
+        {
+          "time": "09:02",
+          "title": "Main PCIe Slot (Gen 4 x16) Discussion - Is Gen 5 a loss?",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=542",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkPDLmBSHI5HmoadUFkymqWKi5o8ck6AmXhzjy_Yg-uw&s="
+        },
+        {
+          "time": "09:42",
+          "title": "PCIe Bifurcation/Sharing Explained (The Important Snag!)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=582",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKuIez4wuguInu4pWKEAmHTZqvZhPFOiHU7wiQjRLkAw&s="
+        },
+        {
+          "time": "10:30",
+          "title": "Bottom Front Panel I/O Headers (USB 2.0, Overvolt Switch, ARGB)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=630",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOgWaa7EJIZsu0aqqibboBIUAOPRtyFUHHr83O00fKJg&s="
+        },
+        {
+          "time": "11:33",
+          "title": "Audio Solution (ALC 4080) & Tucked Away Fan Header",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=693",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvp_x-K-eH6xwWp2f2KZq7KySIQjg0wdv93mO7jLrWZQ&s="
+        },
+        {
+          "time": "12:10",
+          "title": "Integrated I/O Shield & RGB Effects",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=730",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEkJDxqvwSmHri9JpqecJlRiyv5UT-VBFSFyEB_goqmA&s="
+        },
+        {
+          "time": "12:25",
+          "title": "Rear Panel I/O Ports (Display, HDMI, USB, 2.5G LAN, Wi-Fi 6E, BIOS Flashback)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=745",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBRIm9uh1OoKinYeee6LdLC6KhKeMfEY-IFlGuEtOBag&s="
+        },
+        {
+          "time": "13:49",
+          "title": "Final Thoughts: Value for Money & Competitors (MSI Tomahawk)",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=829",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRM9fIBzcxIm-bOltqPqm-e0zrlQ0X6PG--yqmXbKnYmg&s="
+        },
+        {
+          "time": "14:25",
+          "title": "Aesthetic & Build Compatibility",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=865",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ884rTcKtbF5GH8HSxqE9yAoTandUM4eZcANy3RkG1w&s="
+        },
+        {
+          "time": "14:33",
+          "title": "Conclusion: Is it a Bargain?",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=873",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRB3MM8jLnMVM6CwGlMBie_o9iSR7cLCkJYirBimLy4g&s="
+        },
+        {
+          "time": "15:40",
+          "title": "Wrap Up & Call to Action",
+          "link": "https://www.youtube.com/watch?v=iRdBtSHEKa4&t=940",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbNcrgRdiIzWDYkkxzG0Bltyt4qCOqHh8cW6iOI7jNMw&s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Asus ROG Strix B650-A Gaming Wifi - Unboxing and overview",
+      "link": "https://www.youtube.com/watch?v=Sj2dUmM71FU",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/-jqXr6xxxJCdi1jmKLX_uw7sm41pkbHKE6MRxvobMMg.jpeg",
+      "channel": "Tech Check",
+      "duration": "15:54",
+      "platform": "YouTube",
+      "date": "Apr 14, 2024",
+      "snippet": "The Asus ROG Strix B650-A Gaming Wifi features PCIe Gen 5, 12+2 phase power delivery, and supports up to 128GB DDR5 RAM."
+    },
+    {
+      "position": 3,
+      "title": "ASUS ROG STRIX B650-A NOT RECOGNIZING ANY M.2 : r ...",
+      "link": "https://www.reddit.com/r/PcBuildHelp/comments/1h4ngdu/asus_rog_strix_b650a_not_recognizing_any_m2/",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/AatiFGwbflacGT4ocN7z0eFKgm5A9ag5Pr_HMRgB3gs.jpeg",
+      "channel": "caelenriggs",
+      "duration": "0:38",
+      "platform": "Reddit",
+      "date": "Dec 2, 2024"
+    },
+    {
+      "position": 4,
+      "title": "Motherboard Asus ROG Strix B650-A Gaming WiFi | TEST ...",
+      "link": "https://www.youtube.com/watch?v=B2Uznv9xe0A&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6a5f7a7c71b492808fe38bbf/images/svQdh_V8jYGrAg4mUmmnwYsi4ki9_hFc1aNIkEn0DF0.jpeg",
+      "channel": "Device Lab",
+      "duration": "3:24",
+      "platform": "YouTube",
+      "date": "Jun 8, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSbnx2bvItF58OypvUFwEjcMUoG5PxytViG4Q"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcROVX8xDkT7t1sMTwedtMU5ZhWKSp0mMXFd46T8PXnPw4ucwPIu24VDeVBB8w29_YA2gxo5Wk0jvuIAPOwOPModvKk5khR2ablGabJUi7BY",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "ASUS ROG Strix B650-A Gaming WIFI Motherboard",
+      "rating": 4.5,
+      "reviews": 439,
+      "price": "$196.49",
+      "extracted_price": 196.49,
+      "immersive_product_page_token": "cH2_33icdZPLjqNGFIalPEPewhqpLhSG7Iztsk0P2BRUcdm0MGAuBrsayu2L8g55B_dMpMlyJlK2eY3O08SjbLJIdkfn_845v37p_HIv6j9KLHfp8KTZyY73p_kGyu1t75VfZH_MT5mq898hNA1dAwRoEJmGOYYEa1-yVKXtsazzbwSb-oMAY2hCDRKoI-NrVaR5Wx-K9W5X9LNj9sAg0XSIkP7YY3ynDE3_re7SsvhHNoFumAgBgEwTAAMQnbz1-fCubabPEAGIDYg1EwOMCBkjA_68YevZ8_-In19ORX99tyY-90dsvRj5qq8vI0sn4MNktEi7-lCOwhVdjZyjqop-e0z7fNT9u0bPQ3tUw-dSZt8j-I8jb12dfyVjXdPRmEBsEmJoEGhv8lXdq_LT6dQWf97L9n4a7lV7Lw6_HlP5usv--uHH-fE8mw7nqcelFDMGgmUeZZ3YZSB_ZVQ0bE8--uEK8xuNcq5iFtI63u-VJybQx0Kxfax5B2r7sLp40HLW1FUFf8xQ88lvcuAB-ZR0MRadudvO2kvQtXuHuytnTk4ZorsAmEshaMNbVzExUWz-6HW5EEvaCcSvWVPhhFqtoElTRFazXboW5zIO92IVI7ZJZ2wdgeEWNK2XAnkJRYWyEAYxrJBYyjAME_rwKbc8Icnigl1YnnmolNu0dQza4zqyQi9ig3PwLiyUG3ZLYEjl4mMYEzdwz35Am3BvN0xUNRe2m_CcOh2DeSCm2zmVLrSHmNNjjGKV4VJFwN27wvQ4pi_pXEy9cAARtqMY5l02a52ksZEjWpct5TVs7RUDZxUKG8dAJB7M8JbOYRy4V3_mqC1XCQNMZ23OU2ATf1lxjkySdm21plSGB_biCO5TlN2yRVJlYAB-KzsR2fCR5SVb2HoK6WFR2xZbutd1mPjRLW_8KOkCVElOW5SAC2VRnmRzQgIu2JZS69Nl6HfvYEKJ8tdjuohsiTdAYBr1jr7eWmKO1bwjffkTHD9eR0PQAABofwMKzjwA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cH2_33icdZPLjqNGFIalPEPewhqpLhSG7Iztsk0P2BRUcdm0MGAuBrsayu2L8g55B_dMpMlyJlK2eY3O08SjbLJIdkfn_845v37p_HIv6j9KLHfp8KTZyY73p_kGyu1t75VfZH_MT5mq898hNA1dAwRoEJmGOYYEa1-yVKXtsazzbwSb-oMAY2hCDRKoI-NrVaR5Wx-K9W5X9LNj9sAg0XSIkP7YY3ynDE3_re7SsvhHNoFumAgBgEwTAAMQnbz1-fCubabPEAGIDYg1EwOMCBkjA_68YevZ8_-In19ORX99tyY-90dsvRj5qq8vI0sn4MNktEi7-lCOwhVdjZyjqop-e0z7fNT9u0bPQ3tUw-dSZt8j-I8jb12dfyVjXdPRmEBsEmJoEGhv8lXdq_LT6dQWf97L9n4a7lV7Lw6_HlP5usv--uHH-fE8mw7nqcelFDMGgmUeZZ3YZSB_ZVQ0bE8--uEK8xuNcq5iFtI63u-VJybQx0Kxfax5B2r7sLp40HLW1FUFf8xQ88lvcuAB-ZR0MRadudvO2kvQtXuHuytnTk4ZorsAmEshaMNbVzExUWz-6HW5EEvaCcSvWVPhhFqtoElTRFazXboW5zIO92IVI7ZJZ2wdgeEWNK2XAnkJRYWyEAYxrJBYyjAME_rwKbc8Icnigl1YnnmolNu0dQza4zqyQi9ig3PwLiyUG3ZLYEjl4mMYEzdwz35Am3BvN0xUNRe2m_CcOh2DeSCm2zmVLrSHmNNjjGKV4VJFwN27wvQ4pi_pXEy9cAARtqMY5l02a52ksZEjWpct5TVs7RUDZxUKG8dAJB7M8JbOYRy4V3_mqC1XCQNMZ23OU2ATf1lxjkySdm21plSGB_biCO5TlN2yRVJlYAB-KzsR2fCR5SVb2HoK6WFR2xZbutd1mPjRLW_8KOkCVElOW5SAC2VRnmRzQgIu2JZS69Nl6HfvYEKJ8tdjuohsiTdAYBr1jr7eWmKO1bwjffkTHD9eR0PQAABofwMKzjwA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQsmc0aG5DiJGUwa27N2sJygGlgM-PHMb2dVETJPtnNT5hKeRqQnXGskvLFPKnBFzxk99_NRiWdMeKSOB94BG_0Ws4xrwFxyRN393dqkFYEfd4fQ4Hglhl11Q",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+      "source": "eBay - jkcomputerparts",
+      "title": "Asus Rog Strix B650-a Gaming Wifi Motherboard Read Desc Pc1722243",
+      "price": "$23.99",
+      "extracted_price": 23.99,
+      "delivery": "Free delivery",
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "YUqfaHicdY7NbptAAITV57EqweI1prfYYWmIwdmFXWwu1QJr_pYf82M7fom-QuQkldJjVanXvkb6NE2lHnrpZTSjT6OZzxeR_0i1dsf726kd7mg3mndqG51LnL60XZOM8ZAn31VNmetTRTdUTQdwpqs6VF5iPnDZpHny8C0TPJF5Lda7neium_g_la95xVPxl6uaMQNAh3OgaPrcUAGEj13SPzzvR9Hdvy6uPOpNyNqaeEOXnyaLGVTeX00sXuV1Oglu0M3EaYZMdFHDu2RS_evBp142Q_-ctm9LD4_VH2kPwyVLn8ZRip-XVF7G_pLJi6i_NLw97OJf7wqzOS6X_XGBaduya6J4dXqmldtjtoWRNA6eTDWxVDvfcu1IC29dH_EQJNL3kz2X7QlvTIX4iPFK1nFJpiElfG1Otdg6ZcGGtcLaHrfnDPmFHXgAn0XQLnERZqSEIdYQ2oKB8SAEJDihoGQHp0LTCNg5Zw4QGztwCvMeq6glvttT067YOQPUz7yIhScXXcHknNyFlc3dgjRMI1tCbUpk5rG3r-w6w4IZhw1oBrdgMFIN9y1jt5ZuZIU4ttCGKpkaWLLxqfRcEENcJNo6QCszS2pHW1TbjbtyzZaHkt0nlGFns8hFNZDw1OSYknNcyIqWc4hroglqdFGZqCFld7FvgqAM94mCdq7GnPD4dOq73atyheDgreHIDRXFqnRW5WijLevJx1quyN6E-IOqz6ezKVDniqLA32rk7wg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YUqfaHicdY7NbptAAITV57EqweI1prfYYWmIwdmFXWwu1QJr_pYf82M7fom-QuQkldJjVanXvkb6NE2lHnrpZTSjT6OZzxeR_0i1dsf726kd7mg3mndqG51LnL60XZOM8ZAn31VNmetTRTdUTQdwpqs6VF5iPnDZpHny8C0TPJF5Lda7neium_g_la95xVPxl6uaMQNAh3OgaPrcUAGEj13SPzzvR9Hdvy6uPOpNyNqaeEOXnyaLGVTeX00sXuV1Oglu0M3EaYZMdFHDu2RS_evBp142Q_-ctm9LD4_VH2kPwyVLn8ZRip-XVF7G_pLJi6i_NLw97OJf7wqzOS6X_XGBaduya6J4dXqmldtjtoWRNA6eTDWxVDvfcu1IC29dH_EQJNL3kz2X7QlvTIX4iPFK1nFJpiElfG1Otdg6ZcGGtcLaHrfnDPmFHXgAn0XQLnERZqSEIdYQ2oKB8SAEJDihoGQHp0LTCNg5Zw4QGztwCvMeq6glvttT067YOQPUz7yIhScXXcHknNyFlc3dgjRMI1tCbUpk5rG3r-w6w4IZhw1oBrdgMFIN9y1jt5ZuZIU4ttCGKpkaWLLxqfRcEENcJNo6QCszS2pHW1TbjbtyzZaHkt0nlGFns8hFNZDw1OSYknNcyIqWc4hroglqdFGZqCFld7FvgqAM94mCdq7GnPD4dOq73atyheDgreHIDRXFqnRW5WijLevJx1quyN6E-IOqz6ezKVDniqLA32rk7wg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcT4rvoo-BiMr25JQ0DQ9nAwXNrcNIW6RQxXC5EHfi4_7grUIimEHZx5to9tC-MmG0pBcQli_7qQmlOeEbD_0qdhrAL4-IrcoiFnMayPdwVmVaQFWeZRvAQ-",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - huahai newgo",
+      "title": "ASUS ROG STRIX B650-A GAMING WiFi 6E Snow Motherboard",
+      "price": "$278.40",
+      "extracted_price": 278.4,
+      "original_price": "Usually $316",
+      "extracted_original_price": 316,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "bq01anicTZJNrts2FIXR9RgFSIrUT2dPtiT7OaIrSpQsTQqKlC3HlK3I8rPNTXQLhV9SIB0mATrtNtLVxMkoo3uBc87F_YDz573Z_bu1-o04LfFzteHDOfgd9rXZJ9uP_XBUZznu1BeILAQsG0HXI55rAexC-FGKUejj9rvsYuTankU87OLHdKFHPrWNUHp3aFabTTPMjvK7z36EEUKQYIIRcoAH3X92ndg2P_TP0HpcAo7reQB42IEAotdBnf768O7cDLev_lPK0wlbRZN0HHbXiW8T8OvTJBLd7rCdFItwMYmPY9sM9VEMatL9vKM_Tvo4nj5s-x-PENeGrv2gcmxIkIsghK_dTn0ijo1t5HroQYEAtAh-7V_Ge7t9fz7r5r_7Vt_Pp3ur783h76PoXzby_19eg0FOpy_ST3jf5zMGUtOmWd4_V4VCiZXc6gM916FfCu1fWL6ADW9f6sALK5MAuj9d1XpxSQOY111JaO4nDLVxrnvc8IqtsgA0UZVJrooYUb02lagtadiedSlyb9JUPu8Urg17I_ZezA4tSkC-ShHZ0bWOijAc2Q2Y4qDsOEuMymMiI13SoJ_KbuxFyGDGdZ_yAMUmMWv0TDg43tTaL7KshGrWIpFVnFp5VCJGq7ANYkPzbB4usynANGBUcaazt2FC1ywvOjAmCLbU2l9ZwK7ShIGIlEiLVldvq7HSJY65gmuYX5qonae5j-ksxGzOL2nY-zTKZ_V1sa4MvVRdaFLDlkVX5fKQh3wWXspDP_BCisU-DKS1IJWmmzIPSD1nJwHoUgYclh2JqYlvqSktOgUj7-T762nYfAVPIRnTlbP37cuIC2ee6dWsbYOlt6FnZ9Yq-_IbdB4Vxo-mAwDsbzYtDKk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bq01anicTZJNrts2FIXR9RgFSIrUT2dPtiT7OaIrSpQsTQqKlC3HlK3I8rPNTXQLhV9SIB0mATrtNtLVxMkoo3uBc87F_YDz573Z_bu1-o04LfFzteHDOfgd9rXZJ9uP_XBUZznu1BeILAQsG0HXI55rAexC-FGKUejj9rvsYuTankU87OLHdKFHPrWNUHp3aFabTTPMjvK7z36EEUKQYIIRcoAH3X92ndg2P_TP0HpcAo7reQB42IEAotdBnf768O7cDLev_lPK0wlbRZN0HHbXiW8T8OvTJBLd7rCdFItwMYmPY9sM9VEMatL9vKM_Tvo4nj5s-x-PENeGrv2gcmxIkIsghK_dTn0ijo1t5HroQYEAtAh-7V_Ge7t9fz7r5r_7Vt_Pp3ur783h76PoXzby_19eg0FOpy_ST3jf5zMGUtOmWd4_V4VCiZXc6gM916FfCu1fWL6ADW9f6sALK5MAuj9d1XpxSQOY111JaO4nDLVxrnvc8IqtsgA0UZVJrooYUb02lagtadiedSlyb9JUPu8Urg17I_ZezA4tSkC-ShHZ0bWOijAc2Q2Y4qDsOEuMymMiI13SoJ_KbuxFyGDGdZ_yAMUmMWv0TDg43tTaL7KshGrWIpFVnFp5VCJGq7ANYkPzbB4usynANGBUcaazt2FC1ywvOjAmCLbU2l9ZwK7ShIGIlEiLVldvq7HSJY65gmuYX5qonae5j-ksxGzOL2nY-zTKZ_V1sa4MvVRdaFLDlkVX5fKQh3wWXspDP_BCisU-DKS1IJWmmzIPSD1nJwHoUgYclh2JqYlvqSktOgUj7-T762nYfAVPIRnTlbP37cuIC2ee6dWsbYOlt6FnZ9Yq-_IbdB4Vxo-mAwDsbzYtDKk"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTEoy_sJ9AOOpPmFYg3C-d65QtVcoj8rAA_T6lKNiUlxDZ3LOIwsZkC5_XR6Bg58SZg_q6GAHKm5aRm9xZitGmU1hdwgb6u2d0TRQYTuPfdhEwjF4pwOxbVHQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+      "source": "eBay - jkcomputerparts",
+      "title": "Asus Rog Strix B650-a Gaming Wifi Am5 Motherboard Pc1721870",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "dEzoFXicdZJJjptAAEWV86BIFJMhuy6DsWkbuyiqjNlEmGKyiyEMHrhErtByd0fqLKNI2eYandMkLWWRTTZfX3r6epv_-ZYUPzK5SaPuXnHClLSDtQHNfjyi7KVpazbEfcG-A10UNaBKuiYDoGgiUHXwEkd9xOusYA_f8iRivKiSdZomrVnH_5l8LcooS_5yydCALE4MXTN0SQLAmKiPLesenj8NSXt9hXeYYMFb2wLu2-IiQE0V398JdlQWVSZsF7OFsKr7PGn3ddQyofy3Sx87Xvfdc9b8MT08lm_RnPpbnj0NA09-3jJ-G7pbzm9J9aWOmlMa_3p3sOrzdNqdISJNQ01PxOPqSniIqOVVvpT1OxA66CpedwHUliQvfJ9-SnxvujapFkhgjMvwHknOOg5o6drgjC0XUjncMAor16cUlZc8BK4Wmt5071sA85Xobmf11gxNIqHLPoDSkhonr8yjWFoADNyC0ND2ST5lthPEksHZ6AaxrfeE9Iu4ZC4x4YBluog4nC-DZoOq_BiPUPNENout_hBXTkFMxyQz60JEL8RbBqmtiv7ROASgSekYymjr2LuqgfuZs0HAPTCOFDr3OmypI7Yax8pZtZJhuQvcpWs1UcjplRGKVgEskrL3wktdIOKN8YGXRKZ8L3kIU66wMWwQcU_YtkZ2BYTJbI6Jo7Dz06Vr01fxbqb2eD05Qu3cK9vJ3OdrM8-teyN1h4mZM-38AUx0RVOktzOJ2m9z4-0D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dEzoFXicdZJJjptAAEWV86BIFJMhuy6DsWkbuyiqjNlEmGKyiyEMHrhErtByd0fqLKNI2eYandMkLWWRTTZfX3r6epv_-ZYUPzK5SaPuXnHClLSDtQHNfjyi7KVpazbEfcG-A10UNaBKuiYDoGgiUHXwEkd9xOusYA_f8iRivKiSdZomrVnH_5l8LcooS_5yydCALE4MXTN0SQLAmKiPLesenj8NSXt9hXeYYMFb2wLu2-IiQE0V398JdlQWVSZsF7OFsKr7PGn3ddQyofy3Sx87Xvfdc9b8MT08lm_RnPpbnj0NA09-3jJ-G7pbzm9J9aWOmlMa_3p3sOrzdNqdISJNQ01PxOPqSniIqOVVvpT1OxA66CpedwHUliQvfJ9-SnxvujapFkhgjMvwHknOOg5o6drgjC0XUjncMAor16cUlZc8BK4Wmt5071sA85Xobmf11gxNIqHLPoDSkhonr8yjWFoADNyC0ND2ST5lthPEksHZ6AaxrfeE9Iu4ZC4x4YBluog4nC-DZoOq_BiPUPNENout_hBXTkFMxyQz60JEL8RbBqmtiv7ROASgSekYymjr2LuqgfuZs0HAPTCOFDr3OmypI7Yax8pZtZJhuQvcpWs1UcjplRGKVgEskrL3wktdIOKN8YGXRKZ8L3kIU66wMWwQcU_YtkZ2BYTJbI6Jo7Dz06Vr01fxbqb2eD05Qu3cK9vJ3OdrM8-teyN1h4mZM-38AUx0RVOktzOJ2m9z4-0D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSDD7qugzXl-M2B9vzyf9Ab8a5J753dvlIE8zJWSu2czXzL9-6kqw0MLK_Xat8fqTfi3d5yAzfpVTq3lBtYlxsMOYASue_JsW70SVPVoYQlPeCTRAbnISm7",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - CoverZip",
+      "title": "ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 Ryzen Desktop 9000 8000 & 7000 ATX motherboard, 12 + 2 power stages, DDR5, 3x M.2 slot, PCIe 4.0, 2.5G",
+      "rating": 4.8,
+      "reviews": 40,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "LvqQdXicdZDNjqNGAISV57EidTfmx7mZwY3NDnj4a2wuo4bmz91AD-DBY-Ud8gor726kzTGJlGteY6I8TJycckgupVKVSvpUP9yK5rdKkSUdPyydtIyH8-YJyuzK_eqrHHp2zqeG_QpVQ9OgYaw0gJYQrhRFV77mdKKirxr28ee6oEw0XbEvy2Kw-vx_Jj81La2Kf_pfDFVFhq5oOtKVlWYgFWqfBja-o6eHZ-W-Wa2gqiGEgAZVZaV__xTsref_7r68nIvh7d1ch3G4CPb2IpyG5rIwNRV8u17YtG26apHs8G7h9lNdDFlPB7Zo_-3R8yj6afxSyTvbx0_t3yJfp1tdfT6fRfH7rRK383irxa3ofuypfC3zP775c3PePTy87B78WEpiBSDkgeOeAtW1SEwRBh52utCe_BDNc5L4SthWagyEYMAb_M7hKcI8SnzotamTtT2ixIDhAQsXzWouyKNnuTBNJE_jKSWJOLIGlsxmPrVXrsslDBQ2EyjNTMF2FrPUAwLlkWiTls_uyZxZckl8Loa4dcb46jxmkRMXFubHg5R-dJwfk0kyNF7C2KHxlYV35p5t8S7vcO-26oVhIaLTcc74ZiYn7xB09StF9faemxkIXuKWRTmvPb8B0BVs5wO5pJjMx8gcXdErOaiJz2szAg4NO7IMATu5iqxTwuYcYyfdYotAplERz5ni7Q4wmFxwBMFWHD37zghZGRziy_2LiYj1xGz1xTvUnHJ89GK4d21mRSR4o0oeYpRfczutczCCUMiWHBwYkPUltx2NQtzZjWMGW-9tn6Shz0maYhcFm0nSw-6anchjnjBIeH3PpZuemPn5Mg7lO1hjdQr3Oje1eVom-jYSe6uuNx9WpXfWrZpp83dQN5baEkEDAKD9BbYJIfc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LvqQdXicdZDNjqNGAISV57EidTfmx7mZwY3NDnj4a2wuo4bmz91AD-DBY-Ud8gor726kzTGJlGteY6I8TJycckgupVKVSvpUP9yK5rdKkSUdPyydtIyH8-YJyuzK_eqrHHp2zqeG_QpVQ9OgYaw0gJYQrhRFV77mdKKirxr28ee6oEw0XbEvy2Kw-vx_Jj81La2Kf_pfDFVFhq5oOtKVlWYgFWqfBja-o6eHZ-W-Wa2gqiGEgAZVZaV__xTsref_7r68nIvh7d1ch3G4CPb2IpyG5rIwNRV8u17YtG26apHs8G7h9lNdDFlPB7Zo_-3R8yj6afxSyTvbx0_t3yJfp1tdfT6fRfH7rRK383irxa3ofuypfC3zP775c3PePTy87B78WEpiBSDkgeOeAtW1SEwRBh52utCe_BDNc5L4SthWagyEYMAb_M7hKcI8SnzotamTtT2ixIDhAQsXzWouyKNnuTBNJE_jKSWJOLIGlsxmPrVXrsslDBQ2EyjNTMF2FrPUAwLlkWiTls_uyZxZckl8Loa4dcb46jxmkRMXFubHg5R-dJwfk0kyNF7C2KHxlYV35p5t8S7vcO-26oVhIaLTcc74ZiYn7xB09StF9faemxkIXuKWRTmvPb8B0BVs5wO5pJjMx8gcXdErOaiJz2szAg4NO7IMATu5iqxTwuYcYyfdYotAplERz5ni7Q4wmFxwBMFWHD37zghZGRziy_2LiYj1xGz1xTvUnHJ89GK4d21mRSR4o0oeYpRfczutczCCUMiWHBwYkPUltx2NQtzZjWMGW-9tn6Shz0maYhcFm0nSw-6anchjnjBIeH3PpZuemPn5Mg7lO1hjdQr3Oje1eVom-jYSe6uuNx9WpXfWrZpp83dQN5baEkEDAKD9BbYJIfc"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQ0XV_VctSozoSVgigBrNwZfqwcNgYNbfWaRgIU_92HIQLn4SkQAsezU_jjsGySTCO7xootIJZGWq8FfF1_qTuRx_A4L_2qnrGtmtooTKRPyiVAO1LGalHc",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - imperial_industrial_japan",
+      "title": "Asus AM5 ATX ROG STRIX B650-A GAMING WIFI DDR5 Motherboard",
+      "rating": 4.5,
+      "reviews": 20,
+      "price": "$319.30",
+      "extracted_price": 319.3,
+      "immersive_product_page_token": "IE-oqHicbY_LjqNGFIaleYa8hRWpqrjPrmkuNt0UpoDismkBhQ3twma4NDbKO-Qd3DORJsvJItu8Rudp4p7ZREoWRzrS95_L9-u1av7cC90uHx5EJ9tF_WRuYVcsB3__tetPbCrHhv0ha7IsS0AUVUUVANAAQl_LfMz5af9OVaiqMlBEUdJkqAqaCr7VVc54c6y83a7qjVP5HhNF4TatIRlBGYmCgsDvTZvvqx9YQAqEqqgK4nvJsqih154Nb2h7_yRoiqbcAAKapoqCpkH4y5Z4xtP_sy-fpqq_vOl3QRSsiGevgrFvziv9pvDz3crO2-a4X8Uba7NyT2Nd9cUp79mq_XePngZ-Gocv--77b_-98do27JukyKKMJFkQABIlCYrwtXsZr_X-8zTx6q_rnl-n4Vrza3X87ZR3L7vy7w8_mafZuB_mez_qOmoQEFB_qSxTCi1XqjhLskXPKa9xGJNd8ex41Zoe2ZE0PrX6HJGgTMpLuhCTRWMaovNMI-vit05UBvCxAGBxE7oJl6zPYmoRru2KVhQp4Hp0gFtMNSGIuVvGJAlNzAM0S4RqWRnSurDrLItK4TGpHwPbihnAQWHUk3sgmbfuZJfiTWFYgn_UW9fEWfpM0gSqcwnqT7c95yrGHgPznCW1U9hwTQ19cU0WR4BKxXqDymVzcQEjKXImLOjn-Jlsg4heQovolZ2Znon9APFTaTgvYcinx8S6j1oJ4AVvgnY0Cqpv_VhqXBMmmeGAANVJGlrHMsF6AjGJQyt0gZZGsBsiJNnxmtMs4qNnsJeK6okb8hSD-pLHWejZ2MJry09vLlXIXXyMRgxZRzgJA8Ncyni-pPEBssM4lKiWcGg9ULOcC9hJUXsIrJtNaWd1CQYQ8K6liQMJvTuXtiPn0DrajaOTNb54cRZU683ZpcyMD9bEYskPjvhCkggV8SBkiEnugQmfz0O_ewN3ljQGnnLQ5XkUY2Udcs-oa_NB2-FJMWomzx-hooqyiKAKAJD_ASmEPHI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IE-oqHicbY_LjqNGFIaleYa8hRWpqrjPrmkuNt0UpoDismkBhQ3twma4NDbKO-Qd3DORJsvJItu8Rudp4p7ZREoWRzrS95_L9-u1av7cC90uHx5EJ9tF_WRuYVcsB3__tetPbCrHhv0ha7IsS0AUVUUVANAAQl_LfMz5af9OVaiqMlBEUdJkqAqaCr7VVc54c6y83a7qjVP5HhNF4TatIRlBGYmCgsDvTZvvqx9YQAqEqqgK4nvJsqih154Nb2h7_yRoiqbcAAKapoqCpkH4y5Z4xtP_sy-fpqq_vOl3QRSsiGevgrFvziv9pvDz3crO2-a4X8Uba7NyT2Nd9cUp79mq_XePngZ-Gocv--77b_-98do27JukyKKMJFkQABIlCYrwtXsZr_X-8zTx6q_rnl-n4Vrza3X87ZR3L7vy7w8_mafZuB_mez_qOmoQEFB_qSxTCi1XqjhLskXPKa9xGJNd8ex41Zoe2ZE0PrX6HJGgTMpLuhCTRWMaovNMI-vit05UBvCxAGBxE7oJl6zPYmoRru2KVhQp4Hp0gFtMNSGIuVvGJAlNzAM0S4RqWRnSurDrLItK4TGpHwPbihnAQWHUk3sgmbfuZJfiTWFYgn_UW9fEWfpM0gSqcwnqT7c95yrGHgPznCW1U9hwTQ19cU0WR4BKxXqDymVzcQEjKXImLOjn-Jlsg4heQovolZ2Znon9APFTaTgvYcinx8S6j1oJ4AVvgnY0Cqpv_VhqXBMmmeGAANVJGlrHMsF6AjGJQyt0gZZGsBsiJNnxmtMs4qNnsJeK6okb8hSD-pLHWejZ2MJry09vLlXIXXyMRgxZRzgJA8Ncyni-pPEBssM4lKiWcGg9ULOcC9hJUXsIrJtNaWd1CQYQ8K6liQMJvTuXtiPn0DrajaOTNb54cRZU683ZpcyMD9bEYskPjvhCkggV8SBkiEnugQmfz0O_ewN3ljQGnnLQ5XkUY2Udcs-oa_NB2-FJMWomzx-hooqyiKAKAJD_ASmEPHI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSeK3sWngZaX7A6470rpRFixT19FgI4HpITHuJxRsCuRIKMiSf71tciOhigaMDhMWF3pKWULeo0wXkslej424Ws2g5lyqHl771L_ecqe-CnYDlzCwLiAamN",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+      "source": "eBay - jkcomputerparts",
+      "title": "Asus Rog Strix B650-a Gaming Wifi Amd Motherboard Damaged Pins",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "delivery": "Free delivery",
+      "extensions": [
+        "24% OFF"
+      ],
+      "immersive_product_page_token": "NQQeqHicdVLLbptAAFS_x6rEmodxbyHmYWzj8tgF9lKBF1hgMQQvMfZP5BciJ6mUHttKvfY30q-p21MvvYxGmhmNRpqHS1b-KMQuTw4rycY57Af9I-jSc-0Wr13fkmHHS_IdSKIKVEGaS-oMqIogz-bgdZfwhLVFSR6_0iwhrNxn2zzP-kW7-0_kS9kkRfZX_zYXFFWdirIE5KtPBHN1_tSTw-PL3ZD1pzftxof-xNuaE5_35TjRFFl4fzMxk6bcF5NwaSwnm5bTrE_bpCeT5l8-_XRgLT-8FN216PGp-QPdPb_Q4nkYWPbzUrDLcLhQdsn2n9uku893v95Venu8vT0cNRd2HVp4gt_ICFf2lljYILpnuSGxiUj63ZRrW4vYmQnWcYMk35Qrggjf1K2AAD6mTAf4rJ-Q0N2FUTcE0OCeYMipzqodxLIztfnWwnSzt-sY0XOCcO1VlELIG3j26rixeWKOrXdGUQQMuNmj0jEdz9dpHEdknS2wElj2aYPsO6dCIkJaHTYkTi3PxIaBQpOdUEACPIWjEzmjWzPNEZ0VNhFNRU1BrBtxRSzH9PJAx8CFxpgYnRmaJMQB0dLIMUNE79Nmvk5qLOiU7Dei1sSRs3b0LsEMnQhE7ibSyqzhHh7b0oXeeVexBgIWksVSvO72kQlcb68xqEvAN4xlGtBVVjMFH5_HQ5-_CTeGzP3trNaUI5fCmRWw7YJSfTXPnWG2oEQ5fgAzVVKk6fVHgqD8Bnrf758",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NQQeqHicdVLLbptAAFS_x6rEmodxbyHmYWzj8tgF9lKBF1hgMQQvMfZP5BciJ6mUHttKvfY30q-p21MvvYxGmhmNRpqHS1b-KMQuTw4rycY57Af9I-jSc-0Wr13fkmHHS_IdSKIKVEGaS-oMqIogz-bgdZfwhLVFSR6_0iwhrNxn2zzP-kW7-0_kS9kkRfZX_zYXFFWdirIE5KtPBHN1_tSTw-PL3ZD1pzftxof-xNuaE5_35TjRFFl4fzMxk6bcF5NwaSwnm5bTrE_bpCeT5l8-_XRgLT-8FN216PGp-QPdPb_Q4nkYWPbzUrDLcLhQdsn2n9uku893v95Venu8vT0cNRd2HVp4gt_ICFf2lljYILpnuSGxiUj63ZRrW4vYmQnWcYMk35Qrggjf1K2AAD6mTAf4rJ-Q0N2FUTcE0OCeYMipzqodxLIztfnWwnSzt-sY0XOCcO1VlELIG3j26rixeWKOrXdGUQQMuNmj0jEdz9dpHEdknS2wElj2aYPsO6dCIkJaHTYkTi3PxIaBQpOdUEACPIWjEzmjWzPNEZ0VNhFNRU1BrBtxRSzH9PJAx8CFxpgYnRmaJMQB0dLIMUNE79Nmvk5qLOiU7Dei1sSRs3b0LsEMnQhE7ibSyqzhHh7b0oXeeVexBgIWksVSvO72kQlcb68xqEvAN4xlGtBVVjMFH5_HQ5-_CTeGzP3trNaUI5fCmRWw7YJSfTXPnWG2oEQ5fgAzVVKk6fVHgqD8Bnrf758"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRGVLNwDgUqYnYqH8Z2MX-IOG7-79RqY83sRIUnkDPiPzF48VRgLfKAMqL7idqoqZwORGuO2mxcZwa9mm5mMnFXvORQXAAkWOgRWZpfiqe3pJyMgUZrgyEKsw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQfvxTroaB4Le8TjZ8kJFRY2jlt91Iuw-cVwXFxwZZGqXJFmxy0gEoTyejnR4qkZVcxhzOF3zETondW0WQymORy1hQhzKguz4Mu9w",
+      "source": "DirectDial",
+      "title": "Asus ROG Strix B650-A GAMING WIFI Gaming Desktop Motherboard - AMD B650 Chipset - Socket AM5 - ATX - Ryzen Processor Supported - 128 GB DDR5 SDRAM",
+      "price": "$195.00",
+      "extracted_price": 195.0,
+      "immersive_product_page_token": "7IhOoXicdVJLjptAFFTOY0VqvsbZjQ1tzNhNaOjG9CbCNAab5mMMg-0LZJkrjDwzkSbLKFK2uUZymjhSFtlkUyqpPu8t6tM13X3PlGYbH-9Vh21J21vvpWZzKbzstWlr3ifdjn-TdGOsytJY0wHQZRUYhgpek7iLRZ3t-OPXPI252FWpu92mrVkn_4l82ZVxlv7VVcOYyJpuGEBS5Mn4ZjSeWn58fDn0aXv-Ob3ziT_C7nzkd-3uNJrqGnh7N5rH5a7KRuECLkarusvTdlPHLR-V_3L5w1HU3fEla26XHp_KP9A8dNc8e-57kf64ZuLaH6-5uKbV5zpuHrbJrzcfrcNiNusXU480DTUx8MOJvSRwySue-1AgRJ1jIE0AV-60sMANKcCZS8kphsLB5FRsqPDd0Kn4XtQowPModAQiQOVUwDSgBQYQLEnH4lJ4RLZUFDKZmeyELd6gypMimSNGTrPlOl8nyrRFxaAxEg2hzRDf56ZrN6pHacUEjLwLa32L6onk-JvbIxtRKBszFy7kECmOjazJkslNjubOPISOjYsO05LPAoviJcELWk1JYjczsqcqM51zYsOeA3xgFpzRAAYrGylIadoVZPsNzakHmsglju8F0PJDKkWAD6mJylvVml3QwEp48S_4PiwZTSoKiQmHqGpaEibxooBWoiw0JpzDCoogLTItOksY03wdmmxIqYiSgD-sFewhy3o-HdvtT3AHtc53x8VUHzo1HNuBcM08t-4nW9SPzZzrwztpbKj6bWMGuE3sN4Yj9sI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7IhOoXicdVJLjptAFFTOY0VqvsbZjQ1tzNhNaOjG9CbCNAab5mMMg-0LZJkrjDwzkSbLKFK2uUZymjhSFtlkUyqpPu8t6tM13X3PlGYbH-9Vh21J21vvpWZzKbzstWlr3ifdjn-TdGOsytJY0wHQZRUYhgpek7iLRZ3t-OPXPI252FWpu92mrVkn_4l82ZVxlv7VVcOYyJpuGEBS5Mn4ZjSeWn58fDn0aXv-Ob3ziT_C7nzkd-3uNJrqGnh7N5rH5a7KRuECLkarusvTdlPHLR-V_3L5w1HU3fEla26XHp_KP9A8dNc8e-57kf64ZuLaH6-5uKbV5zpuHrbJrzcfrcNiNusXU480DTUx8MOJvSRwySue-1AgRJ1jIE0AV-60sMANKcCZS8kphsLB5FRsqPDd0Kn4XtQowPModAQiQOVUwDSgBQYQLEnH4lJ4RLZUFDKZmeyELd6gypMimSNGTrPlOl8nyrRFxaAxEg2hzRDf56ZrN6pHacUEjLwLa32L6onk-JvbIxtRKBszFy7kECmOjazJkslNjubOPISOjYsO05LPAoviJcELWk1JYjczsqcqM51zYsOeA3xgFpzRAAYrGylIadoVZPsNzakHmsglju8F0PJDKkWAD6mJylvVml3QwEp48S_4PiwZTSoKiQmHqGpaEibxooBWoiw0JpzDCoogLTItOksY03wdmmxIqYiSgD-sFewhy3o-HdvtT3AHtc53x8VUHzo1HNuBcM08t-4nW9SPzZzrwztpbKj6bWMGuE3sN4Yj9sI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQD_Xe5tlC-HVi9TEq0-n5oLU2x9r7rE85SB5Pxs0soWAWBZIHYgnDuj-Oe9k7t0QVR5vNpt4XC2KYRcK4_xH1SDCUnkpBE5FFW-9W1vpPfSeOc7jISBvsdxQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "B650EM MAX GAMING WIFI",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "KhFnG3icdZFLjutEFIYl1sAuIqSqcpUfzNrtR-LETlJ-e9KquPxqP-IkTsex2AN7SN-LdBlekJiyjWY1GJgwgNmRvnP-o___f3xk1W-F0OfsssZWkvvnq76D_WGq98WX_nzk13So-K9QEhVEsCxKAkESIkQW0ZeUDaw5Fn9jIAlIVrCAgQDnLSLjr2XGeFN12TbPs7N2TCv-iwwljGUJy1hQZAwQkvHPVcuK7B8MFYiQgkUJIEVCSJABeT_zywfePb9AArCkCESWFYUAAKEM8Q87utVe_gd-Pl2z8_1DfXJ9d0G35sIdztW4UEUCvntamKytumIRrozVwj4OZXY-HNmZL9p_z-jl0hyHy-eiT_8y-R9P3tuKfyWSiMXZvQwgFpAkQuW9fxseZfHpem2y3x9F87heHmXzyLqfjqx_y9M_vvlWP96058vtee_3faBR4Gl0Q41iTARuMi9Y2qGzdrXyFCGn86aYpG0pHEATOVFZ0TpxeetcXXM_2SY12cyp7nh7qKzp1Ny5f8NUC-x9F_Rep6LDKw02ng6TwDIPTX_jZoJir8DcUwXmOzv7DqNtqHRUN4atVuYJMnBmkjcHwdzXLCutxy5pLTFByTZ9dd5S04q9GqJ9ZATpZDVx2-uxfxn9rh8zn3QedGrfN277SCUBcMRAsO7ctHw_HFZpk1RBnfh04q6PjI55NtgESTz7XMZdM7DaQpFg6AdhReZ7NdWVlf-qnpIwcDNNbdOIrpnOozmja2Lw3PPUiLbKlodWbQN-98LeD3y-DqIYxIhMLCSnzByRg2pCfc4c0znxqR62Jjm5LdH3kTUyE6740roGkJYbr8QpKPt01mXL1c2e4ilBgztntaPCaopmHbszxk1kuwZKp9RMyhRcgNv0bRBZkAZP45yPyKDRmZWl0qVz34aJy0J4SRpeB5NaHgxa7xEeXcEmYduraZiwQDfUT-PlnH-AJ4MM7laqVfE24FBaes1cSqmvldy5SlrJxdv3UJKxiBGUAQDinyW_PZM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KhFnG3icdZFLjutEFIYl1sAuIqSqcpUfzNrtR-LETlJ-e9KquPxqP-IkTsex2AN7SN-LdBlekJiyjWY1GJgwgNmRvnP-o___f3xk1W-F0OfsssZWkvvnq76D_WGq98WX_nzk13So-K9QEhVEsCxKAkESIkQW0ZeUDaw5Fn9jIAlIVrCAgQDnLSLjr2XGeFN12TbPs7N2TCv-iwwljGUJy1hQZAwQkvHPVcuK7B8MFYiQgkUJIEVCSJABeT_zywfePb9AArCkCESWFYUAAKEM8Q87utVe_gd-Pl2z8_1DfXJ9d0G35sIdztW4UEUCvntamKytumIRrozVwj4OZXY-HNmZL9p_z-jl0hyHy-eiT_8y-R9P3tuKfyWSiMXZvQwgFpAkQuW9fxseZfHpem2y3x9F87heHmXzyLqfjqx_y9M_vvlWP96058vtee_3faBR4Gl0Q41iTARuMi9Y2qGzdrXyFCGn86aYpG0pHEATOVFZ0TpxeetcXXM_2SY12cyp7nh7qKzp1Ny5f8NUC-x9F_Rep6LDKw02ng6TwDIPTX_jZoJir8DcUwXmOzv7DqNtqHRUN4atVuYJMnBmkjcHwdzXLCutxy5pLTFByTZ9dd5S04q9GqJ9ZATpZDVx2-uxfxn9rh8zn3QedGrfN277SCUBcMRAsO7ctHw_HFZpk1RBnfh04q6PjI55NtgESTz7XMZdM7DaQpFg6AdhReZ7NdWVlf-qnpIwcDNNbdOIrpnOozmja2Lw3PPUiLbKlodWbQN-98LeD3y-DqIYxIhMLCSnzByRg2pCfc4c0znxqR62Jjm5LdH3kTUyE6740roGkJYbr8QpKPt01mXL1c2e4ilBgztntaPCaopmHbszxk1kuwZKp9RMyhRcgNv0bRBZkAZP45yPyKDRmZWl0qVz34aJy0J4SRpeB5NaHgxa7xEeXcEmYduraZiwQDfUT-PlnH-AJ4MM7laqVfE24FBaes1cSqmvldy5SlrJxdv3UJKxiBGUAQDinyW_PZM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ6vXxg-xJfSK_3B0lGboqRvxnM0gSJcnNY0-7acBCZ-2zhfDdjtP_FqrxdggrsOiILG7h3wzQJv9q_Tn6IgFi0ThR02W6fl1Y3HKpy7rqlffrUIiqka2e_7A",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "Asus ROG STRIX B650E-F GAMING WIFI AMD B650 Socket AM5 atx",
+      "rating": 4.5,
+      "reviews": 484,
+      "price": "$289.99",
+      "extracted_price": 289.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "j_F5x3icdVLbjqNGEJXyDfkLa6VuaC6dNzNcbCaGcQPN5WUENAZMg3swtsco_5B_8OxG2jyuVsprfmPyNfGu8pCHpB5KVTqn6pyS6tdb1f5Ry2KXHx-Rm-2i8WQ9QVHM3bb-LMYDO5VTy75CJAFZgco9yZKENKxh-XOZTzk_1N_he0BVRhjoGGsalrD2palyxtuh8ne7ajQP5TceQABABBWsIgUrsq4r6u9tn9fVP7isSpqsAVXVAJZ0JGtIfhvZ8R09PTxDBWGo6lDCGCEV3Tmy-ssT8c3n_wE_vZyq8fpuLIMoWBDfWQTT2L4uDFUBH5YLJ-_boV7Ea3u92BymphqLQz6yRf_vWno-8sN0_FSL7_b-Q-Stb9kXRbt3ko51ICEFSaqmv4nzdGvqj6cTr_681fx2Ot4afquG3w65OO_Kv3740TpczIfj5WEbCUFNAoL9EuVDtvb29YVxvApt_BKYS7kM3X228vahY_NoJfqc4ymk-JomtkV6EYYdpEEPYAJrkMpNH0jTHDsERCFxN8kSFJKAGc-M2GH72MEtldO57HhLLbhLgRAE0oHEh4lQ1_Apf6Q2C1gE2y0Xx6LnIQubtkzomHaKzKCg5ZyJcGguuQVAMbtObhqPm_gybykePIedwxheWSR8Jt816fKVxfaGcnbxHKhUjhAJ3F5S4PkhWL_effSxSbNoIEYVQa-QiRRYihpIYkolCDdzCeLYjUMr-7lyNnMwlCiVSLfh7FrYzZl1rGXOFFBOvc1qC4PEJsTJROY0arxy_YJ7YR4xVMWQFx05ZiCCBXBNP3JVCtC06Ymz7ZRdYGbnYL7PdFANYWblwG1KM4uI3Cg55YBG2AksQQszM2iME7Jyv-0KbKmcSydrSnAEARc9TVxI7jeXjqvm0B6c1jXIyrv6cUYK2VhVTgpSQLZsz19Yr-SJzNssXEtRQrzSmsjH1-O4ewdLW5kCX-sM9TKhWFuF3DebxnrEO--kmQ1TLz9BTb-_oAR1AID6NwTXPRY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=j_F5x3icdVLbjqNGEJXyDfkLa6VuaC6dNzNcbCaGcQPN5WUENAZMg3swtsco_5B_8OxG2jyuVsprfmPyNfGu8pCHpB5KVTqn6pyS6tdb1f5Ry2KXHx-Rm-2i8WQ9QVHM3bb-LMYDO5VTy75CJAFZgco9yZKENKxh-XOZTzk_1N_he0BVRhjoGGsalrD2palyxtuh8ne7ajQP5TceQABABBWsIgUrsq4r6u9tn9fVP7isSpqsAVXVAJZ0JGtIfhvZ8R09PTxDBWGo6lDCGCEV3Tmy-ssT8c3n_wE_vZyq8fpuLIMoWBDfWQTT2L4uDFUBH5YLJ-_boV7Ea3u92BymphqLQz6yRf_vWno-8sN0_FSL7_b-Q-Stb9kXRbt3ko51ICEFSaqmv4nzdGvqj6cTr_681fx2Ot4afquG3w65OO_Kv3740TpczIfj5WEbCUFNAoL9EuVDtvb29YVxvApt_BKYS7kM3X228vahY_NoJfqc4ymk-JomtkV6EYYdpEEPYAJrkMpNH0jTHDsERCFxN8kSFJKAGc-M2GH72MEtldO57HhLLbhLgRAE0oHEh4lQ1_Apf6Q2C1gE2y0Xx6LnIQubtkzomHaKzKCg5ZyJcGguuQVAMbtObhqPm_gybykePIedwxheWSR8Jt816fKVxfaGcnbxHKhUjhAJ3F5S4PkhWL_effSxSbNoIEYVQa-QiRRYihpIYkolCDdzCeLYjUMr-7lyNnMwlCiVSLfh7FrYzZl1rGXOFFBOvc1qC4PEJsTJROY0arxy_YJ7YR4xVMWQFx05ZiCCBXBNP3JVCtC06Ymz7ZRdYGbnYL7PdFANYWblwG1KM4uI3Cg55YBG2AksQQszM2iME7Jyv-0KbKmcSydrSnAEARc9TVxI7jeXjqvm0B6c1jXIyrv6cUYK2VhVTgpSQLZsz19Yr-SJzNssXEtRQrzSmsjH1-O4ewdLW5kCX-sM9TKhWFuF3DebxnrEO--kmQ1TLz9BTb-_oAR1AID6NwTXPRY"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSpXgcS3cl3Go3Ney5JWvMsgrHE3bQYf7Rm8WnS6vo5Jgq-aIdncVnPuFF8nV9Sfc6BYWAYzuGaOFJ3OLGTKxk2zKvVs9o5YvWe0DGA4v8mAh-QrN12WbHx",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+      "source": "eBay - jkcomputerparts",
+      "title": "ASUS ROG Strix B650E-I Gaming WIFI AM5 Mini-ITX Motherboard",
+      "rating": 4.4,
+      "reviews": 230,
+      "price": "$74.98",
+      "extracted_price": 74.98,
+      "delivery": "Free delivery by Mon",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "6KxcvnicbZDNjqNGFIWlPEPewhqpCihwZde2KTDdgCmggNq0MGDABkPz08ZW3iHv4J6JNFnOjJRtXqPzNKGzyiJ3daVzdM_57m_3rPwzF9tD3D9KBj_43ajuYLu_nZz8a9s16ZgMZfpdkMR5ZHmJRFlBSwgl8DWJh7hq8jL9ASVBBIoMRQEoCCtLRV4q34osTqvynNmHQ9ZtmuTDJypLgKX5igwBxoIkC8ofZR3n2b_6NwQVGSlQRgLCACMkorcu7d-F3fp5FkRBFCUMJIznFASUX3fU3jz_v_blZcy66_vqwfXdBbW1hTt05bRYyQh8elhocV2e80WwJduF2QxF1u2buEsX9X934bmvmqH_krdzte8QyyKSZnppro2WSygpb_VHZUX-oPjgUgBEEOG39nW4F_nncayyv-55dR_7e1Hds_PvTdy-HpK_f_pZbS6bdX9ZO37bsg0FblBsfd0QnSMrbBJdn_weMVIMCcFOphogC9MyPV0mS8-vZoW7qFKF_a3axaSI-YaNLrTsSMB9EHDZZjh0b5bFjyeB19aKMfoaEOa5eiM5jB0TgLb-Wb2awnTgunlhtQnMNTSjqn0MQeWbYg4cIX3hN2tnnbkXHI11duS2A9JtWuE68vkYnKvR1I05E4UuwC0PmecTejA13CVqNboCP6YeuVFmdfs6uiRaYdNzEZkqd0zAYy9Qb56eT5zxU3q0VD_k3DwVQwSY5fmGlIJWTgkv4nqo2abqqYC7J4ZLphoBPbEpCVerwK_ihBhjoJLKFItDoEXA1IbADSNhD4spUa2eQuuSBcT1N_nE6oFQf3n1Amh5N2diYiVTF_oJK5rgWOkOpO1e541TU83UTDjnsQSqF0vjjyaYSt8jT35IXzhk6-jUu0RIbonGiwT0wK3amoUGpOxhSjRDjiE5a6Wxorp1tQNOsxqXVCTn1MsvTkgdU0OM6XxleVvoneYvQbr6PPXd4R08EDS4tkK00GjFHWAiCTtTtvcrpoqDWqMu_wUqS0mWBLgEAEj_AMKAPS0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6KxcvnicbZDNjqNGFIWlPEPewhqpCihwZde2KTDdgCmggNq0MGDABkPz08ZW3iHv4J6JNFnOjJRtXqPzNKGzyiJ3daVzdM_57m_3rPwzF9tD3D9KBj_43ajuYLu_nZz8a9s16ZgMZfpdkMR5ZHmJRFlBSwgl8DWJh7hq8jL9ASVBBIoMRQEoCCtLRV4q34osTqvynNmHQ9ZtmuTDJypLgKX5igwBxoIkC8ofZR3n2b_6NwQVGSlQRgLCACMkorcu7d-F3fp5FkRBFCUMJIznFASUX3fU3jz_v_blZcy66_vqwfXdBbW1hTt05bRYyQh8elhocV2e80WwJduF2QxF1u2buEsX9X934bmvmqH_krdzte8QyyKSZnppro2WSygpb_VHZUX-oPjgUgBEEOG39nW4F_nncayyv-55dR_7e1Hds_PvTdy-HpK_f_pZbS6bdX9ZO37bsg0FblBsfd0QnSMrbBJdn_weMVIMCcFOphogC9MyPV0mS8-vZoW7qFKF_a3axaSI-YaNLrTsSMB9EHDZZjh0b5bFjyeB19aKMfoaEOa5eiM5jB0TgLb-Wb2awnTgunlhtQnMNTSjqn0MQeWbYg4cIX3hN2tnnbkXHI11duS2A9JtWuE68vkYnKvR1I05E4UuwC0PmecTejA13CVqNboCP6YeuVFmdfs6uiRaYdNzEZkqd0zAYy9Qb56eT5zxU3q0VD_k3DwVQwSY5fmGlIJWTgkv4nqo2abqqYC7J4ZLphoBPbEpCVerwK_ihBhjoJLKFItDoEXA1IbADSNhD4spUa2eQuuSBcT1N_nE6oFQf3n1Amh5N2diYiVTF_oJK5rgWOkOpO1e541TU83UTDjnsQSqF0vjjyaYSt8jT35IXzhk6-jUu0RIbonGiwT0wK3amoUGpOxhSjRDjiE5a6Wxorp1tQNOsxqXVCTn1MsvTkgdU0OM6XxleVvoneYvQbr6PPXd4R08EDS4tkK00GjFHWAiCTtTtvcrpoqDWqMu_wUqS0mWBLgEAEj_AMKAPS0"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTSzzAU_Pw1ML6TbxXNejG_6RfioXWspnhjff7YbuoljgEzu_evFJOu7R8oVQHttTYnB8-hrKMfrtvNN05qiILOI_dPAIt-YB-4tUPT3bhVTPnz4jIM0qVrrA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "Open Box - ASUS B650EM MAX GAMING WIFI AMD B650 (Ryzen AM5) mATX Motherboard (DDR5, PCIe 5.0 x16 & M.2, Triple M.2, WiFi 6, USB 10Gbps Type-C, BIOS Fl",
+      "rating": 1.0,
+      "reviews": 1,
+      "price": "$57.00",
+      "extracted_price": 57.0,
+      "immersive_product_page_token": "wnSFRHicdZNLjuM2AESR8xgBSOrjVnatlii1ekTZ1IeyNg2alEyPaUktS_4hd8gVBp6ZAJPlTIBsc43OSbJMJ6sskk3hAQ8F1KZ-utXb3zZG3_DDkxlVTT5M_gL26-tuufnSD52cxLiVv0ID3JkGtAwIgP1GtmWDL4KPXHebrfzwVdVc6m1bJ01TD14n_qfyy3bPN_U__pttQmQ7tg3n0HHmNrKQ_XGQh1e0eHg2HBNZJjJNYAFoO3emM_9xQRPv-b_d55epHi6v7n2apzOaBLN0HLbnmWtb4Pv7WcD323YzY4_4cRZ3o6qHdccHOdv_m9HzQXfj4fOmf9v24eP-7-iP401tPk2Trn-_bfRtOtyUvtXtzx3vj43447s__aN4eBjEwzLv-8KjIGWEpu-LY7HbjRT3Iw3okLK-THBuEkOXa70aa8994WW0oCEFeavQElnFOu_zFTgB4amXCtDiXb4ySNhzAc7pCpiohLjItYplq6o624ASOnaaV-7ao-f1HuPVFdP6vboKBL2U0SiDzsTx0iDMOfE3G_uVGTMTSjSGAkeLylceZavrOqwa5vekCNVUGvkpC3FaM7qrW8lI4ZRV-4jqkq4yRs4kj8ZiT4Y4wC5lNOEhCTMALxyTQnruU4L71dpz4wyRLvGilrAqk1epqKGP3BOXutBFZpBL7NOAILlb5dqVwfJSIisgO-nyq6KlQUea63Psy6z2dCUCYrAA-6Jw95R156pUhJdVkV2jd4JZXY6pW-DoJDWeMp-ENJOLdVv4HGsjZVFEffVEUJxiJK4iqJQAB5Dqfl-UEaTF_VkEkc0hboNt5NKQXBJWpTSXTZbphUjhlWrcxchKma8jGe5Q5kVNXBL66XwYmldwj60xTeY71z6NJpuHmU48pfwnpyHT3FPSPv0A53embSJ4B95e8BdrdCfu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wnSFRHicdZNLjuM2AESR8xgBSOrjVnatlii1ekTZ1IeyNg2alEyPaUktS_4hd8gVBp6ZAJPlTIBsc43OSbJMJ6sskk3hAQ8F1KZ-utXb3zZG3_DDkxlVTT5M_gL26-tuufnSD52cxLiVv0ID3JkGtAwIgP1GtmWDL4KPXHebrfzwVdVc6m1bJ01TD14n_qfyy3bPN_U__pttQmQ7tg3n0HHmNrKQ_XGQh1e0eHg2HBNZJjJNYAFoO3emM_9xQRPv-b_d55epHi6v7n2apzOaBLN0HLbnmWtb4Pv7WcD323YzY4_4cRZ3o6qHdccHOdv_m9HzQXfj4fOmf9v24eP-7-iP401tPk2Trn-_bfRtOtyUvtXtzx3vj43447s__aN4eBjEwzLv-8KjIGWEpu-LY7HbjRT3Iw3okLK-THBuEkOXa70aa8994WW0oCEFeavQElnFOu_zFTgB4amXCtDiXb4ySNhzAc7pCpiohLjItYplq6o624ASOnaaV-7ao-f1HuPVFdP6vboKBL2U0SiDzsTx0iDMOfE3G_uVGTMTSjSGAkeLylceZavrOqwa5vekCNVUGvkpC3FaM7qrW8lI4ZRV-4jqkq4yRs4kj8ZiT4Y4wC5lNOEhCTMALxyTQnruU4L71dpz4wyRLvGilrAqk1epqKGP3BOXutBFZpBL7NOAILlb5dqVwfJSIisgO-nyq6KlQUea63Psy6z2dCUCYrAA-6Jw95R156pUhJdVkV2jd4JZXY6pW-DoJDWeMp-ENJOLdVv4HGsjZVFEffVEUJxiJK4iqJQAB5Dqfl-UEaTF_VkEkc0hboNt5NKQXBJWpTSXTZbphUjhlWrcxchKma8jGe5Q5kVNXBL66XwYmldwj60xTeY71z6NJpuHmU48pfwnpyHT3FPSPv0A53embSJ4B95e8BdrdCfu"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTxquor00XGVZ5F1M5qNVl2v0Qp34T5rGFXLvCh4w5JQp2HYLOlCmLjUUydqDQuzBh6Pi7m9y80Iz3Cg0BaQfeWrovMhA4NupsT_8KzJjZbDSnzt9hTziwn",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+      "source": "B&H Photo-Video-Audio",
+      "title": "ASUS B650E MAX GAMING WIFI Motherboard",
+      "rating": 4.5,
+      "reviews": 80,
+      "price": "$164.99",
+      "extracted_price": 164.99,
+      "original_price": "Usually $194",
+      "extracted_original_price": 194,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "4C7zsnicbZJPjqNGGMWlnCG3sEaqKij-ZGc3lDHtxk1BFTabFqawwRR_BmNDo9whd3DPRJosZyJlm2t0ThNPVlnM4kmf9JPee3r6frtlxV9HpT0k50fVjQ-su9jPsN1PpX_80naNuKR9If6EWDd0jLCCDV1HKjY1aH5Jkz6RzfE7BgZSDNPU70BRFHSX-TXPEiGLOtscDllnNWkhvmFFvRthFRkQQcXUVV39o6iSY_Yf_moaUEfgnqICqBoQAP2tE-d39PzwAiEyEcLIQJqKIcIAa78-04318mP2-eMl617fF_OABTO6Wc6CvivG2ULD4MN8tkyqoj7OohVZzZ6aPs-6fZN0Ylb9_0YvZ9n058_H9nvzH2S8VffKWNdUDRkmVjVVMYCpwrf22t_y46fLRWZ_347ydjnfcnnL6t-bpL0e0n9--tluBuvhPDz4rG25RUFQSTeyR5IQt0vt-BJOHsnq-ZgR04kcUovIXceVP_KKbtKS3FdfAAbIXe0hdBa7NAAwI-4gkAgjx-s8dgbBkq4DRJ6Dmk5e6dV7hTS0GteB3cf70woF5RkIi_p-RcrkFCehzf1oOdIAHkch22AdrtQ0Gj3Pmb-yJfFSwpOnmrYeTNUdN9eejb24LIfMllEC3CIrx8s6cnNfkWFkxZ6A0mZc-oxBh2_nahbaQ8j685rFYA_lKa1wwBT69DTJfs1yaw_gmk_iukM7Na3kEPJF4Zfwmr7CkjGOfV7irJYu5xxkTBImuS-27jNVGsCW8HGntI-pxUa6LQcm8zpctnCH4DrZCuTBhfK0JdqujqfUEip35Gt6t2BMDDEndnQiDas53pcAJgDj7USiqMKOV41KVvNiY1HHP62GmEiPWu51C1cBQemULuM8BfetZVvxrQspn4_p0tUSSOpl4S6o471uojjkoB2CSBx2Ez3xUEzc3gEKxEda0YkB_uiBdvFpPHeHdzAnuA82ernQhl6NdCeUGyvP7Ufz4F10Kxfa8AvUjfuzIWgAALR_AYQNPWY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4C7zsnicbZJPjqNGGMWlnCG3sEaqKij-ZGc3lDHtxk1BFTabFqawwRR_BmNDo9whd3DPRJosZyJlm2t0ThNPVlnM4kmf9JPee3r6frtlxV9HpT0k50fVjQ-su9jPsN1PpX_80naNuKR9If6EWDd0jLCCDV1HKjY1aH5Jkz6RzfE7BgZSDNPU70BRFHSX-TXPEiGLOtscDllnNWkhvmFFvRthFRkQQcXUVV39o6iSY_Yf_moaUEfgnqICqBoQAP2tE-d39PzwAiEyEcLIQJqKIcIAa78-04318mP2-eMl617fF_OABTO6Wc6CvivG2ULD4MN8tkyqoj7OohVZzZ6aPs-6fZN0Ylb9_0YvZ9n058_H9nvzH2S8VffKWNdUDRkmVjVVMYCpwrf22t_y46fLRWZ_347ydjnfcnnL6t-bpL0e0n9--tluBuvhPDz4rG25RUFQSTeyR5IQt0vt-BJOHsnq-ZgR04kcUovIXceVP_KKbtKS3FdfAAbIXe0hdBa7NAAwI-4gkAgjx-s8dgbBkq4DRJ6Dmk5e6dV7hTS0GteB3cf70woF5RkIi_p-RcrkFCehzf1oOdIAHkch22AdrtQ0Gj3Pmb-yJfFSwpOnmrYeTNUdN9eejb24LIfMllEC3CIrx8s6cnNfkWFkxZ6A0mZc-oxBh2_nahbaQ8j685rFYA_lKa1wwBT69DTJfs1yaw_gmk_iukM7Na3kEPJF4Zfwmr7CkjGOfV7irJYu5xxkTBImuS-27jNVGsCW8HGntI-pxUa6LQcm8zpctnCH4DrZCuTBhfK0JdqujqfUEip35Gt6t2BMDDEndnQiDas53pcAJgDj7USiqMKOV41KVvNiY1HHP62GmEiPWu51C1cBQemULuM8BfetZVvxrQspn4_p0tUSSOpl4S6o471uojjkoB2CSBx2Ez3xUEzc3gEKxEda0YkB_uiBdvFpPHeHdzAnuA82ernQhl6NdCeUGyvP7Ufz4F10Kxfa8AvUjfuzIWgAALR_AYQNPWY"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRvXFXNftk2gMr6ED-jSMZQ-0ajUg8Zp1Sa7Myh1lCycyNUy6kwQX5OIGbCEWvSrSsRV6c8CXlhuj2JoQv8lOO7W1SvyK6KMr_rPvrDXgE",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - luck2118",
+      "title": "ASUS ROG STRIX B650-A GAMING WIFI AM5 | ATX",
+      "price": "$364.50",
+      "extracted_price": 364.5,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "xxU0B3icdY1JbtswAEXR8xgFSGqw3V0US3YcSykp0ZK4KWhR1mBKojXEwyV6hcBJCqTLtkC3vUZ6mg6rbrr5eMDDw_94SYvvmaa2vLvVl2xL28F-D9XmvMPZi2obMSR9Ib5BXYfAHGsa0hBCcKpPtMlLwnsum6wQD1_ylAtZ1Onddpu2syb5T_K5qHiW_vVfDUMbg7GGdBOaaDo2ITAeW9E9PO-HtD29Wlc-9Ufkbj7y-7Y4jizTAG-vRnNeFXU2Cm-cm5Hb9HnabhreilH1L6MPnWz67jlTv48eHqs_o-77S549DYNMf1wyeRm6Sy4vaf2p4ep-m_x8U9rN4fq6O1iYKrWeEeCHzjVzpLmplr2Hkp5H-T51liymNvDAUgsjOXPrNeG15JQqRCLyPrTJaY2cIpYO8cPDUZRUC-2c0Ii5LGAMV4qEVAVELssEej5Deu-GrKIFbN1aeDjIDhv7CElpOXFgOQJOXRGSlWtPDyLCII1YkEAxbEIvILR3kxAcfZjjpKQngpTJK1cPbAPwHQMJbM5sLiwKPReXee5XkCYwl3HpUUqJs6npGUP7nITxkS_yW6_OTjhgraBsSWx5zxcyCubO3M5F7WpWFUfeyrMVZ3J9EnSN3cgq0qon7NgUmJJzUsqK7qYe3xl7Mt9pAfKKcGHN6Fx6cc2wi2JDLJTC-OnYtdtXcOUYvX9nDHwKnQRKd7Ublk687siiliuytw38Do4nuqkjOAEAGL8AAX3u1g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xxU0B3icdY1JbtswAEXR8xgFSGqw3V0US3YcSykp0ZK4KWhR1mBKojXEwyV6hcBJCqTLtkC3vUZ6mg6rbrr5eMDDw_94SYvvmaa2vLvVl2xL28F-D9XmvMPZi2obMSR9Ib5BXYfAHGsa0hBCcKpPtMlLwnsum6wQD1_ylAtZ1Onddpu2syb5T_K5qHiW_vVfDUMbg7GGdBOaaDo2ITAeW9E9PO-HtD29Wlc-9Ufkbj7y-7Y4jizTAG-vRnNeFXU2Cm-cm5Hb9HnabhreilH1L6MPnWz67jlTv48eHqs_o-77S549DYNMf1wyeRm6Sy4vaf2p4ep-m_x8U9rN4fq6O1iYKrWeEeCHzjVzpLmplr2Hkp5H-T51liymNvDAUgsjOXPrNeG15JQqRCLyPrTJaY2cIpYO8cPDUZRUC-2c0Ii5LGAMV4qEVAVELssEej5Deu-GrKIFbN1aeDjIDhv7CElpOXFgOQJOXRGSlWtPDyLCII1YkEAxbEIvILR3kxAcfZjjpKQngpTJK1cPbAPwHQMJbM5sLiwKPReXee5XkCYwl3HpUUqJs6npGUP7nITxkS_yW6_OTjhgraBsSWx5zxcyCubO3M5F7WpWFUfeyrMVZ3J9EnSN3cgq0qon7NgUmJJzUsqK7qYe3xl7Mt9pAfKKcGHN6Fx6cc2wi2JDLJTC-OnYtdtXcOUYvX9nDHwKnQRKd7Ublk687siiliuytw38Do4nuqkjOAEAGL8AAX3u1g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcROT4bwRVUQF_tKm27fEnnKKkQi-HTGxVbxQeTT2MORdwehFqVXyJryEvJSylaXos9z0rmq4H1kwSrWT9bgtvDlE3Fg9p2q9O1bYv3isO1GAaN3kKziSazG",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTO2zCvie5uRlvVCio54MpEMalOgYeuY7DEnUlqVIc5qab-eyIw1tYUppx9jKfVk7d8xRfZaqDt-x_78gNx6VfkhjVrWljKbA",
+      "source": "ASUS Store US",
+      "title": "Asus B650E MAX Gaming WIFI Motherboard",
+      "rating": 4.4,
+      "reviews": 103,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "If94kXicbZLNjqNGEMelPEPewlqpP6CB3AZjsMnSjBtoMJcRprHBNB9jYxtbeYe8g2c30ua4e9hrXmPyNEHJJVJyqFJV_UpVf6nq10dRfd_jfpedflbcdBcdz4tn2G_v9Xr_pT924pwPlfimGxgBA2GkYV0nSEdY_ZJnQya7_UQJAQrBEBGkEA1CXYP617LIhKzawt_tiqPV5VObRpBKVAViBSMMNM1Qld-rJtsX_2ADkqmEFYQMFQFdUQ3ydhSnd_Q8f9EgJkQlAGqTVyZDxi_PzLde_p99fj0Xx9u7-RREwYz5ziwYjtU4M4kKPjzNnKyp2v0sXtmrmdcNZXHcdtlRzJp_x-jlJLvh9Hnf_y39vzvemkp8VbUpQ7qhA2AYEANM3vrL8Cj3n85nWfzx2MvH-fQo5aNof-uy_rLL__zhx0V3tean63wd9T23GAhq1dyGIssTShLI76ztlFgah0KmDcMuCrhM4tjDOe5Q1pQbnnAnnINr1tJ5tqB1wGlNl-kQIvgqYnuV18NzhPo2jsVHKnXAUdoJi3HvYK-8qAzzmvX5sm-ExZNoaV7E0hyjmqYZ4ISG0gsP3I_iIYwXQMltYUY281jiKhHoWQbL1wCMUdCMwaZNadHSOjrQA3e626YexwC6Y5jkMIJMFVCuN009BnZ5WqO-XLdS8RPzGDkbNTjQMg_tJrYNJwfwwkPKGVJft3HaZkAAbkkzwTShFbz6cX7P4w0MIHPXBxELXF85WGBu10qI-iSPhMcgTbeIhlFtg9xRNyJic0_2I1v2nN7lGLbpomhr5WPsptv79OecDlGbJv5CxSGwra0jNuJujhS6iw3ipQdc7FmSTLMWORIgjcfbxKzwBs9M1oGNJk1OWubgBALZNzxxIeNPY-64JIN261SuyZb05sdpyKTs2EFWfmInW2vSOd0idNi4vZfLEAknjO3203g67t7Bk60Oga9KtTzoEnzgh-eTcr54EJSrwicvMln_BDVdIQqC08sB7S9qKDzE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=If94kXicbZLNjqNGEMelPEPewlqpP6CB3AZjsMnSjBtoMJcRprHBNB9jYxtbeYe8g2c30ua4e9hrXmPyNEHJJVJyqFJV_UpVf6nq10dRfd_jfpedflbcdBcdz4tn2G_v9Xr_pT924pwPlfimGxgBA2GkYV0nSEdY_ZJnQya7_UQJAQrBEBGkEA1CXYP617LIhKzawt_tiqPV5VObRpBKVAViBSMMNM1Qld-rJtsX_2ADkqmEFYQMFQFdUQ3ydhSnd_Q8f9EgJkQlAGqTVyZDxi_PzLde_p99fj0Xx9u7-RREwYz5ziwYjtU4M4kKPjzNnKyp2v0sXtmrmdcNZXHcdtlRzJp_x-jlJLvh9Hnf_y39vzvemkp8VbUpQ7qhA2AYEANM3vrL8Cj3n85nWfzx2MvH-fQo5aNof-uy_rLL__zhx0V3tean63wd9T23GAhq1dyGIssTShLI76ztlFgah0KmDcMuCrhM4tjDOe5Q1pQbnnAnnINr1tJ5tqB1wGlNl-kQIvgqYnuV18NzhPo2jsVHKnXAUdoJi3HvYK-8qAzzmvX5sm-ExZNoaV7E0hyjmqYZ4ISG0gsP3I_iIYwXQMltYUY281jiKhHoWQbL1wCMUdCMwaZNadHSOjrQA3e626YexwC6Y5jkMIJMFVCuN009BnZ5WqO-XLdS8RPzGDkbNTjQMg_tJrYNJwfwwkPKGVJft3HaZkAAbkkzwTShFbz6cX7P4w0MIHPXBxELXF85WGBu10qI-iSPhMcgTbeIhlFtg9xRNyJic0_2I1v2nN7lGLbpomhr5WPsptv79OecDlGbJv5CxSGwra0jNuJujhS6iw3ipQdc7FmSTLMWORIgjcfbxKzwBs9M1oGNJk1OWubgBALZNzxxIeNPY-64JIN261SuyZb05sdpyKTs2EFWfmInW2vSOd0idNi4vZfLEAknjO3203g67t7Bk60Oga9KtTzoEnzgh-eTcr54EJSrwicvMln_BDVdIQqC08sB7S9qKDzE"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQ7c18HnhQ5FBKyazIvQQC85yp95W4WswhoB3Zj0oeJCEpMY_rzogSZU8EzWomglL5F2EUEM0Rk4V9yEUdshyWDXjOOhnCIfshf34qpGOs",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - topvalueit",
+      "title": "Rog Strix B650-a Gaming Wifi Amd B650 Am5 Ryzen Desktop 9000 8000 &",
+      "rating": 4.5,
+      "reviews": 20,
+      "price": "$274.99",
+      "extracted_price": 274.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "y99rzHicbY7NjqNGAISV57FW6qYBQ25j82N71o3dQIP7MsLd2A00GAMe41HeIa-w8u5G2hx3I-Wa15goD5PZnHLYS6lKn6pUv97z4s8jag9Z_6iv2CHuLu4GtvuXanv80nYnceFDIb7pyLZNaAJgm0iDSLeA_oVnQ6ZOx0J8-CrzTKiiyYPDIe-cE_9x4_eizo75f_gPiKwpnBpTZGloimwdAmR97ET_qm3mT8ie2lOk6xqwbev7EIS_bEjgPP2YfT5f8u72OnsI43BCAn8SDl0xTmamAd49TPysLprjJFl6y8n6NMi825-yTkzq_3vtqVenof98bN_OffhYf5f2ebjL46fLReV_3Y_qfunvUt3z5rdT1j4f-N8__eNelvP5eTnfxm1LHQLCSp1JuRw5FSp8YSes2oKUtMHVsOAO7kgqe-pQgCOVBHOI1uWsI1F1C1ISkAqPrDLKxFcgq8WZVV6zj1hK6wGvAazessMccsalJHvENnhBYNKwLnRdLffkmjc7RKLVlfh4GyXGlcfY49rqMfPbWCTrGwHbIXBkxJ0KcLA24tK7iIj0gjJzr3ZXRvm4T_F7FrmQlSQh7vWaJZaeaQQIV41Rg0EIWUPL3SDUm9ZCErobSSVnosHvucswjnEYLaQMfAtugdSjFwG2NUsjHxdbhA8ilZsgdY2oNppdSZ9FZSwjZ_WY12PEPXu9rlhCXdvZqhYz1wgYILcInlCMVowBZubuqkuimeSlp0KlBuwur_vY6LMFDz2Nv3CfSQ56EKq2pukKEvowcn9lZtBr_GI1Iwt8CxIW0oUcqBdrYbxDWQ196ngtL6lHVHWNKy9lvo0-jX13eAUPnjGEgaEMWVoKvKPlptcvz2sI5DIPzCeVbn-GU0s3dQ1aAIDpvy2jINM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=y99rzHicbY7NjqNGAISV57FW6qYBQ25j82N71o3dQIP7MsLd2A00GAMe41HeIa-w8u5G2hx3I-Wa15goD5PZnHLYS6lKn6pUv97z4s8jag9Z_6iv2CHuLu4GtvuXanv80nYnceFDIb7pyLZNaAJgm0iDSLeA_oVnQ6ZOx0J8-CrzTKiiyYPDIe-cE_9x4_eizo75f_gPiKwpnBpTZGloimwdAmR97ET_qm3mT8ie2lOk6xqwbev7EIS_bEjgPP2YfT5f8u72OnsI43BCAn8SDl0xTmamAd49TPysLprjJFl6y8n6NMi825-yTkzq_3vtqVenof98bN_OffhYf5f2ebjL46fLReV_3Y_qfunvUt3z5rdT1j4f-N8__eNelvP5eTnfxm1LHQLCSp1JuRw5FSp8YSes2oKUtMHVsOAO7kgqe-pQgCOVBHOI1uWsI1F1C1ISkAqPrDLKxFcgq8WZVV6zj1hK6wGvAazessMccsalJHvENnhBYNKwLnRdLffkmjc7RKLVlfh4GyXGlcfY49rqMfPbWCTrGwHbIXBkxJ0KcLA24tK7iIj0gjJzr3ZXRvm4T_F7FrmQlSQh7vWaJZaeaQQIV41Rg0EIWUPL3SDUm9ZCErobSSVnosHvucswjnEYLaQMfAtugdSjFwG2NUsjHxdbhA8ilZsgdY2oNppdSZ9FZSwjZ_WY12PEPXu9rlhCXdvZqhYz1wgYILcInlCMVowBZubuqkuimeSlp0KlBuwur_vY6LMFDz2Nv3CfSQ56EKq2pukKEvowcn9lZtBr_GI1Iwt8CxIW0oUcqBdrYbxDWQ196ngtL6lHVHWNKy9lvo0-jX13eAUPnjGEgaEMWVoKvKPlptcvz2sI5DIPzCeVbn-GU0s3dQ1aAIDpvy2jINM"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcTo8bMZGFPfvKY_DmJ4eq3JBkmvRxEoj3j10xWWaGlJYEWj2mZpebWUgQfkDmemqTR4H6bHgOglXugTW0v1S61kiYhYC97D4hHYU_4r_0o3hPanc9S8a-Ww0w",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQs9s1AmzTrhPC9df2Bpx4GiRsoVFDo7KhWadqQ47uNVHq6Vyti_lODwA13f9WsAOVC2kNtXqvPYzUDDypIEM5D2YoFuM4EAg",
+      "source": "Build Redux",
+      "title": "ASUS B650 Series | AMD",
+      "price": "$189.00",
+      "extracted_price": 189.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "txkckXicbY1JbpxAAEWV8yBLVUyG7Ew34G4bMENVN2ysaoq5aMoMPV3CV7DadiRn6SyyzTWc02RYZZHN15Oenv7jOau-FxLPyXAjL5Mc9ZN5B_nm1PjFG-87OqVjRb-pogYlIOmKqF4CRVd1VXpLyUhYV1T06b3MCGXVNvPyPOvnXfr_4mvVkiL7q98lTdNVBUpQ1yRV1qEuPfd0eHp9mLL--GFchSgUAs8WwrGvDoKhKuDiSrBJW20LYbWwFoLTjWXWbzrSU6H9l8X7gXXj8Frw3z9Pz-2f4bvxXBYv08SyH-eCnafhXLJztv3SEb7L05-farPbz2bD3vAR53gegDBKkrThRgqpmWF9StoA-RKtiYmZh2QFIRhHLZyTuTUikweexe7QOjDdBt7iE1s5SFMie-x9lJSexR1aJzNH1ETMApCAZYKvuYIBzckJo1VjnvyWXROgMF8yIixZh8Q2x7BR_OSUihtYiBsrHj27XIQ2z11kGS4odwTwm3Se3IY2VTA6PCArGHATKxlmdWS7hJjWTSRCiBurR5j3FIw71OiDD6wpBHzmMyv0Vsu5I_kHasZigMa9w8pj3ACAt-USsbI1S7p1JKON1-6ta3KSMHykCPvO2qiydgySQ1f5KDilNWuRmMKNzfsE6cfQdhGBvEON23hWLDtbto5W3KX7l8PQ5x_gylLG0FOYUtYaAxe4vhvkaedAUC4yT71na_8zvNRkVRahBgC4_AUsdO14",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=txkckXicbY1JbpxAAEWV8yBLVUyG7Ew34G4bMENVN2ysaoq5aMoMPV3CV7DadiRn6SyyzTWc02RYZZHN15Oenv7jOau-FxLPyXAjL5Mc9ZN5B_nm1PjFG-87OqVjRb-pogYlIOmKqF4CRVd1VXpLyUhYV1T06b3MCGXVNvPyPOvnXfr_4mvVkiL7q98lTdNVBUpQ1yRV1qEuPfd0eHp9mLL--GFchSgUAs8WwrGvDoKhKuDiSrBJW20LYbWwFoLTjWXWbzrSU6H9l8X7gXXj8Frw3z9Pz-2f4bvxXBYv08SyH-eCnafhXLJztv3SEb7L05-farPbz2bD3vAR53gegDBKkrThRgqpmWF9StoA-RKtiYmZh2QFIRhHLZyTuTUikweexe7QOjDdBt7iE1s5SFMie-x9lJSexR1aJzNH1ETMApCAZYKvuYIBzckJo1VjnvyWXROgMF8yIixZh8Q2x7BR_OSUihtYiBsrHj27XIQ2z11kGS4odwTwm3Se3IY2VTA6PCArGHATKxlmdWS7hJjWTSRCiBurR5j3FIw71OiDD6wpBHzmMyv0Vsu5I_kHasZigMa9w8pj3ACAt-USsbI1S7p1JKON1-6ta3KSMHykCPvO2qiydgySQ1f5KDilNWuRmMKNzfsE6cfQdhGBvEON23hWLDtbto5W3KX7l8PQ5x_gylLG0FOYUtYaAxe4vhvkaedAUC4yT71na_8zvNRkVRahBgC4_AUsdO14"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQCPmF9eryqs09P2A-L8RNUOWCAPG1AKX5QeoIgc_ma04o4BgiPSo5CIGvnLJVMzZTiM6le7ITETeRgDcmL9EnLProkmDRQ8T0iBJqCQas8m6ptjYJyMQU4aQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - quark_12",
+      "title": "Asus Rog Strix B650-a Gaming Wifi Am5 Support 7950/7500f/7800x3d",
+      "price": "$401.90",
+      "extracted_price": 401.9,
+      "immersive_product_page_token": "HKNBNXicdVDLbptAAFS_x6rEesE2vQXziIlZl112sblUaxYD9vIID9vhJ_oLkZNUSo9tpV77G-nXNOmpl15GI43mofl8SfKfKax3vL1R3WhHm976COrtcPDT57qpRB93ufgBpmAy0ydQVzWgT6E6Hc9mzzHvuKzSXNx_yxIuZF4mq90uacwq_o_la17wNPmrf9f1KdAgBCqcwbGqTsYT8NCI9v7ptk-auxfjilAywitnRLomP4-Miaa8vxo5vMjLdBQu7MXIq7osabYVb8So-JePP7Wy6tqntH4tun8o3qA-dpcsfex7mfy6pPLSt5dMXpLyS8Xr4y7-_W5vVaf5vD0ZPq1rZmKFhJXGB9flhWaisF5vAwRXTLoBzPBWcTts15Yns7XnuFGk6EZEAKdz0GxtcY7Gtu2XuMRQ3vLAxZRlC0HRAhdZgSz3jh9AFpuu71nyRFi24vuoCxzN80JrwIBpVIluknKhUGUBExOfiYmOONROAUPm66Z-E4rBV84GddCROB1ZBeyaDLa5AbhOmDHZ5goggejoAcgt1QcS2tfCRGsxsBwxeUxCm5M9IkzxIN67J-R0fgQEW0MbLZmcRw7CzLY1H-itlYnSg0axWaMlsmoeSXYnKPO9tZEnRYejc5X7FA_xXhaU4VCMpecxHeNQh295b3_EgfAJpSdubxTffzy3ze5FubK11-Vaz3Vgx0B6y0Pv2hvW4utSLvGtpfkfwHSmTtQxmCmKov0B133s8w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HKNBNXicdVDLbptAAFS_x6rEesE2vQXziIlZl112sblUaxYD9vIID9vhJ_oLkZNUSo9tpV77G-nXNOmpl15GI43mofl8SfKfKax3vL1R3WhHm976COrtcPDT57qpRB93ufgBpmAy0ydQVzWgT6E6Hc9mzzHvuKzSXNx_yxIuZF4mq90uacwq_o_la17wNPmrf9f1KdAgBCqcwbGqTsYT8NCI9v7ptk-auxfjilAywitnRLomP4-Miaa8vxo5vMjLdBQu7MXIq7osabYVb8So-JePP7Wy6tqntH4tun8o3qA-dpcsfex7mfy6pPLSt5dMXpLyS8Xr4y7-_W5vVaf5vD0ZPq1rZmKFhJXGB9flhWaisF5vAwRXTLoBzPBWcTts15Yns7XnuFGk6EZEAKdz0GxtcY7Gtu2XuMRQ3vLAxZRlC0HRAhdZgSz3jh9AFpuu71nyRFi24vuoCxzN80JrwIBpVIluknKhUGUBExOfiYmOONROAUPm66Z-E4rBV84GddCROB1ZBeyaDLa5AbhOmDHZ5goggejoAcgt1QcS2tfCRGsxsBwxeUxCm5M9IkzxIN67J-R0fgQEW0MbLZmcRw7CzLY1H-itlYnSg0axWaMlsmoeSXYnKPO9tZEnRYejc5X7FA_xXhaU4VCMpecxHeNQh295b3_EgfAJpSdubxTffzy3ze5FubK11-Vaz3Vgx0B6y0Pv2hvW4utSLvGtpfkfwHSmTtQxmCmKov0B133s8w"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR6P4oErMuHwIGh6R8ae8rmFDECUVlIZ4ZENKL8fl7728tyPpU2iKSS5hc53LxTY-zSBTeE6oj8N55yvecLZ7j899uRLXPUsa3x-SYNpdZGZRZ8KVGCi6QcCA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "source": "eBay - cute0066",
+      "title": "Asus Rog Strix B650-a Gaming Wifi Am5 Motherboard Support",
+      "price": "$357.60",
+      "extracted_price": 357.6,
+      "immersive_product_page_token": "U4mMsHicbY1JbtswAEXR8xgFSGuw3J0VSx4SURFl0jI3ATVYg6mhGhxJl-gVAicpkC7bAt32GulpmnbVRTcf_-Hj4X-6ROmPWKqOvLmWt-xI6s64hZU_npz4parLsAvaNPymqWAGZA0oigY0qKoQgJeAt1yUcRo-fE0iHoq0iOzjMaqXZfB_40ua8zj6O3-Hqqxo6kwGkgo1dS6_sfpYh83D88cuqodXfeESd4Lt1cRt67Sf6KoC3i8mK56nRTzZb8zNxCrbJKr9ktfhJP-3T-8aUbbNc1y9PT085n-iOreXJH7qOhH9vMTi0jWXRFyi4nPJq_Mx-PUuM8r7q6vmXndIVdElBm7el7goe8sQmBiQERe2NpmvMBVXdERtsNvmKKeISLrjTuPB3StTbM4FyvS9b8Y9BoxwIAZfqmzXw-MBKCtGTj2iJuNifs0zgT1wkPcicV1DQWhVlZ6k7_nOkHe5paCMVdYSDYwQGK3NW0bpyV4nazaaA5GIdMic6W4pzr60HagwK0SN0TZkyRGLe17gnQXMZUSSBEmoR54uc093sME2PoAtptTZQVFjuHVtk6VMCm06NbcORaO_V1y8Fjo-KSu0CxsjCQtL0vODh26QUXEm6BAS6lienkZ5i1lfpg7BY5CJnJxiECxZj4AmBRlDN5QWDqzyYGRn7sKOGn3mOE99Ux9fwcJUWtdWhJJkmgDvaXbbyN3ZgiDZRLZ6JzznA5xpsipPoQYAmP0GBhfs8Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=U4mMsHicbY1JbtswAEXR8xgFSGuw3J0VSx4SURFl0jI3ATVYg6mhGhxJl-gVAicpkC7bAt32GulpmnbVRTcf_-Hj4X-6ROmPWKqOvLmWt-xI6s64hZU_npz4parLsAvaNPymqWAGZA0oigY0qKoQgJeAt1yUcRo-fE0iHoq0iOzjMaqXZfB_40ua8zj6O3-Hqqxo6kwGkgo1dS6_sfpYh83D88cuqodXfeESd4Lt1cRt67Sf6KoC3i8mK56nRTzZb8zNxCrbJKr9ktfhJP-3T-8aUbbNc1y9PT085n-iOreXJH7qOhH9vMTi0jWXRFyi4nPJq_Mx-PUuM8r7q6vmXndIVdElBm7el7goe8sQmBiQERe2NpmvMBVXdERtsNvmKKeISLrjTuPB3StTbM4FyvS9b8Y9BoxwIAZfqmzXw-MBKCtGTj2iJuNifs0zgT1wkPcicV1DQWhVlZ6k7_nOkHe5paCMVdYSDYwQGK3NW0bpyV4nazaaA5GIdMic6W4pzr60HagwK0SN0TZkyRGLe17gnQXMZUSSBEmoR54uc093sME2PoAtptTZQVFjuHVtk6VMCm06NbcORaO_V1y8Fjo-KSu0CxsjCQtL0vODh26QUXEm6BAS6lienkZ5i1lfpg7BY5CJnJxiECxZj4AmBRlDN5QWDqzyYGRn7sKOGn3mOE99Ux9fwcJUWtdWhJJkmgDvaXbbyN3ZgiDZRLZ6JzznA5xpsipPoQYAmP0GBhfs8Q"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQ9LE-z3YEAq3ZDFa3snKmZroXSshM3CIVmcwwohUn4t0S8wFGin5wxj5qYSUIDcvcNJBAzLvhUu3tff407Y5k1pNbV8G_oiz3579fRg9V8AFZXK-K1zyMQ9w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSszEkUOjnvn_96LLdtDlvMqM_zHQKn-qXz48g4ezIjuG9VexSIaGBYUqfM-jG02rpelucSF61h39mgcfZ__9JvMl7lJ8-fLRY",
+      "source": "Techinn.com",
+      "title": "ASUS ROG Strix B650E-E Gaming WIFI Motherboard",
+      "rating": 4.6,
+      "reviews": 275,
+      "price": "$257.99",
+      "extracted_price": 257.99,
+      "original_price": "$437",
+      "extracted_original_price": 437,
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "lUAz2HicdZPPjqNGEMalPEPewlqpm-7mT25jYxgza2ya7gZzGWHAbqDBxMY2Y-Ud8g6e3Uib4-5Ke81rTJ4m7J5ySE5V0qf6VdVXqt_vRfltj7pdenrCXrLjx_N8DbvtrQ72n7rjIT9nfZl_hUgjEGuQIGAiiE0DEvNTlvapOuzL_AtC0LB0YFkYkzFoOtI_yyLNVdkWq92uONqH7DsFGIYJdTgCCMYImhY2_yybdF_80L8YCGGCNANDjAxDI7pJXo_56Q2vZ88QAwPqAGnAwMg0LQIw-m1NV_bz_4gffz0Xx5e36UPIwwlduZOwP5bDZKoT8O5h4qZN2e4n0cJZTJaHXhbH7SE95pPm37n2fFKH_vRx3_2Y_j-avDZl_pkYOtY1c1zbsCyDWAS_dpf-LvcfzmdV_HXfq_v5dJfqXrR_HNLussv-_unn-eFqz07XWcC7TtgUMNeRseZdosobCg5hUinFGm8tXGsdazQRaDqIEiJmiwO1p5S301kWOVKIuqeKUgEtGNXktm2sNtbgjoO-j0L4ROskZY_0soSeFylpb6rpLNH81BfBNagkoDzQNpXjZ0A8FY_efGU7QS4cFcReHM7NW1TLS64cx59LwCr6PnL9dgucSsT5OlB0rPdLpjjZjM6Fj_4LdZ1zwAd9I5JdEdGRJ2YplI3v5tCPsz5Fnkxr73HDLcoi6jDm2FkkVcICxKDAzKbR0sXDpkqmqWu9JMKXAljXlUiOCYcrv6oHUTsL3jog51RPhDmwusdFrUDYfveQEMZyJWZQC2_-jc2HmCpB6S2pRGPiHOUzHpHZUlOSN6rNYjqnqAveC8mE4_GlkNGWC8Wgt8hu-S2qZBfUARDzLs6Ap0Ucuqx2EOfX0NGyW-YmMgMnEKquEbEHqXgYMtfTU-i0bulN6ejJKkpY2C7QUvHrpoENr2m4hGI3at6yrTELIYoURR-G03H3Bh4c0ocrooisTAXeiWp9wufxgEAuipX-rOLgF2iYWB__0QQAGP8A09g7dQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lUAz2HicdZPPjqNGEMalPEPewlqpm-7mT25jYxgza2ya7gZzGWHAbqDBxMY2Y-Ud8g6e3Uib4-5Ke81rTJ4m7J5ySE5V0qf6VdVXqt_vRfltj7pdenrCXrLjx_N8DbvtrQ72n7rjIT9nfZl_hUgjEGuQIGAiiE0DEvNTlvapOuzL_AtC0LB0YFkYkzFoOtI_yyLNVdkWq92uONqH7DsFGIYJdTgCCMYImhY2_yybdF_80L8YCGGCNANDjAxDI7pJXo_56Q2vZ88QAwPqAGnAwMg0LQIw-m1NV_bz_4gffz0Xx5e36UPIwwlduZOwP5bDZKoT8O5h4qZN2e4n0cJZTJaHXhbH7SE95pPm37n2fFKH_vRx3_2Y_j-avDZl_pkYOtY1c1zbsCyDWAS_dpf-LvcfzmdV_HXfq_v5dJfqXrR_HNLussv-_unn-eFqz07XWcC7TtgUMNeRseZdosobCg5hUinFGm8tXGsdazQRaDqIEiJmiwO1p5S301kWOVKIuqeKUgEtGNXktm2sNtbgjoO-j0L4ROskZY_0soSeFylpb6rpLNH81BfBNagkoDzQNpXjZ0A8FY_efGU7QS4cFcReHM7NW1TLS64cx59LwCr6PnL9dgucSsT5OlB0rPdLpjjZjM6Fj_4LdZ1zwAd9I5JdEdGRJ2YplI3v5tCPsz5Fnkxr73HDLcoi6jDm2FkkVcICxKDAzKbR0sXDpkqmqWu9JMKXAljXlUiOCYcrv6oHUTsL3jog51RPhDmwusdFrUDYfveQEMZyJWZQC2_-jc2HmCpB6S2pRGPiHOUzHpHZUlOSN6rNYjqnqAveC8mE4_GlkNGWC8Wgt8hu-S2qZBfUARDzLs6Ap0Ucuqx2EOfX0NGyW-YmMgMnEKquEbEHqXgYMtfTU-i0bulN6ejJKkpY2C7QUvHrpoENr2m4hGI3at6yrTELIYoURR-G03H3Bh4c0ocrooisTAXeiWp9wufxgEAuipX-rOLgF2iYWB__0QQAGP8A09g7dQ"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How many m 2 slots does the Asus B650 have?",
+      "type": "ai_overview",
+      "page_token": "0EP2hHicHdBfboIwAIDx7DI-qsXpNhOzrFtxoGBaaKl9WaAIKC1Urf942112qp1mZgf4kl--7x-1berfh3NlrTlOB4PL5dIv27ZUm75s9SA93ho5kKlSWSrr6eRpAl4LOUMnD77vPYipMeyDDKOmCsioBjSGFdsCu5kzsaZ-ne_ye-YXNLF7qcg4UOKUAoiIvlaZY9ysth522JIlL-N1F3qrpFpgxmDeBCDXYSp1heW8vC5jZVbz65lwtciHz0Os_I53br1yxW1dA04S02bMNVHse5iFOkaqoUgcpGrHkhMSMUhzJThFPoyBOTAtx5vEBnhX1QyBZdTkDncETVE5IkPboOouGEG95uEyRCYVit1yynDA4XajLRHXdosp6eROafbpPiY6cIg2TZioMwdhESVAZMAcBYB7tnvrKO4V8jwb9f5_zr4Kbafm0JZ_9cSF0A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0EP2hHicHdBfboIwAIDx7DI-qsXpNhOzrFtxoGBaaKl9WaAIKC1Urf942112qp1mZgf4kl--7x-1berfh3NlrTlOB4PL5dIv27ZUm75s9SA93ho5kKlSWSrr6eRpAl4LOUMnD77vPYipMeyDDKOmCsioBjSGFdsCu5kzsaZ-ne_ye-YXNLF7qcg4UOKUAoiIvlaZY9ysth522JIlL-N1F3qrpFpgxmDeBCDXYSp1heW8vC5jZVbz65lwtciHz0Os_I53br1yxW1dA04S02bMNVHse5iFOkaqoUgcpGrHkhMSMUhzJThFPoyBOTAtx5vEBnhX1QyBZdTkDncETVE5IkPboOouGEG95uEyRCYVit1yynDA4XajLRHXdosp6eROafbpPiY6cIg2TZioMwdhESVAZMAcBYB7tnvrKO4V8jwb9f5_zr4Kbafm0JZ_9cSF0A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IG0gMiBzbG90cyBkb2VzIHRoZSBBc3VzIEI2NTAgaGF2ZT8iLCJsayI6IkdoeGhjM1Z6SUdJMk5UQWdhRzkzSUcxaGJua2diU0F5SUhOc2IzUnoiLCJicyI6ImMyMlFQUXZDTUJSRmNjM2tYRVRlSWlJdU5hQnJxUWk2Vk1INE1hYzB0SUpKSUstMi11OXRiRzFEZGIzY2U5N2hrWWpNZDdvRXlkVUxKRkRBdTg0UkVpMFE4a3hBaUEtRTlXcnBROFlMRWRDeE4tSTJpal9SejVDa1pOSGk5cGRJdUR4ZWc2U3V3Q2JXM0NRTmxIcC1pMUtGN0kzaWZ5UGllak8yNlhzZkQxdGd1Yms5TzItalU4QTYtZzRSazhiN1JHYlg2b0NvQ1JhWWF0QUt1SUtRblpsN1A2QlRiMUoyWlF0cHl2WXpUbk00ZUFNIiwiaWQiOiJmY19nM3BmYXNLNEpaZlVydUVQMXBiemtRZ184In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IG0gMiBzbG90cyBkb2VzIHRoZSBBc3VzIEI2NTAgaGF2ZT8iLCJsayI6IkdoeGhjM1Z6SUdJMk5UQWdhRzkzSUcxaGJua2diU0F5SUhOc2IzUnoiLCJicyI6ImMyMlFQUXZDTUJSRmNjM2tYRVRlSWlJdU5hQnJxUWk2Vk1INE1hYzB0SUpKSUstMi11OXRiRzFEZGIzY2U5N2hrWWpNZDdvRXlkVUxKRkRBdTg0UkVpMFE4a3hBaUEtRTlXcnBROFlMRWRDeE4tSTJpal9SejVDa1pOSGk5cGRJdUR4ZWc2U3V3Q2JXM0NRTmxIcC1pMUtGN0kzaWZ5UGllak8yNlhzZkQxdGd1Yms5TzItalU4QTYtZzRSazhiN1JHYlg2b0NvQ1JhWWF0QUt1SUtRblpsN1A2QlRiMUoyWlF0cHl2WXpUbk00ZUFNIiwiaWQiOiJmY19nM3BmYXNLNEpaZlVydUVQMXBiemtRZ184In0%3D"
+    },
+    {
+      "question": "How many NVMe slots does a B650 motherboard have?",
+      "type": "ai_overview",
+      "page_token": "-ziyKnicHdDLboJAFADQ9GdcVsBqo4lpHOWhdSZl8A6PTTMMCMjlYaWi7Pov_ap-TZuuz-58fWNRlz8P17zr2stiPO77_jFrmgzTR9VUY3m512qsJGIsVbmYPc_0l6Namp9bsj5viQttKzZc84ad5plWAcHqCbT8BgaX_CTOnh39KYtgQwKlCRBIZl6NMql3NnNWw8FmLYW5B34Xxics5YChOlmCWXm5B5womwE19LNvZtPkrmkAc-5V-msK-sADC5Uf9q7O68TJ9cPArMSeBqEf9XQQnIlcRD5OKeKa-zmTvuoZchIbUa8Ay4NOXOq4N-Ew3xNW5Tlwo2Zby0lLzDyp6YRUYcD2zGxlhOKegHBpQIq06nh0awoX-KBOWAlrF6VghdRgLMbVsA_wLTF0TEpuxDWfpQ5ScEdHdV1ORv-fy_dj1S3ajyb7Bel0g6Y",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-ziyKnicHdDLboJAFADQ9GdcVsBqo4lpHOWhdSZl8A6PTTMMCMjlYaWi7Pov_ap-TZuuz-58fWNRlz8P17zr2stiPO77_jFrmgzTR9VUY3m512qsJGIsVbmYPc_0l6Namp9bsj5viQttKzZc84ad5plWAcHqCbT8BgaX_CTOnh39KYtgQwKlCRBIZl6NMql3NnNWw8FmLYW5B34Xxics5YChOlmCWXm5B5womwE19LNvZtPkrmkAc-5V-msK-sADC5Uf9q7O68TJ9cPArMSeBqEf9XQQnIlcRD5OKeKa-zmTvuoZchIbUa8Ay4NOXOq4N-Ew3xNW5Tlwo2Zby0lLzDyp6YRUYcD2zGxlhOKegHBpQIq06nh0awoX-KBOWAlrF6VghdRgLMbVsA_wLTF0TEpuxDWfpQ5ScEdHdV1ORv-fy_dj1S3ajyb7Bel0g6Y",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IE5WTWUgc2xvdHMgZG9lcyBhIEI2NTAgbW90aGVyYm9hcmQgaGF2ZT8iLCJsayI6IkdqQm9iM2NnYldGdWVTQnVkbTFsSUhOc2IzUnpJR1J2WlhNZ1lTQmlOalV3SUcxdmRHaGxjbUp2WVhKa0lHaGhkbVUiLCJicyI6ImMyMlFQUXZDTUJSRmNjM2tYRVRlSWlJdU5hQnJxUWk2Vk1INE1hYzB0SUpKSUstMi11OXRiRzFEZGIzY2U5N2hrWWpNZDdvRXlkVUxKRkRBdTg0UkVpMFE4a3hBaUEtRTlXcnBROFlMRWRDeE4tSTJpal9SejVDa1pOSGk5cGRJdUR4ZWc2U3V3Q2JXM0NRTmxIcC1pMUtGN0kzaWZ5UGllak8yNlhzZkQxdGd1Yms5TzItalU4QTYtZzRSazhiN1JHYlg2b0NvQ1JhWWF0QUt1SUtRblpsN1A2QlRiMUoyWlF0cHl2WXpUbk00ZUFNIiwiaWQiOiJmY19nM3BmYXNLNEpaZlVydUVQMXBiemtRZ184In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IE5WTWUgc2xvdHMgZG9lcyBhIEI2NTAgbW90aGVyYm9hcmQgaGF2ZT8iLCJsayI6IkdqQm9iM2NnYldGdWVTQnVkbTFsSUhOc2IzUnpJR1J2WlhNZ1lTQmlOalV3SUcxdmRHaGxjbUp2WVhKa0lHaGhkbVUiLCJicyI6ImMyMlFQUXZDTUJSRmNjM2tYRVRlSWlJdU5hQnJxUWk2Vk1INE1hYzB0SUpKSUstMi11OXRiRzFEZGIzY2U5N2hrWWpNZDdvRXlkVUxKRkRBdTg0UkVpMFE4a3hBaUEtRTlXcnBROFlMRWRDeE4tSTJpal9SejVDa1pOSGk5cGRJdUR4ZWc2U3V3Q2JXM0NRTmxIcC1pMUtGN0kzaWZ5UGllak8yNlhzZkQxdGd1Yms5TzItalU4QTYtZzRSazhiN1JHYlg2b0NvQ1JhWWF0QUt1SUtRblpsN1A2QlRiMUoyWlF0cHl2WXpUbk00ZUFNIiwiaWQiOiJmY19nM3BmYXNLNEpaZlVydUVQMXBiemtRZ184In0%3D"
+    },
+    {
+      "question": "How many SSD slots does the ROG Strix have?",
+      "type": "ai_overview",
+      "page_token": "w1zoQ3icHdDBboIwAIDh7GU8KoXpoolZhgME17KWtiCXpRQVoUBVJpPb3mVPtaeZ2fFPvtP__aOOTfX7cC26Tl8Wk0nf9-ND2x7UbizbeiIut0ZOpFAqE7JazJ5m4Hkvl86nb69Ovo2Z1vyVGBFXrfDAG6T2KQWozG5gkxj5OYxVFLO5n3pI8YGsBYfWvQPuBhtRgZVM_E66PGQlInGSOqzJ8c7lETMrA5a4p8BlJG4HzoIZYRpFXodxSa64ISta663wHm_c0its8lNIec88H2Cr8EOv6EVS9JEZRKjSZwpeerkmBonzYed1LjR1Q83inRqXKQKE0SMgkDkgoynP6qntFHkDLbveJugNOVqkit9yxjFM7OOu7kj61R4xI4MsVc0sOxJDahErnwkTXbdg7mZVWmwHOIWs8-7GYXi0l9elNfr_ufzY191Cn9vDH3Y_gpA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w1zoQ3icHdDBboIwAIDh7GU8KoXpoolZhgME17KWtiCXpRQVoUBVJpPb3mVPtaeZ2fFPvtP__aOOTfX7cC26Tl8Wk0nf9-ND2x7UbizbeiIut0ZOpFAqE7JazJ5m4Hkvl86nb69Ovo2Z1vyVGBFXrfDAG6T2KQWozG5gkxj5OYxVFLO5n3pI8YGsBYfWvQPuBhtRgZVM_E66PGQlInGSOqzJ8c7lETMrA5a4p8BlJG4HzoIZYRpFXodxSa64ISta663wHm_c0its8lNIec88H2Cr8EOv6EVS9JEZRKjSZwpeerkmBonzYed1LjR1Q83inRqXKQKE0SMgkDkgoynP6qntFHkDLbveJugNOVqkit9yxjFM7OOu7kj61R4xI4MsVc0sOxJDahErnwkTXbdg7mZVWmwHOIWs8-7GYXi0l9elNfr_ufzY191Cn9vDH3Y_gpA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IFNTRCBzbG90cyBkb2VzIHRoZSBST0cgU3RyaXggaGF2ZT8iLCJsayI6IkdoeHliMmNnYzNSeWFYZ2dhRzkzSUcxaGJua2djM05rSUhOc2IzUnoiLCJicyI6ImMyMlFQUXZDTUJSRmNjM2tYRVRlSWlJdU5hQnJxUWk2Vk1INE1hYzB0SUpKSUstMi11OXRiRzFEZGIzY2U5N2hrWWpNZDdvRXlkVUxKRkRBdTg0UkVpMFE4a3hBaUEtRTlXcnBROFlMRWRDeE4tSTJpal9SejVDa1pOSGk5cGRJdUR4ZWc2U3V3Q2JXM0NRTmxIcC1pMUtGN0kzaWZ5UGllak8yNlhzZkQxdGd1Yms5TzItalU4QTYtZzRSazhiN1JHYlg2b0NvQ1JhWWF0QUt1SUtRblpsN1A2QlRiMUoyWlF0cHl2WXpUbk00ZUFNIiwiaWQiOiJmY19nM3BmYXNLNEpaZlVydUVQMXBiemtRZ184In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IFNTRCBzbG90cyBkb2VzIHRoZSBST0cgU3RyaXggaGF2ZT8iLCJsayI6IkdoeHliMmNnYzNSeWFYZ2dhRzkzSUcxaGJua2djM05rSUhOc2IzUnoiLCJicyI6ImMyMlFQUXZDTUJSRmNjM2tYRVRlSWlJdU5hQnJxUWk2Vk1INE1hYzB0SUpKSUstMi11OXRiRzFEZGIzY2U5N2hrWWpNZDdvRXlkVUxKRkRBdTg0UkVpMFE4a3hBaUEtRTlXcnBROFlMRWRDeE4tSTJpal9SejVDa1pOSGk5cGRJdUR4ZWc2U3V3Q2JXM0NRTmxIcC1pMUtGN0kzaWZ5UGllak8yNlhzZkQxdGd1Yms5TzItalU4QTYtZzRSazhiN1JHYlg2b0NvQ1JhWWF0QUt1SUtRblpsN1A2QlRiMUoyWlF0cHl2WXpUbk00ZUFNIiwiaWQiOiJmY19nM3BmYXNLNEpaZlVydUVQMXBiemtRZ184In0%3D"
+    },
+    {
+      "question": "Where does SSD go on an ASUS motherboard?",
+      "type": "ai_overview",
+      "page_token": "Q6-usXicHdBRboIwAADQ7DL71AHDZSZmCdKiTsootIX-LNCiaEthioL-7S471U6zZO8I7_tHH4z6fbjWfd-d59PpMAyTfdvudTURbTMtzjcjpqLQuiyEms9eZtbbTizAZe0tv9ZeTLqO-vgpBdxLAreVhs_KFRiJyt1Y9UfhKwsfrFXkozO2NUmXlskJHDFEa6TriLFXp8y8NV1JR65oGqU844znlIxD1aBjyPouAf02s-GMkXBMGL4nALaUWSeq3A_u81MVIBjamywKxEiJTnK7D4ndvacG2Cn01DbFCWVunviIcbs-J0ZeZKohMuqZ3IXLGIcVEHep2wGz0C0D7YBamtDxmjxDWwS6gmt6k4TGYeYdqqbHfGwPMcF3cdQNhfV7GbhfxNlAdNyYgnpR5EOrUrG7zdRz3MiNHB534rpwHv8_F5-7pp93p3b_B9O_g1k",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q6-usXicHdBRboIwAADQ7DL71AHDZSZmCdKiTsootIX-LNCiaEthioL-7S471U6zZO8I7_tHH4z6fbjWfd-d59PpMAyTfdvudTURbTMtzjcjpqLQuiyEms9eZtbbTizAZe0tv9ZeTLqO-vgpBdxLAreVhs_KFRiJyt1Y9UfhKwsfrFXkozO2NUmXlskJHDFEa6TriLFXp8y8NV1JR65oGqU844znlIxD1aBjyPouAf02s-GMkXBMGL4nALaUWSeq3A_u81MVIBjamywKxEiJTnK7D4ndvacG2Cn01DbFCWVunviIcbs-J0ZeZKohMuqZ3IXLGIcVEHep2wGz0C0D7YBamtDxmjxDWwS6gmt6k4TGYeYdqqbHfGwPMcF3cdQNhfV7GbhfxNlAdNyYgnpR5EOrUrG7zdRz3MiNHB534rpwHv8_F5-7pp93p3b_B9O_g1k",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IldoZXJlIGRvZXMgU1NEIGdvIG9uIGFuIEFTVVMgbW90aGVyYm9hcmQ/IiwibGsiOiJHaVYzYUdWeVpTQmtiMlZ6SUhOelpDQm5ieUJ2YmlCaGMzVnpJRzF2ZEdobGNtSnZZWEprIiwiYnMiOiJjMjJRUFF2Q01CUkZjYzNrWEVUZUlpSXVOYUJycVFpNlZNSDRNYWMwdElKSklLLTItdTl0YkcxRGRiM2NlOTdoa1lqTWQ3b0V5ZFVMSkZEQXU4NFJFaTBROGt4QWlBLUU5V3JwUThZTEVkQ3hOLUkyaWpfUno1Q2taTkhpOXBkSXVEeGVnNlN1d0NiVzNDUU5sSHAtaTFLRjdJM2lmeVBpZWpPMjZYc2ZEMXRndWJrOU8yLWpVOEE2LWc0Ums4YjdSR2JYNm9Db0NSYVlhdEFLdUlLUW5abDdQNkJUYjFKMlpRdHB5dll6VG5NNGVBTSIsImlkIjoiZmNfZzNwZmFzSzRKWmZVcnVFUDFwYnprUWdfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNVaDVUa2MwWTNGcGNsWmxPVjh0VEdWNE9EZEtRMEZvUnpORFZWaFRaMWQ2V1VKWVpIWlFTV1JQZFZKQ2VrazFRemx1YkY5YU1WQjZVRmRoT0VadGVtNVdOVEZ2YjJ4SFZVUkdiVmwxVGxsWmJsWnBUbVJGWVd0V2R4SVhaek53Wm1GelN6UktXbVpWY25WRlVERndZbnByVVdjYUlrRkVjM0k1WmxGRGRHSlBSM1JSWjAxc1ZtZFRZMDB0TTFkaFNqTktkVnBNZEZFIiwiZmN2IjoiMyIsImVpIjoiZzNwZmFzSzRKWmZVcnVFUDFwYnprUWciLCJxYyI6ImMtTnlTaXd1TFZZb3lrOVhLQzRweXF4UVNESXpOVkJJVkVoUHpNM01TMWNvejB6TFZNak5MOGxJTFVyS1R5eEtRV1ViS1JUbjVKY1VDekRVY2drRjJ3TUEiLCJxdWVzdGlvbiI6IldoZXJlIGRvZXMgU1NEIGdvIG9uIGFuIEFTVVMgbW90aGVyYm9hcmQ%2FIiwibGsiOiJHaVYzYUdWeVpTQmtiMlZ6SUhOelpDQm5ieUJ2YmlCaGMzVnpJRzF2ZEdobGNtSnZZWEprIiwiYnMiOiJjMjJRUFF2Q01CUkZjYzNrWEVUZUlpSXVOYUJycVFpNlZNSDRNYWMwdElKSklLLTItdTl0YkcxRGRiM2NlOTdoa1lqTWQ3b0V5ZFVMSkZEQXU4NFJFaTBROGt4QWlBLUU5V3JwUThZTEVkQ3hOLUkyaWpfUno1Q2taTkhpOXBkSXVEeGVnNlN1d0NiVzNDUU5sSHAtaTFLRjdJM2lmeVBpZWpPMjZYc2ZEMXRndWJrOU8yLWpVOEE2LWc0Ums4YjdSR2JYNm9Db0NSYVlhdEFLdUlLUW5abDdQNkJUYjFKMlpRdHB5dll6VG5NNGVBTSIsImlkIjoiZmNfZzNwZmFzSzRKWmZVcnVFUDFwYnprUWdfOCJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ROG STRIX B650-A GAMING WIFI | Motherboards",
+      "link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-strix%2Frog-strix-b650-a-gaming-wifi-model%2F&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECBwQAQ",
+      "displayed_link": "https://rog.asus.com › ... › MOTHERBOARDS FILTER",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "The board has a total of three M.2 slots, with one of them sharing four PCIe Gen4 lanes with the last PCIe slot, here you have to choose whether you want PCIe ...",
+      "snippet_highlighted_words": [
+        "three M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The board has a total of three M.2 slots, with one of them sharing four PCIe Gen4 lanes with the last PCIe slot, here you have to choose whether you want PCIe ...",
+          "source_info_link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-strix%2Frog-strix-b650-a-gaming-wifi-model%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-strix%2Frog-strix-b650-a-gaming-wifi-model%2F",
+      "source": "ROG",
+      "read_more_link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/"
+    },
+    {
+      "position": 2,
+      "title": "ASUS ROG Strix B650-A Gaming WiFi AMD ...",
+      "link": "https://www.amazon.com/ASUS-ROG-LGA1718-Motherboard-Type-C%C2%AE/dp/B0BHMW8R6S",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-LGA1718-Motherboard-Type-C%25C2%25AE%2Fdp%2FB0BHMW8R6S&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECDsQAQ",
+      "displayed_link": "https://www.amazon.com › ASUS-ROG-LGA1718-Moth...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Support: One PCIe 5.0 M.2 slot and two PCIe 4.0 M.2 slots, all with heatsinks to maximize performance",
+      "snippet_highlighted_words": [
+        "two PCIe 4.0 M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Support: One PCIe 5.0 M.2 slot and two PCIe 4.0 M.2 slots, all with heatsinks to maximize performance",
+          "source_info_link": "https://www.amazon.com/ASUS-ROG-LGA1718-Motherboard-Type-C%C2%AE/dp/B0BHMW8R6S",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-LGA1718-Motherboard-Type-C%C2%AE%2Fdp%2FB0BHMW8R6S&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-LGA1718-Motherboard-Type-C%25C2%25AE%2Fdp%2FB0BHMW8R6S",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 3,
+      "title": "M.2 B+M SSD and Asus ROG STRIX B650-A GAMING WIFI",
+      "link": "https://www.reddit.com/r/buildapc/comments/181f820/m2_bm_ssd_and_asus_rog_strix_b650a_gaming_wifi/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F181f820%2Fm2_bm_ssd_and_asus_rog_strix_b650a_gaming_wifi%2F&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECEQQAQ",
+      "displayed_link": "3 comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I just upgraded my processor to an Ryzen 5 7600 and motherboard to an ROG STRIX B650-A GAMING WIFI. I’ve got an m.2 B+M SSD (wds100t2b0b) and for some ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How much M.2/SATA drives can I insert into a ASUS ...",
+            "link": "https://www.reddit.com/r/buildapc/comments/1gr1k68/how_much_m2sata_drives_can_i_insert_into_a_asus/",
+            "answer_count": 2,
+            "date": "Nov 14, 2024"
+          },
+          {
+            "title": "ASUS B650-A and Third M.2 Slot. - Reddit",
+            "link": "https://www.reddit.com/r/ASUS/comments/11h97xm/asus_b650a_and_third_m2_slot/",
+            "answer_count": 7,
+            "date": "Mar 3, 2023"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The M.2 slots on the mobo only support M.2 PCIe/NVMe. You can get a housing to convert an M.2 SATA drive to a 2.5\" SATA drive.",
+          "source_info_link": "https://www.reddit.com/r/buildapc/comments/181f820/m2_bm_ssd_and_asus_rog_strix_b650a_gaming_wifi/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F181f820%2Fm2_bm_ssd_and_asus_rog_strix_b650a_gaming_wifi%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F181f820%2Fm2_bm_ssd_and_asus_rog_strix_b650a_gaming_wifi%2F",
+      "source": "Reddit · r/buildapc"
+    },
+    {
+      "position": 4,
+      "title": "ROG STRIX B650-A GAMING WIFI | Motherboards",
+      "link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/spec/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-strix%2Frog-strix-b650-a-gaming-wifi-model%2Fspec%2F&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECDUQAQ",
+      "displayed_link": "https://rog.asus.com › motherboards › rog-strix › spec",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png",
+      "snippet": "Total supports 3 x M.2 slots and 4 x SATA 6Gb/s ports* · AMD Ryzen™ 9000 & 7000 Series Desktop Processors M.2_1 slot (Key M), type 2242/2260/2280(supports PCIe ...",
+      "snippet_highlighted_words": [
+        "Total supports 3 x M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Total supports 3 x M.2 slots and 4 x SATA 6Gb/s ports* · AMD Ryzen™ 9000 & 7000 Series Desktop Processors M.2_1 slot (Key M), type 2242/2260/2280(supports PCIe ...",
+          "source_info_link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/spec/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCirqCio2tukzAAAAEXRSTlMACUhqjaBXsPD_zxo64b8sfXFNwQwAAAC-SURBVHgB1ZCFYQQgDACJIIfvP21Tt1_gcXLx9PxD1Dzn8oBobUA3-Y9GBagznjL-sLmArqFkte8_LoEWscoG-vnFDMiSSoeWT7j-EffCKulsWHeWXkPyk3WJk2bjLojIXkVqCeZwU2mBTqbBDtloW5RuTtMRUi9e79gwA6bCCiH0oYs6tZy3rOtH3bfaYofG-uiYNNpXB0QUM6j6JjodfjXW1zm-aD17XmC_m2M7PMy7gX8sQutHjKOSnnG8AHJQB4x1TX7jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-strix%2Frog-strix-b650-a-gaming-wifi-model%2Fspec%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frog.asus.com%2Fus%2Fmotherboards%2Frog-strix%2Frog-strix-b650-a-gaming-wifi-model%2Fspec%2F",
+      "source": "ROG",
+      "read_more_link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/spec/"
+    },
+    {
+      "position": 5,
+      "title": "ASUS ROG STRIX B650-A GAMING WIFI 6E Snow,Socket ...",
+      "link": "https://www.newegg.com/asus-rog-strix-b650-a-gaming-wifi-snow-atx-motherboards-amd-amd-b650-am5/p/2MG-000B-005H9?srsltid=AfmBOoq7J7gWZgW96h0hMzMopaNrWQXIZU5E99UN9JMXkCV_itsIgWwp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fasus-rog-strix-b650-a-gaming-wifi-snow-atx-motherboards-amd-amd-b650-am5%2Fp%2F2MG-000B-005H9%3Fsrsltid%3DAfmBOoq7J7gWZgW96h0hMzMopaNrWQXIZU5E99UN9JMXkCV_itsIgWwp&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECG4QAQ",
+      "displayed_link": "https://www.newegg.com › ... › ASUS",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Support: One PCIe 5.0 M.2 slot and two PCIe 4.0 M.2 slots, all with heatsinks to maximize performance",
+      "snippet_highlighted_words": [
+        "two PCIe 4.0 M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Support: One PCIe 5.0 M.2 slot and two PCIe 4.0 M.2 slots, all with heatsinks to maximize performance",
+          "source_info_link": "https://www.newegg.com/asus-rog-strix-b650-a-gaming-wifi-snow-atx-motherboards-amd-amd-b650-am5/p/2MG-000B-005H9?srsltid=AfmBOoq7J7gWZgW96h0hMzMopaNrWQXIZU5E99UN9JMXkCV_itsIgWwp",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fasus-rog-strix-b650-a-gaming-wifi-snow-atx-motherboards-amd-amd-b650-am5%2Fp%2F2MG-000B-005H9%3Fsrsltid%3DAfmBOoq7J7gWZgW96h0hMzMopaNrWQXIZU5E99UN9JMXkCV_itsIgWwp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fasus-rog-strix-b650-a-gaming-wifi-snow-atx-motherboards-amd-amd-b650-am5%2Fp%2F2MG-000B-005H9%3Fsrsltid%3DAfmBOoq7J7gWZgW96h0hMzMopaNrWQXIZU5E99UN9JMXkCV_itsIgWwp",
+      "source": "Newegg"
+    },
+    {
+      "position": 6,
+      "title": "ROG STRIX B650-A GAMING WIFI",
+      "link": "https://dlcdnets.asus.com/pub/ASUS/mb/Socket%20AM5/ROG%20STRIX%20B650-A%20GAMING%20WIFI/E20268_ROG_STRIX_B650-A_GAMING_WIFI_UM_WEB.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fdlcdnets.asus.com%2Fpub%2FASUS%2Fmb%2FSocket%2520AM5%2FROG%2520STRIX%2520B650-A%2520GAMING%2520WIFI%2FE20268_ROG_STRIX_B650-A_GAMING_WIFI_UM_WEB.pdf&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECDQQAQ",
+      "displayed_link": "https://dlcdnets.asus.com › pub › ASUS › E20268...",
+      "snippet": "The motherboard comes with Dual Inline Memory Modules (DIMM) slots designed for DDR5. Supported M.2 type varies per motherboard. steps for a single M.2 slot, ...",
+      "snippet_highlighted_words": [
+        "motherboard",
+        "slots",
+        "M.2",
+        "motherboard",
+        "M.2 slot"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The motherboard comes with Dual Inline Memory Modules (DIMM) slots designed for DDR5. Supported M.2 type varies per motherboard. steps for a single M.2 slot, ...",
+          "source_info_link": "https://dlcdnets.asus.com/pub/ASUS/mb/Socket%20AM5/ROG%20STRIX%20B650-A%20GAMING%20WIFI/E20268_ROG_STRIX_B650-A_GAMING_WIFI_UM_WEB.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fdlcdnets.asus.com%2Fpub%2FASUS%2Fmb%2FSocket+AM5%2FROG+STRIX+B650-A+GAMING+WIFI%2FE20268_ROG_STRIX_B650-A_GAMING_WIFI_UM_WEB.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdlcdnets.asus.com%2Fpub%2FASUS%2Fmb%2FSocket%2520AM5%2FROG%2520STRIX%2520B650-A%2520GAMING%2520WIFI%2FE20268_ROG_STRIX_B650-A_GAMING_WIFI_UM_WEB.pdf",
+      "source": "ASUS"
+    },
+    {
+      "position": 7,
+      "title": "Question about ASUS ROG Strix B650-A Gaming Wifi",
+      "link": "https://www.galaxus.at/en/s1/questionandanswer/but-does-the-slot-for-the-m2-ssd-have-a-built-in-heatsink-779480",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.galaxus.at%2Fen%2Fs1%2Fquestionandanswer%2Fbut-does-the-slot-for-the-m2-ssd-have-a-built-in-heatsink-779480&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECDoQAQ",
+      "displayed_link": "https://www.galaxus.at › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA8UlEQVR4AbXLIWyDQBiG4U9PzxvUbM10vayunMJWkcxnDluf4IPAB4FFYTG4uiaYJnf37g-0XAnLzLL37sSXJyd-6b8w3MMuaQ7LCsEwcirlLHuNF1mwQbCH2QvMKyLDiFUNQ4XR2BMRJ-1q-uwtOXU079KNGb13AUlNqalzI4ngLTlvUSZZp3vNZ1LgJ_RTQKJHgI9oMWipM1tjE7HaYPsTOm_HuXCN2OPm5Oa4HR72OuJXyMdx-doeU56RXqrb2YpK6njGXCq45od91nOWvlbY5iUuUNbgqPImogU2HTvh57HgUrjsT3Gt0RQ2uOnP-A0whHn0lZHlugAAAABJRU5ErkJggg.png",
+      "snippet": "But does the slot for the m.2 ssd have a built-in heatsink?",
+      "about_this_result": {
+        "source": {
+          "description": "Yes, the motherboard's M.2 slots have a built-in heatsink to keep NVMe SSDs at optimal temperatures and ensure consistent performance.",
+          "source_info_link": "https://www.galaxus.at/en/s1/questionandanswer/but-does-the-slot-for-the-m2-ssd-have-a-built-in-heatsink-779480",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA8UlEQVR4AbXLIWyDQBiG4U9PzxvUbM10vayunMJWkcxnDluf4IPAB4FFYTG4uiaYJnf37g-0XAnLzLL37sSXJyd-6b8w3MMuaQ7LCsEwcirlLHuNF1mwQbCH2QvMKyLDiFUNQ4XR2BMRJ-1q-uwtOXU079KNGb13AUlNqalzI4ngLTlvUSZZp3vNZ1LgJ_RTQKJHgI9oMWipM1tjE7HaYPsTOm_HuXCN2OPm5Oa4HR72OuJXyMdx-doeU56RXqrb2YpK6njGXCq45od91nOWvlbY5iUuUNbgqPImogU2HTvh57HgUrjsT3Gt0RQ2uOnP-A0whHn0lZHlugAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.galaxus.at%2Fen%2Fs1%2Fquestionandanswer%2Fbut-does-the-slot-for-the-m2-ssd-have-a-built-in-heatsink-779480&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.galaxus.at%2Fen%2Fs1%2Fquestionandanswer%2Fbut-does-the-slot-for-the-m2-ssd-have-a-built-in-heatsink-779480",
+      "source": "galaxus.at"
+    },
+    {
+      "position": 8,
+      "title": "Rog Strix B650-A Gaming Wifi and M.2 Question",
+      "link": "https://forums.tomshardware.com/threads/rog-strix-b650-a-gaming-wifi-and-m-2-question.3847180/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fforums.tomshardware.com%2Fthreads%2Frog-strix-b650-a-gaming-wifi-and-m-2-question.3847180%2F&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQFnoECDYQAQ",
+      "displayed_link": "https://forums.tomshardware.com › ... › Motherboards",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____39_f09PTw8PDx8fH3___v7-_w2Njqs7Tlra7tx8fv0dLx3-DbSk7WAADXCRTihIbllJbXFh7YIynXEBnu7u7hfH7npqjlnZ_t7e3s7Ozhs7Tpvr_r6-vp6eno6Ojn7e3n5-fq6urgjI7k5OTdcXTl3t6ivEiiAAABCElEQVR4AazJRaKFMAxAURJSnBZ3aZ_tf4m_0PB9-O4kcrz3BIjwv6CPYCMf_yELQojDffhpAVoKozhKhEgR8achZLlUSsmikKX4rmgtlVJWdV1J2Vgk-MQWMZNdkhVKdVkvB0AcLyMkjEOBkOR5CjAiEhEyTseOZEOBxLXOYPRdOEu5EB-rQww4ipRaiI8JTqSWo1ip6LpGxpE7ML6uySGuk8vvG9X7fGwOYV9demiaXvNhPJe5ufS9aUrNx8oYbC5dVM1du92gxz32M91VVaHdbrwrepijAzt9rg9gsq2n6mdVPfVpxMBq008pn9oul12hfZnXHL-MXcD7XfCwWTL0MfxJk3IAABEpHYXV7W-LAAAAAElFTkSuQmCC.png",
+      "date": "Jun 16, 2024",
+      "snippet": "You can use all three M.2 slots if you don't drop anything in PCIEx16_2. M.2_3 is wired to the chipset while the other 2 are wired to the CPU.",
+      "snippet_highlighted_words": [
+        "You can use all three M.2 slots"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can use all three M.2 slots if you don't drop anything in PCIEx16_2. M.2_3 is wired to the chipset while the other 2 are wired to the CPU.",
+          "source_info_link": "https://forums.tomshardware.com/threads/rog-strix-b650-a-gaming-wifi-and-m-2-question.3847180/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____39_f09PTw8PDx8fH3___v7-_w2Njqs7Tlra7tx8fv0dLx3-DbSk7WAADXCRTihIbllJbXFh7YIynXEBnu7u7hfH7npqjlnZ_t7e3s7Ozhs7Tpvr_r6-vp6eno6Ojn7e3n5-fq6urgjI7k5OTdcXTl3t6ivEiiAAABCElEQVR4AazJRaKFMAxAURJSnBZ3aZ_tf4m_0PB9-O4kcrz3BIjwv6CPYCMf_yELQojDffhpAVoKozhKhEgR8achZLlUSsmikKX4rmgtlVJWdV1J2Vgk-MQWMZNdkhVKdVkvB0AcLyMkjEOBkOR5CjAiEhEyTseOZEOBxLXOYPRdOEu5EB-rQww4ipRaiI8JTqSWo1ip6LpGxpE7ML6uySGuk8vvG9X7fGwOYV9demiaXvNhPJe5ufS9aUrNx8oYbC5dVM1du92gxz32M91VVaHdbrwrepijAzt9rg9gsq2n6mdVPfVpxMBq008pn9oul12hfZnXHL-MXcD7XfCwWTL0MfxJk3IAABEpHYXV7W-LAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fforums.tomshardware.com%2Fthreads%2Frog-strix-b650-a-gaming-wifi-and-m-2-question.3847180%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fforums.tomshardware.com%2Fthreads%2Frog-strix-b650-a-gaming-wifi-and-m-2-question.3847180%2F",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://forums.tomshardware.com/threads/rog-strix-b650-a-gaming-wifi-and-m-2-question.3847180/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "ROG STRIX B650-A GAMING WIFI manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+STRIX+B650-A+GAMING+WIFI+manual&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+STRIX+B650-A+GAMING+WIFI+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "ASUS ROG Strix B650-A Gaming WiFi review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WiFi+review&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WiFi+review"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG STRIX B650-A GAMING WIFI drivers",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+STRIX+B650-A+GAMING+WIFI+drivers&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+STRIX+B650-A+GAMING+WIFI+drivers"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG Strix B650 E GAMING WIFI",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+Strix+B650+E+GAMING+WIFI&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+Strix+B650+E+GAMING+WIFI"
+    },
+    {
+      "block_position": 1,
+      "query": "Asus rog STRIX B650-A GAMING WIFI cpu compatibility",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Asus+rog+STRIX+B650-A+GAMING+WIFI+cpu+compatibility&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Asus+rog+STRIX+B650-A+GAMING+WIFI+cpu+compatibility"
+    },
+    {
+      "block_position": 1,
+      "query": "Asus ROG Strix B650-A gaming WIFI front panel connectors",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Asus+ROG+Strix+B650-A+gaming+WIFI+front+panel+connectors&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Asus+ROG+Strix+B650-A+gaming+WIFI+front+panel+connectors"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG STRIX B650-A GAMING WIFI BIOS update",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+STRIX+B650-A+GAMING+WIFI+BIOS+update&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+STRIX+B650-A+GAMING+WIFI+BIOS+update"
+    },
+    {
+      "block_position": 1,
+      "query": "ROG STRIX B650-A gaming WIFI installation",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=ROG+STRIX+B650-A+gaming+WIFI+installation&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ROG+STRIX+B650-A+gaming+WIFI+installation"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "RAM",
+      "link": "https://www.google.com/search?q=ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhQIARIDUkFNOgsIw53EARDSx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAF6BAgfEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "CPU",
+      "link": "https://www.google.com/search?q=cpu+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhQIARIDQ1BVOgsIw53EARDTx3cwB1iysSBgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAJ6BAgfEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpu+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "ATX",
+      "link": "https://www.google.com/search?q=atx+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhMIARIDQVRYOgoIm58rEKDHKzACWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAN6BAgfEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=atx+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?q=pci+express+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhsIARILUENJIEV4cHJlc3M6Cgjr5ywQ7-csMABYsrEgYAE&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAR6BAgfEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+express+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?q=usb+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhQIARIDVVNCOgsIna07EOjk9wEwAFiysSBgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAV6BAgfEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=usb+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "AMD",
+      "link": "https://www.google.com/search?q=amd+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhMIARIDQU1EOgoImq07EJytOzACWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAZ6BAgfEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Ethernet",
+      "link": "https://www.google.com/search?q=ethernet+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhgIARIIRXRoZXJuZXQ6CgidrTsQoK07MABYsrEgYAE&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAd6BAgfEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ethernet+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?q=asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUAFSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAh6BAgfEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots+sale&gl=us&hl=en&shoprs=CAESBEoCGAEYBipCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhMIBhIHT24gc2FsZRgCIgRKAhgBWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAl6BAgfEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots+sale"
+    },
+    {
+      "query": "128 GB Max RAM",
+      "link": "https://www.google.com/search?q=128+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAESGioYCOi_PRISCQAAAAAAAGBAEQAAAAAAAGBAGAEqQmFzdXMgcm9nIHN0cml4IGI2NTAgYSBnYW1pbmcgd2lmaSBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90czI8CAESDjEyOCBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAABgQBEAAAAAAABgQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAp6BAgfEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=128+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "192 GB Max RAM",
+      "link": "https://www.google.com/search?q=192+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAESGioYCOi_PRISCQAAAAAAAGhAEQAAAAAAAGhAGAEqQmFzdXMgcm9nIHN0cml4IGI2NTAgYSBnYW1pbmcgd2lmaSBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90czI8CAESDjE5MiBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAABoQBEAAAAAAABoQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAt6BAgfEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=192+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Mini ITX",
+      "link": "https://www.google.com/search?q=mini+itx+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhgIARIITWluaSBJVFg6CgibnysQnccrMAJYsrEgYAE&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKAx6BAgfEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mini+itx+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?q=hdmi+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhUIARIESERNSToLCJ2tOxCwmusBMABYsrEgYAE&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKA16BAgfEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hdmi+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "3 GB Max RAM",
+      "link": "https://www.google.com/search?q=3+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAESGioYCOi_PRISCQAAAAAAAARAEQAAAAAAAARAGAEqQmFzdXMgcm9nIHN0cml4IGI2NTAgYSBnYW1pbmcgd2lmaSBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90czI6CAESDDMgR0IgTWF4IFJBTSIaKhgI6L89EhIJAAAAAAAABEARAAAAAAAABEAqAhgBOggI6L89EAAwBliysSBgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKA56BAgfEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?q=ddr+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhMIARIDRERSOgoIsMcrELHHKzAAWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKA96BAgfEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYEipCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBB6BAgfEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "PCI",
+      "link": "https://www.google.com/search?q=pci+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhMIARIDUENJOgoI6-csEO3nLDAAWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBF6BAgfEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pci+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1iysSBgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBJ6BAgfEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "256 GB Max RAM",
+      "link": "https://www.google.com/search?q=256+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAESGioYCOi_PRISCQAAAAAAAHBAEQAAAAAAAHBAGAEqQmFzdXMgcm9nIHN0cml4IGI2NTAgYSBnYW1pbmcgd2lmaSBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90czI8CAESDjI1NiBHQiBNYXggUkFNIhoqGAjovz0SEgkAAAAAAABwQBEAAAAAAABwQCoCGAE6CAjovz0QADAGWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBN6BAgfEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=256+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?q=displayport+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhwIARILRGlzcGxheVBvcnQ6CwidrTsQsZrrATAAWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBR6BAgfEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=displayport+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Micro ATX",
+      "link": "https://www.google.com/search?q=micro+atx+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhkIARIJTWljcm8gQVRYOgoIm58rEJ7HKzACWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBV6BAgfEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=micro+atx+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "CPUs",
+      "link": "https://www.google.com/search?q=cpus+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYCSpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMggICRIEQ1BVc2AB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBZ6BAgfEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cpus+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYEipCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBd6BAgfEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYEipCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBh6BAgfEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "64 GB Max RAM",
+      "link": "https://www.google.com/search?q=64+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAESGioYCOi_PRISCQAAAAAAAFBAEQAAAAAAAFBAGAEqQmFzdXMgcm9nIHN0cml4IGI2NTAgYSBnYW1pbmcgd2lmaSBtb3RoZXJib2FyZCBtb3RoZXJib2FyZCBtMiBzbG90czI7CAESDTY0IEdCIE1heCBSQU0iGioYCOi_PRISCQAAAAAAAFBAEQAAAAAAAFBAKgIYAToICOi_PRAAMAZYsrEgYAE&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBl6BAgfEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64+gb+max+ram+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?q=gray+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots&gl=us&hl=en&shoprs=CAEYASpCYXN1cyByb2cgc3RyaXggYjY1MCBhIGdhbWluZyB3aWZpIG1vdGhlcmJvYXJkIG1vdGhlcmJvYXJkIG0yIHNsb3RzMhYIARIER3JheToMCNiM9QEQ6or1ATALWLKxIGAB&sa=X&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQip4GKBp6BAgfEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+asus+rog+strix+b650+a+gaming+wifi+motherboard+motherboard+m2+slots"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=10&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8NMDegQIchAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=10&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAE",
+      "3": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=20&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAG",
+      "4": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=30&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAI",
+      "5": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=40&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAK",
+      "6": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=50&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAM",
+      "7": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=60&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAO",
+      "8": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=70&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAQ",
+      "9": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=80&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAS",
+      "10": "https://www.google.com/search?q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=g3pfasK4JZfUruEP1pbzkQg&start=90&sa=N&sstk=AU9db-AJ7BUj2aqpmBk3xA5TKKvROPLVqLSPsfrzI32yXUh9HQBqbeY9CAO9AMguM6HTUN86hjl-W0mAKl6gJedogZyrocevujEOdQ&ved=2ahUKEwiChquZ9uOVAxUXqisGHVbLPIIQ8tMDegQIchAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ASUS+ROG+Strix+B650-A+Gaming+WIFI+Motherboard+motherboard+m2+slots&start=90"
+    }
+  }
+}

@@ -1,0 +1,730 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b16f607a9ea3991d3bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vdH6m0RoMb0C4aMYfrXMOg/6a5f7b16f607a9ea3991d3bd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/vdH6m0RoMb0C4aMYfrXMOg/6a5f7b16f607a9ea3991d3bd.json_with_pixel_position",
+    "created_at": "2026-07-21 13:58:46 UTC",
+    "processed_at": "2026-07-21 13:58:46 UTC",
+    "google_url": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&oq=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/vdH6m0RoMb0C4aMYfrXMOg/6a5f7b16f607a9ea3991d3bd.html",
+    "total_time_taken": 1.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Kingston FURY Beast 64GB DDR5 6000MT/s CL36 DIMM Memory storage endurance_tbw form_factor interface protocol sequential_read_mb_s sequential_write_mb_s",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Kingston FURY Beast 64GB DDR5 6000MT/s CL36 DIMM Memory storage endurance_tbw form_factor interface protocol sequential_read_mb_s sequential_write_mb_s",
+    "total_results": 460,
+    "time_taken_displayed": 0.65,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV8kgqQtgOqWfC-vr8Z186N8.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Kingston DDR5 FURY Beast",
+      "rating": 5.0,
+      "reviews": 30,
+      "price": "$1,327.99",
+      "extracted_price": 1327.99,
+      "immersive_product_page_token": "dV8XLnicdVDLjqNGFJXyDfmFrFBLVQVVwOza5mG7B9y8ClMbC1PYYJ4NuMFW_iHrbD0zkSbLmUjZ5jc6XxPSq2yyuzrn3HvPOb_c0_xPox6OcXsNtgcT5A-nZ3R5WBBn_Np2Db8kQ86_K5JMAJIgUQmRMBKJKn5N4iEum1PO_4AIIVkGACoKQkACUMTqtyyNeZnX6fZ4TDutSd51KoYyxljFsoiQBERF-T2v4lP6zn9XoKTOR5AkQoiJIssQfOp4_yY9L_dQwhIhCBEs_6vCmMjSz8_uVtv_D_nl5ZJ217dfn_L61A9NLRiBGwmLNO4HgUjmQtA0FwsEAGD5PyGjF5YfRSJoa8sSrLRquqswb3WzNyGt-aWL6yTdD4dRODZdtT_GyUwKeT2k3TynwlzV0CRNKfTp_Lce8rjcd3MD--qw7_8Ljl0-pO_ol1M7h_6mQhnOzYpYnIc5_Jy5mmEsE4kgRZVVAhQFEEw-ta_DPTt9vlzK9K_7qbxf-ntW3tP6tyZuX4_J3z_8qDejtuzHpRO0LdVc4EG34GByU12NDiu7DEtVpEExRAFcbimrvcoFcVhM7iq5sgoufT_B4Y5OBzNjMZjWgc6lw8p4iSitWHECvHKfI7G5-udHGFGmxaEhMRphVmZn7tObU5dDBNpXq2BnF7GY34wwge1Tak4jh4blwo3JwtLwb9H1IGYZ1w0pLZju6SeUmNa4DTeGbaiEVwYODfdMi2LwysVTGrg9A9hlhlpHcHGhUJW828axUJlZIXMoSkTrtrgkOZi2Pu_CFaXbXdYdzA1IQtzFYiTZFSPUUCcbwO0OTS_-ilYUOCPzZ_8m3tFyEzJdlRxU1rTgLx9DByUA3vzANef8lofWKKhw4OrcjH0butXQ-v5mTM7RLdo5E9XVp7jqgR8YTVgMhQ8Gj1IHcLrYxBrXXZPW0dmVLA-gYJcZiTnYqQljtgqmuM6WoQ5xFDqeAdiFmyxLViX10WZlmcXA4OOVe3Bpl4Zo5puFu7Kv25D5FrKvXjCdY422dr2e7GAAsQcZD40o3XHINOp-nvru-AYeDTx4W6KPbBLtnD9M9hle12c0ZC_2zVpwZ_wAZUUiEhKRTKDyDxpbXTU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dV8XLnicdVDLjqNGFJXyDfmFrFBLVQVVwOza5mG7B9y8ClMbC1PYYJ4NuMFW_iHrbD0zkSbLmUjZ5jc6XxPSq2yyuzrn3HvPOb_c0_xPox6OcXsNtgcT5A-nZ3R5WBBn_Np2Db8kQ86_K5JMAJIgUQmRMBKJKn5N4iEum1PO_4AIIVkGACoKQkACUMTqtyyNeZnX6fZ4TDutSd51KoYyxljFsoiQBERF-T2v4lP6zn9XoKTOR5AkQoiJIssQfOp4_yY9L_dQwhIhCBEs_6vCmMjSz8_uVtv_D_nl5ZJ217dfn_L61A9NLRiBGwmLNO4HgUjmQtA0FwsEAGD5PyGjF5YfRSJoa8sSrLRquqswb3WzNyGt-aWL6yTdD4dRODZdtT_GyUwKeT2k3TynwlzV0CRNKfTp_Lce8rjcd3MD--qw7_8Ljl0-pO_ol1M7h_6mQhnOzYpYnIc5_Jy5mmEsE4kgRZVVAhQFEEw-ta_DPTt9vlzK9K_7qbxf-ntW3tP6tyZuX4_J3z_8qDejtuzHpRO0LdVc4EG34GByU12NDiu7DEtVpEExRAFcbimrvcoFcVhM7iq5sgoufT_B4Y5OBzNjMZjWgc6lw8p4iSitWHECvHKfI7G5-udHGFGmxaEhMRphVmZn7tObU5dDBNpXq2BnF7GY34wwge1Tak4jh4blwo3JwtLwb9H1IGYZ1w0pLZju6SeUmNa4DTeGbaiEVwYODfdMi2LwysVTGrg9A9hlhlpHcHGhUJW828axUJlZIXMoSkTrtrgkOZi2Pu_CFaXbXdYdzA1IQtzFYiTZFSPUUCcbwO0OTS_-ilYUOCPzZ_8m3tFyEzJdlRxU1rTgLx9DByUA3vzANef8lofWKKhw4OrcjH0butXQ-v5mTM7RLdo5E9XVp7jqgR8YTVgMhQ8Gj1IHcLrYxBrXXZPW0dmVLA-gYJcZiTnYqQljtgqmuM6WoQ5xFDqeAdiFmyxLViX10WZlmcXA4OOVe3Bpl4Zo5puFu7Kv25D5FrKvXjCdY422dr2e7GAAsQcZD40o3XHINOp-nvru-AYeDTx4W6KPbBLtnD9M9hle12c0ZC_2zVpwZ_wAZUUiEhKRTKDyDxpbXTU"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaVxjGCsIu-GErViaswizl-co.webp",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT-KuCtx0HuJx7CnYT653AOQIRoMbkJFC1mLaYbOkfZOcjIDsnJRsIIoPy6Mxshu12YZeITC-KG1f52r-0jh1Jn-yAmyLsjrH88hQy7rcjxHw",
+      "source": "Digitizer Global",
+      "title": "64GB 6000MT/S DDR5 CL36 DIMM KIT OF 2 FURY BEAST WHITE EXPO",
+      "rating": 4.8,
+      "reviews": 373,
+      "price": "$211.44",
+      "extracted_price": 211.44,
+      "immersive_product_page_token": "c2tAlnicdZDLrqNGFEWVj8kItVQUD5vMrnnabeCCqeKaiQVU8TDFw1C-Nlb-IePMWu7uSJ1hFCnT_MaN8jFxR4qUQTI5OtpLW2ef_cOd1r9ZHS_SYUZ-ZoP6XfkMz-9WanD5Mow9Oee8Jr-KkqpKQISyIgEZLFRVk7QvecpT1pc1-fBLRVPC6o76RUFHo8__x_Jz3aYl_YcvFKiJYAFFWVZkAMFS-ziS6Q0-64eFpC0XS6AoylIRVU3UNPD9c-gbh_9mn09nOs5vP76vu3LifSdYKNwLK5pOXFBleyUYRqgIKgDAjb6F1iToW0kVjLXrCi5t-3EWHq7xEU2gHTmPaZfTA88uQtGP7aFI8wcU6o7T8bFT4VEL7_OeCRN93O14nbLD-Cjg0GaH6d_iZaw5_Vv9XA6Pnz98bL-O4ZXfq_LT-czo7_eS3c_TvWJ32v3Up8Nrkf_xzZ_mea3rp7UeoGHARgh2oslzpOBsFn0EFT-UKj3EFdhh1uBZfI4bT_Zi8ZTaFkOOJ_s2qwj2pNCsNlskVkkzgTweXvANN8ioemJXYM_6m-sQx4u5EhleQu1hmzeynJhISp0w8sT1FUHmUnRltJHFoNlwijjax9oFO2FI2msTYDIimCjhbRMQ4ME0ZpMnDg1-YesMEyOzTZjCzTG3r6vkSJjXJAhFOERMeyXHXM6cQEbxxgpNE-5uyfudee0QI17ohDFuLIkeN1XusJga6xu6WSiATM87PMVt2CUWiwNgzcj0bNIOJ9RaQ4QZC22iJ2ZwIYY1ug3b-xjv9-L6kjZWS8xJcuNqjqRqlwKsY9PlmZN03jEZs27lBog3W7zkxFTaDJpzGuc7CyRnYidfc-AIbhzXbngiPs1kJ-oesyS73qxCx5v9OAmDl6dLIg3jo_lX32xgZLmX6Lja4aic02N1co_e6tN1Gos38GQpfOcvWIEnSKkal0qqbZ9L1i8LtZD9QLl8Jy6WsipDCS5UUfsLZSpBwg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=c2tAlnicdZDLrqNGFEWVj8kItVQUD5vMrnnabeCCqeKaiQVU8TDFw1C-Nlb-IePMWu7uSJ1hFCnT_MaN8jFxR4qUQTI5OtpLW2ef_cOd1r9ZHS_SYUZ-ZoP6XfkMz-9WanD5Mow9Oee8Jr-KkqpKQISyIgEZLFRVk7QvecpT1pc1-fBLRVPC6o76RUFHo8__x_Jz3aYl_YcvFKiJYAFFWVZkAMFS-ziS6Q0-64eFpC0XS6AoylIRVU3UNPD9c-gbh_9mn09nOs5vP76vu3LifSdYKNwLK5pOXFBleyUYRqgIKgDAjb6F1iToW0kVjLXrCi5t-3EWHq7xEU2gHTmPaZfTA88uQtGP7aFI8wcU6o7T8bFT4VEL7_OeCRN93O14nbLD-Cjg0GaH6d_iZaw5_Vv9XA6Pnz98bL-O4ZXfq_LT-czo7_eS3c_TvWJ32v3Up8Nrkf_xzZ_mea3rp7UeoGHARgh2oslzpOBsFn0EFT-UKj3EFdhh1uBZfI4bT_Zi8ZTaFkOOJ_s2qwj2pNCsNlskVkkzgTweXvANN8ioemJXYM_6m-sQx4u5EhleQu1hmzeynJhISp0w8sT1FUHmUnRltJHFoNlwijjax9oFO2FI2msTYDIimCjhbRMQ4ME0ZpMnDg1-YesMEyOzTZjCzTG3r6vkSJjXJAhFOERMeyXHXM6cQEbxxgpNE-5uyfudee0QI17ohDFuLIkeN1XusJga6xu6WSiATM87PMVt2CUWiwNgzcj0bNIOJ9RaQ4QZC22iJ2ZwIYY1ug3b-xjv9-L6kjZWS8xJcuNqjqRqlwKsY9PlmZN03jEZs27lBog3W7zkxFTaDJpzGuc7CyRnYidfc-AIbhzXbngiPs1kJ-oesyS73qxCx5v9OAmDl6dLIg3jo_lX32xgZLmX6Lja4aic02N1co_e6tN1Gos38GQpfOcvWIEnSKkal0qqbZ9L1i8LtZD9QLl8Jy6WsipDCS5UUfsLZSpBwg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV29w6gF31UV54aYyjFmnUZE.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACeUlEQVRYhe3XTajMYRTH8c-9F9fL3_s7C00UJUQhFEmyIFakrGRFKaGxI6xMIW-Jpb2VIt1icxEL5SUUmvIWpYi5wmAsnufP35gZI7LQnHqa-Z95zjnf__OcqfNrU8dK-VwbpmAFpmNAvb34jCe4ENdwbMRrnMG9pFD8UiuwrU7xTqzHVkxEe4PiWXuLs9iNSTiOMg7hZFIovvslQCmfa8e2mKRfk4Wr7QrWYSmORt8-7EkKxXJ2Y68awfOwPVP8KbriZyUDnj2VvpiDuTFnmmNXBFmIzejG-V8BrMWo-P2-cBU3o68jFn6D59l7LeVzQ7EXmyLgKuHoz0WAwVhbyue6snE_3G0pn0swM-M6gQc4hUtxHcKYauqkUHyF_XgYXaMxGXeEJoVpGNToBPr43u1l3MYsLEdvockOJoXi9WqAaM_xSGjAXhiCZxGgI-buzAbU6u60MSv4EqHSfQ9xrU5xcf_nzHM7PmZ8PzV9s3-v1Er48JsxlUY__i7AX7cWQAugBdACaAG0AP47gJpT9r8E6I8RfwrQaIBo1_gtZwvjWJrnQ1WNn3JXz4RlpOKhA4mgbsrxeTzGCtPyN4sqaga2xKLvhUn6sjBPpiN-j6qJ6ocTSArFt7iRAZgqzIHPom8CtpbyuWHVb4IXEWA-FmA1Rgpjemo3hJH-m9VSRotwWtB33cJ8vwP5uOUTrgrqpyfmqGRWmncclkVowkmuSQrFrmy9WsKkGwewU1A6q3FYuN_FMWZBXM1aGUdwsfqHeuK0LzYI4rRTOMa7gtRaiYFNFq7gcSx-PCkUe5oCiBCpPF-JYTiGl1giiM7xjeIFPXBbkOe36snzr7EWnTZtk0_qAAAAAElFTkSuQmCC.png",
+      "source": "Pondesk",
+      "title": "Kingston Fury Beast 64GB DDR5 Memory",
+      "rating": 4.8,
+      "reviews": 34,
+      "price": "$489.99",
+      "extracted_price": 489.99,
+      "original_price": "Usually $1,060",
+      "extracted_original_price": 1060,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "EqRwIHicbVDLjqNGFFU-Jis0Uj0oMNk1xtiNDbSLqsJmY9EUBpqXG0P7ofmHrLOL3DORZpYzI2Wb3-h8SZYhs8piNldX5-iex_31lhZ_2k2_jw8X7j_OQfEue0DDO1Nbnz4dulYOSV_ILwYkmk4MrAFogAnAE_wpifu4arNCfjU0rBGAJroOEdTRBAP8JU9jWRVN6u_3aWe1SSG_QUSwphKiA6BjFUJg6Ornoo6z9Dv_VUeqpkPDgIAYiBiTUee1k8c39DDdqUhFOtaBNsH6ODGC6P0D9a3dj7mPz0PaXd5-WxZNduzbRrE53SpmGh97RVPnpmJZlCgaAMBlPyP7qExXWFOse9dV3LRuu4syXnVjMiVt5NDFTZLu-seTsm-7erePk5FUiqZPu3FPlfFNfZu0lXJMR9-mL-Jq1439d_Xj7vh_8NQVffod_Zgd_qv8g-ivdSF_fz289Lc8-zAMVfrXLatuw_GWV7e0-aONDy_75O-f_pm9JNNpl0zX_HAQFgUBNrfMrqKgPEQxz4ckjAJR588cypZZdCVs03ZRhtLQcQRL1LDO3bAyEEUSJbbjMrs8bwHHARMzFh5CCg0uSs9jVyd0gfPszRy6hvnFn-Wlx8_3j424SiYq1xJntxYF43LJZh7ywpaskXMVc2_JOHnZYNGFT2ZMp5Czq6hEeW6ksM-hfUAeEitW5UM8M6x1Y95vN4J6wpuzTUYEd3jIc0IZNWWzVrdAVqOHH1wjP3qikVsaJK7pTAKyGFUXaU0XLjrXLnN8D1K4xUJzF3d4zel1zXvNn-fCn0nOFzbZstk5EcLhT1GzCvue1RHxbCNI5ucyLmAeVJPTI7Nbr47KeApP_lwEobC3LuSYswSshLfkGzmkzLT9GVyuS9luQAuZ5dQydFEgqMZ4v5IsC2wQDXIe5cmiEgw5C3de9hG8u8gATr3KxvPCMenCu_hhxH1re6JXwb1QknjhLRN0xGxjnhJcErGQgoKo-XA-dvs3cGeTPvD1ai-OKE21MCOxsXrIqnay1_aqvyanX6A-UTUVYaRr0PgX8OlONw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EqRwIHicbVDLjqNGFFU-Jis0Uj0oMNk1xtiNDbSLqsJmY9EUBpqXG0P7ofmHrLOL3DORZpYzI2Wb3-h8SZYhs8piNldX5-iex_31lhZ_2k2_jw8X7j_OQfEue0DDO1Nbnz4dulYOSV_ILwYkmk4MrAFogAnAE_wpifu4arNCfjU0rBGAJroOEdTRBAP8JU9jWRVN6u_3aWe1SSG_QUSwphKiA6BjFUJg6Ornoo6z9Dv_VUeqpkPDgIAYiBiTUee1k8c39DDdqUhFOtaBNsH6ODGC6P0D9a3dj7mPz0PaXd5-WxZNduzbRrE53SpmGh97RVPnpmJZlCgaAMBlPyP7qExXWFOse9dV3LRuu4syXnVjMiVt5NDFTZLu-seTsm-7erePk5FUiqZPu3FPlfFNfZu0lXJMR9-mL-Jq1439d_Xj7vh_8NQVffod_Zgd_qv8g-ivdSF_fz289Lc8-zAMVfrXLatuw_GWV7e0-aONDy_75O-f_pm9JNNpl0zX_HAQFgUBNrfMrqKgPEQxz4ckjAJR588cypZZdCVs03ZRhtLQcQRL1LDO3bAyEEUSJbbjMrs8bwHHARMzFh5CCg0uSs9jVyd0gfPszRy6hvnFn-Wlx8_3j424SiYq1xJntxYF43LJZh7ywpaskXMVc2_JOHnZYNGFT2ZMp5Czq6hEeW6ksM-hfUAeEitW5UM8M6x1Y95vN4J6wpuzTUYEd3jIc0IZNWWzVrdAVqOHH1wjP3qikVsaJK7pTAKyGFUXaU0XLjrXLnN8D1K4xUJzF3d4zel1zXvNn-fCn0nOFzbZstk5EcLhT1GzCvue1RHxbCNI5ucyLmAeVJPTI7Nbr47KeApP_lwEobC3LuSYswSshLfkGzmkzLT9GVyuS9luQAuZ5dQydFEgqMZ4v5IsC2wQDXIe5cmiEgw5C3de9hG8u8gATr3KxvPCMenCu_hhxH1re6JXwb1QknjhLRN0xGxjnhJcErGQgoKo-XA-dvs3cGeTPvD1ai-OKE21MCOxsXrIqnay1_aqvyanX6A-UTUVYaRr0PgX8OlONw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV8ojeExTshhpi9PQunyKvSA.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Kingston FURY Beast 64GB DDR5 6000MT/S CL36 Memory Kit",
+      "rating": 4.8,
+      "reviews": 163,
+      "price": "$1,299.99",
+      "extracted_price": 1299.99,
+      "immersive_product_page_token": "wtwiRnicbVJLjttGEAVyhlwhK8JAd5NNid6NxI-kGVLDFtkt9Uag2E2RUvNjkhp9kDtkna3GDuAsHQPZ5hqT04T2KgtvCoX3UFWvXtVvd1n87VZ9ljTXeLnzQPFu_4xO7yZmeP7ctLU4pX0h_oImMC0EgK7r0BwZY2Siz2nSJ6reF-IrhBiYxhgiy4KmhRGCI_1LLhOhikous0y2dp0OXUxkjDC2RkMDE40htnT9z6JM9vI7_RViqEMwgAjpY4BMaOn4tRXdG3qebpEOdQtACJGuj4ZoAvzrM1na2x9znz6cZHt9-_2xqPZdX1eaG5ONNpFJ12um4U002yZYMwEAfvQLcjtt-qSbmj33fc2XZd1etaGqHaRpshKnNqlSue13Zy2r23KbJelAakXVy3bIpTYY1ddprbRODnOrvkjUth3235a7bfd_8NwWvfyOfto33yz5gfTXshBf8Mg0Bo-sMR6PgDEyIX5tXvp7vv94Oin5z32v7qfunqu7rP6ok-YlS__96WenPtvT7jwN46ahNgGR16zDst9sbopwDy_jQ05Wx9SI9RhFJc65LRgvxVqWwhG6iiIagrCsb7xseFD6l52nDgKQBbUXeQKUvYqBHpa8jhh3WWlNZTk_B4xOudP3IXKHiX0RuzlnsfW4KpuX3ay5cpd_2EW0XtohTFnwTFg-CYB7TmP8whwLSPpw9XWFAjcHtDze-JHmm0jEicovASNrEbtQOg7mHm93ZQqZa9FQxZDGFycA-Omb5s1tbqSOOK8gOfiAXoJSZRxQn67JRB5UzsqcrpQ7fWI8D5jlhVFOKRT5htEqKF0k1AQFQK0jx0oSAC_sKCbx8TInHqnoQSTSJhOq5oC5dJ3SYJEeiEOYOCY2eaQMdky5PY1EsJwRl9oOJuu5sUKLA_O4kRyUHqxFxKvgxo54wYFvxFcIN8NddghO01nax-uJEQHnRkC4cgE_CY_n6UzRCC1mvnfsOXy4ihWcBsrVvWIxIbPgumQ8Ijp3ooiESeV2G9Yb0ltkhPX-E20WxHNAMuPk46Vrszfw4OJ-tRypjHZISpPtcWI9Pe9VPc7MzFiG-PwejsaGaSAdDd9m_Qdam1wd",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wtwiRnicbVJLjttGEAVyhlwhK8JAd5NNid6NxI-kGVLDFtkt9Uag2E2RUvNjkhp9kDtkna3GDuAsHQPZ5hqT04T2KgtvCoX3UFWvXtVvd1n87VZ9ljTXeLnzQPFu_4xO7yZmeP7ctLU4pX0h_oImMC0EgK7r0BwZY2Siz2nSJ6reF-IrhBiYxhgiy4KmhRGCI_1LLhOhikous0y2dp0OXUxkjDC2RkMDE40htnT9z6JM9vI7_RViqEMwgAjpY4BMaOn4tRXdG3qebpEOdQtACJGuj4ZoAvzrM1na2x9znz6cZHt9-_2xqPZdX1eaG5ONNpFJ12um4U002yZYMwEAfvQLcjtt-qSbmj33fc2XZd1etaGqHaRpshKnNqlSue13Zy2r23KbJelAakXVy3bIpTYY1ddprbRODnOrvkjUth3235a7bfd_8NwWvfyOfto33yz5gfTXshBf8Mg0Bo-sMR6PgDEyIX5tXvp7vv94Oin5z32v7qfunqu7rP6ok-YlS__96WenPtvT7jwN46ahNgGR16zDst9sbopwDy_jQ05Wx9SI9RhFJc65LRgvxVqWwhG6iiIagrCsb7xseFD6l52nDgKQBbUXeQKUvYqBHpa8jhh3WWlNZTk_B4xOudP3IXKHiX0RuzlnsfW4KpuX3ay5cpd_2EW0XtohTFnwTFg-CYB7TmP8whwLSPpw9XWFAjcHtDze-JHmm0jEicovASNrEbtQOg7mHm93ZQqZa9FQxZDGFycA-Omb5s1tbqSOOK8gOfiAXoJSZRxQn67JRB5UzsqcrpQ7fWI8D5jlhVFOKRT5htEqKF0k1AQFQK0jx0oSAC_sKCbx8TInHqnoQSTSJhOq5oC5dJ3SYJEeiEOYOCY2eaQMdky5PY1EsJwRl9oOJuu5sUKLA_O4kRyUHqxFxKvgxo54wYFvxFcIN8NddghO01nax-uJEQHnRkC4cgE_CY_n6UzRCC1mvnfsOXy4ihWcBsrVvWIxIbPgumQ8Ijp3ooiESeV2G9Yb0ltkhPX-E20WxHNAMuPk46Vrszfw4OJ-tRypjHZISpPtcWI9Pe9VPc7MzFiG-PwejsaGaSAdDd9m_Qdam1wd"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV5rFx9jHkXTCTcN2U2EQ7Ws.webp",
+      "source_logo": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaVzLogBqXb0i_DSE0FSTAmIp-sHfw33BpWMtNMeSGaGXm.png",
+      "source": "Newegg.com",
+      "title": "Kingston FURY Beast 64GB DDR5 6000MT/s CL36 DIMM Memory",
+      "rating": 4.8,
+      "reviews": 543,
+      "price": "$1,327.99",
+      "extracted_price": 1327.99,
+      "original_price": "$1,400",
+      "extracted_original_price": 1400,
+      "delivery": "Free delivery",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "NkHSqnicdVPLrqNGFFQ-Jis0Uj9oHtmNjcHja8A00NhsLAyNIbSBC_iF8g9ZZxf5zow0s8xEyja_cfMlWYbcVTbZHVWdqlMq6fz84OUfZj3kSXsP3YMFynfHDTq_myne9UvbNdk5HcrsG5EJUKGCia5pKlRlrMtf0mRIRHMss9-hhomsyUhXoCYTqAEFqr8VPMlEWXM3z3lnNOm_e0TB04ZCJgeEVAUgDL6Wp-TI3_hvOtCxoqpYQypCClJlGb90Wf8qb-Z7iBEAQJOxoiGCiD5lUH_aUNfY_w_56fnMu_vrL09lfeyHppbMkO6kGU_6QVJkayYZBiWSMuns4Htk9tJ8jRXJ-GDbks1PTXeXJlU3ZZN4nZ27pE75fjhcpbzpTvs8SSdSKuuBd9PMpamqoUkbIfV8ulsPZSL23dTA_nTY9_8Fr1058Df007F9KwViqCNEVBVoSFM1HUDl5VRmv760l-FRHD-ez4L_-TiKx7l_FOLB689N0l7y9K_v_l5c0vm8S-de2LbMoCBYrvpsLC6Bkd245eRRYDZOJLZ80ZIdW91ZMGucH20ULYqYRbenBBW7g2WT2HTM9VbkvshQJLK5LeiMwZXDAls-nGh7OLWlD3rkb4urb7HWtVbFATGaGkUTAhNwg7ZO1fZeUKB0pNdkDskuLMZdBRNvZJiCBtBKJ_YytlJGvRAtxsMYO75RoHUY28E4u7C6InxRfPAt2oRjSrg1WLSa_GC8Yoiu_Wg38pNT2sh0KaRlsnUWblTBAMb3LdBFFJEoXtzclLWWazh2AKDjblkem_FztBDPPtCfPJxtwpEWGQuRX8_CHYJP6WgOOxEndqQvt7gi8am6hxErJ82KV9fRqczEqwbMouIUi5bGYeu726xOLIJS01kxYIqkyra7inVhbW58zHY8hHJkmIVX2XIYLnwTxOfMiot0KViAVkvbqoYYvr9nPpw7wsRWuZrRpXN3ozig4wq6JjNdVniHkIoph5VFtzxAR-KGV8wsHX-89V3-Ct6bZPBdVeSsR5wr0ZEk-npzFI2WK7nseuT6A1Snf5MRnr4N6v8A_hlRlg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NkHSqnicdVPLrqNGFFQ-Jis0Uj9oHtmNjcHja8A00NhsLAyNIbSBC_iF8g9ZZxf5zow0s8xEyja_cfMlWYbcVTbZHVWdqlMq6fz84OUfZj3kSXsP3YMFynfHDTq_myne9UvbNdk5HcrsG5EJUKGCia5pKlRlrMtf0mRIRHMss9-hhomsyUhXoCYTqAEFqr8VPMlEWXM3z3lnNOm_e0TB04ZCJgeEVAUgDL6Wp-TI3_hvOtCxoqpYQypCClJlGb90Wf8qb-Z7iBEAQJOxoiGCiD5lUH_aUNfY_w_56fnMu_vrL09lfeyHppbMkO6kGU_6QVJkayYZBiWSMuns4Htk9tJ8jRXJ-GDbks1PTXeXJlU3ZZN4nZ27pE75fjhcpbzpTvs8SSdSKuuBd9PMpamqoUkbIfV8ulsPZSL23dTA_nTY9_8Fr1058Df007F9KwViqCNEVBVoSFM1HUDl5VRmv760l-FRHD-ez4L_-TiKx7l_FOLB689N0l7y9K_v_l5c0vm8S-de2LbMoCBYrvpsLC6Bkd245eRRYDZOJLZ80ZIdW91ZMGucH20ULYqYRbenBBW7g2WT2HTM9VbkvshQJLK5LeiMwZXDAls-nGh7OLWlD3rkb4urb7HWtVbFATGaGkUTAhNwg7ZO1fZeUKB0pNdkDskuLMZdBRNvZJiCBtBKJ_YytlJGvRAtxsMYO75RoHUY28E4u7C6InxRfPAt2oRjSrg1WLSa_GC8Yoiu_Wg38pNT2sh0KaRlsnUWblTBAMb3LdBFFJEoXtzclLWWazh2AKDjblkem_FztBDPPtCfPJxtwpEWGQuRX8_CHYJP6WgOOxEndqQvt7gi8am6hxErJ82KV9fRqczEqwbMouIUi5bGYeu726xOLIJS01kxYIqkyra7inVhbW58zHY8hHJkmIVX2XIYLnwTxOfMiot0KViAVkvbqoYYvr9nPpw7wsRWuZrRpXN3ozig4wq6JjNdVniHkIoph5VFtzxAR-KGV8wsHX-89V3-Ct6bZPBdVeSsR5wr0ZEk-npzFI2WK7nseuT6A1Snf5MRnr4N6v8A_hlRlg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV_lEhiJBvZ69SX3x6TBC9aU.webp",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT-KuCtx0HuJx7CnYT653AOQIRoMbkJFC1mLaYbOkfZOcjIDsnJRsIIoPy6Mxshu12YZeITC-KG1f52r-0jh1Jn-yAmyLsjrH88hQy7rcjxHw",
+      "source": "Digitizer Global",
+      "title": "Kingston FURY Beast 64GB (2 x 32GB) DDR5 SDRAM Memory Kit - For Comput",
+      "rating": 4.8,
+      "reviews": 1100,
+      "price": "$211.74",
+      "extracted_price": 211.74,
+      "immersive_product_page_token": "GUVyhHicbVDLrqNGFFQ-Jis0UnfzsJ3dxdDYXIOvG2geGwvTzcM8B_DFtuYfss5u5JmJNFkmi2zzGzfKx4Qkmyxmc1SqUqlO1Y8PXvyOmzGNu5u3PxmgeJe9oMs7VTlMX7u-ZZdkLNhvy-UKLqTVQoISWIKVqIjwaxKPcdVmBfv4a85jVhUN36cp77U2-bbjl6KOM_6fvJAWUFaWi4WCEBDhUpHRp54Nb-BlfZyNEElQlMUZwCWC4MML2WvHb0pf3l94f3v76blosmFsGwF7JBRUHg-joEiGKmgakQUFAGC53yM8COudqAja1rIEi9dtfxNmVz__JfCGXfq4SfhxPE1C2vb1MY2TWRSKZuT9jLkwLzK2SVsJA59zm7GIq2M_lz_Wp-Pwf3Lqi5H_y37Jurnwx0_1P6d7HR959vlyqfgfj6x6XIZHXj1483Mbd69p8ud3f-mX7Xr9frs-eF1HNQKcu9kysXtmQSJZotqGCFsW6iYC84lX2KGG6VJX3TFvhcNztQ3uuU7KELkUn8NABY6eTZwS39HU3NHMwEYHZHk55p4HIspsojHZqSs9CuzRK839LkiuFHii7Zs7eoPeCUArBN2entU-QPbkBEykICrphgSkxueTTg78bK_dgKUWxF2ITEhELNs-CalLdrYuQ6-WU65jyw1waa3hlZ5Nx7rnRuwTeHLzkZWja9-ZwnBUW03l7I3VEGO2TfzVGN4gJSVJParuk2p7S9BhDCHu7ZpO8xbl4a7aJ0wJ1c1XDz4BUpvEddXQ8S3Zd1WLn02c-HlnUQqplpfMqHAs5mFYVxItV-3pXFlhnV_jTR7aZ7p1DHPrU_xMNomDQXRhRpQnm4q6yNxYRjlG8OnGHLi2KywahamSjX3b-5FHyxERvbMjQKcoUK8nwMTEIBtXB6IrtiABkfr5OvTpG3jC8ujsF1VKB8S54mdyvNq9ZFW7TJVU2h_k6Qe4WEqKhES0UODqbwo3PDA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GUVyhHicbVDLrqNGFFQ-Jis0UnfzsJ3dxdDYXIOvG2geGwvTzcM8B_DFtuYfss5u5JmJNFkmi2zzGzfKx4Qkmyxmc1SqUqlO1Y8PXvyOmzGNu5u3PxmgeJe9oMs7VTlMX7u-ZZdkLNhvy-UKLqTVQoISWIKVqIjwaxKPcdVmBfv4a85jVhUN36cp77U2-bbjl6KOM_6fvJAWUFaWi4WCEBDhUpHRp54Nb-BlfZyNEElQlMUZwCWC4MML2WvHb0pf3l94f3v76blosmFsGwF7JBRUHg-joEiGKmgakQUFAGC53yM8COudqAja1rIEi9dtfxNmVz__JfCGXfq4SfhxPE1C2vb1MY2TWRSKZuT9jLkwLzK2SVsJA59zm7GIq2M_lz_Wp-Pwf3Lqi5H_y37Jurnwx0_1P6d7HR959vlyqfgfj6x6XIZHXj1483Mbd69p8ud3f-mX7Xr9frs-eF1HNQKcu9kysXtmQSJZotqGCFsW6iYC84lX2KGG6VJX3TFvhcNztQ3uuU7KELkUn8NABY6eTZwS39HU3NHMwEYHZHk55p4HIspsojHZqSs9CuzRK839LkiuFHii7Zs7eoPeCUArBN2entU-QPbkBEykICrphgSkxueTTg78bK_dgKUWxF2ITEhELNs-CalLdrYuQ6-WU65jyw1waa3hlZ5Nx7rnRuwTeHLzkZWja9-ZwnBUW03l7I3VEGO2TfzVGN4gJSVJParuk2p7S9BhDCHu7ZpO8xbl4a7aJ0wJ1c1XDz4BUpvEddXQ8S3Zd1WLn02c-HlnUQqplpfMqHAs5mFYVxItV-3pXFlhnV_jTR7aZ7p1DHPrU_xMNomDQXRhRpQnm4q6yNxYRjlG8OnGHLi2KywahamSjX3b-5FHyxERvbMjQKcoUK8nwMTEIBtXB6IrtiABkfr5OvTpG3jC8ujsF1VKB8S54mdyvNq9ZFW7TJVU2h_k6Qe4WEqKhES0UODqbwo3PDA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV0ejPIyHloR1gQDpbZIWksQ.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACeUlEQVRYhe3XTajMYRTH8c-9F9fL3_s7C00UJUQhFEmyIFakrGRFKaGxI6xMIW-Jpb2VIt1icxEL5SUUmvIWpYi5wmAsnufP35gZI7LQnHqa-Z95zjnf__OcqfNrU8dK-VwbpmAFpmNAvb34jCe4ENdwbMRrnMG9pFD8UiuwrU7xTqzHVkxEe4PiWXuLs9iNSTiOMg7hZFIovvslQCmfa8e2mKRfk4Wr7QrWYSmORt8-7EkKxXJ2Y68awfOwPVP8KbriZyUDnj2VvpiDuTFnmmNXBFmIzejG-V8BrMWo-P2-cBU3o68jFn6D59l7LeVzQ7EXmyLgKuHoz0WAwVhbyue6snE_3G0pn0swM-M6gQc4hUtxHcKYauqkUHyF_XgYXaMxGXeEJoVpGNToBPr43u1l3MYsLEdvockOJoXi9WqAaM_xSGjAXhiCZxGgI-buzAbU6u60MSv4EqHSfQ9xrU5xcf_nzHM7PmZ8PzV9s3-v1Er48JsxlUY__i7AX7cWQAugBdACaAG0AP47gJpT9r8E6I8RfwrQaIBo1_gtZwvjWJrnQ1WNn3JXz4RlpOKhA4mgbsrxeTzGCtPyN4sqaga2xKLvhUn6sjBPpiN-j6qJ6ocTSArFt7iRAZgqzIHPom8CtpbyuWHVb4IXEWA-FmA1Rgpjemo3hJH-m9VSRotwWtB33cJ8vwP5uOUTrgrqpyfmqGRWmncclkVowkmuSQrFrmy9WsKkGwewU1A6q3FYuN_FMWZBXM1aGUdwsfqHeuK0LzYI4rRTOMa7gtRaiYFNFq7gcSx-PCkUe5oCiBCpPF-JYTiGl1giiM7xjeIFPXBbkOe36snzr7EWnTZtk0_qAAAAAElFTkSuQmCC.png",
+      "source": "Pondesk",
+      "title": "Kingston FURY Beast DDR5 Memory",
+      "rating": 4.8,
+      "reviews": 3100,
+      "price": "$859.99",
+      "extracted_price": 859.99,
+      "original_price": "Usually $970",
+      "extracted_original_price": 970,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "_w5x33icdVPLjqNGFJXyDfmFrNBIRRXP2TXG2O1uoKmiqjAbi5cNY17G2GCUf8g6W_dMpMlyEinb_Ebna8KMsogiZXd1zn2ce67uT_es-MOq-33U3qgbr0Dx7vACL-8MxRs-t12TXpK-SH8XIdCgrgIJyaIMFA1qsvw5ifqobA5faRFoQFbnFAg1BGRdUvUveRalZVFn7n6fdWaTFOkXESBV1VWky4oORRGq4Neiig7ZN_Y3HUCkKJKGFE3WgQKRpr126flNelnsvgpQZU0FoirLQBIVVdR_fMGuufsf8tPpknW3t5-fivpw7ptasCjeCkYWnXtBkVaGYJpYFhQAgO3_AK2zsHhGimA-2rZgZ1XT3YS5qpu1CVmdXrqoTrJdHw_Cvumq3T5KZlIo6j7r5jgTZqf6JmlK4ZzNc-u-iMpdN--_q-Ld-d_g0BV99g39dGiTf5z9r_bXavZKVhVJgbKkizqc7YCa9Npe-3t--Hi5lNmf90N5v5zveXnP6l-aqL3uk7---37ZDObiPCw82rbMxICA0fXrduSVbjKWk_i4uWZHbNvAWntgQ2jQTC5PpW1tGXGALzbXu2SFJc7HW8YOE6djj9eswcwDIR05CazAB33hAWbSIPzg02TwKvHqWOHJ404RL3Xk8g1nPjOeGaujII1YwKpoMmC4xCTiFLr-YXCI-GSjEkU-RfZkOVvqcKcsrxRh1yvTK62NF8zyZ1aAIaGN5K43T1s63hLLWKRgxM56Q6L1EgWTJzt1brirccz8zaM9hSBepp7DZeLzsY39EGxZe40Y67iJcVRv0PaDQ2P_YWLsYdgex1VK8xMxDUKtYx9PG0TK9hTAZkz8xz5c6oRWmNhEnBzLccL1Y2-j-TmC0t4iZ-lyDG3OjmmQQFynYO4xeEd78grRCSsbuHTZZ8e29ZBBqZVGKWMLwvMitbzhmZUt47nMoDdRrgO-bo8uPxILhJd0FebJumQ-3Kzt1bEPxYdbSsSFU1poVWwMvHZuLg9pWodhyKwxoQ6OqUhjjsl8a0A-WJW_xBOB2Pg4nrv9G3iw5J64Sm62pxNidStO-3EX1pXkPV0qEujnw3tR1SRFggiqCgR_A-bPYJY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_w5x33icdVPLjqNGFJXyDfmFrNBIRRXP2TXG2O1uoKmiqjAbi5cNY17G2GCUf8g6W_dMpMlyEinb_Ebna8KMsogiZXd1zn2ce67uT_es-MOq-33U3qgbr0Dx7vACL-8MxRs-t12TXpK-SH8XIdCgrgIJyaIMFA1qsvw5ifqobA5faRFoQFbnFAg1BGRdUvUveRalZVFn7n6fdWaTFOkXESBV1VWky4oORRGq4Neiig7ZN_Y3HUCkKJKGFE3WgQKRpr126flNelnsvgpQZU0FoirLQBIVVdR_fMGuufsf8tPpknW3t5-fivpw7ptasCjeCkYWnXtBkVaGYJpYFhQAgO3_AK2zsHhGimA-2rZgZ1XT3YS5qpu1CVmdXrqoTrJdHw_Cvumq3T5KZlIo6j7r5jgTZqf6JmlK4ZzNc-u-iMpdN--_q-Ld-d_g0BV99g39dGiTf5z9r_bXavZKVhVJgbKkizqc7YCa9Npe-3t--Hi5lNmf90N5v5zveXnP6l-aqL3uk7---37ZDObiPCw82rbMxICA0fXrduSVbjKWk_i4uWZHbNvAWntgQ2jQTC5PpW1tGXGALzbXu2SFJc7HW8YOE6djj9eswcwDIR05CazAB33hAWbSIPzg02TwKvHqWOHJ404RL3Xk8g1nPjOeGaujII1YwKpoMmC4xCTiFLr-YXCI-GSjEkU-RfZkOVvqcKcsrxRh1yvTK62NF8zyZ1aAIaGN5K43T1s63hLLWKRgxM56Q6L1EgWTJzt1brirccz8zaM9hSBepp7DZeLzsY39EGxZe40Y67iJcVRv0PaDQ2P_YWLsYdgex1VK8xMxDUKtYx9PG0TK9hTAZkz8xz5c6oRWmNhEnBzLccL1Y2-j-TmC0t4iZ-lyDG3OjmmQQFynYO4xeEd78grRCSsbuHTZZ8e29ZBBqZVGKWMLwvMitbzhmZUt47nMoDdRrgO-bo8uPxILhJd0FebJumQ-3Kzt1bEPxYdbSsSFU1poVWwMvHZuLg9pWodhyKwxoQ6OqUhjjsl8a0A-WJW_xBOB2Pg4nrv9G3iw5J64Sm62pxNidStO-3EX1pXkPV0qEujnw3tR1SRFggiqCgR_A-bPYJY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/qkqEUCRG_5HN-LA1tLhaV0UZOSlB-kW7c69gz4aZhyc.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEX_______719PPnfn3bOjb68_D9-_msqaT--vr88PD79fT46eX11s_6-_n8_Pz29vPfRD3dODPeT0bjaGD00c2RjYQ0MSqzsavt7Oc-PDXldXP34t7TFBH1y8bfTkvspaDn494NCwhpaGWKhIDqkYzlh35NRz7hY13VHhzwvLeCfnXXLCmnoZkeHBhWU0_jfHOYlZApJyPU0c30s7FbV1PunZV1cWvjdGlyaV_pZjhHAAAAuUlEQVQYlXXPyQ6CQAAD0M7ALKgMsogLKCAoIIK78v9fJgE9eLDHlzRNAULwE8KMUUfjCTepgmWCTW3H5Z7uuDN_vljOQFZ2EK43keHEyValMaDpxM7CMXZ07ytBe9DzQqKkhyQeQBZ5xcHpsRY9FFG10hVARbMd4LTW7G7ZEufLUFHIKgliiWuS9gDcQgaPCV43HwhCD9lI4F5TKLcyoDZ5-bg-1bkD9nqVgDfNjWNL49b8fpQSf_IGeCYObbGetYkAAAAASUVORK5CYII.png",
+      "source": "PCNation",
+      "title": "Kingston FURY Beast 32GB DDR5 6800MHz CL34 DIMM Memory",
+      "rating": 5.0,
+      "reviews": 4,
+      "price": "$982.23",
+      "extracted_price": 982.23,
+      "delivery": "Free delivery by Thu",
+      "immersive_product_page_token": "7Zdo2HicbVDLrqNGEJXyDfmFrNBIdNNgyG5saLDHxpdXY7Ox2nRjMA3m8ri2Uf4h62x9ZyJNlpNI2eY3br4mTJRFpEQqlUrnVOmcOj8-ePE7rvuMNvdoe7Tl4t3pCQ7v5pp3_dy0FzakfcF-VQxd1iBUdHXqqqIpBvyc0p6Ky6lgvwGoIKBDJCMo67oC9BnSv-ScMlHUfJtlvDUv6dc9pMwUQwaqouvaTNeBoSu_FBU98X94TZlKR4aiIaROq5qhv7ase4NPi4MCEQBoNt1MJjSkTjI_PPlb8_D_3Kfngbf3t58-FPWp6y-1hCN_L8057XpJQ_ZcMk1flTRZljfhdxB30mKtaJK53GykDa8u7V2artrJmsRrNrS0TvmhP16l7NJWh4ymEykVdc_baebSlFR_SS9C6vikW_cFFYd2CuBQHQ_dv8FrW_T8b_TTqUm_Jvtf669Vwb6oMw1pUDd0Dcw0dQZ09Nq89I_89HEYBP_jcRKPoXvk4sHrny-0ecnSP7_51rpczUV3XXhR0xDTl4OdP98LHcS2G8aicXgpZBo3w_Hs2gQkmNZJ6wrWRnC1ik1BN5CMgWXBFLNorxA5EqyPRL5gpjeSaI9SkAyupYM1yX02JiImzYoqzd2NDHmnMEqhmsU26HkVXePQj73ad5Kz6NLRj4-A3fg5KYJwf-MlWx8d77ap8Y7a5Hoc2TK1-gUxLZUEYB47rs0JDshuvt7ieRM6IgtKoKZO43ETIyqMbB3mKwITLzhb6tYScXAHd4YxoBV7PoL9nciqT0t_64ZC7GPDcsuTHFbuUxDOyXa3RNOvHYNG59ZNsTHnwx6iu1flVYBzzTuzfh2Byf_K4TYemclsaoNJS6zTkmjcNs5R2SxjTMKjTKo0wi-upVbhAuCIGFFUeaMfRjDcrWjkNEu_UovEwattrC68Eo_7iKxci8icGLULb2UgGEhDfCNjGWA5GZid5KkjSAhXzsYu-wS8v7MALFyBFbtYzX3HvW_jxGdQDdzxNKY2WfrCaH07P-8rYIXEQN6OWUkF5h9vXZu9ye-x2gdbLTeb52eF1A0Ys9shqSvkfRiqYGd0p-_BTEcaggqcaVD-C0BxXoU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7Zdo2HicbVDLrqNGEJXyDfmFrNBIdNNgyG5saLDHxpdXY7Ox2nRjMA3m8ri2Uf4h62x9ZyJNlpNI2eY3br4mTJRFpEQqlUrnVOmcOj8-ePE7rvuMNvdoe7Tl4t3pCQ7v5pp3_dy0FzakfcF-VQxd1iBUdHXqqqIpBvyc0p6Ky6lgvwGoIKBDJCMo67oC9BnSv-ScMlHUfJtlvDUv6dc9pMwUQwaqouvaTNeBoSu_FBU98X94TZlKR4aiIaROq5qhv7ase4NPi4MCEQBoNt1MJjSkTjI_PPlb8_D_3Kfngbf3t58-FPWp6y-1hCN_L8057XpJQ_ZcMk1flTRZljfhdxB30mKtaJK53GykDa8u7V2artrJmsRrNrS0TvmhP16l7NJWh4ymEykVdc_baebSlFR_SS9C6vikW_cFFYd2CuBQHQ_dv8FrW_T8b_TTqUm_Jvtf669Vwb6oMw1pUDd0Dcw0dQZ09Nq89I_89HEYBP_jcRKPoXvk4sHrny-0ecnSP7_51rpczUV3XXhR0xDTl4OdP98LHcS2G8aicXgpZBo3w_Hs2gQkmNZJ6wrWRnC1ik1BN5CMgWXBFLNorxA5EqyPRL5gpjeSaI9SkAyupYM1yX02JiImzYoqzd2NDHmnMEqhmsU26HkVXePQj73ad5Kz6NLRj4-A3fg5KYJwf-MlWx8d77ap8Y7a5Hoc2TK1-gUxLZUEYB47rs0JDshuvt7ieRM6IgtKoKZO43ETIyqMbB3mKwITLzhb6tYScXAHd4YxoBV7PoL9nciqT0t_64ZC7GPDcsuTHFbuUxDOyXa3RNOvHYNG59ZNsTHnwx6iu1flVYBzzTuzfh2Byf_K4TYemclsaoNJS6zTkmjcNs5R2SxjTMKjTKo0wi-upVbhAuCIGFFUeaMfRjDcrWjkNEu_UovEwattrC68Eo_7iKxci8icGLULb2UgGEhDfCNjGWA5GZid5KkjSAhXzsYu-wS8v7MALFyBFbtYzX3HvW_jxGdQDdzxNKY2WfrCaH07P-8rYIXEQN6OWUkF5h9vXZu9ye-x2gdbLTeb52eF1A0Ys9shqSvkfRiqYGd0p-_BTEcaggqcaVD-C0BxXoU"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the Kingston Fury Beast DDR5 good?",
+      "type": "ai_overview",
+      "page_token": "RDUIdHicHdDbboIwAIDh7GW8nNQDiyZmCUrxBEkLbaE3C7RqhVLqZKLc7V32VHuamb3Alz__948-m-r35aba1l7nw2HXda-npjnpw6to6mF-fRgxFLnWRS6qufvmgvejWPhfG2952XiIWEtX2ImBNSK1Qcb88aGaPUIn2hUV1BxuDSdbzIGapGCrwnWUc2BxWEcOTVTGEk8lfvOIA4lYgG9S2zMi5BGXeBdXU8iNIuFYg9QBMO2jq_Q7h62bEaYUc4NHUc-TogKXjLUgSZSf9BrGkE7iWl5ZKZ_2xilG1iFlNaIrmKPUs2FAV_s02nOml9x4Ja7oPfezToLI3TPlHgjEvpJBYXCdpd6UktkZ957dM4lCQ1pUcizvzbMT96LUNSkpQObUEjbVYu33WHM3Sp4eubMioHlO4RahwVHcFuPB_8_Fx7Fu5_azOf0BG8yD9g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RDUIdHicHdDbboIwAIDh7GW8nNQDiyZmCUrxBEkLbaE3C7RqhVLqZKLc7V32VHuamb3Alz__948-m-r35aba1l7nw2HXda-npjnpw6to6mF-fRgxFLnWRS6qufvmgvejWPhfG2952XiIWEtX2ImBNSK1Qcb88aGaPUIn2hUV1BxuDSdbzIGapGCrwnWUc2BxWEcOTVTGEk8lfvOIA4lYgG9S2zMi5BGXeBdXU8iNIuFYg9QBMO2jq_Q7h62bEaYUc4NHUc-TogKXjLUgSZSf9BrGkE7iWl5ZKZ_2xilG1iFlNaIrmKPUs2FAV_s02nOml9x4Ja7oPfezToLI3TPlHgjEvpJBYXCdpd6UktkZ957dM4lCQ1pUcizvzbMT96LUNSkpQObUEjbVYu33WHM3Sp4eubMioHlO4RahwVHcFuPB_8_Fx7Fu5_azOf0BG8yD9g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJJcyB0aGUgS2luZ3N0b24gRnVyeSBCZWFzdCBERFI1IGdvb2Q/IiwibGsiOiJHaVJwY3lCMGFHVWdhMmx1WjNOMGIyNGdablZ5ZVNCaVpXRnpkQ0JrWkhJMUlHZHZiMlEiLCJicyI6ImMtUHk1MUwxTEZZb3lVaFY4TTdNU3k4dXljOVRjQ3N0cWxSd1NrMHNMbEZ3Y1FreVZValB6MC14TjFLVFVzbUVLTXlHS1V3REtVd0NLMHhKS1lJbzVFcmcwZ25QU0N4UnlFM01UaTNHYldoeFFXcHlabUtPdmNTbWFDTmRLZTF5aEJhY3hrTzFjTGx6S1lKdGdEb25Kek10dGJnZ01VOGhQdzFpZEpDanI3MlJrcFJDT1E1RllNT0tFbk81UXJqVVFBYXBRNVVrbHFUbUpWZUNWS0E1MWw1aWdaZVJ1cFJxT1ZiRmFNNFVZQVFBIiwiaWQiOiJmY19GbnRmYXB5VU9iRzBpLWdQMnUtQjZRd180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJJcyB0aGUgS2luZ3N0b24gRnVyeSBCZWFzdCBERFI1IGdvb2Q%2FIiwibGsiOiJHaVJwY3lCMGFHVWdhMmx1WjNOMGIyNGdablZ5ZVNCaVpXRnpkQ0JrWkhJMUlHZHZiMlEiLCJicyI6ImMtUHk1MUwxTEZZb3lVaFY4TTdNU3k4dXljOVRjQ3N0cWxSd1NrMHNMbEZ3Y1FreVZValB6MC14TjFLVFVzbUVLTXlHS1V3REtVd0NLMHhKS1lJbzVFcmcwZ25QU0N4UnlFM01UaTNHYldoeFFXcHlabUtPdmNTbWFDTmRLZTF5aEJhY3hrTzFjTGx6S1lKdGdEb25Kek10dGJnZ01VOGhQdzFpZEpDanI3MlJrcFJDT1E1RllNT0tFbk81UXJqVVFBYXBRNVVrbHFUbUpWZUNWS0E1MWw1aWdaZVJ1cFJxT1ZiRmFNNFVZQVFBIiwiaWQiOiJmY19GbnRmYXB5VU9iRzBpLWdQMnUtQjZRd180In0%3D"
+    },
+    {
+      "question": "What makes Kingston Fury Beast DDR5 special?",
+      "type": "featured_snippet",
+      "snippet": "Kingston FURY™ Beast DDR5 RGB delivers speeds up to 6800MT/s. Featuring Infrared Sync Technology™ to keep the vibrant customizable lighting in perfect sync, available with sleek black or white heat spreaders, and support for Intel® XMP 3.0 and AMD EXPO™, it's 100% speed-tested and backed by a limited lifetime warranty.",
+      "title": "DDR5 RGB Memory with speeds up to 6800MT/s – Kingston FURY Beast ...",
+      "date": "May 20, 2025",
+      "link": "https://www.youtube.com/watch?v=j6gxnFjNolE",
+      "displayed_link": "https://www.youtube.com › watch",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJXaGF0IG1ha2VzIEtpbmdzdG9uIEZ1cnkgQmVhc3QgRERSNSBzcGVjaWFsPyIsImxrIjoiR2l0M2FHRjBJRzFoYTJWeklHdHBibWR6ZEc5dUlHWjFjbmtnWW1WaGMzUWdaR1J5TlNCemNHVmphV0ZzIiwiYnMiOiJjLVB5NTFMMUxGWW95VWhWOE03TVN5OHV5YzlUY0NzdHFsUndTazBzTGxGd2NRa3lWVWpQejAteE4xS1RVc21FS015R0tVd0RLVXdDSzB4SktZSW81RXJnMGduUFNDeFJ5RTNNVGkzR2JXaHhRV3B5Wm1LT3ZjU21hQ05kS2UxeWhCYWN4a08xY0xsektZSnRnRG9uSnpNdHRiZ2dNVThoUHcxaWRKQ2pyNzJSa3BSQ09RNUZZTU9LRW5PNVFyalVRQWFwUTVVa2xxVG1KVmVDVktBNTFsNWlnWmVSdXBScU9WYkZhTTRVWUFRQSIsImlkIjoiZmNfRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXdfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJXaGF0IG1ha2VzIEtpbmdzdG9uIEZ1cnkgQmVhc3QgRERSNSBzcGVjaWFsPyIsImxrIjoiR2l0M2FHRjBJRzFoYTJWeklHdHBibWR6ZEc5dUlHWjFjbmtnWW1WaGMzUWdaR1J5TlNCemNHVmphV0ZzIiwiYnMiOiJjLVB5NTFMMUxGWW95VWhWOE03TVN5OHV5YzlUY0NzdHFsUndTazBzTGxGd2NRa3lWVWpQejAteE4xS1RVc21FS015R0tVd0RLVXdDSzB4SktZSW81RXJnMGduUFNDeFJ5RTNNVGkzR2JXaHhRV3B5Wm1LT3ZjU21hQ05kS2UxeWhCYWN4a08xY0xsektZSnRnRG9uSnpNdHRiZ2dNVThoUHcxaWRKQ2pyNzJSa3BSQ09RNUZZTU9LRW5PNVFyalVRQWFwUTVVa2xxVG1KVmVDVktBNTFsNWlnWmVSdXBScU9WYkZhTTRVWUFRQSIsImlkIjoiZmNfRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXdfNCJ9"
+    },
+    {
+      "question": "What is the lifespan of DDR5 RAM?",
+      "type": "ai_overview",
+      "page_token": "O9fkeHicHdBRboIwAADQ7DJ-TgrDDROzpKNF4wqh2hb4WaBVUFpgE0X42112qp1myd4R3vePPjX178Ot6vvuspzPh2F4LNu21IdH2Zp5fhkbOZe51kUu6-XieQFej3KFrhv49rmBMes67lNrV4NtnmCf4dTdCfDFdNXmLEwJ8xifMCyQR-W-CtL6HvF9iA-6OxaOvsqEg9QhToi8LbHUORPuLbZdEPmZT1BpEV8zgsILwy9PbAod1qAhEsQRZtPvRG_xKXSJFYa8ZqMwHjxgvqHgBeRM95mp6nSCgcI8iBL6uZuyUa5LWxoMc52OpKELqSnmttfHgi-iBI0FU0AEHkSVCoqGmjSBLmfeiU6wexcqJg3r43NG1b09xYxO8qwNRyCghlf7s-aHhq4zR9kk6bYSYVDY3VXUiqhhdpS3lTP7_1x9HE2_7L7a8g_KmoJe",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=O9fkeHicHdBRboIwAADQ7DJ-TgrDDROzpKNF4wqh2hb4WaBVUFpgE0X42112qp1myd4R3vePPjX178Ot6vvuspzPh2F4LNu21IdH2Zp5fhkbOZe51kUu6-XieQFej3KFrhv49rmBMes67lNrV4NtnmCf4dTdCfDFdNXmLEwJ8xifMCyQR-W-CtL6HvF9iA-6OxaOvsqEg9QhToi8LbHUORPuLbZdEPmZT1BpEV8zgsILwy9PbAod1qAhEsQRZtPvRG_xKXSJFYa8ZqMwHjxgvqHgBeRM95mp6nSCgcI8iBL6uZuyUa5LWxoMc52OpKELqSnmttfHgi-iBI0FU0AEHkSVCoqGmjSBLmfeiU6wexcqJg3r43NG1b09xYxO8qwNRyCghlf7s-aHhq4zR9kk6bYSYVDY3VXUiqhhdpS3lTP7_1x9HE2_7L7a8g_KmoJe",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBERFI1IFJBTT8iLCJsayI6IkdpQjNhR0YwSUdseklIUm9aU0JzYVdabGMzQmhiaUJ2WmlCa1pISTFJSEpoYlEiLCJicyI6ImMtUHk1MUwxTEZZb3lVaFY4TTdNU3k4dXljOVRjQ3N0cWxSd1NrMHNMbEZ3Y1FreVZValB6MC14TjFLVFVzbUVLTXlHS1V3REtVd0NLMHhKS1lJbzVFcmcwZ25QU0N4UnlFM01UaTNHYldoeFFXcHlabUtPdmNTbWFDTmRLZTF5aEJhY3hrTzFjTGx6S1lKdGdEb25Kek10dGJnZ01VOGhQdzFpZEpDanI3MlJrcFJDT1E1RllNT0tFbk81UXJqVVFBYXBRNVVrbHFUbUpWZUNWS0E1MWw1aWdaZVJ1cFJxT1ZiRmFNNFVZQVFBIiwiaWQiOiJmY19GbnRmYXB5VU9iRzBpLWdQMnUtQjZRd180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBERFI1IFJBTT8iLCJsayI6IkdpQjNhR0YwSUdseklIUm9aU0JzYVdabGMzQmhiaUJ2WmlCa1pISTFJSEpoYlEiLCJicyI6ImMtUHk1MUwxTEZZb3lVaFY4TTdNU3k4dXljOVRjQ3N0cWxSd1NrMHNMbEZ3Y1FreVZValB6MC14TjFLVFVzbUVLTXlHS1V3REtVd0NLMHhKS1lJbzVFcmcwZ25QU0N4UnlFM01UaTNHYldoeFFXcHlabUtPdmNTbWFDTmRLZTF5aEJhY3hrTzFjTGx6S1lKdGdEb25Kek10dGJnZ01VOGhQdzFpZEpDanI3MlJrcFJDT1E1RllNT0tFbk81UXJqVVFBYXBRNVVrbHFUbUpWZUNWS0E1MWw1aWdaZVJ1cFJxT1ZiRmFNNFVZQVFBIiwiaWQiOiJmY19GbnRmYXB5VU9iRzBpLWdQMnUtQjZRd180In0%3D"
+    },
+    {
+      "question": "What's the latency of Fury Beast DDR5?",
+      "type": "featured_snippet",
+      "snippet": "Specifications",
+      "table": [
+        [
+          "Capacities",
+          "Singles: 8GB, 16GB, 32GB, 64GB Kits of 2: 16GB, 32GB, 64GB, 128GB Kits of 4: 64GB, 128GB"
+        ],
+        [
+          "Latencies",
+          "CL30, CL32, CL34, CL36, CL40"
+        ],
+        [
+          "Voltage",
+          "1.25V, 1.35V, 1.4V"
+        ],
+        [
+          "Operating Temperature",
+          "0°C to 85°C"
+        ],
+        [
+          "Dimensions",
+          "133.35 mm x 34.9 mm x 6.62 mm"
+        ]
+      ],
+      "formatted": [
+        {
+          "capacities": "Latencies",
+          "singles_8_gb_16_gb_32_gb_64_gb_kits_of_2_16_gb_32_gb_64_gb_128_gb_kits_of_4_64_gb_128_gb": "CL30, CL32, CL34, CL36, CL40"
+        },
+        {
+          "capacities": "Voltage",
+          "singles_8_gb_16_gb_32_gb_64_gb_kits_of_2_16_gb_32_gb_64_gb_128_gb_kits_of_4_64_gb_128_gb": "1.25V, 1.35V, 1.4V"
+        },
+        {
+          "capacities": "Operating Temperature",
+          "singles_8_gb_16_gb_32_gb_64_gb_kits_of_2_16_gb_32_gb_64_gb_128_gb_kits_of_4_64_gb_128_gb": "0°C to 85°C"
+        },
+        {
+          "capacities": "Dimensions",
+          "singles_8_gb_16_gb_32_gb_64_gb_kits_of_2_16_gb_32_gb_64_gb_128_gb_kits_of_4_64_gb_128_gb": "133.35 mm x 34.9 mm x 6.62 mm"
+        }
+      ],
+      "title": "Kingston FURY™ Beast DDR5 Memory – 8GB, 16GB, 32GB ...",
+      "link": "https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory",
+      "displayed_link": "https://www.kingston.com › memory › gaming › kingsto...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAD1BMVEUAAAAAAACAAAD_AACAgAAXKc_FAAAAAXRSTlMAQObYZgAAALBJREFUeAFt0NERg2AIA2DtBIILSJigZIK2--9UQdTTNm_57hB_hswoW4YOnBlg2fqDW8yjpAEwNStAdQ8ADQDDYcpATcCDCJETJLdETk4JI2RmZ_kPblot_A77r86RkJGpQCmsRMMI2_YioSQBOOFhChEFrGEO6TQ4qynjAkrasIMVQK5gx1YmZIbjyM-zN-gNYo4baH5mukBeuSEPKOQ54yvYDzjteP1nhbcTfOVJv_ycLwXcJ4Q_AAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJXaGF0J3MgdGhlIGxhdGVuY3kgb2YgRnVyeSBCZWFzdCBERFI1PyIsImxrIjoiR2lWM2FHRjBKM01nZEdobElHeGhkR1Z1WTNrZ2IyWWdablZ5ZVNCaVpXRnpkQ0JrWkhJMSIsImJzIjoiYy1QeTUxTDFMRllveVVoVjhNN01TeTh1eWM5VGNDc3RxbFJ3U2swc0xsRndjUWt5VlVqUHowLXhOMUtUVXNtRUtNeUdLVXdES1V3Q0sweEpLWUlvNUVyZzBnblBTQ3hSeUUzTVRpM0diV2h4UVdweVptS092Y1NtYUNOZEtlMXloQmFjeGtPMWNMbHpLWUp0Z0Rvbkp6TXR0YmdnTVU4aFB3MWlkSkNqcjcyUmtwUkNPUTVGWU1PS0VuTzVRcmpVUUFhcFE1VWtscVRtSlZlQ1ZLQTUxbDVpZ1plUnVwUnFPVmJGYU00VVlBUUEiLCJpZCI6ImZjX0ZudGZhcHlVT2JHMGktZ1AydS1CNlF3XzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1QwVkdRVkI2YUhoa1NGRXlXazk0ZG0weldqa3dWREUyZWtWM1ZGTlZRM2RHTWxvNGMwVTFObWROTW1kNVgxQkdhblJYYXkxQlpWVmlhVEpHUzNseFkwbFRURzFUU25CV2FIUlRVVlpxVkVsbVZWWkdOMDVOVVVOM1FSSVhSbTUwWm1Gd2VWVlBZa2N3YVMxblVESjFMVUkyVVhjYUlrRkVjM0k1WmxOck5USlBVM0ZYV0VGbVpWOUJNME0wUTFKc1MyNUhTa1pDU1VFIiwiZmN2IjoiMyIsImVpIjoiRm50ZmFweVVPYkcwaS1nUDJ1LUI2UXciLCJxYyI6ImMwMkx1dzBDTVJBRklTV0NEbDRKSndHWFVvcmx6NTVsNGJWaHZkYUpnSVFtS0pRR3NJaklSalB2N2Q3YmF5cXhhUzFZdWp6Z3lEYkZmSW9PSWNnWjh6Uk5yR2p3LVRnakpHWXdjUjNMOFJFYkNWUkNGMXM4R1hVcmxpcHNGdXRIUkNwS01waHdrNnJWMTR4RzkwNUZrODFHeUFiRHpyUl91VXBTLXRuOTV2bjZIQzVmIiwicXVlc3Rpb24iOiJXaGF0J3MgdGhlIGxhdGVuY3kgb2YgRnVyeSBCZWFzdCBERFI1PyIsImxrIjoiR2lWM2FHRjBKM01nZEdobElHeGhkR1Z1WTNrZ2IyWWdablZ5ZVNCaVpXRnpkQ0JrWkhJMSIsImJzIjoiYy1QeTUxTDFMRllveVVoVjhNN01TeTh1eWM5VGNDc3RxbFJ3U2swc0xsRndjUWt5VlVqUHowLXhOMUtUVXNtRUtNeUdLVXdES1V3Q0sweEpLWUlvNUVyZzBnblBTQ3hSeUUzTVRpM0diV2h4UVdweVptS092Y1NtYUNOZEtlMXloQmFjeGtPMWNMbHpLWUp0Z0Rvbkp6TXR0YmdnTVU4aFB3MWlkSkNqcjcyUmtwUkNPUTVGWU1PS0VuTzVRcmpVUUFhcFE1VWtscVRtSlZlQ1ZLQTUxbDVpZ1plUnVwUnFPVmJGYU00VVlBUUEiLCJpZCI6ImZjX0ZudGZhcHlVT2JHMGktZ1AydS1CNlF3XzQifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "fEKwWnicxZXrbqs4EIAfYJ9j-UMbSEjSUAkd2eRScqf35g_i4hgSwAkmpem_8y77VPs0a0hIoU1SnSMd7UhgPB6Px_Z8zM9_fC9c_vtX7Mbxil4LQpIkFUwI9lHFJoFg0m1oC3Pi08h2f2Bf2VCOkk1kI89RbDciAeJcX0Eht31VJM6misghT-mG8dxcbR8mVk_0LvG0trmETT3hMneKYZkULdhqbwsqGAJ7Lf-W2qxToRUUVmRnipAVTZCMKzWxKlcmghkwA_BnBQMvfWGgsY72ZVgFWP_OAeikb_XDLnfTKZglWQ9C5jGzUE_6w1njdQBzOIVhw6UA9HZK-1wg_XK3m07RdJhuQlN3gX6WY1uDeasXe0flyCDc-823Xj-7ViqaVvbD1u0YmUovr6IVneip-iX7nOgAtRPgJnhwJlaVgHYP3-n42C0XZQXcab6OBUR2UYKDWR6KghWxpip4tmtnHxFN01O9l0XS64JIu3naknF4M3Ymq7dpw2mP4bo3jrFgW8zOJ6aDHMM1xB9Zv1qrNkRZumpdZFzY9AAGLYHx4PvW5GY40kllWIHVAhX4cCoFSZW3R485P7wjE_ZHjHeXts2HSP4Bic4mf0zstjWYAJCjWU9zrY2_ZjTzfYSKTA5ojEBGRRacumv3jopZgfFhQiGPbj6tV4wA5u5VjbGX63ol61LEKju25QGSUdmV7nZ26Qfv9iYTWC_xDfRCT91tUccQlrei7XZQL9ilF4NZKusz1u9jfPgZZZO0fUCHdT-CKtPHrgCrD52zvJ6Sc9zsBYM8_T9lc4mCjek8J6CHRqIud8BWssIX6iyGz5KhH896Eli_UA_s_52LrFqQvFoc4cL9housWuDT1WKfREnORWY3gOpJLpZZW64WN5-qxTEu-mUuTleLDy7SUM5zAc9xAU9xwX74X7jQT3CRV4sCF8tP1QIeTjVVfXDx69XC_L1qkWGCdk25dGwW-GQJ6aAr-2H1dCetR3exREn02NH6IyIPB_b3JWQexNeB6fgXhudcw1o_3joXBlOQa-Rwa2XghZjGJOS7D7cvPEQmjflmvQf5dvu2wTdFURzdC5RXh1KTb2ujET9CAYm2PJsTmRjxKHQ2kRnayIithJ-TKDDmps0GeS-MUcS-Eb-KSExs4vMUrTcojD3TNyJkOkZgGbSoTCIvRpmWC_yIKKLZ6A835r03ibEer1ezwSNZVe3OVF6b0azWrPbseuNx3L3bvvct1e1cYrSQQiLdS--zdXXUr9YMcxZMGnrTiRxyO6i3IJnO9YE8l9ZtzRy_iG_1YRI-DxbzzbTRbrZab7g1sYLNeAZob5jUa0PbkZ_fL5_Wr3glLt9wFhdVVnWz-_gs3mI_4YLIVlj21jEY6-AJQxuoLDVVzB7CnoTlAEdt00D0Vak58lxuXImm1WqYrSbiAhxvV4oscjSMlOp_I6tPPA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fEKwWnicxZXrbqs4EIAfYJ9j-UMbSEjSUAkd2eRScqf35g_i4hgSwAkmpem_8y77VPs0a0hIoU1SnSMd7UhgPB6Px_Z8zM9_fC9c_vtX7Mbxil4LQpIkFUwI9lHFJoFg0m1oC3Pi08h2f2Bf2VCOkk1kI89RbDciAeJcX0Eht31VJM6misghT-mG8dxcbR8mVk_0LvG0trmETT3hMneKYZkULdhqbwsqGAJ7Lf-W2qxToRUUVmRnipAVTZCMKzWxKlcmghkwA_BnBQMvfWGgsY72ZVgFWP_OAeikb_XDLnfTKZglWQ9C5jGzUE_6w1njdQBzOIVhw6UA9HZK-1wg_XK3m07RdJhuQlN3gX6WY1uDeasXe0flyCDc-823Xj-7ViqaVvbD1u0YmUovr6IVneip-iX7nOgAtRPgJnhwJlaVgHYP3-n42C0XZQXcab6OBUR2UYKDWR6KghWxpip4tmtnHxFN01O9l0XS64JIu3naknF4M3Ymq7dpw2mP4bo3jrFgW8zOJ6aDHMM1xB9Zv1qrNkRZumpdZFzY9AAGLYHx4PvW5GY40kllWIHVAhX4cCoFSZW3R485P7wjE_ZHjHeXts2HSP4Bic4mf0zstjWYAJCjWU9zrY2_ZjTzfYSKTA5ojEBGRRacumv3jopZgfFhQiGPbj6tV4wA5u5VjbGX63ol61LEKju25QGSUdmV7nZ26Qfv9iYTWC_xDfRCT91tUccQlrei7XZQL9ilF4NZKusz1u9jfPgZZZO0fUCHdT-CKtPHrgCrD52zvJ6Sc9zsBYM8_T9lc4mCjek8J6CHRqIud8BWssIX6iyGz5KhH896Eli_UA_s_52LrFqQvFoc4cL9housWuDT1WKfREnORWY3gOpJLpZZW64WN5-qxTEu-mUuTleLDy7SUM5zAc9xAU9xwX74X7jQT3CRV4sCF8tP1QIeTjVVfXDx69XC_L1qkWGCdk25dGwW-GQJ6aAr-2H1dCetR3exREn02NH6IyIPB_b3JWQexNeB6fgXhudcw1o_3joXBlOQa-Rwa2XghZjGJOS7D7cvPEQmjflmvQf5dvu2wTdFURzdC5RXh1KTb2ujET9CAYm2PJsTmRjxKHQ2kRnayIithJ-TKDDmps0GeS-MUcS-Eb-KSExs4vMUrTcojD3TNyJkOkZgGbSoTCIvRpmWC_yIKKLZ6A835r03ibEer1ezwSNZVe3OVF6b0azWrPbseuNx3L3bvvct1e1cYrSQQiLdS--zdXXUr9YMcxZMGnrTiRxyO6i3IJnO9YE8l9ZtzRy_iG_1YRI-DxbzzbTRbrZab7g1sYLNeAZob5jUa0PbkZ_fL5_Wr3glLt9wFhdVVnWz-_gs3mI_4YLIVlj21jEY6-AJQxuoLDVVzB7CnoTlAEdt00D0Vak58lxuXImm1WqYrSbiAhxvV4oscjSMlOp_I6tPPA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Kingston FURY™ Beast DDR5 Memory – 8GB, 16GB ...",
+      "link": "https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.kingston.com%2Fen%2Fmemory%2Fgaming%2Fkingston-fury-beast-ddr5-memory&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECBgQAQ",
+      "displayed_link": "https://www.kingston.com › memory › gaming › kingsto...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAD1BMVEUAAAAAAACAAAD_AACAgAAXKc_FAAAAAXRSTlMAQObYZgAAALBJREFUeAFt0NERg2AIA2DtBIILSJigZIK2--9UQdTTNm_57hB_hswoW4YOnBlg2fqDW8yjpAEwNStAdQ8ADQDDYcpATcCDCJETJLdETk4JI2RmZ_kPblot_A77r86RkJGpQCmsRMMI2_YioSQBOOFhChEFrGEO6TQ4qynjAkrasIMVQK5gx1YmZIbjyM-zN-gNYo4baH5mukBeuSEPKOQ54yvYDzjteP1nhbcTfOVJv_ycLwXcJ4Q_AAAAAElFTkSuQmCC.png",
+      "snippet": "Kingston FURY Beast DDR5 boosts gaming with speeds up to 6800MT/s, on-die ECC stability, and dual 32-bit subchannels. CL36, CL40 Voltage 1.25V, 1.35V, 1.4V",
+      "snippet_highlighted_words": [
+        "Kingston FURY Beast DDR5"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kingston FURY Beast DDR5 boosts gaming with speeds up to 6800MT/s, on-die ECC stability, and dual 32-bit subchannels. CL36, CL40 Voltage 1.25V, 1.35V, 1.4V",
+          "source_info_link": "https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAD1BMVEUAAAAAAACAAAD_AACAgAAXKc_FAAAAAXRSTlMAQObYZgAAALBJREFUeAFt0NERg2AIA2DtBIILSJigZIK2--9UQdTTNm_57hB_hswoW4YOnBlg2fqDW8yjpAEwNStAdQ8ADQDDYcpATcCDCJETJLdETk4JI2RmZ_kPblot_A77r86RkJGpQCmsRMMI2_YioSQBOOFhChEFrGEO6TQ4qynjAkrasIMVQK5gx1YmZIbjyM-zN-gNYo4baH5mukBeuSEPKOQ54yvYDzjteP1nhbcTfOVJv_ycLwXcJ4Q_AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.kingston.com%2Fen%2Fmemory%2Fgaming%2Fkingston-fury-beast-ddr5-memory&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kingston.com%2Fen%2Fmemory%2Fgaming%2Fkingston-fury-beast-ddr5-memory",
+      "source": "Kingston Technology"
+    },
+    {
+      "position": 2,
+      "title": "Kingston Fury Beast 64GB DDR5 6000 CL30 - Budget friendly ...",
+      "link": "https://www.youtube.com/watch?v=qcAQjQDd8RM",
+      "displayed_link": "5.1K+ views · 10 months ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b16f607a9ea3991d3bd/images/OyqPy6-C70kSL75mQObgxVoF54mzH4vR_Ij1wmvh7_I.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Kingston's Fury Beast DDR5 series, offers some great value on specific models. Especially for those looking for low latency high-capacity kits. ...",
+      "duration": "7:02",
+      "about_this_result": {
+        "source": {
+          "description": "Kingston's Fury Beast DDR5 series, offers some great value on specific models. Especially for those looking for low latency high-capacity kits. ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqcAQjQDd8RM&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqcAQjQDd8RM",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRxduHaoWrlPO1QUSCbey6QH6TPxzDaCGFPrQ",
+      "source": "YouTube · TheOverclocker"
+    },
+    {
+      "position": 3,
+      "title": "Kingston FURY Beast 64GB (2x32GB) 6000MT/s DDR5 ...",
+      "link": "https://www.amazon.com/Kingston-2x32GB-6000MT-Overclocking-KF560C36BWEK2-64/dp/B0BRTHYGZF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FKingston-2x32GB-6000MT-Overclocking-KF560C36BWEK2-64%2Fdp%2FB0BRTHYGZF&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECC8QAQ",
+      "displayed_link": "https://www.amazon.com › Kingston-2x32GB-6000MT-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Kingston FURY Beast 64GB (2x32GB) 6000MT/s DDR5 CL36 Desktop Memory. Kingston offers computer storage solutions including SSDs, memory modules, flash drives, ...",
+      "snippet_highlighted_words": [
+        "Kingston FURY Beast 64GB (2x32GB) 6000MT/s DDR5 CL36 Desktop Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kingston FURY Beast 64GB (2x32GB) 6000MT/s DDR5 CL36 Desktop Memory. Kingston offers computer storage solutions including SSDs, memory modules, flash drives, ...",
+          "source_info_link": "https://www.amazon.com/Kingston-2x32GB-6000MT-Overclocking-KF560C36BWEK2-64/dp/B0BRTHYGZF",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FKingston-2x32GB-6000MT-Overclocking-KF560C36BWEK2-64%2Fdp%2FB0BRTHYGZF&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FKingston-2x32GB-6000MT-Overclocking-KF560C36BWEK2-64%2Fdp%2FB0BRTHYGZF",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Kingston FURY Beast DDR5 RGB RAM roundup review",
+      "link": "https://gamingtrend.com/reviews/kingston-fury-beast-ddr5-rgb-ram-roundup-review-well-lit-powerful-and-rated-to-run/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fgamingtrend.com%2Freviews%2Fkingston-fury-beast-ddr5-rgb-ram-roundup-review-well-lit-powerful-and-rated-to-run%2F&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECDIQAQ",
+      "displayed_link": "https://gamingtrend.com › reviews › kingston-fury-beast...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEWeo6f____x8vMAABKprrEAGS0JJzgACyVjbXXLztD5-vqLkpfd3-CZn6O5vcB8hYo3SFNLWGEAfJkNzfUNzPSQ1u8pAAAAFHRSTlP________________________86iS9v7QAAAFrSURBVHgBhdEHguQgDARAGhkJDEOY2_-_9WiYuLGd7bJIzgFexANHUAVzmBqYYA54AhdCBJPuIEp6gJMVQgYKH2_gIv4OrKbUglVgGmyQUG2eN1AzC2oJiB7oCxwoY55vYEX4sUwUCDL3020QGBWWr8BlgchWyq4w9ug6cIoDqhEoZuoGfQFpQNknAjs5kBsoC_BnYZkFAl9GgvtMsvnTe35boALob6DgliEA9AJA3sB5B22Bxi_1BbBuSmlZgg6UCVYhvnCDdybHZAvMU52gcQAHwSqpa8U28MgTGG5hY8l0rfkGCXEC5QsUD5c4h8qmoTysotusIOpqltF6bLnLTJvXnHOQ3kQG_3skg_EpSgjibi3XLwAnkmi4_AiYag-QvgXodgcjxlh4E2dYXxc7hCDF6K7XqxA0C2EQCOcSZQMJ7t_HxwZBdYN18RuYfgcMM78B-QsoL7-AEP_opPjHMEtrXwDqyfO4T9R_haoSQV3B2a0AAAAASUVORK5CYII.png",
+      "date": "Nov 19, 2022",
+      "snippet": "In this review we'll tackle three different module sets rated at 5200, 5600, and 6000 MT/s. with a CAS Latency of 36 cycles, a tRCD of 38 ...",
+      "snippet_highlighted_words": [
+        "6000 MT",
+        "s"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this review we'll tackle three different module sets rated at 5200, 5600, and 6000 MT/s. with a CAS Latency of 36 cycles, a tRCD of 38 ...",
+          "source_info_link": "https://gamingtrend.com/reviews/kingston-fury-beast-ddr5-rgb-ram-roundup-review-well-lit-powerful-and-rated-to-run/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEWeo6f____x8vMAABKprrEAGS0JJzgACyVjbXXLztD5-vqLkpfd3-CZn6O5vcB8hYo3SFNLWGEAfJkNzfUNzPSQ1u8pAAAAFHRSTlP________________________86iS9v7QAAAFrSURBVHgBhdEHguQgDARAGhkJDEOY2_-_9WiYuLGd7bJIzgFexANHUAVzmBqYYA54AhdCBJPuIEp6gJMVQgYKH2_gIv4OrKbUglVgGmyQUG2eN1AzC2oJiB7oCxwoY55vYEX4sUwUCDL3020QGBWWr8BlgchWyq4w9ug6cIoDqhEoZuoGfQFpQNknAjs5kBsoC_BnYZkFAl9GgvtMsvnTe35boALob6DgliEA9AJA3sB5B22Bxi_1BbBuSmlZgg6UCVYhvnCDdybHZAvMU52gcQAHwSqpa8U28MgTGG5hY8l0rfkGCXEC5QsUD5c4h8qmoTysotusIOpqltF6bLnLTJvXnHOQ3kQG_3skg_EpSgjibi3XLwAnkmi4_AiYag-QvgXodgcjxlh4E2dYXxc7hCDF6K7XqxA0C2EQCOcSZQMJ7t_HxwZBdYN18RuYfgcMM78B-QsoL7-AEP_opPjHMEtrXwDqyfO4T9R_haoSQV3B2a0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fgamingtrend.com%2Freviews%2Fkingston-fury-beast-ddr5-rgb-ram-roundup-review-well-lit-powerful-and-rated-to-run%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgamingtrend.com%2Freviews%2Fkingston-fury-beast-ddr5-rgb-ram-roundup-review-well-lit-powerful-and-rated-to-run%2F",
+      "source": "GamingTrend"
+    },
+    {
+      "position": 5,
+      "title": "Kingston FURY Beast 64GB (2x32GB)",
+      "link": "https://www.pgrid.app/us/rams/kingston-fury-beast-ddr5-64gb-2x-6000mhz-cl36",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.pgrid.app%2Fus%2Frams%2Fkingston-fury-beast-ddr5-64gb-2x-6000mhz-cl36&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECC4QAQ",
+      "displayed_link": "https://www.pgrid.app › Home › RAM",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEUmJiYmHyUraTEsazEmKScrYzAmIyYoRyspTywmIiYlHCUrZzEoQyopSywtejQpUS0tdjQscTMqXC8bExoiZSkaGhofHh8WGhYZWyAUCxMiGyE_PD93dXd0lndvbG5pZmgAAAAlGCQbDxpXV1eXmJelt6YaPR19mX____--vb4TVRsVeyFod2nr6-v39veHmogGaRbR0tGSupUQFBHR5dKFhYUAUQBzfHRXiFsODQ4xLzF0h3UURBkVABSjoaNkiWdAZUPm8ueZtJyKiYrl-eYGWxPb29suhzdAeUVpgWtFjExGVkcgrimjAAABkElEQVR4AZ1SBZIjMQyUnLGHlwbCicJaZmam___nNHDLrHK1oQWtskAMFf6HioClEYztuABfk67resoT8L3iZEB7LgYOui44jhNOhS9hekZA-0KAbdvBTPASwtnADua0nMAYI8legCtpTZbWGBCL4ihJov-C0mqtnpaCsNFstTutVtcnxJ7q02A4GnZpHHqIoGsTLmx-QevFpeX8vLK6prUGq9piXl7O3taJNnImd920LIBEyC4RbTEPuvK6Xd2h1grvJgAF2Ukg2pN3iW_uWxqTg8OjXFCUkREeC3kii9DoKKmPjyIRVInbzKc7O2fnzBfM7Vgetnd3D1e340oRWdjJpZSNkK6KK2FRM9c4pG3mVgKbWyVZCmql0Liup03pgMBaIKIVvqEnQY2e30NaFz9KdZ-GzMM6goonmQzl3_pK3WXd3z_czzOfXyv11EoWmfdT2qO0UtZMyjGJDyQoC3-aoShuPM1Qg2hwOqB6QSIWGQtQAiIIvSD_MqUyLS9BZTAzJYcPIo3ulZFfzu3fyX_pcTtWwz25vAAAAABJRU5ErkJggg.png",
+      "snippet": "Kingston FURY Beast 64GB (2x32GB) memory kit in United States. Prices from USD 949.99. Form Factor DIMM ECC No Speed Standard DDR5 Data Rate 6000 MT/s CAS ...",
+      "snippet_highlighted_words": [
+        "Kingston FURY Beast 64GB (2x32GB) memory kit"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kingston FURY Beast 64GB (2x32GB) memory kit in United States. Prices from USD 949.99. Form Factor DIMM ECC No Speed Standard DDR5 Data Rate 6000 MT/s CAS ...",
+          "source_info_link": "https://www.pgrid.app/us/rams/kingston-fury-beast-ddr5-64gb-2x-6000mhz-cl36",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEUmJiYmHyUraTEsazEmKScrYzAmIyYoRyspTywmIiYlHCUrZzEoQyopSywtejQpUS0tdjQscTMqXC8bExoiZSkaGhofHh8WGhYZWyAUCxMiGyE_PD93dXd0lndvbG5pZmgAAAAlGCQbDxpXV1eXmJelt6YaPR19mX____--vb4TVRsVeyFod2nr6-v39veHmogGaRbR0tGSupUQFBHR5dKFhYUAUQBzfHRXiFsODQ4xLzF0h3UURBkVABSjoaNkiWdAZUPm8ueZtJyKiYrl-eYGWxPb29suhzdAeUVpgWtFjExGVkcgrimjAAABkElEQVR4AZ1SBZIjMQyUnLGHlwbCicJaZmam___nNHDLrHK1oQWtskAMFf6HioClEYztuABfk67resoT8L3iZEB7LgYOui44jhNOhS9hekZA-0KAbdvBTPASwtnADua0nMAYI8legCtpTZbWGBCL4ihJov-C0mqtnpaCsNFstTutVtcnxJ7q02A4GnZpHHqIoGsTLmx-QevFpeX8vLK6prUGq9piXl7O3taJNnImd920LIBEyC4RbTEPuvK6Xd2h1grvJgAF2Ukg2pN3iW_uWxqTg8OjXFCUkREeC3kii9DoKKmPjyIRVInbzKc7O2fnzBfM7Vgetnd3D1e340oRWdjJpZSNkK6KK2FRM9c4pG3mVgKbWyVZCmql0Liup03pgMBaIKIVvqEnQY2e30NaFz9KdZ-GzMM6goonmQzl3_pK3WXd3z_czzOfXyv11EoWmfdT2qO0UtZMyjGJDyQoC3-aoShuPM1Qg2hwOqB6QSIWGQtQAiIIvSD_MqUyLS9BZTAzJYcPIo3ulZFfzu3fyX_pcTtWwz25vAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.pgrid.app%2Fus%2Frams%2Fkingston-fury-beast-ddr5-64gb-2x-6000mhz-cl36&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pgrid.app%2Fus%2Frams%2Fkingston-fury-beast-ddr5-64gb-2x-6000mhz-cl36",
+      "source": "PGrid"
+    },
+    {
+      "position": 6,
+      "title": "Kingston Fury Beast 64GB (2X32GB) DDR5 RAM ...",
+      "link": "https://www.reddit.com/r/buildapc/comments/1gyx5q8/kingston_fury_beast_64gb_2x32gb_ddr5_ram_5600mhz/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1gyx5q8%2Fkingston_fury_beast_64gb_2x32gb_ddr5_ram_5600mhz%2F&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECDMQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I found Kingston Fury Beast 64GB (2X32GB) DDR5 RAM 5600MHz CLS40 for 70 €. What do u think? Its worth to buy it?",
+      "snippet_highlighted_words": [
+        "Kingston Fury Beast 64GB (2X32GB) DDR5 RAM 5600MHz CLS40"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I found Kingston Fury Beast 64GB (2X32GB) DDR5 RAM 5600MHz CLS40 for 70 €. What do u think? Its worth to buy it?",
+          "source_info_link": "https://www.reddit.com/r/buildapc/comments/1gyx5q8/kingston_fury_beast_64gb_2x32gb_ddr5_ram_5600mhz/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1gyx5q8%2Fkingston_fury_beast_64gb_2x32gb_ddr5_ram_5600mhz%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapc%2Fcomments%2F1gyx5q8%2Fkingston_fury_beast_64gb_2x32gb_ddr5_ram_5600mhz%2F",
+      "source": "Reddit · r/buildapc",
+      "read_more_link": "https://www.reddit.com/r/buildapc/comments/1gyx5q8/kingston_fury_beast_64gb_2x32gb_ddr5_ram_5600mhz/"
+    },
+    {
+      "position": 7,
+      "title": "Kingston FURY BEAST DDR5 RGB (6000 MT/s) - Unboxing ...",
+      "link": "https://www.youtube.com/watch?v=11U41CvS8pg",
+      "displayed_link": "10.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKhtpCb06rMMKAbu20GcsakJSVLZKCWcxP-CY9oBveMyreVzwvLRmfog&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "This is a short Unboxing & Review of the Kingston FURY BEAST RGB DDR5 Memory Modules. (6000 MT/s) - Unboxing & Review. CL36 for Gaming!",
+      "duration": "4:48",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp7p3EstSplOenwdk4fiokOEpuouw_Tbfz3yAY1HMK8Q&s="
+        },
+        {
+          "time": "00:55",
+          "title": "Unboxing",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=55",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkOdsEBxq8uKIXuVZeFeeenDw9cwrrU_XsOQ4np5LCnA&s="
+        },
+        {
+          "time": "01:06",
+          "title": "Specifications & Features",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=66",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT02Htt7FGp5Jo1CgdpMDk9yTkXXy_6gzHZzCwjh4OOEQ&s="
+        },
+        {
+          "time": "02:12",
+          "title": "Installation",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=132",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTW7ujbL3INq3smVgLAe1mo1zozjxgbrFy9b1jm-w3UVA&s="
+        },
+        {
+          "time": "02:59",
+          "title": "Benchmarks",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=179",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrzG7NUsbO3Vv5jCx63ne4nMCWdyuwi_SCGTVPIDIBeg&s="
+        },
+        {
+          "time": "03:31",
+          "title": "Final Thoughts",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=211",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLwILTu35M0fC78o0w8h1shMgxxrgFyok5zoLh3GuYxw&s="
+        },
+        {
+          "time": "04:20",
+          "title": "Pricing",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=260",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqxAOnzJ-d9Elao548Qrso2GUgiTKXj1CaceBl-9e6FQ&s="
+        },
+        {
+          "time": "04:32",
+          "title": "Ending",
+          "link": "https://www.youtube.com/watch?v=11U41CvS8pg&t=272",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq0ecTyKpPoP-3ehPkzoaagVKfy53kVOKzF6YNvvZLGA&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This is a short Unboxing & Review of the Kingston FURY BEAST RGB DDR5 Memory Modules. (6000 MT/s) - Unboxing & Review. CL36 for Gaming!",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D11U41CvS8pg&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D11U41CvS8pg",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTlcSXaG5EwfEJIXzwmXe3mY6Kcd38We7avQQ",
+      "source": "YouTube · RKiologist"
+    },
+    {
+      "position": 8,
+      "title": "Kingston Technology FURY Beast 64GB 6000MT/s DDR5 ...",
+      "link": "https://www.ebay.com/p/8088461281?iid=336497945230",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ebay.com%2Fp%2F8088461281%3Fiid%3D336497945230&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECDEQAQ",
+      "displayed_link": "https://www.ebay.com › ... › Memory (RAM)",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+      "snippet": "Kingston Technology FURY Beast 64GB 6000MT/s DDR5 CL36 DIMM (Kit of 2) RGB EXPO ; Approx. $1,148.44. + $121.53 shipping ; Returns. No returns, but backed by eBay ...",
+      "snippet_highlighted_words": [
+        "Kingston Technology FURY Beast 64GB 6000MT/s DDR5 CL36 DIMM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kingston Technology FURY Beast 64GB 6000MT/s DDR5 CL36 DIMM (Kit of 2) RGB EXPO ; Approx. $1,148.44. + $121.53 shipping ; Returns. No returns, but backed by eBay ...",
+          "source_info_link": "https://www.ebay.com/p/8088461281?iid=336497945230",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ebay.com%2Fp%2F8088461281%3Fiid%3D336497945230&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fp%2F8088461281%3Fiid%3D336497945230",
+      "source": "eBay",
+      "read_more_link": "https://www.ebay.com/p/8088461281?iid=336497945230"
+    },
+    {
+      "position": 9,
+      "title": "Kingston FURY Beast 64GB (2 x 32GB) 288-Pin PC RAM ...",
+      "link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl36-memory-silver-white/p/0RM-001W-006X5?srsltid=AfmBOoqGX9_WuXrqAgDHkvxHKmkXtj_eRBncGs-Av4P_hQvzI6V42i-u",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fkingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl36-memory-silver-white%2Fp%2F0RM-001W-006X5%3Fsrsltid%3DAfmBOoqGX9_WuXrqAgDHkvxHKmkXtj_eRBncGs-Av4P_hQvzI6V42i-u&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0QFnoECD0QAQ",
+      "displayed_link": "https://www.newegg.com › kingston-technology-corp-f...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Kingston FURY Plug N Play memory will run in DDR5 systems up to the speed allowed by the manufacturer's system BIOS. PnP cannot increase the system memory speed ...",
+      "snippet_highlighted_words": [
+        "Kingston FURY Plug N Play memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kingston FURY Plug N Play memory will run in DDR5 systems up to the speed allowed by the manufacturer's system BIOS. PnP cannot increase the system memory speed ...",
+          "source_info_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl36-memory-silver-white/p/0RM-001W-006X5?srsltid=AfmBOoqGX9_WuXrqAgDHkvxHKmkXtj_eRBncGs-Av4P_hQvzI6V42i-u",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fkingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl36-memory-silver-white%2Fp%2F0RM-001W-006X5%3Fsrsltid%3DAfmBOoqGX9_WuXrqAgDHkvxHKmkXtj_eRBncGs-Av4P_hQvzI6V42i-u&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fkingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl36-memory-silver-white%2Fp%2F0RM-001W-006X5%3Fsrsltid%3DAfmBOoqGX9_WuXrqAgDHkvxHKmkXtj_eRBncGs-Av4P_hQvzI6V42i-u",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl36-memory-silver-white/p/0RM-001W-006X5?srsltid=AfmBOoqGX9_WuXrqAgDHkvxHKmkXtj_eRBncGs-Av4P_hQvzI6V42i-u"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Kingston FURY Beast DDR5 32GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+Beast+DDR5+32GB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+DDR5+32GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston FURY Beast DDR5 6000MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+Beast+DDR5+6000MHz&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+DDR5+6000MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston FURY DDR5 16GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+DDR5+16GB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+DDR5+16GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston FURY DDR5 32GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+DDR5+32GB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+DDR5+32GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston FURY Beast DDR5 8GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+Beast+DDR5+8GB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+DDR5+8GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston fury beast ddr5 32gb 6000mhz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+fury+beast+ddr5+32gb+6000mhz&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+fury+beast+ddr5+32gb+6000mhz"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston FURY Beast DDR5 5600",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+Beast+DDR5+5600&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+DDR5+5600"
+    },
+    {
+      "block_position": 1,
+      "query": "Kingston FURY Beast DDR5 5200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Kingston+FURY+Beast+DDR5+5200MHz&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+DDR5+5200MHz"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&q=reviews+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GBIqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAF6BAgcEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+sale&hl=en&shoprs=EgRKAhgBGAYqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhMIBhIHT24gc2FsZRgCIgRKAhgBWLexIGAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAJ6BAgcEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+sale"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&q=new+Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAoqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgcIChIDTmV3WLexIGAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAN6BAgcEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&q=used+Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAoqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMggIChIEVXNlZFi3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAR6BAgcEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&q=kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=Eg2aAQoKCBACOAFABEgBGBQqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMiYIFBINR2V0IGl0IGJ5IFRodSINmgEKCggQAjgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAV6BAgcEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under $700",
+      "link": "https://www.google.com/search?gl=us&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+under+%24700&hl=en&shoprs=Eg0SCxEAAACAk9zEQRgBGAUqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMiMIBRIKVW5kZXIgJDcwMBgCIg0SCxEAAACAk9zEQRgBKgIYAVi3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAZ6BAgcEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+under+%24700"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GBIqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAd6BAgcEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+for+sale&hl=en&shoprs=GBIqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAh6BAgcEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+for+sale"
+    },
+    {
+      "query": "Over 6,000 MHz",
+      "link": "https://www.google.com/search?gl=us&q=over+6%2C000+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=EhEqDwiEnmoSCQkAAAAAAHC3QBgBKpcBa2luZ3N0b24gZnVyeSBiZWFzdCA2NGdiIGRkcjUgNjAwMG10IHMgY2wzNiBkaW1tIG1lbW9yeSBzdG9yYWdlIGVuZHVyYW5jZV90YncgZm9ybV9mYWN0b3IgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIzCAESDk92ZXIgNiwwMDAgTUh6IhEqDwiEnmoSCQkAAAAAAHC3QCoCGAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAl6BAgcEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+6%2C000+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "ECC",
+      "link": "https://www.google.com/search?gl=us&q=ecc+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhMIARIDRUNDOgoI3MEsEN3BLDADWLexIGAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAp6BAgcEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ecc+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "5,600 – 6,000 MHz",
+      "link": "https://www.google.com/search?gl=us&q=5%2C600+mhz+to+6%2C000+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=EhoqGAiEnmoSEgkAAAAAAOC1QBEAAAAAAHC3QBgBKpcBa2luZ3N0b24gZnVyeSBiZWFzdCA2NGdiIGRkcjUgNjAwMG10IHMgY2wzNiBkaW1tIG1lbW9yeSBzdG9yYWdlIGVuZHVyYW5jZV90YncgZm9ybV9mYWN0b3IgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczJZCAESEzUsNjAwIOKAkyA2LDAwMCBNSHoiGioYCISeahISCQAAAAAA4LVAEQAAAAAAcLdAKhoKFjUsNjAwIE1IeiB0byA2LDAwMCBNSHoYAToICISeahAAMAZYt7EgYAE&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAt6BAgcEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5%2C600+mhz+to+6%2C000+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "5,200 – 5,600 MHz",
+      "link": "https://www.google.com/search?gl=us&q=5%2C200+mhz+to+5%2C600+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=EhoqGAiEnmoSEgkAAAAAAFC0QBEAAAAAAOC1QBgBKpcBa2luZ3N0b24gZnVyeSBiZWFzdCA2NGdiIGRkcjUgNjAwMG10IHMgY2wzNiBkaW1tIG1lbW9yeSBzdG9yYWdlIGVuZHVyYW5jZV90YncgZm9ybV9mYWN0b3IgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczJZCAESEzUsMjAwIOKAkyA1LDYwMCBNSHoiGioYCISeahISCQAAAAAAULRAEQAAAAAA4LVAKhoKFjUsMjAwIE1IeiB0byA1LDYwMCBNSHoYAToICISeahAAMAZYt7EgYAE&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKAx6BAgcEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5%2C200+mhz+to+5%2C600+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Unbuffered",
+      "link": "https://www.google.com/search?gl=us&q=unbuffered+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhoIARIKVW5idWZmZXJlZDoKCIbCLBCHwiwwAFi3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKA16BAgcEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=unbuffered+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Two",
+      "link": "https://www.google.com/search?gl=us&q=two+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhUIARIDVHdvOgwIwYaOAxDahY4DMABYt7EgYAE&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKA56BAgcEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=two+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?gl=us&q=replacement+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GBIqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKA96BAgcEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under 5,200 MHz",
+      "link": "https://www.google.com/search?gl=us&q=under+5%2C200+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=EhEqDwiEnmoSCREAAAAAAFC0QBgBKpcBa2luZ3N0b24gZnVyeSBiZWFzdCA2NGdiIGRkcjUgNjAwMG10IHMgY2wzNiBkaW1tIG1lbW9yeSBzdG9yYWdlIGVuZHVyYW5jZV90YncgZm9ybV9mYWN0b3IgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczI0CAESD1VuZGVyIDUsMjAwIE1IeiIRKg8IhJ5qEgkRAAAAAABQtEAqAhgBOggIhJ5qEAAwBli3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBB6BAgcEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+5%2C200+mhz+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&q=buy+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GBIqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBF6BAgcEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "One",
+      "link": "https://www.google.com/search?gl=us&q=one+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhUIARIDT25lOgwIwYaOAxDzho4DMABYt7EgYAE&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBJ6BAgcEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=one+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?gl=us&q=size+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GBIqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMggIEhIEU2l6ZWAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBN6BAgcEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=size+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "DDR",
+      "link": "https://www.google.com/search?gl=us&q=ddr+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhMIARIDRERSOgoI3cAsEN7ALDACWLexIGAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBR6BAgcEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ddr+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "With Heat Spreader",
+      "link": "https://www.google.com/search?gl=us&q=kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+with+heat+spreader&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMiQIARISV2l0aCBIZWF0IFNwcmVhZGVyGAI6Cgjw1ywQ8dcsMANYt7EgYAE&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBV6BAgcEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+with+heat+spreader"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&q=black+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1i3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBZ6BAgcEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&q=white+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1i3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBd6BAgcEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?gl=us&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+free+shipping&hl=en&shoprs=EgRSAhABGBkqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBh6BAgcEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+free+shipping"
+    },
+    {
+      "query": "Registered",
+      "link": "https://www.google.com/search?gl=us&q=registered+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&shoprs=GAEqlwFraW5nc3RvbiBmdXJ5IGJlYXN0IDY0Z2IgZGRyNSA2MDAwbXQgcyBjbDM2IGRpbW0gbWVtb3J5IHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBmb3JtX2ZhY3RvciBpbnRlcmZhY2UgcHJvdG9jb2wgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMhoIARIKUmVnaXN0ZXJlZDoKCIbCLBCJwiwwAFi3sSBgAQ&sa=X&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Qip4GKBl6BAgcEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=registered+kingston+fury+beast+64gb+ddr5+6000mt+s+cl36+dimm+memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=10&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8NMDegQITxAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=10&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8tMDegQITxAE",
+      "3": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=20&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8tMDegQITxAG",
+      "4": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=30&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8tMDegQITxAI",
+      "5": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=40&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8tMDegQITxAK",
+      "6": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=50&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8tMDegQITxAM",
+      "7": "https://www.google.com/search?q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=FntfapyUObG0i-gP2u-B6Qw&start=60&sa=N&sstk=AU9db-By51FRcOmL3tUm2nwmktgt0oixtdLkil8rpSq8DHFwcB_QZ4bs39oiVLaECR0RF63AAbG3MHj9ULUvH87DzAMHpE14EuTpQQ&ved=2ahUKEwic98rf9uOVAxUx2gIHHdp3IM0Q8tMDegQITxAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kingston+FURY+Beast+64GB+DDR5+6000MT%2Fs+CL36+DIMM+Memory+storage+endurance_tbw+form_factor+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&start=60"
+    }
+  }
+}

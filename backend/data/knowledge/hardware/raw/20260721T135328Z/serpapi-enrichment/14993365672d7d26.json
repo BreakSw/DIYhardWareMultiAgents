@@ -1,0 +1,537 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b360e4be00621774162",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EDoVJ8jKpz36l7h6l0Y8pQ/6a5f7b360e4be00621774162.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/EDoVJ8jKpz36l7h6l0Y8pQ/6a5f7b360e4be00621774162.json_with_pixel_position",
+    "created_at": "2026-07-21 13:59:18 UTC",
+    "processed_at": "2026-07-21 13:59:18 UTC",
+    "google_url": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&oq=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/EDoVJ8jKpz36l7h6l0Y8pQ/6a5f7b360e4be00621774162.html",
+    "total_time_taken": 2.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Crucial P510 PCIe NVMe SSD M.2 storage endurance_tbw sequential_read_mb_s sequential_write_mb_s",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Crucial P510 PCIe NVMe SSD M.2 storage endurance_tbw sequential_read_mb_s sequential_write_mb_s",
+    "total_results": 446,
+    "time_taken_displayed": 0.64,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is the Crucial P510 a good SSD?",
+      "type": "ai_overview",
+      "page_token": "aOyHaHicHdBfboIwAIDx7DI-SgF1wcQsohTFWW2hLfRlAQqiLX82yRiPu8tOtdPM7ALfL_m-f_S1Ub9PcdX33X1pGMMwTC9te9HFNG9rI72PTW7kqdZZmqvl4nlhvpT5yrsP7qYdXEy7jm0JCJVQoTIVj8WNb_WIoGQkJmfMK5xpoSKVmEXMknTHGGZkgbwgJHTecqYPIZ-NqTfnpK5SdCOHjEKKG30UvtlFHLqohmdkwz2t5Z54Xx_UDnwad0QA55U8AlHM7oQ5ONoR-8QdM7IftpWDzKpOCZPqaPUbTmUpIDsUup1JiN4FXIcQOHvpi0pGQmGmrKKRGLM1ED4sUwCFfw1cskPjiYvw5AVX5DklBiLkHjAZOJpoKzHlnikbt0940EzK_HNlT_6Prd7Kul92H-3lD76KdlE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aOyHaHicHdBfboIwAIDx7DI-SgF1wcQsohTFWW2hLfRlAQqiLX82yRiPu8tOtdPM7ALfL_m-f_S1Ub9PcdX33X1pGMMwTC9te9HFNG9rI72PTW7kqdZZmqvl4nlhvpT5yrsP7qYdXEy7jm0JCJVQoTIVj8WNb_WIoGQkJmfMK5xpoSKVmEXMknTHGGZkgbwgJHTecqYPIZ-NqTfnpK5SdCOHjEKKG30UvtlFHLqohmdkwz2t5Z54Xx_UDnwad0QA55U8AlHM7oQ5ONoR-8QdM7IftpWDzKpOCZPqaPUbTmUpIDsUup1JiN4FXIcQOHvpi0pGQmGmrKKRGLM1ED4sUwCFfw1cskPjiYvw5AVX5DklBiLkHjAZOJpoKzHlnikbt0940EzK_HNlT_6Prd7Kul92H-3lD76KdlE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiSXMgdGhlIENydWNpYWwgUDUxMCBhIGdvb2QgU1NEPyIsImxrIjoiR2g1cGN5QjBhR1VnWTNKMVkybGhiQ0J3TlRFd0lHRWdaMjl2WkNCemMyUSIsImJzIjoiYzVYT3ZRckNNQlNHWVZ3ek9VZ3BHZlNvTjFBRHBXNUIya1h3RHlQb0dwTlRVOUJXbWxxOVJDX0xhanRZTi1mdjRUMkhoR1F3dDFBWWhEQ19xVVNlWWVOUFBKQnd5aklOUWtTY0FlMG5OVkVOdVg0UmF6VlprRkdVb1cwbmpDd1JvdTFzQ1VvcWc5eDlNamFtUV8yR3JkQUg2bHhlYWtqV3hOOGJXVUJ6VkNkeGpEbW1DdUdJeFIweF9YazExYkFMUEo4emhfWmE0YklLVkFNUkpQZzNLRlpUM3p0dzVsTG5OMm5UYW5wME95OCIsImlkIjoiZmNfT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiSXMgdGhlIENydWNpYWwgUDUxMCBhIGdvb2QgU1NEPyIsImxrIjoiR2g1cGN5QjBhR1VnWTNKMVkybGhiQ0J3TlRFd0lHRWdaMjl2WkNCemMyUSIsImJzIjoiYzVYT3ZRckNNQlNHWVZ3ek9VZ3BHZlNvTjFBRHBXNUIya1h3RHlQb0dwTlRVOUJXbWxxOVJDX0xhanRZTi1mdjRUMkhoR1F3dDFBWWhEQ19xVVNlWWVOUFBKQnd5aklOUWtTY0FlMG5OVkVOdVg0UmF6VlprRkdVb1cwbmpDd1JvdTFzQ1VvcWc5eDlNamFtUV8yR3JkQUg2bHhlYWtqV3hOOGJXVUJ6VkNkeGpEbW1DdUdJeFIweF9YazExYkFMUEo4emhfWmE0YklLVkFNUkpQZzNLRlpUM3p0dzVsTG5OMm5UYW5wME95OCIsImlkIjoiZmNfT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVlfNSJ9"
+    },
+    {
+      "question": "Does Crucial P510 have DRAM cache?",
+      "type": "featured_snippet",
+      "snippet": "The Crucial P510 lacks a built-in DRAM cache and does not support hardware encryption. Its high endurance rating allows the drive to handle up to 600 terabytes written for each TB of capacity.",
+      "title": "Crucial P510 1TB Internal SSD PCIe Gen 5 x4 NVMe M.2 for Laptop and ...",
+      "link": "https://www.bestbuy.com/product/crucial-p510-1tb-internal-ssd-pcie-gen-5-x4-nvme-m-2-for-laptop-and-desktop/JX8PSKCR3W/sku/6618324/reviews",
+      "displayed_link": "https://www.bestbuy.com › product › sku › reviews",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAh0lEQVR4AWNwL_ChCFPXgP93rDxJwvdMzRGaH2uu_P-O4T9J-KXkL7I0IwwQf49f8yshdD6mASACzPmCoZAwfqoCMeD5Deb_Xn4KQENIcwlQL8KAnjZpoAFkhAEoJCFeIDcMHmmGE_YzVsPBBsATEFiAsM2YLkCkQntzkHdIwaBYGByZiSIMAGjcN-icqYkTAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiRG9lcyBDcnVjaWFsIFA1MTAgaGF2ZSBEUkFNIGNhY2hlPyIsImxrIjoiR2lGa2IyVnpJR055ZFdOcFlXd2djRFV4TUNCb1lYWmxJR1J5WVcwZ1kyRmphR1UiLCJicyI6ImM1WE92UXJDTUJTR1lWd3pPVWdwR2ZTb04xQURwVzVCMmtYd0R5UG9HcE5UVTlCV21scTlSQ19MYWp0WU4tZnY0VDJIaEdRd3QxQVloRENfcVVTZVllTlBQSkJ3eWpJTlFrU2NBZTBuTlZFTnVYNFJhelZaa0ZHVW9XMG5qQ3dSb3Uxc0NVb3FnOXg5TWphbVFfMkdyZEFINmx4ZWFrald4TjhiV1VCelZDZHhqRG1tQ3VHSXhSMHhfWGsxMWJBTFBKOHpoX1phNGJJS1ZBTVJKUGczS0ZaVDN6dHc1bExuTjJuVGFucDBPeTgiLCJpZCI6ImZjX09IdGZhdTZkQVk2endQQVA0ZGFfa0FZXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiRG9lcyBDcnVjaWFsIFA1MTAgaGF2ZSBEUkFNIGNhY2hlPyIsImxrIjoiR2lGa2IyVnpJR055ZFdOcFlXd2djRFV4TUNCb1lYWmxJR1J5WVcwZ1kyRmphR1UiLCJicyI6ImM1WE92UXJDTUJTR1lWd3pPVWdwR2ZTb04xQURwVzVCMmtYd0R5UG9HcE5UVTlCV21scTlSQ19MYWp0WU4tZnY0VDJIaEdRd3QxQVloRENfcVVTZVllTlBQSkJ3eWpJTlFrU2NBZTBuTlZFTnVYNFJhelZaa0ZHVW9XMG5qQ3dSb3Uxc0NVb3FnOXg5TWphbVFfMkdyZEFINmx4ZWFrald4TjhiV1VCelZDZHhqRG1tQ3VHSXhSMHhfWGsxMWJBTFBKOHpoX1phNGJJS1ZBTVJKUGczS0ZaVDN6dHc1bExuTjJuVGFucDBPeTgiLCJpZCI6ImZjX09IdGZhdTZkQVk2endQQVA0ZGFfa0FZXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between Crucial P510 and T705?",
+      "type": "ai_overview",
+      "page_token": "Cyf6j3icHdBdboIwAADg7DI-jgLTRROzDGhBohhKW7AvC78iFOiEyM_b7rJT7TRbdoMv39e3uLX1z1NUDoPsd4oyjuPzteuuIn9Ou0aJ-7lNlTQWIonTerd53ahvRbqH_WiY3Wj4VEpmYRCAekhqefEWV6d1OXEmi8Qy5JGIO2HugzOBKWQzbmWVW5ye4HZgDu84cbUQHRYKp5HQzCYVX1glSKp7A9fKnixYRCqCDHpx4BhRLNwqAJN2psyKdISwCda0ubwwe2g9ezIuEdZDy4XerFZMk5hook4cbCcWN_98x5SCNUb8iMEpQGB7yGxeZoTXPqu1vM18n70DbqMiBojbN9fAjjefQ07ODkJ0ycownD6DEI4ngnBuqg2FJfcgncPWw6sifez11f_Y_qNohp28d9dfIY94wA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Cyf6j3icHdBdboIwAADg7DI-jgLTRROzDGhBohhKW7AvC78iFOiEyM_b7rJT7TRbdoMv39e3uLX1z1NUDoPsd4oyjuPzteuuIn9Ou0aJ-7lNlTQWIonTerd53ahvRbqH_WiY3Wj4VEpmYRCAekhqefEWV6d1OXEmi8Qy5JGIO2HugzOBKWQzbmWVW5ye4HZgDu84cbUQHRYKp5HQzCYVX1glSKp7A9fKnixYRCqCDHpx4BhRLNwqAJN2psyKdISwCda0ubwwe2g9ezIuEdZDy4XerFZMk5hook4cbCcWN_98x5SCNUb8iMEpQGB7yGxeZoTXPqu1vM18n70DbqMiBojbN9fAjjefQ07ODkJ0ycownD6DEI4ngnBuqg2FJfcgncPWw6sifez11f_Y_qNohp28d9dfIY94wA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIENydWNpYWwgUDUxMCBhbmQgVDcwNT8iLCJsayI6IkdoUmpjblZqYVdGc0lIQTFNVEFnZG5NZ2REY3dOUSIsImJzIjoiYzVYT3ZRckNNQlNHWVZ3ek9VZ3BHZlNvTjFBRHBXNUIya1h3RHlQb0dwTlRVOUJXbWxxOVJDX0xhanRZTi1mdjRUMkhoR1F3dDFBWWhEQ19xVVNlWWVOUFBKQnd5aklOUWtTY0FlMG5OVkVOdVg0UmF6VlprRkdVb1cwbmpDd1JvdTFzQ1VvcWc5eDlNamFtUV8yR3JkQUg2bHhlYWtqV3hOOGJXVUJ6VkNkeGpEbW1DdUdJeFIweF9YazExYkFMUEo4emhfWmE0YklLVkFNUkpQZzNLRlpUM3p0dzVsTG5OMm5UYW5wME95OCIsImlkIjoiZmNfT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIENydWNpYWwgUDUxMCBhbmQgVDcwNT8iLCJsayI6IkdoUmpjblZqYVdGc0lIQTFNVEFnZG5NZ2REY3dOUSIsImJzIjoiYzVYT3ZRckNNQlNHWVZ3ek9VZ3BHZlNvTjFBRHBXNUIya1h3RHlQb0dwTlRVOUJXbWxxOVJDX0xhanRZTi1mdjRUMkhoR1F3dDFBWWhEQ19xVVNlWWVOUFBKQnd5aklOUWtTY0FlMG5OVkVOdVg0UmF6VlprRkdVb1cwbmpDd1JvdTFzQ1VvcWc5eDlNamFtUV8yR3JkQUg2bHhlYWtqV3hOOGJXVUJ6VkNkeGpEbW1DdUdJeFIweF9YazExYkFMUEo4emhfWmE0YklLVkFNUkpQZzNLRlpUM3p0dzVsTG5OMm5UYW5wME95OCIsImlkIjoiZmNfT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVlfNSJ9"
+    },
+    {
+      "question": "What is the difference between Crucial P510 and SN850X?",
+      "type": "ai_overview",
+      "page_token": "52wVSHicHdBJbsIwAABA9TMciR1aKpBQ1UAWUElk4yXxpTJ2gpGdRRARyK1_6av6mlZ9wFzm69udG_vzlJu-765LzxuGYXpq25Mrp6qtPXl9NMpT0rmjVHY5f53Dt0qtwusQrNshQLTr2AaDAzQRhotE-XbkLBhJvLjs7YuUjdvlo75T36y5ZZTE2qUwqpkFPcnR7CPHPuW4o27by40e04TNcWKoAh0ta1ilI24JcVTU7iZJ2mfUPvQoclWbP2lgwe-SxfCK_O2YUZ2Vdg9FjE0ZI8AT-4yI3tDGJJzrfB9izGuWHeEOcVIcIrDY6lgYTYRFzPploxFi70DEUSVBJOLzLsBJ-si4wEcSVcoVPiVpTW0U4lnK9s4YRPswBQUQowgmlbqtZpP_sdVnVffL7tKefgHtXnj_",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=52wVSHicHdBJbsIwAABA9TMciR1aKpBQ1UAWUElk4yXxpTJ2gpGdRRARyK1_6av6mlZ9wFzm69udG_vzlJu-765LzxuGYXpq25Mrp6qtPXl9NMpT0rmjVHY5f53Dt0qtwusQrNshQLTr2AaDAzQRhotE-XbkLBhJvLjs7YuUjdvlo75T36y5ZZTE2qUwqpkFPcnR7CPHPuW4o27by40e04TNcWKoAh0ta1ilI24JcVTU7iZJ2mfUPvQoclWbP2lgwe-SxfCK_O2YUZ2Vdg9FjE0ZI8AT-4yI3tDGJJzrfB9izGuWHeEOcVIcIrDY6lgYTYRFzPploxFi70DEUSVBJOLzLsBJ-si4wEcSVcoVPiVpTW0U4lnK9s4YRPswBQUQowgmlbqtZpP_sdVnVffL7tKefgHtXnj_",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIENydWNpYWwgUDUxMCBhbmQgU044NTBYPyIsImxrIjoiR2haamNuVmphV0ZzSUhBMU1UQWdkbk1nYzI0NE5UQjQiLCJicyI6ImM1WE92UXJDTUJTR1lWd3pPVWdwR2ZTb04xQURwVzVCMmtYd0R5UG9HcE5UVTlCV21scTlSQ19MYWp0WU4tZnY0VDJIaEdRd3QxQVloRENfcVVTZVllTlBQSkJ3eWpJTlFrU2NBZTBuTlZFTnVYNFJhelZaa0ZHVW9XMG5qQ3dSb3Uxc0NVb3FnOXg5TWphbVFfMkdyZEFINmx4ZWFrald4TjhiV1VCelZDZHhqRG1tQ3VHSXhSMHhfWGsxMWJBTFBKOHpoX1phNGJJS1ZBTVJKUGczS0ZaVDN6dHc1bExuTjJuVGFucDBPeTgiLCJpZCI6ImZjX09IdGZhdTZkQVk2endQQVA0ZGFfa0FZXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9XZDZjRTFsZEdrNVFrSlNablZhTWtsV2NqZGxRaTFVYkZkNGFUaExja2xHTWtvMFRYVTFSR0pGWkZkS2RsWkZWRjlhVmtGR1dGTlRNekZ4UVZsVlowTmxTMjFhWmw5b056Rk1Nek5HUTFGMmVVNXdiSGQzUVZkemR4SVhUMGgwWm1GMU5tUkJXVFo2ZDFCQlVEUmtZVjlyUVZrYUlrRkVjM0k1WmxONmVXeEdRVEl4TVZsU05YVktXRVYxWWw5M01GODBlR2hYTUdjIiwiZmN2IjoiMyIsImVpIjoiT0h0ZmF1NmRBWTZ6d1BBUDRkYV9rQVkiLCJxYyI6ImMwM0xPd3FEUUJRRjBOUldBVGR3bDJBRVcxM0tZejRYR1hCR2ZXOG1WdTQ5SVZYYUE2ZVRvQzBrdC1HWVhnT09rSWp5em9SWlJNWUlxN3U2bFdDSlRWMEpsT292R01fR1VyOVBsQzVLOW1MX2VHbXFfT256Y2ZkLVhqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIENydWNpYWwgUDUxMCBhbmQgU044NTBYPyIsImxrIjoiR2haamNuVmphV0ZzSUhBMU1UQWdkbk1nYzI0NE5UQjQiLCJicyI6ImM1WE92UXJDTUJTR1lWd3pPVWdwR2ZTb04xQURwVzVCMmtYd0R5UG9HcE5UVTlCV21scTlSQ19MYWp0WU4tZnY0VDJIaEdRd3QxQVloRENfcVVTZVllTlBQSkJ3eWpJTlFrU2NBZTBuTlZFTnVYNFJhelZaa0ZHVW9XMG5qQ3dSb3Uxc0NVb3FnOXg5TWphbVFfMkdyZEFINmx4ZWFrald4TjhiV1VCelZDZHhqRG1tQ3VHSXhSMHhfWGsxMWJBTFBKOHpoX1phNGJJS1ZBTVJKUGczS0ZaVDN6dHc1bExuTjJuVGFucDBPeTgiLCJpZCI6ImZjX09IdGZhdTZkQVk2endQQVA0ZGFfa0FZXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "P4vbEXicxZXdkqo4EIAfYJ9jvVhnBfwdpoo6lSCjOCpyHMfx3FBAYlD5UYIy7N2-yz7VPs0GFAdm1KmzVVvbVRLSdHc6SX_2n3-5K3_z9y-_OVG0pQ8cF8dxjQQBcXHNDjzOpIlvc8vApaHtfHNcCfsV4kp7WkkOUqNiU4mv4JWk9aOluW8jsGj_EU_ApIlMYwMWlcxdMiyT4jWL_ramnMGxx-bXRpdNarSG_ZqIJhhboYZFUqvzgljTONNjBuC_FQJW6YMAlU3UT59lQPSvAgAlfcrvdnkYpWAWZzMIWcTMQr4aj2TDSgEs4AT6LYcC0Dsq7VuJDMrTx9RF1WG6CVU-JvpRLm0N5qNenF2UCx_hKW6-9ebNtVJR1XIctq5iZCq9vIpaDKKn6kX2qukAd2PgxOTpRq5yALo9MtXJpVsuyhY4k3wdC_DsojhEWB3ynBWyQeBWtmNnLyFNy1N-Fvmg9whCtT9PgrHfHyNt-zZpoe4Y7nrjiHC2xezcwEQYGY7Bf8vmQl1o8WKjc3-XcWHTMxi0BMbMdS2tPxzpQW1Yg0KBCnI-lYKkyu8Xjzk_vAsOpyMmx0tL8k9B_gIDnTm_Oz52VRgDkKPZTGutSz5XNIt9gYpMzmiMQEZFlpx8HE-BilVByNmhUEf9D-sVM4B5eFll7OW6Xsm6lLHMjm1zhmRUDqU7yrH84PRkosFmiW-gF2bycYs6gbC8FfW4g2bBLr0YwkpZ_8HmA0LOf0aZk3pK6Lzue1Jl-tgVEHmm3OT1mtzi5iQE5OX_oZpLFOxN9BqDHh7xuqiApGH5C4rWw9eGoV-u-sCzfqIf2P87F1m3CPJucYEL5wsusm5BrneLUxHFOReZ3ROUr3KxycZyt-h_6BaXuBiUubjeLd65SFO5zQW8xQW8xgX7w__EhX6Fi7xbFLjYfOgW8Hyqqeqdi5_vFua_6xYZJvg4lFvHfk2uthAFd-zZdj5t7EbTqEGD8EVRB6NAHD7ZX7eQpRc9eCZy74wVeoD1QZSgO4MpggeMKjtJDvf2ynSrk5bAVyeyiqvjlxGuTqfd6qhWr9IoCE2Cq9hH-9D0bWxEVlyleLfHfsT8jBCbyPAsgxaVcbiKcKateG4YSLzZ2r6idlMYrn8XH81nLZiJTQPhJdwuKOw8KbPJC5jPdmQVup3lYd01RP4gqHXnbbdLhjN_j5byIFls18l46vSSPm0K994rGm7VH8C63_D2YbuYj21lkyQav2kiKraWqveseV2FzFrzgy-053ttZap03f_-cgizrKg0Ibu-3tuDx7Zd8UJbYjXYJGCsgzmBNpBZgcmE_QL2i9lNVqhtGpgepDoSl2Krw5vWfcu8b-OKR6JkK4l8hfqhJPwDgSA1Tg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P4vbEXicxZXdkqo4EIAfYJ9jvVhnBfwdpoo6lSCjOCpyHMfx3FBAYlD5UYIy7N2-yz7VPs0GFAdm1KmzVVvbVRLSdHc6SX_2n3-5K3_z9y-_OVG0pQ8cF8dxjQQBcXHNDjzOpIlvc8vApaHtfHNcCfsV4kp7WkkOUqNiU4mv4JWk9aOluW8jsGj_EU_ApIlMYwMWlcxdMiyT4jWL_ramnMGxx-bXRpdNarSG_ZqIJhhboYZFUqvzgljTONNjBuC_FQJW6YMAlU3UT59lQPSvAgAlfcrvdnkYpWAWZzMIWcTMQr4aj2TDSgEs4AT6LYcC0Dsq7VuJDMrTx9RF1WG6CVU-JvpRLm0N5qNenF2UCx_hKW6-9ebNtVJR1XIctq5iZCq9vIpaDKKn6kX2qukAd2PgxOTpRq5yALo9MtXJpVsuyhY4k3wdC_DsojhEWB3ynBWyQeBWtmNnLyFNy1N-Fvmg9whCtT9PgrHfHyNt-zZpoe4Y7nrjiHC2xezcwEQYGY7Bf8vmQl1o8WKjc3-XcWHTMxi0BMbMdS2tPxzpQW1Yg0KBCnI-lYKkyu8Xjzk_vAsOpyMmx0tL8k9B_gIDnTm_Oz52VRgDkKPZTGutSz5XNIt9gYpMzmiMQEZFlpx8HE-BilVByNmhUEf9D-sVM4B5eFll7OW6Xsm6lLHMjm1zhmRUDqU7yrH84PRkosFmiW-gF2bycYs6gbC8FfW4g2bBLr0YwkpZ_8HmA0LOf0aZk3pK6Lzue1Jl-tgVEHmm3OT1mtzi5iQE5OX_oZpLFOxN9BqDHh7xuqiApGH5C4rWw9eGoV-u-sCzfqIf2P87F1m3CPJucYEL5wsusm5BrneLUxHFOReZ3ROUr3KxycZyt-h_6BaXuBiUubjeLd65SFO5zQW8xQW8xgX7w__EhX6Fi7xbFLjYfOgW8Hyqqeqdi5_vFua_6xYZJvg4lFvHfk2uthAFd-zZdj5t7EbTqEGD8EVRB6NAHD7ZX7eQpRc9eCZy74wVeoD1QZSgO4MpggeMKjtJDvf2ynSrk5bAVyeyiqvjlxGuTqfd6qhWr9IoCE2Cq9hH-9D0bWxEVlyleLfHfsT8jBCbyPAsgxaVcbiKcKateG4YSLzZ2r6idlMYrn8XH81nLZiJTQPhJdwuKOw8KbPJC5jPdmQVup3lYd01RP4gqHXnbbdLhjN_j5byIFls18l46vSSPm0K994rGm7VH8C63_D2YbuYj21lkyQav2kiKraWqveseV2FzFrzgy-053ttZap03f_-cgizrKg0Ibu-3tuDx7Zd8UJbYjXYJGCsgzmBNpBZgcmE_QL2i9lNVqhtGpgepDoSl2Krw5vWfcu8b-OKR6JkK4l8hfqhJPwDgSA1Tg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Crucial P510 1TB PCIe Gen5 NVMe M.2 SSD",
+      "link": "https://www.crucial.com/ssd/p510/ct1000p510ssd8?srsltid=AfmBOoquiGlwG3eHHkBtMY_MfaAG_bhsFwYwL5BnYiXljDtSX8ElzuxK",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.crucial.com%2Fssd%2Fp510%2Fct1000p510ssd8%3Fsrsltid%3DAfmBOoquiGlwG3eHHkBtMY_MfaAG_bhsFwYwL5BnYiXljDtSX8ElzuxK&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECBkQAQ",
+      "displayed_link": "https://www.crucial.com › ssd › p510 › ct1000p510ssd8",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png",
+      "snippet": "Harness the power of NVMe technology. Crucial P510 SSD Capacity: 1TB 1TB2TB Thermal: Non-Heatsink. With Micron G9 TLC NAND, the P510 has the endurance you want ...",
+      "snippet_highlighted_words": [
+        "Crucial P510 SSD Capacity: 1TB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Harness the power of NVMe technology. Crucial P510 SSD Capacity: 1TB 1TB2TB Thermal: Non-Heatsink. With Micron G9 TLC NAND, the P510 has the endurance you want ...",
+          "source_info_link": "https://www.crucial.com/ssd/p510/ct1000p510ssd8?srsltid=AfmBOoquiGlwG3eHHkBtMY_MfaAG_bhsFwYwL5BnYiXljDtSX8ElzuxK",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.crucial.com%2Fssd%2Fp510%2Fct1000p510ssd8%3Fsrsltid%3DAfmBOoquiGlwG3eHHkBtMY_MfaAG_bhsFwYwL5BnYiXljDtSX8ElzuxK&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.crucial.com%2Fssd%2Fp510%2Fct1000p510ssd8%3Fsrsltid%3DAfmBOoquiGlwG3eHHkBtMY_MfaAG_bhsFwYwL5BnYiXljDtSX8ElzuxK",
+      "source": "Crucial"
+    },
+    {
+      "position": 2,
+      "title": "Crucial P510 Review: Gen5 Performance at a Gen4 Price",
+      "link": "https://www.storagereview.com/review/crucial-p510-review-gen5-performance-at-a-gen4-price",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.storagereview.com%2Freview%2Fcrucial-p510-review-gen5-performance-at-a-gen4-price&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECCAQAQ",
+      "displayed_link": "https://www.storagereview.com › Review",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX____2_P7U7vql3PaAzfJ6yvBpxO-b2PXL6Pjw-f2u3_dGuOxMuuxlwu7X7vlNu-1Nuuy75Pg7tuxOu-2Y1vRZv-7n9v1lxfCK0PLh8_t0yfH4_v-GzfDA4vT4-PjG6PnR5fAvFO4-AAABQklEQVR4AYxShZYDIQxkXSZbcixQ7_9_5iWBc001HWMedf-bpu36YeynefkKrSNkCMA2fYIPXgBvwwR6eo-tQRDemfXdM4fpHYaC7VW7E-KrZyDW30QiL68kCtW5SRCVPlXMhUTI1dRkXmRExNUZkwlHYsN20Hb0KCBTUumBaPdqF05n53IEWfxuqR28BeIkS90Vtr1HqU5iY5OogBf5PsCOSJurc6rs7erchVgjjGhzw25lkoA9rBrtTQVHlLOPAk7qogdaCzaX2oyTLaUKhbtiLTTEV_KS7K5oSxin6QJiGdHirNyIXRb05x0ot2q1-6uCGcRe8l1LZmlXQ6F9uc7a-bBDZKZEfFeb6Wj_FvKsx8H4eAEfNzAu1sNjZ7XJ7m26IJnWZAcjxKqr0w7H5zHAZKXk0ROutCSUwaHASFQmAAAAthwVSPPDDQAAAABJRU5ErkJggg.png",
+      "date": "May 6, 2025",
+      "snippet": "Crucial P510 brings Gen5 SSD performance to mainstream users with strong efficiency, solid throughput, and broad desktop/laptop support.",
+      "snippet_highlighted_words": [
+        "Crucial P510",
+        "SSD"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Crucial P510 brings Gen5 SSD performance to mainstream users with strong efficiency, solid throughput, and broad desktop/laptop support.",
+          "source_info_link": "https://www.storagereview.com/review/crucial-p510-review-gen5-performance-at-a-gen4-price",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX____2_P7U7vql3PaAzfJ6yvBpxO-b2PXL6Pjw-f2u3_dGuOxMuuxlwu7X7vlNu-1Nuuy75Pg7tuxOu-2Y1vRZv-7n9v1lxfCK0PLh8_t0yfH4_v-GzfDA4vT4-PjG6PnR5fAvFO4-AAABQklEQVR4AYxShZYDIQxkXSZbcixQ7_9_5iWBc001HWMedf-bpu36YeynefkKrSNkCMA2fYIPXgBvwwR6eo-tQRDemfXdM4fpHYaC7VW7E-KrZyDW30QiL68kCtW5SRCVPlXMhUTI1dRkXmRExNUZkwlHYsN20Hb0KCBTUumBaPdqF05n53IEWfxuqR28BeIkS90Vtr1HqU5iY5OogBf5PsCOSJurc6rs7erchVgjjGhzw25lkoA9rBrtTQVHlLOPAk7qogdaCzaX2oyTLaUKhbtiLTTEV_KS7K5oSxin6QJiGdHirNyIXRb05x0ot2q1-6uCGcRe8l1LZmlXQ6F9uc7a-bBDZKZEfFeb6Wj_FvKsx8H4eAEfNzAu1sNjZ7XJ7m26IJnWZAcjxKqr0w7H5zHAZKXk0ROutCSUwaHASFQmAAAAthwVSPPDDQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.storagereview.com%2Freview%2Fcrucial-p510-review-gen5-performance-at-a-gen4-price&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.storagereview.com%2Freview%2Fcrucial-p510-review-gen5-performance-at-a-gen4-price",
+      "source": "StorageReview.com"
+    },
+    {
+      "position": 3,
+      "title": "P510 2TB Internal SSD PCIe Gen 5 x4 NVMe M.2 $209.99 ...",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1qb29hh/ssd_crucial_p510_2tb_internal_ssd_pcie_gen_5_x4/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1qb29hh%2Fssd_crucial_p510_2tb_internal_ssd_pcie_gen_5_x4%2F&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECCMQAQ",
+      "displayed_link": "30+ comments · 6 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "P510 2TB Internal SSD PCIe Gen 5 x4 NVMe M.2 $209.99. The Crucial P510 2 TB is a TLC SSD. Interface: PCIe 5.0 x4 Form Factor: M.2. A HMB: 64 MB ...",
+      "snippet_highlighted_words": [
+        "P510 2TB Internal SSD PCIe Gen 5 x4 NVMe M.2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "P510 2TB Internal SSD PCIe Gen 5 x4 NVMe M.2 $209.99. The Crucial P510 2 TB is a TLC SSD. Interface: PCIe 5.0 x4 Form Factor: M.2. A HMB: 64 MB ...",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/1qb29hh/ssd_crucial_p510_2tb_internal_ssd_pcie_gen_5_x4/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1qb29hh%2Fssd_crucial_p510_2tb_internal_ssd_pcie_gen_5_x4%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1qb29hh%2Fssd_crucial_p510_2tb_internal_ssd_pcie_gen_5_x4%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 4,
+      "title": "PCIe 5.0 is finally affordable! | Crucial P510 NVMe SSDs",
+      "link": "https://www.youtube.com/watch?v=CoS7qKH6yow",
+      "displayed_link": "75.5K+ views · 12 months ago",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b360e4be00621774162/images/VbotH-VA_UdBtvWUjQiL8Sflvg6TUSwcSIbByzaIYJg.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "In this video, we take a look at the specs and features of the Crucial P510 SSD range. 510 SSD range. What makes it special, and why you may ...",
+      "duration": "2:04",
+      "about_this_result": {
+        "source": {
+          "description": "In this video, we take a look at the specs and features of the Crucial P510 SSD range. 510 SSD range. What makes it special, and why you may ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCoS7qKH6yow&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCoS7qKH6yow",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcRkPt-WGwVV9XcWCYGDZX7XVG3ASrDvBieLLQ",
+      "source": "YouTube · Scan Computers"
+    },
+    {
+      "position": 5,
+      "title": "Crucial P510 2TB PCIe Gen5 NVMe M.2 SSD",
+      "link": "https://www.crucial.com/ssd/p510/ct2000p510ssd8?srsltid=AfmBOoojqwM-V98wFh7DoSQFhRCh7ipN_iX-ZO89KYfsHbFw0WGrh-FO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.crucial.com%2Fssd%2Fp510%2Fct2000p510ssd8%3Fsrsltid%3DAfmBOoojqwM-V98wFh7DoSQFhRCh7ipN_iX-ZO89KYfsHbFw0WGrh-FO&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECB8QAQ",
+      "displayed_link": "https://www.crucial.com › ssd › p510 › ct2000p510ssd8",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png",
+      "snippet": "Harness the power of NVMe technology speed Crucial P510 SSD Capacity: 2TB 1TB2TB Thermal: Non-Heatsink. With Micron G9 TLC NAND, the P510 has the endurance you ...",
+      "snippet_highlighted_words": [
+        "Crucial P510 SSD Capacity: 2TB"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Harness the power of NVMe technology speed Crucial P510 SSD Capacity: 2TB 1TB2TB Thermal: Non-Heatsink. With Micron G9 TLC NAND, the P510 has the endurance you ...",
+          "source_info_link": "https://www.crucial.com/ssd/p510/ct2000p510ssd8?srsltid=AfmBOoojqwM-V98wFh7DoSQFhRCh7ipN_iX-ZO89KYfsHbFw0WGrh-FO",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.crucial.com%2Fssd%2Fp510%2Fct2000p510ssd8%3Fsrsltid%3DAfmBOoojqwM-V98wFh7DoSQFhRCh7ipN_iX-ZO89KYfsHbFw0WGrh-FO&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.crucial.com%2Fssd%2Fp510%2Fct2000p510ssd8%3Fsrsltid%3DAfmBOoojqwM-V98wFh7DoSQFhRCh7ipN_iX-ZO89KYfsHbFw0WGrh-FO",
+      "source": "Crucial"
+    },
+    {
+      "position": 6,
+      "title": "Crucial P510 PCIe Gen5 NVMe 1TB SSD, Up to ...",
+      "link": "https://www.amazon.com/Crucial-Internal-Compatible-Desktop-Software/dp/B0DZ5ZK225",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FCrucial-Internal-Compatible-Desktop-Software%2Fdp%2FB0DZ5ZK225&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECB4QAQ",
+      "displayed_link": "https://www.amazon.com › Crucial-Internal-Compatible-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Delivers up to 11,000MB/s read and 8,500MB/s write speeds for quicker game load times, bootups, and smooth multitasking Spacious 1TB",
+      "snippet_highlighted_words": [
+        "Delivers up to 11,000MB/s read and 8,500MB/s write speeds"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Delivers up to 11,000MB/s read and 8,500MB/s write speeds for quicker game load times, bootups, and smooth multitasking Spacious 1TB",
+          "source_info_link": "https://www.amazon.com/Crucial-Internal-Compatible-Desktop-Software/dp/B0DZ5ZK225",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FCrucial-Internal-Compatible-Desktop-Software%2Fdp%2FB0DZ5ZK225&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FCrucial-Internal-Compatible-Desktop-Software%2Fdp%2FB0DZ5ZK225",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 7,
+      "title": "Crucial P510 Gen5 2TB SSD Review - 10GB/s Speeds ...",
+      "link": "https://www.thessdreview.com/our-reviews/nvme/crucial-p510-gen5-2tb-ssd-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.thessdreview.com%2Four-reviews%2Fnvme%2Fcrucial-p510-gen5-2tb-ssd-review%2F&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECCIQAQ",
+      "displayed_link": "https://www.thessdreview.com › our-reviews › nvme",
+      "favicon": "https://serpapi.com/searches/6a5f7b360e4be00621774162/images/VbotH-VA_UdBtvWUjQiL8ZGfN9ipd7r2XtM3x_Bw7M0.png",
+      "date": "May 4, 2025",
+      "snippet": "The Crucial P510 is a PCIe 5.0 x4 (4-lane) form factor 2280 (22mm wide x 80mm long) SSD that uses the latest NVMe 2.0 SSD storage protocol.",
+      "snippet_highlighted_words": [
+        "PCIe 5.0 x4 (4-lane) form factor 2280"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Crucial P510 is a PCIe 5.0 x4 (4-lane) form factor 2280 (22mm wide x 80mm long) SSD that uses the latest NVMe 2.0 SSD storage protocol.",
+          "source_info_link": "https://www.thessdreview.com/our-reviews/nvme/crucial-p510-gen5-2tb-ssd-review/",
+          "icon": "https://serpapi.com/searches/6a5f7b360e4be00621774162/images/VbotH-VA_UdBtvWUjQiL8VMVFiojnuAu-rPK3FhZc61wOYDUCJO8PWJJoG2eGFjq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.thessdreview.com%2Four-reviews%2Fnvme%2Fcrucial-p510-gen5-2tb-ssd-review%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thessdreview.com%2Four-reviews%2Fnvme%2Fcrucial-p510-gen5-2tb-ssd-review%2F",
+      "source": "The SSD Review",
+      "read_more_link": "https://www.thessdreview.com/our-reviews/nvme/crucial-p510-gen5-2tb-ssd-review/"
+    },
+    {
+      "position": 8,
+      "title": "Micron Crucial P510 (Phison e31t PCIe Gen 5.0 NVMe ...",
+      "link": "https://forums.guru3d.com/threads/review-micron-crucial-p510-phison-e31t-pcie-gen-5-0-nvme-ssd-10gb-s.456753/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fforums.guru3d.com%2Fthreads%2Freview-micron-crucial-p510-phison-e31t-pcie-gen-5-0-nvme-ssd-10gb-s.456753%2F&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECCEQAQ",
+      "displayed_link": "https://forums.guru3d.com › ... › Frontpage news",
+      "favicon": "https://serpapi.com/searches/6a5f7b360e4be00621774162/images/VbotH-VA_UdBtvWUjQiL8bZq-5FMQFtf8X0WflgBJuw.png",
+      "date": "Jun 17, 2025",
+      "snippet": "Crucial P510 SSD, a new drive that takes full advantage of the ultra-fast PCIe 5.0 technology, leaving older PCIe 4.0 SSDs behind. SATA to M.2 ...",
+      "snippet_highlighted_words": [
+        "Crucial P510 SSD"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Crucial P510 SSD, a new drive that takes full advantage of the ultra-fast PCIe 5.0 technology, leaving older PCIe 4.0 SSDs behind. SATA to M.2 ...",
+          "source_info_link": "https://forums.guru3d.com/threads/review-micron-crucial-p510-phison-e31t-pcie-gen-5-0-nvme-ssd-10gb-s.456753/",
+          "icon": "https://serpapi.com/searches/6a5f7b360e4be00621774162/images/VbotH-VA_UdBtvWUjQiL8W6llXrY6aa2wFUne3fX4ajrJkbKQ9jE6FzNxobkGrsa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fforums.guru3d.com%2Fthreads%2Freview-micron-crucial-p510-phison-e31t-pcie-gen-5-0-nvme-ssd-10gb-s.456753%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fforums.guru3d.com%2Fthreads%2Freview-micron-crucial-p510-phison-e31t-pcie-gen-5-0-nvme-ssd-10gb-s.456753%2F",
+      "source": "www.guru3d.com"
+    },
+    {
+      "position": 9,
+      "title": "Crucial P510 SSD support",
+      "link": "https://www.crucial.com/support/ssd-support/p510-support?srsltid=AfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.crucial.com%2Fsupport%2Fssd-support%2Fp510-support%3Fsrsltid%3DAfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQFnoECB0QAQ",
+      "displayed_link": "https://www.crucial.com › ... › SSD firmware and support",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png",
+      "snippet": "NVMe SSD Driver enables additional management and support features for Micron and Crucial SSDs in Windows Operating Systems.",
+      "snippet_highlighted_words": [
+        "NVMe SSD Driver"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NVMe SSD Driver enables additional management and support features for Micron and Crucial SSDs in Windows Operating Systems.",
+          "source_info_link": "https://www.crucial.com/support/ssd-support/p510-support?srsltid=AfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyUlEQVR4AWJwL_ABtFsmBQyEQBC0gIg4iQY85IkGPKwQrGADEZPmtffO0GzuPOoJxTU9PJW_cH_gTVyFF-qCK0hANihgAJduYZ0EZCBGBk447koIcptw3Jl0kJqE2rGBAKJy3M4krBPtiYxHn0eZTVhU2XqMBwK87dEod8cXuy70-gM4VxiU43ye8POPlH80Y3lQWUpl5LjQsg5xvvBjQwwm4M6ItmKPtvVO-U6hE5j25ElZ7G3AxSIislTdbdqRZBA-8BNF8BfeAWHMNnTAgZMzAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.crucial.com%2Fsupport%2Fssd-support%2Fp510-support%3Fsrsltid%3DAfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.crucial.com%2Fsupport%2Fssd-support%2Fp510-support%3Fsrsltid%3DAfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B",
+      "source": "Crucial",
+      "read_more_link": "https://www.crucial.com/support/ssd-support/p510-support?srsltid=AfmBOop0FppsaElXegZ-dHBwxB7l9sh_wo8tPJtFSXxd7AQCR9RodH0B"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Crucial P510 1TB PCIe Gen5 NVMe M 2 SSD",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+1TB+PCIe+Gen5+NVMe+M+2+SSD&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+1TB+PCIe+Gen5+NVMe+M+2+SSD"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial P510 2TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+2TB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+2TB"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial P510 2TB PCIe Gen5 NVMe M 2 SSD",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+2TB+PCIe+Gen5+NVMe+M+2+SSD&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+2TB+PCIe+Gen5+NVMe+M+2+SSD"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial P510 4TB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+4TB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+4TB"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial p510 1tb pcie gen5 nvme m 2 ssd review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+p510+1tb+pcie+gen5+nvme+m+2+ssd+review&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+p510+1tb+pcie+gen5+nvme+m+2+ssd+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial P510 specs",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+specs&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+specs"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial P510 2TB Review",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+2TB+Review&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+2TB+Review"
+    },
+    {
+      "block_position": 1,
+      "query": "Crucial P510 reddit",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Crucial+P510+reddit&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+reddit"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYEipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAB6BAgYEAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYEipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAF6BAgYEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "1 – 2 TB",
+      "link": "https://www.google.com/search?hl=en&q=1+tb+to+2+tb+crucial+p510+pcie+nvme+ssd+m+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESGioYCI2taRISCQAAAAAAQI9AEQAAAAAAQJ9AGAEqX2NydWNpYWwgcDUxMCBwY2llIG52bWUgc3NkIG0gMiBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMkYIARIKMSDigJMgMiBUQiIaKhgIja1pEhIJAAAAAABAj0ARAAAAAABAn0AqEAoMMSBUQiB0byAyIFRCGAE6CAiNrWkQADAGWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAJ6BAgYEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=1+tb+to+2+tb+crucial+p510+pcie+nvme+ssd+m+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Hard Drives",
+      "link": "https://www.google.com/search?hl=en&q=hard+drives+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYCSpfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyDwgJEgtIYXJkIERyaXZlc2AB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAN6BAgYEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hard+drives+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "500 GB – 1 TB",
+      "link": "https://www.google.com/search?hl=en&q=500+gb+to+1+tb+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESGioYCI2taRISCQAAAAAAQH9AEQAAAAAAQI9AGAEqX2NydWNpYWwgcDUxMCBwY2llIG52bWUgc3NkIG0gMiBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMk0IARIPNTAwIEdCIOKAkyAxIFRCIhoqGAiNrWkSEgkAAAAAAEB_QBEAAAAAAECPQCoSCg41MDAgR0IgdG8gMSBUQhgBOggIja1pEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAR6BAgYEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=500+gb+to+1+tb+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?hl=en&q=ebay+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYAipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyCAgCEgRlQmF5WNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAV6BAgYEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http%3A%2F%2Fshop.ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE%2CSIZE%2CURL&nfrp=2"
+    },
+    {
+      "query": "Internal",
+      "link": "https://www.google.com/search?hl=en&q=internal+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYASpfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyFggBEghJbnRlcm5hbDoICAgQgfEEMAJY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAZ6BAgYEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=internal+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under 500 GB",
+      "link": "https://www.google.com/search?hl=en&q=under+500+gb+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESESoPCI2taRIJEQAAAAAAQH9AGAEqX2NydWNpYWwgcDUxMCBwY2llIG52bWUgc3NkIG0gMiBzdG9yYWdlIGVuZHVyYW5jZV90Yncgc2VxdWVudGlhbF9yZWFkX21iX3Mgc2VxdWVudGlhbF93cml0ZV9tYl9zMjEIARIMVW5kZXIgNTAwIEdCIhEqDwiNrWkSCREAAAAAAEB_QCoCGAE6CAiNrWkQADAGWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAd6BAgYEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+500+gb+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?hl=en&q=best+buy+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYAipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyDAgCEghCZXN0IEJ1eVjb8iBgAQ&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAh6BAgYEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+sale&gl=us&shoprs=CAESBEoCGAEYBipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyEwgGEgdPbiBzYWxlGAIiBEoCGAFY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAl6BAgYEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYEipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAp6BAgYEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "External",
+      "link": "https://www.google.com/search?hl=en&q=external+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYASpfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyFggBEghFeHRlcm5hbDoICAgQgvEEMAJY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAt6BAgYEA8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=external+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+for+sale&gl=us&shoprs=CAEYEipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKAx6BAgYEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+for+sale"
+    },
+    {
+      "query": "Under $100",
+      "link": "https://www.google.com/search?hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+under+%24100&gl=us&shoprs=CAESDRILEQAAAACE15dBGAEYBSpfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyIwgFEgpVbmRlciAkMTAwGAIiDRILEQAAAACE15dBGAEqAhgBWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKA16BAgYEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s+under+%24100"
+    },
+    {
+      "query": "Adorama",
+      "link": "https://www.google.com/search?hl=en&q=adorama+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYAipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyCwgCEgdBZG9yYW1hWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKA56BAgYEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=adorama+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQodioVvsAAAAEHRSTlMAeiaNN2fNmvCtR7kYVA_cRkZyngAAAUxJREFUOI19U4muwyAMKyEJ1yj-_699gdKydeuLJk2Vc9hO2LYVNZRoUXLefsQrAaDmmRkE2e94wBHOg3YiKukD3iPOKJyJOQaP18LpRGsModmILEWl8lW_yuElqNMmzok6mgmrP6DJklJJTlKh8MnPIknOkiCiwTUWJ0PfBfslyeWas2nqatOJ82LNCA6w2mIfP_CeoWTc2WjWe_85RQ2giHpRvFsLrTki5E0n_3tCQknBm-PTBLknCBLYFz05fm04m-_SQvonATuq4nlE7CsS90wyEuwK9FkmrLeReDRqnJcmGlb7b6ubIsAMH46gfi-r2NItoVP7sW7f59uPj7ucNJWug7GeQfkFckfB-8kNQeM8eUnrjjg_x7jDt96WrsO35rG34fnfCah7fxjz4czrk-PjDV9MSzttCXdrx-OFL0PQvXyGaev69aP4D5O5HPV8SgrrAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYASpfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyFQgBEgVCbGFjazoKCJi5bxCbuW8wAFjb8iBgAQ&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKA96BAgYEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Over 9,500 MB/s write speed",
+      "link": "https://www.google.com/search?hl=en&q=over+9%2C500+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESEioQCO6z2QMSCQkAAAAAAI7CQBgBKl9jcnVjaWFsIHA1MTAgcGNpZSBudm1lIHNzZCBtIDIgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczJCCAESG092ZXIgOSw1MDAgTUIvcyB3cml0ZSBzcGVlZCISKhAI7rPZAxIJCQAAAAAAjsJAKgIYAToJCO6z2QMQADAGWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBB6BAgYEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+9%2C500+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "5,000 – 7,400 MB/s",
+      "link": "https://www.google.com/search?hl=en&q=5%2C000+mb%2Fs+to+7%2C400+mb%2Fs+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESGyoZCPiF2QMSEgkAAAAAAIizQBEAAAAAAOi8QBgBKl9jcnVjaWFsIHA1MTAgcGNpZSBudm1lIHNzZCBtIDIgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczJeCAESFDUsMDAwIOKAkyA3LDQwMCBNQi9zIhsqGQj4hdkDEhIJAAAAAACIs0ARAAAAAADovEAqHAoYNSwwMDAgTUIvcyB0byA3LDQwMCBNQi9zGAE6CQj4hdkDEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBF6BAgYEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5%2C000+mb%2Fs+to+7%2C400+mb%2Fs+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYCipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyBwgKEgNOZXdY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBJ6BAgYEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&q=used+Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYCipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyCAgKEgRVc2VkWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBN6BAgYEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "6,800 – 9,500 MB/s write speed",
+      "link": "https://www.google.com/search?hl=en&q=6%2C800+mb%2Fs+write+speed+to+9%2C500+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESGyoZCO6z2QMSEgkAAAAAAJC6QBEAAAAAAI7CQBgBKl9jcnVjaWFsIHA1MTAgcGNpZSBudm1lIHNzZCBtIDIgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczKCAQgBEiA2LDgwMCDigJMgOSw1MDAgTUIvcyB3cml0ZSBzcGVlZCIbKhkI7rPZAxISCQAAAAAAkLpAEQAAAAAAjsJAKjQKMDYsODAwIE1CL3Mgd3JpdGUgc3BlZWQgdG8gOSw1MDAgTUIvcyB3cml0ZSBzcGVlZBgBOgkI7rPZAxAAMAZY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBR6BAgYEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=6%2C800+mb%2Fs+write+speed+to+9%2C500+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?hl=en&q=walmart+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYAipfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyCwgCEgdXYWxtYXJ0WNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBV6BAgYEBo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s",
+      "thumbnail": "https://serpapi.com/searches/6a5f7b360e4be00621774162/images/1LEtUCzfgYVnnKg4F51qr19W2xGPZv6BsWs9L9-tDGA.png"
+    },
+    {
+      "query": "Hot Swappable",
+      "link": "https://www.google.com/search?hl=en&q=hot+swappable+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAEYASpfY3J1Y2lhbCBwNTEwIHBjaWUgbnZtZSBzc2QgbSAyIHN0b3JhZ2UgZW5kdXJhbmNlX3RidyBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyHQgBEg1Ib3QgU3dhcHBhYmxlOgoIrOYsEK3mLDADWNvyIGAB&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBZ6BAgYEBw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=hot+swappable+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "3,000 – 4,200 MB/s write speed",
+      "link": "https://www.google.com/search?hl=en&q=3%2C000+mb%2Fs+write+speed+to+4%2C200+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESGyoZCO6z2QMSEgkAAAAAAHCnQBEAAAAAAGiwQBgBKl9jcnVjaWFsIHA1MTAgcGNpZSBudm1lIHNzZCBtIDIgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczKCAQgBEiAzLDAwMCDigJMgNCwyMDAgTUIvcyB3cml0ZSBzcGVlZCIbKhkI7rPZAxISCQAAAAAAcKdAEQAAAAAAaLBAKjQKMDMsMDAwIE1CL3Mgd3JpdGUgc3BlZWQgdG8gNCwyMDAgTUIvcyB3cml0ZSBzcGVlZBgBOgkI7rPZAxAAMAZY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBd6BAgYEB0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3%2C000+mb%2Fs+write+speed+to+4%2C200+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "4,200 – 6,800 MB/s write speed",
+      "link": "https://www.google.com/search?hl=en&q=4%2C200+mb%2Fs+write+speed+to+6%2C800+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESGyoZCO6z2QMSEgkAAAAAAGiwQBEAAAAAAJC6QBgBKl9jcnVjaWFsIHA1MTAgcGNpZSBudm1lIHNzZCBtIDIgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczKCAQgBEiA0LDIwMCDigJMgNiw4MDAgTUIvcyB3cml0ZSBzcGVlZCIbKhkI7rPZAxISCQAAAAAAaLBAEQAAAAAAkLpAKjQKMDQsMjAwIE1CL3Mgd3JpdGUgc3BlZWQgdG8gNiw4MDAgTUIvcyB3cml0ZSBzcGVlZBgBOgkI7rPZAxAAMAZY2_IgYAE&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBh6BAgYEB4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4%2C200+mb%2Fs+write+speed+to+6%2C800+mb%2Fs+write+speed+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under 5,000 MB/s",
+      "link": "https://www.google.com/search?hl=en&q=under+5%2C000+mb%2Fs+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&gl=us&shoprs=CAESEioQCPiF2QMSCREAAAAAAIizQBgBKl9jcnVjaWFsIHA1MTAgcGNpZSBudm1lIHNzZCBtIDIgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczI3CAESEFVuZGVyIDUsMDAwIE1CL3MiEioQCPiF2QMSCREAAAAAAIizQCoCGAE6CQj4hdkDEAAwBljb8iBgAQ&sa=X&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQip4GKBl6BAgYEB8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+5%2C000+mb%2Fs+crucial+p510+pcie+nvme+ssd+m+2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=10&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8NMDegQIOhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=10&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=20&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=30&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=40&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=50&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAM",
+      "7": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=60&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAO",
+      "8": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=70&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAQ",
+      "9": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=80&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAS",
+      "10": "https://www.google.com/search?q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=OHtfau6dAY6zwPAP4da_kAY&start=90&sa=N&sstk=AU9db-BAZciq_7CiUuetG99YFtt6hjocINZmLdL5ksmUq_FxapuDx-CwJr3TarPwO-tSkBFY2cjtVQAM5udnG7ShHpAWsVNQAucWYg&ved=2ahUKEwjuma7v9uOVAxWOGRAIHWHrD2IQ8tMDegQIOhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Crucial+P510+PCIe+NVMe+SSD+M.2+storage+endurance_tbw+sequential_read_mb_s+sequential_write_mb_s&start=90"
+    }
+  }
+}

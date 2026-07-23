@@ -1,0 +1,584 @@
+{
+  "search_metadata": {
+    "id": "6a60aa1db463f36fa5e1dd4e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/25TIg49YcxXNLVQn1MlmIA/6a60aa1db463f36fa5e1dd4e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/25TIg49YcxXNLVQn1MlmIA/6a60aa1db463f36fa5e1dd4e.json_with_pixel_position",
+    "created_at": "2026-07-22 11:31:41 UTC",
+    "processed_at": "2026-07-22 11:31:41 UTC",
+    "google_url": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&oq=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/25TIg49YcxXNLVQn1MlmIA/6a60aa1db463f36fa5e1dd4e.html",
+    "total_time_taken": 0.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Intel Core i5-12600KF Processor cpu boost_clock memory_types pcie_version socket tdp_w threads",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Intel Core i5-12600KF Processor cpu boost_clock memory_types pcie_version socket tdp_w threads",
+    "total_results": 391,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How old is the i5 12600KF?",
+      "type": "featured_snippet",
+      "snippet": "The Intel Core i5-12600KF is a desktop processor with 10 cores, launched in November 2021, at an MSRP of $264.",
+      "title": "Intel Core i5-12600KF Specs - CPU Database - TechPowerUp",
+      "link": "https://www.techpowerup.com/cpu-specs/core-i5-12600kf.c2510",
+      "displayed_link": "https://www.techpowerup.com › ... › Intel Core i5",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJIb3cgb2xkIGlzIHRoZSBpNSAxMjYwMEtGPyIsImxrIjoiR2hsb2IzY2diMnhrSUdseklIUm9aU0JwTlNBeE1qWXdNR3RtIiwiYnMiOiJjLU95NFpMeXlDOVh5TTlKVWNnc1ZpakpTRlhJTkZVd05ESXpNUEIyczVmNExtVWtMU1daZ1YxQmRocFhHSmM2U0hkdVlsNGxVS29vTlRHbFdDRWxQeFdpRG1xS1FrWmlXYXE5UktlcWtZYVVXZ1otMWRscFlOVmN0bHd5bm1pV0tTUXFwT2ZucHlnNEI0VGFHOGxLU2FNN0JpYWZYRkFLMVo2WUI1SXRMc25NeVlGSVplWXBHQmtZbWNHMDQ1SVhZQVFBIiwiaWQiOiJmY19IcXBnYXBRUTJMYXU0UV9NdzdiUUJnXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJIb3cgb2xkIGlzIHRoZSBpNSAxMjYwMEtGPyIsImxrIjoiR2hsb2IzY2diMnhrSUdseklIUm9aU0JwTlNBeE1qWXdNR3RtIiwiYnMiOiJjLU95NFpMeXlDOVh5TTlKVWNnc1ZpakpTRlhJTkZVd05ESXpNUEIyczVmNExtVWtMU1daZ1YxQmRocFhHSmM2U0hkdVlsNGxVS29vTlRHbFdDRWxQeFdpRG1xS1FrWmlXYXE5UktlcWtZYVVXZ1otMWRscFlOVmN0bHd5bm1pV0tTUXFwT2ZucHlnNEI0VGFHOGxLU2FNN0JpYWZYRkFLMVo2WUI1SXRMc25NeVlGSVplWXBHQmtZbWNHMDQ1SVhZQVFBIiwiaWQiOiJmY19IcXBnYXBRUTJMYXU0UV9NdzdiUUJnXzMifQ%3D%3D"
+    },
+    {
+      "question": "How many threads does the 12600KF have?",
+      "type": "featured_snippet",
+      "snippet": "Details",
+      "table": [
+        [
+          "CPU Socket Type",
+          "LGA 1700"
+        ],
+        [
+          "Core Name",
+          "Alder Lake"
+        ],
+        [
+          "# of Cores",
+          "10-Core (6P+4E)"
+        ],
+        [
+          "# of Threads",
+          "16-Threads"
+        ],
+        [
+          "Operating Frequency",
+          "P-core Base Frequency: 3.7 GHz E-core Base Frequency: 2.8 GHz"
+        ]
+      ],
+      "formatted": [
+        {
+          "cpu_socket_type": "Core Name",
+          "lga_1700": "Alder Lake"
+        },
+        {
+          "cpu_socket_type": "# of Cores",
+          "lga_1700": "10-Core (6P+4E)"
+        },
+        {
+          "cpu_socket_type": "# of Threads",
+          "lga_1700": "16-Threads"
+        },
+        {
+          "cpu_socket_type": "Operating Frequency",
+          "lga_1700": "P-core Base Frequency: 3.7 GHz E-core Base Frequency: 2.8 GHz"
+        }
+      ],
+      "title": "Intel Core i5-12600KF - Core i5 12th Gen Alder Lake 10-Core (6P+4E ...",
+      "link": "https://www.newegg.com/intel-core-i5-12th-gen-core-i5-12600kf-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118349",
+      "displayed_link": "https://www.newegg.com › intel-core-i5-12th-gen-core-i...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABa0lEQVR4AY2TA4xeQRSFb20jblzbtm0zbFQjqKK6QW2GZVTG9Rrx2rZ9dr-8ZP71bpLzeM93MTO24tjaNqVdNlRXbBZq_K910x27px-jq_V3thQ-xtOXrtJDe9MqACMm5R-VCs9796wDUtpGKXGi9KubiGkCkFlXve6TSqCKL9XpplT-DPEMyINQybNOwtPQ_GkYAWT1TFXvpJoviGcgVOIAtOkDPLBUJU0mgEBnbiCgmSek0AXSo-7SOhvhmQ_ZaYV1lZKmtQ_AfG518bUgyonsxYAAuBYwNWkhep9Eq-ctBa9RhlgaADGjmAHDcgPEiBpkp_yDdskDbLLFDuBV4SBUAgi53sl-1oTZV8GbDlJYUwjtIJ6d-Wonl93NACKbAwhy7SD0fwBmBoc5sslWhij6ohVAGBDPfKNCMu-3jBbPgrZbIEGsCAbEM1mpkP_EtQhw--GwVSNM3Mmq5bazpUPX8klkuGZd2zrqteWPRsN6MFLFAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB0aHJlYWRzIGRvZXMgdGhlIDEyNjAwS0YgaGF2ZT8iLCJsayI6IkdpWm9iM2NnYldGdWVTQjBhSEpsWVdSeklHUnZaWE1nZEdobElERXlOakF3YTJZZ2FHRjJaUSIsImJzIjoiYy1PeTRaTHl5QzlYeU05SlVjZ3NWaWpKU0ZYSU5GVXdOREl6TVBCMnM1ZjRMbVVrTFNXWmdWMUJkaHBYR0pjNlNIZHVZbDRsVUtvb05UR2xXQ0VsUHhXaURtcUtRa1ppV2FxOVJLZXFrWWFVV2daLTFkbHBZTlZjdGx3eW5taVdLU1FxcE9mbnB5ZzRCNFRhRzhsS1NhTTdCaWFmWEZBSzFaNllCNUl0THNuTXlZRklaZVlwR0JrWW1jRzA0NUlYWUFRQSIsImlkIjoiZmNfSHFwZ2FwUVEyTGF1NFFfTXc3YlFCZ18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB0aHJlYWRzIGRvZXMgdGhlIDEyNjAwS0YgaGF2ZT8iLCJsayI6IkdpWm9iM2NnYldGdWVTQjBhSEpsWVdSeklHUnZaWE1nZEdobElERXlOakF3YTJZZ2FHRjJaUSIsImJzIjoiYy1PeTRaTHl5QzlYeU05SlVjZ3NWaWpKU0ZYSU5GVXdOREl6TVBCMnM1ZjRMbVVrTFNXWmdWMUJkaHBYR0pjNlNIZHVZbDRsVUtvb05UR2xXQ0VsUHhXaURtcUtRa1ppV2FxOVJLZXFrWWFVV2daLTFkbHBZTlZjdGx3eW5taVdLU1FxcE9mbnB5ZzRCNFRhRzhsS1NhTTdCaWFmWEZBSzFaNllCNUl0THNuTXlZRklaZVlwR0JrWW1jRzA0NUlYWUFRQSIsImlkIjoiZmNfSHFwZ2FwUVEyTGF1NFFfTXc3YlFCZ18zIn0%3D"
+    },
+    {
+      "question": "Is the i5 12600k a good CPU?",
+      "type": "ai_overview",
+      "page_token": "Ld8x5nicHdBfboIwHADg7DI-KrTq1MQscVKQKI5Syp-XpfxQ61qgTibo2-6yU-00S_Yd4fv-0eda_T4lsm3NdTEadV03PDXNSR-G0FQjcb3XMAKhdSFALabPU_vlCEvnel29Nt0qjI3ha2oxd36JIjsWqD8XyN-VlS-B-xZF5JInszZ-yC-msj7GAWWpNOCZTVKbNKtpFFqtzyuTcKdDlGfW3tGSOwFnukQiyfBB8Sn3qNpZ_A3u9hacuYaKfFCUbw-6wUVNNkXNU4EmLEXGDdUYZ1iOk7SkeVJ63PIzyncPhqHbxv2ae3FH0SwiSvbglhIIoTvVy5JRmlo2DpBPwwrERhEH8GaSa-KKyma5R3RZB0EQB2zLiZWkfruPwzYi85vAMDjCbYkH_2HL92PVLsxnc_oDxSl3eg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ld8x5nicHdBfboIwHADg7DI-KrTq1MQscVKQKI5Syp-XpfxQ61qgTibo2-6yU-00S_Yd4fv-0eda_T4lsm3NdTEadV03PDXNSR-G0FQjcb3XMAKhdSFALabPU_vlCEvnel29Nt0qjI3ha2oxd36JIjsWqD8XyN-VlS-B-xZF5JInszZ-yC-msj7GAWWpNOCZTVKbNKtpFFqtzyuTcKdDlGfW3tGSOwFnukQiyfBB8Sn3qNpZ_A3u9hacuYaKfFCUbw-6wUVNNkXNU4EmLEXGDdUYZ1iOk7SkeVJ63PIzyncPhqHbxv2ae3FH0SwiSvbglhIIoTvVy5JRmlo2DpBPwwrERhEH8GaSa-KKyma5R3RZB0EQB2zLiZWkfruPwzYi85vAMDjCbYkH_2HL92PVLsxnc_oDxSl3eg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJJcyB0aGUgaTUgMTI2MDBrIGEgZ29vZCBDUFU/IiwibGsiOiJHaHRwY3lCMGFHVWdhVFVnTVRJMk1EQnJJR0VnWjI5dlpDQmpjSFUiLCJicyI6ImMtT3k0Wkx5eUM5WHlNOUpVY2dzVmlqSlNGWElORlV3TkRJek1QQjJzNWY0TG1Va0xTV1pnVjFCZGhwWEdKYzZTSGR1WWw0bFVLb29OVEdsV0NFbFB4V2lEbXFLUWtaaVdhcTlSS2Vxa1lhVVdnWi0xZGxwWU5WY3Rsd3lubWlXS1NRcXBPZm5weWc0QjRUYUc4bEtTYU03QmlhZlhGQUsxWjZZQjVJdExzbk15WUZJWmVZcEdCa1ltY0cwNDVJWFlBUUEiLCJpZCI6ImZjX0hxcGdhcFFRMkxhdTRRX013N2JRQmdfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJJcyB0aGUgaTUgMTI2MDBrIGEgZ29vZCBDUFU%2FIiwibGsiOiJHaHRwY3lCMGFHVWdhVFVnTVRJMk1EQnJJR0VnWjI5dlpDQmpjSFUiLCJicyI6ImMtT3k0Wkx5eUM5WHlNOUpVY2dzVmlqSlNGWElORlV3TkRJek1QQjJzNWY0TG1Va0xTV1pnVjFCZGhwWEdKYzZTSGR1WWw0bFVLb29OVEdsV0NFbFB4V2lEbXFLUWtaaVdhcTlSS2Vxa1lhVVdnWi0xZGxwWU5WY3Rsd3lubWlXS1NRcXBPZm5weWc0QjRUYUc4bEtTYU03QmlhZlhGQUsxWjZZQjVJdExzbk15WUZJWmVZcEdCa1ltY0cwNDVJWFlBUUEiLCJpZCI6ImZjX0hxcGdhcFFRMkxhdTRRX013N2JRQmdfMyJ9"
+    },
+    {
+      "question": "Is an i5 still good in 2026?",
+      "type": "ai_overview",
+      "page_token": "QeMhdXicHdDbToMwAADQ-DN7HGA3DEsWswkl4OikUAq8GCiXbi2XCBmXN__Fr_JrTDyfcL5_5K0Vv0-Uj2M_HBRlmqZt3XW1LLesa5RsWFqmsEzKPGPioL_o2mvFjtYwnN-66eyTvo9MrAZxBzLIZfIMHdoUaRYhhFYxBmqURXcC0pYDssp3f4VdHnLTb3uJ7ifNJ9YOa-mF0lm_kPEWEPxREjj4gfZIgGvmUeThOBlz6O4im8yh6S2hEGq4Fg5qXYFjZympr5aNvFypdruaSCaUm7lwl7RxtavNea7uW0a5jUKE0hX2MTipnlUHUPCZ2QVnEGJPzLwIMY5VDaBnF_sNyxwBLQacfSqxk1PDiRoEi8aoMIB6oBo4WaWbUqPDdJ6RzTYVexzB5j_s-Fk146H_6uo_XOV4bA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QeMhdXicHdDbToMwAADQ-DN7HGA3DEsWswkl4OikUAq8GCiXbi2XCBmXN__Fr_JrTDyfcL5_5K0Vv0-Uj2M_HBRlmqZt3XW1LLesa5RsWFqmsEzKPGPioL_o2mvFjtYwnN-66eyTvo9MrAZxBzLIZfIMHdoUaRYhhFYxBmqURXcC0pYDssp3f4VdHnLTb3uJ7ifNJ9YOa-mF0lm_kPEWEPxREjj4gfZIgGvmUeThOBlz6O4im8yh6S2hEGq4Fg5qXYFjZympr5aNvFypdruaSCaUm7lwl7RxtavNea7uW0a5jUKE0hX2MTipnlUHUPCZ2QVnEGJPzLwIMY5VDaBnF_sNyxwBLQacfSqxk1PDiRoEi8aoMIB6oBo4WaWbUqPDdJ6RzTYVexzB5j_s-Fk146H_6uo_XOV4bA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJJcyBhbiBpNSBzdGlsbCBnb29kIGluIDIwMjY/IiwibGsiOiJHaHRwY3lCaGJpQnBOU0J6ZEdsc2JDQm5iMjlrSUdsdUlESXdNalkiLCJicyI6ImMtT3k0Wkx5eUM5WHlNOUpVY2dzVmlqSlNGWElORlV3TkRJek1QQjJzNWY0TG1Va0xTV1pnVjFCZGhwWEdKYzZTSGR1WWw0bFVLb29OVEdsV0NFbFB4V2lEbXFLUWtaaVdhcTlSS2Vxa1lhVVdnWi0xZGxwWU5WY3Rsd3lubWlXS1NRcXBPZm5weWc0QjRUYUc4bEtTYU03QmlhZlhGQUsxWjZZQjVJdExzbk15WUZJWmVZcEdCa1ltY0cwNDVJWFlBUUEiLCJpZCI6ImZjX0hxcGdhcFFRMkxhdTRRX013N2JRQmdfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVVrSmlkbWRyTkRnM2FrczNjbmhNZVc5RlNsbHBjRkZhVG1aVmJFMWtRWEZwVFVwRGVUVkNORlJNZDJReU1VaE5XWFZWU0ZsaVFVSjNiRFExU0VaQlJrUndVVVZyYkVwQ2FFaFZjRTVyVFd0UllYRkRXVlpJY25vemR4SVdTSEZ3WjJGd1VWRXlUR0YxTkZGZlRYYzNZbEZDWnhvaVFVUnpjamxtVTBwUmJ6RmZVVUo2U1dOSFZWTkxUalJYV2xCeFpHTm9aSEk1WnciLCJmY3YiOiIzIiwiZWkiOiJIcXBnYXBRUTJMYXU0UV9NdzdiUUJnIiwicWMiOiJjdzNKU3dyQ1VBd0ZVTWNGd1NYY2lmTlcwR2wzNHNPbVYzejBrNUJFU3dmdVhjXzBOUGU2Sm1lSU9sR3Y2QzYzdHAyZU1GZGhoRHJFM2hoVUk0dk1LaE1XTHVwN3lkMFlNS2tzSDNwVVhSSF9aaUpIS3h2eTVYeU1jVHA4ajJmMFB3IiwicXVlc3Rpb24iOiJJcyBhbiBpNSBzdGlsbCBnb29kIGluIDIwMjY%2FIiwibGsiOiJHaHRwY3lCaGJpQnBOU0J6ZEdsc2JDQm5iMjlrSUdsdUlESXdNalkiLCJicyI6ImMtT3k0Wkx5eUM5WHlNOUpVY2dzVmlqSlNGWElORlV3TkRJek1QQjJzNWY0TG1Va0xTV1pnVjFCZGhwWEdKYzZTSGR1WWw0bFVLb29OVEdsV0NFbFB4V2lEbXFLUWtaaVdhcTlSS2Vxa1lhVVdnWi0xZGxwWU5WY3Rsd3lubWlXS1NRcXBPZm5weWc0QjRUYUc4bEtTYU03QmlhZlhGQUsxWjZZQjVJdExzbk15WUZJWmVZcEdCa1ltY0cwNDVJWFlBUUEiLCJpZCI6ImZjX0hxcGdhcFFRMkxhdTRRX013N2JRQmdfMyJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "uGhHbHicxVXdcqpIEH6AfY7lxviDYpBUUacG1IiGxImaxNxQgOMgAqMMSjx3-y77VPs0O4AaSDDZs1VbO1Uw9HRP83VPf9N__OmtgvVfvwlOFG3oTb0ex3ENE4I9VLOJXzfpIbDrS-LR0HZ-OJ6MAg578o5yh73c4mwqNzi0kgfbDTY3EDbvzJ0ADT0WLahgLt0tG5ZJkcucv7m0btTZa_17q8uEGq2hoOZF7cloV90d7rVas8FLtYe66TMD8N8OCB6TFwQ9JvQ-qbtM850DoAIwAcr7Uu_DnIw4lRQlMQZAy6ayoWSGPU1N7Qxd6iSejnkQvkCiaEWZJviz_zwmMD9HV7YEzhHPClLpKFHibOofMcU51aWYlcIhs51QB-ME9NngOGt5vDBZnqfaLukOQEvVyBdQWXJGc-VNA1jDX5ixnKijjnIMTO8-s431BWaF2KhbIZv4-sp27PQjpEl9qlOpQW7vxHlnOJy0Q-epff1Coom5fQpsdymZsG5bzM4j5gItDMdo_Ehlvsm3G1JL7FylxLDpmRk0zwzHI8LwaRKPXKF2V1P4HC3wKa78SICXBtg7mX448yzSdAfMDuj1pJqdjZpaYaPqrllBA-X4n05S3kqcY8DJt1pGi6Kgg5QWKQ41m4-6XLko72efLyINfLweegVtuhWDt_dlDeQLEhYLeA3B8JzPgmd2PWiPauZ_hjOTLkagEHKvmIAeg6pBgLMknY7kCOqQ880wOMmHmyxOFNhj7M_SkYWeuU0IhYuH_QiKo48VrMLe53P4B0P9mhQp9BMBPtRzngeD6Us0MMXqYFmNIfLpg-Yto-py3HvQYXndE9_6hZZg_-_MSBvG7NwwPjMDfsOMtGHAyw3jKMQnZqgJjpGiXmKGopU0DP1TwyhhhqMVmXG5YZyZkSx9wwz4FTNgBqWEGf0SZkwuMCNrGDlmQKoVGsbp63RpvDPj1xuG-m8aRsoTlE3F7rFz8cUu0m8RXbhfDgcvD6PlmOennug4fCeo3vLg2y6y9KMb31x4V8ZqcaM0h9FhcWWwBXKDFtxW1oIIeRWVhKiyalf55nWjMepXxiGxEaUkrNibXcUihEaG7RF7XfGRT8KDER02iFY29goZexTSFQkqlKlRVIkWGyOuRE6IzAXlfC8kcsMUwq70PKk-D8fhC_H12_308TC5XokrF-2ttajukAXacGvcDcBBx8vG7MXttIGAwvZsNJ3vNmNr8SqqU3MYuJu5X4V9V9sPjbgVhPYQAk_6OTZcPnJEs4n1VwE4o-3zYisQYdySrvmWLszdfgSibWcXIjEKUlRUJsGMEF-oTtY6xxJCkcxzfmjLrGwFDO4heMaKDdQ5ozlmD2FPzMqMo7ZpILqXO21LEq4todluLsWlJHI-ZmmRpQZHg1Dm_wZxVDC0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uGhHbHicxVXdcqpIEH6AfY7lxviDYpBUUacG1IiGxImaxNxQgOMgAqMMSjx3-y77VPs0O4AaSDDZs1VbO1Uw9HRP83VPf9N__OmtgvVfvwlOFG3oTb0ex3ENE4I9VLOJXzfpIbDrS-LR0HZ-OJ6MAg578o5yh73c4mwqNzi0kgfbDTY3EDbvzJ0ADT0WLahgLt0tG5ZJkcucv7m0btTZa_17q8uEGq2hoOZF7cloV90d7rVas8FLtYe66TMD8N8OCB6TFwQ9JvQ-qbtM850DoAIwAcr7Uu_DnIw4lRQlMQZAy6ayoWSGPU1N7Qxd6iSejnkQvkCiaEWZJviz_zwmMD9HV7YEzhHPClLpKFHibOofMcU51aWYlcIhs51QB-ME9NngOGt5vDBZnqfaLukOQEvVyBdQWXJGc-VNA1jDX5ixnKijjnIMTO8-s431BWaF2KhbIZv4-sp27PQjpEl9qlOpQW7vxHlnOJy0Q-epff1Coom5fQpsdymZsG5bzM4j5gItDMdo_Ehlvsm3G1JL7FylxLDpmRk0zwzHI8LwaRKPXKF2V1P4HC3wKa78SICXBtg7mX448yzSdAfMDuj1pJqdjZpaYaPqrllBA-X4n05S3kqcY8DJt1pGi6Kgg5QWKQ41m4-6XLko72efLyINfLweegVtuhWDt_dlDeQLEhYLeA3B8JzPgmd2PWiPauZ_hjOTLkagEHKvmIAeg6pBgLMknY7kCOqQ880wOMmHmyxOFNhj7M_SkYWeuU0IhYuH_QiKo48VrMLe53P4B0P9mhQp9BMBPtRzngeD6Us0MMXqYFmNIfLpg-Yto-py3HvQYXndE9_6hZZg_-_MSBvG7NwwPjMDfsOMtGHAyw3jKMQnZqgJjpGiXmKGopU0DP1TwyhhhqMVmXG5YZyZkSx9wwz4FTNgBqWEGf0SZkwuMCNrGDlmQKoVGsbp63RpvDPj1xuG-m8aRsoTlE3F7rFz8cUu0m8RXbhfDgcvD6PlmOennug4fCeo3vLg2y6y9KMb31x4V8ZqcaM0h9FhcWWwBXKDFtxW1oIIeRWVhKiyalf55nWjMepXxiGxEaUkrNibXcUihEaG7RF7XfGRT8KDER02iFY29goZexTSFQkqlKlRVIkWGyOuRE6IzAXlfC8kcsMUwq70PKk-D8fhC_H12_308TC5XokrF-2ttajukAXacGvcDcBBx8vG7MXttIGAwvZsNJ3vNmNr8SqqU3MYuJu5X4V9V9sPjbgVhPYQAk_6OTZcPnJEs4n1VwE4o-3zYisQYdySrvmWLszdfgSibWcXIjEKUlRUJsGMEF-oTtY6xxJCkcxzfmjLrGwFDO4heMaKDdQ5ozlmD2FPzMqMo7ZpILqXO21LEq4todluLsWlJHI-ZmmRpQZHg1Dm_wZxVDC0"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Intel Core i5-12600KF Desktop Processor 10 (6P+4E) ...",
+      "link": "https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FIntel-i5-12600KF-Desktop-Processor-Unlocked%2Fdp%2FB09FXFJW2F&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECBkQAQ",
+      "displayed_link": "https://www.amazon.com › Intel-i5-12600KF-Desktop-P...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Processor base power, 125W. Intel Smart Cache, 20MB. Motherboard compatibility, 600 series(3). Total CPU PCIe lanes, 20. Memory speed, DDR5. Socket, 1700.",
+      "snippet_highlighted_words": [
+        "Processor",
+        "Intel",
+        "CPU",
+        "Memory speed",
+        "Socket"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Processor base power, 125W. Intel Smart Cache, 20MB. Motherboard compatibility, 600 series(3). Total CPU PCIe lanes, 20. Memory speed, DDR5. Socket, 1700.",
+          "source_info_link": "https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FIntel-i5-12600KF-Desktop-Processor-Unlocked%2Fdp%2FB09FXFJW2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FIntel-i5-12600KF-Desktop-Processor-Unlocked%2Fdp%2FB09FXFJW2F",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Intel-i5-12600KF-Desktop-Processor-Unlocked/dp/B09FXFJW2F"
+    },
+    {
+      "position": 2,
+      "title": "Intel® Core™ i5-12600KF Processor",
+      "link": "https://www.intel.com/content/www/us/en/products/sku/134590/intel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz/specifications.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fproducts%2Fsku%2F134590%2Fintel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz%2Fspecifications.html&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECCAQAQ",
+      "displayed_link": "https://www.intel.com › products › sku › specifications",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAbbkAargAbboAg9EAabYAaLUAabcAabYAabYAaLUAaLYAarYAaLYAabZkk4wFAAAAD3RSTlMAFScGAabtU4N2_7k-1o6skpI8AAAAoklEQVR4AWMYKMCoCCKNHUCkkACDaTqIUSEAImcVMFjuATGiDoDIrgIGRmEGBgMQlxnMtdjTe_b2gagbTLH3DIBc0_Sotbc2RuXprr4VAOFOkF4TpfCqgG_5LDBXwWJ51MFdd-9mQrgClsujDkdFzpvTBePOiqkKLy0AcZfvErBYrrvUImvVhFcFDE4HdQycDjKdYVYvMtABuY0F4ngXugYVADeNOhj242D0AAAAAElFTkSuQmCC.png",
+      "snippet": "Intel® CoreTM i5-12600KF Processor (20M Cache, up to 4.90 GHz) 2.80 GHz Cache 20 MB Intel®. Boost (Intel® DL Boost) on CPU",
+      "snippet_highlighted_words": [
+        "Intel® CoreTM i5-12600KF Processor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Intel® CoreTM i5-12600KF Processor (20M Cache, up to 4.90 GHz) 2.80 GHz Cache 20 MB Intel®. Boost (Intel® DL Boost) on CPU",
+          "source_info_link": "https://www.intel.com/content/www/us/en/products/sku/134590/intel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz/specifications.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAbbkAargAbboAg9EAabYAaLUAabcAabYAabYAaLUAaLYAarYAaLYAabZkk4wFAAAAD3RSTlMAFScGAabtU4N2_7k-1o6skpI8AAAAoklEQVR4AWMYKMCoCCKNHUCkkACDaTqIUSEAImcVMFjuATGiDoDIrgIGRmEGBgMQlxnMtdjTe_b2gagbTLH3DIBc0_Sotbc2RuXprr4VAOFOkF4TpfCqgG_5LDBXwWJ51MFdd-9mQrgClsujDkdFzpvTBePOiqkKLy0AcZfvErBYrrvUImvVhFcFDE4HdQycDjKdYVYvMtABuY0F4ngXugYVADeNOhj242D0AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fproducts%2Fsku%2F134590%2Fintel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz%2Fspecifications.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fproducts%2Fsku%2F134590%2Fintel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz%2Fspecifications.html",
+      "source": "Intel"
+    },
+    {
+      "position": 3,
+      "title": "Intel Core i5-12600KF 12th Gen CPU 3.7 GHz LGA1700 ...",
+      "link": "https://www.centralcomputer.com/intel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html?srsltid=AfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.centralcomputer.com%2Fintel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html%3Fsrsltid%3DAfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECB4QAQ",
+      "displayed_link": "https://www.centralcomputer.com › ... › CPUs › Intel",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEWMxj8AAAACCJjgAAAAAnRSTlP_AOW3MEoAAAAaSURBVHgBY4AA-z8gZMAAQsb_4QgsApMFAwD4Xgp1RBn48wAAAABJRU5ErkJggg.png",
+      "snippet": "Intel Core i5-12600KF 12th Gen CPU 3.7 GHz LGA1700 125W 10-Core (6P+4E) 16-Thread Socket BX8071512600KF Retail Desktop Processor ; L3 Cache, 16 MB ; Clock Speed ...",
+      "snippet_highlighted_words": [
+        "Intel Core i5-12600KF 12th Gen CPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Intel Core i5-12600KF 12th Gen CPU 3.7 GHz LGA1700 125W 10-Core (6P+4E) 16-Thread Socket BX8071512600KF Retail Desktop Processor ; L3 Cache, 16 MB ; Clock Speed ...",
+          "source_info_link": "https://www.centralcomputer.com/intel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html?srsltid=AfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEWMxj8AAAACCJjgAAAAAnRSTlP_AOW3MEoAAAAaSURBVHgBY4AA-z8gZMAAQsb_4QgsApMFAwD4Xgp1RBn48wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.centralcomputer.com%2Fintel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html%3Fsrsltid%3DAfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.centralcomputer.com%2Fintel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html%3Fsrsltid%3DAfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x",
+      "source": "Central Computers",
+      "read_more_link": "https://www.centralcomputer.com/intel-core-i5-12600kf-12th-gen-cpu-3-7-ghz-lga1700-125w-10-core-6p-4e-16-thread-socket-bx8071512600kf-retail-desktop-processor.html?srsltid=AfmBOoqJmHGumWF-9lsWY8zidUiuvfDG-8-VxWQLKJnVqNwFO02M0O5x"
+    },
+    {
+      "position": 4,
+      "title": "Intel Core i5 12600KF Desktop Processor 10 (6P+4E ...",
+      "link": "https://www.bestbuy.com/product/intel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w/JXZRJ5WF9G/sku/11234320",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fintel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w%2FJXZRJ5WF9G%2Fsku%2F11234320&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECB0QAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › CPUs / Processors",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Featuring PCIe Gen 5.0 & 4.0 support, DDR5 & DDR4 support, optimized for productivity, gaming, and overclocking. 4.7GHz Turbo Socket",
+      "snippet_highlighted_words": [
+        "PCIe Gen 5.0 & 4.0 support"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Featuring PCIe Gen 5.0 & 4.0 support, DDR5 & DDR4 support, optimized for productivity, gaming, and overclocking. 4.7GHz Turbo Socket",
+          "source_info_link": "https://www.bestbuy.com/product/intel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w/JXZRJ5WF9G/sku/11234320",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fintel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w%2FJXZRJ5WF9G%2Fsku%2F11234320&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fintel-core-i5-12600kf-desktop-processor-10-6p-4e-cores-up-to-4-9-ghz-unlocked-lga1700-600-series-chipset-125w%2FJXZRJ5WF9G%2Fsku%2F11234320",
+      "source": "Best Buy"
+    },
+    {
+      "position": 5,
+      "title": "Intel Core i5-12600KF Specs - CPU Database",
+      "link": "https://www.techpowerup.com/cpu-specs/core-i5-12600kf.c2510",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.techpowerup.com%2Fcpu-specs%2Fcore-i5-12600kf.c2510&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECCQQAQ",
+      "displayed_link": "https://www.techpowerup.com › ... › Intel Core i5",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png",
+      "snippet": "The Intel Core i5-12600KF is a desktop processor with 10 cores, MSRP of $264. can boost up to 4.9 GHz, With a TDP of 125 W, the Core i5-12600KF … 600KF uses a ...",
+      "snippet_highlighted_words": [
+        "can boost up to 4.9 GHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Intel Core i5-12600KF is a desktop processor with 10 cores, MSRP of $264. can boost up to 4.9 GHz, With a TDP of 125 W, the Core i5-12600KF … 600KF uses a ...",
+          "source_info_link": "https://www.techpowerup.com/cpu-specs/core-i5-12600kf.c2510",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEXx8fHy8vLy8_Pz9vbz9_f13t7irKzdoaHw5ubXj4_TLC_RAADVDBbTMjXNFBnOISXVOj3wvb7ZeHjMHyL78fHag4TJAADIDRPVUlTopKX____kubnIAAjPPD7xysvCFhnPR0namJjBDxO-AADILC7HMDL66Oi9EhS8CQzKSUq6AAC7EBK4AAC3DQ68Ojq9SEnReXmyAAC1BgetAADNd3e4Ly-3GRmpAADkwcGjAADoKM5aAAABu0lEQVR4ATxOBQLDIAyEkLrgOu3_PzlsvbiHEJqZ0mJvobdfKpkoUGCIDGrcQEhvAmTDOE3jwBDoP0laJ87Luu1b5mOZWR8mbZSN5865kPLgfD9HBuQGgNo451oYI3jGZqFXaZ5TruTOw5j1LJ6zCP0kjk5rffoQU4rBnzlwD2y_wPzMoX-9U8X75XUGgfbo4vTHf02Syhj1TubrP9pdWIuM_5qkqiwLYSj2pgZ8j7dncKeCy_43NrfYIfWmQdLEQRBQ_pmkHx9p4nEKy_gP23cimgRB8slZEmd5nsUJ4592x7VeEJYEReLzsCyCMAyKsuJ-UgSJwKAkTl0UJf2oGxjKomiSD1o2Rc2IVTqyaXbyRG3JRjJinROyUdLnWh6cNNyXqpECgxJRqZRsOet6Beg7wVu74yLrEE471UvKo25HxCkc6_RhPo4GBYsP7o-mGsEE3Sk1OPi4E1cOfT9Ml32TXc2v814wG5YBYKJ1jQxMYCl24RsAfy4A2Lt7jxzZAiAE7BMeRicJFWHRbxezzYKgM5MH8Cualg2waOdFHtHczyCCXcGYcDE5t89kng1hwDPUhw76vd6Co_0D2mM5TGtDbekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.techpowerup.com%2Fcpu-specs%2Fcore-i5-12600kf.c2510&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.techpowerup.com%2Fcpu-specs%2Fcore-i5-12600kf.c2510",
+      "source": "TechPowerUp"
+    },
+    {
+      "position": 6,
+      "title": "Intel Core i5-12600KF Benchmark",
+      "link": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12600KF&id=4625",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.cpubenchmark.net%2Fcpu.php%3Fcpu%3DIntel%2BCore%2Bi5-12600KF%26id%3D4625&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECCEQAQ",
+      "displayed_link": "https://www.cpubenchmark.net › cpu › cpu=Intel+Core...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA51BMVEVHcEx5foWHj5VRTE9ybn-SnZeXp5JwgGyWm4uRkIR2gnx4gIBpZVkJDiCNooqxubjBxsa4vr-mrqB7jnyLi3V2eHBpc3FZUj5AQTOntKbL0NDx8_Pm6OiwtLSeoqSlq62SlpmKjpBObkVwc1ODi4-rsLL8_v73-vrb4OBvcnMyUylWTEPo7OtgY2REYzpuZUU-QEMoQyRUSCrS2dhBS0GChYlpXT8XGRt8flsyJxZldmqGn318fYJaWVZqiGQqMylvg19hUy9mdWlZgVBNU02JjGagqYR5lWZPTSyFl3eBcl03KQoAAAAsh8t3AAAATXRSTlMAOG8eE-L_6vTIsHpgC_______79qPaU4p______________-G________PP___-L__5L____T__9omP_______7yl___-___8_5ioR-C7YewAAAFkSURBVHgBtc5FYoNQFAVQGhc8jks_DnHH4rr_9TSG1Ia50_PkQu_ORyb7r-XyhWKxVK5U4Y8s8hMzKIYTJEkWCqVavdJottqJIfkORTMMxXIcL4iFgiTJiX6iQFFVVVHp24jG66Ihm_FirUPdkGY0xqItTdBtpxv3qxYAfVu8GWNpONUT-vIgrlrEcEWlwPC2OCQIMNJTVxsoR6u4prEsgXEYYY9H8iSybI0kaAtncZznxoDlp0J_No9wsRRuVTRtSGG6gAFX9yQ5Gy36JM4Mh0MKJzAC8HxPDMJVtLheAutlN-LEkWvMWi9r-6TLUrFxttsLu0i0uGFFOwhskQMYzwnC1u3vBtHi_uBsdVHcBkGvp4-FR512hLvZ8bBxDElytoK99bzx6BDVuSncqu_3-9NGkgLbdUXP2c2hdJDWuVwiC0vfMAIj9KBfybYa94HT8nSB_kzbbJS52RX6L4gJI9Bb8wUW5TSEb9dQhgAAAABJRU5ErkJggg.png",
+      "snippet": "This is an old CPU that contains 10 Cores and 16 Threads. Socket Type Cross-Platform CPU. Memory Size: 128 GB (Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s) ...",
+      "snippet_highlighted_words": [
+        "CPU",
+        "Cores",
+        "Threads",
+        "Socket",
+        "CPU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This is an old CPU that contains 10 Cores and 16 Threads. Socket Type Cross-Platform CPU. Memory Size: 128 GB (Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s) ...",
+          "source_info_link": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12600KF&id=4625",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA51BMVEVHcEx5foWHj5VRTE9ybn-SnZeXp5JwgGyWm4uRkIR2gnx4gIBpZVkJDiCNooqxubjBxsa4vr-mrqB7jnyLi3V2eHBpc3FZUj5AQTOntKbL0NDx8_Pm6OiwtLSeoqSlq62SlpmKjpBObkVwc1ODi4-rsLL8_v73-vrb4OBvcnMyUylWTEPo7OtgY2REYzpuZUU-QEMoQyRUSCrS2dhBS0GChYlpXT8XGRt8flsyJxZldmqGn318fYJaWVZqiGQqMylvg19hUy9mdWlZgVBNU02JjGagqYR5lWZPTSyFl3eBcl03KQoAAAAsh8t3AAAATXRSTlMAOG8eE-L_6vTIsHpgC_______79qPaU4p______________-G________PP___-L__5L____T__9omP_______7yl___-___8_5ioR-C7YewAAAFkSURBVHgBtc5FYoNQFAVQGhc8jks_DnHH4rr_9TSG1Ia50_PkQu_ORyb7r-XyhWKxVK5U4Y8s8hMzKIYTJEkWCqVavdJottqJIfkORTMMxXIcL4iFgiTJiX6iQFFVVVHp24jG66Ihm_FirUPdkGY0xqItTdBtpxv3qxYAfVu8GWNpONUT-vIgrlrEcEWlwPC2OCQIMNJTVxsoR6u4prEsgXEYYY9H8iSybI0kaAtncZznxoDlp0J_No9wsRRuVTRtSGG6gAFX9yQ5Gy36JM4Mh0MKJzAC8HxPDMJVtLheAutlN-LEkWvMWi9r-6TLUrFxttsLu0i0uGFFOwhskQMYzwnC1u3vBtHi_uBsdVHcBkGvp4-FR512hLvZ8bBxDElytoK99bzx6BDVuSncqu_3-9NGkgLbdUXP2c2hdJDWuVwiC0vfMAIj9KBfybYa94HT8nSB_kzbbJS52RX6L4gJI9Bb8wUW5TSEb9dQhgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.cpubenchmark.net%2Fcpu.php%3Fcpu%3DIntel+Core+i5-12600KF&id=4625&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cpubenchmark.net%2Fcpu.php%3Fcpu%3DIntel%2BCore%2Bi5-12600KF%26id%3D4625",
+      "source": "CPU Benchmarks"
+    },
+    {
+      "position": 7,
+      "title": "Intel® Core™ i5-12600KF Retail Processor",
+      "link": "https://www.avadirect.com/Core-i5-12600KF-10-6P-4E-Cores-2-8-4-9GHz-Turbo-LGA-1700-150W-MTP-Processor/Product/14661822?srsltid=AfmBOophz5HKPhI3J3SrEe7kZRm-qfkNlRtNcymI6gP7JJwDnamKsZ6Y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.avadirect.com%2FCore-i5-12600KF-10-6P-4E-Cores-2-8-4-9GHz-Turbo-LGA-1700-150W-MTP-Processor%2FProduct%2F14661822%3Fsrsltid%3DAfmBOophz5HKPhI3J3SrEe7kZRm-qfkNlRtNcymI6gP7JJwDnamKsZ6Y&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECCMQAQ",
+      "displayed_link": "https://www.avadirect.com › ... › Desktop Processors",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwmhtQglvQglvQhlvMhlvMhlvMhlvMhlvMhlvMglfIhlvQhlvMhlvNERERERERFRUVFRUVERERFRUVERERERERERERFRUVFRUVEREREREQCcMrbAAAAG3RSTlMAB0Ub_6d0idHwMVq35KtKk3ssviE3ZOVuGQ7cxQ-oAAAAwElEQVR4AdyNhQHAIAwEn-Rw2H_duq3Qg7jpfwSZ2WY3E_TBCRGSFCEHXG8KRRXcoOzBiwwkh1JhC8i6MTY8AVhjo93FrQJVBeId3AfpSmyFqrEFHYZ2ep1xNWPW1n0Nlu7D4wqBIIahgjPPUfaE_vtkUwHc-bbS5xlv_ELU4JGsFNO4TOSMtnS0jPY0SXUM19HpMtuhGMCk0jhXl9ks-l2WmcJxsojgdesyrddiMYq4ICNir9g7yBWnbz1b4J84AMpbC-WXWd4iAAAAAElFTkSuQmCC.png",
+      "snippet": "Featuring PCIe Gen 5.0 & 4.0 support, DDR5 & DDR4 support, optimized for productivity, gaming, and overclocking. . Compatible with 600 series chipset based ...",
+      "snippet_highlighted_words": [
+        "PCIe Gen 5.0 & 4.0 support"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Featuring PCIe Gen 5.0 & 4.0 support, DDR5 & DDR4 support, optimized for productivity, gaming, and overclocking. . Compatible with 600 series chipset based ...",
+          "source_info_link": "https://www.avadirect.com/Core-i5-12600KF-10-6P-4E-Cores-2-8-4-9GHz-Turbo-LGA-1700-150W-MTP-Processor/Product/14661822?srsltid=AfmBOophz5HKPhI3J3SrEe7kZRm-qfkNlRtNcymI6gP7JJwDnamKsZ6Y",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwmhtQglvQglvQhlvMhlvMhlvMhlvMhlvMhlvMglfIhlvQhlvMhlvNERERERERFRUVFRUVERERFRUVERERERERERERFRUVFRUVEREREREQCcMrbAAAAG3RSTlMAB0Ub_6d0idHwMVq35KtKk3ssviE3ZOVuGQ7cxQ-oAAAAwElEQVR4AdyNhQHAIAwEn-Rw2H_duq3Qg7jpfwSZ2WY3E_TBCRGSFCEHXG8KRRXcoOzBiwwkh1JhC8i6MTY8AVhjo93FrQJVBeId3AfpSmyFqrEFHYZ2ep1xNWPW1n0Nlu7D4wqBIIahgjPPUfaE_vtkUwHc-bbS5xlv_ELU4JGsFNO4TOSMtnS0jPY0SXUM19HpMtuhGMCk0jhXl9ks-l2WmcJxsojgdesyrddiMYq4ICNir9g7yBWnbz1b4J84AMpbC-WXWd4iAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.avadirect.com%2FCore-i5-12600KF-10-6P-4E-Cores-2-8-4-9GHz-Turbo-LGA-1700-150W-MTP-Processor%2FProduct%2F14661822%3Fsrsltid%3DAfmBOophz5HKPhI3J3SrEe7kZRm-qfkNlRtNcymI6gP7JJwDnamKsZ6Y&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.avadirect.com%2FCore-i5-12600KF-10-6P-4E-Cores-2-8-4-9GHz-Turbo-LGA-1700-150W-MTP-Processor%2FProduct%2F14661822%3Fsrsltid%3DAfmBOophz5HKPhI3J3SrEe7kZRm-qfkNlRtNcymI6gP7JJwDnamKsZ6Y",
+      "source": "AVADirect Custom Computers"
+    },
+    {
+      "position": 8,
+      "title": "[CPU] Intel Core i5-12600KF Desktop Processor 10 (6P ...",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1flduhh/cpu_intel_core_i512600kf_desktop_processor_10/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1flduhh%2Fcpu_intel_core_i512600kf_desktop_processor_10%2F&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECB8QAQ",
+      "displayed_link": "40+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Intel Core i5-12600KF Desktop Processor 10 (6P+4E) Cores LGA1700 - $124.99 (Amazon) There's a slight performance boost (or wash) going AMD in ...",
+      "snippet_highlighted_words": [
+        "Intel Core i5-12600KF Desktop Processor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Intel Core i5-12600KF Desktop Processor 10 (6P+4E) Cores LGA1700 - $124.99 (Amazon) There's a slight performance boost (or wash) going AMD in ...",
+          "source_info_link": "https://www.reddit.com/r/buildapcsales/comments/1flduhh/cpu_intel_core_i512600kf_desktop_processor_10/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1flduhh%2Fcpu_intel_core_i512600kf_desktop_processor_10%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fbuildapcsales%2Fcomments%2F1flduhh%2Fcpu_intel_core_i512600kf_desktop_processor_10%2F",
+      "source": "Reddit · r/buildapcsales"
+    },
+    {
+      "position": 9,
+      "title": "Intel Core i5-12600KF CPU 10-Core 2.8-3.7GHz Alder ...",
+      "link": "https://www.ebay.com/itm/317287142519",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F317287142519&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQFnoECCIQAQ",
+      "displayed_link": "https://www.ebay.com › ... › CPUs/Processors",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+      "snippet": "CPU Specifications. Processor Number i5-12600KF. Processor Base Power 125 W. Total Threads 16. Launch Date Q4'21. Total Cores 10. TJUNCTION 100°C ...",
+      "snippet_highlighted_words": [
+        "CPU",
+        "Processor",
+        "i5",
+        "12600KF",
+        "Processor",
+        "Threads",
+        "Cores"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CPU Specifications. Processor Number i5-12600KF. Processor Base Power 125 W. Total Threads 16. Launch Date Q4'21. Total Cores 10. TJUNCTION 100°C ...",
+          "source_info_link": "https://www.ebay.com/itm/317287142519",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F317287142519&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F317287142519",
+      "source": "eBay",
+      "read_more_link": "https://www.ebay.com/itm/317287142519"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "I5 Intel 12600KF price",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=I5+Intel+12600KF+price&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=I5+Intel+12600KF+price"
+    },
+    {
+      "block_position": 1,
+      "query": "12600KF i5 socket",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=12600KF+i5+socket&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=12600KF+i5+socket"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel Core i5 12600KF good for gaming",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+Core+i5+12600KF+good+for+gaming&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5+12600KF+good+for+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "12600kf i5 release date",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=12600kf+i5+release+date&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=12600kf+i5+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "I5 12th 12600KF integrated graphics",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=I5+12th+12600KF+integrated+graphics&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=I5+12th+12600KF+integrated+graphics"
+    },
+    {
+      "block_position": 1,
+      "query": "12600KF i5 vs r7 5800X3D",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=12600KF+i5+vs+r7+5800X3D&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=12600KF+i5+vs+r7+5800X3D"
+    },
+    {
+      "block_position": 1,
+      "query": "Motherboard for Intel Core i5-12600KF",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Motherboard+for+Intel+Core+i5-12600KF&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Motherboard+for+Intel+Core+i5-12600KF"
+    },
+    {
+      "block_position": 1,
+      "query": "Intel i5 12th 12600KF AMD equivalent",
+      "link": "https://www.google.com/search?sca_esv=85b946b4252f7f97&hl=en&gl=us&q=Intel+i5+12th+12600KF+AMD+equivalent&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+i5+12th+12600KF+AMD+equivalent"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Motherboards",
+      "link": "https://www.google.com/search?hl=en&q=motherboards+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYCSpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIQCAkSDE1vdGhlcmJvYXJkc2AB&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAB6BAgYEAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=motherboards+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYEipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAF6BAgYEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+sale&gl=us&shoprs=CAESBEoCGAEYBipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczITCAYSB09uIHNhbGUYAiIESgIYAViLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAJ6BAgYEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+sale"
+    },
+    {
+      "query": "Dual-core",
+      "link": "https://www.google.com/search?hl=en&q=dual-core+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIZCAESCUR1YWwtY29yZToKCJvEKxCdxCswAliLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAN6BAgYEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dual-core+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+for+sale&gl=us&shoprs=CAEYEipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAR6BAgYEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+for+sale"
+    },
+    {
+      "query": "6-core",
+      "link": "https://www.google.com/search?hl=en&q=6-core+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIWCAESBjYtY29yZToKCJvEKxCgxCswAliLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAV6BAgYEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=6-core+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYEipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAZ6BAgYEAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Under $90",
+      "link": "https://www.google.com/search?hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+under+%2490&gl=us&shoprs=CAESDRILEQAAAAAqdZVBGAEYBSpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIiCAUSCVVuZGVyICQ5MBgCIg0SCxEAAAAAKnWVQRgBKgIYAViLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAd6BAgYEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+under+%2490"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYCipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIHCAoSA05ld1iLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAh6BAgYEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?hl=en&q=used+Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYCipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIICAoSBFVzZWRYi6sgYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAl6BAgYEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?hl=en&q=desktop+computers+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYCSpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIVCAkSEURlc2t0b3AgQ29tcHV0ZXJzYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAp6BAgYEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYEipeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAt6BAgYEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Supports Overclocking",
+      "link": "https://www.google.com/search?hl=en&q=supports+overclocking+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIlCAESFVN1cHBvcnRzIE92ZXJjbG9ja2luZzoKCOCdOxDhnTswA1iLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKAx6BAgYEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=supports+overclocking+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Solid State Drive",
+      "link": "https://www.google.com/search?hl=en&q=solid+state+drive+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIjCAESEVNvbGlkIFN0YXRlIERyaXZlOgwI-daxAhD61rECMAJYi6sgYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKA16BAgYEA8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=solid+state+drive+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Intel CPU",
+      "link": "https://www.google.com/search?hl=en&q=intel+cpu+core+i5+12600kf+processor+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIZCAESCUludGVsIENQVToKCO29LBDuvSwwAFiLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKA56BAgYEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+cpu+core+i5+12600kf+processor+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "3 – 3.7 GHz",
+      "link": "https://www.google.com/search?hl=en&q=3+ghz+to+3.7+ghz+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAESGioYCOmIPhISCQAAAAAAcKdAEQAAAAAA6KxAGAEqXmludGVsIGNvcmUgaTUgMTI2MDBrZiBwcm9jZXNzb3IgY3B1IGJvb3N0X2Nsb2NrIG1lbW9yeV90eXBlcyBwY2llX3ZlcnNpb24gc29ja2V0IHRkcF93IHRocmVhZHMyTQgBEg0zIOKAkyAzLjcgR0h6IhoqGAjpiD4SEgkAAAAAAHCnQBEAAAAAAOisQCoUChAzIEdIeiB0byAzLjcgR0h6GAE6CAjpiD4QADAGWIurIGAB&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKA96BAgYEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3+ghz+to+3.7+ghz+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "NVIDIA GPU",
+      "link": "https://www.google.com/search?hl=en&q=nvidia+gpu+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIaCAESCk5WSURJQSBHUFU6CgiL2ywQi-EsMABYi6sgYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBB6BAgYEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nvidia+gpu+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "3.7 – 4.9 GHz",
+      "link": "https://www.google.com/search?hl=en&q=3.7+ghz+to+4.9+ghz+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAESGioYCOmIPhISCQAAAAAA6KxAEQAAAAAAJLNAGAEqXmludGVsIGNvcmUgaTUgMTI2MDBrZiBwcm9jZXNzb3IgY3B1IGJvb3N0X2Nsb2NrIG1lbW9yeV90eXBlcyBwY2llX3ZlcnNpb24gc29ja2V0IHRkcF93IHRocmVhZHMyUQgBEg8zLjcg4oCTIDQuOSBHSHoiGioYCOmIPhISCQAAAAAA6KxAEQAAAAAAJLNAKhYKEjMuNyBHSHogdG8gNC45IEdIehgBOggI6Yg-EAAwBliLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBF6BAgYEBM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3.7+ghz+to+4.9+ghz+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?hl=en&q=blue+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIWCAESBEJsdWU6DAjYjPUBEOaK9QEwC1iLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBJ6BAgYEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=blue+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?hl=en&q=gaming+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIWCAESBkdhbWluZzoKCOaCOhDngjowA1iLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBN6BAgYEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Tower",
+      "link": "https://www.google.com/search?hl=en&q=tower+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIVCAESBVRvd2VyOgoIg9c9EITXPTACWIurIGAB&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBR6BAgYEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=tower+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Small Form Factor",
+      "link": "https://www.google.com/search?hl=en&q=small+form+factor+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIhCAESEVNtYWxsIEZvcm0gRmFjdG9yOgoIg9c9EIXXPTACWIurIGAB&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBV6BAgYEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=small+form+factor+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?hl=en&q=white+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAEYASpeaW50ZWwgY29yZSBpNSAxMjYwMGtmIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYi6sgYAE&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBZ6BAgYEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Under 3 GHz",
+      "link": "https://www.google.com/search?hl=en&q=under+3+ghz+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&gl=us&shoprs=CAESESoPCOmIPhIJEQAAAAAAcKdAGAEqXmludGVsIGNvcmUgaTUgMTI2MDBrZiBwcm9jZXNzb3IgY3B1IGJvb3N0X2Nsb2NrIG1lbW9yeV90eXBlcyBwY2llX3ZlcnNpb24gc29ja2V0IHRkcF93IHRocmVhZHMyMAgBEgtVbmRlciAzIEdIeiIRKg8I6Yg-EgkRAAAAAABwp0AqAhgBOggI6Yg-EAAwBliLqyBgAQ&sa=X&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQip4GKBd6BAgYEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+3+ghz+intel+core+i5+12600kf+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=10&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=10&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=20&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=30&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=40&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=50&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=60&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=70&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=80&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=85b946b4252f7f97&hl=en&gl=us&ei=HqpgapQQ2Lau4Q_Mw7bQBg&start=90&sa=N&sstk=AU9db-BN8VCiPDThgEaiCKmVottLXFFlgLeu5hUZeovcRtMfc_gDPGARwx1OzC4oi9zHcxHp0EkVCzjKFdYriQxkLbrsBbUNjO7Iaw&ved=2ahUKEwiUl6Hel-aVAxVYmysGHcyhDWoQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel+Core+i5-12600KF+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=90"
+    }
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "search_metadata": {
+    "id": "6a5f7bb4fbe53b3b6afa8a1b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_hW_XWuO-5bI3b12t_unig/6a5f7bb4fbe53b3b6afa8a1b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_hW_XWuO-5bI3b12t_unig/6a5f7bb4fbe53b3b6afa8a1b.json_with_pixel_position",
+    "created_at": "2026-07-21 14:01:24 UTC",
+    "processed_at": "2026-07-21 14:01:24 UTC",
+    "google_url": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&oq=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_hW_XWuO-5bI3b12t_unig/6a5f7bb4fbe53b3b6afa8a1b.html",
+    "total_time_taken": 6.98
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "NZXT H9 Flow Mid-Tower Case case psu_form_factor",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "NZXT H9 Flow Mid-Tower Case case psu_form_factor",
+    "total_results": 967,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "NZXT H9 Flow Mid-Tower Case case psu form factor"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "NZXT H9 Flow RGB Plus in depth build guide (step by step ...",
+      "link": "https://www.youtube.com/watch?v=zTuC-MPSCik",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bb4fbe53b3b6afa8a1b/images/vbQCA-joRZnFqStwXpQ1TwDxk6Tx724d6LoDzcXtILA.jpeg",
+      "channel": "The Provoked Prawn",
+      "duration": "48:08",
+      "platform": "YouTube",
+      "date": "May 22, 2025",
+      "snippet": "I'm going to show you everything you need to know including the wiring and setup of your all-in-one cooler, the wiring of the motherboard.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQSUxQUD0nMXPxRZ9BwSzFXHheyHKZ6p84G0w"
+    },
+    {
+      "position": 2,
+      "title": "NZXT H9 Flow RGB Plus review - it's expensive but very easy ...",
+      "link": "https://www.youtube.com/watch?v=e4-YI21GDSc",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bb4fbe53b3b6afa8a1b/images/o4lwbNAxdg8SNGLIw6ZMz7nzy4ARJHSCct2rjxvF1BA.jpeg",
+      "channel": "The Provoked Prawn",
+      "duration": "12:48",
+      "platform": "YouTube",
+      "date": "Jun 8, 2025",
+      "snippet": "It's an expensive case, but easy to build in, cools well, runs quietly, and supports 420mm & 360mm coolers."
+    },
+    {
+      "position": 3,
+      "title": "NZXT H9 Flow Review 2025 | Best High-End PC Case for ...",
+      "link": "https://www.youtube.com/watch?v=QuD3NgEMzro&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bb4fbe53b3b6afa8a1b/images/hQH45keikphO9la_oQrC4ZAVF6ht6PB6Sx_yl2pCcaE.jpeg",
+      "channel": "Golf Sky",
+      "duration": "5:04",
+      "platform": "YouTube",
+      "date": "Aug 23, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcT8zP5gRCB0fLDX8S3DQ8yagDIC1Zlk_emeRA"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRD0v28wd8YA8HsBN37NDhWAO7XuqzMN-Sy35ZEUA1P8O-mmo1o7qQjx38Q0yCNWEPAECb2htmjQAu4D-8Jr9_UMoqG6_nlRrW1SnLj6FO0n1OvpAttL5vz",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "NZXT H9 Flow Mid-Tower Case",
+      "rating": 4.7,
+      "reviews": 401,
+      "price": "$139.99",
+      "extracted_price": 139.99,
+      "original_price": "$170",
+      "extracted_original_price": 170,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "CFtv_XicdZBLjts4EIaBOcPcwghAidRrdm3LklrdlmxKpGxuGjIpW5IpmZblJ3KH3MGdBEiWyQCznWv0nCZO1plNoYDvr0LV9-FWVP8c5v0qP-5Y1Ge-FS2mZ3PHNw_2F9VtxYH3lfhuOYaOELBNyzZsHVnAMb7wvM_ldl2JvzXdQTZwTEM3gKMZJgQa-FYWuZBVW8SrVdG5W_4zZ5qWAS3bcWxDQxAgTQdfqyZfF7_4d93UHcdwLGQCy9QhvPPXTuzf0HT0omkmsuB9DuiWbQFoAwO9n-LYffkf-Gl3KLrLG4jYPB0EzsCT29NgUol36fZUdINRvi8G_GdR-8PLats1L6uc99vu01r9uvU3K1-bSnwzLBOZ-t2Ert9FOKapvapjfyvXHw8HWfx7W8vbYX8r5a1oP29zdVzx__74c7w9uaP9aTQjSlEXg0QOCUnLtvDD4UTKI91QmhI1TfRTn3phGgc45PLBoNrYeCagZ64kKfBq3qiauVif66yjGjtR3wPxGHeiFlOeRhmG4bBoVMzl4izcMor0R8hccUk8HGeUItIoGQHvknniUEgVPWfra5LSKYFRmQTSE8QbLVJJl9rEWM7DA84eT3lNn4vxzCikt5tsjCP1z9lzVu7SjG1SVzyKgF1FO74yIENGKCvmwuSe85QH5VOkkRNLWZJqpUfBOcEyrAQkYFFHVzw-9yl1hjxgapIpTbQqzNqwyl1PxpTB5QZciT9DopFR4quoIFTNNprPs_Bx6bML9sVTRhRd1jjOMxvw4N43GEU1vkyCBYzgsM6a8zytZbygC0hgeeUjbZXeBWOijmKDYE7leekOG16PIcm8aZyW4QQOjYLgeeKKkajDUGjREyco8SBdCJ-VovXytMVzfBV3p0MUtV6dgzHyq3CIg-gSZwzzMe2FXyqcza6kLYP7jzV1S8WbCVxS1c5I334877vVG3jwjD6JEYtPyM3OSfwgy3yUX01_sovU3tXZ-i_NspGJdOQAiOwfR086kQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CFtv_XicdZBLjts4EIaBOcPcwghAidRrdm3LklrdlmxKpGxuGjIpW5IpmZblJ3KH3MGdBEiWyQCznWv0nCZO1plNoYDvr0LV9-FWVP8c5v0qP-5Y1Ge-FS2mZ3PHNw_2F9VtxYH3lfhuOYaOELBNyzZsHVnAMb7wvM_ldl2JvzXdQTZwTEM3gKMZJgQa-FYWuZBVW8SrVdG5W_4zZ5qWAS3bcWxDQxAgTQdfqyZfF7_4d93UHcdwLGQCy9QhvPPXTuzf0HT0omkmsuB9DuiWbQFoAwO9n-LYffkf-Gl3KLrLG4jYPB0EzsCT29NgUol36fZUdINRvi8G_GdR-8PLats1L6uc99vu01r9uvU3K1-bSnwzLBOZ-t2Ert9FOKapvapjfyvXHw8HWfx7W8vbYX8r5a1oP29zdVzx__74c7w9uaP9aTQjSlEXg0QOCUnLtvDD4UTKI91QmhI1TfRTn3phGgc45PLBoNrYeCagZ64kKfBq3qiauVif66yjGjtR3wPxGHeiFlOeRhmG4bBoVMzl4izcMor0R8hccUk8HGeUItIoGQHvknniUEgVPWfra5LSKYFRmQTSE8QbLVJJl9rEWM7DA84eT3lNn4vxzCikt5tsjCP1z9lzVu7SjG1SVzyKgF1FO74yIENGKCvmwuSe85QH5VOkkRNLWZJqpUfBOcEyrAQkYFFHVzw-9yl1hjxgapIpTbQqzNqwyl1PxpTB5QZciT9DopFR4quoIFTNNprPs_Bx6bML9sVTRhRd1jjOMxvw4N43GEU1vkyCBYzgsM6a8zytZbygC0hgeeUjbZXeBWOijmKDYE7leekOG16PIcm8aZyW4QQOjYLgeeKKkajDUGjREyco8SBdCJ-VovXytMVzfBV3p0MUtV6dgzHyq3CIg-gSZwzzMe2FXyqcza6kLYP7jzV1S8WbCVxS1c5I334877vVG3jwjD6JEYtPyM3OSfwgy3yUX01_sovU3tXZ-i_NspGJdOQAiOwfR086kQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcSPsonWVrgaQ7NOStk18J6mmL6fUe8HrDv3I4311EU57ut4fddqFEFG4xLRSxFVOpn9yu21NoaURcHHusVyElnFdQpaoED7bfeet-2L3eVX98lGBdyg_a7pTQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSdEA3PV1Qumov-QB-DVBK3ZuGHplzFp1Y-LLMCYgZ2TA_40kDmualgmFc3yniWF_kH5-Uye7fe41Az5FuasI7ZCw",
+      "source": "NZXT",
+      "title": "NZXT H9 Flow RGB+ ATX Mid-Tower Case",
+      "rating": 4.7,
+      "reviews": 81,
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "original_price": "$290",
+      "extracted_original_price": 290,
+      "delivery": "Free delivery on $749+",
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "oIVAVHicbZPNjqNGFIWlPEPewhqpfih-smvbgJtpqu2CKkxtWpjCxgYDDbaxUd4h7-CeiTRZzoyUbV6j8zRhsp67uJtP95yjI90_7tn-7_P6tE0ur5KeIteg8fKqv6bFg_mlaWt1Tk979c0gumUiYFrEsAyi6cAyvqTJKSnr3UixiYllQggMDAAmGFnwa54lqtxX2fN2m7XzOt2r7xCPp4ZOiGbqpoEIxrrx1_6Y7LL_-TfNMjWNGBiO-uPoEJtvrere0XL2gjBEozdBhqFDMloR8_cle56__Jx9fj1n7e0dULkOJwtr4pR1P_H36kNY91k7mSVdNkl_rKY7v2zr9viyTdJT3X7eNT-S_ETx7bhXX4mhazoyNWICbBpYN-Fbcznd892n87nM_rnvyvu5u-flPav-rJPmsk3__eVXu-7ns66frXjTiDkDgWiqBDsug_TEbTn1D_SSFRKteDnQokcKwWtwbGwecsicEsrQ8wOXTlNALgnKpXSZEO4jojgXfkSrJOqIXzz24lB-lCXXwqJc-TxFceUx6q6wKq5XIYTPgFcwZIMxQ-wf2MoX0hGArTNXLlPotVI4j09huU0h9Xw4zcUeVivEBzXIPI6cOC2smheyjipFBQdo4zhuAK6BrPJSLdiCRZaXYPuWuezIXD4Id3cSkTjHh6IPS4tsCmizw7TmwLolixTQo4N9fmUR9_wYkINyc0bnZalKa8i4tw7sUx8H8MCgNxUOW2YLOsgjx6Gbk_hYFmkE64B77Qo00w3qB7p4gHSgM7qHtwTSeeqq26ryjj7XUFxYOR3yhYyUlwo5qEpESSTDjetdNyGtnvj1uuGcMMA6Hz0CH6peAvKROZ4rCjNwsIiVK3NVOUlYsTUb1HMkphqtnEMCbM3de1O2oLfnSPKntbLHLrtg7GWzmG7lgYYRF0GA5XINFGLltPp07drtO3hwyCl4Jg-urTuJJXItUNAdzhe1nZ_XRgfo6jdomJquIc0aHwv8B7jANnU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oIVAVHicbZPNjqNGFIWlPEPewhqpfih-smvbgJtpqu2CKkxtWpjCxgYDDbaxUd4h7-CeiTRZzoyUbV6j8zRhsp67uJtP95yjI90_7tn-7_P6tE0ur5KeIteg8fKqv6bFg_mlaWt1Tk979c0gumUiYFrEsAyi6cAyvqTJKSnr3UixiYllQggMDAAmGFnwa54lqtxX2fN2m7XzOt2r7xCPp4ZOiGbqpoEIxrrx1_6Y7LL_-TfNMjWNGBiO-uPoEJtvrere0XL2gjBEozdBhqFDMloR8_cle56__Jx9fj1n7e0dULkOJwtr4pR1P_H36kNY91k7mSVdNkl_rKY7v2zr9viyTdJT3X7eNT-S_ETx7bhXX4mhazoyNWICbBpYN-Fbcznd892n87nM_rnvyvu5u-flPav-rJPmsk3__eVXu-7ns66frXjTiDkDgWiqBDsug_TEbTn1D_SSFRKteDnQokcKwWtwbGwecsicEsrQ8wOXTlNALgnKpXSZEO4jojgXfkSrJOqIXzz24lB-lCXXwqJc-TxFceUx6q6wKq5XIYTPgFcwZIMxQ-wf2MoX0hGArTNXLlPotVI4j09huU0h9Xw4zcUeVivEBzXIPI6cOC2smheyjipFBQdo4zhuAK6BrPJSLdiCRZaXYPuWuezIXD4Id3cSkTjHh6IPS4tsCmizw7TmwLolixTQo4N9fmUR9_wYkINyc0bnZalKa8i4tw7sUx8H8MCgNxUOW2YLOsgjx6Gbk_hYFmkE64B77Qo00w3qB7p4gHSgM7qHtwTSeeqq26ryjj7XUFxYOR3yhYyUlwo5qEpESSTDjetdNyGtnvj1uuGcMMA6Hz0CH6peAvKROZ4rCjNwsIiVK3NVOUlYsTUb1HMkphqtnEMCbM3de1O2oLfnSPKntbLHLrtg7GWzmG7lgYYRF0GA5XINFGLltPp07drtO3hwyCl4Jg-urTuJJXItUNAdzhe1nZ_XRgfo6jdomJquIc0aHwv8B7jANnU"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSQ-HqzcqRh6usG3L2F-ovYSms5dEg5XuXSTNiqTw3sduS_YT3K4AqlgS81wCO6nUqCMO8E2FxE03GvjhRxKIvNCN-P3rxDUYaM7qzl0_2y2UKpnZ0yQukraw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5aaGfMW97qGRkQ4iOwtu7aFJPFmjpvS09yQqDJ0zw8gfYTCKQaeyWJMoIfVbncuYERBN5YgM-SOh1v7GCawAXYZl1nwtkzGA",
+      "source": "Pondesk",
+      "title": "H9 Flow Mid-Tower ATX Case",
+      "rating": 4.7,
+      "reviews": 158,
+      "price": "$182.99",
+      "extracted_price": 182.99,
+      "immersive_product_page_token": "EluXknicdZNNjuM2FISBnCG3MAKQFEVJ2bVbpjxCm7YpiZK4aahF2bJE_diWfzF3yB3cMwEmy0mAbHONzmliI9tkU5sPVa9q8X65FZs_D8mwyo5byYbYs1i6OJNtXj_Z3_pdpw75sFF_QGxhExgA2ggaNjEJscm3PBsy3a0f2AImsIFhOBhh03FMTMD3ssiU3rTFfLUqdm6Xb9Tv0DYdDJFhIWhbxCCGYf22abJ18S_GxLIJIBiYBACAHWKg953af-DF8ytEEJv4ccLACEJo2xB9XvC5-_o_8Ov2UOwuH4DJJBxNnRHV3Wk026ifwu5U7EbP2b4Y5Q_p94fXVbdrXldZPnS7r-s-f0z6j8j3ZqO-mxbBBNkOIg4xLYdA8N4fh1u5_nI46OKv21rfDvtbqW9F-2uX9cdV_vcPP066k_u8Pz0vo74XLgehJ665cAZWzc4ydi7FlI15fcJ8InR4FTrVkiZIYKGdDavNcxBBLi_QV3X5aYlkyhqnmSciSVttpnqMcip40fj7NzAMbx7rXhK6SCtdhVV-mrnpJUD65e4_pW1_ZFe6iKuxCJuhfaPUY8KfZ4K-SNSjtKLzSPvbKB5oCHkTwRSw5vyS1ULk3sBVI1lai4mMaRmFomWCk0ywSZF0OLr6bdj0sZwyKmnvcl1j6aU4Df2OX_0hq8Q2orzPK57lSJSclhmrxjR3xYVTtkwbmuWN7t-QjyNXgAQ6Y9XwlidLHIjorNpyEQHV56I3imnJZo0ei8isA62AQrrlgFap1tsoujPqkKVWF1GfIznpHnlDEJVCTvx57vX1fUMlqk_XopEon5bdLBL37nylkjGWAYyFkFs-OZe87Q2ln05BUgfUEKnyZKlamoX3Vvyq5rEYY9bSKgMT7G38MZ-yyzyWfOauYTwtpYBlpLwOzShPAq3nAaJlnkRXRv32y3m_W32AJ2oOwdx88iaEZo4ocaCgdz0c1co9JNYesOXP0LIxuX-WAwwT_AMn8jv3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EluXknicdZNNjuM2FISBnCG3MAKQFEVJ2bVbpjxCm7YpiZK4aahF2bJE_diWfzF3yB3cMwEmy0mAbHONzmliI9tkU5sPVa9q8X65FZs_D8mwyo5byYbYs1i6OJNtXj_Z3_pdpw75sFF_QGxhExgA2ggaNjEJscm3PBsy3a0f2AImsIFhOBhh03FMTMD3ssiU3rTFfLUqdm6Xb9Tv0DYdDJFhIWhbxCCGYf22abJ18S_GxLIJIBiYBACAHWKg953af-DF8ytEEJv4ccLACEJo2xB9XvC5-_o_8Ov2UOwuH4DJJBxNnRHV3Wk026ifwu5U7EbP2b4Y5Q_p94fXVbdrXldZPnS7r-s-f0z6j8j3ZqO-mxbBBNkOIg4xLYdA8N4fh1u5_nI46OKv21rfDvtbqW9F-2uX9cdV_vcPP066k_u8Pz0vo74XLgehJ665cAZWzc4ydi7FlI15fcJ8InR4FTrVkiZIYKGdDavNcxBBLi_QV3X5aYlkyhqnmSciSVttpnqMcip40fj7NzAMbx7rXhK6SCtdhVV-mrnpJUD65e4_pW1_ZFe6iKuxCJuhfaPUY8KfZ4K-SNSjtKLzSPvbKB5oCHkTwRSw5vyS1ULk3sBVI1lai4mMaRmFomWCk0ywSZF0OLr6bdj0sZwyKmnvcl1j6aU4Df2OX_0hq8Q2orzPK57lSJSclhmrxjR3xYVTtkwbmuWN7t-QjyNXgAQ6Y9XwlidLHIjorNpyEQHV56I3imnJZo0ei8isA62AQrrlgFap1tsoujPqkKVWF1GfIznpHnlDEJVCTvx57vX1fUMlqk_XopEon5bdLBL37nylkjGWAYyFkFs-OZe87Q2ln05BUgfUEKnyZKlamoX3Vvyq5rEYY9bSKgMT7G38MZ-yyzyWfOauYTwtpYBlpLwOzShPAq3nAaJlnkRXRv32y3m_W32AJ2oOwdx88iaEZo4ocaCgdz0c1co9JNYesOXP0LIxuX-WAwwT_AMn8jv3"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTT78HT_QwQMFktW_Q3ry4JLPd_o4XSHiFDC2Y-lozoGZNWuE4uq-ODqb37Segbohx0OPWjfMSaWJDefIQAE_LtMy52mD5vwoX1qcEpgLM",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcShP_YeR954l_Pu-VihT8zGF00CDHQj7AtV_4qY1Hvu9sRbXJ4bfg-UvP1f0j-D3tnrB5pUERdBE-x8M02dnoL9cxvNAXfK6Wkqfg",
+      "source": "yianniproject.org",
+      "title": "NZXT H9 Flow Dual-Chamber ATX Mid-Tower PC Case - Tempered Glass Front/Side, High Airflow, Supports 360mm Radiators, Black",
+      "rating": 4.7,
+      "reviews": 401,
+      "price": "$60.25",
+      "extracted_price": 60.25,
+      "immersive_product_page_token": "61ZsB3icdZDNjptIAIS1z2Ot1M2PgdzGYGCYoW1-3A1crIYGY_Nr3PhPeYe8QuRkVpo9JivtNa8xUR4mTu651OVTlarqwy3f_j9GvKDHfYI4sRQUL8_TfVY9qK_90LEx41v2HwTqVBE0UVE0WYSqOJUheM0op3W32bKPX8qcsnrb5ouiyAejy_5g-Xfb0E3-m38VFUEQZEUUJaBCUQYKFD4N7PAmLfU1hFNJEdW7Q1BUBYgqkKX3S39hrP8AX_ZjPlzeAEqicGJrE7PuThN3y_4Ou1M-THR6yCfZL-kP47rohmZd0Ix3w8umv3f5-Kn5Jf2R38rN53Gs82-3TX0bD7eyvuXtPx3tj0X2_a8f8_FR1_ePurfqe2z4ICDJaQVW18R2bF_Ay5Uln2Jcx4vQL3zMLsyILwlhB9QkUbyryzQqzUTg21CcLVeEtwyXNbG49Yz71hN4mWD3lOrwyoBceUTDPjTpYoXtDMfcnZfn5wg3GUFPMfEdQnjgW4mTR_Uyt_CREu2UCv2e6jAO51qV2g7xCBtcCzdxiPQU-l4ETDdo630m1E4alq4L0FM452ES9bq7cwi1-hm2EfLNsg7t3kgbJKbX0rlPOkewk4LKsVDb40xkNqmcgFTII8ZcIo1TUtMxXUF2UcueU4J2uJElChIp3-EC148nRMqG2p3gibGUWVq7IPGFVfXTguALtZ1nMk8kr0JhGlWiv2PWvV-Rmdo5r-QqCefn1IKCa5SDd_V4KmSBKeKYWUnJWpOGrR_5V3aPmkmoNXcUzCVr68x8G10WJAkJwV5qxACvoITCekyBc_-I05S4gt9wJ7T92efzYSjewIMp82AxDZ7yy3G9pinIeRMYLurVeDXCYnp5eAcVVZpKgqQBUYY_AWVOG8o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=61ZsB3icdZDNjptIAIS1z2Ot1M2PgdzGYGCYoW1-3A1crIYGY_Nr3PhPeYe8QuRkVpo9JivtNa8xUR4mTu651OVTlarqwy3f_j9GvKDHfYI4sRQUL8_TfVY9qK_90LEx41v2HwTqVBE0UVE0WYSqOJUheM0op3W32bKPX8qcsnrb5ouiyAejy_5g-Xfb0E3-m38VFUEQZEUUJaBCUQYKFD4N7PAmLfU1hFNJEdW7Q1BUBYgqkKX3S39hrP8AX_ZjPlzeAEqicGJrE7PuThN3y_4Ou1M-THR6yCfZL-kP47rohmZd0Ix3w8umv3f5-Kn5Jf2R38rN53Gs82-3TX0bD7eyvuXtPx3tj0X2_a8f8_FR1_ePurfqe2z4ICDJaQVW18R2bF_Ay5Uln2Jcx4vQL3zMLsyILwlhB9QkUbyryzQqzUTg21CcLVeEtwyXNbG49Yz71hN4mWD3lOrwyoBceUTDPjTpYoXtDMfcnZfn5wg3GUFPMfEdQnjgW4mTR_Uyt_CREu2UCv2e6jAO51qV2g7xCBtcCzdxiPQU-l4ETDdo630m1E4alq4L0FM452ES9bq7cwi1-hm2EfLNsg7t3kgbJKbX0rlPOkewk4LKsVDb40xkNqmcgFTII8ZcIo1TUtMxXUF2UcueU4J2uJElChIp3-EC148nRMqG2p3gibGUWVq7IPGFVfXTguALtZ1nMk8kr0JhGlWiv2PWvV-Rmdo5r-QqCefn1IKCa5SDd_V4KmSBKeKYWUnJWpOGrR_5V3aPmkmoNXcUzCVr68x8G10WJAkJwV5qxACvoITCekyBc_-I05S4gt9wJ7T92efzYSjewIMp82AxDZ7yy3G9pinIeRMYLurVeDXCYnp5eAcVVZpKgqQBUYY_AWVOG8o"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR7CEuM1f7uTVI_G6Oj_iA1n4M_3iX6Zes-xQhmVSGDjjtqZCQBwFGfGP0O3Wcfil9TCVAdWKr-IUKpRT4VAPKyPzXSjwOzEP_zo4FN0am0RinEst2clXlYZoQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ6dKnXkbfrby2b3NJJe94cuK2s_j_wejcq9KXvmLHYzCUEpp3RR19fkLlVcdgwaHcbHDVh2nPaKhPoG0f13CTSz77AXieb",
+      "source": "ExcelDisc",
+      "title": "NZXT H9 Flow Case - 165mm CPU, 435mm GPU, 200mm PSU, Mini-ITX, Micro-ATX, ATX Motherboard",
+      "price": "$284.81",
+      "extracted_price": 284.81,
+      "immersive_product_page_token": "Nv0mAXicdZLLbptAAEXV77EqDS_bdGcbg5sGKI8ZYDbRwIDBDB7Cw2B-or8QOUmldNlW6ra_kX5Nne67OdLV0b2r--WSFr_6sMvI6R5bXWAsrOjzOL9PytXypW447ZOuoD8FWZxLCljIgiot5WtYgPlLQjrC-L6gD9_zlFBWHFM7y9JG48l_Kt-KiuzTf_6HqILl1SpLRZaXc0VWJfmxoe3D832fNudXYOHQn-3Umc74MDML-t7nQ9rMNqRNZ8kb6ra_y3hT3WUk6XjzvK-vsw-P1RvqU3fJ9099z9Lflz279O0lZ5f0-JWT-pQlf94dtnzYbNph7cC6RpoLvJCL3uHj4MBx47DVQEuliBkKvJDVCDHfmljggFKMJxbFFRcgYxbRTTkO3JOvrc8OFAYcWJ4NBYRhfiK6a7t-fvR30Rkj_YYa7IQn1_a3EYCANVDUTVwIIZYYNCU-xlPeRzDfRYEpxZUSEONGc0WlozA5J9sR0qoG1gFHliE4qR6JbpmXMKg5AmqANL2C2pr71dgF0AqtcHV2BVqFUq3Z2krEjG18sa78Y-0QjfkmogYEauMDPccasm1kjZTpt7GEz9ucCsHOraIQj0GpAAQSyWfMSTU8RmK3tte8cKA7JQdWwcnsoFgOaYXCW09oiIjX2CgVItIoZegTgWgLnaexbbJXsNKVzrOVlbGd60RFuexRwZj6E820Ply0wHI-CIulPJdFWQXX4_wFmofpqQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Nv0mAXicdZLLbptAAEXV77EqDS_bdGcbg5sGKI8ZYDbRwIDBDB7Cw2B-or8QOUmldNlW6ra_kX5Nne67OdLV0b2r--WSFr_6sMvI6R5bXWAsrOjzOL9PytXypW447ZOuoD8FWZxLCljIgiot5WtYgPlLQjrC-L6gD9_zlFBWHFM7y9JG48l_Kt-KiuzTf_6HqILl1SpLRZaXc0VWJfmxoe3D832fNudXYOHQn-3Umc74MDML-t7nQ9rMNqRNZ8kb6ra_y3hT3WUk6XjzvK-vsw-P1RvqU3fJ9099z9Lflz279O0lZ5f0-JWT-pQlf94dtnzYbNph7cC6RpoLvJCL3uHj4MBx47DVQEuliBkKvJDVCDHfmljggFKMJxbFFRcgYxbRTTkO3JOvrc8OFAYcWJ4NBYRhfiK6a7t-fvR30Rkj_YYa7IQn1_a3EYCANVDUTVwIIZYYNCU-xlPeRzDfRYEpxZUSEONGc0WlozA5J9sR0qoG1gFHliE4qR6JbpmXMKg5AmqANL2C2pr71dgF0AqtcHV2BVqFUq3Z2krEjG18sa78Y-0QjfkmogYEauMDPccasm1kjZTpt7GEz9ucCsHOraIQj0GpAAQSyWfMSTU8RmK3tte8cKA7JQdWwcnsoFgOaYXCW09oiIjX2CgVItIoZegTgWgLnaexbbJXsNKVzrOVlbGd60RFuexRwZj6E820Ply0wHI-CIulPJdFWQXX4_wFmofpqQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTCEfrBygXQIOswRgBAymmPfW9cVCYaIIpc-U5OQQLhpXYTRoSdEVk4HlyWfdTSlrs1YILnry8oo5zcknWvkG1td-DmC9LanAnX1hNgtlO44Gi7lpVoIErC",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5aaGfMW97qGRkQ4iOwtu7aFJPFmjpvS09yQqDJ0zw8gfYTCKQaeyWJMoIfVbncuYERBN5YgM-SOh1v7GCawAXYZl1nwtkzGA",
+      "source": "Pondesk",
+      "title": "NZXT H9 Elite Mid-Tower Case",
+      "rating": 4.7,
+      "reviews": 180,
+      "price": "$269.99",
+      "extracted_price": 269.99,
+      "original_price": "Usually $308",
+      "extracted_original_price": 308,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "o32wZHicbZNNjqtGFIWlrCG7sCJVAcVPZrYxpt2msAuKgppYZcDGpjC0Dbaxsofswf1epJfhyyDTbKOzmtDK9E2udHWOvnvO4P7-zA9_d3G7E9c3jls2N3CyuutvaTk2vzXnOuvS9pD9peoIIQNYpgWRpegQQuNbKloh6_2gmoquW4aiG0hXTNPQIYDfi1xk8nDK_d0uP9t1Otg0DVqqahiKoaKBgAyk_XmoxD7_X9ZVE6kaQqZlmRpAFjTN93N2-VBW041pGaqpWEgb0ED53KzfVsS3Nz_Wvr51-bn_AJjH4ci1Ro6sbyPvkP0S1rf8PJqKSz5KP0dz6Ta7-lxtdiJt6_PXffOZ5AfE9-qQfUeGrg0NkQUAMlVoAPW9ubbPYv-l62T-z3Mvn93lWchnfvqjFs11l_7708-z-mZPL7fpmjZNZBMQPArhlXCVsEUhKswz1rx4Fe62DMZRXIPAmbBwjpGIrNdcOktSlprPEE-rts5PizhQiBQ0ipdxc1k_1kpatknCbv3gnwQlUlPFUYnLW1Y1y-EmzymekOpFXTMPCcjVcH4DeZmVOb3HkTtW1qdsyLWISYhdXjYgAhSJcFLxWfuaVe01nJGaxQsQ2tLl7K4RmmFvFlX8gYlnJ5C6de_ZWbcuSxjGvGSUBKHNazJwAkY65pBjAJs2ZamSSh56DllHcTH13FTDs7ublzjBgCB8wtSDGKSOp7CIVz5zXki06PMh1fZB6kRy4DukXoaLPiz5lNg8wBD3QeW1azgRWEbrzKV3oRQkqyDBFNZM4jd_XkiiEE6oc2TS4rmTaJ5aPPAcwa2SAsEQ8uhiwuSEBhJHWyoxk9Inqof8GXe94z5w1CjJ5rzITo4ITyQmj8xn0UTDJ-cowEybHxYT4uLeZ5xSaq0E_ewvXTqFDxLypcfIkZzG98hZ97TE5Mv9ct59gLGD2sDXg9e8v242YgvytgpsDzdmQju40_vxr9AwNV1TNAsMP_Mfg1M3gg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=o32wZHicbZNNjqtGFIWlrCG7sCJVAcVPZrYxpt2msAuKgppYZcDGpjC0Dbaxsofswf1epJfhyyDTbKOzmtDK9E2udHWOvnvO4P7-zA9_d3G7E9c3jls2N3CyuutvaTk2vzXnOuvS9pD9peoIIQNYpgWRpegQQuNbKloh6_2gmoquW4aiG0hXTNPQIYDfi1xk8nDK_d0uP9t1Otg0DVqqahiKoaKBgAyk_XmoxD7_X9ZVE6kaQqZlmRpAFjTN93N2-VBW041pGaqpWEgb0ED53KzfVsS3Nz_Wvr51-bn_AJjH4ci1Ro6sbyPvkP0S1rf8PJqKSz5KP0dz6Ta7-lxtdiJt6_PXffOZ5AfE9-qQfUeGrg0NkQUAMlVoAPW9ubbPYv-l62T-z3Mvn93lWchnfvqjFs11l_7708-z-mZPL7fpmjZNZBMQPArhlXCVsEUhKswz1rx4Fe62DMZRXIPAmbBwjpGIrNdcOktSlprPEE-rts5PizhQiBQ0ipdxc1k_1kpatknCbv3gnwQlUlPFUYnLW1Y1y-EmzymekOpFXTMPCcjVcH4DeZmVOb3HkTtW1qdsyLWISYhdXjYgAhSJcFLxWfuaVe01nJGaxQsQ2tLl7K4RmmFvFlX8gYlnJ5C6de_ZWbcuSxjGvGSUBKHNazJwAkY65pBjAJs2ZamSSh56DllHcTH13FTDs7ublzjBgCB8wtSDGKSOp7CIVz5zXki06PMh1fZB6kRy4DukXoaLPiz5lNg8wBD3QeW1azgRWEbrzKV3oRQkqyDBFNZM4jd_XkiiEE6oc2TS4rmTaJ5aPPAcwa2SAsEQ8uhiwuSEBhJHWyoxk9Inqof8GXe94z5w1CjJ5rzITo4ITyQmj8xn0UTDJ-cowEybHxYT4uLeZ5xSaq0E_ewvXTqFDxLypcfIkZzG98hZ97TE5Mv9ct59gLGD2sDXg9e8v242YgvytgpsDzdmQju40_vxr9AwNV1TNAsMP_Mfg1M3gg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQ5kTh4Lgf-TQkkkFhCwOnvH2p-ZA48C6tSQcFNZRUHMFK8zvMAccXPFK3KU7qQdwsjPyWalGI2n0qaaqGdTGxyV2Rk-1yuVcguhtYOQr4tu2HY9r0ctlzT-g",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "NZXT Dual-Chamber ATX Mid-Tower PC Case",
+      "price": "$139.99",
+      "extracted_price": 139.99,
+      "original_price": "$170",
+      "extracted_original_price": 170,
+      "delivery": "Free delivery",
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "d_spgnicLVJLjtNAFBTniZDc3f7E7HDijuOZdHDb3U68QR23P4m_cZyJySW4AsrMIMESkNhyDTgNHoSeVItXpXqlp_p4S_Y_z5s-FQ_HiPThwiDbd4N-jIu30y9t18hz3O_ld4BUYOgm0M0pUiAyTYS-xKIXZZPt5Q-gIWNcQd0AmqlPFVM3tW95ImS5r5N1mibdvIn_6QxNRxBCA5qmqhoGmIKv-0pkyX8ejQORrphQNbUpHOXgsZOnT8_Hc9J9-K2QaBNMHHOCy-YyWe3l66C5JN1kJk7JJH6B9nR-nzZd9T4Vcd90z1k7-n7XlTHgeA5BZfriq-rosdrLT4_tQ3_Ls6fzuUx-3bLydj7d8vKW1J8b0T6k8Z9Xj3YXz2YPseWxtuVzqvhKpsRFdo1CG0U2PkqHbMPCrDxQFhQ2F8rclXC8CzlITVyjJSulvt7I4X7j-nHtWqRY9T5vYICsigCs7hi-kgqTxJaVdNwFXVCPzXkU2_jOZ8shZG0VOFHnHfA2QK2743wQoDzyklC2KZUIWGUE8iY4SEtWwyqs8lxcy3fbOoN04Vp0TrV1yDl13OuujmZeSIfAyWs5Jzhkbi8cSQhqdeaDVbIhtQ-3_Zjd2wF-R5Hb3YfYiRg4-td8sWXthXB6ooUKGJ6iHdPsoMYbWZ3gts4PiR1d17br-QzQnS1VznkoajkTwDpQKJuk5uvtsNxInitRhWHM27XE4wcVLWJOBuOQdF6QiWWB7RgttajEVWhri1WFZzvbFLQYfFJgGHCrZaD8QIClkcJ-Gk5d-lt5i7XeX6tWkLJFGyuvd_hubuJUvyx9_eR4Qeq9AcZU1dWxWwrS4F_GNAI-",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=d_spgnicLVJLjtNAFBTniZDc3f7E7HDijuOZdHDb3U68QR23P4m_cZyJySW4AsrMIMESkNhyDTgNHoSeVItXpXqlp_p4S_Y_z5s-FQ_HiPThwiDbd4N-jIu30y9t18hz3O_ld4BUYOgm0M0pUiAyTYS-xKIXZZPt5Q-gIWNcQd0AmqlPFVM3tW95ImS5r5N1mibdvIn_6QxNRxBCA5qmqhoGmIKv-0pkyX8ejQORrphQNbUpHOXgsZOnT8_Hc9J9-K2QaBNMHHOCy-YyWe3l66C5JN1kJk7JJH6B9nR-nzZd9T4Vcd90z1k7-n7XlTHgeA5BZfriq-rosdrLT4_tQ3_Ls6fzuUx-3bLydj7d8vKW1J8b0T6k8Z9Xj3YXz2YPseWxtuVzqvhKpsRFdo1CG0U2PkqHbMPCrDxQFhQ2F8rclXC8CzlITVyjJSulvt7I4X7j-nHtWqRY9T5vYICsigCs7hi-kgqTxJaVdNwFXVCPzXkU2_jOZ8shZG0VOFHnHfA2QK2743wQoDzyklC2KZUIWGUE8iY4SEtWwyqs8lxcy3fbOoN04Vp0TrV1yDl13OuujmZeSIfAyWs5Jzhkbi8cSQhqdeaDVbIhtQ-3_Zjd2wF-R5Hb3YfYiRg4-td8sWXthXB6ooUKGJ6iHdPsoMYbWZ3gts4PiR1d17br-QzQnS1VznkoajkTwDpQKJuk5uvtsNxInitRhWHM27XE4wcVLWJOBuOQdF6QiWWB7RgttajEVWhri1WFZzvbFLQYfFJgGHCrZaD8QIClkcJ-Gk5d-lt5i7XeX6tWkLJFGyuvd_hubuJUvyx9_eR4Qeq9AcZU1dWxWwrS4F_GNAI-"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQDRPRGYyQvNs2eZdEJ3ho7DdRlnUxaEPicxg9qs5vnHdu6MHhuZltslSNLeCcQ34TmdmkPZNSZz_WfGN2tNbGCrNxGnRexOOxsAFMnaGfJQ0MfqToS4J0l1pw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0QufSxRCR7BarODfQcIM59TCOzG0fJUlU8Yr-IWF3tImH-9y9mGIrnBUVnv6cHPd3NOB2D4kNrcsc1flE5QBAFS3jARIF",
+      "source": "Paradox Customs",
+      "title": "Isaiah's Custom NZXT H9 Flow RGB+",
+      "price": "$6,910.00",
+      "extracted_price": 6910.0,
+      "immersive_product_page_token": "SAJiP3icdY3LbptAAEXV77EqMQxj4-5sj4lD6sE8hsdsLMIMBjM8jMHY-Yn-QuQkldJlVanb_kb6NU2lbrs5m6tzz5eryH_2YZfGpwMjXXAzIdHmPD4kxUx_bdqa90mX8x8AIATQBOo6grqiawBNldck7mJZ73L--D0TMZd5Jaw0FS2uk_8o3_Iy3ol_u6oqKpjACUAa1FQwRjp8avnx8eXQi_byphAWeqPVdGTIehitc_7RqwfRjhbxUYySv2iO_Tat23KbxklXty-75v338an8i-bUXbPdc99L8eu6k9f-eM3kVVRf67g5pcnvD_tlPSwWx2Fu06bxsaO4kNtuACoSJpq3klisjI1XmqoLCbTLZvCUDHjUvPVueGHvicsg8Z2CnxMsD35BUSR5Rah_IgFCgS_v3KVhRaXhc6XBFp5BrrCT5csjAaYfqY5jh01NlrJclyinwXlIArYkDw7yqTFEnmlROU0DzMyoBBu2Nw7rkF7uq93F3mcmxSYmOLuIJTtHkGzIaqYluOh8tVETampOwe6o0VSu4dj3lfzMV1JNAofZYOqTkHv3lI_dJXMdj0S2zAxayNsYE2kXhrnMOAhWThmF7BwUSPGVBHpS2gK_t9Rubs3r3KbOQ7KXJa0YWxt-TG5QHKpyERXmisIZFNX8limmb2F55sPz-dimb8rMQJ1rjd07cTltt_G9IrrSxWvS6BHtQTq-zD6Bia6NNVWbKhCBPyR-5_o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SAJiP3icdY3LbptAAEXV77EqMQxj4-5sj4lD6sE8hsdsLMIMBjM8jMHY-Yn-QuQkldJlVanb_kb6NU2lbrs5m6tzz5eryH_2YZfGpwMjXXAzIdHmPD4kxUx_bdqa90mX8x8AIATQBOo6grqiawBNldck7mJZ73L--D0TMZd5Jaw0FS2uk_8o3_Iy3ol_u6oqKpjACUAa1FQwRjp8avnx8eXQi_byphAWeqPVdGTIehitc_7RqwfRjhbxUYySv2iO_Tat23KbxklXty-75v338an8i-bUXbPdc99L8eu6k9f-eM3kVVRf67g5pcnvD_tlPSwWx2Fu06bxsaO4kNtuACoSJpq3klisjI1XmqoLCbTLZvCUDHjUvPVueGHvicsg8Z2CnxMsD35BUSR5Rah_IgFCgS_v3KVhRaXhc6XBFp5BrrCT5csjAaYfqY5jh01NlrJclyinwXlIArYkDw7yqTFEnmlROU0DzMyoBBu2Nw7rkF7uq93F3mcmxSYmOLuIJTtHkGzIaqYluOh8tVETampOwe6o0VSu4dj3lfzMV1JNAofZYOqTkHv3lI_dJXMdj0S2zAxayNsYE2kXhrnMOAhWThmF7BwUSPGVBHpS2gK_t9Rubs3r3KbOQ7KXJa0YWxt-TG5QHKpyERXmisIZFNX8limmb2F55sPz-dimb8rMQJ1rjd07cTltt_G9IrrSxWvS6BHtQTq-zD6Bia6NNVWbKhCBPyR-5_o"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcQgckfkojUeAHjJQbhJR4jbqJSybJBwHEGfaRc0tMtII_J9AIVja7Wm-hsCAv-waCHpAUPC2EvjuWH39ReQYrplX754QxfHthTvjz2BBGsvIHosUnbEeNGkIw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com",
+      "title": "NZXT ATX Mid-Tower Case",
+      "price": "$139.99",
+      "extracted_price": 139.99,
+      "original_price": "$170",
+      "extracted_original_price": 170,
+      "delivery": "Free delivery",
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "Ui8MR3icJZJNjpswAIXV80SV_IMBdzdJgARNnMEBQ9hUxIaQYAZCIMnMJXqFKtNWapdtpW57jfY0zaibt3nS-97i-3DNd7-GpC-y0yFlfexZbP1wMQ-yurO_tl2jBtnv1A8IMbAgMaFBKQTYsgj-KrM-0812p35CYlOAIbRNE1oGRtAg4HuZZ0rvHvNlUeTdtJE79R3b-HUB2IhQy8LQAN92dbbN_7cGMSAE1EAmAgYmJiYvnTp-_HwY8u7pD2BpEo5mdOTq5jxa7NTbsDnn3WiSHfORfI32OLwvmq5-X2Syb7rP2_a2-oMgQhC0bGpgcENjm5gv9Y1GLNMwkU0tZJo2sE2LvrSn_lpuPw2Dzn9ft_o6HK-lvuaPX5qsPRXy75sXp5OTyUmOg6htxZSDVUXT2OljDmmT7tlDXrXlOtKXBRIHNWujTVSWC0Qdod1ZGPqGBDzkOvViNyALb3vZuGNzU-v9cuZ7mUMnqoJJFolDEFG2EjpJnwUIEpHKJ4BXkYbc9aPYkYA5bJ5O55cQ8cl6L8ZB7J83Mzdgle8pTcu8Ko8J6pFyUxbN2FTt3UQl_Mw9MQ3R7SkW3vqZ8whQLStXyIr5MvEflMtPoW7TYM9AhuB9HjGm9uw-rQOwSfR6UQtfogsXe0UEUr2oykde-Yw9wSacCh7XZ8QiNeQ1DaPaHy-9VASgDSRmqyDhPdfjIox7LCI-XT_foc1lnihRgrR2kRTtUrlqxgBJo9kWyZh1QbjN5pXrSDwnqfYXYc11EGuwjNU9h2W7RtpVO7iK6navHLYOgPPpcuyKP-DOJf1qSe48x3QzKkpjpaD3PJxUMR0S6whY8O4mhWEa6FUKAv4BgD8EoA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Ui8MR3icJZJNjpswAIXV80SV_IMBdzdJgARNnMEBQ9hUxIaQYAZCIMnMJXqFKtNWapdtpW57jfY0zaibt3nS-97i-3DNd7-GpC-y0yFlfexZbP1wMQ-yurO_tl2jBtnv1A8IMbAgMaFBKQTYsgj-KrM-0812p35CYlOAIbRNE1oGRtAg4HuZZ0rvHvNlUeTdtJE79R3b-HUB2IhQy8LQAN92dbbN_7cGMSAE1EAmAgYmJiYvnTp-_HwY8u7pD2BpEo5mdOTq5jxa7NTbsDnn3WiSHfORfI32OLwvmq5-X2Syb7rP2_a2-oMgQhC0bGpgcENjm5gv9Y1GLNMwkU0tZJo2sE2LvrSn_lpuPw2Dzn9ft_o6HK-lvuaPX5qsPRXy75sXp5OTyUmOg6htxZSDVUXT2OljDmmT7tlDXrXlOtKXBRIHNWujTVSWC0Qdod1ZGPqGBDzkOvViNyALb3vZuGNzU-v9cuZ7mUMnqoJJFolDEFG2EjpJnwUIEpHKJ4BXkYbc9aPYkYA5bJ5O55cQ8cl6L8ZB7J83Mzdgle8pTcu8Ko8J6pFyUxbN2FTt3UQl_Mw9MQ3R7SkW3vqZ8whQLStXyIr5MvEflMtPoW7TYM9AhuB9HjGm9uw-rQOwSfR6UQtfogsXe0UEUr2oykde-Yw9wSacCh7XZ8QiNeQ1DaPaHy-9VASgDSRmqyDhPdfjIox7LCI-XT_foc1lnihRgrR2kRTtUrlqxgBJo9kWyZh1QbjN5pXrSDwnqfYXYc11EGuwjNU9h2W7RtpVO7iK6navHLYOgPPpcuyKP-DOJf1qSe48x3QzKkpjpaD3PJxUMR0S6whY8O4mhWEa6FUKAv4BgD8EoA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTDYj0tYLBBWWe9zVFvr_vdtT45oDDvgkr-Nc472Dc7nz3BRboqFGxmXZJ-IETFC2MUNXLZRjJFu-cNCXN8XGs0q7Eu1gLsDI3JyOEcpYTptr3aIpbF3QSB",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRxrWjL1INvHMFFj6pe3HgBwzI9C_eACwvhvbzsq1PxSouwsRzoRmFcRkvgw5qr2dlZdi3LPP5g0BbuAGVo0uI3YrckkBh4L1_OufA",
+      "source": "Grooves-Inc.com",
+      "title": "NZXT H9 Flow ATX Mid-Tower Case",
+      "rating": 4.7,
+      "reviews": 401,
+      "price": "$1,458.61",
+      "extracted_price": 1458.61,
+      "immersive_product_page_token": "MBIet3icdZDLjqNGGIWV52lFqoLill2biz10DM2lClybVkFhgykujcEXNO-QV4jcM5Emy5lI2eY1Ok-SZUiUbTb_5js659P_072ofp_Scc_Or9Qbk7Xm7Z6v6mteP-pf-qHjUz5W_JuMkAahrgFdM6AmqypUvuRsZKI7LBQiQ4MSUBQkAR1qcEl9LQvGRdUW_n5fDFaXV_w3qEBDUiVFNTQkKbIm6Qr8tWrYofiPy0iX9QUvC4ZkALTE3gZ-ekfP5guEKtIWCoGkLR6yDhT08Tn0rZf_gZ9fp2K4vQOPpvHDxnhwRHd52Fb8-7i7FMODyU7FQ_7P6U_Ty74bmpc9y8du-Hzo_5XRDMOQVUVWkKFKEjAUXX9rKv7zW38e7-Xh0zSJ4o_7Qdyn070U96L9pWP9eZ__-d1f9jk3zSE3A9z3xApBvD7c0pluAmJcY6t0sXBXBBA5m1f9bnaaKCHdDu7GALsNg8HVt8gmsjEM2uBWpLTyEq9MGoq9maxzUaOt4F5muYQS98pgaeWSc9sdBaFSCDNpnImz2mHJsBJne8GSG0cpNTmkTtIcrgyPp3DTt5EQPzK5GzGAi4vyFMvimR454xi2fBOMWc23OcQg25BzUIdWkbrbzArG2KIhnekR4yvbNh8uWWOArCYjbkafEF5nGCqFzQOWhl42O0-k0W-8Gaeo8ZpAgsfE-nCL23oMHbfBNV9zE_ZBTcoUGiSMBdrO5eCJUGVr-rqry6fEciImQhkT2oQbz_Ex2RcWnqNWmHl9Lal4VLDNj_FxKy-dFz8pw6QWIZEASGcbLn-qWHy4JIlS0Ta8BDc4F-1KTkEdOTLZ8TUteeuwuA3TcOZ-QlbIa50jAzZaV-5q2bz5CY0z4YLi6ES5bcshIIzXwmc1kXwTqoHMzdim7afradi_g0dHGSNfeVzbqsMMUqKIw_U8nfnemlLtBLzgB6jpSEUSMoCsgL8BSVEuNw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MBIet3icdZDLjqNGGIWV52lFqoLill2biz10DM2lClybVkFhgykujcEXNO-QV4jcM5Emy5lI2eY1Ok-SZUiUbTb_5js659P_072ofp_Scc_Or9Qbk7Xm7Z6v6mteP-pf-qHjUz5W_JuMkAahrgFdM6AmqypUvuRsZKI7LBQiQ4MSUBQkAR1qcEl9LQvGRdUW_n5fDFaXV_w3qEBDUiVFNTQkKbIm6Qr8tWrYofiPy0iX9QUvC4ZkALTE3gZ-ekfP5guEKtIWCoGkLR6yDhT08Tn0rZf_gZ9fp2K4vQOPpvHDxnhwRHd52Fb8-7i7FMODyU7FQ_7P6U_Ty74bmpc9y8du-Hzo_5XRDMOQVUVWkKFKEjAUXX9rKv7zW38e7-Xh0zSJ4o_7Qdyn070U96L9pWP9eZ__-d1f9jk3zSE3A9z3xApBvD7c0pluAmJcY6t0sXBXBBA5m1f9bnaaKCHdDu7GALsNg8HVt8gmsjEM2uBWpLTyEq9MGoq9maxzUaOt4F5muYQS98pgaeWSc9sdBaFSCDNpnImz2mHJsBJne8GSG0cpNTmkTtIcrgyPp3DTt5EQPzK5GzGAi4vyFMvimR454xi2fBOMWc23OcQg25BzUIdWkbrbzArG2KIhnekR4yvbNh8uWWOArCYjbkafEF5nGCqFzQOWhl42O0-k0W-8Gaeo8ZpAgsfE-nCL23oMHbfBNV9zE_ZBTcoUGiSMBdrO5eCJUGVr-rqry6fEciImQhkT2oQbz_Ex2RcWnqNWmHl9Lal4VLDNj_FxKy-dFz8pw6QWIZEASGcbLn-qWHy4JIlS0Ta8BDc4F-1KTkEdOTLZ8TUteeuwuA3TcOZ-QlbIa50jAzZaV-5q2bz5CY0z4YLi6ES5bcshIIzXwmc1kXwTqoHMzdim7afradi_g0dHGSNfeVzbqsMMUqKIw_U8nfnemlLtBLzgB6jpSEUSMoCsgL8BSVEuNw"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "q36teHicxZXtcrI4FMcvYOe5jOVLq6BVK51hnkkQFaxVWq0vXxheYkDBKKDUftt72avaq9mAomDVzvPM7OyZgZBwcnJCzo__X3-7znLxzx8_7DBcBU8sG0VREROCXVQ0icfqwW5psjPiBr5p_wzIxjeRYwmm7RMPMbYroCWDXWETMLut8MCYgcAxyBE243Cmb9fTl3DUenyZ9D9qa3MB6kwSTtAMPUBzutrHPGA1lt4Wfz40aKcYFNGyyFt9hAy_h3hcLHMlvthjdY86gP_WMHDiGwYy7chfXosAq98FAFJ8F09-aRgp4xYlPQhpxMRDvBoPJ40jARqwD5dVOwCgtR9c3EpEyXeb8RRZhfEmZHGf6Lld2hpMWzXbu2gXXsJD3HTrlZtrxSbL-Th0XUlLhtT8KnI2iBoPT5LHngpQIwJ2hDs3chUJaLTwm4ovnXLWVsDup-sYgKMHxVqY1iHHGj5tSqxj2mby4AdxeYoDniOtqOYY6AH0hquZWVlb_YeC-CrrBTjiVNY0qJ9LdAtZmq1xP5N-qVyqcvzDY_0-4cIMjmAEOTCGrmv02s9dlRSfi7CUoQIfv0rG6CB8vfiZ1cOmvkyA6SfGUvKwS1-R9AGSePJpYrMhwwiAFM1KXGsN_LWiaTIXqEjsiEYXJFQkyYn79hAoWxUYHydk6qh9tl42A5iGF2XKXjrWOjmoYp5B8TXmK4Wkmw-l2tK-_ODbwaUHKzm-gZrpifstqhjC_Fbk_Q4qGT86RItyAtQp7SsYH39GyST5kNBx3VNSefroEWBxKN3k9Zrd4uZgGKTlf1bNWQokN1LcNbIL1Y9O8FEaFfDncN5oceHLQL1c9cQzfkEPzP-di0QtSKoWF7iwv-EiUQt8XS0ORRSlXCR-HShe5WIvCXm1aJ-pxSUulDwXJ7VQz9TixEWcym0u4C0u4DUu6A__CxfqFS5StchwsThTC3j8qvHQiYtfVwv999QiwQTtm7x0bOb4qoS0mzWt3nFmKphuw537rvUrk0nTCcqWh7-VkJkXPnm65d5rjvUEy0q4s-41OkCekMWshZfpeHDX5u-aLonuuo5VGJAI-XciRfDOjG-rYKPNiO9pM90Mic94rk8ETq8M3FodTw044U2l_N7UFo3d3EDTCpGaeDu0ZfD5sUAS53d2jRkqoRdp_Lm0lPF4MNnYPPf2vpVQlSOKUxvP629mdaXZo5E7eZNgoYPXk1dDk8vvYZsvT4YLsT5UWqJmGK1nf2Urj0tHfwda-7U752AjbLs1faEmeQXCVCq3JHOotQOZ8XxToGVVWQJFBSMMTSDSmhExvQi9Ino4TGDqGgq2QtniZ3z1kdONelWv1xDj4XC3EniOCZa-UPoXbx0pdQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=q36teHicxZXtcrI4FMcvYOe5jOVLq6BVK51hnkkQFaxVWq0vXxheYkDBKKDUftt72avaq9mAomDVzvPM7OyZgZBwcnJCzo__X3-7znLxzx8_7DBcBU8sG0VREROCXVQ0icfqwW5psjPiBr5p_wzIxjeRYwmm7RMPMbYroCWDXWETMLut8MCYgcAxyBE243Cmb9fTl3DUenyZ9D9qa3MB6kwSTtAMPUBzutrHPGA1lt4Wfz40aKcYFNGyyFt9hAy_h3hcLHMlvthjdY86gP_WMHDiGwYy7chfXosAq98FAFJ8F09-aRgp4xYlPQhpxMRDvBoPJ40jARqwD5dVOwCgtR9c3EpEyXeb8RRZhfEmZHGf6Lld2hpMWzXbu2gXXsJD3HTrlZtrxSbL-Th0XUlLhtT8KnI2iBoPT5LHngpQIwJ2hDs3chUJaLTwm4ovnXLWVsDup-sYgKMHxVqY1iHHGj5tSqxj2mby4AdxeYoDniOtqOYY6AH0hquZWVlb_YeC-CrrBTjiVNY0qJ9LdAtZmq1xP5N-qVyqcvzDY_0-4cIMjmAEOTCGrmv02s9dlRSfi7CUoQIfv0rG6CB8vfiZ1cOmvkyA6SfGUvKwS1-R9AGSePJpYrMhwwiAFM1KXGsN_LWiaTIXqEjsiEYXJFQkyYn79hAoWxUYHydk6qh9tl42A5iGF2XKXjrWOjmoYp5B8TXmK4Wkmw-l2tK-_ODbwaUHKzm-gZrpifstqhjC_Fbk_Q4qGT86RItyAtQp7SsYH39GyST5kNBx3VNSefroEWBxKN3k9Zrd4uZgGKTlf1bNWQokN1LcNbIL1Y9O8FEaFfDncN5oceHLQL1c9cQzfkEPzP-di0QtSKoWF7iwv-EiUQt8XS0ORRSlXCR-HShe5WIvCXm1aJ-pxSUulDwXJ7VQz9TixEWcym0u4C0u4DUu6A__CxfqFS5StchwsThTC3j8qvHQiYtfVwv999QiwQTtm7x0bOb4qoS0mzWt3nFmKphuw537rvUrk0nTCcqWh7-VkJkXPnm65d5rjvUEy0q4s-41OkCekMWshZfpeHDX5u-aLonuuo5VGJAI-XciRfDOjG-rYKPNiO9pM90Mic94rk8ETq8M3FodTw044U2l_N7UFo3d3EDTCpGaeDu0ZfD5sUAS53d2jRkqoRdp_Lm0lPF4MNnYPPf2vpVQlSOKUxvP629mdaXZo5E7eZNgoYPXk1dDk8vvYZsvT4YLsT5UWqJmGK1nf2Urj0tHfwda-7U752AjbLs1faEmeQXCVCq3JHOotQOZ8XxToGVVWQJFBSMMTSDSmhExvQi9Ino4TGDqGgq2QtniZ3z1kdONelWv1xDj4XC3EniOCZa-UPoXbx0pdQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "H9 Flow RGB+ | Dual-Chamber Mid-Tower ATX Case",
+      "link": "https://nzxt.com/products/h9-flow-rgb-plus?srsltid=AfmBOorhtXmZ3OlsSFsJLfhiW2OHjTSgIsL_v44GN7hcTGKu-ViaGgG9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow-rgb-plus%3Fsrsltid%3DAfmBOorhtXmZ3OlsSFsJLfhiW2OHjTSgIsL_v44GN7hcTGKu-ViaGgG9&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDYQAQ",
+      "displayed_link": "https://nzxt.com › products › h9-flow-rgb-plus",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "The NZXT H9 Flow RGB+ is a white gaming PC case featuring wraparound glass panels to showcase vibrant RGB lighting, included fans, and liquid cooling.",
+      "snippet_highlighted_words": [
+        "NZXT H9 Flow",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The NZXT H9 Flow RGB+ is a white gaming PC case featuring wraparound glass panels to showcase vibrant RGB lighting, included fans, and liquid cooling.",
+          "source_info_link": "https://nzxt.com/products/h9-flow-rgb-plus?srsltid=AfmBOorhtXmZ3OlsSFsJLfhiW2OHjTSgIsL_v44GN7hcTGKu-ViaGgG9",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow-rgb-plus%3Fsrsltid%3DAfmBOorhtXmZ3OlsSFsJLfhiW2OHjTSgIsL_v44GN7hcTGKu-ViaGgG9&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow-rgb-plus%3Fsrsltid%3DAfmBOorhtXmZ3OlsSFsJLfhiW2OHjTSgIsL_v44GN7hcTGKu-ViaGgG9",
+      "source": "NZXT",
+      "read_more_link": "https://nzxt.com/products/h9-flow-rgb-plus?srsltid=AfmBOorhtXmZ3OlsSFsJLfhiW2OHjTSgIsL_v44GN7hcTGKu-ViaGgG9"
+    },
+    {
+      "position": 2,
+      "title": "H9 Flow RGB | Dual-Chamber Mid-Tower ATX Case",
+      "link": "https://nzxt.com/products/h9-flow-rgb?srsltid=AfmBOoocwY9adDDuNh3RrW6Sm_22azC2x-yZBI1kgtxR1h-D63Qyj0NN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow-rgb%3Fsrsltid%3DAfmBOoocwY9adDDuNh3RrW6Sm_22azC2x-yZBI1kgtxR1h-D63Qyj0NN&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDcQAQ",
+      "displayed_link": "https://nzxt.com › products › h9-flow-rgb",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "The H9 Flow is a spacious mid-tower ATX case built for high-performance builds, balancing airflow and aesthetics. Its dual-chamber design improves cooling and ...",
+      "snippet_highlighted_words": [
+        "H9 Flow",
+        "mid",
+        "tower",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The H9 Flow is a spacious mid-tower ATX case built for high-performance builds, balancing airflow and aesthetics. Its dual-chamber design improves cooling and ...",
+          "source_info_link": "https://nzxt.com/products/h9-flow-rgb?srsltid=AfmBOoocwY9adDDuNh3RrW6Sm_22azC2x-yZBI1kgtxR1h-D63Qyj0NN",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow-rgb%3Fsrsltid%3DAfmBOoocwY9adDDuNh3RrW6Sm_22azC2x-yZBI1kgtxR1h-D63Qyj0NN&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow-rgb%3Fsrsltid%3DAfmBOoocwY9adDDuNh3RrW6Sm_22azC2x-yZBI1kgtxR1h-D63Qyj0NN",
+      "source": "NZXT"
+    },
+    {
+      "position": 3,
+      "title": "NZXT H9 Flow Tempered Glass ATX Black Mid Tower Case",
+      "link": "https://www.avadirect.com/H9-Flow-Tempered-Glass-No-PSU-ATX-Black-Mid-Tower-Case/Product/15598689?srsltid=AfmBOooz92KuOtHXr58MNJzWaWDUohAD9QpLqPJaejHPI7YQprmwsHyT",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.avadirect.com%2FH9-Flow-Tempered-Glass-No-PSU-ATX-Black-Mid-Tower-Case%2FProduct%2F15598689%3Fsrsltid%3DAfmBOooz92KuOtHXr58MNJzWaWDUohAD9QpLqPJaejHPI7YQprmwsHyT&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDIQAQ",
+      "displayed_link": "https://www.avadirect.com › ... › Cases › Computer Cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwmhtQglvQglvQhlvMhlvMhlvMhlvMhlvMhlvMglfIhlvQhlvMhlvNERERERERFRUVFRUVERERFRUVERERERERERERFRUVFRUVEREREREQCcMrbAAAAG3RSTlMAB0Ub_6d0idHwMVq35KtKk3ssviE3ZOVuGQ7cxQ-oAAAAwElEQVR4AdyNhQHAIAwEn-Rw2H_duq3Qg7jpfwSZ2WY3E_TBCRGSFCEHXG8KRRXcoOzBiwwkh1JhC8i6MTY8AVhjo93FrQJVBeId3AfpSmyFqrEFHYZ2ep1xNWPW1n0Nlu7D4wqBIIahgjPPUfaE_vtkUwHc-bbS5xlv_ELU4JGsFNO4TOSMtnS0jPY0SXUM19HpMtuhGMCk0jhXl9ks-l2WmcJxsojgdesyrddiMYq4ICNir9g7yBWnbz1b4J84AMpbC-WXWd4iAAAAAElFTkSuQmCC.png",
+      "snippet": "H9 Flow, Tempered Glass, No PSU, ATX, Black, Mid Tower Case. The H9 Flow is designed to cool off powerful GPUs with its expansive thermal capabilities, ...",
+      "snippet_highlighted_words": [
+        "H9 Flow, Tempered Glass, No PSU"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "H9 Flow, Tempered Glass, No PSU, ATX, Black, Mid Tower Case. The H9 Flow is designed to cool off powerful GPUs with its expansive thermal capabilities, ...",
+          "source_info_link": "https://www.avadirect.com/H9-Flow-Tempered-Glass-No-PSU-ATX-Black-Mid-Tower-Case/Product/15598689?srsltid=AfmBOooz92KuOtHXr58MNJzWaWDUohAD9QpLqPJaejHPI7YQprmwsHyT",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwmhtQglvQglvQhlvMhlvMhlvMhlvMhlvMhlvMglfIhlvQhlvMhlvNERERERERFRUVFRUVERERFRUVERERERERERERFRUVFRUVEREREREQCcMrbAAAAG3RSTlMAB0Ub_6d0idHwMVq35KtKk3ssviE3ZOVuGQ7cxQ-oAAAAwElEQVR4AdyNhQHAIAwEn-Rw2H_duq3Qg7jpfwSZ2WY3E_TBCRGSFCEHXG8KRRXcoOzBiwwkh1JhC8i6MTY8AVhjo93FrQJVBeId3AfpSmyFqrEFHYZ2ep1xNWPW1n0Nlu7D4wqBIIahgjPPUfaE_vtkUwHc-bbS5xlv_ELU4JGsFNO4TOSMtnS0jPY0SXUM19HpMtuhGMCk0jhXl9ks-l2WmcJxsojgdesyrddiMYq4ICNir9g7yBWnbz1b4J84AMpbC-WXWd4iAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.avadirect.com%2FH9-Flow-Tempered-Glass-No-PSU-ATX-Black-Mid-Tower-Case%2FProduct%2F15598689%3Fsrsltid%3DAfmBOooz92KuOtHXr58MNJzWaWDUohAD9QpLqPJaejHPI7YQprmwsHyT&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.avadirect.com%2FH9-Flow-Tempered-Glass-No-PSU-ATX-Black-Mid-Tower-Case%2FProduct%2F15598689%3Fsrsltid%3DAfmBOooz92KuOtHXr58MNJzWaWDUohAD9QpLqPJaejHPI7YQprmwsHyT",
+      "source": "AVADirect Custom Computers",
+      "read_more_link": "https://www.avadirect.com/H9-Flow-Tempered-Glass-No-PSU-ATX-Black-Mid-Tower-Case/Product/15598689?srsltid=AfmBOooz92KuOtHXr58MNJzWaWDUohAD9QpLqPJaejHPI7YQprmwsHyT"
+    },
+    {
+      "position": 4,
+      "title": "NZXT H9 Flow RGB+ (2025) – Large Dual-Chamber ATX ...",
+      "link": "https://www.amazon.com/NZXT-Flow-RGB-Dual-Chamber-Back-Connect/dp/B0DQPQ5KN7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FNZXT-Flow-RGB-Dual-Chamber-Back-Connect%2Fdp%2FB0DQPQ5KN7&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDUQAQ",
+      "displayed_link": "https://www.amazon.com › NZXT-Flow-RGB-Dual-Cha...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "The H9 Flow is a spacious, dual-chamber case built for high-performance builds, featuring extensive cooling support and wraparound glass panels",
+      "snippet_highlighted_words": [
+        "H9 Flow",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The H9 Flow is a spacious, dual-chamber case built for high-performance builds, featuring extensive cooling support and wraparound glass panels",
+          "source_info_link": "https://www.amazon.com/NZXT-Flow-RGB-Dual-Chamber-Back-Connect/dp/B0DQPQ5KN7",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FNZXT-Flow-RGB-Dual-Chamber-Back-Connect%2Fdp%2FB0DQPQ5KN7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FNZXT-Flow-RGB-Dual-Chamber-Back-Connect%2Fdp%2FB0DQPQ5KN7",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "H9 Flow 2025 ATX Mid-Tower Dual-Chamber PC Case",
+      "link": "https://www.bestbuy.com/product/nzxt-h9-flow-2025-atx-mid-tower-dual-chamber-pc-case-black/J3GWJHQ8RL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-h9-flow-2025-atx-mid-tower-dual-chamber-pc-case-black%2FJ3GWJHQ8RL&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDMQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › Computer Cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Form Factor: ATX. Form Factor: ATX. Maximum Power Supply Length: 200 millimeters Maximum GPU Length: 459 millimeters Number of Expansion Slots $97.49. The ...",
+      "snippet_highlighted_words": [
+        "Form Factor: ATX"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Form Factor: ATX. Form Factor: ATX. Maximum Power Supply Length: 200 millimeters Maximum GPU Length: 459 millimeters Number of Expansion Slots $97.49. The ...",
+          "source_info_link": "https://www.bestbuy.com/product/nzxt-h9-flow-2025-atx-mid-tower-dual-chamber-pc-case-black/J3GWJHQ8RL",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-h9-flow-2025-atx-mid-tower-dual-chamber-pc-case-black%2FJ3GWJHQ8RL&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fnzxt-h9-flow-2025-atx-mid-tower-dual-chamber-pc-case-black%2FJ3GWJHQ8RL",
+      "source": "Best Buy"
+    },
+    {
+      "position": 6,
+      "title": "H9 Flow",
+      "link": "https://nzxt.com/products/h9-flow?srsltid=AfmBOoo59lTmygpmlnznS8LrbHdqKBefLfO3RXSwj9UtvxHIJiN2P0NH",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow%3Fsrsltid%3DAfmBOoo59lTmygpmlnznS8LrbHdqKBefLfO3RXSwj9UtvxHIJiN2P0NH&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDkQAQ",
+      "displayed_link": "https://nzxt.com › products › h9-flow",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png",
+      "snippet": "Spacious NZXT H9 Flow mid-tower case with dual-chamber design, supports 10 fans and 420mm radiators, wraparound tempered glass, optimized airflow.",
+      "snippet_highlighted_words": [
+        "cious NZXT H9 Flow mid-tower case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Spacious NZXT H9 Flow mid-tower case with dual-chamber design, supports 10 fans and 420mm radiators, wraparound tempered glass, optimized airflow.",
+          "source_info_link": "https://nzxt.com/products/h9-flow?srsltid=AfmBOoo59lTmygpmlnznS8LrbHdqKBefLfO3RXSwj9UtvxHIJiN2P0NH",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAMAAACj-uTiAAAAPFBMVEVRAHpHAHTy7_T___9jMIZOAHhqPYtDAHGzosI6AGzu6vFoOYmxnsBmNYhxR5Dl3-qYf61TCXvc1OKhirOHEkC2AAAAc0lEQVR4AXXOQRJAMBBE0YFGBOD-d7X5G_T0KlUv9ZNgTduxXvGahkxinDKJMmeiaoTe4oWeF61O6CG-50U9Yntfkei19S1auapt-EjdCyf9nj6ayD51KpOrZGJ6CD0r9IzQc0LPCT0j9JzQc0LPSHfTewBSqgSzbNF9OQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow%3Fsrsltid%3DAfmBOoo59lTmygpmlnznS8LrbHdqKBefLfO3RXSwj9UtvxHIJiN2P0NH&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnzxt.com%2Fproducts%2Fh9-flow%3Fsrsltid%3DAfmBOoo59lTmygpmlnznS8LrbHdqKBefLfO3RXSwj9UtvxHIJiN2P0NH",
+      "source": "NZXT"
+    },
+    {
+      "position": 7,
+      "title": "NZXT H9 Flow RGB Tempered Glass ATX Mid-Tower ...",
+      "link": "https://www.microcenter.com/product/695054/nzxt-h9-flow-rgb-tempered-glass-atx-mid-tower-computer-case-black",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F695054%2Fnzxt-h9-flow-rgb-tempered-glass-atx-mid-tower-computer-case-black&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDgQAQ",
+      "displayed_link": "https://www.microcenter.com › ... › Computer Cases",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png",
+      "snippet": "The H9 Flow is a spacious, dual-chamber case built for high-performance builds, featuring extensive cooling support and wraparound glass panels.",
+      "snippet_highlighted_words": [
+        "H9 Flow",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The H9 Flow is a spacious, dual-chamber case built for high-performance builds, featuring extensive cooling support and wraparound glass panels.",
+          "source_info_link": "https://www.microcenter.com/product/695054/nzxt-h9-flow-rgb-tempered-glass-atx-mid-tower-computer-case-black",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUzFQMyEwAlAAAfAAAjAAApAAAsBgAdAAAuDAAvDgDAubbz8fC3sK2Jfnr29fQ-IxZcSUHd2df____6-fjr6ehIMyvU0M0_JxwbAACZjYfh3t2SiIOGfHemnprRzcuso56ako-fk4wSAAB1Z2IAAAAaAACAc25iUEktCgDIw8BuX1lOOjFrW1VVQzxdRzpAKyYoAAA_IQ4kAABKNi9-AgfrAAAB50lEQVR4AWIgBAB9kdeCoyAUQEEES4KSa180xjhebDPjJv__b4tOfdpD59ChO7b4qf5yDrO4nFHhuRbm-57rBR-ShSfLWUaxukCSQJplF8gL_5BlnkqZRxUo-KN1LaE5pTpK3U95rdqblR3Qu7zkSQX9iwblf8rw8iHdAcNLioc045fMm-RY9lbcFagklVHk0F2yaTpPt1RDPKeguEkWk8IfJcgOZcMwlINzd23JXGdgw91_Kf2RWlfWzc5qUyab5mhZXueCECeH004FEeThKQrTo5kkb4SIGW5DkGUFAplORDHHGLO8qgreA7JJKBgCQAXFlJ5hGGz9erJtRohYoY0R3v7iLttkySB0qPCmtCSEPK4ALQDcIDuDhoNr6YWpd3wKVquWUuk4qxa0Nal7IWYU5LDl5rHSZduj5KxkLisfm3A42fENmr6X2KOuDcq5MvWsexUc8nEemve2MbJtaNc0uIZGrn23HXKc56xf0KzY9qLGBefeGGX83QWjGAN3XrjwdCycbdw4f6wBpwElgapjEi-4FhlRq3ldliVbnitXz4UQ3us3t9WIleye7TNcq1uFbaPVeg4IrxWydkZsl27FuSUd1nPToVz0PtUXZKPjyOlGOLVhHH3OBQ38gHxAj_gbasN_-Qe6TDaM_yGNLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F695054%2Fnzxt-h9-flow-rgb-tempered-glass-atx-mid-tower-computer-case-black&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microcenter.com%2Fproduct%2F695054%2Fnzxt-h9-flow-rgb-tempered-glass-atx-mid-tower-computer-case-black",
+      "source": "Micro Center",
+      "read_more_link": "https://www.microcenter.com/product/695054/nzxt-h9-flow-rgb-tempered-glass-atx-mid-tower-computer-case-black"
+    },
+    {
+      "position": 8,
+      "title": "NZXT H6 FLOW Compact Dual-Chamber Mid-Tower ...",
+      "link": "https://www.newegg.com/nzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-computer-case-white-cc-h61fw-01/p/N82E16811146356?srsltid=AfmBOopEv0IztX2SLTip10GbnTgtiQUj_Td0Jpan1IUZQDJ1-_mZdxIJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fnzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-computer-case-white-cc-h61fw-01%2Fp%2FN82E16811146356%3Fsrsltid%3DAfmBOopEv0IztX2SLTip10GbnTgtiQUj_Td0Jpan1IUZQDJ1-_mZdxIJ&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQFnoECDQQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Computer Cases › NZXT",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Power Supply, 700W ; Overview. Why choose the NZXT H6 Flow Compact Dual-Chamber ATX Mid-Tower Airflow Computer Case in White for your next PC build?",
+      "snippet_highlighted_words": [
+        "Power Supply, 700W"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Power Supply, 700W ; Overview. Why choose the NZXT H6 Flow Compact Dual-Chamber ATX Mid-Tower Airflow Computer Case in White for your next PC build?",
+          "source_info_link": "https://www.newegg.com/nzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-computer-case-white-cc-h61fw-01/p/N82E16811146356?srsltid=AfmBOopEv0IztX2SLTip10GbnTgtiQUj_Td0Jpan1IUZQDJ1-_mZdxIJ",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fnzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-computer-case-white-cc-h61fw-01%2Fp%2FN82E16811146356%3Fsrsltid%3DAfmBOopEv0IztX2SLTip10GbnTgtiQUj_Td0Jpan1IUZQDJ1-_mZdxIJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fnzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-computer-case-white-cc-h61fw-01%2Fp%2FN82E16811146356%3Fsrsltid%3DAfmBOopEv0IztX2SLTip10GbnTgtiQUj_Td0Jpan1IUZQDJ1-_mZdxIJ",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/nzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-computer-case-white-cc-h61fw-01/p/N82E16811146356?srsltid=AfmBOopEv0IztX2SLTip10GbnTgtiQUj_Td0Jpan1IUZQDJ1-_mZdxIJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "NZXT H9 Elite",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+Elite&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Elite"
+    },
+    {
+      "block_position": 1,
+      "query": "Nzxt h9 flow rgb",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=Nzxt+h9+flow+rgb&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nzxt+h9+flow+rgb"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H9 Flow case",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+Flow+case&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+case"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H9 Flow manual",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+Flow+manual&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H9 case",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+case&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+case"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H9 Flow Dual-Chamber",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+Flow+Dual-Chamber&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Dual-Chamber"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H9 Flow RGB+ dimensions",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+Flow+RGB%2B+dimensions&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+RGB%2B+dimensions"
+    },
+    {
+      "block_position": 1,
+      "query": "NZXT H9 Flow RGB 2025 ATX Mid Tower case",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&hl=en&gl=us&q=NZXT+H9+Flow+RGB+2025+ATX+Mid+Tower+case&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+RGB+2025+ATX+Mid+Tower+case"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYEiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAF6BAgdEDI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Micro Center",
+      "link": "https://www.google.com/search?q=micro+center+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYAiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhAIAhIMTWljcm8gQ2VudGVyWK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAJ6BAgdEDM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=micro+center+nzxt+h9+flow+mid+tower+case+case+psu_form_factor",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bb4fbe53b3b6afa8a1b/images/PvjX9_TgVWbiEjs1BvL71_g1H8RpdtBzD4MHUS_WpJU.png"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?q=new+NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYCiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgcIChIDTmV3WK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAN6BAgdEDU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYCiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMggIChIEVXNlZFivsSBgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAR6BAgdEDY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYASowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhcIARIFV2hpdGU6DAixzf4BELPN_gEwAFivsSBgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAV6BAgdEDc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=white+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Gaming Desktop Computer Cases",
+      "link": "https://www.google.com/search?q=gaming+desktop+computer+cases+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYCSowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMiEICRIdR2FtaW5nIERlc2t0b3AgQ29tcHV0ZXIgQ2FzZXNgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAZ6BAgdEDg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gaming+desktop+computer+cases+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYASowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhcIARIFQmxhY2s6DAixzf4BELLN_gEwAFivsSBgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAd6BAgdEDk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhMIBhIHT24gc2FsZRgCIgRKAhgBWK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAh6BAgdEDo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor+sale"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?q=nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMiYIFBINR2V0IGl0IGJ5IFRodSINmgEKCggQAjgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAl6BAgdEDs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYEiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAp6BAgdEDw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?q=ebay+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYAiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMggIAhIEZUJheVivsSBgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAt6BAgdED0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+nzxt+h9+flow+mid+tower+case+case+psu_form_factor",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYEiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKAx6BAgdED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?q=best+buy+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYAiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgwIAhIIQmVzdCBCdXlYr7EgYAE&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKA16BAgdEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+nzxt+h9+flow+mid+tower+case+case+psu_form_factor",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Desktop Computer Cases",
+      "link": "https://www.google.com/search?q=desktop+computer+cases+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYCSowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhoICRIWRGVza3RvcCBDb21wdXRlciBDYXNlc2AB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKA56BAgdEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computer+cases+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=nzxt+h9+flow+mid+tower+case+case+psu_form_factor+for+sale&hl=en&gl=us&shoprs=CAEYEiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKA96BAgdEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+h9+flow+mid+tower+case+case+psu_form_factor+for+sale"
+    },
+    {
+      "query": "Under $1,500",
+      "link": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor+under+%241%2C500&hl=en&gl=us&shoprs=CAESDRILEQAAAMALWtZBGAEYBSowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMiUIBRIMVW5kZXIgJDEsNTAwGAIiDRILEQAAAMALWtZBGAEqAhgBWK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBB6BAgdEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor+under+%241%2C500"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYEiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBF6BAgdEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=replacement+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?q=desktop+computers+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYCSowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhUICRIRRGVza3RvcCBDb21wdXRlcnNgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBJ6BAgdEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Fans, Heatsinks & Cooling",
+      "link": "https://www.google.com/search?q=fans%2C+heatsinks+%26+cooling+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYCSowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMh0ICRIZRmFucywgSGVhdHNpbmtzICYgQ29vbGluZ2AB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBN6BAgdEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=fans%2C+heatsinks+%26+cooling+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Dimensions",
+      "link": "https://www.google.com/search?q=dimensions+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYEiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMg4IEhIKRGltZW5zaW9uc2AB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBR6BAgdEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dimensions+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    },
+    {
+      "query": "Adorama",
+      "link": "https://www.google.com/search?q=adorama+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYAiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgsIAhIHQWRvcmFtYVivsSBgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBV6BAgdEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=adorama+nzxt+h9+flow+mid+tower+case+case+psu_form_factor",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQodioVvsAAAAEHRSTlMAeiaNN2fNmvCtR7kYVA_cRkZyngAAAUxJREFUOI19U4muwyAMKyEJ1yj-_699gdKydeuLJk2Vc9hO2LYVNZRoUXLefsQrAaDmmRkE2e94wBHOg3YiKukD3iPOKJyJOQaP18LpRGsModmILEWl8lW_yuElqNMmzok6mgmrP6DJklJJTlKh8MnPIknOkiCiwTUWJ0PfBfslyeWas2nqatOJ82LNCA6w2mIfP_CeoWTc2WjWe_85RQ2giHpRvFsLrTki5E0n_3tCQknBm-PTBLknCBLYFz05fm04m-_SQvonATuq4nlE7CsS90wyEuwK9FkmrLeReDRqnJcmGlb7b6ubIsAMH46gfi-r2NItoVP7sW7f59uPj7ucNJWug7GeQfkFckfB-8kNQeM8eUnrjjg_x7jDt96WrsO35rG34fnfCah7fxjz4czrk-PjDV9MSzttCXdrx-OFL0PQvXyGaev69aP4D5O5HPV8SgrrAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "For Gaming",
+      "link": "https://www.google.com/search?q=nzxt+h9+flow+mid+tower+case+case+psu_form_factor+for+gaming&hl=en&gl=us&shoprs=CAEYASowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhwIARIKRm9yIEdhbWluZxgCOgoIxNN3EMXTdzADWK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBZ6BAgdEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=nzxt+h9+flow+mid+tower+case+case+psu_form_factor+for+gaming"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?q=walmart+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYAiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgsIAhIHV2FsbWFydFivsSBgAQ&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBd6BAgdEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=walmart+nzxt+h9+flow+mid+tower+case+case+psu_form_factor",
+      "thumbnail": "https://serpapi.com/searches/6a5f7bb4fbe53b3b6afa8a1b/images/PvjX9_TgVWbiEjs1BvL71y8blU5lc6fo6lNFJuTXGSI.png"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor+free+shipping&hl=en&gl=us&shoprs=CAESBFICEAEYGSowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBh6BAgdEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor+free+shipping"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?q=target+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYAiowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMgoIAhIGVGFyZ2V0WK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBl6BAgdEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=target+nzxt+h9+flow+mid+tower+case+case+psu_form_factor",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Intel CPU",
+      "link": "https://www.google.com/search?q=intel+cpu+nzxt+h9+flow+mid+tower+case+case+psu_form_factor&hl=en&gl=us&shoprs=CAEYASowbnp4dCBoOSBmbG93IG1pZCB0b3dlciBjYXNlIGNhc2UgcHN1X2Zvcm1fZmFjdG9yMhkIARIJSW50ZWwgQ1BVOgoI7b0sEO69LDAAWK-xIGAB&sa=X&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQip4GKBp6BAgdEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=intel+cpu+nzxt+h9+flow+mid+tower+case+case+psu_form_factor"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=10&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8NMDegQIURAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=10&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAE",
+      "3": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=20&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAG",
+      "4": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=30&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAI",
+      "5": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=40&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAK",
+      "6": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=50&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAM",
+      "7": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=60&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAO",
+      "8": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=70&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAQ",
+      "9": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=80&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAS",
+      "10": "https://www.google.com/search?q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&sca_esv=2d9f9570ab85a86e&hl=en&gl=us&ei=uXtfavqZNtWG7NYPx6qckA8&start=90&sa=N&sstk=AU9db-By2n9h8stplypVs0pscWMeAf8JkaigEC1xJok7bLrVP90QjPsAqSZJBaAjERP8P7RQ9ta8kmFKhp2miiRt41yPjRDOYOXm4w&ved=2ahUKEwi62qSt9-OVAxVVA9sEHUcVB_IQ8tMDegQIURAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NZXT+H9+Flow+Mid-Tower+Case+case+psu_form_factor&start=90"
+    }
+  }
+}

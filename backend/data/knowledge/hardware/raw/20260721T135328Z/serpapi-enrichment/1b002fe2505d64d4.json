@@ -1,0 +1,528 @@
+{
+  "search_metadata": {
+    "id": "6a5f7b1250d43e51efed2938",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MLvNs93OUGVXUTxR9-o2ag/6a5f7b1250d43e51efed2938.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MLvNs93OUGVXUTxR9-o2ag/6a5f7b1250d43e51efed2938.json_with_pixel_position",
+    "created_at": "2026-07-21 13:58:42 UTC",
+    "processed_at": "2026-07-21 13:58:42 UTC",
+    "google_url": "https://www.google.com/search?q=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&oq=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MLvNs93OUGVXUTxR9-o2ag/6a5f7b1250d43e51efed2938.html",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "CORSAIR VENGEANCE LPX DDR4 MEMORY CMK storage endurance_tbw interface protocol sequential_read_mb_s sequential_write_mb_s",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "CORSAIR VENGEANCE LPX DDR4 MEMORY CMK storage endurance_tbw interface protocol sequential_read_mb_s sequential_write_mb_s",
+    "total_results": 9,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is vengeance lpx DDR4 RAM good?",
+      "type": "ai_overview",
+      "page_token": "YYcKgnicHdDPboIwHADg7GU86g-dLpqYZZ2taAJIaQv2skCLIpQ_m0yQ295lT7Wn2bL7d_q-vs2lKn4eblnbNtfVZNJ13fhc12eTjlVdTuLrvVITFRuTxKpYLZ4W1vNJrfHnDr2-75DPm0ZsKARTE1KBQeBzK2bI5mXWJZVxA2tZp7zBvtF3NSBQQ2YnoSskzEvH0EO62beM7LqQEBlEezsGY3lMBJQTEUHXi7uVO5A5HnZBWu7dmbYnttVWGi5lbF4eZbg0PKeFy_agjIyojYbUxi3nfe8AQYxD7wnNPNwc_aLPY6YzXelaT5f5MSQ2AzwkAh1YVIBiFB-nMIu3lOJMk6Si5TFyDxHQgs5Qpwnx_0wkbUE9VF98TgeVm5KHcyZAt9I0wEo50C0FWYguCOe7uGpwgnuH-6OTuq1no__P9dupbFfNR33-BaUkgp4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YYcKgnicHdDPboIwHADg7GU86g-dLpqYZZ2taAJIaQv2skCLIpQ_m0yQ295lT7Wn2bL7d_q-vs2lKn4eblnbNtfVZNJ13fhc12eTjlVdTuLrvVITFRuTxKpYLZ4W1vNJrfHnDr2-75DPm0ZsKARTE1KBQeBzK2bI5mXWJZVxA2tZp7zBvtF3NSBQQ2YnoSskzEvH0EO62beM7LqQEBlEezsGY3lMBJQTEUHXi7uVO5A5HnZBWu7dmbYnttVWGi5lbF4eZbg0PKeFy_agjIyojYbUxi3nfe8AQYxD7wnNPNwc_aLPY6YzXelaT5f5MSQ2AzwkAh1YVIBiFB-nMIu3lOJMk6Si5TFyDxHQgs5Qpwnx_0wkbUE9VF98TgeVm5KHcyZAt9I0wEo50C0FWYguCOe7uGpwgnuH-6OTuq1no__P9dupbFfNR33-BaUkgp4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJJcyB2ZW5nZWFuY2UgbHB4IEREUjQgUkFNIGdvb2Q/IiwibGsiOiJHaDVwY3lCMlpXNW5aV0Z1WTJVZ2JIQjRJR1JrY2pRZ2NtRnRJR2R2YjJRIiwiYnMiOiJjM1dQelFxQ1FCUkdhVHVybGpHTHVoQzE2QmZFdllSdWdxSndVYTJDd2JtalEtYklhTm16OWpTTm9nVlotX01kemtkY01saG5jTWNrUkpZRUNISDZBTV96YmZCWFd3aVY0bzRGdEMtX0VjNjFEWnBkSzRUc3lOaEk4Z2cxQWdQQkxnaXUwaG1UR2c3dm1SRTYxb2dPWlVOV1hGQnpINzJ4a2pPWkhpT1dnMkhib3MzLVZOWGRNdVFnbEhaNlQ3Um1kRkxVaTdheUxDNWptd1ZoWk5INFRRdkVVbUNXc2dTVS1CZS1wUFBpei1MbmhXN25CUSIsImlkIjoiZmNfRW50ZmFzT19EZEdwcHRRUHE0V2R1UThfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJJcyB2ZW5nZWFuY2UgbHB4IEREUjQgUkFNIGdvb2Q%2FIiwibGsiOiJHaDVwY3lCMlpXNW5aV0Z1WTJVZ2JIQjRJR1JrY2pRZ2NtRnRJR2R2YjJRIiwiYnMiOiJjM1dQelFxQ1FCUkdhVHVybGpHTHVoQzE2QmZFdllSdWdxSndVYTJDd2JtalEtYklhTm16OWpTTm9nVlotX01kemtkY01saG5jTWNrUkpZRUNISDZBTV96YmZCWFd3aVY0bzRGdEMtX0VjNjFEWnBkSzRUc3lOaEk4Z2cxQWdQQkxnaXUwaG1UR2c3dm1SRTYxb2dPWlVOV1hGQnpINzJ4a2pPWkhpT1dnMkhib3MzLVZOWGRNdVFnbEhaNlQ3Um1kRkxVaTdheUxDNWptd1ZoWk5INFRRdkVVbUNXc2dTVS1CZS1wUFBpei1MbmhXN25CUSIsImlkIjoiZmNfRW50ZmFzT19EZEdwcHRRUHE0V2R1UThfNCJ9"
+    },
+    {
+      "question": "Is there a fake Corsair Vengeance RAM?",
+      "type": "ai_overview",
+      "page_token": "Gch1fnicHdBdboIwAADg7DI-Kj_TRROzDEcHGura0hb7spTiLy1URUDfdpedaqdZsu8I3_ePPlbl71N7aBp7nY1GXdcN93W919uhqs1IXu-VGimpdS5VOZu8TNzXnZqHtzhYnOMAUWvZO3aIt-xT0_dbhjzCYp88lhS7QMjSYuzZ3Vbrkkc6WYe2KyIwTnjREc4czMeIavSsOEMp1wvsNVnBY6cgrpGnNx-fdF04rmXArqTLeO71qxwcEgmgt3GnEPJNQ8E0zQHmEog7otNK0MRDxp5JeLjJrOgJ0xnzYbQO8W0bwUwweMs1uxAOAurZDc1glHwAnD5gTEKXC6evwkMB8gqbTQY_MweX2A-6AgCkUpyJiOF1UB8RxQ910oYB2BIGOuLETn4SkTBQMG1bZnSz5u4FUliLbrBT7dwf_H_Ov3ammdlLvf8D-NGDcQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Gch1fnicHdBdboIwAADg7DI-Kj_TRROzDEcHGura0hb7spTiLy1URUDfdpedaqdZsu8I3_ePPlbl71N7aBp7nY1GXdcN93W919uhqs1IXu-VGimpdS5VOZu8TNzXnZqHtzhYnOMAUWvZO3aIt-xT0_dbhjzCYp88lhS7QMjSYuzZ3Vbrkkc6WYe2KyIwTnjREc4czMeIavSsOEMp1wvsNVnBY6cgrpGnNx-fdF04rmXArqTLeO71qxwcEgmgt3GnEPJNQ8E0zQHmEog7otNK0MRDxp5JeLjJrOgJ0xnzYbQO8W0bwUwweMs1uxAOAurZDc1glHwAnD5gTEKXC6evwkMB8gqbTQY_MweX2A-6AgCkUpyJiOF1UB8RxQ910oYB2BIGOuLETn4SkTBQMG1bZnSz5u4FUliLbrBT7dwf_H_Ov3ammdlLvf8D-NGDcQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIGZha2UgQ29yc2FpciBWZW5nZWFuY2UgUkFNPyIsImxrIjoiR2lOcGN5QjBhR1Z5WlNCbVlXdGxJR052Y25OaGFYSWdkbVZ1WjJWaGJtTmxJSEpoYlEiLCJicyI6ImMzV1B6UXFDUUJSR2FUdXJsakdMdWhDMTZCZkV2WVJ1Z3FKd1VhMkN3Ym1qUS1iSWFObXo5alNOb2dWWi1fTWR6a2RjTWxobmNNY2tSSllFQ0hINkFNX3piZkJYV3dpVjRvNEZ0Qy1fRWM2MURacGRLNFRzeU5oSThnZzFBZ1BCTGdpdTBobVRHZzd2bVJFNjFvZ09aVU5XWEZCekg3Mnhrak9aSGlPV2cySGJvczMtVk5YZE11UWdsSFo2VDdSbWRGTFVpN2F5TEM1am13VmhaTkg0VFF2RVVtQ1dzZ1NVLUJlLXBQUGl6LUxuaFc3bkJRIiwiaWQiOiJmY19FbnRmYXNPX0RkR3BwdFFQcTRXZHVROF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIGZha2UgQ29yc2FpciBWZW5nZWFuY2UgUkFNPyIsImxrIjoiR2lOcGN5QjBhR1Z5WlNCbVlXdGxJR052Y25OaGFYSWdkbVZ1WjJWaGJtTmxJSEpoYlEiLCJicyI6ImMzV1B6UXFDUUJSR2FUdXJsakdMdWhDMTZCZkV2WVJ1Z3FKd1VhMkN3Ym1qUS1iSWFObXo5alNOb2dWWi1fTWR6a2RjTWxobmNNY2tSSllFQ0hINkFNX3piZkJYV3dpVjRvNEZ0Qy1fRWM2MURacGRLNFRzeU5oSThnZzFBZ1BCTGdpdTBobVRHZzd2bVJFNjFvZ09aVU5XWEZCekg3Mnhrak9aSGlPV2cySGJvczMtVk5YZE11UWdsSFo2VDdSbWRGTFVpN2F5TEM1am13VmhaTkg0VFF2RVVtQ1dzZ1NVLUJlLXBQUGl6LUxuaFc3bkJRIiwiaWQiOiJmY19FbnRmYXNPX0RkR3BwdFFQcTRXZHVROF80In0%3D"
+    },
+    {
+      "question": "What is Corsair Vengeance LPX RAM used for?",
+      "type": "featured_snippet",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation, and the custom performance PCB helps manage heat and provides superior overclocking headroom. Each IC is individually screened for peak performance potential.",
+      "title": "VENGEANCE® LPX 16GB (2 x 8GB) DDR4 DRAM 3200MHz ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJXaGF0IGlzIENvcnNhaXIgVmVuZ2VhbmNlIExQWCBSQU0gdXNlZCBmb3I/IiwibGsiOiJHaXAzYUdGMElHbHpJR052Y25OaGFYSWdkbVZ1WjJWaGJtTmxJR3h3ZUNCeVlXMGdkWE5sWkNCbWIzSSIsImJzIjoiYzNXUHpRcUNRQlJHYVR1cmxqR0x1aEMxNkJmRXZZUnVncUp3VWEyQ3dibWpRLWJJYU5tejlqU05vZ1ZaLV9NZHprZGNNbGhuY01ja1JKWUVDSEg2QU1femJmQlhXd2lWNG80RnRDLV9FYzYxRFpwZEs0VHN5TmhJOGdnMUFnUEJMZ2l1MGhtVEdnN3ZtUkU2MW9nT1pVTldYRkJ6SDcyeGtqT1pIaU9XZzJIYm9zMy1WTlhkTXVRZ2xIWjZUN1JtZEZMVWk3YXlMQzVqbXdWaFpOSDRUUXZFVW1DV3NnU1UtQmUtcFBQaXotTG5oVzduQlEiLCJpZCI6ImZjX0VudGZhc09fRGRHcHB0UVBxNFdkdVE4XzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJXaGF0IGlzIENvcnNhaXIgVmVuZ2VhbmNlIExQWCBSQU0gdXNlZCBmb3I%2FIiwibGsiOiJHaXAzYUdGMElHbHpJR052Y25OaGFYSWdkbVZ1WjJWaGJtTmxJR3h3ZUNCeVlXMGdkWE5sWkNCbWIzSSIsImJzIjoiYzNXUHpRcUNRQlJHYVR1cmxqR0x1aEMxNkJmRXZZUnVncUp3VWEyQ3dibWpRLWJJYU5tejlqU05vZ1ZaLV9NZHprZGNNbGhuY01ja1JKWUVDSEg2QU1femJmQlhXd2lWNG80RnRDLV9FYzYxRFpwZEs0VHN5TmhJOGdnMUFnUEJMZ2l1MGhtVEdnN3ZtUkU2MW9nT1pVTldYRkJ6SDcyeGtqT1pIaU9XZzJIYm9zMy1WTlhkTXVRZ2xIWjZUN1JtZEZMVWk3YXlMQzVqbXdWaFpOSDRUUXZFVW1DV3NnU1UtQmUtcFBQaXotTG5oVzduQlEiLCJpZCI6ImZjX0VudGZhc09fRGRHcHB0UVBxNFdkdVE4XzQifQ%3D%3D"
+    },
+    {
+      "question": "What is the lifespan of Corsair Vengeance RAM?",
+      "type": "ai_overview",
+      "page_token": "LTbtA3icHdBRToMwGADgeBkfHYU5syWLEaFD4zpbaOn6Ymhhw9HCnw3F8eYVPIOn8jQaT_Al3-e3fW2bn4uvuu_htJhMhmG42nfd3lZXpnOT4nRuzcQU1urCNIvZzQzd7swyfjfh_dGElAOIiHmptNckNtMUz6FswRMS7_jK8k0S9mJcD3kuaMYVZCj0OAbgcVkQ-8hS3r-tPRY95ZBo3ksTmJEIGHNHPZ1YWuHwUUtmObIxDe780i-3VUxGhUAQiVmaoufSPfhUMqxzOGcIMybvkObTQOWCVC2mAq-nvLkmG0FeKZ8PJoCjauAsfbBUKsITOlT36KTcvNF-PUsdWonRRgzvvWzFhLaEZE4ACSBNR-rFdYl1y9xWkmfpsYYF4VBiTE3GpEoE24Tdn8NGc7COt52vrRA6wooGodLN9KM41Hl-sH93HG2iesvp5c68L4PL_-vly871Czh2-1-3a4w3",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LTbtA3icHdBRToMwGADgeBkfHYU5syWLEaFD4zpbaOn6Ymhhw9HCnw3F8eYVPIOn8jQaT_Al3-e3fW2bn4uvuu_htJhMhmG42nfd3lZXpnOT4nRuzcQU1urCNIvZzQzd7swyfjfh_dGElAOIiHmptNckNtMUz6FswRMS7_jK8k0S9mJcD3kuaMYVZCj0OAbgcVkQ-8hS3r-tPRY95ZBo3ksTmJEIGHNHPZ1YWuHwUUtmObIxDe780i-3VUxGhUAQiVmaoufSPfhUMqxzOGcIMybvkObTQOWCVC2mAq-nvLkmG0FeKZ8PJoCjauAsfbBUKsITOlT36KTcvNF-PUsdWonRRgzvvWzFhLaEZE4ACSBNR-rFdYl1y9xWkmfpsYYF4VBiTE3GpEoE24Tdn8NGc7COt52vrRA6wooGodLN9KM41Hl-sH93HG2iesvp5c68L4PL_-vly871Czh2-1-3a4w3",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBDb3JzYWlyIFZlbmdlYW5jZSBSQU0/IiwibGsiOiJHaTEzYUdGMElHbHpJSFJvWlNCc2FXWmxjM0JoYmlCdlppQmpiM0p6WVdseUlIWmxibWRsWVc1alpTQnlZVzAiLCJicyI6ImMzV1B6UXFDUUJSR2FUdXJsakdMdWhDMTZCZkV2WVJ1Z3FKd1VhMkN3Ym1qUS1iSWFObXo5alNOb2dWWi1fTWR6a2RjTWxobmNNY2tSSllFQ0hINkFNX3piZkJYV3dpVjRvNEZ0Qy1fRWM2MURacGRLNFRzeU5oSThnZzFBZ1BCTGdpdTBobVRHZzd2bVJFNjFvZ09aVU5XWEZCekg3Mnhrak9aSGlPV2cySGJvczMtVk5YZE11UWdsSFo2VDdSbWRGTFVpN2F5TEM1am13VmhaTkg0VFF2RVVtQ1dzZ1NVLUJlLXBQUGl6LUxuaFc3bkJRIiwiaWQiOiJmY19FbnRmYXNPX0RkR3BwdFFQcTRXZHVROF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NIaG9hSFpIT1hsa2FFRXdTV2xITXpCRFZFVnNkbDlRWkVVdGVGcFNUMWRqWDBaNWIwSTVNRWRLV1cxTGQybE9ZVk0wU2tvMVN6WlNhRlZtTlc1SVZWYzNORVo0UjJoclYzQlFUVWh1UW5sTk1WQllTVmxrVGpOSlFSSVhSVzUwWm1GelQxOUVaRWR3Y0hSUlVIRTBWMlIxVVRnYUlrRkVjM0k1WmxKdlgzQlZXSHBPTkcxc1pXUnZaVEJQVTNkUGJVdDJibXhMYkhjIiwiZmN2IjoiMyIsImVpIjoiRW50ZmFzT19EZEdwcHRRUHE0V2R1UTgiLCJxYyI6ImMwM0xPdzdDTUJCRlVXb0t4QkptRWZRVUxNU2EySV9Jd3ZhRTV3a2hSVlpPdzZlaVBicDN2MFpqMTB4NW9JM1FGaUZsZWtwS1BFbEZOYTRTNjAyNkczV0VvS1daM3lyNHNFaHVEbDcxODB3MHQyaEZPdTR6bW1jdGdkQVU2aEQ2UHk3TWpwOGVkOXZoZFRtX0FRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBDb3JzYWlyIFZlbmdlYW5jZSBSQU0%2FIiwibGsiOiJHaTEzYUdGMElHbHpJSFJvWlNCc2FXWmxjM0JoYmlCdlppQmpiM0p6WVdseUlIWmxibWRsWVc1alpTQnlZVzAiLCJicyI6ImMzV1B6UXFDUUJSR2FUdXJsakdMdWhDMTZCZkV2WVJ1Z3FKd1VhMkN3Ym1qUS1iSWFObXo5alNOb2dWWi1fTWR6a2RjTWxobmNNY2tSSllFQ0hINkFNX3piZkJYV3dpVjRvNEZ0Qy1fRWM2MURacGRLNFRzeU5oSThnZzFBZ1BCTGdpdTBobVRHZzd2bVJFNjFvZ09aVU5XWEZCekg3Mnhrak9aSGlPV2cySGJvczMtVk5YZE11UWdsSFo2VDdSbWRGTFVpN2F5TEM1am13VmhaTkg0VFF2RVVtQ1dzZ1NVLUJlLXBQUGl6LUxuaFc3bkJRIiwiaWQiOiJmY19FbnRmYXNPX0RkR3BwdFFQcTRXZHVROF80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "OJ3h6HicxZXrcqo6FMcf4DzH4Yt7C952pTPMngRR8VKMbbX2C8MlxgsQJVhqv-13OU91nuYEFAut2tln5sxZMxCySFZWyPrx__WXtwzWf_8xWETRht2KYhzHZUIp8XDZob5osX3giHPqsdBZ_CSesmPCwlNwIOxflJrgMEUS8FLRgmhuMcNsuZ3NJkKjbX3q7lBTSKcrpm0xvOLRX1dMNEV-W_9Za_FOmZVxUJbdEcZ2aGCZlKtSRS4bouXzAeC_NQKWyY0AnXf0T69VQNBXAYCW3NVsnHoKo-WGxWkPQv46XUi9GI-kzVIDPOAIBo0FA6BzcK6vJdIrdtvJFB3BJCNdPST60c5tDWYtyvfO2pmX8Bg323r96lqJ6XoxDl9XM1MXKq6i54OgxD1LHw0EcCsGi5j0r-SqUtDqkHtEzp1y3jZgMcrWsYHED0p0Ca9DSbRD3lTEpbNw0oeQJeWpPsgSbesD1X4b16oTrOvDWX82gs-12WjX9zQgOjYf51HLxa65MKWfab9SrTQkuXbT_JZy4bATGKwAxqPn2UZ3MES0PCjDSo4KcvoqOeNOOD77mdFxU58mwOwTEy192GevaPYAaTL5fWK7pcMYgAzNelJrLfK5onkyZ6hI7YTGEKRUpMmph_YYKF8VhJwm5Oqo-2G9fAYwC6_qnL3M1ymMLmSsjhO-MkiGxVBooR3KD94fhxiwftpEuhbK0a4etogIhMWt6Icd1HPjuIsX5QygZ97vEXL6GaWT9GNCp3XfkyrSx4-AqI_aVV4v2TVujkZAVv4fqjlPQTdsb_e2bjyH-KHx5ksd30XditTTult0vuqpb_-GHjj_OxepWtBMLc5wsfiCi1QtyGW1OBZRnHGRjutD9SIXB0koqkX3g1qc46JX5OKyWrxzkaRynQt4jQt4iQv-w__EBbrARaYWOS7WH9TiEDRTi3cufl8trH-nFikm-NAUpWO3IhclpLuJqLpq1nYIxsPVi-FCWnusOIF680i-lJC5H936lut9M5fuLaz2or37zeQOeotdYauoxvge6OPSRLvraOBO1UqD0VOp1RrXS0NtaIxnJXXYL7GIhhbBJRy4u9AKHGxGdlxaBhEO55aDS5uQRtShXonh7Q4H0dLyzBBbrunbJss743AZ4dQr-F5IFcmqx3a4N9rG5n7Kart9zJqy_2Cu5_fBhr2uavbDHZkNTHX8RNnT9IHO-08r1MZa2Jh0dngOPeP7Oo6CiVtpTNazGqHNUQ3_eDGHyPO8_rrbskwXV6eNN2NHpVf8uO0M-2TUlaeT7zegGppGb9GwppZVn6O7yVxOs2JKe4uJI23q8r4p8G_FsFIR_NBReJXWCbhDYEqgA1RegirhF-VXzM9aYI5lYvaiVF15LjduJMtuNqzmDyz4JNpvFFkSWBAqlX8AQetBYg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OJ3h6HicxZXrcqo6FMcf4DzH4Yt7C952pTPMngRR8VKMbbX2C8MlxgsQJVhqv-13OU91nuYEFAut2tln5sxZMxCySFZWyPrx__WXtwzWf_8xWETRht2KYhzHZUIp8XDZob5osX3giHPqsdBZ_CSesmPCwlNwIOxflJrgMEUS8FLRgmhuMcNsuZ3NJkKjbX3q7lBTSKcrpm0xvOLRX1dMNEV-W_9Za_FOmZVxUJbdEcZ2aGCZlKtSRS4bouXzAeC_NQKWyY0AnXf0T69VQNBXAYCW3NVsnHoKo-WGxWkPQv46XUi9GI-kzVIDPOAIBo0FA6BzcK6vJdIrdtvJFB3BJCNdPST60c5tDWYtyvfO2pmX8Bg323r96lqJ6XoxDl9XM1MXKq6i54OgxD1LHw0EcCsGi5j0r-SqUtDqkHtEzp1y3jZgMcrWsYHED0p0Ca9DSbRD3lTEpbNw0oeQJeWpPsgSbesD1X4b16oTrOvDWX82gs-12WjX9zQgOjYf51HLxa65MKWfab9SrTQkuXbT_JZy4bATGKwAxqPn2UZ3MES0PCjDSo4KcvoqOeNOOD77mdFxU58mwOwTEy192GevaPYAaTL5fWK7pcMYgAzNelJrLfK5onkyZ6hI7YTGEKRUpMmph_YYKF8VhJwm5Oqo-2G9fAYwC6_qnL3M1ymMLmSsjhO-MkiGxVBooR3KD94fhxiwftpEuhbK0a4etogIhMWt6Icd1HPjuIsX5QygZ97vEXL6GaWT9GNCp3XfkyrSx4-AqI_aVV4v2TVujkZAVv4fqjlPQTdsb_e2bjyH-KHx5ksd30XditTTult0vuqpb_-GHjj_OxepWtBMLc5wsfiCi1QtyGW1OBZRnHGRjutD9SIXB0koqkX3g1qc46JX5OKyWrxzkaRynQt4jQt4iQv-w__EBbrARaYWOS7WH9TiEDRTi3cufl8trH-nFikm-NAUpWO3IhclpLuJqLpq1nYIxsPVi-FCWnusOIF680i-lJC5H936lut9M5fuLaz2or37zeQOeotdYauoxvge6OPSRLvraOBO1UqD0VOp1RrXS0NtaIxnJXXYL7GIhhbBJRy4u9AKHGxGdlxaBhEO55aDS5uQRtShXonh7Q4H0dLyzBBbrunbJss743AZ4dQr-F5IFcmqx3a4N9rG5n7Kart9zJqy_2Cu5_fBhr2uavbDHZkNTHX8RNnT9IHO-08r1MZa2Jh0dngOPeP7Oo6CiVtpTNazGqHNUQ3_eDGHyPO8_rrbskwXV6eNN2NHpVf8uO0M-2TUlaeT7zegGppGb9GwppZVn6O7yVxOs2JKe4uJI23q8r4p8G_FsFIR_NBReJXWCbhDYEqgA1RegirhF-VXzM9aYI5lYvaiVF15LjduJMtuNqzmDyz4JNpvFFkSWBAqlX8AQetBYg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "CORSAIR Vengeance LPX DDR4 RAM 16GB (2x8GB) Up ...",
+      "link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B07RS1G6XW",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FCorsair-VENGEANCE-3200MHz-Compatible-Computer%2Fdp%2FB07RS1G6XW&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECBoQAQ",
+      "displayed_link": "https://www.amazon.com › Corsair-VENGEANCE-3200...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Brand: Corsair. Computer Memory Size: 16 GB. RAM Memory Technology: DDR4. Memory Speed: 3200 MHz. Compatible Devices: Desktop. Special Feature: High ...",
+      "snippet_highlighted_words": [
+        "Corsair",
+        "Memory",
+        "RAM Memory",
+        "DDR4",
+        "Memory"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Brand: Corsair. Computer Memory Size: 16 GB. RAM Memory Technology: DDR4. Memory Speed: 3200 MHz. Compatible Devices: Desktop. Special Feature: High ...",
+          "source_info_link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B07RS1G6XW",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FCorsair-VENGEANCE-3200MHz-Compatible-Computer%2Fdp%2FB07RS1G6XW&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FCorsair-VENGEANCE-3200MHz-Compatible-Computer%2Fdp%2FB07RS1G6XW",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B07RS1G6XW"
+    },
+    {
+      "position": 2,
+      "title": "VENGEANCE® LPX 16GB (2 x 8GB) DDR4 DRAM 3200MHz ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16?srsltid=AfmBOoqGH8KsrzvxZQbQeSTLwyoWCprCHGU5BNRik_-xz6tvZtPLNLmS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m2b3200c16%2Fvengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16%3Fsrsltid%3DAfmBOoqGH8KsrzvxZQbQeSTLwyoWCprCHGU5BNRik_-xz6tvZtPLNLmS&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECB0QAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+      "snippet_highlighted_words": [
+        "VENGEANCE LPX memory is designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+          "source_info_link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16?srsltid=AfmBOoqGH8KsrzvxZQbQeSTLwyoWCprCHGU5BNRik_-xz6tvZtPLNLmS",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m2b3200c16%2Fvengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16%3Fsrsltid%3DAfmBOoqGH8KsrzvxZQbQeSTLwyoWCprCHGU5BNRik_-xz6tvZtPLNLmS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m2b3200c16%2Fvengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16%3Fsrsltid%3DAfmBOoqGH8KsrzvxZQbQeSTLwyoWCprCHGU5BNRik_-xz6tvZtPLNLmS",
+      "source": "corsair.com",
+      "read_more_link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16?srsltid=AfmBOoqGH8KsrzvxZQbQeSTLwyoWCprCHGU5BNRik_-xz6tvZtPLNLmS"
+    },
+    {
+      "position": 3,
+      "title": "CORSAIR Vengeance LPX 16GB (4 x 4GB) DDR4 2400 ...",
+      "link": "https://www.newegg.com/corsair-vengeance-lpx-16gb-ddr4-2400-cas-latency-cl16-desktop-memory-black/p/N82E16820233887?srsltid=AfmBOoqfQOWoN3Qmds_hbmWVQJy4zdGyiNfgqAoBiw2nXfcjkLIXDl6J",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-lpx-16gb-ddr4-2400-cas-latency-cl16-desktop-memory-black%2Fp%2FN82E16820233887%3Fsrsltid%3DAfmBOoqfQOWoN3Qmds_hbmWVQJy4zdGyiNfgqAoBiw2nXfcjkLIXDl6J&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECCMQAQ",
+      "displayed_link": "https://www.newegg.com › ... › Corsair",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg",
+      "snippet": "Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation, and the eight-layer ...",
+      "snippet_highlighted_words": [
+        "designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation, and the eight-layer ...",
+          "source_info_link": "https://www.newegg.com/corsair-vengeance-lpx-16gb-ddr4-2400-cas-latency-cl16-desktop-memory-black/p/N82E16820233887?srsltid=AfmBOoqfQOWoN3Qmds_hbmWVQJy4zdGyiNfgqAoBiw2nXfcjkLIXDl6J",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6LSs_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Lzc3Nzc3NTc3NzU3NzU3LzU3LDc2KzYrNzc3NSs3ODcwN__AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAADBQYEBwH_xAAmEAABAwMDBAIDAAAAAAAAAAABAgMEAAURBhIxISJBYRORByNx_8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgH_xAAkEQACAwABAwMFAAAAAAAAAAAAAQIDEQQFEyExQfASYYGh0f_aAAwDAQACEQMRAD8A5UlNVie2GQnPFdBtmxuG4oZCa6Dcj0sqScEV0zpX_jPS0C5xblerw388W3p7IwOA6vG7u9cffXik-Td2o_soceruSKVcbT8K7pTcbOqR-hLm2HFR8fUntPHAGffvzD6ddfy_qvnLEniW_N9Spye1SuxCC-7xa_5-DPqS7afKGnGLNMi5RkBUdLeRjPGf591dock2pPSPyalJJx8ExPhtpkkBO3pwfFNk7RdpnUs7T6ZLUdLb0WUna-w7naoYx44ODig2Uxs9R2u-Vb1Dm1fkG8W58uMoYKVDCkq3dR48-M0px-l1UaoN4_Ya5PVbL8corV7-fIabrSfc3S9LWN2MBKRgJHqnq6lBYiXbbKx7IRyJq3XSsnmi4C0SpFZDsMkVoGwyRXTDCAdK6YP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-lpx-16gb-ddr4-2400-cas-latency-cl16-desktop-memory-black%2Fp%2FN82E16820233887%3Fsrsltid%3DAfmBOoqfQOWoN3Qmds_hbmWVQJy4zdGyiNfgqAoBiw2nXfcjkLIXDl6J&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.newegg.com%2Fcorsair-vengeance-lpx-16gb-ddr4-2400-cas-latency-cl16-desktop-memory-black%2Fp%2FN82E16820233887%3Fsrsltid%3DAfmBOoqfQOWoN3Qmds_hbmWVQJy4zdGyiNfgqAoBiw2nXfcjkLIXDl6J",
+      "source": "Newegg",
+      "read_more_link": "https://www.newegg.com/corsair-vengeance-lpx-16gb-ddr4-2400-cas-latency-cl16-desktop-memory-black/p/N82E16820233887?srsltid=AfmBOoqfQOWoN3Qmds_hbmWVQJy4zdGyiNfgqAoBiw2nXfcjkLIXDl6J"
+    },
+    {
+      "position": 4,
+      "title": "CORSAIR VENGEANCE LPX 64GB (2x32GB) DDR4 ...",
+      "link": "https://www.bestbuy.com/product/corsair-vengeance-lpx-64gb-2x32gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHHFQWL/sku/12523884",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-vengeance-lpx-64gb-2x32gb-ddr4-3200mhz-c16-udimm-desktop-memory-black%2FJ39QHHFQWL%2Fsku%2F12523884&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECCAQAQ",
+      "displayed_link": "https://www.bestbuy.com › product › sku",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "snippet": "Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation,",
+      "snippet_highlighted_words": [
+        "designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation,",
+          "source_info_link": "https://www.bestbuy.com/product/corsair-vengeance-lpx-64gb-2x32gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHHFQWL/sku/12523884",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-vengeance-lpx-64gb-2x32gb-ddr4-3200mhz-c16-udimm-desktop-memory-black%2FJ39QHHFQWL%2Fsku%2F12523884&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fcorsair-vengeance-lpx-64gb-2x32gb-ddr4-3200mhz-c16-udimm-desktop-memory-black%2FJ39QHHFQWL%2Fsku%2F12523884",
+      "source": "Best Buy"
+    },
+    {
+      "position": 5,
+      "title": "VENGEANCE® LPX 16GB (1 x 16GB) DDR4 DRAM 3200MHz ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1e3200c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16?srsltid=AfmBOopEW_asS9lo9Mf3alNhIyluUq2RXAKu0f_yoJ9SgR04olhyPOVr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m1e3200c16%2Fvengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16%3Fsrsltid%3DAfmBOopEW_asS9lo9Mf3alNhIyluUq2RXAKu0f_yoJ9SgR04olhyPOVr&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECCEQAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+      "snippet_highlighted_words": [
+        "VENGEANCE LPX memory is designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+          "source_info_link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1e3200c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16?srsltid=AfmBOopEW_asS9lo9Mf3alNhIyluUq2RXAKu0f_yoJ9SgR04olhyPOVr",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m1e3200c16%2Fvengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16%3Fsrsltid%3DAfmBOopEW_asS9lo9Mf3alNhIyluUq2RXAKu0f_yoJ9SgR04olhyPOVr&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m1e3200c16%2Fvengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16%3Fsrsltid%3DAfmBOopEW_asS9lo9Mf3alNhIyluUq2RXAKu0f_yoJ9SgR04olhyPOVr",
+      "source": "corsair.com",
+      "read_more_link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m1e3200c16/vengeancea-lpx-16gb-1-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m1e3200c16?srsltid=AfmBOopEW_asS9lo9Mf3alNhIyluUq2RXAKu0f_yoJ9SgR04olhyPOVr"
+    },
+    {
+      "position": 6,
+      "title": "Corsair Vengeance LPX 16GB DDR4 3200MHz CL16 Dual ...",
+      "link": "https://www.memoryexpress.com/Products/MX00117188",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.memoryexpress.com%2FProducts%2FMX00117188&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECCIQAQ",
+      "displayed_link": "https://www.memoryexpress.com › Products",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEVHcEwzMzMzMzMzMzMuLC4kIyQyMTIwJjGSkpLU1NREUEKpqam5ublIhEBQl0VRXU_____4-_jj5ONCtTE5sSZRp0Xi8uAnrQ07QTrC5L5cuFBMrz2Ly4JqaWp0wmqb1pNkcBw9AAAAA3RSTlMAVuMvlI3OAAABLklEQVR4AXzQ14KDIBBAUeMMgxI6WGJC9v__cmciPm25do-VYbiN8GvjjQ3-7DaMf-M4wD_9j6g4Ao5kF4k0RydOM2fkQN15z6JxzvkAJGgjd1d8o0kxpuxL5cpi8MJExDfGuG5b7RWHHeOkaF_j-jiOWhfvRQ-kjlmpKcajpnVzpMKz1ucOe0e-Ncf0eqXVax2KmPZOMPEyN14yXxW6oa-LYGwpJoaW0_u9GzGjXe1o7PnezF9rwLOhXi4MQXDC5VgfXpM3SHK_O1HN_OYdBDenNSLwjcV0bPN8V5g_g-BDkH-pXp-IKKOP8kHvo5ZS2BagjkAEjDGm-MU3nwYXch_M7Sgy7o4IYDCttZ3gU2gtIO0m7IDADYSI3QA5AOK-B-GTn4bwJk28iRpvdgAAM5cdtPOo448AAAAASUVORK5CYII.png",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation,",
+      "snippet_highlighted_words": [
+        "VENGEANCE LPX memory is designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation,",
+          "source_info_link": "https://www.memoryexpress.com/Products/MX00117188",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEVHcEwzMzMzMzMzMzMuLC4kIyQyMTIwJjGSkpLU1NREUEKpqam5ublIhEBQl0VRXU_____4-_jj5ONCtTE5sSZRp0Xi8uAnrQ07QTrC5L5cuFBMrz2Ly4JqaWp0wmqb1pNkcBw9AAAAA3RSTlMAVuMvlI3OAAABLklEQVR4AXzQ14KDIBBAUeMMgxI6WGJC9v__cmciPm25do-VYbiN8GvjjQ3-7DaMf-M4wD_9j6g4Ao5kF4k0RydOM2fkQN15z6JxzvkAJGgjd1d8o0kxpuxL5cpi8MJExDfGuG5b7RWHHeOkaF_j-jiOWhfvRQ-kjlmpKcajpnVzpMKz1ucOe0e-Ncf0eqXVax2KmPZOMPEyN14yXxW6oa-LYGwpJoaW0_u9GzGjXe1o7PnezF9rwLOhXi4MQXDC5VgfXpM3SHK_O1HN_OYdBDenNSLwjcV0bPN8V5g_g-BDkH-pXp-IKKOP8kHvo5ZS2BagjkAEjDGm-MU3nwYXch_M7Sgy7o4IYDCttZ3gU2gtIO0m7IDADYSI3QA5AOK-B-GTn4bwJk28iRpvdgAAM5cdtPOo448AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.memoryexpress.com%2FProducts%2FMX00117188&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.memoryexpress.com%2FProducts%2FMX00117188",
+      "source": "Memory Express"
+    },
+    {
+      "position": 7,
+      "title": "VENGEANCE® LPX 16GB (4 x 4GB) DDR4 DRAM 3200MHz ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m4b3200c16/vengeancea-lpx-16gb-4-x-4gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m4b3200c16?srsltid=AfmBOooig-p2Dlqf-gnBUIC-Pqc8f_pi415aOnFYs6-GlU05WFT_jYN7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m4b3200c16%2Fvengeancea-lpx-16gb-4-x-4gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m4b3200c16%3Fsrsltid%3DAfmBOooig-p2Dlqf-gnBUIC-Pqc8f_pi415aOnFYs6-GlU05WFT_jYN7&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECB4QAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+      "snippet_highlighted_words": [
+        "VENGEANCE LPX memory is designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+          "source_info_link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m4b3200c16/vengeancea-lpx-16gb-4-x-4gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m4b3200c16?srsltid=AfmBOooig-p2Dlqf-gnBUIC-Pqc8f_pi415aOnFYs6-GlU05WFT_jYN7",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m4b3200c16%2Fvengeancea-lpx-16gb-4-x-4gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m4b3200c16%3Fsrsltid%3DAfmBOooig-p2Dlqf-gnBUIC-Pqc8f_pi415aOnFYs6-GlU05WFT_jYN7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk16gx4m4b3200c16%2Fvengeancea-lpx-16gb-4-x-4gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m4b3200c16%3Fsrsltid%3DAfmBOooig-p2Dlqf-gnBUIC-Pqc8f_pi415aOnFYs6-GlU05WFT_jYN7",
+      "source": "corsair.com",
+      "read_more_link": "https://www.corsair.com/us/en/p/memory/cmk16gx4m4b3200c16/vengeancea-lpx-16gb-4-x-4gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m4b3200c16?srsltid=AfmBOooig-p2Dlqf-gnBUIC-Pqc8f_pi415aOnFYs6-GlU05WFT_jYN7"
+    },
+    {
+      "position": 8,
+      "title": "VENGEANCE® LPX 64GB (2 x 32GB) DDR4 DRAM 3200MHz ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmk64gx4m2e3200c16/vengeancea-lpx-64gb-2-x-32gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m2e3200c16?srsltid=AfmBOooE6f-qlopgrGaKs3jWpASZw7NKXmKD40bFozUBa1RO7mRlhXiq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk64gx4m2e3200c16%2Fvengeancea-lpx-64gb-2-x-32gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m2e3200c16%3Fsrsltid%3DAfmBOooE6f-qlopgrGaKs3jWpASZw7NKXmKD40bFozUBa1RO7mRlhXiq&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECCcQAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+      "snippet_highlighted_words": [
+        "VENGEANCE LPX memory is designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+          "source_info_link": "https://www.corsair.com/us/en/p/memory/cmk64gx4m2e3200c16/vengeancea-lpx-64gb-2-x-32gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m2e3200c16?srsltid=AfmBOooE6f-qlopgrGaKs3jWpASZw7NKXmKD40bFozUBa1RO7mRlhXiq",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk64gx4m2e3200c16%2Fvengeancea-lpx-64gb-2-x-32gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m2e3200c16%3Fsrsltid%3DAfmBOooE6f-qlopgrGaKs3jWpASZw7NKXmKD40bFozUBa1RO7mRlhXiq&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk64gx4m2e3200c16%2Fvengeancea-lpx-64gb-2-x-32gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m2e3200c16%3Fsrsltid%3DAfmBOooE6f-qlopgrGaKs3jWpASZw7NKXmKD40bFozUBa1RO7mRlhXiq",
+      "source": "corsair.com",
+      "read_more_link": "https://www.corsair.com/us/en/p/memory/cmk64gx4m2e3200c16/vengeancea-lpx-64gb-2-x-32gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m2e3200c16?srsltid=AfmBOooE6f-qlopgrGaKs3jWpASZw7NKXmKD40bFozUBa1RO7mRlhXiq"
+    },
+    {
+      "position": 9,
+      "title": "VENGEANCE® LPX 64GB (4 x 16GB) DDR4 DRAM 3200MHz ...",
+      "link": "https://www.corsair.com/us/en/p/memory/cmk64gx4m4e3200c16/vengeancea-lpx-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m4e3200c16?srsltid=AfmBOoqUlmanISbEIlyPIwUwLdl3_joZPsoy6ZEf4XLeGQJzwvomavBZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk64gx4m4e3200c16%2Fvengeancea-lpx-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m4e3200c16%3Fsrsltid%3DAfmBOoqUlmanISbEIlyPIwUwLdl3_joZPsoy6ZEf4XLeGQJzwvomavBZ&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQFnoECB8QAQ",
+      "displayed_link": "https://www.corsair.com › ... › Ddr4 Memory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png",
+      "snippet": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+      "snippet_highlighted_words": [
+        "VENGEANCE LPX memory is designed for high-performance overclocking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VENGEANCE LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation.",
+          "source_info_link": "https://www.corsair.com/us/en/p/memory/cmk64gx4m4e3200c16/vengeancea-lpx-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m4e3200c16?srsltid=AfmBOoqUlmanISbEIlyPIwUwLdl3_joZPsoy6ZEf4XLeGQJzwvomavBZ",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUAAAB9fX1GRkZYWFj____j4-OcnJwmJia6urpwcHDx8fGOjo4TExP29vY1NTWsrKyEhITX19dAQEBgYGDIyMgAAABGmsNEAAAAFnRSTlP____________________________-W9cf_wAAAKtJREFUeAHNkUWSBCEQAGE7C3fY_3913OU8GcEpKVc_gP77Ijf0FyuY9ymtssrx3vqwRb0F8E_C7l_KUqiqZXmSsaZWXC5CtzaMp0iqzr6kCmHM8jiBWjLApQgvNY34YgP7cPY8zTqgDwEXOdIeS4I-SMeJeSdTgJihCifkKdKwl1xIDzXzAgJI7x3Cfbd7maGbWQ4h1tU7KcDy9q6Ju3vQ2968xdahfpX_e3bwkgeYAIXeyQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk64gx4m4e3200c16%2Fvengeancea-lpx-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m4e3200c16%3Fsrsltid%3DAfmBOoqUlmanISbEIlyPIwUwLdl3_joZPsoy6ZEf4XLeGQJzwvomavBZ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmemory%2Fcmk64gx4m4e3200c16%2Fvengeancea-lpx-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m4e3200c16%3Fsrsltid%3DAfmBOoqUlmanISbEIlyPIwUwLdl3_joZPsoy6ZEf4XLeGQJzwvomavBZ",
+      "source": "corsair.com",
+      "read_more_link": "https://www.corsair.com/us/en/p/memory/cmk64gx4m4e3200c16/vengeancea-lpx-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk64gx4m4e3200c16?srsltid=AfmBOoqUlmanISbEIlyPIwUwLdl3_joZPsoy6ZEf4XLeGQJzwvomavBZ"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance DDR4 16GB 3200MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+Vengeance+DDR4+16GB+3200MHz&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+DDR4+16GB+3200MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance DDR4 16GB 3600MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+Vengeance+DDR4+16GB+3600MHz&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+DDR4+16GB+3600MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance DDR4 2x8",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+Vengeance+DDR4+2x8&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+DDR4+2x8"
+    },
+    {
+      "block_position": 1,
+      "query": "CORSAIR VENGEANCE LPX 16GB 3000MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=CORSAIR+VENGEANCE+LPX+16GB+3000MHz&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+VENGEANCE+LPX+16GB+3000MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Vengeance LPX DDR4 16GB 2666MHz",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Vengeance+LPX+DDR4+16GB+2666MHz&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vengeance+LPX+DDR4+16GB+2666MHz"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance LPX DDR4 3200MHz 32GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+Vengeance+LPX+DDR4+3200MHz+32GB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+LPX+DDR4+3200MHz+32GB"
+    },
+    {
+      "block_position": 1,
+      "query": "Corsair Vengeance LPX DDR4 RAM 8GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Corsair+Vengeance+LPX+DDR4+RAM+8GB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Corsair+Vengeance+LPX+DDR4+RAM+8GB"
+    },
+    {
+      "block_position": 1,
+      "query": "CORSAIR VENGEANCE LPX DDR4 64GB",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=CORSAIR+VENGEANCE+LPX+DDR4+64GB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+VENGEANCE+LPX+DDR4+64GB"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "16 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=16+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCIOeahISCQAAAAAAADBAEQAAAAAAADBAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyLwgBEgUxNiBHQiIaKhgIg55qEhIJAAAAAAAAMEARAAAAAAAAMEA6CAiDnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAB6BAgYEAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=16+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "32 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=32+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCIOeahISCQAAAAAAAEBAEQAAAAAAAEBAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyLwgBEgUzMiBHQiIaKhgIg55qEhIJAAAAAAAAQEARAAAAAAAAQEA6CAiDnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAF6BAgYEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=32+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "8 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=8+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCIOeahISCQAAAAAAACBAEQAAAAAAACBAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyLggBEgQ4IEdCIhoqGAiDnmoSEgkAAAAAAAAgQBEAAAAAAAAgQDoICIOeahAAMAZYt7EgYAE&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAJ6BAgYEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=8+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "64 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=64+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCIOeahISCQAAAAAAAFBAEQAAAAAAAFBAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyLwgBEgU2NCBHQiIaKhgIg55qEhIJAAAAAAAAUEARAAAAAAAAUEA6CAiDnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAN6BAgYEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=64+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "48 GB",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=48+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCIOeahISCQAAAAAAAEhAEQAAAAAAAEhAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyLwgBEgU0OCBHQiIaKhgIg55qEhIJAAAAAAAASEARAAAAAAAASEA6CAiDnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAR6BAgYEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=48+gb+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "3,200 – 3,600 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=3%2C200+mhz+to+3%2C600+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCISeahISCQAAAAAAAKlAEQAAAAAAIKxAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyWQgBEhMzLDIwMCDigJMgMyw2MDAgTUh6IhoqGAiEnmoSEgkAAAAAAACpQBEAAAAAACCsQCoaChYzLDIwMCBNSHogdG8gMyw2MDAgTUh6GAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAV6BAgYEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=3%2C200+mhz+to+3%2C600+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "2,666 – 3,200 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=2%2C666+mhz+to+3%2C200+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCISeahISCQAAAAAA1KRAEQAAAAAAAKlAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyWQgBEhMyLDY2NiDigJMgMywyMDAgTUh6IhoqGAiEnmoSEgkAAAAAANSkQBEAAAAAAACpQCoaChYyLDY2NiBNSHogdG8gMywyMDAgTUh6GAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAZ6BAgYEAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2%2C666+mhz+to+3%2C200+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "2,400 – 2,666 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=2%2C400+mhz+to+2%2C666+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESGioYCISeahISCQAAAAAAwKJAEQAAAAAA1KRAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyWQgBEhMyLDQwMCDigJMgMiw2NjYgTUh6IhoqGAiEnmoSEgkAAAAAAMCiQBEAAAAAANSkQCoaChYyLDQwMCBNSHogdG8gMiw2NjYgTUh6GAE6CAiEnmoQADAGWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAd6BAgYEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2%2C400+mhz+to+2%2C666+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Over 3,600 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=over+3%2C600+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESESoPCISeahIJCQAAAAAAIKxAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyMwgBEg5PdmVyIDMsNjAwIE1IeiIRKg8IhJ5qEgkJAAAAAAAgrEAqAhgBOggIhJ5qEAAwBli3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAh6BAgYEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=over+3%2C600+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Two",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=two+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIVCAESA1R3bzoMCMGGjgMQ2oWOAzAAWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAl6BAgYEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=two+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Unbuffered",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=unbuffered+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIaCAESClVuYnVmZmVyZWQ6CgiGwiwQh8IsMABYt7EgYAE&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAp6BAgYEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=unbuffered+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under 2,400 MHz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=under+2%2C400+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESESoPCISeahIJEQAAAAAAwKJAGAEqeWNvcnNhaXIgdmVuZ2VhbmNlIGxweCBkZHI0IG1lbW9yeSBjbWsgc3RvcmFnZSBlbmR1cmFuY2VfdGJ3IGludGVyZmFjZSBwcm90b2NvbCBzZXF1ZW50aWFsX3JlYWRfbWJfcyBzZXF1ZW50aWFsX3dyaXRlX21iX3MyNAgBEg9VbmRlciAyLDQwMCBNSHoiESoPCISeahIJEQAAAAAAwKJAKgIYAToICISeahAAMAZYt7EgYAE&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAt6BAgYEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=under+2%2C400+mhz+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "SODIMM",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=sodimm+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIWCAESBlNPRElNTToKCL7pYhD5w3cwB1i3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKAx6BAgYEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=sodimm+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "ECC",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ecc+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczITCAESA0VDQzoKCNzBLBDdwSwwA1i3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKA16BAgYEA8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ecc+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=reviews+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYEip5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKA56BAgYEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczImCBQSDUdldCBpdCBieSBUaHUiDZoBCgoIEAI4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKA96BAgYEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "One",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=one+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIVCAESA09uZToMCMGGjgMQ84aOAzAAWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBB6BAgYEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=one+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+sale&shoprs=CAESBEoCGAEYBip5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczITCAYSB09uIHNhbGUYAiIESgIYAVi3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBF6BAgYEBM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+sale"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=four+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIWCAESBEZvdXI6DAjBho4DEMKGjgMwAFi3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBJ6BAgYEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=four+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=black+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYt7EgYAE&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBN6BAgYEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=price+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYEip5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBR6BAgYEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "With Heat Spreader",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+with+heat+spreader&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIkCAESEldpdGggSGVhdCBTcHJlYWRlchgCOgoI8NcsEPHXLDADWLexIGAB&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBV6BAgYEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+with+heat+spreader"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=blue+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIWCAESBEJsdWU6DAjYjPUBEOaK9QEwC1i3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBZ6BAgYEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=blue+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gray+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1i3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBd6BAgYEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    },
+    {
+      "query": "Under $50",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+under+%2450&shoprs=CAESDRILEQAAAACE14dBGAEYBSp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIiCAUSCVVuZGVyICQ1MBgCIg0SCxEAAAAAhNeHQRgBKgIYAVi3sSBgAQ&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBh6BAgYEBo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s+under+%2450"
+    },
+    {
+      "query": "Brown",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=brown+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&shoprs=CAEYASp5Y29yc2FpciB2ZW5nZWFuY2UgbHB4IGRkcjQgbWVtb3J5IGNtayBzdG9yYWdlIGVuZHVyYW5jZV90YncgaW50ZXJmYWNlIHByb3RvY29sIHNlcXVlbnRpYWxfcmVhZF9tYl9zIHNlcXVlbnRpYWxfd3JpdGVfbWJfczIXCAESBUJyb3duOgwI2Iz1ARDrivUBMAtYt7EgYAE&sa=X&ved=2ahUKEwjDkKvd9uOVAxXRlIkEHatCJ_cQip4GKBl6BAgYEBs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=brown+corsair+vengeance+lpx+ddr4+memory+cmk+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=CORSAIR+VENGEANCE+LPX+DDR4+MEMORY+CMK+storage+endurance_tbw+interface+protocol+sequential_read_mb_s+sequential_write_mb_s&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  }
+}

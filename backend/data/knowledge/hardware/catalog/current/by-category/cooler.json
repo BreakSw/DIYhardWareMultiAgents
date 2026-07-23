@@ -1,0 +1,712 @@
+[
+  {
+    "category": "cooler",
+    "brand": "ARCTIC",
+    "model": "Arctic Freezer 36 A-RGB CPU Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Air cooling",
+      "supported_sockets": "LGA1700, Socket AM4, Socket AM5",
+      "fan_count": "Dual 120 mm fans, 2 fans",
+      "height_mm": "159",
+      "radiator_size_mm": "1.2E+2",
+      "rated_tdp_w": "Easily handled the 170W load (on AMD Ryzen 9 7950X), Could not handle the 205W thermal load (on AMD Ryzen 9 7950X)"
+    },
+    "price": {
+      "reference_usd": "48.35",
+      "reference_cny": "327.18",
+      "offers": [
+        {
+          "merchant": "arctic.de",
+          "url": "https://www.arctic.de/us/Freezer-36-A-RGB-Black/ACFRE00124A",
+          "price_usd": "54.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/arctic-freezer-36-a-rgb-multi-compatible-tower-cpu-cooler-with-a-rgb-black/J39QKP9W2W/sku/12641603?ref=212&loc=marketplace",
+          "price_usd": "45.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Walmart - Platinum Micro",
+          "url": "https://www.walmart.com/ip/Freezer-36-A-RGB-Black-Black-CPU-Cooler-Intel-Socket-LGA1700-AMD-AM4-AM5-Direct-touch-technology-duo-12cm-Pressure-Optimized-Fan-lighting-push-pull-c/5483257076?wmlspartner=wlpa&selectedSellerId=250&selectedOfferId=54C9F8F32D123C4A8D99A7CC226F8F36&conditionGroupCode=1",
+          "price_usd": "48.35",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.arctic.de/us/Freezer-36-A-RGB-Black/ACFRE00124A"
+    ],
+    "fetched_at": "2026-07-20T16:03:16.243495+00:00",
+    "content_hash": "3e699dfc2bdecf7b52815b574fc1e826ec0dc9d573c45fb1ea0b3dfc685cb1e4",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cooler",
+    "brand": "ARCTIC",
+    "model": "Arctic Liquid Freezer III Pro 360 AIO CPU Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "96.99",
+      "reference_cny": "656.24",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/arctic-liquid-freezer-iii-pro-360-multi-compatible-all-in-one-cpu-water-cooler-intel-lga1851-lga1700-amd-am5-am4-black/J39QKP9KTC/sku/12629494?ref=212&loc=marketplace",
+          "price_usd": "95.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/695239/arctic-liquid-freezer-iii-pro-360mm-all-in-one-liquid-cpu-cooling-kit-black?storeid=175&bvstate=pg%3A2%2Fct%3Ar&osfs=true&showfullsite=false",
+          "price_usd": "119.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com - PlatinumMicro",
+          "url": "https://www.newegg.com/alphacool-rog-strix-lc-ii-360-radiator-size-360-mm-green/p/2YM-004H-00078?item=9SIA2W0KER9620&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-liquid+%2F+water+cooling-_-arctic-_-9SIA2W0KER9620&source=region&negg_topt=0&srsltid=AfmBOoo0RO8U0Ngs602-U8GjwKjP7Z22jpdnkIjSGS7FOiDK10aOerZpW64",
+          "price_usd": "96.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bestbuy.com/product/arctic-liquid-freezer-iii-pro-360-multi-compatible-all-in-one-cpu-water-cooler-intel-lga1851-lga1700-amd-am5-am4-black/J39QKP9KTC/sku/12629494?ref=212&loc=marketplace",
+      "https://www.arctic.de/us/Liquid-Freezer-III-360/ACFRE00136A",
+      "https://www.reddit.com/r/hardware/comments/1jllzhg/arctics_new_pro_variant_of_liquid_freezer_iii_pro/",
+      "https://www.amazon.com/ARCTIC-Liquid-Freezer-III-Pro/dp/B0DLWGG85P",
+      "https://www.reddit.com/r/hardware/comments/1avhmze/gamersnexus_the_new_best_arctic_liquid_freezer/",
+      "https://support.arctic.de/en/liquid-freezer-iii-pro-360",
+      "https://www.techpowerup.com/review/arctic-liquid-freezer-iii-pro-360-a-rgb-aio-liquid-cpu-cooler/3.html",
+      "https://www.ebay.com/itm/187123030508",
+      "https://www.facebook.com/groups/pcbuilderandsetups/posts/1323352729464764/"
+    ],
+    "fetched_at": "2026-07-21T14:00:42.732653+00:00",
+    "quality": {
+      "complete": false,
+      "quality_level": "partial",
+      "missing_fields": [
+        "cooler_type",
+        "fan_count",
+        "height_mm_or_radiator_size_mm",
+        "rated_tdp_w_or_supported_processor_range",
+        "supported_sockets"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "partial",
+    "missing_fields": [
+      "cooler_type",
+      "fan_count",
+      "height_mm_or_radiator_size_mm",
+      "rated_tdp_w_or_supported_processor_range",
+      "supported_sockets"
+    ],
+    "reason": "missing_required_data",
+    "reason_code": "missing_required_data",
+    "content_hash": "b99e70e42fe93d5b6f9212398122347d0946c4ccfa8e0d63dcef0493afd84d52",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "57"
+    }
+  },
+  {
+    "category": "cooler",
+    "brand": "Bykski",
+    "model": "Bykski AIO Integrated Liquid CPU Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {},
+    "price": {
+      "reference_usd": "179.99",
+      "reference_cny": "1217.83",
+      "offers": [
+        {
+          "merchant": "Bykski.us",
+          "url": "https://www.bykski.us/products/bykski-aio-integrated-liquid-cpu-cooler-for-intel-lga1700-1800-115x-and-amd-ryzen-9-7-5-3-am5-am4-featuring-a-rgb-lighting-240mm-b-frb240?variant=41604715184226&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZwRBFTqF3OdKHaL07LJxLbiNEWEjQcw_bKizshd3mwqtOUzfyDk0",
+          "price_usd": "167.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com - Tyler Direct",
+          "url": "https://www.newegg.com/p/37B-000W-003H9?item=9SIA9ABKCJ2095&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-diy+cooling-_-bykski-_-9SIA9ABKCJ2095&source=region&negg_topt=0&srsltid=AfmBOoqwFDT8vWnStU-lU0PFsi9MzZEsmsLpQQmNKMv573Qocb7kBwtZQ9Y",
+          "price_usd": "179.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - tylerdirect",
+          "url": "https://www.ebay.com/itm/335698284151?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooNxavl6ooyJE6kw2gii3lIHmArK9Iv_ebV5XgF849nMqz6aHiG0Gw",
+          "price_usd": "203.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bykski.us/products/bykski-aio-integrated-liquid-cpu-cooler-for-intel-lga1700-1800-115x-and-amd-ryzen-9-7-5-3-am5-am4-featuring-a-rgb-lighting-240mm-b-frb240?variant=41604715184226&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZwRBFTqF3OdKHaL07LJxLbiNEWEjQcw_bKizshd3mwqtOUzfyDk0"
+    ],
+    "fetched_at": "2026-07-20T16:03:26.983801+00:00",
+    "content_hash": "80725524407df130ef295e8639af7469914162e8c8d4f9203fbc694314527297",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "cooler_type",
+        "fan_count",
+        "height_mm_or_radiator_size_mm",
+        "rated_tdp_w_or_supported_processor_range",
+        "supported_sockets"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "cooler_type",
+      "fan_count",
+      "height_mm_or_radiator_size_mm",
+      "rated_tdp_w_or_supported_processor_range",
+      "supported_sockets"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "8"
+    }
+  },
+  {
+    "category": "cooler",
+    "brand": "CORSAIR",
+    "model": "Corsair NAUTILUS 360 RS ARGB Liquid CPU Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Liquid cooling",
+      "supported_sockets": "Intel LGA 1851, AMD AM4, AMD AM5, Intel LGA 1700",
+      "fan_count": "RS120 fans, 3 fans",
+      "height_mm": "27",
+      "radiator_size_mm": "3.6E+2"
+    },
+    "price": {
+      "reference_usd": "109.99",
+      "reference_cny": "744.20",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/corsair-nautilus-360-argb-liquid-cpu-cooler-with-rs120-argb-fans-black/J39QHT27CF/sku/6604875?utm_source=feed",
+          "price_usd": "99.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Corsair.com",
+          "url": "https://www.corsair.com/us/en/p/cpu-coolers/CW-9060093-WW/nautilus-360-rs-argb-liquid-cpu-cooler-cw-9060093-ww?srsltid=AfmBOorLgnfciSsLoLw9f3B5qTiQ9_tBwSI3BUJIlvkmc5ni_WIzoaHwNgM",
+          "price_usd": "109.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/688615/NAUTILUS_360_RS_ARGB_360mm_All_in_One_Liquid_CPU_Cooling_Kit_-_Black",
+          "price_usd": "109.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060093-ww/nautilus-360-rs-argb-liquid-cpu-cooler-cw-9060093-ww"
+    ],
+    "fetched_at": "2026-07-20T16:03:18.586458+00:00",
+    "content_hash": "f485f0b8aefc3389ce6b3798cbbe27287ab31e74192811f193023c594e8ebbbb",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "rated_tdp_w_or_supported_processor_range"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "rated_tdp_w_or_supported_processor_range"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "5"
+    }
+  },
+  {
+    "category": "cooler",
+    "brand": "Cooler Master",
+    "model": "Cooler Master Hyper 212 CPU Air Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Air cooling",
+      "supported_sockets": "Nearly every current Intel and AMD desktop processor socket (except for Threadripper)",
+      "fan_count": "1x 120mm fan",
+      "height_mm": "6''",
+      "radiator_size_mm": "120",
+      "rated_tdp_w": "175w"
+    },
+    "price": {
+      "reference_usd": "35.21",
+      "reference_cny": "238.23",
+      "offers": [
+        {
+          "merchant": "Instacart",
+          "url": "https://www.instacart.com/products/118216281-cooler-master-hyper-212-3dhp-cpu-air-cooler-black-1-each",
+          "price_usd": "29.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Newegg.com - Marniker",
+          "url": "https://www.newegg.com/p/0VE-0211-00654?item=9SIC6XRKX65291&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-accessories+-+laptop+cooling-_-generic+brand-_-9SIC6XRKX65291&source=region&negg_topt=0&srsltid=AfmBOor04hb8oIHeW1tsFIWgTLr1BIROSK6h1nCBFBr8OhBwz5ZtmGurRoY",
+          "price_usd": "45.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "eBay - moondawnprincess",
+          "url": "https://www.ebay.com/itm/198413636071?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorswG45Zdc7uD7OPgLEYWE9vaWYrkUc_XF20ma5xoRVjLc2YWffGQA",
+          "price_usd": "35.21",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://legacy.coolermaster.com/en-us/products/hyper-212-black/"
+    ],
+    "fetched_at": "2026-07-21T14:00:30.445244+00:00",
+    "quality": {
+      "complete": true,
+      "quality_level": "verified",
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ]
+    },
+    "quality_level": "verified",
+    "missing_fields": [],
+    "content_hash": "a0194474d4d0888ad7683946c79d3caacb3ede5e5365c8107ea2023292596776",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260721T135328Z\\hardware.jsonl",
+      "line": "55"
+    }
+  },
+  {
+    "category": "cooler",
+    "brand": "NZXT",
+    "model": "NZXT Kraken Elite RGB AIO Liquid Cooler Black",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Liquid cooling",
+      "supported_sockets": "AMD Socket AM4, AMD Socket AM5, Intel Socket LGA 1200/115X, Intel Socket LGA 1700, Intel Socket LGA 1851",
+      "fan_count": "1 (F360 RGB Core Fan)",
+      "height_mm": "1.2E+2",
+      "radiator_size_mm": "3.6E+2",
+      "rated_tdp_w": "257W (on average, noise-normalized with Intel i7-14700K)"
+    },
+    "price": {
+      "reference_usd": "279.99",
+      "reference_cny": "1894.67",
+      "offers": [
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/nzxt-kraken-elite-rgb-360mm-2024-radiator-1x-single-frame-rgb-core-fan-liquid-cooler-with-2-72-60fps-display-black/J3GWJHQ74C/sku/6597523?utm_source=feed",
+          "price_usd": "279.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/686404/nzxt-elite-rgb-360mm-all-in-one-liquid-cpu-cooling-kit-black?bvstate=pg%3A2%2Fct%3Ar&storeid=055",
+          "price_usd": "279.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1847734-REG/nzxt_rl_kr36e_b2_360mm_kraken_elite_rgb.html?kw=NZRLKR36EB2&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooUa5TYGWldt3KwAjXXua06mD0cBuJWdTzkZv5ORAuwViTpyz_lrBk",
+          "price_usd": "259.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://nzxt.com/products/kraken-360-elite-rgb-1"
+    ],
+    "fetched_at": "2026-07-20T16:03:04.305847+00:00",
+    "content_hash": "0b1448bab7c2fb4b16691f7b50718429c11d7c880174eb8d4852b4ba480edd18",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cooler",
+    "brand": "NZXT",
+    "model": "NZXT Kraken Plus AIO Liquid Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Liquid cooling",
+      "supported_sockets": "AM5, AM4, LGA 1700, LGA 1851",
+      "fan_count": "1 (F360 RGB Core (EV) Fan)",
+      "height_mm": "27",
+      "radiator_size_mm": "3.6E+2",
+      "rated_tdp_w": ">260W (with Core i7-14700K and AMD's Ryzen 9 9950X3D)"
+    },
+    "price": {
+      "reference_usd": "129.99",
+      "reference_cny": "879.63",
+      "offers": [
+        {
+          "merchant": "Newegg Business",
+          "url": "https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-35-146-170&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googlebiz-_-liquid+%2F+water+cooling-_-nzxt-_-9B35146170&source=region&negg_topt=0&srsltid=AfmBOoqJAio8NqKDzx6A2mp0P9ZG7k1FA5bF-9DDsFe6FzLhmYXbdrs08cc",
+          "price_usd": "129.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/nzxt-kraken-plus-360mm-radiator-cpu-liquid-cooler-3-x-120mm-f120p-fans-with-1-54-square-lcd-black/J3GWJHQC9X/sku/6630949?utm_source=feed",
+          "price_usd": "129.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Micro Center",
+          "url": "https://www.microcenter.com/product/695839/nzxt-kraken-plus-360-360mm-all-in-one-liquid-cpu-cooling-kit-black",
+          "price_usd": "129.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://nzxt.com/products/kraken-plus-240"
+    ],
+    "fetched_at": "2026-07-20T16:03:33.194893+00:00",
+    "content_hash": "ff3c02988815d7fe2331b4993933eea0a352c9c09e3fd016b039038a30c0543b",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cooler",
+    "brand": "Phanteks",
+    "model": "Phanteks Glacier One 360D30 X2 AIO Liquid CPU Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Liquid cooling",
+      "supported_sockets": "LGA 1851, AM4, AM5, LGA 115X, LGA1200",
+      "fan_count": "D30 fans (interconnect into a single 360 frame)",
+      "height_mm": "3E+1",
+      "radiator_size_mm": "3.6E+2",
+      "rated_tdp_w": "Extra cooling to surrounding VRMs and M.2 SSDs"
+    },
+    "price": {
+      "reference_usd": "139.99",
+      "reference_cny": "947.30",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/p/N82E16835709305?item=N82E16835709305&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-liquid+%2F+water+cooling-_-phanteks-_-35709305&source=region&negg_topt=0",
+          "price_usd": "125.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Phanteks",
+          "url": "https://www.phanteks.store/products/glacier-one-360d30-x2?variant=41618565300279&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorVQOk6tN8XVrH_maFtR0bsO6XuP6B4_4lv1p005f-9SxUgdBWeIOs",
+          "price_usd": "139.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Techinn.com",
+          "url": "https://www.tradeinn.com/techinn/en/phanteks-glacier-one-drgb-liquid-cooling-360-mm/142643033/p?utm_source=google_products&utm_medium=merchant&id_producte=149911842&country=us&srsltid=AfmBOoqvJDyweQF-1eN69DTJyALuwfw4K_XyeUVeaqzVtSfEU-4HoMu3o0Q",
+          "price_usd": "160.49",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://phanteks.com/product/glacier-one-360d30-x2-black/"
+    ],
+    "fetched_at": "2026-07-20T16:03:31.130511+00:00",
+    "content_hash": "4a3ed3fde73e24fe9d9a230364ab229e270905c6a3bdb0dfd6ef580a9d01210f",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  },
+  {
+    "category": "cooler",
+    "brand": "Thermaltake",
+    "model": "Thermaltake Floe RC Ultra 240 CPU & Memory AIO Liquid Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "AIO Liquid Cooler, Liquid cooling",
+      "supported_sockets": "Intel LGA 2066, AMD AM2, AMD AM2+, AMD AM3, AMD AM3+",
+      "fan_count": "TOUGHFAN Turbo Series",
+      "height_mm": "27",
+      "radiator_size_mm": "27"
+    },
+    "price": {
+      "reference_usd": "311.66",
+      "reference_cny": "2108.71",
+      "offers": [
+        {
+          "merchant": "Thermaltake USA",
+          "url": "https://thermaltakeusa.com/products/floe-rc-ultra-240-cpu-memory-aio-liquid-cooler-cl-w324-pl12gm-a?srsltid=AfmBOoqjSrTedNFe5FfbGqgWCKB1_XDg20pMX6KLq_18PmFTY8-lXYscgf4",
+          "price_usd": "224.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Grooves-Inc.com",
+          "url": "https://www.grooves-inc.com/thermaltake-wak-thermaltake-floe-ultra-240-thermaltake-hardware-electronic-pZZa1-2100403816.html?currency=USD&language=en&_z=us&srsltid=AfmBOopLrsprZh6W5cFCIlulOOEM_mTKJoyOR3vCgi4pMorQ_Ndv3Akt2m8",
+          "price_usd": "398.33",
+          "availability": "unknown",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766071",
+      "published_at": "2026-07-21",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://thermaltakeusa.com/products/floe-rc-ultra-240-cpu-memory-aio-liquid-cooler-cl-w324-pl12gm-a?srsltid=AfmBOoqjSrTedNFe5FfbGqgWCKB1_XDg20pMX6KLq_18PmFTY8-lXYscgf4"
+    ],
+    "fetched_at": "2026-07-20T16:03:20.033372+00:00",
+    "content_hash": "3bc4ad1bafa4f44d89f15ec49b7033aa23fcebc097bb88019a5c331f793eb32d",
+    "quality": {
+      "complete": false,
+      "missing_fields": [
+        "rated_tdp_w_or_supported_processor_range"
+      ],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "partial"
+    },
+    "reason": "missing_required_data",
+    "quality_level": "partial",
+    "missing_fields": [
+      "rated_tdp_w_or_supported_processor_range"
+    ],
+    "reason_code": "missing_required_data",
+    "recovery": {
+      "source_kind": "audited_record",
+      "path": "rejected\\20260720T160236Z\\hardware.jsonl",
+      "line": "6"
+    }
+  },
+  {
+    "category": "cooler",
+    "brand": "be quiet!",
+    "model": "Be Quiet Dark Rock Pro 5 Air Cooler",
+    "mpn": "",
+    "release_date": null,
+    "market": "US",
+    "specs": {
+      "cooler_type": "Air cooling",
+      "supported_sockets": "AM5, AM4",
+      "fan_count": "2 fan(s)",
+      "height_mm": "168",
+      "radiator_size_mm": "135",
+      "rated_tdp_w": "270 W"
+    },
+    "price": {
+      "reference_usd": "84.9",
+      "reference_cny": "574.51",
+      "offers": [
+        {
+          "merchant": "Newegg.com",
+          "url": "https://www.newegg.com/be-quiet-dark-rock-pro-5/p/13C-001F-00070?item=13C-001F-00070&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cpu+air+coolers-_-be+quiet%21-_-13C001F00070&source=region&negg_topt=0",
+          "price_usd": "84.9",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "Best Buy",
+          "url": "https://www.bestbuy.com/product/be-quiet-dark-rock-pro-5-quiet-cpu-cooler-black/CC5VXLQ3X4/sku/11066236?ref=212&loc=marketplace",
+          "price_usd": "84.99",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        },
+        {
+          "merchant": "B&H Photo-Video-Audio",
+          "url": "https://www.bhphotovideo.com/c/product/1793910-REG/be_quiet_bk036_dark_rock_pro_5.html?kw=BEDRP5AC&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopJxyV5ByLVwZM1dgh2AJ2eYAeimpiErTw-45VeMfEza820AYmbIHA",
+          "price_usd": "84.9",
+          "availability": "in_stock",
+          "provider": "serpapi-details"
+        }
+      ]
+    },
+    "exchange_rate": {
+      "usd_cny": "6.766935",
+      "published_at": "2026-07-20",
+      "source": "ECB"
+    },
+    "sources": [
+      "https://www.bequiet.com/en/cpucooler/4466"
+    ],
+    "fetched_at": "2026-07-20T16:03:04.819260+00:00",
+    "content_hash": "d7fa177dc3f7d223cf07fbf7c28c43c933306b7a7dc09179d42b2572a7ccbbeb",
+    "quality": {
+      "complete": true,
+      "missing_fields": [],
+      "provider_failures": [
+        "firecrawl:skipped",
+        "zyte:skipped",
+        "brightdata:skipped",
+        "apify:skipped"
+      ],
+      "quality_level": "verified"
+    },
+    "quality_level": "verified",
+    "missing_fields": []
+  }
+]

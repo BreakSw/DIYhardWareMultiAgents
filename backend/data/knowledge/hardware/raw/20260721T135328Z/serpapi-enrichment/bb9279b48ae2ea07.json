@@ -1,0 +1,962 @@
+{
+  "search_metadata": {
+    "id": "6a5f79fef0114a005b5f82af",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wAr1EfvdcUVBj2VoMOjHEg/6a5f79fef0114a005b5f82af.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/wAr1EfvdcUVBj2VoMOjHEg/6a5f79fef0114a005b5f82af.json_with_pixel_position",
+    "created_at": "2026-07-21 13:54:06 UTC",
+    "processed_at": "2026-07-21 13:54:06 UTC",
+    "google_url": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&oq=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/wAr1EfvdcUVBj2VoMOjHEg/6a5f79fef0114a005b5f82af.html",
+    "total_time_taken": 2.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "AMD Ryzen 9 9950X3D 16-Core Processor cpu boost_clock memory_types pcie_version socket tdp_w threads",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "AMD Ryzen 9 9950X3D 16-Core Processor cpu boost_clock memory_types pcie_version socket tdp_w threads",
+    "total_results": 441,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "WORTH $899?! - AMD Ryzen 9 9950X3D2 Review ...",
+      "link": "https://www.youtube.com/watch?v=Vr86MWTIMos",
+      "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/L0-2SZSRpJ85kadpXt_lIdLoBAwdQ4FYUM0uLOQtq90.jpeg",
+      "channel": "Jordan Ash",
+      "duration": "13:49",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQGtmIIQoE2xYKgbpXT4JO-u5JGwLrpKnkhNA",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction & Specs",
+          "link": "https://www.youtube.com/watch?v=Vr86MWTIMos&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/L0-2SZSRpJ85kadpXt_lITBiR0_I76bTwXQD27mn_HKq-rYhL78kCIsgZakj-s6Q.jpeg"
+        },
+        {
+          "time": "02:35",
+          "title": "Synthetic Benchmarks & Multi-Threaded Performance",
+          "link": "https://www.youtube.com/watch?v=Vr86MWTIMos&t=155",
+          "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/L0-2SZSRpJ85kadpXt_lIYlFK5o1Sgt2-tk8m0FgY02vfLb6OvIkZ_4nW2o7x0Z-.jpeg"
+        },
+        {
+          "time": "04:03",
+          "title": "Gaming Benchmarks: 1080p Performance & Frame Consistency",
+          "link": "https://www.youtube.com/watch?v=Vr86MWTIMos&t=243",
+          "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/L0-2SZSRpJ85kadpXt_lISshUIBGsQrwbeNNYExSuSXYEjX3waCpSc1_XQZ1wC00.jpeg"
+        },
+        {
+          "time": "07:02",
+          "title": "Thermal Analysis & Peak Power Consumption",
+          "link": "https://www.youtube.com/watch?v=Vr86MWTIMos&t=422",
+          "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/L0-2SZSRpJ85kadpXt_lIY7Z2WAZ_uXMRMhkmz7DujzwD4JKq_nZFmjM5iV4AAD5.jpeg"
+        },
+        {
+          "time": "08:21",
+          "title": "Real-World Creator Tests: Da Vinci Resolve & Workstation Value",
+          "link": "https://www.youtube.com/watch?v=Vr86MWTIMos&t=501",
+          "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/L0-2SZSRpJ85kadpXt_lIUNYRV0Z88t5_K_3r3ItHbO_LQtDOM1BvwxdX0M24AGb.jpeg"
+        },
+        {
+          "time": "11:39",
+          "title": "Final Verdict: Workstation vs. Gaming Value Proposition",
+          "link": "https://www.youtube.com/watch?v=Vr86MWTIMos&t=699",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHjrTa-nhiqeVOMAJoYWA_QzpWg9Y54OhJ_zbLaHs4RA&s="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "DO NOT BUY: AMD Ryzen 9 9950X3D2 CPU Review ...",
+      "link": "https://www.youtube.com/watch?v=RDpBuiu0ql8&t=208",
+      "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/Vv5BqZ5XAVi_NPdhVQ8OwG3vlPCiokozkzmOrh7J5pY.jpeg",
+      "channel": "Gamers Nexus",
+      "duration": "14s",
+      "platform": "YouTube",
+      "date": "Apr 23, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcQWc09U1BTz3eMv2X3XdQp3vN7V8AdS3Q7ZrA"
+    },
+    {
+      "position": 3,
+      "title": "[CPU] AMD Ryzen 9 9950X3D 16-Core Processor - $573.99 ...",
+      "link": "https://www.reddit.com/r/buildapcsales/comments/1sw4erx/cpu_amd_ryzen_9_9950x3d_16core_processor_57399/",
+      "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/VS0192X2X99zU6qSizeJkMbipjadM5Yfhq6Ro5CmFms.jpeg",
+      "channel": "VeryGenericD",
+      "platform": "Reddit",
+      "date": "Apr 26, 2026"
+    },
+    {
+      "position": 4,
+      "title": "AMD Ryzen 9 9950X3D2 Review: Dual V-Cache Finally Here",
+      "link": "https://www.youtube.com/watch?v=AY5yTMUN9XY&t=63",
+      "thumbnail": "https://serpapi.com/searches/6a5f79fef0114a005b5f82af/images/lVeiQYnZxnlsH2c1pGC0-ubvIBfUxlNlWyY-HUBcTmQ.jpeg",
+      "channel": "KitGuruTech",
+      "duration": "1m",
+      "platform": "YouTube",
+      "date": "Apr 21, 2026",
+      "snippet": "The Ryzen 9 9950X3D2 features dual 3D V-cache chiplets, offering 192 MB L3 cache & up to 13% performance gains for creators.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcTIs0iOYgv6x3dEIVCXsyMwz4m61loPhKA-mQ"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQlVpFE_Oic2V7uLHHgzN8iRQc1aUkPUV06ASskX0Z015DUVS5TttHX88d_TkmVKsql1yWY6PYmY9gKbs4B8l8JCzp32nNVRC-xRWexin5opfPRHO8Etmqe",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "rating": 4.8,
+      "reviews": 700,
+      "price": "$649.99",
+      "extracted_price": 649.99,
+      "original_price": "$700",
+      "extracted_original_price": 700,
+      "location": "Nearby, 11 mi",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "jgJ4JHicdZNdjqNGFIWlrCG7QJHqBzDkzW5cYFrGdgFVbl4sqCobbDAYcLuNZg_Zg3sm0uRxMlJes43OaoLmOXk-R_d-5-je3x6q-GvqNfu0O26IsQ6NoF6Dfn29bxZfm7aWV9EX8js0MdRNpJvmxLR0e2IbwPwq0j4t60Mh_0QTHQKADTQxIEKGPbq-5SqVZXFWq_1etU4tRhvEwLZ1gDEcB2BkGQj_UVTpQf2Qv0NsmDqwdMuANka6NS6031vZfejrp9041wIG0C0wwdjAI4kNP63pytn9j_jlclXt_UNOl45G74M6a7Zmj9xb7GjQ_OWpbpW2bmuhuq5uNdFctayuu34nylqctEpVdXvf9fdGdVojCrV7VW1X1GetG2XVa71sdjetz9sxZvfl0PwI8B8Y71UhvxkTcwxjWbaODH1sSbffm9f-kR8-X6-l-vtxKB_X7pGXD3X-vU6b173456ef5_XNeepuT5u4aZhDQeTkbVgRfRNCtIyttxDQMuZlFZZTFEC_TbzGl-4BCFR6kpBlDIw4joML35It92i9JOWdDhJnkF5kResXntOYHPRwSy508F8pJznncB1xO-VV4lIniBSjJj1BJ9gmeTyUUJ7pPuAJ5JUdhcyuQwS9iCWtOC-GZZkjdUqGJA4IY_6aHzcom-ckIrPn7BRcYnSDCe-xchOPslPPuN1lIEDKO_UZXgAJ-lpw_xihoGA4iTdYLl6qMlYeeeNbuhSQrjdcPkcuy1M8RUllPLOKrORJ9OyYYIr8hDmHXgCyUCd_kID54ZE5CQxeVkwaoduH8ZH0ooBuioN6WeV56ubzAPuV4nmVHWmaER8HaDHIU8OSbZ6mc5oqp9Rp_LYMI-oIELCx61pum0HwpIiicpU65JbxpuTcD7NIPgfk5R6EME3jeUhGFuEmuUANpUe2iQe2yuD0JskMKkZ8t_Bn1AvuK56MlZROeGaunLOegTecuU0aebP2Bc8Gxq3RY5w_v3Xt_gNMidGHq4l-O55Ko7xW2axdEn0yeLondqZzcQ6_wsn4Pzoaj9GC6F98fksI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jgJ4JHicdZNdjqNGFIWlrCG7QJHqBzDkzW5cYFrGdgFVbl4sqCobbDAYcLuNZg_Zg3sm0uRxMlJes43OaoLmOXk-R_d-5-je3x6q-GvqNfu0O26IsQ6NoF6Dfn29bxZfm7aWV9EX8js0MdRNpJvmxLR0e2IbwPwq0j4t60Mh_0QTHQKADTQxIEKGPbq-5SqVZXFWq_1etU4tRhvEwLZ1gDEcB2BkGQj_UVTpQf2Qv0NsmDqwdMuANka6NS6031vZfejrp9041wIG0C0wwdjAI4kNP63pytn9j_jlclXt_UNOl45G74M6a7Zmj9xb7GjQ_OWpbpW2bmuhuq5uNdFctayuu34nylqctEpVdXvf9fdGdVojCrV7VW1X1GetG2XVa71sdjetz9sxZvfl0PwI8B8Y71UhvxkTcwxjWbaODH1sSbffm9f-kR8-X6-l-vtxKB_X7pGXD3X-vU6b173456ef5_XNeepuT5u4aZhDQeTkbVgRfRNCtIyttxDQMuZlFZZTFEC_TbzGl-4BCFR6kpBlDIw4joML35It92i9JOWdDhJnkF5kResXntOYHPRwSy508F8pJznncB1xO-VV4lIniBSjJj1BJ9gmeTyUUJ7pPuAJ5JUdhcyuQwS9iCWtOC-GZZkjdUqGJA4IY_6aHzcom-ckIrPn7BRcYnSDCe-xchOPslPPuN1lIEDKO_UZXgAJ-lpw_xihoGA4iTdYLl6qMlYeeeNbuhSQrjdcPkcuy1M8RUllPLOKrORJ9OyYYIr8hDmHXgCyUCd_kID54ZE5CQxeVkwaoduH8ZH0ooBuioN6WeV56ubzAPuV4nmVHWmaER8HaDHIU8OSbZ6mc5oqp9Rp_LYMI-oIELCx61pum0HwpIiicpU65JbxpuTcD7NIPgfk5R6EME3jeUhGFuEmuUANpUe2iQe2yuD0JskMKkZ8t_Bn1AvuK56MlZROeGaunLOegTecuU0aebP2Bc8Gxq3RY5w_v3Xt_gNMidGHq4l-O55Ko7xW2axdEn0yeLondqZzcQ6_wsn4Pzoaj9GC6F98fksI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcS0YMXbnbIgR5Ujrjwdp6i_oGDMZxsPksq1svQWA9imcmoAGJVpAjUqpC1-QYlq2f9VBF3lzR1amPtudm1CvD5hJ6KigwjD1pHAXkKjkJq7giN8-K3wjeDbqA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "AMD Ryzen 9 9950X3D2 16-Core Processor",
+      "rating": 4.7,
+      "reviews": 33,
+      "price": "$879.99",
+      "extracted_price": 879.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "ojwOC3icbZLNjqNGEIClPEPeAkWiu_kxufmv7WGG9tDQjc3FArptbBrDAP5D-w55B89upM1xEynXvMbkacIq161TlT6pVPVV_faQh7_Hy3qXtEcfm6-BSapXvXs93_2nr3VTiXPWHcRfwDSRhRzb0Z2RjYBtQIC-ZkmXqGr_HesOGOkjBC0LmNAwLWOkf8tlItThJFe7nWxmVXYQf1o6tGwbmEMHZFjOCBnwj0OZ7OX_2DB1CE0ILd224QiZtjF6b0T7AV-nW2ijIQzDcBC0LWDYyPr0Slez7Y_Zl7ezbO4fYuzNNHrv5UlzNMcx9TWaacD6ZVo1Unttqky2bdVoWX3W0qpqu22mqqzQSllWzX3b3WvZanV2kNuLbNpDddLaActO60S9vWpd3gw7tl_29ffpfzDFe3kQ30zbMixoDvoQcBzH1sF7feke-f7z-azkP4-9epzbR64e8vR7ldSXXfbvTz_Pq-ts2l6nPqtrPqN6AOpIMMoCHbsep3FwjFUKzWevIMo7zoGn36K4jIssMlV85LO0mHdp6eRhiVHS573fk2MS5XoGjStVeJLN6ZUvbpW3eLqFmIcBIydRkHjImSyFO1RGiCaK45plUDfSnkzTHmO5zKMVVm6wJFcO8DGKzB0JQLIBnGZzNxcleCJFF5NoDqIFsRLWBYS7dA0U4dC7sjXuQibOLKQ3wgVLVU59Tk90lq_DBb2yBfczIJ4pxJeI1TxkN4tg90KV00ucQRoKJueuiqHfb_i4XzHzsil4EfbqEpUcx0UdJdzrKJi4L6HS2TF_82B29WFO2NI9xgVtQ-AaqSKemONbehRTua4bb0bWTE2eid4hD5OYMQ8lS1Fy6Nw2vbse3JyjErxRGAchFm0UTgbXoB783nxmHuQSg2QeT7MoPwVcBWFhBFjHT9kizjNYU3rkPuv5KgXjq8ATIDl2Fwd3QpfkvoriIECxT8EeBdzdCJXP_eH_EyBeUhxDynm5gTX6fGub3Yc-xmYXrKxLtICrlzc3aDaBgaqJou7Uc8a7fuv_CuyRYRnD2UYjgP4Dg4FKsw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ojwOC3icbZLNjqNGEIClPEPeAkWiu_kxufmv7WGG9tDQjc3FArptbBrDAP5D-w55B89upM1xEynXvMbkacIq161TlT6pVPVV_faQh7_Hy3qXtEcfm6-BSapXvXs93_2nr3VTiXPWHcRfwDSRhRzb0Z2RjYBtQIC-ZkmXqGr_HesOGOkjBC0LmNAwLWOkf8tlItThJFe7nWxmVXYQf1o6tGwbmEMHZFjOCBnwj0OZ7OX_2DB1CE0ILd224QiZtjF6b0T7AV-nW2ijIQzDcBC0LWDYyPr0Slez7Y_Zl7ezbO4fYuzNNHrv5UlzNMcx9TWaacD6ZVo1Unttqky2bdVoWX3W0qpqu22mqqzQSllWzX3b3WvZanV2kNuLbNpDddLaActO60S9vWpd3gw7tl_29ffpfzDFe3kQ30zbMixoDvoQcBzH1sF7feke-f7z-azkP4-9epzbR64e8vR7ldSXXfbvTz_Pq-ts2l6nPqtrPqN6AOpIMMoCHbsep3FwjFUKzWevIMo7zoGn36K4jIssMlV85LO0mHdp6eRhiVHS573fk2MS5XoGjStVeJLN6ZUvbpW3eLqFmIcBIydRkHjImSyFO1RGiCaK45plUDfSnkzTHmO5zKMVVm6wJFcO8DGKzB0JQLIBnGZzNxcleCJFF5NoDqIFsRLWBYS7dA0U4dC7sjXuQibOLKQ3wgVLVU59Tk90lq_DBb2yBfczIJ4pxJeI1TxkN4tg90KV00ucQRoKJueuiqHfb_i4XzHzsil4EfbqEpUcx0UdJdzrKJi4L6HS2TF_82B29WFO2NI9xgVtQ-AaqSKemONbehRTua4bb0bWTE2eid4hD5OYMQ8lS1Fy6Nw2vbse3JyjErxRGAchFm0UTgbXoB783nxmHuQSg2QeT7MoPwVcBWFhBFjHT9kizjNYU3rkPuv5KgXjq8ATIDl2Fwd3QpfkvoriIECxT8EeBdzdCJXP_eH_EyBeUhxDynm5gTX6fGub3Yc-xmYXrKxLtICrlzc3aDaBgaqJou7Uc8a7fuv_CuyRYRnD2UYjgP4Dg4FKsw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRF-cIHu3TTK9LJ_dS04I2UDPPA92QECh2cTeDoedEyBKfRKb2vs8JbvYYOYkPI9mXICUgXV19YsIZEmyzoU9212x1CZtz7D_kTH5V6Hkek5okh6X37ELXm",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTm7fS39rMRDv2MRcHBPXkx_LqIbPKJR5h4Zd4AsZ2Oj57brtVHH1BZOgazlnjSOqKr4yFTAcZ7WeagF6FCuxrEmEVdiOs74jlCzHc",
+      "source": "Micro Center",
+      "title": "AMD Ryzen 9 9950X 16-Core Processor",
+      "rating": 4.8,
+      "reviews": 760,
+      "price": "$489.99",
+      "extracted_price": 489.99,
+      "original_price": "$650",
+      "extracted_original_price": 650,
+      "location": "Nearby, 11 mi",
+      "extensions": [
+        "24% OFF"
+      ],
+      "immersive_product_page_token": "-0b3b3icdZNLkqNGEIYjfAbfgnBEPagSeNcSIDXdIFFAIbFRoKpSg3gOoNYj5g6-g3rGETPLGUd462u0T2N51vYy48s_M79F_nZTxZ8Pi26fDYfAIauQ-O0KjKvjJXj80vWtPIqxkH9AbOjAIAhTAAkl5sSg6IvIxqxqXwr5Hd8xMXQdUzoBJjCwAb7lKpNV0ajlfq96qxX3NogM3TCAbuo6BSbGOgFfizp7UT_wfQmEFE8opeYE0Qmmhm6-9XJ411ezLaQEQ0QAMu_zJ3Tyb_VxxZbW9n_g5w9H1V_e5YNnaexyVY1maqZJwBpbGqS_zNpeaau-FWoY2l4T3VHbte0wbkXVilKrVd32l-146dSgdaJQ21fVD0XbaMMdq1EbZbc9aWPe3zWHzy_dD4H_OOOtLuQ3MqE6RQalhEJ6d6PGW_c63vKXT8djpf66vVS343DLq5tqfm-z7nUv_v7pZ7s9WbPhNAviruMWA-HBp5Hl58qpujSSTNjdXi64F87Pj_GCDf51ekg5c2RCznGclrto2u9KM4hLXsvG9Xe8Iuurdw7tNPbqASvObW8dnHcVp8IReJnwY8BtLGpS8chlHu6aZQz954Q_cXtzlo7sZOI0YeTqHohP6pCXXpP6KXSfZcReZelbaW3DhHeI43wlsXyKmzRVtVx5lYFYubl4c65njdzvakKSSA67dYCW1hSF6ylPS7PeRYKEyEDpXD4tF840jvljmox6kvg4nMErt6SXVaze2QImdY6llZ6F7SLVOIg5DPFrtZENRwy4lM8FChe5w6ISJM2GZOU4FwfHZxXzs8PmIhbxKbq6Ba8EjufjkwQ8EPPynqkWG-g8ZvbZ9haSeQimIcqTqHKjzIkvDHQg5VX3zKUblLDxgQ_iZlqkM-iINfP82icZjkevbEMHOI9inuYCdYwdeBBf-XIHH07SmULFHXdeuFO28C_LJI3WsCPPnIUecDMRn2C6qOKgsQGzK0dZ9imp_emn89Dv38GDQ8ZwSV-TOVo-f3DDfhPquJ1WzJ155sP-ug1-hRNDpzoC94eD-B83fkm1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-0b3b3icdZNLkqNGEIYjfAbfgnBEPagSeNcSIDXdIFFAIbFRoKpSg3gOoNYj5g6-g3rGETPLGUd462u0T2N51vYy48s_M79F_nZTxZ8Pi26fDYfAIauQ-O0KjKvjJXj80vWtPIqxkH9AbOjAIAhTAAkl5sSg6IvIxqxqXwr5Hd8xMXQdUzoBJjCwAb7lKpNV0ajlfq96qxX3NogM3TCAbuo6BSbGOgFfizp7UT_wfQmEFE8opeYE0Qmmhm6-9XJ411ezLaQEQ0QAMu_zJ3Tyb_VxxZbW9n_g5w9H1V_e5YNnaexyVY1maqZJwBpbGqS_zNpeaau-FWoY2l4T3VHbte0wbkXVilKrVd32l-146dSgdaJQ21fVD0XbaMMdq1EbZbc9aWPe3zWHzy_dD4H_OOOtLuQ3MqE6RQalhEJ6d6PGW_c63vKXT8djpf66vVS343DLq5tqfm-z7nUv_v7pZ7s9WbPhNAviruMWA-HBp5Hl58qpujSSTNjdXi64F87Pj_GCDf51ekg5c2RCznGclrto2u9KM4hLXsvG9Xe8Iuurdw7tNPbqASvObW8dnHcVp8IReJnwY8BtLGpS8chlHu6aZQz954Q_cXtzlo7sZOI0YeTqHohP6pCXXpP6KXSfZcReZelbaW3DhHeI43wlsXyKmzRVtVx5lYFYubl4c65njdzvakKSSA67dYCW1hSF6ylPS7PeRYKEyEDpXD4tF840jvljmox6kvg4nMErt6SXVaze2QImdY6llZ6F7SLVOIg5DPFrtZENRwy4lM8FChe5w6ISJM2GZOU4FwfHZxXzs8PmIhbxKbq6Ba8EjufjkwQ8EPPynqkWG-g8ZvbZ9haSeQimIcqTqHKjzIkvDHQg5VX3zKUblLDxgQ_iZlqkM-iINfP82icZjkevbEMHOI9inuYCdYwdeBBf-XIHH07SmULFHXdeuFO28C_LJI3WsCPPnIUecDMRn2C6qOKgsQGzK0dZ9imp_emn89Dv38GDQ8ZwSV-TOVo-f3DDfhPquJ1WzJ155sP-ug1-hRNDpzoC94eD-B83fkm1"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR690m_DfXCt3MShgQt2sbXzc4_r71pUwZLigiFsyr6pHbVRaCWJ2w3Ggw-OhTgQAgtDCwzpCqieotkwBG4Kk8mCTUrfBboGGQ-HRsJD-WRwJ5I21XNrQ3Luw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - ServerQue",
+      "title": "AMD Ryzen 9 9950X3D 16-core 4.3GHz Processor",
+      "rating": 4.7,
+      "reviews": 37,
+      "price": "$775.00",
+      "extracted_price": 775.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "WPjr43icdZNBjqtGEIaV86BI3U13Y7IbzGAPscGAaQwbC9Ntg91AD2B7bOUOuULkeS_SyzKKlG2uMTlJluFFWSa1KtVfqvrql-rHh6h-f5qrfd4fA4esIuK1KzCszrfg5YvqWn4uhor_BqlhYgMDalBMTQNBSOiXIh9y2R6-yoQQA5oTEwAEgIkI0s1fS5FzWTXC3-9FZ7fF1z5AEcEQAqIbUMcUUjD5parzg_hXRzrFcIKpbhKgU5OO8d7x_gOvpltoGONWTCamCXWCCUWG-cMq9O3t_4ifX8-iu33wp6Wthbe7aDRTM8fBG93WIP122nZCW3VtIfq-7bRCnbVd2_bDtpBtcdJqUbfdbTvclOg1VVRiexFdX7WN1o-yGLSBq-1VG8puvLP_fFD_HPAfGO91xX96V5fhUR4-nc9S_PE4yMe5f5TyIZqf21xd9sWf3_z1fCmm066YBrFSzA5BdCIdn5fH3d2yU2h2bHYl-dw7LhuOA1bC-Nk7-jP1fSizfYo8EklJUxaT4B4m3qzQC2ld_XWoGFLrDAwec8zTOlGZsE83EcOUNUwlG6dKTz3gjsX8uedxWa44cIO4Diuxztz1kbPglEJen3B0z2DkOOUSmTWDmRsxtlxswk1al6lIFBbHgAS1fIua4JY_B5id3ihL3HuewIVIliCZyzp3si6WHGd6MGR66Y95HUgvDyGjmZSxZzs0PDKVTyGJHKvOoNxkm5HZsfoNghshrdEDOSxraHvNAScRXLB5WYbIbJNGrXe1idI738cJn6U3qDxQNkKWMttImMnQTeULEnF8XcZenjaWy3Q2ywCMFusl4k125dBZBIlbJzVBkR7uiyR9i-2wZ7Y39Z9hFNZF5ADnpZhlZYFUOLIG8Z35O_h0HT2EgjnurHKtcO7d_CSL2dp9yZuDPpbD6MizIBnuO-BcRg9fhS3TAlrNp7e-23-AJ4cMkU8vyQz5i1c36tII6601Qk-X5tP-vg2-g8b4GhgBPJlA_W9O9D86",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WPjr43icdZNBjqtGEIaV86BI3U13Y7IbzGAPscGAaQwbC9Ntg91AD2B7bOUOuULkeS_SyzKKlG2uMTlJluFFWSa1KtVfqvrql-rHh6h-f5qrfd4fA4esIuK1KzCszrfg5YvqWn4uhor_BqlhYgMDalBMTQNBSOiXIh9y2R6-yoQQA5oTEwAEgIkI0s1fS5FzWTXC3-9FZ7fF1z5AEcEQAqIbUMcUUjD5parzg_hXRzrFcIKpbhKgU5OO8d7x_gOvpltoGONWTCamCXWCCUWG-cMq9O3t_4ifX8-iu33wp6Wthbe7aDRTM8fBG93WIP122nZCW3VtIfq-7bRCnbVd2_bDtpBtcdJqUbfdbTvclOg1VVRiexFdX7WN1o-yGLSBq-1VG8puvLP_fFD_HPAfGO91xX96V5fhUR4-nc9S_PE4yMe5f5TyIZqf21xd9sWf3_z1fCmm066YBrFSzA5BdCIdn5fH3d2yU2h2bHYl-dw7LhuOA1bC-Nk7-jP1fSizfYo8EklJUxaT4B4m3qzQC2ld_XWoGFLrDAwec8zTOlGZsE83EcOUNUwlG6dKTz3gjsX8uedxWa44cIO4Diuxztz1kbPglEJen3B0z2DkOOUSmTWDmRsxtlxswk1al6lIFBbHgAS1fIua4JY_B5id3ihL3HuewIVIliCZyzp3si6WHGd6MGR66Y95HUgvDyGjmZSxZzs0PDKVTyGJHKvOoNxkm5HZsfoNghshrdEDOSxraHvNAScRXLB5WYbIbJNGrXe1idI738cJn6U3qDxQNkKWMttImMnQTeULEnF8XcZenjaWy3Q2ywCMFusl4k125dBZBIlbJzVBkR7uiyR9i-2wZ7Y39Z9hFNZF5ADnpZhlZYFUOLIG8Z35O_h0HT2EgjnurHKtcO7d_CSL2dp9yZuDPpbD6MizIBnuO-BcRg9fhS3TAlrNp7e-23-AJ4cMkU8vyQz5i1c36tII6601Qk-X5tP-vg2-g8b4GhgBPJlA_W9O9D86"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcR24ZSPImnOy2yGvJdrxQPjYCsVAw809FPtcd6BTzEMzFLlGltoTRkedDiW7GJ2Alt0mz5OXue8n-41MSZiRYueCU5xKabDpw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQNqQ7XDlYhNOreM-bii09G2VyvEIpDbVMRMqCm1qaGvOvqZGt11BceL_yvl6HD5ix_OD9GnJTySJ-iYrQ5uCA5NFBJMwhKrPEeMo5s",
+      "source": "CPUSolutions.com",
+      "title": "Extreme Ryzen 9 9950X3D Unrivaled 16-Core Powerhouse",
+      "price": "$2,029.91",
+      "extracted_price": 2029.91,
+      "immersive_product_page_token": "uOUve3icHZLLjptIGIU1z4NGKqAKU7OzjbGx2mAXVBmzsYAq27SLS3PxhRfIcl4hcqdH6iyTSNnmNTJPM_Ssv__o_450_n6I7Od4UR3i5nljo7WP3HIN2nV33zjvVV3yLm0z_n1k6mikIqTppoZNFUPdfE_jNpblcaA61OEIaBgYGJoQj3SkfjuJmMusEN7hIGqrTIczCBHUTBMbAJuaoQIDGV-zPD6K__EPVUUmgObHJ2xgjBBW4WvNm89vL52o77_5eGUp5N6LQsHKwEGoW4pq_Dkta6Gs6zIVTVPWSlp1SlKWTbtPZZmelVzkZX3ft_dKNEqVZmJ_EXWTlYXSDFi0Ssur_VVpT_Vg3Lwdqw9VE8OhDgQIQjiCUMUAveYZ__xaXdrH6fil66T49TjKR9c8TvIhin_KuLoc0n__-DR7cabTzplsaFUxiwC_d6_ivOndcHwVczxP8ki6DBtxz2v2HB1iyqapzoKERhlhZBoEZM0tB9J-DNLtTuMh89yCZQxEHbVluD1Hebwg9aog07iXVaS16sqShC5Ot21OPF9OloLKe1zYU0aXGWds4jIHJYto4s3kzGf2zX8m6_S8fHElnyS2hCSI1pxFzAuY3AUUJGe-G3I2Z3aUzG9epEd9YhHyRK9tOjvBrS0Zl2M91bBDwk0fWEubzt1bonHPz49AUJvwghvbGYrdUD4FFl_vtDYcHLTBfRYX_DnKT33Yu10yp7fo5oQberpGud3H0p67bBK4FF2oNQF0wRCl59g527NUd1AkVxrNyVJIeaW97SUgouxMVitNat5QdUul7xfpl1tTH36DsY1a3zMu27nmPb0s_XrnQ72cSLKcrvD40O83f6kjExpQ-5ieqv8HY9MNyA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uOUve3icHZLLjptIGIU1z4NGKqAKU7OzjbGx2mAXVBmzsYAq27SLS3PxhRfIcl4hcqdH6iyTSNnmNTJPM_Ssv__o_450_n6I7Od4UR3i5nljo7WP3HIN2nV33zjvVV3yLm0z_n1k6mikIqTppoZNFUPdfE_jNpblcaA61OEIaBgYGJoQj3SkfjuJmMusEN7hIGqrTIczCBHUTBMbAJuaoQIDGV-zPD6K__EPVUUmgObHJ2xgjBBW4WvNm89vL52o77_5eGUp5N6LQsHKwEGoW4pq_Dkta6Gs6zIVTVPWSlp1SlKWTbtPZZmelVzkZX3ft_dKNEqVZmJ_EXWTlYXSDFi0Ssur_VVpT_Vg3Lwdqw9VE8OhDgQIQjiCUMUAveYZ__xaXdrH6fil66T49TjKR9c8TvIhin_KuLoc0n__-DR7cabTzplsaFUxiwC_d6_ivOndcHwVczxP8ki6DBtxz2v2HB1iyqapzoKERhlhZBoEZM0tB9J-DNLtTuMh89yCZQxEHbVluD1Hebwg9aog07iXVaS16sqShC5Ot21OPF9OloLKe1zYU0aXGWds4jIHJYto4s3kzGf2zX8m6_S8fHElnyS2hCSI1pxFzAuY3AUUJGe-G3I2Z3aUzG9epEd9YhHyRK9tOjvBrS0Zl2M91bBDwk0fWEubzt1bonHPz49AUJvwghvbGYrdUD4FFl_vtDYcHLTBfRYX_DnKT33Yu10yp7fo5oQberpGud3H0p67bBK4FF2oNQF0wRCl59g527NUd1AkVxrNyVJIeaW97SUgouxMVitNat5QdUul7xfpl1tTH36DsY1a3zMu27nmPb0s_XrnQ72cSLKcrvD40O83f6kjExpQ-5ieqv8HY9MNyA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcRoals6sKEIacnl_7l0I4QoL8UIyfUW0LVYWS10smQgwrNpIsYttKzZ2h7OpjFcin1m9CXp8Cp1eHWjq_zQn1GNKB402GtIPb2CIL2Q0geFuzCGNnBifjDA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0QufSxRCR7BarODfQcIM59TCOzG0fJUlU8Yr-IWF3tImH-9y9mGIrnBUVnv6cHPd3NOB2D4kNrcsc1flE5QBAFS3jARIF",
+      "source": "Paradox Customs",
+      "title": "Ryzen 9 9950X3D2 Dual Edition Desktop Processor",
+      "rating": 4.8,
+      "reviews": 20,
+      "price": "$660.00",
+      "extracted_price": 660.0,
+      "original_price": "Usually $695",
+      "extracted_original_price": 695,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "FNj4zXicbY9NjqNGFIClnCG3QCMVFMVPdsa4oN0NNgVV2GwsKLDBlA0NuG2j3CF3cM9EmixnFrPNNTqnCcl6Nm_z6b33fX88iurHzG33aX8MMFqHyG_WYFhf7sHT17Zr8gsfqvybpgNDVTVZUUyIgKyr8CtPh1Q0hyr_LqsynJCuI6ArQDYMYH4rizQX1blY7fdFZzd8uqHLEEFTU5ABoaECXUV_Vaf0UPxPvyOkKaap6rphKgBNDxTw3uX9h7Ke7zQNIqQaiqnKhqrIcPr0-5qs7N3P2ZfXS9HdP_KZZ0vkPhZnyZRME4ENtCVZ-zRvukJadw0v-r7pJN5epKxp-mHHRcNr6VScmu6-G-5t0Ustr4rdW9H1VXOW-gkXgzTk7e4qDWU3JfZfDu1_9j-xeD9NzUjX1KlYg3AaUxcC7-3b8CgPny8XUfz9OIjHpX-U4lGc_2zS9m3P__nl10Vztef9dR7QtmU2ASF9gtlI5Uw0tww3t218UH1m1b5sxYFogReX7jYmMV2oanpMCB-tGznjwK9NJYq2gwcTL7Pz51gQO4pFQnAZhDi3MievycK4Z7VPApos2Ya5hIlmC5YaBWVSOEslckUSbli0YgIzt7x6dSmC01LzsYHo0YoyeitzlvupoMCzcZfXAhdHlnKFhUx4g2cfQHwaXCa3JDvJbTAKFm2WylbkXQJwT4_MeomSigEEOLYm39KjMh5DbB3D43KdQIZ85zZGDvZWWHSRaz0XzNIC6MmTV-9tsGBO-RqMrPZP15Fg8xLF-Z0qxE_tBOR1OZDI6rcwf-Ox2UeLpKWuT3hMUYwtmsZs7tHE8SlbUYH3AfNf_ZgjX2HPL2wBwxhdgiMLCAUoO3IYgX70cHBN4tzhda8kTjJsIXsNY39N5ARkULiRw0MM8BN3kpIrLSHTPh3ZKpNn1xxbcsHw0qmWFnH9-ypO6LbOMdssq9Cpb94p6bdnFnLHdMi4lH1HVIHA5POt7_YfYIbREK4Qxi9QYVsGvNWuqhf1SZ89qbYb8eHwm6wbqqYqQDUMWf0XNXpIoQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FNj4zXicbY9NjqNGFIClnCG3QCMVFMVPdsa4oN0NNgVV2GwsKLDBlA0NuG2j3CF3cM9EmixnFrPNNTqnCcl6Nm_z6b33fX88iurHzG33aX8MMFqHyG_WYFhf7sHT17Zr8gsfqvybpgNDVTVZUUyIgKyr8CtPh1Q0hyr_LqsynJCuI6ArQDYMYH4rizQX1blY7fdFZzd8uqHLEEFTU5ABoaECXUV_Vaf0UPxPvyOkKaap6rphKgBNDxTw3uX9h7Ke7zQNIqQaiqnKhqrIcPr0-5qs7N3P2ZfXS9HdP_KZZ0vkPhZnyZRME4ENtCVZ-zRvukJadw0v-r7pJN5epKxp-mHHRcNr6VScmu6-G-5t0Ustr4rdW9H1VXOW-gkXgzTk7e4qDWU3JfZfDu1_9j-xeD9NzUjX1KlYg3AaUxcC7-3b8CgPny8XUfz9OIjHpX-U4lGc_2zS9m3P__nl10Vztef9dR7QtmU2ASF9gtlI5Uw0tww3t218UH1m1b5sxYFogReX7jYmMV2oanpMCB-tGznjwK9NJYq2gwcTL7Pz51gQO4pFQnAZhDi3MievycK4Z7VPApos2Ya5hIlmC5YaBWVSOEslckUSbli0YgIzt7x6dSmC01LzsYHo0YoyeitzlvupoMCzcZfXAhdHlnKFhUx4g2cfQHwaXCa3JDvJbTAKFm2WylbkXQJwT4_MeomSigEEOLYm39KjMh5DbB3D43KdQIZ85zZGDvZWWHSRaz0XzNIC6MmTV-9tsGBO-RqMrPZP15Fg8xLF-Z0qxE_tBOR1OZDI6rcwf-Ox2UeLpKWuT3hMUYwtmsZs7tHE8SlbUYH3AfNf_ZgjX2HPL2wBwxhdgiMLCAUoO3IYgX70cHBN4tzhda8kTjJsIXsNY39N5ARkULiRw0MM8BN3kpIrLSHTPh3ZKpNn1xxbcsHw0qmWFnH9-ypO6LbOMdssq9Cpb94p6bdnFnLHdMi4lH1HVIHA5POt7_YfYIbREK4Qxi9QYVsGvNWuqhf1SZ89qbYb8eHwm6wbqqYqQDUMWf0XNXpIoQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcSKPGtnXkt3GIxj1W9zNBaCiZ9rfrPYkDUqOyrtPvaOkNLlykbf9F4nnvjOvo9RuUBLCXiFX6fn-xAXx8blQXP_bfPYPWs1VK_rfBkvNlwI3_gzjX0m5EPr",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "AMD Ryzen 9 9950X 16-Core 4.3GHz 64MB L3 Cac",
+      "rating": 4.3,
+      "reviews": 28,
+      "price": "$699.34",
+      "extracted_price": 699.34,
+      "immersive_product_page_token": "icUa83icdZFNjqNGAIWV86BI9WtDdrYBdzOibH6qaNhYuCgb7MIwgN3YmjvkCpF7JtJkORkp21yjc5Is42Sf9Se9p--9n--q-mP21O7y_hC4dB1R1qzBsD5fg-evbdcUZzlUxXdoYgvgiUnoxKLUtAik-KvMh1w3-6r43YSAkimAGEEICKVTSL-VKi90dVKr3U51diOr4hsmECJCoEURsQCamOi3qs736j_6HZIpemRjSE1z8uiB1Jq-dUX_TtaLDaTEtCxAJ8CyJpZlQhOiT-twZW_-B375eFbd9b2Y-bYRXm_qZFiGZVHwgm0DTn5cNJ0y1l0jVd83nSHbs7Ftmn7YSN3Io1Gruumum-Haqt5oZaU2F9X1VXMy-gdWgzEU7ebVGMruYdl_2bf_6hFMIQVT0wIAYDShmLzVVfHLW3sZ7uX-8_ms1Z_3vb6f-3up7-r0a5O3l53864e_nYtcLDq5CHjbCjsEkc7C8DADhdANSzzI63YQSWn7iI0pzpwCeZ50xk7U8GXFR8KhfkpfGM1tDlMoFlskUF4HkGvmBXCPg0TzLcj8hA9MaRYp7t6KpIgyVIoX1OLgMHcjVx8Y8k7-oYgCHk544lXxi1ezU3krlnSMndb2jyFOY69UdRhwoXnmukPkaC5t4ckjZenNa1Kh8ygpHWXP8_Q4YJ97IH6aR6HjCT8RaXTzdpEr1lksr7n24u3NGSUs6pSzOEk0Y07JJA532yU8hUKP4tQM7DAfJRif8qVHuEhvvrA-FsfQjwWLMlcnASwhX45N7JpDKAonTcb4sdclFA4SOCDSGTzfaVFUF3x7BMRPxjpOepgjawiAtxR63sharJQTelvhsuBINXNgKeoGplf4ITvNS6adyAXus1xmpUTt4x8R8JtYbeHstXDnUAnXW1bePHxi11WSRfLGxwDB19h1cM6tS7YcD7Fuxqwmr8WpxCFm-PPYd7t3MHPpEK2m28Vmbd_ayxnkZjd7fv5Au2Hj2vhjMPsJTk0yIQgQ04T0Hw0FPo8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=icUa83icdZFNjqNGAIWV86BI9WtDdrYBdzOibH6qaNhYuCgb7MIwgN3YmjvkCpF7JtJkORkp21yjc5Is42Sf9Se9p--9n--q-mP21O7y_hC4dB1R1qzBsD5fg-evbdcUZzlUxXdoYgvgiUnoxKLUtAik-KvMh1w3-6r43YSAkimAGEEICKVTSL-VKi90dVKr3U51diOr4hsmECJCoEURsQCamOi3qs736j_6HZIpemRjSE1z8uiB1Jq-dUX_TtaLDaTEtCxAJ8CyJpZlQhOiT-twZW_-B375eFbd9b2Y-bYRXm_qZFiGZVHwgm0DTn5cNJ0y1l0jVd83nSHbs7Ftmn7YSN3Io1Gruumum-Haqt5oZaU2F9X1VXMy-gdWgzEU7ebVGMruYdl_2bf_6hFMIQVT0wIAYDShmLzVVfHLW3sZ7uX-8_ms1Z_3vb6f-3up7-r0a5O3l53864e_nYtcLDq5CHjbCjsEkc7C8DADhdANSzzI63YQSWn7iI0pzpwCeZ50xk7U8GXFR8KhfkpfGM1tDlMoFlskUF4HkGvmBXCPg0TzLcj8hA9MaRYp7t6KpIgyVIoX1OLgMHcjVx8Y8k7-oYgCHk544lXxi1ezU3krlnSMndb2jyFOY69UdRhwoXnmukPkaC5t4ckjZenNa1Kh8ygpHWXP8_Q4YJ97IH6aR6HjCT8RaXTzdpEr1lksr7n24u3NGSUs6pSzOEk0Y07JJA532yU8hUKP4tQM7DAfJRif8qVHuEhvvrA-FsfQjwWLMlcnASwhX45N7JpDKAonTcb4sdclFA4SOCDSGTzfaVFUF3x7BMRPxjpOepgjawiAtxR63sharJQTelvhsuBINXNgKeoGplf4ITvNS6adyAXus1xmpUTt4x8R8JtYbeHstXDnUAnXW1bePHxi11WSRfLGxwDB19h1cM6tS7YcD7Fuxqwmr8WpxCFm-PPYd7t3MHPpEK2m28Vmbd_ayxnkZjd7fv5Au2Hj2vhjMPsJTk0yIQgQ04T0Hw0FPo8"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQT-TyUrMsQOpDM8jn9ftq17xczQFc8eDAcWtfg1jmAj-i1yerK4Wkhs671lR5_2BqhZoom5wibZGO4xxqjPD0EKlLFJy42FMyFyehHtHg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQxTefe0RRLf_j6SkdMdNZje9eZtUiq_artGBidbswkqTPFooNNOIA4cxWNGsPKc8p2NupCi1YkBWIA7N9VgfV2xO5ay0QzqCYY-Y8IxEZy",
+      "source": "Smart Guys Computers",
+      "title": "AMD Ryzen 9 9950X3D Without Cooler AM5 4.3 GHz 16 Core/32 Thread",
+      "rating": 5.0,
+      "reviews": 33,
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "immersive_product_page_token": "NzzG8nicdZJNruJGFIWlrCG7sCLVj38zA2wDbjBQdpWxJ8i4Cmxe2a5nG3ig7CF74HVH6gw7kTLNNl5WE9TjZPyde3TO1fn1Iaq_RjN1yPvTxjfWkRG2azCsz7fN_KvqWn4uhor_4egY2g4EyLYRtqGOdftrkQ-5bI9PipFhWtDBWAeOjRDCFvhWipzLqhGrw0F0bls8ZQgayMDIMYHuWDY2ATR_r-r8KL7jP6EBsK5bOtANgAzbsGyA3jvef-jryQ4iXTd1GwBgPG-BgSwL_rImK3f3P_DL61l0tw8-Wroaud1Fozma4xhgi10Nmj9N2k5o664tRN-3nVaos7Zv237YFbItXrRa1G132w03JXpNFZXYXUTXV22j9U8sBm3ganfVhrJ71uy_HNX3Av8R472u-DfDMnUT2Y7lOMjUEQLWu7oMj_L4-XyW4u_HUT7O_aOUD9H81ubqcij--eFHr726k_462VClmEtA7AbJHjhl7LIFrUnCfP8Ux2O6h74s6uGNvKgV8YyloKEiW57njKi0CWe0HhYLKoM8DlBac5YkQRQhecgbdXq6XEXMNwXKplFtgzDx2zwJJ3tAFikL49wLLjkKhygeNxlls4S-gc0p67MkSAtK9OjF73OZwtxj93xGcegpFc14RRmpuRsM6YmVJA6abCtRwbjOZ-NFCBhjmIeJHF-KKY_p3R_oyxxuaqOlU9JEtbow6ndiKrus9nQWl4vtnbMVDZchG_uU8oYhVlOsFGV8uXdJk9-zZLFl_d6Tn1bemyuoypeUJETKKMSqW2JZZVTGiecNS0xOcQIwRXzO3bIsGlkymaEIjzt6yrbL7XGIPAbo1IB8G94yj0dhHNQp4AEBqol8-5pBpjgKYfzCCZlKEHuS5M9hp2ggz79EQrJF7KaRD_x5Mc3KAilCTmxD72y1h6Mr98dQMD-YVsGYzMLbKslojOUlmWZmBjN3z47XCPVGVPNJKsOBMv-VIR9_fuu7wwcY-cYQraz9ZLd27-pyBrndjebzT0Y37HwXv25GP0PLfm4RAd22ofEvS_pMBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NzzG8nicdZJNruJGFIWlrCG7sCLVj38zA2wDbjBQdpWxJ8i4Cmxe2a5nG3ig7CF74HVH6gw7kTLNNl5WE9TjZPyde3TO1fn1Iaq_RjN1yPvTxjfWkRG2azCsz7fN_KvqWn4uhor_4egY2g4EyLYRtqGOdftrkQ-5bI9PipFhWtDBWAeOjRDCFvhWipzLqhGrw0F0bls8ZQgayMDIMYHuWDY2ATR_r-r8KL7jP6EBsK5bOtANgAzbsGyA3jvef-jryQ4iXTd1GwBgPG-BgSwL_rImK3f3P_DL61l0tw8-Wroaud1Fozma4xhgi10Nmj9N2k5o664tRN-3nVaos7Zv237YFbItXrRa1G132w03JXpNFZXYXUTXV22j9U8sBm3ganfVhrJ71uy_HNX3Av8R472u-DfDMnUT2Y7lOMjUEQLWu7oMj_L4-XyW4u_HUT7O_aOUD9H81ubqcij--eFHr726k_462VClmEtA7AbJHjhl7LIFrUnCfP8Ux2O6h74s6uGNvKgV8YyloKEiW57njKi0CWe0HhYLKoM8DlBac5YkQRQhecgbdXq6XEXMNwXKplFtgzDx2zwJJ3tAFikL49wLLjkKhygeNxlls4S-gc0p67MkSAtK9OjF73OZwtxj93xGcegpFc14RRmpuRsM6YmVJA6abCtRwbjOZ-NFCBhjmIeJHF-KKY_p3R_oyxxuaqOlU9JEtbow6ndiKrus9nQWl4vtnbMVDZchG_uU8oYhVlOsFGV8uXdJk9-zZLFl_d6Tn1bemyuoypeUJETKKMSqW2JZZVTGiecNS0xOcQIwRXzO3bIsGlkymaEIjzt6yrbL7XGIPAbo1IB8G94yj0dhHNQp4AEBqol8-5pBpjgKYfzCCZlKEHuS5M9hp2ggz79EQrJF7KaRD_x5Mc3KAilCTmxD72y1h6Mr98dQMD-YVsGYzMLbKslojOUlmWZmBjN3z47XCPVGVPNJKsOBMv-VIR9_fuu7wwcY-cYQraz9ZLd27-pyBrndjebzT0Y37HwXv25GP0PLfm4RAd22ofEvS_pMBQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQD47mtkAeJ5voaKi7WIL32GI0yivIpGLNhMtVcKSrtqjlhCcylJ2FknRRLVpXBOdQ5xtotZiMlz-I47FWN_G5CRrlIRRuT7HnVUOXwcVecDMowB3UID1vw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - SenyTech Global",
+      "title": "AMD Ryzen 9 9950X - Ryzen 9 9000 Series Granite Ridge (Zen 5) 16-Core 4.3 GHz - Socket AM5 170W - Radeon Graphics Processor - 100-100001277 - Bulk - O",
+      "rating": 5.0,
+      "reviews": 14,
+      "price": "$499.99",
+      "extracted_price": 499.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "WgVe13icdZLPzptGAMTV50GVdoHFpjfbeMEk_Ftg1-ZiYXZtsMFsAPszVt6hrxA5SaX02ETKNa_xVX2Yuj23l7n8Zg6jmV8fovo-c-Q-748RRmGM_DYEQ3gZo9UX2bX8UgwV_2pMjOnUmJoGRABNoDE1Jl-KfMjr9lDxD3-UIud1dRbBfi86qy3-O_F71eQH8S_-BtUpNCdgCkz9aYNA0zT1Y8f7Vz1cbKE-hVBD6hQhFUzABAITvg9JYG3_B35-dxHd-MpnnqWQ8S7OiqmYJgJrzVKg8fOi7YQSdm0h-r7tlEJelF3b9sO2qNvipDSiabtxO4xS9IosKrG9iq6v2rPSP7EYlIHL7YsylN2zZv_58LTwDx-bf0Reh0d5-HS51OLH41A_Lv2jrB_i_Fuby-u--POnv5aX1WLxbrWIUimpRUCsSj07l0uBZUiOtbFJ6j3V_Mg7S4PcT6hwqLGzaxQx5FHV9BP1tuQNtGN203KbzncqCQmWL4weAKn9JG3wclfje2LDl3gdocDB3Y7yOjq6N5-ZSbp054WW5TnFJ99ajdTy94nGZcJIyHF9923oe2t5JRVMCHRvQUI3CRvWnlOXiZXRtQrd2CrbmEVINEPpae6Y2YOeJq7_ds39AHu3jLWA2JlDlpj6aRZ4J79habaIVXryHNIG6-yY1fycWnW5BvxNbqdqfJzjwJnfs3SAHAxoA8sxgsXIbHdVQJJxTTKxPt3TZYl9G0sK0BvC4PGZs4lVh3QpGYFmThlp_fP8umvM51h0oHdSMVbWWbMacxs6aYq0iLlN5hQxBnhV2FlZqJKQI43SOw12cPbC8RwKil27cufE8ceAZcmOStVn5b1ohmMKuOVpePTOvh6lNxbYpb1hSPt067v9K5hhNMQBwvitptINBV6wrU7LUzOZrXTLSYrh8AucTHVDV8Hz7FD_G4RvKzE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WgVe13icdZLPzptGAMTV50GVdoHFpjfbeMEk_Ftg1-ZiYXZtsMFsAPszVt6hrxA5SaX02ETKNa_xVX2Yuj23l7n8Zg6jmV8fovo-c-Q-748RRmGM_DYEQ3gZo9UX2bX8UgwV_2pMjOnUmJoGRABNoDE1Jl-KfMjr9lDxD3-UIud1dRbBfi86qy3-O_F71eQH8S_-BtUpNCdgCkz9aYNA0zT1Y8f7Vz1cbKE-hVBD6hQhFUzABAITvg9JYG3_B35-dxHd-MpnnqWQ8S7OiqmYJgJrzVKg8fOi7YQSdm0h-r7tlEJelF3b9sO2qNvipDSiabtxO4xS9IosKrG9iq6v2rPSP7EYlIHL7YsylN2zZv_58LTwDx-bf0Reh0d5-HS51OLH41A_Lv2jrB_i_Fuby-u--POnv5aX1WLxbrWIUimpRUCsSj07l0uBZUiOtbFJ6j3V_Mg7S4PcT6hwqLGzaxQx5FHV9BP1tuQNtGN203KbzncqCQmWL4weAKn9JG3wclfje2LDl3gdocDB3Y7yOjq6N5-ZSbp054WW5TnFJ99ajdTy94nGZcJIyHF9923oe2t5JRVMCHRvQUI3CRvWnlOXiZXRtQrd2CrbmEVINEPpae6Y2YOeJq7_ds39AHu3jLWA2JlDlpj6aRZ4J79habaIVXryHNIG6-yY1fycWnW5BvxNbqdqfJzjwJnfs3SAHAxoA8sxgsXIbHdVQJJxTTKxPt3TZYl9G0sK0BvC4PGZs4lVh3QpGYFmThlp_fP8umvM51h0oHdSMVbWWbMacxs6aYq0iLlN5hQxBnhV2FlZqJKQI43SOw12cPbC8RwKil27cufE8ceAZcmOStVn5b1ohmMKuOVpePTOvh6lNxbYpb1hSPt067v9K5hhNMQBwvitptINBV6wrU7LUzOZrXTLSYrh8AucTHVDV8Hz7FD_G4RvKzE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTJ_uo6Mju1mJZk2gbBeZTj6FjqYHWDktNxGRpOL3hsCdXGF9N57hVVdQH6b7YsyR7oJe1rpP3iluHFw6SywUwREjWO4YXc",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQNqQ7XDlYhNOreM-bii09G2VyvEIpDbVMRMqCm1qaGvOvqZGt11BceL_yvl6HD5ix_OD9GnJTySJ-iYrQ5uCA5NFBJMwhKrPEeMo5s",
+      "source": "CPUSolutions.com",
+      "title": "AMD Ryzen 9 9950X3D High-Performance PC",
+      "price": "$2,434.91",
+      "extracted_price": 2434.91,
+      "immersive_product_page_token": "90ptRnicHZJLrptIFIbV60EtVRUUj8xsYwzEYBtThc3EKhfYYIrHhbKvfTfRW4h8k5bSw06kTHsb6dU0ncEZ_ed8-o70__HMyx8Ttzux4bJx8HqLw3YN5Pr62Hhfu77NrlyW2XeoqhYEJrQwRNAyLBWp-lfOJBPtucy-aUgDSB_H0LGFgGmY6O8iZ5kom3x1OuW93fL_KbqFVR1ZI8dEpqZjDYK_ypqd81_5N2iYujrCNQwMfVw0NPW9z4ZPX16uef_4mU0CW4keb3mjWIplYbBTbQXqv8_aPlfWfcvzYWh7hXdX5di2gzxw0fJKqfO67R8H-ejyQel4mR9ueT-UbaMMY5xLRWbd4VWRRT8aD1_O3S9VAFWAkWEBbCDTMHRgoPe6zD69dzf5LM6fr1eR__M8i-d1eBbimTd_tqy7nfi_v73Pez6b3fh0Q7qO2hGIF_5HtusYafw0TXycojBdxsKO6EQuiSShGz5CYU2PdsiOzgSlNl3GtSxXBLqbpoUMSX-81SNwf81iT92ofhkvwmILUy-osihWRcOhJzNwL7hDV5TAjok0iYEzY5DeRnZLmv0bX4TLvKKPCNCWgaJntrgFtVXyWq7pFl5CRIOtELPUEXuSiAuvhXskFuEq3a9I6rBLNiQLTw0utFgl9xtx5_d01wU5ieBxYZFNhdHoew-JcBIx3WWXIkoB7ve0C0PSveyAT8JFlFDqlGFzvh9J9LZXI3e58y-bmhYxpFUIpyRGcxC5vhx_TAnA--Pd221I8ZrWzhsTziKk0zgk-EbsKSAuxYRUzKucOVc9nAp_y0DKMuQEKzuNorh4OSZFSCu5p_NASxYyCsT8833oTz_BxMFyu8KOs1QR3VMQrA5lNa9qY-Jpthtzef4wdlLTNQQ004Taf0NUFRI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=90ptRnicHZJLrptIFIbV60EtVRUUj8xsYwzEYBtThc3EKhfYYIrHhbKvfTfRW4h8k5bSw06kTHsb6dU0ncEZ_ed8-o70__HMyx8Ttzux4bJx8HqLw3YN5Pr62Hhfu77NrlyW2XeoqhYEJrQwRNAyLBWp-lfOJBPtucy-aUgDSB_H0LGFgGmY6O8iZ5kom3x1OuW93fL_KbqFVR1ZI8dEpqZjDYK_ypqd81_5N2iYujrCNQwMfVw0NPW9z4ZPX16uef_4mU0CW4keb3mjWIplYbBTbQXqv8_aPlfWfcvzYWh7hXdX5di2gzxw0fJKqfO67R8H-ejyQel4mR9ueT-UbaMMY5xLRWbd4VWRRT8aD1_O3S9VAFWAkWEBbCDTMHRgoPe6zD69dzf5LM6fr1eR__M8i-d1eBbimTd_tqy7nfi_v73Pez6b3fh0Q7qO2hGIF_5HtusYafw0TXycojBdxsKO6EQuiSShGz5CYU2PdsiOzgSlNl3GtSxXBLqbpoUMSX-81SNwf81iT92ofhkvwmILUy-osihWRcOhJzNwL7hDV5TAjok0iYEzY5DeRnZLmv0bX4TLvKKPCNCWgaJntrgFtVXyWq7pFl5CRIOtELPUEXuSiAuvhXskFuEq3a9I6rBLNiQLTw0utFgl9xtx5_d01wU5ieBxYZFNhdHoew-JcBIx3WWXIkoB7ve0C0PSveyAT8JFlFDqlGFzvh9J9LZXI3e58y-bmhYxpFUIpyRGcxC5vhx_TAnA--Pd221I8ZrWzhsTziKk0zgk-EbsKSAuxYRUzKucOVc9nAp_y0DKMuQEKzuNorh4OSZFSCu5p_NASxYyCsT8833oTz_BxMFyu8KOs1QR3VMQrA5lNa9qY-Jpthtzef4wdlLTNQQ004Taf0NUFRI"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcQbPpoM9YUOUy4476uvfiahi1aqLar6GY7Af6evlTXB1SumuOQ88QXFXZCNtuPhFXvUgPg7seK3qRbecY--FYwEA-PWM64m2qEOxR6z4CODsp_KTXX7v7syJQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyTnNItDbeh0CEAArV43wSNrdXDt-tQ7xcpYJNE_0EosNZ1pkVvdhgjXD6WtejcpP-mOFuaxaK6sZ_NhodM_Ne-hVX5oLgGqWL1lGgEg",
+      "source": "Tech-America.com",
+      "title": "AMD Ryzen 9 9950X3D2 Dual Edition 4.3 GHz 192 MB L3 Tray",
+      "rating": 3.6,
+      "reviews": 7,
+      "price": "$998.00",
+      "extracted_price": 998.0,
+      "immersive_product_page_token": "DIy4QXicdZDLjqNGGEaV50GRqgqKS3Zt47JNN9gUl7JrY-ECG3BxGcBtbM075BUi90ykyTKKlG1eo_MkWcYdZZksf52z-M7_4z0rfn9atIekL32C1wH2mjUY1uerv_zWdk16FkOR_gY1DeqqZUHVUFXTAhbC2jeRDIlsjh9YN3VNRxBDbFgWwCrE1q95lqSyqLPV4ZB1diM-PAMZpmGpQDPAh_q41V-KKjlm_3KkY001sIFNVcU6fLjgrUv7d2093UHN0oGJkA6gZZmGDpBpfF7Tlb37H_j10znrru_pk2sr9HrLasVSLAuDjWorUP9-2nSZsu4akfV90ymiPSv7pumHnZCNOClVVjXddTdc26xXWlFku9es64umVvoHzgZlSNvdRRny7tHZfz22_wT8x4y3qkh_emtfh3t-_HI-y-yP-1Hez_09l_es_rlJ2teD-PO7v2avYjrtxNSP2ja2KQiAeXErPBF1fAlmziREw3MAxlsQ5hMW0VZUzSgYPLlMDiEbH1l56VZkjOzJktrkOS5g59f5bbXwEJuNhy3ifbw5YcZg6KEe8xtfJhspvZszBBVUt2qLV3NLenPM40gu9-EM8ZunbuUSssi98JKiOPbmHhgjr0yr4JbzbYRJTBw1BWPth07xEotrDIZwX6VtUAroAUcTDFz8amCBdKbpnC-5TdY-WgI_5CUrvROTZEMrWb0wWYUl1QXA55i1qle3YWp7MJ55sVvRabjgK05I6bPhykoHRfN48Ctr4RF6cEOHhwDOsjmd7klcRQvySgnZUsbtVUg6T1KUSmsZReNmg_INJ0fo2hEIFq7qgzbas9bm85wL9Qj8WB6CAiZemMcJogtetS_uDD6HtwlakSgggCzFnOcCtZSWsR_d4tUePl1SMoHZ4xnzwpnQhXddMU4D4FwS5E1TSGt2GryE8NoFkRYzS9tCMYZopF_Gvju8gyeCh2BlaJfyJLE8V_tJ5xLNuC20hdjp9if7-AM0TE3XENBME6K_AWZbPSs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=DIy4QXicdZDLjqNGGEaV50GRqgqKS3Zt47JNN9gUl7JrY-ECG3BxGcBtbM075BUi90ykyTKKlG1eo_MkWcYdZZksf52z-M7_4z0rfn9atIekL32C1wH2mjUY1uerv_zWdk16FkOR_gY1DeqqZUHVUFXTAhbC2jeRDIlsjh9YN3VNRxBDbFgWwCrE1q95lqSyqLPV4ZB1diM-PAMZpmGpQDPAh_q41V-KKjlm_3KkY001sIFNVcU6fLjgrUv7d2093UHN0oGJkA6gZZmGDpBpfF7Tlb37H_j10znrru_pk2sr9HrLasVSLAuDjWorUP9-2nSZsu4akfV90ymiPSv7pumHnZCNOClVVjXddTdc26xXWlFku9es64umVvoHzgZlSNvdRRny7tHZfz22_wT8x4y3qkh_emtfh3t-_HI-y-yP-1Hez_09l_es_rlJ2teD-PO7v2avYjrtxNSP2ja2KQiAeXErPBF1fAlmziREw3MAxlsQ5hMW0VZUzSgYPLlMDiEbH1l56VZkjOzJktrkOS5g59f5bbXwEJuNhy3ifbw5YcZg6KEe8xtfJhspvZszBBVUt2qLV3NLenPM40gu9-EM8ZunbuUSssi98JKiOPbmHhgjr0yr4JbzbYRJTBw1BWPth07xEotrDIZwX6VtUAroAUcTDFz8amCBdKbpnC-5TdY-WgI_5CUrvROTZEMrWb0wWYUl1QXA55i1qle3YWp7MJ55sVvRabjgK05I6bPhykoHRfN48Ctr4RF6cEOHhwDOsjmd7klcRQvySgnZUsbtVUg6T1KUSmsZReNmg_INJ0fo2hEIFq7qgzbas9bm85wL9Qj8WB6CAiZemMcJogtetS_uDD6HtwlakSgggCzFnOcCtZSWsR_d4tUePl1SMoHZ4xnzwpnQhXddMU4D4FwS5E1TSGt2GryE8NoFkRYzS9tCMYZopF_Gvju8gyeCh2BlaJfyJLE8V_tJ5xLNuC20hdjp9if7-AM0TE3XENBME6K_AWZbPSs"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSOIWgFoIqgCTFV2laP0nu2WoIjjKOlGAipDJnCpYmNjJTSm853smjK0D_ft3VEPbSWUYDIFFyXu3wPlqrrYAogdHLiBVKZ6nI7-9pvIaI",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAVt8H_DnYUSVJLHHV7DFKuF3SoxIDZsmOfgCHpsx0OxexN_fEme-3-QXhNh8TlsAs39SX7YnPFms3FPqNberAEhKQlxe4JQ",
+      "source": "Magic Micro",
+      "title": "AMD RYZEN 9 9950X3D Gaming System | AMD Ryzen 9000 (DDR5) | Built for high performance, gaming, streaming and workstations",
+      "price": "$3,168.00",
+      "extracted_price": 3168.0,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "RxUqMXicdY5JjptAAEWV86BIjLbJzgPYTWxsylSBa2MBVZihcGEGG3OJvkLL3R2ps0wiZZtrdE4TJ_ss_t-8_6X3eKPpz_GijIM6c0xts9VsvhGbTXt1Ht7KipM2alLyQ5IlWdYHkqTKqiIp-lBT1bcoaALGDyl5-pbQgLD0SNdxTKsZj_5z-ZoWwYH-498Huq4PR7KqSiNNF4dDWR49V6R-ej21tLq-k_FqJoBrT4-CLui6JvrKTJAGH6e8osKm4hGta14JUdkKIed1s48Yj3KhoAWvrvvmWtJaKKOU7s-0qlN-FOo7po3QkHJ_EZqkuhvXr4f7hDw9F3-rPDe35PDStoz-uh3Yra1vCbvR4xcelOc4-v0hM_hlOq0vEweWJZoB0Z3b93QWRlGDkd2HXpcFud6uDWsQKuZydUw-BzDxoW8N7KKchCbKQS75nj--4pntkWyywkYtBQpIHbGbA7mZO75ZrtwE2Rk2l1DTtn7eBcfxBcl6hlDphZm1RDBSqAtiN0Ma8OwGFuS89E0Z57ZKoLmCM0ML5I45zOS2X25gYQVEsTnxLj2EWuzkXIM9w8gw18Dk_c5nNXUfRAI7MSwSG_nIJbnO3EKVIgMdMQM7ZHQylhPgLux1IFoxLboT9sCMZBY2EjLZLibFzrdPEO6ku4LkFrqzWgCH-AxsAU8dCPooYwVEeI0YhihzOlJYDWCTMjT0M4Zd4vQPXehJBb68dHUVv4tjU2u268HZm8vr5cnaVrutqvAJA9Z0pY_jfu98koYjdaDKojoaScofYnX9BA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RxUqMXicdY5JjptAAEWV86BIjLbJzgPYTWxsylSBa2MBVZihcGEGG3OJvkLL3R2ps0wiZZtrdE4TJ_ss_t-8_6X3eKPpz_GijIM6c0xts9VsvhGbTXt1Ht7KipM2alLyQ5IlWdYHkqTKqiIp-lBT1bcoaALGDyl5-pbQgLD0SNdxTKsZj_5z-ZoWwYH-498Huq4PR7KqSiNNF4dDWR49V6R-ej21tLq-k_FqJoBrT4-CLui6JvrKTJAGH6e8osKm4hGta14JUdkKIed1s48Yj3KhoAWvrvvmWtJaKKOU7s-0qlN-FOo7po3QkHJ_EZqkuhvXr4f7hDw9F3-rPDe35PDStoz-uh3Yra1vCbvR4xcelOc4-v0hM_hlOq0vEweWJZoB0Z3b93QWRlGDkd2HXpcFud6uDWsQKuZydUw-BzDxoW8N7KKchCbKQS75nj--4pntkWyywkYtBQpIHbGbA7mZO75ZrtwE2Rk2l1DTtn7eBcfxBcl6hlDphZm1RDBSqAtiN0Ma8OwGFuS89E0Z57ZKoLmCM0ML5I45zOS2X25gYQVEsTnxLj2EWuzkXIM9w8gw18Dk_c5nNXUfRAI7MSwSG_nIJbnO3EKVIgMdMQM7ZHQylhPgLux1IFoxLboT9sCMZBY2EjLZLibFzrdPEO6ku4LkFrqzWgCH-AxsAU8dCPooYwVEeI0YhihzOlJYDWCTMjT0M4Zd4vQPXehJBb68dHUVv4tjU2u268HZm8vr5cnaVrutqvAJA9Z0pY_jfu98koYjdaDKojoaScofYnX9BA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn%3AANd9GcTfjyn2PpiYW095ZyKvNmsxEh-rysoz06xGjX2pXbiiPg9vmnJnoqGOMI3pfvfvx9TSr7iyKVmVoq4uRKk6clMBaO1D0Oij88eg5nSGgR_pfe4xfaIgnd_XYg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTPIKrgzOqBi2Sr-3sVGyyg8zC7fkCFFqAzrKFptqkWeMxK8aoc19g54TY1kelC0wnk08D52Neu9uA90NmmuMJlmhd3r4WB1mcdWg",
+      "source": "Luxvibe PC",
+      "title": "Amd Ryzen 9 9950x3d Desktop Gaming And Content Creation Processor",
+      "rating": 4.1,
+      "reviews": 14,
+      "price": "$650.00",
+      "extracted_price": 650.0,
+      "immersive_product_page_token": "OziD-XicbZFLrqNGAEWV9aBI9QEMmdnG5U8bMMXPMLEwBQZTmHqAP6DsIVuI_LojdYbpSJlmGy8ryTCOlGHG50zuuT89s_KP6UrkSXd2iLJzFavZgX53HZz1V9E27Jr2JfuGEZaRCvQJ0NAETxQs469p0ie8OZXsd4h0TUUAyVDTNF3VVEWVfyuyhPHyktl5nrVGk_7rKQjoiqwiBWJN1jVdnmi_lnVyyv7jSNWgqkJV0wAEmg51DN5b1n2g3fygKhqEE1lHKsJYmSAoox931DYO_8--vF2zdvhgU9OQ6DBmF0mXdF0Be2xIUP1-3rSZtGubNOu6ppVScZWOTdP1h5Q3aSXVWd20w6EfRNZJIi2zwy1ru7K5SN0LZ73UM3G4S33RvlZ2X04vhX3TdSRjWYYIqHiiKggi-F6X7Od3ceufxenz9cqzP58n_rx2z4I_s8svTSJuefrXd38vbul83qZzxxciMCjwyOYenStk-nGR-uLNRMSyQ2FYHl_FVSd7Y7D3AMzZKhp9VChJBddJxRM2ztbbEOAYWSTCYmQk6DzOeOjHI6siGHkz4GJuJGTziMKA7BGz6EIofhDvAtB7yX4h78dN7oybh8cJyQwijnWFor1YUrBxHF950IWleiAYXcRAvHx0KaqAG0Y4qx-mAzaLeCUgM2aXLHB6d5nKHqYzLzzd43HGj4tHzQxibj3rE7tw6zjAeYotYoZkiIAJI8zmJhAXyqOHvQhI5Mf70NcGe8_XbsAiq9K31iq4UM_sHUwUs4S27_GQXYjwLq8WnLuWwc7HJbjbBq8THgtK6M01aGXuF2PgK9ZxKfJ4CZuIWwu3CvJtEGAzZI3HaR94tE0QI5To-fFMHN-PMUOFFYdiMD3HJYCs0-XrEyQoPQeOPwb2EU7vjMxgFpDNstzM6Moa7DD2tn5hUyhgTGZzrxLroI4NOySxU1vUAkVCeTH7_Oja_ANMidK79uQ4P-yMUdyuINHa6Xr9SWn7AzHwmzP9AU40WZURkDUNKv8Antk-RQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OziD-XicbZFLrqNGAEWV9aBI9QEMmdnG5U8bMMXPMLEwBQZTmHqAP6DsIVuI_LojdYbpSJlmGy8ryTCOlGHG50zuuT89s_KP6UrkSXd2iLJzFavZgX53HZz1V9E27Jr2JfuGEZaRCvQJ0NAETxQs469p0ie8OZXsd4h0TUUAyVDTNF3VVEWVfyuyhPHyktl5nrVGk_7rKQjoiqwiBWJN1jVdnmi_lnVyyv7jSNWgqkJV0wAEmg51DN5b1n2g3fygKhqEE1lHKsJYmSAoox931DYO_8--vF2zdvhgU9OQ6DBmF0mXdF0Be2xIUP1-3rSZtGubNOu6ppVScZWOTdP1h5Q3aSXVWd20w6EfRNZJIi2zwy1ru7K5SN0LZ73UM3G4S33RvlZ2X04vhX3TdSRjWYYIqHiiKggi-F6X7Od3ceufxenz9cqzP58n_rx2z4I_s8svTSJuefrXd38vbul83qZzxxciMCjwyOYenStk-nGR-uLNRMSyQ2FYHl_FVSd7Y7D3AMzZKhp9VChJBddJxRM2ztbbEOAYWSTCYmQk6DzOeOjHI6siGHkz4GJuJGTziMKA7BGz6EIofhDvAtB7yX4h78dN7oybh8cJyQwijnWFor1YUrBxHF950IWleiAYXcRAvHx0KaqAG0Y4qx-mAzaLeCUgM2aXLHB6d5nKHqYzLzzd43HGj4tHzQxibj3rE7tw6zjAeYotYoZkiIAJI8zmJhAXyqOHvQhI5Mf70NcGe8_XbsAiq9K31iq4UM_sHUwUs4S27_GQXYjwLq8WnLuWwc7HJbjbBq8THgtK6M01aGXuF2PgK9ZxKfJ4CZuIWwu3CvJtEGAzZI3HaR94tE0QI5To-fFMHN-PMUOFFYdiMD3HJYCs0-XrEyQoPQeOPwb2EU7vjMxgFpDNstzM6Moa7DD2tn5hUyhgTGZzrxLroI4NOySxU1vUAkVCeTH7_Oja_ANMidK79uQ4P-yMUdyuINHa6Xr9SWn7AzHwmzP9AU40WZURkDUNKv8Antk-RQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcRINN0wMpocyQsmBW2--KXnU6hXij1oC-MYjcXOSoMmbEaKLoiWOZyyWRslq8tzjoyOCXFeSAO87IAoAM8a9ndPM24R3nF2",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQNqQ7XDlYhNOreM-bii09G2VyvEIpDbVMRMqCm1qaGvOvqZGt11BceL_yvl6HD5ix_OD9GnJTySJ-iYrQ5uCA5NFBJMwhKrPEeMo5s",
+      "source": "CPUSolutions.com",
+      "title": "AMD Ryzen 9 9950X High-Performance PC",
+      "price": "$1,776.90",
+      "extracted_price": 1776.9,
+      "immersive_product_page_token": "zF6WRHicLY_Rjps4AEXV70GVbIMD7FsS4hnYQIKDTfBLRICEJCYwYDIhP9FfGGXalbqPbaW-7m90v2ZTad-udK6u7vl0Lw4_x8_NLu2OIcHLFQ7qJVDLfgjdr01b532mDvkPCCA0gKVjaOkWAgib1uhrlqpU1vvf2LCRYQJDh7qt23hkGSb6VhZpLg_nYrHbFa1TZ797GNkAj0yMDGAibBsWsP4-VOm--J8D08J4hExsj0xgQ8vG-nubd29fXvqiHX7lY9_R6HArzpqt2TYGa93R4OjjtG4LbdnWWdF1datlTa9t67pTm0zW2Umriqpuh40amqLTmuxQbC5F2x3qs9Y9cKE0lTebV02V7eNy92X_qOTfsWGaDyVoPcwNrOsIW-_VIX97by7qXu4_970s_rnv5b3v7qW8F-e_6rS57LJ_P7zP2mw6vWSTkDUNdyiIiFB-7IHgLJqAlHMRERQ7JQlIE_u6XOa8Kdcw9_1YLfxof93Gyt1GtE9B4AYzogIkLxEMmBhgzaCIKPDQ-kZZMIXz5Cyf_VnQzaPcoadgF0tBxG1sJDxUGbgugqjkqeMOgpFjXPEpI3RJb7TaoisKH0sM4DnnpC2k_cy4uG4Z3cWO5wlnQvyjfGVSpJx7r_mTi_gphCJWYT7jl_xM-ujoxUGMdV6VMonBjZ1plEQ0pU95zJFiFNGXrZMMApAZBcrPjjzmvCQcQZkCWy1i4fEnb5WdEpwMcL4FjxyNB7-q9SQ2FFtTbwUatpi465CVr6Iit1SSp4BPooDhC3MmgD1zzNgpdU9klukuFpJMQ1TKCNFJhIJRNpPMP-ZlCvNETKG3uiXKX2efr127-wXGBKvVwtxON0vn1lx6kFrt2HX_xK3aEEd_Ccd_QNMyRgYChmVB_B8PjRSe",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zF6WRHicLY_Rjps4AEXV70GVbIMD7FsS4hnYQIKDTfBLRICEJCYwYDIhP9FfGGXalbqPbaW-7m90v2ZTad-udK6u7vl0Lw4_x8_NLu2OIcHLFQ7qJVDLfgjdr01b532mDvkPCCA0gKVjaOkWAgib1uhrlqpU1vvf2LCRYQJDh7qt23hkGSb6VhZpLg_nYrHbFa1TZ797GNkAj0yMDGAibBsWsP4-VOm--J8D08J4hExsj0xgQ8vG-nubd29fXvqiHX7lY9_R6HArzpqt2TYGa93R4OjjtG4LbdnWWdF1datlTa9t67pTm0zW2Umriqpuh40amqLTmuxQbC5F2x3qs9Y9cKE0lTebV02V7eNy92X_qOTfsWGaDyVoPcwNrOsIW-_VIX97by7qXu4_970s_rnv5b3v7qW8F-e_6rS57LJ_P7zP2mw6vWSTkDUNdyiIiFB-7IHgLJqAlHMRERQ7JQlIE_u6XOa8Kdcw9_1YLfxof93Gyt1GtE9B4AYzogIkLxEMmBhgzaCIKPDQ-kZZMIXz5Cyf_VnQzaPcoadgF0tBxG1sJDxUGbgugqjkqeMOgpFjXPEpI3RJb7TaoisKH0sM4DnnpC2k_cy4uG4Z3cWO5wlnQvyjfGVSpJx7r_mTi_gphCJWYT7jl_xM-ujoxUGMdV6VMonBjZ1plEQ0pU95zJFiFNGXrZMMApAZBcrPjjzmvCQcQZkCWy1i4fEnb5WdEpwMcL4FjxyNB7-q9SQ2FFtTbwUatpi465CVr6Iit1SSp4BPooDhC3MmgD1zzNgpdU9klukuFpJMQ1TKCNFJhIJRNpPMP-ZlCvNETKG3uiXKX2efr127-wXGBKvVwtxON0vn1lx6kFrt2HX_xK3aEEd_Ccd_QNMyRgYChmVB_B8PjRSe"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn%3AANd9GcQB0m3ZHZL4HT2hDFlAtl0qasaTi9pSd4dVstqFxa67NUCOKhqLEShNhosAMhVx31lw5cXP70DLmDt6KBJcxLxFeOr73Jti_YdP43V7P3tXX9FxXkjDQZUt",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRAVt8H_DnYUSVJLHHV7DFKuF3SoxIDZsmOfgCHpsx0OxexN_fEme-3-QXhNh8TlsAs39SX7YnPFms3FPqNberAEhKQlxe4JQ",
+      "source": "Magic Micro",
+      "title": "AMD RYZEN 9 9950X System | AMD Ryzen 9000 (DDR5) | Built for high performance, gaming, streaming and workstations",
+      "price": "$1,452.00",
+      "extracted_price": 1452.0,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "fJYsiHicbVLLbptAAFS_B1XaBdY2vRkDToiNDXiXx8XCy9pgL2YDi18_0V-InKRSemwr9drfSL-mbs-9jEaaGWk0ms9XVv4c3ol11m59B81D5NVzIOfd2b9_E02dd1SW-fe-Dvp9pPeAPhhoqgaAYbzRTGa83pT507eCZTkv92y2XrPGqun_E1_LKtuwf_IPqAM00LX-QENqT-1BDaroucnbp9fHjjXn93w4tZTgfGF7xVAMA4FYsxTY-ziqG6bMm5qytq0bhYpOWdV1K5eU13SnVKyqm_NSngVrFUFLtjywpi3rvdLeZCYVmYvlUZFFc2vcvm5ulvzpufoL4iCvxeal6zj7dd3wa9deC35l-y91Jg5r-vvD1q6Po1F7NH0sBLECEGquSYFMciyOk0UxWVgmItvg5FcUemPYeJc8IJV9jFXZJUCqK8JLytPZLJK70CJeBrHGbKcLK3T2MSmp45QLcOIL7sYUeJGPkUg1t_Isc-qrwSnaOi6NsY5tkgXAgVNNRB5xraTikwx6N-51-GJmBKc4UR2Y7jdoaguf7rkgGn_IYTBmMSd4nPrpztVTYq5JBKsEijCrdic2NsKZ4z6solOx0godA5ImO29NNM9KNLPAY_s8JUa2snIwITXyYvcwsz3NLnIzvDOrJPYeMU4gdqZwURn-9C7w85gHYVCXPg4udMsrYgs7VgHAAE2oei9TMIXZ3gPktiGO3B6Lii49vpzaZv0Ohg6S4ay_Gi3n1kUcOpANmuH9_QNq5NKxtEd_-An2B3pPV_--DKI_Vab4qg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fJYsiHicbVLLbptAAFS_B1XaBdY2vRkDToiNDXiXx8XCy9pgL2YDi18_0V-InKRSemwr9drfSL-mbs-9jEaaGWk0ms9XVv4c3ol11m59B81D5NVzIOfd2b9_E02dd1SW-fe-Dvp9pPeAPhhoqgaAYbzRTGa83pT507eCZTkv92y2XrPGqun_E1_LKtuwf_IPqAM00LX-QENqT-1BDaroucnbp9fHjjXn93w4tZTgfGF7xVAMA4FYsxTY-ziqG6bMm5qytq0bhYpOWdV1K5eU13SnVKyqm_NSngVrFUFLtjywpi3rvdLeZCYVmYvlUZFFc2vcvm5ulvzpufoL4iCvxeal6zj7dd3wa9deC35l-y91Jg5r-vvD1q6Po1F7NH0sBLECEGquSYFMciyOk0UxWVgmItvg5FcUemPYeJc8IJV9jFXZJUCqK8JLytPZLJK70CJeBrHGbKcLK3T2MSmp45QLcOIL7sYUeJGPkUg1t_Isc-qrwSnaOi6NsY5tkgXAgVNNRB5xraTikwx6N-51-GJmBKc4UR2Y7jdoaguf7rkgGn_IYTBmMSd4nPrpztVTYq5JBKsEijCrdic2NsKZ4z6solOx0godA5ImO29NNM9KNLPAY_s8JUa2snIwITXyYvcwsz3NLnIzvDOrJPYeMU4gdqZwURn-9C7w85gHYVCXPg4udMsrYgs7VgHAAE2oei9TMIXZ3gPktiGO3B6Lii49vpzaZv0Ohg6S4ay_Gi3n1kUcOpANmuH9_QNq5NKxtEd_-An2B3pPV_--DKI_Vab4qg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcQzSGQ78J-KYW41fDVzgFeXsJWmA2aw27qWkvsuZYOgHIzTazBU1l3DakuD2L0n-dNoHBarykaFpuBmEUoEJDgexQb5GabqQ6fj8Gx-L6BP4527uTQ5Xuw-",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRN6sX3rO7m0OQZeahXcjHEzxZOjjLLHHXT8ULFEx7xqo3acYRqW1Zhzd6Mby7_8sYKC2MoJ0lxq_v5l1c4Cjb2G0u",
+      "source": "Intrex Computers",
+      "title": "AMD Ryzen 9 9950X 16-Core Unlocked CPU: 4.3/5.7GHz, 64MB L3 Cache, Onboard Graphics, Socket AM5 - CPA-R99950X",
+      "price": "$679.99",
+      "extracted_price": 679.99,
+      "immersive_product_page_token": "tbcYenicbc5NbptAAAVg9Tyo0oABQ3e2Mdi0OGb4NRsLmMFgBobAEDCX6BUiJ6mULttFt71Gepo66rabt_nek97XKy5-LTZNFndnW5f2jrSje8D2_cXevjYtRX3KCvRzBgR5LouqOJfmEuBlUVZe05jFhJ4K9PgjxzEiRY3vsgy3Gk3_v_heVPEJ_2NFfUd1pgCZl1RRkBXlqUXd48t9j9vLG1pYGgcvE645lVNVCYQzjePljyvaYm7f0hR3HW25tOm5hNKOHVNC05KrcEXby5FdGtxxTVrg4wNuu4LWXHdjzDiGmuPAsby9He5eTrcKenyq3qN5YNf89Nz3BP--nsi17645ueL6G42bhyz98-G8psNq1Q1L22saX4PA4SMNGWMHAVxGfr5NhXGd1FHmeBLD61yzg9xyS7OItZ0ZGKYdCk2Jaj1LDV48BI2EDbYMdBJEAQySgNk7AEZnk7NdCVkalkIojFpiWMwj5jrRdQkaEkM8NGG4HOJNVENCnMSTskRoJEtQDbvgR3zeDihYCylRgH_WmbXxp5j4fOJGbjhZAvIAcAzdSEMzj0pd84lOE8HvHGJauNSnxBhGd4Kl5RPNMpizEwi4M_zPHjgMbommA4huSnkvjFaOv5i8TVStc7R0NsvqEO7uPe_Ae7rFu5VqWxtoo5BAB9LC9uCUnknluWa4E5jh6N6I6mX7xUc2nPwgMCAMZ3kclKqLhuexa7M3sNAl5tzNk9Vxr03NQw9ipV1st5-llh11bXZvLz7xc0WURQGIisJLfwFqWvsm",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tbcYenicbc5NbptAAAVg9Tyo0oABQ3e2Mdi0OGb4NRsLmMFgBobAEDCX6BUiJ6mULttFt71Gepo66rabt_nek97XKy5-LTZNFndnW5f2jrSje8D2_cXevjYtRX3KCvRzBgR5LouqOJfmEuBlUVZe05jFhJ4K9PgjxzEiRY3vsgy3Gk3_v_heVPEJ_2NFfUd1pgCZl1RRkBXlqUXd48t9j9vLG1pYGgcvE645lVNVCYQzjePljyvaYm7f0hR3HW25tOm5hNKOHVNC05KrcEXby5FdGtxxTVrg4wNuu4LWXHdjzDiGmuPAsby9He5eTrcKenyq3qN5YNf89Nz3BP--nsi17645ueL6G42bhyz98-G8psNq1Q1L22saX4PA4SMNGWMHAVxGfr5NhXGd1FHmeBLD61yzg9xyS7OItZ0ZGKYdCk2Jaj1LDV48BI2EDbYMdBJEAQySgNk7AEZnk7NdCVkalkIojFpiWMwj5jrRdQkaEkM8NGG4HOJNVENCnMSTskRoJEtQDbvgR3zeDihYCylRgH_WmbXxp5j4fOJGbjhZAvIAcAzdSEMzj0pd84lOE8HvHGJauNSnxBhGd4Kl5RPNMpizEwi4M_zPHjgMbommA4huSnkvjFaOv5i8TVStc7R0NsvqEO7uPe_Ae7rFu5VqWxtoo5BAB9LC9uCUnknluWa4E5jh6N6I6mX7xUc2nPwgMCAMZ3kclKqLhuexa7M3sNAl5tzNk9Vxr03NQw9ipV1st5-llh11bXZvLz7xc0WURQGIisJLfwFqWvsm"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcTnq_IupJ9xrkjhi56pv_qie0m_gjxDTxJY_I6h2kkbStyObZ52uEJtYOSeez7SuyqcmBQjaHnOFFHC_VM6LKQpdzfXX3bid4Jq2SXhz9aJAPvWu0AujpAVEA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS5UMjWK20op1BWJc5MWyKvDH9EHUChQLHD9rqLS13PivnexLUdia4nk9_mJU331eNN1cv2kQ-CSqLUvaGsbwqSELCGCvVkwq8",
+      "source": "Cloud Ninjas",
+      "title": "AMD Ryzen 9 9950X",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": "$552.99",
+      "extracted_price": 552.99,
+      "immersive_product_page_token": "_5rBm3icdZBPjqNGGMWlnCG3QCNVURRQ2bUbQzcTg11QBc3GwlXVBlMGxuD2H-UOuYN7JtJkOTNStrlG5zRhZp0sPz29973f-_2m6r_uHvrnctitfLxMcNQtwbg8XlaPn_tDJ49irOVXYmLgmhawoUUcCG3kwM-iHEvdbWv5BWHoYgxNSDBBAJkAfalUKXXdqvj5WR28TkwZCLjQsk1MCHFcYrmOTf6s9-VW_ZC_QUxcCB3iWA7AiDjIQvD1IIc3a3m_nl7aBLlTB0JMG08dbPO3JY299f-Inz4c1eHyJu8WnkEvV9UaxCAEgxx5BrTf3XcHZSwPnVDD0B0M0R-NTdcN41roTjTGXu27w2U9Xno1GL2o1fpFHYa6a41hktVojLJfn4yxOkyYw6dt_wPgP2q87qd5sGNP3C7BFnItC9oOfu1fxlu1_Xg8avX3batvx-FW6Ztq_-jK_uVZ_PPTz_Pu5N0Pp_sV63vuUZCYwyVBBZKebqJGP4mMoE1GkxzxrGzOg2L04fud7XQW-1tT-XfXYh9ZKxR5wg9DtqOobOewzOdo0QiY8u5SajLbtHPwazrDG8DHKTssmtO5SClaZcWwaosV21VemkeLwu-vNC-OaleZ1KsWzIs0z6sk0dWSMXrhmYbZ_umUgDCOMjyLGDEjn2fJNdxFZvih8PR3jqdi3s-K3ZPFOVmUQQHTZvJkAnFG4wTwUPmFvQhgkOSdufEqqvY6KoMQpnB7FZlfFQEDyXUWLOAsTZvtaQE02AScpahf8exsRiyEAjwiuZM0TmVcBjiKQPiY7c-nzV7S4kp1yvojbSO88Ytr1DSWbOjAQIF5y5fsKvHEUIm2AVnQnLlZWdmesAQSS5q0XrUySxtdCyZ7qfuTyhuzZPpx4U3OtmiZKXXpzxibu4kP_EcRFJUwe0p3fMWuPN7Au5P0Z1BxPwzqcEYfokucFVS1VR7PCWQt56WeNVEuH9Scjar1s9ijIWOafjwPh-c3cOfjMYkxEIFonsqcDe8fFiIJ3fdIEv5OmvX2F-i4lm2ZwHJdaP8LgQxKzA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_5rBm3icdZBPjqNGGMWlnCG3QCNVURRQ2bUbQzcTg11QBc3GwlXVBlMGxuD2H-UOuYN7JtJkOTNStrlG5zRhZp0sPz29973f-_2m6r_uHvrnctitfLxMcNQtwbg8XlaPn_tDJ49irOVXYmLgmhawoUUcCG3kwM-iHEvdbWv5BWHoYgxNSDBBAJkAfalUKXXdqvj5WR28TkwZCLjQsk1MCHFcYrmOTf6s9-VW_ZC_QUxcCB3iWA7AiDjIQvD1IIc3a3m_nl7aBLlTB0JMG08dbPO3JY299f-Inz4c1eHyJu8WnkEvV9UaxCAEgxx5BrTf3XcHZSwPnVDD0B0M0R-NTdcN41roTjTGXu27w2U9Xno1GL2o1fpFHYa6a41hktVojLJfn4yxOkyYw6dt_wPgP2q87qd5sGNP3C7BFnItC9oOfu1fxlu1_Xg8avX3batvx-FW6Ztq_-jK_uVZ_PPTz_Pu5N0Pp_sV63vuUZCYwyVBBZKebqJGP4mMoE1GkxzxrGzOg2L04fud7XQW-1tT-XfXYh9ZKxR5wg9DtqOobOewzOdo0QiY8u5SajLbtHPwazrDG8DHKTssmtO5SClaZcWwaosV21VemkeLwu-vNC-OaleZ1KsWzIs0z6sk0dWSMXrhmYbZ_umUgDCOMjyLGDEjn2fJNdxFZvih8PR3jqdi3s-K3ZPFOVmUQQHTZvJkAnFG4wTwUPmFvQhgkOSdufEqqvY6KoMQpnB7FZlfFQEDyXUWLOAsTZvtaQE02AScpahf8exsRiyEAjwiuZM0TmVcBjiKQPiY7c-nzV7S4kp1yvojbSO88Ytr1DSWbOjAQIF5y5fsKvHEUIm2AVnQnLlZWdmesAQSS5q0XrUySxtdCyZ7qfuTyhuzZPpx4U3OtmiZKXXpzxibu4kP_EcRFJUwe0p3fMWuPN7Au5P0Z1BxPwzqcEYfokucFVS1VR7PCWQt56WeNVEuH9Scjar1s9ijIWOafjwPh-c3cOfjMYkxEIFonsqcDe8fFiIJ3fdIEv5OmvX2F-i4lm2ZwHJdaP8LgQxKzA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTap2AvV0egsS_x_BbLGw_vY3TRGuUbV_5mlhdHa93LjUndS2jmhhIP_wwbIbXIFXi3dv2a-9oeqsfC22Bjl3B48kpxB2Wg8eZUjqjbygeo",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT_on5eG04bOR_qtCmYnQLlsl0Bc5MkOK5j6VuI8tT2pPHvudhXl1gpk5lak_gJBHO4wiCrkZ8P-BsA-7geOsgrjZTN6aWFpmYi4JMeQVDE",
+      "source": "Vision Computers",
+      "title": "AMD Ryzen 9 9950X 4.3 GHz 16-core 32-thread 64MB Cache Socket AM5 OEM",
+      "rating": 4.3,
+      "reviews": 28,
+      "price": "$716.65",
+      "extracted_price": 716.65,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "_AKhtHicdZBLrqNGAEWlrCG7QC1VFRSmMrPNx8YBbD4FZmJBUTbmY3h8bGNlD9mDX3ekzrA7UqbZxstq4kGGyfhcXd17fn3y85_zVXtM-mKn462H7WYLhu047dZf267JRjacsz8ggLIiSwpCSBIxRljB8CtLhqRqTufsO5nNFFkU5dmMQKIggKD4LedJVp0v3Dkeeac27BWTIHwxCRAgyRDJEEjS7-c6OfF_sfzqATNZxkR-1RCRoPcu6z-k7fIAsaQQArAMCJEJUaAC0S9b11EP_wO_vI28mz6yuaUK7vTgF4EIhGAQiaoA5U_LpuPCtmsY7_umE1g7CmnT9MOBVQ0rhZrXTTcdhqnlvdCyMz9cedefm4vQvzAfhCFrDzdhyLvXy_7L6RV5SfqPGe_1OfuGZ7IkIyyLSFaIBAmW39vr8MxPn8ex4n89T9Vz7J959eSX35qkvR7Z3z_8qDU3ddnflrugbanqAi9w61jVcaDqV6vYPXzYYurPH66eJ_sgz6moDU5UTkzLV66GLbd0CxYtNBbka0cn1PXN2NGpHcFq9Mqs4DXxqNgAS51PloE12w-kHZ3fQ91GzIglGlUbD7Zb-9IOXkU6V7T3AWr7AGkPWye-BU3IDOueGeaR1Rnd18QKjXvtI3PPAzv2DOrbgL45Iaauahe-v7gn0U6iIYFp6apuaXp2QCfbIIUn0ipRdUjLO96BapVW-YZX-jpQF5vksWi8gq4TVN55ZU_BI-9YWNUBcNcpyGILmTgV8zzT8MUq7TylzS3WSGuFdhwD6xbqFLGKJLS2PRoxGFbmhvqZmBYLylft2dFjwMLBDDQImJ9JVqnfeZnJP0eL8uW-cGkb7y9V4SIixoF58yMTOVoeeH5eeICYFugfsQZHauzuFrR9CmmX0oXtorWnA339cpkz1LpuQXfBgzopnN8yfQE51U3jbC7clT05YRyEUSntq2BKotanal45K92gKB_TMvZig04-ihef7313_ABzHQ-eM0uXh636aK8jSJRuvl5vcDccdFV8281_gjNFkiUEJEWB-B9s4Um0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_AKhtHicdZBLrqNGAEWlrCG7QC1VFRSmMrPNx8YBbD4FZmJBUTbmY3h8bGNlD9mDX3ekzrA7UqbZxstq4kGGyfhcXd17fn3y85_zVXtM-mKn462H7WYLhu047dZf267JRjacsz8ggLIiSwpCSBIxRljB8CtLhqRqTufsO5nNFFkU5dmMQKIggKD4LedJVp0v3Dkeeac27BWTIHwxCRAgyRDJEEjS7-c6OfF_sfzqATNZxkR-1RCRoPcu6z-k7fIAsaQQArAMCJEJUaAC0S9b11EP_wO_vI28mz6yuaUK7vTgF4EIhGAQiaoA5U_LpuPCtmsY7_umE1g7CmnT9MOBVQ0rhZrXTTcdhqnlvdCyMz9cedefm4vQvzAfhCFrDzdhyLvXy_7L6RV5SfqPGe_1OfuGZ7IkIyyLSFaIBAmW39vr8MxPn8ex4n89T9Vz7J959eSX35qkvR7Z3z_8qDU3ddnflrugbanqAi9w61jVcaDqV6vYPXzYYurPH66eJ_sgz6moDU5UTkzLV66GLbd0CxYtNBbka0cn1PXN2NGpHcFq9Mqs4DXxqNgAS51PloE12w-kHZ3fQ91GzIglGlUbD7Zb-9IOXkU6V7T3AWr7AGkPWye-BU3IDOueGeaR1Rnd18QKjXvtI3PPAzv2DOrbgL45Iaauahe-v7gn0U6iIYFp6apuaXp2QCfbIIUn0ipRdUjLO96BapVW-YZX-jpQF5vksWi8gq4TVN55ZU_BI-9YWNUBcNcpyGILmTgV8zzT8MUq7TylzS3WSGuFdhwD6xbqFLGKJLS2PRoxGFbmhvqZmBYLylft2dFjwMLBDDQImJ9JVqnfeZnJP0eL8uW-cGkb7y9V4SIixoF58yMTOVoeeH5eeICYFugfsQZHauzuFrR9CmmX0oXtorWnA339cpkz1LpuQXfBgzopnN8yfQE51U3jbC7clT05YRyEUSntq2BKotanal45K92gKB_TMvZig04-ihef7313_ABzHQ-eM0uXh636aK8jSJRuvl5vcDccdFV8281_gjNFkiUEJEWB-B9s4Um0"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcSLFMueyyD0OOyKUzn75bEmTN8wzqOnYn8oj41rylxDmfVpLRWsXbVzEBw9y2YiCUK2077-ye9tDjSXHWx5pY45EJLtWJGLMFNam5M2M81pDt-OSENq1le2",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Arsenal PC",
+      "title": "ASUS - Ryzen 9 9950X3D - RX 9070 - 2TB NVMe SSD - ASUS AM5 MATX WIFI DDR5 - 128GB DDR5 Memory",
+      "price": "$4,459.00",
+      "extracted_price": 4459.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "l95nI3icbY5NjpswAEbV86BKNj8JdBdCCKGBxBA7IZuIwU74M6ZAhiGX6BVGmZlK02VbqdteY3qapl13823e96T3-cqynxOnPsZtjmxtHWq-WINufR7Q4rVuBD0nXUa_j3RFNQxFN1RNBmMIlZH-msRdXIpTRh-_pSymZVax1fHIGksk_ze-Zjw-sX_4B5QVWYUaGI9UHQADaLKqPjW0fXz5dGbN8EYnniUFw4VVkiEZhgZ2iiXB0fupaJi0bkTC2lY0UlKfpTsh2u6QlCIpJM64aIZDN9SsleokY4d71rSZqKT2hlkndbQ-9FKXNrfi9uV0u9DHJ_536vvump6ez-eS_bqeyuu5vabllVVfRFzfH5Pf7_KZ6KfTtjcRrmtiBWDjuCa6zDoPGo0va9me0ynBp57M9Idoh-UVcdUY15VH_Grj0CW6nEBsmXg7ewhiewH3Gewxd9NtXqh-Ubch0OoIQLAHC5lY6UCdNNzmrhVVPmfzPcFEQN9BgGyNxd3OLKIiGSKeRmEGZyQ3l8nWjVfEVELFtHYXt95d6DqZQx8VRIS3lu1cuyCujUiBOk_eBwjSKMQ2Ztug3JcRwLIrPB4ogeV-9GXU-zANAivde5w4GOgwlksR82Aazv04tu0SgV7dknKYpdQMHZNHO_8TxhHEtgc33ECeEyC6K4MwEBnCwSXJS07mAcCb2RDJaMDcICu8X3pVmYeyO9rk9Hwnpyrtnx_a5vgGJrbWhSvNtpeKTCICvNUhK2YFH08WquVsku70AY51daTKQNV1qP4BnDv4IA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=l95nI3icbY5NjpswAEbV86BKNj8JdBdCCKGBxBA7IZuIwU74M6ZAhiGX6BVGmZlK02VbqdteY3qapl13823e96T3-cqynxOnPsZtjmxtHWq-WINufR7Q4rVuBD0nXUa_j3RFNQxFN1RNBmMIlZH-msRdXIpTRh-_pSymZVax1fHIGksk_ze-Zjw-sX_4B5QVWYUaGI9UHQADaLKqPjW0fXz5dGbN8EYnniUFw4VVkiEZhgZ2iiXB0fupaJi0bkTC2lY0UlKfpTsh2u6QlCIpJM64aIZDN9SsleokY4d71rSZqKT2hlkndbQ-9FKXNrfi9uV0u9DHJ_536vvump6ez-eS_bqeyuu5vabllVVfRFzfH5Pf7_KZ6KfTtjcRrmtiBWDjuCa6zDoPGo0va9me0ynBp57M9Idoh-UVcdUY15VH_Grj0CW6nEBsmXg7ewhiewH3Gewxd9NtXqh-Ubch0OoIQLAHC5lY6UCdNNzmrhVVPmfzPcFEQN9BgGyNxd3OLKIiGSKeRmEGZyQ3l8nWjVfEVELFtHYXt95d6DqZQx8VRIS3lu1cuyCujUiBOk_eBwjSKMQ2Ztug3JcRwLIrPB4ogeV-9GXU-zANAivde5w4GOgwlksR82Aazv04tu0SgV7dknKYpdQMHZNHO_8TxhHEtgc33ECeEyC6K4MwEBnCwSXJS07mAcCb2RDJaMDcICu8X3pVmYeyO9rk9Hwnpyrtnx_a5vgGJrbWhSvNtpeKTCICvNUhK2YFH08WquVsku70AY51daTKQNV1qP4BnDv4IA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn%3AANd9GcSZY6exa8D1qFNJkx7kym4TaLB7-vntmRGoK1QvLwsPeNSUtJAEeD3cLSli-qK7sUTlSEt8ySU2Yp5SsljCV9MBrEqtigmAj_V-LafXQnhUVM0ttTeIy-wbeg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "source": "Newegg.com - Arsenal PC",
+      "title": "ASUS - Ryzen 9 9950X3D - RX 9070 - 2TB NVMe SSD - 64GB DDR5 Memory - ASUS AM5 WIFI DDR5",
+      "price": "$4,119.00",
+      "extracted_price": 4119.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "OQmaUXicdc7PjppAAAbw9HlIk5kBVHpbBRQjIDMwCBejzCi44CB_RHyJvsLG3W2yPbZNeu1rbJ-mtvdevsvv-5Lv841nPx9m5W5THzxTXRLVEUvQLNves97KSrA2aTL2A8oKGMhwiEbyUFEBgMPB4C3ZNJtc7DP29C3lG5ZnR-7udrzSRfKfydes2Oz5P_8ua3cHMoIKUpGigSGEzxWrn15PLa_6d_Zg6xLur_woaZKmqWAl6xIcfJyIikvLSiS8rkUlJWUrbYWom3WSi-RRKnghqn7d9CWvpTLJ-PrMqzoTR6m-M2-khpXrTmrS6v64ft3fK-zpufgb5bm5pfuXts35r9s-v7X1Lc1v_PhFbMrzLvn94WCIbjKpu7EXlCXVMSBFbAdTdcoOFvTNNE-oqcQhc8mVItc0LT-wugjlPoajCzlEvT-LOqI7FYNsF4G4X4ROFlPmhNMG8kI1tqA84OIiu75jOI8R2hhYj4J84QB1blPT82gOSTBPqcnsMFAtTk15i1J9e3RMr0hLG-F2uzLkGOYTG9GJS9mZTc1u4c_L4FEjsWF1_ormBJgxuY6tLZiP41WKyVTpg2KPsDHvwjBdEDC62qC5UIqtKABdjBpKQdpvQwWEoZOy8HJwKT46dFwyI70YKRuT2biIVs4pCCIYmDb0C82zZ9hjqxwTLDIvwNfkkBcBECAI4mtYaIPQaEyM2Ikh2th6Cn2a9mFYUta9XOpq9w4eTLUh7uAcTpG7OM1JFRFFFuMczye29rC7rr1PcDhSBgoCymgE5T8FzflR",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OQmaUXicdc7PjppAAAbw9HlIk5kBVHpbBRQjIDMwCBejzCi44CB_RHyJvsLG3W2yPbZNeu1rbJ-mtvdevsvv-5Lv841nPx9m5W5THzxTXRLVEUvQLNves97KSrA2aTL2A8oKGMhwiEbyUFEBgMPB4C3ZNJtc7DP29C3lG5ZnR-7udrzSRfKfydes2Oz5P_8ua3cHMoIKUpGigSGEzxWrn15PLa_6d_Zg6xLur_woaZKmqWAl6xIcfJyIikvLSiS8rkUlJWUrbYWom3WSi-RRKnghqn7d9CWvpTLJ-PrMqzoTR6m-M2-khpXrTmrS6v64ft3fK-zpufgb5bm5pfuXts35r9s-v7X1Lc1v_PhFbMrzLvn94WCIbjKpu7EXlCXVMSBFbAdTdcoOFvTNNE-oqcQhc8mVItc0LT-wugjlPoajCzlEvT-LOqI7FYNsF4G4X4ROFlPmhNMG8kI1tqA84OIiu75jOI8R2hhYj4J84QB1blPT82gOSTBPqcnsMFAtTk15i1J9e3RMr0hLG-F2uzLkGOYTG9GJS9mZTc1u4c_L4FEjsWF1_ormBJgxuY6tLZiP41WKyVTpg2KPsDHvwjBdEDC62qC5UIqtKABdjBpKQdpvQwWEoZOy8HJwKT46dFwyI70YKRuT2biIVs4pCCIYmDb0C82zZ9hjqxwTLDIvwNfkkBcBECAI4mtYaIPQaEyM2Ikh2th6Cn2a9mFYUta9XOpq9w4eTLUh7uAcTpG7OM1JFRFFFuMczye29rC7rr1PcDhSBgoCymgE5T8FzflR"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is the 9950X3D a good CPU for gaming?",
+      "type": "ai_overview",
+      "page_token": "ROL-unicHdBdboIwAADg7DI-joLggolZVkcRJhhaWpSXhbb8KBSIkAG-7S471U6zZN8Rvu-f5trWv0_nahz7Yatp0zQ9l11XNvmz6JSWDUsrNJE1Dc9Evd28bPTXQuycYYL7boIR7Xv2jgGpq5SvkYMNa82UVZGYDQEwTeZKIz745mV9AUHdXJljJWGLlkzZH_Imo0DhnqBwE-m9F53h_RjDQ-KOe-pYc6YCM1fVMXBSglU5cQYpf2CfO-NesgokZ6m4Y-uZSkkKZkvEsGDMp0fWMHyrorCxkQTznOn9HBPdI0imubJh7goraGuCAPKEm1bC6DG-sYg-2Inrb5NEUM8Z8t2rD_EhXE5JSnksYd6mLW-dRVAEIipd3HgjpZ7BDfaIgQ1XhfjarVf_Y7vPQo3b_t6VfzPId0c",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ROL-unicHdBdboIwAADg7DI-joLggolZVkcRJhhaWpSXhbb8KBSIkAG-7S471U6zZN8Rvu-f5trWv0_nahz7Yatp0zQ9l11XNvmz6JSWDUsrNJE1Dc9Evd28bPTXQuycYYL7boIR7Xv2jgGpq5SvkYMNa82UVZGYDQEwTeZKIz745mV9AUHdXJljJWGLlkzZH_Imo0DhnqBwE-m9F53h_RjDQ-KOe-pYc6YCM1fVMXBSglU5cQYpf2CfO-NesgokZ6m4Y-uZSkkKZkvEsGDMp0fWMHyrorCxkQTznOn9HBPdI0imubJh7goraGuCAPKEm1bC6DG-sYg-2Inrb5NEUM8Z8t2rD_EhXE5JSnksYd6mLW-dRVAEIipd3HgjpZ7BDfaIgQ1XhfjarVf_Y7vPQo3b_t6VfzPId0c",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiSXMgdGhlIDk5NTBYM0QgYSBnb29kIENQVSBmb3IgZ2FtaW5nPyIsImxrIjoiR2hJNU9UVXdlRE5rSUdadmNpQm5ZVzFwYm1jIiwiYnMiOiJjMjJQTVF2Q01CU0VjYzBrNGxSRURrSFVUVklxZEpBTWRla21naWc0cFJyYlFKdElFcVQ2NjIxcEVJVnVqX2Z1dnJ0SHRtU2VXcmhDSUk2ajlUbmNnU1BYLW9aa2Y4UmRHLVM4a2lwbmRCeU1Xa1VkM243VzVFaVczbjU0dllWQ2pLakZ3RHBabGgxSUt0QTEzVEM2Q2hheTA1b2ZiZDJqSlJjU2VXeXFuQ2lSYUNNZ1kyVENPV0dhQTFkX29iNDdvN09nWWJTT3EzYzg3VGZOMXllY3NGUEJIWHlaVEZpSFNqZWp5VFEzM1hzOWNEeU12Z3BydFdGMEdreDZiVDVpT1BnQSIsImlkIjoiZmNfQUhwZmFzalFGNVBTNU5vUDB0UHV5UUlfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiSXMgdGhlIDk5NTBYM0QgYSBnb29kIENQVSBmb3IgZ2FtaW5nPyIsImxrIjoiR2hJNU9UVXdlRE5rSUdadmNpQm5ZVzFwYm1jIiwiYnMiOiJjMjJQTVF2Q01CU0VjYzBrNGxSRURrSFVUVklxZEpBTWRla21naWc0cFJyYlFKdElFcVQ2NjIxcEVJVnVqX2Z1dnJ0SHRtU2VXcmhDSUk2ajlUbmNnU1BYLW9aa2Y4UmRHLVM4a2lwbmRCeU1Xa1VkM243VzVFaVczbjU0dllWQ2pLakZ3RHBabGgxSUt0QTEzVEM2Q2hheTA1b2ZiZDJqSlJjU2VXeXFuQ2lSYUNNZ1kyVENPV0dhQTFkX29iNDdvN09nWWJTT3EzYzg3VGZOMXllY3NGUEJIWHlaVEZpSFNqZWp5VFEzM1hzOWNEeU12Z3BydFdGMEdreDZiVDVpT1BnQSIsImlkIjoiZmNfQUhwZmFzalFGNVBTNU5vUDB0UHV5UUlfOCJ9"
+    },
+    {
+      "question": "Is the Ryzen 9 5950X still good in 2026?",
+      "type": "ai_overview",
+      "page_token": "b4ZOs3icHdBRbqMwFEBRdTP9bDAMHSVSVMkJLmQGpxieIfyMsJ2EhGegDS0pf91LV9XVtJoFXB3pfnziqW2-bt7qYegvi9lsHMe7Y9cdcX-nOzurLu-tnukKUVW6Wdz_vicPB70MXiO6eo5oAn0v18JJEcnf3BQJkEg7xMqwbGMpi_xRDxz7R4XiBGQulYzHyp27HCnqtvF5SpKM8D95sPm1leYJCHbcRuMWAk817LBvWJmAecqxDsozf-Hrja9DIJyxIZuwSXM9chdTgGFlpmjKWQ9lS4f0vClj1L5aM6dw6tp4-j1zxdpYEkik13RF6h_ayYreVxP2YqrpNmQhD7S3a4QIakPTkNpdwZ8BdgRYTDI7T-JQJKZAkYrulICY9BkteJFf5TKThLqxLa8qv3h7kJWCy1Uwk6ifDpLbg35berf_fy7_Heyw6F-64zdtDoJO",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=b4ZOs3icHdBRbqMwFEBRdTP9bDAMHSVSVMkJLmQGpxieIfyMsJ2EhGegDS0pf91LV9XVtJoFXB3pfnziqW2-bt7qYegvi9lsHMe7Y9cdcX-nOzurLu-tnukKUVW6Wdz_vicPB70MXiO6eo5oAn0v18JJEcnf3BQJkEg7xMqwbGMpi_xRDxz7R4XiBGQulYzHyp27HCnqtvF5SpKM8D95sPm1leYJCHbcRuMWAk817LBvWJmAecqxDsozf-Hrja9DIJyxIZuwSXM9chdTgGFlpmjKWQ9lS4f0vClj1L5aM6dw6tp4-j1zxdpYEkik13RF6h_ayYreVxP2YqrpNmQhD7S3a4QIakPTkNpdwZ8BdgRYTDI7T-JQJKZAkYrulICY9BkteJFf5TKThLqxLa8qv3h7kJWCy1Uwk6ifDpLbg35berf_fy7_Heyw6F-64zdtDoJO",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiSXMgdGhlIFJ5emVuIDkgNTk1MFggc3RpbGwgZ29vZCBpbiAyMDI2PyIsImxrIjoiR2lkcGN5QjBhR1VnY25sNlpXNGdPU0ExT1RVd2VDQnpkR2xzYkNCbmIyOWtJR2x1SURJd01qWSIsImJzIjoiYzIyUE1RdkNNQlNFY2MwazRsUkVEa0hVVFZJcWRKQU1kZWttZ2lnNHBScmJRSnRJRXFUNjYyMXBFSVZ1al9mdXZydEh0bVNlV3JoQ0lJNmo5VG5jZ1NQWC1vWmtmOFJkRy1TOGtpcG5kQnlNV2tVZDNuN1c1RWlXM241NHZZVkNqS2pGd0RwWmxoMUlLdEExM1RDNkNoYXkwNW9mYmQyakpSY1NlV3lxbkNpUmFDTWdZMlRDT1dHYUExZF9vYjQ3bzdPZ1liU09xM2M4N1RmTjF5ZWNzRlBCSFh5WlRGaUhTamVqeVRRMzNYczljRHlNdmdwcnRXRjBHa3g2YlQ1aU9QZ0EiLCJpZCI6ImZjX0FIcGZhc2pRRjVQUzVOb1AwdFB1eVFJXzgifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiSXMgdGhlIFJ5emVuIDkgNTk1MFggc3RpbGwgZ29vZCBpbiAyMDI2PyIsImxrIjoiR2lkcGN5QjBhR1VnY25sNlpXNGdPU0ExT1RVd2VDQnpkR2xzYkNCbmIyOWtJR2x1SURJd01qWSIsImJzIjoiYzIyUE1RdkNNQlNFY2MwazRsUkVEa0hVVFZJcWRKQU1kZWttZ2lnNHBScmJRSnRJRXFUNjYyMXBFSVZ1al9mdXZydEh0bVNlV3JoQ0lJNmo5VG5jZ1NQWC1vWmtmOFJkRy1TOGtpcG5kQnlNV2tVZDNuN1c1RWlXM241NHZZVkNqS2pGd0RwWmxoMUlLdEExM1RDNkNoYXkwNW9mYmQyakpSY1NlV3lxbkNpUmFDTWdZMlRDT1dHYUExZF9vYjQ3bzdPZ1liU09xM2M4N1RmTjF5ZWNzRlBCSFh5WlRGaUhTamVqeVRRMzNYczljRHlNdmdwcnRXRjBHa3g2YlQ1aU9QZ0EiLCJpZCI6ImZjX0FIcGZhc2pRRjVQUzVOb1AwdFB1eVFJXzgifQ%3D%3D"
+    },
+    {
+      "question": "Is the Intel Core i9 better than the Ryzen 9 9950X3D?",
+      "type": "ai_overview",
+      "page_token": "1tSpdnicHdBdboIwAADg7DI-Tn7EqYlZwviTSB0thbYvCxShSguoKBlvu8tOtdNs2Qm-5Pv6lqe2-Xl6iGHob5v5fBzH57rranl85p2a57fPls95LmWR82azfFnqrxXfuved_XbZ2THu-9SBGlLCQsZAMUkXVA2KOQACUpsJ9nbEYD0ltVX4OuBueM519igay43aUmAsRibLAPmQAt-7otY-YNMzDphPyBDvYCpHYohL6vVBgsM9ciTNNbmMAqFFRAS5H2bxxP_8NWANu_AzzI5ypSdTpEfu-p5lYYpbuOOOHdKUThn2ACIghIpZWeCaSIIpb1ZaIsGp1FjHMKxyl0FXlDYKbEUJuGBMdexFeqLWcRTAuCQSItidYgwnfpYKG-GjSOyK6J6JMrnYZ2ygxmgd_HFADVykvkfKcVbxx9ac_X9uPyo1bPprV_8CduKCBw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1tSpdnicHdBdboIwAADg7DI-Tn7EqYlZwviTSB0thbYvCxShSguoKBlvu8tOtdNs2Qm-5Pv6lqe2-Xl6iGHob5v5fBzH57rranl85p2a57fPls95LmWR82azfFnqrxXfuved_XbZ2THu-9SBGlLCQsZAMUkXVA2KOQACUpsJ9nbEYD0ltVX4OuBueM519igay43aUmAsRibLAPmQAt-7otY-YNMzDphPyBDvYCpHYohL6vVBgsM9ciTNNbmMAqFFRAS5H2bxxP_8NWANu_AzzI5ypSdTpEfu-p5lYYpbuOOOHdKUThn2ACIghIpZWeCaSIIpb1ZaIsGp1FjHMKxyl0FXlDYKbEUJuGBMdexFeqLWcRTAuCQSItidYgwnfpYKG-GjSOyK6J6JMrnYZ2ygxmgd_HFADVykvkfKcVbxx9ac_X9uPyo1bPprV_8CduKCBw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiSXMgdGhlIEludGVsIENvcmUgaTkgYmV0dGVyIHRoYW4gdGhlIFJ5emVuIDkgOTk1MFgzRD8iLCJsayI6IkdpQnBiblJsYkNCamIzSmxJR2s1SUhaeklISjVlbVZ1SURrZ09UazFNSGd6WkEiLCJicyI6ImMyMlBNUXZDTUJTRWNjMGs0bFJFRGtIVVRWSXFkSkFNZGVrbWdpZzRwUnJiUUp0SUVxVDY2MjFwRUlWdWpfZnV2cnRIdG1TZVdyaENJSTZqOVRuY2dTUFgtb1prZjhSZEctUzhraXBuZEJ5TVdrVWQzbjdXNUVpVzNuNTR2WVZDaktqRndEcFpsaDFJS3RBMTNUQzZDaGF5MDVvZmJkMmpKUmNTZVd5cW5DaVJhQ01nWTJUQ09XR2FBMWRfb2I0N283T2dZYlNPcTNjODdUZk4xeWVjc0ZQQkhYeVpURmlIU2planlUUTMzWHM5Y0R5TXZncHJ0V0YwR2t4NmJUNWlPUGdBIiwiaWQiOiJmY19BSHBmYXNqUUY1UFM1Tm9QMHRQdXlRSV84In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiSXMgdGhlIEludGVsIENvcmUgaTkgYmV0dGVyIHRoYW4gdGhlIFJ5emVuIDkgOTk1MFgzRD8iLCJsayI6IkdpQnBiblJsYkNCamIzSmxJR2s1SUhaeklISjVlbVZ1SURrZ09UazFNSGd6WkEiLCJicyI6ImMyMlBNUXZDTUJTRWNjMGs0bFJFRGtIVVRWSXFkSkFNZGVrbWdpZzRwUnJiUUp0SUVxVDY2MjFwRUlWdWpfZnV2cnRIdG1TZVdyaENJSTZqOVRuY2dTUFgtb1prZjhSZEctUzhraXBuZEJ5TVdrVWQzbjdXNUVpVzNuNTR2WVZDaktqRndEcFpsaDFJS3RBMTNUQzZDaGF5MDVvZmJkMmpKUmNTZVd5cW5DaVJhQ01nWTJUQ09XR2FBMWRfb2I0N283T2dZYlNPcTNjODdUZk4xeWVjc0ZQQkhYeVpURmlIU2planlUUTMzWHM5Y0R5TXZncHJ0V0YwR2t4NmJUNWlPUGdBIiwiaWQiOiJmY19BSHBmYXNqUUY1UFM1Tm9QMHRQdXlRSV84In0%3D"
+    },
+    {
+      "question": "What is the best motherboard for the Ryzen 9 9950X3D processor?",
+      "type": "ai_overview",
+      "page_token": "unUbBHicHdDdTsIwGADQ-DJcCt0ElYSYzK38BEr6jW8rvTFbB9Ru3YpOBrvzXXwqn8bE8wjn-6d6r8vfu4tuW_c5HQ67rrs_Nc2pOtyrxg6zz1uthiqrqjxT5XTyOCEvRzWLvpbB63kZcHQuCWEU1-xD1tLlqQuZbXmC7VnZhhxqt47nY40p6ZXvTD5aeYoGEkxAM6MI9JRBD5PMj3zVU1oISEHAOi-1ycLkJnz2oEZyp7xWF4TCLnrqGKVhupBHLiKPjSBiuNJAOCl62G6R9ts0uSZ1ISGUNeKVMsoiZhPB60Bv57xfCyckDUiaAN8bvZHWWbiRSYpVvEYcJ5H0I10E8SKwe8HOiHuCdEN29plvFsALUUEMzTtH6JWpLCLx0MgrM6sLGj0GbxxC2S7ysjhz7Hxu9JLzwVFdZv7g_3P2drTt1H00pz8l-4LR",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=unUbBHicHdDdTsIwGADQ-DJcCt0ElYSYzK38BEr6jW8rvTFbB9Ru3YpOBrvzXXwqn8bE8wjn-6d6r8vfu4tuW_c5HQ67rrs_Nc2pOtyrxg6zz1uthiqrqjxT5XTyOCEvRzWLvpbB63kZcHQuCWEU1-xD1tLlqQuZbXmC7VnZhhxqt47nY40p6ZXvTD5aeYoGEkxAM6MI9JRBD5PMj3zVU1oISEHAOi-1ycLkJnz2oEZyp7xWF4TCLnrqGKVhupBHLiKPjSBiuNJAOCl62G6R9ts0uSZ1ISGUNeKVMsoiZhPB60Bv57xfCyckDUiaAN8bvZHWWbiRSYpVvEYcJ5H0I10E8SKwe8HOiHuCdEN29plvFsALUUEMzTtH6JWpLCLx0MgrM6sLGj0GbxxC2S7ysjhz7Hxu9JLzwVFdZv7g_3P2drTt1H00pz8l-4LR",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBtb3RoZXJib2FyZCBmb3IgdGhlIFJ5emVuIDkgOTk1MFgzRCBwcm9jZXNzb3I/IiwibGsiOiJHaHhpWlhOMElHMXZkR2hsY21KdllYSmtJR1p2Y2lBNU9UVXdlRE5rIiwiYnMiOiJjMjJQTVF2Q01CU0VjYzBrNGxSRURrSFVUVklxZEpBTWRla21naWc0cFJyYlFKdElFcVQ2NjIxcEVJVnVqX2Z1dnJ0SHRtU2VXcmhDSUk2ajlUbmNnU1BYLW9aa2Y4UmRHLVM4a2lwbmRCeU1Xa1VkM243VzVFaVczbjU0dllWQ2pLakZ3RHBabGgxSUt0QTEzVEM2Q2hheTA1b2ZiZDJqSlJjU2VXeXFuQ2lSYUNNZ1kyVENPV0dhQTFkX29iNDdvN09nWWJTT3EzYzg3VGZOMXllY3NGUEJIWHlaVEZpSFNqZWp5VFEzM1hzOWNEeU12Z3BydFdGMEdreDZiVDVpT1BnQSIsImlkIjoiZmNfQUhwZmFzalFGNVBTNU5vUDB0UHV5UUlfOCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2JXUk9OMlJWVmt4c1lYZHllVFUwVFhCQlkxUklURXB5VFhSTmJqWkRVbUp6VWt4cU9UQTNVSFpQZEdoT2JuTllVM2RxT0dWbGFtd3pUV0Z4Y0ZOSmJVdFRUVGRyU0c5Q01TMVdNbFphY2xGalRERmFTR0ZqVDJWSlVSSVhRVWh3Wm1GemFsRkdOVkJUTlU1dlVEQjBVSFY1VVVrYUlrRkVjM0k1WmxSWFlVRkJSR1JKV21WWFVFUjZkVEZIUjFGTFVUZFZYMkZtZGtFIiwiZmN2IjoiMyIsImVpIjoiQUhwZmFzalFGNVBTNU5vUDB0UHV5UUkiLCJxYyI6ImN3M0pUUXJDUUF3R1VOZXVQTUozQkVWYW1KVjdMekhVSk5DaTA0UWtfb3pnaWIyRXZ1M2I4dFFZM3QteW9xQ1VZZjg2TWc0alNGMWdyaVFSNmlDNzQ2SWFXZW1tZEVXVHB0NXJkcE9BMFNMMUlSNkxyb2hfU3lMWjZoTTV1MHdjdTgzbl9CMU9QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBtb3RoZXJib2FyZCBmb3IgdGhlIFJ5emVuIDkgOTk1MFgzRCBwcm9jZXNzb3I%2FIiwibGsiOiJHaHhpWlhOMElHMXZkR2hsY21KdllYSmtJR1p2Y2lBNU9UVXdlRE5rIiwiYnMiOiJjMjJQTVF2Q01CU0VjYzBrNGxSRURrSFVUVklxZEpBTWRla21naWc0cFJyYlFKdElFcVQ2NjIxcEVJVnVqX2Z1dnJ0SHRtU2VXcmhDSUk2ajlUbmNnU1BYLW9aa2Y4UmRHLVM4a2lwbmRCeU1Xa1VkM243VzVFaVczbjU0dllWQ2pLakZ3RHBabGgxSUt0QTEzVEM2Q2hheTA1b2ZiZDJqSlJjU2VXeXFuQ2lSYUNNZ1kyVENPV0dhQTFkX29iNDdvN09nWWJTT3EzYzg3VGZOMXllY3NGUEJIWHlaVEZpSFNqZWp5VFEzM1hzOWNEeU12Z3BydFdGMEdreDZiVDVpT1BnQSIsImlkIjoiZmNfQUhwZmFzalFGNVBTNU5vUDB0UHV5UUlfOCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "KOj4RHicxZXvcqo4FMAfYJ9j-UJVaEWlM8ydBPyDrX9itbb3C4OQBisYS1C03-677FPt02xEUbBq5-7Mzp4ZCCc5OTlJzo_z6y9_Op_9_Qf0omjB7kulOI6LhFLi46JDg5LNNnOn9EZ9FjreD0aXoYOnruZ4IQ2wQHxtyQTP1_Bc2Ky0O8FhmiTgqQZaizebvaOG0n9SurQvRf3lBplC4k6zJjbD73y19TsrWSX-mv15Z3ClyIp4XlTdPsaTsIdVUryVZLXYK9kBNwD_rRAw3b4IMLlifhnWAUHfOQD17Vs_2qVu6hmzONEg5B4TC_2iP5I00zrgDvtwrngMgOau07kWSDuvNrZTTAS3mzD1XaCncm5rMG1RVjsrZwbh3m-69fLVtbZimnk_fN26lXSh_Cpm1gnadr8mnz0EsBEDLyYPV2LVKTCa5AmRc7eclQXw-uk6EyDxiyq5hOehVJqEvJFLU8dzko-QbdNTH6oSbTZAaLbGG9qdt7pub7HuK67RhR_NbkRKzoTb-dR2sWt5lvQj0eVbWZHUu2rtJuHCYQcwWA6Mke9Peq3HDqLFxyKUM1SQw6lkhHfCwdljRvtNfZkA0yMm9eRjkw7R9APS7eTjxIZhwhiAFM3yNtcM8jWjeTBnqEjkgEYHJFQkwem7du8omxWEHCZk8qh1sl42Api6103OXtrXPBogPc-gzo9tdoCkk3eFvPou_eDT3qQHyzm-Acpo-m6LiECY34q520E5Y8e7eFK-AvST621CDj-jZJK5D-iw7jGoPH38Cog-ql_l9ZJc42YvBKTpf5LNWQrqftz2P7BXUNYPbC2PC-Rz9G40pag7ROezngaT36gHzv_ORVItaFotznDhfcNFUi3I5WqxT6I45SKxe4D6RS5mSZuvFq2TanGOi3aei2O1QCfV4sjFNpTrXMBrXMBLXPAf_hcu0AUu0mqR4WJ2Ui3g4VS3XUcufr9a2P-uWiSY4F2TLx3Ld3KxhDQGzzSQpTusm1GbRLrSKNcHhflm-BiBb0vIWxDdB7br31hT9x7etqONe2PxDnqPXeFDAx1DHGw-8VxURVVVpJc7Q5QrBZ2GWOyH1MGM0VB0FktxQimLLMenzkwMcEDDjRVtFpiJC2eKrRUO2ZTORcaHcSRG7sKKxcgLse0yIfBDqkm28iGzZVMtQK9t1GvdYfxcGY7IbTgiLXfs0966Tdd-T2ctwwnrExgPIRkuhuPxclb2FCq5jZFZ-WyPVmV3PXypNtSf_ccPA4bNTs1_KXTQY8OWhgPaLqMYvMjP49b8bUXkyrIB2tZaH6-rCzSRn82ATXto-dwIXmkSGNPWq6oy2MyrzUpNCEJH47lYJqCLwJhAB-g80XTCH8qfmN-owBzbwmyl3brqm6pUJXtSU-xaBQsB4SeilWWBzUNN_geRjjzK",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KOj4RHicxZXvcqo4FMAfYJ9j-UJVaEWlM8ydBPyDrX9itbb3C4OQBisYS1C03-677FPt02xEUbBq5-7Mzp4ZCCc5OTlJzo_z6y9_Op_9_Qf0omjB7kulOI6LhFLi46JDg5LNNnOn9EZ9FjreD0aXoYOnruZ4IQ2wQHxtyQTP1_Bc2Ky0O8FhmiTgqQZaizebvaOG0n9SurQvRf3lBplC4k6zJjbD73y19TsrWSX-mv15Z3ClyIp4XlTdPsaTsIdVUryVZLXYK9kBNwD_rRAw3b4IMLlifhnWAUHfOQD17Vs_2qVu6hmzONEg5B4TC_2iP5I00zrgDvtwrngMgOau07kWSDuvNrZTTAS3mzD1XaCncm5rMG1RVjsrZwbh3m-69fLVtbZimnk_fN26lXSh_Cpm1gnadr8mnz0EsBEDLyYPV2LVKTCa5AmRc7eclQXw-uk6EyDxiyq5hOehVJqEvJFLU8dzko-QbdNTH6oSbTZAaLbGG9qdt7pub7HuK67RhR_NbkRKzoTb-dR2sWt5lvQj0eVbWZHUu2rtJuHCYQcwWA6Mke9Peq3HDqLFxyKUM1SQw6lkhHfCwdljRvtNfZkA0yMm9eRjkw7R9APS7eTjxIZhwhiAFM3yNtcM8jWjeTBnqEjkgEYHJFQkwem7du8omxWEHCZk8qh1sl42Api6103OXtrXPBogPc-gzo9tdoCkk3eFvPou_eDT3qQHyzm-Acpo-m6LiECY34q520E5Y8e7eFK-AvST621CDj-jZJK5D-iw7jGoPH38Cog-ql_l9ZJc42YvBKTpf5LNWQrqftz2P7BXUNYPbC2PC-Rz9G40pag7ROezngaT36gHzv_ORVItaFotznDhfcNFUi3I5WqxT6I45SKxe4D6RS5mSZuvFq2TanGOi3aei2O1QCfV4sjFNpTrXMBrXMBLXPAf_hcu0AUu0mqR4WJ2Ui3g4VS3XUcufr9a2P-uWiSY4F2TLx3Ld3KxhDQGzzSQpTusm1GbRLrSKNcHhflm-BiBb0vIWxDdB7br31hT9x7etqONe2PxDnqPXeFDAx1DHGw-8VxURVVVpJc7Q5QrBZ2GWOyH1MGM0VB0FktxQimLLMenzkwMcEDDjRVtFpiJC2eKrRUO2ZTORcaHcSRG7sKKxcgLse0yIfBDqkm28iGzZVMtQK9t1GvdYfxcGY7IbTgiLXfs0966Tdd-T2ctwwnrExgPIRkuhuPxclb2FCq5jZFZ-WyPVmV3PXypNtSf_ccPA4bNTs1_KXTQY8OWhgPaLqMYvMjP49b8bUXkyrIB2tZaH6-rCzSRn82ATXto-dwIXmkSGNPWq6oy2MyrzUpNCEJH47lYJqCLwJhAB-g80XTCH8qfmN-owBzbwmyl3brqm6pUJXtSU-xaBQsB4SeilWWBzUNN_geRjjzK"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "AMD Ryzen™ 9 9950X3D Gaming and Content Creation ...",
+      "link": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amd.com%2Fen%2Fproducts%2Fprocessors%2Fdesktops%2Fryzen%2F9000-series%2Famd-ryzen-9-9950x3d.html&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECCIQAQ",
+      "displayed_link": "https://www.amd.com › ... › Products › Ryzen Processors",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAY0lEQVR4AWMAgvlA_J8CzEChIQhQQL4BCJBAvgEIEADEDTjwfGIMOM-AGzgQMuA8SJAMAxCayTAAoZkcA-CaKTHgPy0M2I8FrwdiA-wGEMbvcSY2kjQjAMIlJGrGNIQ8zQhDAFAjokGjL02ZAAAAAElFTkSuQmCC.png",
+      "snippet": "The ultimate 16-core desktop CPU with 2nd gen AMD 3D V-CacheTM Technology … 9950X3D Gaming. Boost Clock Up to 5.7 GHz Base Clock 4.3 GHz L1 Cache 1280 KB L2. ...",
+      "snippet_highlighted_words": [
+        "Boost Clock Up to 5.7 GHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The ultimate 16-core desktop CPU with 2nd gen AMD 3D V-CacheTM Technology … 9950X3D Gaming. Boost Clock Up to 5.7 GHz Base Clock 4.3 GHz L1 Cache 1280 KB L2. ...",
+          "source_info_link": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAY0lEQVR4AWMAgvlA_J8CzEChIQhQQL4BCJBAvgEIEADEDTjwfGIMOM-AGzgQMuA8SJAMAxCayTAAoZkcA-CaKTHgPy0M2I8FrwdiA-wGEMbvcSY2kjQjAMIlJGrGNIQ8zQhDAFAjokGjL02ZAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amd.com%2Fen%2Fproducts%2Fprocessors%2Fdesktops%2Fryzen%2F9000-series%2Famd-ryzen-9-9950x3d.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amd.com%2Fen%2Fproducts%2Fprocessors%2Fdesktops%2Fryzen%2F9000-series%2Famd-ryzen-9-9950x3d.html",
+      "source": "AMD"
+    },
+    {
+      "position": 2,
+      "title": "AMD Ryzen 9 9950X3D 16-Core Processor",
+      "link": "https://www.amazon.com/AMD-Ryzen-9950X3D-16-Core-Processor/dp/B0DVZSG8D5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-9950X3D-16-Core-Processor%2Fdp%2FB0DVZSG8D5&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECCMQAQ",
+      "displayed_link": "https://www.amazon.com › AMD-Ryzen-9950X3D-16-C...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "4.3 GHz CPU Socket Socket AM5 Secondary Cache 16. Boost Clock : Up to 5.7 GHz; Base Clock: 4.3 GHz Form Factor: Desktops , Boxed Processor Architecture: Zen 5;",
+      "snippet_highlighted_words": [
+        "CPU Socket Socket",
+        "16",
+        "Boost Clock",
+        "Processor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "4.3 GHz CPU Socket Socket AM5 Secondary Cache 16. Boost Clock : Up to 5.7 GHz; Base Clock: 4.3 GHz Form Factor: Desktops , Boxed Processor Architecture: Zen 5;",
+          "source_info_link": "https://www.amazon.com/AMD-Ryzen-9950X3D-16-Core-Processor/dp/B0DVZSG8D5",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-9950X3D-16-Core-Processor%2Fdp%2FB0DVZSG8D5&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-9950X3D-16-Core-Processor%2Fdp%2FB0DVZSG8D5",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 3,
+      "title": "AMD Ryzen™ 9 9950X3D Processor",
+      "link": "https://shop-us-en.amd.com/amd-ryzen-9-9950x3d-processor/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fshop-us-en.amd.com%2Famd-ryzen-9-9950x3d-processor%2F&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECEIQAQ",
+      "displayed_link": "https://shop-us-en.amd.com › ... › Processors",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAY0lEQVR4AWMAgvlA_J8CzEChIQhQQL4BCJBAvgEIEADEDTjwfGIMOM-AGzgQMuA8SJAMAxCayTAAoZkcA-CaKTHgPy0M2I8FrwdiA-wGEMbvcSY2kjQjAMIlJGrGNIQ8zQhDAFAjokGjL02ZAAAAAElFTkSuQmCC.png",
+      "snippet": "# of CPU Cores: 16. # of Threads: 32. Max Boost Clock: Up to 5.7 GHz. Base Clock: 4.3 GHz. Thermal Solution: Not Included. Default TDP: 170W. Graphics Model: ...",
+      "snippet_highlighted_words": [
+        "CPU Cores",
+        "16",
+        "Threads",
+        "Boost Clock"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "# of CPU Cores: 16. # of Threads: 32. Max Boost Clock: Up to 5.7 GHz. Base Clock: 4.3 GHz. Thermal Solution: Not Included. Default TDP: 170W. Graphics Model: ...",
+          "source_info_link": "https://shop-us-en.amd.com/amd-ryzen-9-9950x3d-processor/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAY0lEQVR4AWMAgvlA_J8CzEChIQhQQL4BCJBAvgEIEADEDTjwfGIMOM-AGzgQMuA8SJAMAxCayTAAoZkcA-CaKTHgPy0M2I8FrwdiA-wGEMbvcSY2kjQjAMIlJGrGNIQ8zQhDAFAjokGjL02ZAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fshop-us-en.amd.com%2Famd-ryzen-9-9950x3d-processor%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fshop-us-en.amd.com%2Famd-ryzen-9-9950x3d-processor%2F",
+      "source": "AMD Online Store",
+      "read_more_link": "https://shop-us-en.amd.com/amd-ryzen-9-9950x3d-processor/"
+    },
+    {
+      "position": 4,
+      "title": "AMD Ryzen 9 9950X3D Review: FULL CPU DOMINATION",
+      "link": "https://www.youtube.com/watch?v=vMe44z1ECWc",
+      "displayed_link": "5.6K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRN_hOw2zFSS5Cd7-zTW7LWrG1p1eaYL_80RHgh7GE9UBVMb9nXqy9AbA&s=",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "It has 16 cores and 32 threads, it can hit 5.7GHz peak boost - the same as the 9950X. It's the all-round king, even at $700,",
+      "duration": "17:20",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7B3aR_j1ViMbpLNcfLvdroO4Rq_rDBcbIkgyO-3WRXg&s="
+        },
+        {
+          "time": "01:50",
+          "title": "2nd Gen 3D V-Cache",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo9irxwXS0yHRcuozaCjNTrdpoJhgR5ougY-P4TnWzTA&s="
+        },
+        {
+          "time": "04:11",
+          "title": "Specifications",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=251",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDdybMMpf39tk23PuBAlMDPbRAwPn3Vmb3AfY9aZ9TZQ&s="
+        },
+        {
+          "time": "06:38",
+          "title": "Test system",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=398",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4s0EcH4fmfKJbtlDDWTnI69jwAXEi-syX8zekM1tSeA&s="
+        },
+        {
+          "time": "07:08",
+          "title": "Assassin's Creed: Mirage",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=428",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7Tu1_YwnsdbLgc-nOPqji6Nt5nnSOAqYO5DEaUy7FKA&s="
+        },
+        {
+          "time": "07:35",
+          "title": "Counter Strike 2",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=455",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmynMbcG_Nc_OKZ9EPAS0yvVrm1NZF70umeGLCAtZG3A&s="
+        },
+        {
+          "time": "08:04",
+          "title": "Cyberpunk 2077",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=484",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWSNDLwgPPLnA5TH6oGIA0qn71oxb5Sw-vCUVoAHbUqw&s="
+        },
+        {
+          "time": "08:34",
+          "title": "Microsoft Flight Simulator",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=514",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuH9VzJ5Shhyzy-kItU6pwow9ZWoZGFK6k_n-XW46ZiA&s="
+        },
+        {
+          "time": "09:04",
+          "title": "HandBrake",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=544",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ZHnegdy6UAXt_3q0npXJVc3x3UTGKoqs4k0J30gn6w&s="
+        },
+        {
+          "time": "09:28",
+          "title": "Puget Systems Davinci Resolve",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=568",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG1x0ip8K6v0Jx4-jD8eyJ4MDCAznGMPLWN6kFJ3ckWw&s="
+        },
+        {
+          "time": "09:56",
+          "title": "Puget Systems Photoshop",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=596",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4nR_cagbq4CJpDZ8CDgFjqaR8yhH0vGFKfAHeDMzfiA&s="
+        },
+        {
+          "time": "10:29",
+          "title": "Puget Systems Premiere Pro",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=629",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmxRZ4yHino-x97yf28loJIeFpKi8rG1Q7-Q9HjhDcVw&s="
+        },
+        {
+          "time": "11:00",
+          "title": "UL Procyon Lightoom and Photoshop benchmark",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=660",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROJyybqqjQJcU0sk2bZyVo5_Zz3iPkFmNSlEcVOMFQ5g&s="
+        },
+        {
+          "time": "11:25",
+          "title": "Cinebench R24",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=685",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFkIuSZlZ-P9UENxSERd5hz1MUVthQEoySi886Jvt7OQ&s="
+        },
+        {
+          "time": "12:30",
+          "title": "Power consumption (system)",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=750",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBqihTIE2Ox5-vBszPSogJ1bo76rqIM-LDczdGcfOKIQ&s="
+        },
+        {
+          "time": "13:34",
+          "title": "Conclusions",
+          "link": "https://www.youtube.com/watch?v=vMe44z1ECWc&t=814",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSV0hq-a3toMub0SK_Gk1UkwgUY-Cs1b1T6EXB0yQ0ljA&s="
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "It has 16 cores and 32 threads, it can hit 5.7GHz peak boost - the same as the 9950X. It's the all-round king, even at $700,",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvMe44z1ECWc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvMe44z1ECWc",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn%3AANd9GcSCyyNfd8waEWQDAG3Qeu855oWN3YJrLoQ16g",
+      "source": "YouTube · CrazyTechLab"
+    },
+    {
+      "position": 5,
+      "title": "AMD Ryzen 9 9950X3D 16 Core 32 Thread 4.3 GHz ...",
+      "link": "https://www.bestbuy.com/product/amd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black/JXKQHH5X53/sku/6621941",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Famd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black%2FJXKQHH5X53%2Fsku%2F6621941&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECEQQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › CPUs / Processors",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png",
+      "date": "Oct 31, 2025",
+      "snippet": "Core 32 Thread 4.3 GHz (5.7 GHz Max Boost) Socket AM5 PCI Express 5.0. New $699.00 - $852.95 … equipped with PCIe 5.0 for incredible bandwidth.",
+      "snippet_highlighted_words": [
+        "Core 32 Thread 4.3 GHz"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Core 32 Thread 4.3 GHz (5.7 GHz Max Boost) Socket AM5 PCI Express 5.0. New $699.00 - $852.95 … equipped with PCIe 5.0 for incredible bandwidth.",
+          "source_info_link": "https://www.bestbuy.com/product/amd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black/JXKQHH5X53/sku/6621941",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Famd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black%2FJXKQHH5X53%2Fsku%2F6621941&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Famd-ryzen-9-9950x3d-16-core-32-thread-4-3-ghz-5-7-ghz-max-boost-socket-am5-pci-express-5-0-unlocked-desktop-processor-black%2FJXKQHH5X53%2Fsku%2F6621941",
+      "source": "Best Buy"
+    },
+    {
+      "position": 6,
+      "title": "Windows only sees 8 core on amd ryzen 9 9950x3d : r/pchelp",
+      "link": "https://www.reddit.com/r/pchelp/comments/1jh50ew/windows_only_sees_8_core_on_amd_ryzen_9_9950x3d/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fpchelp%2Fcomments%2F1jh50ew%2Fwindows_only_sees_8_core_on_amd_ryzen_9_9950x3d%2F&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECDEQAQ",
+      "displayed_link": "20+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Hello! I just built my new pc amd ryzen 9 9950x3d with X870E AORUS ELITE (BIOS: FA) and cpu-z and task manager only sees 8 core and 96MB L3Cache. Where ...",
+      "about_this_result": {
+        "source": {
+          "description": "Hello! I just built my new pc amd ryzen 9 9950x3d with X870E AORUS ELITE (BIOS: FA) and cpu-z and task manager only sees 8 core and 96MB ...",
+          "source_info_link": "https://www.reddit.com/r/pchelp/comments/1jh50ew/windows_only_sees_8_core_on_amd_ryzen_9_9950x3d/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fpchelp%2Fcomments%2F1jh50ew%2Fwindows_only_sees_8_core_on_amd_ryzen_9_9950x3d%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fpchelp%2Fcomments%2F1jh50ew%2Fwindows_only_sees_8_core_on_amd_ryzen_9_9950x3d%2F",
+      "source": "Reddit · r/pchelp"
+    },
+    {
+      "position": 7,
+      "title": "AMD Ryzen 9 9950X3D 16-Core 4.3GHz Computer ...",
+      "link": "https://www.quill.com/amd-ryzen-9-9950x3d-16-core-43ghz-computer-processor-socket-am5-100-000000719/cbs/55494912.html?srsltid=AfmBOoo0xFlV6oW0J6xCwc3Y6MXYapWAtKdI_mDqTW5ALzLCffdp34-H",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.quill.com%2Famd-ryzen-9-9950x3d-16-core-43ghz-computer-processor-socket-am5-100-000000719%2Fcbs%2F55494912.html%3Fsrsltid%3DAfmBOoo0xFlV6oW0J6xCwc3Y6MXYapWAtKdI_mDqTW5ALzLCffdp34-H&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECDIQAQ",
+      "displayed_link": "https://www.quill.com › cbs",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____Z3_yDmPU9ZfIfUfEqV_FffPOrufh1jfQARPAjVPEYTvDP1_tSc_MOS_BaefNEafIARvDK0vuOofa2wvnu8f4ASPDz9v4rWPGInPantfgiU_FuiPTi5_3q7f2Vpvf4-f6NoPa_yvozXvFsDiSXAAAAyElEQVR4AcWPBRLDMAwE7VRKGinMjP9_YzEMg4U13cxaBvFXpHIBVLVDd9WBHjAYe2cyWmA7LqHubZ3_cMFjDVXAKF670E3cocAkSNcy47wYYukir2WRW9NNDkblSpoUVdOzh40TzkIqW6mSJcdsD3miBqiH2FjoNispXeThdy2QKtbYOTkvq0WJLjcytIi4DTLTSqJWbCmJEZgpcVNxQI2uhQl34phK9jn2hjihcRgjs06j8FArOhAAF8fFpZK4bp-JM5pGfJU7dfsLDqMbPYIAAAAASUVORK5CYII.png",
+      "snippet": "AMD Ryzen 9 9950X3D 16-Core 4.3GHz Computer Processor, Precision Boost up to 5.7GHz, and AMD-V. Supports single-CPU AM5 setups with DDR5, PCIe 5.0, and next- ...",
+      "snippet_highlighted_words": [
+        "AMD Ryzen 9 9950X3D 16-Core 4.3GHz Computer Processor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "AMD Ryzen 9 9950X3D 16-Core 4.3GHz Computer Processor, Precision Boost up to 5.7GHz, and AMD-V. Supports single-CPU AM5 setups with DDR5, PCIe 5.0, and next- ...",
+          "source_info_link": "https://www.quill.com/amd-ryzen-9-9950x3d-16-core-43ghz-computer-processor-socket-am5-100-000000719/cbs/55494912.html?srsltid=AfmBOoo0xFlV6oW0J6xCwc3Y6MXYapWAtKdI_mDqTW5ALzLCffdp34-H",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____Z3_yDmPU9ZfIfUfEqV_FffPOrufh1jfQARPAjVPEYTvDP1_tSc_MOS_BaefNEafIARvDK0vuOofa2wvnu8f4ASPDz9v4rWPGInPantfgiU_FuiPTi5_3q7f2Vpvf4-f6NoPa_yvozXvFsDiSXAAAAyElEQVR4AcWPBRLDMAwE7VRKGinMjP9_YzEMg4U13cxaBvFXpHIBVLVDd9WBHjAYe2cyWmA7LqHubZ3_cMFjDVXAKF670E3cocAkSNcy47wYYukir2WRW9NNDkblSpoUVdOzh40TzkIqW6mSJcdsD3miBqiH2FjoNispXeThdy2QKtbYOTkvq0WJLjcytIi4DTLTSqJWbCmJEZgpcVNxQI2uhQl34phK9jn2hjihcRgjs06j8FArOhAAF8fFpZK4bp-JM5pGfJU7dfsLDqMbPYIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.quill.com%2Famd-ryzen-9-9950x3d-16-core-43ghz-computer-processor-socket-am5-100-000000719%2Fcbs%2F55494912.html%3Fsrsltid%3DAfmBOoo0xFlV6oW0J6xCwc3Y6MXYapWAtKdI_mDqTW5ALzLCffdp34-H&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quill.com%2Famd-ryzen-9-9950x3d-16-core-43ghz-computer-processor-socket-am5-100-000000719%2Fcbs%2F55494912.html%3Fsrsltid%3DAfmBOoo0xFlV6oW0J6xCwc3Y6MXYapWAtKdI_mDqTW5ALzLCffdp34-H",
+      "source": "Quill.com"
+    },
+    {
+      "position": 8,
+      "title": "AMD introduces the Ryzen 9 9950X3D2, the ultimate CPU ...",
+      "link": "https://www.facebook.com/wccftech/posts/amd-introduces-the-ryzen-9-9950x3d2-the-ultimate-cpu-designed-for-developers-and/1499318585528395/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https%3A%2F%2Fwww.facebook.com%2Fwccftech%2Fposts%2Famd-introduces-the-ryzen-9-9950x3d2-the-ultimate-cpu-designed-for-developers-and%2F1499318585528395%2F&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQFnoECCUQAQ",
+      "displayed_link": "1.6K+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "With an 8-core, 16-thread configuration, and a notable clock speed boost of up to 5.2 GHz across all cores, this processor is designed for top- ...",
+      "snippet_highlighted_words": [
+        "core",
+        "16",
+        "thread",
+        "and",
+        "cores",
+        "processor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With an 8-core, 16-thread configuration, and a notable clock speed boost of up to 5.2 GHz across all cores, this processor is designed for top- ...",
+          "source_info_link": "https://www.facebook.com/wccftech/posts/amd-introduces-the-ryzen-9-9950x3d2-the-ultimate-cpu-designed-for-developers-and/1499318585528395/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https%3A%2F%2Fwww.facebook.com%2Fwccftech%2Fposts%2Famd-introduces-the-ryzen-9-9950x3d2-the-ultimate-cpu-designed-for-developers-and%2F1499318585528395%2F&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fwccftech%2Fposts%2Famd-introduces-the-ryzen-9-9950x3d2-the-ultimate-cpu-designed-for-developers-and%2F1499318585528395%2F",
+      "source": "Facebook · Wccftech",
+      "read_more_link": "https://www.facebook.com/wccftech/posts/amd-introduces-the-ryzen-9-9950x3d2-the-ultimate-cpu-designed-for-developers-and/1499318585528395/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Amd ryzen 9 9950x3d price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=Amd+ryzen+9+9950x3d+price&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Amd+ryzen+9+9950x3d+price"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen 9 9950X3D2 price",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+9+9950X3D2+price&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D2+price"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen 9 9950X3D motherboard",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+9+9950X3D+motherboard&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+motherboard"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen 9 9950X3D motherboard compatibility",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+9+9950X3D+motherboard+compatibility&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+motherboard+compatibility"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen 9 9950X3D release date",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+9+9950X3D+release+date&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen 9 9950X3D Specs",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+9+9950X3D+Specs&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+Specs"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen ™ 9 9950X3D",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+%E2%84%A2+9+9950X3D&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+%E2%84%A2+9+9950X3D"
+    },
+    {
+      "block_position": 1,
+      "query": "AMD Ryzen 7 9950X3D",
+      "link": "https://www.google.com/search?sca_esv=2d9f9570ab85a86e&gl=us&hl=en&q=AMD+Ryzen+7+9950X3D&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+7+9950X3D"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&q=reviews+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYEipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAF6BAgeEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=reviews+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+sale&hl=en&shoprs=CAESBEoCGAEYBipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczITCAYSB09uIHNhbGUYAiIESgIYAViLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAJ6BAgeEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+sale"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+nearby&hl=en&shoprs=CAEYAypkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIMCAMSBk5lYXJieRgCWIurIGAB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAN6BAgeEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+nearby"
+    },
+    {
+      "query": "Motherboards",
+      "link": "https://www.google.com/search?gl=us&q=motherboards+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYCSpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIQCAkSDE1vdGhlcmJvYXJkc2AB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAR6BAgeEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=motherboards+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Ryzen 7",
+      "link": "https://www.google.com/search?gl=us&q=ryzen+7+amd+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIXCAESB1J5emVuIDc6Cgj87X4Q_-1-MARYi6sgYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAV6BAgeEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ryzen+7+amd+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+for+sale&hl=en&shoprs=CAEYEipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAZ6BAgeEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+for+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&q=buy+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYEipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAd6BAgeEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=buy+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Get it tomorrow",
+      "link": "https://www.google.com/search?gl=us&q=amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAESDZoBCgoIEAE4AUADSAEYFCpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIoCBQSD0dldCBpdCB0b21vcnJvdyINmgEKCggQATgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAh6BAgeEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYEipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAl6BAgeEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=price+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&q=black+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYi6sgYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAp6BAgeEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=black+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Under $1,000",
+      "link": "https://www.google.com/search?gl=us&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+under+%241%2C000&hl=en&shoprs=CAESDRILEQAAAABlzc1BGAEYBSpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIlCAUSDFVuZGVyICQxLDAwMBgCIg0SCxEAAAAAZc3NQRgBKgIYAViLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAt6BAgeEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads+under+%241%2C000"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&q=new+AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYCipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIHCAoSA05ld1iLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKAx6BAgeEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=new+AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?gl=us&q=used+AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYCipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIICAoSBFVzZWRYi6sgYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKA16BAgeEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=used+AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Desktop Computers",
+      "link": "https://www.google.com/search?gl=us&q=desktop+computers+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYCSpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIVCAkSEURlc2t0b3AgQ29tcHV0ZXJzYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKA56BAgeEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=desktop+computers+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?gl=us&q=size+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYEipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIICBISBFNpemVgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKA96BAgeEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=size+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?gl=us&q=blue+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIWCAESBEJsdWU6DAjYjPUBEOaK9QEwC1iLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBB6BAgeEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=blue+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?gl=us&q=ebay+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYAipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIICAISBGVCYXlYi6sgYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBF6BAgeEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ebay+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png"
+    },
+    {
+      "query": "4.3 – 4.7 GHz",
+      "link": "https://www.google.com/search?gl=us&q=4.3+ghz+to+4.7+ghz+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAESGioYCOmIPhISCQAAAAAAzLBAEQAAAAAAXLJAGAEqZGFtZCByeXplbiA5IDk5NTB4M2QgMTYgY29yZSBwcm9jZXNzb3IgY3B1IGJvb3N0X2Nsb2NrIG1lbW9yeV90eXBlcyBwY2llX3ZlcnNpb24gc29ja2V0IHRkcF93IHRocmVhZHMyUQgBEg80LjMg4oCTIDQuNyBHSHoiGioYCOmIPhISCQAAAAAAzLBAEQAAAAAAXLJAKhYKEjQuMyBHSHogdG8gNC43IEdIehgBOggI6Yg-EAAwBliLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBJ6BAgeEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4.3+ghz+to+4.7+ghz+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Supports Overclocking",
+      "link": "https://www.google.com/search?gl=us&q=supports+overclocking+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIlCAESFVN1cHBvcnRzIE92ZXJjbG9ja2luZzoKCOCdOxDhnTswA1iLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBN6BAgeEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=supports+overclocking+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Navy Blue",
+      "link": "https://www.google.com/search?gl=us&q=navy+blue+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIbCAESCU5hdnkgQmx1ZToMCNiM9QEQh4z1ATALWIurIGAB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBR6BAgeEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=navy+blue+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Best Buy",
+      "link": "https://www.google.com/search?gl=us&q=best+buy+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYAipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIMCAISCEJlc3QgQnV5WIurIGAB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBV6BAgeEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+buy+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?gl=us&q=gray+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1iLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBZ6BAgeEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=gray+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "170 watts",
+      "link": "https://www.google.com/search?gl=us&q=170+watts+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAESGioYCO2IPhISCQAAAAAAQGVAEQAAAAAAQGVAGAEqZGFtZCByeXplbiA5IDk5NTB4M2QgMTYgY29yZSBwcm9jZXNzb3IgY3B1IGJvb3N0X2Nsb2NrIG1lbW9yeV90eXBlcyBwY2llX3ZlcnNpb24gc29ja2V0IHRkcF93IHRocmVhZHMyNwgBEgkxNzAgd2F0dHMiGioYCO2IPhISCQAAAAAAQGVAEQAAAAAAQGVAKgIYAToICO2IPhAAMAZYi6sgYAE&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBd6BAgeEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=170+watts+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?gl=us&q=target+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYAipkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIKCAISBlRhcmdldFiLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBh6BAgeEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=target+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Tower",
+      "link": "https://www.google.com/search?gl=us&q=tower+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAEYASpkYW1kIHJ5emVuIDkgOTk1MHgzZCAxNiBjb3JlIHByb2Nlc3NvciBjcHUgYm9vc3RfY2xvY2sgbWVtb3J5X3R5cGVzIHBjaWVfdmVyc2lvbiBzb2NrZXQgdGRwX3cgdGhyZWFkczIVCAESBVRvd2VyOgoIg9c9EITXPTACWIurIGAB&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBl6BAgeEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=tower+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    },
+    {
+      "query": "4.7 – 5.7 GHz",
+      "link": "https://www.google.com/search?gl=us&q=4.7+ghz+to+5.7+ghz+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&hl=en&shoprs=CAESGioYCOmIPhISCQAAAAAAXLJAEQAAAAAARLZAGAEqZGFtZCByeXplbiA5IDk5NTB4M2QgMTYgY29yZSBwcm9jZXNzb3IgY3B1IGJvb3N0X2Nsb2NrIG1lbW9yeV90eXBlcyBwY2llX3ZlcnNpb24gc29ja2V0IHRkcF93IHRocmVhZHMyUQgBEg80Ljcg4oCTIDUuNyBHSHoiGioYCOmIPhISCQAAAAAAXLJAEQAAAAAARLZAKhYKEjQuNyBHSHogdG8gNS43IEdIehgBOggI6Yg-EAAwBliLqyBgAQ&sa=X&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQip4GKBp6BAgeEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4.7+ghz+to+5.7+ghz+amd+ryzen+9+9950x3d+16+core+processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=10&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8NMDegQIYhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=10&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAE",
+      "3": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=20&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAG",
+      "4": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=30&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAI",
+      "5": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=40&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAK",
+      "6": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=50&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAM",
+      "7": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=60&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAO",
+      "8": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=70&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAQ",
+      "9": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=80&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAS",
+      "10": "https://www.google.com/search?q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&sca_esv=2d9f9570ab85a86e&gl=us&hl=en&ei=AHpfasjQF5PS5NoP0tPuyQI&start=90&sa=N&sstk=AU9db-CsbgkF5ZXBpuTFzRYbLgEexLYWQczvQLnFXzaI4fEMWaibYn0kVOiCyVT33D4K1PBlCn0Asn28y0FxG4urUNZEKGWUE_ogPg&ved=2ahUKEwjI0OHa9eOVAxUTKVkFHdKpOykQ8tMDegQIYhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AMD+Ryzen+9+9950X3D+16-Core+Processor+cpu+boost_clock+memory_types+pcie_version+socket+tdp_w+threads&start=90"
+    }
+  }
+}
