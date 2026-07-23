@@ -88,6 +88,17 @@ async def stream_recommendation(
                 yield _sse("status", task_status)
                 previous = serialized
             if task_status["status"] in terminal:
+                assistant_message = str(
+                    task_status.get("assistant_message") or ""
+                ).strip()
+                if (
+                    assistant_message
+                    and task_status.get("response_kind") != "recommendation"
+                ):
+                    yield _sse(
+                        "answer",
+                        {"kind": "message", "content": assistant_message},
+                    )
                 result = service.get_result(task_id)
                 if result is not None:
                     for chunk in _result_chunks(result):
