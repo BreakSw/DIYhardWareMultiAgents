@@ -12,8 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BreakSw/DIYhardWareMultiAgents/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/BreakSw/DIYhardWareMultiAgents?style=social"></a>
-  <a href="https://github.com/BreakSw/DIYhardWareMultiAgents/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/BreakSw/DIYhardWareMultiAgents?style=social"></a>
   <a href="https://github.com/BreakSw/DIYhardWareMultiAgents/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/BreakSw/DIYhardWareMultiAgents"></a>
 </p>
 

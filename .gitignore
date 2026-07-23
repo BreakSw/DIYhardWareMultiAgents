@@ -13,3 +13,10 @@ backend/.pytest_cache/
 Thumbs.db
 .idea/
 .vscode/
+
+# Local product drafts and source documents
+agent(1).docx
+产品文档.md
+完善版提示词.md
+接口文档.md
+架构审查与改进建议.md
