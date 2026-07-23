@@ -191,6 +191,7 @@ class OffTopicWorkflowBrain:
                     "request_type": "off_topic",
                     "confidence": 0.99,
                     "reason": "与装机无关",
+                    "assistant_reply": "这个问题不在我的装机专长内，我们可以聊聊电脑硬件选型。",
                 }
             )
         raise AssertionError(f"unexpected downstream AI call: {agent_name}")
@@ -210,9 +211,11 @@ def test_off_topic_request_stops_after_llm_intent_decision() -> None:
     service.run_task(created["task_id"])
     task = service.tasks.get(created["task_id"])
 
-    assert task["status"] == "needs_clarification"
+    assert task["status"] == "completed"
+    assert task["response_kind"] == "off_topic"
+    assert "硬件选型" in task["assistant_message"]
     assert brain.calls == ["SupervisorAgent", "IntentClassificationAgent"]
-    assert "电脑装机" in task["follow_up_questions"][0]
+    assert task["follow_up_questions"] == []
     assert [run["status"] for run in task["agent_runs"]] == [
         "completed",
         "completed",

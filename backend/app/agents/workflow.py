@@ -98,7 +98,10 @@ class LangGraphWorkflow:
 
     def _supervisor_node(self, state: AgentState) -> dict[str, Any]:
         state = self._start(state, SupervisorAgent.name, "AI 监督员审阅任务并启动编排", 5)
-        response = self.supervisor.run(state["request"].text)
+        response = self.supervisor.run(
+            state["request"].text,
+            self._conversation_context(state),
+        )
         state = self._record_ai(state, SupervisorAgent.name, response)
         if response.get("status") != "success":
             return self._ai_failure(state, SupervisorAgent.name, BudgetParsingAgent.name, response)
@@ -126,7 +129,10 @@ class LangGraphWorkflow:
             "DeepSeek semantically classifies whether the request belongs to PC building",
             10,
         )
-        response = self.intent.run(state["request"].text)
+        response = self.intent.run(
+            state["request"].text,
+            self._conversation_context(state),
+        )
         state = self._record_ai(state, IntentClassificationAgent.name, response)
         if response.get("status") != "success":
             return self._ai_failure(
@@ -160,11 +166,30 @@ class LangGraphWorkflow:
             tool_calls=["deepseek:intent_classification"],
         )
         if not decision.get("is_pc_build_request"):
-            message = "这个问题我不太了解，我们聊一些有关电脑装机、硬件选型或升级的问题吧。"
-            state["status"] = "needs_clarification"
-            state["follow_up_questions"] = [message]
+            response_kind = decision.get("request_type")
+            if response_kind not in {"casual", "off_topic"}:
+                response_kind = "off_topic"
+            message = str(decision.get("assistant_reply") or "").strip()
+            if not message:
+                failed = self._failed_response(
+                    "意图模型没有为非装机消息生成 assistant_reply"
+                )
+                return self._ai_failure(
+                    state,
+                    IntentClassificationAgent.name,
+                    BudgetParsingAgent.name,
+                    failed,
+                )
+            state["status"] = "completed"
+            state["response_kind"] = response_kind
+            state["assistant_message"] = message
+            state["follow_up_questions"] = []
             state["route"] = "stop"
-            return self._skip_remaining(state, BudgetParsingAgent.name, "题外问题，工作流已停止")
+            return self._skip_remaining(
+                state,
+                BudgetParsingAgent.name,
+                f"{response_kind} 消息已由意图模型直接回复",
+            )
 
         state["route"] = "continue"
         return state
@@ -231,6 +256,26 @@ class LangGraphWorkflow:
             return self._skip_remaining(state, SearchAndKnowledgeAgent.name, profile.impossible_reason)
         if questions:
             state["status"] = "needs_clarification"
+            partial_answer = str(
+                response.get("result", {}).get("partial_answer")
+                or response.get("result", {}).get("summary")
+                or ""
+            ).strip()
+            if not partial_answer:
+                failed = self._failed_response(
+                    "需求模型没有为澄清分支生成 partial_answer"
+                )
+                return self._ai_failure(
+                    state,
+                    RequirementAgent.name,
+                    SearchAndKnowledgeAgent.name,
+                    failed,
+                )
+            question_text = "\n".join(f"- {question}" for question in questions)
+            state["response_kind"] = "clarification"
+            state["assistant_message"] = (
+                f"{partial_answer}\n\n为了继续完善方案，请补充：\n{question_text}"
+            )
             state["route"] = "stop"
             state = self._finish(
                 state,
@@ -442,6 +487,10 @@ class LangGraphWorkflow:
         result["provenance"]["llm"]["agent_call_count"] = len(state["ai_calls"])
         state["result"] = result
         state["status"] = "completed"
+        state["response_kind"] = "recommendation"
+        state["assistant_message"] = str(
+            response.get("result", {}).get("summary") or ""
+        ).strip()
         state["route"] = "stop"
         return self._finish(
             state,
@@ -477,6 +526,8 @@ class LangGraphWorkflow:
     ) -> AgentState:
         error = response.get("error") or "DeepSeek 调用失败"
         state["status"] = "degraded"
+        state["response_kind"] = "error"
+        state["assistant_message"] = ""
         state["route"] = "stop"
         state["degraded_reason"] = f"{name} AI 调用失败：{error}"
         state = self._finish(
@@ -599,6 +650,8 @@ class LangGraphWorkflow:
                     "progress": state.get("progress", existing.get("progress", 0)),
                     "current_agent": state.get("current_agent"),
                     "degraded_reason": state.get("degraded_reason"),
+                    "response_kind": state.get("response_kind", ""),
+                    "assistant_message": state.get("assistant_message", ""),
                     "follow_up_questions": state.get("follow_up_questions", []),
                     "agent_runs": copy.deepcopy(state["agent_runs"]),
                     "ai_usage": copy.deepcopy(state.get("ai_usage", {})),
@@ -607,3 +660,10 @@ class LangGraphWorkflow:
             if state.get("result") is not None:
                 existing["result"] = copy.deepcopy(state["result"])
             self.tasks.save(state["task_id"], existing)
+
+    @staticmethod
+    def _conversation_context(state: AgentState) -> list[dict[str, str]]:
+        return [
+            message.model_dump()
+            for message in state["request"].context_messages
+        ]

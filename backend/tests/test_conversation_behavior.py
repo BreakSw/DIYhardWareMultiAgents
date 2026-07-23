@@ -7,8 +7,10 @@ from app.agents.budget_parsing import BudgetParsingAgent
 from app.agents.intent_classification import IntentClassificationAgent
 from app.agents.requirement import RequirementAgent
 from app.agents.supervisor import SupervisorAgent
+from app.repositories.catalog import InMemoryCatalogRepository, InMemoryTaskRepository
 from app.schemas import recommendations
 from app.services.llm_client import IntentClassification, RequirementAnalysis
+from app.services.recommender import RecommendationService
 from app.services.requirement_parser import RequirementParser
 
 
@@ -218,3 +220,143 @@ def test_requirement_agent_receives_context_and_keeps_partial_answer() -> None:
         {"role": "user", "content": "主要玩 2K 游戏"}
     ]
     assert response["result"]["partial_answer"] == "预算明确后可以继续完成具体配置。"
+
+
+class ConversationWorkflowBrain:
+    def __init__(self, mode: str) -> None:
+        self.mode = mode
+        self.calls: list[str] = []
+        self.payloads: list[dict] = []
+
+    def invoke_agent(self, agent_name, payload, response_model):
+        self.calls.append(agent_name)
+        self.payloads.append(payload)
+        if agent_name == "SupervisorAgent":
+            return _success({"summary": "开始编排", "observations": []})
+        if agent_name == "IntentClassificationAgent":
+            if self.mode == "casual":
+                return _success(
+                    {
+                        "is_pc_build_request": False,
+                        "request_type": "casual",
+                        "confidence": 0.99,
+                        "reason": "用户在友好问候",
+                        "assistant_reply": "你好呀，很高兴见到你。最近想装一台什么用途的电脑？",
+                    }
+                )
+            if self.mode == "off_topic":
+                return _success(
+                    {
+                        "is_pc_build_request": False,
+                        "request_type": "off_topic",
+                        "confidence": 0.98,
+                        "reason": "请求与电脑装机无关",
+                        "assistant_reply": "这个问题不在我的装机专长内，不过我很乐意帮你聊硬件选型或电脑升级。",
+                    }
+                )
+            return _success(
+                {
+                    "is_pc_build_request": True,
+                    "request_type": "pc_build",
+                    "confidence": 0.98,
+                    "reason": "用户希望配置电脑",
+                    "assistant_reply": "",
+                }
+            )
+        if agent_name == "BudgetParsingAgent":
+            return _success({"summary": "预算证据有效", "observations": []})
+        if agent_name == "RequirementAgent":
+            return _success(
+                {
+                    "summary": "预算明确但用途缺失",
+                    "usage": "综合使用",
+                    "usage_explicit": False,
+                    "needs_clarification": True,
+                    "missing_fields": ["usage"],
+                    "questions": ["这台电脑主要用于游戏、剪辑、AI 还是办公？"],
+                    "partial_answer": "一万元预算可以先按中高端主机规划，并为显卡保留主要投入。",
+                    "confidence": 0.93,
+                }
+            )
+        raise AssertionError(f"unexpected downstream AI call: {agent_name}")
+
+
+class NeverCalledRetriever:
+    def retrieve(self, query: str, *, top_k: int | None = None) -> dict:
+        raise AssertionError("RAG must not run for conversational terminal branches")
+
+
+class NeverCalledSearch:
+    is_configured = False
+
+    def search_hardware(self, profile, query=None) -> dict:
+        raise AssertionError("web search must not run for conversational terminal branches")
+
+
+def _run_conversation_workflow(
+    mode: str,
+    text: str,
+    context_messages: list[dict[str, str]] | None = None,
+) -> tuple[dict, ConversationWorkflowBrain]:
+    brain = ConversationWorkflowBrain(mode)
+    tasks = InMemoryTaskRepository()
+    service = RecommendationService(
+        InMemoryCatalogRepository(),
+        tasks,
+        search_client=NeverCalledSearch(),
+        llm_client=brain,
+        rag_retriever=NeverCalledRetriever(),
+    )
+    created = service.create_task(
+        recommendations.RecommendationRequest(
+            text=text,
+            context_messages=context_messages or [],
+        )
+    )
+    service.run_task(created["task_id"])
+    task = tasks.get(created["task_id"])
+    assert task is not None
+    return task, brain
+
+
+def test_casual_message_completes_with_llm_reply_and_skips_build_nodes() -> None:
+    task, brain = _run_conversation_workflow("casual", "你好，今天辛苦啦")
+
+    assert task["status"] == "completed"
+    assert task["response_kind"] == "casual"
+    assert "电脑" in task["assistant_message"]
+    assert brain.calls == ["SupervisorAgent", "IntentClassificationAgent"]
+    assert [run["status"] for run in task["agent_runs"]][2:] == ["skipped"] * 6
+
+
+def test_off_topic_message_uses_llm_reply_without_calling_build_tools() -> None:
+    task, brain = _run_conversation_workflow("off_topic", "帮我写一首诗")
+
+    assert task["status"] == "completed"
+    assert task["response_kind"] == "off_topic"
+    assert "硬件" in task["assistant_message"]
+    assert brain.calls == ["SupervisorAgent", "IntentClassificationAgent"]
+
+
+def test_incomplete_build_answers_known_requirements_before_questions() -> None:
+    task, brain = _run_conversation_workflow(
+        "clarification",
+        "预算一万元，想配电脑",
+        context_messages=[{"role": "user", "content": "我只需要主机"}],
+    )
+
+    assert task["status"] == "needs_clarification"
+    assert task["response_kind"] == "clarification"
+    assert "一万元预算" in task["assistant_message"]
+    assert "主要用于" in task["assistant_message"]
+    assert task["follow_up_questions"] == [
+        "这台电脑主要用于游戏、剪辑、AI 还是办公？"
+    ]
+    assert brain.calls == [
+        "SupervisorAgent",
+        "IntentClassificationAgent",
+        "BudgetParsingAgent",
+        "BudgetParsingAgent",
+        "RequirementAgent",
+    ]
+    assert [run["status"] for run in task["agent_runs"]][4:] == ["skipped"] * 4

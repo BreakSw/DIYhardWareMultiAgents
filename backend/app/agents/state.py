@@ -31,6 +31,8 @@ class AgentState(TypedDict, total=False):
     agent_runs: list[dict[str, Any]]
     follow_up_questions: list[str]
     degraded_reason: str | None
+    response_kind: str
+    assistant_message: str
     selection_attempts: int
     revision_feedback: str | None
     route: str

@@ -76,5 +76,7 @@ class TaskStatus(BaseModel):
     progress: int
     current_agent: Optional[str] = None
     degraded_reason: Optional[str] = None
+    response_kind: str = ""
+    assistant_message: str = ""
     follow_up_questions: list[str] = Field(default_factory=list)
     agent_runs: list[dict[str, Any]] = Field(default_factory=list)
