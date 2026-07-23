@@ -15,12 +15,18 @@ class BudgetParsingAgent:
         self.brain = brain
 
     def run(self, request: RecommendationRequest) -> tuple[RequirementProfile, list[dict[str, Any]], list[dict[str, Any]]]:
+        budget_source = self._budget_source(request)
+        conversation_context = [
+            message.model_dump() for message in request.context_messages
+        ]
         planner = self.brain.invoke_agent(
             self.name,
             {
                 "phase": "plan",
                 "task": "定位预算证据，判断是精确值、区间、上限还是下限。不得凭空补充价格上限。",
                 "user_text": request.text,
+                "budget_source": budget_source,
+                "conversation_context": conversation_context,
                 "available_tools": [
                     "parse_budget_constraint",
                     "normalize_budget_unit",
@@ -30,7 +36,7 @@ class BudgetParsingAgent:
             AgentInsight,
         )
 
-        profile = self.parser.parse(request.text)
+        profile = self.parser.parse(budget_source)
         if request.budget is not None:
             profile.budget = request.budget
             profile.budget_min = request.budget
@@ -42,7 +48,7 @@ class BudgetParsingAgent:
         tool_event = {
             "phase": "tool",
             "name": "parse_budget_constraint",
-            "input": {"text_excerpt": request.text[:160]},
+            "input": {"text_excerpt": budget_source[:160]},
             "output": {
                 "budget_mode": profile.budget_mode,
                 "budget_min": profile.budget_min,
@@ -60,6 +66,8 @@ class BudgetParsingAgent:
                 "phase": "reflection",
                 "task": "核对工具结果是否被原文证据直接支持。不得修改工具数值，只报告歧义或风险。",
                 "user_text": request.text,
+                "budget_source": budget_source,
+                "conversation_context": conversation_context,
                 "tool_result": tool_event["output"],
             },
             AgentInsight,
@@ -70,6 +78,18 @@ class BudgetParsingAgent:
             self._ai_event("reflection", reflection, "AI 复核预算证据与边界"),
         ]
         return profile, events, [planner, reflection]
+
+    def _budget_source(self, request: RecommendationRequest) -> str:
+        current = self.parser.parse(request.text)
+        if current.budget_explicit or request.budget is not None:
+            return request.text
+        for message in reversed(request.context_messages):
+            if message.role != "user":
+                continue
+            historical = self.parser.parse(message.content)
+            if historical.budget_explicit:
+                return message.content
+        return request.text
 
     @staticmethod
     def _ai_event(phase: str, response: dict[str, Any], summary: str) -> dict[str, Any]:

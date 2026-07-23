@@ -35,6 +35,9 @@ class RequirementAgent:
                     "Ask only when missing information would materially change the build."
                 ),
                 "user_text": request.text,
+                "conversation_context": [
+                    message.model_dump() for message in request.context_messages
+                ],
                 "budget_handoff": {
                     "mode": profile.budget_mode,
                     "minimum": profile.budget_min,
@@ -47,6 +50,12 @@ class RequirementAgent:
                     "merge_semantic_requirements",
                     "validate_requirement_completeness",
                 ],
+                "response_policy": (
+                    "When clarification is needed, partial_answer must first summarize confirmed "
+                    "requirements and provide safe directional advice, then questions must ask only "
+                    "for missing information that materially changes the build. Do not fabricate "
+                    "a purchasable part list or current prices in partial_answer."
+                ),
             },
             RequirementAnalysis,
         )

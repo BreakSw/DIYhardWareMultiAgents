@@ -11,12 +11,17 @@ class SupervisorAgent:
     def __init__(self, brain: Any) -> None:
         self.brain = brain
 
-    def run(self, user_text: str) -> dict[str, Any]:
+    def run(
+        self,
+        user_text: str,
+        context: list[dict[str, str]] | None = None,
+    ) -> dict[str, Any]:
         return self.brain.invoke_agent(
             self.name,
             {
                 "task": "审阅用户装机请求，概括目标并指出编排关注点。不要修改预算。",
                 "user_text": user_text,
+                "conversation_context": context or [],
             },
             AgentInsight,
         )
