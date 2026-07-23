@@ -168,6 +168,48 @@ def test_supervisor_and_intent_receive_conversation_context() -> None:
     assert brain.payloads[1][1]["conversation_context"] == context
 
 
+class InconsistentIntentBrain:
+    def __init__(self) -> None:
+        self.payloads: list[dict] = []
+
+    def invoke_agent(self, agent_name, payload, response_model):
+        self.payloads.append(payload)
+        if len(self.payloads) == 1:
+            return _success(
+                {
+                    "is_pc_build_request": False,
+                    "request_type": "pc_upgrade",
+                    "confidence": 0.61,
+                    "reason": "The current message concerns an existing GPU.",
+                    "assistant_reply": "",
+                }
+            )
+        return _success(
+            {
+                "is_pc_build_request": True,
+                "request_type": "pc_upgrade",
+                "confidence": 0.96,
+                "reason": "The latest message asks to complete a PC around an owned GPU.",
+                "assistant_reply": "",
+            }
+        )
+
+
+def test_intent_agent_reflects_on_an_internally_inconsistent_decision() -> None:
+    brain = InconsistentIntentBrain()
+
+    response = IntentClassificationAgent(brain).run(
+        "我已经有 RTX 4070，预算还没想好。",
+        [{"role": "assistant", "content": "你好，想聊聊装机吗？"}],
+    )
+
+    assert response["result"]["is_pc_build_request"] is True
+    assert response["result"]["request_type"] == "pc_upgrade"
+    assert len(brain.payloads) == 2
+    assert brain.payloads[1]["previous_decision"]["request_type"] == "pc_upgrade"
+    assert len(response["attempt_responses"]) == 2
+
+
 def test_current_budget_correction_wins_over_historical_budget() -> None:
     request = recommendations.RecommendationRequest(
         text="不是八千，改成一万元",
@@ -220,6 +262,53 @@ def test_requirement_agent_receives_context_and_keeps_partial_answer() -> None:
         {"role": "user", "content": "主要玩 2K 游戏"}
     ]
     assert response["result"]["partial_answer"] == "预算明确后可以继续完成具体配置。"
+
+
+class HallucinatedBudgetRequirementBrain:
+    def __init__(self) -> None:
+        self.payloads: list[dict] = []
+
+    def invoke_agent(self, agent_name, payload, response_model):
+        self.payloads.append(payload)
+        common = {
+            "summary": "用户已有 RTX 4070，但尚未确定整机预算。",
+            "usage": "游戏",
+            "usage_explicit": False,
+            "owned_parts": {"gpu": "RTX 4070"},
+            "needs_clarification": True,
+            "missing_fields": ["budget", "usage"],
+            "questions": ["请补充预算和主要用途。"],
+            "confidence": 0.9,
+        }
+        if len(self.payloads) == 1:
+            return _success(
+                {
+                    **common,
+                    "partial_answer": "你已有 RTX 4070，其余预算 6000 元可以搭配均衡配置。",
+                }
+            )
+        return _success(
+            {
+                **common,
+                "partial_answer": "你已有 RTX 4070，可以围绕它补齐其余部件；具体档次需要结合预算和用途确定。",
+            }
+        )
+
+
+def test_requirement_agent_reflects_when_unknown_budget_is_fabricated() -> None:
+    brain = HallucinatedBudgetRequirementBrain()
+    request = recommendations.RecommendationRequest(
+        text="我已经有 RTX 4070，预算还没想好。"
+    )
+    profile = RequirementParser().parse(request.text)
+
+    _, _, response = RequirementAgent(RequirementParser(), brain).run(request, profile)
+
+    assert profile.budget_explicit is False
+    assert len(brain.payloads) == 2
+    assert brain.payloads[1]["phase"] == "reflection"
+    assert "6000" not in response["result"]["partial_answer"]
+    assert len(response["attempt_responses"]) == 2
 
 
 class ConversationWorkflowBrain:

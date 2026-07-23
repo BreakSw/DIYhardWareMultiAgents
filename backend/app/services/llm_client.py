@@ -158,14 +158,17 @@ class DeepSeekClient:
 
     @staticmethod
     def _build_model() -> ChatOpenAI:
-        client = httpx.Client(trust_env=False, timeout=75.0)
+        client = httpx.Client(
+            trust_env=False,
+            timeout=float(settings.model_timeout),
+        )
         return ChatOpenAI(
             model=settings.model_name,
             api_key=settings.model_api_key,
             base_url=settings.model_base_url.rstrip("/"),
             temperature=0.2,
             max_tokens=3000,
-            timeout=75.0,
+            timeout=float(settings.model_timeout),
             max_retries=1,
             http_client=client,
         )

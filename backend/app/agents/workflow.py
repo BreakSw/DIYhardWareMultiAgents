@@ -133,7 +133,13 @@ class LangGraphWorkflow:
             state["request"].text,
             self._conversation_context(state),
         )
-        state = self._record_ai(state, IntentClassificationAgent.name, response)
+        attempt_responses = response.get("attempt_responses") or [response]
+        for attempt_response in attempt_responses:
+            state = self._record_ai(
+                state,
+                IntentClassificationAgent.name,
+                attempt_response,
+            )
         if response.get("status") != "success":
             return self._ai_failure(
                 state,
@@ -144,7 +150,7 @@ class LangGraphWorkflow:
 
         decision = copy.deepcopy(response.get("result", {}))
         state["intent_classification"] = decision
-        self._run(state, IntentClassificationAgent.name)["events"] = [
+        events = [
             {
                 "phase": "classify",
                 "name": "deepseek",
@@ -154,6 +160,16 @@ class LangGraphWorkflow:
                 "in_scope": decision.get("is_pc_build_request"),
             }
         ]
+        if len(attempt_responses) > 1:
+            events.insert(
+                0,
+                {
+                    "phase": "reflection",
+                    "name": "deepseek",
+                    "summary": "The first intent decision was internally inconsistent and was re-evaluated.",
+                },
+            )
+        self._run(state, IntentClassificationAgent.name)["events"] = events
         state = self._finish(
             state,
             IntentClassificationAgent.name,
@@ -163,7 +179,8 @@ class LangGraphWorkflow:
                 f"in_scope={bool(decision.get('is_pc_build_request'))}, "
                 f"confidence={decision.get('confidence', 0)}"
             ),
-            tool_calls=["deepseek:intent_classification"],
+            tool_calls=["deepseek:intent_classification"] * len(attempt_responses),
+            iterations=len(attempt_responses),
         )
         if not decision.get("is_pc_build_request"):
             response_kind = decision.get("request_type")
@@ -235,7 +252,13 @@ class LangGraphWorkflow:
         )
         state["profile"] = profile
         state["follow_up_questions"] = questions
-        state = self._record_ai(state, RequirementAgent.name, response)
+        attempt_responses = response.get("attempt_responses") or [response]
+        for attempt_response in attempt_responses:
+            state = self._record_ai(
+                state,
+                RequirementAgent.name,
+                attempt_response,
+            )
         if response.get("events"):
             self._run(state, RequirementAgent.name)["events"] = copy.deepcopy(
                 response["events"]
@@ -251,7 +274,11 @@ class LangGraphWorkflow:
                 RequirementAgent.name,
                 "completed",
                 profile.impossible_reason,
-                tool_calls=["deepseek:requirement", "deterministic_requirement_parser"],
+                tool_calls=[
+                    *(["deepseek:requirement"] * len(attempt_responses)),
+                    "deterministic_requirement_parser",
+                ],
+                iterations=len(attempt_responses),
             )
             return self._skip_remaining(state, SearchAndKnowledgeAgent.name, profile.impossible_reason)
         if questions:
@@ -282,7 +309,11 @@ class LangGraphWorkflow:
                 RequirementAgent.name,
                 "completed",
                 "需要用户补充关键信息",
-                tool_calls=["deepseek:requirement", "deterministic_requirement_parser"],
+                tool_calls=[
+                    *(["deepseek:requirement"] * len(attempt_responses)),
+                    "deterministic_requirement_parser",
+                ],
+                iterations=len(attempt_responses),
             )
             return self._skip_remaining(state, SearchAndKnowledgeAgent.name, "等待用户补充需求")
         state["route"] = "continue"
@@ -291,7 +322,11 @@ class LangGraphWorkflow:
             RequirementAgent.name,
             "completed",
             f"预算 {profile.budget_min}-{profile.budget_max} 元，目标 {profile.budget} 元",
-            tool_calls=["deepseek:requirement", "deterministic_requirement_parser"],
+            tool_calls=[
+                *(["deepseek:requirement"] * len(attempt_responses)),
+                "deterministic_requirement_parser",
+            ],
+            iterations=len(attempt_responses),
         )
 
     def _search_node(self, state: AgentState) -> dict[str, Any]:

@@ -22,47 +22,46 @@ class RequirementAgent:
         profile: RequirementProfile | None = None,
     ) -> tuple[RequirementProfile, list[str], dict[str, Any]]:
         profile = profile or self.parser.parse(request.text)
-        response = self.brain.invoke_agent(
-            self.name,
-            {
-                "phase": "plan",
-                "task": (
-                    "Understand the user's semantic PC requirements. Recognize any game, "
-                    "software, workload, brand, existing component, peripheral scope, form "
-                    "factor, noise, appearance, performance preference, and whether the user "
-                    "explicitly allows spending below the budget floor from meaning, not "
-                    "from a fixed title whitelist. Treat the budget handoff as immutable. "
-                    "Ask only when missing information would materially change the build."
-                ),
-                "user_text": request.text,
-                "conversation_context": [
-                    message.model_dump() for message in request.context_messages
-                ],
-                "budget_handoff": {
-                    "mode": profile.budget_mode,
-                    "minimum": profile.budget_min,
-                    "maximum": profile.budget_max,
-                    "target": profile.budget,
-                    "evidence": profile.budget_evidence,
-                    "explicit": profile.budget_explicit,
-                },
-                "available_tools": [
-                    "merge_semantic_requirements",
-                    "validate_requirement_completeness",
-                ],
-                "response_policy": (
-                    "When clarification is needed, partial_answer must first summarize confirmed "
-                    "requirements and provide safe directional advice, then questions must ask only "
-                    "for missing information that materially changes the build. Do not fabricate "
-                    "a purchasable part list or current prices in partial_answer."
-                ),
-            },
-            RequirementAnalysis,
-        )
+        payload = self._analysis_payload(request, profile)
+        response = self.brain.invoke_agent(self.name, payload, RequirementAnalysis)
+        attempts = [response]
         if response.get("status") != "success":
+            response["attempt_responses"] = attempts
             return profile, [], response
 
         analysis = RequirementAnalysis.model_validate(response.get("result", {}))
+        if self._fabricates_unknown_budget(profile, analysis):
+            response = self.brain.invoke_agent(
+                self.name,
+                {
+                    **payload,
+                    "phase": "reflection",
+                    "task": (
+                        "Correct the previous analysis. The deterministic budget tool found no "
+                        "user-provided budget, so partial_answer must not state or imply any "
+                        "specific remaining or total budget. Preserve confirmed requirements and "
+                        "ask for the missing budget."
+                    ),
+                    "previous_analysis": analysis.model_dump(),
+                    "validation_error": "partial_answer fabricated a budget amount",
+                },
+                RequirementAnalysis,
+            )
+            attempts.append(response)
+            if response.get("status") != "success":
+                response["attempt_responses"] = attempts
+                return profile, [], response
+            analysis = RequirementAnalysis.model_validate(response.get("result", {}))
+            if self._fabricates_unknown_budget(profile, analysis):
+                response = {
+                    **response,
+                    "status": "failed",
+                    "error": "需求模型在预算未知时生成了没有依据的预算金额",
+                    "attempt_responses": attempts,
+                }
+                return profile, [], response
+
+        response["attempt_responses"] = attempts
         self._merge_semantic_requirements(profile, request, analysis)
         questions = self._validate_completeness(profile, request, analysis)
         response["events"] = [
@@ -92,6 +91,61 @@ class RequirementAgent:
             },
         ]
         return profile, questions, response
+
+    def _analysis_payload(
+        self,
+        request: RecommendationRequest,
+        profile: RequirementProfile,
+    ) -> dict[str, Any]:
+        budget_values = {
+            "minimum": profile.budget_min,
+            "maximum": profile.budget_max,
+            "target": profile.budget,
+        }
+        if not profile.budget_explicit:
+            budget_values = {"minimum": None, "maximum": None, "target": None}
+        return {
+            "phase": "plan",
+            "task": (
+                "Understand the user's semantic PC requirements. Recognize any game, "
+                "software, workload, brand, existing component, peripheral scope, form "
+                "factor, noise, appearance, performance preference, and whether the user "
+                "explicitly allows spending below the budget floor from meaning, not "
+                "from a fixed title whitelist. Treat the budget handoff as immutable. "
+                "Ask only when missing information would materially change the build."
+            ),
+            "user_text": request.text,
+            "conversation_context": [
+                message.model_dump() for message in request.context_messages
+            ],
+            "budget_handoff": {
+                "mode": profile.budget_mode if profile.budget_explicit else "unknown",
+                **budget_values,
+                "evidence": profile.budget_evidence,
+                "explicit": profile.budget_explicit,
+            },
+            "available_tools": [
+                "merge_semantic_requirements",
+                "validate_requirement_completeness",
+            ],
+            "response_policy": (
+                "When clarification is needed, partial_answer must first summarize confirmed "
+                "requirements and provide safe directional advice, then questions must ask only "
+                "for missing information that materially changes the build. Do not fabricate "
+                "a purchasable part list, current prices, or any budget amount. If "
+                "budget_handoff.explicit is false, all budget values are unknown and no hidden "
+                "default may be mentioned or used."
+            ),
+        }
+
+    def _fabricates_unknown_budget(
+        self,
+        profile: RequirementProfile,
+        analysis: RequirementAnalysis,
+    ) -> bool:
+        if profile.budget_explicit or not analysis.partial_answer.strip():
+            return False
+        return self.parser.parse_budget_constraint(analysis.partial_answer)[2]
 
     @staticmethod
     def _merge_semantic_requirements(
